@@ -4,7 +4,7 @@ import pickle
 import glob
 import os
 
-files_path = glob.glob('/Users/Shouman/Downloads/Data/Rupam_MachineLearning/Ted_data/TED_meta/*.pkl')
+files_path = glob.glob('/Users/Shouman/TedTalkTDA/Data/transcript_meta/TED_meta/*.pkl')
 
 def find_text(file):
 	
@@ -25,4 +25,4 @@ def find_text(file):
 
 for File in files_path:
 	find_text(File)
-	
+
