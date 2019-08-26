@@ -1,0 +1,667 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VGood morning.
+p4
+aVI'm here today to talk about autonomous flying beach balls.
+p5
+aa(lp6
+V(Laughter)
+p7
+aa(lp8
+VNo, agile aerial robots like this one.
+p9
+aVI'd like to tell you a little bit about the challenges in building these,
+p10
+aVand some of the terrific opportunities for applying this technology.
+p11
+aVSo these robots are related to unmanned aerial vehicles.
+p12
+aVHowever, the vehicles you see here are big.
+p13
+aVThey weigh thousands of pounds, are not by any means agile.
+p14
+aVThey're not even autonomous.
+p15
+aVIn fact, many of these vehicles are operated by flight crews
+p16
+aVthat can include multiple pilots,
+p17
+aVoperators of sensors,
+p18
+aVand mission coordinators.
+p19
+aa(lp20
+VWhat we're interested in is developing robots like this \u2014
+p21
+aVand here are two other pictures \u2014
+p22
+aVof robots that you can buy off the shelf.
+p23
+aVSo these are helicopters with four rotors,
+p24
+aVand they're roughly a meter or so in scale,
+p25
+aVand weigh several pounds.
+p26
+aVAnd so we retrofit these with sensors and processors,
+p27
+aVand these robots can fly indoors.
+p28
+aVWithout GPS.
+p29
+aa(lp30
+VThe robot I'm holding in my hand
+p31
+aVis this one,
+p32
+aVand it's been created by two students,
+p33
+aVAlex and Daniel.
+p34
+aVSo this weighs a little more than a tenth of a pound.
+p35
+aVIt consumes about 15 watts of power.
+p36
+aVAnd as you can see, it's about eight inches in diameter.
+p37
+aVSo let me give you just a very quick tutorial
+p38
+aVon how these robots work.
+p39
+aa(lp40
+VSo it has four rotors.
+p41
+aVIf you spin these rotors at the same speed,
+p42
+aVthe robot hovers.
+p43
+aVIf you increase the speed of each of these rotors,
+p44
+aVthen the robot flies up, it accelerates up.
+p45
+aVOf course, if the robot were tilted,
+p46
+aVinclined to the horizontal,
+p47
+aVthen it would accelerate in this direction.
+p48
+aVSo to get it to tilt,
+p49
+aVthere's one of two ways of doing it.
+p50
+aVSo in this picture, you see that rotor four is spinning faster
+p51
+aVand rotor two is spinning slower.
+p52
+aVAnd when that happens,
+p53
+aVthere's a moment that causes this robot to roll.
+p54
+aVAnd the other way around,
+p55
+aVif you increase the speed of rotor three and decrease the speed of rotor one,
+p56
+aVthen the robot pitches forward.
+p57
+aa(lp58
+VAnd then finally,
+p59
+aVif you spin opposite pairs of rotors
+p60
+aVfaster than the other pair,
+p61
+aVthen the robot yaws about the vertical axis.
+p62
+aVSo an on-board processor
+p63
+aVessentially looks at what motions need to be executed
+p64
+aVand combines these motions,
+p65
+aVand figures out what commands to send to the motors \u2014
+p66
+aV600 times a second.
+p67
+aVThat's basically how this thing operates.
+p68
+aa(lp69
+VSo one of the advantages of this design
+p70
+aVis when you scale things down,
+p71
+aVthe robot naturally becomes agile.
+p72
+aVSo here, R is the characteristic length of the robot.
+p73
+aVIt's actually half the diameter.
+p74
+aVAnd there are lots of physical parameters that change as you reduce R.
+p75
+aVThe one that's most important is the inertia,
+p76
+aVor the resistance to motion.
+p77
+aVSo it turns out the inertia, which governs angular motion,
+p78
+aVscales as a fifth power of R.
+p79
+aVSo the smaller you make R,
+p80
+aVthe more dramatically the inertia reduces.
+p81
+aVSo as a result, the angular acceleration,
+p82
+aVdenoted by the Greek letter alpha here,
+p83
+aVgoes as 1 over R.
+p84
+aVIt's inversely proportional to R.
+p85
+aVThe smaller you make it, the more quickly you can turn.
+p86
+aa(lp87
+VSo this should be clear in these videos.
+p88
+aVOn the bottom right, you see a robot performing a 360-degree flip
+p89
+aVin less than half a second.
+p90
+aVMultiple flips, a little more time.
+p91
+aVSo here the processes on board
+p92
+aVare getting feedback from accelerometers and gyros on board,
+p93
+aVand calculating, like I said before,
+p94
+aVcommands at 600 times a second,
+p95
+aVto stabilize this robot.
+p96
+aVSo on the left, you see Daniel throwing this robot up into the air,
+p97
+aVand it shows you how robust the control is.
+p98
+aVNo matter how you throw it,
+p99
+aVthe robot recovers and comes back to him.
+p100
+aa(lp101
+VSo why build robots like this?
+p102
+aVWell, robots like this have many applications.
+p103
+aVYou can send them inside buildings like this,
+p104
+aVas first responders to look for intruders,
+p105
+aVmaybe look for biochemical leaks,
+p106
+aVgaseous leaks.
+p107
+aVYou can also use them for applications like construction.
+p108
+aVSo here are robots carrying beams, columns
+p109
+aVand assembling cube-like structures.
+p110
+aVI'll tell you a little bit more about this.
+p111
+aVThe robots can be used for transporting cargo.
+p112
+aVSo one of the problems with these small robots
+p113
+aVis their payload-carrying capacity.
+p114
+aVSo you might want to have multiple robots carry payloads.
+p115
+aVThis is a picture of a recent experiment we did \u2014
+p116
+aVactually not so recent anymore \u2014
+p117
+aVin Sendai, shortly after the earthquake.
+p118
+aVSo robots like this could be sent into collapsed buildings,
+p119
+aVto assess the damage after natural disasters,
+p120
+aVor sent into reactor buildings,
+p121
+aVto map radiation levels.
+p122
+aa(lp123
+VSo one fundamental problem that the robots have to solve
+p124
+aVif they are to be autonomous,
+p125
+aVis essentially figuring out how to get from point A to point B.
+p126
+aVSo this gets a little challenging,
+p127
+aVbecause the dynamics of this robot are quite complicated.
+p128
+aVIn fact, they live in a 12-dimensional space.
+p129
+aVSo we use a little trick.
+p130
+aVWe take this curved 12-dimensional space,
+p131
+aVand transform it into a flat, four-dimensional space.
+p132
+aVAnd that four-dimensional space consists of X, Y, Z,
+p133
+aVand then the yaw angle.
+p134
+aa(lp135
+VAnd so what the robot does,
+p136
+aVis it plans what we call a minimum-snap trajectory.
+p137
+aVSo to remind you of physics:
+p138
+aVYou have position, derivative, velocity;
+p139
+aVthen acceleration;
+p140
+aVand then comes jerk,
+p141
+aVand then comes snap.
+p142
+aVSo this robot minimizes snap.
+p143
+aVSo what that effectively does,
+p144
+aVis produce a smooth and graceful motion.
+p145
+aVAnd it does that avoiding obstacles.
+p146
+aVSo these minimum-snap trajectories in this flat space are then transformed
+p147
+aVback into this complicated 12-dimensional space,
+p148
+aVwhich the robot must do for control and then execution.
+p149
+aa(lp150
+VSo let me show you some examples
+p151
+aVof what these minimum-snap trajectories look like.
+p152
+aVAnd in the first video,
+p153
+aVyou'll see the robot going from point A to point B,
+p154
+aVthrough an intermediate point.
+p155
+aa(lp156
+V(Whirring noise)
+p157
+aa(lp158
+VSo the robot is obviously capable of executing any curve trajectory.
+p159
+aVSo these are circular trajectories,
+p160
+aVwhere the robot pulls about two G's.
+p161
+aVHere you have overhead motion capture cameras on the top
+p162
+aVthat tell the robot where it is 100 times a second.
+p163
+aVIt also tells the robot where these obstacles are.
+p164
+aVAnd the obstacles can be moving.
+p165
+aVAnd here, you'll see Daniel throw this hoop into the air,
+p166
+aVwhile the robot is calculating the position of the hoop,
+p167
+aVand trying to figure out how to best go through the hoop.
+p168
+aVSo as an academic,
+p169
+aVwe're always trained to be able to jump through hoops
+p170
+aVto raise funding for our labs,
+p171
+aVand we get our robots to do that.
+p172
+aa(lp173
+V(Applause)
+p174
+aa(lp175
+VSo another thing the robot can do
+p176
+aVis it remembers pieces of trajectory
+p177
+aVthat it learns or is pre-programmed.
+p178
+aVSo here, you see the robot combining a motion that builds up momentum,
+p179
+aVand then changes its orientation and then recovers.
+p180
+aVSo it has to do this because this gap in the window
+p181
+aVis only slightly larger than the width of the robot.
+p182
+aVSo just like a diver stands on a springboard
+p183
+aVand then jumps off it to gain momentum,
+p184
+aVand then does this pirouette, this two and a half somersault through
+p185
+aVand then gracefully recovers,
+p186
+aVthis robot is basically doing that.
+p187
+aVSo it knows how to combine little bits and pieces of trajectories
+p188
+aVto do these fairly difficult tasks.
+p189
+aa(lp190
+VSo I want change gears.
+p191
+aVSo one of the disadvantages of these small robots is its size.
+p192
+aVAnd I told you earlier
+p193
+aVthat we may want to employ lots and lots of robots
+p194
+aVto overcome the limitations of size.
+p195
+aVSo one difficulty is:
+p196
+aVHow do you coordinate lots of these robots?
+p197
+aVAnd so here, we looked to nature.
+p198
+aVSo I want to show you a clip of Aphaenogaster desert ants,
+p199
+aVin Professor Stephen Pratt's lab, carrying an object.
+p200
+aVSo this is actually a piece of fig.
+p201
+aVActually you take any object coated with fig juice,
+p202
+aVand the ants will carry it back to the nest.
+p203
+aVSo these ants don't have any central coordinator.
+p204
+aVThey sense their neighbors.
+p205
+aVThere's no explicit communication.
+p206
+aVBut because they sense the neighbors
+p207
+aVand because they sense the object,
+p208
+aVthey have implicit coordination across the group.
+p209
+aa(lp210
+VSo this is the kind of coordination we want our robots to have.
+p211
+aVSo when we have a robot which is surrounded by neighbors \u2014
+p212
+aVand let's look at robot I and robot J \u2014
+p213
+aVwhat we want the robots to do,
+p214
+aVis to monitor the separation between them,
+p215
+aVas they fly in formation.
+p216
+aVAnd then you want to make sure
+p217
+aVthat this separation is within acceptable levels.
+p218
+aVSo again, the robots monitor this error
+p219
+aVand calculate the control commands 100 times a second,
+p220
+aVwhich then translates into motor commands,
+p221
+aV600 times a second.
+p222
+aVSo this also has to be done in a decentralized way.
+p223
+aVAgain, if you have lots and lots of robots,
+p224
+aVit's impossible to coordinate all this information centrally
+p225
+aVfast enough in order for the robots to accomplish the task.
+p226
+aVPlus, the robots have to base their actions only on local information \u2014
+p227
+aVwhat they sense from their neighbors.
+p228
+aVAnd then finally,
+p229
+aVwe insist that the robots be agnostic to who their neighbors are.
+p230
+aVSo this is what we call anonymity.
+p231
+aa(lp232
+VSo what I want to show you next is a video of 20 of these little robots,
+p233
+aVflying in formation.
+p234
+aVThey're monitoring their neighbors' positions.
+p235
+aVThey're maintaining formation.
+p236
+aVThe formations can change.
+p237
+aVThey can be planar formations,
+p238
+aVthey can be three-dimensional formations.
+p239
+aVAs you can see here,
+p240
+aVthey collapse from a three-dimensional formation into planar formation.
+p241
+aVAnd to fly through obstacles,
+p242
+aVthey can adapt the formations on the fly.
+p243
+aVSo again, these robots come really close together.
+p244
+aVAs you can see in this figure-eight flight,
+p245
+aVthey come within inches of each other.
+p246
+aVAnd despite the aerodynamic interactions with these propeller blades,
+p247
+aVthey're able to maintain stable flight.
+p248
+aa(lp249
+V(Applause)
+p250
+aa(lp251
+VSo once you know how to fly in formation,
+p252
+aVyou can actually pick up objects cooperatively.
+p253
+aVSo this just shows that we can double, triple, quadruple
+p254
+aVthe robots' strength,
+p255
+aVby just getting them to team with neighbors, as you can see here.
+p256
+aVOne of the disadvantages of doing that is, as you scale things up \u2014
+p257
+aVso if you have lots of robots carrying the same thing,
+p258
+aVyou're essentially increasing the inertia,
+p259
+aVand therefore you pay a price; they're not as agile.
+p260
+aVBut you do gain in terms of payload-carrying capacity.
+p261
+aa(lp262
+VAnother application I want to show you \u2014 again, this is in our lab.
+p263
+aVThis is work done by Quentin Lindsey, who's a graduate student.
+p264
+aVSo his algorithm essentially tells these robots
+p265
+aVhow to autonomously build cubic structures
+p266
+aVfrom truss-like elements.
+p267
+aVSo his algorithm tells the robot what part to pick up,
+p268
+aVwhen, and where to place it.
+p269
+aVSo in this video you see \u2014
+p270
+aVand it's sped up 10, 14 times \u2014
+p271
+aVyou see three different structures being built by these robots.
+p272
+aVAnd again, everything is autonomous,
+p273
+aVand all Quentin has to do
+p274
+aVis to give them a blueprint of the design that he wants to build.
+p275
+aa(lp276
+VSo all these experiments you've seen thus far,
+p277
+aVall these demonstrations,
+p278
+aVhave been done with the help of motion-capture systems.
+p279
+aVSo what happens when you leave your lab,
+p280
+aVand you go outside into the real world?
+p281
+aVAnd what if there's no GPS?
+p282
+aVSo this robot is actually equipped with a camera,
+p283
+aVand a laser rangefinder, laser scanner.
+p284
+aVAnd it uses these sensors to build a map of the environment.
+p285
+aVWhat that map consists of are features \u2014
+p286
+aVlike doorways, windows, people, furniture \u2014
+p287
+aVand it then figures out where its position is,
+p288
+aVwith respect to the features.
+p289
+aVSo there is no global coordinate system.
+p290
+aVThe coordinate system is defined based on the robot,
+p291
+aVwhere it is and what it's looking at.
+p292
+aVAnd it navigates with respect to those features.
+p293
+aa(lp294
+VSo I want to show you a clip
+p295
+aVof algorithms developed by Frank Shen and Professor Nathan Michael,
+p296
+aVthat shows this robot entering a building for the very first time,
+p297
+aVand creating this map on the fly.
+p298
+aVSo the robot then figures out what the features are,
+p299
+aVit builds the map,
+p300
+aVit figures out where it is with respect to the features,
+p301
+aVand then estimates its position 100 times a second,
+p302
+aVallowing us to use the control algorithms that I described to you earlier.
+p303
+aVSo this robot is actually being commanded remotely by Frank,
+p304
+aVbut the robot can also figure out where to go on its own.
+p305
+aVSo suppose I were to send this into a building,
+p306
+aVand I had no idea what this building looked like.
+p307
+aVI can ask this robot to go in,
+p308
+aVcreate a map,
+p309
+aVand then come back and tell me what the building looks like.
+p310
+aVSo here, the robot is not only solving the problem
+p311
+aVof how to go from point A to point B in this map,
+p312
+aVbut it's figuring out what the best point B is at every time.
+p313
+aVSo essentially it knows where to go
+p314
+aVto look for places that have the least information,
+p315
+aVand that's how it populates this map.
+p316
+aa(lp317
+VSo I want to leave you with one last application.
+p318
+aVAnd there are many applications of this technology.
+p319
+aVI'm a professor, and we're passionate about education.
+p320
+aVRobots like this can really change the way we do K-12 education.
+p321
+aVBut we're in Southern California,
+p322
+aVclose to Los Angeles,
+p323
+aVso I have to conclude with something focused on entertainment.
+p324
+aVI want to conclude with a music video.
+p325
+aVI want to introduce the creators, Alex and Daniel, who created this video.
+p326
+aa(lp327
+V(Applause)
+p328
+aa(lp329
+VSo before I play this video,
+p330
+aVI want to tell you that they created it in the last three days,
+p331
+aVafter getting a call from Chris.
+p332
+aVAnd the robots that play in the video are completely autonomous.
+p333
+aVYou will see nine robots play six different instruments.
+p334
+aVAnd of course, it's made exclusively for TED 2012.
+p335
+aVLet's watch.
+p336
+aa(lp337
+V(Sound of air escaping from valve)
+p338
+aa(lp339
+V(Music)
+p340
+aa(lp341
+V(Whirring sound)
+p342
+aa(lp343
+V(Music)
+p344
+aa(lp345
+V(Applause) (Cheers)
+p346
+aasS'id'
+p347
+I1376
+sS'title'
+p348
+VRobots that fly ... and cooperate
+p349
+s.

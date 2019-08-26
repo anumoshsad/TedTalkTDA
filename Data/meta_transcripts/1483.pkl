@@ -1,0 +1,714 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VGood evening.
+p4
+aa(lp5
+VWe are in this wonderful
+p6
+aVopen-air amphitheater
+p7
+aVand we are enjoying ourselves
+p8
+aVin that mild evening
+p9
+aVtemperature tonight,
+p10
+aVbut when Qatar will host
+p11
+aVthe football World Cup
+p12
+aV10 years from now,
+p13
+aV2022,
+p14
+aVwe already heard it will be
+p15
+aVin the hot, very hot and sunny
+p16
+aVsummer months of June and July.
+p17
+aVAnd when Qatar has been assigned
+p18
+aVto the World Cup all, many
+p19
+aVpeople around the world have been
+p20
+aVwondering, how would it be
+p21
+aVpossible that football players
+p22
+aVshow spectacular football,
+p23
+aVrun around in this desert
+p24
+aVclimate? How would it be
+p25
+aVpossible that spectators sit,
+p26
+aVenjoy themselves in open-air
+p27
+aVstadia in this hot environment?
+p28
+aa(lp29
+VTogether with the architects of
+p30
+aVAlbert Speer & Partner, our engineers
+p31
+aVfrom Transsolar have been
+p32
+aVsupporting, have been developing
+p33
+aVopen-air stadia based on 100 percent
+p34
+aVsolar power, on 100 percent solar cooling.
+p35
+aa(lp36
+VLet me tell you about that,
+p37
+aVbut let me start with comfort.
+p38
+aVLet me start with the aspect
+p39
+aVof comfort, because many people
+p40
+aVare confusing
+p41
+aVambient temperature
+p42
+aVwith thermal comfort.
+p43
+aa(lp44
+VWe are used to looking at charts like
+p45
+aVthat, and you see this red line
+p46
+aVshowing the air temperature
+p47
+aVin June and July, and yes, that's right,
+p48
+aVit's picking up to 45 degrees C.
+p49
+aVIt's actually very hot.
+p50
+aVBut air temperature is not
+p51
+aVthe full set of climatic
+p52
+aVparameters which define comfort.
+p53
+aa(lp54
+VLet me show you analysis
+p55
+aVa colleague of mine did looking
+p56
+aVon different football, World Cups,
+p57
+aVOlympic Games around the world,
+p58
+aVlooking on the comfort
+p59
+aVand analyzing the comfort
+p60
+aVpeople have perceived at these
+p61
+aVdifferent sport activities,
+p62
+aVand let me start with Mexico.
+p63
+aa(lp64
+VMexico temperature has been, air
+p65
+aVtemperature has been something between
+p66
+aV15, up to 30 degrees C, and people
+p67
+aVenjoyed themselves.
+p68
+aVIt was a very comfortable game
+p69
+aVin Mexico City. Have a look.
+p70
+aVOrlando, same kind of stadium,
+p71
+aVopen-air stadium. People have
+p72
+aVbeen sitting in the strong sun,
+p73
+aVin the very high humidity
+p74
+aVin the afternoon, and they
+p75
+aVdid not enjoy. It was not comfortable.
+p76
+aVThe air temperature was not too high, but it was not
+p77
+aVcomfortable during these games.
+p78
+aa(lp79
+VWhat about Seoul? Seoul, because
+p80
+aVof broadcast rights, all the
+p81
+aVgames have been in the late
+p82
+aVafternoon. Sun has already been
+p83
+aVset, so the games have been
+p84
+aVperceived as comfortable.
+p85
+aa(lp86
+VWhat about Athens? Mediterranean
+p87
+aVclimate, but in the sun it was
+p88
+aVnot comfortable. They didn't perceive comfort.
+p89
+aa(lp90
+VAnd we know that from Spain,
+p91
+aVwe know that "sol y sombra."
+p92
+aVIf you have a ticket, and you
+p93
+aVget a ticket for the shade,
+p94
+aVyou pay more, because you're
+p95
+aVin a more comfortable environment.
+p96
+aa(lp97
+VWhat about Beijing?
+p98
+aVIt's again, sun in the day
+p99
+aVand high humidity,
+p100
+aVand it was not comfortable.
+p101
+aa(lp102
+VSo if I overlay, and if you
+p103
+aVoverlay all these comfort
+p104
+aVenvelopes, what we see is,
+p105
+aVin all these places, air temperature has
+p106
+aVbeen ranging something from 25
+p107
+aVto 35, and if you go on
+p108
+aVthe line, 30, of 30 degrees C
+p109
+aVambient temperatures. If you
+p110
+aVgo along that line you see
+p111
+aVthere has been all kind of
+p112
+aVcomfort, all kinds of perceived
+p113
+aVoutdoor comfort, ranging from
+p114
+aVvery comfortable
+p115
+aVto very uncomfortable.
+p116
+aa(lp117
+VSo why is that?
+p118
+aVThis is because there are
+p119
+aVmore parameters influencing
+p120
+aVour thermal comfort, which is
+p121
+aVthe sun, the direct sun,
+p122
+aVthe diffuse sun, which is wind,
+p123
+aVstrong wind, mild wind, which is
+p124
+aVair humidity, which is
+p125
+aVthe radiant temperature of the
+p126
+aVsurroundings where we are in.
+p127
+aVAnd this is air temperature.
+p128
+aa(lp129
+VAll these parameters go into
+p130
+aVthe comfort feeling of our
+p131
+aVhuman body, and scientists
+p132
+aVhave developed a parameter,
+p133
+aVwhich is the perceived
+p134
+aVtemperature, where all these
+p135
+aVparameters go in and help
+p136
+aVdesigners to understand
+p137
+aVwhich is the driving parameter
+p138
+aVthat I feel comfort or that
+p139
+aVI don't feel comfort.
+p140
+aVWhich is the driving parameter
+p141
+aVwhich gives me a perceived
+p142
+aVtemperature? And these parameters,
+p143
+aVthese climatic parameters are
+p144
+aVrelated to the human metabolism.
+p145
+aa(lp146
+VBecause of our metabolism,
+p147
+aVwe as human beings,
+p148
+aVwe produce heat.
+p149
+aVI'm excited, I'm talking to you,
+p150
+aVI'm probably producing
+p151
+aV150 watts
+p152
+aVat the moment. You are sitting,
+p153
+aVyou are relaxed, you're looking
+p154
+aVat me. It's probably 100
+p155
+aVwatts each person is producing,
+p156
+aVand we need to get rid of that
+p157
+aVenergy. I need, with my body,
+p158
+aVto get rid of the energy, and
+p159
+aVthe harder it is for myself,
+p160
+aVfor my body, to get rid of the
+p161
+aVenergy, the less comfort I feel.
+p162
+aVThat's it. And if I don't
+p163
+aVget rid of the energy,
+p164
+aVI will die.
+p165
+aa(lp166
+VIf we overlay what happens
+p167
+aVduring the football World Cup,
+p168
+aVwhat will happen in June, July,
+p169
+aVwe will see, yes, air
+p170
+aVtemperature will be much higher,
+p171
+aVbut because the games and
+p172
+aVthe plays will be in the afternoon,
+p173
+aVit's probably the same comfort
+p174
+aVrating we've found in other
+p175
+aVplaces which has perceived
+p176
+aVas non-comfortable.
+p177
+aa(lp178
+VSo we sat together with a team
+p179
+aVwhich prepared the Bid Book, or goal,
+p180
+aVthat we said, let's aim
+p181
+aVfor perceived temperature,
+p182
+aVfor outdoor comfort in this range,
+p183
+aVwhich is perceived with a
+p184
+aVtemperature of 32 degrees
+p185
+aVCelsius perceived temperature,
+p186
+aVwhich is extremely comfortable.
+p187
+aVPeople would feel really fine
+p188
+aVin an open outdoor environment.
+p189
+aa(lp190
+VBut what does it mean?
+p191
+aVIf we just look on what happens,
+p192
+aVwe see, temperature's too high.
+p193
+aVIf we apply the best architectural design,
+p194
+aVclimate engineering design,
+p195
+aVwe won't get much better.
+p196
+aa(lp197
+VSo we need to do something active.
+p198
+aVWe need, for instance, to bring
+p199
+aVin radiant cooling technology,
+p200
+aVand we need to combine this
+p201
+aVwith so-called soft conditioning.
+p202
+aa(lp203
+VAnd how does it look like in a stadium?
+p204
+aVSo the stadium has a few
+p205
+aVelements which create that
+p206
+aVoutdoor comfort. First of all,
+p207
+aVit's shading. It needs
+p208
+aVto protect where the people
+p209
+aVare sitting against strong
+p210
+aVand warm wind.
+p211
+aa(lp212
+VBut that's not all what we need
+p213
+aVto do. We need to use
+p214
+aVactive systems.
+p215
+aVInstead of blowing a hurricane
+p216
+aVof chilled air through the stadium,
+p217
+aVwe can use radiant
+p218
+aVcooling technologies, like a
+p219
+aVfloor heating system where water
+p220
+aVpipes are embedded in the floor.
+p221
+aVAnd just by using cold water
+p222
+aVgoing through the water pipes,
+p223
+aVyou can release the heat
+p224
+aVwhich is absorbed during the day
+p225
+aVin the stadium, so you can
+p226
+aVcreate that comfort, and then by
+p227
+aVadding dry air instead of
+p228
+aVdown-chilled air, the spectators
+p229
+aVand the football players can
+p230
+aVadjust to their individual
+p231
+aVcomfort needs, to their
+p232
+aVindividual energy balance.
+p233
+aVThey can adjust and find
+p234
+aVtheir comfort they need to find.
+p235
+aa(lp236
+VThere are 12 stadia probably
+p237
+aVto come, but there are
+p238
+aV32 training pitches where
+p239
+aVall the individual countries
+p240
+aVare going to train.
+p241
+aVWe applied the same concept:
+p242
+aVshading of the training pitch,
+p243
+aVusing a shelter against wind,
+p244
+aVthen using the grass.
+p245
+aVNatural-watered lawn is a
+p246
+aVvery good cooling source
+p247
+aVstabilizing temperature,
+p248
+aVand using dehumidified air to
+p249
+aVcreate comfort.
+p250
+aa(lp251
+VBut even the best passive design
+p252
+aVwouldn't help.
+p253
+aVWe need active system.
+p254
+aVAnd how do we do that?
+p255
+aa(lp256
+VOur idea for the bid was
+p257
+aV100 percent solar cooling,
+p258
+aVbased on the idea that we use
+p259
+aVthe roof of the stadia,
+p260
+aVwe cover the roofs of the stadia
+p261
+aVwith PV systems.
+p262
+aVWe don't borrow any energy
+p263
+aVfrom history.
+p264
+aVWe are not using fossil energies.
+p265
+aVWe are not borrowing energy
+p266
+aVfrom our neighbors.
+p267
+aVWe're using energy we can harvest
+p268
+aVon our roofs, and also on the
+p269
+aVtraining pitches, which will be
+p270
+aVcovered with large, flexible
+p271
+aVmembranes, and we will see
+p272
+aVin the next years an industry
+p273
+aVcoming up with flexible
+p274
+aVphotovoltaics, giving
+p275
+aVthe possibilities of shading
+p276
+aVagainst strong sun and producing
+p277
+aVelectric energy in the same time.
+p278
+aa(lp279
+VAnd this energy now is
+p280
+aVharvested throughout the year,
+p281
+aVsent into the grid,
+p282
+aVis replacing fossils
+p283
+aVin the grid, and when I need it
+p284
+aVfor the cooling, I take it
+p285
+aVback from the grid and I
+p286
+aVuse the solar energy
+p287
+aVwhich I have brought to the grid
+p288
+aVback when I need
+p289
+aVit for the solar cooling.
+p290
+aVAnd I can do that in the first
+p291
+aVyear and I can balance that
+p292
+aVin the next 10, and the next
+p293
+aV20 years, this energy,
+p294
+aVwhich is necessary to condition
+p295
+aVa World Cup in Qatar,
+p296
+aVthe next 20 years, this energy
+p297
+aVgoes into the grid of Qatar.
+p298
+aa(lp299
+VSo this \u2014 (Applause)
+p300
+aa(lp301
+VThank you very much. (Applause)
+p302
+aa(lp303
+VThis is not only useful
+p304
+aVfor stadia. We can use that also
+p305
+aVin open-air places and streets,
+p306
+aVand we've been working on
+p307
+aVthe City of the Future
+p308
+aVin Masdar, which is in the
+p309
+aVUnited Emirates, Abu Dhabi.
+p310
+aVAnd I had the pleasure to work
+p311
+aVon the central plaza.
+p312
+aVAnd the same idea to use there,
+p313
+aVto create outdoor conditions
+p314
+aVwhich are perceived
+p315
+aVas comfortable. People enjoy
+p316
+aVgoing there instead of going
+p317
+aVinto a shopping mall, which is
+p318
+aVchilled down and which is
+p319
+aVcooled. We wanted to create
+p320
+aVan outdoor space
+p321
+aVwhich is so comfortable that
+p322
+aVpeople can go there in the
+p323
+aVearly afternoon, even in these
+p324
+aVsunny and hot summer months,
+p325
+aVand they can enjoy and meet there
+p326
+aVwith their families. (Applause)
+p327
+aa(lp328
+VAnd the same concept:
+p329
+aVshade against the sun,
+p330
+aVshade against the wind,
+p331
+aVand use, use and take advantage
+p332
+aVof the sun you can harvest
+p333
+aVon your footprint.
+p334
+aVAnd these beautiful umbrellas.
+p335
+aa(lp336
+VSo I'd like to encourage you
+p337
+aVto pay attention to your
+p338
+aVthermal comfort, to your
+p339
+aVthermal environment,
+p340
+aVtonight and tomorrow,
+p341
+aVand if you'd like to learn more
+p342
+aVabout that, I invite you
+p343
+aVto go to our website.
+p344
+aVWe uploaded a very simple
+p345
+aVperceived temperature calculator
+p346
+aVwhere you can check out
+p347
+aVabout your outdoor comfort.
+p348
+aVAnd I also hope that you
+p349
+aVshare the idea that
+p350
+aVif engineers and designers
+p351
+aVcan use all these different
+p352
+aVclimatic parameters,
+p353
+aVit will be possible to create
+p354
+aVreally good and comfortable
+p355
+aVoutdoor conditions,
+p356
+aVto change our thermal perception
+p357
+aVthat we feel comfortable
+p358
+aVin an outdoor environment,
+p359
+aVand we can do that
+p360
+aVwith the best passive design,
+p361
+aVbut also using the energy source
+p362
+aVof the site in Qatar which is
+p363
+aVthe sun.
+p364
+aa(lp365
+V(Applause)
+p366
+aa(lp367
+VThank you very much. (Applause)
+p368
+aVShukran. (Applause)
+p369
+aasS'id'
+p370
+I1483
+sS'title'
+p371
+VHow to air-condition outdoor spaces
+p372
+s.

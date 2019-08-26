@@ -1,0 +1,382 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm really excited to be here today.
+p4
+aVI'll show you some stuff that's just ready to come out of the lab,
+p5
+aVliterally, and I'm really glad that you guys
+p6
+aVare going to be among the first to see it in person,
+p7
+aVbecause I really think this is going to really change
+p8
+aVthe way we interact with machines from this point on.
+p9
+aa(lp10
+VNow, this is a rear-projected drafting table.
+p11
+aVIt's about 36 inches wide
+p12
+aVand it's equipped with a multi-touch sensor.
+p13
+aVNormal touch sensors that you see,
+p14
+aVlike on a kiosk or interactive whiteboards,
+p15
+aVcan only register one point of contact at a time.
+p16
+aVThis thing allows you to have multiple points at the same time.
+p17
+aVThey can use both my hands; I can use chording actions;
+p18
+aVI can just go right up and use all 10 fingers if I wanted to.
+p19
+aVYou know, like that.
+p20
+aa(lp21
+VNow, multi-touch sensing isn't completely new.
+p22
+aVPeople like Bill Buxton have been playing around with it in the '80s.
+p23
+aVHowever, the approach I built here is actually high-resolution,
+p24
+aVlow-cost, and probably most importantly, very scalable.
+p25
+aVSo, the technology, you know,
+p26
+aVisn't the most exciting thing here right now,
+p27
+aVother than probably its newfound accessibility.
+p28
+aVWhat's really interesting here is what you can do with it
+p29
+aVand the kind of interfaces you can build on top of it.
+p30
+aVSo let's see.
+p31
+aa(lp32
+VSo, for instance, we have a lava lamp application here.
+p33
+aVNow, you can see,
+p34
+aVI can use both of my hands to kind of squeeze and put the blobs together.
+p35
+aVI can inject heat into the system here,
+p36
+aVor I can pull it apart with two of my fingers.
+p37
+aVIt's completely intuitive; there's no instruction manual.
+p38
+aVThe interface just kind of disappears.
+p39
+aVThis started out as a screensaver app
+p40
+aVthat one of the Ph.D. students in our lab, Ilya Rosenberg, made.
+p41
+aVBut I think its true identity comes out here.
+p42
+aa(lp43
+VNow what's great about a multi-touch sensor is that, you know,
+p44
+aVI could be doing this with as many fingers here,
+p45
+aVbut of course multi-touch also inherently means multi-user.
+p46
+aVChris could be interacting with another part of Lava,
+p47
+aVwhile I play around with it here.
+p48
+aVYou can imagine a new kind of sculpting tool,
+p49
+aVwhere I'm kind of warming something up, making it malleable,
+p50
+aVand then letting it cool down and solidifying in a certain state.
+p51
+aVGoogle should have something like this in their lobby.
+p52
+aa(lp53
+V(Laughter)
+p54
+aa(lp55
+VI'll show you a little more of a concrete example here,
+p56
+aVas this thing loads.
+p57
+aVThis is a photographer's light-box application.
+p58
+aVAgain, I can use both of my hands to interact and move photos around.
+p59
+aVBut what's even cooler is that if I have two fingers,
+p60
+aVI can actually grab a photo and then stretch it out like that really easily.
+p61
+aVI can pan, zoom and rotate it effortlessly.
+p62
+aVI can do that grossly with both of my hands,
+p63
+aVor I can do it just with two fingers on each of my hands together.
+p64
+aVIf I grab the canvas, I can do the same thing \u2014 stretch it out.
+p65
+aVI can do it simultaneously, holding this down,
+p66
+aVand gripping on another one, stretching this out.
+p67
+aa(lp68
+VAgain, the interface just disappears here.
+p69
+aVThere's no manual.
+p70
+aVThis is exactly what you expect,
+p71
+aVespecially if you haven't interacted with a computer before.
+p72
+aVNow, when you have initiatives like the $100 laptop,
+p73
+aVI kind of cringe at the idea
+p74
+aVof introducing a whole new generation to computing
+p75
+aVwith this standard mouse-and-windows-pointer interface.
+p76
+aVThis is something that I think is really the way
+p77
+aVwe should be interacting with machines from now on.
+p78
+aa(lp79
+V(Applause)
+p80
+aa(lp81
+VNow, of course, I can bring up a keyboard.
+p82
+aa(lp83
+V(Laughter)
+p84
+aVAnd I can bring that around, put that up there.
+p85
+aVObviously, this is a standard keyboard,
+p86
+aVbut of course I can rescale it to make it work well for my hands.
+p87
+aVThat's really important, because there's no reason in this day and age
+p88
+aVthat we should be conforming to a physical device.
+p89
+aVThat leads to bad things, like RSI.
+p90
+aVWe have so much technology nowadays
+p91
+aVthat these interfaces should start conforming to us.
+p92
+aVThere's so little applied now to actually improving
+p93
+aVthe way we interact with interfaces from this point on.
+p94
+aVThis keyboard is probably actually the really wrong direction to go.
+p95
+aVYou can imagine, in the future, as we develop this kind of technology,
+p96
+aVa keyboard that kind of automatically drifts as your hand moves away,
+p97
+aVand really intelligently anticipates which key you're trying to stroke.
+p98
+aVSo \u2014 again, isn't this great?
+p99
+aa(lp100
+V(Laughter)
+p101
+aa(lp102
+VAudience: Where's your lab?
+p103
+aa(lp104
+VJeff Han: I'm a research scientist at NYU in New York.
+p105
+aa(lp106
+VHere's an example of another kind of app. I can make these little fuzz balls.
+p107
+aVIt'll remember the strokes I'm making.
+p108
+aVOf course I can do it with all my hands.
+p109
+aVIt's pressure-sensitive.
+p110
+aVWhat's neat about that is,
+p111
+aVI showed that two-finger gesture that zooms in really quickly.
+p112
+aVBecause you don't have to switch to a hand tool
+p113
+aVor the magnifying glass tool,
+p114
+aVyou can just continuously make things
+p115
+aVin real multiple scales, all at the same time.
+p116
+aVI can create big things out here,
+p117
+aVbut I can go back and really quickly go back
+p118
+aVto where I started, and make even smaller things here.
+p119
+aa(lp120
+VThis is going to be really important
+p121
+aVas we start getting to things like data visualization.
+p122
+aVFor instance, I think we all enjoyed Hans Rosling's talk,
+p123
+aVand he really emphasized the fact I've been thinking about for a long time:
+p124
+aVWe have all this great data,
+p125
+aVbut for some reason, it's just sitting there.
+p126
+aVWe're not accessing it.
+p127
+aVAnd one of the reasons why I think that is
+p128
+aVwill be helped by things like graphics and visualization and inference tools,
+p129
+aVbut I also think a big part of it
+p130
+aVis going to be having better interfaces,
+p131
+aVto be able to drill down into this kind of data,
+p132
+aVwhile still thinking about the big picture here.
+p133
+aa(lp134
+VLet me show you another app here. This is called WorldWind.
+p135
+aVIt's done by NASA.
+p136
+aVWe've all seen Google Earth;
+p137
+aVthis is an open-source version of that.
+p138
+aVThere are plug-ins to be able to load in different data sets
+p139
+aVthat NASA's collected over the years.
+p140
+aVAs you can see, I can use the same two-fingered gestures
+p141
+aVto go down and go in really seamlessly.
+p142
+aVThere's no interface, again.
+p143
+aVIt really allows anybody to kind of go in \u2014
+p144
+aVand it just does what you'd expect, you know?
+p145
+aVAgain, there's just no interface here. The interface just disappears.
+p146
+aVI can switch to different data views.
+p147
+aVThat's what's neat about this app here.
+p148
+aVNASA's really cool.
+p149
+aVThese hyper-spectral images are false-colored so you can \u2014
+p150
+aVit's really good for determining vegetative use.
+p151
+aVWell, let's go back to this.
+p152
+aa(lp153
+VThe great thing about mapping applications \u2014
+p154
+aVit's not really 2D, it's 3D.
+p155
+aVSo, again, with a multi-point interface, you can do a gesture like this \u2014
+p156
+aVso you can be able to tilt around like that \u2014
+p157
+aa(lp158
+V(Surprised laughter)
+p159
+aa(lp160
+VIt's not just simply relegated to a kind of 2D panning and motion.
+p161
+aVThis gesture is just putting two fingers down \u2014
+p162
+aVit's defining an axis of tilt \u2014 and I can tilt up and down that way.
+p163
+aVWe just came up with that on the spot,
+p164
+aVit's probably not the right thing to do,
+p165
+aVbut there's such interesting things you can do with this interface.
+p166
+aVIt's just so much fun playing around with it, too.
+p167
+aa(lp168
+V(Laughter)
+p169
+aa(lp170
+VAnd so the last thing I want to show you is \u2014
+p171
+aVI'm sure we can all think of a lot of entertainment apps
+p172
+aVthat you can do with this thing.
+p173
+aVI'm more interested in the creative applications we can do with this.
+p174
+aVNow, here's a simple application here \u2014 I can draw out a curve.
+p175
+aVAnd when I close it, it becomes a character.
+p176
+aVBut the neat thing about it is I can add control points.
+p177
+aVAnd then what I can do is manipulate them with both of my fingers at the same time.
+p178
+aVAnd you notice what it does.
+p179
+aVIt's kind of a puppeteering thing,
+p180
+aVwhere I can use as many fingers as I have to draw and make \u2014
+p181
+aa(lp182
+VNow, there's a lot of actual math going on under here
+p183
+aVfor this to control this mesh and do the right thing.
+p184
+aVThis technique of being able to manipulate a mesh here, with multiple control points,
+p185
+aVis actually state of the art.
+p186
+aVIt was released at SIGGRAPH last year.
+p187
+aVIt's a great example of the kind of research I really love:
+p188
+aVall this compute power to make things do the right things,
+p189
+aVintuitive things, to do exactly what you expect.
+p190
+aa(lp191
+VSo, multi-touch interaction research is a very active field right now in HCI.
+p192
+aVI'm not the only one doing it, a lot of other people are getting into it.
+p193
+aVThis kind of technology is going to let even more people get into it,
+p194
+aVI'm looking forward to interacting with all of you over the next few days
+p195
+aVand seeing how it can apply to your respective fields.
+p196
+aa(lp197
+VThank you.
+p198
+aa(lp199
+V(Applause)
+p200
+aasS'id'
+p201
+I65
+sS'title'
+p202
+VThe radical promise of the multi-touch interface
+p203
+s.

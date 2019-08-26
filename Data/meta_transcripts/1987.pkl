@@ -1,0 +1,348 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThere are 39 million people in the world
+p4
+aVwho are blind.
+p5
+aVEighty percent of them
+p6
+aVare living in low-income countries such as Kenya,
+p7
+aVand the absolute majority
+p8
+aVdo not need to be blind.
+p9
+aVThey are blind from diseases
+p10
+aVthat are either completely curable or preventable.
+p11
+aa(lp12
+VKnowing this, with my young family,
+p13
+aVwe moved to Kenya.
+p14
+aVWe secured equipment,
+p15
+aVfunds, vehicles, we trained a team,
+p16
+aVwe set up a hundred clinics throughout
+p17
+aVthe Great Rift Valley
+p18
+aVto try and understand a single question:
+p19
+aVwhy are people going blind,
+p20
+aVand what can we do?
+p21
+aa(lp22
+VThe challenges were great.
+p23
+aVWhen we got to where we were going,
+p24
+aVwe set up our high-tech equipment.
+p25
+aVPower was rarely available.
+p26
+aVWe'd have to run our equipment
+p27
+aVfrom petrol power generators.
+p28
+aVAnd then something occurred to me:
+p29
+aVThere has to be an easier way,
+p30
+aVbecause it's the patients who are the most in need
+p31
+aVof access to eye care
+p32
+aVwho are the least likely to get it.
+p33
+aa(lp34
+VMore people in Kenya,
+p35
+aVand in sub-Saharan Africa,
+p36
+aVhave access to a mobile phone
+p37
+aVthan they do clean running water.
+p38
+aVSo we said, could we harness
+p39
+aVthe power of mobile technology
+p40
+aVto deliver eye care in a new way?
+p41
+aVAnd so we developed Peek,
+p42
+aVa smartphone [system] that enables
+p43
+aVcommunity healthcare workers
+p44
+aVand empowers them to deliver eye care everywhere.
+p45
+aVWe set about replacing traditional hospital equipment,
+p46
+aVwhich is bulky, expensive and fragile,
+p47
+aVwith smartphone apps and hardware
+p48
+aVthat make it possible to test anyone
+p49
+aVin any language and of any age.
+p50
+aVHere we have a demonstration
+p51
+aVof a three-month-old having their vision
+p52
+aVaccurately tested using an app and an eye tracker.
+p53
+aa(lp54
+VWe've got many trials going on
+p55
+aVin the community and in schools,
+p56
+aVand through the lessons that we've learned in the field,
+p57
+aVwe've realized it's extremely important
+p58
+aVto share the data in non-medical jargon
+p59
+aVso that people understand
+p60
+aVwhat we're examining and what that means to them.
+p61
+aVSo here, for example,
+p62
+aVwe use our sight sim application,
+p63
+aVonce your vision has been measured,
+p64
+aVto show carers and teachers
+p65
+aVwhat the visual world is like for that person,
+p66
+aVso they can empathize with them and help them.
+p67
+aa(lp68
+VOnce we've discovered somebody has low vision,
+p69
+aVthe next big challenge is to work out why,
+p70
+aVand to be able to do that,
+p71
+aVwe need to have access to the inside of the eye.
+p72
+aVTraditionally, this requires expensive equipment
+p73
+aVto examine an area called the retina.
+p74
+aVThe retina is the single part of the eye that has
+p75
+aVhuge amounts of information about the body
+p76
+aVand its health.
+p77
+aVWe've developed 3D-printed,
+p78
+aVlow-cost hardware
+p79
+aVthat comes in at less than five dollars to produce,
+p80
+aVwhich can then be clipped onto a smartphone
+p81
+aVand makes it possible to get views
+p82
+aVof the back of the eye
+p83
+aVof a very high quality.
+p84
+aVAnd the beauty is, anybody can do it.
+p85
+aVIn our trials on over two and half thousand people,
+p86
+aVthe smartphone with the add-on clip
+p87
+aVis comparable to a camera
+p88
+aVthat is hugely more expensive
+p89
+aVand hugely more difficult to transport.
+p90
+aa(lp91
+VWhen we first moved to Kenya,
+p92
+aVwe went with 150,000 dollars of equipment,
+p93
+aVa team of 15 people,
+p94
+aVand that was what was needed to deliver health care.
+p95
+aVNow, all that's needed
+p96
+aVis a single person
+p97
+aVon a bike with a smartphone.
+p98
+aVAnd it costs just 500 dollars.
+p99
+aVThe issue of power supply
+p100
+aVis overcome by harnessing the power of solar.
+p101
+aVOur healthcare workers travel
+p102
+aVwith a solar-powered rucksack
+p103
+aVwhich keeps the phone charged and backed up.
+p104
+aVNow we go to the patient
+p105
+aVrather than waiting for the patient never to come.
+p106
+aVWe go to them in their homes
+p107
+aVand we give them the most comprehensive,
+p108
+aVhigh-tech, accurate examination,
+p109
+aVwhich can be delivered by anyone with minimal training.
+p110
+aVWe can link global experts
+p111
+aVwith people in the most rural,
+p112
+aVdifficult-to-reach places
+p113
+aVthat are beyond the end of the road,
+p114
+aVeffectively putting those experts in their homes,
+p115
+aVallowing us to make diagnoses
+p116
+aVand make plans for treatment.
+p117
+aa(lp118
+VProject managers, hospital directors,
+p119
+aVare able to search on our interface
+p120
+aVby any parameter they may be interested in.
+p121
+aVHere in Nakuru, where I've been living,
+p122
+aVwe can search for people
+p123
+aVby whatever condition.
+p124
+aVHere are people who are blind
+p125
+aVfrom a curable condition cataract.
+p126
+aVEach red pin depicts somebody
+p127
+aVwho is blind from a disease that is curable
+p128
+aVand treatable, and they're locatable.
+p129
+aVWe can use bulk text messaging services
+p130
+aVto explain that we're coming to arrange a treatment.
+p131
+aa(lp132
+VWhat's more, we've learned that this is something
+p133
+aVthat we haven't built just for the community
+p134
+aVbut with the community.
+p135
+aVThose blue pins that drop represent
+p136
+aVelders, or local leaders,
+p137
+aVthat are connected to those people
+p138
+aVwho can ensure that we can find them
+p139
+aVand arrange treatment.
+p140
+aa(lp141
+VSo for patients like Mama Wangari,
+p142
+aVwho have been blind for over 10 years
+p143
+aVand never seen her grandchildren,
+p144
+aVfor less than 40 dollars, we can restore her eyesight.
+p145
+aVThis is something that has to happen.
+p146
+aVIt's only in statistics
+p147
+aVthat people go blind by the millions.
+p148
+aVThe reality is everyone goes blind on their own.
+p149
+aVBut now, they might just be
+p150
+aVa text message away from help.
+p151
+aa(lp152
+V(Applause)
+p153
+aa(lp154
+VAnd now because live demos are always a bad idea,
+p155
+aVwe're going to try a live demo.
+p156
+aa(lp157
+V(Laughter)
+p158
+aa(lp159
+VSo here we have the Peek Vision app.
+p160
+aVOkay, and what we're looking at here,
+p161
+aVthis is Sam's optic nerve,
+p162
+aVwhich is a direct extension of her brain,
+p163
+aVso I'm actually looking at her brain as we look there.
+p164
+aVWe can see all parts of the retina.
+p165
+aVIt makes it possible to pick up diseases
+p166
+aVof the eye and of the body
+p167
+aVthat would not be possible without access to the eye,
+p168
+aVand that clip-on device can be manufactured
+p169
+aVfor just a few dollars,
+p170
+aVand people can be cured of blindness,
+p171
+aVand I think it says a lot about us as a human race
+p172
+aVif we've developed cures and we don't deliver them.
+p173
+aVBut now we can.
+p174
+aa(lp175
+VThank you.
+p176
+aa(lp177
+V(Applause)
+p178
+aasS'id'
+p179
+I1987
+sS'title'
+p180
+VGet your next eye exam on a smartphone
+p181
+s.

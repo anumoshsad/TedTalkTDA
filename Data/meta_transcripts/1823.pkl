@@ -1,0 +1,436 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VEric Berlow: I'm an ecologist, and Sean's a physicist,
+p4
+aVand we both study complex networks.
+p5
+aVAnd we met a couple years ago when we discovered
+p6
+aVthat we had both given a short TED Talk
+p7
+aVabout the ecology of war,
+p8
+aVand we realized that we were connected
+p9
+aVby the ideas we shared before we ever met.
+p10
+aVAnd then we thought, you know, there are thousands
+p11
+aVof other talks out there, especially TEDx Talks,
+p12
+aVthat are popping up all over the world.
+p13
+aVHow are they connected,
+p14
+aVand what does that global conversation look like?
+p15
+aVSo Sean's going to tell you a little bit about how we did that.
+p16
+aa(lp17
+VSean Gourley: Exactly. So we took 24,000 TEDx Talks
+p18
+aVfrom around the world, 147 different countries,
+p19
+aVand we took these talks and we wanted to find
+p20
+aVthe mathematical structures that underly
+p21
+aVthe ideas behind them.
+p22
+aVAnd we wanted to do that so we could see how
+p23
+aVthey connected with each other.
+p24
+aa(lp25
+VAnd so, of course, if you're going to do this kind of stuff,
+p26
+aVyou need a lot of data.
+p27
+aVSo the data that you've got is a great thing called YouTube,
+p28
+aVand we can go down and basically pull
+p29
+aVall the open information from YouTube,
+p30
+aVall the comments, all the views, who's watching it,
+p31
+aVwhere are they watching it, what are they saying in the comments.
+p32
+aVBut we can also pull up, using speech-to-text translation,
+p33
+aVwe can pull the entire transcript,
+p34
+aVand that works even for people with kind of funny accents like myself.
+p35
+aVSo we can take their transcript
+p36
+aVand actually do some pretty cool things.
+p37
+aVWe can take natural language processing algorithms
+p38
+aVto kind of read through with a computer, line by line,
+p39
+aVextracting key concepts from this.
+p40
+aVAnd we take those key concepts and they sort of form
+p41
+aVthis mathematical structure of an idea.
+p42
+aVAnd we call that the meme-ome.
+p43
+aVAnd the meme-ome, you know, quite simply,
+p44
+aVis the mathematics that underlies an idea,
+p45
+aVand we can do some pretty interesting analysis with it,
+p46
+aVwhich I want to share with you now.
+p47
+aa(lp48
+VSo each idea has its own meme-ome,
+p49
+aVand each idea is unique with that,
+p50
+aVbut of course, ideas, they borrow from each other,
+p51
+aVthey kind of steal sometimes,
+p52
+aVand they certainly build on each other,
+p53
+aVand we can go through mathematically
+p54
+aVand take the meme-ome from one talk
+p55
+aVand compare it to the meme-ome from every other talk,
+p56
+aVand if there's a similarity between the two of them,
+p57
+aVwe can create a link and represent that as a graph,
+p58
+aVjust like Eric and I are connected.
+p59
+aa(lp60
+VSo that's theory, that's great.
+p61
+aVLet's see how it works in actual practice.
+p62
+aVSo what we've got here now is the global footprint
+p63
+aVof all the TEDx Talks over the last four years
+p64
+aVexploding out around the world
+p65
+aVfrom New York all the way down to little old New Zealand in the corner.
+p66
+aVAnd what we did on this is we analyzed the top 25 percent of these,
+p67
+aVand we started to see where the connections occurred,
+p68
+aVwhere they connected with each other.
+p69
+aVCameron Russell talking about image and beauty
+p70
+aVconnected over into Europe.
+p71
+aVWe've got a bigger conversation about Israel and Palestine
+p72
+aVradiating outwards from the Middle East.
+p73
+aVAnd we've got something a little broader
+p74
+aVlike big data with a truly global footprint
+p75
+aVreminiscent of a conversation
+p76
+aVthat is happening everywhere.
+p77
+aa(lp78
+VSo from this, we kind of run up against the limits
+p79
+aVof what we can actually do with a geographic projection,
+p80
+aVbut luckily, computer technology allows us to go out
+p81
+aVinto multidimensional space.
+p82
+aVSo we can take in our network projection
+p83
+aVand apply a physics engine to this,
+p84
+aVand the similar talks kind of smash together,
+p85
+aVand the different ones fly apart,
+p86
+aVand what we're left with is something quite beautiful.
+p87
+aa(lp88
+VEB: So I want to just point out here that every node is a talk,
+p89
+aVthey're linked if they share similar ideas,
+p90
+aVand that comes from a machine reading
+p91
+aVof entire talk transcripts,
+p92
+aVand then all these topics that pop out,
+p93
+aVthey're not from tags and keywords.
+p94
+aVThey come from the network structure
+p95
+aVof interconnected ideas. Keep going.
+p96
+aa(lp97
+VSG: Absolutely. So I got a little quick on that,
+p98
+aVbut he's going to slow me down.
+p99
+aVWe've got education connected to storytelling
+p100
+aVtriangulated next to social media.
+p101
+aVYou've got, of course, the human brain right next to healthcare,
+p102
+aVwhich you might expect,
+p103
+aVbut also you've got video games, which is sort of adjacent,
+p104
+aVas those two spaces interface with each other.
+p105
+aa(lp106
+VBut I want to take you into one cluster
+p107
+aVthat's particularly important to me, and that's the environment.
+p108
+aVAnd I want to kind of zoom in on that
+p109
+aVand see if we can get a little more resolution.
+p110
+aVSo as we go in here, what we start to see,
+p111
+aVapply the physics engine again,
+p112
+aVwe see what's one conversation
+p113
+aVis actually composed of many smaller ones.
+p114
+aVThe structure starts to emerge
+p115
+aVwhere we see a kind of fractal behavior
+p116
+aVof the words and the language that we use
+p117
+aVto describe the things that are important to us
+p118
+aVall around this world.
+p119
+aVSo you've got food economy and local food at the top,
+p120
+aVyou've got greenhouse gases, solar and nuclear waste.
+p121
+aVWhat you're getting is a range of smaller conversations,
+p122
+aVeach connected to each other through the ideas
+p123
+aVand the language they share,
+p124
+aVcreating a broader concept of the environment.
+p125
+aVAnd of course, from here, we can go
+p126
+aVand zoom in and see, well, what are young people looking at?
+p127
+aVAnd they're looking at energy technology and nuclear fusion.
+p128
+aVThis is their kind of resonance
+p129
+aVfor the conversation around the environment.
+p130
+aVIf we split along gender lines,
+p131
+aVwe can see females resonating heavily
+p132
+aVwith food economy, but also out there in hope and optimism.
+p133
+aa(lp134
+VAnd so there's a lot of exciting stuff we can do here,
+p135
+aVand I'll throw to Eric for the next part.
+p136
+aa(lp137
+VEB: Yeah, I mean, just to point out here,
+p138
+aVyou cannot get this kind of perspective
+p139
+aVfrom a simple tag search on YouTube.
+p140
+aVLet's now zoom back out to the entire global conversation
+p141
+aVout of environment, and look at all the talks together.
+p142
+aVNow often, when we're faced with this amount of content,
+p143
+aVwe do a couple of things to simplify it.
+p144
+aVWe might just say, well,
+p145
+aVwhat are the most popular talks out there?
+p146
+aVAnd a few rise to the surface.
+p147
+aVThere's a talk about gratitude.
+p148
+aVThere's another one about personal health and nutrition.
+p149
+aVAnd of course, there's got to be one about porn, right?
+p150
+aVAnd so then we might say, well, gratitude, that was last year.
+p151
+aVWhat's trending now? What's the popular talk now?
+p152
+aVAnd we can see that the new, emerging, top trending topic
+p153
+aVis about digital privacy.
+p154
+aa(lp155
+VSo this is great. It simplifies things.
+p156
+aVBut there's so much creative content
+p157
+aVthat's just buried at the bottom.
+p158
+aVAnd I hate that. How do we bubble stuff up to the surface
+p159
+aVthat's maybe really creative and interesting?
+p160
+aVWell, we can go back to the network structure of ideas
+p161
+aVto do that.
+p162
+aVRemember, it's that network structure
+p163
+aVthat is creating these emergent topics,
+p164
+aVand let's say we could take two of them,
+p165
+aVlike cities and genetics, and say, well, are there any talks
+p166
+aVthat creatively bridge these two really different disciplines.
+p167
+aVAnd that's \u2014 Essentially, this kind of creative remix
+p168
+aVis one of the hallmarks of innovation.
+p169
+aVWell here's one by Jessica Green
+p170
+aVabout the microbial ecology of buildings.
+p171
+aVIt's literally defining a new field.
+p172
+aVAnd we could go back to those topics and say, well,
+p173
+aVwhat talks are central to those conversations?
+p174
+aVIn the cities cluster, one of the most central
+p175
+aVwas one by Mitch Joachim about ecological cities,
+p176
+aVand in the genetics cluster,
+p177
+aVwe have a talk about synthetic biology by Craig Venter.
+p178
+aVThese are talks that are linking many talks within their discipline.
+p179
+aVWe could go the other direction and say, well,
+p180
+aVwhat are talks that are broadly synthesizing
+p181
+aVa lot of different kinds of fields.
+p182
+aVWe used a measure of ecological diversity to get this.
+p183
+aVLike, a talk by Steven Pinker on the history of violence,
+p184
+aVvery synthetic.
+p185
+aa(lp186
+VAnd then, of course, there are talks that are so unique
+p187
+aVthey're kind of out in the stratosphere, in their own special place,
+p188
+aVand we call that the Colleen Flanagan index.
+p189
+aVAnd if you don't know Colleen, she's an artist,
+p190
+aVand I asked her, "Well, what's it like out there
+p191
+aVin the stratosphere of our idea space?"
+p192
+aVAnd apparently it smells like bacon.
+p193
+aVI wouldn't know.
+p194
+aVSo we're using these network motifs
+p195
+aVto find talks that are unique,
+p196
+aVones that are creatively synthesizing a lot of different fields,
+p197
+aVones that are central to their topic,
+p198
+aVand ones that are really creatively bridging disparate fields.
+p199
+aVOkay? We never would have found those with our obsession
+p200
+aVwith what's trending now.
+p201
+aVAnd all of this comes from the architecture of complexity,
+p202
+aVor the patterns of how things are connected.
+p203
+aa(lp204
+VSG: So that's exactly right.
+p205
+aVWe've got ourselves in a world
+p206
+aVthat's massively complex,
+p207
+aVand we've been using algorithms to kind of filter it down
+p208
+aVso we can navigate through it.
+p209
+aVAnd those algorithms, whilst being kind of useful,
+p210
+aVare also very, very narrow, and we can do better than that,
+p211
+aVbecause we can realize that their complexity is not random.
+p212
+aVIt has mathematical structure,
+p213
+aVand we can use that mathematical structure
+p214
+aVto go and explore things like the world of ideas
+p215
+aVto see what's being said, to see what's not being said,
+p216
+aVand to be a little bit more human
+p217
+aVand, hopefully, a little smarter.
+p218
+aa(lp219
+VThank you.
+p220
+aa(lp221
+V(Applause)
+p222
+aasS'id'
+p223
+I1823
+sS'title'
+p224
+VMapping ideas worth spreading
+p225
+s.

@@ -1,0 +1,224 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThe greatest irony in global health
+p4
+aVis that the poorest countries
+p5
+aVcarry the largest disease burden.
+p6
+aVIf we resize the countries of the globe
+p7
+aVin proportion to the subject of interest,
+p8
+aVwe see that Sub-Saharan Africa
+p9
+aVis the worst hit region by HIV/AIDS.
+p10
+aVThis is the most devastating epidemic of our time.
+p11
+aVWe also see that this region
+p12
+aVhas the least capability in terms of dealing with the disease.
+p13
+aVThere are very few doctors
+p14
+aVand, quite frankly, these countries do not have the resources
+p15
+aVthat are needed to cope
+p16
+aVwith such epidemics.
+p17
+aa(lp18
+VSo what the Western countries,
+p19
+aVdeveloped countries, have generously done
+p20
+aVis they have proposed to provide free drugs
+p21
+aVto all people in Third World countries
+p22
+aVwho actually can't afford these medications.
+p23
+aVAnd this has already saved millions of lives,
+p24
+aVand it has prevented entire economies
+p25
+aVfrom capsizing in Sub-Saharan Africa.
+p26
+aa(lp27
+VBut there is a fundamental problem
+p28
+aVthat is killing the efforts
+p29
+aVin fighting this disease,
+p30
+aVbecause if you keep throwing
+p31
+aVdrugs out at people
+p32
+aVwho don't have diagnostic services,
+p33
+aVyou end up creating a problem of drug resistance.
+p34
+aVThis is already beginning to happen in Sub-Saharan Africa.
+p35
+aVThe problem is that,
+p36
+aVwhat begins as a tragedy in the Third World
+p37
+aVcould easily become a global problem.
+p38
+aVAnd the last thing we want to see
+p39
+aVis drug-resistant strains of HIV
+p40
+aVpopping up all over the world,
+p41
+aVbecause it will make treatment more expensive
+p42
+aVand it could also restore
+p43
+aVthe pre-ARV carnage of HIV/AIDS.
+p44
+aa(lp45
+VI experienced this firsthand
+p46
+aVas a high school student in Uganda.
+p47
+aVThis was in the 90s
+p48
+aVduring the peak of the HIV epidemic,
+p49
+aVbefore there were any ARVs in Sub-Saharan Africa.
+p50
+aVAnd during that time, I actually lost more relatives,
+p51
+aVas well as the teachers who taught me,
+p52
+aVto HIV/AIDS.
+p53
+aVSo this became one of the driving passions of my life,
+p54
+aVto help find real solutions
+p55
+aVthat could address these kinds of problems.
+p56
+aa(lp57
+VWe all know about the miracle of miniaturization.
+p58
+aVBack in the day, computers used to fill this entire room,
+p59
+aVand people actually used to work inside the computers.
+p60
+aVBut what electronic miniaturization has done
+p61
+aVis that it has allowed people to shrink
+p62
+aVtechnology into a cell phone.
+p63
+aVAnd I'm sure everyone here enjoys cell phones
+p64
+aVthat can actually be used in the remote areas of the world,
+p65
+aVin the Third World countries.
+p66
+aVThe good news is that the same technology
+p67
+aVthat allowed miniaturization of electronics
+p68
+aVis now allowing us to miniaturize
+p69
+aVbiological laboratories.
+p70
+aa(lp71
+VSo, right now, we can actually miniaturize
+p72
+aVbiological and chemistry laboratories
+p73
+aVonto microfluidic chips.
+p74
+aVI was very lucky to come
+p75
+aVto the US right after high school,
+p76
+aVand was able to work on this technology
+p77
+aVand develop some devices.
+p78
+aVThis is a microfluidic chip that I developed.
+p79
+aVA close look at how the technology works:
+p80
+aVThese are channels that are about the size of a human hair \u2014
+p81
+aVso you have integrated valves, pumps, mixers and injectors \u2014
+p82
+aVso you can fit entire diagnostic experiments
+p83
+aVonto a microfluidic system.
+p84
+aa(lp85
+VSo what I plan to do with this technology
+p86
+aVis to actually take the current state
+p87
+aVof the technology
+p88
+aVand build an HIV kit
+p89
+aVin a microfluidic system.
+p90
+aVSo, with one microfluidic chip,
+p91
+aVwhich is the size of an iPhone,
+p92
+aVyou can actually diagnose
+p93
+aV100 patients at the same time.
+p94
+aVFor each patient, we will be able to do
+p95
+aVup to 100 different viral loads per patient.
+p96
+aVAnd this is only done in four hours,
+p97
+aV50 times faster than the current state of the art,
+p98
+aVat a cost that will be five to 500 times cheaper
+p99
+aVthan the current options.
+p100
+aVSo this will allow us to create
+p101
+aVpersonalized medicines in the Third World
+p102
+aVat a cost that is actually achievable
+p103
+aVand make the world a safer place.
+p104
+aa(lp105
+VI invite your interest
+p106
+aVas well as your involvement
+p107
+aVin driving this vision
+p108
+aVto a point of practical reality.
+p109
+aa(lp110
+VThank you very much.
+p111
+aa(lp112
+V(Applause)
+p113
+aasS'id'
+p114
+I836
+sS'title'
+p115
+VBio-lab on a microchip
+p116
+s.

@@ -1,0 +1,640 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo, this is my grandfather,
+p4
+aVSalman Schocken,
+p5
+aVwho was born into a poor and uneducated family
+p6
+aVwith six children to feed,
+p7
+aVand when he was 14 years old, he was forced to
+p8
+aVdrop out of school in order to help put bread on the table.
+p9
+aVHe never went back to school.
+p10
+aVInstead, he went on to build a glittering empire
+p11
+aVof department stores.
+p12
+aVSalman was the consummate perfectionist,
+p13
+aVand every one of his stores was a jewel
+p14
+aVof Bauhaus architecture.
+p15
+aVHe was also the ultimate self-learner,
+p16
+aVand like everything else, he did it in grand style.
+p17
+aVHe surrounded himself with an entourage
+p18
+aVof young, unknown scholars like Martin Buber
+p19
+aVand Shai Agnon and Franz Kafka,
+p20
+aVand he paid each one of them a monthly salary
+p21
+aVso that they could write in peace.
+p22
+aa(lp23
+VAnd yet, in the late '30s, Salman saw what's coming.
+p24
+aVHe fled Germany, together with his family,
+p25
+aVleaving everything else behind.
+p26
+aVHis department stores confiscated,
+p27
+aVhe spent the rest of his life in a relentless pursuit
+p28
+aVof art and culture.
+p29
+aVThis high school dropout
+p30
+aVdied at the age of 82,
+p31
+aVa formidable intellectual, cofounder and first CEO
+p32
+aVof the Hebrew University of Jerusalem,
+p33
+aVand founder of Schocken Books,
+p34
+aVan acclaimed imprint that was later acquired
+p35
+aVby Random House.
+p36
+aVSuch is the power of self-study.
+p37
+aa(lp38
+VAnd these are my parents.
+p39
+aVThey too did not enjoy the privilege of college education.
+p40
+aVThey were too busy building a family and a country.
+p41
+aVAnd yet, just like Salman, they were lifelong,
+p42
+aVtenacious self-learners, and our home was stacked
+p43
+aVwith thousands of books, records and artwork.
+p44
+aVI remember quite vividly my father telling me
+p45
+aVthat when everyone in the neighborhood will have a TV set,
+p46
+aVthen we'll buy a normal F.M. radio. (Laughter)
+p47
+aa(lp48
+VAnd that's me,
+p49
+aVI was going to say holding my first abacus,
+p50
+aVbut actually holding what my father would consider
+p51
+aVan ample substitute to an iPad. (Laughter)
+p52
+aVSo one thing that I took from home is this notion
+p53
+aVthat educators don't necessarily have to teach.
+p54
+aVInstead, they can provide an environment and resources
+p55
+aVthat tease out your natural ability to learn on your own.
+p56
+aVSelf-study, self-exploration, self-empowerment:
+p57
+aVthese are the virtues of a great education.
+p58
+aa(lp59
+VSo I'd like to share with you a story about a self-study,
+p60
+aVself-empowering computer science course
+p61
+aVthat I built, together with my brilliant colleague Noam Nisan.
+p62
+aVAs you can see from the pictures, both Noam and I
+p63
+aVhad an early fascination with first principles,
+p64
+aVand over the years, as our knowledge of
+p65
+aVscience and technology became more sophisticated,
+p66
+aVthis early awe with the basics
+p67
+aVhas only intensified.
+p68
+aVSo it's not surprising that, about 12 years ago, when
+p69
+aVNoam and I were already computer science professors,
+p70
+aVwe were equally frustrated by the same phenomenon.
+p71
+aVAs computers became increasingly more complex,
+p72
+aVour students were losing the forest for the trees,
+p73
+aVand indeed, it is impossible to connect
+p74
+aVwith the soul of the machine if you interact
+p75
+aVwith a black box P.C. or a Mac which is shrouded
+p76
+aVby numerous layers of closed, proprietary software.
+p77
+aVSo Noam and I had this insight that if we want our students
+p78
+aVto understand how computers work,
+p79
+aVand understand it in the marrow of their bones,
+p80
+aVthen perhaps the best way to go about it
+p81
+aVis to have them build a complete, working,
+p82
+aVgeneral-purpose, useful computer, hardware and software,
+p83
+aVfrom the ground up, from first principles.
+p84
+aa(lp85
+VNow, we had to start somewhere, and so Noam and I
+p86
+aVdecided to base our cathedral, so to speak,
+p87
+aVon the simplest possible building block,
+p88
+aVwhich is something called NAND.
+p89
+aVIt is nothing more than a trivial logic gate
+p90
+aVwith four input-output states.
+p91
+aVSo we now start this journey by telling our students
+p92
+aVthat God gave us NAND \u2014 (Laughter) \u2014
+p93
+aVand told us to build a computer, and when we asked how,
+p94
+aVGod said, "One step at a time."
+p95
+aVAnd then, following this advice, we start
+p96
+aVwith this lowly, humble NAND gate,
+p97
+aVand we walk our students through an elaborate sequence
+p98
+aVof projects in which they gradually build a chip set,
+p99
+aVa hardware platform, an assembler, a virtual machine,
+p100
+aVa basic operating system and a compiler
+p101
+aVfor a simple, Java-like language that we call "JACK."
+p102
+aVThe students celebrate the end of this tour de force
+p103
+aVby using JACK to write all sorts of cool games
+p104
+aVlike Pong, Snake and Tetris.
+p105
+aVYou can imagine the tremendous joy of playing
+p106
+aVwith a Tetris game that you wrote in JACK
+p107
+aVand then compiled into machine language in a compiler
+p108
+aVthat you wrote also, and then seeing the result
+p109
+aVrunning on a machine that you built starting
+p110
+aVwith nothing more than a few thousand NAND gates.
+p111
+aVIt's a tremendous personal triumph of going
+p112
+aVfrom first principles all the way to a fantastically complex
+p113
+aVand useful system.
+p114
+aa(lp115
+VNoam and I worked five years to facilitate
+p116
+aVthis ascent and to create the tools and infrastructure
+p117
+aVthat will enable students to build it in one semester.
+p118
+aVAnd this is the great team that helped us make it happen.
+p119
+aVThe trick was to decompose the computer's construction
+p120
+aVinto numerous stand-alone modules,
+p121
+aVeach of which could be individually specified,
+p122
+aVbuilt and unit-tested in isolation from the rest of the project.
+p123
+aVAnd from day one, Noam and I decided to put
+p124
+aVall these building blocks freely available in open source
+p125
+aVon the Web.
+p126
+aVSo chip specifications, APIs, project descriptions,
+p127
+aVsoftware tools, hardware simulators, CPU emulators,
+p128
+aVstacks of hundreds of slides, lectures \u2014
+p129
+aVwe laid out everything on the Web
+p130
+aVand invited the world to come over,
+p131
+aVtake whatever they need,
+p132
+aVand do whatever they want with it.
+p133
+aa(lp134
+VAnd then something fascinating happened.
+p135
+aVThe world came.
+p136
+aVAnd in short order, thousands of people
+p137
+aVwere building our machine.
+p138
+aVAnd NAND2Tetris became one of the first
+p139
+aVmassive, open, online courses,
+p140
+aValthough seven years ago we had no idea that what
+p141
+aVwe were doing is called MOOCs.
+p142
+aVWe just observed how self-organized courses
+p143
+aVwere kind of spontaneously spawning
+p144
+aVout of our materials.
+p145
+aVFor example, Pramode C.E.,
+p146
+aVan engineer from Kerala, India,
+p147
+aVhas organized groups of self-learners
+p148
+aVwho build our computer under his good guidance.
+p149
+aVAnd Parag Shah, another engineer, from Mumbai,
+p150
+aVhas unbundled our projects into smaller,
+p151
+aVmore manageable bites that he now serves
+p152
+aVin his pioneering do-it-yourself computer science program.
+p153
+aa(lp154
+VThe people who are attracted to these courses
+p155
+aVtypically have a hacker mentality.
+p156
+aVThey want to figure out how things work,
+p157
+aVand they want to do it in groups,
+p158
+aVlike this hackers club in Washington, D.C.,
+p159
+aVthat uses our materials to offer community courses.
+p160
+aVAnd because these materials are widely available
+p161
+aVand open-source, different people take them
+p162
+aVto very different and unpredictable directions.
+p163
+aVFor example, Yu Fangmin, from Guangzhou,
+p164
+aVhas used FPGA technology
+p165
+aVto build our computer and show others how to do the same
+p166
+aVusing a video clip, and Ben Craddock developed
+p167
+aVa very nice computer game that unfolds
+p168
+aVinside our CPU architecture, which is quite a complex
+p169
+aV3D maze that Ben developed
+p170
+aVusing the Minecraft 3D simulator engine.
+p171
+aVThe Minecraft community went bananas over this project,
+p172
+aVand Ben became an instant media celebrity.
+p173
+aa(lp174
+VAnd indeed, for quite a few people,
+p175
+aVtaking this NAND2Tetris pilgrimage, if you will,
+p176
+aVhas turned into a life-changing experience.
+p177
+aVFor example, take Dan Rounds, who is a music
+p178
+aVand math major from East Lansing, Michigan.
+p179
+aVA few weeks ago, Dan posted a victorious post
+p180
+aVon our website, and I'd like to read it to you.
+p181
+aVSo here's what Dan said.
+p182
+aa(lp183
+V"I did the coursework because understanding computers
+p184
+aVis important to me, just like literacy and numeracy,
+p185
+aVand I made it through. I never worked harder on anything,
+p186
+aVnever been challenged to this degree.
+p187
+aVBut given what I now feel capable of doing,
+p188
+aVI would certainly do it again.
+p189
+aVTo anyone considering NAND2Tetris,
+p190
+aVit's a tough journey, but you'll be profoundly changed."
+p191
+aa(lp192
+VSo Dan demonstrates the many self-learners
+p193
+aVwho take this course off the Web, on their own traction,
+p194
+aVon their own initiative, and it's quite amazing because
+p195
+aVthese people cannot care less about
+p196
+aVgrades.
+p197
+aVThey are doing it because of one motivation only.
+p198
+aVThey have a tremendous passion to learn.
+p199
+aa(lp200
+VAnd with that in mind,
+p201
+aVI'd like to say a few words about traditional college grading.
+p202
+aVI'm sick of it.
+p203
+aVWe are obsessed with grades
+p204
+aVbecause we are obsessed with data,
+p205
+aVand yet grading takes away all the fun from failing,
+p206
+aVand a huge part of education
+p207
+aVis about failing.
+p208
+aVCourage, according to Churchill,
+p209
+aVis the ability to go from one defeat to another
+p210
+aVwithout losing enthusiasm. (Laughter)
+p211
+aVAnd [Joyce] said that mistakes
+p212
+aVare the portals of discovery.
+p213
+aVAnd yet we don't tolerate mistakes,
+p214
+aVand we worship grades.
+p215
+aVSo we collect your B pluses and your A minuses
+p216
+aVand we aggregate them into a number like 3.4,
+p217
+aVwhich is stamped on your forehead
+p218
+aVand sums up who you are.
+p219
+aVWell, in my opinion, we went too far with this nonsense,
+p220
+aVand grading became degrading.
+p221
+aa(lp222
+VSo with that, I'd like to say a few words about upgrading,
+p223
+aVand share with you a glimpse from my current project,
+p224
+aVwhich is different from the previous one,
+p225
+aVbut it shares exactly the same characteristics
+p226
+aVof self-learning, learning by doing,
+p227
+aVself-exploration and community-building,
+p228
+aVand this project deals with K-12 math education,
+p229
+aVbeginning with early age math,
+p230
+aVand we do it on tablets because we believe that
+p231
+aVmath, like anything else, should be taught hands on.
+p232
+aa(lp233
+VSo here's what we do. Basically, we developed
+p234
+aVnumerous mobile apps, every one of them explaining
+p235
+aVa particular concept in math.
+p236
+aVSo for example, let's take area.
+p237
+aVWhen you deal with a concept like area \u2014
+p238
+aVwell, we also provide a set of tools that the child
+p239
+aVis invited to experiment with in order to learn.
+p240
+aVSo if area is what interests us, then one thing
+p241
+aVwhich is natural to do is to tile the area
+p242
+aVof this particular shape and simply count
+p243
+aVhow many tiles it takes to cover it completely.
+p244
+aVAnd this little exercise here gives you a first
+p245
+aVgood insight of the notion of area.
+p246
+aa(lp247
+VMoving along, what about the area of this figure?
+p248
+aVWell, if you try to tile it, it doesn't work too well, does it.
+p249
+aVSo instead, you can experiment
+p250
+aVwith these different tools here by some process
+p251
+aVof guided trial and error,
+p252
+aVand at some point you will discover that one thing
+p253
+aVthat you can do among several legitimate transformations
+p254
+aVis the following one. You can cut the figure,
+p255
+aVyou can rearrange the parts, you can glue them
+p256
+aVand then proceed to tile just like we did before.
+p257
+aV(Applause)
+p258
+aVNow this particular transformation
+p259
+aVdid not change the area of the original figure,
+p260
+aVso a six-year-old who plays with this
+p261
+aVhas just discovered a clever algorithm
+p262
+aVto compute the area of any given parallelogram.
+p263
+aa(lp264
+VWe don't replace teachers, by the way.
+p265
+aVWe believe that teachers should be empowered, not replaced.
+p266
+aa(lp267
+VMoving along, what about the area of a triangle?
+p268
+aVSo after some guided trial and error,
+p269
+aVthe child will discover, with or without help,
+p270
+aVthat he or she can duplicate the original figure
+p271
+aVand then take the result, transpose it,
+p272
+aVglue it to the original and then proceed [with] what we did before:
+p273
+aVcut, rearrange, paste \u2014 oops\u2014 paste and glue,
+p274
+aVand tile.
+p275
+aVNow this transformation has doubled the area
+p276
+aVof the original figure, and therefore we have just learned
+p277
+aVthat the area of the triangle equals the area of this rectangle
+p278
+aVdivided by two.
+p279
+aVBut we discovered it by self-exploration.
+p280
+aa(lp281
+VSo, in addition to learning some useful geometry,
+p282
+aVthe child has been exposed to some pretty sophisticated
+p283
+aVscience strategies, like reduction,
+p284
+aVwhich is the art of
+p285
+aVtransforming a complex problem into a simple one,
+p286
+aVor generalization, which is at the heart
+p287
+aVof any scientific discipline,
+p288
+aVor the fact that some properties are invariant
+p289
+aVunder some transformations.
+p290
+aVAnd all this is something that a very young child
+p291
+aVcan pick up using such mobile apps.
+p292
+aVSo presently, we are doing the following:
+p293
+aVFirst of all, we are decomposing the K-12 math curriculum
+p294
+aVinto numerous such apps.
+p295
+aVAnd because we cannot do it on our own,
+p296
+aVwe've developed a very fancy authoring tool
+p297
+aVthat any author, any parent or actually anyone
+p298
+aVwho has an interest in math education,
+p299
+aVcan use this authoring tool to develop similar apps
+p300
+aVon tablets without programming.
+p301
+aVAnd finally, we are putting together an adaptive ecosystem
+p302
+aVthat will match different learners
+p303
+aVwith different apps according to their evolving learning style.
+p304
+aa(lp305
+VThe driving force behind this project
+p306
+aVis my colleague Shmulik London,
+p307
+aVand, you see, just like
+p308
+aVSalman did about 90 years ago,
+p309
+aVthe trick is to surround yourself with brilliant people,
+p310
+aVbecause at the end,
+p311
+aVit's all about people.
+p312
+aVAnd a few years ago, I was walking in Tel Aviv
+p313
+aVand I saw this graffiti on a wall,
+p314
+aVand I found it so compelling
+p315
+aVthat by now I preach it to my students,
+p316
+aVand I'd like to try to preach it to you.
+p317
+aVNow, I don't know how many people here are familiar
+p318
+aVwith the term "mensch."
+p319
+aVIt basically means to be human
+p320
+aVand to do the right thing.
+p321
+aVAnd with that, what this graffiti says is,
+p322
+aV"High-tech schmigh-tech.
+p323
+aVThe most important thing is to be a mensch." (Laughter)
+p324
+aVThank you. (Applause)
+p325
+aV(Applause)
+p326
+aasS'id'
+p327
+I1570
+sS'title'
+p328
+VThe self-organizing computer course
+p329
+s.

@@ -1,0 +1,493 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VToday, I'm going to talk about AI and us.
+p4
+aVAI researchers have always said
+p5
+aVthat we humans do not need to worry,
+p6
+aVbecause only menial jobs will be taken over by machines.
+p7
+aVIs that really true?
+p8
+aVThey have also said that AI will create new jobs,
+p9
+aVso those who lose their jobs will find a new one.
+p10
+aVOf course.
+p11
+aVBut the real question is:
+p12
+aVHow many of those who may lose their jobs to AI
+p13
+aVwill be able to land a new one,
+p14
+aVespecially when AI is smart enough to learn better than most of us?
+p15
+aa(lp16
+VLet me ask you a question:
+p17
+aVHow many of you think
+p18
+aVthat AI will pass the entrance examination of a top university by 2020?
+p19
+aVOh, so many. OK.
+p20
+aVSo some of you may say, "Of course, yes!"
+p21
+aVNow singularity is the issue.
+p22
+aVAnd some others may say, "Maybe,
+p23
+aVbecause AI already won against a top Go player."
+p24
+aVAnd others may say, "No, never. Uh-uh."
+p25
+aVThat means we do not know the answer yet, right?
+p26
+aVSo that was the reason why I started Todai Robot Project,
+p27
+aVmaking an AI which passes the entrance examination
+p28
+aVof the University of Tokyo,
+p29
+aVthe top university in Japan.
+p30
+aa(lp31
+VThis is our Todai Robot.
+p32
+aVAnd, of course, the brain of the robot is working in the remote server.
+p33
+aVIt is now writing a 600-word essay
+p34
+aVon maritime trade in the 17th century.
+p35
+aVHow does that sound?
+p36
+aa(lp37
+VWhy did I take the entrance exam as its benchmark?
+p38
+aVBecause I thought we had to study the performance of AI
+p39
+aVin comparison to humans,
+p40
+aVespecially on the skills and expertise
+p41
+aVwhich are believed to be acquired only by humans
+p42
+aVand only through education.
+p43
+aVTo enter Todai, the University of Tokyo,
+p44
+aVyou have to pass two different types of exams.
+p45
+aVThe first one is a national standardized test
+p46
+aVin multiple-choice style.
+p47
+aVYou have to take seven subjects
+p48
+aVand achieve a high score \u2014
+p49
+aVI would say like an 84 percent or more accuracy rate \u2014
+p50
+aVto be allowed to take the second stage written test
+p51
+aVprepared by Todai.
+p52
+aa(lp53
+VSo let me first explain how modern AI works,
+p54
+aVtaking the "Jeopardy!" challenge as an example.
+p55
+aVHere is a typical "Jeopardy!" question:
+p56
+aV"Mozart's last symphony shares its name with this planet."
+p57
+aVInterestingly, a "Jeopardy!" question always asks,
+p58
+aValways ends with "this" something:
+p59
+aV"this" planet, "this" country,
+p60
+aV"this" rock musician, and so on.
+p61
+aVIn other words, "Jeopardy!" doesn't ask many different types of questions,
+p62
+aVbut a single type,
+p63
+aVwhich we call "factoid questions."
+p64
+aa(lp65
+VBy the way, do you know the answer?
+p66
+aVIf you do not know the answer and if you want to know the answer,
+p67
+aVwhat would you do?
+p68
+aVYou Google, right? Of course.
+p69
+aVWhy not?
+p70
+aVBut you have to pick appropriate keywords
+p71
+aVlike "Mozart," "last" and "symphony" to search.
+p72
+aVThe machine basically does the same.
+p73
+aVThen this Wikipedia page will be ranked top.
+p74
+aVThen the machine reads the page.
+p75
+aVNo, uh-uh.
+p76
+aa(lp77
+VUnfortunately, none of the modern AIs,
+p78
+aVincluding Watson, Siri and Todai Robot,
+p79
+aVis able to read.
+p80
+aVBut they are very good at searching and optimizing.
+p81
+aVIt will recognize
+p82
+aVthat the keywords "Mozart," "last" and "symphony"
+p83
+aVare appearing heavily around here.
+p84
+aVSo if it can find a word which is a planet
+p85
+aVand which is co-occurring with these keywords,
+p86
+aVthat must be the answer.
+p87
+aVThis is how Watson finds the answer "Jupiter," in this case.
+p88
+aa(lp89
+VOur Todai Robot works similarly, but a bit smarter
+p90
+aVin answering history yes-no questions,
+p91
+aVlike, "'Charlemagne repelled the Magyars.' Is this sentence true or false?"
+p92
+aVOur robot starts producing a factoid question,
+p93
+aVlike: "Charlemagne repelled [this person type]" by itself.
+p94
+aVThen, "Avars" but not "Magyars" is ranked top.
+p95
+aVThis sentence is likely to be false.
+p96
+aVOur robot does not read, does not understand,
+p97
+aVbut it is statistically correct in many cases.
+p98
+aa(lp99
+VFor the second stage written test,
+p100
+aVit is required to write a 600-word essay like this one:
+p101
+aa(lp102
+V[Discuss the rise and fall of the maritime trade
+p103
+aVin East and Southeast Asia in the 17th century ...]
+p104
+aa(lp105
+Vand as I have shown earlier,
+p106
+aVour robot took the sentences from the textbooks and Wikipedia,
+p107
+aVcombined them together,
+p108
+aVand optimized it to produce an essay
+p109
+aVwithout understanding a thing.
+p110
+aa(lp111
+V(Laughter)
+p112
+aa(lp113
+VBut surprisingly, it wrote a better essay
+p114
+aVthan most of the students.
+p115
+aa(lp116
+V(Laughter)
+p117
+aa(lp118
+VHow about mathematics?
+p119
+aVA fully automatic math-solving machine
+p120
+aVhas been a dream
+p121
+aVsince the birth of the word "artificial intelligence,"
+p122
+aVbut it has stayed at the level of arithmetic for a long, long time.
+p123
+aVLast year, we finally succeeded in developing a system
+p124
+aVwhich solved pre-university-level problems from end to end,
+p125
+aVlike this one.
+p126
+aVThis is the original problem written in Japanese,
+p127
+aVand we had to teach it 2,000 mathematical axioms
+p128
+aVand 8,000 Japanese words
+p129
+aVto make it accept the problems written in natural language.
+p130
+aVAnd it is now translating the original problems
+p131
+aVinto machine-readable formulas.
+p132
+aVWeird, but it is now ready to solve it, I think.
+p133
+aVGo and solve it.
+p134
+aVYes! It is now executing symbolic computation.
+p135
+aVEven more weird,
+p136
+aVbut probably this is the most fun part for the machine.
+p137
+aa(lp138
+V(Laughter)
+p139
+aa(lp140
+VNow it outputs a perfect answer,
+p141
+aVthough its proof is impossible to read, even for mathematicians.
+p142
+aVAnyway, last year our robot was among the top one percent
+p143
+aVin the second stage written exam in mathematics.
+p144
+aa(lp145
+V(Applause)
+p146
+aa(lp147
+VThank you.
+p148
+aa(lp149
+VSo, did it enter Todai?
+p150
+aVNo, not as I expected.
+p151
+aVWhy?
+p152
+aVBecause it doesn't understand any meaning.
+p153
+aVLet me show you a typical error it made in the English test.
+p154
+aa(lp155
+V[Nate: We're almost at the bookstore. Just a few more minutes.
+p156
+aVSunil: Wait. ______ . Nate: Thank you! That always happens ...]
+p157
+aa(lp158
+VTwo people are talking.
+p159
+aVFor us, who can understand the situation \u2014
+p160
+aa(lp161
+V[1. "We walked for a long time." 2. "We're almost there."
+p162
+aV3. "Your shoes look expensive." 4. "Your shoelace is untied."]
+p163
+aa(lp164
+Vit is obvious number four is the correct answer, right?
+p165
+aVBut Todai Robot chose number two,
+p166
+aVeven after learning 15 billion English sentences
+p167
+aVusing deep learning technologies.
+p168
+aVOK, so now you might understand what I said:
+p169
+aVmodern AIs do not read,
+p170
+aVdo not understand.
+p171
+aVThey only disguise as if they do.
+p172
+aa(lp173
+VThis is the distribution graph
+p174
+aVof half a million students who took the same exam as Todai Robot.
+p175
+aVNow our Todai Robot is among the top 20 percent,
+p176
+aVand it was capable to pass
+p177
+aVmore than 60 percent of the universities in Japan \u2014
+p178
+aVbut not Todai.
+p179
+aVBut see how it is beyond the volume zone
+p180
+aVof to-be white-collar workers.
+p181
+aa(lp182
+VYou might think I was delighted.
+p183
+aVAfter all, my robot was surpassing students everywhere.
+p184
+aVInstead, I was alarmed.
+p185
+aVHow on earth could this unintelligent machine outperform students \u2014
+p186
+aVour children?
+p187
+aVRight?
+p188
+aVI decided to investigate what was going on in the human world.
+p189
+aVI took hundreds of sentences from high school textbooks
+p190
+aVand made easy multiple-choice quizzes,
+p191
+aVand asked thousands of high school students to answer.
+p192
+aa(lp193
+VHere is an example:
+p194
+aa(lp195
+V[Buddhism spread to ... , Christianity to ... and Oceania,
+p196
+aVand Islam to ...]
+p197
+aa(lp198
+VOf course, the original problems are written in Japanese,
+p199
+aVtheir mother tongue.
+p200
+aa(lp201
+V[ ______ has spread to Oceania.
+p202
+aV1. Hinduism 2. Christianity 3. Islam 4. Buddhism ]
+p203
+aa(lp204
+VObviously, Christianity is the answer, isn't it?
+p205
+aVIt's written!
+p206
+aVAnd Todai Robot chose the correct answer, too.
+p207
+aVBut one-third of junior high school students
+p208
+aVfailed to answer this question.
+p209
+aVDo you think it is only the case in Japan?
+p210
+aVI do not think so,
+p211
+aVbecause Japan is always ranked among the top in OECD PISA tests,
+p212
+aVmeasuring 15-year-old students' performance in mathematics,
+p213
+aVscience and reading
+p214
+aVevery three years.
+p215
+aa(lp216
+VWe have been believing
+p217
+aVthat everybody can learn
+p218
+aVand learn well,
+p219
+aVas long as we provide good learning materials
+p220
+aVfree on the web
+p221
+aVso that they can access through the internet.
+p222
+aVBut such wonderful materials may benefit only those who can read well,
+p223
+aVand the percentage of those who can read well
+p224
+aVmay be much less than we expected.
+p225
+aVHow we humans will coexist with AI
+p226
+aVis something we have to think about carefully,
+p227
+aVbased on solid evidence.
+p228
+aVAt the same time, we have to think in a hurry
+p229
+aVbecause time is running out.
+p230
+aa(lp231
+VThank you.
+p232
+aa(lp233
+V(Applause)
+p234
+aa(lp235
+VChris Anderson: Noriko, thank you.
+p236
+aa(lp237
+VNoriko Arai: Thank you.
+p238
+aa(lp239
+VCA: In your talk, you so beautifully give us a sense of how AIs think,
+p240
+aVwhat they can do amazingly
+p241
+aVand what they can't do.
+p242
+aVBut \u2014 do I read you right,
+p243
+aVthat you think we really need quite an urgent revolution in education
+p244
+aVto help kids do the things that humans can do better than AIs?
+p245
+aa(lp246
+VNA: Yes, yes, yes.
+p247
+aVBecause we humans can understand the meaning.
+p248
+aVThat is something which is very, very lacking in AI.
+p249
+aVBut most of the students just pack the knowledge
+p250
+aVwithout understanding the meaning of the knowledge,
+p251
+aVso that is not knowledge, that is just memorizing,
+p252
+aVand AI can do the same thing.
+p253
+aVSo we have to think about a new type of education.
+p254
+aa(lp255
+VCA: A shift from knowledge, rote knowledge, to meaning.
+p256
+aa(lp257
+VNA: Mm-hmm.
+p258
+aa(lp259
+VCA: Well, there's a challenge for the educators. Thank you so much.
+p260
+aa(lp261
+VNA: Thank you very much. Thank you.
+p262
+aa(lp263
+V(Applause)
+p264
+aasS'id'
+p265
+I2852
+sS'title'
+p266
+VCan a robot pass a university entrance exam?
+p267
+s.

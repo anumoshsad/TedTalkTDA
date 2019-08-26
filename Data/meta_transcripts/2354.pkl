@@ -1,0 +1,606 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VA few years ago,
+p4
+aVwith my colleague, Emmanuelle Charpentier,
+p5
+aVI invented a new technology for editing genomes.
+p6
+aVIt's called CRISPR-Cas9.
+p7
+aVThe CRISPR technology allows scientists to make changes
+p8
+aVto the DNA in cells
+p9
+aVthat could allow us to cure genetic disease.
+p10
+aa(lp11
+VYou might be interested to know
+p12
+aVthat the CRISPR technology came about through a basic research project
+p13
+aVthat was aimed at discovering how bacteria fight viral infections.
+p14
+aVBacteria have to deal with viruses in their environment,
+p15
+aVand we can think about a viral infection like a ticking time bomb \u2014
+p16
+aVa bacterium has only a few minutes to defuse the bomb
+p17
+aVbefore it gets destroyed.
+p18
+aVSo, many bacteria have in their cells an adaptive immune system called CRISPR,
+p19
+aVthat allows them to detect viral DNA and destroy it.
+p20
+aa(lp21
+VPart of the CRISPR system is a protein called Cas9,
+p22
+aVthat's able to seek out, cut and eventually degrade viral DNA
+p23
+aVin a specific way.
+p24
+aVAnd it was through our research
+p25
+aVto understand the activity of this protein, Cas9,
+p26
+aVthat we realized that we could harness its function
+p27
+aVas a genetic engineering technology \u2014
+p28
+aVa way for scientists to delete or insert specific bits of DNA into cells
+p29
+aVwith incredible precision \u2014
+p30
+aVthat would offer opportunities
+p31
+aVto do things that really haven't been possible in the past.
+p32
+aa(lp33
+VThe CRISPR technology has already been used
+p34
+aVto change the DNA in the cells of mice and monkeys,
+p35
+aVother organisms as well.
+p36
+aVChinese scientists showed recently
+p37
+aVthat they could even use the CRISPR technology
+p38
+aVto change genes in human embryos.
+p39
+aVAnd scientists in Philadelphia showed they could use CRISPR
+p40
+aVto remove the DNA of an integrated HIV virus
+p41
+aVfrom infected human cells.
+p42
+aa(lp43
+VThe opportunity to do this kind of genome editing
+p44
+aValso raises various ethical issues that we have to consider,
+p45
+aVbecause this technology can be employed not only in adult cells,
+p46
+aVbut also in the embryos of organisms,
+p47
+aVincluding our own species.
+p48
+aVAnd so, together with my colleagues,
+p49
+aVI've called for a global conversation about the technology that I co-invented,
+p50
+aVso that we can consider all of the ethical and societal implications
+p51
+aVof a technology like this.
+p52
+aa(lp53
+VWhat I want to do now is tell you what the CRISPR technology is,
+p54
+aVwhat it can do,
+p55
+aVwhere we are today
+p56
+aVand why I think we need to take a prudent path forward
+p57
+aVin the way that we employ this technology.
+p58
+aa(lp59
+VWhen viruses infect a cell, they inject their DNA.
+p60
+aVAnd in a bacterium,
+p61
+aVthe CRISPR system allows that DNA to be plucked out of the virus,
+p62
+aVand inserted in little bits into the chromosome \u2014
+p63
+aVthe DNA of the bacterium.
+p64
+aVAnd these integrated bits of viral DNA get inserted at a site called CRISPR.
+p65
+aVCRISPR stands for clustered regularly interspaced short palindromic repeats.
+p66
+aV(Laughter)
+p67
+aa(lp68
+VA big mouthful \u2014 you can see why we use the acronym CRISPR.
+p69
+aVIt's a mechanism that allows cells to record, over time,
+p70
+aVthe viruses they have been exposed to.
+p71
+aVAnd importantly, those bits of DNA are passed on to the cells' progeny,
+p72
+aVso cells are protected from viruses not only in one generation,
+p73
+aVbut over many generations of cells.
+p74
+aVThis allows the cells to keep a record of infection,
+p75
+aVand as my colleague, Blake Wiedenheft, likes to say,
+p76
+aVthe CRISPR locus is effectively a genetic vaccination card in cells.
+p77
+aVOnce those bits of DNA have been inserted into the bacterial chromosome,
+p78
+aVthe cell then makes a little copy of a molecule called RNA,
+p79
+aVwhich is orange in this picture,
+p80
+aVthat is an exact replicate of the viral DNA.
+p81
+aVRNA is a chemical cousin of DNA,
+p82
+aVand it allows interaction with DNA molecules
+p83
+aVthat have a matching sequence.
+p84
+aa(lp85
+VSo those little bits of RNA from the CRISPR locus
+p86
+aVassociate \u2014 they bind \u2014 to protein called Cas9,
+p87
+aVwhich is white in the picture,
+p88
+aVand form a complex that functions like a sentinel in the cell.
+p89
+aVIt searches through all of the DNA in the cell,
+p90
+aVto find sites that match the sequences in the bound RNAs.
+p91
+aVAnd when those sites are found \u2014
+p92
+aVas you can see here, the blue molecule is DNA \u2014
+p93
+aVthis complex associates with that DNA
+p94
+aVand allows the Cas9 cleaver to cut up the viral DNA.
+p95
+aVIt makes a very precise break.
+p96
+aVSo we can think of the Cas9 RNA sentinel complex
+p97
+aVlike a pair of scissors that can cut DNA \u2014
+p98
+aVit makes a double-stranded break in the DNA helix.
+p99
+aVAnd importantly, this complex is programmable,
+p100
+aVso it can be programmed to recognize particular DNA sequences,
+p101
+aVand make a break in the DNA at that site.
+p102
+aa(lp103
+VAs I'm going to tell you now,
+p104
+aVwe recognized that that activity could be harnessed for genome engineering,
+p105
+aVto allow cells to make a very precise change to the DNA
+p106
+aVat the site where this break was introduced.
+p107
+aVThat's sort of analogous
+p108
+aVto the way that we use a word-processing program
+p109
+aVto fix a typo in a document.
+p110
+aa(lp111
+VThe reason we envisioned using the CRISPR system for genome engineering
+p112
+aVis because cells have the ability to detect broken DNA
+p113
+aVand repair it.
+p114
+aVSo when a plant or an animal cell detects a double-stranded break in its DNA,
+p115
+aVit can fix that break,
+p116
+aVeither by pasting together the ends of the broken DNA
+p117
+aVwith a little, tiny change in the sequence of that position,
+p118
+aVor it can repair the break by integrating a new piece of DNA at the site of the cut.
+p119
+aVSo if we have a way to introduce double-stranded breaks into DNA
+p120
+aVat precise places,
+p121
+aVwe can trigger cells to repair those breaks,
+p122
+aVby either the disruption or incorporation of new genetic information.
+p123
+aVSo if we were able to program the CRISPR technology
+p124
+aVto make a break in DNA
+p125
+aVat the position at or near a mutation causing cystic fibrosis, for example,
+p126
+aVwe could trigger cells to repair that mutation.
+p127
+aa(lp128
+VGenome engineering is actually not new, it's been in development since the 1970s.
+p129
+aVWe've had technologies for sequencing DNA,
+p130
+aVfor copying DNA,
+p131
+aVand even for manipulating DNA.
+p132
+aVAnd these technologies were very promising,
+p133
+aVbut the problem was that they were either inefficient,
+p134
+aVor they were difficult enough to use
+p135
+aVthat most scientists had not adopted them for use in their own laboratories,
+p136
+aVor certainly for many clinical applications.
+p137
+aVSo, the opportunity to take a technology like CRISPR and utilize it has appeal,
+p138
+aVbecause of its relative simplicity.
+p139
+aVWe can think of older genome engineering technologies
+p140
+aVas similar to having to rewire your computer
+p141
+aVeach time you want to run a new piece of software,
+p142
+aVwhereas the CRISPR technology is like software for the genome,
+p143
+aVwe can program it easily, using these little bits of RNA.
+p144
+aa(lp145
+VSo once a double-stranded break is made in DNA,
+p146
+aVwe can induce repair,
+p147
+aVand thereby potentially achieve astounding things,
+p148
+aVlike being able to correct mutations that cause sickle cell anemia
+p149
+aVor cause Huntington's Disease.
+p150
+aVI actually think that the first applications of the CRISPR technology
+p151
+aVare going to happen in the blood,
+p152
+aVwhere it's relatively easier to deliver this tool into cells,
+p153
+aVcompared to solid tissues.
+p154
+aa(lp155
+VRight now, a lot of the work that's going on
+p156
+aVapplies to animal models of human disease, such as mice.
+p157
+aVThe technology is being used to make very precise changes
+p158
+aVthat allow us to study the way that these changes in the cell's DNA
+p159
+aVaffect either a tissue or, in this case, an entire organism.
+p160
+aa(lp161
+VNow in this example,
+p162
+aVthe CRISPR technology was used to disrupt a gene
+p163
+aVby making a tiny change in the DNA
+p164
+aVin a gene that is responsible for the black coat color of these mice.
+p165
+aVImagine that these white mice differ from their pigmented litter-mates
+p166
+aVby just a tiny change at one gene in the entire genome,
+p167
+aVand they're otherwise completely normal.
+p168
+aVAnd when we sequence the DNA from these animals,
+p169
+aVwe find that the change in the DNA
+p170
+aVhas occurred at exactly the place where we induced it,
+p171
+aVusing the CRISPR technology.
+p172
+aa(lp173
+VAdditional experiments are going on in other animals
+p174
+aVthat are useful for creating models for human disease,
+p175
+aVsuch as monkeys.
+p176
+aVAnd here we find that we can use these systems
+p177
+aVto test the application of this technology in particular tissues,
+p178
+aVfor example, figuring out how to deliver the CRISPR tool into cells.
+p179
+aVWe also want to understand better
+p180
+aVhow to control the way that DNA is repaired after it's cut,
+p181
+aVand also to figure out how to control and limit any kind of off-target,
+p182
+aVor unintended effects of using the technology.
+p183
+aa(lp184
+VI think that we will see clinical application of this technology,
+p185
+aVcertainly in adults,
+p186
+aVwithin the next 10 years.
+p187
+aVI think that it's likely that we will see clinical trials
+p188
+aVand possibly even approved therapies within that time,
+p189
+aVwhich is a very exciting thing to think about.
+p190
+aVAnd because of the excitement around this technology,
+p191
+aVthere's a lot of interest in start-up companies
+p192
+aVthat have been founded to commercialize the CRISPR technology,
+p193
+aVand lots of venture capitalists
+p194
+aVthat have been investing in these companies.
+p195
+aa(lp196
+VBut we have to also consider
+p197
+aVthat the CRISPR technology can be used for things like enhancement.
+p198
+aVImagine that we could try to engineer humans
+p199
+aVthat have enhanced properties, such as stronger bones,
+p200
+aVor less susceptibility to cardiovascular disease
+p201
+aVor even to have properties
+p202
+aVthat we would consider maybe to be desirable,
+p203
+aVlike a different eye color or to be taller, things like that.
+p204
+aV"Designer humans," if you will.
+p205
+aVRight now, the genetic information
+p206
+aVto understand what types of genes would give rise to these traits
+p207
+aVis mostly not known.
+p208
+aVBut it's important to know
+p209
+aVthat the CRISPR technology gives us a tool to make such changes,
+p210
+aVonce that knowledge becomes available.
+p211
+aa(lp212
+VThis raises a number of ethical questions that we have to carefully consider,
+p213
+aVand this is why I and my colleagues have called for a global pause
+p214
+aVin any clinical application of the CRISPR technology in human embryos,
+p215
+aVto give us time
+p216
+aVto really consider all of the various implications of doing so.
+p217
+aVAnd actually, there is an important precedent for such a pause
+p218
+aVfrom the 1970s,
+p219
+aVwhen scientists got together
+p220
+aVto call for a moratorium on the use of molecular cloning,
+p221
+aVuntil the safety of that technology could be tested carefully and validated.
+p222
+aa(lp223
+VSo, genome-engineered humans are not with us yet,
+p224
+aVbut this is no longer science fiction.
+p225
+aVGenome-engineered animals and plants are happening right now.
+p226
+aVAnd this puts in front of all of us a huge responsibility,
+p227
+aVto consider carefully both the unintended consequences
+p228
+aVas well as the intended impacts of a scientific breakthrough.
+p229
+aa(lp230
+VThank you.
+p231
+aa(lp232
+V(Applause)
+p233
+aa(lp234
+V(Applause ends)
+p235
+aa(lp236
+VBruno Giussani: Jennifer, this is a technology with huge consequences,
+p237
+aVas you pointed out.
+p238
+aVYour attitude about asking for a pause or a moratorium or a quarantine
+p239
+aVis incredibly responsible.
+p240
+aVThere are, of course, the therapeutic results of this,
+p241
+aVbut then there are the un-therapeutic ones
+p242
+aVand they seem to be the ones gaining traction,
+p243
+aVparticularly in the media.
+p244
+aVThis is one of the latest issues of The Economist \u2014 "Editing humanity."
+p245
+aVIt's all about genetic enhancement, it's not about therapeutics.
+p246
+aVWhat kind of reactions did you get back in March
+p247
+aVfrom your colleagues in the science world,
+p248
+aVwhen you asked or suggested
+p249
+aVthat we should actually pause this for a moment and think about it?
+p250
+aa(lp251
+VJennifer Doudna: My colleagues were actually, I think, delighted
+p252
+aVto have the opportunity to discuss this openly.
+p253
+aVIt's interesting that as I talk to people,
+p254
+aVmy scientific colleagues as well as others,
+p255
+aVthere's a wide variety of viewpoints about this.
+p256
+aVSo clearly it's a topic that needs careful consideration and discussion.
+p257
+aa(lp258
+VBG: There's a big meeting happening in December
+p259
+aVthat you and your colleagues are calling,
+p260
+aVtogether with the National Academy of Sciences and others,
+p261
+aVwhat do you hope will come out of the meeting, practically?
+p262
+aa(lp263
+VJD: Well, I hope that we can air the views
+p264
+aVof many different individuals and stakeholders
+p265
+aVwho want to think about how to use this technology responsibly.
+p266
+aVIt may not be possible to come up with a consensus point of view,
+p267
+aVbut I think we should at least understand
+p268
+aVwhat all the issues are as we go forward.
+p269
+aa(lp270
+VBG: Now, colleagues of yours,
+p271
+aVlike George Church, for example, at Harvard,
+p272
+aVthey say, "Yeah, ethical issues basically are just a question of safety.
+p273
+aVWe test and test and test again, in animals and in labs,
+p274
+aVand then once we feel it's safe enough, we move on to humans."
+p275
+aVSo that's kind of the other school of thought,
+p276
+aVthat we should actually use this opportunity and really go for it.
+p277
+aVIs there a possible split happening in the science community about this?
+p278
+aVI mean, are we going to see some people holding back
+p279
+aVbecause they have ethical concerns,
+p280
+aVand some others just going forward
+p281
+aVbecause some countries under-regulate or don't regulate at all?
+p282
+aa(lp283
+VJD: Well, I think with any new technology, especially something like this,
+p284
+aVthere are going to be a variety of viewpoints,
+p285
+aVand I think that's perfectly understandable.
+p286
+aVI think that in the end,
+p287
+aVthis technology will be used for human genome engineering,
+p288
+aVbut I think to do that without careful consideration and discussion
+p289
+aVof the risks and potential complications
+p290
+aVwould not be responsible.
+p291
+aa(lp292
+VBG: There are a lot of technologies and other fields of science
+p293
+aVthat are developing exponentially, pretty much like yours.
+p294
+aVI'm thinking about artificial intelligence, autonomous robots and so on.
+p295
+aVNo one seems \u2014
+p296
+aVaside from autonomous warfare robots \u2014
+p297
+aVnobody seems to have launched a similar discussion in those fields,
+p298
+aVin calling for a moratorium.
+p299
+aVDo you think that your discussion may serve as a blueprint for other fields?
+p300
+aa(lp301
+VJD: Well, I think it's hard for scientists to get out of the laboratory.
+p302
+aVSpeaking for myself,
+p303
+aVit's a little bit uncomfortable to do that.
+p304
+aVBut I do think that being involved in the genesis of this
+p305
+aVreally puts me and my colleagues in a position of responsibility.
+p306
+aVAnd I would say that I certainly hope that other technologies
+p307
+aVwill be considered in the same way,
+p308
+aVjust as we would want to consider something that could have implications
+p309
+aVin other fields besides biology.
+p310
+aa(lp311
+VBG: Jennifer, thanks for coming to TED.
+p312
+aa(lp313
+VJD: Thank you.
+p314
+aa(lp315
+V(Applause)
+p316
+aasS'id'
+p317
+I2354
+sS'title'
+p318
+V How CRISPR lets us edit our DNA
+p319
+s.

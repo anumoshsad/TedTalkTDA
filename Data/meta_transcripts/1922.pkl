@@ -1,0 +1,572 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIntelligence \u2014 what is it?
+p4
+aVIf we take a look back at the history
+p5
+aVof how intelligence has been viewed,
+p6
+aVone seminal example has been
+p7
+aVEdsger Dijkstra's famous quote that
+p8
+aV"the question of whether a machine can think
+p9
+aVis about as interesting
+p10
+aVas the question of whether a submarine
+p11
+aVcan swim."
+p12
+aVNow, Edsger Dijkstra, when he wrote this,
+p13
+aVintended it as a criticism
+p14
+aVof the early pioneers of computer science,
+p15
+aVlike Alan Turing.
+p16
+aVHowever, if you take a look back
+p17
+aVand think about what have been
+p18
+aVthe most empowering innovations
+p19
+aVthat enabled us to build
+p20
+aVartificial machines that swim
+p21
+aVand artificial machines that [fly],
+p22
+aVyou find that it was only through understanding
+p23
+aVthe underlying physical mechanisms
+p24
+aVof swimming and flight
+p25
+aVthat we were able to build these machines.
+p26
+aVAnd so, several years ago,
+p27
+aVI undertook a program to try to understand
+p28
+aVthe fundamental physical mechanisms
+p29
+aVunderlying intelligence.
+p30
+aa(lp31
+VLet's take a step back.
+p32
+aVLet's first begin with a thought experiment.
+p33
+aVPretend that you're an alien race
+p34
+aVthat doesn't know anything about Earth biology
+p35
+aVor Earth neuroscience or Earth intelligence,
+p36
+aVbut you have amazing telescopes
+p37
+aVand you're able to watch the Earth,
+p38
+aVand you have amazingly long lives,
+p39
+aVso you're able to watch the Earth
+p40
+aVover millions, even billions of years.
+p41
+aVAnd you observe a really strange effect.
+p42
+aVYou observe that, over the course of the millennia,
+p43
+aVEarth is continually bombarded with asteroids
+p44
+aVup until a point,
+p45
+aVand that at some point,
+p46
+aVcorresponding roughly to our year, 2000 AD,
+p47
+aVasteroids that are on
+p48
+aVa collision course with the Earth
+p49
+aVthat otherwise would have collided
+p50
+aVmysteriously get deflected
+p51
+aVor they detonate before they can hit the Earth.
+p52
+aVNow of course, as earthlings,
+p53
+aVwe know the reason would be
+p54
+aVthat we're trying to save ourselves.
+p55
+aVWe're trying to prevent an impact.
+p56
+aVBut if you're an alien race
+p57
+aVwho doesn't know any of this,
+p58
+aVdoesn't have any concept of Earth intelligence,
+p59
+aVyou'd be forced to put together
+p60
+aVa physical theory that explains how,
+p61
+aVup until a certain point in time,
+p62
+aVasteroids that would demolish the surface of a planet
+p63
+aVmysteriously stop doing that.
+p64
+aVAnd so I claim that this is the same question
+p65
+aVas understanding the physical nature of intelligence.
+p66
+aa(lp67
+VSo in this program that I undertook several years ago,
+p68
+aVI looked at a variety of different threads
+p69
+aVacross science, across a variety of disciplines,
+p70
+aVthat were pointing, I think,
+p71
+aVtowards a single, underlying mechanism
+p72
+aVfor intelligence.
+p73
+aVIn cosmology, for example,
+p74
+aVthere have been a variety of different threads of evidence
+p75
+aVthat our universe appears to be finely tuned
+p76
+aVfor the development of intelligence,
+p77
+aVand, in particular, for the development
+p78
+aVof universal states
+p79
+aVthat maximize the diversity of possible futures.
+p80
+aVIn game play, for example, in Go \u2014
+p81
+aVeveryone remembers in 1997
+p82
+aVwhen IBM's Deep Blue beat  Garry Kasparov at chess \u2014
+p83
+aVfewer people are aware
+p84
+aVthat in the past 10 years or so,
+p85
+aVthe game of Go,
+p86
+aVarguably a much more challenging game
+p87
+aVbecause it has a much higher branching factor,
+p88
+aVhas also started to succumb
+p89
+aVto computer game players
+p90
+aVfor the same reason:
+p91
+aVthe best techniques right now for computers playing Go
+p92
+aVare techniques that try to maximize future options
+p93
+aVduring game play.
+p94
+aVFinally, in robotic motion planning,
+p95
+aVthere have been a variety of recent techniques
+p96
+aVthat have tried to take advantage
+p97
+aVof abilities of robots to maximize
+p98
+aVfuture freedom of action
+p99
+aVin order to accomplish complex tasks.
+p100
+aVAnd so, taking all of these different threads
+p101
+aVand putting them together,
+p102
+aVI asked, starting several years ago,
+p103
+aVis there an underlying mechanism for intelligence
+p104
+aVthat we can factor out
+p105
+aVof all of these different threads?
+p106
+aVIs there a single equation for intelligence?
+p107
+aa(lp108
+VAnd the answer, I believe, is yes. ["F = T \u2207 S\u03c4"]
+p109
+aVWhat you're seeing is probably
+p110
+aVthe closest equivalent to an E = mc²
+p111
+aVfor intelligence that I've seen.
+p112
+aVSo what you're seeing here
+p113
+aVis a statement of correspondence
+p114
+aVthat intelligence is a force, F,
+p115
+aVthat acts so as to maximize future freedom of action.
+p116
+aVIt acts to maximize future freedom of action,
+p117
+aVor keep options open,
+p118
+aVwith some strength T,
+p119
+aVwith the diversity of possible accessible futures, S,
+p120
+aVup to some future time horizon, tau.
+p121
+aVIn short, intelligence doesn't like to get trapped.
+p122
+aVIntelligence tries to maximize future freedom of action
+p123
+aVand keep options open.
+p124
+aVAnd so, given this one equation,
+p125
+aVit's natural to ask, so what can you do with this?
+p126
+aVHow predictive is it?
+p127
+aVDoes it predict human-level intelligence?
+p128
+aVDoes it predict artificial intelligence?
+p129
+aVSo I'm going to show you now a video
+p130
+aVthat will, I think, demonstrate
+p131
+aVsome of the amazing applications
+p132
+aVof just this single equation.
+p133
+aa(lp134
+V(Video) Narrator: Recent research in cosmology
+p135
+aVhas suggested that universes that produce
+p136
+aVmore disorder, or "entropy," over their lifetimes
+p137
+aVshould tend to have more favorable conditions
+p138
+aVfor the existence of intelligent beings such as ourselves.
+p139
+aVBut what if that tentative cosmological connection
+p140
+aVbetween entropy and intelligence
+p141
+aVhints at a deeper relationship?
+p142
+aVWhat if intelligent behavior doesn't just correlate
+p143
+aVwith the production of long-term entropy,
+p144
+aVbut actually emerges directly from it?
+p145
+aVTo find out, we developed a software engine
+p146
+aVcalled Entropica, designed to maximize
+p147
+aVthe production of long-term entropy
+p148
+aVof any system that it finds itself in.
+p149
+aVAmazingly, Entropica was able to pass
+p150
+aVmultiple animal intelligence tests, play human games,
+p151
+aVand even earn money trading stocks,
+p152
+aVall without being instructed to do so.
+p153
+aVHere are some examples of Entropica in action.
+p154
+aa(lp155
+VJust like a human standing upright without falling over,
+p156
+aVhere we see Entropica
+p157
+aVautomatically balancing a pole using a cart.
+p158
+aVThis behavior is remarkable in part
+p159
+aVbecause we never gave Entropica a goal.
+p160
+aVIt simply decided on its own to balance the pole.
+p161
+aVThis balancing ability will have appliactions
+p162
+aVfor humanoid robotics
+p163
+aVand human assistive technologies.
+p164
+aVJust as some animals can use objects
+p165
+aVin their environments as tools
+p166
+aVto reach into narrow spaces,
+p167
+aVhere we see that Entropica,
+p168
+aVagain on its own initiative,
+p169
+aVwas able to move a large disk representing an animal
+p170
+aVaround so as to cause a small disk,
+p171
+aVrepresenting a tool, to reach into a confined space
+p172
+aVholding a third disk
+p173
+aVand release the third disk from its initially fixed position.
+p174
+aVThis tool use ability will have applications
+p175
+aVfor smart manufacturing and agriculture.
+p176
+aVIn addition, just as some other animals
+p177
+aVare able to cooperate by pulling opposite ends of a rope
+p178
+aVat the same time to release food,
+p179
+aVhere we see that Entropica is able to accomplish
+p180
+aVa model version of that task.
+p181
+aVThis cooperative ability has interesting implications
+p182
+aVfor economic planning and a variety of other fields.
+p183
+aa(lp184
+VEntropica is broadly applicable
+p185
+aVto a variety of domains.
+p186
+aVFor example, here we see it successfully
+p187
+aVplaying a game of pong against itself,
+p188
+aVillustrating its potential for gaming.
+p189
+aVHere we see Entropica orchestrating
+p190
+aVnew connections on a social network
+p191
+aVwhere friends are constantly falling out of touch
+p192
+aVand successfully keeping the network well connected.
+p193
+aVThis same network orchestration ability
+p194
+aValso has applications in health care,
+p195
+aVenergy, and intelligence.
+p196
+aVHere we see Entropica directing the paths
+p197
+aVof a fleet of ships,
+p198
+aVsuccessfully discovering and utilizing the Panama Canal
+p199
+aVto globally extend its reach from the Atlantic
+p200
+aVto the Pacific.
+p201
+aVBy the same token, Entropica
+p202
+aVis broadly applicable to problems
+p203
+aVin autonomous defense, logistics and transportation.
+p204
+aa(lp205
+VFinally, here we see Entropica
+p206
+aVspontaneously discovering and executing
+p207
+aVa buy-low, sell-high strategy
+p208
+aVon a simulated range traded stock,
+p209
+aVsuccessfully growing assets under management
+p210
+aVexponentially.
+p211
+aVThis risk management ability
+p212
+aVwill have broad applications in finance
+p213
+aVand insurance.
+p214
+aa(lp215
+VAlex Wissner-Gross: So what you've just seen
+p216
+aVis that a variety of signature human intelligent
+p217
+aVcognitive behaviors
+p218
+aVsuch as tool use and walking upright
+p219
+aVand social cooperation
+p220
+aVall follow from a single equation,
+p221
+aVwhich drives a system
+p222
+aVto maximize its future freedom of action.
+p223
+aa(lp224
+VNow, there's a profound irony here.
+p225
+aVGoing back to the beginning
+p226
+aVof the usage of the term robot,
+p227
+aVthe play "RUR,"
+p228
+aVthere was always a concept
+p229
+aVthat if we developed machine intelligence,
+p230
+aVthere would be a cybernetic revolt.
+p231
+aVThe machines would rise up against us.
+p232
+aVOne major consequence of this work
+p233
+aVis that maybe all of these decades,
+p234
+aVwe've had the whole concept of cybernetic revolt
+p235
+aVin reverse.
+p236
+aVIt's not that machines first become intelligent
+p237
+aVand then megalomaniacal
+p238
+aVand try to take over the world.
+p239
+aVIt's quite the opposite,
+p240
+aVthat the urge to take control
+p241
+aVof all possible futures
+p242
+aVis a more fundamental principle
+p243
+aVthan that of intelligence,
+p244
+aVthat general intelligence may in fact emerge
+p245
+aVdirectly from this sort of control-grabbing,
+p246
+aVrather than vice versa.
+p247
+aa(lp248
+VAnother important consequence is goal seeking.
+p249
+aVI'm often asked, how does the ability to seek goals
+p250
+aVfollow from this sort of framework?
+p251
+aVAnd the answer is, the ability to seek goals
+p252
+aVwill follow directly from this
+p253
+aVin the following sense:
+p254
+aVjust like you would travel through a tunnel,
+p255
+aVa bottleneck in your future path space,
+p256
+aVin order to achieve many other
+p257
+aVdiverse objectives later on,
+p258
+aVor just like you would invest
+p259
+aVin a financial security,
+p260
+aVreducing your short-term liquidity
+p261
+aVin order to increase your wealth over the long term,
+p262
+aVgoal seeking emerges directly
+p263
+aVfrom a long-term drive
+p264
+aVto increase future freedom of action.
+p265
+aa(lp266
+VFinally, Richard Feynman, famous physicist,
+p267
+aVonce wrote that if human civilization were destroyed
+p268
+aVand you could pass only a single concept
+p269
+aVon to our descendants
+p270
+aVto help them rebuild civilization,
+p271
+aVthat concept should be
+p272
+aVthat all matter around us
+p273
+aVis made out of tiny elements
+p274
+aVthat attract each other when they're far apart
+p275
+aVbut repel each other when they're close together.
+p276
+aVMy equivalent of that statement
+p277
+aVto pass on to descendants
+p278
+aVto help them build artificial intelligences
+p279
+aVor to help them understand human intelligence,
+p280
+aVis the following:
+p281
+aVIntelligence should be viewed
+p282
+aVas a physical process
+p283
+aVthat tries to maximize future freedom of action
+p284
+aVand avoid constraints in its own future.
+p285
+aa(lp286
+VThank you very much.
+p287
+aa(lp288
+V(Applause)
+p289
+aasS'id'
+p290
+I1922
+sS'title'
+p291
+VA new equation for intelligence
+p292
+s.

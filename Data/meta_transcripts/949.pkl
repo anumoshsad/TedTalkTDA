@@ -1,0 +1,797 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWell, that's kind of an obvious statement up there.
+p4
+aVI started with that sentence about 12 years ago,
+p5
+aVand I started in the context
+p6
+aVof developing countries,
+p7
+aVbut you're sitting here from every corner of the world.
+p8
+aVSo if you think of a map of your country,
+p9
+aVI think you'll realize
+p10
+aVthat for every country on Earth,
+p11
+aVyou could draw little circles to say,
+p12
+aV"These are places where good teachers won't go."
+p13
+aVOn top of that,
+p14
+aVthose are the places from where trouble comes.
+p15
+aVSo we have an ironic problem \u2014
+p16
+aVgood teachers don't want to go
+p17
+aVto just those places where they're needed the most.
+p18
+aa(lp19
+VI started in 1999
+p20
+aVto try and address this problem with an experiment,
+p21
+aVwhich was a very simple experiment in New Delhi.
+p22
+aVI basically embedded a computer
+p23
+aVinto a wall of a slum in New Delhi.
+p24
+aVThe children barely went to school, they didn't know any English \u2014
+p25
+aVthey'd never seen a computer before,
+p26
+aVand they didn't know what the internet was.
+p27
+aVI connected high speed internet to it \u2014 it's about three feet off the ground \u2014
+p28
+aVturned it on and left it there.
+p29
+aVAfter this,
+p30
+aVwe noticed a couple of interesting things, which you'll see.
+p31
+aVBut I repeated this all over India
+p32
+aVand then through
+p33
+aVa large part of the world
+p34
+aVand noticed
+p35
+aVthat children will learn to do
+p36
+aVwhat they want to learn to do.
+p37
+aa(lp38
+VThis is the first experiment that we did \u2014
+p39
+aVeight year-old boy on your right
+p40
+aVteaching his student, a six year-old girl,
+p41
+aVand he was teaching her how to browse.
+p42
+aVThis boy here in the middle of central India \u2014
+p43
+aVthis is in a Rajasthan village,
+p44
+aVwhere the children recorded their own music
+p45
+aVand then played it back to each other
+p46
+aVand in the process,
+p47
+aVthey've enjoyed themselves thoroughly.
+p48
+aVThey did all of this in four hours
+p49
+aVafter seeing the computer for the first time.
+p50
+aVIn another South Indian village,
+p51
+aVthese boys here
+p52
+aVhad assembled a video camera
+p53
+aVand were trying to take the photograph of a bumble bee.
+p54
+aVThey downloaded it from Disney.com,
+p55
+aVor one of these websites,
+p56
+aV14 days after putting the computer in their village.
+p57
+aVSo at the end of it,
+p58
+aVwe concluded that groups of children
+p59
+aVcan learn to use computers and the internet on their own,
+p60
+aVirrespective of who
+p61
+aVor where they were.
+p62
+aa(lp63
+VAt that point, I became a little more ambitious
+p64
+aVand decided to see
+p65
+aVwhat else could children do with a computer.
+p66
+aVWe started off with an experiment in Hyderabad, India,
+p67
+aVwhere I gave a group of children \u2014
+p68
+aVthey spoke English with a very strong Telugu accent.
+p69
+aVI gave them a computer
+p70
+aVwith a speech-to-text interface,
+p71
+aVwhich you now get free with Windows,
+p72
+aVand asked them to speak into it.
+p73
+aVSo when they spoke into it,
+p74
+aVthe computer typed out gibberish,
+p75
+aVso they said, "Well, it doesn't understand anything of what we are saying."
+p76
+aVSo I said, "Yeah, I'll leave it here for two months.
+p77
+aVMake yourself understood
+p78
+aVto the computer."
+p79
+aVSo the children said, "How do we do that."
+p80
+aVAnd I said,
+p81
+aV"I don't know, actually."
+p82
+aV(Laughter)
+p83
+aVAnd I left.
+p84
+aV(Laughter)
+p85
+aVTwo months later \u2014
+p86
+aVand this is now documented
+p87
+aVin the Information Technology
+p88
+aVfor International Development journal \u2014
+p89
+aVthat accents had changed
+p90
+aVand were remarkably close to the neutral British accent
+p91
+aVin which I had trained the speech-to-text synthesizer.
+p92
+aVIn other words, they were all speaking like James Tooley.
+p93
+aV(Laughter)
+p94
+aVSo they could do that on their own.
+p95
+aVAfter that, I started to experiment
+p96
+aVwith various other things
+p97
+aVthat they might learn to do on their own.
+p98
+aa(lp99
+VI got an interesting phone call once from Columbo,
+p100
+aVfrom the late Arthur C. Clarke,
+p101
+aVwho said, "I want to see what's going on."
+p102
+aVAnd he couldn't travel, so I went over there.
+p103
+aVHe said two interesting things,
+p104
+aV"A teacher that can be replaced by a machine should be."
+p105
+aV(Laughter)
+p106
+aVThe second thing he said was that,
+p107
+aV"If children have interest,
+p108
+aVthen education happens."
+p109
+aVAnd I was doing that in the field,
+p110
+aVso every time I would watch it and think of him.
+p111
+aa(lp112
+V(Video) Arthur C. Clarke: And they can definitely
+p113
+aVhelp people,
+p114
+aVbecause children quickly learn to navigate
+p115
+aVthe web and find things which interest them.
+p116
+aVAnd when you've got interest, then you have education.
+p117
+aa(lp118
+VSugata Mitra: I took the experiment to South Africa.
+p119
+aVThis is a 15 year-old boy.
+p120
+aa(lp121
+V(Video) Boy: ... just mention, I play games
+p122
+aVlike animals,
+p123
+aVand I listen to music.
+p124
+aa(lp125
+VSM: And I asked him, "Do you send emails?"
+p126
+aVAnd he said, "Yes, and they hop across the ocean."
+p127
+aVThis is in Cambodia,
+p128
+aVrural Cambodia \u2014
+p129
+aVa fairly silly arithmetic game,
+p130
+aVwhich no child would play inside the classroom or at home.
+p131
+aVThey would, you know, throw it back at you.
+p132
+aVThey'd say, "This is very boring."
+p133
+aVIf you leave it on the pavement
+p134
+aVand if all the adults go away,
+p135
+aVthen they will show off with each other
+p136
+aVabout what they can do.
+p137
+aVThis is what these children are doing.
+p138
+aVThey are trying to multiply, I think.
+p139
+aVAnd all over India,
+p140
+aVat the end of about two years,
+p141
+aVchildren were beginning to Google their homework.
+p142
+aVAs a result, the teachers reported
+p143
+aVtremendous improvements in their English \u2014
+p144
+aV(Laughter)
+p145
+aVrapid improvement and all sorts of things.
+p146
+aVThey said, "They have become really deep thinkers and so on and so forth.
+p147
+aV(Laughter)
+p148
+aVAnd indeed they had.
+p149
+aVI mean, if there's stuff on Google,
+p150
+aVwhy would you need to stuff it into your head?
+p151
+aVSo at the end of the next four years,
+p152
+aVI decided that groups of children can navigate the internet
+p153
+aVto achieve educational objectives on their own.
+p154
+aa(lp155
+VAt that time, a large amount of money
+p156
+aVhad come into Newcastle University
+p157
+aVto improve schooling in India.
+p158
+aVSo Newcastle gave me a call. I said, "I'll do it from Delhi."
+p159
+aVThey said, "There's no way you're going to handle
+p160
+aVa million pounds-worth of University money
+p161
+aVsitting in Delhi."
+p162
+aVSo in 2006,
+p163
+aVI bought myself a heavy overcoat
+p164
+aVand moved to Newcastle.
+p165
+aVI wanted to test the limits
+p166
+aVof the system.
+p167
+aVThe first experiment I did out of Newcastle
+p168
+aVwas actually done in India.
+p169
+aVAnd I set myself and impossible target:
+p170
+aVcan Tamil speaking
+p171
+aV12-year-old children
+p172
+aVin a South Indian village
+p173
+aVteach themselves biotechnology
+p174
+aVin English on their own?
+p175
+aVAnd I thought, I'll test them, they'll get a zero \u2014
+p176
+aVI'll give the materials, I'll come back and test them \u2014
+p177
+aVthey get another zero,
+p178
+aVI'll go back and say, "Yes, we need teachers for certain things."
+p179
+aa(lp180
+VI called in 26 children.
+p181
+aVThey all came in there, and I told them
+p182
+aVthat there's some really difficult stuff on this computer.
+p183
+aVI wouldn't be surprised if you didn't understand anything.
+p184
+aVIt's all in English, and I'm going.
+p185
+aV(Laughter)
+p186
+aVSo I left them with it.
+p187
+aVI came back after two months,
+p188
+aVand the 26 children marched in looking very, very quiet.
+p189
+aVI said, "Well, did you look at any of the stuff?"
+p190
+aVThey said, "Yes, we did."
+p191
+aV"Did you understand anything?" "No, nothing."
+p192
+aVSo I said,
+p193
+aV"Well, how long did you practice on it
+p194
+aVbefore you decided you understood nothing?"
+p195
+aVThey said, "We look at it every day."
+p196
+aVSo I said, "For two months, you were looking at stuff you didn't understand?"
+p197
+aVSo a 12 year-old girl raises her hand and says,
+p198
+aVliterally,
+p199
+aV"Apart from the fact that improper replication of the DNA molecule
+p200
+aVcauses genetic disease,
+p201
+aVwe've understood nothing else."
+p202
+aa(lp203
+V(Laughter)
+p204
+aa(lp205
+V(Applause)
+p206
+aa(lp207
+V(Laughter)
+p208
+aa(lp209
+VIt took me three years to publish that.
+p210
+aVIt's just been published in the British Journal of Educational Technology.
+p211
+aVOne of the referees who refereed the paper said,
+p212
+aV"It's too good to be true,"
+p213
+aVwhich was not very nice.
+p214
+aVWell, one of the girls had taught herself
+p215
+aVto become the teacher.
+p216
+aVAnd then that's her over there.
+p217
+aVRemember, they don't study English.
+p218
+aVI edited out the last bit when I asked, "Where is the neuron?"
+p219
+aVand she says, "The neuron? The neuron,"
+p220
+aVand then she looked and did this.
+p221
+aVWhatever the expression, it was not very nice.
+p222
+aa(lp223
+VSo their scores had gone up from zero to 30 percent,
+p224
+aVwhich is an educational impossibility under the circumstances.
+p225
+aVBut 30 percent is not a pass.
+p226
+aVSo I found that they had a friend,
+p227
+aVa local accountant, a young girl,
+p228
+aVand they played football with her.
+p229
+aVI asked that girl, "Would you teach them
+p230
+aVenough biotechnology to pass?"
+p231
+aVAnd she said, "How would I do that? I don't know the subject."
+p232
+aVI said, "No, use the method of the grandmother."
+p233
+aVShe said, "What's that?"
+p234
+aVI said, "Well, what you've got to do
+p235
+aVis stand behind them
+p236
+aVand admire them all the time.
+p237
+aVJust say to them, 'That's cool. That's fantastic.
+p238
+aVWhat is that? Can you do that again? Can you show me some more?'"
+p239
+aVShe did that for two months.
+p240
+aVThe scores went up to 50,
+p241
+aVwhich is what the posh schools of New Delhi,
+p242
+aVwith a trained biotechnology teacher were getting.
+p243
+aa(lp244
+VSo I came back to Newcastle
+p245
+aVwith these results
+p246
+aVand decided
+p247
+aVthat there was something happening here
+p248
+aVthat definitely was getting very serious.
+p249
+aVSo, having experimented in all sorts of remote places,
+p250
+aVI came to the most remote place that I could think of.
+p251
+aV(Laughter)
+p252
+aVApproximately 5,000 miles from Delhi
+p253
+aVis the little town of Gateshead.
+p254
+aVIn Gateshead, I took 32 children
+p255
+aVand I started to fine-tune the method.
+p256
+aVI made them into groups of four.
+p257
+aVI said, "You make your own groups of four.
+p258
+aVEach group of four can use one computer and not four computers."
+p259
+aVRemember, from the Hole in the Wall.
+p260
+aV"You can exchange groups.
+p261
+aVYou can walk across to another group,
+p262
+aVif you don't like your group, etc.
+p263
+aVYou can go to another group, peer over their shoulders, see what they're doing,
+p264
+aVcome back to you own group and claim it as your own work."
+p265
+aVAnd I explained to them
+p266
+aVthat, you know, a lot of scientific research is done using that method.
+p267
+aa(lp268
+V(Laughter)
+p269
+aa(lp270
+V(Applause)
+p271
+aa(lp272
+VThe children enthusiastically got after me and said,
+p273
+aV"Now, what do you want us to do?"
+p274
+aVI gave them six GCSE questions.
+p275
+aVThe first group \u2014 the best one \u2014
+p276
+aVsolved everything in 20 minutes.
+p277
+aVThe worst, in 45.
+p278
+aVThey used everything that they knew \u2014
+p279
+aVnews groups, Google, Wikipedia,
+p280
+aVAsk Jeeves, etc.
+p281
+aVThe teachers said, "Is this deep learning?"
+p282
+aVI said, "Well, let's try it.
+p283
+aVI'll come back after two months.
+p284
+aVWe'll give them a paper test \u2014
+p285
+aVno computers, no talking to each other, etc."
+p286
+aVThe average score when I'd done it with the computers and the groups
+p287
+aVwas 76 percent.
+p288
+aVWhen I did the experiment, when I did the test,
+p289
+aVafter two months, the score
+p290
+aVwas 76 percent.
+p291
+aVThere was photographic recall
+p292
+aVinside the children,
+p293
+aVI suspect because they're discussing with each other.
+p294
+aVA single child in front of a single computer
+p295
+aVwill not do that.
+p296
+aVI have further results,
+p297
+aVwhich are almost unbelievable,
+p298
+aVof scores which go up with time.
+p299
+aVBecause their teachers say
+p300
+aVthat after the session is over,
+p301
+aVthe children continue to Google further.
+p302
+aa(lp303
+VHere in Britain, I put out a call
+p304
+aVfor British grandmothers,
+p305
+aVafter my Kuppam experiment.
+p306
+aVWell, you know,
+p307
+aVthey're very vigorous people, British grandmothers.
+p308
+aV200 of them volunteered immediately.
+p309
+aV(Laughter)
+p310
+aVThe deal was that they would give me
+p311
+aVone hour of broadband time,
+p312
+aVsitting in their homes,
+p313
+aVone day in a week.
+p314
+aVSo they did that,
+p315
+aVand over the last two years,
+p316
+aVover 600 hours of instruction
+p317
+aVhas happened over Skype,
+p318
+aVusing what my students call the granny cloud.
+p319
+aVThe granny cloud sits over there.
+p320
+aVI can beam them to whichever school I want to.
+p321
+aa(lp322
+V(Video) Teacher: You can't catch me.
+p323
+aVYou say it.
+p324
+aVYou can't catch me.
+p325
+aa(lp326
+VChildren: You can't catch me.
+p327
+aa(lp328
+VTeacher: I'm the gingerbread man.
+p329
+aa(lp330
+VChildren: I'm the gingerbread man.
+p331
+aa(lp332
+VTeacher: Well done. Very good ...
+p333
+aa(lp334
+VSM: Back at Gateshead,
+p335
+aVa 10-year-old girl gets into the heart of Hinduism
+p336
+aVin 15 minutes.
+p337
+aVYou know, stuff which I don't know anything about.
+p338
+aVTwo children watch a TEDTalk.
+p339
+aVThey wanted to be footballers before.
+p340
+aVAfter watching eight TEDTalks,
+p341
+aVhe wants to become Leonardo da Vinci.
+p342
+aa(lp343
+V(Laughter)
+p344
+aa(lp345
+V(Applause)
+p346
+aa(lp347
+VIt's pretty simple stuff.
+p348
+aa(lp349
+VThis is what I'm building now \u2014
+p350
+aVthey're called SOLEs: Self Organized Learning Environments.
+p351
+aVThe furniture is designed
+p352
+aVso that children can sit in front of big, powerful screens,
+p353
+aVbig broadband connections, but in groups.
+p354
+aVIf they want, they can call the granny cloud.
+p355
+aVThis is a SOLE in Newcastle.
+p356
+aVThe mediator is from Pune, India.
+p357
+aa(lp358
+VSo how far can we go? One last little bit and I'll stop.
+p359
+aVI went to Turin in May.
+p360
+aVI sent all the teachers away from my group of 10 year-old students.
+p361
+aVI speak only English, they speak only Italian,
+p362
+aVso we had no way to communicate.
+p363
+aVI started writing English questions on the blackboard.
+p364
+aVThe children looked at it and said, "What?"
+p365
+aVI said, "Well, do it."
+p366
+aVThey typed it into Google, translated it into Italian,
+p367
+aVwent back into Italian Google.
+p368
+aVFifteen minutes later \u2014
+p369
+aVnext question: where is Calcutta?
+p370
+aVThis one, they took only 10 minutes.
+p371
+aVI tried a really hard one then.
+p372
+aVWho was Pythagoras, and what did he do?
+p373
+aVThere was silence for a while,
+p374
+aVthen they said, "You've spelled it wrong.
+p375
+aVIt's Pitagora."
+p376
+aVAnd then,
+p377
+aVin 20 minutes,
+p378
+aVthe right-angled triangles began to appear on the screens.
+p379
+aVThis sent shivers up my spine.
+p380
+aVThese are 10 year-olds.
+p381
+aVText: In another 30 minutes they would reach the Theory of Relativity. And then?
+p382
+aa(lp383
+V(Laughter)
+p384
+aa(lp385
+V(Applause)
+p386
+aa(lp387
+VSM: So you know what's happened?
+p388
+aVI think we've just stumbled across
+p389
+aVa self-organizing system.
+p390
+aVA self-organizing system is one
+p391
+aVwhere a structure appears
+p392
+aVwithout explicit intervention from the outside.
+p393
+aVSelf-organizing systems also always show emergence,
+p394
+aVwhich is that the system starts to do things,
+p395
+aVwhich it was never designed for.
+p396
+aVWhich is why you react the way you do,
+p397
+aVbecause it looks impossible.
+p398
+aVI think I can make a guess now \u2014
+p399
+aVeducation is self-organizing system,
+p400
+aVwhere learning is an emergent phenomenon.
+p401
+aVIt'll take a few years to prove it, experimentally,
+p402
+aVbut I'm going to try.
+p403
+aVBut in the meanwhile, there is a method available.
+p404
+aVOne billion children, we need 100 million mediators \u2014
+p405
+aVthere are many more than that on the planet \u2014
+p406
+aV10 million SOLEs,
+p407
+aV180 billion dollars and 10 years.
+p408
+aVWe could change everything.
+p409
+aa(lp410
+VThanks.
+p411
+aa(lp412
+V(Applause)
+p413
+aasS'id'
+p414
+I949
+sS'title'
+p415
+VThe child-driven education
+p416
+s.

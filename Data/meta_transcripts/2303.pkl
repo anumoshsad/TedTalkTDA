@@ -1,0 +1,368 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThis back here was my brain cancer.
+p4
+aVIsn't it nice?
+p5
+aV(Laughter)
+p6
+aVThe key phrase is "was,"
+p7
+aVphew.
+p8
+aV(Applause)
+p9
+aa(lp10
+VHaving brain cancer was really, as you can imagine,
+p11
+aVshocking news for me.
+p12
+aVI knew nothing about cancer.
+p13
+aVIn Western cultures, when you have cancer,
+p14
+aVit's as if you disappear in a way.
+p15
+aVYour life as a complex human being is replaced by medical data:
+p16
+aVYour images, your exams, your lab values,
+p17
+aVa list of medicines.
+p18
+aVAnd everyone changes as well.
+p19
+aVYou suddenly become a disease on legs.
+p20
+aVDoctors start speaking a language which you don't understand.
+p21
+aVThey start pointing their fingers
+p22
+aVat your body and your images.
+p23
+aVPeople start changing as well
+p24
+aVbecause they start dealing with the disease,
+p25
+aVinstead of with the human being.
+p26
+aVThey say, "What did the doctor say?"
+p27
+aVbefore even saying, "Hello."
+p28
+aa(lp29
+VAnd in the meanwhile,
+p30
+aVyou're left with questions to which nobody gives an answer.
+p31
+aVThese are the "Can I?" questions:
+p32
+aVCan I work while I have cancer?
+p33
+aVCan I study? Can I make love? Can I be creative?
+p34
+aVAnd you wonder, "What have I done to deserve this?"
+p35
+aVYou wonder, "Can I change something about my lifestyle?"
+p36
+aVYou wonder, "Can I do something?
+p37
+aVAre there any other options?"
+p38
+aa(lp39
+VAnd, obviously, doctors are the good guys in all these scenarios,
+p40
+aVbecause they are very professional and dedicated to curing you.
+p41
+aVBut they also are very used to having to deal with patients,
+p42
+aVso I'd say that they sometimes lose the idea that this is torture for you
+p43
+aVand that you become, literally, a patient \u2014
+p44
+aV"patient" means "the one who waits."
+p45
+aV(Laughter)
+p46
+aVThings are changing, but classically,
+p47
+aVthey tend to not engage you in any way to learn about your condition,
+p48
+aVto get your friends and family engaged,
+p49
+aVor showing you ways in which you can change your lifestyle
+p50
+aVto minimize the risks of what you're going through.
+p51
+aVBut instead, you're forced there to wait
+p52
+aVin the hands of a series of very professional strangers.
+p53
+aa(lp54
+VWhile I was in the hospital,
+p55
+aVI asked for a printed-out picture of my cancer
+p56
+aVand I spoke with it.
+p57
+aVIt was really hard to obtain,
+p58
+aVbecause it's not common practice to ask for a picture of your own cancer.
+p59
+aVI talked to it and I said,
+p60
+aV"Okay, cancer, you're not all there is to me.
+p61
+aVThere's more to me.
+p62
+aVA cure, whichever it is, will have to deal with the whole of me."
+p63
+aVAnd so, the next day, I left the hospital against medical advice.
+p64
+aVI was determined to change my relationship with the cancer
+p65
+aVand I was determined to learn more about my cancer
+p66
+aVbefore doing anything as drastic as a surgery.
+p67
+aa(lp68
+VI'm an artist, I use several forms of open-source technologies
+p69
+aVand open information in my practice.
+p70
+aVSo my best bet was to get it all out there, get the information out there,
+p71
+aVand use it so that it could be accessed by anyone.
+p72
+aVSo I created a website, which is called La Cura,
+p73
+aVon which I put my medical data, online.
+p74
+aVI actually had to hack it
+p75
+aVand that's a thing which we can talk about in another speech.
+p76
+aV(Laughter)
+p77
+aVI chose this word, La Cura \u2014
+p78
+aVLa Cura in Italian means "the cure" \u2014
+p79
+aVbecause in many different cultures,
+p80
+aVthe word "cure" can mean many different things.
+p81
+aVIn our Western cultures,
+p82
+aVit means eradicating or reversing a disease,
+p83
+aVbut in different cultures,
+p84
+aVfor example, a culture from Asia,
+p85
+aVfrom the Mediterranean, from Latin countries, from Africa,
+p86
+aVit can mean many more things.
+p87
+aa(lp88
+VOf course, I was interested in the opinions of doctors
+p89
+aVand healthcare providers,
+p90
+aVbut I was also interested in the cure of the artist, of the poet,
+p91
+aVof the designer,
+p92
+aVof, who knows, the musicians.
+p93
+aVI was interested in the social cure,
+p94
+aVI was interested in the psychological cure,
+p95
+aVI was interested in the spiritual cure,
+p96
+aVI was interested in the emotional cure,
+p97
+aVI was interested in any form of cure.
+p98
+aa(lp99
+VAnd, it worked.
+p100
+aVThe La Cura website went viral.
+p101
+aVI received lots of media attention from Italy and from abroad
+p102
+aVand I quickly received more than 500,000 contacts \u2014
+p103
+aVemails, social networking \u2014
+p104
+aVmost of them were a suggestion on how to cure my cancer,
+p105
+aVbut more of them were about how to cure myself
+p106
+aVas a full individual.
+p107
+aVFor example, many thousands of videos,
+p108
+aVimages, pictures, art performances
+p109
+aVwere produced for La Cura.
+p110
+aVFor example, here we see Francesca Fini in her performance.
+p111
+aVOr, as artist Patrick Lichty has done:
+p112
+aVHe produced a 3D sculpture of my tumor
+p113
+aVand put it on sale on Thingiverse.
+p114
+aVNow you can have my cancer, too!
+p115
+aV(Laughter)
+p116
+aVWhich is a nice thing, if you think about it,
+p117
+aVwe can share our cancer.
+p118
+aa(lp119
+VAnd this was going on \u2014
+p120
+aVscientists, the traditional medicine experts,
+p121
+aVseveral researchers, doctors \u2014
+p122
+aVall connected with me to give advice.
+p123
+aVWith all this information and support,
+p124
+aVI was able to form a team of several neurosurgeons,
+p125
+aVtraditional doctors,
+p126
+aVoncologists, and several hundred volunteers
+p127
+aVwith whom I was able to discuss
+p128
+aVthe information I was receiving, which is very important.
+p129
+aVAnd together, we were able to form a strategy for my own cure
+p130
+aVin many languages, according to many cultures.
+p131
+aVAnd the current strategy spans the whole world
+p132
+aVand thousands of years of human history,
+p133
+aVwhich is quite remarkable for me.
+p134
+aV[Surgery]
+p135
+aa(lp136
+VThe follow-up MRIs showed, luckily, little to no growth of the cancer.
+p137
+aVSo I was able to take my time and choose.
+p138
+aVI chose the doctor I wanted to work with,
+p139
+aVI chose the hospital I wanted to stay in,
+p140
+aVand in the meanwhile, I was supported by thousands of people,
+p141
+aVnone of whom felt pity for me.
+p142
+aVEveryone felt like they could take an active role
+p143
+aVin helping me to get well,
+p144
+aVand this was the most important part of La Cura.
+p145
+aa(lp146
+VWhat are the outcomes?
+p147
+aVI'm fine, as you can see, pretty fine.
+p148
+aV(Applause)
+p149
+aVI had excellent news
+p150
+aVafter the surgery \u2014
+p151
+aVI have \u2014 I had a very low-grade glioma,
+p152
+aVwhich is a "good" kind of cancer which doesn't grow a lot.
+p153
+aVI have completely changed my life and my lifestyle.
+p154
+aVEverything I did was thoughtfully designed to get me engaged.
+p155
+aa(lp156
+VUp until the very last few minutes of the surgery,
+p157
+aVwhich was very intense,
+p158
+aVa matrix of electrodes was implanted in my brain
+p159
+aVfrom this side,
+p160
+aVto be able to build a functional map of what the brain controls.
+p161
+aVAnd right before the operation,
+p162
+aVwe were able to discuss the functional map of my brain
+p163
+aVwith the doctor, to understand which risks I was running into
+p164
+aVand if there were any I wanted to avoid.
+p165
+aVObviously, there were.
+p166
+aV[Open]
+p167
+aa(lp168
+VAnd this openness was really the fundamental part of La Cura.
+p169
+aVThousands of people shared their stories, their experiences.
+p170
+aVDoctors got to talk with people they don't usually consult
+p171
+aVwhen they think about cancer.
+p172
+aVI'm a self-founding, continuous state of translation
+p173
+aVamong many different languages,
+p174
+aVin which science meets emotion
+p175
+aVand conventional research meets traditional research.
+p176
+aV[Society]
+p177
+aa(lp178
+VThe most important thing of La Cura
+p179
+aVwas to feel like a part of a really engaged and connected society
+p180
+aVwhose wellness really depends on the wellness of all of its components.
+p181
+aVThis global performance is my open-source cure for cancer.
+p182
+aVAnd from what I feel,
+p183
+aVit's a cure for me, but for us all.
+p184
+aa(lp185
+VThank you.
+p186
+aa(lp187
+V(Applause).
+p188
+aasS'id'
+p189
+I2303
+sS'title'
+p190
+VWhat happened when I open-sourced my brain cancer
+p191
+s.

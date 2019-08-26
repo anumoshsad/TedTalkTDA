@@ -1,0 +1,850 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhat I thought I would talk about today
+p4
+aVis the transition from one mode
+p5
+aVof thinking about nature
+p6
+aVto another that's tracked by architecture.
+p7
+aVWhat's interesting about architects is,
+p8
+aVwe always have tried to justify beauty
+p9
+aVby looking to nature,
+p10
+aVand arguably, beautiful architecture
+p11
+aVhas always been looking at a model of nature.
+p12
+aa(lp13
+VSo, for roughly 300 years,
+p14
+aVthe hot debate in architecture
+p15
+aVwas whether the number five
+p16
+aVor the number seven
+p17
+aVwas a better proportion to think about architecture,
+p18
+aVbecause the nose was one-fifth of your head,
+p19
+aVor because your head was one-seventh of your body.
+p20
+aVAnd the reason that that was the model
+p21
+aVof beauty and of nature
+p22
+aVwas because the decimal point had not been invented yet \u2014
+p23
+aVit wasn't the 16th century \u2014
+p24
+aVand everybody had to dimension a building
+p25
+aVin terms of fractions,
+p26
+aVso a room would be dimensioned
+p27
+aVas one-fourth of a facade;
+p28
+aVthe structural dais of that might be dimensioned as 10 units,
+p29
+aVand you would get down to the small elements
+p30
+aVby fractional subdivision:
+p31
+aVfiner and finer and finer.
+p32
+aa(lp33
+VIn the 15th century, the decimal point was invented;
+p34
+aVarchitects stopped using fractions,
+p35
+aVand they had a new model of nature.
+p36
+aVSo, what's going on today
+p37
+aVis that there's a model of natural form
+p38
+aVwhich is calculus-based
+p39
+aVand which is using digital tools,
+p40
+aVand that has a lot of implications
+p41
+aVto the way we think about beauty and form,
+p42
+aVand it has a lot of implications in the way we think about nature.
+p43
+aVThe best example of this would probably be the Gothic,
+p44
+aVand the Gothic was invented after the invention of calculus,
+p45
+aValthough the Gothic architects
+p46
+aVweren't really using calculus to define their forms.
+p47
+aVBut what was important is,
+p48
+aVthe Gothic moment in architecture was the first time
+p49
+aVthat force and motion was thought of in terms of form.
+p50
+aa(lp51
+VSo, examples like Christopher Wren's King's Cross:
+p52
+aVyou can see that the structural forces of the vaulting
+p53
+aVget articulated as lines, so you're really actually seeing
+p54
+aVthe expression of structural force and form.
+p55
+aVMuch later, Robert Maillart's bridges,
+p56
+aVwhich optimize structural form
+p57
+aVwith a calculus curvature almost like a parabola.
+p58
+aVThe Hanging Chain models of Antonio Gaudi,
+p59
+aVthe Catalan architect.
+p60
+aVThe end of the 19th century, beginning of the 20th century,
+p61
+aVand how that Hanging Chain model
+p62
+aVtranslates into archways
+p63
+aVand vaulting.
+p64
+aVSo, in all of these examples,
+p65
+aVstructure is the determining force.
+p66
+aVFrei Otto was starting to use foam bubble diagrams
+p67
+aVand foam bubble models to generate his Mannheim Concert Hall.
+p68
+aVInterestingly, in the last 10 years
+p69
+aVNorman Foster used a similar heat thermal transfer model
+p70
+aVto generate the roof of the National Gallery,
+p71
+aVwith the structural engineer Chris Williams.
+p72
+aa(lp73
+VIn all these examples,
+p74
+aVthere's one ideal form,
+p75
+aVbecause these are thought in terms of structure.
+p76
+aVAnd as an architect, I've always found these kinds of systems
+p77
+aVvery limiting, because I'm not interested in ideal forms
+p78
+aVand I'm not interested in optimizing to some perfect moment.
+p79
+aa(lp80
+VSo, what I thought I would bring up is
+p81
+aVanother component that needs to be thought of,
+p82
+aVwhenever you think about nature,
+p83
+aVand that's basically the invention of
+p84
+aVgeneric form in genetic evolution.
+p85
+aVMy hero is actually not Darwin;
+p86
+aVit's a guy named William Bateson,
+p87
+aVfather of Greg Bateson, who was here for a long time in Monterey.
+p88
+aVAnd he was what you'd call a teratologist:
+p89
+aVhe looked at all of the monstrosities and mutations
+p90
+aVto find rules and laws, rather than looking at the norms.
+p91
+aVSo, instead of trying to find the ideal type
+p92
+aVor the ideal average,
+p93
+aVhe'd always look for the exception. So, in this example,
+p94
+aVwhich is an example of what's called Bateson's Rule,
+p95
+aVhe has two kinds of mutations of a human thumb.
+p96
+aVWhen I first saw this image, 10 years ago,
+p97
+aVI actually found it very strange and beautiful at the same time.
+p98
+aVBeautiful, because it has symmetry.
+p99
+aVSo, what he found is that in all cases of thumb mutations,
+p100
+aVinstead of having a thumb,
+p101
+aVyou would either get another opposable thumb,
+p102
+aVor you would get four fingers.
+p103
+aVSo, the mutations reverted to symmetry.
+p104
+aVAnd Bateson invented
+p105
+aVthe concept of symmetry breaking,
+p106
+aVwhich is that
+p107
+aVwherever you lose information in a system,
+p108
+aVyou revert back to symmetry.
+p109
+aVSo, symmetry wasn't the sign of order and organization \u2014
+p110
+aVwhich is what I was always understanding, and as is an architect \u2014
+p111
+aVsymmetry was the absence of information.
+p112
+aVSo, whenever you lost information, you'd move to symmetry;
+p113
+aVwhenever you added information to a system, you would break symmetry.
+p114
+aVSo, this whole idea of natural form shifted at that moment
+p115
+aVfrom looking for ideal shapes
+p116
+aVto looking for a combination of
+p117
+aVinformation and generic form.
+p118
+aa(lp119
+VYou know, literally after seeing that image,
+p120
+aVand finding out what Bateson was working with,
+p121
+aVwe started to use these rules for symmetry breaking and branching
+p122
+aVto start to think about architectural form.
+p123
+aVTo just talk for a minute about the
+p124
+aVdigital mediums that we're using now
+p125
+aVand how they integrate calculus:
+p126
+aVthe fact that they're calculus-based
+p127
+aVmeans that we don't have to think about dimension
+p128
+aVin terms of ideal units
+p129
+aVor discreet elements.
+p130
+aa(lp131
+VSo, in architecture we deal with
+p132
+aVbig assemblies of components,
+p133
+aVso there might be up to, say,
+p134
+aV50,000 pieces of material
+p135
+aVin this room you're sitting in right now
+p136
+aVthat all need to get organized.
+p137
+aVNow, typically you'd think that they would all be the same:
+p138
+aVlike, the chairs you're sitting in would all be the same dimension.
+p139
+aVYou know, I haven't verified this, but it's the norm
+p140
+aVthat every chair would be a slightly different dimension,
+p141
+aVbecause you'd want to space them all out for everybody's sight lines.
+p142
+aVThe elements that make up the ceiling grid and the lighting,
+p143
+aVthey're all losing their modular quality,
+p144
+aVand moving more and more to these infinitesimal dimensions.
+p145
+aVThat's because we're all using calculus tools
+p146
+aVfor manufacturing and for design.
+p147
+aa(lp148
+VCalculus is also a mathematics of curves.
+p149
+aVSo, even a straight line, defined with calculus, is a curve.
+p150
+aVIt's just a curve without inflection.
+p151
+aVSo, a new vocabulary of form
+p152
+aVis now pervading all design fields:
+p153
+aVwhether it's automobiles, architecture, products, etc.,
+p154
+aVit's really being affected by this digital medium of curvature.
+p155
+aVThe intricacies of scale that come out of that \u2014
+p156
+aVyou know, in the example of the nose to the face,
+p157
+aVthere's a fractional part-to-whole idea.
+p158
+aVWith calculus, the whole idea
+p159
+aVof subdivision is more complex,
+p160
+aVbecause the whole and the parts are one continuous series.
+p161
+aVIt's too early in the morning for a lecture on calculus,
+p162
+aVso I brought some images to just describe how that works.
+p163
+aa(lp164
+VThis is a Korean church that we did in Queens.
+p165
+aVAnd in this example, you can see
+p166
+aVthat the components of this stair are repetitive,
+p167
+aVbut they're repetitive without being modular.
+p168
+aVEach one of the elements in this structure
+p169
+aVis a unique distance and dimension,
+p170
+aVand all of the connections are unique angles.
+p171
+aVNow, the only way we could design that,
+p172
+aVor possibly construct it,
+p173
+aVis by using a calculus-based definition
+p174
+aVof the form.
+p175
+aVIt also is much more dynamic,
+p176
+aVso that you can see that the same form opens and closes
+p177
+aVin a very dynamic way as you move across it,
+p178
+aVbecause it has this quality of vector in motion
+p179
+aVbuilt into it.
+p180
+aVSo the same space that appears to be a kind of closed volume,
+p181
+aVwhen seen from the other side becomes a kind of open vista.
+p182
+aVAnd you also get a sense of
+p183
+aVvisual movement in the space,
+p184
+aVbecause every one of the elements is changing in a pattern,
+p185
+aVso that pattern leads your eye towards the altar.
+p186
+aVI think that's one of the main changes,
+p187
+aValso, in architecture:
+p188
+aVthat we're starting to look now not for some ideal form,
+p189
+aVlike a Latin cross for a church,
+p190
+aVbut actually all the traits of a church:
+p191
+aVso, light that comes from behind from an invisible source,
+p192
+aVdirectionality that focuses you towards an altar.
+p193
+aVIt turns out it's not rocket science
+p194
+aVto design a sacred space.
+p195
+aVYou just need to incorporate a certain number of traits
+p196
+aVin a very kind of genetic way.
+p197
+aVSo, these are the different perspectives of that interior,
+p198
+aVwhich has a very complex
+p199
+aVset of orientations all in a simple form.
+p200
+aa(lp201
+VIn terms of construction and manufacturing,
+p202
+aVthis is a kilometer-long housing block
+p203
+aVthat was built in the '70s in Amsterdam.
+p204
+aVAnd here we've broken the 500 apartments
+p205
+aVup into small neighborhoods,
+p206
+aVand differentiated those neighborhoods.
+p207
+aVI won't go into too much description of any of these projects,
+p208
+aVbut what you can see is that
+p209
+aVthe escalators and elevators
+p210
+aVthat circulate people along the face of the building
+p211
+aVare all held up by
+p212
+aV122 structural trusses.
+p213
+aVBecause we're using escalators
+p214
+aVto move people,
+p215
+aVall of these trusses are picking up diagonal loads.
+p216
+aVSo, every one of them is a little bit different-shaped
+p217
+aVas you move down the length of the building.
+p218
+aVSo, working with
+p219
+aVBentley and MicroStation,
+p220
+aVwe've written a custom piece of software
+p221
+aVthat networks all of the components together
+p222
+aVinto these chunks of information,
+p223
+aVso that if we change any element
+p224
+aValong the length of the building,
+p225
+aVnot only does that change distribute
+p226
+aVthrough each one of the trusses,
+p227
+aVbut each one of the trusses then distributes that information
+p228
+aVdown the length of the entire facade of the building.
+p229
+aVSo it's a single calculation
+p230
+aVfor every single component of the building
+p231
+aVthat we're adding onto.
+p232
+aVSo, it's tens of millions of calculations
+p233
+aVjust to design one connection between a piece of structural steel
+p234
+aVand another piece of structural steel.
+p235
+aVBut what it gives us is a harmonic
+p236
+aVand synthesized
+p237
+aVrelationship of all these components, one to another.
+p238
+aa(lp239
+VThis idea has, kind of, brought me into doing
+p240
+aVsome product design,
+p241
+aVand it's because design firms
+p242
+aVthat have connections to architects,
+p243
+aVlike, I'm working with Vitra, which is a furniture company,
+p244
+aVand Alessi, which is a houseware company.
+p245
+aVThey saw this actually solving a problem:
+p246
+aVthis ability to differentiate components
+p247
+aVbut keep them synthetic.
+p248
+aVSo, not to pick on BMW,
+p249
+aVor to celebrate them,
+p250
+aVbut take BMW as an example.
+p251
+aVThey have to, in 2005,
+p252
+aVhave a distinct identity
+p253
+aVfor all their models of cars.
+p254
+aVSo, the 300 series, or whatever their newest car is,
+p255
+aVthe 100 series that's coming out,
+p256
+aVhas to look like the 700 series,
+p257
+aVat the other end of their product line,
+p258
+aVso they need a distinct, coherent identity,
+p259
+aVwhich is BMW.
+p260
+aVAt the same time, there's a person paying 30,000 dollars
+p261
+aVfor a 300-series car,
+p262
+aVand a person paying 70,000 dollars
+p263
+aVfor a 700 series,
+p264
+aVand that person paying more than double
+p265
+aVdoesn't want their car to look too much like
+p266
+aVthe bottom-of-the-market car.
+p267
+aVSo they have to also discriminate between these products.
+p268
+aVSo, as manufacturing
+p269
+aVstarts to allow more
+p270
+aVdesign options,
+p271
+aVthis problem gets exacerbated,
+p272
+aVof the whole and the parts.
+p273
+aa(lp274
+VNow, as an architect, part-to-whole relationships
+p275
+aVis all I think about,
+p276
+aVbut in terms of product design
+p277
+aVit's becoming more and more of an issue for companies.
+p278
+aVSo, the first kind of test product we did
+p279
+aVwas with Alessi,
+p280
+aVwhich was for a coffee and tea set.
+p281
+aVIt's an incredibly expensive coffee and tea set;
+p282
+aVwe knew that at the beginning. So, I actually went to some people I knew
+p283
+aVdown south in San Diego,
+p284
+aVand we used an exploded
+p285
+aVtitanium forming method
+p286
+aVthat's used in the aerospace industry.
+p287
+aVBasically what we can do,
+p288
+aVis just cut a graphite mold,
+p289
+aVput it in an oven, heat it to 1,000 degrees,
+p290
+aVgently inflate titanium that's soft,
+p291
+aVand then explode it at the last minute into this form.
+p292
+aVBut what's great about it is,
+p293
+aVthe forms are only a few hundred dollars.
+p294
+aVThe titanium's several thousand dollars, but the forms are very cheap.
+p295
+aVSo, we designed a system here
+p296
+aVof eight curves that could be swapped,
+p297
+aVvery similar to that housing project I showed you,
+p298
+aVand we could recombine those together,
+p299
+aVso that we always had ergonomic shapes
+p300
+aVthat always had the same volume
+p301
+aVand could always be produced in the same way.
+p302
+aVThat way, each one of these tools we could pay for with
+p303
+aVa few hundred dollars,
+p304
+aVand get incredible variation in the components.
+p305
+aVAnd this is one of those examples of the sets.
+p306
+aVSo, for me, what was important is that
+p307
+aVthis coffee set \u2014
+p308
+aVwhich is just a coffee pot, a teapot,
+p309
+aVand those are the pots sitting on a tray \u2014
+p310
+aVthat they would have a coherence \u2014
+p311
+aVso, they would be Greg Lynn Alessi coffee pots \u2014
+p312
+aVbut that everyone who bought one
+p313
+aVwould have a one-of-a-kind object that was unique in some way.
+p314
+aa(lp315
+VTo go back to architecture,
+p316
+aVwhat's organic about architecture as a field,
+p317
+aVunlike product design,
+p318
+aVis this whole issue of holism
+p319
+aVand of monumentality is really our realm.
+p320
+aVLike, we have to design things which are coherent as a single object,
+p321
+aVbut also break down into small rooms
+p322
+aVand have an identity of both the big scale
+p323
+aVand the small scale.
+p324
+aVArchitects tend to work with signature,
+p325
+aVso that an architect needs a signature
+p326
+aVand that signature has to work across the scale of houses
+p327
+aVup to, say, skyscrapers,
+p328
+aVand that problem of signatures is a thing we're very good at maintaining
+p329
+aVand working with; and intricacy,
+p330
+aVwhich is the relationship of, say,
+p331
+aVthe shape of a building, its structure, its windows,
+p332
+aVits color, its pattern. These are real architectural problems.
+p333
+aa(lp334
+VSo, my kind of hero for this in the natural world
+p335
+aVare these tropical frogs.
+p336
+aVI got interested in them because they're the most
+p337
+aVextreme example
+p338
+aVof a surface where
+p339
+aVthe texture and the \u2014 let's call it the decoration \u2014
+p340
+aVI know the frog doesn't think of it as decoration, but that's how it works \u2014
+p341
+aVare all intricately connected to one another.
+p342
+aVSo a change in the form
+p343
+aVindicates a change in the color pattern.
+p344
+aVSo, the pattern and the form aren't the same thing,
+p345
+aVbut they really work together and are fused
+p346
+aVin some way.
+p347
+aVSo, when doing a center
+p348
+aVfor the national parks in Costa Rica,
+p349
+aVwe tried to use that idea of a gradient color
+p350
+aVand a change in texture
+p351
+aVas the structure moves across the surface of the building.
+p352
+aVWe also used a continuity of change
+p353
+aVfrom a main exhibition hall to a natural history museum,
+p354
+aVso it's all one continuous change
+p355
+aVin the massing,
+p356
+aVbut within that massing are very different kinds of spaces and forms.
+p357
+aa(lp358
+VIn a housing project in Valencia, Spain, we're doing,
+p359
+aVthe different towers of housing fused together
+p360
+aVin shared curves so you get a single mass,
+p361
+aVlike a kind of monolith,
+p362
+aVbut it breaks down into individual elements.
+p363
+aVAnd you can see that that change in massing
+p364
+aValso gives all 48 of the apartments
+p365
+aVa unique shape and size,
+p366
+aVbut always within a, kind of, controlled limit,
+p367
+aVan envelope of change.
+p368
+aa(lp369
+VI work with a group of other architects.
+p370
+aVWe have a company called United Architects.
+p371
+aVWe were one of the finalists for the World Trade Center site design.
+p372
+aVAnd I think this just shows how
+p373
+aVwe were approaching
+p374
+aVthe problem of incredibly large-scale construction.
+p375
+aVWe wanted to make a kind of Gothic cathedral
+p376
+aVaround the footprints of the World Trade Center site.
+p377
+aVAnd to do that, we tried to connect up
+p378
+aVthe five towers into a single system.
+p379
+aVAnd we looked at, from the 1950s on,
+p380
+aVthere were numerous examples of other architects
+p381
+aVtrying to do the same thing.
+p382
+aVWe really approached it at the level
+p383
+aVof the typology of the building,
+p384
+aVwhere we could build these five separate towers,
+p385
+aVbut they would all join at the 60th floor
+p386
+aVand make a kind of single monolithic mass.
+p387
+aVWith United Architects, also,
+p388
+aVwe made a proposal for the European Central Bank headquarters
+p389
+aVthat used the same system,
+p390
+aVbut this time in a much more monolithic mass,
+p391
+aVlike a sphere.
+p392
+aVBut again, you can see this, kind of,
+p393
+aVorganic fusion
+p394
+aVof multiple building elements
+p395
+aVto make a thing which is whole, but breaks down into smaller parts,
+p396
+aVbut in an incredibly organic way.
+p397
+aa(lp398
+VFinally, I'd like to just show you
+p399
+aVsome of the effects of using digital fabrication.
+p400
+aVAbout six years ago, I bought one of these CNC mills,
+p401
+aVto just replace, kind of,
+p402
+aVyoung people cutting their fingers off all the time building models.
+p403
+aVAnd I also bought a laser cutter
+p404
+aVand started to fabricate within my own shop,
+p405
+aVkind of, large-scale building elements and models,
+p406
+aVwhere we could go directly to the tooling.
+p407
+aVWhat I found out is that the tooling,
+p408
+aVif you intervened in the software,
+p409
+aVactually produced decorative effects.
+p410
+aVSo, for these interiors, like this shop in Stockholm, Sweden,
+p411
+aVor this installation wall in the Netherlands
+p412
+aVat the Netherlands Architecture Institute,
+p413
+aVwe could use the texture that the tool would leave
+p414
+aVto produce a lot of the spatial effects,
+p415
+aVand we could integrate the texture of the wall
+p416
+aVwith the form of the wall with the material.
+p417
+aVSo, in vacuum-formed plastic, in fiberglass,
+p418
+aVand then even at the level of structural steel,
+p419
+aVwhich you think of as being linear and modular.
+p420
+aVThe steel industry is so far
+p421
+aVahead of the design industry
+p422
+aVthat if you take advantage of it
+p423
+aVyou can even start to think of beams and columns
+p424
+aVall rolled together into a single system
+p425
+aVwhich is highly efficient,
+p426
+aVbut also produces decorative effects
+p427
+aVand formal effects
+p428
+aVthat are very beautiful and organic.
+p429
+aVThanks very much.
+p430
+aasS'id'
+p431
+I430
+sS'title'
+p432
+VOrganic algorithms in architecture
+p433
+s.

@@ -1,0 +1,364 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhat if our plants
+p4
+aVcould sense the toxicity levels in the soil
+p5
+aVand express that toxicity through the color of its leaves?
+p6
+aVWhat if those plants could also remove those toxins from the soil?
+p7
+aVInstead, what if those plants
+p8
+aVgrew their own packaging,
+p9
+aVor were designed to only be harvested
+p10
+aVby their owners' own patented machines?
+p11
+aVWhat happens when biological design
+p12
+aVis driven by the motivations of mass-produced commodities?
+p13
+aVWhat kind of world would that be?
+p14
+aa(lp15
+VMy name is Ani, and I'm a designer and researcher at MIT Media Lab,
+p16
+aVwhere I'm part of a relatively new and unique group called Design Fiction,
+p17
+aVwhere we're wedged somewhere between science fiction and science fact.
+p18
+aVAnd at MIT, I am lucky enough to rub shoulders with scientists
+p19
+aVstudying all kinds of cutting edge fields
+p20
+aVlike synthetic neurobiology,
+p21
+aVartificial intelligence, artificial life
+p22
+aVand everything in between.
+p23
+aVAnd across campus, there's truly brilliant scientists
+p24
+aVasking questions like, "How can I make the world a better place?"
+p25
+aVAnd part of what my group likes to ask is, "What is better?"
+p26
+aVWhat is better for you, for me,
+p27
+aVfor a white woman, a gay man,
+p28
+aVa veteran, a child with a prosthetic?
+p29
+aVTechnology is never neutral.
+p30
+aVIt frames a reality
+p31
+aVand reflects a context.
+p32
+aVCan you imagine what it would say about the work-life balance at your office
+p33
+aVif these were standard issue on the first day?
+p34
+aa(lp35
+V(Laughter)
+p36
+aa(lp37
+VI believe it's the role of artists and designers
+p38
+aVto raise critical questions.
+p39
+aVArt is how you can see and feel the future,
+p40
+aVand today is an exciting time to be a designer,
+p41
+aVfor all the new tools becoming accessible.
+p42
+aVFor instance, synthetic biology
+p43
+aVseeks to write biology as a design problem.
+p44
+aVAnd through these developments,
+p45
+aVmy lab asks, what are the roles and responsibilities
+p46
+aVof an artist, designer, scientist or businessman?
+p47
+aVWhat are the implications
+p48
+aVof synthetic biology, genetic engineering,
+p49
+aVand how are they shaping our notions of what it means to be a human?
+p50
+aVWhat are the implications of this on society, on evolution
+p51
+aVand what are the stakes in this game?
+p52
+aa(lp53
+VMy own speculative design research at the current moment
+p54
+aVplays with synthetic biology,
+p55
+aVbut for more emotionally driven output.
+p56
+aVI'm obsessed with olfaction as a design space,
+p57
+aVand this project started with this idea
+p58
+aVof what if you could take a smell selfie, a smelfie?
+p59
+aa(lp60
+V(Laughter)
+p61
+aa(lp62
+VWhat if you could take your own natural body odor
+p63
+aVand send it to a lover?
+p64
+aVFunny enough, I found that this was a 19th century Austrian tradition,
+p65
+aVwhere couples in courtship would keep a slice of apple
+p66
+aVcrammed under their armpit during dances,
+p67
+aVand at the end of the evening,
+p68
+aVthe girl would give the guy she most fancied her used fruit,
+p69
+aVand if the feeling was mutual,
+p70
+aVhe would wolf down that stinky apple.
+p71
+aa(lp72
+V(Laughter)
+p73
+aa(lp74
+VFamously, Napoleon wrote many love letters to Josephine,
+p75
+aVbut perhaps amongst the most memorable is this brief and urgent note:
+p76
+aV"Home in three days. Don't bathe."
+p77
+aa(lp78
+V(Laughter)
+p79
+aa(lp80
+VBoth Napoleon and Josephine adored violets.
+p81
+aVJosephine wore violet-scented perfume,
+p82
+aVcarried violets on their wedding day,
+p83
+aVand Napoleon sent her a bouquet of violets
+p84
+aVevery year on their anniversary.
+p85
+aVWhen Josephine passed away,
+p86
+aVhe planted violets at her grave,
+p87
+aVand just before his exile,
+p88
+aVhe went back to that tomb site,
+p89
+aVpicked some of those flowers, entombed them in a locket
+p90
+aVand wore them until the day he died.
+p91
+aa(lp92
+VAnd I found this so moving,
+p93
+aVI thought, could I engineer that violet to smell just like Josephine?
+p94
+aVWhat if, for the rest of eternity,
+p95
+aVwhen you went to visit her site,
+p96
+aVyou could smell Josephine just as Napoleon loved her?
+p97
+aVCould we engineer new ways of mourning,
+p98
+aVnew rituals for remembering?
+p99
+aVAfter all, we've engineered transgenic crops
+p100
+aVto be maximized for profit,
+p101
+aVcrops that stand up to transport,
+p102
+aVcrops that have a long shelf life,
+p103
+aVcrops that taste sugary sweet but resist pests,
+p104
+aVsometimes at the expense of nutritional value.
+p105
+aVCan we harness these same technologies for an emotionally sensitive output?
+p106
+aa(lp107
+VSo currently in my lab,
+p108
+aVI'm researching questions like, what makes a human smell like a human?
+p109
+aVAnd it turns out it's fairly complicated.
+p110
+aVFactors such as your diet, your medications, your lifestyle
+p111
+aVall factor into the way you smell.
+p112
+aVAnd I found that our sweat is mostly odorless,
+p113
+aVbut it's our bacteria and microbiome
+p114
+aVthat's responsible for your smells, your mood, your identity
+p115
+aVand so much beyond.
+p116
+aVAnd there's all kinds of molecules that you emit
+p117
+aVbut which we only perceive subconsciously.
+p118
+aa(lp119
+VSo I've been cataloging and collecting
+p120
+aVbacteria from different sites of my body.
+p121
+aVAfter talking to a scientist, we thought,
+p122
+aVmaybe the perfect concoction of Ani
+p123
+aVis like 10 percent collarbone, 30 percent underarm,
+p124
+aV40 percent bikini line and so forth,
+p125
+aVand occasionally I let researchers from other labs
+p126
+aVtake a sniff of my samples.
+p127
+aVAnd it's been interesting to hear how smell of the body
+p128
+aVis perceived outside of the context of the body.
+p129
+aVI've gotten feedback such as,
+p130
+aVsmells like flowers, like chicken,
+p131
+aVlike cornflakes,
+p132
+aVlike beef carnitas.
+p133
+aa(lp134
+V(Laughter)
+p135
+aa(lp136
+VAt the same time, I cultivate a set of carnivorous plants
+p137
+aVfor their ability to emit fleshlike odors to attract prey,
+p138
+aVin an attempt to kind of create this symbiotic relationship
+p139
+aVbetween my bacteria and this organism.
+p140
+aVAnd as it so happens, I'm at MIT and I'm in a bar,
+p141
+aVand I was talking to a scientist
+p142
+aVwho happens to be a chemist and a plant scientist,
+p143
+aVand I was telling him about my project,
+p144
+aVand he was like, "Well, this sounds like botany for lonely women."
+p145
+aa(lp146
+V(Laughter)
+p147
+aa(lp148
+VUnperturbed, I said, "OK."
+p149
+aVI challenged him.
+p150
+aV"Can we engineer a plant that can love me back?"
+p151
+aVAnd for some reason, he was like, "Sure, why not?"
+p152
+aa(lp153
+VSo we started with, can we get a plant to grow towards me
+p154
+aVlike I was the sun?
+p155
+aVAnd so we're looking at mechanisms in plants such as phototropism,
+p156
+aVwhich causes the plant to grow towards the sun
+p157
+aVby producing hormones like auxin,
+p158
+aVwhich causes cell elongation on the shady side.
+p159
+aVAnd right now I'm creating a set of lipsticks
+p160
+aVthat are infused with these chemicals
+p161
+aVthat allow me to interact with a plant on its own chemical signatures \u2014
+p162
+aVlipsticks that cause plants to grow where I kiss it,
+p163
+aVplants that blossom where I kiss the bloom.
+p164
+aa(lp165
+VAnd through these projects,
+p166
+aVI'm asking questions like,
+p167
+aVhow do we define nature?
+p168
+aVHow do we define nature when we can reengineer its properties,
+p169
+aVand when should we do it?
+p170
+aVShould we do it for profit, for utility?
+p171
+aVCan we do it for emotional ends?
+p172
+aVCan biotechnology be used to create work as moving as music?
+p173
+aVWhat are the thresholds between science
+p174
+aVand its ability to shape our emotional landscape?
+p175
+aa(lp176
+VIt's a famous design mantra that form follows function.
+p177
+aVWell, now, wedged somewhere between science, design and art
+p178
+aVI get to ask,
+p179
+aVwhat if fiction informs fact?
+p180
+aVWhat kind of R&D lab would that look like
+p181
+aVand what kind of questions would we ask together?
+p182
+aa(lp183
+VWe often look to technology as the answer,
+p184
+aVbut as an artist and designer,
+p185
+aVI like to ask, but what is the question?
+p186
+aa(lp187
+VThank you.
+p188
+aa(lp189
+V(Applause)
+p190
+aasS'id'
+p191
+I2700
+sS'title'
+p192
+VSmelfies, and other experiments in synthetic biology
+p193
+s.

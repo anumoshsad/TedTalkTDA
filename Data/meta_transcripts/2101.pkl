@@ -1,0 +1,1110 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIt's very nice to be here tonight.
+p4
+aa(lp5
+VSo I've been working on the history of income
+p6
+aVand wealth distribution for the past 15 years,
+p7
+aVand one of the interesting lessons
+p8
+aVcoming from this historical evidence
+p9
+aVis indeed that, in the long run,
+p10
+aVthere is a tendency for  the rate of return of capital
+p11
+aVto exceed the economy's growth rate,
+p12
+aVand this tends to lead to  high concentration of wealth.
+p13
+aVNot infinite concentration of wealth,
+p14
+aVbut the higher the gap between r and g,
+p15
+aVthe higher the level of inequality of wealth
+p16
+aVtowards which society tends to converge.
+p17
+aa(lp18
+VSo this is a key force that I'm going to talk about today,
+p19
+aVbut let me say right away
+p20
+aVthat this is not the only important force
+p21
+aVin the dynamics of income  and wealth distribution,
+p22
+aVand there are many other forces that play
+p23
+aVan important role in the long-run dynamics
+p24
+aVof income and wealth distribution.
+p25
+aVAlso there is a lot of data
+p26
+aVthat still needs to be collected.
+p27
+aVWe know a little bit more today
+p28
+aVthan we used to know,  but we still know too little,
+p29
+aVand certainly there are  many different processes \u2014
+p30
+aVeconomic, social, political \u2014
+p31
+aVthat need to be studied more.
+p32
+aVAnd so I'm going to focus today on this simple force,
+p33
+aVbut that doesn't mean that other important forces
+p34
+aVdo not exist.
+p35
+aa(lp36
+VSo most of the data I'm going to present
+p37
+aVcomes from this database
+p38
+aVthat's available online:
+p39
+aVthe World Top Incomes Database.
+p40
+aVSo this is the largest existing
+p41
+aVhistorical database on inequality,
+p42
+aVand this comes from the effort
+p43
+aVof over 30 scholars from several dozen countries.
+p44
+aVSo let me show you a couple of facts
+p45
+aVcoming from this database,
+p46
+aVand then we'll return to r bigger than g.
+p47
+aVSo fact number one is that there has been
+p48
+aVa big reversal in the ordering of income inequality
+p49
+aVbetween the United States and Europe
+p50
+aVover the past century.
+p51
+aVSo back in 1900, 1910, income inequality was actually
+p52
+aVmuch higher in Europe than in the United States,
+p53
+aVwhereas today, it is a lot higher in the United States.
+p54
+aVSo let me be very clear:
+p55
+aVThe main explanation for this is not r bigger than g.
+p56
+aVIt has more to do with changing supply and demand
+p57
+aVfor skill, the race between education and technology,
+p58
+aVglobalization, probably more unequal access
+p59
+aVto skills in the U.S.,
+p60
+aVwhere you have very good, very top universities
+p61
+aVbut where the bottom part of the educational system
+p62
+aVis not as good,
+p63
+aVso very unequal access to skills,
+p64
+aVand also an unprecedented rise
+p65
+aVof top managerial compensation of the United States,
+p66
+aVwhich is difficult to account for just on the basis of education.
+p67
+aVSo there is more going on here,
+p68
+aVbut I'm not going to talk too much about this today,
+p69
+aVbecause I want to focus on wealth inequality.
+p70
+aa(lp71
+VSo let me just show you a very simple indicator
+p72
+aVabout the income inequality part.
+p73
+aVSo this is the share of total income
+p74
+aVgoing to the top 10 percent.
+p75
+aVSo you can see that one century ago,
+p76
+aVit was between 45 and 50 percent in Europe
+p77
+aVand a little bit above 40 percent in the U.S.,
+p78
+aVso there was more inequality in Europe.
+p79
+aVThen there was a sharp decline
+p80
+aVduring the first half of the 20th century,
+p81
+aVand in the recent decade, you can see that
+p82
+aVthe U.S. has become more unequal than Europe,
+p83
+aVand this is the first fact I just talked about.
+p84
+aVNow, the second fact is more about wealth inequality,
+p85
+aVand here the central fact is that wealth inequality
+p86
+aVis always a lot higher than income inequality,
+p87
+aVand also that wealth inequality,
+p88
+aValthough it has also increased in recent decades,
+p89
+aVis still less extreme today
+p90
+aVthan what it was a century ago,
+p91
+aValthough the total quantity of wealth
+p92
+aVrelative to income has now recovered
+p93
+aVfrom the very large shocks
+p94
+aVcaused by World War I, the Great Depression,
+p95
+aVWorld War II.
+p96
+aa(lp97
+VSo let me show you two graphs
+p98
+aVillustrating fact number two and fact number three.
+p99
+aVSo first, if you look at the level of wealth inequality,
+p100
+aVthis is the share of total wealth
+p101
+aVgoing to the top 10 percent of wealth holders,
+p102
+aVso you can see the same kind of reversal
+p103
+aVbetween the U.S. and Europe that we had before
+p104
+aVfor income inequality.
+p105
+aVSo wealth concentration was higher
+p106
+aVin Europe than in the U.S. a century ago,
+p107
+aVand now it is the opposite.
+p108
+aVBut you can also show two things:
+p109
+aVFirst, the general level of wealth inequality
+p110
+aVis always higher than income inequality.
+p111
+aVSo remember, for income inequality,
+p112
+aVthe share going to the top 10 percent
+p113
+aVwas between 30 and 50 percent of total income,
+p114
+aVwhereas for wealth, the share is always
+p115
+aVbetween 60 and 90 percent.
+p116
+aVOkay, so that's fact number one,
+p117
+aVand that's very important for what follows.
+p118
+aVWealth concentration is always
+p119
+aVa lot higher than income concentration.
+p120
+aa(lp121
+VFact number two is that the rise
+p122
+aVin wealth inequality in recent decades
+p123
+aVis still not enough to get us back to 1910.
+p124
+aVSo the big difference today,
+p125
+aVwealth inequality is still very large,
+p126
+aVwith 60, 70 percent of total wealth for the top 10,
+p127
+aVbut the good news is that it's actually
+p128
+aVbetter than one century ago,
+p129
+aVwhere you had 90 percent in Europe going to the top 10.
+p130
+aVSo today what you have
+p131
+aVis what I call the middle 40 percent,
+p132
+aVthe people who are not in the top 10
+p133
+aVand who are not in the bottom 50,
+p134
+aVand what you can view as the wealth middle class
+p135
+aVthat owns 20 to 30 percent
+p136
+aVof total wealth, national wealth,
+p137
+aVwhereas they used to be poor, a century ago,
+p138
+aVwhen there was basically no wealth middle class.
+p139
+aVSo this is an important change,
+p140
+aVand it's interesting to see that wealth inequality
+p141
+aVhas not fully recovered to pre-World War I levels,
+p142
+aValthough the total quantity of wealth has recovered.
+p143
+aVOkay? So this is the total value
+p144
+aVof wealth relative to income,
+p145
+aVand you can see that in particular in Europe,
+p146
+aVwe are almost back to the pre-World War I level.
+p147
+aVSo there are really two
+p148
+aVdifferent parts of the story here.
+p149
+aVOne has to do with
+p150
+aVthe total quantity of wealth that we accumulate,
+p151
+aVand there is nothing bad per se, of course,
+p152
+aVin accumulating a lot of wealth,
+p153
+aVand in particular if it is more diffuse
+p154
+aVand less concentrated.
+p155
+aVSo what we really want to focus on
+p156
+aVis the long-run evolution of wealth inequality,
+p157
+aVand what's going to happen in the future.
+p158
+aVHow can we account for the fact that
+p159
+aVuntil World War I, wealth inequality was so high
+p160
+aVand, if anything, was rising to even higher levels,
+p161
+aVand how can we think about the future?
+p162
+aa(lp163
+VSo let me come to some of the explanations
+p164
+aVand speculations about the future.
+p165
+aVLet me first say that
+p166
+aVprobably the best model to explain
+p167
+aVwhy wealth is so much
+p168
+aVmore concentrated than income
+p169
+aVis a dynamic, dynastic model
+p170
+aVwhere individuals have a long horizon
+p171
+aVand accumulate wealth for all sorts of reasons.
+p172
+aVIf people were accumulating wealth
+p173
+aVonly for life cycle reasons,
+p174
+aVyou know, to be able to consume
+p175
+aVwhen they are old,
+p176
+aVthen the level of wealth inequality
+p177
+aVshould be more or less in line
+p178
+aVwith the level of income inequality.
+p179
+aVBut it will be very difficult to explain
+p180
+aVwhy you have so much more wealth inequality
+p181
+aVthan income inequality
+p182
+aVwith a pure life cycle model,
+p183
+aVso you need a story
+p184
+aVwhere people also care
+p185
+aVabout wealth accumulation for other reasons.
+p186
+aVSo typically, they want to transmit
+p187
+aVwealth to the next generation, to their children,
+p188
+aVor sometimes they want to accumulate wealth
+p189
+aVbecause of the prestige, the power that goes with wealth.
+p190
+aVSo there must be other reasons
+p191
+aVfor accumulating wealth than just life cycle
+p192
+aVto explain what we see in the data.
+p193
+aVNow, in a large class of dynamic models
+p194
+aVof wealth accumulation
+p195
+aVwith such dynastic motive for accumulating wealth,
+p196
+aVyou will have all sorts of random,
+p197
+aVmultiplicative shocks.
+p198
+aVSo for instance, some families
+p199
+aVhave a very large number of children,
+p200
+aVso the wealth will be divided.
+p201
+aVSome families have fewer children.
+p202
+aVYou also have shocks to rates of return.
+p203
+aVSome families make huge capital gains.
+p204
+aVSome made bad investments.
+p205
+aVSo you will always have some mobility
+p206
+aVin the wealth process.
+p207
+aVSome people will move up, some people will move down.
+p208
+aVThe important point is that,
+p209
+aVin any such model,
+p210
+aVfor a given variance of such shocks,
+p211
+aVthe equilibrium level of wealth inequality
+p212
+aVwill be a steeply rising function of r minus g.
+p213
+aVAnd intuitively, the reason why the difference
+p214
+aVbetween the rate of return to wealth
+p215
+aVand the growth rate is important
+p216
+aVis that initial wealth inequalities
+p217
+aVwill be amplified at a faster pace
+p218
+aVwith a bigger r minus g.
+p219
+aVSo take a simple example,
+p220
+aVwith r equals five percent and g equals one percent,
+p221
+aVwealth holders only need to reinvest
+p222
+aVone fifth of their capital income to ensure
+p223
+aVthat their wealth rises as fast
+p224
+aVas the size of the economy.
+p225
+aVSo this makes it easier
+p226
+aVto build and perpetuate large fortunes
+p227
+aVbecause you can consume four fifths,
+p228
+aVassuming zero tax,
+p229
+aVand you can just reinvest one fifth.
+p230
+aVSo of course some families will consume more than that,
+p231
+aVsome will consume less, so there will be
+p232
+aVsome mobility in the distribution,
+p233
+aVbut on average, they only need to reinvest one fifth,
+p234
+aVso this allows high wealth inequalities to be sustained.
+p235
+aa(lp236
+VNow, you should not be surprised
+p237
+aVby the statement that r can be bigger than g forever,
+p238
+aVbecause, in fact, this is what happened
+p239
+aVduring most of the history of mankind.
+p240
+aVAnd this was in a way very obvious to everybody
+p241
+aVfor a simple reason, which is that growth
+p242
+aVwas close to zero percent
+p243
+aVduring most of the history of mankind.
+p244
+aVGrowth was maybe 0.1, 0.2, 0.3 percent,
+p245
+aVbut very slow growth of population
+p246
+aVand output per capita,
+p247
+aVwhereas the rate of return on capital
+p248
+aVof course was not zero percent.
+p249
+aVIt was, for land assets, which was
+p250
+aVthe traditional form
+p251
+aVof assets in preindustrial societies,
+p252
+aVit was typically five percent.
+p253
+aVAny reader of Jane Austen would know that.
+p254
+aVIf you want an annual income of 1,000 pounds,
+p255
+aVyou should have a capital value
+p256
+aVof 20,000 pounds so that
+p257
+aVfive percent of 20,000 is 1,000.
+p258
+aVAnd in a way, this was
+p259
+aVthe very foundation of society,
+p260
+aVbecause r bigger than g
+p261
+aVwas what allowed holders of wealth and assets
+p262
+aVto live off their capital income
+p263
+aVand to do something else in life
+p264
+aVthan just to care about their own survival.
+p265
+aa(lp266
+VNow, one important conclusion
+p267
+aVof my historical research is that
+p268
+aVmodern industrial growth did not change
+p269
+aVthis basic fact as much as one might have expected.
+p270
+aVOf course, the growth rate
+p271
+aVfollowing the Industrial Revolution
+p272
+aVrose, typically from zero to one to two percent,
+p273
+aVbut at the same time, the rate of return
+p274
+aVto capital also rose
+p275
+aVso that the gap between the two
+p276
+aVdid not really change.
+p277
+aVSo during the 20th century,
+p278
+aVyou had a very unique combination of events.
+p279
+aVFirst, a very low rate of return
+p280
+aVdue to the 1914 and 1945 war shocks,
+p281
+aVdestruction of wealth, inflation,
+p282
+aVbankruptcy during the Great Depression,
+p283
+aVand all of this reduced
+p284
+aVthe private rate of return to wealth
+p285
+aVto unusually low levels
+p286
+aVbetween 1914 and 1945.
+p287
+aVAnd then, in the postwar period,
+p288
+aVyou had unusually high growth rate,
+p289
+aVpartly due to the reconstruction.
+p290
+aVYou know, in Germany, in France, in Japan,
+p291
+aVyou had five percent growth rate
+p292
+aVbetween 1950 and 1980
+p293
+aVlargely due to reconstruction,
+p294
+aVand also due to very large demographic growth,
+p295
+aVthe Baby Boom Cohort effect.
+p296
+aVNow, apparently that's not going to last for very long,
+p297
+aVor at least the population growth
+p298
+aVis supposed to decline in the future,
+p299
+aVand the best projections we have is that
+p300
+aVthe long-run growth is going to be closer
+p301
+aVto one to two percent
+p302
+aVrather than four to five percent.
+p303
+aVSo if you look at this,
+p304
+aVthese are the best estimates we have
+p305
+aVof world GDP growth
+p306
+aVand rate of return on capital,
+p307
+aVaverage rates of return on capital,
+p308
+aVso you can see that during most
+p309
+aVof the history of mankind,
+p310
+aVthe growth rate was very small,
+p311
+aVmuch lower than the rate of return,
+p312
+aVand then during the 20th century,
+p313
+aVit is really the population growth,
+p314
+aVvery high in the postwar period,
+p315
+aVand the reconstruction process
+p316
+aVthat brought growth
+p317
+aVto a smaller gap with the rate of return.
+p318
+aVHere I use the United Nations population projections,
+p319
+aVso of course they are uncertain.
+p320
+aVIt could be that we all start
+p321
+aVhaving a lot of children in the future,
+p322
+aVand the growth rates are going to be higher,
+p323
+aVbut from now on,
+p324
+aVthese are the best projections we have,
+p325
+aVand this will make global growth
+p326
+aVdecline and the gap between
+p327
+aVthe rate of return go up.
+p328
+aa(lp329
+VNow, the other unusual event
+p330
+aVduring the 20th century
+p331
+aVwas, as I said,
+p332
+aVdestruction, taxation of capital,
+p333
+aVso this is the pre-tax rate of return.
+p334
+aVThis is the after-tax rate of return,
+p335
+aVand after destruction,
+p336
+aVand this is what brought
+p337
+aVthe average rate of return
+p338
+aVafter tax, after destruction,
+p339
+aVbelow the growth rate during a long time period.
+p340
+aVBut without the destruction,
+p341
+aVwithout the taxation, this  would not have happened.
+p342
+aVSo let me say that the balance between
+p343
+aVreturns on capital and growth
+p344
+aVdepends on many different factors
+p345
+aVthat are very difficult to predict:
+p346
+aVtechnology and the development
+p347
+aVof capital-intensive techniques.
+p348
+aVSo right now, the most capital-intensive sectors
+p349
+aVin the economy are the real estate sector, housing,
+p350
+aVthe energy sector, but it could be in the future
+p351
+aVthat we have a lot more robots in a number of sectors
+p352
+aVand that this would be a bigger share
+p353
+aVof the total capital stock that it is today.
+p354
+aVWell, we are very far from this,
+p355
+aVand from now, what's going on
+p356
+aVin the real estate sector, the energy sector,
+p357
+aVis much more important for the total capital stock
+p358
+aVand capital share.
+p359
+aa(lp360
+VThe other important issue
+p361
+aVis that there are scale effects in portfolio management,
+p362
+aVtogether with financial complexity,
+p363
+aVfinancial deregulation,
+p364
+aVthat make it easier to get higher rates of return
+p365
+aVfor a large portfolio,
+p366
+aVand this seems to be particularly strong
+p367
+aVfor billionaires, large capital endowments.
+p368
+aVJust to give you one example,
+p369
+aVthis comes from the Forbes billionaire rankings
+p370
+aVover the 1987-2013 period,
+p371
+aVand you can see the very top wealth holders
+p372
+aVhave been going up at six, seven percent per year
+p373
+aVin real terms above inflation,
+p374
+aVwhereas average income in the world,
+p375
+aVaverage wealth in the world,
+p376
+aVhave increased at only two percent per year.
+p377
+aVAnd you find the same
+p378
+aVfor large university endowments \u2014
+p379
+aVthe bigger the initial endowments,
+p380
+aVthe bigger the rate of return.
+p381
+aa(lp382
+VNow, what could be done?
+p383
+aVThe first thing is that I think we need
+p384
+aVmore financial transparency.
+p385
+aVWe know too little about global wealth dynamics,
+p386
+aVso we need international transmission
+p387
+aVof bank information.
+p388
+aVWe need a global registry of financial assets,
+p389
+aVmore coordination on wealth taxation,
+p390
+aVand even wealth tax with a small tax rate
+p391
+aVwill be a way to produce information
+p392
+aVso that then we can adapt our policies
+p393
+aVto whatever we observe.
+p394
+aVAnd to some extent, the fight
+p395
+aVagainst tax havens
+p396
+aVand automatic transmission of information
+p397
+aVis pushing us in this direction.
+p398
+aVNow, there are other ways to redistribute wealth,
+p399
+aVwhich it can be tempting to use.
+p400
+aVInflation:
+p401
+aVit's much easier to print money
+p402
+aVthan to write a tax code, so that's very tempting,
+p403
+aVbut sometimes you don't know what you do with the money.
+p404
+aVThis is a problem.
+p405
+aVExpropriation is very tempting.
+p406
+aVJust when you feel some people get too wealthy,
+p407
+aVyou just expropriate them.
+p408
+aVBut this is not a very efficient way
+p409
+aVto organize a regulation of wealth dynamics.
+p410
+aVSo war is an even less efficient way,
+p411
+aVso I tend to prefer progressive taxation,
+p412
+aVbut of course, history \u2014 (Laughter) \u2014
+p413
+aVhistory will invent its own best ways,
+p414
+aVand it will probably involve
+p415
+aVa combination of all of these.
+p416
+aa(lp417
+VThank you.
+p418
+aa(lp419
+V(Applause)
+p420
+aa(lp421
+VBruno Giussani: Thomas Piketty. Thank you.
+p422
+aa(lp423
+VThomas, I want to ask you two or three questions,
+p424
+aVbecause it's impressive how you're in command of your data, of course,
+p425
+aVbut basically what you suggest is
+p426
+aVgrowing wealth concentration is kind of
+p427
+aVa natural tendency of capitalism,
+p428
+aVand if we leave it to its own devices,
+p429
+aVit may threaten the system itself,
+p430
+aVso you're suggesting that we need to act
+p431
+aVto implement policies that redistribute wealth,
+p432
+aVincluding the ones we just saw:
+p433
+aVprogressive taxation, etc.
+p434
+aVIn the current political context,
+p435
+aVhow realistic are those?
+p436
+aVHow likely do you think that it is
+p437
+aVthat they will be implemented?
+p438
+aa(lp439
+VThomas Piketty: Well, you know, I think
+p440
+aVif you look back through time,
+p441
+aVthe history of income, wealth and taxation
+p442
+aVis full of surprise.
+p443
+aVSo I am not terribly impressed
+p444
+aVby those who know in advance
+p445
+aVwhat will or will not happen.
+p446
+aVI think one century ago,
+p447
+aVmany people would have said
+p448
+aVthat progressive income taxation would never happen
+p449
+aVand then it happened.
+p450
+aVAnd even five years ago,
+p451
+aVmany people would have said that bank secrecy
+p452
+aVwill be with us forever in Switzerland,
+p453
+aVthat Switzerland was too powerful
+p454
+aVfor the rest of the world,
+p455
+aVand then suddenly it took a few U.S. sanctions
+p456
+aVagainst Swiss banks for a big change to happen,
+p457
+aVand now we are moving toward
+p458
+aVmore financial transparency.
+p459
+aVSo I think it's not that difficult
+p460
+aVto better coordinate politically.
+p461
+aVWe are going to have a treaty
+p462
+aVwith half of the world GDP around the table
+p463
+aVwith the U.S. and the European Union,
+p464
+aVso if half of the world GDP is not enough
+p465
+aVto make progress on financial transparency
+p466
+aVand minimal tax for multinational corporate profits,
+p467
+aVwhat does it take?
+p468
+aVSo I think these are not technical difficulties.
+p469
+aVI think we can make progress
+p470
+aVif we have a more pragmatic approach to these questions
+p471
+aVand we have the proper sanctions
+p472
+aVon those who benefit from financial opacity.
+p473
+aa(lp474
+VBG: One of the arguments
+p475
+aVagainst your point of view
+p476
+aVis that economic inequality
+p477
+aVis not only a feature of capitalism but is actually one of its engines.
+p478
+aVSo we take measures to lower inequality,
+p479
+aVand at the same time we lower growth, potentially.
+p480
+aVWhat do you answer to that?
+p481
+aa(lp482
+VTP: Yeah, I think inequality
+p483
+aVis not a problem per se.
+p484
+aVI think inequality up to a point
+p485
+aVcan actually be useful for innovation and growth.
+p486
+aVThe problem is, it's a question of degree.
+p487
+aVWhen inequality gets too extreme,
+p488
+aVthen it becomes useless for growth
+p489
+aVand it can even become bad
+p490
+aVbecause it tends to lead to high perpetuation
+p491
+aVof inequality over time
+p492
+aVand low mobility.
+p493
+aVAnd for instance, the kind of wealth concentrations
+p494
+aVthat we had in the 19th century
+p495
+aVand pretty much until World War I
+p496
+aVin every European country
+p497
+aVwas, I think, not useful for growth.
+p498
+aVThis was destroyed by a combination
+p499
+aVof tragic events and policy changes,
+p500
+aVand this did not prevent growth from happening.
+p501
+aVAnd also, extreme inequality can be bad
+p502
+aVfor our democratic institutions
+p503
+aVif it creates very unequal access to political voice,
+p504
+aVand the influence of private money
+p505
+aVin U.S. politics, I think,
+p506
+aVis a matter of concern right now.
+p507
+aVSo we don't want to return to that kind of extreme,
+p508
+aVpre-World War I inequality.
+p509
+aVHaving a decent share of the national wealth
+p510
+aVfor the middle class is not bad for growth.
+p511
+aVIt is actually useful
+p512
+aVboth for equity and efficiency reasons.
+p513
+aa(lp514
+VBG: I said at the beginning
+p515
+aVthat your book has been criticized.
+p516
+aVSome of your data has been criticized.
+p517
+aVSome of your choice of data sets has been criticized.
+p518
+aVYou have been accused of cherry-picking data
+p519
+aVto make your case. What do you answer to that?
+p520
+aa(lp521
+VTP: Well, I answer that I am very happy
+p522
+aVthat this book is stimulating debate.
+p523
+aVThis is part of what it is intended for.
+p524
+aVLook, the reason why I put all the data online
+p525
+aVwith all of the detailed computation
+p526
+aVis so that we can have  an open and transparent
+p527
+aVdebate about this.
+p528
+aVSo I have responded point by point
+p529
+aVto every concern.
+p530
+aVLet me say that if I was to rewrite the book today,
+p531
+aVI would actually conclude
+p532
+aVthat the rise in wealth inequality,
+p533
+aVparticularly in the United States,
+p534
+aVhas been actually higher than what I report in my book.
+p535
+aVThere is a recent study by Saez and Zucman
+p536
+aVshowing, with new data
+p537
+aVwhich I didn't have at the time of the book,
+p538
+aVthat wealth concentration in the U.S. has risen
+p539
+aVeven more than what I report.
+p540
+aVAnd there will be other data in the future.
+p541
+aVSome of it will go in different directions.
+p542
+aVLook, we put online almost every week
+p543
+aVnew, updated series on the World Top Income Database
+p544
+aVand we will keep doing so in the future,
+p545
+aVin particular in emerging countries,
+p546
+aVand I welcome all of those who want to contribute
+p547
+aVto this data collection process.
+p548
+aVIn fact, I certainly agree
+p549
+aVthat there is not enough
+p550
+aVtransparency about wealth dynamics,
+p551
+aVand a good way to have better data
+p552
+aVwould be to have a wealth tax
+p553
+aVwith a small tax rate to begin with
+p554
+aVso that we can all agree
+p555
+aVabout this important evolution
+p556
+aVand adapt our policies to whatever we observe.
+p557
+aVSo taxation is a source of knowledge,
+p558
+aVand that's what we need the most right now.
+p559
+aa(lp560
+VBG: Thomas Piketty, merci beaucoup.
+p561
+aa(lp562
+VThank you. TP: Thank you. (Applause)
+p563
+aasS'id'
+p564
+I2101
+sS'title'
+p565
+VNew thoughts on capital in the twenty-first century
+p566
+s.

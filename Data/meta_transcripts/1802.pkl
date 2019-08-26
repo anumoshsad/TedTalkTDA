@@ -1,0 +1,325 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VMotor racing is a funny old business.
+p4
+aVWe make a new car every year,
+p5
+aVand then we spend the rest of the season
+p6
+aVtrying to understand what it is we've built
+p7
+aVto make it better, to make it faster.
+p8
+aVAnd then the next year, we start again.
+p9
+aVNow, the car you see in front of you is quite complicated.
+p10
+aVThe chassis is made up of about 11,000 components,
+p11
+aVthe engine another 6,000,
+p12
+aVthe electronics about eight and a half thousand.
+p13
+aVSo there's about 25,000 things there that can go wrong.
+p14
+aVSo motor racing is very much about attention to detail.
+p15
+aVThe other thing about Formula 1 in particular
+p16
+aVis we're always changing the car.
+p17
+aVWe're always trying to make it faster.
+p18
+aVSo every two weeks, we will be making
+p19
+aVabout 5,000 new components to fit to the car.
+p20
+aVFive to 10 percent of the race car
+p21
+aVwill be different every two weeks of the year.
+p22
+aVSo how do we do that?
+p23
+aVWell, we start our life with the racing car.
+p24
+aVWe have a lot of sensors on the car to measure things.
+p25
+aVOn the race car in front of you here
+p26
+aVthere are about 120 sensors when it goes into a race.
+p27
+aVIt's measuring all sorts of things around the car.
+p28
+aVThat data is logged. We're logging about
+p29
+aV500 different parameters within the data systems,
+p30
+aVabout 13,000 health parameters and events
+p31
+aVto say when things are not working the way they should do,
+p32
+aVand we're sending that data back to the garage
+p33
+aVusing telemetry at a rate of two to four megabits per second.
+p34
+aVSo during a two-hour race, each car will be sending
+p35
+aV750 million numbers.
+p36
+aVThat's twice as many numbers as words that each of us
+p37
+aVspeaks in a lifetime.
+p38
+aVIt's a huge amount of data.
+p39
+aVBut it's not enough just to have data and measure it.
+p40
+aVYou need to be able to do something with it.
+p41
+aVSo we've spent a lot of time and effort
+p42
+aVin turning the data into stories
+p43
+aVto be able to tell, what's the state of the engine,
+p44
+aVhow are the tires degrading,
+p45
+aVwhat's the situation with fuel consumption?
+p46
+aVSo all of this is taking data
+p47
+aVand turning it into knowledge that we can act upon.
+p48
+aVOkay, so let's have a look at a little bit of data.
+p49
+aVLet's pick a bit of data from
+p50
+aVanother three-month-old patient.
+p51
+aVThis is a child, and what you're seeing here is real data,
+p52
+aVand on the far right-hand side,
+p53
+aVwhere everything starts getting a little bit catastrophic,
+p54
+aVthat is the patient going into cardiac arrest.
+p55
+aVIt was deemed to be an unpredictable event.
+p56
+aVThis was a heart attack that no one could see coming.
+p57
+aVBut when we look at the information there,
+p58
+aVwe can see that things are starting to become
+p59
+aVa little fuzzy about five minutes or so before the cardiac arrest.
+p60
+aVWe can see small changes
+p61
+aVin things like the heart rate moving.
+p62
+aVThese were all undetected by normal thresholds
+p63
+aVwhich would be applied to data.
+p64
+aVSo the question is, why couldn't we see it?
+p65
+aVWas this a predictable event?
+p66
+aVCan we look more at the patterns in the data
+p67
+aVto be able to do things better?
+p68
+aVSo this is a child,
+p69
+aVabout the same age as the racing car on stage,
+p70
+aVthree months old.
+p71
+aVIt's a patient with a heart problem.
+p72
+aVNow, when you look at some of the data on the screen above,
+p73
+aVthings like heart rate, pulse, oxygen, respiration rates,
+p74
+aVthey're all unusual for a normal child,
+p75
+aVbut they're quite normal for the child there,
+p76
+aVand so one of the challenges you have in health care is,
+p77
+aVhow can I look at the patient in front of me,
+p78
+aVhave something which is specific for her,
+p79
+aVand be able to detect when things start to change,
+p80
+aVwhen things start to deteriorate?
+p81
+aVBecause like a racing car, any patient,
+p82
+aVwhen things start to go bad, you have a short time
+p83
+aVto make a difference.
+p84
+aVSo what we did is we took a data system
+p85
+aVwhich we run every two weeks of the year in Formula 1
+p86
+aVand we installed it on the hospital computers
+p87
+aVat Birmingham Children's Hospital.
+p88
+aVWe streamed data from the bedside instruments
+p89
+aVin their pediatric intensive care
+p90
+aVso that we could both look at the data in real time
+p91
+aVand, more importantly, to store the data
+p92
+aVso that we could start to learn from it.
+p93
+aVAnd then, we applied an application on top
+p94
+aVwhich would allow us to tease out the patterns in the data
+p95
+aVin real time so we could see what was happening,
+p96
+aVso we could determine when things started to change.
+p97
+aVNow, in motor racing, we're all a little bit ambitious,
+p98
+aVaudacious, a little bit arrogant sometimes,
+p99
+aVso we decided we would also look at the children
+p100
+aVas they were being transported to intensive care.
+p101
+aVWhy should we wait until they arrived in the hospital
+p102
+aVbefore we started to look?
+p103
+aVAnd so we installed a real-time link
+p104
+aVbetween the ambulance and the hospital,
+p105
+aVjust using normal 3G telephony to send that data
+p106
+aVso that the ambulance became an extra bed
+p107
+aVin intensive care.
+p108
+aVAnd then we started looking at the data.
+p109
+aVSo the wiggly lines at the top, all the colors,
+p110
+aVthis is the normal sort of data you would see on a monitor \u2014
+p111
+aVheart rate, pulse, oxygen within the blood,
+p112
+aVand respiration.
+p113
+aVThe lines on the bottom, the blue and the red,
+p114
+aVthese are the interesting ones.
+p115
+aVThe red line is showing an automated version
+p116
+aVof the early warning score
+p117
+aVthat Birmingham Children's Hospital were already running.
+p118
+aVThey'd been running that since 2008,
+p119
+aVand already have stopped cardiac arrests
+p120
+aVand distress within the hospital.
+p121
+aVThe blue line is an indication
+p122
+aVof when patterns start to change,
+p123
+aVand immediately, before we even started
+p124
+aVputting in clinical interpretation,
+p125
+aVwe can see that the data is speaking to us.
+p126
+aVIt's telling us that something is going wrong.
+p127
+aVThe plot with the red and the green blobs,
+p128
+aVthis is plotting different components
+p129
+aVof the data against each other.
+p130
+aVThe green is us learning what is normal for that child.
+p131
+aVWe call it the cloud of normality.
+p132
+aVAnd when things start to change,
+p133
+aVwhen conditions start to deteriorate,
+p134
+aVwe move into the red line.
+p135
+aVThere's no rocket science here.
+p136
+aVIt is displaying data that exists already in a different way,
+p137
+aVto amplify it, to provide cues to the doctors,
+p138
+aVto the nurses, so they can see what's happening.
+p139
+aVIn the same way that a good racing driver
+p140
+aVrelies on cues to decide when to apply the brakes,
+p141
+aVwhen to turn into a corner,
+p142
+aVwe need to help our physicians and our nurses
+p143
+aVto see when things are starting to go wrong.
+p144
+aVSo we have a very ambitious program.
+p145
+aVWe think that the race is on to do something differently.
+p146
+aVWe are thinking big. It's the right thing to do.
+p147
+aVWe have an approach which, if it's successful,
+p148
+aVthere's no reason why it should stay within a hospital.
+p149
+aVIt can go beyond the walls.
+p150
+aVWith wireless connectivity these days,
+p151
+aVthere is no reason why patients, doctors and nurses
+p152
+aValways have to be in the same place
+p153
+aVat the same time.
+p154
+aVAnd meanwhile, we'll take our little three-month-old baby,
+p155
+aVkeep taking it to the track, keeping it safe,
+p156
+aVand making it faster and better.
+p157
+aVThank you very much.
+p158
+aV(Applause)
+p159
+aasS'id'
+p160
+I1802
+sS'title'
+p161
+VBetter baby care -- thanks to Formula 1
+p162
+s.

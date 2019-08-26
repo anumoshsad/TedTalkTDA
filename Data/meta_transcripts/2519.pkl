@@ -1,0 +1,666 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThe world is filled with incredible objects
+p4
+aVand rich cultural heritage.
+p5
+aVAnd when we get access to them,
+p6
+aVwe are blown away, we fall in love.
+p7
+aVBut most of the time,
+p8
+aVthe world's population is living without real access to arts and culture.
+p9
+aVWhat might the connections be when we start exploring our heritage,
+p10
+aVthe beautiful locations and the art in this world?
+p11
+aa(lp12
+VBefore we get started in this presentation,
+p13
+aVI just want to take care of a few housekeeping points.
+p14
+aVFirst, I am no expert in art or culture.
+p15
+aVI fell into this by mistake, but I'm loving it.
+p16
+aVSecondly, all of what I'm going to show you
+p17
+aVbelongs to the amazing museums, archives and foundations
+p18
+aVthat we partner with.
+p19
+aVNone of this belongs to Google.
+p20
+aVAnd finally, what you see behind me
+p21
+aVis available right now on your mobile phones,
+p22
+aVon your laptops.
+p23
+aa(lp24
+VThis is our current platform, where you can explore
+p25
+aVthousands of museums and objects at your fingertips,
+p26
+aVin extremely high-definition detail.
+p27
+aVThe diversity of the content is what's amazing.
+p28
+aVIf we just had European paintings,
+p29
+aVif we just had modern art,
+p30
+aVI think it gets a bit boring.
+p31
+aVFor example, this month, we launched the "Black History" channel
+p32
+aVwith 82 curated exhibitions,
+p33
+aVwhich talk about arts and culture in that community.
+p34
+aVWe also have some amazing objects from Japan,
+p35
+aVcentered around craftsmanship, called "Made in Japan."
+p36
+aVAnd one of my favorite exhibitions,
+p37
+aVwhich actually is the idea of my talk,
+p38
+aVis \u2014 I didn't expect to become a fan of Japanese dolls.
+p39
+aVBut I am, thanks to this exhibition,
+p40
+aVthat has really taught me about the craftsmanship
+p41
+aVbehind the soul of a Japanese doll.
+p42
+aVTrust me, it's very exciting.
+p43
+aVTake my word for it.
+p44
+aa(lp45
+VSo, moving on swiftly.
+p46
+aVOne quick thing I wanted to showcase in this platform,
+p47
+aVwhich you can share with your kids and your friends right now,
+p48
+aVis you can travel to all these amazing institutions virtually, as well.
+p49
+aVOne of our recent ideas was with The Guggenheim Museum in New York,
+p50
+aVwhere you can get a taste of what it might feel like
+p51
+aVto actually be there.
+p52
+aVYou can go to the ground floor
+p53
+aVand obviously, most of you, I assume, have been there.
+p54
+aVAnd you can see the architectural masterpiece that it is.
+p55
+aVBut imagine this accessibility for a kid in Bombay
+p56
+aVwho's studying architecture,
+p57
+aVwho hasn't had a chance to go to The Guggenheim as yet.
+p58
+aVYou can obviously look at objects in the Guggenheim Museum,
+p59
+aVyou can obviously get into them and so on and so forth.
+p60
+aVThere's a lot of information here.
+p61
+aa(lp62
+VBut this is not the purpose of my talk today.
+p63
+aVThis exists right now.
+p64
+aVWhat we now have are the building blocks to a very exciting future,
+p65
+aVwhen it comes to arts and culture
+p66
+aVand accessibility to arts and culture.
+p67
+aVSo I am joined today onstage by my good friend and artist in residence
+p68
+aVat our office in Paris, Cyril Diagne,
+p69
+aVwho is the professor of interactive design
+p70
+aVat ECAL University in Lausanne, Switzerland.
+p71
+aVWhat Cyril and our team of engineers have been doing
+p72
+aVis trying to find these connections and visualize a few of these.
+p73
+aa(lp74
+VSo I'm going to go quite quick now.
+p75
+aVThis object you see behind me \u2014 oh, just clarification:
+p76
+aVAlways, seeing the real thing is better.
+p77
+aVIn case people think I'm trying to replicate the real thing.
+p78
+aVSo, moving on.
+p79
+aVThis object you see behind me is the Venus of Berekhat Ram.
+p80
+aVIt's one of the oldest objects in the world,
+p81
+aVfound in the Golan Heights around 233,000 years ago,
+p82
+aVand currently residing at the Israel Museum in Jerusalem.
+p83
+aVIt is also one of the oldest objects on our platform.
+p84
+aa(lp85
+VSo let's zoom.
+p86
+aVWe start from this one object.
+p87
+aVWhat if we zoomed out
+p88
+aVand actually tried to experience our own cultural big bang?
+p89
+aVWhat might that look like?
+p90
+aVThis is what we deal with on a daily basis at the Cultural Institute \u2014
+p91
+aVover six million cultural artifacts curated and given to us by institutions,
+p92
+aVto actually make these connections.
+p93
+aVYou can travel through time,
+p94
+aVyou can understand more about our society through these.
+p95
+aVYou can look at it from the perspective of our planet,
+p96
+aVand try to see how it might look without borders,
+p97
+aVif we just organized art and culture.
+p98
+aVWe can also then plot it by time,
+p99
+aVwhich obviously, for the data geek in me, is very fascinating.
+p100
+aVYou can spend hours looking at every decade
+p101
+aVand the contributions in that decade and in those years
+p102
+aVfor art, history and cultures.
+p103
+aVWe would love to spend hours showing you each and every decade,
+p104
+aVbut we don't have the time right now.
+p105
+aVSo you can go on your phone and actually do it yourself.
+p106
+aa(lp107
+V(Applause)
+p108
+aa(lp109
+VBut if you don't mind and can hold your applause till later,
+p110
+aVI don't want to run out of time,
+p111
+aVbecause I want to show you a lot of cool stuff.
+p112
+aa(lp113
+VSo, just very quickly:
+p114
+aVyou can move on from here to another very interesting idea.
+p115
+aVBeyond the pretty picture,
+p116
+aVbeyond the nice visualization,
+p117
+aVwhat is the purpose, how is this useful?
+p118
+aVThis next idea comes from discussions with curators
+p119
+aVthat we've been having at museums,
+p120
+aVwho, by the way, I've fallen in love with,
+p121
+aVbecause they dedicate their whole life to try to tell these stories.
+p122
+aVOne of the curators told me, "Amit, what would it be like
+p123
+aVif you could create a virtual curator's table
+p124
+aVwhere all these six million objects
+p125
+aVare displayed in a way for us to look at the connections between them?"
+p126
+aVYou can spend a lot of time, trust me, looking at different objects
+p127
+aVand understanding where they come from.
+p128
+aVIt's a crazy Matrix experience.
+p129
+aa(lp130
+V(Laughter)
+p131
+aa(lp132
+VJust moving on,
+p133
+aVlet's take the world-famous Vincent Van Gogh,
+p134
+aVwho is very well-represented on this platform.
+p135
+aVThanks to the diversity of the institutions we have,
+p136
+aVwe have over 211 high-definition, amazing artworks by this artist,
+p137
+aVnow organized in one beautiful view.
+p138
+aVAnd as it resolves, and as Cyril goes deeper,
+p139
+aVyou can see all the self-portraits,
+p140
+aVyou can see still life.
+p141
+aVBut I just wanted to highlight one very quick example,
+p142
+aVwhich is very timely:
+p143
+aV"The Bedroom."
+p144
+aVThis is an artwork where three copies exist \u2014
+p145
+aVone at the Van Gogh Museum in Amsterdam,
+p146
+aVone at the Orsay in Paris
+p147
+aVand one at the Art Institute of Chicago,
+p148
+aVwhich, actually, currently is hosting a reunion
+p149
+aVof all three artworks physically,
+p150
+aVI think only for the second time ever.
+p151
+aVBut, it is united digitally and virtually for anybody to look at
+p152
+aVin a very different way,
+p153
+aVand you won't get pushed in the line in the crowd.
+p154
+aVSo let's take you and let's travel through "The Bedroom" very quickly,
+p155
+aVso you can experience what we are doing for every single object.
+p156
+aVWe want the image to speak as much as it can
+p157
+aVon a digital platform.
+p158
+aVAnd all you need is an internet connection and a computer
+p159
+aa(lp160
+V(Applause)
+p161
+aa(lp162
+VAnd, Cyril, if you can go deeper, quickly.
+p163
+aVI'm sorry, this is all live,
+p164
+aVso you have to give Cyril a little bit of \u2014
+p165
+aVand this is available for every object:
+p166
+aVmodern art, contemporary art, Renaissance \u2014 you name it,
+p167
+aVeven sculpture.
+p168
+aa(lp169
+VSometimes, you don't know what can attract you
+p170
+aVto an artwork or to a museum or to a cultural discovery.
+p171
+aVSo for me, personally, it was quite a challenge
+p172
+aVbecause when I decided to make this my full-time job at Google,
+p173
+aVmy mother was not very supportive.
+p174
+aVI love my mother,
+p175
+aVbut she thought I was wasting my life with this museum stuff.
+p176
+aVAnd for her, a museum is what you do when you go on vacation
+p177
+aVand you tick-mark and it's over, right?
+p178
+aVAnd it took around four and a half years
+p179
+aVfor me to convince my lovely Indian mother
+p180
+aVthat actually, this is worthwhile.
+p181
+aVAnd the way I did it was, I realized one day that she loves gold.
+p182
+aVSo I started showing her all objects that have the material gold in them.
+p183
+aVAnd the first thing my mom asks me is,
+p184
+aV"How can we buy these?"
+p185
+aa(lp186
+V(Laughter)
+p187
+aa(lp188
+VAnd obviously, my salary is not that high,
+p189
+aVso I was like, "We can't actually do that, mom.
+p190
+aVBut you can explore them virtually."
+p191
+aVAnd so now my mom \u2014 every time I meet her, she asks me,
+p192
+aV"Any more gold, any more silver in your project? Can you show me?"
+p193
+aVAnd that's the idea I'm trying to illustrate.
+p194
+aVIt does not matter how you get in,
+p195
+aVas long as you get in.
+p196
+aVOnce you get in, you're hooked.
+p197
+aa(lp198
+VMoving on from here very quickly,
+p199
+aVthere is kind of a playful idea, actually,
+p200
+aVto illustrate the point of access,
+p201
+aVand I'm going to go quite quickly on this one.
+p202
+aVWe all know that seeing the artwork in person is amazing.
+p203
+aVBut we also know that most of us can't do it,
+p204
+aVand the ones that can afford to do it, it's complicated.
+p205
+aVSo \u2014 Cyril, can we load up our art trip, what do we call it?
+p206
+aVWe don't have a good name for this.
+p207
+aVBut essentially, we have around 1,000 amazing institutions,
+p208
+aV68 countries.
+p209
+aVBut let's start with Rembrandt.
+p210
+aVWe might have time for only one example.
+p211
+aVBut thanks to the diversity,
+p212
+aVwe've got around 500 amazing Rembrandt object artworks
+p213
+aVfrom 46 institutions and 17 countries.
+p214
+aVLet's say that on your next vacation,
+p215
+aVyou want to go see every single one of them.
+p216
+aVThat is your itinerary,
+p217
+aVyou will probably travel 53,000 kilometers,
+p218
+aVvisit around, I think, 46 institutions,
+p219
+aVand just FYI, you might release 10 tons of CO2 emissions.
+p220
+aa(lp221
+V(Laughter)
+p222
+aa(lp223
+VBut remember, it's art,
+p224
+aVso you can justify it, perhaps, in some way.
+p225
+aa(lp226
+VMoving on swiftly from here,
+p227
+aVis something a little bit more technical and more interesting.
+p228
+aVAll that we've shown you so far uses metadata to make the connections.
+p229
+aVBut obviously we have something cool nowadays
+p230
+aVthat everyone likes to talk about, which is machine learning.
+p231
+aVSo what we thought is, let's strip out all the metadata,
+p232
+aVlet's look at what machine learning can do
+p233
+aVbased purely on visual recognition of this entire collection.
+p234
+aVWhat we ended up with is this very interesting map,
+p235
+aVthese clusters that have no reference point information,
+p236
+aVbut has just used visuals to cluster things together.
+p237
+aVEach cluster is an art to us by itself of discovery.
+p238
+aVBut one of the clusters we want to show you very quickly
+p239
+aVis this amazing cluster of portraits
+p240
+aVthat we found from museums around the world.
+p241
+aVIf you could zoom in a little bit more, Cyril.
+p242
+aVJust to show you, you can just travel through portraits.
+p243
+aVAnd essentially, you can do nature, you can do horses
+p244
+aVand clusters galore.
+p245
+aa(lp246
+VWhen we saw all these portraits,
+p247
+aVwe were like, "Hey, can we do something fun for kids,
+p248
+aVor can we do something playful
+p249
+aVto get people interested in portraits?"
+p250
+aVBecause I haven't really seen
+p251
+aVyoung kids really excited to go to a portrait gallery.
+p252
+aVI wanted to try to figure something out.
+p253
+aVSo we created something called the portrait matcher.
+p254
+aVIt's quite self-explanatory,
+p255
+aVso I'm just going to let Cyril show his beautiful face.
+p256
+aVAnd essentially what's happening is, with the movement of his head,
+p257
+aVwe are matching different portraits around the world from museums.
+p258
+aa(lp259
+V(Applause)
+p260
+aa(lp261
+VAnd I don't know about you,
+p262
+aVbut I've shown it to my nephew and sister,
+p263
+aVand the reaction is just phenomenal.
+p264
+aVAll they ask me is, "When can we go see this?"
+p265
+aVAnd by the way, if we're nice,
+p266
+aVmaybe, Cyril, you can smile and find a happy one?
+p267
+aVOh, perfect.
+p268
+aVBy the way, this is not rehearsed.
+p269
+aVCongrats, Cyril. Great stuff. Oh wow.
+p270
+aVOK, let's move on; otherwise, this will just take the whole time.
+p271
+aa(lp272
+V(Applause)
+p273
+aa(lp274
+VSo, art and culture can be fun also, right?
+p275
+aVFor our last quick experiment \u2014
+p276
+aVwe call all of these "experiments" \u2014
+p277
+aVour last quick experiment comes back to machine learning.
+p278
+aVWe show you clusters, visual clusters,
+p279
+aVbut what if we could ask the machine to also name these clusters?
+p280
+aVWhat if it could automatically tag them, using no actual metadata?
+p281
+aVSo what we have is this kind of explorer,
+p282
+aVwhere we have managed to match, I think, around 4,000 labels.
+p283
+aVAnd we haven't really done anything special here,
+p284
+aVjust fed the collection.
+p285
+aVAnd we found interesting categories.
+p286
+aVWe can start with horses, a very straightforward category.
+p287
+aVYou would expect to see that the machine has put
+p288
+aVimages of horses, right?
+p289
+aVAnd it has, but you also notice, right over there,
+p290
+aVthat it has a very abstract image
+p291
+aVthat it has still managed to recognize and cluster as horses.
+p292
+aVWe also have an amazing head in terms of a horse.
+p293
+aVAnd each one has the tags as to why it got categorized in this.
+p294
+aa(lp295
+VSo let's move to another one which I found very funny and interesting,
+p296
+aVbecause I don't understand how this category came up.
+p297
+aVIt's called "Lady in Waiting."
+p298
+aVIf, Cyril, you do it very quickly,
+p299
+aVyou will see that we have these amazing images
+p300
+aVof ladies, I guess, in waiting or posing.
+p301
+aVI don't really understand it.
+p302
+aVBut I've been trying to ask my museum contacts,
+p303
+aVyou know, "What is this? What's going on here?"
+p304
+aVAnd it's fascinating.
+p305
+aa(lp306
+VComing back to gold very quickly,
+p307
+aVI wanted to search for gold
+p308
+aVand see how the machine tagged all the gold.
+p309
+aVBut, actually, it doesn't tag it as gold.
+p310
+aVWe are living in popular times.
+p311
+aVIt tags it as "bling-bling."
+p312
+aa(lp313
+V(Laughter)
+p314
+aa(lp315
+VI'm being hard on Cyril, because I'm moving too fast.
+p316
+aVEssentially, here you have all the bling-bling
+p317
+aVof the world's museums organized for you.
+p318
+aa(lp319
+VAnd finally, to end this talk and these experiments,
+p320
+aVwhat I hope you feel after this talk is happiness and emotion.
+p321
+aVAnd what would we see when we see happiness?
+p322
+aVIf we actually look at all the objects
+p323
+aVthat have been tagged under "happiness,"
+p324
+aVyou would expect happiness, I guess.
+p325
+aVBut there was one that came up that was very fascinating and interesting,
+p326
+aVwhich was this artwork by Douglas Coupland,
+p327
+aVour friend and artist in residence as well,
+p328
+aVcalled, "I Miss My Pre-Internet Brain."
+p329
+aVI don't know why the machine feels like it misses its pre-Internet brain
+p330
+aVand it's been tagged here,
+p331
+aVbut it's a very interesting thought.
+p332
+aVI sometimes do miss my pre-Internet brain,
+p333
+aVbut not when it comes to exploring arts and culture online.
+p334
+aa(lp335
+VSo take out your phones, take out your computers,
+p336
+aVgo visit museums.
+p337
+aVAnd just a quick call-out to all the amazing archivists,
+p338
+aVhistorians, curators,
+p339
+aVwho are sitting in museums, preserving all this culture.
+p340
+aVAnd the least we can do is get our daily dose of art and culture
+p341
+aVfor ourselves and our kids.
+p342
+aa(lp343
+VThank you.
+p344
+aa(lp345
+V(Applause)
+p346
+aasS'id'
+p347
+I2519
+sS'title'
+p348
+VEvery piece of art you've ever wanted to see -- up close and searchable
+p349
+s.

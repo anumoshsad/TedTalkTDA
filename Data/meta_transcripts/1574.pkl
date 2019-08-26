@@ -1,0 +1,654 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VAs it turns out, when tens of millions of people are unemployed
+p4
+aVor underemployed,
+p5
+aVthere's a fair amount of interest in what technology might be doing
+p6
+aVto the labor force.
+p7
+aVAnd as I look at the conversation,
+p8
+aVit strikes me that it's focused on exactly the right topic,
+p9
+aVand at the same time, it's missing the point entirely.
+p10
+aVThe topic that it's focused on,
+p11
+aVthe question is whether or not all these digital technologies are affecting
+p12
+aVpeople's ability to earn a living,
+p13
+aVor, to say it a little bit different way,
+p14
+aVare the droids taking our jobs?
+p15
+aVAnd there's some evidence that they are.
+p16
+aa(lp17
+VThe Great Recession ended when American GDP resumed
+p18
+aVits kind of slow, steady march upward,
+p19
+aVand some other economic indicators also started to rebound,
+p20
+aVand they got kind of healthy kind of quickly.
+p21
+aVCorporate profits are quite high;
+p22
+aVin fact, if you include bank profits,
+p23
+aVthey're higher than they've ever been.
+p24
+aVAnd business investment in gear \u2014 in equipment
+p25
+aVand hardware and software \u2014 is at an all-time high.
+p26
+aVSo the businesses are getting out their checkbooks.
+p27
+aVWhat they're not really doing is hiring.
+p28
+aVSo this red line
+p29
+aVis the employment-to-population ratio,
+p30
+aVin other words, the percentage of working-age people in America
+p31
+aVwho have work.
+p32
+aVAnd we see that it cratered during the Great Recession,
+p33
+aVand it hasn't started to bounce back at all.
+p34
+aa(lp35
+VBut the story is not just a recession story.
+p36
+aVThe decade that we've just been through had
+p37
+aVrelatively anemic job growth all throughout,
+p38
+aVespecially when we compare it to other decades,
+p39
+aVand the 2000s are the only time we have on record
+p40
+aVwhere there were fewer people working at the end of the decade
+p41
+aVthan at the beginning.
+p42
+aVThis is not what you want to see.
+p43
+aVWhen you graph the number of potential employees
+p44
+aVversus the number of jobs in the country,
+p45
+aVyou see the gap gets bigger and bigger over time,
+p46
+aVand then, during the Great Recession, it opened up in a huge way.
+p47
+aa(lp48
+VI did some quick calculations.
+p49
+aVI took the last 20 years of GDP growth
+p50
+aVand the last 20 years of labor-productivity growth
+p51
+aVand used those in a fairly straightforward way
+p52
+aVto try to project how many jobs the economy was going to need
+p53
+aVto keep growing,
+p54
+aVand this is the line that I came up with.
+p55
+aVIs that good or bad?
+p56
+aVThis is the government's projection
+p57
+aVfor the working-age population going forward.
+p58
+aVSo if these predictions are accurate, that gap is not going to close.
+p59
+aa(lp60
+VThe problem is, I don't think these projections are accurate.
+p61
+aVIn particular, I think my projection is way too optimistic,
+p62
+aVbecause when I did it,
+p63
+aVI was assuming that the future was kind of going to look like the past,
+p64
+aVwith labor productivity growth,
+p65
+aVand that's actually not what I believe.
+p66
+aVBecause when I look around,
+p67
+aVI think that we ain't seen nothing yet
+p68
+aVwhen it comes to technology's impact on the labor force.
+p69
+aa(lp70
+VJust in the past couple years, we've seen digital tools
+p71
+aVdisplay skills and abilities that they never, ever had before,
+p72
+aVand that kind of eat deeply into what we human beings
+p73
+aVdo for a living.
+p74
+aVLet me give you a couple examples.
+p75
+aa(lp76
+VThroughout all of history,
+p77
+aVif you wanted something translated from one language into another,
+p78
+aVyou had to involve a human being.
+p79
+aVNow we have multi-language, instantaneous,
+p80
+aVautomatic translation services available for free
+p81
+aVvia many of our devices, all the way down to smartphones.
+p82
+aVAnd if any of us have used these,
+p83
+aVwe know that they're not perfect, but they're decent.
+p84
+aa(lp85
+VThroughout all of history, if you wanted something written,
+p86
+aVa report or an article, you had to involve a person.
+p87
+aVNot anymore.
+p88
+aVThis is an article that appeared in Forbes online a while back,
+p89
+aVabout Apple's earnings.
+p90
+aVIt was written by an algorithm.
+p91
+aVAnd it's not decent \u2014 it's perfect.
+p92
+aa(lp93
+VA lot of people look at this and they say,
+p94
+aV"OK, but those are very specific, narrow tasks,
+p95
+aVand most knowledge workers are actually generalists.
+p96
+aVAnd what they do is sit on top of a very large body of expertise and knowledge
+p97
+aVand they use that to react on the fly to kind of unpredictable demands,
+p98
+aVand that's very, very hard to automate."
+p99
+aVOne of the most impressive knowledge workers in recent memory
+p100
+aVis a guy named Ken Jennings.
+p101
+aVHe won the quiz show "Jeopardy!" 74 times in a row.
+p102
+aVTook home three million dollars.
+p103
+aVThat's Ken on the right, getting beat three-to-one
+p104
+aVby Watson, the Jeopardy-playing supercomputer from IBM.
+p105
+aVSo when we look at what technology can do to general knowledge workers,
+p106
+aVI start to think there might not be something so special
+p107
+aVabout this idea of a generalist,
+p108
+aVparticularly when we start doing things like hooking Siri up to Watson,
+p109
+aVand having technologies that can understand what we're saying
+p110
+aVand repeat speech back to us.
+p111
+aa(lp112
+VNow, Siri is far from perfect, and we can make fun of her flaws,
+p113
+aVbut we should also keep in mind
+p114
+aVthat if technologies like Siri and Watson improve along a Moore's law trajectory,
+p115
+aVwhich they will,
+p116
+aVin six years, they're not going to be two times better or four times better,
+p117
+aVthey'll be 16 times better than they are right now.
+p118
+aVSo I start to think a lot of knowledge work is going to be affected by this.
+p119
+aa(lp120
+VAnd digital technologies are not just impacting knowledge work,
+p121
+aVthey're starting to flex their muscles in the physical world as well.
+p122
+aVI had the chance a little while back to ride in the Google autonomous car,
+p123
+aVwhich is as cool as it sounds.
+p124
+aa(lp125
+V(Laughter)
+p126
+aa(lp127
+VAnd I will vouch that it handled the stop-and-go traffic on US 101
+p128
+aVvery smoothly.
+p129
+aVThere are about three and a half million people who drive trucks for a living
+p130
+aVin the United States;
+p131
+aVI think some of them are going to be affected by this technology.
+p132
+aVAnd right now, humanoid robots are still incredibly primitive.
+p133
+aVThey can't do very much.
+p134
+aVBut they're getting better quite quickly
+p135
+aVand DARPA, which is the investment arm of the Defense Department,
+p136
+aVis trying to accelerate their trajectory.
+p137
+aa(lp138
+VSo, in short, yeah, the droids are coming for our jobs.
+p139
+aVIn the short term, we can stimulate job growth
+p140
+aVby encouraging entrepreneurship
+p141
+aVand by investing in infrastructure,
+p142
+aVbecause the robots today still aren't very good at fixing bridges.
+p143
+aVBut in the not-too-long-term,
+p144
+aVI think within the lifetimes of most of the people in this room,
+p145
+aVwe're going to transition into an economy that is very productive,
+p146
+aVbut that just doesn't need a lot of human workers.
+p147
+aVAnd managing that transition is going to be the greatest challenge
+p148
+aVthat our society faces.
+p149
+aVVoltaire summarized why; he said,
+p150
+aV"Work saves us from three great evils: boredom, vice and need."
+p151
+aa(lp152
+VBut despite this challenge \u2014
+p153
+aVpersonally, I'm still a huge digital optimist,
+p154
+aVand I am supremely confident
+p155
+aVthat the digital technologies that we're developing now
+p156
+aVare going to take us into a Utopian future,
+p157
+aVnot a dystopian future.
+p158
+aVAnd to explain why,
+p159
+aVI want to pose a ridiculously broad question.
+p160
+aVI want to ask:
+p161
+aVwhat have been the most important developments in human history?
+p162
+aa(lp163
+VNow, I want to share some of the answers that I've gotten
+p164
+aVin response to this question.
+p165
+aVIt's a wonderful question to ask and start an endless debate about,
+p166
+aVbecause some people are going to bring up
+p167
+aVsystems of philosophy in both the West and the East
+p168
+aVthat have changed how a lot of people think about the world.
+p169
+aVAnd then other people will say,
+p170
+aV"No, actually, the big stories, the big developments
+p171
+aVare the founding of the world's major religions,
+p172
+aVwhich have changed civilizations and have changed and influenced
+p173
+aVhow countless people are living their lives."
+p174
+aVAnd then some other folk will say,
+p175
+aV"Actually, what changes civilizations,
+p176
+aVwhat modifies them and what changes people's lives are empires,
+p177
+aVso the great developments in human history
+p178
+aVare stories of conquest and of war."
+p179
+aVAnd then some cheery soul usually always pipes up and says,
+p180
+aV"Hey, don't forget about plagues!"
+p181
+aa(lp182
+V(Laughter)
+p183
+aa(lp184
+VThere are some optimistic answers to this question,
+p185
+aVso some people will bring up the Age of Exploration
+p186
+aVand the opening up of the world.
+p187
+aVOthers will talk about intellectual achievements in disciplines like math
+p188
+aVthat have helped us get a better handle on the world,
+p189
+aVand other folk will talk about periods when there was a deep flourishing
+p190
+aVof the arts and sciences.
+p191
+aVSo this debate will go on and on.
+p192
+aVIt's an endless debate
+p193
+aVand there's no conclusive, single answer to it.
+p194
+aVBut if you're a geek like me,
+p195
+aVyou say, "Well, what do the data say?"
+p196
+aVAnd you start to do things
+p197
+aVlike graph things that we might be interested in \u2014
+p198
+aVthe total worldwide population, for example,
+p199
+aVor some measure of social development
+p200
+aVor the state of advancement of a society.
+p201
+aVAnd you start to plot the data, because, by this approach,
+p202
+aVthe big stories, the big developments in human history,
+p203
+aVare the ones that will bend these curves a lot.
+p204
+aa(lp205
+VSo when you do this and when you plot the data,
+p206
+aVyou pretty quickly come to some weird conclusions.
+p207
+aVYou conclude, actually,
+p208
+aVthat none of these things have mattered very much.
+p209
+aa(lp210
+V(Laughter)
+p211
+aa(lp212
+VThey haven't done a darn thing to the curves.
+p213
+aVThere has been one story, one development in human history
+p214
+aVthat bent the curve, bent it just about 90 degrees,
+p215
+aVand it is a technology story.
+p216
+aa(lp217
+VThe steam engine and the other associated technologies
+p218
+aVof the Industrial Revolution
+p219
+aVchanged the world and influenced human history so much,
+p220
+aVthat in the words of the historian Ian Morris,
+p221
+aV"... they made mockery out of all that had come before."
+p222
+aVAnd they did this by infinitely multiplying the power of our muscles,
+p223
+aVovercoming the limitations of our muscles.
+p224
+aVNow, what we're in the middle of now
+p225
+aVis overcoming the limitations of our individual brains
+p226
+aVand infinitely multiplying our mental power.
+p227
+aVHow can this not be as big a deal
+p228
+aVas overcoming the limitations of our muscles?
+p229
+aa(lp230
+VSo at the risk of repeating myself a little bit,
+p231
+aVwhen I look at what's going on with digital technology these days,
+p232
+aVwe are not anywhere near through with this journey.
+p233
+aVAnd when I look at what is happening to our economies and our societies,
+p234
+aVmy single conclusion is that we ain't seen nothing yet.
+p235
+aVThe best days are really ahead.
+p236
+aa(lp237
+VLet me give you a couple examples.
+p238
+aVEconomies don't run on energy.
+p239
+aVThey don't run on capital, they don't run on labor.
+p240
+aVEconomies run on ideas.
+p241
+aVSo the work of innovation, the work of coming up with new ideas,
+p242
+aVis some of the most powerful, most fundamental work that we can do
+p243
+aVin an economy.
+p244
+aVAnd this is kind of how we used to do innovation.
+p245
+aVWe'd find a bunch of fairly similar-looking people ...
+p246
+aa(lp247
+V(Laughter)
+p248
+aa(lp249
+VWe'd take them out of elite institutions,
+p250
+aVwe'd put them into other elite institutions
+p251
+aVand we'd wait for the innovation.
+p252
+aVNow \u2014
+p253
+aa(lp254
+V(Laughter)
+p255
+aa(lp256
+Vas a white guy who spent his whole career at MIT and Harvard,
+p257
+aVI've got no problem with this.
+p258
+aa(lp259
+V(Laughter)
+p260
+aa(lp261
+VBut some other people do,
+p262
+aVand they've kind of crashed the party
+p263
+aVand loosened up the dress code of innovation.
+p264
+aa(lp265
+V(Laughter)
+p266
+aa(lp267
+VSo here are the winners of a Topcoder programming challenge,
+p268
+aVand I assure you that nobody cares
+p269
+aVwhere these kids grew up, where they went to school,
+p270
+aVor what they look like.
+p271
+aVAll anyone cares about is the quality of the work, the quality of the ideas.
+p272
+aa(lp273
+VAnd over and over again, we see this happening
+p274
+aVin the technology-facilitated world.
+p275
+aVThe work of innovation is becoming more open,
+p276
+aVmore inclusive, more transparent and more merit-based,
+p277
+aVand that's going to continue no matter what MIT and Harvard think of it,
+p278
+aVand I couldn't be happier about that development.
+p279
+aa(lp280
+VI hear once in a while, "OK, I'll grant you that,
+p281
+aVbut technology is still a tool for the rich world,
+p282
+aVand what's not happening,
+p283
+aVthese digital tools are not improving the lives
+p284
+aVof people at the bottom of the pyramid."
+p285
+aVAnd I want to say to that very clearly: nonsense.
+p286
+aVThe bottom of the pyramid is benefiting hugely from technology.
+p287
+aVThe economist Robert Jensen did this wonderful study a while back
+p288
+aVwhere he watched, in great detail,
+p289
+aVwhat happened to the fishing villages of Kerala, India,
+p290
+aVwhen they got mobile phones for the very first time.
+p291
+aVAnd when you write for the Quarterly Journal of Economics,
+p292
+aVyou have to use very dry and very circumspect language.
+p293
+aVBut when I read his paper,
+p294
+aVI kind of feel Jensen is trying to scream at us
+p295
+aVand say, "Look, this was a big deal.
+p296
+aVPrices stabilized, so people could plan their economic lives.
+p297
+aVWaste was not reduced \u2014 it was eliminated.
+p298
+aVAnd the lives of both the buyers and the sellers
+p299
+aVin these villages measurably improved."
+p300
+aa(lp301
+VNow, what I don't think is that Jensen got extremely lucky
+p302
+aVand happened to land in the one set of villages
+p303
+aVwhere technology made things better.
+p304
+aVWhat happened instead is he very carefully documented
+p305
+aVwhat happens over and over again when technology comes for the first time
+p306
+aVto an environment and a community:
+p307
+aVthe lives of people, the welfares of people, improve dramatically.
+p308
+aa(lp309
+VSo as I look around at all the evidence
+p310
+aVand I think about the room that we have ahead of us,
+p311
+aVI become a huge digital optimist
+p312
+aVand I start to think that this wonderful statement from the physicist Freeman Dyson
+p313
+aVis actually not hyperbole.
+p314
+aVThis is an accurate assessment of what's going on.
+p315
+aVOur technologies are great gifts,
+p316
+aVand we, right now, have the great good fortune
+p317
+aVto be living at a time when digital technology is flourishing,
+p318
+aVwhen it is broadening and deepening and becoming more profound
+p319
+aVall around the world.
+p320
+aa(lp321
+VSo, yeah, the droids are taking our jobs,
+p322
+aVbut focusing on that fact misses the point entirely.
+p323
+aVThe point is that then we are freed up to do other things,
+p324
+aVand what we're going to do, I am very confident,
+p325
+aVwhat we're going to do is reduce poverty
+p326
+aVand drudgery and misery around the world.
+p327
+aVI'm very confident we're going to learn to live more lightly on the planet,
+p328
+aVand I am extremely confident that what we're going to do
+p329
+aVwith our new digital tools
+p330
+aVis going to be so profound and so beneficial
+p331
+aVthat it's going to make a mockery out of everything that came before.
+p332
+aVI'm going to leave the last word
+p333
+aVto a guy who had a front-row seat for digital progress,
+p334
+aVour old friend Ken Jennings.
+p335
+aVI'm with him; I'm going to echo his words:
+p336
+aV"I, for one, welcome our new computer overlords."
+p337
+aa(lp338
+V(Laughter)
+p339
+aa(lp340
+VThanks very much.
+p341
+aa(lp342
+V(Applause)
+p343
+aasS'id'
+p344
+I1574
+sS'title'
+p345
+VAre droids taking our jobs?
+p346
+s.

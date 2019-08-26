@@ -1,0 +1,283 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VHave you ever wondered
+p4
+aVwhat is inside your dental plaque?
+p5
+aVProbably not, but people like me do.
+p6
+aVI'm an archeological geneticist
+p7
+aVat the Center for Evolutionary Medicine
+p8
+aVat the University of Zurich,
+p9
+aVand I study the origins and evolution of human health and disease
+p10
+aVby conducting genetic research
+p11
+aVon the skeletal and mummified remains of ancient humans.
+p12
+aVAnd through this work, I hope to better understand
+p13
+aVthe evolutionary vulnerabilities of our bodies,
+p14
+aVso that we can improve
+p15
+aVand better manage our health in the future.
+p16
+aa(lp17
+VThere are different ways to approach evolutionary medicine,
+p18
+aVand one way is to extract human DNA
+p19
+aVfrom ancient bones.
+p20
+aVAnd from these extracts,
+p21
+aVwe can reconstruct the human genome at different points in time
+p22
+aVand look for changes that might be related to adaptations,
+p23
+aVrisk factors and inherited diseases.
+p24
+aVBut this is only one half of the story.
+p25
+aa(lp26
+VThe most important health challenges today
+p27
+aVare not caused by simple mutations in our genome,
+p28
+aVbut rather result from a complex and dynamic interplay
+p29
+aVbetween genetic variation,
+p30
+aVdiet, microbes and parasites
+p31
+aVand our immune response.
+p32
+aVAll of these diseases
+p33
+aVhave a strong evolutionary component
+p34
+aVthat directly relates to the fact
+p35
+aVthat we live today in a very different environment
+p36
+aVthan the ones in which our bodies evolved.
+p37
+aVAnd in order to understand these diseases,
+p38
+aVwe need to move past studies of the human genome alone
+p39
+aVand towards a more holistic approach
+p40
+aVto human health in the past.
+p41
+aa(lp42
+VBut there are a lot of challenges for this.
+p43
+aVAnd first of all, what do we even study?
+p44
+aVSkeletons are ubiquitous; they're found all over the place.
+p45
+aVBut of course, all of the soft tissue has decomposed,
+p46
+aVand the skeleton itself
+p47
+aVhas limited health information.
+p48
+aVMummies are a great source of information,
+p49
+aVexcept that they're really geographically limited
+p50
+aVand limited in time as well.
+p51
+aVCoprolites are fossilized human feces,
+p52
+aVand they're actually extremely interesting.
+p53
+aVYou can learn a lot about ancient diet and intestinal disease,
+p54
+aVbut they are very rare.
+p55
+aa(lp56
+V(Laughter)
+p57
+aa(lp58
+VSo to address this problem,
+p59
+aVI put together a team of international researchers
+p60
+aVin Switzerland, Denmark and the U.K.
+p61
+aVto study a very poorly studied, little known material
+p62
+aVthat's found on people everywhere.
+p63
+aVIt's a type of fossilized dental plaque
+p64
+aVthat is called officially dental calculus.
+p65
+aVMany of you may know it by the term tartar.
+p66
+aVIt's what the dentist cleans off your teeth
+p67
+aVevery time that you go in for a visit.
+p68
+aVAnd in a typical dentistry visit,
+p69
+aVyou may have about 15 to 30 milligrams removed.
+p70
+aVBut in ancient times before tooth brushing,
+p71
+aVup to 600 milligrams might have built up on the teeth
+p72
+aVover a lifetime.
+p73
+aa(lp74
+VAnd what's really important about dental calculus
+p75
+aVis that it fossilizes just like the rest of the skeleton,
+p76
+aVit's abundant in quantity before the present day
+p77
+aVand it's ubiquitous worldwide.
+p78
+aVWe find it in every population around the world at all time periods
+p79
+aVgoing back tens of thousands of years.
+p80
+aVAnd we even find it in neanderthals and animals.
+p81
+aa(lp82
+VAnd so previous studies
+p83
+aVhad only focused on microscopy.
+p84
+aVThey'd looked at dental calculus under a microscope,
+p85
+aVand what they had found was things like pollen
+p86
+aVand plant starches,
+p87
+aVand they'd found muscle cells from animal meats
+p88
+aVand bacteria.
+p89
+aVAnd so what my team of researchers, what we wanted to do,
+p90
+aVis say, can we apply
+p91
+aVgenetic and proteomic technology
+p92
+aVto go after DNA and proteins,
+p93
+aVand from this can we get better taxonomic resolution
+p94
+aVto really understand what's going on?
+p95
+aa(lp96
+VAnd what we found
+p97
+aVis that we can find many commensal and pathogenic bacteria
+p98
+aVthat inhabited the nasal passages and mouth.
+p99
+aVWe also have found immune proteins
+p100
+aVrelated to infection and inflammation
+p101
+aVand proteins and DNA related to diet.
+p102
+aVBut what was surprising to us, and also quite exciting,
+p103
+aVis we also found bacteria
+p104
+aVthat normally inhabit upper respiratory systems.
+p105
+aVSo it gives us virtual access to the lungs,
+p106
+aVwhich is where many important diseases reside.
+p107
+aa(lp108
+VAnd we also found bacteria
+p109
+aVthat normally inhabit the gut.
+p110
+aVAnd so we can also now virtually gain access
+p111
+aVto this even more distant organ system
+p112
+aVthat, from the skeleton alone,
+p113
+aVhas long decomposed.
+p114
+aVAnd so by applying ancient DNA sequencing
+p115
+aVand protein mass spectrometry technologies
+p116
+aVto ancient dental calculus,
+p117
+aVwe can generate immense quantities of data
+p118
+aVthat then we can use to begin to reconstruct a detailed picture
+p119
+aVof the dynamic interplay
+p120
+aVbetween diet, infection and immunity
+p121
+aVthousands of years ago.
+p122
+aa(lp123
+VSo what started out as an idea,
+p124
+aVis now being implemented
+p125
+aVto churn out millions of sequences
+p126
+aVthat we can use to investigate
+p127
+aVthe long-term evolutionary history of human health and disease,
+p128
+aVright down to the genetic code of individual pathogens.
+p129
+aVAnd from this information
+p130
+aVwe can learn about how pathogens evolve
+p131
+aVand also why they continue to make us sick.
+p132
+aVAnd I hope I have convinced you
+p133
+aVof the value of dental calculus.
+p134
+aa(lp135
+VAnd as a final parting thought,
+p136
+aVon behalf of future archeologists,
+p137
+aVI would like to ask you to please think twice
+p138
+aVbefore you go home and brush your teeth.
+p139
+aa(lp140
+V(Applause)
+p141
+aa(lp142
+VThank you.
+p143
+aa(lp144
+V(Applause)
+p145
+aasS'id'
+p146
+I1425
+sS'title'
+p147
+VTracking ancient diseases using ... plaque
+p148
+s.

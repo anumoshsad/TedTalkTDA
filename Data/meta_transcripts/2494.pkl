@@ -1,0 +1,547 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo this is a talk about gene drives,
+p4
+aVbut I'm going to start by telling you a brief story.
+p5
+aV20 years ago, a biologist named Anthony James
+p6
+aVgot obsessed with the idea of making mosquitos
+p7
+aVthat didn't transmit malaria.
+p8
+aa(lp9
+VIt was a great idea, and pretty much a complete failure.
+p10
+aVFor one thing, it turned out to be really hard
+p11
+aVto make a malaria-resistant mosquito.
+p12
+aVJames managed it, finally, just a few years ago,
+p13
+aVby adding some genes that make it impossible
+p14
+aVfor the malaria parasite to survive inside the mosquito.
+p15
+aa(lp16
+VBut that just created another problem.
+p17
+aVNow that you've got a malaria-resistant mosquito,
+p18
+aVhow do you get it to replace all the malaria-carrying mosquitos?
+p19
+aVThere are a couple options,
+p20
+aVbut plan A was basically to breed up
+p21
+aVa bunch of the new genetically-engineered mosquitos
+p22
+aVrelease them into the wild
+p23
+aVand hope that they pass on their genes.
+p24
+aVThe problem was that you'd have to release
+p25
+aVliterally 10 times the number of native mosquitos to work.
+p26
+aVSo in a village with 10,000 mosquitos,
+p27
+aVyou release an extra 100,000.
+p28
+aVAs you might guess,
+p29
+aVthis was not a very popular strategy with the villagers.
+p30
+aa(lp31
+V(Laughter)
+p32
+aa(lp33
+VThen, last January, Anthony James got an email
+p34
+aVfrom a biologist named Ethan Bier.
+p35
+aVBier said that he and his grad student Valentino Gantz
+p36
+aVhad stumbled on a tool that could not only guarantee
+p37
+aVthat a particular genetic trait would be inherited,
+p38
+aVbut that it would spread incredibly quickly.
+p39
+aVIf they were right, it would basically solve the problem
+p40
+aVthat he and James had been working on for 20 years.
+p41
+aa(lp42
+VAs a test, they engineered two mosquitos to carry the anti-malaria gene
+p43
+aVand also this new tool, a gene drive,
+p44
+aVwhich I'll explain in a minute.
+p45
+aVFinally, they set it up so that any mosquitos
+p46
+aVthat had inherited the anti-malaria gene
+p47
+aVwouldn't have the usual white eyes, but would instead have red eyes.
+p48
+aVThat was pretty much just for convenience
+p49
+aVso they could tell just at a glance which was which.
+p50
+aa(lp51
+VSo they took their two anti-malarial, red-eyed mosquitos
+p52
+aVand put them in a box with 30 ordinary white-eyed ones,
+p53
+aVand let them breed.
+p54
+aVIn two generations, those had produced 3,800 grandchildren.
+p55
+aVThat is not the surprising part.
+p56
+aVThis is the surprising part:
+p57
+aVgiven that you started with just two red-eyed mosquitos
+p58
+aVand 30 white-eyed ones,
+p59
+aVyou expect mostly white-eyed descendants.
+p60
+aVInstead, when James opened the box,
+p61
+aVall 3,800 mosquitos had red eyes.
+p62
+aa(lp63
+VWhen I asked Ethan Bier about this moment,
+p64
+aVhe became so excited that he was literally shouting into the phone.
+p65
+aVThat's because getting only red-eyed mosquitos
+p66
+aVviolates a rule that is the absolute cornerstone of biology,
+p67
+aVMendelian genetics.
+p68
+aVI'll keep this quick,
+p69
+aVbut Mendelian genetics says when a male and a female mate,
+p70
+aVtheir baby inherits half of its DNA from each parent.
+p71
+aVSo if our original mosquito was aa and our new mosquito is aB,
+p72
+aVwhere B is the anti-malarial gene,
+p73
+aVthe babies should come out in four permutations:
+p74
+aVaa, aB, aa, Ba.
+p75
+aVInstead, with the new gene drive,
+p76
+aVthey all came out aB.
+p77
+aVBiologically, that shouldn't even be possible.
+p78
+aa(lp79
+VSo what happened?
+p80
+aVThe first thing that happened
+p81
+aVwas the arrival of a gene-editing tool known as CRISPR in 2012.
+p82
+aVMany of you have probably heard about CRISPR,
+p83
+aVso I'll just say briefly that CRISPR is a tool that allows researchers
+p84
+aVto edit genes very precisely, easily and quickly.
+p85
+aVIt does this by harnessing a mechanism that already existed in bacteria.
+p86
+aVBasically, there's a protein that acts like a scissors
+p87
+aVand cuts the DNA,
+p88
+aVand there's an RNA molecule that directs the scissors
+p89
+aVto any point on the genome you want.
+p90
+aVThe result is basically a word processor for genes.
+p91
+aVYou can take an entire gene out, put one in,
+p92
+aVor even edit just a single letter within a gene.
+p93
+aVAnd you can do it in nearly any species.
+p94
+aa(lp95
+VOK, remember how I said that gene drives originally had two problems?
+p96
+aVThe first was that it was hard to engineer a mosquito
+p97
+aVto be malaria-resistant.
+p98
+aVThat's basically gone now, thanks to CRISPR.
+p99
+aVBut the other problem was logistical.
+p100
+aVHow do you get your trait to spread?
+p101
+aVThis is where it gets clever.
+p102
+aa(lp103
+VA couple years ago, a biologist at Harvard named Kevin Esvelt
+p104
+aVwondered what would happen
+p105
+aVif you made it so that CRISPR inserted not only your new gene
+p106
+aVbut also the machinery that does the cutting and pasting.
+p107
+aVIn other words, what if CRISPR also copied and pasted itself.
+p108
+aVYou'd end up with a perpetual motion machine for gene editing.
+p109
+aVAnd that's exactly what happened.
+p110
+aVThis CRISPR gene drive that Esvelt created
+p111
+aVnot only guarantees that a trait will get passed on,
+p112
+aVbut if it's used in the germline cells,
+p113
+aVit will automatically copy and paste your new gene
+p114
+aVinto both chromosomes of every single individual.
+p115
+aVIt's like a global search and replace,
+p116
+aVor in science terms, it makes a heterozygous trait homozygous.
+p117
+aa(lp118
+VSo, what does this mean?
+p119
+aVFor one thing, it means we have a very powerful,
+p120
+aVbut also somewhat alarming new tool.
+p121
+aVUp until now, the fact that gene drives didn't work very well
+p122
+aVwas actually kind of a relief.
+p123
+aVNormally when we mess around with an organism's genes,
+p124
+aVwe make that thing less evolutionarily fit.
+p125
+aVSo biologists can make all the mutant fruit flies they want
+p126
+aVwithout worrying about it.
+p127
+aVIf some escape, natural selection just takes care of them.
+p128
+aa(lp129
+VWhat's remarkable and powerful and frightening about gene drives
+p130
+aVis that that will no longer be true.
+p131
+aVAssuming that your trait does not have a big evolutionary handicap,
+p132
+aVlike a mosquito that can't fly,
+p133
+aVthe CRISPR-based gene drive will spread the change relentlessly
+p134
+aVuntil it is in every single individual in the population.
+p135
+aVNow, it isn't easy to make a gene drive that works that well,
+p136
+aVbut James and Esvelt think that we can.
+p137
+aa(lp138
+VThe good news is that this opens the door to some remarkable things.
+p139
+aVIf you put an anti-malarial gene drive
+p140
+aVin just 1 percent of Anopheles mosquitoes,
+p141
+aVthe species that transmits malaria,
+p142
+aVresearchers estimate that it would spread to the entire population in a year.
+p143
+aVSo in a year, you could virtually eliminate malaria.
+p144
+aVIn practice, we're still a few years out from being able to do that,
+p145
+aVbut still, a 1,000 children a day die of malaria.
+p146
+aVIn a year, that number could be almost zero.
+p147
+aVThe same goes for dengue fever, chikungunya, yellow fever.
+p148
+aa(lp149
+VAnd it gets better.
+p150
+aVSay you want to get rid of an invasive species,
+p151
+aVlike get Asian carp out of the Great Lakes.
+p152
+aVAll you have to do is release a gene drive
+p153
+aVthat makes the fish produce only male offspring.
+p154
+aVIn a few generations, there'll be no females left, no more carp.
+p155
+aVIn theory, this means we could restore hundreds of native species
+p156
+aVthat have been pushed to the brink.
+p157
+aa(lp158
+VOK, that's the good news,
+p159
+aVthis is the bad news.
+p160
+aVGene drives are so effective
+p161
+aVthat even an accidental release could change an entire species,
+p162
+aVand often very quickly.
+p163
+aVAnthony James took good precautions.
+p164
+aVHe bred his mosquitos in a bio-containment lab
+p165
+aVand he also used a species that's not native to the US
+p166
+aVso that even if some did escape,
+p167
+aVthey'd just die off, there'd be nothing for them to mate with.
+p168
+aVBut it's also true that if a dozen Asian carp with the all-male gene drive
+p169
+aVaccidentally got carried from the Great Lakes back to Asia,
+p170
+aVthey could potentially wipe out the native Asian carp population.
+p171
+aVAnd that's not so unlikely, given how connected our world is.
+p172
+aVIn fact, it's why we have an invasive species problem.
+p173
+aVAnd that's fish.
+p174
+aVThings like mosquitos and fruit flies,
+p175
+aVthere's literally no way to contain them.
+p176
+aVThey cross borders and oceans all the time.
+p177
+aa(lp178
+VOK, the other piece of bad news
+p179
+aVis that a gene drive might not stay confined
+p180
+aVto what we call the target species.
+p181
+aVThat's because of gene flow,
+p182
+aVwhich is a fancy way of saying that neighboring species
+p183
+aVsometimes interbreed.
+p184
+aVIf that happens, it's possible a gene drive could cross over,
+p185
+aVlike Asian carp could infect some other kind of carp.
+p186
+aVThat's not so bad if your drive just promotes a trait, like eye color.
+p187
+aVIn fact, there's a decent chance that we'll see
+p188
+aVa wave of very weird fruit flies in the near future.
+p189
+aVBut it could be a disaster
+p190
+aVif your drive is deigned to eliminate the species entirely.
+p191
+aa(lp192
+VThe last worrisome thing is that the technology to do this,
+p193
+aVto genetically engineer an organism and include a gene drive,
+p194
+aVis something that basically any lab in the world can do.
+p195
+aVAn undergraduate can do it.
+p196
+aVA talented high schooler with some equipment can do it.
+p197
+aa(lp198
+VNow, I'm guessing that this sounds terrifying.
+p199
+aa(lp200
+V(Laughter)
+p201
+aa(lp202
+VInterestingly though, nearly every scientist I talk to
+p203
+aVseemed to think that gene drives were not actually that frightening or dangerous.
+p204
+aVPartly because they believe that scientists will be
+p205
+aVvery cautious and responsible about using them.
+p206
+aa(lp207
+V(Laughter)
+p208
+aa(lp209
+VSo far, that's been true.
+p210
+aVBut gene drives also have some actual limitations.
+p211
+aVSo for one thing, they work only in sexually reproducing species.
+p212
+aVSo thank goodness, they can't be used to engineer viruses or bacteria.
+p213
+aVAlso, the trait spreads only with each successive generation.
+p214
+aVSo changing or eliminating a population
+p215
+aVis practical only if that species has a fast reproductive cycle,
+p216
+aVlike insects or maybe small vertebrates like mice or fish.
+p217
+aVIn elephants or people, it would take centuries
+p218
+aVfor a trait to spread widely enough to matter.
+p219
+aa(lp220
+VAlso, even with CRISPR, it's not that easy to engineer a truly devastating trait.
+p221
+aVSay you wanted to make a fruit fly
+p222
+aVthat feeds on ordinary fruit instead of rotting fruit,
+p223
+aVwith the aim of sabotaging American agriculture.
+p224
+aVFirst, you'd have to figure out
+p225
+aVwhich genes control what the fly wants to eat,
+p226
+aVwhich is already a very long and complicated project.
+p227
+aVThen you'd have to alter those genes to change the fly's behavior
+p228
+aVto whatever you'd want it to be,
+p229
+aVwhich is an even longer and more complicated project.
+p230
+aVAnd it might not even work,
+p231
+aVbecause the genes that control behavior are complex.
+p232
+aVSo if you're a terrorist and have to choose
+p233
+aVbetween starting a grueling basic research program
+p234
+aVthat will require years of meticulous lab work and still might not pan out,
+p235
+aVor just blowing stuff up?
+p236
+aVYou'll probably choose the later.
+p237
+aa(lp238
+VThis is especially true because at least in theory,
+p239
+aVit should be pretty easy to build what's called a reversal drive.
+p240
+aVThat's one that basically overwrites the change made by the first gene drive.
+p241
+aVSo if you don't like the effects of a change,
+p242
+aVyou can just release a second drive that will cancel it out,
+p243
+aVat least in theory.
+p244
+aa(lp245
+VOK, so where does this leave us?
+p246
+aVWe now have the ability to change entire species at will.
+p247
+aVShould we?
+p248
+aVAre we gods now?
+p249
+aVI'm not sure I'd say that.
+p250
+aVBut I would say this:
+p251
+aVfirst, some very smart people
+p252
+aVare even now debating how to regulate gene drives.
+p253
+aVAt the same time, some other very smart people
+p254
+aVare working hard to create safeguards,
+p255
+aVlike gene drives that self-regulate or peter out after a few generations.
+p256
+aVThat's great.
+p257
+aVBut this technology still requires a conversation.
+p258
+aVAnd given the nature of gene drives,
+p259
+aVthat conversation has to be global.
+p260
+aVWhat if Kenya wants to use a drive but Tanzania doesn't?
+p261
+aVWho decides whether to release a gene drive that can fly?
+p262
+aa(lp263
+VI don't have the answer to that question.
+p264
+aVAll we can do going forward, I think,
+p265
+aVis talk honestly about the risks and benefits
+p266
+aVand take responsibility for our choices.
+p267
+aVBy that I mean, not just the choice to use a gene drive,
+p268
+aVbut also the choice not to use one.
+p269
+aVHumans have a tendency to assume that the safest option
+p270
+aVis to preserve the status quo.
+p271
+aVBut that's not always the case.
+p272
+aVGene drives have risks, and those need to be discussed,
+p273
+aVbut malaria exists now and kills 1,000 people a day.
+p274
+aVTo combat it, we spray pesticides that do grave damage to other species,
+p275
+aVincluding amphibians and birds.
+p276
+aa(lp277
+VSo when you hear about gene drives in the coming months,
+p278
+aVand trust me, you will be hearing about them,
+p279
+aVremember that.
+p280
+aVIt can be frightening to act,
+p281
+aVbut sometimes, not acting is worse.
+p282
+aa(lp283
+V(Applause)
+p284
+aasS'id'
+p285
+I2494
+sS'title'
+p286
+VGene editing can now change an entire species -- forever
+p287
+s.

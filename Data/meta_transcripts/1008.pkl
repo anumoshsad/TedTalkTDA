@@ -1,0 +1,755 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VDelighted to be here
+p4
+aVand to talk to you about a subject dear to my heart,
+p5
+aVwhich is beauty.
+p6
+aVI do the philosophy of art, aesthetics,
+p7
+aVactually, for a living.
+p8
+aVI try to figure out intellectually,
+p9
+aVphilosophically, psychologically,
+p10
+aVwhat the experience of beauty is,
+p11
+aVwhat sensibly can be said about it
+p12
+aVand how people go off the rails in trying to understand it.
+p13
+aVNow this is an extremely complicated subject,
+p14
+aVin part because the things that we call beautiful
+p15
+aVare so different.
+p16
+aVI mean just think of the sheer variety \u2014
+p17
+aVa baby's face,
+p18
+aVBerlioz's "Harold in Italy,"
+p19
+aVmovies like "The Wizard of Oz"
+p20
+aVor the plays of Chekhov,
+p21
+aVa central California landscape,
+p22
+aVa Hokusai view of Mt. Fuji,
+p23
+aV"Der Rosenkavalier,"
+p24
+aVa stunning match-winning goal
+p25
+aVin a World Cup soccer match,
+p26
+aVVan Gogh's "Starry Night,"
+p27
+aVa Jane Austen novel,
+p28
+aVFred Astaire dancing across the screen.
+p29
+aVThis brief list includes human beings,
+p30
+aVnatural landforms,
+p31
+aVworks of art and skilled human actions.
+p32
+aVAn account that explains the presence of beauty
+p33
+aVin everything on this list
+p34
+aVis not going to be easy.
+p35
+aa(lp36
+VI can, however, give you at least a taste
+p37
+aVof what I regard
+p38
+aVas the most powerful theory of beauty
+p39
+aVwe yet have.
+p40
+aVAnd we get it not from a philosopher of art,
+p41
+aVnot from a postmodern art theorist
+p42
+aVor a bigwig art critic.
+p43
+aVNo, this theory
+p44
+aVcomes from an expert
+p45
+aVon barnacles and worms and pigeon breeding,
+p46
+aVand you know who I mean:
+p47
+aVCharles Darwin.
+p48
+aVOf course, a lot of people think they already know
+p49
+aVthe proper answer to the question,
+p50
+aV"What is beauty?"
+p51
+aVIt's in the eye of the beholder.
+p52
+aVIt's whatever moves you personally.
+p53
+aVOr, as some people,
+p54
+aVespecially academics prefer,
+p55
+aVbeauty is in the culturally conditioned
+p56
+aVeye of the beholder.
+p57
+aVPeople agree that paintings or movies or music
+p58
+aVare beautiful
+p59
+aVbecause their cultures determine a uniformity of aesthetic taste.
+p60
+aVTaste for both natural beauty and for the arts
+p61
+aVtravel across cultures
+p62
+aVwith great ease.
+p63
+aVBeethoven is adored in Japan.
+p64
+aVPeruvians love Japanese woodblock prints.
+p65
+aVInca sculptures are regarded as treasures
+p66
+aVin British museums,
+p67
+aVwhile Shakespeare is translated
+p68
+aVinto every major language of the Earth.
+p69
+aVOr just think about American jazz
+p70
+aVor American movies \u2014
+p71
+aVthey go everywhere.
+p72
+aVThere are many differences among the arts,
+p73
+aVbut there are also universal,
+p74
+aVcross-cultural aesthetic pleasures
+p75
+aVand values.
+p76
+aa(lp77
+VHow can we explain
+p78
+aVthis universality?
+p79
+aVThe best answer lies in trying to reconstruct
+p80
+aVa Darwinian evolutionary history
+p81
+aVof our artistic and aesthetic tastes.
+p82
+aVWe need to reverse-engineer
+p83
+aVour present artistic tastes and preferences
+p84
+aVand explain how they came
+p85
+aVto be engraved in our minds
+p86
+aVby the actions of both our prehistoric,
+p87
+aVlargely pleistocene environments,
+p88
+aVwhere we became fully human,
+p89
+aVbut also by the social situations
+p90
+aVin which we evolved.
+p91
+aVThis reverse engineering
+p92
+aVcan also enlist help
+p93
+aVfrom the human record
+p94
+aVpreserved in prehistory.
+p95
+aVI mean fossils, cave paintings and so forth.
+p96
+aVAnd it should take into account
+p97
+aVwhat we know of the aesthetic interests
+p98
+aVof isolated hunter-gatherer bands
+p99
+aVthat survived into the 19th and the 20th centuries.
+p100
+aa(lp101
+VNow, I personally
+p102
+aVhave no doubt whatsoever
+p103
+aVthat the experience of beauty,
+p104
+aVwith its emotional intensity and pleasure,
+p105
+aVbelongs to our evolved human psychology.
+p106
+aVThe experience of beauty is one component
+p107
+aVin a whole series of Darwinian adaptations.
+p108
+aVBeauty is an adaptive effect,
+p109
+aVwhich we extend
+p110
+aVand intensify
+p111
+aVin the creation and enjoyment
+p112
+aVof works of art and entertainment.
+p113
+aVAs many of you will know,
+p114
+aVevolution operates by two main primary mechanisms.
+p115
+aVThe first of these is natural selection \u2014
+p116
+aVthat's random mutation and selective retention \u2014
+p117
+aValong with our basic anatomy and physiology \u2014
+p118
+aVthe evolution of the pancreas or the eye or the fingernails.
+p119
+aVNatural selection also explains
+p120
+aVmany basic revulsions,
+p121
+aVsuch as the horrid smell of rotting meat,
+p122
+aVor fears, such as the fear of snakes
+p123
+aVor standing close to the edge of a cliff.
+p124
+aVNatural selection also explains pleasures \u2014
+p125
+aVsexual pleasure,
+p126
+aVour liking for sweet, fat and proteins,
+p127
+aVwhich in turn explains a lot of popular foods,
+p128
+aVfrom ripe fruits through chocolate malts
+p129
+aVand barbecued ribs.
+p130
+aa(lp131
+VThe other great principle of evolution
+p132
+aVis sexual selection,
+p133
+aVand it operates very differently.
+p134
+aVThe peacock's magnificent tail
+p135
+aVis the most famous example of this.
+p136
+aVIt did not evolve for natural survival.
+p137
+aVIn fact, it goes against natural survival.
+p138
+aVNo, the peacock's tail
+p139
+aVresults from the mating choices
+p140
+aVmade by peahens.
+p141
+aVIt's quite a familiar story.
+p142
+aVIt's women who actually push history forward.
+p143
+aVDarwin himself, by the way,
+p144
+aVhad no doubts that the peacock's tail
+p145
+aVwas beautiful in the eyes of the peahen.
+p146
+aVHe actually used that word.
+p147
+aVNow, keeping these ideas firmly in mind,
+p148
+aVwe can say that the experience of beauty
+p149
+aVis one of the ways that evolution has
+p150
+aVof arousing and sustaining
+p151
+aVinterest or fascination,
+p152
+aVeven obsession,
+p153
+aVin order to encourage us
+p154
+aVtoward making the most adaptive decisions
+p155
+aVfor survival and reproduction.
+p156
+aVBeauty is nature's way
+p157
+aVof acting at a distance,
+p158
+aVso to speak.
+p159
+aVI mean, you can't expect to eat
+p160
+aVan adaptively beneficial landscape.
+p161
+aVIt would hardly do to eat your baby
+p162
+aVor your lover.
+p163
+aVSo evolution's trick
+p164
+aVis to make them beautiful,
+p165
+aVto have them exert a kind of magnetism
+p166
+aVto give you the pleasure of simply looking at them.
+p167
+aa(lp168
+VConsider briefly an important source of aesthetic pleasure,
+p169
+aVthe magnetic pull
+p170
+aVof beautiful landscapes.
+p171
+aVPeople in very different cultures
+p172
+aVall over the world
+p173
+aVtend to like a particular kind of landscape,
+p174
+aVa landscape that just happens to be similar
+p175
+aVto the pleistocene savannas where we evolved.
+p176
+aVThis landscape shows up today
+p177
+aVon calendars, on postcards,
+p178
+aVin the design of golf courses and public parks
+p179
+aVand in gold-framed pictures
+p180
+aVthat hang in living rooms
+p181
+aVfrom New York to New Zealand.
+p182
+aVIt's a kind of Hudson River school landscape
+p183
+aVfeaturing open spaces
+p184
+aVof low grasses
+p185
+aVinterspersed with copses of trees.
+p186
+aVThe trees, by the way, are often preferred
+p187
+aVif they fork near the ground,
+p188
+aVthat is to say, if they're trees you could scramble up
+p189
+aVif you were in a tight fix.
+p190
+aVThe landscape shows the presence
+p191
+aVof water directly in view,
+p192
+aVor evidence of water in a bluish distance,
+p193
+aVindications of animal or bird life
+p194
+aVas well as diverse greenery
+p195
+aVand finally \u2014 get this \u2014
+p196
+aVa path
+p197
+aVor a road,
+p198
+aVperhaps a riverbank or a shoreline,
+p199
+aVthat extends into the distance,
+p200
+aValmost inviting you to follow it.
+p201
+aVThis landscape type is regarded as beautiful,
+p202
+aVeven by people in countries
+p203
+aVthat don't have it.
+p204
+aVThe ideal savanna landscape
+p205
+aVis one of the clearest examples
+p206
+aVwhere human beings everywhere
+p207
+aVfind beauty
+p208
+aVin similar visual experience.
+p209
+aa(lp210
+VBut, someone might argue,
+p211
+aVthat's natural beauty.
+p212
+aVHow about artistic beauty?
+p213
+aVIsn't that exhaustively cultural?
+p214
+aVNo, I don't think it is.
+p215
+aVAnd once again, I'd like to look back to prehistory
+p216
+aVto say something about it.
+p217
+aVIt is widely assumed
+p218
+aVthat the earliest human artworks
+p219
+aVare the stupendously skillful cave paintings
+p220
+aVthat we all know from Lascaux
+p221
+aVand Chauvet.
+p222
+aVChauvet caves
+p223
+aVare about 32,000 years old,
+p224
+aValong with a few small, realistic sculptures
+p225
+aVof women and animals from the same period.
+p226
+aVBut artistic and decorative skills
+p227
+aVare actually much older than that.
+p228
+aVBeautiful shell necklaces
+p229
+aVthat look like something you'd see at an arts and crafts fair,
+p230
+aVas well as ochre body paint,
+p231
+aVhave been found
+p232
+aVfrom around 100,000 years ago.
+p233
+aa(lp234
+VBut the most intriguing prehistoric artifacts
+p235
+aVare older even than this.
+p236
+aVI have in mind
+p237
+aVthe so-called Acheulian hand axes.
+p238
+aVThe oldest stone tools are choppers
+p239
+aVfrom the Olduvai Gorge in East Africa.
+p240
+aVThey go back about two-and-a-half-million years.
+p241
+aVThese crude tools
+p242
+aVwere around for thousands of centuries,
+p243
+aVuntil around 1.4 million years ago
+p244
+aVwhen Homo erectus
+p245
+aVstarted shaping
+p246
+aVsingle, thin stone blades,
+p247
+aVsometimes rounded ovals,
+p248
+aVbut often in what are to our eyes
+p249
+aVan arresting, symmetrical pointed leaf
+p250
+aVor teardrop form.
+p251
+aVThese Acheulian hand axes \u2014
+p252
+aVthey're named after St. Acheul in France,
+p253
+aVwhere finds were made in 19th century \u2014
+p254
+aVhave been unearthed in their thousands,
+p255
+aVscattered across Asia, Europe and Africa,
+p256
+aValmost everywhere Homo erectus
+p257
+aVand Homo ergaster roamed.
+p258
+aVNow, the sheer numbers of these hand axes
+p259
+aVshows that they can't have been made
+p260
+aVfor butchering animals.
+p261
+aVAnd the plot really thickens when you realize
+p262
+aVthat, unlike other pleistocene tools,
+p263
+aVthe hand axes often exhibit
+p264
+aVno evidence of wear
+p265
+aVon their delicate blade edges.
+p266
+aVAnd some, in any event, are too big
+p267
+aVto use for butchery.
+p268
+aVTheir symmetry, their attractive materials
+p269
+aVand, above all,
+p270
+aVtheir meticulous workmanship
+p271
+aVare simply quite beautiful
+p272
+aVto our eyes, even today.
+p273
+aa(lp274
+VSo what were these ancient \u2014
+p275
+aVI mean, they're ancient, they're foreign,
+p276
+aVbut they're at the same time
+p277
+aVsomehow familiar.
+p278
+aVWhat were these artifacts for?
+p279
+aVThe best available answer
+p280
+aVis that they were literally
+p281
+aVthe earliest known works of art,
+p282
+aVpractical tools transformed
+p283
+aVinto captivating aesthetic objects,
+p284
+aVcontemplated both for their elegant shape
+p285
+aVand their virtuoso craftsmanship.
+p286
+aVHand axes mark
+p287
+aVan evolutionary advance in human history \u2014
+p288
+aVtools fashioned to function
+p289
+aVas what Darwinians call "fitness signals" \u2014
+p290
+aVthat is to say, displays
+p291
+aVthat are performances
+p292
+aVlike the peacock's tail,
+p293
+aVexcept that, unlike hair and feathers,
+p294
+aVthe hand axes are consciously
+p295
+aVcleverly crafted.
+p296
+aVCompetently made hand axes
+p297
+aVindicated desirable personal qualities \u2014
+p298
+aVintelligence, fine motor control,
+p299
+aVplanning ability,
+p300
+aVconscientiousness
+p301
+aVand sometimes access to rare materials.
+p302
+aVOver tens of thousands of generations,
+p303
+aVsuch skills increased the status
+p304
+aVof those who displayed them
+p305
+aVand gained a reproductive advantage
+p306
+aVover the less capable.
+p307
+aVYou know, it's an old line,
+p308
+aVbut it has been shown to work \u2014
+p309
+aV"Why don't you come up to my cave, so I can show you my hand axes?"
+p310
+aa(lp311
+V(Laughter)
+p312
+aa(lp313
+VExcept, of course, what's interesting about this
+p314
+aVis that we can't be sure how that idea was conveyed,
+p315
+aVbecause the Homo erectus
+p316
+aVthat made these objects
+p317
+aVdid not have language.
+p318
+aVIt's hard to grasp,
+p319
+aVbut it's an incredible fact.
+p320
+aVThis object was made
+p321
+aVby a hominid ancestor,
+p322
+aVHomo erectus or Homo ergaster,
+p323
+aVbetween 50,000 and 100,000 years
+p324
+aVbefore language.
+p325
+aVStretching over a million years,
+p326
+aVthe hand axe tradition
+p327
+aVis the longest artistic tradition
+p328
+aVin human and proto-human history.
+p329
+aVBy the end of the hand axe epic, Homo sapiens \u2014
+p330
+aVas they were then called, finally \u2014
+p331
+aVwere doubtless finding new ways
+p332
+aVto amuse and amaze each other
+p333
+aVby, who knows, telling jokes,
+p334
+aVstorytelling, dancing, or hairstyling.
+p335
+aVYes, hairstyling \u2014 I insist on that.
+p336
+aa(lp337
+VFor us moderns,
+p338
+aVvirtuoso technique
+p339
+aVis used to create imaginary worlds
+p340
+aVin fiction and in movies,
+p341
+aVto express intense emotions
+p342
+aVwith music, painting and dance.
+p343
+aVBut still,
+p344
+aVone fundamental trait
+p345
+aVof the ancestral personality persists
+p346
+aVin our aesthetic cravings:
+p347
+aVthe beauty we find
+p348
+aVin skilled performances.
+p349
+aVFrom Lascaux to the Louvre
+p350
+aVto Carnegie Hall,
+p351
+aVhuman beings
+p352
+aVhave a permanent innate taste
+p353
+aVfor virtuoso displays in the arts.
+p354
+aVWe find beauty
+p355
+aVin something done well.
+p356
+aa(lp357
+VSo the next time you pass a jewelry shop window
+p358
+aVdisplaying a beautifully cut
+p359
+aVteardrop-shaped stone,
+p360
+aVdon't be so sure
+p361
+aVit's just your culture telling you
+p362
+aVthat that sparkling jewel is beautiful.
+p363
+aVYour distant ancestors loved that shape
+p364
+aVand found beauty in the skill needed to make it,
+p365
+aVeven before
+p366
+aVthey could put their love into words.
+p367
+aVIs beauty in the eye of the beholder?
+p368
+aVNo, it's deep in our minds.
+p369
+aVIt's a gift handed down from the intelligent skills
+p370
+aVand rich emotional lives
+p371
+aVof our most ancient ancestors.
+p372
+aVOur powerful reaction to images,
+p373
+aVto the expression of emotion in art,
+p374
+aVto the beauty of music, to the night sky,
+p375
+aVwill be with us and our descendants
+p376
+aVfor as long as the human race exists.
+p377
+aa(lp378
+VThank you.
+p379
+aa(lp380
+V(Applause)
+p381
+aasS'id'
+p382
+I1008
+sS'title'
+p383
+VA Darwinian theory of beauty
+p384
+s.

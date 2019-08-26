@@ -1,0 +1,634 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VYou may be wondering
+p4
+aVwhy a marine biologist from Oceana
+p5
+aVwould come here today to talk to you
+p6
+aVabout world hunger.
+p7
+aVI'm here today because
+p8
+aVsaving the oceans is more than an ecological desire.
+p9
+aVIt's more than a thing we're doing
+p10
+aVbecause we want to create jobs for fishermen
+p11
+aVor preserve fishermen's jobs.
+p12
+aVIt's more than an economic pursuit.
+p13
+aVSaving the oceans can feed the world.
+p14
+aVLet me show you how.
+p15
+aa(lp16
+VAs you know, there are already
+p17
+aVmore than a billion hungry people on this planet.
+p18
+aVWe're expecting that problem to get worse
+p19
+aVas world population grows to nine billion
+p20
+aVor 10 billion by midcentury,
+p21
+aVand we can expect to have greater pressure
+p22
+aVon our food resources.
+p23
+aVAnd this is a big concern,
+p24
+aVespecially considering where we are now.
+p25
+aVNow we know that our arable land per capita
+p26
+aVis already on the decline
+p27
+aVin both developed and developing countries.
+p28
+aVWe know that we're headed for climate change,
+p29
+aVwhich is going to change rainfall patterns,
+p30
+aVmaking some areas drier, as you can see in orange,
+p31
+aVand others wetter, in blue,
+p32
+aVcausing droughts in our breadbaskets,
+p33
+aVin places like the Midwest and Central Europe,
+p34
+aVand floods in others.
+p35
+aVIt's going to make it harder for the land
+p36
+aVto help us solve the hunger problem.
+p37
+aVAnd that's why the oceans need to be their most abundant,
+p38
+aVso that the oceans can provide us
+p39
+aVas much food as possible.
+p40
+aa(lp41
+VAnd that's something the oceans have been doing
+p42
+aVfor us for a long time.
+p43
+aVAs far back as we can go, we've seen an increase
+p44
+aVin the amount of food we've been able to harvest
+p45
+aVfrom our oceans.
+p46
+aVIt just seemed like it was continuing to increase,
+p47
+aVuntil about 1980,
+p48
+aVwhen we started to see a decline.
+p49
+aVYou've heard of peak oil.
+p50
+aVMaybe this is peak fish.
+p51
+aVI hope not. I'm going to come back to that.
+p52
+aVBut you can see about an 18-percent decline
+p53
+aVin the amount of fish we've gotten in our world catch
+p54
+aVsince 1980.
+p55
+aVAnd this is a big problem. It's continuing.
+p56
+aVThis red line is continuing to go down.
+p57
+aa(lp58
+VBut we know how to turn it around,
+p59
+aVand that's what I'm going to talk about today.
+p60
+aVWe know how to turn that curve back upwards.
+p61
+aVThis doesn't have to be peak fish.
+p62
+aVIf we do a few simple things in targeted places,
+p63
+aVwe can bring our fisheries back and use them
+p64
+aVto feed people.
+p65
+aa(lp66
+VFirst we want to know where the fish are,
+p67
+aVso let's look where the fish are.
+p68
+aVIt turns out the fish, conveniently,
+p69
+aVare located for the most part
+p70
+aVin our coastal areas of the countries,
+p71
+aVin coastal zones,
+p72
+aVand these are areas that national jurisdictions
+p73
+aVhave control over,
+p74
+aVand they can manage their fisheries
+p75
+aVin these coastal areas.
+p76
+aVCoastal countries tend to have jurisdictions
+p77
+aVthat go out about 200 nautical miles,
+p78
+aVin areas that are called exclusive economic zones,
+p79
+aVand this is a good thing that they can control
+p80
+aVtheir fisheries in these areas,
+p81
+aVbecause the high seas,
+p82
+aVwhich are the darker areas on this map,
+p83
+aVthe high seas, it's a lot harder to control things,
+p84
+aVbecause it has to be done internationally.
+p85
+aVYou get into international agreements,
+p86
+aVand if any of you are tracking the climate change agreement,
+p87
+aVyou know this can be a very slow,
+p88
+aVfrustrating, tedious process.
+p89
+aVAnd so controlling things nationally
+p90
+aVis a great thing to be able to do.
+p91
+aa(lp92
+VHow many fish are actually in these coastal areas
+p93
+aVcompared to the high seas?
+p94
+aVWell, you can see here about
+p95
+aVseven times as many fish in the coastal areas
+p96
+aVthan there are in the high seas,
+p97
+aVso this is a perfect place for us to be focusing,
+p98
+aVbecause we can actually get a lot done.
+p99
+aVWe can restore a lot of our fisheries
+p100
+aVif we focus in these coastal areas.
+p101
+aa(lp102
+VBut how many of these countries do we have to work in?
+p103
+aVThere's something like 80 coastal countries.
+p104
+aVDo we have to fix fisheries management
+p105
+aVin all of those countries?
+p106
+aVSo we asked ourselves, how many countries
+p107
+aVdo we need to focus on,
+p108
+aVkeeping in mind that the European Union
+p109
+aVconveniently manages its fisheries
+p110
+aVthrough a common fisheries policy?
+p111
+aVSo if we got good fisheries management
+p112
+aVin the European Union and, say, nine other countries,
+p113
+aVhow much of our fisheries would we be covering?
+p114
+aVTurns out, European Union plus nine countries
+p115
+aVcovers about two thirds of the world's fish catch.
+p116
+aVIf we took it up to 24 countries plus the European Union,
+p117
+aVwe would up to 90 percent,
+p118
+aValmost all of the world's fish catch.
+p119
+aVSo we think we can work in a limited number of places
+p120
+aVto make the fisheries come back.
+p121
+aVBut what do we have to do in these places?
+p122
+aVWell, based on our work in the United States
+p123
+aVand elsewhere, we know that there are
+p124
+aVthree key things we have to do
+p125
+aVto bring fisheries back, and they are:
+p126
+aVWe need to set quotas or limits
+p127
+aVon how much we take;
+p128
+aVwe need to reduce bycatch, which is the accidental
+p129
+aVcatching and killing of fish that we're not targeting,
+p130
+aVand it's very wasteful;
+p131
+aVand three, we need to protect habitats,
+p132
+aVthe nursery areas, the spawning areas
+p133
+aVthat these fish need to grow and reproduce successfully
+p134
+aVso that they can rebuild their populations.
+p135
+aVIf we do those three things, we  know the fisheries will come back.
+p136
+aa(lp137
+VHow do we know?
+p138
+aVWe know because we've seen it happening
+p139
+aVin a lot of different places.
+p140
+aVThis is a slide that shows
+p141
+aVthe herring population in Norway
+p142
+aVthat was crashing since the 1950s.
+p143
+aVIt was coming down, and when Norway set limits,
+p144
+aVor quotas, on its fishery, what happens?
+p145
+aVThe fishery comes back.
+p146
+aVThis is another example, also happens to be from Norway,
+p147
+aVof the Norwegian Arctic cod.
+p148
+aVSame deal. The fishery is crashing.
+p149
+aVThey set limits on discards.
+p150
+aVDiscards are these fish they weren't targeting
+p151
+aVand they get thrown overboard wastefully.
+p152
+aVWhen they set the discard limit,
+p153
+aVthe fishery came back.
+p154
+aVAnd it's not just in Norway.
+p155
+aVWe've seen this happening in countries
+p156
+aVall around the world, time and time again.
+p157
+aVWhen these countries step in and they
+p158
+aVput in sustainable fisheries management policies,
+p159
+aVthe fisheries, which are always crashing, it seems,
+p160
+aVare starting to come back.
+p161
+aVSo there's a lot of promise here.
+p162
+aa(lp163
+VWhat does this mean for the world fish catch?
+p164
+aVThis means that if we take that fishery catch
+p165
+aVthat's on the decline
+p166
+aVand we could turn it upwards, we could increase it
+p167
+aVup to 100 million metric tons per year.
+p168
+aVSo we didn't have peak fish yet.
+p169
+aVWe still have an opportunity
+p170
+aVto not only bring the fish back
+p171
+aVbut to actually get more fish
+p172
+aVthat can feed more people
+p173
+aVthan we currently are now.
+p174
+aVHow many more? Right about now,
+p175
+aVwe can feed about 450 million people
+p176
+aVa fish meal a day
+p177
+aVbased on the current world fish catch,
+p178
+aVwhich, of course, you know is going down,
+p179
+aVso that number will go down over time
+p180
+aVif we don't fix it,
+p181
+aVbut if we put fishery management practices
+p182
+aVlike the ones I've described in place
+p183
+aVin 10 to 25 countries,
+p184
+aVwe could bring that number up
+p185
+aVand feed as many as 700 million people a year
+p186
+aVa healthy fish meal.
+p187
+aa(lp188
+VWe should obviously do this just because
+p189
+aVit's a good thing to deal with the hunger problem,
+p190
+aVbut it's also cost-effective.
+p191
+aVIt turns out fish is the most cost-effective protein
+p192
+aVon the planet.
+p193
+aVIf you look at how much fish protein you get
+p194
+aVper dollar invested
+p195
+aVcompared to all of the other animal proteins,
+p196
+aVobviously, fish is a good business decision.
+p197
+aVIt also doesn't need a lot of land,
+p198
+aVsomething that's in short supply,
+p199
+aVcompared to other protein sources.
+p200
+aVAnd it doesn't need a lot of fresh water.
+p201
+aVIt uses a lot less fresh water than,
+p202
+aVfor example, cattle,
+p203
+aVwhere you have to irrigate a field
+p204
+aVso that you can grow the food to graze the cattle.
+p205
+aVIt also has a very low carbon footprint.
+p206
+aVIt has a little bit of a carbon footprint
+p207
+aVbecause we do have to get out and catch the fish.
+p208
+aVIt takes a little bit of fuel,
+p209
+aVbut as you know, agriculture can have a carbon footprint,
+p210
+aVand fish has a much smaller one,
+p211
+aVso it's less polluting.
+p212
+aVIt's already a big part of our diet,
+p213
+aVbut it can be a bigger part of our diet,
+p214
+aVwhich is a good thing, because we know
+p215
+aVthat it's healthy for us.
+p216
+aVIt can reduce our risks of cancer,
+p217
+aVheart disease and obesity.
+p218
+aVIn fact, our CEO Andy Sharpless,
+p219
+aVwho is the originator of this concept, actually,
+p220
+aVhe likes to say fish is the perfect protein.
+p221
+aVAndy also talks about the fact that
+p222
+aVour ocean conservation movement really grew
+p223
+aVout of the land conservation movement,
+p224
+aVand in land conservation,
+p225
+aVwe have this problem where biodiversity
+p226
+aVis at war with food production.
+p227
+aVYou have to cut down the biodiverse forest
+p228
+aVif you want to get the field
+p229
+aVto grow the corn to feed people with,
+p230
+aVand so there's a constant push-pull there.
+p231
+aVThere's a constant tough decision
+p232
+aVthat has to be made between
+p233
+aVtwo very important things:
+p234
+aVmaintaining biodiversity and feeding people.
+p235
+aVBut in the oceans, we don't have that war.
+p236
+aVIn the oceans, biodiversity is not at war
+p237
+aVwith abundance.
+p238
+aVIn fact, they're aligned.
+p239
+aVWhen we do things that produce biodiversity,
+p240
+aVwe actually get more abundance,
+p241
+aVand that's important so that we can feed people.
+p242
+aa(lp243
+VNow, there's a catch.
+p244
+aa(lp245
+VDidn't anyone get that? (Laughter)
+p246
+aa(lp247
+VIllegal fishing.
+p248
+aVIllegal fishing undermines the type of
+p249
+aVsustainable fisheries management I'm talking about.
+p250
+aVIt can be when you catch fish using gears
+p251
+aVthat have been prohibited,
+p252
+aVwhen you fish in places where you're not supposed to fish,
+p253
+aVyou catch fish that are the wrong size or the wrong species.
+p254
+aVIllegal fishing cheats the consumer
+p255
+aVand it also cheats honest fishermen,
+p256
+aVand it needs to stop.
+p257
+aVThe way illegal fish get into our  market is through seafood fraud.
+p258
+aVYou might have heard about this.
+p259
+aVIt's when fish are labeled as something they're not.
+p260
+aVThink about the last time you had fish.
+p261
+aVWhat were you eating?
+p262
+aVAre you sure that's what it was?
+p263
+aVBecause we tested 1,300 different fish samples
+p264
+aVand about a third of them
+p265
+aVwere not what they were labeled to be.
+p266
+aVSnappers, nine out of 10 snappers were not snapper.
+p267
+aVFifty-nine percent of the tuna we tested
+p268
+aVwas mislabeled.
+p269
+aVAnd red snapper, we tested 120 samples,
+p270
+aVand only seven of them were really red snapper,
+p271
+aVso good luck finding a red snapper.
+p272
+aa(lp273
+VSeafood has a really complex supply chain,
+p274
+aVand at every step in this supply chain,
+p275
+aVthere's an opportunity for seafood fraud,
+p276
+aVunless we have traceability.
+p277
+aVTraceability is a way where the seafood industry
+p278
+aVcan track the seafood from the boat to the plate
+p279
+aVto make sure that the consumer can then find out
+p280
+aVwhere their seafood came from.
+p281
+aa(lp282
+VThis is a really important thing.
+p283
+aVIt's being done by some in the industry, but not enough,
+p284
+aVso we're pushing a law in Congress
+p285
+aVcalled the SAFE Seafood Act,
+p286
+aVand I'm very excited today to announce the release
+p287
+aVof a chef's petition, where 450 chefs
+p288
+aVhave signed a petition calling on Congress
+p289
+aVto support the SAFE Seafood Act.
+p290
+aVIt has a lot of celebrity chefs you may know \u2014
+p291
+aVAnthony Bourdain, Mario Batali,
+p292
+aVBarton Seaver and others \u2014
+p293
+aVand they've signed it because they believe
+p294
+aVthat people have a right to know
+p295
+aVabout what they're eating.
+p296
+aa(lp297
+V(Applause)
+p298
+aa(lp299
+VFishermen like it too, so there's a good chance
+p300
+aVwe can get the kind of support we need
+p301
+aVto get this bill through,
+p302
+aVand it comes at a critical time,
+p303
+aVbecause this is the way we stop seafood fraud,
+p304
+aVthis is the way we curb illegal fishing,
+p305
+aVand this is the way we make sure
+p306
+aVthat quotas, habitat protection,
+p307
+aVand bycatch reductions can do the jobs
+p308
+aVthey can do.
+p309
+aa(lp310
+VWe know that we can manage our fisheries sustainably.
+p311
+aVWe know that we can produce
+p312
+aVhealthy meals for hundreds of millions of people
+p313
+aVthat don't use the land, that don't use much water,
+p314
+aVhave a low carbon footprint,
+p315
+aVand are cost-effective.
+p316
+aVWe know that saving the oceans
+p317
+aVcan feed the world,
+p318
+aVand we need to start now.
+p319
+aa(lp320
+V(Applause)
+p321
+aa(lp322
+VThank you. (Applause)
+p323
+aasS'id'
+p324
+I2003
+sS'title'
+p325
+VSave the oceans, feed the world!
+p326
+s.

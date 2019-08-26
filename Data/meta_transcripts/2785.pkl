@@ -1,0 +1,673 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'd like to start with a simple question:
+p4
+aVWhy do the poor make so many poor decisions?
+p5
+aVI know it's a harsh question,
+p6
+aVbut take a look at the data.
+p7
+aVThe poor borrow more, save less,
+p8
+aVsmoke more, exercise less, drink more
+p9
+aVand eat less healthfully.
+p10
+aVWhy?
+p11
+aa(lp12
+VWell, the standard explanation
+p13
+aVwas once summed up by the British Prime Minister, Margaret Thatcher.
+p14
+aVAnd she called poverty "a personality defect."
+p15
+aa(lp16
+V(Laughter)
+p17
+aa(lp18
+VA lack of character, basically.
+p19
+aa(lp20
+VNow, I'm sure not many of you would be so blunt.
+p21
+aVBut the idea that there's something wrong with the poor themselves
+p22
+aVis not restricted to Mrs. Thatcher.
+p23
+aVSome of you may believe that the poor should be held responsible
+p24
+aVfor their own mistakes.
+p25
+aVAnd others may argue that we should help them to make better decisions.
+p26
+aVBut the underlying assumption is the same:
+p27
+aVthere's something wrong with them.
+p28
+aVIf we could just change them,
+p29
+aVif we could just teach them how to live their lives,
+p30
+aVif they would only listen.
+p31
+aVAnd to be honest,
+p32
+aVthis was what I thought for a long time.
+p33
+aVIt was only a few years ago that I discovered
+p34
+aVthat everything I thought I knew about poverty was wrong.
+p35
+aa(lp36
+VIt all started when I accidentally stumbled upon a paper
+p37
+aVby a few American psychologists.
+p38
+aVThey had traveled 8,000 miles, all the way to India,
+p39
+aVfor a fascinating study.
+p40
+aVAnd it was an experiment with sugarcane farmers.
+p41
+aVYou should know that these farmers collect about 60 percent
+p42
+aVof their annual income all at once,
+p43
+aVright after the harvest.
+p44
+aVThis means that they're relatively poor one part of the year
+p45
+aVand rich the other.
+p46
+aVThe researchers asked them to do an IQ test before and after the harvest.
+p47
+aVWhat they subsequently discovered completely blew my mind.
+p48
+aVThe farmers scored much worse on the test before the harvest.
+p49
+aVThe effects of living in poverty, it turns out,
+p50
+aVcorrespond to losing 14 points of IQ.
+p51
+aVNow, to give you an idea,
+p52
+aVthat's comparable to losing a night's sleep
+p53
+aVor the effects of alcoholism.
+p54
+aa(lp55
+VA few months later, I heard that Eldar Shafir,
+p56
+aVa professor at Princeton University and one of the authors of this study,
+p57
+aVwas coming over to Holland, where I live.
+p58
+aVSo we met up in Amsterdam
+p59
+aVto talk about his revolutionary new theory of poverty.
+p60
+aVAnd I can sum it up in just two words:
+p61
+aVscarcity mentality.
+p62
+aVIt turns out that people behave differently
+p63
+aVwhen they perceive a thing to be scarce.
+p64
+aVAnd what that thing is doesn't much matter \u2014
+p65
+aVwhether it's not enough time, money or food.
+p66
+aa(lp67
+VYou all know this feeling,
+p68
+aVwhen you've got too much to do,
+p69
+aVor when you've put off breaking for lunch
+p70
+aVand your blood sugar takes a dive.
+p71
+aVThis narrows your focus to your immediate lack \u2014
+p72
+aVto the sandwich you've got to have now,
+p73
+aVthe meeting that's starting in five minutes
+p74
+aVor the bills that have to be paid tomorrow.
+p75
+aVSo the long-term perspective goes out the window.
+p76
+aVYou could compare it to a new computer
+p77
+aVthat's running 10 heavy programs at once.
+p78
+aVIt gets slower and slower, making errors.
+p79
+aVEventually, it freezes \u2014
+p80
+aVnot because it's a bad computer,
+p81
+aVbut because it has too much to do at once.
+p82
+aVThe poor have the same problem.
+p83
+aVThey're not making dumb decisions because they are dumb,
+p84
+aVbut because they're living in a context
+p85
+aVin which anyone would make dumb decisions.
+p86
+aa(lp87
+VSo suddenly I understood
+p88
+aVwhy so many of our anti-poverty programs don't work.
+p89
+aVInvestments in education, for example, are often completely ineffective.
+p90
+aVPoverty is not a lack of knowledge.
+p91
+aVA recent analysis of 201 studies
+p92
+aVon the effectiveness of money-management training
+p93
+aVcame to the conclusion that it has almost no effect at all.
+p94
+aVNow, don't get me wrong \u2014
+p95
+aVthis is not to say the poor don't learn anything \u2014
+p96
+aVthey can come out wiser for sure.
+p97
+aVBut it's not enough.
+p98
+aVOr as Professor Shafir told me,
+p99
+aV"It's like teaching someone to swim
+p100
+aVand then throwing them in a stormy sea."
+p101
+aa(lp102
+VI still remember sitting there,
+p103
+aVperplexed.
+p104
+aVAnd it struck me
+p105
+aVthat we could have figured this all out decades ago.
+p106
+aVI mean, these psychologists didn't need any complicated brain scans;
+p107
+aVthey only had to measure the farmer's IQ,
+p108
+aVand IQ tests were invented more than 100 years ago.
+p109
+aVActually, I realized I had read about the psychology of poverty before.
+p110
+aVGeorge Orwell, one of the greatest writers who ever lived,
+p111
+aVexperienced poverty firsthand in the 1920s.
+p112
+aV"The essence of poverty," he wrote back then,
+p113
+aVis that it "annihilates the future."
+p114
+aVAnd he marveled at, quote,
+p115
+aV"How people take it for granted they have the right to preach at you
+p116
+aVand pray over you
+p117
+aVas soon as your income falls below a certain level."
+p118
+aa(lp119
+VNow, those words are every bit as resonant today.
+p120
+aVThe big question is, of course:
+p121
+aVWhat can be done?
+p122
+aVModern economists have a few solutions up their sleeves.
+p123
+aVWe could help the poor with their paperwork
+p124
+aVor send them a text message to remind them to pay their bills.
+p125
+aVThis type of solution is hugely popular with modern politicians,
+p126
+aVmostly because,
+p127
+aVwell, they cost next to nothing.
+p128
+aVThese solutions are, I think, a symbol of this era
+p129
+aVin which we so often treat the symptoms,
+p130
+aVbut ignore the underlying cause.
+p131
+aa(lp132
+VSo I wonder:
+p133
+aVWhy don't we just change the context in which the poor live?
+p134
+aVOr, going back to our computer analogy:
+p135
+aVWhy keep tinkering around with the software
+p136
+aVwhen we can easily solve the problem by installing some extra memory instead?
+p137
+aVAt that point, Professor Shafir responded with a blank look.
+p138
+aVAnd after a few seconds, he said,
+p139
+aV"Oh, I get it.
+p140
+aVYou mean you want to just hand out more money to the poor
+p141
+aVto eradicate poverty.
+p142
+aVUh, sure, that'd be great.
+p143
+aVBut I'm afraid that brand of left-wing politics
+p144
+aVyou've got in Amsterdam \u2014
+p145
+aVit doesn't exist in the States."
+p146
+aa(lp147
+VBut is this really an old-fashioned, leftist idea?
+p148
+aVI remembered reading about an old plan \u2014
+p149
+aVsomething that has been proposed by some of history's leading thinkers.
+p150
+aVThe philosopher Thomas More first hinted at it in his book, "Utopia,"
+p151
+aVmore than 500 years ago.
+p152
+aVAnd its proponents have spanned the spectrum from the left to the right,
+p153
+aVfrom the civil rights campaigner, Martin Luther King,
+p154
+aVto the economist Milton Friedman.
+p155
+aVAnd it's an incredibly simple idea:
+p156
+aVbasic income guarantee.
+p157
+aa(lp158
+VWhat it is?
+p159
+aVWell, that's easy.
+p160
+aVIt's a monthly grant, enough to pay for your basic needs:
+p161
+aVfood, shelter, education.
+p162
+aVIt's completely unconditional,
+p163
+aVso no one's going to tell you what you have to do for it,
+p164
+aVand no one's going to tell you what you have to do with it.
+p165
+aVThe basic income is not a favor, but a right.
+p166
+aVThere's absolutely no stigma attached.
+p167
+aVSo as I learned about the true nature of poverty,
+p168
+aVI couldn't stop wondering:
+p169
+aVIs this the idea we've all been waiting for?
+p170
+aVCould it really be that simple?
+p171
+aVAnd in the three years that followed,
+p172
+aVI read everything I could find about basic income.
+p173
+aVI researched the dozens of experiments
+p174
+aVthat have been conducted all over the globe,
+p175
+aVand it didn't take long before I stumbled upon a story of a town
+p176
+aVthat had done it \u2014 had actually eradicated poverty.
+p177
+aVBut then ...
+p178
+aVnearly everyone forgot about it.
+p179
+aa(lp180
+VThis story starts in Dauphin, Canada.
+p181
+aVIn 1974, everybody in this small town was guaranteed a basic income,
+p182
+aVensuring that no one fell below the poverty line.
+p183
+aVAt the start of the experiment,
+p184
+aVan army of researchers descended on the town.
+p185
+aVFor four years, all went well.
+p186
+aVBut then a new government was voted into power,
+p187
+aVand the new Canadian cabinet saw little point to the expensive experiment.
+p188
+aVSo when it became clear there was no money left to analyze the results,
+p189
+aVthe researchers decided to pack their files away in some 2,000 boxes.
+p190
+aVTwenty-five years went by,
+p191
+aVand then Evelyn Forget, a Canadian professor,
+p192
+aVfound the records.
+p193
+aVFor three years, she subjected the data to all manner of statistical analysis,
+p194
+aVand no matter what she tried,
+p195
+aVthe results were the same every time:
+p196
+aVthe experiment had been a resounding success.
+p197
+aa(lp198
+VEvelyn Forget discovered
+p199
+aVthat the people in Dauphin had not only become richer
+p200
+aVbut also smarter and healthier.
+p201
+aVThe school performance of kids improved substantially.
+p202
+aVThe hospitalization rate decreased by as much as 8.5 percent.
+p203
+aVDomestic violence incidents were down,
+p204
+aVas were mental health complaints.
+p205
+aVAnd people didn't quit their jobs.
+p206
+aVThe only ones who worked a little less were new mothers and students \u2014
+p207
+aVwho stayed in school longer.
+p208
+aVSimilar results have since been found
+p209
+aVin countless other experiments around the globe,
+p210
+aVfrom the US to India.
+p211
+aa(lp212
+VSo ...
+p213
+aVhere's what I've learned.
+p214
+aVWhen it comes to poverty,
+p215
+aVwe, the rich, should stop pretending we know best.
+p216
+aVWe should stop sending shoes and teddy bears to the poor,
+p217
+aVto people we have never met.
+p218
+aVAnd we should get rid of the vast industry of paternalistic bureaucrats
+p219
+aVwhen we could simply hand over their salaries
+p220
+aVto the poor they're supposed to help.
+p221
+aa(lp222
+V(Applause)
+p223
+aa(lp224
+VBecause, I mean, the great thing about money
+p225
+aVis that people can use it to buy things they need
+p226
+aVinstead of things that self-appointed experts think they need.
+p227
+aVJust imagine how many brilliant scientists and entrepreneurs and writers,
+p228
+aVlike George Orwell,
+p229
+aVare now withering away in scarcity.
+p230
+aVImagine how much energy and talent we would unleash
+p231
+aVif we got rid of poverty once and for all.
+p232
+aVI believe that a basic income would work like venture capital for the people.
+p233
+aVAnd we can't afford not to do it,
+p234
+aVbecause poverty is hugely expensive.
+p235
+aVJust look at the cost of child poverty in the US, for example.
+p236
+aVIt's estimated at 500 billion dollars each year,
+p237
+aVin terms of higher health care spending, higher dropout rates,
+p238
+aVand more crime.
+p239
+aVNow, this is an incredible waste of human potential.
+p240
+aa(lp241
+VBut let's talk about the elephant in the room.
+p242
+aVHow could we ever afford a basic income guarantee?
+p243
+aVWell, it's actually a lot cheaper than you may think.
+p244
+aVWhat they did in Dauphin is finance it with a negative income tax.
+p245
+aVThis means that your income is topped up
+p246
+aVas soon as you fall below the poverty line.
+p247
+aVAnd in that scenario,
+p248
+aVaccording to our economists' best estimates,
+p249
+aVfor a net cost of 175 billion \u2014
+p250
+aVa quarter of US military spending, one percent of GDP \u2014
+p251
+aVyou could lift all impoverished Americans above the poverty line.
+p252
+aVYou could actually eradicate poverty.
+p253
+aVNow, that should be our goal.
+p254
+aa(lp255
+V(Applause)
+p256
+aa(lp257
+VThe time for small thoughts and little nudges is past.
+p258
+aVI really believe that the time has come for radical new ideas,
+p259
+aVand basic income is so much more than just another policy.
+p260
+aVIt is also a complete rethink of what work actually is.
+p261
+aVAnd in that sense,
+p262
+aVit will not only free the poor,
+p263
+aVbut also the rest of us.
+p264
+aa(lp265
+VNowadays, millions of people feel
+p266
+aVthat their jobs have little meaning or significance.
+p267
+aVA recent poll among 230,000 employees
+p268
+aVin 142 countries
+p269
+aVfound that only 13 percent of workers actually like their job.
+p270
+aVAnd another poll found that as much as 37 percent of British workers
+p271
+aVhave a job that they think doesn't even need to exist.
+p272
+aVIt's like Brad Pitt says in "Fight Club,"
+p273
+aV"Too often we're working jobs we hate so we can buy shit we don't need."
+p274
+aa(lp275
+V(Laughter)
+p276
+aa(lp277
+VNow, don't get me wrong \u2014
+p278
+aVI'm not talking about the teachers and the garbagemen
+p279
+aVand the care workers here.
+p280
+aVIf they stopped working,
+p281
+aVwe'd be in trouble.
+p282
+aVI'm talking about all those well-paid professionals with excellent résumés
+p283
+aVwho earn their money doing ...
+p284
+aVstrategic transactor peer-to-peer meetings
+p285
+aVwhile brainstorming the value add-on of disruptive co-creation
+p286
+aVin the network society.
+p287
+aa(lp288
+V(Laughter)
+p289
+aa(lp290
+V(Applause)
+p291
+aa(lp292
+VOr something like that.
+p293
+aVJust imagine again how much talent we're wasting,
+p294
+aVsimply because we tell our kids they'll have to "earn a living."
+p295
+aVOr think of what a math whiz working at Facebook lamented a few years ago:
+p296
+aV"The best minds of my generation
+p297
+aVare thinking about how to make people click ads."
+p298
+aa(lp299
+VI'm a historian.
+p300
+aVAnd if history teaches us anything,
+p301
+aVit is that things could be different.
+p302
+aVThere is nothing inevitable
+p303
+aVabout the way we structured our society and economy right now.
+p304
+aVIdeas can and do change the world.
+p305
+aVAnd I think that especially in the past few years,
+p306
+aVit has become abundantly clear
+p307
+aVthat we cannot stick to the status quo \u2014
+p308
+aVthat we need new ideas.
+p309
+aa(lp310
+VI know that many of you may feel pessimistic
+p311
+aVabout a future of rising inequality,
+p312
+aVxenophobia
+p313
+aVand climate change.
+p314
+aVBut it's not enough to know what we're against.
+p315
+aVWe also need to be for something.
+p316
+aVMartin Luther King didn't say, "I have a nightmare."
+p317
+aa(lp318
+V(Laughter)
+p319
+aa(lp320
+VHe had a dream.
+p321
+aa(lp322
+V(Applause)
+p323
+aa(lp324
+VSo ...
+p325
+aVhere's my dream:
+p326
+aVI believe in a future
+p327
+aVwhere the value of your work is not determined
+p328
+aVby the size of your paycheck,
+p329
+aVbut by the amount of happiness you spread
+p330
+aVand the amount of meaning you give.
+p331
+aVI believe in a future
+p332
+aVwhere the point of education is not to prepare you for another useless job
+p333
+aVbut for a life well-lived.
+p334
+aVI believe in a future
+p335
+aVwhere an existence without poverty is not a privilege
+p336
+aVbut a right we all deserve.
+p337
+aVSo here we are.
+p338
+aVHere we are.
+p339
+aVWe've got the research, we've got the evidence
+p340
+aVand we've got the means.
+p341
+aa(lp342
+VNow, more than 500 years after Thomas More first wrote about a basic income,
+p343
+aVand 100 years after George Orwell discovered the true nature of poverty,
+p344
+aVwe all need to change our worldview,
+p345
+aVbecause poverty is not a lack of character.
+p346
+aVPoverty is a lack of cash.
+p347
+aa(lp348
+VThank you.
+p349
+aa(lp350
+V(Applause)
+p351
+aasS'id'
+p352
+I2785
+sS'title'
+p353
+VPoverty isn't a lack of character; it's a lack of cash
+p354
+s.

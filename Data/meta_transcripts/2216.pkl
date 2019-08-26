@@ -1,0 +1,418 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm thrilled to be here tonight
+p4
+aVto share with you something we've been working on
+p5
+aVfor over two years,
+p6
+aVand it's in the area of additive manufacturing,
+p7
+aValso known as 3D printing.
+p8
+aa(lp9
+VYou see this object here.
+p10
+aVIt looks fairly simple, but it's quite complex at the same time.
+p11
+aVIt's a set of concentric geodesic structures
+p12
+aVwith linkages between each one.
+p13
+aVIn its context, it is not manufacturable by traditional manufacturing techniques.
+p14
+aVIt has a symmetry such that you can't injection mold it.
+p15
+aVYou can't even manufacture it through milling.
+p16
+aVThis is a job for a 3D printer,
+p17
+aVbut most 3D printers would take between three and 10 hours to fabricate it,
+p18
+aVand we're going to take the risk tonight to try to fabricate it onstage
+p19
+aVduring this 10-minute talk.
+p20
+aVWish us luck.
+p21
+aa(lp22
+VNow, 3D printing is actually a misnomer.
+p23
+aVIt's actually 2D printing over and over again,
+p24
+aVand it in fact uses the technologies associated with 2D printing.
+p25
+aVThink about inkjet printing where you lay down ink on a page to make letters,
+p26
+aVand then do that over and over again to build up a three-dimensional object.
+p27
+aVIn microelectronics, they use something
+p28
+aVcalled lithography to do the same sort of thing,
+p29
+aVto make the transistors and integrated circuits
+p30
+aVand build up a structure several times.
+p31
+aVThese are all 2D printing technologies.
+p32
+aa(lp33
+VNow, I'm a chemist, a material scientist too,
+p34
+aVand my co-inventors are also material scientists,
+p35
+aVone a chemist, one a physicist,
+p36
+aVand we began to be interested in 3D printing.
+p37
+aVAnd very often, as you know, new ideas are often simple connections
+p38
+aVbetween people with different experiences in different communities,
+p39
+aVand that's our story.
+p40
+aa(lp41
+VNow, we were inspired
+p42
+aVby the "Terminator 2" scene for T-1000,
+p43
+aVand we thought, why couldn't a 3D printer operate in this fashion,
+p44
+aVwhere you have an object arise out of a puddle
+p45
+aVin essentially real time
+p46
+aVwith essentially no waste
+p47
+aVto make a great object?
+p48
+aVOkay, just like the movies.
+p49
+aVAnd could we be inspired by Hollywood
+p50
+aVand come up with ways to actually try to get this to work?
+p51
+aVAnd that was our challenge.
+p52
+aVAnd our approach would be, if we could do this,
+p53
+aVthen we could fundamentally address the three issues holding back 3D printing
+p54
+aVfrom being a manufacturing process.
+p55
+aa(lp56
+VOne, 3D printing takes forever.
+p57
+aVThere are mushrooms that grow faster than 3D printed parts. (Laughter)
+p58
+aVThe layer by layer process
+p59
+aVleads to defects in mechanical properties,
+p60
+aVand if we could grow continuously, we could eliminate those defects.
+p61
+aVAnd in fact, if we could grow really fast, we could also start using materials
+p62
+aVthat are self-curing, and we could have amazing properties.
+p63
+aVSo if we could pull this off, imitate Hollywood,
+p64
+aVwe could in fact address 3D manufacturing.
+p65
+aa(lp66
+VOur approach is to use some standard knowledge
+p67
+aVin polymer chemistry
+p68
+aVto harness light and oxygen to grow parts continuously.
+p69
+aVLight and oxygen work in different ways.
+p70
+aVLight can take a resin and convert it to a solid,
+p71
+aVcan convert a liquid to a solid.
+p72
+aVOxygen inhibits that process.
+p73
+aVSo light and oxygen are polar opposites from one another
+p74
+aVfrom a chemical point of view,
+p75
+aVand if we can control spatially the light and oxygen,
+p76
+aVwe could control this process.
+p77
+aVAnd we refer to this as CLIP. [Continuous Liquid Interface Production.]
+p78
+aVIt has three functional components.
+p79
+aVOne, it has a reservoir that holds the puddle,
+p80
+aVjust like the T-1000.
+p81
+aVAt the bottom of the reservoir is a special window.
+p82
+aVI'll come back to that.
+p83
+aVIn addition, it has a stage that will lower into the puddle
+p84
+aVand pull the object out of the liquid.
+p85
+aVThe third component is a digital light projection system
+p86
+aVunderneath the reservoir,
+p87
+aVilluminating with light in the ultraviolet region.
+p88
+aa(lp89
+VNow, the key is that this window in the bottom of this reservoir,
+p90
+aVit's a composite, it's a very special window.
+p91
+aVIt's not only transparent to light but it's permeable to oxygen.
+p92
+aVIt's got characteristics like a contact lens.
+p93
+aVSo we can see how the process works.
+p94
+aVYou can start to see that as you lower a stage in there,
+p95
+aVin a traditional process, with an oxygen-impermeable window,
+p96
+aVyou make a two-dimensional pattern
+p97
+aVand you end up gluing that onto the window with a traditional window,
+p98
+aVand so in order to introduce the next layer, you have to separate it,
+p99
+aVintroduce new resin, reposition it,
+p100
+aVand do this process over and over again.
+p101
+aVBut with our very special window,
+p102
+aVwhat we're able to do is, with oxygen coming through the bottom
+p103
+aVas light hits it,
+p104
+aVthat oxygen inhibits the reaction,
+p105
+aVand we form a dead zone.
+p106
+aVThis dead zone is on the order of tens of microns thick,
+p107
+aVso that's two or three diameters of a red blood cell,
+p108
+aVright at the window interface that remains a liquid,
+p109
+aVand we pull this object up,
+p110
+aVand as we talked about in a Science paper,
+p111
+aVas we change the oxygen content, we can change the dead zone thickness.
+p112
+aVAnd so we have a number of key variables that we control: oxygen content,
+p113
+aVthe light, the light intensity, the dose to cure,
+p114
+aVthe viscosity, the geometry,
+p115
+aVand we use very sophisticated software to control this process.
+p116
+aa(lp117
+VThe result is pretty staggering.
+p118
+aVIt's 25 to 100 times faster than traditional 3D printers,
+p119
+aVwhich is game-changing.
+p120
+aVIn addition, as our ability to deliver liquid to that interface,
+p121
+aVwe can go 1,000 times faster I believe,
+p122
+aVand that in fact opens up the opportunity for generating a lot of heat,
+p123
+aVand as a chemical engineer, I get very excited at heat transfer
+p124
+aVand the idea that we might one day have water-cooled 3D printers,
+p125
+aVbecause they're going so fast.
+p126
+aVIn addition, because we're growing things, we eliminate the layers,
+p127
+aVand the parts are monolithic.
+p128
+aVYou don't see the surface structure.
+p129
+aVYou have molecularly smooth surfaces.
+p130
+aVAnd the mechanical properties of most parts made in a 3D printer
+p131
+aVare notorious for having properties that depend on the orientation
+p132
+aVwith which how you printed it, because of the layer-like structure.
+p133
+aVBut when you grow objects like this,
+p134
+aVthe properties are invariant with the print direction.
+p135
+aVThese look like injection-molded parts,
+p136
+aVwhich is very different than traditional 3D manufacturing.
+p137
+aVIn addition, we're able to throw
+p138
+aVthe entire polymer chemistry textbook at this,
+p139
+aVand we're able to design chemistries that can give rise to the properties
+p140
+aVyou really want in a 3D-printed object.
+p141
+aa(lp142
+V(Applause)
+p143
+aa(lp144
+VThere it is. That's great.
+p145
+aVYou always take the risk that something like this won't work onstage, right?
+p146
+aa(lp147
+VBut we can have materials with great mechanical properties.
+p148
+aVFor the first time, we can have elastomers
+p149
+aVthat are high elasticity or high dampening.
+p150
+aVThink about vibration control or great sneakers, for example.
+p151
+aVWe can make materials that have incredible strength,
+p152
+aVhigh strength-to-weight ratio, really strong materials,
+p153
+aVreally great elastomers,
+p154
+aVso throw that in the audience there.
+p155
+aVSo great material properties.
+p156
+aa(lp157
+VAnd so the opportunity now, if you actually make a part
+p158
+aVthat has the properties to be a final part,
+p159
+aVand you do it in game-changing speeds,
+p160
+aVyou can actually transform manufacturing.
+p161
+aVRight now, in manufacturing, what happens is,
+p162
+aVthe so-called digital thread in digital manufacturing.
+p163
+aVWe go from a CAD drawing, a design, to a prototype to manufacturing.
+p164
+aVOften, the digital thread is broken right at prototype,
+p165
+aVbecause you can't go all the way to manufacturing
+p166
+aVbecause most parts don't have the properties to be a final part.
+p167
+aVWe now can connect the digital thread
+p168
+aVall the way from design to prototyping to manufacturing,
+p169
+aVand that opportunity really opens up all sorts of things,
+p170
+aVfrom better fuel-efficient cars dealing with great lattice properties
+p171
+aVwith high strength-to-weight ratio,
+p172
+aVnew turbine blades, all sorts of wonderful things.
+p173
+aa(lp174
+VThink about if you need a stent in an emergency situation,
+p175
+aVinstead of the doctor pulling off a stent out of the shelf
+p176
+aVthat was just standard sizes,
+p177
+aVhaving a stent that's designed for you, for your own anatomy
+p178
+aVwith your own tributaries,
+p179
+aVprinted in an emergency situation in real time out of the properties
+p180
+aVsuch that the stent could go away after 18 months: really-game changing.
+p181
+aVOr digital dentistry, and making these kinds of structures
+p182
+aVeven while you're in the dentist chair.
+p183
+aVAnd look at the structures that my students are making
+p184
+aVat the University of North Carolina.
+p185
+aVThese are amazing microscale structures.
+p186
+aa(lp187
+VYou know, the world is really good at nano-fabrication.
+p188
+aVMoore's Law has driven things from 10 microns and below.
+p189
+aVWe're really good at that,
+p190
+aVbut it's actually very hard to make things from 10 microns to 1,000 microns,
+p191
+aVthe mesoscale.
+p192
+aVAnd subtractive techniques from the silicon industry
+p193
+aVcan't do that very well.
+p194
+aVThey can't etch wafers that well.
+p195
+aVBut this process is so gentle,
+p196
+aVwe can grow these objects up from the bottom
+p197
+aVusing additive manufacturing
+p198
+aVand make amazing things in tens of seconds,
+p199
+aVopening up new sensor technologies,
+p200
+aVnew drug delivery techniques,
+p201
+aVnew lab-on-a-chip applications, really game-changing stuff.
+p202
+aa(lp203
+VSo the opportunity of making a part in real time
+p204
+aVthat has the properties to be a final part
+p205
+aVreally opens up 3D manufacturing,
+p206
+aVand for us, this is very exciting, because this really is owning
+p207
+aVthe intersection between hardware, software and molecular science,
+p208
+aVand I can't wait to see what designers and engineers around the world
+p209
+aVare going to be able to do with this great tool.
+p210
+aa(lp211
+VThanks for listening.
+p212
+aa(lp213
+V(Applause)
+p214
+aasS'id'
+p215
+I2216
+sS'title'
+p216
+VWhat if 3D printing was 100x faster?
+p217
+s.

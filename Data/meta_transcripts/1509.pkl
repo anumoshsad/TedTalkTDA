@@ -1,0 +1,612 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VNow, I don't usually like cartoons,
+p4
+aVI don't think many of them are funny,
+p5
+aVI find them weird. But I love this cartoon from the New Yorker.
+p6
+aa(lp7
+V(Text: Never, ever think outside the box.) (Laughter)
+p8
+aa(lp9
+VSo, the guy is telling the cat,
+p10
+aVdon't you dare think outside the box.
+p11
+aVWell, I'm afraid I used to be the cat.
+p12
+aVI always wanted to be outside the box.
+p13
+aVAnd it's partly because I came to this field
+p14
+aVfrom a different background, chemist and a bacterial geneticist.
+p15
+aVSo, what people were saying to me
+p16
+aVabout the cause of cancer, sources of cancer,
+p17
+aVor, for that matter, why you are who you are,
+p18
+aVdidn't make sense.
+p19
+aa(lp20
+VSo, let me quickly try and tell you why I thought that
+p21
+aVand how I went about it.
+p22
+aVSo, to begin with, however,
+p23
+aVI have to give you a very, very quick lesson
+p24
+aVin developmental biology,
+p25
+aVwith apologies to those of you who know some biology.
+p26
+aVSo, when your mom and dad met,
+p27
+aVthere is a fertilized egg,
+p28
+aVthat round thing with that little blip.
+p29
+aVIt grows and then it grows,
+p30
+aVand then it makes this handsome man.
+p31
+aa(lp32
+V(Applause)
+p33
+aa(lp34
+VSo, this guy, with all the cells in his body,
+p35
+aVall have the same genetic information.
+p36
+aVSo how did his nose become his nose, his elbow his elbow,
+p37
+aVand why doesn't he get up one morning
+p38
+aVand have his nose turn into his foot?
+p39
+aVIt could. It has the genetic information.
+p40
+aVYou all remember, dolly,
+p41
+aVit came from a single mammary cell.
+p42
+aVSo, why doesn't it do it?
+p43
+aVSo, have a guess of how many cells he has in his body.
+p44
+aVSomewhere between 10 trillion to 70 trillion cells in his body.
+p45
+aVTrillion!
+p46
+aVNow, how did these cells, all with the same genetic material,
+p47
+aVmake all those tissues?
+p48
+aVAnd so, the question I raised before
+p49
+aVbecomes even more interesting if you thought about
+p50
+aVthe enormity of this in every one of your bodies.
+p51
+aa(lp52
+VNow, the dominant cancer theory would say
+p53
+aVthat there is a single oncogene
+p54
+aVin a single cancer cell, and it would make you
+p55
+aVa cancer victim.
+p56
+aVWell, this did not make sense to me.
+p57
+aVDo you even know how a trillion looks?
+p58
+aVNow, let's look at it.
+p59
+aVThere it comes, these zeroes after zeroes after zeroes.
+p60
+aVNow, if .0001 of these cells got mutated,
+p61
+aVand .00001 got cancer, you will be a lump of cancer.
+p62
+aVYou will have cancer all over you. And you're not.
+p63
+aVWhy not?
+p64
+aa(lp65
+VSo, I decided over the years,
+p66
+aVbecause of a series of experiments
+p67
+aVthat this is because of context and architecture.
+p68
+aa(lp69
+VAnd let me quickly tell you
+p70
+aVsome crucial experiment that was able to actually show this.
+p71
+aVTo begin with, I came to work with this virus
+p72
+aVthat causes that ugly tumor in the chicken.
+p73
+aVRous discovered this in 1911.
+p74
+aVIt was the first cancer virus discovered,
+p75
+aVand when I call it "oncogene," meaning "cancer gene."
+p76
+aVSo, he made a filtrate, he took this filter
+p77
+aVwhich was the liquid after he passed the tumor through a filter,
+p78
+aVand he injected it to another chicken, and he got another tumor.
+p79
+aa(lp80
+VSo, scientists were very excited,
+p81
+aVand they said, a single oncogene can do it.
+p82
+aVAll you need is a single oncogene.
+p83
+aVSo, they put the cells in cultures, chicken cells,
+p84
+aVdumped the virus on it,
+p85
+aVand it would pile up,
+p86
+aVand they would say, this is malignant and this is normal.
+p87
+aa(lp88
+VAnd again this didn't make sense to me.
+p89
+aVSo for various reasons, we took this oncogene,
+p90
+aVattached it to a blue marker,
+p91
+aVand we injected it into the embryos.
+p92
+aVNow look at that. There is that beautiful feather in the embryo.
+p93
+aVEvery one of those blue cells are a cancer gene
+p94
+aVinside a cancer cell, and they're part of the feather.
+p95
+aVSo, when we dissociated the feather and put it in a dish,
+p96
+aVwe got a mass of blue cells.
+p97
+aVSo, in the chicken you get a tumor,
+p98
+aVin the embryo you don't,
+p99
+aVyou dissociate, you put it in a dish, you get another tumor.
+p100
+aVWhat does that mean?
+p101
+aVThat means that microenvironment
+p102
+aVand the context which surrounds those cells
+p103
+aVactually are telling the cancer gene and the cancer cell what to do.
+p104
+aa(lp105
+VNow, let's take a normal example.
+p106
+aVThe normal example, let's take the human mammary gland.
+p107
+aVI work on breast cancer.
+p108
+aVSo, here is a lovely human breast.
+p109
+aVAnd many of you know how it looks,
+p110
+aVexcept that inside that breast, there are all these
+p111
+aVpretty, developing, tree-like structures.
+p112
+aVSo, we decided that what we like to do
+p113
+aVis take just a bit of that mammary gland,
+p114
+aVwhich is called an "acinus,"
+p115
+aVwhere there are all these little things inside the breast
+p116
+aVwhere the milk goes, and the end of the nipple
+p117
+aVcomes through that little tube when the baby sucks.
+p118
+aa(lp119
+VAnd we said, wonderful! Look at this pretty structure.
+p120
+aVWe want to make this a structure, and ask the question,
+p121
+aVhow do the cells do that?
+p122
+aVSo, we took the red cells \u2014
+p123
+aVyou see the red cells are surrounded by blue,
+p124
+aVother cells that squeeze them, and behind it
+p125
+aVis material that people thought was mainly inert,
+p126
+aVand it was just having a structure to keep the shape,
+p127
+aVand so we first photographed it
+p128
+aVwith the electron microscope years and years ago,
+p129
+aVand you see this cell is actually quite pretty.
+p130
+aVIt has a bottom, it has a top,
+p131
+aVit is secreting gobs and gobs of milk,
+p132
+aVbecause it just came from an early pregnant mouse.
+p133
+aa(lp134
+VYou take these cells, you put them in a dish,
+p135
+aVand within three days, they look like that.
+p136
+aVThey completely forget.
+p137
+aVSo you take them out, you put them in a dish,
+p138
+aVthey don't make milk. They completely forget.
+p139
+aVFor example, here is a lovely yellow droplet of milk
+p140
+aVon the left, there is nothing on the right.
+p141
+aVLook at the nuclei. The nuclei in the cell on the left
+p142
+aVis in the animal, the one on the right is in a dish.
+p143
+aVThey are completely different from each other.
+p144
+aa(lp145
+VSo, what does this tell you?
+p146
+aVThis tells you that here also, context overrides.
+p147
+aVIn different contexts, cells do different things.
+p148
+aVBut how does context signal?
+p149
+aVSo, Einstein said that
+p150
+aV"For an idea that does not first seem insane, there is no hope."
+p151
+aVSo, you can imagine the amount of skepticism
+p152
+aVI received \u2014 couldn't get money,
+p153
+aVcouldn't do a whole lot of other things,
+p154
+aVbut I'm so glad it all worked out.
+p155
+aa(lp156
+VSo, we made a section of the mammary gland of the mouse,
+p157
+aVand all those lovely acini are there,
+p158
+aVevery one of those with the red around them are an acinus,
+p159
+aVand we said okay, we are going to try and make this,
+p160
+aVand I said, maybe that red stuff
+p161
+aVaround the acinus that people think there's just a structural scaffold,
+p162
+aVmaybe it has information,
+p163
+aVmaybe it tells the cells what to do, maybe it tells the nucleus what to do.
+p164
+aVSo I said, extracellular matrix, which is this stuff
+p165
+aVcalled ECM, signals and actually tells the cells what to do.
+p166
+aa(lp167
+VSo, we decided to make things that would look like that.
+p168
+aVWe found some gooey material
+p169
+aVthat had the right extracellular matrix in it,
+p170
+aVwe put the cells in it, and lo and behold,
+p171
+aVin about four days, they got reorganized
+p172
+aVand on the right, is what we can make in culture.
+p173
+aVOn the left is what's inside the animal, we call it in vivo,
+p174
+aVand the one in culture was full of milk,
+p175
+aVthe lovely red there is full of milk.
+p176
+aVSo, we Got Milk, for the American audience.
+p177
+aVAll right. And here is this beautiful human cell,
+p178
+aVand you can imagine that here also, context goes.
+p179
+aa(lp180
+VSo, what do we do now?
+p181
+aVI made a radical hypothesis.
+p182
+aVI said, if it's true that architecture is dominant,
+p183
+aVarchitecture restored to a cancer cell
+p184
+aVshould make the cancer cell think it's normal.
+p185
+aVCould this be done?
+p186
+aVSo, we tried it.
+p187
+aVIn order to do that, however,
+p188
+aVwe needed to have a method of distinguishing normal from malignant,
+p189
+aVand on the left is the single normal cell,
+p190
+aVhuman breast, put in three-dimensional gooey gel
+p191
+aVthat has extracellular matrix, it makes all these beautiful structures.
+p192
+aVOn the right, you see it looks very ugly,
+p193
+aVthe cells continue to grow,
+p194
+aVthe normal ones stop.
+p195
+aVAnd you see here in higher magnification
+p196
+aVthe normal acinus and the ugly tumor.
+p197
+aa(lp198
+VSo we said, what is on the surface of these ugly tumors?
+p199
+aVCould we calm them down \u2014
+p200
+aVthey were signaling like crazy and they have pathways all messed up \u2014
+p201
+aVand make them to the level of the normal?
+p202
+aVWell, it was wonderful. Boggles my mind.
+p203
+aVThis is what we got.
+p204
+aVWe can revert the malignant phenotype.
+p205
+aa(lp206
+V(Applause)
+p207
+aa(lp208
+VAnd in order to show you that the malignant phenotype
+p209
+aVI didn't just choose one,
+p210
+aVhere are little movies, sort of fuzzy,
+p211
+aVbut you see that on the left are the malignant cells,
+p212
+aVall of them are malignant,
+p213
+aVwe add one single inhibitor in the beginning,
+p214
+aVand look what happens, they all look like that.
+p215
+aVWe inject them into the mouse, the ones on the right,
+p216
+aVand none of them would make tumors.
+p217
+aVWe inject the other ones in the mouse, 100 percent tumors.
+p218
+aa(lp219
+VSo, it's a new way of thinking about cancer,
+p220
+aVit's a hopeful way of thinking about cancer.
+p221
+aVWe should be able to be dealing with these things at this level,
+p222
+aVand these conclusions say that growth and malignant behavior
+p223
+aVis regulated at the level of tissue organization
+p224
+aVand that the tissue organization is dependent
+p225
+aVon the extracellular matrix and the microenvironment.
+p226
+aVAll right, thus form and function interact dynamically and reciprocally.
+p227
+aVAnd here is another five seconds of repose,
+p228
+aVis my mantra. Form and function.
+p229
+aa(lp230
+VAnd of course, we now ask, where do we go now?
+p231
+aVWe'd like to take this kind of thinking into the clinic.
+p232
+aVBut before we do that, I'd like you to think
+p233
+aVthat at any given time when you're sitting there,
+p234
+aVin your 70 trillion cells,
+p235
+aVthe extracellular matrix signaling to your nucleus,
+p236
+aVthe nucleus is signaling to your extracellular matrix
+p237
+aVand this is how your balance is kept and restored.
+p238
+aa(lp239
+VWe have made a lot of discoveries,
+p240
+aVwe have shown that extracellular matrix talks to chromatin.
+p241
+aVWe have shown that there's little pieces of DNA
+p242
+aVon the specific genes of the mammary gland
+p243
+aVthat actually respond to extracellular matrix.
+p244
+aVIt has taken many years, but it has been very rewarding.
+p245
+aa(lp246
+VAnd before I get to the next slide, I have to tell you
+p247
+aVthat there are so many additional discoveries to be made.
+p248
+aVThere is so much mystery we don't know.
+p249
+aVAnd I always say to the students and post-docs I lecture to,
+p250
+aVdon't be arrogant, because arrogance kills curiosity.
+p251
+aVCuriosity and passion.
+p252
+aVYou need to always think, what else needs to be discovered?
+p253
+aVAnd maybe my discovery needs to be added to
+p254
+aVor maybe it needs to be changed.
+p255
+aa(lp256
+VSo, we have now made an amazing discovery,
+p257
+aVa post-doc in the lab who is a physicist asked me,
+p258
+aVwhat do the cells do when you put them in?
+p259
+aVWhat do they do in the beginning when they do?
+p260
+aVI said, I don't know, we couldn't look at them.
+p261
+aVWe didn't have high images in the old days.
+p262
+aVSo she, being an imager and a physicist,
+p263
+aVdid this incredible thing.
+p264
+aVThis is a single human breast cell in three dimensions.
+p265
+aVLook at it. It's constantly doing this.
+p266
+aVHas a coherent movement.
+p267
+aVYou put the cancer cells there, and they do go all over,
+p268
+aVthey do this. They don't do this.
+p269
+aVAnd when we revert the cancer cell, it again does this.
+p270
+aVAbsolutely boggles my mind.
+p271
+aVSo the cell acts like an embryo. What an exciting thing.
+p272
+aa(lp273
+VSo I'd like to finish with a poem.
+p274
+aVWell I used to love English literature,
+p275
+aVand I debated in college, which one should I do?
+p276
+aVAnd unfortunately or fortunately, chemistry won.
+p277
+aVBut here is a poem from Yeats. I'll just read you the last two lines.
+p278
+aVIt's called "Among the School Children."
+p279
+aV"O body swayed to music / O brightening glance /
+p280
+aVHow [can we know] the dancer from the dance?"
+p281
+aVAnd here is Merce Cunningham,
+p282
+aVI was fortunate to dance with him when I was younger,
+p283
+aVand here he is a dancer,
+p284
+aVand while he is dancing, he is both the dancer and the dance.
+p285
+aVThe minute he stops, we have neither.
+p286
+aVSo it's like form and function.
+p287
+aa(lp288
+VNow, I'd like to show you a current picture of my group.
+p289
+aVI have been fortunate to have had these magnificant
+p290
+aVstudents and post-docs who have taught me so much,
+p291
+aVand I have had many of these groups come and go.
+p292
+aVThey are the future and I try to make them not be afraid
+p293
+aVof being the cat and being told,
+p294
+aVdon't think outside the box.
+p295
+aa(lp296
+VAnd I'd like to leave you with this thought.
+p297
+aVOn the left is water coming through the shore,
+p298
+aVtaken from a NASA satellite.
+p299
+aVOn the right, there is a coral.
+p300
+aVNow if you take the mammary gland and spread it
+p301
+aVand take the fat away, on a dish it looks like that.
+p302
+aVDo they look the same? Do they have the same patterns?
+p303
+aVWhy is it that nature keeps doing that over and over again?
+p304
+aa(lp305
+VAnd I'd like to submit to you
+p306
+aVthat we have sequenced the human genome,
+p307
+aVwe know everything about the sequence of the gene,
+p308
+aVthe language of the gene, the alphabet of the gene,
+p309
+aVBut we know nothing, but nothing,
+p310
+aVabout the language and alphabet of form.
+p311
+aVSo, it's a wonderful new horizon,
+p312
+aVit's a wonderful thing to discover for the young
+p313
+aVand the passionate old, and that's me.
+p314
+aa(lp315
+VSo go to it!
+p316
+aa(lp317
+V(Applause)
+p318
+aasS'id'
+p319
+I1509
+sS'title'
+p320
+VExperiments that point to a new understanding of cancer
+p321
+s.

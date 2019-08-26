@@ -1,0 +1,864 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm going to be talking to you
+p4
+aVabout how we can tap
+p5
+aVa really underutilized resource in health care,
+p6
+aVwhich is the patient,
+p7
+aVor, as I like to use the scientific term,
+p8
+aVpeople.
+p9
+aVBecause we are all patients, we are all people.
+p10
+aVEven doctors are patients at some point.
+p11
+aVSo I want to talk about that
+p12
+aVas an opportunity
+p13
+aVthat we really have failed to engage with very well in this country
+p14
+aVand, in fact, worldwide.
+p15
+aVIf you want to get at the big part \u2014
+p16
+aVI mean from a public health level, where my training is \u2014
+p17
+aVyou're looking at behavioral issues.
+p18
+aVYou're looking at things where people are actually given information,
+p19
+aVand they're not following through with it.
+p20
+aVIt's a problem that manifests itself in diabetes,
+p21
+aVobesity, many forms of heart disease,
+p22
+aVeven some forms of cancer \u2014 when you think of smoking.
+p23
+aVThose are all behaviors where people know what they're supposed to do.
+p24
+aVThey know what they're supposed to be doing,
+p25
+aVbut they're not doing it.
+p26
+aa(lp27
+VNow behavior change is something
+p28
+aVthat is a long-standing problem in medicine.
+p29
+aVIt goes all the way back to Aristotle.
+p30
+aVAnd doctors hate it, right?
+p31
+aVI mean, they complain about it all the time.
+p32
+aVWe talk about it in terms of engagement, or non-compliance.
+p33
+aVWhen people don't take their pills,
+p34
+aVwhen people don't follow doctors' orders \u2014
+p35
+aVthese are behavior problems.
+p36
+aVBut for as much as clinical medicine
+p37
+aVagonizes over behavior change,
+p38
+aVthere's not a lot of work done
+p39
+aVin terms of trying to fix that problem.
+p40
+aVSo the crux of it
+p41
+aVcomes down to this notion of decision-making \u2014
+p42
+aVgiving information to people in a form
+p43
+aVthat doesn't just educate them
+p44
+aVor inform them,
+p45
+aVbut actually leads them to make better decisions,
+p46
+aVbetter choices in their lives.
+p47
+aa(lp48
+VOne part of medicine, though,
+p49
+aVhas faced the problem of behavior change pretty well,
+p50
+aVand that's dentistry.
+p51
+aVDentistry might seem \u2014 and I think it is \u2014
+p52
+aVmany dentists would have to acknowledge
+p53
+aVit's somewhat of a mundane backwater of medicine.
+p54
+aVNot a lot of cool, sexy stuff happening in dentistry.
+p55
+aVBut they have really taken this problem of behavior change
+p56
+aVand solved it.
+p57
+aVIt's the one great preventive health success
+p58
+aVwe have in our health care system.
+p59
+aVPeople brush and floss their teeth.
+p60
+aVThey don't do it as much as they should, but they do it.
+p61
+aa(lp62
+VSo I'm going to talk about one experiment
+p63
+aVthat a few dentists in Connecticut
+p64
+aVcooked up about 30 years ago.
+p65
+aVSo this is an old experiment, but it's a really good one,
+p66
+aVbecause it was very simple,
+p67
+aVso it's an easy story to tell.
+p68
+aVSo these Connecticut dentists decided
+p69
+aVthat they wanted to get people to brush their teeth and floss their teeth more often,
+p70
+aVand they were going to use one variable:
+p71
+aVthey wanted to scare them.
+p72
+aVThey wanted to tell them how bad it would be
+p73
+aVif they didn't brush and floss their teeth.
+p74
+aVThey had a big patient population.
+p75
+aVThey divided them up into two groups.
+p76
+aVThey had a low-fear population,
+p77
+aVwhere they basically gave them a 13-minute presentation,
+p78
+aVall based in science,
+p79
+aVbut told them that, if you didn't brush and floss your teeth,
+p80
+aVyou could get gum disease. If you get gum disease, you will lose your teeth,
+p81
+aVbut you'll get dentures, and it won't be that bad.
+p82
+aVSo that was the low-fear group.
+p83
+aVThe high-fear group, they laid it on really thick.
+p84
+aVThey showed bloody gums.
+p85
+aVThey showed puss oozing out from between their teeth.
+p86
+aVThey told them that their teeth were going to fall out.
+p87
+aVThey said that they could have infections
+p88
+aVthat would spread from their jaws to other parts of their bodies,
+p89
+aVand ultimately, yes, they would lose their teeth.
+p90
+aVThey would get dentures, and if you got dentures,
+p91
+aVyou weren't going to be able to eat corn-on-the-cob,
+p92
+aVyou weren't going to be able to eat apples,
+p93
+aVyou weren't going to be able to eat steak.
+p94
+aVYou'll eat mush for the rest of your life.
+p95
+aVSo go brush and floss your teeth.
+p96
+aVThat was the message. That was the experiment.
+p97
+aa(lp98
+VNow they measured one other variable.
+p99
+aVThey wanted to capture one other variable,
+p100
+aVwhich was the patients' sense of efficacy.
+p101
+aVThis was the notion of whether the patients felt
+p102
+aVthat they actually would go ahead and brush and floss their teeth.
+p103
+aVSo they asked them at the beginning,
+p104
+aV"Do you think you'll actually be able to stick with this program?"
+p105
+aVAnd the people who said, "Yeah, yeah. I'm pretty good about that,"
+p106
+aVthey were characterized as high efficacy,
+p107
+aVand the people who said,
+p108
+aV"Eh, I never get around to brushing and flossing as much as I should,"
+p109
+aVthey were characterized as low efficacy.
+p110
+aVSo the upshot was this.
+p111
+aVThe upshot of this experiment
+p112
+aVwas that fear was not really a primary driver
+p113
+aVof the behavior at all.
+p114
+aVThe people who brushed and flossed their teeth
+p115
+aVwere not necessarily the people
+p116
+aVwho were really scared about what would happen \u2014
+p117
+aVit's the people who simply felt that they had the capacity
+p118
+aVto change their behavior.
+p119
+aVSo fear showed up as not really the driver.
+p120
+aVIt was the sense of efficacy.
+p121
+aa(lp122
+VSo I want to isolate this,
+p123
+aVbecause it was a great observation \u2014
+p124
+aV30 years ago, right, 30 years ago \u2014
+p125
+aVand it's one that's laid fallow in research.
+p126
+aVIt was a notion that really came out
+p127
+aVof Albert Bandura's work,
+p128
+aVwho studied whether
+p129
+aVpeople could get a sense of empowerment.
+p130
+aVThe notion of efficacy basically boils down to one \u2014 that
+p131
+aVif somebody believes that they have the capacity to change their behavior.
+p132
+aVIn health care terms, you could characterize this
+p133
+aVas whether or not somebody feels
+p134
+aVthat they see a path towards better health,
+p135
+aVthat they can actually see their way towards getting better health,
+p136
+aVand that's a very important notion.
+p137
+aVIt's an amazing notion.
+p138
+aVWe don't really know how to manipulate it, though, that well.
+p139
+aVExcept, maybe we do.
+p140
+aa(lp141
+VSo fear doesn't work, right? Fear doesn't work.
+p142
+aVAnd this is a great example
+p143
+aVof how we haven't learned that lesson at all.
+p144
+aVThis is a campaign from the American Diabetes Association.
+p145
+aVThis is still the way we're communicating messages about health.
+p146
+aVI mean, I showed my three-year-old this slide last night,
+p147
+aVand he's like, "Papa, why is an ambulance in these people's homes?"
+p148
+aVAnd I had to explain, "They're trying to scare people."
+p149
+aVAnd I don't know if it works.
+p150
+aa(lp151
+VNow here's what does work:
+p152
+aVpersonalized information works.
+p153
+aVAgain, Bandura recognized this
+p154
+aVyears ago, decades ago.
+p155
+aVWhen you give people specific information
+p156
+aVabout their health, where they stand,
+p157
+aVand where they want to get to, where they might get to,
+p158
+aVthat path, that notion of a path \u2014
+p159
+aVthat tends to work for behavior change.
+p160
+aVSo let me just spool it out a little bit.
+p161
+aVSo you start with personalized data, personalized information
+p162
+aVthat comes from an individual,
+p163
+aVand then you need to connect it to their lives.
+p164
+aVYou need to connect it to their lives,
+p165
+aVhopefully not in a fear-based way, but one that they understand.
+p166
+aVOkay, I know where I sit. I know where I'm situated.
+p167
+aVAnd that doesn't just work for me in terms of abstract numbers \u2014
+p168
+aVthis overload of health information
+p169
+aVthat we're inundated with.
+p170
+aVBut it actually hits home.
+p171
+aVIt's not just hitting us in our heads; it's hitting us in our hearts.
+p172
+aVThere's an emotional connection to information
+p173
+aVbecause it's from us.
+p174
+aVThat information then needs to be connected to choices,
+p175
+aVneeds to be connected to a range of options,
+p176
+aVdirections that we might go to \u2014
+p177
+aVtrade-offs, benefits.
+p178
+aVFinally, we need to be presented with a clear point of action.
+p179
+aVWe need to connect the information
+p180
+aValways with the action,
+p181
+aVand then that action feeds back
+p182
+aVinto different information,
+p183
+aVand it creates, of course, a feedback loop.
+p184
+aa(lp185
+VNow this is a very well-observed and well-established notion
+p186
+aVfor behavior change.
+p187
+aVBut the problem is that things \u2014 in the upper-right corner there \u2014
+p188
+aVpersonalized data, it's been pretty hard to come by.
+p189
+aVIt's a difficult and expensive commodity,
+p190
+aVuntil now.
+p191
+aVSo I'm going to give you an example, a very simple example of how this works.
+p192
+aVSo we've all seen these. These are the "your speed limit" signs.
+p193
+aVYou've seen them all around,
+p194
+aVespecially these days as radars are cheaper.
+p195
+aVAnd here's how they work in the feedback loop.
+p196
+aVSo you start with the personalized data
+p197
+aVwhere the speed limit on the road that you are at that point
+p198
+aVis 25,
+p199
+aVand, of course, you're going faster than that.
+p200
+aVWe always are. We're always going above the speed limit.
+p201
+aVThe choice in this case is pretty simple.
+p202
+aVWe either keep going fast, or we slow down.
+p203
+aVWe should probably slow down,
+p204
+aVand that point of action is probably now.
+p205
+aVWe should take our foot off the pedal right now,
+p206
+aVand generally we do. These things are shown to be pretty effective
+p207
+aVin terms of getting people to slow down.
+p208
+aVThey reduce speeds by about five to 10 percent.
+p209
+aVThey last for about five miles,
+p210
+aVin which case we put our foot back on the pedal.
+p211
+aVBut it works, and it even has some health repercussions.
+p212
+aVYour blood pressure might drop a little bit.
+p213
+aVMaybe there's fewer accidents, so there's public health benefits.
+p214
+aa(lp215
+VBut by and large, this is a feedback loop
+p216
+aVthat's so nifty and too rare.
+p217
+aVBecause in health care, most health care,
+p218
+aVthe data is very removed from the action.
+p219
+aVIt's very difficult to line things up so neatly.
+p220
+aVBut we have an opportunity.
+p221
+aVSo I want to talk about, I want to shift now to think about
+p222
+aVhow we deliver health information in this country,
+p223
+aVhow we actually get information.
+p224
+aVThis is a pharmaceutical ad.
+p225
+aVActually, it's a spoof. It's not a real pharmaceutical ad.
+p226
+aVNobody's had the brilliant idea
+p227
+aVof calling their drug Havidol quite yet.
+p228
+aVBut it looks completely right.
+p229
+aVSo it's exactly the way we get
+p230
+aVhealth information and pharmaceutical information,
+p231
+aVand it just sounds perfect.
+p232
+aVAnd then we turn the page of the magazine,
+p233
+aVand we see this \u2014
+p234
+aVnow this is the page the FDA requires pharmaceutical companies
+p235
+aVto put into their ads, or to follow their ads,
+p236
+aVand to me, this is one of the most  cynical exercises in medicine.
+p237
+aVBecause we know.
+p238
+aVWho among us would actually say that people read this?
+p239
+aVAnd who among us would actually say
+p240
+aVthat people who do try to read this
+p241
+aVactually get anything out of it?
+p242
+aVThis is a bankrupt effort
+p243
+aVat communicating health information.
+p244
+aVThere is no good faith in this.
+p245
+aa(lp246
+VSo this is a different approach.
+p247
+aVThis is an approach that has been developed
+p248
+aVby a couple researchers at Dartmouth Medical School,
+p249
+aVLisa Schwartz and Steven Woloshin.
+p250
+aVAnd they created this thing called the "drug facts box."
+p251
+aVThey took inspiration from, of all things,
+p252
+aVCap'n Crunch.
+p253
+aVThey went to the nutritional information box
+p254
+aVand saw that what works for cereal, works for our food,
+p255
+aVactually helps people understand what's in their food.
+p256
+aVGod forbid we should use that same standard
+p257
+aVthat we make Cap'n Crunch live by
+p258
+aVand bring it to drug companies.
+p259
+aVSo let me just walk through this quickly.
+p260
+aVIt says very clearly what the drug is for, specifically who it is good for,
+p261
+aVso you can start to personalize your understanding
+p262
+aVof whether the information is relevant to you
+p263
+aVor whether the drug is relevant to you.
+p264
+aVYou can understand exactly what the benefits are.
+p265
+aVIt isn't this kind of vague promise that it's going to work no matter what,
+p266
+aVbut you get the statistics for how effective it is.
+p267
+aVAnd finally, you understand what those choices are.
+p268
+aVYou can start to unpack the choices involved
+p269
+aVbecause of the side effects.
+p270
+aVEvery time you take a drug, you're walking into a possible side effect.
+p271
+aVSo it spells those out in very clean terms,
+p272
+aVand that works.
+p273
+aa(lp274
+VSo I love this. I love that drug facts box.
+p275
+aVAnd so I was thinking about,
+p276
+aVwhat's an opportunity that I could have
+p277
+aVto help people understand information?
+p278
+aVWhat's another latent body of information that's out there
+p279
+aVthat people are really not putting to use?
+p280
+aVAnd so I came up with this: lab test results.
+p281
+aVBlood test results are this great source of information.
+p282
+aVThey're packed with information.
+p283
+aVThey're just not for us. They're not for people. They're not for patients.
+p284
+aVThey go right to doctors.
+p285
+aVAnd God forbid \u2014 I think many doctors, if you really asked them,
+p286
+aVthey don't really understand all this stuff either.
+p287
+aVThis is the worst presented information.
+p288
+aVYou ask Tufte, and he would say,
+p289
+aV"Yes, this is the absolute worst presentation of information possible."
+p290
+aa(lp291
+VWhat we did at Wired
+p292
+aVwas we went, and I got our graphic design department
+p293
+aVto re-imagine these lab reports.
+p294
+aVSo that's what I want to walk you through.
+p295
+aVSo this is the general blood work before,
+p296
+aVand this is the after, this is what we came up with.
+p297
+aVThe after takes what was four pages \u2014
+p298
+aVthat previous slide was actually
+p299
+aVthe first of four pages of data
+p300
+aVthat's just the general blood work.
+p301
+aVIt goes on and on and on, all these values, all these numbers you don't know.
+p302
+aVThis is our one-page summary.
+p303
+aVWe use the notion of color.
+p304
+aVIt's an amazing notion that color could be used.
+p305
+aVSo on the top-level you have your overall results,
+p306
+aVthe things that might jump out at you from the fine print.
+p307
+aVThen you can drill down
+p308
+aVand understand how actually we put your level in context,
+p309
+aVand we use color to illustrate
+p310
+aVexactly where your value falls.
+p311
+aVIn this case, this patient is slightly at risk of diabetes
+p312
+aVbecause of their glucose level.
+p313
+aa(lp314
+VLikewise, you can go over your lipids
+p315
+aVand, again, understand what your overall cholesterol level is
+p316
+aVand then break down into the HDL and the LDL if you so choose.
+p317
+aVBut again, always using color
+p318
+aVand personalized proximity
+p319
+aVto that information.
+p320
+aVAll those other values,
+p321
+aVall those pages and pages of values that are full of nothing,
+p322
+aVwe summarize.
+p323
+aVWe tell you that you're okay, you're normal.
+p324
+aVBut you don't have to wade through it. You don't have to go through the junk.
+p325
+aVAnd then we do two other very important things
+p326
+aVthat kind of help fill in this feedback loop:
+p327
+aVwe help people understand in a little more detail
+p328
+aVwhat these values are and what they might indicate.
+p329
+aVAnd then we go a further step \u2014 we tell them what they can do.
+p330
+aVWe give them some insight
+p331
+aVinto what choices they can make, what actions they can take.
+p332
+aVSo that's our general blood work test.
+p333
+aa(lp334
+VThen we went to CRP test.
+p335
+aVIn this case, it's a sin of omission.
+p336
+aVThey have this huge amount of space,
+p337
+aVand they don't use it for anything, so we do.
+p338
+aVNow the CRP test is often done
+p339
+aVfollowing a cholesterol test,
+p340
+aVor in conjunction with a cholesterol test.
+p341
+aVSo we take the bold step
+p342
+aVof putting the cholesterol information on the same page,
+p343
+aVwhich is the way the doctor is going to evaluate it.
+p344
+aVSo we thought the patient might actually want to know the context as well.
+p345
+aVIt's a protein that shows up
+p346
+aVwhen your blood vessels might be inflamed,
+p347
+aVwhich might be a risk for heart disease.
+p348
+aVWhat you're actually measuring
+p349
+aVis spelled out in clean language.
+p350
+aVThen we use the information
+p351
+aVthat's already in the lab report.
+p352
+aVWe use the person's age and their gender
+p353
+aVto start to fill in the personalized risks.
+p354
+aVSo we start to use the data we have
+p355
+aVto run a very simple calculation
+p356
+aVthat's on all sorts of online calculators
+p357
+aVto get a sense of what the actual risk is.
+p358
+aa(lp359
+VThe last one I'll show you is a PSA test.
+p360
+aVHere's the before, and here's the after.
+p361
+aVNow a lot of our effort on this one \u2014
+p362
+aVas many of you probably know,
+p363
+aVa PSA test is a very controversial test.
+p364
+aVIt's used to test for prostate cancer,
+p365
+aVbut there are all sorts of reasons
+p366
+aVwhy your prostate might be enlarged.
+p367
+aVAnd so we spent a good deal of our time
+p368
+aVindicating that.
+p369
+aVWe again personalized the risks.
+p370
+aVSo this patient is in their 50s,
+p371
+aVso we can actually give them a very precise estimate
+p372
+aVof what their risk for prostate cancer is.
+p373
+aVIn this case it's about 25 percent, based on that.
+p374
+aVAnd then again, the follow-up actions.
+p375
+aa(lp376
+VSo our cost for this was less than 10,000 dollars, all right.
+p377
+aVThat's what Wired magazine spent on this.
+p378
+aVWhy is Wired magazine doing this?
+p379
+aV(Laughter)
+p380
+aVQuest Diagnostics and LabCorp,
+p381
+aVthe two largest lab testing companies \u2014
+p382
+aVlast year, they made profits of over 700 million dollars
+p383
+aVand over 500 million dollars respectively.
+p384
+aVNow this is not a problem of resources;
+p385
+aVthis is a problem of incentives.
+p386
+aVWe need to recognize that the target of this information
+p387
+aVshould not be the doctor, should not be the insurance company.
+p388
+aVIt should be the patient.
+p389
+aVIt's the person who actually, in the end,
+p390
+aVis going to be having to change their lives
+p391
+aVand then start adopting new behaviors.
+p392
+aa(lp393
+VThis is information that is incredibly powerful.
+p394
+aVIt's an incredibly powerful catalyst to change.
+p395
+aVBut we're not using it. It's just sitting there.
+p396
+aVIt's being lost.
+p397
+aVSo I want to just offer four questions
+p398
+aVthat every patient should ask,
+p399
+aVbecause I don't actually expect people
+p400
+aVto start developing these lab test reports.
+p401
+aVBut you can create your own feedback loop.
+p402
+aVAnybody can create their feedback loop by asking these simple questions:
+p403
+aVCan I have my results?
+p404
+aVAnd the only acceptable answer is \u2014
+p405
+aV(Audience: Yes.) \u2014 yes.
+p406
+aVWhat does this mean? Help me understand what the data is.
+p407
+aVWhat are my options? What choices are now on the table?
+p408
+aVAnd then, what's next?
+p409
+aVHow do I integrate this information
+p410
+aVinto the longer course of my life?
+p411
+aa(lp412
+VSo I want to wind up by just showing
+p413
+aVthat people have the capacity to understand this information.
+p414
+aVThis is not beyond the grasp of ordinary people.
+p415
+aVYou do not need to have the education level of people in this room.
+p416
+aVOrdinary people are capable of understanding this information,
+p417
+aVif we only go to the effort of presenting it to them
+p418
+aVin a form that they can engage with.
+p419
+aVAnd engagement is essential here,
+p420
+aVbecause it's not just giving them information;
+p421
+aVit's giving them an opportunity to act.
+p422
+aVThat's what engagement is. It's different from compliance.
+p423
+aVIt works totally different from the way we talk about behavior
+p424
+aVin medicine today.
+p425
+aVAnd this information is out there.
+p426
+aa(lp427
+VI've been talking today about latent information,
+p428
+aVall this information that exists in the system
+p429
+aVthat we're not putting to use.
+p430
+aVBut there are all sorts of other bodies of information
+p431
+aVthat are coming online,
+p432
+aVand we need to recognize the capacity of this information
+p433
+aVto engage people, to help people
+p434
+aVand to change the course of their lives.
+p435
+aa(lp436
+VThank you very much.
+p437
+aa(lp438
+V(Applause)
+p439
+aasS'id'
+p440
+I1060
+sS'title'
+p441
+VIt's time to redesign medical data
+p442
+s.

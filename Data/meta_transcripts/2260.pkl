@@ -1,0 +1,788 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm here to tell you about the real search for alien life.
+p4
+aVNot little green humanoids arriving in shiny UFOs,
+p5
+aValthough that would be nice.
+p6
+aVBut it's the search for planets orbiting stars far away.
+p7
+aa(lp8
+VEvery star in our sky is a sun.
+p9
+aVAnd if our sun has planets \u2014
+p10
+aVMercury, Venus, Earth, Mars, etc.,
+p11
+aVsurely those other stars should have planets also,
+p12
+aVand they do.
+p13
+aVAnd in the last two decades,
+p14
+aVastronomers have found thousands of exoplanets.
+p15
+aa(lp16
+VOur night sky is literally teeming with exoplanets.
+p17
+aVWe know, statistically speaking,
+p18
+aVthat every star has at least one planet.
+p19
+aVAnd in the search for planets,
+p20
+aVand in the future, planets that might be like Earth,
+p21
+aVwe're able to help address
+p22
+aVsome of the most amazing and mysterious questions
+p23
+aVthat have faced humankind for centuries.
+p24
+aVWhy are we here?
+p25
+aVWhy does our universe exist?
+p26
+aVHow did Earth form and evolve?
+p27
+aVHow and why did life originate and populate our planet?
+p28
+aVThe second question that we often think about is:
+p29
+aVAre we alone?
+p30
+aVIs there life out there?
+p31
+aVWho is out there?
+p32
+aVYou know, this question has been around for thousands of years,
+p33
+aVsince at least the time of the Greek philosophers.
+p34
+aVBut I'm here to tell you just how close we're getting
+p35
+aVto finding out the answer to this question.
+p36
+aVIt's the first time in human history that this really is within reach for us.
+p37
+aa(lp38
+VNow when I think about the possibilities for life out there,
+p39
+aVI think of the fact that our sun is but one of many stars.
+p40
+aVThis is a photograph of a real galaxy,
+p41
+aVwe think our Milky Way looks like this galaxy.
+p42
+aVIt's a collection of bound stars.
+p43
+aVBut our [sun] is one of hundreds of billions of stars
+p44
+aVand our galaxy is one of upwards of hundreds of billions of galaxies.
+p45
+aVKnowing that small planets are very common,
+p46
+aVyou can just do the math.
+p47
+aVAnd there are just so many stars and so many planets out there,
+p48
+aVthat surely, there must be life somewhere out there.
+p49
+aVWell, the biologists get furious with me for saying that,
+p50
+aVbecause we have absolutely no evidence for life beyond Earth yet.
+p51
+aa(lp52
+VWell, if we were able to look at our galaxy from the outside
+p53
+aVand zoom in to where our sun is,
+p54
+aVwe see a real map of the stars.
+p55
+aVAnd the highlighted stars are those with known exoplanets.
+p56
+aVThis is really just the tip of the iceberg.
+p57
+aVHere, this animation is zooming in onto our solar system.
+p58
+aVAnd you'll see here the planets
+p59
+aVas well as some spacecraft that are also orbiting our sun.
+p60
+aVNow if we can imagine going to the West Coast of North America,
+p61
+aVand looking out at the night sky,
+p62
+aVhere's what we'd see on a spring night.
+p63
+aVAnd you can see the constellations overlaid
+p64
+aVand again, so many stars with planets.
+p65
+aVThere's a special patch of the sky where we have thousands of planets.
+p66
+aa(lp67
+VThis is where the Kepler Space Telescope focused for many years.
+p68
+aVLet's zoom in and look at one of the favorite exoplanets.
+p69
+aVThis star is called Kepler-186f.
+p70
+aVIt's a system of about five planets.
+p71
+aVAnd by the way, most of these exoplanets, we don't know too much about.
+p72
+aVWe know their size, and their orbit and things like that.
+p73
+aVBut there's a very special planet here called Kepler-186f.
+p74
+aVThis planet is in a zone that is not too far from the star,
+p75
+aVso that the temperature may be just right for life.
+p76
+aVHere, the artist's conception is just zooming in
+p77
+aVand showing you what that planet might be like.
+p78
+aa(lp79
+VSo, many people have this romantic notion of astronomers
+p80
+aVgoing to the telescope on a lonely mountaintop
+p81
+aVand looking at the spectacular night sky through a big telescope.
+p82
+aVBut actually, we just work on our computers like everyone else,
+p83
+aVand we get our data by email or downloading from a database.
+p84
+aVSo instead of coming here to tell you
+p85
+aVabout the somewhat tedious nature of the data and data analysis
+p86
+aVand the complex computer models we make,
+p87
+aVI have a different way to try to explain to you
+p88
+aVsome of the things that we're thinking about exoplanets.
+p89
+aa(lp90
+VHere's a travel poster:
+p91
+aV"Kepler-186f:
+p92
+aVWhere the grass is always redder on the other side."
+p93
+aVThat's because Kepler-186f orbits a red star,
+p94
+aVand we're just speculating that perhaps the plants there,
+p95
+aVif there is vegetation that does photosynthesis,
+p96
+aVit has different pigments and looks red.
+p97
+aV"Enjoy the gravity on HD 40307g,
+p98
+aVa Super-Earth."
+p99
+aVThis planet is more massive than Earth
+p100
+aVand has a higher surface gravity.
+p101
+aV"Relax on Kepler-16b,
+p102
+aVwhere your shadow always has company."
+p103
+aV(Laughter)
+p104
+aVWe know of a dozen planets that orbit two stars,
+p105
+aVand there's likely many more out there.
+p106
+aVIf we could visit one of those planets,
+p107
+aVyou literally would see two sunsets
+p108
+aVand have two shadows.
+p109
+aVSo actually, science fiction got some things right.
+p110
+aVTatooine from Star Wars.
+p111
+aVAnd I have a couple of other favorite exoplanets
+p112
+aVto tell you about.
+p113
+aVThis one is Kepler-10b,
+p114
+aVit's a hot, hot planet.
+p115
+aVIt orbits over 50 times closer to its star
+p116
+aVthan our Earth does to our sun.
+p117
+aVAnd actually, it's so hot,
+p118
+aVwe can't visit any of these planets, but if we could,
+p119
+aVwe would melt long before we got there.
+p120
+aVWe think the surface is hot enough to melt rock
+p121
+aVand has liquid lava lakes.
+p122
+aa(lp123
+VGliese 1214b.
+p124
+aVThis planet, we know the mass and the size
+p125
+aVand it has a fairly low density.
+p126
+aVIt's somewhat warm.
+p127
+aVWe actually don't know really anything about this planet,
+p128
+aVbut one possibility is that it's a water world,
+p129
+aVlike a scaled-up version of one of Jupiter's icy moons
+p130
+aVthat might be 50 percent water by mass.
+p131
+aVAnd in this case, it would have a thick steam atmosphere
+p132
+aVoverlaying an ocean,
+p133
+aVnot of liquid water,
+p134
+aVbut of an exotic form of water, a superfluid \u2014
+p135
+aVnot quite a gas, not quite a liquid.
+p136
+aVAnd under that wouldn't be rock,
+p137
+aVbut a form of high-pressure ice,
+p138
+aVlike ice IX.
+p139
+aa(lp140
+VSo out of all these planets out there,
+p141
+aVand the variety is just simply astonishing,
+p142
+aVwe mostly want to find the planets that are Goldilocks planets, we call them.
+p143
+aVNot too big, not too small,
+p144
+aVnot too hot, not too cold \u2014
+p145
+aVbut just right for life.
+p146
+aVBut to do that, we'd have to be able to look
+p147
+aVat the planet's atmosphere,
+p148
+aVbecause the atmosphere acts like a blanket trapping heat \u2014
+p149
+aVthe greenhouse effect.
+p150
+aVWe have to be able to assess the greenhouse gases
+p151
+aVon other planets.
+p152
+aVWell, science fiction got some things wrong.
+p153
+aVThe Star Trek Enterprise
+p154
+aVhad to travel vast distances at incredible speeds
+p155
+aVto orbit other planets
+p156
+aVso that First Officer Spock could analyze the atmosphere
+p157
+aVto see if the planet was habitable
+p158
+aVor if there were lifeforms there.
+p159
+aa(lp160
+VWell, we don't need to travel at warp speeds
+p161
+aVto see other planet atmospheres,
+p162
+aValthough I don't want to dissuade any budding engineers
+p163
+aVfrom figuring out how to do that.
+p164
+aVWe actually can and do study planet atmospheres
+p165
+aVfrom here, from Earth orbit.
+p166
+aVThis is a picture, a photograph of the Hubble Space Telescope
+p167
+aVtaken by the shuttle Atlantis as it was departing
+p168
+aVafter the last human space flight to Hubble.
+p169
+aVThey installed a new camera, actually,
+p170
+aVthat we use for exoplanet atmospheres.
+p171
+aVAnd so far, we've been able to study dozens of exoplanet atmospheres,
+p172
+aVabout six of them in great detail.
+p173
+aVBut those are not small planets like Earth.
+p174
+aVThey're big, hot planets that are easy to see.
+p175
+aVWe're not ready,
+p176
+aVwe don't have the right technology yet to study small exoplanets.
+p177
+aVBut nevertheless,
+p178
+aVI wanted to try to explain to you how we study exoplanet atmospheres.
+p179
+aa(lp180
+VI want you to imagine, for a moment, a rainbow.
+p181
+aVAnd if we could look at this rainbow closely,
+p182
+aVwe would see that some dark lines are missing.
+p183
+aVAnd here's our sun,
+p184
+aVthe white light of our sun split up,
+p185
+aVnot by raindrops, but by a spectrograph.
+p186
+aVAnd you can see all these dark, vertical lines.
+p187
+aVSome are very narrow, some are wide,
+p188
+aVsome are shaded at the edges.
+p189
+aVAnd this is actually how astronomers have studied objects in the heavens,
+p190
+aVliterally, for over a century.
+p191
+aVSo here, each different atom and molecule
+p192
+aVhas a special set of lines,
+p193
+aVa fingerprint, if you will.
+p194
+aVAnd that's how we study exoplanet atmospheres.
+p195
+aVAnd I'll just never forget when I started working
+p196
+aVon exoplanet atmospheres 20 years ago,
+p197
+aVhow many people told me,
+p198
+aV"This will never happen.
+p199
+aVWe'll never be able to study them. Why are you bothering?"
+p200
+aVAnd that's why I'm pleased to tell you about all the atmospheres studied now,
+p201
+aVand this is really a field of its own.
+p202
+aVSo when it comes to other planets, other Earths,
+p203
+aVin the future when we can observe them,
+p204
+aVwhat kind of gases would we be looking for?
+p205
+aVWell, you know, our own Earth has oxygen in the atmosphere
+p206
+aVto 20 percent by volume.
+p207
+aVThat's a lot of oxygen.
+p208
+aVBut without plants and photosynthetic life,
+p209
+aVthere would be no oxygen,
+p210
+aVvirtually no oxygen in our atmosphere.
+p211
+aVSo oxygen is here because of life.
+p212
+aVAnd our goal then is to look for gases in other planet atmospheres,
+p213
+aVgases that don't belong,
+p214
+aVthat we might be able to attribute to life.
+p215
+aVBut which molecules should we search for?
+p216
+aVI actually told you how diverse exoplanets are.
+p217
+aVWe expect that to continue in the future
+p218
+aVwhen we find other Earths.
+p219
+aa(lp220
+VAnd that's one of the main things I'm working on now,
+p221
+aVI have a theory about this.
+p222
+aVIt reminds me that nearly every day,
+p223
+aVI receive an email or emails
+p224
+aVfrom someone with a crazy theory about physics of gravity
+p225
+aVor cosmology or some such.
+p226
+aVSo, please don't email me one of your crazy theories.
+p227
+aV(Laughter)
+p228
+aVWell, I had my own crazy theory.
+p229
+aVBut, who does the MIT professor go to?
+p230
+aVWell, I emailed a Nobel Laureate in Physiology or Medicine
+p231
+aVand he said, "Sure, come and talk to me."
+p232
+aVSo I brought my two biochemistry friends
+p233
+aVand we went to talk to him about our crazy theory.
+p234
+aVAnd that theory was that life produces all small molecules,
+p235
+aVso many molecules.
+p236
+aVLike, everything I could think of, but not being a chemist.
+p237
+aVThink about it:
+p238
+aVcarbon dioxide, carbon monoxide,
+p239
+aVmolecular hydrogen, molecular nitrogen,
+p240
+aVmethane, methyl chloride \u2014
+p241
+aVso many gases.
+p242
+aVThey also exist for other reasons,
+p243
+aVbut just life even produces ozone.
+p244
+aVSo we go to talk to him about this,
+p245
+aVand immediately, he shot down the theory.
+p246
+aVHe found an example that didn't exist.
+p247
+aVSo, we went back to the drawing board
+p248
+aVand we think we have found something very interesting in another field.
+p249
+aa(lp250
+VBut back to exoplanets,
+p251
+aVthe point is that life produces so many different types of gases,
+p252
+aVliterally thousands of gases.
+p253
+aVAnd so what we're doing now is just trying to figure out
+p254
+aVon which types of exoplanets,
+p255
+aVwhich gases could be attributed to life.
+p256
+aVAnd so when it comes time when we find gases
+p257
+aVin exoplanet atmospheres
+p258
+aVthat we won't know if they're being produced
+p259
+aVby intelligent aliens or by trees,
+p260
+aVor a swamp,
+p261
+aVor even just by simple, single-celled microbial life.
+p262
+aa(lp263
+VSo working on the models
+p264
+aVand thinking about biochemistry,
+p265
+aVit's all well and good.
+p266
+aVBut a really big challenge ahead of us is: how?
+p267
+aVHow are we going to find these planets?
+p268
+aVThere are actually many ways to find planets,
+p269
+aVseveral different ways.
+p270
+aVBut the one that I'm most focused on is how can we open a gateway
+p271
+aVso that in the future,
+p272
+aVwe can find hundreds of Earths.
+p273
+aVWe have a real shot at finding signs of life.
+p274
+aVAnd actually, I just finished leading a two-year project
+p275
+aVin this very special phase
+p276
+aVof a concept we call the starshade.
+p277
+aVAnd the starshade is a very specially shaped screen
+p278
+aVand the goal is to fly that starshade
+p279
+aVso it blocks out the light of a star
+p280
+aVso that the telescope can see the planets directly.
+p281
+aVHere, you can see myself and two team members
+p282
+aVholding up one small part of the starshade.
+p283
+aVIt's shaped like a giant flower,
+p284
+aVand this is one of the prototype petals.
+p285
+aVThe concept is that a starshade and telescope could launch together,
+p286
+aVwith the petals unfurling from the stowed position.
+p287
+aVThe central truss would expand,
+p288
+aVwith the petals snapping into place.
+p289
+aVNow, this has to be made very precisely,
+p290
+aVliterally, the petals to microns
+p291
+aVand they have to deploy to millimeters.
+p292
+aVAnd this whole structure would have to fly
+p293
+aVtens of thousands of kilometers away from the telescope.
+p294
+aVIt's about tens of meters in diameter.
+p295
+aVAnd the goal is to block out the starlight to incredible precision
+p296
+aVso that we'd be able to see the planets directly.
+p297
+aVAnd it has to be a very special shape,
+p298
+aVbecause of the physics of defraction.
+p299
+aVNow this is a real project that we worked on,
+p300
+aVliterally, you would not believe how hard.
+p301
+aVJust so you believe it's not just in movie format,
+p302
+aVhere's a real photograph
+p303
+aVof a second-generation starshade deployment test bed in the lab.
+p304
+aVAnd in this case, I just wanted you to know
+p305
+aVthat that central truss has heritage left over
+p306
+aVfrom large radio deployables in space.
+p307
+aa(lp308
+VSo after all of that hard work
+p309
+aVwhere we try to think of all the crazy gases that might be out there,
+p310
+aVand we build the very complicated space telescopes
+p311
+aVthat might be out there,
+p312
+aVwhat are we going to find?
+p313
+aVWell, in the best case,
+p314
+aVwe will find an image of another exo-Earth.
+p315
+aVHere is Earth as a pale blue dot.
+p316
+aVAnd this is actually a real photograph of Earth
+p317
+aVtaken by the Voyager 1 spacecraft,
+p318
+aVfour billion miles away.
+p319
+aVAnd that red light is just scattered light in the camera optics.
+p320
+aa(lp321
+VBut what's so awesome to consider
+p322
+aVis that if there are intelligent aliens
+p323
+aVorbiting on a planet around a star near to us
+p324
+aVand they build complicated space telescopes
+p325
+aVof the kind that we're trying to build,
+p326
+aVall they'll see is this pale blue dot,
+p327
+aVa pinprick of light.
+p328
+aVAnd so sometimes, when I pause to think
+p329
+aVabout my professional struggle and huge ambition,
+p330
+aVit's hard to think about that
+p331
+aVin contrast to the vastness of the universe.
+p332
+aVBut nonetheless, I am devoting the rest of my life
+p333
+aVto finding another Earth.
+p334
+aa(lp335
+VAnd I can guarantee
+p336
+aa(lp337
+Vthat in the next generation of space telescopes,
+p338
+aVin the second generation,
+p339
+aVwe will have the capability to find and identity other Earths.
+p340
+aVAnd the capability to split up the starlight
+p341
+aVso that we can look for gases
+p342
+aVand assess the greenhouse gases in the atmosphere,
+p343
+aVestimate the surface temperature,
+p344
+aVand look for signs of life.
+p345
+aa(lp346
+VBut there's more.
+p347
+aVIn this case of searching for other planets like Earth,
+p348
+aVwe are making a new kind of map
+p349
+aVof the nearby stars and of the planets orbiting them,
+p350
+aVincluding [planets] that actually might be inhabitable by humans.
+p351
+aa(lp352
+VAnd so I envision that our descendants,
+p353
+aVhundreds of years from now,
+p354
+aVwill embark on an interstellar journey to other worlds.
+p355
+aVAnd they will look back at all of us
+p356
+aVas the generation who first found the Earth-like worlds.
+p357
+aa(lp358
+VThank you.
+p359
+aa(lp360
+V(Applause)
+p361
+aa(lp362
+VJune Cohen: And I give you, for a question,
+p363
+aVRosetta Mission Manager Fred Jansen.
+p364
+aa(lp365
+VFred Jansen: You mentioned halfway through
+p366
+aVthat the technology to actually look at the spectrum
+p367
+aVof an exoplanet like Earth is not there yet.
+p368
+aVWhen do you expect this will be there,
+p369
+aVand what's needed?
+p370
+aa(lp371
+VActually, what we expect is what we call our next-generation Hubble telescope.
+p372
+aVAnd this is called the James Webb Space Telescope,
+p373
+aVand that will launch in 2018,
+p374
+aVand that's what we're going to do,
+p375
+aVwe're going to look at a special kind of planet
+p376
+aVcalled transient exoplanets,
+p377
+aVand that will be our first shot at studying small planets
+p378
+aVfor gases that might indicate the planet is habitable.
+p379
+aa(lp380
+VJC: I'm going to ask you one follow-up question, too, Sara,
+p381
+aVas the generalist.
+p382
+aVSo I am really struck by the notion in your career
+p383
+aVof the opposition you faced,
+p384
+aVthat when you began thinking about exoplanets,
+p385
+aVthere was extreme skepticism in the scientific community
+p386
+aVthat they existed,
+p387
+aVand you proved them wrong.
+p388
+aVWhat did it take to take that on?
+p389
+aa(lp390
+VSS: Well, the thing is that as scientists,
+p391
+aVwe're supposed to be skeptical,
+p392
+aVbecause our job to make sure that what the other person is saying
+p393
+aVactually makes sense or not.
+p394
+aVBut being a scientist,
+p395
+aVI think you've seen it from this session,
+p396
+aVit's like being an explorer.
+p397
+aVYou have this immense curiosity,
+p398
+aVthis stubbornness,
+p399
+aVthis sort of resolute will that you will go forward
+p400
+aVno matter what other people say.
+p401
+aa(lp402
+VJC: I love that. Thank you, Sara.
+p403
+aa(lp404
+V(Applause)
+p405
+aasS'id'
+p406
+I2260
+sS'title'
+p407
+VThe search for planets beyond our solar system
+p408
+s.

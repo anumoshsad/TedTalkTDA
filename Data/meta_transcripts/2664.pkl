@@ -1,0 +1,464 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VHow many of you have used an electronic spreadsheet,
+p4
+aVlike Microsoft Excel?
+p5
+aVVery good.
+p6
+aVNow, how many of you have run a business with a spreadsheet by hand,
+p7
+aVlike my dad did for his small printing business in Philadelphia?
+p8
+aVA lot less.
+p9
+aa(lp10
+VWell, that's the way it was done for hundreds of years.
+p11
+aVIn early 1978, I started working on an idea
+p12
+aVthat eventually became VisiCalc.
+p13
+aVAnd the next year it shipped
+p14
+aVrunning on something new called an Apple II personal computer.
+p15
+aVYou could tell that things had really changed when, six years later,
+p16
+aVthe Wall Street Journal ran an editorial
+p17
+aVthat assumed you knew what VisiCalc was and maybe even were using it.
+p18
+aa(lp19
+VSteve Jobs back in 1990
+p20
+aVsaid that "spreadsheets propelled the industry forward."
+p21
+aV"VisiCalc propelled the success of Apple more than any other single event."
+p22
+aVOn a more personal note,
+p23
+aVSteve said, "If VisiCalc had been written for some other computer,
+p24
+aVyou'd be interviewing somebody else right now."
+p25
+aa(lp26
+VSo, VisiCalc was instrumental in getting personal computers on business desks.
+p27
+aVHow did it come about?
+p28
+aVWhat was it? What did I go through to make it be what it was?
+p29
+aVWell, I first learned to program back in 1966, when I was 15 \u2014
+p30
+aVjust a couple months after this photo was taken.
+p31
+aVFew high schoolers had access to computers in those days.
+p32
+aVBut through luck and an awful lot of perseverance,
+p33
+aVI was able to get computer time around the city.
+p34
+aa(lp35
+VAfter sleeping in the mud at Woodstock, I went off to MIT to go to college,
+p36
+aVwhere to make money, I worked on the Multics Project.
+p37
+aVMultics was a trailblazing interactive time-sharing system.
+p38
+aVHave you heard of the Linux and Unix operating systems?
+p39
+aVThey came from Multics.
+p40
+aVI worked on the Multics versions
+p41
+aVof what are known as interpreted computer languages,
+p42
+aVthat are used by people in noncomputer fields
+p43
+aVto do their calculations while seated at a computer terminal.
+p44
+aa(lp45
+VAfter I graduated from MIT,
+p46
+aVI went to work for Digital Equipment Corporation.
+p47
+aVAt DEC, I worked on software
+p48
+aVfor the new area of computerized typesetting.
+p49
+aVI helped newspapers replace their reporters' typewriters
+p50
+aVwith computer terminals.
+p51
+aVI'd write software
+p52
+aVand then I'd go out in the field to places like the Kansas City Star,
+p53
+aVwhere I would train users and get feedback.
+p54
+aVThis was real-world experience
+p55
+aVthat is quite different than what I saw in the lab at MIT.
+p56
+aa(lp57
+VAfter that, I was project leader
+p58
+aVof the software for DEC's first word processor, again a new field.
+p59
+aVLike with typesetting, the important thing was crafting a user interface
+p60
+aVthat was both natural and efficient for noncomputer people to use.
+p61
+aVAfter I was at DEC, I went to work for a small company
+p62
+aVthat made microprocessor-based electronic cash registers for the fast-food industry.
+p63
+aVBut I had always wanted to start a company with my friend Bob Frankston
+p64
+aVthat I met on the Multics project at MIT.
+p65
+aa(lp66
+VSo I decided to go back to school to learn as much as I could about business.
+p67
+aVAnd in the fall of 1977,
+p68
+aVI entered the MBA program at Harvard Business School.
+p69
+aVI was one of the few percentage of students
+p70
+aVwho had a background in computer programming.
+p71
+aVThere's a picture of me from the yearbook sitting in the front row.
+p72
+aa(lp73
+V(Laughter)
+p74
+aa(lp75
+VNow, at Harvard, we learned by the case method.
+p76
+aVWe'd do about three cases a day.
+p77
+aVCases consist of up to a few dozen pages describing particular business situations.
+p78
+aVThey often have exhibits, and exhibits often have words and numbers
+p79
+aVlaid out in ways that make sense for the particular situation.
+p80
+aVThey're usually all somewhat different.
+p81
+aVHere's my homework.
+p82
+aVAgain, numbers, words, laid out in ways that made sense.
+p83
+aVLots of calculations \u2014 we got really close to our calculators.
+p84
+aVIn fact, here's my calculator.
+p85
+aVFor Halloween, I went dressed up as a calculator.
+p86
+aa(lp87
+V(Laughter)
+p88
+aa(lp89
+VAt the beginning of each class, the professor would call on somebody
+p90
+aVto present the case.
+p91
+aVWhat they would do is they would explain what was going on
+p92
+aVand then dictate information that the professor would transcribe
+p93
+aVonto the many motorized blackboards in the front of the class,
+p94
+aVand then we'd have a discussion.
+p95
+aVOne of the really frustrating things is when you've done all your homework,
+p96
+aVyou come in the next day only to find out that you made an error
+p97
+aVand all of the other numbers you did were wrong.
+p98
+aVAnd you couldn't participate as well.
+p99
+aVAnd we were marked by class participation.
+p100
+aa(lp101
+VSo, sitting there with 87 other people in the class, I got to daydream a lot.
+p102
+aVMost programmers in those days worked on mainframes,
+p103
+aVbuilding things like inventory systems, payroll systems and bill-paying systems.
+p104
+aVBut I had worked on interactive word processing
+p105
+aVand on-demand personal computation.
+p106
+aVInstead of thinking about paper printouts and punch cards,
+p107
+aVI imagined a magic blackboard
+p108
+aVthat if you erased one number and wrote a new thing in,
+p109
+aVall of the other numbers would automatically change,
+p110
+aVlike word processing with numbers.
+p111
+aVI imagined that my calculator had mouse hardware on the bottom of it
+p112
+aVand a head-up display, like in a fighter plane.
+p113
+aVAnd I could type some numbers in, and circle it, and press the sum button.
+p114
+aVAnd right in the middle of a negotiation I'd be able to get the answer.
+p115
+aVNow I just had to take my fantasy and turn it into reality.
+p116
+aa(lp117
+VMy father taught me about prototyping.
+p118
+aVHe showed me mock-ups
+p119
+aVthat he'd make to figure out the placement on the page
+p120
+aVfor the things for brochures that he was printing.
+p121
+aVAnd he'd use it to get feedback from customers
+p122
+aVand OKs before he sent the job off to the presses.
+p123
+aVThe act of making a simple, working version of what you're trying to build
+p124
+aVforces you to uncover key problems.
+p125
+aVAnd it lets you find solutions to those problems much less expensively.
+p126
+aa(lp127
+VSo I decided to build a prototype.
+p128
+aVI went to a video terminal connected to Harvard's time-sharing system
+p129
+aVand got to work.
+p130
+aVOne of the first problems that I ran into was:
+p131
+aVHow do you represent values in formulas?
+p132
+aVLet me show you what I mean.
+p133
+aVI thought that you would point somewhere,
+p134
+aVtype in some words, then type in some somewhere else,
+p135
+aVput in some numbers and some more numbers, point where you want the answer.
+p136
+aVAnd then point to the first, press minus, point to the second,
+p137
+aVand get the result.
+p138
+aVThe problem was: What should I put in the formula?
+p139
+aVIt had to be something the computer knew what to put in.
+p140
+aVAnd if you looked at the formula,
+p141
+aVyou needed to know where on the screen it referred to.
+p142
+aVThe first thing I thought was the programmer way of doing it.
+p143
+aVThe first time you pointed to somewhere,
+p144
+aVthe computer would ask you to type in a unique name.
+p145
+aVIt became pretty clear pretty fast that that was going to be too tedious.
+p146
+aVThe computer had to automatically make up the name and put it inside.
+p147
+aVSo I thought, why not make it be the order in which you create them?
+p148
+aVI tried that. Value 1, value 2.
+p149
+aVPretty quickly I saw that if you had more than a few values
+p150
+aVyou'd never remember on the screen where things were.
+p151
+aa(lp152
+VThen I said, why not instead of allowing you to put values anywhere,
+p153
+aVI'll restrict you to a grid?
+p154
+aVThen when you pointed to a cell,
+p155
+aVthe computer could put the row and column in as a name.
+p156
+aVAnd, if I did it like a map and put ABC across the top and numbers along the side,
+p157
+aVif you saw B7 in a formula,
+p158
+aVyou'd know exactly where it was on the screen.
+p159
+aVAnd if you had to type the formula in yourself, you'd know what to do.
+p160
+aVRestricting you to a grid helped solve my problem.
+p161
+aVIt also opened up new capabilities, like the ability to have ranges of cells.
+p162
+aVBut it wasn't too restrictive \u2014
+p163
+aVyou could still put any value, any formula, in any cell.
+p164
+aVAnd that's the way we do it to this day, almost 40 years later.
+p165
+aa(lp166
+VMy friend Bob and I decided that we were going to build this product together.
+p167
+aVI did more work figuring out exactly how the program was supposed to behave.
+p168
+aVI wrote a reference card to act as documentation.
+p169
+aVIt also helped me ensure that the user interface I was defining
+p170
+aVcould be explained concisely and clearly to regular people.
+p171
+aVBob worked in the attic of the apartment he rented in Arlington, Massachusetts.
+p172
+aVThis is the inside of the attic.
+p173
+aVBob bought time on the MIT Multics System
+p174
+aVto write computer code on a terminal like this.
+p175
+aVAnd then he would download test versions to a borrowed Apple II
+p176
+aVover a phone line using an acoustic coupler,
+p177
+aVand then we would test.
+p178
+aa(lp179
+VFor one of these tests I prepared for this case about the Pepsi Challenge.
+p180
+aVPrint wasn't working yet, so I had to copy everything down.
+p181
+aVSave wasn't working, so every time it crashed,
+p182
+aVI had to type in all of the formulas again, over and over again.
+p183
+aVThe next day in class, I raised my hand; I got called on, and I presented the case.
+p184
+aVI did five-year projections. I did all sorts of different scenarios.
+p185
+aVI aced the case. VisiCalc was already useful.
+p186
+aa(lp187
+VThe professor said, "How did you do it?"
+p188
+aVWell, I didn't want to tell him about our secret program.
+p189
+aa(lp190
+V(Laughter)
+p191
+aa(lp192
+VSo I said, "I took this and added this
+p193
+aVand multiplied by this and subtracted that."
+p194
+aa(lp195
+VHe said, "Well, why didn't you use a ratio?"
+p196
+aa(lp197
+VI said, "Hah! A ratio \u2014 that wouldn't have been as exact!"
+p198
+aVWhat I didn't say was, "Divide isn't working yet."
+p199
+aa(lp200
+V(Laughter)
+p201
+aa(lp202
+VEventually, though, we did finish enough of VisiCalc
+p203
+aVto be able to show it to the public.
+p204
+aVMy dad printed up a sample reference card
+p205
+aVthat we could use as marketing material.
+p206
+aa(lp207
+VIn June of 1979, our publisher announced VisiCalc to the world,
+p208
+aVin a small booth at the giant National Computer Conference in New York City.
+p209
+aVThe New York Times had a humorous article about the conference.
+p210
+aV"The machines perform what seem religious rites ...
+p211
+aVEven as the believers gather,
+p212
+aVthe painters in the Coliseum sign room are adding to the pantheon,
+p213
+aVcarefully lettering 'VISICALC' in giant black on yellow.
+p214
+aVAll hail VISICALC!"
+p215
+aV(Gasp) New York Times: "All hail VISICALC."
+p216
+aa(lp217
+V(Laughter)
+p218
+aa(lp219
+VThat was the last mention of the electronic spreadsheet
+p220
+aVin the popular business press for about two years.
+p221
+aVMost people didn't get it yet.
+p222
+aVBut some did.
+p223
+aa(lp224
+VIn October of 1979, we shipped VisiCalc.
+p225
+aVIt came in packaging that looked like this.
+p226
+aVAnd it looked like this running on the Apple II.
+p227
+aVAnd the rest, as they say, is history.
+p228
+aa(lp229
+VNow, there's an awful lot more to this story,
+p230
+aVbut that'll have to wait for another day.
+p231
+aVOne thing, though, Harvard remembers.
+p232
+aVHere's that classroom.
+p233
+aVThey put up a plaque to commemorate what happened there.
+p234
+aa(lp235
+V(Applause)
+p236
+aa(lp237
+VBut it also serves as a reminder
+p238
+aVthat you, too, should take your unique backgrounds, skills and needs
+p239
+aVand build prototypes to discover and work out the key problems,
+p240
+aVand through that, change the world.
+p241
+aa(lp242
+VThank you.
+p243
+aa(lp244
+V(Applause)
+p245
+aasS'id'
+p246
+I2664
+sS'title'
+p247
+VMeet the inventor of the electronic spreadsheet
+p248
+s.

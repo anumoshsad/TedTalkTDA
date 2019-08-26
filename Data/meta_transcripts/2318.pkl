@@ -1,0 +1,379 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VOver a million people are killed each year in disasters.
+p4
+aVTwo and a half million people will be permanently disabled or displaced,
+p5
+aVand the communities will take 20 to 30 years to recover
+p6
+aVand billions of economic losses.
+p7
+aa(lp8
+VIf you can reduce the initial response by one day,
+p9
+aVyou can reduce the overall recovery
+p10
+aVby a thousand days, or three years.
+p11
+aVSee how that works?
+p12
+aVIf the initial responders can get in, save lives,
+p13
+aVmitigate whatever flooding danger there is,
+p14
+aVthat means the other groups can get in
+p15
+aVto restore the water, the roads, the electricity,
+p16
+aVwhich means then the construction people, the insurance agents,
+p17
+aVall of them can get in to rebuild the houses,
+p18
+aVwhich then means you can restore the economy,
+p19
+aVand maybe even make it better and more resilient to the next disaster.
+p20
+aVA major insurance company told me
+p21
+aVthat if they can get a homeowner's claim processed one day earlier,
+p22
+aVit'll make a difference of six months
+p23
+aVin that person getting their home repaired.
+p24
+aa(lp25
+VAnd that's why I do disaster robotics \u2014
+p26
+aVbecause robots can make a disaster go away faster.
+p27
+aa(lp28
+VNow, you've already seen a couple of these.
+p29
+aVThese are the UAVs.
+p30
+aVThese are two types of UAVs:
+p31
+aVa rotorcraft, or hummingbird;
+p32
+aVa fixed-wing, a hawk.
+p33
+aVAnd they're used extensively since 2005 \u2014
+p34
+aVHurricane Katrina.
+p35
+aVLet me show you how this hummingbird, this rotorcraft, works.
+p36
+aVFantastic for structural engineers.
+p37
+aVBeing able to see damage from angles you can't get from binoculars on the ground
+p38
+aVor from a satellite image,
+p39
+aVor anything flying at a higher angle.
+p40
+aVBut it's not just structural engineers and insurance people who need this.
+p41
+aVYou've got things like this fixed-wing, this hawk.
+p42
+aVNow, this hawk can be used for geospatial surveys.
+p43
+aVThat's where you're pulling imagery together
+p44
+aVand getting 3D reconstruction.
+p45
+aa(lp46
+VWe used both of these at the Oso mudslides up in Washington State,
+p47
+aVbecause the big problem
+p48
+aVwas geospatial and hydrological understanding of the disaster \u2014
+p49
+aVnot the search and rescue.
+p50
+aVThe search and rescue teams had it under control
+p51
+aVand knew what they were doing.
+p52
+aVThe bigger problem was that river and mudslide might wipe them out
+p53
+aVand flood the responders.
+p54
+aVAnd not only was it challenging to the responders and property damage,
+p55
+aVit's also putting at risk the future of salmon fishing
+p56
+aValong that part of Washington State.
+p57
+aVSo they needed to understand what was going on.
+p58
+aVIn seven hours, going from Arlington,
+p59
+aVdriving from the Incident Command Post to the site, flying the UAVs,
+p60
+aVprocessing the data, driving back to Arlington command post \u2014
+p61
+aVseven hours.
+p62
+aVWe gave them in seven hours data that they could take
+p63
+aVonly two to three days to get any other way \u2014
+p64
+aVand at higher resolution.
+p65
+aVIt's a game changer.
+p66
+aa(lp67
+VAnd don't just think about the UAVs.
+p68
+aVI mean, they are sexy \u2014 but remember,
+p69
+aV80 percent of the world's population lives by water,
+p70
+aVand that means our critical infrastructure is underwater \u2014
+p71
+aVthe parts that we can't get to, like the bridges and things like that.
+p72
+aVAnd that's why we have unmanned marine vehicles,
+p73
+aVone type of which you've already met, which is SARbot, a square dolphin.
+p74
+aVIt goes underwater and uses sonar.
+p75
+aVWell, why are marine vehicles so important
+p76
+aVand why are they very, very important?
+p77
+aVThey get overlooked.
+p78
+aVThink about the Japanese tsunami \u2014
+p79
+aV400 miles of coastland totally devastated,
+p80
+aVtwice the amount of coastland devastated by Hurricane Katrina in the United States.
+p81
+aVYou're talking about your bridges, your pipelines, your ports \u2014 wiped out.
+p82
+aVAnd if you don't have a port,
+p83
+aVyou don't have a way to get in enough relief supplies
+p84
+aVto support a population.
+p85
+aVThat was a huge problem at the Haiti earthquake.
+p86
+aVSo we need marine vehicles.
+p87
+aa(lp88
+VNow, let's look at a viewpoint from the SARbot
+p89
+aVof what they were seeing.
+p90
+aVWe were working on a fishing port.
+p91
+aVWe were able to reopen that fishing port, using her sonar, in four hours.
+p92
+aVThat fishing port was told it was going to be six months
+p93
+aVbefore they could get a manual team of divers in,
+p94
+aVand it was going to take the divers two weeks.
+p95
+aVThey were going to miss the fall fishing season,
+p96
+aVwhich was the major economy for that part, which is kind of like their Cape Cod.
+p97
+aVUMVs, very important.
+p98
+aa(lp99
+VBut you know, all the robots I've shown you have been small,
+p100
+aVand that's because robots don't do things that people do.
+p101
+aVThey go places people can't go.
+p102
+aVAnd a great example of that is Bujold.
+p103
+aVUnmanned ground vehicles are particularly small,
+p104
+aVso Bujold \u2014
+p105
+aa(lp106
+V(Laughter)
+p107
+aa(lp108
+VSay hello to Bujold.
+p109
+aa(lp110
+V(Laughter)
+p111
+aa(lp112
+VBujold was used extensively at the World Trade Center
+p113
+aVto go through Towers 1, 2 and 4.
+p114
+aVYou're climbing into the rubble, rappelling down, going deep in spaces.
+p115
+aVAnd just to see the World Trade Center from Bujold's viewpoint, look at this.
+p116
+aVYou're talking about a disaster where you can't fit a person or a dog \u2014
+p117
+aVand it's on fire.
+p118
+aVThe only hope of getting to a survivor way in the basement,
+p119
+aVyou have to go through things that are on fire.
+p120
+aVIt was so hot, on one of the robots, the tracks began to melt and come off.
+p121
+aVRobots don't replace people or dogs,
+p122
+aVor hummingbirds or hawks or dolphins.
+p123
+aVThey do things new.
+p124
+aVThey assist the responders, the experts, in new and innovative ways.
+p125
+aa(lp126
+VThe biggest problem is not making the robots smaller, though.
+p127
+aVIt's not making them more heat-resistant.
+p128
+aVIt's not making more sensors.
+p129
+aVThe biggest problem is the data, the informatics,
+p130
+aVbecause these people need to get the right data at the right time.
+p131
+aa(lp132
+VSo wouldn't it be great if we could have experts immediately access the robots
+p133
+aVwithout having to waste any time of driving to the site,
+p134
+aVso whoever's there, use their robots over the Internet.
+p135
+aVWell, let's think about that.
+p136
+aVLet's think about a chemical train derailment in a rural county.
+p137
+aVWhat are the odds that the experts, your chemical engineer,
+p138
+aVyour railroad transportation engineers,
+p139
+aVhave been trained on whatever UAV that particular county happens to have?
+p140
+aVProbably, like, none.
+p141
+aVSo we're using these kinds of interfaces
+p142
+aVto allow people to use the robots without knowing what robot they're using,
+p143
+aVor even if they're using a robot or not.
+p144
+aVWhat the robots give you, what they give the experts, is data.
+p145
+aa(lp146
+VThe problem becomes: who gets what data when?
+p147
+aVOne thing to do is to ship all the information to everybody
+p148
+aVand let them sort it out.
+p149
+aVWell, the problem with that is it overwhelms the networks,
+p150
+aVand worse yet, it overwhelms the cognitive abilities
+p151
+aVof each of the people trying to get that one nugget of information
+p152
+aVthey need to make the decision that's going to make the difference.
+p153
+aVSo we need to think about those kinds of challenges.
+p154
+aVSo it's the data.
+p155
+aa(lp156
+VGoing back to the World Trade Center,
+p157
+aVwe tried to solve that problem by just recording the data from Bujold
+p158
+aVonly when she was deep in the rubble,
+p159
+aVbecause that's what the USAR team said they wanted.
+p160
+aVWhat we didn't know at the time
+p161
+aVwas that the civil engineers would have loved,
+p162
+aVneeded the data as we recorded the box beams, the serial numbers,
+p163
+aVthe locations, as we went into the rubble.
+p164
+aVWe lost valuable data.
+p165
+aVSo the challenge is getting all the data
+p166
+aVand getting it to the right people.
+p167
+aa(lp168
+VNow, here's another reason.
+p169
+aVWe've learned that some buildings \u2014
+p170
+aVthings like schools, hospitals, city halls \u2014
+p171
+aVget inspected four times by different agencies
+p172
+aVthroughout the response phases.
+p173
+aVNow, we're looking, if we can get the data from the robots to share,
+p174
+aVnot only can we do things like compress that sequence of phases
+p175
+aVto shorten the response time,
+p176
+aVbut now we can begin to do the response in parallel.
+p177
+aVEverybody can see the data.
+p178
+aVWe can shorten it that way.
+p179
+aa(lp180
+VSo really, "disaster robotics" is a misnomer.
+p181
+aVIt's not about the robots.
+p182
+aVIt's about the data.
+p183
+aa(lp184
+V(Applause)
+p185
+aa(lp186
+VSo my challenge to you:
+p187
+aVthe next time you hear about a disaster,
+p188
+aVlook for the robots.
+p189
+aVThey may be underground, they may be underwater,
+p190
+aVthey may be in the sky,
+p191
+aVbut they should be there.
+p192
+aVLook for the robots,
+p193
+aVbecause robots are coming to the rescue.
+p194
+aa(lp195
+V(Applause)
+p196
+aasS'id'
+p197
+I2318
+sS'title'
+p198
+VThese robots come to the rescue after a disaster
+p199
+s.

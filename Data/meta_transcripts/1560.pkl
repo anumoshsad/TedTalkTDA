@@ -1,0 +1,704 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThe murder happened a little over 21 years ago,
+p4
+aVJanuary the 18th, 1991,
+p5
+aVin a small
+p6
+aVbedroom community
+p7
+aVof Lynwood, California, just a few miles
+p8
+aVsoutheast of Los Angeles.
+p9
+aVA father came out of his house
+p10
+aVto tell his teenage son and his five friends
+p11
+aVthat it was time for them to stop horsing around
+p12
+aVon the front lawn and on the sidewalk,
+p13
+aVto get home, finish their schoolwork,
+p14
+aVand prepare themselves for bed.
+p15
+aVAnd as the father was administering these instructions,
+p16
+aVa car drove by, slowly,
+p17
+aVand just after it passed the father and the teenagers,
+p18
+aVa hand went out from the front passenger window,
+p19
+aVand \u2014 "Bam, Bam!" \u2014 killing the father.
+p20
+aVAnd the car sped off.
+p21
+aa(lp22
+VThe police,
+p23
+aVinvestigating officers, were amazingly efficient.
+p24
+aVThey considered all the usual culprits,
+p25
+aVand in less than 24 hours, they had selected their suspect:
+p26
+aVFrancisco Carrillo, a 17-year-old kid
+p27
+aVwho lived about two or three blocks away
+p28
+aVfrom where the shooting occurred.
+p29
+aVThey found photos of him. They prepared a photo array,
+p30
+aVand the day after the shooting,
+p31
+aVthey showed it to one of the teenagers, and he said,
+p32
+aV"That's the picture.
+p33
+aVThat's the shooter I saw that killed the father."
+p34
+aa(lp35
+VThat was all a preliminary hearing judge had
+p36
+aVto listen to, to bind Mr. Carrillo over to stand trial
+p37
+aVfor a first-degree murder.
+p38
+aVIn the investigation that followed before the actual trial,
+p39
+aVeach of the other five teenagers was shown
+p40
+aVphotographs, the same photo array.
+p41
+aVThe picture that we best can determine was probably
+p42
+aVthe one that they were shown in the photo array
+p43
+aVis in your bottom left hand corner of these mug shots.
+p44
+aVThe reason we're not sure absolutely is because
+p45
+aVof the nature of evidence preservation
+p46
+aVin our judicial system,
+p47
+aVbut that's another whole TEDx talk for later. (Laughter)
+p48
+aa(lp49
+VSo at the actual trial,
+p50
+aVall six of the teenagers testified,
+p51
+aVand indicated the identifications they had made
+p52
+aVin the photo array.
+p53
+aVHe was convicted. He was sentenced to life imprisonment,
+p54
+aVand transported to Folsom Prison.
+p55
+aa(lp56
+VSo what's wrong?
+p57
+aVStraightforward, fair trial, full investigation.
+p58
+aVOh yes, no gun was ever found.
+p59
+aVNo vehicle was ever identified as being the one
+p60
+aVin which the shooter had extended his arm,
+p61
+aVand no person was ever charged with being the driver
+p62
+aVof the shooter's vehicle.
+p63
+aVAnd Mr. Carrillo's alibi?
+p64
+aVWhich of those parents here in the room might not lie
+p65
+aVconcerning the whereabouts of your son or daughter
+p66
+aVin an investigation of a killing?
+p67
+aa(lp68
+VSent to prison,
+p69
+aVadamantly insisting on his innocence,
+p70
+aVwhich he has consistently for 21 years.
+p71
+aa(lp72
+VSo what's the problem?
+p73
+aVThe problems, actually, for this kind of case
+p74
+aVcome manyfold from decades of scientific research
+p75
+aVinvolving human memory.
+p76
+aVFirst of all, we have all the statistical analyses
+p77
+aVfrom the Innocence Project work,
+p78
+aVwhere we know that we have, what,
+p79
+aV250, 280 documented cases now where people have
+p80
+aVbeen wrongfully convicted and subsequently exonerated,
+p81
+aVsome from death row, on the basis of later DNA analysis,
+p82
+aVand you know that over three quarters of all of those cases
+p83
+aVof exoneration involved only eyewitness identification
+p84
+aVtestimony during the trial that convicted them.
+p85
+aVWe know that eyewitness identifications are fallible.
+p86
+aa(lp87
+VThe other comes from an interesting aspect
+p88
+aVof human memory that's related to various brain functions
+p89
+aVbut I can sum up for the sake of brevity here
+p90
+aVin a simple line:
+p91
+aVThe brain abhors a vacuum.
+p92
+aVUnder the best of observation conditions,
+p93
+aVthe absolute best,
+p94
+aVwe only detect, encode and store in our brains
+p95
+aVbits and pieces of the entire experience in front of us,
+p96
+aVand they're stored in different parts of the brain.
+p97
+aVSo now, when it's important for us to be able to recall
+p98
+aVwhat it was that we experienced,
+p99
+aVwe have an incomplete, we have a partial store,
+p100
+aVand what happens?
+p101
+aVBelow awareness, with no requirement for any kind of
+p102
+aVmotivated processing, the brain fills in information
+p103
+aVthat was not there,
+p104
+aVnot originally stored,
+p105
+aVfrom inference, from speculation,
+p106
+aVfrom sources of information that came to you,
+p107
+aVas the observer, after the observation.
+p108
+aVBut it happens without awareness such that
+p109
+aVyou don't, aren't even cognizant of it occurring.
+p110
+aVIt's called reconstructed memories.
+p111
+aVIt happens to us in all the aspects of our life, all the time.
+p112
+aVIt was those two considerations, among others \u2014
+p113
+aVreconstructed memory, the fact about the eyewitness fallibility \u2014
+p114
+aVthat was part of the instigation
+p115
+aVfor a group of appeal attorneys
+p116
+aVled by an amazing lawyer named Ellen Eggers
+p117
+aVto pool their experience and their talents together
+p118
+aVand petition a superior court
+p119
+aVfor a retrial for Francisco Carrillo.
+p120
+aVThey retained me, as a forensic neurophysiologist,
+p121
+aVbecause I had expertise
+p122
+aVin eyewitness memory identification,
+p123
+aVwhich obviously makes sense for this case, right?
+p124
+aVBut also because I have expertise and testify about
+p125
+aVthe nature of human night vision.
+p126
+aa(lp127
+VWell, what's that got to do with this?
+p128
+aVWell, when you read through the case materials
+p129
+aVin this Carrillo case,
+p130
+aVone of the things that suddenly strikes you is that
+p131
+aVthe investigating officers said the lighting was good
+p132
+aVat the crime scene, at the shooting.
+p133
+aVAll the teenagers testified during the trial
+p134
+aVthat they could see very well.
+p135
+aVBut this occurred in mid-January,
+p136
+aVin the Northern Hemisphere, at 7 p.m. at night.
+p137
+aVSo when I did the calculations
+p138
+aVfor the lunar data and the solar data
+p139
+aVat that location on Earth at the time of the incident
+p140
+aVof the shooting, all right,
+p141
+aVit was well past the end of civil twilight
+p142
+aVand there was no moon up that night.
+p143
+aVSo all the light in this area from the sun and the moon
+p144
+aVis what you see on the screen right here.
+p145
+aVThe only lighting in that area had to come
+p146
+aVfrom artificial sources,
+p147
+aVand that's where I go out and I do the actual reconstruction
+p148
+aVof the scene with photometers, with various measures
+p149
+aVof illumination and various other measures of
+p150
+aVcolor perception, along with special cameras
+p151
+aVand high-speed film, right?
+p152
+aVTake all the measurements and record them, right?
+p153
+aVAnd then take photographs, and this is what the scene
+p154
+aVlooked like at the time of the shooting
+p155
+aVfrom the position of the teenagers
+p156
+aVlooking at the car going by and shooting.
+p157
+aVThis is looking directly across the street
+p158
+aVfrom where they were standing.
+p159
+aVRemember, the investigating officers' report said
+p160
+aVthe lighting was good.
+p161
+aVThe teenagers said they could see very well.
+p162
+aVThis is looking down to the east,
+p163
+aVwhere the shooting vehicle sped off,
+p164
+aVand this is the lighting directly behind the father
+p165
+aVand the teenagers.
+p166
+aVAs you can see, it is at best poor.
+p167
+aVNo one's going to call this well-lit, good lighting,
+p168
+aVand in fact, as nice as these pictures are,
+p169
+aVand the reason we take them is I knew I was going to have to testify in court,
+p170
+aVand a picture is worth more than a thousand words
+p171
+aVwhen you're trying to communicate numbers,
+p172
+aVabstract concepts like lux, the international measurement
+p173
+aVof illumination, the Ishihara color perception test values.
+p174
+aVWhen you present those to people who are not well-versed
+p175
+aVin those aspects of science and that, they become
+p176
+aVsalamanders in the noonday sun. It's like
+p177
+aVtalking about the tangent of the visual angle, all right?
+p178
+aVTheir eyes just glaze over, all right?
+p179
+aVA good forensic expert also has to be a good educator,
+p180
+aVa good communicator, and that's part of the reason
+p181
+aVwhy we take the pictures, to show not only
+p182
+aVwhere the light sources are, and what we call the spill,
+p183
+aVthe distribution, but also so that it's easier
+p184
+aVfor the trier of fact to understand the circumstances.
+p185
+aVSo these are some of the pictures that, in fact,
+p186
+aVI used when I testified,
+p187
+aVbut more importantly were, to me as a scientist,
+p188
+aVare those readings, the photometer readings,
+p189
+aVwhich I can then convert into actual predictions
+p190
+aVof the visual capability of the human eye
+p191
+aVunder those circumstances,
+p192
+aVand from my readings that I recorded at the scene
+p193
+aVunder the same solar and lunar conditions
+p194
+aVat the same time, so on and so forth, right,
+p195
+aVI could predict
+p196
+aVthat there would be no reliable color perception,
+p197
+aVwhich is crucial for face recognition,
+p198
+aVand that there would be only scotopic vision,
+p199
+aVwhich means there would be very little resolution,
+p200
+aVwhat we call boundary or edge detection,
+p201
+aVand that furthermore, because the eyes would have been
+p202
+aVtotally dilated under this light, the depth of field,
+p203
+aVthe distance at which you can focus and see details,
+p204
+aVwould have been less than 18 inches away.
+p205
+aa(lp206
+VI testified to that to the court,
+p207
+aVand while the judge was very attentive,
+p208
+aVit had been a very, very long hearing
+p209
+aVfor this petition for a retrial, and as a result,
+p210
+aVI noticed out of the corner of my eye
+p211
+aVthat I thought that maybe the judge was going to need
+p212
+aVa little more of a nudge
+p213
+aVthan just more numbers.
+p214
+aa(lp215
+VAnd here I became a bit audacious,
+p216
+aVand I turned
+p217
+aVand I asked the judge,
+p218
+aVI said, "Your Honor, I think you should go out
+p219
+aVand look at the scene yourself."
+p220
+aa(lp221
+VNow I may have used a tone which was more like a dare
+p222
+aVthan a request \u2014 (Laughter) \u2014
+p223
+aVbut nonetheless, it's to this man's credit and his courage
+p224
+aVthat he said, "Yes, I will."
+p225
+aVA shocker in American jurisprudence.
+p226
+aa(lp227
+VSo in fact, we found the same identical conditions,
+p228
+aVwe reconstructed the entire thing again,
+p229
+aVhe came out with an entire brigade of sheriff's officers
+p230
+aVto protect him in this community, all right? (Laughter)
+p231
+aVWe had him stand actually slightly in the street,
+p232
+aVso closer to the suspect vehicle, the shooter vehicle,
+p233
+aVthan the actual teenagers were,
+p234
+aVso he stood a few feet from the curb
+p235
+aVtoward the middle of the street.
+p236
+aVWe had a car that came by,
+p237
+aVsame identical car as described by the teenagers, right?
+p238
+aVIt had a driver and a passenger,
+p239
+aVand after the car had passed the judge by,
+p240
+aVthe passenger extended his hand,
+p241
+aVpointed it back to the judge as the car continued on,
+p242
+aVjust as the teenagers had described it, right?
+p243
+aVNow, he didn't use a real gun in his hand,
+p244
+aVso he had a black object in his hand that was similar
+p245
+aVto the gun that was described.
+p246
+aVHe pointed by, and this is what the judge saw.
+p247
+aa(lp248
+VThis is the car 30 feet away from the judge.
+p249
+aVThere's an arm sticking out of the passenger side
+p250
+aVand pointed back at you.
+p251
+aVThat's 30 feet away.
+p252
+aVSome of the teenagers said that in fact the car
+p253
+aVwas 15 feet away when it shot.
+p254
+aVOkay. There's 15 feet.
+p255
+aa(lp256
+VAt this point, I became a little concerned.
+p257
+aVThis judge is someone you'd never want to play poker with.
+p258
+aVHe was totally stoic. I couldn't see a twitch of his eyebrow.
+p259
+aVI couldn't see the slightest bend of his head.
+p260
+aVI had no sense of how he was reacting to this,
+p261
+aVand after he looked at this reenactment,
+p262
+aVhe turned to me and he says,
+p263
+aV"Is there anything else you want me to look at?"
+p264
+aa(lp265
+VI said, "Your honor," and I don't know whether I was
+p266
+aVemboldened by the scientific measurements that I had
+p267
+aVin my pocket and my knowledge that they are accurate,
+p268
+aVor whether it was just sheer stupidity,
+p269
+aVwhich is what the defense lawyers thought \u2014 (Laughter) \u2014
+p270
+aVwhen they heard me say,
+p271
+aV"Yes, Your Honor, I want you stand right there
+p272
+aVand I want the car to go around the block again
+p273
+aVand I want it to come and I want it to stop
+p274
+aVright in front of you, three to four feet away,
+p275
+aVand I want the passenger to extend his hand
+p276
+aVwith a black object and point it right at you,
+p277
+aVand you can look at it as long as you want."
+p278
+aVAnd that's what he saw. (Laughter)
+p279
+aa(lp280
+VYou'll notice, which was also in my test report,
+p281
+aVall the dominant lighting is coming from the north side,
+p282
+aVwhich means that the shooter's face would
+p283
+aVhave been photo-occluded. It would have been backlit.
+p284
+aVFurthermore, the roof of the car
+p285
+aVis causing what we call a shadow cloud inside the car
+p286
+aVwhich is making it darker.
+p287
+aVAnd this is three to four feet away.
+p288
+aa(lp289
+VWhy did I take the risk?
+p290
+aVI knew that the depth of field was 18 inches or less.
+p291
+aVThree to four feet, it might as well have been
+p292
+aVa football field away.
+p293
+aVThis is what he saw.
+p294
+aVHe went back, there was a few more days of evidence
+p295
+aVthat was heard. At the end of it,
+p296
+aVhe made the judgment that he was going to grant
+p297
+aVthe petition for a retrial.
+p298
+aVAnd furthermore, he released Mr. Carrillo
+p299
+aVso that he could aid in the preparation of his own defense
+p300
+aVif the prosecution decided to retry him.
+p301
+aa(lp302
+VWhich they decided not to.
+p303
+aVHe is now a freed man. (Applause)
+p304
+aa(lp305
+V(Applause)
+p306
+aa(lp307
+VThis is him embracing his grandmother-in-law.
+p308
+aVHe \u2014 His girlfriend was pregnant when he went to trial,
+p309
+aVright? And she had a little baby boy.
+p310
+aVHe and his son are both attending Cal State, Long Beach
+p311
+aVright now taking classes. (Applause)
+p312
+aa(lp313
+VAnd what does this example \u2014
+p314
+aVwhat's important to keep in mind for ourselves?
+p315
+aa(lp316
+VFirst of all, there's a long history of antipathy
+p317
+aVbetween science and the law
+p318
+aVin American jurisprudence.
+p319
+aVI could regale you with horror stories of ignorance
+p320
+aVover decades of experience as a forensic expert
+p321
+aVof just trying to get science into the courtroom.
+p322
+aVThe opposing council always fight it and oppose it.
+p323
+aa(lp324
+VOne suggestion is that all of us become much more
+p325
+aVattuned to the necessity, through policy,
+p326
+aVthrough procedures,
+p327
+aVto get more science in the courtroom,
+p328
+aVand I think one large step toward that
+p329
+aVis more requirements,
+p330
+aVwith all due respect to the law schools,
+p331
+aVof science, technology, engineering, mathematics
+p332
+aVfor anyone going into the law,
+p333
+aVbecause they become the judges.
+p334
+aVThink about how we select our judges in this country.
+p335
+aVIt's very different than most other cultures. All right?
+p336
+aa(lp337
+VThe other one that I want to suggest,
+p338
+aVthe caution that all of us have to have,
+p339
+aVI constantly have to remind myself,
+p340
+aVabout just how accurate are the memories
+p341
+aVthat we know are true, that we believe in?
+p342
+aVThere is decades of research,
+p343
+aVexamples and examples of cases like this,
+p344
+aVwhere individuals
+p345
+aVreally, really believe. None of those teenagers
+p346
+aVwho identified him
+p347
+aVthought that they were picking the wrong person.
+p348
+aVNone of them thought they couldn't see the person's face.
+p349
+aVWe all have to be very careful.
+p350
+aVAll our memories are reconstructed memories.
+p351
+aVThey are the product of what we originally experienced
+p352
+aVand everything that's happened afterwards.
+p353
+aVThey're dynamic.
+p354
+aVThey're malleable. They're volatile,
+p355
+aVand as a result, we all need to remember to be cautious,
+p356
+aVthat the accuracy of our memories
+p357
+aVis not measured in how vivid they are
+p358
+aVnor how certain you are that they're correct.
+p359
+aa(lp360
+VThank you. (Applause)
+p361
+aasS'id'
+p362
+I1560
+sS'title'
+p363
+VWhy eyewitnesses get it wrong
+p364
+s.

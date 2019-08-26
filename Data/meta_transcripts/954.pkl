@@ -1,0 +1,932 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIf you really want to understand
+p4
+aVthe problem that we're facing with the oceans,
+p5
+aVyou have to think about the biology
+p6
+aVat the same time you think about the physics.
+p7
+aVWe can't solve the problems
+p8
+aVunless we start studying the ocean
+p9
+aVin a very much more interdisciplinary way.
+p10
+aVSo I'm going to demonstrate that through
+p11
+aVdiscussion of some of the climate change things that are going on in the ocean.
+p12
+aVWe'll look at sea level rise.
+p13
+aVWe'll look at ocean warming.
+p14
+aVAnd then the last thing on the list there, ocean acidification \u2014
+p15
+aVif you were to ask me, you know, "What do you worry about the most?
+p16
+aVWhat frightens you?"
+p17
+aVfor me, it's ocean acidification.
+p18
+aVAnd this has come onto the stage pretty recently.
+p19
+aVSo I will spend a little time at the end.
+p20
+aa(lp21
+VI was in Copenhagen in December
+p22
+aVlike a number of you in this room.
+p23
+aVAnd I think we all found it, simultaneously,
+p24
+aVan eye-opening
+p25
+aVand a very frustrating experience.
+p26
+aVI sat in this large negotiation hall,
+p27
+aVat one point, for three or four hours,
+p28
+aVwithout hearing the word "oceans" one time.
+p29
+aVIt really wasn't on the radar screen.
+p30
+aVThe nations that brought it up
+p31
+aVwhen we had the speeches of the national leaders \u2014
+p32
+aVit tended to be the leaders of the small island states,
+p33
+aVthe low-lying island states.
+p34
+aVAnd by this weird quirk
+p35
+aVof alphabetical order of the nations,
+p36
+aVa lot of the low-lying states,
+p37
+aVlike Kiribati and Nauru,
+p38
+aVthey were seated at the very end of these immensely long rows.
+p39
+aVYou know, they were marginalized
+p40
+aVin the negotiation room.
+p41
+aa(lp42
+VOne of the problems
+p43
+aVis coming up with the right target.
+p44
+aVIt's not clear what the target should be.
+p45
+aVAnd how can you figure out how to fix something
+p46
+aVif you don't have a clear target?
+p47
+aVNow, you've heard about "two degrees":
+p48
+aVthat we should limit temperature rise to no more than two degrees.
+p49
+aVBut there's not a lot of science behind that number.
+p50
+aVWe've also talked about
+p51
+aVconcentrations of carbon dioxide in the atmosphere.
+p52
+aVShould it be 450? Should it be 400?
+p53
+aVThere's not a lot of science behind that one either.
+p54
+aVMost of the science that is behind these numbers,
+p55
+aVthese potential targets,
+p56
+aVis based on studies on land.
+p57
+aVAnd I would say, for the people that work in the ocean
+p58
+aVand think about what the targets should be,
+p59
+aVwe would argue that they must be much lower.
+p60
+aVYou know, from an oceanic perspective,
+p61
+aV450 is way too high.
+p62
+aVNow there's compelling evidence
+p63
+aVthat it really needs to be 350.
+p64
+aVWe are, right now, at 390 parts per million
+p65
+aVof CO2 in the atmosphere.
+p66
+aVWe're not going to put the brakes on in time to stop at 450,
+p67
+aVso we've got to accept we're going to do an overshoot,
+p68
+aVand the discussion as we go forward
+p69
+aVhas to focus on how far the overshoot goes
+p70
+aVand what's the pathway back to 350.
+p71
+aa(lp72
+VNow, why is this so complicated?
+p73
+aVWhy don't we know some of these things a little bit better?
+p74
+aVWell, the problem is that
+p75
+aVwe've got very complicated forces in the climate system.
+p76
+aVThere's all kinds of natural causes of climate change.
+p77
+aVThere's air-sea interactions.
+p78
+aVHere in Galapagos,
+p79
+aVwe're affected by El Ninos and La Nina.
+p80
+aVBut the entire planet warms up when there's a big El Nino.
+p81
+aVVolcanoes eject aerosols into the atmosphere.
+p82
+aVThat changes our climate.
+p83
+aVThe ocean contains most of the exchangeable heat on the planet.
+p84
+aVSo anything that influences
+p85
+aVhow ocean surface waters mix with the deep water
+p86
+aVchanges the ocean of the planet.
+p87
+aVAnd we know the solar output's not constant through time.
+p88
+aVSo those are all natural causes of climate change.
+p89
+aVAnd then we have the human-induced causes
+p90
+aVof climate change as well.
+p91
+aVWe're changing the characteristics of the surface of the land,
+p92
+aVthe reflectivity.
+p93
+aVWe inject our own aerosols into the atmosphere,
+p94
+aVand we have trace gases, and not just carbon dioxide \u2014
+p95
+aVit's methane, ozone,
+p96
+aVoxides of sulfur and nitrogen.
+p97
+aa(lp98
+VSo here's the thing. It sounds like a simple question.
+p99
+aVIs CO2 produced by man's activities
+p100
+aVcausing the planet to warm up?
+p101
+aVBut to answer that question,
+p102
+aVto make a clear attribution to carbon dioxide,
+p103
+aVyou have to know something about
+p104
+aVall of these other agents of change.
+p105
+aVBut the fact is we do know a lot about all of those things.
+p106
+aVYou know, thousands of scientists
+p107
+aVhave been working on understanding
+p108
+aVall of these man-made causes
+p109
+aVand the natural causes.
+p110
+aVAnd we've got it worked out, and we can say,
+p111
+aV"Yes, CO2 is causing the planet to warm up now."
+p112
+aVNow, we have many ways to study natural variability.
+p113
+aVI'll show you a few examples of this now.
+p114
+aa(lp115
+VThis is the ship that I spent the last three months on in the Antarctic.
+p116
+aVIt's a scientific drilling vessel.
+p117
+aVWe go out for months at a time and drill into the sea bed
+p118
+aVto recover sediments
+p119
+aVthat tell us stories of climate change, right.
+p120
+aVLike one of the ways to understand our greenhouse future
+p121
+aVis to drill down in time
+p122
+aVto the last period
+p123
+aVwhere we had CO2 double what it is today.
+p124
+aVAnd so that's what we've done with this ship.
+p125
+aVThis was \u2014 this is south of the Antarctic Circle.
+p126
+aVIt looks downright tropical there.
+p127
+aVOne day where we had calm seas and sun,
+p128
+aVwhich was the reason I could get off the ship.
+p129
+aVMost of the time it looked like this.
+p130
+aVWe had a waves up to 50 ft.
+p131
+aVand winds averaging
+p132
+aVabout 40 knots for most of the voyage
+p133
+aVand up to 70 or 80 knots.
+p134
+aa(lp135
+VSo that trip just ended,
+p136
+aVand I can't show you too many results from that right now,
+p137
+aVbut we'll go back one more year,
+p138
+aVto another drilling expedition I've been involved in.
+p139
+aVThis was led by Ross Powell and Tim Naish.
+p140
+aVIt's the ANDRILL project.
+p141
+aVAnd we made the very first bore hole
+p142
+aVthrough the largest floating ice shelf on the planet.
+p143
+aVThis is a crazy thing, this big drill rig wrapped in a blanket
+p144
+aVto keep everybody warm,
+p145
+aVdrilling at temperatures of minus 40.
+p146
+aVAnd we drilled in the Ross Sea.
+p147
+aVThat's the Ross Sea Ice Shelf on the right there.
+p148
+aVSo, this huge floating ice shelf
+p149
+aVthe size of Alaska
+p150
+aVcomes from West Antarctica.
+p151
+aVNow, West Antarctica is the part of the continent
+p152
+aVwhere the ice is grounded on sea floor
+p153
+aVas much as 2,000 meters deep.
+p154
+aVSo that ice sheet is partly floating,
+p155
+aVand it's exposed to the ocean, to the ocean heat.
+p156
+aa(lp157
+VThis is the part of Antarctica that we worry about.
+p158
+aVBecause it's partly floating, you can imagine,
+p159
+aVis sea level rises a little bit,
+p160
+aVthe ice lifts off the bed, and then it can break off and float north.
+p161
+aVWhen that ice melts, sea level rises by six meters.
+p162
+aVSo we drill back in time to see how often that's happened,
+p163
+aVand exactly how fast that ice can melt.
+p164
+aVHere's the cartoon on the left there.
+p165
+aVWe drilled through a hundred meters of floating ice shelf
+p166
+aVthen through 900 meters of water
+p167
+aVand then 1,300 meters into the sea floor.
+p168
+aVSo it's the deepest geological bore hole ever drilled.
+p169
+aa(lp170
+VIt took about 10 years to put this project together.
+p171
+aVAnd here's what we found.
+p172
+aVNow, there's 40 scientists working on this project,
+p173
+aVand people are doing all kinds of really complicated
+p174
+aVand expensive analyses.
+p175
+aVBut it turns out, you know, the thing that told the best story
+p176
+aVwas this simple visual description.
+p177
+aVYou know, we saw this in the core samples as they came up.
+p178
+aVWe saw these alternations
+p179
+aVbetween sediments that look like this \u2014
+p180
+aVthere's gravel and cobbles in there
+p181
+aVand a bunch of sand.
+p182
+aVThat's the kind of material in the deep sea.
+p183
+aVIt can only get there if it's carried out by ice.
+p184
+aVSo we know there's an ice shelf overhead.
+p185
+aVAnd that alternates with a sediment that looks like this.
+p186
+aVThis is absolutely beautiful stuff.
+p187
+aVThis sediment is 100 percent made up
+p188
+aVof the shells of microscopic plants.
+p189
+aVAnd these plants need sunlight,
+p190
+aVso we know when we find that sediment
+p191
+aVthere's no ice overhead.
+p192
+aVAnd we saw about 35 alternations
+p193
+aVbetween open water and ice-covered water,
+p194
+aVbetween gravels and these plant sediments.
+p195
+aa(lp196
+VSo what that means is, what it tells us
+p197
+aVis that the Ross Sea region, this ice shelf,
+p198
+aVmelted back and formed anew
+p199
+aVabout 35 times.
+p200
+aVAnd this is in the past four million years.
+p201
+aVThis was completely unexpected.
+p202
+aVNobody imagined that the West Antarctic Ice Sheet
+p203
+aVwas this dynamic.
+p204
+aVIn fact, the lore for many years has been,
+p205
+aV"The ice formed many tens of millions of years ago,
+p206
+aVand it's been there ever since."
+p207
+aVAnd now we know that in our recent past
+p208
+aVit melted back and formed again,
+p209
+aVand sea level went up and down, six meters at a time.
+p210
+aa(lp211
+VWhat caused it?
+p212
+aVWell, we're pretty sure that it's very small changes
+p213
+aVin the amount of sunlight reaching Antarctica,
+p214
+aVjust caused by natural changes in the orbit of the Earth.
+p215
+aVBut here's the key thing:
+p216
+aVyou know, the other thing we found out
+p217
+aVis that the ice sheet passed a threshold,
+p218
+aVthat the planet warmed up enough \u2014
+p219
+aVand the number's about one degree to one and a half degrees Centigrade \u2014
+p220
+aVthe planet warmed up enough that it became ...
+p221
+aVthat ice sheet became very dynamic
+p222
+aVand was very easily melted.
+p223
+aVAnd you know what?
+p224
+aVWe've actually changed the temperature in the last century
+p225
+aVjust the right amount.
+p226
+aVSo many of us are convinced now
+p227
+aVthat West Antarctica, the West Antarctic Ice Sheet, is starting to melt.
+p228
+aVWe do expect to see a sea-level rise
+p229
+aVon the order of one to two meters by the end of this century.
+p230
+aVAnd it could be larger than that.
+p231
+aVThis is a serious consequence
+p232
+aVfor nations like Kiribati,
+p233
+aVyou know, where the average elevation
+p234
+aVis about a little over a meter above sea level.
+p235
+aa(lp236
+VOkay, the second story takes place here in Galapagos.
+p237
+aVThis is a bleached coral,
+p238
+aVcoral that died during the 1982-'83 El Nino.
+p239
+aVThis is from Champion Island.
+p240
+aVIt's about a meter tall Pavona clavus colony.
+p241
+aVAnd it's covered with algae. That's what happens.
+p242
+aVWhen these things die,
+p243
+aVimmediately, organisms come in
+p244
+aVand encrust and live on that dead surface.
+p245
+aVAnd so, when a coral colony is killed
+p246
+aVby an El Nino event,
+p247
+aVit leaves this indelible record.
+p248
+aVYou can go then and study corals
+p249
+aVand figure out how often do you see this.
+p250
+aVSo one of the things thought of in the '80s
+p251
+aVwas to go back and take cores
+p252
+aVof coral heads throughout the Galapagos
+p253
+aVand find out how often was there a devastating event.
+p254
+aVAnd just so you know, 1982-'83,
+p255
+aVthat El Nino killed 95 percent
+p256
+aVof all the corals here in Galapagos.
+p257
+aVThen there was similar mortality in '97-'98.
+p258
+aVAnd what we found
+p259
+aVafter drilling back in time two to 400 years
+p260
+aVwas that these were unique events.
+p261
+aVWe saw no other mass mortality events.
+p262
+aVSo these events in our recent past really are unique.
+p263
+aVSo they're either just truly monster El Ninos,
+p264
+aVor they're just very strong El Ninos
+p265
+aVthat occurred against a backdrop of global warming.
+p266
+aVEither case, it's bad news
+p267
+aVfor the corals of the Galapagos Islands.
+p268
+aa(lp269
+VHere's how we sample the corals.
+p270
+aVThis is actually Easter Island. Look at this monster.
+p271
+aVThis coral is eight meters tall, right.
+p272
+aVAnd it been growing for about 600 years.
+p273
+aVNow, Sylvia Earle turned me on to this exact same coral.
+p274
+aVAnd she was diving here with John Lauret \u2014 I think it was 1994 \u2014
+p275
+aVand collected a little nugget and sent it to me.
+p276
+aVAnd we started working on it,
+p277
+aVand we figured out we could tell the temperature of the ancient ocean
+p278
+aVfrom analyzing a coral like this.
+p279
+aVSo we have a diamond drill.
+p280
+aVWe're not killing the colony; we're taking a small core sample out of the top.
+p281
+aVThe core comes up as these cylindrical tubes of limestone.
+p282
+aVAnd that material then we take back to the lab and analyze it.
+p283
+aVYou can see some of the coral cores there on the right.
+p284
+aa(lp285
+VSo we've done that all over the Eastern Pacific.
+p286
+aVWe're starting to do it in the Western Pacific as well.
+p287
+aVI'll take you back here to the Galapagos Islands.
+p288
+aVAnd we've been working at this fascinating uplift here in Urbina Bay.
+p289
+aVThat the place where,
+p290
+aVduring an earthquake in 1954,
+p291
+aVthis marine terrace was lifted up
+p292
+aVout of the ocean very quickly,
+p293
+aVand it was lifted up about six to seven meters.
+p294
+aVAnd so now you can walk through a coral reef without getting wet.
+p295
+aVIf you go on the ground there, it looks like this,
+p296
+aVand this is the grandaddy coral.
+p297
+aVIt's 11 meters in diameter,
+p298
+aVand we know that it started growing
+p299
+aVin the year 1584.
+p300
+aVImagine that.
+p301
+aVAnd that coral was growing happily in those shallow waters,
+p302
+aVuntil 1954, when the earthquake happened.
+p303
+aa(lp304
+VNow the reason we know it's 1584
+p305
+aVis that these corals have growth bands.
+p306
+aVWhen you cut them, slice those cores in half and x-ray them,
+p307
+aVyou see these light and dark bands.
+p308
+aVEach one of those is a year.
+p309
+aVWe know these corals grow about a centimeter and a half a year.
+p310
+aVAnd we just count on down to the bottom.
+p311
+aVThen their other attribute is
+p312
+aVthat they have this great chemistry.
+p313
+aVWe can analyze the carbonate
+p314
+aVthat makes up the coral,
+p315
+aVand there's a whole bunch of things we can do.
+p316
+aVBut in this case, we measured the different isotopes of oxygen.
+p317
+aVTheir ratio tells us the water temperature.
+p318
+aVIn this example here,
+p319
+aVwe had monitored this reef in Galapagos
+p320
+aVwith temperature recorders,
+p321
+aVso we know the temperature of the water the coral's growing in.
+p322
+aVThen after we harvest a coral, we measure this ratio,
+p323
+aVand now you can see, those curves match perfectly.
+p324
+aa(lp325
+VIn this case, at these islands,
+p326
+aVyou know, corals
+p327
+aVare instrumental-quality recorders of change in the water.
+p328
+aVAnd of course, our thermometers
+p329
+aVonly take us back 50 years or so here.
+p330
+aVThe coral can take us back
+p331
+aVhundreds and thousands of years.
+p332
+aVSo, what we do:
+p333
+aVwe've merged a lot of different data sets.
+p334
+aVIt's not just my group; there's maybe 30 groups worldwide doing this.
+p335
+aVBut we get these instrumental- and near-instrumental-quality records
+p336
+aVof temperature change that go back hundreds of years,
+p337
+aVand we put them together.
+p338
+aVHere's a synthetic diagram.
+p339
+aVThere's a whole family of curves here.
+p340
+aa(lp341
+VBut what's happening: we're looking at the last thousand years
+p342
+aVof temperature on the planet.
+p343
+aVAnd there's five or six different compilations there,
+p344
+aVBut each one of those compilations reflects input
+p345
+aVfrom hundreds of these kinds of records from corals.
+p346
+aVWe do similar things with ice cores.
+p347
+aVWe work with tree rings.
+p348
+aVAnd that's how we discover
+p349
+aVwhat is truly natural
+p350
+aVand how different is the last century, right?
+p351
+aVAnd I chose this one
+p352
+aVbecause it's complicated and messy looking, right.
+p353
+aVThis is as messy as it gets.
+p354
+aVYou can see there's some signals there.
+p355
+aVSome of the records
+p356
+aVshow lower temperatures than others.
+p357
+aVSome of them show greater variability.
+p358
+aVBut they all tell us
+p359
+aVwhat the natural variability is.
+p360
+aVSome of them are from the northern hemisphere;
+p361
+aVsome are from the entire globe.
+p362
+aa(lp363
+VBut here's what we can say:
+p364
+aVwhat's natural in the last thousand years is that the planet was cooling down.
+p365
+aVIt was cooling down
+p366
+aVuntil about 1900 or so.
+p367
+aVAnd there is natural variability
+p368
+aVcaused by the Sun, caused by El Ninos.
+p369
+aVA century-scale, decadal-scale variability,
+p370
+aVand we know the magnitude;
+p371
+aVit's about two-tenths to four-tenths of a degree Centigrade.
+p372
+aVBut then at the very end is where
+p373
+aVwe have the instrumental record in black.
+p374
+aVAnd there's the temperature up there in 2009.
+p375
+aVYou know, we've warmed the globe
+p376
+aVabout a degree Centigrade in the last century,
+p377
+aVand there's nothing
+p378
+aVin the natural part of that record
+p379
+aVthat resembles what we've seen in the last century.
+p380
+aVYou know, that's the strength of our argument,
+p381
+aVthat we are doing something that's truly different.
+p382
+aa(lp383
+VSo I'll close with a short discussion
+p384
+aVof ocean acidification.
+p385
+aVI like it as a component of global change to talk about,
+p386
+aVbecause, even if you are a hard-bitten global warming skeptic,
+p387
+aVand I talk to that community fairly often,
+p388
+aVyou cannot deny
+p389
+aVthe simple physics
+p390
+aVof CO2 dissolving in the ocean.
+p391
+aVYou know, we're pumping out lots of CO2 into the atmosphere,
+p392
+aVfrom fossil fuels, from cement production.
+p393
+aVRight now, about a third of that carbon dioxide
+p394
+aVis dissolving straight into the sea, right?
+p395
+aVAnd as it does so,
+p396
+aVit makes the ocean more acidic.
+p397
+aVSo, you cannot argue with that.
+p398
+aVThat is what's happening right now,
+p399
+aVand it's a very different issue
+p400
+aVthan the global warming issue.
+p401
+aVIt has many consequences.
+p402
+aa(lp403
+VThere's consequences for carbonate organisms.
+p404
+aVThere are many organisms
+p405
+aVthat build their shells out of calcium carbonate \u2014
+p406
+aVplants and animals both.
+p407
+aVThe main framework material of coral reefs
+p408
+aVis calcium carbonate.
+p409
+aVThat material is more soluble
+p410
+aVin acidic fluid.
+p411
+aVSo one of the things we're seeing
+p412
+aVis organisms are having
+p413
+aVto spend more metabolic energy
+p414
+aVto build and maintain their shells.
+p415
+aVAt some point, as this transience,
+p416
+aVas this CO2 uptake in the ocean continues,
+p417
+aVthat material's actually going to start to dissolve.
+p418
+aVAnd on coral reefs,
+p419
+aVwhere some of the main framework organisms disappear,
+p420
+aVwe will see a major loss
+p421
+aVof marine biodiversity.
+p422
+aVBut it's not just the carbonate producers that are affected.
+p423
+aVThere's many physiological processes
+p424
+aVthat are influenced by the acidity of the ocean.
+p425
+aVSo many reactions involving enzymes and proteins
+p426
+aVare sensitive to the acid content of the ocean.
+p427
+aVSo, all of these things \u2014
+p428
+aVgreater metabolic demands,
+p429
+aVreduced reproductive success,
+p430
+aVchanges in respiration and metabolism.
+p431
+aVYou know, these are things that we have good physiological reasons
+p432
+aVto expect to see stressed
+p433
+aVcaused by this transience.
+p434
+aa(lp435
+VSo we figured out some pretty interesting ways
+p436
+aVto track CO2 levels in the atmosphere,
+p437
+aVgoing back millions of years.
+p438
+aVWe used to do it just with ice cores,
+p439
+aVbut in this case, we're going back 20 million years.
+p440
+aVAnd we take samples of the sediment,
+p441
+aVand it tells us the CO2 level of the ocean,
+p442
+aVand therefore the CO2 level of the atmosphere.
+p443
+aVAnd here's the thing:
+p444
+aVyou have to go back about 15 million years
+p445
+aVto find a time when CO2 levels
+p446
+aVwere about what they are today.
+p447
+aVYou have to go back about 30 million years
+p448
+aVto find a time when CO2 levels
+p449
+aVwere double what they are today.
+p450
+aVNow, what that means is
+p451
+aVthat all of the organisms that live in the sea
+p452
+aVhave evolved in this chemostatted ocean,
+p453
+aVwith CO2 levels lower than they are today.
+p454
+aVThat's the reason that they're not able to respond or adapt
+p455
+aVto this rapid acidification
+p456
+aVthat's going on right now.
+p457
+aa(lp458
+VSo, Charlie Veron
+p459
+aVcame up with this statement last year:
+p460
+aV"The prospect of ocean acidification
+p461
+aVmay well be the most serious
+p462
+aVof all of the predicted outcomes
+p463
+aVof anthropogenic CO2 release."
+p464
+aVAnd I think that may very well be true,
+p465
+aVso I'll close with this.
+p466
+aVYou know, we do need the protected areas, absolutely,
+p467
+aVbut for the sake of the oceans,
+p468
+aVwe have to cap or limit CO2 emissions
+p469
+aVas soon as possible.
+p470
+aa(lp471
+VThank you very much.
+p472
+aa(lp473
+V(Applause)
+p474
+aasS'id'
+p475
+I954
+sS'title'
+p476
+VDiscovering ancient climates in oceans and ice
+p477
+s.

@@ -1,0 +1,259 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VTake a look at this drawing.
+p4
+aVCan you tell what it is?
+p5
+aVI'm a molecular biologist by training,
+p6
+aVand I've seen a lot of these kinds of drawings.
+p7
+aVThey're usually referred to as a model figure,
+p8
+aVa drawing that shows how we think
+p9
+aVa cellular or molecular process occurs.
+p10
+aVThis particular drawing is of a process
+p11
+aVcalled clathrin-mediated endocytosis.
+p12
+aVIt's a process by which a molecule can get
+p13
+aVfrom the outside of the cell to the inside
+p14
+aVby getting captured in a bubble or a vesicle
+p15
+aVthat then gets internalized by the cell.
+p16
+aVThere's a problem with this drawing, though,
+p17
+aVand it's mainly in what it doesn't show.
+p18
+aVFrom lots of experiments,
+p19
+aVfrom lots of different scientists,
+p20
+aVwe know a lot about what these molecules look like,
+p21
+aVhow they move around in the cell,
+p22
+aVand that this is all taking place
+p23
+aVin an incredibly dynamic environment.
+p24
+aa(lp25
+VSo in collaboration with a clathrin expert Tomas Kirchhausen,
+p26
+aVwe decided to create a new kind of model figure
+p27
+aVthat showed all of that.
+p28
+aVSo we start outside of the cell.
+p29
+aVNow we're looking inside.
+p30
+aVClathrin are these three-legged molecules
+p31
+aVthat can self-assemble into soccer-ball-like shapes.
+p32
+aVThrough connections with a membrane,
+p33
+aVclathrin is able to deform the membrane
+p34
+aVand form this sort of a cup
+p35
+aVthat forms this sort of a bubble, or a vesicle,
+p36
+aVthat's now capturing some of the proteins
+p37
+aVthat were outside of the cell.
+p38
+aVProteins are coming in now that basically pinch off this vesicle,
+p39
+aVmaking it separate from the rest of the membrane,
+p40
+aVand now clathrin is basically done with its job,
+p41
+aVand so proteins are coming in now \u2014
+p42
+aVwe've covered them yellow and orange \u2014
+p43
+aVthat are responsible for taking apart this clathrin cage.
+p44
+aVAnd so all of these proteins can get basically recycled
+p45
+aVand used all over again.
+p46
+aa(lp47
+VThese processes are too small to be seen directly,
+p48
+aVeven with the best microscopes,
+p49
+aVso animations like this provide a really powerful way
+p50
+aVof visualizing a hypothesis.
+p51
+aa(lp52
+VHere's another illustration,
+p53
+aVand this is a drawing of how a researcher might think
+p54
+aVthat the HIV virus gets into and out of cells.
+p55
+aVAnd again, this is a vast oversimplification
+p56
+aVand doesn't begin to show
+p57
+aVwhat we actually know about these processes.
+p58
+aa(lp59
+VYou might be surprised to know
+p60
+aVthat these simple drawings are the only way
+p61
+aVthat most biologists visualize their molecular hypotheses.
+p62
+aVWhy?
+p63
+aVBecause creating movies of processes
+p64
+aVas we think they actually occur is really hard.
+p65
+aVI spent months in Hollywood learning 3D animation software,
+p66
+aVand I spend months on each animation,
+p67
+aVand that's just time that most researchers can't afford.
+p68
+aVThe payoffs can be huge, though.
+p69
+aVMolecular animations are unparalleled
+p70
+aVin their ability to convey a great deal of information
+p71
+aVto broad audiences with extreme accuracy.
+p72
+aVAnd I'm working on a new project now
+p73
+aVcalled "The Science of HIV"
+p74
+aVwhere I'll be animating the entire life cycle
+p75
+aVof the HIV virus as accurately as possible
+p76
+aVand all in molecular detail.
+p77
+aVThe animation will feature data
+p78
+aVfrom thousands of researchers collected over decades,
+p79
+aVdata on what this virus looks like,
+p80
+aVhow it's able to infect cells in our body,
+p81
+aVand how therapeutics are helping to combat infection.
+p82
+aa(lp83
+VOver the years, I found that animations
+p84
+aVaren't just useful for communicating an idea,
+p85
+aVbut they're also really useful
+p86
+aVfor exploring a hypothesis.
+p87
+aVBiologists for the most part are still using a paper and pencil
+p88
+aVto visualize the processes they study,
+p89
+aVand with the data we have now, that's just not good enough anymore.
+p90
+aVThe process of creating an animation
+p91
+aVcan act as a catalyst that allows researchers
+p92
+aVto crystalize and refine their own ideas.
+p93
+aVOne researcher I worked with
+p94
+aVwho works on the molecular mechanisms
+p95
+aVof neurodegenerative diseases
+p96
+aVcame up with experiments that were related
+p97
+aVdirectly to the animation that she and I worked on together,
+p98
+aVand in this way, animation can feed back into the research process.
+p99
+aa(lp100
+VI believe that animation can change biology.
+p101
+aVIt can change the way that we communicate with one another,
+p102
+aVhow we explore our data
+p103
+aVand how we teach our students.
+p104
+aVBut for that change to happen,
+p105
+aVwe need more researchers creating animations,
+p106
+aVand toward that end, I brought together a team
+p107
+aVof biologists, animators and programmers
+p108
+aVto create a new, free, open-source software \u2014
+p109
+aVwe call it Molecular Flipbook \u2014
+p110
+aVthat's created just for biologists
+p111
+aVjust to create molecular animations.
+p112
+aVFrom our testing, we've found that it only takes 15 minutes
+p113
+aVfor a biologist who has never touched animation software before
+p114
+aVto create her first molecular animation
+p115
+aVof her own hypothesis.
+p116
+aVWe're also building an online database
+p117
+aVwhere anyone can view, download and contribute
+p118
+aVtheir own animations.
+p119
+aVWe're really excited to announce
+p120
+aVthat the beta version of the molecular animation
+p121
+aVsoftware toolkit will be available for download today.
+p122
+aVWe are really excited to see what biologists will create with it
+p123
+aVand what new insights they're able to gain
+p124
+aVfrom finally being able to animate
+p125
+aVtheir own model figures.
+p126
+aa(lp127
+VThank you.
+p128
+aa(lp129
+V(Applause)
+p130
+aasS'id'
+p131
+I2052
+sS'title'
+p132
+VHow animations can help scientists test a hypothesis
+p133
+s.

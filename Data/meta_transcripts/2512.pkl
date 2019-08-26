@@ -1,0 +1,495 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhat do you see?
+p4
+aVMost of you see a barbershop,
+p5
+aVbut I see an opportunity:
+p6
+aVan opportunity for health,
+p7
+aVan opportunity for health equity.
+p8
+aa(lp9
+VFor black men, the barbershop is not just a place
+p10
+aVwhere you get your hair cut or your beard trimmed.
+p11
+aVNo, it's much more than that.
+p12
+aVHistorically, the barbershop has been a safe haven for black men.
+p13
+aVIt's a place where we go for friendship,
+p14
+aVsolidarity and solace.
+p15
+aVIt's a place where we go to get away from the stress
+p16
+aVof the grind of work
+p17
+aVand sometimes home life.
+p18
+aVIt's a place where we don't have to worry
+p19
+aVabout how we're being perceived by the outside world.
+p20
+aVIt's a place where we don't feel threatened,
+p21
+aVor threatening.
+p22
+aVIt's a place of loyalty and trust.
+p23
+aVFor that reason,
+p24
+aVit's one of the few places where we can fearlessly be ourselves
+p25
+aVand just ... talk.
+p26
+aVThe talk, the shop talk, the conversation,
+p27
+aVthat is the essence of the black barbershop.
+p28
+aa(lp29
+VI can remember going to the barbershop with my dad as a kid.
+p30
+aVWe went to Mr. Mike's barbershop every other Saturday.
+p31
+aVAnd like clockwork, the same group of men would be there
+p32
+aVevery time we went,
+p33
+aVeither waiting on their favorite barber
+p34
+aVor just soaking up the atmosphere.
+p35
+aa(lp36
+VI can remember the jovial greeting that warmly welcomed us
+p37
+aVevery time we went.
+p38
+aa(lp39
+V"Hey Rev," they would say to my dad.
+p40
+aVHe's a local pastor, and they treated him like a celebrity.
+p41
+aa(lp42
+V"Hey young fella, how you doing?"
+p43
+aVthey would say to me,
+p44
+aVmaking me feel just as special.
+p45
+aa(lp46
+VI remember the range of the conversations was immense.
+p47
+aVThe men would talk about politics and sports and music
+p48
+aVand world news, national news,
+p49
+aVneighborhood news.
+p50
+aVThere was some talk about women
+p51
+aVand what it was like to be a black man in America.
+p52
+aVBut many times they also talked about health.
+p53
+aVThe conversations about health were lengthy and deep.
+p54
+aVThe men often recounted their doctor's recommendations
+p55
+aVto cut salt in their diet
+p56
+aVor to eat less fried foods
+p57
+aVor to stop smoking
+p58
+aVor to reduce stress.
+p59
+aVThey talked about the different ways you could reduce stress,
+p60
+aVlike simplifying one's love life \u2014
+p61
+aa(lp62
+V(Laughter)
+p63
+aa(lp64
+Vall ways to treat high blood pressure.
+p65
+aa(lp66
+VThere's a lot of talk about high blood pressure in the barbershop.
+p67
+aVThat's because almost 40 percent of black men have it.
+p68
+aVThat means that almost every single black man
+p69
+aVeither has high blood pressure
+p70
+aVor knows a black man who has it.
+p71
+aa(lp72
+VSometimes, those conversations in the barbershop
+p73
+aVwould be about what happens when high blood pressure
+p74
+aVis not adequately addressed.
+p75
+aa(lp76
+V"Say, did you hear about Jimmy? He had a stroke."
+p77
+aa(lp78
+V"Did you hear about Eddie? He died last week.
+p79
+aVMassive heart attack.
+p80
+aVHe was 50."
+p81
+aa(lp82
+VMore black men die from high blood pressure than from anything else,
+p83
+aVeven though decades of medical wisdom and science have demonstrated
+p84
+aVthat death from high blood pressure can be prevented
+p85
+aVwith timely diagnosis and appropriate treatment.
+p86
+aa(lp87
+VSo why is high blood pressure so differentially deadly for black men?
+p88
+aVBecause too often, high blood pressure is either untreated
+p89
+aVor under-treated in black men,
+p90
+aVin part because of our lower engagement with the primary healthcare system.
+p91
+aVBlack men, in particular those with high blood pressure,
+p92
+aVare less likely to have a primary care doctor
+p93
+aVthan other groups.
+p94
+aa(lp95
+VBut why?
+p96
+aVSome of our earliest research on black men's health
+p97
+aVrevealed that for many, the doctor's office is associated with fear,
+p98
+aVmistrust,
+p99
+aVdisrespect,
+p100
+aVand unnecessary unpleasantness.
+p101
+aVThe doctor's office is only a place that you go when you don't feel well.
+p102
+aVAnd when you do go, you might wait for hours
+p103
+aVonly to get the run-around
+p104
+aVand to be evaluated by a stoic figure in a white coat
+p105
+aVwho only has 10 minutes to give you
+p106
+aVand who doesn't value the talk.
+p107
+aVSo it's no wonder that some men don't want to be bothered
+p108
+aVand skip going to the doctor altogether,
+p109
+aVespecially if they feel fine.
+p110
+aa(lp111
+VBut herein lies the problem.
+p112
+aVYou can feel just fine
+p113
+aVwhile high blood pressure ravages your most vital organs.
+p114
+aa(lp115
+VThis is Denny Moe,
+p116
+aVowner of Denny Moe's Superstar Barbershop in Harlem.
+p117
+aVI've been lucky enough to have Denny as my barber for the last eight years.
+p118
+aa(lp119
+VHe said to me once,
+p120
+aV"Hey Doc, you know,
+p121
+aVlots of black men trust their barbers more than they trust their doctors."
+p122
+aa(lp123
+VThis was stunning to me,
+p124
+aVat first,
+p125
+aVbut not so much when you think about it.
+p126
+aVBlack men have been with their current barbers
+p127
+aVon average as long as I've been with Denny,
+p128
+aVabout eight years.
+p129
+aVAnd black men see their barbers about every two weeks.
+p130
+aVNot only do you trust your barber with your look and with your style,
+p131
+aVbut you also trust him with your secrets and sometimes your life.
+p132
+aVDenny, like many barbers, is more than just an artist,
+p133
+aVa businessman and confidant.
+p134
+aVHe's a leader and a passionate advocate for the well-being of his community.
+p135
+aVThe very first time I walked into Denny Moe's shop,
+p136
+aVhe wasn't just cutting hair.
+p137
+aVHe was also orchestrating a voter registration drive
+p138
+aVto give a voice to his customers and his community.
+p139
+aa(lp140
+VWith this kind of activism,
+p141
+aVand community investment that typifies the black barbershop,
+p142
+aVof course the barbershop is a perfect place
+p143
+aVto talk about high blood pressure and other health concerns in the community.
+p144
+aa(lp145
+VFirst, the barbershop is not a medical setting,
+p146
+aVand so it doesn't have all the negative psychological baggage
+p147
+aVthat comes along with that.
+p148
+aVWhen you're in a barbershop,
+p149
+aVyou're in your territory, and you're among friends
+p150
+aVwho share your history,
+p151
+aVyour struggle and your health risks.
+p152
+aa(lp153
+VSecond, because the barbershop is a place of connection,
+p154
+aVloyalty and trust,
+p155
+aVit's a place where you're more open to have a conversation about health
+p156
+aVand especially about high blood pressure.
+p157
+aVAfter all,
+p158
+aVconversations about high blood pressure have all the elements of great shop talk:
+p159
+aVstress and high blood pressure,
+p160
+aVfood and high blood pressure,
+p161
+aVrelationships and high blood pressure,
+p162
+aVand yes, what it's like to be a black man in America
+p163
+aVand high blood pressure.
+p164
+aa(lp165
+VBut you can do more than just talk about high blood pressure
+p166
+aVin the barbershop.
+p167
+aVYou can concretely take action.
+p168
+aVHere we have an opportunity to partner with the Denny Moe's of the world
+p169
+aVand empower communities to address the health inequities
+p170
+aVthat uniquely affect it.
+p171
+aVWhen high blood pressure screening expanded from clinics and hospitals
+p172
+aVto communities in the 1960s and '70s,
+p173
+aVblack physicians like Dr. Eli Saunders in Baltimore
+p174
+aVand Dr. Keith Ferdinand in New Orleans
+p175
+aVwere at the forefront of bringing health promotion to community hubs
+p176
+aVin urban black neighborhoods.
+p177
+aa(lp178
+VThese pioneers paved the way for my professional journey
+p179
+aVwith barbershops and health,
+p180
+aVwhich began in Chicago in medical school.
+p181
+aa(lp182
+VThe very first research project that I worked on as a medical student
+p183
+aVwas to help design healthcare interventions
+p184
+aVthat would appeal to black men.
+p185
+aVWe conducted about a dozen focus groups
+p186
+aVwith a broad cross-section of black men,
+p187
+aVand we learned that for them,
+p188
+aVbeing healthy was as much about being perceived as healthy
+p189
+aVas it was about feeling healthy,
+p190
+aVand that feeling good went hand in hand with looking good.
+p191
+aVThis work led to the development of Project Brotherhood,
+p192
+aVa community clinic founded by Dr. Eric Whitaker
+p193
+aVthat provided tailored healthcare to black men.
+p194
+aVPart of this tailored care
+p195
+aVinvolved having a barber on the premises
+p196
+aVto reward the men who came for needed healthcare
+p197
+aVwith a free haircut,
+p198
+aVto let the men know that we, too, valued how they looked
+p199
+aVas well as how they felt,
+p200
+aVand that what was important to them was also important to us.
+p201
+aa(lp202
+VBut while there's only one Project Brotherhood,
+p203
+aVthere are thousands of black barbershops
+p204
+aVwhere the intersection of health and haircuts can be cultivated.
+p205
+aVThe next stop on my journey was Dallas, Texas,
+p206
+aVwhere we learned that barbers were not only willing
+p207
+aVbut fully able to roll up their sleeves and participate
+p208
+aVin delivering needed health services to improve the health of their customers
+p209
+aVand their community.
+p210
+aVWe teamed up with an amazing cadre of black barbers
+p211
+aVand taught them how to measure blood pressure
+p212
+aVand how to counsel their customers
+p213
+aVand refer them to doctors
+p214
+aVto help manage high blood pressure.
+p215
+aVThe barbers were not only willing to do it
+p216
+aVbut they were damn good at it.
+p217
+aVOver a three-year period,
+p218
+aVthe barbers measured thousands of blood pressures
+p219
+aVresulting in hundreds of black men being referred to doctors
+p220
+aVfor medical care of their high blood pressure.
+p221
+aVThese barber-doctor partnerships
+p222
+aVresulted in a 20 percent increase in the number of men
+p223
+aVwho were able to achieve target blood pressure levels
+p224
+aVand a three-point drop, on average,
+p225
+aVin the blood pressure of each participant.
+p226
+aVIf we were to extrapolate that three point drop
+p227
+aVto every single black man with high blood pressure in America,
+p228
+aVwe would prevent 800 heart attacks, 500 strokes and 900 deaths
+p229
+aVfrom high blood pressure
+p230
+aVin just one year.
+p231
+aa(lp232
+VAnd our experience with barbershops has been no different in New York City,
+p233
+aVwhere my journey has currently led me.
+p234
+aVWith an incredible team of diverse research assistants,
+p235
+aVcommunity health workers and volunteers,
+p236
+aVwe've been able to partner with over 200 barbershops
+p237
+aVand other trusted community venues
+p238
+aVto reach over 7,000 older black men.
+p239
+aVAnd we've offered high blood pressure screening and counseling
+p240
+aVto each and every one of them.
+p241
+aVThanks to Denny Moe
+p242
+aVand the myriad other barbers and community leaders
+p243
+aVwho shared the vision of opportunity and empowerment
+p244
+aVto make a difference in their communities,
+p245
+aVwe've been able to not only lower blood pressure
+p246
+aVin our participants,
+p247
+aVbut we've also been able to impact other health indicators.
+p248
+aa(lp249
+VSo what do you see?
+p250
+aVWhat is your barbershop?
+p251
+aVWhere is that place for you
+p252
+aVwhere people who are affected by a unique problem
+p253
+aVcan meet a unique solution?
+p254
+aVWhen you find that place, see the opportunity.
+p255
+aa(lp256
+VThank you.
+p257
+aa(lp258
+V(Applause)
+p259
+aasS'id'
+p260
+I2512
+sS'title'
+p261
+VHow barbershops can keep men healthy
+p262
+s.

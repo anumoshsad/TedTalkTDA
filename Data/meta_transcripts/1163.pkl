@@ -1,0 +1,779 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhen I was growing up in Montana,
+p4
+aVI had two dreams.
+p5
+aVI wanted to be a paleontologist,
+p6
+aVa dinosaur paleontologist,
+p7
+aVand I wanted to have a pet dinosaur.
+p8
+aVAnd so that's what I've been striving for
+p9
+aVall of my life.
+p10
+aVI was very fortunate
+p11
+aVearly in my career.
+p12
+aVI was fortunate
+p13
+aVin finding things.
+p14
+aVI wasn't very good at reading things.
+p15
+aVIn fact, I don't read much of anything.
+p16
+aVI am extremely dyslexic,
+p17
+aVand so reading is the hardest thing I do.
+p18
+aVBut instead, I go out and I find things.
+p19
+aVThen I just pick things up.
+p20
+aVI basically practice for finding money on the street.
+p21
+aV(Laughter)
+p22
+aVAnd I wander about the hills,
+p23
+aVand I have found a few things.
+p24
+aa(lp25
+VAnd I have been fortunate enough
+p26
+aVto find things like the first eggs in the Western hemisphere
+p27
+aVand the first baby dinosaurs in nests,
+p28
+aVthe first dinosaur embryos
+p29
+aVand massive accumulations of bones.
+p30
+aVAnd it happened to be at a time
+p31
+aVwhen people were just starting to begin to realize
+p32
+aVthat dinosaurs weren't the big, stupid, green reptiles
+p33
+aVthat people had thought for so many years.
+p34
+aVPeople were starting to get an idea
+p35
+aVthat dinosaurs were special.
+p36
+aa(lp37
+VAnd so, at that time,
+p38
+aVI was able to make some interesting hypotheses
+p39
+aValong with my colleagues.
+p40
+aVWe were able to actually say
+p41
+aVthat dinosaurs \u2014 based on the evidence we had \u2014
+p42
+aVthat dinosaurs built nests
+p43
+aVand lived in colonies
+p44
+aVand cared for their young,
+p45
+aVbrought food to their babies
+p46
+aVand traveled in gigantic herds.
+p47
+aVSo it was pretty interesting stuff.
+p48
+aVI have gone on to find more things
+p49
+aVand discover that dinosaurs really were very social.
+p50
+aVWe have found a lot of evidence
+p51
+aVthat dinosaurs changed
+p52
+aVfrom when they were juveniles to when they were adults.
+p53
+aVThe appearance of them would have been different \u2014
+p54
+aVwhich it is in all social animals.
+p55
+aVIn social groups of animals,
+p56
+aVthe juveniles always look different than the adults.
+p57
+aVThe adults can recognize the juveniles;
+p58
+aVthe juveniles can recognize the adults.
+p59
+aVAnd so we're making a better picture
+p60
+aVof what a dinosaur looks like.
+p61
+aVAnd they didn't just all chase Jeeps around.
+p62
+aa(lp63
+V(Laughter)
+p64
+aa(lp65
+VBut it is that social thing
+p66
+aVthat I guess attracted Michael Crichton.
+p67
+aVAnd in his book, he talked about the social animals.
+p68
+aVAnd then Steven Spielberg, of course,
+p69
+aVdepicts these dinosaurs
+p70
+aVas being very social creatures.
+p71
+aVThe theme of this story is building a dinosaur,
+p72
+aVand so we come to that part of "Jurassic Park."
+p73
+aVMichael Crichton really was one of the first people
+p74
+aVto talk about bringing dinosaurs back to life.
+p75
+aVYou all know the story, right.
+p76
+aVI mean, I assume everyone here has seen "Jurassic Park."
+p77
+aa(lp78
+VIf you want to make a dinosaur,
+p79
+aVyou go out, you find yourself a piece of petrified tree sap \u2014
+p80
+aVotherwise known as amber \u2014
+p81
+aVthat has some blood-sucking insects in it,
+p82
+aVgood ones,
+p83
+aVand you get your insect and you drill into it
+p84
+aVand you suck out some DNA,
+p85
+aVbecause obviously all insects that sucked blood in those days
+p86
+aVsucked dinosaur DNA out.
+p87
+aVAnd you take your DNA back to the laboratory
+p88
+aVand you clone it.
+p89
+aVAnd I guess you inject it into maybe an ostrich egg,
+p90
+aVor something like that,
+p91
+aVand then you wait,
+p92
+aVand, lo and behold, out pops a little baby dinosaur.
+p93
+aVAnd everybody's happy about that.
+p94
+aV(Laughter)
+p95
+aVAnd they're happy over and over again.
+p96
+aVThey keep doing it; they just keep making these things.
+p97
+aVAnd then, then, then, and then ...
+p98
+aVThen the dinosaurs, being social,
+p99
+aVact out their socialness,
+p100
+aVand they get together,
+p101
+aVand they conspire.
+p102
+aVAnd, of course, that's what makes Steven Spielberg's movie \u2014
+p103
+aVconspiring dinosaurs chasing people around.
+p104
+aa(lp105
+VSo I assume everybody knows
+p106
+aVthat if you actually had a piece of amber and it had an insect in it,
+p107
+aVand you drilled into it,
+p108
+aVand you got something out of that insect,
+p109
+aVand you cloned it, and you did it over and over and over again,
+p110
+aVyou'd have a room full of mosquitos.
+p111
+aV(Laughter)
+p112
+aV(Applause)
+p113
+aVAnd probably a whole bunch of trees as well.
+p114
+aa(lp115
+VNow if you want dinosaur DNA,
+p116
+aVI say go to the dinosaur.
+p117
+aVSo that's what we've done.
+p118
+aVBack in 1993 when the movie came out,
+p119
+aVwe actually had a grant from the National Science Foundation
+p120
+aVto attempt to extract DNA from a dinosaur,
+p121
+aVand we chose the dinosaur on the left,
+p122
+aVa Tyrannosaurus rex, which was a very nice specimen.
+p123
+aVAnd one of my former doctoral students,
+p124
+aVDr. Mary Schweitzer,
+p125
+aVactually had the background
+p126
+aVto do this sort of thing.
+p127
+aVAnd so she looked into the bone of this T. rex,
+p128
+aVone of the thigh bones,
+p129
+aVand she actually found
+p130
+aVsome very interesting structures in there.
+p131
+aVThey found these red circular-looking objects,
+p132
+aVand they looked, for all the world,
+p133
+aVlike red blood cells.
+p134
+aVAnd they're in
+p135
+aVwhat appear to be the blood channels
+p136
+aVthat go through the bone.
+p137
+aVAnd so she thought, well, what the heck.
+p138
+aVSo she sampled some material out of it.
+p139
+aVNow it wasn't DNA; she didn't find DNA.
+p140
+aVBut she did find heme,
+p141
+aVwhich is the biological foundation
+p142
+aVof hemoglobin.
+p143
+aVAnd that was really cool.
+p144
+aVThat was interesting.
+p145
+aVThat was \u2014 here we have 65-million-year-old heme.
+p146
+aVWell we tried and tried
+p147
+aVand we couldn't really get anything else out of it.
+p148
+aa(lp149
+VSo a few years went by,
+p150
+aVand then we started the Hell Creek Project.
+p151
+aVAnd the Hell Creek Project was this massive undertaking
+p152
+aVto get as many dinosaurs as we could possibly find,
+p153
+aVand hopefully find some dinosaurs
+p154
+aVthat had more material in them.
+p155
+aVAnd out in eastern Montana
+p156
+aVthere's a lot of space, a lot of badlands,
+p157
+aVand not very many people,
+p158
+aVand so you can go out there and find a lot of stuff.
+p159
+aVAnd we did find a lot of stuff.
+p160
+aVWe found a lot of Tyrannosaurs,
+p161
+aVbut we found one special Tyrannosaur,
+p162
+aVand we called it B-rex.
+p163
+aVAnd B-rex was found
+p164
+aVunder a thousand cubic yards of rock.
+p165
+aVIt wasn't a very complete T. rex,
+p166
+aVand it wasn't a very big T. rex,
+p167
+aVbut it was a very special B-rex.
+p168
+aVAnd I and my colleagues cut into it,
+p169
+aVand we were able to determine,
+p170
+aVby looking at lines of arrested growth, some lines in it,
+p171
+aVthat B-rex had died at the age of 16.
+p172
+aVWe don't really know how long dinosaurs lived,
+p173
+aVbecause we haven't found the oldest one yet.
+p174
+aVBut this one died at the age of 16.
+p175
+aa(lp176
+VWe gave samples to Mary Schweitzer,
+p177
+aVand she was actually able to determine
+p178
+aVthat B-rex was a female
+p179
+aVbased on medullary tissue
+p180
+aVfound on the inside of the bone.
+p181
+aVMedullary tissue is the calcium build-up,
+p182
+aVthe calcium storage basically,
+p183
+aVwhen an animal is pregnant,
+p184
+aVwhen a bird is pregnant.
+p185
+aVSo here was the character
+p186
+aVthat linked birds and dinosaurs.
+p187
+aVBut Mary went further.
+p188
+aVShe took the bone, and she dumped it into acid.
+p189
+aVNow we all know that bones are fossilized,
+p190
+aVand so if you dump it into acid,
+p191
+aVthere shouldn't be anything left.
+p192
+aVBut there was something left.
+p193
+aVThere were blood vessels left.
+p194
+aVThere were flexible, clear blood vessels.
+p195
+aVAnd so here was the first soft tissue from a dinosaur.
+p196
+aVIt was extraordinary.
+p197
+aVBut she also found osteocytes,
+p198
+aVwhich are the cells that laid down the bones.
+p199
+aVAnd try and try, we could not find DNA,
+p200
+aVbut she did find evidence of proteins.
+p201
+aa(lp202
+VBut we thought maybe \u2014
+p203
+aVwell, we thought maybe
+p204
+aVthat the material was breaking down after it was coming out of the ground.
+p205
+aVWe thought maybe it was deteriorating very fast.
+p206
+aVAnd so we built a laboratory
+p207
+aVin the back of an 18-wheeler trailer,
+p208
+aVand actually took the laboratory to the field
+p209
+aVwhere we could get better samples.
+p210
+aVAnd we did. We got better material.
+p211
+aVThe cells looked better.
+p212
+aVThe vessels looked better.
+p213
+aVFound the protein collagen.
+p214
+aVI mean, it was wonderful stuff.
+p215
+aVBut it's not dinosaur DNA.
+p216
+aVSo we have discovered
+p217
+aVthat dinosaur DNA, and all DNA,
+p218
+aVjust breaks down too fast.
+p219
+aVWe're just not going to be able
+p220
+aVto do what they did in "Jurassic Park."
+p221
+aVWe're not going to be able to make a dinosaur
+p222
+aVbased on a dinosaur.
+p223
+aa(lp224
+VBut birds are dinosaurs.
+p225
+aVBirds are living dinosaurs.
+p226
+aVWe actually classify them
+p227
+aVas dinosaurs.
+p228
+aVWe now call them non-avian dinosaurs
+p229
+aVand avian dinosaurs.
+p230
+aVSo the non-avian dinosaurs
+p231
+aVare the big clunky ones that went extinct.
+p232
+aVAvian dinosaurs are our modern birds.
+p233
+aVSo we don't have to make a dinosaur
+p234
+aVbecause we already have them.
+p235
+aa(lp236
+V(Laughter)
+p237
+aa(lp238
+VI know, you're as bad as the sixth-graders.
+p239
+aV(Laughter)
+p240
+aVThe sixth-graders look at it and they say, "No."
+p241
+aV(Laughter)
+p242
+aV"You can call it a dinosaur,
+p243
+aVbut look at the velociraptor: the velociraptor is cool."
+p244
+aV(Laughter)
+p245
+aV"The chicken is not."
+p246
+aV(Laughter)
+p247
+aVSo this is our problem,
+p248
+aVas you can imagine.
+p249
+aVThe chicken is a dinosaur.
+p250
+aVI mean it really is.
+p251
+aVYou can't argue with it
+p252
+aVbecause we're the classifiers and we've classified it that way.
+p253
+aV(Laughter)
+p254
+aV(Applause)
+p255
+aVBut the sixth-graders demand it.
+p256
+aV"Fix the chicken."
+p257
+aV(Laughter)
+p258
+aVSo that's what I'm here to tell you about:
+p259
+aVhow we are going to fix a chicken.
+p260
+aa(lp261
+VSo we have a number of ways
+p262
+aVthat we actually can fix the chicken.
+p263
+aVBecause evolution works,
+p264
+aVwe actually have some evolutionary tools.
+p265
+aVWe'll call them biological modification tools.
+p266
+aVWe have selection.
+p267
+aVAnd we know selection works.
+p268
+aVWe started out with a wolf-like creature
+p269
+aVand we ended up with a Maltese.
+p270
+aVI mean, that's \u2014
+p271
+aVthat's definitely genetic modification.
+p272
+aVOr any of the other funny-looking little dogs.
+p273
+aVWe also have transgenesis.
+p274
+aVTransgenesis is really cool too.
+p275
+aVThat's where you take a gene out of one animal and stick it in another one.
+p276
+aVThat's how people make GloFish.
+p277
+aVYou take a glow gene
+p278
+aVout of a coral or a jellyfish
+p279
+aVand you stick it in a zebrafish,
+p280
+aVand, puff, they glow.
+p281
+aVAnd that's pretty cool.
+p282
+aVAnd they obviously make a lot of money off of them.
+p283
+aVAnd now they're making Glow-rabbits
+p284
+aVand Glow-all-sorts-of-things.
+p285
+aVI guess we could make a glow chicken.
+p286
+aV(Laughter)
+p287
+aVBut I don't think that'll satisfy the sixth-graders either.
+p288
+aa(lp289
+VBut there's another thing.
+p290
+aVThere's what we call atavism activation.
+p291
+aVAnd atavism activation
+p292
+aVis basically \u2014
+p293
+aVan atavism is an ancestral characteristic.
+p294
+aVYou heard
+p295
+aVthat occasionally children are born with tails,
+p296
+aVand it's because it's an ancestral characteristic.
+p297
+aVAnd so there are a number of atavisms
+p298
+aVthat can happen.
+p299
+aVSnakes are occasionally born with legs.
+p300
+aVAnd here's an example.
+p301
+aVThis is a chicken with teeth.
+p302
+aVA fellow by the name of Matthew Harris
+p303
+aVat the University of Wisconsin in Madison
+p304
+aVactually figured out a way to stimulate
+p305
+aVthe gene for teeth,
+p306
+aVand so was able to actually turn the tooth gene on
+p307
+aVand produce teeth in chickens.
+p308
+aVNow that's a good characteristic.
+p309
+aVWe can save that one.
+p310
+aVWe know we can use that.
+p311
+aVWe can make a chicken with teeth.
+p312
+aVThat's getting closer.
+p313
+aVThat's better than a glowing chicken.
+p314
+aa(lp315
+V(Laughter)
+p316
+aa(lp317
+VA friend of mine, a colleague of mine,
+p318
+aVDr. Hans Larsson at McGill University,
+p319
+aVis actually looking at atavisms.
+p320
+aVAnd he's looking at them
+p321
+aVby looking at the embryo genesis of birds
+p322
+aVand actually looking at how they develop,
+p323
+aVand he's interested in how birds actually lost their tail.
+p324
+aVHe's also interested in the transformation
+p325
+aVof the arm, the hand, to the wing.
+p326
+aVHe's looking for those genes as well.
+p327
+aVAnd I said, "Well, if you can find those,
+p328
+aVI can just reverse them
+p329
+aVand make what I need to make for the sixth-graders."
+p330
+aVAnd so he agreed.
+p331
+aVAnd so that's what we're looking into.
+p332
+aa(lp333
+VIf you look at dinosaur hands,
+p334
+aVa velociraptor
+p335
+aVhas that cool-looking hand with the claws on it.
+p336
+aVArchaeopteryx, which is a bird, a primitive bird,
+p337
+aVstill has that very primitive hand.
+p338
+aVBut as you can see, the pigeon,
+p339
+aVor a chicken or anything else, another bird,
+p340
+aVhas kind of a weird-looking hand,
+p341
+aVbecause the hand is a wing.
+p342
+aVBut the cool thing is
+p343
+aVthat, if you look in the embryo,
+p344
+aVas the embryo is developing
+p345
+aVthe hand actually looks
+p346
+aVpretty much like the archaeopteryx hand.
+p347
+aVIt has the three fingers, the three digits.
+p348
+aVBut a gene turns on that actually fuses those together.
+p349
+aVAnd so what we're looking for is that gene.
+p350
+aVWe want to stop that gene from turning on,
+p351
+aVfusing those hands together,
+p352
+aVso we can get a chicken that hatches out with a three-fingered hand,
+p353
+aVlike the archaeopteryx.
+p354
+aVAnd the same goes for the tails.
+p355
+aVBirds have basically
+p356
+aVrudimentary tails.
+p357
+aVAnd so we know
+p358
+aVthat in embryo,
+p359
+aVas the animal is developing,
+p360
+aVit actually has a relatively long tail.
+p361
+aVBut a gene turns on
+p362
+aVand resorbs the tail, gets rid of it.
+p363
+aVSo that's the other gene we're looking for.
+p364
+aVWe want to stop that tail from resorbing.
+p365
+aa(lp366
+VSo what we're trying to do really
+p367
+aVis take our chicken,
+p368
+aVmodify it
+p369
+aVand make the chickenosaurus.
+p370
+aV(Laughter)
+p371
+aVIt's a cooler-looking chicken.
+p372
+aVBut it's just the very basics.
+p373
+aVSo that really is what we're doing.
+p374
+aVAnd people always say, "Why do that?
+p375
+aVWhy make this thing?
+p376
+aVWhat good is it?"
+p377
+aVWell, that's a good question.
+p378
+aVActually, I think it's a great way to teach kids
+p379
+aVabout evolutionary biology
+p380
+aVand developmental biology
+p381
+aVand all sorts of things.
+p382
+aVAnd quite frankly, I think
+p383
+aVif Colonel Sanders
+p384
+aVwas to be careful how he worded it,
+p385
+aVhe could actually advertise an extra piece.
+p386
+aV(Laughter)
+p387
+aa(lp388
+VAnyway \u2014
+p389
+aVWhen our dino-chicken hatches,
+p390
+aVit will be, obviously, the poster child,
+p391
+aVor what you might call a poster chick,
+p392
+aVfor technology, entertainment and design.
+p393
+aa(lp394
+VThank you.
+p395
+aa(lp396
+V(Applause)
+p397
+aasS'id'
+p398
+I1163
+sS'title'
+p399
+VBuilding a dinosaur from a chicken
+p400
+s.

@@ -1,0 +1,582 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIn the movie "Interstellar,"
+p4
+aVwe get an up-close look at a supermassive black hole.
+p5
+aVSet against a backdrop of bright gas,
+p6
+aVthe black hole's massive gravitational pull
+p7
+aVbends light into a ring.
+p8
+aVHowever, this isn't a real photograph,
+p9
+aVbut a computer graphic rendering \u2014
+p10
+aVan artistic interpretation of what a black hole might look like.
+p11
+aa(lp12
+VA hundred years ago,
+p13
+aVAlbert Einstein first published his theory of general relativity.
+p14
+aVIn the years since then,
+p15
+aVscientists have provided a lot of evidence in support of it.
+p16
+aVBut one thing predicted from this theory, black holes,
+p17
+aVstill have not been directly observed.
+p18
+aVAlthough we have some idea as to what a black hole might look like,
+p19
+aVwe've never actually taken a picture of one before.
+p20
+aVHowever, you might be surprised to know that that may soon change.
+p21
+aVWe may be seeing our first picture of a black hole in the next couple years.
+p22
+aVGetting this first picture will come down to an international team of scientists,
+p23
+aVan Earth-sized telescope
+p24
+aVand an algorithm that puts together the final picture.
+p25
+aVAlthough I won't be able to show you a real picture of a black hole today,
+p26
+aVI'd like to give you a brief glimpse into the effort involved
+p27
+aVin getting that first picture.
+p28
+aa(lp29
+VMy name is Katie Bouman,
+p30
+aVand I'm a PhD student at MIT.
+p31
+aVI do research in a computer science lab
+p32
+aVthat works on making computers see through images and video.
+p33
+aVBut although I'm not an astronomer,
+p34
+aVtoday I'd like to show you
+p35
+aVhow I've been able to contribute to this exciting project.
+p36
+aa(lp37
+VIf you go out past the bright city lights tonight,
+p38
+aVyou may just be lucky enough to see a stunning view
+p39
+aVof the Milky Way Galaxy.
+p40
+aVAnd if you could zoom past millions of stars,
+p41
+aV26,000 light-years toward the heart of the spiraling Milky Way,
+p42
+aVwe'd eventually reach a cluster of stars right at the center.
+p43
+aVPeering past all the galactic dust with infrared telescopes,
+p44
+aVastronomers have watched these stars for over 16 years.
+p45
+aVBut it's what they don't see that is the most spectacular.
+p46
+aVThese stars seem to orbit an invisible object.
+p47
+aVBy tracking the paths of these stars,
+p48
+aVastronomers have concluded
+p49
+aVthat the only thing small and heavy enough to cause this motion
+p50
+aVis a supermassive black hole \u2014
+p51
+aVan object so dense that it sucks up anything that ventures too close \u2014
+p52
+aVeven light.
+p53
+aa(lp54
+VBut what happens if we were to zoom in even further?
+p55
+aVIs it possible to see something that, by definition, is impossible to see?
+p56
+aVWell, it turns out that if we were to zoom in at radio wavelengths,
+p57
+aVwe'd expect to see a ring of light
+p58
+aVcaused by the gravitational lensing of hot plasma
+p59
+aVzipping around the black hole.
+p60
+aVIn other words,
+p61
+aVthe black hole casts a shadow on this backdrop of bright material,
+p62
+aVcarving out a sphere of darkness.
+p63
+aVThis bright ring reveals the black hole's event horizon,
+p64
+aVwhere the gravitational pull becomes so great
+p65
+aVthat not even light can escape.
+p66
+aVEinstein's equations predict the size and shape of this ring,
+p67
+aVso taking a picture of it wouldn't only be really cool,
+p68
+aVit would also help to verify that these equations hold
+p69
+aVin the extreme conditions around the black hole.
+p70
+aa(lp71
+VHowever, this black hole is so far away from us,
+p72
+aVthat from Earth, this ring appears incredibly small \u2014
+p73
+aVthe same size to us as an orange on the surface of the moon.
+p74
+aVThat makes taking a picture of it extremely difficult.
+p75
+aVWhy is that?
+p76
+aVWell, it all comes down to a simple equation.
+p77
+aVDue to a phenomenon called diffraction,
+p78
+aVthere are fundamental limits
+p79
+aVto the smallest objects that we can possibly see.
+p80
+aVThis governing equation says that in order to see smaller and smaller,
+p81
+aVwe need to make our telescope bigger and bigger.
+p82
+aVBut even with the most powerful optical telescopes here on Earth,
+p83
+aVwe can't even get close to the resolution necessary
+p84
+aVto image on the surface of the moon.
+p85
+aVIn fact, here I show one of the highest resolution images ever taken
+p86
+aVof the moon from Earth.
+p87
+aVIt contains roughly 13,000 pixels,
+p88
+aVand yet each pixel would contain over 1.5 million oranges.
+p89
+aa(lp90
+VSo how big of a telescope do we need
+p91
+aVin order to see an orange on the surface of the moon
+p92
+aVand, by extension, our black hole?
+p93
+aVWell, it turns out that by crunching the numbers,
+p94
+aVyou can easily calculate that we would need a telescope
+p95
+aVthe size of the entire Earth.
+p96
+aa(lp97
+V(Laughter)
+p98
+aa(lp99
+VIf we could build this Earth-sized telescope,
+p100
+aVwe could just start to make out that distinctive ring of light
+p101
+aVindicative of the black hole's event horizon.
+p102
+aVAlthough this picture wouldn't contain all the detail we see
+p103
+aVin computer graphic renderings,
+p104
+aVit would allow us to safely get our first glimpse
+p105
+aVof the immediate environment around a black hole.
+p106
+aa(lp107
+VHowever, as you can imagine,
+p108
+aVbuilding a single-dish telescope the size of the Earth is impossible.
+p109
+aVBut in the famous words of Mick Jagger,
+p110
+aV"You can't always get what you want,
+p111
+aVbut if you try sometimes, you just might find
+p112
+aVyou get what you need."
+p113
+aVAnd by connecting telescopes from around the world,
+p114
+aVan international collaboration called the Event Horizon Telescope
+p115
+aVis creating a computational telescope the size of the Earth,
+p116
+aVcapable of resolving structure
+p117
+aVon the scale of a black hole's event horizon.
+p118
+aVThis network of telescopes is scheduled to take its very first picture
+p119
+aVof a black hole next year.
+p120
+aVEach telescope in the worldwide network works together.
+p121
+aVLinked through the precise timing of atomic clocks,
+p122
+aVteams of researchers at each of the sights freeze light
+p123
+aVby collecting thousands of terabytes of data.
+p124
+aVThis data is then processed in a lab right here in Massachusetts.
+p125
+aa(lp126
+VSo how does this even work?
+p127
+aVRemember if we want to see the black hole in the center of our galaxy,
+p128
+aVwe need to build this impossibly large Earth-sized telescope?
+p129
+aVFor just a second, let's pretend we could build
+p130
+aVa telescope the size of the Earth.
+p131
+aVThis would be a little bit like turning the Earth
+p132
+aVinto a giant spinning disco ball.
+p133
+aVEach individual mirror would collect light
+p134
+aVthat we could then combine together to make a picture.
+p135
+aVHowever, now let's say we remove most of those mirrors
+p136
+aVso only a few remained.
+p137
+aVWe could still try to combine this information together,
+p138
+aVbut now there are a lot of holes.
+p139
+aVThese remaining mirrors represent the locations where we have telescopes.
+p140
+aVThis is an incredibly small number of measurements to make a picture from.
+p141
+aVBut although we only collect light at a few telescope locations,
+p142
+aVas the Earth rotates, we get to see other new measurements.
+p143
+aVIn other words, as the disco ball spins, those mirrors change locations
+p144
+aVand we get to observe different parts of the image.
+p145
+aVThe imaging algorithms we develop fill in the missing gaps of the disco ball
+p146
+aVin order to reconstruct the underlying black hole image.
+p147
+aVIf we had telescopes located everywhere on the globe \u2014
+p148
+aVin other words, the entire disco ball \u2014
+p149
+aVthis would be trivial.
+p150
+aVHowever, we only see a few samples, and for that reason,
+p151
+aVthere are an infinite number of possible images
+p152
+aVthat are perfectly consistent with our telescope measurements.
+p153
+aVHowever, not all images are created equal.
+p154
+aVSome of those images look more like what we think of as images than others.
+p155
+aVAnd so, my role in helping to take the first image of a black hole
+p156
+aVis to design algorithms that find the most reasonable image
+p157
+aVthat also fits the telescope measurements.
+p158
+aa(lp159
+VJust as a forensic sketch artist uses limited descriptions
+p160
+aVto piece together a picture using their knowledge of face structure,
+p161
+aVthe imaging algorithms I develop use our limited telescope data
+p162
+aVto guide us to a picture that also looks like stuff in our universe.
+p163
+aVUsing these algorithms, we're able to piece together pictures
+p164
+aVfrom this sparse, noisy data.
+p165
+aVSo here I show a sample reconstruction done using simulated data,
+p166
+aVwhen we pretend to point our telescopes
+p167
+aVto the black hole in the center of our galaxy.
+p168
+aVAlthough this is just a simulation, reconstruction such as this give us hope
+p169
+aVthat we'll soon be able to reliably take the first image of a black hole
+p170
+aVand from it, determine the size of its ring.
+p171
+aVAlthough I'd love to go on about all the details of this algorithm,
+p172
+aVluckily for you, I don't have the time.
+p173
+aa(lp174
+VBut I'd still like to give you a brief idea
+p175
+aVof how we define what our universe looks like,
+p176
+aVand how we use this to reconstruct and verify our results.
+p177
+aVSince there are an infinite number of possible images
+p178
+aVthat perfectly explain our telescope measurements,
+p179
+aVwe have to choose between them in some way.
+p180
+aVWe do this by ranking the images
+p181
+aVbased upon how likely they are to be the black hole image,
+p182
+aVand then choosing the one that's most likely.
+p183
+aa(lp184
+VSo what do I mean by this exactly?
+p185
+aVLet's say we were trying to make a model
+p186
+aVthat told us how likely an image were to appear on Facebook.
+p187
+aVWe'd probably want the model to say
+p188
+aVit's pretty unlikely that someone would post this noise image on the left,
+p189
+aVand pretty likely that someone would post a selfie
+p190
+aVlike this one on the right.
+p191
+aVThe image in the middle is blurry,
+p192
+aVso even though it's more likely we'd see it on Facebook
+p193
+aVcompared to the noise image,
+p194
+aVit's probably less likely we'd see it compared to the selfie.
+p195
+aa(lp196
+VBut when it comes to images from the black hole,
+p197
+aVwe're posed with a real conundrum: we've never seen a black hole before.
+p198
+aVIn that case, what is a likely black hole image,
+p199
+aVand what should we assume about the structure of black holes?
+p200
+aVWe could try to use images from simulations we've done,
+p201
+aVlike the image of the black hole from "Interstellar,"
+p202
+aVbut if we did this, it could cause some serious problems.
+p203
+aVWhat would happen if Einstein's theories didn't hold?
+p204
+aVWe'd still want to reconstruct an accurate picture of what was going on.
+p205
+aVIf we bake Einstein's equations too much into our algorithms,
+p206
+aVwe'll just end up seeing what we expect to see.
+p207
+aVIn other words, we want to leave the option open
+p208
+aVfor there being a giant elephant at the center of our galaxy.
+p209
+aa(lp210
+V(Laughter)
+p211
+aa(lp212
+VDifferent types of images have very distinct features.
+p213
+aVWe can easily tell the difference between black hole simulation images
+p214
+aVand images we take every day here on Earth.
+p215
+aVWe need a way to tell our algorithms what images look like
+p216
+aVwithout imposing one type of image's features too much.
+p217
+aVOne way we can try to get around this
+p218
+aVis by imposing the features of different kinds of images
+p219
+aVand seeing how the type of image we assume affects our reconstructions.
+p220
+aVIf all images' types produce a very similar-looking image,
+p221
+aVthen we can start to become more confident
+p222
+aVthat the image assumptions we're making are not biasing this picture that much.
+p223
+aa(lp224
+VThis is a little bit like giving the same description
+p225
+aVto three different sketch artists from all around the world.
+p226
+aVIf they all produce a very similar-looking face,
+p227
+aVthen we can start to become confident
+p228
+aVthat they're not imposing their own cultural biases on the drawings.
+p229
+aVOne way we can try to impose different image features
+p230
+aVis by using pieces of existing images.
+p231
+aVSo we take a large collection of images,
+p232
+aVand we break them down into their little image patches.
+p233
+aVWe then can treat each image patch a little bit like pieces of a puzzle.
+p234
+aVAnd we use commonly seen puzzle pieces to piece together an image
+p235
+aVthat also fits our telescope measurements.
+p236
+aa(lp237
+VDifferent types of images have very distinctive sets of puzzle pieces.
+p238
+aVSo what happens when we take the same data
+p239
+aVbut we use different sets of puzzle pieces to reconstruct the image?
+p240
+aVLet's first start with black hole image simulation puzzle pieces.
+p241
+aVOK, this looks reasonable.
+p242
+aVThis looks like what we expect a black hole to look like.
+p243
+aVBut did we just get it
+p244
+aVbecause we just fed it little pieces of black hole simulation images?
+p245
+aVLet's try another set of puzzle pieces
+p246
+aVfrom astronomical, non-black hole objects.
+p247
+aVOK, we get a similar-looking image.
+p248
+aVAnd then how about pieces from everyday images,
+p249
+aVlike the images you take with your own personal camera?
+p250
+aVGreat, we see the same image.
+p251
+aVWhen we get the same image from all different sets of puzzle pieces,
+p252
+aVthen we can start to become more confident
+p253
+aVthat the image assumptions we're making
+p254
+aVaren't biasing the final image we get too much.
+p255
+aa(lp256
+VAnother thing we can do is take the same set of puzzle pieces,
+p257
+aVsuch as the ones derived from everyday images,
+p258
+aVand use them to reconstruct many different kinds of source images.
+p259
+aVSo in our simulations,
+p260
+aVwe pretend a black hole looks like astronomical non-black hole objects,
+p261
+aVas well as everyday images like the elephant in the center of our galaxy.
+p262
+aVWhen the results of our algorithms on the bottom look very similar
+p263
+aVto the simulation's truth image on top,
+p264
+aVthen we can start to become more confident in our algorithms.
+p265
+aVAnd I really want to emphasize here
+p266
+aVthat all of these pictures were created
+p267
+aVby piecing together little pieces of everyday photographs,
+p268
+aVlike you'd take with your own personal camera.
+p269
+aVSo an image of a black hole we've never seen before
+p270
+aVmay eventually be created by piecing together pictures we see all the time
+p271
+aVof people, buildings, trees, cats and dogs.
+p272
+aVImaging ideas like this will make it possible for us
+p273
+aVto take our very first pictures of a black hole,
+p274
+aVand hopefully, verify those famous theories
+p275
+aVon which scientists rely on a daily basis.
+p276
+aa(lp277
+VBut of course, getting imaging ideas like this working
+p278
+aVwould never have been possible without the amazing team of researchers
+p279
+aVthat I have the privilege to work with.
+p280
+aVIt still amazes me
+p281
+aVthat although I began this project with no background in astrophysics,
+p282
+aVwhat we have achieved through this unique collaboration
+p283
+aVcould result in the very first images of a black hole.
+p284
+aVBut big projects like the Event Horizon Telescope
+p285
+aVare successful due to all the interdisciplinary expertise
+p286
+aVdifferent people bring to the table.
+p287
+aVWe're a melting pot of astronomers,
+p288
+aVphysicists, mathematicians and engineers.
+p289
+aVThis is what will make it soon possible
+p290
+aVto achieve something once thought impossible.
+p291
+aa(lp292
+VI'd like to encourage all of you to go out
+p293
+aVand help push the boundaries of science,
+p294
+aVeven if it may at first seem as mysterious to you as a black hole.
+p295
+aa(lp296
+VThank you.
+p297
+aa(lp298
+V(Applause)
+p299
+aasS'id'
+p300
+I2723
+sS'title'
+p301
+VHow to take a picture of a black hole
+p302
+s.

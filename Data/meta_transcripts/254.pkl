@@ -1,0 +1,835 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+V(Bass guitar)
+p4
+aV(Bass guitar and accordion)
+p5
+aa(lp6
+V\u266b You're older than you've ever been \u266b
+p7
+aa(lp8
+V\u266b and now you're even older \u266b
+p9
+aa(lp10
+V\u266b and now you're even older \u266b
+p11
+aa(lp12
+V\u266b and now you're even older. \u266b
+p13
+aa(lp14
+V\u266b You're older than you've even been \u266b
+p15
+aa(lp16
+V\u266b and now you're even older \u266b
+p17
+aa(lp18
+V\u266b and now you're older still. \u266b
+p19
+aa(lp20
+V\u266b Time \u266b
+p21
+aa(lp22
+V\u266b is marching on \u266b
+p23
+aa(lp24
+V\u266b and time \u266b
+p25
+aa(lp26
+V\u266b is still marching on. \u266b
+p27
+aa(lp28
+V\u266b This day will soon be at an end \u266b
+p29
+aa(lp30
+V\u266b and now it's even sooner \u266b
+p31
+aa(lp32
+V\u266b and now it's even sooner \u266b
+p33
+aa(lp34
+V\u266b and now it's even sooner. \u266b
+p35
+aa(lp36
+V\u266b This day will soon be at an end \u266b
+p37
+aa(lp38
+V\u266b and now it's even sooner \u266b
+p39
+aa(lp40
+V\u266b and now it's sooner still. \u266b
+p41
+aa(lp42
+V\u266b You're older than you've ever been \u266b
+p43
+aa(lp44
+V\u266b and now you're even older \u266b
+p45
+aa(lp46
+V\u266b and now you're even older \u266b
+p47
+aa(lp48
+V\u266b and now you're even older. \u266b
+p49
+aa(lp50
+V\u266b You're older than you've ever been \u266b
+p51
+aa(lp52
+V\u266b and now you're even older \u266b
+p53
+aa(lp54
+V\u266b and now you're older still. \u266b
+p55
+aa(lp56
+VThank you very much.
+p57
+aVGood morning everybody.
+p58
+aVWe are They Might Be Giants.
+p59
+aa(lp60
+V(Applause)
+p61
+aa(lp62
+VI am wearing the Al Gore in-ear monitors
+p63
+aVhe wore on the Larry King show
+p64
+aVand I'm hearing that transmission and not mine.
+p65
+aVBut I guess that's in keeping,
+p66
+aVso now we'll just move to the PowerPoint presentation,
+p67
+aVladies and gentlemen.
+p68
+aa(lp69
+VThis is a brand new song.
+p70
+aVIn the spirit of TED, we're bringing you something
+p71
+aVthat has not been released.
+p72
+aVJohn, do you want to introduce the song?
+p73
+aVThis is a song about a creature called a hummingbird moth
+p74
+aVwhich imitates another creature
+p75
+aVwhich imitates yet another creature.
+p76
+aVIt's completely fucked up
+p77
+aVand can only be explained in song.
+p78
+aa(lp79
+V\u266b Everyone is crying at the dread hypnotic flying \u266b
+p80
+aa(lp81
+V\u266b of the bee of the bird of the moth. \u266b
+p82
+aa(lp83
+V\u266b You can't walk, you can't ramble \u266b
+p84
+aa(lp85
+V\u266b 'cause you're gonna have to scramble \u266b
+p86
+aa(lp87
+V\u266b from the bee of the bird of the moth. \u266b
+p88
+aa(lp89
+V\u266b Catbird is a cat \u266b
+p90
+aa(lp91
+V\u266b but he's got bugness in his veins. \u266b
+p92
+aa(lp93
+V\u266b Manhouse lives within himself \u266b
+p94
+aa(lp95
+V\u266b with thoughtful human brains. \u266b
+p96
+aa(lp97
+V\u266b Neither one is equal  \u266b
+p98
+aa(lp99
+V\u266b to the challenge of the freak we'll call \u266b
+p100
+aa(lp101
+V\u266b the bee of the bird of the moth. \u266b
+p102
+aa(lp103
+V\u266b Now the moth \u266b
+p104
+aa(lp105
+V\u266b defeats the mouse and man. \u266b
+p106
+aa(lp107
+V\u266b It's messing with the plan. \u266b
+p108
+aa(lp109
+V\u266b It can't be believed \u266b
+p110
+aa(lp111
+V\u266b 'cause it's just a hummingbird moth \u266b
+p112
+aa(lp113
+V\u266b who's acting like the bird \u266b
+p114
+aa(lp115
+V\u266b that thinks it's a bee. \u266b
+p116
+aa(lp117
+V\u266b Got a brand new shipment \u266b
+p118
+aa(lp119
+V\u266b of electrical equipment \u266b
+p120
+aa(lp121
+V\u266b it's addressed to the bottom of the sea. \u266b
+p122
+aa(lp123
+V\u266b Send a tangerine-colored \u266b
+p124
+aa(lp125
+V\u266b nuclear submarine \u266b
+p126
+aa(lp127
+V\u266b with a sticker that says STP. \u266b
+p128
+aa(lp129
+V\u266b Windshield wiper washer fluid \u266b
+p130
+aa(lp131
+V\u266b spraying in the air ... \u266b
+p132
+aa(lp133
+V\u266b headlights under head lice \u266b
+p134
+aa(lp135
+V\u266b under hats lie everywhere. \u266b
+p136
+aa(lp137
+V\u266b Subatomic waves \u266b
+p138
+aa(lp139
+V\u266b to the underwater caves \u266b
+p140
+aa(lp141
+V\u266b of the bee of the bird of the moth. \u266b
+p142
+aa(lp143
+V\u266b Now the moth defeats the mouse and man. \u266b
+p144
+aa(lp145
+V\u266b It's messing with the plan. \u266b
+p146
+aa(lp147
+V\u266b It can't be believed \u266b
+p148
+aa(lp149
+V\u266b 'cause it's just a hummingbird moth \u266b
+p150
+aa(lp151
+V\u266b who's acting like a bird \u266b
+p152
+aa(lp153
+V\u266b that thinks it's a bee. \u266b
+p154
+aa(lp155
+V\u266b Is it us or is this messed up? \u266b
+p156
+aa(lp157
+V\u266b Everyone's deforming \u266b
+p158
+aa(lp159
+V\u266b in the presence of the swarming \u266b
+p160
+aa(lp161
+V\u266b of the bee of the bird of the moth. \u266b
+p162
+aa(lp163
+V\u266b Protozoa, snakes and horses \u266b
+p164
+aa(lp165
+V\u266b have enlisted in the forces \u266b
+p166
+aa(lp167
+V\u266b of the bee of bird of the moth. \u266b
+p168
+aa(lp169
+V\u266b Catbug is a cat \u266b
+p170
+aa(lp171
+V\u266b but he's got bugness in his veins. \u266b
+p172
+aa(lp173
+V\u266b Manhouse lives within himself \u266b
+p174
+aa(lp175
+V\u266b with thoughtful human brains. \u266b
+p176
+aa(lp177
+V\u266b Neither one is equal \u266b
+p178
+aa(lp179
+V\u266b to the challenge of the freak we'll call \u266b
+p180
+aa(lp181
+V\u266b the bee of the bird of the moth. \u266b
+p182
+aa(lp183
+V(Applause)
+p184
+aa(lp185
+VThanks a lot.
+p186
+aVThank you very much.
+p187
+aa(lp188
+VSo we are past our 1,000th show.
+p189
+aVProbably somewhere around 1,500.
+p190
+aVIt's hard to know.
+p191
+aVWe've only done two shows in 2007 so far,
+p192
+aVbut our first show
+p193
+aVwas actually the coldest performance we've ever had.
+p194
+aVIt was 19 degrees in St. Louis about a month ago
+p195
+aVand I'm happy to report
+p196
+aVthat this performance you are seeing today
+p197
+aVis the earliest we have ever performed.
+p198
+aVSo thank you.
+p199
+aVWe are cultural test pilots, ladies and gentlemen.
+p200
+aVHow early can a rock performance begin?
+p201
+aVNot all the facts are in about performing
+p202
+aVat 8.30 in the morning.
+p203
+aVI can tell you the 19 degree thing
+p204
+aVwas fantastic.
+p205
+aVAll right.
+p206
+aa(lp207
+VSo we don't know that much
+p208
+aVabout the history of violinists
+p209
+aVbut we do know that when we entered
+p210
+aVthe state of New Jersey
+p211
+aVthere is an uptick in violence.
+p212
+aVThis song is called "Asbury Park."
+p213
+aVIt's based on a real life experience.
+p214
+aa(lp215
+V\u266b I \u266b
+p216
+aa(lp217
+V\u266b I got \u266b
+p218
+aa(lp219
+V\u266b I got kicked \u266b
+p220
+aa(lp221
+V\u266b I got kicked in the head \u266b
+p222
+aa(lp223
+V\u266b backstage at the Stone. \u266b
+p224
+aa(lp225
+V\u266b Stone Pone. \u266b
+p226
+aa(lp227
+V\u266b Stone Pony. \u266b
+p228
+aa(lp229
+V\u266b I got kicked in the head \u266b
+p230
+aa(lp231
+V\u266b backstage at the Stone Pony \u266b
+p232
+aa(lp233
+V\u266b where I swore to the guy \u266b
+p234
+aa(lp235
+V\u266b that the guy who took his beer wasn't me. \u266b
+p236
+aa(lp237
+V\u266b Me got \u266b
+p238
+aa(lp239
+V\u266b Me got kicked \u266b
+p240
+aa(lp241
+V\u266b Me got kicked in the head \u266b
+p242
+aa(lp243
+V\u266b backstage at the Stone. \u266b
+p244
+aa(lp245
+V\u266b Stone Pone. \u266b
+p246
+aa(lp247
+V\u266b Stone Pony. \u266b
+p248
+aa(lp249
+V\u266b Me got kicked in the head \u266b
+p250
+aa(lp251
+V\u266b backstage at the Stone Pony \u266b
+p252
+aa(lp253
+V\u266b where I swore to the guy \u266b
+p254
+aa(lp255
+V\u266b that the guy who took his beer \u266b
+p256
+aa(lp257
+V\u266b was a guy dressed like me. \u266b
+p258
+aa(lp259
+V\u266b Not me! \u266b
+p260
+aa(lp261
+V\u266b Not me! \u266b
+p262
+aa(lp263
+V\u266b Not me! \u266b
+p264
+aa(lp265
+VThank you.
+p266
+aVMarty Beller on the drums over there.
+p267
+aa(lp268
+V(Applause)
+p269
+aa(lp270
+VWe want to get in as many songs as possible
+p271
+aVduring our brief time here
+p272
+aVso this is the one to play.
+p273
+aVThis song is called "Fingertips."
+p274
+aa(lp275
+V\u266b Everything is catching on fire \u266b
+p276
+aa(lp277
+V\u266b Yes, everything is catching on fire \u266b
+p278
+aa(lp279
+V\u266b Yes, everything is catching on fire. \u266b
+p280
+aa(lp281
+V\u266b Fingertips \u266b
+p282
+aa(lp283
+V\u266b Fingertips \u266b
+p284
+aa(lp285
+V\u266b Fingertips \u266b
+p286
+aa(lp287
+V\u266b I hear the wind blow \u266b
+p288
+aa(lp289
+V\u266b I hear the wind blow \u266b
+p290
+aa(lp291
+V\u266b It seems to say \u266b
+p292
+aa(lp293
+V\u266b Hello \u266b
+p294
+aa(lp295
+V\u266b Hello \u266b
+p296
+aa(lp297
+V\u266b I'm the one who loves you so. \u266b
+p298
+aa(lp299
+V\u266b Hey, now everybody, now. \u266b
+p300
+aa(lp301
+V\u266b Hey, now everybody \u266b
+p302
+aa(lp303
+V\u266b Hey, now everybody, now \u266b
+p304
+aa(lp305
+V\u266b Who's that standing \u266b
+p306
+aa(lp307
+V\u266b at the window?\u266b
+p308
+aa(lp309
+V\u266b I found a new friend \u266b
+p310
+aa(lp311
+V\u266b underneath my pillow. \u266b
+p312
+aa(lp313
+V\u266b Come on and wreck my car \u266b
+p314
+aa(lp315
+V\u266b Come on and wreck my car \u266b
+p316
+aa(lp317
+V\u266b Come on and wreck my car \u266b
+p318
+aa(lp319
+V\u266b Come on and wreck my car \u266b
+p320
+aa(lp321
+V\u266b Aren't you the guy who hit me in the eye? \u266b
+p322
+aa(lp323
+V\u266b Aren't you the guy who hit me in the eye? \u266b
+p324
+aa(lp325
+V\u266b Please pass the milk, please. \u266b
+p326
+aa(lp327
+V\u266b Please pass the milk, please. \u266b
+p328
+aa(lp329
+V\u266b Please pass the milk, please. \u266b
+p330
+aa(lp331
+V\u266b Leave me alone, leave me alone. \u266b
+p332
+aa(lp333
+V\u266b Who's knocking on the wall? \u266b
+p334
+aa(lp335
+V\u266b All alone, all alone. \u266b
+p336
+aa(lp337
+V\u266b All by myself. \u266b
+p338
+aa(lp339
+V\u266b What's that blue thing doing here? \u266b
+p340
+aa(lp341
+V\u266b Something grabbed ahold of my hand \u266b
+p342
+aa(lp343
+V\u266b I didn't know what had my hand \u266b
+p344
+aa(lp345
+V\u266b but that's when all my troubles began. \u266b
+p346
+aa(lp347
+V\u266b I don't understand you \u266b
+p348
+aa(lp349
+V\u266b I don't understand you \u266b
+p350
+aa(lp351
+V\u266b I cannot understand you \u266b
+p352
+aa(lp353
+V\u266b I cannot understand you \u266b
+p354
+aa(lp355
+V\u266b I don't understand the things you say \u266b
+p356
+aa(lp357
+V\u266b I can't understand a single word \u266b
+p358
+aa(lp359
+V\u266b I don't understand you \u266b
+p360
+aa(lp361
+V\u266b I don't understand you \u266b
+p362
+aa(lp363
+V\u266b I just don't understand you \u266b
+p364
+aa(lp365
+V\u266b I don't understand you \u266b
+p366
+aa(lp367
+V\u266b I do not understand you \u266b
+p368
+aa(lp369
+V\u266b Don't understand you \u266b
+p370
+aa(lp371
+V\u266b Don't understand you \u266b
+p372
+aa(lp373
+V\u266b I turn around \u266b
+p374
+aa(lp375
+V\u266b See the sound \u266b
+p376
+aa(lp377
+V\u266b Turn around and see the thing \u266b
+p378
+aa(lp379
+V\u266b that made the sound. \u266b
+p380
+aa(lp381
+V\u266b Mysterious whisper \u266b
+p382
+aa(lp383
+V\u266b Mysterious whisper \u266b
+p384
+aa(lp385
+V\u266b Mysterious whisper \u266b
+p386
+aa(lp387
+V\u266b Mysterious whisper \u266b
+p388
+aa(lp389
+V\u266b The day that love came to play. \u266b
+p390
+aa(lp391
+V\u266b I'm having a heart attack \u266b
+p392
+aa(lp393
+V\u266b I'm having a heart attack \u266b
+p394
+aa(lp395
+V\u266b I'm having a heart attack \u266b
+p396
+aa(lp397
+V\u266b I'm having a ... \u266b
+p398
+aa(lp399
+V\u266b Fingertips \u266b
+p400
+aa(lp401
+V\u266b Fingertips \u266b
+p402
+aa(lp403
+V\u266b I walk along darkened corridors \u266b
+p404
+aa(lp405
+V\u266b And I walk along darkened corridors \u266b
+p406
+aa(lp407
+VThank you very much \u2014 "Fingertips."
+p408
+aa(lp409
+V(Applause)
+p410
+aa(lp411
+V\u266b We're taking calls \u2014 from the dead. \u266b
+p412
+aa(lp413
+V\u266b We're taking calls \u2014 from the dead. \u266b
+p414
+aa(lp415
+V\u266b We're taking phone calls from the dead. \u266b
+p416
+aa(lp417
+V\u266b They're calling from beyond the grave. \u266b
+p418
+aa(lp419
+V\u266b Beyond the grave. \u266b
+p420
+aa(lp421
+V\u266b They have some questions \u266b
+p422
+aa(lp423
+V\u266b And things to share \u266b
+p424
+aa(lp425
+V\u266b From underneath the cold, cold ground. \u266b
+p426
+aa(lp427
+VWe're soliciting phone calls from dead people
+p428
+aVas a special TED presentation.
+p429
+aVWe're taking calls live on stage
+p430
+aVhere at TED in Monterey.
+p431
+aVAnd I think we have a caller coming in here.
+p432
+aVHello there.
+p433
+aVYou're live.
+p434
+aVHello. Who's there, please?
+p435
+aVAm I on the air?
+p436
+aVHi there.
+p437
+aVYou're on with They Might Be Giants.
+p438
+aVThis is Eleanor Roosevelt.
+p439
+aVHello, Eleanor, please ...
+p440
+aVI want to talk to ...
+p441
+aVPlease turn off your radio, Eleanor.
+p442
+aVI wanna talk to Randi.
+p443
+aVI've got a question for Randi.
+p444
+aVWhat's your question, please?
+p445
+aVI want to talk to the Amazing Randi.
+p446
+aVDo you have a laminated badge, Eleanor?
+p447
+aVI want my million dollars.
+p448
+aVEleanor, I'm sorry,
+p449
+aVdo you have a laminated badge?
+p450
+aVNo, I don't have a badge.
+p451
+aVWell, I think we're going to stop
+p452
+aVthat part of the show.
+p453
+aa(lp454
+VHere's a song we like to think of
+p455
+aVas the future anthem of TED.
+p456
+aVIt's actually a children's song
+p457
+aVbut like so many projects for children
+p458
+aVit's really just a Trojan horse
+p459
+aVfor adult work.
+p460
+aVThis song is called
+p461
+aV"The Alphabet ...
+p462
+aVOf Nations!"
+p463
+aa(lp464
+V\u266b Algeria, Bulgaria, Cambodia, Dominica, \u266b
+p465
+aa(lp466
+V\u266b Egypt, France, The Gambia \u266b
+p467
+aa(lp468
+V\u266b Hungary, Iran, Japan, Kazakhstan, \u266b
+p469
+aa(lp470
+V\u266b Libya and Mongolia. \u266b
+p471
+aa(lp472
+V\u266b Norway, Oman, Pakistan, \u266b
+p473
+aa(lp474
+V\u266b Qatar, Russia, Suriname, \u266b
+p475
+aa(lp476
+V\u266b Turkey, Uruguay, Vietnam, \u266b
+p477
+aa(lp478
+V\u266b West Xylophone, Yemen, Zimbabwe. \u266b
+p479
+aa(lp480
+V\u266b Algeria, Bulgaria, Cambodia, Dominica, \u266b
+p481
+aa(lp482
+V\u266b Egypt, France, The Gambia, \u266b
+p483
+aa(lp484
+V\u266b Hungary, Iran, Japan, Kazakhstan, \u266b
+p485
+aa(lp486
+V\u266b Libya and Mongolia. \u266b
+p487
+aa(lp488
+V\u266b Norway, Oman, Pakistan, \u266b
+p489
+aa(lp490
+V\u266b Qatar, Russia, Suriname, \u266b
+p491
+aa(lp492
+V\u266b Turkey, Uruguay, Vietnam, \u266b
+p493
+aa(lp494
+V\u266b West Xylophone, Yemen, Zimbabwe. \u266b
+p495
+aa(lp496
+V\u266b Azerbaijan, Bolivia, Canada, \u266b
+p497
+aa(lp498
+V\u266b Australia, Belgium, Chad, \u266b
+p499
+aa(lp500
+V\u266b Afghanistan, Brunei, China, Denmark, \u266b
+p501
+aa(lp502
+V\u266b Ecuador, Fiji, Guatemala, \u266b
+p503
+aa(lp504
+V\u266b Algeria, Bulgaria, Cambodia, Dominica, \u266b
+p505
+aa(lp506
+V\u266b Egypt, France, The Gambia, \u266b
+p507
+aa(lp508
+V\u266b Hungary, Iran, Japan, Kazakhstan, \u266b
+p509
+aa(lp510
+V\u266b Libya and Mongolia. \u266b
+p511
+aa(lp512
+V\u266b Norway, Oman, Pakistan, \u266b
+p513
+aa(lp514
+V\u266b Qatar, Russia, Suriname, \u266b
+p515
+aa(lp516
+V\u266b Turkey, Uruguay, Vietnam, \u266b
+p517
+aa(lp518
+V\u266b West Xylophone, Yemen, Zimbabwe. \u266b
+p519
+aa(lp520
+VThank you so much.
+p521
+aVYou've been a wonderful 8:30 audience.
+p522
+aVHave a great session.
+p523
+aVThank you all.
+p524
+aasS'id'
+p525
+I254
+sS'title'
+p526
+VWake up! It's They Might Be Giants!
+p527
+s.

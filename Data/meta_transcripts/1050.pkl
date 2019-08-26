@@ -1,0 +1,409 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI would like to tell you all
+p4
+aVthat you are all actually cyborgs,
+p5
+aVbut not the cyborgs that you think.
+p6
+aVYou're not RoboCop, and you're not Terminator,
+p7
+aVbut you're cyborgs every time you look at a computer screen
+p8
+aVor use one of your cell phone devices.
+p9
+aVSo what's a good definition for cyborg?
+p10
+aVWell, traditional definition is "an organism
+p11
+aVto which exogenous components have been added
+p12
+aVfor the purpose of adapting to new environments."
+p13
+aVThat came from a 1960 paper on space travel,
+p14
+aVbecause, if you think about it, space is pretty awkward.
+p15
+aVPeople aren't supposed to be there.
+p16
+aVBut humans are curious, and they like to add things to their bodies
+p17
+aVso they can go to the Alps one day
+p18
+aVand then become a fish in the sea the next.
+p19
+aa(lp20
+VSo let's look at the concept of traditional anthropology.
+p21
+aVSomebody goes to another country,
+p22
+aVsays, "How fascinating these people are, how interesting their tools are,
+p23
+aVhow curious their culture is."
+p24
+aVAnd then they write a paper, and maybe a few other anthropologists read it,
+p25
+aVand we think it's very exotic.
+p26
+aVWell, what's happening
+p27
+aVis that we've suddenly found a new species.
+p28
+aVI, as a cyborg anthropologist, have suddenly said,
+p29
+aV"Oh, wow. Now suddenly we're a new form of Homo sapiens,
+p30
+aVand look at these fascinating cultures,
+p31
+aVand look at these curious rituals
+p32
+aVthat everybody's doing around this technology.
+p33
+aVThey're clicking on things and staring at screens."
+p34
+aa(lp35
+VNow there's a reason why I study this,
+p36
+aVversus traditional anthropology.
+p37
+aVAnd the reason is that tool use,
+p38
+aVin the beginning \u2014 for thousands and thousands of years,
+p39
+aVeverything has been a physical modification of self.
+p40
+aVIt has helped us to extend our physical selves,
+p41
+aVgo faster, hit things harder,
+p42
+aVand there's been a limit on that.
+p43
+aVBut now what we're looking at is not an extension of the physical self,
+p44
+aVbut an extension of the mental self,
+p45
+aVand because of that, we're able to travel faster,
+p46
+aVcommunicate differently.
+p47
+aVAnd the other thing that happens
+p48
+aVis that we're all carrying around little Mary Poppins technology.
+p49
+aVWe can put anything we want into it, and it doesn't get heavier,
+p50
+aVand then we can take anything out.
+p51
+aVWhat does the inside of your computer actually look like?
+p52
+aVWell, if you print it out, it looks like a thousand pounds of material
+p53
+aVthat you're carrying around all the time.
+p54
+aVAnd if you actually lose that information,
+p55
+aVit means that you suddenly have this loss in your mind,
+p56
+aVthat you suddenly feel like something's missing,
+p57
+aVexcept you aren't able to see it, so it feels like a very strange emotion.
+p58
+aa(lp59
+VThe other thing that happens is that you have a second self.
+p60
+aVWhether you like it or not, you're starting to show up online,
+p61
+aVand people are interacting with your second self
+p62
+aVwhen you're not there.
+p63
+aVAnd so you have to be careful
+p64
+aVabout leaving your front lawn open,
+p65
+aVwhich is basically your Facebook wall,
+p66
+aVso that people don't write on it in the middle of the night \u2014
+p67
+aVbecause it's very much the equivalent.
+p68
+aVAnd suddenly we have to start to maintain our second self.
+p69
+aVYou have to present yourself in digital life
+p70
+aVin a similar way that you would in your analog life.
+p71
+aVSo, in the same way that you wake up, take a shower and get dressed,
+p72
+aVyou have to learn to do that for your digital self.
+p73
+aVAnd the problem is that a lot of people now,
+p74
+aVespecially adolescents,
+p75
+aVhave to go through two adolescences.
+p76
+aVThey have to go through their primary one, that's already awkward,
+p77
+aVand then they go through their second self's adolescence,
+p78
+aVand that's even more awkward
+p79
+aVbecause there's an actual history
+p80
+aVof what they've gone through online.
+p81
+aVAnd anybody coming in new to technology
+p82
+aVis an adolescent online right now,
+p83
+aVand so it's very awkward,
+p84
+aVand it's very difficult for them to do those things.
+p85
+aa(lp86
+VSo when I was little, my dad would sit me down at night and he would say,
+p87
+aV"I'm going to teach you about time and space in the future."
+p88
+aVAnd I said, "Great."
+p89
+aVAnd he said one day, "What's the shortest distance between two points?"
+p90
+aVAnd I said, "Well, that's a straight line. You told me that yesterday."
+p91
+aVI thought I was very clever.
+p92
+aVHe said, "No, no, no. Here's a better way."
+p93
+aVHe took a piece of paper,
+p94
+aVdrew A and B on one side and the other
+p95
+aVand folded them together so where A and B touched.
+p96
+aVAnd he said, "That is the shortest distance between two points."
+p97
+aVAnd I said, "Dad, dad, dad, how do you do that?"
+p98
+aVHe said, "Well, you just bend time and space,
+p99
+aVit takes an awful lot of energy,
+p100
+aVand that's just how you do it."
+p101
+aVAnd I said, "I want to do that."
+p102
+aVAnd he said, "Well, okay."
+p103
+aVAnd so, when I went to sleep for the next 10 or 20 years,
+p104
+aVI was thinking at night,
+p105
+aV"I want to be the first person to create a wormhole,
+p106
+aVto make things accelerate faster.
+p107
+aVAnd I want to make a time machine."
+p108
+aVI was always sending messages to my future self
+p109
+aVusing tape recorders.
+p110
+aa(lp111
+VBut then what I realized when I went to college
+p112
+aVis that technology doesn't just get adopted
+p113
+aVbecause it works.
+p114
+aVIt gets adopted because people use it
+p115
+aVand it's made for humans.
+p116
+aVSo I started studying anthropology.
+p117
+aVAnd when I was writing my thesis on cell phones,
+p118
+aVI realized that everyone was carrying around wormholes in their pockets.
+p119
+aVThey weren't physically transporting themselves;
+p120
+aVthey were mentally transporting themselves.
+p121
+aVThey would click on a button,
+p122
+aVand they would be connected as A to B immediately.
+p123
+aVAnd I thought, "Oh, wow. I found it. This is great."
+p124
+aa(lp125
+VSo over time, time and space
+p126
+aVhave compressed because of this.
+p127
+aVYou can stand on one side of the world,
+p128
+aVwhisper something and be heard on the other.
+p129
+aVOne of the other ideas that comes around
+p130
+aVis that you have a different type of time on every single device that you use.
+p131
+aVEvery single browser tab gives you a different type of time.
+p132
+aVAnd because of that, you start to dig around
+p133
+aVfor your external memories \u2014 where did you leave them?
+p134
+aVSo now we're all these paleontologists
+p135
+aVthat are digging for things that we've lost
+p136
+aVon our external brains that we're carrying around in our pockets.
+p137
+aVAnd that incites a sort of panic architecture \u2014
+p138
+aV"Oh no, where's this thing?"
+p139
+aVWe're all "I Love Lucy" on a great assembly line of information,
+p140
+aVand we can't keep up.
+p141
+aa(lp142
+VAnd so what happens is,
+p143
+aVwhen we bring all that into the social space,
+p144
+aVwe end up checking our phones all the time.
+p145
+aVSo we have this thing called ambient intimacy.
+p146
+aVIt's not that we're always connected to everybody,
+p147
+aVbut at anytime we can connect to anyone we want.
+p148
+aVAnd if you were able to print out everybody in your cell phone,
+p149
+aVthe room would be very crowded.
+p150
+aVThese are the people that you have access to right now, in general \u2014
+p151
+aVall of these people, all of your friends and family that you can connect to.
+p152
+aa(lp153
+VAnd so there are some psychological effects that happen with this.
+p154
+aVOne I'm really worried about
+p155
+aVis that people aren't taking time for mental reflection anymore,
+p156
+aVand that they aren't slowing down and stopping,
+p157
+aVbeing around all those people in the room all the time
+p158
+aVthat are trying to compete for their attention
+p159
+aVon the simultaneous time interfaces,
+p160
+aVpaleontology and panic architecture.
+p161
+aVThey're not just sitting there.
+p162
+aVAnd really, when you have no external input,
+p163
+aVthat is a time when there is a creation of self,
+p164
+aVwhen you can do long-term planning,
+p165
+aVwhen you can try and figure out who you really are.
+p166
+aVAnd then, once you do that, you can figure out
+p167
+aVhow to present your second self in a legitimate way,
+p168
+aVinstead of just dealing with everything as it comes in \u2014
+p169
+aVand oh, I have to do this, and I have to do this, and I have to do this.
+p170
+aVAnd so this is very important.
+p171
+aVI'm really worried that, especially kids today,
+p172
+aVthey're not going to be dealing with this down-time,
+p173
+aVthat they have an instantaneous button-clicking culture,
+p174
+aVand that everything comes to them,
+p175
+aVand that they become very excited about it and very addicted to it.
+p176
+aa(lp177
+VSo if you think about it, the world hasn't stopped either.
+p178
+aVIt has its own external prosthetic devices,
+p179
+aVand these devices are helping us all
+p180
+aVto communicate and interact with each other.
+p181
+aVBut when you actually visualize it,
+p182
+aVall the connections that we're doing right now \u2014
+p183
+aVthis is an image of the mapping of the Internet \u2014
+p184
+aVit doesn't look technological.
+p185
+aVIt actually looks very organic.
+p186
+aVThis is the first time in the entire history of humanity
+p187
+aVthat we've connected in this way.
+p188
+aVAnd it's not that machines are taking over.
+p189
+aVIt's that they're helping us to be more human,
+p190
+aVhelping us to connect with each other.
+p191
+aa(lp192
+VThe most successful technology gets out of the way
+p193
+aVand helps us live our lives.
+p194
+aVAnd really,
+p195
+aVit ends up being more human than technology,
+p196
+aVbecause we're co-creating each other all the time.
+p197
+aVAnd so this is the important point that I like to study:
+p198
+aVthat things are beautiful, that it's still a human connection \u2014
+p199
+aVit's just done in a different way.
+p200
+aVWe're just increasing our humanness
+p201
+aVand our ability to connect with each other, regardless of geography.
+p202
+aVSo that's why I study cyborg anthropology.
+p203
+aa(lp204
+VThank you.
+p205
+aa(lp206
+V(Applause)
+p207
+aasS'id'
+p208
+I1050
+sS'title'
+p209
+VWe are all cyborgs now
+p210
+s.

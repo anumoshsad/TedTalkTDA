@@ -1,0 +1,686 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm a brain scientist, and as a brain scientist,
+p4
+aVI'm actually interested in how the brain learns,
+p5
+aVand I'm especially interested in a possibility of
+p6
+aVmaking our brains smarter, better and faster.
+p7
+aa(lp8
+VThis is in this context I'm going to tell you
+p9
+aVabout video games. When we say video games,
+p10
+aVmost of you think about children.
+p11
+aVIt's true. Ninety percent of children do play video games.
+p12
+aVBut let's be frank.
+p13
+aVWhen the kids are in bed, who is in front of the PlayStation?
+p14
+aVMost of you. The average age of a gamer is 33 years old,
+p15
+aVnot eight years old, and in fact, if we look
+p16
+aVat the projected demographics of video game play,
+p17
+aVthe video game players of tomorrow are
+p18
+aVolder adults. (Laughter)
+p19
+aa(lp20
+VSo video [gaming] is pervasive throughout our society.
+p21
+aVIt is clearly here to stay. It has an amazing impact
+p22
+aVon our everyday life. Consider these statistics
+p23
+aVreleased by Activision. After one month of release
+p24
+aVof the game "Call Of Duty: Black Ops," it had been played
+p25
+aVfor 68,000 years
+p26
+aVworldwide, right?
+p27
+aVWould any of you complain if this was the case
+p28
+aVabout doing linear algebra?
+p29
+aa(lp30
+VSo what we are asking in the lab is, how can we leverage that power?
+p31
+aVNow I want to step back a bit.
+p32
+aVI know most of you have had the experience of coming back
+p33
+aVhome and finding your kids playing these kinds of games.
+p34
+aV(Shooting noises) The name of the game is to get
+p35
+aVafter your enemy zombie bad guys
+p36
+aVbefore they get to you, right?
+p37
+aVAnd I'm almost sure most of you have thought,
+p38
+aV"Oh, come on, can't you do something more intelligent
+p39
+aVthan shooting at zombies?"
+p40
+aVI'd like you to put this kind of knee-jerk reaction
+p41
+aVin the context of what you would have thought
+p42
+aVif you had found your girl playing sudoku
+p43
+aVor your boy reading Shakespeare. Right?
+p44
+aVMost parents would find that great.
+p45
+aVWell, I'm not going to tell you that playing video games
+p46
+aVdays in and days out is actually good for your health.
+p47
+aVIt's not, and binging is never good.
+p48
+aVBut I'm going to argue that in reasonable doses,
+p49
+aVactually the very game I showed you at the beginning,
+p50
+aVthose action-packed shooter games
+p51
+aVhave quite powerful effects and positive effects
+p52
+aVon many different aspects of our behavior.
+p53
+aa(lp54
+VThere's not one week that goes without some major
+p55
+aVheadlines in the media about whether video games are
+p56
+aVgood or bad for you, right? You're all bombarded with that.
+p57
+aVI'd like to put this kind of Friday night bar discussion aside
+p58
+aVand get you to actually step into the lab.
+p59
+aVWhat we do in the lab is actually measure directly,
+p60
+aVin a quantitative fashion, what is the impact
+p61
+aVof video games on the brain.
+p62
+aVAnd so I'm going to take a few examples from our work.
+p63
+aa(lp64
+VOne first saying that I'm sure you all have heard
+p65
+aVis the fact that too much screen time
+p66
+aVmakes your eyesight worse.
+p67
+aVThat's a statement about vision.
+p68
+aVThere may be vision scientists among you.
+p69
+aVWe actually know how to test that statement.
+p70
+aVWe can step into the lab and measure how good your vision is.
+p71
+aVWell, guess what? People that don't play a lot
+p72
+aVof action games, that don't actually spend a lot of time
+p73
+aVin front of screens, have normal, or what we call
+p74
+aVcorrective-to-normal vision. That's okay.
+p75
+aVThe issue is what happens with these guys that actually
+p76
+aVindulge into playing video games like five hours per week,
+p77
+aV10 hours per week, 15 hours per week.
+p78
+aVBy that statement, their vision should be really bad, right?
+p79
+aVGuess what? Their vision is really, really good.
+p80
+aVIt's better than those that don't play.
+p81
+aVAnd it's better in two different ways.
+p82
+aVThe first way is that they're actually able to resolve
+p83
+aVsmall detail in the context of clutter, and though that means
+p84
+aVbeing able to read the fine print on a prescription
+p85
+aVrather than using magnifier glasses, you can actually do it
+p86
+aVwith just your eyesight.
+p87
+aVThe other way that they are better is actually being able
+p88
+aVto resolve different levels of gray.
+p89
+aVImagine you're driving in a fog. That makes a difference
+p90
+aVbetween seeing the car in front of you
+p91
+aVand avoiding the accident, or getting into an accident.
+p92
+aVSo we're actually leveraging that work to develop games
+p93
+aVfor patients with low vision, and to have an impact
+p94
+aVon retraining their brain to see better.
+p95
+aVClearly, when it comes to action video games,
+p96
+aVscreen time doesn't make your eyesight worse.
+p97
+aa(lp98
+VAnother saying that I'm sure you have all heard around:
+p99
+aVVideo games lead to attention problems and greater distractability.
+p100
+aVOkay, we know how to measure attention in the lab.
+p101
+aVI'm actually going to give you an example of how we do so.
+p102
+aVI'm going to ask you to participate, so you're going to have
+p103
+aVto actually play the game with me. I'm going to show you
+p104
+aVcolored words. I want you to shout out the color of the ink.
+p105
+aVRight? So this is the first example.
+p106
+aV["Chair"]
+p107
+aVOrange, good. ["Table"] Green.
+p108
+aV["Board"] Audience: Red.Daphne Bavelier: Red.
+p109
+aV["Horse"] DB: Yellow. Audience: Yellow.
+p110
+aV["Yellow"] DB: Red. Audience: Yellow.
+p111
+aV["Blue"] DB: Yellow.
+p112
+aVOkay, you get my point, right? (Laughter)
+p113
+aVYou're getting better, but it's hard. Why is it hard?
+p114
+aVBecause I introduced a conflict between
+p115
+aVthe word itself and its color.
+p116
+aVHow good your attention is determines actually how fast
+p117
+aVyou resolve that conflict, so the young guys here
+p118
+aVat the top of their game probably, like, did a little better
+p119
+aVthan some of us that are older.
+p120
+aVWhat we can show is that when you do this kind of task
+p121
+aVwith people that play a lot of action games,
+p122
+aVthey actually resolve the conflict faster.
+p123
+aVSo clearly playing those action games doesn't lead
+p124
+aVto attention problems.
+p125
+aa(lp126
+VActually, those action video game players have
+p127
+aVmany other advantages in terms of attention, and one
+p128
+aVaspect of attention which is also improved for the better
+p129
+aVis our ability to track objects around in the world.
+p130
+aVThis is something we use all the time. When you're driving,
+p131
+aVyou're tracking, keeping track of the cars around you.
+p132
+aVYou're also keeping track of the pedestrian, the running dog,
+p133
+aVand that's how you can actually be safe driving, right?
+p134
+aa(lp135
+VIn the lab, we get people to come to the lab,
+p136
+aVsit in front of a computer screen, and we give them
+p137
+aVlittle tasks that I'm going to get you to do again.
+p138
+aVYou're going to see yellow happy faces
+p139
+aVand a few sad blue faces. These are children
+p140
+aVin the schoolyard in Geneva during a recess
+p141
+aVduring the winter. Most kids are happy. It's actually recess.
+p142
+aVBut a few kids are sad and blue because they've forgotten their coat.
+p143
+aVEverybody begins to move around, and your task
+p144
+aVis to keep track of who had a coat at the beginning
+p145
+aVand who didn't. So I'm just going to show you an example
+p146
+aVwhere there is only one sad kid. It's easy because you can
+p147
+aVactually track it with your eyes. You can track,
+p148
+aVyou can track, and then when it stops, and there is
+p149
+aVa question mark, and I ask you, did this kid have a coat or not?
+p150
+aVWas it yellow initially or blue?
+p151
+aVI hear a few yellow. Good. So most of you have a brain. (Laughter)
+p152
+aVI'm now going to ask you to do the task, but now with
+p153
+aVa little more challenging task. There are going to be
+p154
+aVthree of them that are blue. Don't move your eyes.
+p155
+aVPlease don't move your eyes. Keep your eyes fixated
+p156
+aVand expand, pull your attention. That's the only way
+p157
+aVyou can actually do it. If you move your eyes, you're doomed.
+p158
+aVYellow or blue?
+p159
+aVAudience: Yellow.DB: Good.
+p160
+aVSo your typical normal young adult
+p161
+aVcan have a span of about three or four objects of attention.
+p162
+aVThat's what we just did. Your action video game player
+p163
+aVhas a span of about six to seven objects of attention,
+p164
+aVwhich is what is shown in this video here.
+p165
+aVThat's for you guys, action video game players.
+p166
+aVA bit more challenging, right? (Laughter)
+p167
+aVYellow or blue? Blue. We have some people
+p168
+aVthat are serious out there. Yeah. (Laughter)
+p169
+aa(lp170
+VGood. So in the same way that we actually see
+p171
+aVthe effects of video games on people's behavior,
+p172
+aVwe can use brain imaging and look at the impact
+p173
+aVof video games on the brain, and we do find many changes,
+p174
+aVbut the main changes are actually to the brain networks
+p175
+aVthat control attention. So one part is the parietal cortex
+p176
+aVwhich is very well known to control the orientation of attention.
+p177
+aVThe other one is the frontal lobe, which controls
+p178
+aVhow we sustain attention, and another one
+p179
+aVis the anterior cingulate, which controls how we allocate
+p180
+aVand regulate attention and resolve conflict.
+p181
+aVNow, when we do brain imaging, we find that all three
+p182
+aVof these networks are actually much more efficient
+p183
+aVin people that play action games.
+p184
+aa(lp185
+VThis actually leads me to a rather counterintuitive finding
+p186
+aVin the literature about technology and the brain.
+p187
+aVYou all know about multitasking. You all have been faulty
+p188
+aVof multitasking when you're driving
+p189
+aVand you pick up your cellphone. Bad idea. Very bad idea.
+p190
+aVWhy? Because as your attention shifts to your cell phone,
+p191
+aVyou are actually losing the capacity to react swiftly
+p192
+aVto the car braking in front of you, and so you're
+p193
+aVmuch more likely to get engaged into a car accident.
+p194
+aVNow, we can measure that kind of skills in the lab.
+p195
+aVWe obviously don't ask people to drive around and see
+p196
+aVhow many car accidents they have. That would be a little
+p197
+aVcostly proposition. But we design tasks on the computer
+p198
+aVwhere we can measure, to millisecond accuracy,
+p199
+aVhow good they are at switching from one task to another.
+p200
+aVWhen we do that, we actually find that people
+p201
+aVthat play a lot of action games are really, really good.
+p202
+aVThey switch really fast, very swiftly. They pay a very small cost.
+p203
+aa(lp204
+VNow I'd like you to remember that result, and put it
+p205
+aVin the context of another group of technology users,
+p206
+aVa group which is actually much revered by society,
+p207
+aVwhich are people that engage in multimedia-tasking.
+p208
+aVWhat is multimedia-tasking? It's the fact that most of us,
+p209
+aVmost of our children, are engaged with listening to music
+p210
+aVat the same time as they're doing search on the web
+p211
+aVat the same time as they're chatting on Facebook with their friends.
+p212
+aVThat's a multimedia-tasker.
+p213
+aVThere was a first study done by colleagues at Stanford
+p214
+aVand that we replicated that showed that
+p215
+aVthose people that identify as being high multimedia-taskers
+p216
+aVare absolutely abysmal at multitasking.
+p217
+aVWhen we measure them in the lab, they're really bad.
+p218
+aa(lp219
+VRight? So these kinds of results really
+p220
+aVmakes two main points.
+p221
+aVThe first one is that not all media are created equal.
+p222
+aVYou can't compare the effect of multimedia-tasking
+p223
+aVand the effect of playing action games. They have
+p224
+aVtotally different effects on different aspects of cognition,
+p225
+aVperception and attention.
+p226
+aVEven within video games, I'm telling you right now
+p227
+aVabout these action-packed video games.
+p228
+aVDifferent video games have a different effect on your brains.
+p229
+aVSo we actually need to step into the lab and really measure
+p230
+aVwhat is the effect of each video game.
+p231
+aa(lp232
+VThe other lesson is that general wisdom carries no weight.
+p233
+aVI showed that to you already, like we looked at the fact that
+p234
+aVdespite a lot of screen time, those action gamers
+p235
+aVhave a lot of very good vision, etc.
+p236
+aVHere, what was really striking is that these undergraduates
+p237
+aVthat actually report engaging in a lot of high
+p238
+aVmultimedia-tasking are convinced they aced the test.
+p239
+aVSo you show them their data, you show them they are bad
+p240
+aVand they're like, "Not possible." You know, they have
+p241
+aVthis sort of gut feeling that, really, they are doing really, really good.
+p242
+aVThat's another argument for why we need to step into the lab
+p243
+aVand really measure the impact of technology on the brain.
+p244
+aa(lp245
+VNow in a sense, when we think about the effect
+p246
+aVof video games on the brain, it's very similar
+p247
+aVto the effect of wine on the health.
+p248
+aVThere are some very poor uses of wine. There are some
+p249
+aVvery poor uses of video games. But when consumed
+p250
+aVin reasonable doses, and at the right age,
+p251
+aVwine can be very good for health. There are actually
+p252
+aVspecific molecules that have been identified
+p253
+aVin red wine as leading to greater life expectancy.
+p254
+aVSo it's the same way, like those action video games
+p255
+aVhave a number of ingredients that are actually really
+p256
+aVpowerful for brain plasticity, learning, attention,
+p257
+aVvision, etc., and so we need and we're working on
+p258
+aVunderstanding what are those active ingredients so that
+p259
+aVwe can really then leverage them to deliver better games,
+p260
+aVeither for education or for rehabilitation of patients.
+p261
+aa(lp262
+VNow because we are interested in having an impact
+p263
+aVfor education or rehabilitation of patients, we are actually
+p264
+aVnot that interested in how those of you that choose
+p265
+aVto play video games for many hours on end perform.
+p266
+aVI'm much more interested in taking any of you
+p267
+aVand showing that by forcing you to play an action game,
+p268
+aVI can actually change your vision for the better,
+p269
+aVwhether you want to play that action game or not, right?
+p270
+aVThat's the point of rehabilitation or education.
+p271
+aVMost of the kids don't go to school saying,
+p272
+aV"Great, two hours of math!"
+p273
+aa(lp274
+VSo that's really the crux of the research, and to do that,
+p275
+aVwe need to go one more step.
+p276
+aVAnd one more step is to do training studies.
+p277
+aVSo let me illustrate that step with
+p278
+aVa task which is called mental rotation.
+p279
+aVMental rotation is a task where I'm going to ask you,
+p280
+aVand again you're going to do the task,
+p281
+aVto look at this shape. Study it, it's a target shape,
+p282
+aVand I'm going to present to you four different shapes.
+p283
+aVOne of these four different shapes is actually a rotated
+p284
+aVversion of this shape. I want you to tell me which one:
+p285
+aVthe first one, second one, third one or fourth one?
+p286
+aVOkay, I'll help you. Fourth one.
+p287
+aVOne more. Get those brains working. Come on.
+p288
+aVThat's our target shape.
+p289
+aVThird. Good! This is hard, right?
+p290
+aVLike, the reason that I asked you to do that is because
+p291
+aVyou really feel your brain cringing, right?
+p292
+aVIt doesn't really feel like playing mindless action video games.
+p293
+aa(lp294
+VWell, what we do in these training studies is, people
+p295
+aVcome to the lab, they do tasks like this one,
+p296
+aVwe then force them to play 10 hours of action games.
+p297
+aVThey don't play 10 hours of action games in a row.
+p298
+aVThey do distributed practice, so little shots of 40 minutes
+p299
+aVseveral days over a period of two weeks.
+p300
+aVThen, once they are done with the training, they come back
+p301
+aVa few days later and they are tested again on a similar type
+p302
+aVof mental rotation task. So this is work from a colleague
+p303
+aVin Toronto. What they showed is that, initially,
+p304
+aVyou know, subjects perform where they are expected
+p305
+aVto perform given their age. After two weeks of training
+p306
+aVon action video games, they actually perform better,
+p307
+aVand the improvement is still there five months after
+p308
+aVhaving done the training. That's really, really important.
+p309
+aVWhy? Because I told you we want to use these games
+p310
+aVfor education or for rehabilitation. We need to have effects
+p311
+aVthat are going to be long-lasting.
+p312
+aa(lp313
+VNow, at this point, a number of you are probably wondering
+p314
+aVwell, what are you waiting for, to put on the market
+p315
+aVa game that would be good for the attention
+p316
+aVof my grandmother and that she would actually enjoy,
+p317
+aVor a game that would be great to rehabilitate the vision
+p318
+aVof my grandson who has amblyopia, for example?
+p319
+aa(lp320
+VWell, we're working on it, but here is a challenge.
+p321
+aVThere are brain scientists like me that are beginning
+p322
+aVto understand what are the good ingredients in games
+p323
+aVto promote positive effects, and that's what I'm going
+p324
+aVto call the broccoli side of the equation.
+p325
+aVThere is an entertainment software industry
+p326
+aVwhich is extremely deft at coming up with
+p327
+aVappealing products that you can't resist.
+p328
+aVThat's the chocolate side of the equation.
+p329
+aVThe issue is we need to put the two together,
+p330
+aVand it's a little bit like with food.
+p331
+aVWho really wants to eat chocolate-covered broccoli?
+p332
+aVNone of you. (Laughter) And you probably have had
+p333
+aVthat feeling, right, picking up an education game
+p334
+aVand sort of feeling, hmm, you know, it's not really fun,
+p335
+aVit's not really engaging. So what we need
+p336
+aVis really a new brand of chocolate, a brand of chocolate
+p337
+aVthat is irresistible, that you really want to play,
+p338
+aVbut that has all the ingredients, the good ingredients
+p339
+aVthat are extracted from the broccoli that you can't recognize
+p340
+aVbut are still working on your brains. And we're working on it,
+p341
+aVbut it takes brain scientists to come and to get together,
+p342
+aVpeople that work in the entertainment software industry,
+p343
+aVand publishers, so these are not people that usually
+p344
+aVmeet every day, but it's actually doable,
+p345
+aVand we are on the right track.
+p346
+aVI'd like to leave you with that thought,
+p347
+aVand thank you for your attention. (Applause)
+p348
+aV(Applause)
+p349
+aasS'id'
+p350
+I1618
+sS'title'
+p351
+VYour brain on video games
+p352
+s.

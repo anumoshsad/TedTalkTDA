@@ -1,0 +1,584 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VMost people don't know that when I went to high school in this country \u2014
+p4
+aVI applied for university at a time when I was convinced
+p5
+aVI was going to be an artist and be a sculptor.
+p6
+aVAnd I came from a very privileged background. I was very lucky.
+p7
+aVMy family was wealthy, and my father believed in one thing,
+p8
+aVand that was to give us all as much education as we wanted.
+p9
+aVAnd I announced I wanted to be a sculptor in Paris.
+p10
+aVAnd he was a clever man. He sort of said,
+p11
+aV"Well, that's OK, but you've done very well in your math SATs."
+p12
+aVIn fact, I'd got an 800. And he thought I did very well \u2014 and I did, too \u2014 in the arts:
+p13
+aVthis was my passion.
+p14
+aVAnd he said "If you go to MIT," to which I had been given early admission,
+p15
+aV"I will pay for every year you're at MIT,
+p16
+aVin graduate or undergraduate \u2014 as much as you want \u2014
+p17
+aVI will pay for an equal number of years for you to live in Paris."
+p18
+aVAnd I thought that was the best deal in town, so I accepted it immediately.
+p19
+aVAnd I decided that if I was good in art, and I was good in mathematics,
+p20
+aVI'd study architecture, which was the blending of the two.
+p21
+aa(lp22
+VI went and told my headmaster that, at prep school.
+p23
+aVAnd I said to him what I was doing, that I was going to go study architecture
+p24
+aVbecause it was art and mathematics put together.
+p25
+aVHe said to me something that just went completely over my head.
+p26
+aVHe said, "You know, I like grey suits, and I like pin-striped suits,
+p27
+aVbut I don't like grey pin-striped suits."
+p28
+aVAnd I thought, "What a turkey this guy is," and I went off to MIT.
+p29
+aVI studied architecture, then did a second degree in architecture,
+p30
+aVand then actually quickly realized that it wasn't architecture.
+p31
+aVThat really, the mixing of art and science was computers,
+p32
+aVand that that really was the place to bring both, and enjoyed a career doing that.
+p33
+aa(lp34
+VAnd probably, if I were to fill out Jim Citrin's scale,
+p35
+aVI'd put 100 percent on the side of the equation
+p36
+aVwhere you spend time making it possible for others to be creative.
+p37
+aVAnd after doing this for a long time, and the Media Lab passing the baton on,
+p38
+aVI thought, "Well, maybe it's time for me to do a project.
+p39
+aVSomething that would be important, but also something
+p40
+aVthat would take advantage of all of these privileges that one had."
+p41
+aVAnd in the case of the Media Lab, knowing a lot of people,
+p42
+aVknowing people who were either executives or wealthy,
+p43
+aVand also not having, in my own case, a career to worry about anymore.
+p44
+aVMy career, I mean, I'd done my career.
+p45
+aVDidn't have to worry about earning money.
+p46
+aVDidn't have to worry about what people thought about me.
+p47
+aVAnd I said, "Boy, let's really do something that takes advantage of all these features,"
+p48
+aVand thought that if we could address education, by leveraging the children,
+p49
+aVand bringing to the world the access of the computers,
+p50
+aVthat that was really the thing we should do.
+p51
+aVNever shown this picture before, and probably going to be sued for it.
+p52
+aVIt's taken at three o'clock in the morning, without the permission of the company.
+p53
+aVIt's about two weeks old. There they are, folks.
+p54
+aa(lp55
+V(Applause)
+p56
+aa(lp57
+VIf you look at the picture, you'll see they're stacked up.
+p58
+aVThose are conveyor belts that go around.
+p59
+aVThis is one of the conveyor belts with the thing going by,
+p60
+aVbut then you'll see the ones up above.
+p61
+aVWhat happens is, they burn into flash memory the software,
+p62
+aVand then test them for a few hours.
+p63
+aVBut you've got to have the thing moving on the assembly line, because it's constant.
+p64
+aVSo they go around in this loop, which is why you see them up there.
+p65
+aVSo this was great for us because it was a real turning point. But it goes back.
+p66
+aVThis picture was taken in 1982, just before the IBM PC was even announced.
+p67
+aVSeymour Papert and I were bringing computers to schools
+p68
+aVand developing nations at a time when it was way ahead of itself.
+p69
+aVBut one thing we learned was that these kids can absolutely jump into it
+p70
+aVjust the same way as our kids do here.
+p71
+aa(lp72
+VAnd when people tell me, "Who's going to teach the teachers to teach the kids?"
+p73
+aVI say to myself, "What planet do you come from?"
+p74
+aVOkay, there's not a person in this room \u2014 I don't care how techie you are \u2014
+p75
+aVthere's not a person in this room that doesn't give their laptop or cell phone to a kid
+p76
+aVto help them debug it. OK?
+p77
+aVWe all need help, even those of us who are very seasoned.
+p78
+aVThis picture of Seymour \u2014 25 years ago. Seymour made a very simple
+p79
+aVobservation in 1968, and then basically presented it in 1970 \u2014
+p80
+aVApril 11 to be precise \u2014 called "Teaching Children Thinking."
+p81
+aVWhat he observed was that kids who write computer programs
+p82
+aVunderstand things differently, and when they debug the programs,
+p83
+aVthey come the closest to learning about learning.
+p84
+aVThat was very important, and in some sense, we've lost that.
+p85
+aVKids don't program enough and boy,
+p86
+aVif there's anything I hope this brings back, it's programming to kids.
+p87
+aa(lp88
+VIt's really important. Using applications is OK,
+p89
+aVbut programming is absolutely fundamental.
+p90
+aVThis is being launched with three languages in it: Squeak, Logo, and
+p91
+aVa third, that I've never even seen before.
+p92
+aVThe point being, this is going to be very, very intensive on the programming side.
+p93
+aVThis photograph is very important because it's much later.
+p94
+aVThis is in the early 2000s. My son, Dimitri \u2014 who's here,
+p95
+aVmany of you know Dimitri \u2014 went to Cambodia, set up this school
+p96
+aVthat we had built, just as the school connected it to the Internet.
+p97
+aVAnd these kids had their laptops. But it was really what spirited this,
+p98
+aVplus the influence of Joe and others. We started One Laptop per Child.
+p99
+aVThis is the same village in Cambodia, just a couple of months ago.
+p100
+aVThese kids are real pros. There were just 7,000 machines out there
+p101
+aVbeing tested by kids. Being a nonprofit is absolutely fundamental.
+p102
+aa(lp103
+VEverybody advised me not to be a nonprofit, but they were all wrong.
+p104
+aVAnd the reason being a nonprofit is important is actually twofold.
+p105
+aVThere are many reasons, but the two that merit the little bit of time is:
+p106
+aVone, the clarity of purpose is there. The moral purpose is clear.
+p107
+aVI can see any head of state, any executive I want, at any time, because
+p108
+aVI'm not selling laptops. OK? I have no shareholders.
+p109
+aVWhether we sell, it doesn't make any difference whatsoever.
+p110
+aVThe clarity of purpose is absolutely critical. And the second is very counterintuitive \u2014
+p111
+aVyou can get the best people in the world.
+p112
+aVIf you look at our professional services, including search firms,
+p113
+aVincluding communications, including legal services, including banking,
+p114
+aVthey're all pro bono. And it's not to save money.
+p115
+aVWe've got money in the bank. It's because you get the best people.
+p116
+aVYou get the people who are doing it because they believe in the mission,
+p117
+aVand they're the best people.
+p118
+aa(lp119
+VWe couldn't afford to hire a CFO. We put out a job description for a CFO at zero salary,
+p120
+aVand we had a queue of people.
+p121
+aVIt allows you to team up with people. The U.N.'s not going to be
+p122
+aVour partner if we're profit making. So announcing this with Kofi Annan
+p123
+aVwas very important, and the U.N. allowed us
+p124
+aVto basically reach all the countries. And this was the machine we were showing
+p125
+aVbefore I met Yves Behar.
+p126
+aVAnd while this machine in some sense is silly,
+p127
+aVin retrospect, it actually served a very important purpose.
+p128
+aVThat pencil-yellow crank was remembered by everybody.
+p129
+aVEverybody remembered the pencil-yellow crank. It's different.
+p130
+aVIt was getting its power in a different way. It's kind of childlike.
+p131
+aVEven though this wasn't the direction we went because the crank \u2014
+p132
+aVit really is stupid to have it on board, by the way.
+p133
+aVIn spite of what some people in the press don't get it, didn't understand it,
+p134
+aVwe didn't take it off because we didn't want to do \u2014
+p135
+aVhaving it on the laptop itself is really not what you want.
+p136
+aVYou want a separate thing, like the AC adaptor.
+p137
+aVI didn't bring one with me, but they really work much better off-board.
+p138
+aVAnd then, I could tell you lots about the laptop, but I decided on just four things.
+p139
+aa(lp140
+VJust keep in mind \u2014 because there are other people, including Bill Gates,
+p141
+aVwho said, "Gee, you've got a real computer."
+p142
+aVThat computer is unlike anything you've had, and does things \u2014
+p143
+aVthere are four of them \u2014
+p144
+aVthat you don't come close to. And it's very important to be low power,
+p145
+aVand I hope that's picked up more by the industry.
+p146
+aVThat the reason that you want to be below two watts is
+p147
+aVthat's roughly what you can generate with your upper body.
+p148
+aVDual-mode display \u2014 that sunlight display's fantastic.
+p149
+aVWe were using it at lunch today in the sunlight, and the more sunlight the better.
+p150
+aVAnd that was really critical. The mesh network, it'll become commonplace.
+p151
+aVAnd of course, "rugged" goes without saying.
+p152
+aVAnd the reason I think design matters isn't because I wanted to go to art school.
+p153
+aa(lp154
+VAnd by the way, when I graduated from MIT,
+p155
+aVI thought the worst and silliest thing to do would be to go to Paris for six years. (Laughter)
+p156
+aVSo, I didn't do that. But design matters for a number of reasons.
+p157
+aVThe most important being that it is the best way to make an inexpensive product.
+p158
+aVMost people make inexpensive products by taking cheap design,
+p159
+aVcheap labor, cheap components, and making a cheap laptop.
+p160
+aVAnd, in English, the word "cheap" has
+p161
+aVa double meaning, which is really appropriate,
+p162
+aVbecause it's cheap, in the pejorative sense, as well as inexpensive.
+p163
+aVBut if you take a different approach, and you think of very large-scale integration,
+p164
+aVvery advanced materials, very advanced manufacturing \u2014
+p165
+aVso you're pouring chemicals in one end, iPods are spewing out the other \u2014
+p166
+aVand really cool design, that's what we wanted to do.
+p167
+aa(lp168
+VAnd I can race through these and save a lot of time because
+p169
+aVYves and I obviously didn't compare notes.
+p170
+aVThese are his slides, and so I don't have to talk about them.
+p171
+aVBut it was really, to us, very important as a strategy.
+p172
+aVIt wasn't just to kind of make it cute, because somebody \u2014
+p173
+aVyou know, good design is very important.
+p174
+aVYves showed one of the power-generating devices.
+p175
+aVThe mesh network, the reason I \u2014 and I won't go into it in great detail \u2014
+p176
+aVbut when we deliver laptops to kids in the remotest and poorest parts of the world,
+p177
+aVthey're connected. There's not just laptops.
+p178
+aVAnd so, we have to drop in satellite dishes. We put in generators.
+p179
+aVIt's a lot of stuff that goes behind these. These can talk to each other.
+p180
+aVIf you're in a desert, they can talk to each other about two kilometers apart.
+p181
+aVIf you're in the jungle, it's about 500 meters. So if a kid bicycles home,
+p182
+aVor walks a few miles, they're going to be off the grid, so to speak.
+p183
+aVThey're not going to be near another laptop,
+p184
+aVso you have to nail these onto a tree, and sort of, get it.
+p185
+aa(lp186
+VYou don't call Verizon or Sprint. You build your own network.
+p187
+aVAnd that's very important, the user interface.
+p188
+aVWe are launching with 18 keyboards. English is by far the minority.
+p189
+aVLatin is relatively rare, too. You just look at some of the languages.
+p190
+aVI'm willing to suspect some of you hadn't even heard of them before.
+p191
+aVIs there anybody in the room, one person, unless you work with OLPC,
+p192
+aVis there anybody in the room that can tell me what language
+p193
+aVthe keyboard is that's on the screen? There's only one hand \u2014 so you get it.
+p194
+aVYes, you're right. He's right. It's Amharic,
+p195
+aVit's Ethiopian. In Ethiopia, there's never been a keyboard.
+p196
+aVThere is no keyboard standard because there's no market.
+p197
+aVAnd this is the big difference.
+p198
+aa(lp199
+VAgain, when you're a nonprofit, you look at children as a mission, not as a market.
+p200
+aVSo we went to Ethiopia, and we helped them make a keyboard.
+p201
+aVAnd this will become the standard Ethiopian keyboard.
+p202
+aVSo what I want to end with is sort of what we're doing to roll it out.
+p203
+aVAnd we changed strategy completely. I decided at the beginning \u2014
+p204
+aVit was a pretty good thing to decide in the beginning,
+p205
+aVit's not what we're doing now \u2014 is to go to six countries.
+p206
+aVBig countries, one of them is not so big, but it's rich.
+p207
+aVHere's the six. We went to the six,
+p208
+aVand in each case the head of state said he would do it, he'd do a million.
+p209
+aVIn the case of Gaddafi, he'd do 1.2 million, and that they would launch it.
+p210
+aVWe thought, this is exactly the right strategy, get it out,
+p211
+aVand then the little countries could sort of piggyback on these big countries.
+p212
+aa(lp213
+VAnd so I went to each of those countries
+p214
+aVat least six times, met with the head of state probably two or three times.
+p215
+aVIn each case, got the ministers, went through a lot of the stuff.
+p216
+aVThis was a period in my life where I was traveling 330 days per year.
+p217
+aVNot something you'd envy or want to do.
+p218
+aVIn the case of Libya, it was a lot of fun meeting Gaddafi in his tent.
+p219
+aVThe camel smells were unbelievable.
+p220
+aVAnd it was 45 degrees C. I mean, this was not
+p221
+aVwhat you'd call a cool experience. And former countries \u2014
+p222
+aVI say former, because none of them really came through this summer \u2014
+p223
+aVthere was a big difference between getting a head of state
+p224
+aVto have a photo opportunity, make a press release.
+p225
+aVSo we went to smaller ones. Uruguay, bless their hearts.
+p226
+aVSmall country, not so rich. President said he'd do it, and guess what?
+p227
+aVHe did do it. The tender had nothing in it that related to us,
+p228
+aVnothing specific about sunlight-readable, mesh-network, low-power,
+p229
+aVbut just a vanilla laptop proposal.
+p230
+aVAnd guess what? We won it hands down.
+p231
+aVWhen it was announced that they were going to do every child in Uruguay,
+p232
+aVthe first 100,000, boom, went to OLPC.
+p233
+aVThe next day \u2014 the next day, not even 24 hours had passed \u2014 in Peru,
+p234
+aVthe president of Peru said, "We'll do 250." And boom, a little domino effect.
+p235
+aa(lp236
+VThe president of Rwanda stepped in and said he would do it.
+p237
+aVThe president of Ethiopia said he would do it.
+p238
+aVAnd boom, boom, boom. The president of Mongolia.
+p239
+aVAnd so what happens is, these things start to happen with these countries \u2014
+p240
+aVstill not enough.
+p241
+aVAdd up all those countries, it didn't quite get to thing, so we said,
+p242
+aV"Let's start a program in the United States." So, end of August, early September,
+p243
+aVwe decide to do this. We announced it near the middle, end \u2014
+p244
+aVjust when the Clinton Initiative was taking place.
+p245
+aVWe thought that was a good time to announce it.
+p246
+aVLaunched it on the 12 of November.
+p247
+aVWe said it would be just for a short period until the 26. We've extended it until the 31.
+p248
+aVAnd the "Give One, Get One" program is really important because
+p249
+aVit got a lot of people absolutely interested.
+p250
+aa(lp251
+VThe first day it was just wild. And then we said,
+p252
+aV"Well, let's get people to give many. Not just one, and get one,
+p253
+aVbut maybe give 100, give 1,000." And that's where you come in.
+p254
+aVAnd that's where I think it's very important. I don't want you all to go out and
+p255
+aVbuy 400 dollars worth of laptops. Okay? Do it, but that's not going to help. Okay?
+p256
+aVIf everybody in this room goes out tonight and orders one of these things for 400 dollars,
+p257
+aVwhatever it is, 300 people in the room doing it \u2014 yeah, great.
+p258
+aVI want you do something else.
+p259
+aVAnd it's not to go out and buy 100 or 1,000, though,
+p260
+aVI invite you to do that, and 10,000 would be even better.
+p261
+aa(lp262
+VTell people about it! It's got to become viral, OK?
+p263
+aVUse your mailing lists. People in this room have extraordinary mailing lists.
+p264
+aVGet your friends to give one, get one.
+p265
+aVAnd if each one of you sends it to 300 or 400 people, that would be fantastic.
+p266
+aVI won't dwell on the pricing at all.
+p267
+aVJust to say that when you do the "Give One, Get One,"
+p268
+aVa lot of press is a bit about, "They didn't make it, it's 188 dollars, it's not 100."
+p269
+aVIt will be 100 in two years. It will go below 100.
+p270
+aVWe've pledged not to add features, but to bring that price down.
+p271
+aVBut it was the countries that wanted it to go up, and
+p272
+aVwe let them push it up for all sorts of reasons. So what you can do \u2014
+p273
+aVI've just said it. Don't just give one, get one.
+p274
+aa(lp275
+VI just want to end with one last one. This one is not even
+p276
+aV24-hours old, or maybe it's 24-hours.
+p277
+aVThe first kids got their laptops. They got them by ship,
+p278
+aVand I'm talking now about 7,000, 8,000 at a time went out this week.
+p279
+aVThey went to Uruguay, Peru, Mexico.
+p280
+aVAnd it's been slow coming, and we're only making about 5,000 a week,
+p281
+aVbut we hope, we hope, sometime in next year,
+p282
+aVmaybe by the middle of the year,
+p283
+aVto hit a million a month. Now put that number,
+p284
+aVand a million isn't so much. It's not a big number.
+p285
+aVWe're selling a billion cell phones worldwide this year.
+p286
+aVBut a million a month in laptop-land is a big number.
+p287
+aVAnd the world production today, everybody combined, making laptops,
+p288
+aVis five million a month. So I'm standing here telling you that sometime next year,
+p289
+aVwe're going to make 20 percent of the world production.
+p290
+aVAnd if we do that, there are going to be a lot of lucky kids out there.
+p291
+aVAnd we hope if you have EG two years from now,
+p292
+aVor whenever you have it again,
+p293
+aVI won't have bad breath, and I will be invited back,
+p294
+aVand will have, hopefully by then, maybe 100 million out there to children.
+p295
+aVThank you.
+p296
+aa(lp297
+V(Applause)
+p298
+aasS'id'
+p299
+I288
+sS'title'
+p300
+VOne Laptop per Child, two years on
+p301
+s.

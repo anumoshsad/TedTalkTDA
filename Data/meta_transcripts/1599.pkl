@@ -1,0 +1,484 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI grew up in Bihar, India's poorest state,
+p4
+aVand I remember when I was six years old,
+p5
+aVI remember coming home one day to find a cart
+p6
+aVfull of the most delicious sweets at our doorstep.
+p7
+aVMy brothers and I dug in,
+p8
+aVand that's when my father came home.
+p9
+aVHe was livid, and I still remember how we cried
+p10
+aVwhen that cart with our half-eaten sweets
+p11
+aVwas pulled away from us.
+p12
+aa(lp13
+VLater, I understood why my father got so upset.
+p14
+aVThose sweets were a bribe
+p15
+aVfrom a contractor who was trying to get my father
+p16
+aVto award him a government contract.
+p17
+aVMy father was responsible for building roads in Bihar,
+p18
+aVand he had developed a firm stance against corruption,
+p19
+aVeven though he was harassed and threatened.
+p20
+aVHis was a lonely struggle, because Bihar
+p21
+aVwas also India's most corrupt state,
+p22
+aVwhere public officials were enriching themselves,
+p23
+aV[rather] than serving the poor who had no means
+p24
+aVto express their anguish if their children
+p25
+aVhad no food or no schooling.
+p26
+aa(lp27
+VAnd I experienced this most viscerally
+p28
+aVwhen I traveled to remote villages to study poverty.
+p29
+aVAnd as I went village to village,
+p30
+aVI remember one day, when I was famished and exhausted,
+p31
+aVand I was almost collapsing
+p32
+aVin a scorching heat under a tree,
+p33
+aVand just at that time, one of the poorest men in that village
+p34
+aVinvited me into his hut and graciously fed me.
+p35
+aVOnly I later realized that what he fed me
+p36
+aVwas food for his entire family for two days.
+p37
+aVThis profound gift of generosity
+p38
+aVchallenged and changed the very purpose of my life.
+p39
+aVI resolved to give back.
+p40
+aa(lp41
+VLater, I joined the World Bank, which sought to fight
+p42
+aVsuch poverty by transferring aid from rich to poor countries.
+p43
+aVMy initial work focused on Uganda, where I focused
+p44
+aVon negotiating reforms with the Finance Ministry of Uganda
+p45
+aVso they could access our loans.
+p46
+aVBut after we disbursed the loans, I remember
+p47
+aVa trip in Uganda where I found newly built schools
+p48
+aVwithout textbooks or teachers,
+p49
+aVnew health clinics without drugs,
+p50
+aVand the poor once again without any voice or recourse.
+p51
+aVIt was Bihar all over again.
+p52
+aa(lp53
+VBihar represents the challenge of development:
+p54
+aVabject poverty surrounded by corruption.
+p55
+aVGlobally, 1.3 billion people live on less than
+p56
+aV$1.25 a day, and the work I did in Uganda
+p57
+aVrepresents the traditional approach to these problems
+p58
+aVthat has been practiced since 1944,
+p59
+aVwhen winners of World War II, 500 founding fathers,
+p60
+aVand one lonely founding mother,
+p61
+aVgathered in New Hampshire, USA,
+p62
+aVto establish the Bretton Woods institutions,
+p63
+aVincluding the World Bank.
+p64
+aVAnd that traditional approach to development
+p65
+aVhad three key elements. First, transfer of resources
+p66
+aVfrom rich countries in the North
+p67
+aVto poorer countries in the South,
+p68
+aVaccompanied by reform prescriptions.
+p69
+aVSecond, the development institutions that channeled
+p70
+aVthese transfers were opaque, with little transparency
+p71
+aVof what they financed or what results they achieved.
+p72
+aVAnd third, the engagement in developing countries
+p73
+aVwas with a narrow set of government elites
+p74
+aVwith little interaction with the citizens, who are
+p75
+aVthe ultimate beneficiaries of development assistance.
+p76
+aa(lp77
+VToday, each of these elements is opening up
+p78
+aVdue to dramatic changes in the global environment.
+p79
+aVOpen knowledge, open aid, open governance,
+p80
+aVand together, they represent three key shifts
+p81
+aVthat are transforming development
+p82
+aVand that also hold greater hope for the problems
+p83
+aVI witnessed in Uganda and in Bihar.
+p84
+aa(lp85
+VThe first key shift is open knowledge.
+p86
+aVYou know, developing countries today will not simply
+p87
+aVaccept solutions that are handed down to them
+p88
+aVby the U.S., Europe or the World Bank.
+p89
+aVThey get their inspiration, their hope,
+p90
+aVtheir practical know-how,
+p91
+aVfrom successful emerging economies in the South.
+p92
+aVThey want to know how China lifted 500 million people
+p93
+aVout of poverty in 30 years,
+p94
+aVhow Mexico's Oportunidades program
+p95
+aVimproved schooling and nutrition for millions of children.
+p96
+aVThis is the new ecosystem of open-knowledge flows,
+p97
+aVnot just traveling North to South, but South to South,
+p98
+aVand even South to North,
+p99
+aVwith Mexico's Oportunidades today inspiring New York City.
+p100
+aa(lp101
+VAnd just as these North-to-South transfers are opening up,
+p102
+aVso too are the development institutions
+p103
+aVthat channeled these transfers.
+p104
+aVThis is the second shift: open aid.
+p105
+aVRecently, the World Bank opened its vault of data
+p106
+aVfor public use, releasing 8,000 economic and social indicators
+p107
+aVfor 200 countries over 50 years,
+p108
+aVand it launched a global competition to crowdsource
+p109
+aVinnovative apps using this data.
+p110
+aVDevelopment institutions today are also opening
+p111
+aVfor public scrutiny the projects they finance.
+p112
+aVTake GeoMapping. In this map from Kenya,
+p113
+aVthe red dots show where all the schools financed by donors
+p114
+aVare located, and the darker the shade of green,
+p115
+aVthe more the number of out-of-school children.
+p116
+aVSo this simple mashup reveals that donors
+p117
+aVhave not financed any schools in the areas
+p118
+aVwith the most out-of-school children,
+p119
+aVprovoking new questions. Is development assistance
+p120
+aVtargeting those who most need our help?
+p121
+aVIn this manner, the World Bank has now GeoMapped
+p122
+aV30,000 project activities in 143 countries,
+p123
+aVand donors are using a common platform
+p124
+aVto map all their projects.
+p125
+aVThis is a tremendous leap forward in transparency
+p126
+aVand accountability of aid.
+p127
+aa(lp128
+VAnd this leads me to the third, and in my view,
+p129
+aVthe most significant shift in development:
+p130
+aVopen governance. Governments today are opening up
+p131
+aVjust as citizens are demanding voice and accountability.
+p132
+aVFrom the Arab Spring to the Anna Hazare movement in India,
+p133
+aVusing mobile phones and social media
+p134
+aVnot just for political accountability
+p135
+aVbut also for development accountability.
+p136
+aVAre governments delivering services to the citizens?
+p137
+aVSo for instance, several governments in Africa
+p138
+aVand Eastern Europe are opening their budgets to the public.
+p139
+aa(lp140
+VBut, you know, there is a big difference between a budget
+p141
+aVthat's public and a budget that's accessible.
+p142
+aVThis is a public budget. (Laughter)
+p143
+aVAnd as you can see, it's not really accessible
+p144
+aVor understandable to an ordinary citizen
+p145
+aVthat is trying to understand how the government is spending its resources.
+p146
+aVTo tackle this problem, governments are using new tools
+p147
+aVto visualize the budget so it's more understandable
+p148
+aVto the public.
+p149
+aVIn this map from Moldova, the green color shows
+p150
+aVthose districts that have low spending on schools
+p151
+aVbut good educational outcomes,
+p152
+aVand the red color shows the opposite.
+p153
+aVTools like this help turn a shelf full of inscrutable documents
+p154
+aVinto a publicly understandable visual,
+p155
+aVand what's exciting is that with this openness,
+p156
+aVthere are today new opportunities for citizens
+p157
+aVto give feedback and engage with government.
+p158
+aVSo in the Philippines today, parents and students
+p159
+aVcan give real-time feedback on a website,
+p160
+aVCheckmyschool.org, or using SMS, whether teachers
+p161
+aVand textbooks are showing up in school,
+p162
+aVthe same problems I witnessed in Uganda and in Bihar.
+p163
+aVAnd the government is responsive. So for instance,
+p164
+aVwhen it was reported on this website that 800 students
+p165
+aVwere at risk because school repairs had stalled
+p166
+aVdue to corruption, the Department of Education
+p167
+aVin the Philippines took swift action.
+p168
+aa(lp169
+VAnd you know what's exciting is that this innovation
+p170
+aVis now spreading South to South, from the Philippines
+p171
+aVto Indonesia, Kenya, Moldova and beyond.
+p172
+aVIn Dar es Salaam, Tanzania, even an impoverished
+p173
+aVcommunity was able to use these tools
+p174
+aVto voice its aspirations.
+p175
+aVThis is what the map of Tandale looked like
+p176
+aVin August, 2011. But within a few weeks,
+p177
+aVuniversity students were able to use mobile phones
+p178
+aVand an open-source platform to dramatically map
+p179
+aVthe entire community infrastructure.
+p180
+aVAnd what is very exciting is that citizens were then
+p181
+aVable to give feedback as to which health or water points
+p182
+aVwere not working, aggregated
+p183
+aVin the red bubbles that you see,
+p184
+aVwhich together provides a graphic visual
+p185
+aVof the collective voices of the poor.
+p186
+aVToday, even Bihar is turning around and opening up
+p187
+aVunder a committed leadership that is making government
+p188
+aVtransparent, accessible and responsive to the poor.
+p189
+aa(lp190
+VBut, you know, in many parts of the world,
+p191
+aVgovernments are not interested in opening up
+p192
+aVor in serving the poor, and it is a real challenge
+p193
+aVfor those who want to change the system.
+p194
+aVThese are the lonely warriors
+p195
+aVlike my father and many, many others,
+p196
+aVand a key frontier of development work
+p197
+aVis to help these lonely warriors join hands
+p198
+aVso they can together overcome the odds.
+p199
+aVSo for instance, today, in Ghana, courageous reformers
+p200
+aVfrom civil society, Parliament and government,
+p201
+aVhave forged a coalition for transparent contracts
+p202
+aVin the oil sector, and, galvanized by this,
+p203
+aVreformers in Parliament are now investigating dubious contracts.
+p204
+aVThese examples give new hope, new possibility
+p205
+aVto the problems I witnessed in Uganda
+p206
+aVor that my father confronted in Bihar.
+p207
+aa(lp208
+VTwo years ago, on April 8th, 2010, I called my father.
+p209
+aVIt was very late at night, and at age 80,
+p210
+aVhe was typing a 70-page public interest litigation
+p211
+aVagainst corruption in a road project.
+p212
+aVThough he was no lawyer, he argued the case in court
+p213
+aVhimself the next day. He won the ruling,
+p214
+aVbut later that very evening,
+p215
+aVhe fell, and he died.
+p216
+aVHe fought till the end, increasingly passionate
+p217
+aVthat to combat corruption and poverty,
+p218
+aVnot only did government officials need to be honest,
+p219
+aVbut citizens needed to join together
+p220
+aVto make their voices heard.
+p221
+aVThese became the two bookends of his life,
+p222
+aVand the journey he traveled in between
+p223
+aVmirrored the changing development landscape.
+p224
+aa(lp225
+VToday, I'm inspired by these changes, and I'm excited
+p226
+aVthat at the World Bank, we are embracing
+p227
+aVthese new directions, a significant departure
+p228
+aVfrom my work in Uganda 20 years ago.
+p229
+aVWe need to radically open up development
+p230
+aVso knowledge flows in multiple directions,
+p231
+aVinspiring practitioners, so aid becomes transparent,
+p232
+aVaccountable and effective, so governments open up
+p233
+aVand citizens are engaged and empowered
+p234
+aVwith reformers in government.
+p235
+aVWe need to accelerate these shifts.
+p236
+aVIf we do, we will find that the collective voices
+p237
+aVof the poor will be heard in Bihar,
+p238
+aVin Uganda, and beyond.
+p239
+aVWe will find that textbooks and teachers
+p240
+aVwill show up in schools for their children.
+p241
+aVWe will find that these children, too,
+p242
+aVhave a real chance of breaking their way out of poverty.
+p243
+aVThank you. (Applause)
+p244
+aV(Applause)
+p245
+aasS'id'
+p246
+I1599
+sS'title'
+p247
+VHow open data is changing international aid
+p248
+s.

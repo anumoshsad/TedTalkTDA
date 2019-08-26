@@ -1,0 +1,865 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VAs a researcher, every once in a while
+p4
+aVyou encounter something
+p5
+aVa little disconcerting.
+p6
+aVAnd this is something that changes your understanding of the world around you,
+p7
+aVand teaches you that you're very wrong
+p8
+aVabout something that you really believed firmly in.
+p9
+aVAnd these are unfortunate moments,
+p10
+aVbecause you go to sleep that night
+p11
+aVdumber than when you woke up.
+p12
+aVSo, that's really the goal of my talk,
+p13
+aVis to A, communicate that moment to you
+p14
+aVand B, have you leave this session
+p15
+aVa little dumber than when you entered.
+p16
+aVSo, I hope I can really accomplish that.
+p17
+aa(lp18
+VSo, this incident that I'm going to describe
+p19
+aVreally began with some diarrhea.
+p20
+aVNow, we've known for a long time the cause of diarrhea.
+p21
+aVThat's why there's a glass of water up there.
+p22
+aVFor us, it's a problem, the people in this room.
+p23
+aVFor babies, it's deadly.
+p24
+aVThey lack nutrients, and diarrhea dehydrates them.
+p25
+aVAnd so, as a result, there is a lot of death,
+p26
+aVa lot of death.
+p27
+aVIn India in 1960,
+p28
+aVthere was a 24 percent child mortality rate,
+p29
+aVlots of people didn't make it. This is incredibly unfortunate.
+p30
+aVOne of the big reasons this happened was
+p31
+aVbecause of diarrhea.
+p32
+aVNow, there was a big effort to solve this problem,
+p33
+aVand there was actually a big solution.
+p34
+aVThis solution has been called, by some,
+p35
+aV"potentially the most important medical
+p36
+aVadvance this century."
+p37
+aa(lp38
+VNow, the solution turned out to be simple.
+p39
+aVAnd what it was was oral rehydration salts.
+p40
+aVMany of you have probably used this.
+p41
+aVIt's brilliant. It's a way to get sodium
+p42
+aVand glucose together so that when you add it to water
+p43
+aVthe child is able to absorb it even during situations of diarrhea.
+p44
+aVRemarkable impact on mortality.
+p45
+aVMassive solution to the problem.
+p46
+aVFlash forward: 1960, 24 percent child mortality
+p47
+aVhas dropped to 6.5 percent today.
+p48
+aa(lp49
+VStill a big number, but a big drop.
+p50
+aVIt looks like the technological problem is solved.
+p51
+aVBut if you look, even today
+p52
+aVthere are about 400,000 diarrhea-related deaths
+p53
+aVin India alone.
+p54
+aVWhat's going on here?
+p55
+aVWell the easy answer is, we just haven't gotten those salts
+p56
+aVto those people.
+p57
+aVThat's actually not true.
+p58
+aVIf you look in areas where these salts are completely available,
+p59
+aVthe price is low or zero, these deaths still continue abated.
+p60
+aVMaybe there's a biological answer.
+p61
+aVMaybe these are the deaths that simple rehydration
+p62
+aValone doesn't solve. That's not true either.
+p63
+aVMany of these deaths were completely preventable,
+p64
+aVand this what I want to think of as the disconcerting thing,
+p65
+aVwhat I want to call "the last mile" problem.
+p66
+aa(lp67
+VSee, we spent a lot of energy, in many domains \u2014
+p68
+aVtechnological, scientific, hard work,
+p69
+aVcreativity, human ingenuity \u2014
+p70
+aVto crack important social problems with technology solutions.
+p71
+aVThat's been the discoveries of the last 2,000 years,
+p72
+aVthat's mankind moving forward.
+p73
+aVBut in this case we cracked it,
+p74
+aVbut a big part of the problem still remains.
+p75
+aVNine hundred and ninety-nine miles went well,
+p76
+aVthe last mile's proving incredibly stubborn.
+p77
+aa(lp78
+VNow, that's for oral rehydration therapy.
+p79
+aVMaybe this is something unique about diarrhea.
+p80
+aVWell, it turns out \u2014 and this is where things get really disconcerting \u2014
+p81
+aVit's not unique to diarrhea.
+p82
+aVIt's not even unique to poor people in India.
+p83
+aVHere's an example from a variety of contexts.
+p84
+aVI've put a bunch of examples up here.
+p85
+aa(lp86
+VI'll start with insulin, diabetes
+p87
+aVmedication in the U.S.
+p88
+aVOK, the American population.
+p89
+aVOn Medicaid \u2014 if you're fairly poor you get Medicaid,
+p90
+aVor if you have health insurance \u2014 insulin is pretty straightforward.
+p91
+aVYou get it, either in pill form or you get it as an injection;
+p92
+aVyou have to take it every day to maintain your blood sugar levels.
+p93
+aVMassive technological advance:
+p94
+aVtook an incredibly deadly disease, made it solvable.
+p95
+aVAdherence rates. How many people are taking their insulin every day?
+p96
+aVAbout on average, a typical person is taking it 75 percent of the time.
+p97
+aVAs a result, 25,000 people a year go blind,
+p98
+aVhundreds of thousands lose limbs, every year,
+p99
+aVfor something that's solvable.
+p100
+aa(lp101
+VHere I have a bunch of other examples,
+p102
+aVall suffer from the last mile problem.
+p103
+aVIt's not just medicine.
+p104
+aVHere's another example from technology:
+p105
+aVagriculture. We think
+p106
+aVthere's a food problem, so we create new seeds.
+p107
+aVWe think there's an income problem, so we create
+p108
+aVnew ways of farming that increase income.
+p109
+aVWell, look at some old ways, some ways that we'd already cracked.
+p110
+aVIntercropping. Intercropping really increases income.
+p111
+aVSometimes in rice we found incredible increases in yield
+p112
+aVwhen you mix different varieties of rice side by side.
+p113
+aVSome people are doing that,
+p114
+aVmany are not. What's going on?
+p115
+aVThis is the last mile.
+p116
+aVThe last mile is, everywhere, problematic.
+p117
+aa(lp118
+VAlright, what's the problem?
+p119
+aVThe problem is this little three-pound machine
+p120
+aVthat's behind your eyes and between your ears.
+p121
+aVThis machine is really strange,
+p122
+aVand one of the consequences is that people are weird.
+p123
+aVThey do lots of inconsistent things.
+p124
+aV(Applause)
+p125
+aVThey do lots of inconsistent things.
+p126
+aVAnd the inconsistencies
+p127
+aVcreate, fundamentally, this last mile problem.
+p128
+aVSee, when we were dealing with our biology, bacteria,
+p129
+aVthe genes, the things inside here, the blood?
+p130
+aVThat's complex, but it's manageable.
+p131
+aVWhen we're dealing with people like this?
+p132
+aVThe mind is more complex.
+p133
+aVThat's not as manageable, and that's what we're struggling with.
+p134
+aa(lp135
+VLet me go back to diarrhea for a second.
+p136
+aVHere's a question that was asked in the National Sample Survey,
+p137
+aVwhich is a survey asked of many Indian women:
+p138
+aV"Your child has diarrhea.
+p139
+aVShould you increase, maintain or decrease the number of fluids?"
+p140
+aVJust so you don't embarrass yourselves, I'll give you the right answer:
+p141
+aVIt's increase.
+p142
+aVNow, diarrhea's interesting
+p143
+aVbecause it's been around for thousands of years,
+p144
+aVever since humankind really
+p145
+aVlived side by side enough to have really polluted water.
+p146
+aVOne Roman strategy that was very interesting
+p147
+aVwas that \u2014 and it really gave them a comparative advantage \u2014
+p148
+aVthey made sure their soldiers didn't drink
+p149
+aVeven remotely muddied waters.
+p150
+aVBecause if some of your troops get diarrhea they're not that effective
+p151
+aVon the battlefield.
+p152
+aVSo, if you think of Roman comparative advantage part of it was the breast shields,
+p153
+aVthe breastplates, but part of it was drinking the right water.
+p154
+aa(lp155
+VSo, here are these women. They've seen their parents
+p156
+aVhave struggled with diarrhea, they've struggled with diarrhea,
+p157
+aVthey've seen lots of deaths. How do they answer this question?
+p158
+aVIn India, 35 to 50 percent say "Reduce."
+p159
+aVThink about what that means for a second.
+p160
+aVThirty-five to 50 percent of women
+p161
+aVforget oral rehydration therapy,
+p162
+aVthey are increasing \u2014
+p163
+aVthey are actually making their child
+p164
+aVmore likely to die through their actions.
+p165
+aVHow is that possible?
+p166
+aVWell, one possibility \u2014 I think that's how most people respond to this \u2014
+p167
+aVis to say, "That's just stupid."
+p168
+aVI don't think that's stupid.
+p169
+aVI think there is something very profoundly right in what these women are doing.
+p170
+aVAnd that is, you don't put water
+p171
+aVinto a leaky bucket.
+p172
+aa(lp173
+VSo, think of the mental model that goes behind reducing the intake.
+p174
+aVJust doesn't make sense.
+p175
+aVNow, the model is intuitively right.
+p176
+aVIt just doesn't happen to be right about the world.
+p177
+aVBut it makes a whole lot of sense at some deep level.
+p178
+aVAnd that, to me, is the fundamental challenge
+p179
+aVof the last mile.
+p180
+aa(lp181
+VThis first challenge is what I refer to as the persuasion challenge.
+p182
+aVConvincing people to do something \u2014
+p183
+aVtake oral rehydration therapy, intercrop, whatever it might be \u2014
+p184
+aVis not an act of information:
+p185
+aV"Let's give them the data,
+p186
+aVand when they have data they'll do the right thing."
+p187
+aVIt's more complex than that.
+p188
+aVAnd if you want to understand how it's more complex
+p189
+aVlet me start with something kind of interesting.
+p190
+aa(lp191
+VI'm going to give you a little math problem,
+p192
+aVand I want you to just yell out the answer as fast as possible.
+p193
+aVA bat and a ball together cost $1.10.
+p194
+aVThe bat costs a dollar more than the ball.
+p195
+aVHow much does the ball cost? Quick.
+p196
+aVSo, somebody out there says, "Five."
+p197
+aVA lot of you said, "Ten."
+p198
+aVLet's think about 10 for a second.
+p199
+aVIf the ball costs 10, the bat costs...
+p200
+aVthis is easy, $1.10.
+p201
+aVYeah. So, together they would cost $1.20.
+p202
+aVSo, here you all are, ostensibly educated people.
+p203
+aVMost of you look smart.
+p204
+aVThe combination of that produces
+p205
+aVsomething that is actually, you got this thing wrong.
+p206
+aa(lp207
+VHow is that possible? Let's go to something else.
+p208
+aVI know algebra can be complicated.
+p209
+aVSo, let's dial this back. That's what? Fifth grade? Fourth grade?
+p210
+aVLet's go back to kindergarten. OK?
+p211
+aVThere's a great show on American television that you have to watch.
+p212
+aVIt's called "Are You Smarter Than a Fifth Grader?"
+p213
+aVI think we've learned the answer to that here.
+p214
+aVLet's move to kindergarten. Let's see if we can beat five-year-olds.
+p215
+aVHere's what I'm going to do: I'm going to put objects on the screen.
+p216
+aVI just want you to name the color of the object.
+p217
+aVThat's all it is. OK?
+p218
+aa(lp219
+VI want you to do it fast, and say it out loud with me,
+p220
+aVand do it quickly. I'll make the first one easy for you.
+p221
+aVReady? Black.
+p222
+aVNow the next ones I want you to do quickly and say it out loud.
+p223
+aVReady? Go.
+p224
+aa(lp225
+VAudience: Red. Green.
+p226
+aVYellow. Blue. Red.
+p227
+aV(Laughter)
+p228
+aa(lp229
+VSendhil Mullainathan: That's pretty good.
+p230
+aVAlmost out of kindergarten.
+p231
+aVWhat is all this telling us?
+p232
+aVYou see, what's going on here, and in the bat and ball problem
+p233
+aVis that you have some intuitive ways of interacting with the world,
+p234
+aVsome models that you use to understand the world.
+p235
+aVThese models, like the leaky bucket,
+p236
+aVwork well in most situations.
+p237
+aVI suspect most of you \u2014
+p238
+aVI hope that's true for the rest of you \u2014
+p239
+aVactually do pretty well with addition and subtraction in the real world.
+p240
+aa(lp241
+VI found a problem, a specific problem
+p242
+aVthat actually found an error with that.
+p243
+aVDiarrhea, and many last mile problems, are like that.
+p244
+aVThey are situations where the mental model
+p245
+aVdoesn't match the reality.
+p246
+aVSame thing here:
+p247
+aVYou had an intuitive response to this that was very quick.
+p248
+aVYou read "blue" and you wanted to say "blue," even though you knew your task was red.
+p249
+aa(lp250
+VNow, I do this stuff because it's fun.
+p251
+aVBut it's more profound than fun.
+p252
+aVI'll give you a good example of how it actually effects persuasion.
+p253
+aVBMW is a pretty safe car.
+p254
+aVAnd they are trying to figure out, "Safety is good.
+p255
+aVI want to advertise safety. How am I going to advertise safety?"
+p256
+aV"I could give people numbers. We do well on crash tests."
+p257
+aVBut the truth of the matter is, you look at that car,
+p258
+aVit doesn't look like a Volvo,
+p259
+aVand it doesn't look like a Hummer.
+p260
+aa(lp261
+VSo, what I want you to think about for a few minutes
+p262
+aVis: How would you convey safety of the BMW? Okay?
+p263
+aVSo now, while you're thinking about that let's move to a second task.
+p264
+aVThe second task is fuel efficiency. Okay?
+p265
+aa(lp266
+VHere's another puzzle for all of you.
+p267
+aVOne person walks into a car lot,
+p268
+aVand they're thinking about buying this Toyota Yaris.
+p269
+aVThey are saying, "This is 35 miles per gallon. I'm going to do
+p270
+aVthe environmentally right thing, I'm going to buy the Prius,
+p271
+aV50 miles per gallon."
+p272
+aVAnother person walks into the lot,
+p273
+aVand they're about to buy a Hummer, nine miles per gallon,
+p274
+aVfully loaded, luxury.
+p275
+aVAnd they say, "You know what? Do I need turbo? Do I need this heavyweight car?"
+p276
+aVI'm going to do something good for the environment.
+p277
+aVI'm going to take off some of that weight,
+p278
+aVand I'm going to buy a Hummer that's 11 miles per gallon."
+p279
+aa(lp280
+VWhich one of these people has done more for the environment?
+p281
+aVSee, you have a mental model.
+p282
+aVFifty versus 35, that's a big move. Eleven versus nine? Come on.
+p283
+aVTurns out, go home and do the math,
+p284
+aVthe nine to 11 is a bigger change. That person has saved more gallons.
+p285
+aVWhy? Because we don't care about miles per gallon, we care about
+p286
+aVgallons per mile.
+p287
+aVThink about how powerful that is if you're trying to encourage fuel efficiency.
+p288
+aVMiles per gallon is the way we present things.
+p289
+aa(lp290
+VIf we want to encourage change of behavior,
+p291
+aVgallons per mile would have far more effectiveness.
+p292
+aVResearchers have found these type of anomalies.
+p293
+aVOkay, back to BMW. What should they do?
+p294
+aVThe problem BMW faces is this car looks safe.
+p295
+aVThis car, which is my Mini, doesn't look that safe.
+p296
+aVHere was BMW's brilliant insight, which they embodied into an ad campaign.
+p297
+aVThey showed a BMW driving down the street.
+p298
+aVThere's a truck on the right. Boxes fall out of the truck.
+p299
+aVThe car swerves to avoid it, and therefore doesn't get into an accident.
+p300
+aa(lp301
+VBWM realizes safety, in people's minds, has two components.
+p302
+aVYou can be safe because when you're hit, you survive,
+p303
+aVor you can be safe because you avoid accidents.
+p304
+aVRemarkably successful campaign, but notice the power of it.
+p305
+aVIt harnesses something you already believe.
+p306
+aVNow, even if I persuaded you to do something,
+p307
+aVit's hard sometimes to actually get action as a result.
+p308
+aVYou all probably intended to wake up,
+p309
+aVI don't know, 6:30, 7 a.m.
+p310
+aVThis is a battle we all fight every day,
+p311
+aValong with trying to get to the gym.
+p312
+aVNow, this is an example of that battle,
+p313
+aVand makes us realize intentions don't always translate into action,
+p314
+aVand so one of the fundamental challenges
+p315
+aVis how we would actually do that. OK?
+p316
+aa(lp317
+VSo, let me now talk about the last mile problem.
+p318
+aVSo far, I've been pretty negative.
+p319
+aVI've been trying to show you the oddities of human behavior.
+p320
+aVAnd I think maybe I'm being too negative.
+p321
+aVMaybe it's the diarrhea.
+p322
+aVMaybe the last mile problem really should be thought of
+p323
+aVas the last mile opportunity.
+p324
+aa(lp325
+VLet's go back to diabetes.
+p326
+aVThis is a typical insulin injection.
+p327
+aVNow, carrying this thing around is complicated.
+p328
+aVYou gotta carry the bottle, you gotta carry the syringe.
+p329
+aVIt's also painful.
+p330
+aVNow, you may think to yourself, "Well, if my eyes depended on it,
+p331
+aVyou know, I would obviously use it every day."
+p332
+aVBut the pain, the discomfort,
+p333
+aVyou know, paying attention, remembering to put it in your purse
+p334
+aVwhen you go on a long trip:
+p335
+aVThese are the day-to-day of life, and they do pose problems.
+p336
+aVHere is an innovation, a design innovation.
+p337
+aVThis is a pen, it's called an insulin pen, preloaded.
+p338
+aVThe needle is particularly sharp.
+p339
+aVYou just gotta carry this thing around.
+p340
+aVIt's much easier to use, much less painful.
+p341
+aVAnywhere between five and 10 percent increase in adherence,
+p342
+aVjust as a result of this.
+p343
+aa(lp344
+VThat's what I'm talking about as a last mile opportunity.
+p345
+aVYou see, we tend to think the problem is solved
+p346
+aVwhen we solve the technology problem.
+p347
+aVBut the human innovation, the human problem
+p348
+aVstill remains, and that's a great frontier that we have left.
+p349
+aVThis isn't about the biology of people;
+p350
+aVthis is now about the brains, the psychology of people,
+p351
+aVand innovation needs to continue all the way through
+p352
+aVthe last mile.
+p353
+aa(lp354
+VHere's another example of this.
+p355
+aVThis is from a company called Positive Energy.
+p356
+aVThis is about energy efficiency.
+p357
+aVWe're spending a lot of time on fuel cells right now.
+p358
+aVWhat this company does is they send a letter
+p359
+aVto households that say, "Here's your energy use,
+p360
+aVhere's your neighbor's energy use: You're doing well." Smiley face.
+p361
+aV"You're doing worse." Frown.
+p362
+aVAnd what they find is just this letter, nothing else,
+p363
+aVhas a two to three percent reduction in electricity use.
+p364
+aa(lp365
+VAnd you want to think about the social value of that
+p366
+aVin terms of carbon offsets, reduced electricity,
+p367
+aV900 million dollars per year.
+p368
+aVWhy? Because for free,
+p369
+aVthis isn't a new technology, this is a letter \u2014
+p370
+aVwe're getting a Big Bang in behavior.
+p371
+aVSo, how do we tackle the last mile?
+p372
+aVI think this tells us there is an opportunity.
+p373
+aVAnd I think to tackle it, we need to combine
+p374
+aVpsychology,
+p375
+aVmarketing,
+p376
+aVart, we've seen that.
+p377
+aVBut you know what we need to combine it with?
+p378
+aVWe need to combine this with the scientific method.
+p379
+aa(lp380
+VSee what's really puzzling and frustrating about the last mile, to me,
+p381
+aVis that the first 999 miles are all about science.
+p382
+aVNo one would say, "Hey, I think this medicine works, go ahead and use it."
+p383
+aVWe have testing, we go to the lab, we try it again, we have refinement.
+p384
+aVBut you know what we do on the last mile?
+p385
+aV"Oh, this is a good idea. People will like this. Let's put it out there."
+p386
+aVThe amount of resources we put in are disparate.
+p387
+aVWe put billions of dollars into fuel-efficient technologies.
+p388
+aVHow much are we putting into
+p389
+aVenergy behavior change
+p390
+aVin a credible, systematic, testing way?
+p391
+aa(lp392
+VNow, I think that we're on the verge of something big.
+p393
+aVWe're on the verge of a whole new social science.
+p394
+aVIt's a social science that recognizes \u2014
+p395
+aVmuch like science recognizes the complexity of the body,
+p396
+aVbiology recognizes the complexity of the body \u2014 we'll recognize
+p397
+aVthe complexity of the human mind.
+p398
+aVThe careful testing, retesting, design,
+p399
+aVare going to open up vistas of understanding,
+p400
+aVcomplexities, difficult things.
+p401
+aVAnd those vistas will both create new science,
+p402
+aVand fundamental change in the world as we see it, in the next hundred years.
+p403
+aVAll right. Thank you very much.
+p404
+aV(Applause)
+p405
+aa(lp406
+VChris Anderson: Sendhil, thank you so much.
+p407
+aVSo, this whole area is so fascinating.
+p408
+aVI mean, it sometimes feels, listening to behavioral economists
+p409
+aVthat they are kind of putting into place
+p410
+aVacademically, what great marketers
+p411
+aVhave sort of intuitively known for a long time.
+p412
+aVHow much is your field talking to great marketers
+p413
+aVabout their insights into human psychology?
+p414
+aVBecause they've seen it on the ground.
+p415
+aa(lp416
+VSendhil Mullainathan: Yeah, we spend a lot of time talking to marketers,
+p417
+aVand I think 60 percent of it is exactly what you say,
+p418
+aVthere are insights to be gleaned there.
+p419
+aVForty percent of it is about what marketing is.
+p420
+aVMarketing is selling an ad to a firm.
+p421
+aVSo, in some sense, a lot of marketing is about
+p422
+aVconvincing a CEO, "This is a good ad campaign."
+p423
+aVSo, there is a little bit of slippage there.
+p424
+aVThat's just a caveat. That's different from actually having an effective ad campaign.
+p425
+aVAnd one of the new movements in marketing is: How do we actually
+p426
+aVmeasure effectiveness? Are we effective?
+p427
+aa(lp428
+VCA: How you take your insights here
+p429
+aVand actually get them integrated
+p430
+aVinto working business models on the ground,
+p431
+aVin Indian villages, for example?
+p432
+aa(lp433
+VSM: So, the scientific method I alluded to is pretty important.
+p434
+aVWe work closely with companies that have operational capacity,
+p435
+aVor nonprofits that have operational capacity.
+p436
+aVAnd then we say, "Well, you want to get this behavior change.
+p437
+aVLet's come up with a few ideas, test them,
+p438
+aVsee which is working, go back, synthesize,
+p439
+aVand try to come up with a thing that works,"
+p440
+aVand then we're able to scale with partners.
+p441
+aVIt's kind of the model that has worked in other contexts.
+p442
+aVIf you have biological problems
+p443
+aVwe try and fix it, see if it works, and then work the scale.
+p444
+aa(lp445
+VCA: Alright Sendhil, thanks so much for coming to TED. Thank you.
+p446
+aV(Applause)
+p447
+aasS'id'
+p448
+I757
+sS'title'
+p449
+VSolving social problems with a nudge
+p450
+s.

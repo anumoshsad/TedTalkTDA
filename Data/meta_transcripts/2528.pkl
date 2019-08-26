@@ -1,0 +1,293 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VAs a little Hawaiian,
+p4
+aVmy mom and auntie always told me stories about Kalaupapa \u2014
+p5
+aVthe Hawaiian leper colony
+p6
+aVsurrounded by the highest sea cliffs in the world \u2014
+p7
+aVand Father Damien,
+p8
+aVthe Belgian missionary who gave his life for the Hawaiian community.
+p9
+aVAs a young nurse,
+p10
+aVmy aunt trained the nuns caring for the remaining lepers
+p11
+aValmost a 100 years after Father Damien died of leprosy.
+p12
+aVI remember stories she told
+p13
+aVabout traveling down switchback cliff paths on a mule,
+p14
+aVwhile my uncle played her favorite hula songs on the ukulele
+p15
+aVall the way down to Kalaupapa.
+p16
+aa(lp17
+VYou see, as a youngster,
+p18
+aVI was always curious about a few things.
+p19
+aVFirst was why a Belgian missionary chose to live in complete isolation
+p20
+aVin Kalaupapa,
+p21
+aVknowing he would inevitably contract leprosy
+p22
+aVfrom the community of people he sought to help.
+p23
+aVAnd secondly,
+p24
+aVwhere did the leprosy bacteria come from?
+p25
+aVAnd why were K\u0101naka Maoli,
+p26
+aVthe indigenous people of Hawaii,
+p27
+aVso susceptible to developing leprosy, or "mai Pake?"
+p28
+aa(lp29
+VThis got my curious about what makes us unique as Hawaiians \u2014
+p30
+aVnamely, our genetic makeup.
+p31
+aVBut it wasn't until high school,
+p32
+aVthrough the Human Genome Project,
+p33
+aVthat I realized I wasn't alone
+p34
+aVin trying to connect our unique genetic ancestry
+p35
+aVto our potential health, wellness and illness.
+p36
+aVYou see,
+p37
+aVthe 2.7 billion-dollar project
+p38
+aVpromised an era of predictive and preventative medicine
+p39
+aVbased on our unique genetic makeup.
+p40
+aVSo to me it always seemed obvious
+p41
+aVthat in order to achieve this dream,
+p42
+aVwe would need to sequence a diverse cohort of people
+p43
+aVto obtain the full spectrum of human genetic variation on the planet.
+p44
+aVThat's why 10 years later,
+p45
+aVit continues to shock me,
+p46
+aVknowing that 96 percent of genome studies
+p47
+aVassociating common genetic variation with specific diseases
+p48
+aVhave focused exclusively on individuals of European ancestry.
+p49
+aa(lp50
+VNow you don't need a PhD
+p51
+aVto see that that leaves four percent for the rest of diversity.
+p52
+aVAnd in my own searching,
+p53
+aVI've discovered that far less than one percent
+p54
+aVhave actually focused on indigenous communities, like myself.
+p55
+aVSo that begs the question:
+p56
+aVWho is the Human Genome Project actually for?
+p57
+aVJust like we have different colored eyes and hair,
+p58
+aVwe metabolize drugs differently
+p59
+aVbased on the variation in our genomes.
+p60
+aVSo how many of you would be shocked to learn
+p61
+aVthat 95 percent of clinical trials
+p62
+aVhave also exclusively featured individuals of European ancestry?
+p63
+aa(lp64
+VThis bias
+p65
+aVand systematic lack of engagement of indigenous people
+p66
+aVin both clinical trials and genome studies
+p67
+aVis partially the result of a history of distrust.
+p68
+aVFor example,
+p69
+aVin 1989, researchers from Arizona State University
+p70
+aVobtained blood samples from Arizona's Havasupai tribe,
+p71
+aVpromising to alleviate the burden of type 2 diabetes
+p72
+aVthat was plaguing their community,
+p73
+aVonly to turn around and use those exact same samples \u2014
+p74
+aVwithout the Havasupai's consent \u2014
+p75
+aVto study rates of schizophrenia, inbreeding,
+p76
+aVand challenge the Havasupai's origin story.
+p77
+aVWhen the Havasupai found out,
+p78
+aVthey sued successfully for $700,000,
+p79
+aVand they banned ASU from conducting research on their reservation.
+p80
+aVThis culminated in a sort of domino effect
+p81
+aVwith local tribes in the Southwest \u2014
+p82
+aVincluding the Navajo Nation,
+p83
+aVone of the largest tribes in the country \u2014
+p84
+aVputting a moratorium on genetic research.
+p85
+aa(lp86
+VNow despite this history of distrust,
+p87
+aVI still believe that indigenous people can benefit from genetic research.
+p88
+aVAnd if we don't do something soon,
+p89
+aVthe gap in health disparities is going to continue to widen.
+p90
+aVHawaii, for example,
+p91
+aVhas the longest life expectancy on average of any state in the US,
+p92
+aVyet native Hawaiians like myself
+p93
+aVdie a full decade before our non-native counterparts,
+p94
+aVbecause we have some of the highest rates of type 2 diabetes,
+p95
+aVobesity,
+p96
+aVand the number one and number two killers in the US:
+p97
+aVcardiovascular disease and cancer.
+p98
+aa(lp99
+VSo how do we ensure
+p100
+aVthe populations of people that need genome sequencing the most
+p101
+aVare not the last to benefit?
+p102
+aVMy vision is to make genetic research more native,
+p103
+aVto indigenize genome sequencing technology.
+p104
+aa(lp105
+VTraditionally, genomes are sequenced in laboratories.
+p106
+aVHere's an image of your classic genome sequencer.
+p107
+aVIt's huge.
+p108
+aVIt's the size of a refrigerator.
+p109
+aVThere's this obvious physical limitation.
+p110
+aVBut what if you could sequence genomes on the fly?
+p111
+aVWhat if you could fit a genome sequencer in your pocket?
+p112
+aVThis nanopore-based sequencer
+p113
+aVis one 10,000th the size of your traditional genome sequencer.
+p114
+aVIt doesn't have the same physical limitations,
+p115
+aVin that it's not tethered to a lab bench with extraneous cords,
+p116
+aVlarge vats of chemicals or computer monitors.
+p117
+aVIt allows us to de-black box genome sequencing technology development
+p118
+aVin a way that's immersive and collaborative,
+p119
+aVactivating and empowering indigenous communities ...
+p120
+aVas citizen scientists.
+p121
+aa(lp122
+V100 years later in Kalaupapa,
+p123
+aVwe now have the technology to sequence leprosy bacteria in real time,
+p124
+aVusing mobile genome sequencers,
+p125
+aVremote access to the Internet
+p126
+aVand cloud computation.
+p127
+aVBut only if that's what Hawaiian people want.
+p128
+aVIn our space,
+p129
+aVon our terms.
+p130
+aa(lp131
+VIndiGenomics is about science for the people by the people.
+p132
+aVWe'll be starting with a tribal consultation resource,
+p133
+aVfocused on educating indigenous communities
+p134
+aVon the potential use and misuse of genetic information.
+p135
+aVEventually we'd like to have our own IndiGenomics research institute
+p136
+aVto conduct our own experiments
+p137
+aVand educate the next generation of indigenous scientists.
+p138
+aa(lp139
+VIn the end,
+p140
+aVindigenous people need to be partners in and not subjects of genetic research.
+p141
+aVAnd for those on the outside,
+p142
+aVjust as Father Damien did,
+p143
+aVthe research community needs to immerse itself in indigenous culture
+p144
+aVor die trying.
+p145
+aa(lp146
+VMahalo.
+p147
+aa(lp148
+V(Applause)
+p149
+aasS'id'
+p150
+I2528
+sS'title'
+p151
+VWhy genetic research must be more diverse
+p152
+s.

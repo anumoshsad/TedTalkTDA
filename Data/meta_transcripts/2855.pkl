@@ -1,0 +1,715 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VDo you remember these glow-in-the-dark little stars
+p4
+aVwhich you had on the ceiling when you were a boy or a girl?
+p5
+aVYes?
+p6
+aVIt is light.
+p7
+aVIt is pure light.
+p8
+aVI think I stared at them way too long
+p9
+aVwhen I was a five-year-old, you know?
+p10
+aVIt's so beautiful:
+p11
+aVno energy bill, no maintenance.
+p12
+aVIt is there.
+p13
+aa(lp14
+VSo two years ago, we went back to the lab,
+p15
+aVmaking it more durable, more light-emitting,
+p16
+aVwith the experts.
+p17
+aVAnd at the same time, we got a request from this guy \u2014
+p18
+aVVan Gogh, the famous Van Gogh Foundation \u2014
+p19
+aVwho wanted to celebrate his 125th anniversary in the Netherlands.
+p20
+aVAnd they came to me and asked,
+p21
+aV"Can you make a place where he feels more alive again
+p22
+aVin the Netherlands?"
+p23
+aVAnd I liked that question a lot,
+p24
+aVso in way,
+p25
+aVwe sort of started to connect these two different worlds.
+p26
+aVThis is how my brain works,
+p27
+aVby the way.
+p28
+aa(lp29
+V(Laughter)
+p30
+aa(lp31
+VI would love to keep on doing this for an hour,
+p32
+aVbut OK \u2014
+p33
+aa(lp34
+V(Laughter)
+p35
+aa(lp36
+VAnd this is the result that we made:
+p37
+aVa bicycle path which charges at daytime via the sun
+p38
+aVand glows at night, up to eight hours.
+p39
+aa(lp40
+V(Applause)
+p41
+aa(lp42
+VThank you.
+p43
+aa(lp44
+V... hinting towards a future which should be energy friendly
+p45
+aVand linking up the local grounds
+p46
+aVas Van Gogh literally walked and lived there in 1883.
+p47
+aVAnd you can go there every night for free, no ticket needed.
+p48
+aVPeople experience the beauty of cycling through the starry night,
+p49
+aVthinking about green energy and safety.
+p50
+aa(lp51
+VI want to create places where people feel connected again.
+p52
+aVAnd it was somehow great to make these projects happen
+p53
+aVwith the industry, with the infrastructure companies.
+p54
+aVSo when these sheikhs of Qatar started to call:
+p55
+aV"How much for 10 kilometers?"
+p56
+aa(lp57
+V(Laughter)
+p58
+aa(lp59
+VYeah, really, that's a weird call you're going to get.
+p60
+aVBut it's fascinating
+p61
+aVthat this is not just a sort of one-off, nice-to-have special.
+p62
+aVI think this kind of creative thinking, these kinds of connections \u2014
+p63
+aVit's the new economy.
+p64
+aa(lp65
+VThe World Economic Forum, the think tank in Geneva,
+p66
+aVdid an interview with a lot of smart people
+p67
+aVall around the world,
+p68
+aVasking, "What are the top 10 skills you and I need to become successful?"
+p69
+aVAnd what is interesting, what you see here:
+p70
+aVit's not about money
+p71
+aVor being really good in C++,
+p72
+aValthough these are great skills to have, I have to admit.
+p73
+aVBut look at number three, creativity;
+p74
+aVnumber two, critical thinking;
+p75
+aVnumber one, complex problem-solving \u2014
+p76
+aVall the things a robot or a computer is really bad at.
+p77
+aVAnd this makes me very optimistic, very hopeful for the new world,
+p78
+aVthat as we will live in this hyper-technological world,
+p79
+aVour human skills \u2014
+p80
+aVour desire for empathy,
+p81
+aVour desire for curiosity,
+p82
+aVour desire for beauty \u2014
+p83
+aVwill be more appreciated again,
+p84
+aVand we will live in a world where creativity is our true capital.
+p85
+aa(lp86
+VAnd a creative process like that \u2014
+p87
+aVI don't know how it works for you,
+p88
+aVbut in my brain, it always starts with a question:
+p89
+aVWhy?
+p90
+aVWhy does a jellyfish emit light?
+p91
+aVOr a firefly?
+p92
+aVOr why do be accept pollution?
+p93
+aVThis is from my room in Beijing three years ago.
+p94
+aVLeft image is a good day \u2014 Saturday.
+p95
+aVI can see the cars and the people, the birds;
+p96
+aVlife is OK in a dense urban city.
+p97
+aVAnd on the right image \u2014
+p98
+aVholy moly.
+p99
+aVPollution \u2014 complete layers.
+p100
+aVI couldn't even see the other side of the city.
+p101
+aVAnd this image made me really sad.
+p102
+aVThis is not the bright future we envision here at TED \u2014
+p103
+aVthis is the horror.
+p104
+aVWe live five to six years shorter;
+p105
+aVchildren have lung cancer when they're six years old.
+p106
+aVAnd so in a weird, beautiful way,
+p107
+aVI, at that moment, became inspired by Beijing smog.
+p108
+aa(lp109
+VAnd the governments all around the world are fighting their war on smog,
+p110
+aVbut I wanted to make something within the now.
+p111
+aVSo we decided to build the largest smog vacuum cleaner
+p112
+aVin the world.
+p113
+aVIt sucks up polluted air, cleans it
+p114
+aVand then releases it.
+p115
+aVAnd we built the first one.
+p116
+aVSo it sucks up 30,000 cubic meters per hour,
+p117
+aVcleans it on the nano level \u2014 the PM2.5, PM10 particles \u2014
+p118
+aVusing very little electricity,
+p119
+aVand then releases the clean air,
+p120
+aVso we have parks, playgrounds, which are 55 to 75 percent more clean
+p121
+aVthan the rest of the city.
+p122
+aa(lp123
+V(Applause)
+p124
+aa(lp125
+VYes!
+p126
+aa(lp127
+V(Applause)
+p128
+aa(lp129
+VAnd every month or so,
+p130
+aVit opens like a spaceship \u2014
+p131
+aVlike a Marilyn Monroe with the \u2014 well, you know what.
+p132
+aVAnyway.
+p133
+aa(lp134
+V(Laughter)
+p135
+aa(lp136
+VSo this ...
+p137
+aVthis is the stuff we are capturing.
+p138
+aVThis is Beijing smog.
+p139
+aVThis is in our lungs right now.
+p140
+aVIf you live next to a highway, it's the same as 17 cigarettes per day.
+p141
+aVAre we insane?
+p142
+aVWhen did we say yes to that?
+p143
+aVAnd we had buckets of this disgusting material
+p144
+aVin our studio,
+p145
+aVand on a Monday morning, we were discussing, we were like,
+p146
+aV"Shit, what should we do with it? Should we throw it away?"
+p147
+aVLike, "Help!"
+p148
+aVAnd then we realized: no, no, no, no, no \u2014
+p149
+aVwaste should not exist.
+p150
+aVWaste for the one should be food for the other.
+p151
+aVSo, here, maybe show it around.
+p152
+aVDo not put this in your coffee.
+p153
+aa(lp154
+V(Laughter)
+p155
+aa(lp156
+VAnd we realized that 42 percent is made out of carbon,
+p157
+aVand carbon, of course, under high pressure,
+p158
+aVyou get ...
+p159
+aVdiamonds.
+p160
+aVSo, inspired by that, we compress it for 30 minutes \u2014
+p161
+aa(lp162
+V(Cracking sound)
+p163
+aa(lp164
+Vand make smog-free rings.
+p165
+aa(lp166
+V(Laughter)
+p167
+aa(lp168
+VAnd so by sharing \u2014 yeah, really!
+p169
+aVAnd so by sharing a ring,
+p170
+aVyou donate 1,000 cubic meters of clean air
+p171
+aVto the city the tower is in.
+p172
+aa(lp173
+V(Applause)
+p174
+aa(lp175
+VI have one here \u2014
+p176
+aa(lp177
+V(Applause)
+p178
+aa(lp179
+VA little floating cube.
+p180
+aVI will give one to you.
+p181
+aVI'm not going to propose, don't worry.
+p182
+aa(lp183
+V(Laughter)
+p184
+aa(lp185
+VAre we good?
+p186
+aVYou can show it around.
+p187
+aa(lp188
+VAnd we put this online \u2014 Kickstarter campaign, crowdfunding.
+p189
+aVAnd people started to preorder it,
+p190
+aVbut more importantly, they started to prepay it.
+p191
+aVSo the finance we made with the jewelry helped us to realize,
+p192
+aVto build the first tower.
+p193
+aVAnd that's powerful.
+p194
+aVSo the waste the activator, it was the enabler.
+p195
+aVAlso, the feedback from the community \u2014
+p196
+aVthis is a wedding couple from India,
+p197
+aVwhere he proposed to her with the smog-free ring
+p198
+aVas a sign of true beauty,
+p199
+aVas a sign of hope.
+p200
+aVAnd she said yes.
+p201
+aa(lp202
+V(Laughter)
+p203
+aa(lp204
+VI love this image so much for a lot of different reasons.
+p205
+aa(lp206
+V(Laughter)
+p207
+aa(lp208
+VAnd right now, the project is touring through China,
+p209
+aVactually with the support of China's central government.
+p210
+aVSo the first goal is to create local clean-air parks,
+p211
+aVand that works already quite well \u2014
+p212
+aV55, 75 percent more clean.
+p213
+aVAnd at the same time,
+p214
+aVwe team up with the NGOs,
+p215
+aVwith the governors,
+p216
+aVwith the students,
+p217
+aVwith the tech people,
+p218
+aVto say, "Hey, what do we need to do to make a whole city smog-free?"
+p219
+aVIt's about the dream of clean air.
+p220
+aVWe do workshops. New ideas pop up.
+p221
+aVThese are smog-free bicycles which \u2014 I'm Dutch, yes? \u2014
+p222
+aVI have this "bicycle DNA" inside of me somewhere.
+p223
+aVAnd so it sucks up polluted air,
+p224
+aVit cleans it and releases it,
+p225
+aVin the fight against the car,
+p226
+aVin the celebration of the bicycle.
+p227
+aa(lp228
+VAnd so right now, we're working on a sort of "package deal," so to speak,
+p229
+aVwhere we say, "Smog-free towers, smog-free rings."
+p230
+aVWe go to the mayors or the governors of this world,
+p231
+aVand say, "We can guarantee a short-term reduction of pollution
+p232
+aVbetween 20 and 40 percent.
+p233
+aVPlease sign here right now."
+p234
+aVYes?
+p235
+aa(lp236
+V(Applause)
+p237
+aa(lp238
+VThank you.
+p239
+aa(lp240
+V(Applause)
+p241
+aa(lp242
+VSo it's all about connecting new technology with creative thinking.
+p243
+aVAnd if you start thinking about that,
+p244
+aVthere is so much you can imagine,
+p245
+aVso much more you can do.
+p246
+aVWe worked on dance floors which produce electricity
+p247
+aVwhen you dance on them.
+p248
+aVWe did the design for that \u2014 2008.
+p249
+aVSo it moves eight or nine millimeters,
+p250
+aVproduces 25 watts.
+p251
+aVThe electricity that we generate is used for the lighting or the DJ booth.
+p252
+aVSo some of the sustainability is about doing more,
+p253
+aVnot about doing less.
+p254
+aa(lp255
+VBut also on a larger scale,
+p256
+aVthe Netherlands, where I'm from, we live below sea level.
+p257
+aVSo because of these beauties \u2014
+p258
+aVthe Afsluitdijk: 32 kilometers, built by hand in 1932 \u2014
+p259
+aVwe live with the water,
+p260
+aVwe fight with the water,
+p261
+aVwe try to find harmony,
+p262
+aVbut sometimes we forget.
+p263
+aVAnd therefore, we made "Waterlicht,"
+p264
+aVa combination of LEDs and lenses,
+p265
+aVwhich show how high the water level would be \u2014
+p266
+aVglobal change \u2014
+p267
+aVif we stop.
+p268
+aVIf, today, we all go home and we say,
+p269
+aV"Oh, whatever, somebody else will do it for us,"
+p270
+aVor we'll wait for government or whomever.
+p271
+aVYou know, we're not going to do that.
+p272
+aVIt goes wrong.
+p273
+aVAnd we placed this in public spaces all around the world.
+p274
+aVThousands of people showed up.
+p275
+aa(lp276
+V(Applause)
+p277
+aa(lp278
+VThank you.
+p279
+aVYou're too nice, you're too nice. That's not good for a designer.
+p280
+aa(lp281
+VSo thousands of people showed up,
+p282
+aVand some, actually, were scared.
+p283
+aVAnd they left; they experienced the floods in 1953.
+p284
+aVAnd others were mesmerized.
+p285
+aVCan we make floating cities?
+p286
+aVCan we generate electricity from the change in tides?
+p287
+aVSo I think it's so important to make experiences \u2014
+p288
+aVcollective experiences \u2014
+p289
+aVwhere people feel connected with a vision, with a future
+p290
+aVand trigger what is possible.
+p291
+aa(lp292
+VAt the same time,
+p293
+aVyou know, these kinds of things \u2014 they're not easy, yes?
+p294
+aVIt's a struggle.
+p295
+aVAnd what I experienced in my life
+p296
+aVis that a lot of people say they want innovation,
+p297
+aVand they want the next and the new, the future.
+p298
+aVBut the moment you present a new idea,
+p299
+aVthere's this weird tendency to reply to every new idea
+p300
+aVstarting with two words.
+p301
+aVWhich are?
+p302
+aa(lp303
+V(Audience guesses)
+p304
+aa(lp305
+VNo, not "How much?" It's more annoying.
+p306
+aa(lp307
+V(Laughter)
+p308
+aa(lp309
+VWhat is it, guys?
+p310
+aVOr you're really blessed people? That's really good.
+p311
+aa(lp312
+V"Yes, but." Very good.
+p313
+aV"Yes, but: it's too expensive, it's too cheap, it's too fast, it's too slow,
+p314
+aVit's too beautiful, it's too ugly, it cannot be done, it already exists."
+p315
+aVI heard everything about the same project
+p316
+aVin the same week.
+p317
+aVAnd I got really, really annoyed.
+p318
+aVI got a bit of gray hair, started to dress in black like a true architect.
+p319
+aa(lp320
+V(Laughter)
+p321
+aa(lp322
+VAnd one morning I woke up and I said, "Daan, stop.
+p323
+aVThis is dragging you down.
+p324
+aVYou have to do something with this.
+p325
+aVYou have to use it as an ingredient, as a component."
+p326
+aVAnd so we decided to build,
+p327
+aVto realize the famous "Yes, but" chair.
+p328
+aa(lp329
+V(Laughter)
+p330
+aa(lp331
+VAnd this is an existing chair by Friso Kramer, a Dutch design.
+p332
+aVBut we gave it a little "update,"
+p333
+aVa little "hack," so to speak.
+p334
+aVWe placed a little voice-recognition element right here.
+p335
+aVSo the moment you sit on that chair,
+p336
+aVand you say those two horrible,
+p337
+aVcreative-destructive, annoying little words \u2014
+p338
+aa(lp339
+V(Laughter)
+p340
+aa(lp341
+Vyou get a short \u2014
+p342
+aa(lp343
+V(Laughter)
+p344
+aa(lp345
+Vbut pretty intense
+p346
+aVlittle shock on the back side of your bottom.
+p347
+aa(lp348
+V(Laughter)
+p349
+aa(lp350
+V(Applause)
+p351
+aa(lp352
+VAnd \u2014
+p353
+aa(lp354
+V(Applause)
+p355
+aa(lp356
+Vand that works; yeah, that works.
+p357
+aVSome clients have left us, they got really mad.
+p358
+aVFortunately, the good ones have stayed.
+p359
+aVAnd, of course, we also apply it to ourselves.
+p360
+aa(lp361
+VBut ladies and gentlemen, let's not be afraid.
+p362
+aVLet's be curious, yes?
+p363
+aVAnd, you know, walking through TED in these days
+p364
+aVand hearing the other speakers
+p365
+aVand feeling the energy of the crowd,
+p366
+aVI was remembering this quote of the Canadian author, Marshall McLuhan,
+p367
+aVwho once famously said,
+p368
+aV"On spacecraft earth,
+p369
+aVthere are no passengers.
+p370
+aVWe are all crew."
+p371
+aVAnd I think this so beautiful.
+p372
+aVThis is so beautiful!
+p373
+aVWe're not just consumers; we're makers:
+p374
+aVwe make decisions,
+p375
+aVwe make new inventions,
+p376
+aVwe make new dreams.
+p377
+aVAnd I think
+p378
+aVif we start implementing that kind of thinking even more
+p379
+aVwithin today,
+p380
+aVthere's still a whole new world to be explored.
+p381
+aa(lp382
+VAll right, thank you.
+p383
+aa(lp384
+V(Applause)
+p385
+aa(lp386
+VThank you.
+p387
+aa(lp388
+V(Applause)
+p389
+aasS'id'
+p390
+I2855
+sS'title'
+p391
+VA smog vacuum cleaner and other magical city designs
+p392
+s.

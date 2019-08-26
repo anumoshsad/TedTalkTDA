@@ -1,0 +1,553 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm a garbage man.
+p4
+aVAnd you might find it interesting that I became a garbage man,
+p5
+aVbecause I absolutely hate waste.
+p6
+aVI hope, within the next 10 minutes,
+p7
+aVto change the way you think
+p8
+aVabout a lot of the stuff in your life.
+p9
+aVAnd I'd like to start at the very beginning.
+p10
+aVThink back when you were just a kid.
+p11
+aVHow did look at the stuff in your life?
+p12
+aVPerhaps it was like these toddler rules:
+p13
+aVIt's my stuff if I saw it first.
+p14
+aVThe entire pile is my stuff if I'm building something.
+p15
+aVThe more stuff that's mine, the better.
+p16
+aVAnd of course, it's your stuff if it's broken.
+p17
+aa(lp18
+V(Laughter)
+p19
+aa(lp20
+VWell after spending about 20 years in the recycling industry,
+p21
+aVit's become pretty clear to me
+p22
+aVthat we don't necessarily leave these toddler rules behind
+p23
+aVas we develop into adults.
+p24
+aVAnd let me tell you why I have that perspective.
+p25
+aVBecause each and every day
+p26
+aVat our recycling plants around the world
+p27
+aVwe handle about one million pounds
+p28
+aVof people's discarded stuff.
+p29
+aVNow a million pounds a day sounds like a lot of stuff,
+p30
+aVbut it's a tiny drop of the durable goods
+p31
+aVthat are disposed each and every year around the world \u2014
+p32
+aVwell less than one percent.
+p33
+aVIn fact, the United Nations estimates
+p34
+aVthat there's about 85 billion pounds a year
+p35
+aVof electronics waste
+p36
+aVthat gets discarded around the world each and every year \u2014
+p37
+aVand that's one of the most rapidly growing parts of our waste stream.
+p38
+aVAnd if you throw in other durable goods like automobiles and so forth,
+p39
+aVthat number well more than doubles.
+p40
+aVAnd of course, the more developed the country,
+p41
+aVthe bigger these mountains.
+p42
+aa(lp43
+VNow when you see these mountains,
+p44
+aVmost people think of garbage.
+p45
+aVWe see above-ground mines.
+p46
+aVAnd the reason we see mines is because there's a lot of valuable raw materials
+p47
+aVthat went into making all of this stuff in the first place.
+p48
+aVAnd it's becoming increasingly important
+p49
+aVthat we figure out how to extract these raw materials
+p50
+aVfrom these extremely complicated waste streams.
+p51
+aVBecause as we've heard all week at TED,
+p52
+aVthe world's getting to be a smaller place with more people in it
+p53
+aVwho want more and more stuff.
+p54
+aVAnd of course, they want the toys and the tools
+p55
+aVthat many of us take for granted.
+p56
+aa(lp57
+VAnd what goes into making those toys and tools
+p58
+aVthat we use every single day?
+p59
+aVIt's mostly many types of plastics and many types of metals.
+p60
+aVAnd the metals, we typically get
+p61
+aVfrom ore that we mine
+p62
+aVin ever widening mines
+p63
+aVand ever deepening mines around the world.
+p64
+aVAnd the plastics, we get from oil,
+p65
+aVwhich we go to more remote locations
+p66
+aVand drill ever deeper wells to extract.
+p67
+aVAnd these practices have
+p68
+aVsignificant economic and environmental implications
+p69
+aVthat we're already starting to see today.
+p70
+aa(lp71
+VThe good news is we are starting to recover materials from our end-of-life stuff
+p72
+aVand starting to recycle our end-of-life stuff,
+p73
+aVparticularly in regions of the world like here in Europe
+p74
+aVthat have recycling policies in place
+p75
+aVthat require that this stuff be recycled
+p76
+aVin a responsible manner.
+p77
+aVMost of what's extracted from our end-of-life stuff,
+p78
+aVif it makes it to a recycler, are the metals.
+p79
+aVTo put that in perspective \u2014
+p80
+aVand I'm using steel as a proxy here for metals,
+p81
+aVbecause it's the most common metal \u2014
+p82
+aVif your stuff makes it to a recycler,
+p83
+aVprobably over 90 percent of the metals
+p84
+aVare going to be recovered and reused for another purpose.
+p85
+aVPlastics are a whole other story:
+p86
+aVwell less than 10 percent are recovered.
+p87
+aVIn fact, it's more like five percent.
+p88
+aVMost of it's incinerated or landfilled.
+p89
+aa(lp90
+VNow most people think that's because plastics are a throw-away material,
+p91
+aVhave very little value.
+p92
+aVBut actually, plastics are several times more valuable than steel.
+p93
+aVAnd there's more plastics produced and consumed
+p94
+aVaround the world on a volume basis
+p95
+aVevery year than steel.
+p96
+aVSo why is such a plentiful and valuable material
+p97
+aVnot recovered at anywhere near the rate
+p98
+aVof the less valuable material?
+p99
+aVWell it's predominantly because
+p100
+aVmetals are very easy to recycle
+p101
+aVfrom other materials and from one another.
+p102
+aVThey have very different densities.
+p103
+aVThey have different electrical and magnetic properties.
+p104
+aVAnd they even have different colors.
+p105
+aVSo it's very easy for either humans or machines
+p106
+aVto separate these metals
+p107
+aVfrom one another and from other materials.
+p108
+aVPlastics have overlapping densities over a very narrow range.
+p109
+aVThey have either identical or very similar
+p110
+aVelectrical and magnetic properties.
+p111
+aVAnd any plastic can be any color,
+p112
+aVas you probably well know.
+p113
+aVSo the traditional ways of separating materials
+p114
+aVjust simply don't work for plastics.
+p115
+aa(lp116
+VAnother consequence of metals being so easy to recycle by humans
+p117
+aVis that a lot of our stuff from the developed world \u2014
+p118
+aVand sadly to say, particularly from the United States,
+p119
+aVwhere we don't have any recycling policies in place like here in Europe \u2014
+p120
+aVfinds its way to developing countries
+p121
+aVfor low-cost recycling.
+p122
+aVPeople, for as little as a dollar a day, pick through our stuff.
+p123
+aVThey extract what they can, which is mostly the metals \u2014
+p124
+aVcircuit boards and so forth \u2014
+p125
+aVand they leave behind mostly what they can't recover,
+p126
+aVwhich is, again, mostly the plastics.
+p127
+aVOr they burn the plastics to get to the metals
+p128
+aVin burn houses like you see here.
+p129
+aVAnd they extract the metals by hand.
+p130
+aVNow while this may be the low-economic-cost solution,
+p131
+aVthis is certainly not the low-environmental
+p132
+aVor human health-and-safety solution.
+p133
+aVI call this environmental arbitrage.
+p134
+aVAnd it's not fair, it's not safe
+p135
+aVand it's not sustainable.
+p136
+aa(lp137
+VNow because the plastics are so plentiful \u2014
+p138
+aVand by the way,
+p139
+aVthose other methods don't lead to the recovery of plastics, obviously \u2014
+p140
+aVbut people do try to recover the plastics.
+p141
+aVThis is just one example.
+p142
+aVThis is a photo I took standing on the rooftops
+p143
+aVof one of the largest slums in the world in Mumbai, India.
+p144
+aVThey store the plastics on the roofs.
+p145
+aVThey bring them below those roofs into small workshops like these,
+p146
+aVand people try very hard to separate the plastics,
+p147
+aVby color, by shape, by feel,
+p148
+aVby any technique they can.
+p149
+aVAnd sometimes they'll resort to what's known as the "burn and sniff" technique
+p150
+aVwhere they'll burn the plastic and smell the fumes
+p151
+aVto try to determine the type of plastic.
+p152
+aVNone of these techniques result in any amount of recycling
+p153
+aVin any significant way.
+p154
+aVAnd by the way,
+p155
+aVplease don't try this technique at home.
+p156
+aa(lp157
+VSo what are we to do about this space-age material,
+p158
+aVat least what we used to call a space-aged material, these plastics?
+p159
+aVWell I certainly believe that it's far too valuable and far too abundant
+p160
+aVto keep putting back in the ground
+p161
+aVor certainly send up in smoke.
+p162
+aVSo about 20 years ago, I literally started in my garage tinkering around,
+p163
+aVtrying to figure out how to separate
+p164
+aVthese very similar materials from each other,
+p165
+aVand eventually enlisted a lot of my friends,
+p166
+aVin the mining world actually, and in the plastics world,
+p167
+aVand we started going around to mining laboratories around the world.
+p168
+aVBecause after all, we're doing above-ground mining.
+p169
+aVAnd we eventually broke the code.
+p170
+aVThis is the last frontier of recycling.
+p171
+aVIt's the last major material
+p172
+aVto be recovered in any significant amount on the Earth.
+p173
+aVAnd we finally figured out how to do it.
+p174
+aVAnd in the process, we started recreating
+p175
+aVhow the plastics industry makes plastics.
+p176
+aa(lp177
+VThe traditional way to make plastics
+p178
+aVis with oil or petrochemicals.
+p179
+aVYou breakdown the molecules, you recombine them in very specific ways,
+p180
+aVto make all the wonderful plastics that we enjoy each and every day.
+p181
+aVWe said, there's got to be a more sustainable way to make plastics.
+p182
+aVAnd not just sustainable from an environmental standpoint,
+p183
+aVsustainable from an economic standpoint as well.
+p184
+aVWell a good place to start is with waste.
+p185
+aVIt certainly doesn't cost as much as oil,
+p186
+aVand it's plentiful,
+p187
+aVas I hope that you've been able to see from the photographs.
+p188
+aVAnd because we're not breaking down the plastic into molecules
+p189
+aVand recombining them,
+p190
+aVwe're using a mining approach to extract the materials.
+p191
+aa(lp192
+VWe have significantly lower capital costs
+p193
+aVin our plant equipment.
+p194
+aVWe have enormous energy savings.
+p195
+aVI don't know how many other projects on the planet right now
+p196
+aVcan save 80 to 90 percent of the energy
+p197
+aVcompared to making something the traditional way.
+p198
+aVAnd instead of plopping down several hundred million dollars
+p199
+aVto build a chemical plant
+p200
+aVthat will only make one type of plastic for its entire life,
+p201
+aVour plants can make any type of plastic we feed them.
+p202
+aVAnd we make a drop-in replacement
+p203
+aVfor that plastic that's made from petrochemicals.
+p204
+aVOur customers get to enjoy
+p205
+aVhuge CO2 savings.
+p206
+aVThey get to close the loop with their products.
+p207
+aVAnd they get to make more sustainable products.
+p208
+aa(lp209
+VIn the short time period I have,
+p210
+aVI want to show you a little bit of a sense about how we do this.
+p211
+aVIt starts with metal recyclers who shred our stuff into very small bits.
+p212
+aVThey recover the metals
+p213
+aVand leave behind what's called shredder residue \u2014 it's their waste \u2014
+p214
+aVa very complex mixture of materials,
+p215
+aVbut predominantly plastics.
+p216
+aVWe take out the things that aren't plastics,
+p217
+aVsuch as the metals they missed, carpeting, foam, rubber,
+p218
+aVwood, glass, paper, you name it.
+p219
+aVEven an occasional dead animal, unfortunately.
+p220
+aVAnd it goes in the first part of our process here, which is more like traditional recycling.
+p221
+aVWe're sieving the material, we're using magnets,
+p222
+aVwe're using air classification.
+p223
+aVIt looks like the Willy Wonka factory at this point.
+p224
+aa(lp225
+VAt the end of this process, we have a mixed plastic composite:
+p226
+aVmany different types of plastics
+p227
+aVand many different grades of plastics.
+p228
+aVThis goes into the more sophisticated part of our process,
+p229
+aVand the really hard work, multi-step separation process begins.
+p230
+aVWe grind the plastic down to about the size of your small fingernail.
+p231
+aVWe use a very highly automated process
+p232
+aVto sort those plastics,
+p233
+aVnot only by type, but by grade.
+p234
+aVAnd out the end of that part of the process
+p235
+aVcome little flakes of plastic:
+p236
+aVone type, one grade.
+p237
+aVWe then use optical sorting to color sort this material.
+p238
+aVWe blend it in 50,000-lb. blending silos.
+p239
+aVWe push that material to extruders where we melt it,
+p240
+aVpush it through small die holes,
+p241
+aVmake spaghetti-like plastic strands.
+p242
+aVAnd we chop those strands
+p243
+aVinto what are called pellets.
+p244
+aVAnd this becomes the currency of the plastics industry.
+p245
+aVThis is the same material
+p246
+aVthat you would get from oil.
+p247
+aVAnd today,
+p248
+aVwe're producing it from your old stuff,
+p249
+aVand it's going right back into your new stuff.
+p250
+aa(lp251
+V(Applause)
+p252
+aa(lp253
+VSo now, instead of your stuff ending up
+p254
+aVon a hillside in a developing country
+p255
+aVor literally going up in smoke,
+p256
+aVyou can find your old stuff
+p257
+aVback on top of your desk in new products,
+p258
+aVin your office,
+p259
+aVor back at work in your home.
+p260
+aVAnd these are just a few examples
+p261
+aVof companies that are buying our plastic,
+p262
+aVreplacing virgin plastic,
+p263
+aVto make their new products.
+p264
+aa(lp265
+VSo I hope I've changed the way you look at
+p266
+aVat least some of the stuff in your life.
+p267
+aVWe took our clues from mother nature.
+p268
+aVMother nature wastes very little,
+p269
+aVreuses practically everything.
+p270
+aVAnd I hope that you stop looking at yourself as a consumer \u2014
+p271
+aVthat's a label I've always hated my entire life \u2014
+p272
+aVand think of yourself as just using resources in one form,
+p273
+aVuntil they can be transformed to another form
+p274
+aVfor another use later in time.
+p275
+aVAnd finally, I hope you agree with me
+p276
+aVto change that last toddler rule just a little bit
+p277
+aVto: "If it's broken, it's my stuff."
+p278
+aa(lp279
+VThank you for your time.
+p280
+aa(lp281
+V(Applause)
+p282
+aasS'id'
+p283
+I1239
+sS'title'
+p284
+VWe can recycle plastic
+p285
+s.

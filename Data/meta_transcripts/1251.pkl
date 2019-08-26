@@ -1,0 +1,961 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo today, I would like to talk with you
+p4
+aVabout bionics,
+p5
+aVwhich is the popular term
+p6
+aVfor the science of replacing part of a living organism
+p7
+aVwith a mechatronic device, or a robot.
+p8
+aVIt is essentially
+p9
+aVthe stuff of life meets machine.
+p10
+aVAnd specifically, I'd like to talk with you
+p11
+aVabout how bionics is evolving
+p12
+aVfor people with arm amputations.
+p13
+aa(lp14
+VThis is our motivation.
+p15
+aVArm amputation causes a huge disability.
+p16
+aVI mean, the functional impairment is clear.
+p17
+aVOur hands are amazing instruments.
+p18
+aVAnd when you lose one, far less both,
+p19
+aVit's a lot harder to do the things
+p20
+aVwe physically need to do.
+p21
+aVThere's also a huge emotional impact.
+p22
+aVAnd actually, I spend as much of my time in clinic
+p23
+aVdealing with the emotional adjustment of patients
+p24
+aVas with the physical disability.
+p25
+aVAnd finally, there's a profound social impact.
+p26
+aVWe talk with our hands.
+p27
+aVWe greet with our hands.
+p28
+aVAnd we interact with the physical world with our hands.
+p29
+aVAnd when they're missing,
+p30
+aVit's a barrier.
+p31
+aVArm amputation is usually caused by trauma,
+p32
+aVwith things like industrial accidents,
+p33
+aVmotor vehicle collisions
+p34
+aVor, very poignantly, war.
+p35
+aVThere are also some children who are born without arms,
+p36
+aVcalled congenital limb deficiency.
+p37
+aa(lp38
+VUnfortunately, we don't do great
+p39
+aVwith upper-limb prosthetics.
+p40
+aVThere are two general types.
+p41
+aVThey're called body-powered prostheses,
+p42
+aVwhich were invented just after the Civil War,
+p43
+aVrefined in World War I and World War II.
+p44
+aVHere you see a patent
+p45
+aVfor an arm in 1912.
+p46
+aVIt's not a lot different
+p47
+aVthan the one you see on my patient.
+p48
+aVThey work by harnessing shoulder power.
+p49
+aVSo when you squish your shoulders, they pull on a bicycle cable.
+p50
+aVAnd that bicycle cable can open or close a hand or a hook
+p51
+aVor bend an elbow.
+p52
+aVAnd we still use them commonly,
+p53
+aVbecause they're very robust
+p54
+aVand relatively simple devices.
+p55
+aa(lp56
+VThe state of the art
+p57
+aVis what we call myoelectric prostheses.
+p58
+aVThese are motorized devices
+p59
+aVthat are controlled
+p60
+aVby little electrical signals from your muscle.
+p61
+aVEvery time you contract a muscle,
+p62
+aVit emits a little electricity
+p63
+aVthat you can record with antennae or electrodes
+p64
+aVand use that to operate the motorized prosthesis.
+p65
+aVThey work pretty well
+p66
+aVfor people who have just lost their hand,
+p67
+aVbecause your hand muscles are still there.
+p68
+aVYou squeeze your hand, these muscles contract.
+p69
+aVYou open it, these muscles contract.
+p70
+aVSo it's intuitive, and it works pretty well.
+p71
+aa(lp72
+VWell how about with higher levels of amputation?
+p73
+aVNow you've lost your arm above the elbow.
+p74
+aVYou're missing not only these muscles,
+p75
+aVbut your hand and your elbow too.
+p76
+aVWhat do you do?
+p77
+aVWell our patients have to use
+p78
+aVvery code-y systems
+p79
+aVof using just their arm muscles
+p80
+aVto operate robotic limbs.
+p81
+aVWe have robotic limbs.
+p82
+aVThere are several available on the market, and here you see a few.
+p83
+aVThey contain just a hand that will open and close,
+p84
+aVa wrist rotator and an elbow.
+p85
+aVThere's no other functions.
+p86
+aVIf they did, how would we tell them what to do?
+p87
+aa(lp88
+VWe built our own arm at the Rehab Institute of Chicago
+p89
+aVwhere we've added some wrist flexion and shoulder joints
+p90
+aVto get up to six motors, or six degrees of freedom.
+p91
+aVAnd we've had the opportunity to work with some very advanced arms
+p92
+aVthat were funded by the U.S. military, using these prototypes,
+p93
+aVthat had up to 10 different degrees of freedom
+p94
+aVincluding movable hands.
+p95
+aVBut at the end of the day,
+p96
+aVhow do we tell these robotic arms what to do?
+p97
+aVHow do we control them?
+p98
+aVWell we need a neural interface,
+p99
+aVa way to connect to our nervous system
+p100
+aVor our thought processes
+p101
+aVso that it's intuitive, it's natural,
+p102
+aVlike for you and I.
+p103
+aa(lp104
+VWell the body works by starting a motor command in your brain,
+p105
+aVgoing down your spinal cord,
+p106
+aVout the nerves and to your periphery.
+p107
+aVAnd your sensation's the exact opposite.
+p108
+aVYou touch yourself, there's a stimulus
+p109
+aVthat comes up those very same nerves back up to your brain.
+p110
+aVWhen you lose your arm, that nervous system still works.
+p111
+aVThose nerves can put out command signals.
+p112
+aVAnd if I tap the nerve ending
+p113
+aVon a World War II vet,
+p114
+aVhe'll still feel his missing hand.
+p115
+aVSo you might say,
+p116
+aVlet's go to the brain
+p117
+aVand put something in the brain to record signals,
+p118
+aVor in the end of the peripheral nerve and record them there.
+p119
+aVAnd these are very exciting research areas,
+p120
+aVbut it's really, really hard.
+p121
+aVYou have to put in
+p122
+aVhundreds of microscopic wires
+p123
+aVto record from little tiny individual neurons \u2014 ordinary fibers
+p124
+aVthat put out tiny signals
+p125
+aVthat are microvolts.
+p126
+aVAnd it's just too hard
+p127
+aVto use now and for my patients today.
+p128
+aa(lp129
+VSo we developed a different approach.
+p130
+aVWe're using a biological amplifier
+p131
+aVto amplify these nerve signals \u2014 muscles.
+p132
+aVMuscles will amplify the nerve signals
+p133
+aVabout a thousand-fold,
+p134
+aVso that we can record them from on top of the skin,
+p135
+aVlike you saw earlier.
+p136
+aVSo our approach is something we call targeted reinnervation.
+p137
+aVImagine, with somebody who's lost their whole arm,
+p138
+aVwe still have four major nerves
+p139
+aVthat go down your arm.
+p140
+aVAnd we take the nerve away from your chest muscle
+p141
+aVand let these nerves grow into it.
+p142
+aVNow you think, "Close hand," and a little section of your chest contracts.
+p143
+aVYou think, "Bend elbow,"
+p144
+aVa different section contracts.
+p145
+aVAnd we can use electrodes or antennae
+p146
+aVto pick that up and tell the arm to move.
+p147
+aVThat's the idea.
+p148
+aa(lp149
+VSo this is the first man that we tried it on.
+p150
+aVHis name is Jesse Sullivan.
+p151
+aVHe's just a saint of a man \u2014
+p152
+aV54-year-old lineman who touched the wrong wire
+p153
+aVand had both of his arms burnt so badly
+p154
+aVthey had to be amputated at the shoulder.
+p155
+aVJesse came to us at the RIC
+p156
+aVto be fit with these state-of-the-art devices, and here you see them.
+p157
+aVI'm still using that old technology
+p158
+aVwith a bicycle cable on his right side.
+p159
+aVAnd he picks which joint he wants to move with those chin switches.
+p160
+aVOn the left side he's got a modern motorized prosthesis
+p161
+aVwith those three joints,
+p162
+aVand he operates little pads in his shoulder
+p163
+aVthat he touches to make the arm go.
+p164
+aVAnd Jesse's a good crane operator,
+p165
+aVand he did okay by our standards.
+p166
+aa(lp167
+VHe also required a revision surgery on his chest.
+p168
+aVAnd that gave us the opportunity
+p169
+aVto do targeted reinnervation.
+p170
+aVSo my colleague, Dr. Greg Dumanian, did the surgery.
+p171
+aVFirst, we cut away the nerve to his own muscle,
+p172
+aVthen we took the arm nerves
+p173
+aVand just kind of had them shift down onto his chest
+p174
+aVand closed him up.
+p175
+aVAnd after about three months,
+p176
+aVthe nerves grew in a little bit and we could get a twitch.
+p177
+aVAnd after six months, the nerves grew in well,
+p178
+aVand you could see strong contractions.
+p179
+aVAnd this is what it looks like.
+p180
+aVThis is what happens when Jesse thinks
+p181
+aVopen and close his hand,
+p182
+aVor bend or straighten your elbow.
+p183
+aVYou can see the movements on his chest,
+p184
+aVand those little hash marks
+p185
+aVare where we put our antennae, or electrodes.
+p186
+aVAnd I challenge anybody in the room
+p187
+aVto make their chest go like this.
+p188
+aVHis brain is thinking about his arm.
+p189
+aVHe has not learned how to do this with the chest.
+p190
+aVThere is not a learning process.
+p191
+aVThat's why it's intuitive.
+p192
+aa(lp193
+VSo here's Jesse in our first little test with him.
+p194
+aVOn the left-hand side, you see his original prosthesis,
+p195
+aVand he's using those switches
+p196
+aVto move little blocks from one box to the other.
+p197
+aVHe's had that arm for about 20 months, so he's pretty good with it.
+p198
+aVOn the right side,
+p199
+aVtwo months after we fit him with his targeted reinnervation prosthesis \u2014
+p200
+aVwhich, by the way, is the same physical arm,
+p201
+aVjust programmed a little different \u2014
+p202
+aVyou can see that he's much faster
+p203
+aVand much smoother as he moves these little blocks.
+p204
+aVAnd we're only able to use three of the signals at this time.
+p205
+aa(lp206
+VThen we had one of those little surprises in science.
+p207
+aVSo we're all motivated to get motor commands
+p208
+aVto drive robotic arms.
+p209
+aVAnd after a few months,
+p210
+aVyou touch Jesse on his chest,
+p211
+aVand he felt his missing hand.
+p212
+aVHis hand sensation grew into his chest again
+p213
+aVprobably because we had also taken away a lot of fat,
+p214
+aVso the skin was right down to the muscle
+p215
+aVand deinnervated, if you would, his skin.
+p216
+aVSo you touch Jesse here, he feels his thumb;
+p217
+aVyou touch it here, he feels his pinky.
+p218
+aVHe feels light touch
+p219
+aVdown to one gram of force.
+p220
+aVHe feels hot, cold, sharp, dull,
+p221
+aVall in his missing hand,
+p222
+aVor both his hand and his chest,
+p223
+aVbut he can attend to either.
+p224
+aVSo this is really exciting for us,
+p225
+aVbecause now we have a portal,
+p226
+aVa portal, or a way to potentially give back sensation,
+p227
+aVso that he might feel what he touches
+p228
+aVwith his prosthetic hand.
+p229
+aVImagine sensors in the hand
+p230
+aVcoming up and pressing on this new hand skin.
+p231
+aVSo it was very exciting.
+p232
+aa(lp233
+VWe've also gone on
+p234
+aVwith what was initially our primary population
+p235
+aVof people with above-the-elbow amputations.
+p236
+aVAnd here we deinnervate, or cut the nerve away,
+p237
+aVjust from little segments of muscle
+p238
+aVand leave others alone
+p239
+aVthat give us our up-down signals
+p240
+aVand two others that will give us a hand open and close signal.
+p241
+aVThis was one of our first patients, Chris.
+p242
+aVYou see him with his original device
+p243
+aVon the left there after eight months of use,
+p244
+aVand on the right, it is two months.
+p245
+aVHe's about four or five times as fast
+p246
+aVwith this simple little performance metric.
+p247
+aa(lp248
+VAll right.
+p249
+aVSo one of the best parts of my job
+p250
+aVis working with really great patients
+p251
+aVwho are also our research collaborators.
+p252
+aVAnd we're fortunate today
+p253
+aVto have Amanda Kitts come and join us.
+p254
+aVPlease welcome Amanda Kitts.
+p255
+aa(lp256
+V(Applause)
+p257
+aa(lp258
+VSo Amanda, would you please tell us how you lost your arm?
+p259
+aa(lp260
+VAmanda Kitts: Sure. In 2006, I had a car accident.
+p261
+aVAnd I was driving home from work,
+p262
+aVand a truck was coming the opposite direction,
+p263
+aVcame over into my lane,
+p264
+aVran over the top of my car and his axle tore my arm off.
+p265
+aa(lp266
+VTodd Kuiken: Okay, so after your amputation, you healed up.
+p267
+aVAnd you've got one of these conventional arms.
+p268
+aVCan you tell us how it worked?
+p269
+aa(lp270
+VAK: Well, it was a little difficult,
+p271
+aVbecause all I had to work with was a bicep and a tricep.
+p272
+aVSo for the simple little things like picking something up,
+p273
+aVI would have to bend my elbow,
+p274
+aVand then I would have to cocontract
+p275
+aVto get it to change modes.
+p276
+aVWhen I did that,
+p277
+aVI had to use my bicep
+p278
+aVto get the hand to close,
+p279
+aVuse my tricep to get it to open,
+p280
+aVcocontract again
+p281
+aVto get the elbow to work again.
+p282
+aa(lp283
+VTK: So it was a little slow?
+p284
+aa(lp285
+VAK: A little slow, and it was just hard to work.
+p286
+aVYou had to concentrate a whole lot.
+p287
+aa(lp288
+VTK: Okay, so I think about nine months later
+p289
+aVthat you had the targeted reinnervation surgery,
+p290
+aVtook six more months to have all the reinnervation.
+p291
+aVThen we fit her with a prosthesis.
+p292
+aVAnd how did that work for you?
+p293
+aa(lp294
+VAK: It works good.
+p295
+aVI was able to use my elbow
+p296
+aVand my hand simultaneously.
+p297
+aVI could work them just by my thoughts.
+p298
+aVSo I didn't have to do any of the cocontracting and all that.
+p299
+aa(lp300
+VTK: A little faster?
+p301
+aa(lp302
+VAK: A little faster. And much more easy, much more natural.
+p303
+aa(lp304
+VTK: Okay, this was my goal.
+p305
+aVFor 20 years, my goal was to let somebody
+p306
+aV[be] able to use their elbow and hand in an intuitive way
+p307
+aVand at the same time.
+p308
+aVAnd we now have over 50 patients around the world who have had this surgery,
+p309
+aVincluding over a dozen of our wounded warriors
+p310
+aVin the U.S. armed services.
+p311
+aVThe success rate of the nerve transfers is very high.
+p312
+aVIt's like 96 percent.
+p313
+aVBecause we're putting a big fat nerve onto a little piece of muscle.
+p314
+aVAnd it provides intuitive control.
+p315
+aVOur functional testing, those little tests,
+p316
+aVall show that they're a lot quicker and a lot easier.
+p317
+aVAnd the most important thing
+p318
+aVis our patients have appreciated it.
+p319
+aa(lp320
+VSo that was all very exciting.
+p321
+aVBut we want to do better.
+p322
+aVThere's a lot of information in those nerve signals,
+p323
+aVand we wanted to get more.
+p324
+aVYou can move each finger. You can move your thumb, your wrist.
+p325
+aVCan we get more out of it?
+p326
+aVSo we did some experiments
+p327
+aVwhere we saturated our poor patients with zillions of electrodes
+p328
+aVand then had them try to do two dozen different tasks \u2014
+p329
+aVfrom wiggling a finger to moving a whole arm
+p330
+aVto reaching for something \u2014
+p331
+aVand recorded this data.
+p332
+aVAnd then we used some algorithms
+p333
+aVthat are a lot like speech recognition algorithms,
+p334
+aVcalled pattern recognition.
+p335
+aVSee.
+p336
+aa(lp337
+V(Laughter)
+p338
+aa(lp339
+VAnd here you can see, on Jesse's chest,
+p340
+aVwhen he just tried to do three different things,
+p341
+aVyou can see three different patterns.
+p342
+aVBut I can't put in an electrode
+p343
+aVand say, "Go there."
+p344
+aVSo we collaborated with our colleagues in University of New Brunswick,
+p345
+aVcame up with this algorithm control,
+p346
+aVwhich Amanda can now demonstrate.
+p347
+aa(lp348
+VAK: So I have the elbow that goes up and down.
+p349
+aVI have the wrist rotation
+p350
+aVthat goes \u2014 and it can go all the way around.
+p351
+aVAnd I have the wrist flexion and extension.
+p352
+aVAnd I also have the hand closed and open.
+p353
+aa(lp354
+VTK: Thank you, Amanda.
+p355
+aVNow this is a research arm,
+p356
+aVbut it's made out of commercial components from here down
+p357
+aVand a few that I've borrowed from around the world.
+p358
+aVIt's about seven pounds,
+p359
+aVwhich is probably about what my arm would weigh
+p360
+aVif I lost it right here.
+p361
+aVObviously, that's heavy for Amanda.
+p362
+aVAnd in fact, it feels even heavier,
+p363
+aVbecause it's not glued on the same.
+p364
+aVShe's carrying all the weight through harnesses.
+p365
+aa(lp366
+VSo the exciting part isn't so much the mechatronics,
+p367
+aVbut the control.
+p368
+aVSo we've developed a small microcomputer
+p369
+aVthat is blinking somewhere behind her back
+p370
+aVand is operating this
+p371
+aVall by the way she trains it
+p372
+aVto use her individual muscle signals.
+p373
+aVSo Amanda, when you first started using this arm,
+p374
+aVhow long did it take to use it?
+p375
+aa(lp376
+VAK: It took just about probably three to four hours
+p377
+aVto get it to train.
+p378
+aVI had to hook it up to a computer,
+p379
+aVso I couldn't just train it anywhere.
+p380
+aVSo if it stopped working, I just had to take it off.
+p381
+aVSo now it's able to train
+p382
+aVwith just this little piece on the back.
+p383
+aVI can wear it around.
+p384
+aVIf it stops working for some reason, I can retrain it.
+p385
+aVTakes about a minute.
+p386
+aa(lp387
+VTK: So we're really excited,
+p388
+aVbecause now we're getting to a clinically practical device.
+p389
+aVAnd that's where our goal is \u2014
+p390
+aVto have something clinically pragmatic to wear.
+p391
+aVWe've also had Amanda able to use
+p392
+aVsome of our more advanced arms that I showed you earlier.
+p393
+aVHere's Amanda using an arm made by DEKA Research Corporation.
+p394
+aVAnd I believe Dean Kamen presented it at TED a few years ago.
+p395
+aVSo Amanda, you can see,
+p396
+aVhas really good control.
+p397
+aVIt's all the pattern recognition.
+p398
+aVAnd it now has a hand that can do different grasps.
+p399
+aVWhat we do is have the patient go all the way open
+p400
+aVand think, "What hand grasp pattern do I want?"
+p401
+aVIt goes into that mode,
+p402
+aVand then you can do up to five or six different hand grasps with this hand.
+p403
+aVAmanda, how many were you able to do with the DEKA arm?
+p404
+aa(lp405
+VAK: I was able to get four.
+p406
+aVI had the key grip, I had a chuck grip,
+p407
+aVI had a power grasp
+p408
+aVand I had a fine pinch.
+p409
+aVBut my favorite one was just when the hand was open,
+p410
+aVbecause I work with kids,
+p411
+aVand so all the time you're clapping and singing,
+p412
+aVso I was able to do that again, which was really good.
+p413
+aa(lp414
+VTK: That hand's not so good for clapping.
+p415
+aa(lp416
+VAK: Can't clap with this one.
+p417
+aa(lp418
+VTK: All right. So that's exciting
+p419
+aVon where we may go with the better mechatronics,
+p420
+aVif we make them good enough
+p421
+aVto put out on the market and use in a field trial.
+p422
+aVI want you to watch closely.
+p423
+aa(lp424
+V(Video) Claudia: Oooooh!
+p425
+aa(lp426
+VTK: That's Claudia,
+p427
+aVand that was the first time
+p428
+aVshe got to feel sensation through her prosthetic.
+p429
+aVShe had a little sensor at the end of her prosthesis
+p430
+aVthat then she rubbed over different surfaces,
+p431
+aVand she could feel different textures
+p432
+aVof sandpaper, different grits, ribbon cable,
+p433
+aVas it pushed on her reinnervated hand skin.
+p434
+aVShe said that when she just ran it across the table,
+p435
+aVit felt like her finger was rocking.
+p436
+aVSo that's an exciting laboratory experiment
+p437
+aVon how to give back, potentially, some skin sensation.
+p438
+aa(lp439
+VBut here's another video that shows some of our challenges.
+p440
+aVThis is Jesse, and he's squeezing a foam toy.
+p441
+aVAnd the harder he squeezes \u2014 you see a little black thing in the middle
+p442
+aVthat's pushing on his skin proportional to how hard he squeezes.
+p443
+aVBut look at all the electrodes around it.
+p444
+aVI've got a real estate problem.
+p445
+aVYou're supposed to put a bunch of these things on there,
+p446
+aVbut our little motor's making all kinds of noise
+p447
+aVright next to my electrodes.
+p448
+aVSo we're really challenged on what we're doing there.
+p449
+aa(lp450
+VThe future is bright.
+p451
+aVWe're excited about where we are and a lot of things we want to do.
+p452
+aVSo for example,
+p453
+aVone is to get rid of my real estate problem
+p454
+aVand get better signals.
+p455
+aVWe want to develop these little tiny capsules
+p456
+aVabout the size of a piece of risotto
+p457
+aVthat we can put into the muscles
+p458
+aVand telemeter out the EMG signals,
+p459
+aVso that it's not worrying about electrode contact.
+p460
+aVAnd we can have the real estate open
+p461
+aVto try more sensation feedback.
+p462
+aVWe want to build a better arm.
+p463
+aVThis arm \u2014 they're always made for the 50th percentile male \u2014
+p464
+aVwhich means they're too big for five-eighths of the world.
+p465
+aVSo rather than a super strong or super fast arm,
+p466
+aVwe're making an arm that is \u2014
+p467
+aVwe're starting with,
+p468
+aVthe 25th percentile female \u2014
+p469
+aVthat will have a hand that wraps around,
+p470
+aVopens all the way,
+p471
+aVtwo degrees of freedom in the wrist and an elbow.
+p472
+aVSo it'll be the smallest and lightest
+p473
+aVand the smartest arm ever made.
+p474
+aVOnce we can do it that small,
+p475
+aVit's a lot easier making them bigger.
+p476
+aa(lp477
+VSo those are just some of our goals.
+p478
+aVAnd we really appreciate you all being here today.
+p479
+aVI'd like to tell you a little bit about the dark side,
+p480
+aVwith yesterday's theme.
+p481
+aVSo Amanda came jet-lagged,
+p482
+aVshe's using the arm,
+p483
+aVand everything goes wrong.
+p484
+aVThere was a computer spook,
+p485
+aVa broken wire,
+p486
+aVa converter that sparked.
+p487
+aVWe took out a whole circuit in the hotel
+p488
+aVand just about put on the fire alarm.
+p489
+aVAnd none of those problems could I have dealt with,
+p490
+aVbut I have a really bright research team.
+p491
+aVAnd thankfully Dr. Annie Simon was with us
+p492
+aVand worked really hard yesterday to fix it.
+p493
+aVThat's science.
+p494
+aVAnd fortunately, it worked today.
+p495
+aa(lp496
+VSo thank you very much.
+p497
+aa(lp498
+V(Applause)
+p499
+aasS'id'
+p500
+I1251
+sS'title'
+p501
+VA prosthetic arm that "feels"
+p502
+s.

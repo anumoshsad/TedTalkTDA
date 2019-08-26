@@ -1,0 +1,643 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSome years ago, I set out to try to understand
+p4
+aVif there was a possibility to develop biofuels
+p5
+aVon a scale that would actually compete with fossil fuels
+p6
+aVbut not compete with agriculture for water,
+p7
+aVfertilizer or land.
+p8
+aa(lp9
+VSo here's what I came up with.
+p10
+aVImagine that we build an enclosure where we put it
+p11
+aVjust underwater, and we fill it with wastewater
+p12
+aVand some form of microalgae that produces oil,
+p13
+aVand we make it out of some kind of flexible material
+p14
+aVthat moves with waves underwater,
+p15
+aVand the system that we're going to build, of course,
+p16
+aVwill use solar energy to grow the algae,
+p17
+aVand they use CO2, which is good,
+p18
+aVand they produce oxygen as they grow.
+p19
+aVThe algae that grow are in a container that
+p20
+aVdistributes the heat to the surrounding water,
+p21
+aVand you can harvest them and make biofuels
+p22
+aVand cosmetics and fertilizer and animal feed,
+p23
+aVand of course you'd have to make a large area of this,
+p24
+aVso you'd have to worry about other stakeholders
+p25
+aVlike fishermen and ships and such things, but hey,
+p26
+aVwe're talking about biofuels,
+p27
+aVand we know the importance of potentially getting
+p28
+aVan alternative liquid fuel.
+p29
+aa(lp30
+VWhy are we talking about microalgae?
+p31
+aVHere you see a graph showing you the different types
+p32
+aVof crops that are being considered for making biofuels,
+p33
+aVso you can see some things like soybean,
+p34
+aVwhich makes 50 gallons per acre per year,
+p35
+aVor sunflower or canola or jatropha or palm, and that
+p36
+aVtall graph there shows what microalgae can contribute.
+p37
+aVThat is to say, microalgae contributes between 2,000
+p38
+aVand 5,000 gallons per acre per year,
+p39
+aVcompared to the 50 gallons per acre per year from soy.
+p40
+aa(lp41
+VSo what are microalgae? Microalgae are micro \u2014
+p42
+aVthat is, they're extremely small, as you can see here
+p43
+aVa picture of those single-celled organisms
+p44
+aVcompared to a human hair.
+p45
+aVThose small organisms have been around
+p46
+aVfor millions of years and there's thousands
+p47
+aVof different species of microalgae in the world,
+p48
+aVsome of which are the fastest-growing plants on the planet,
+p49
+aVand produce, as I just showed you, lots and lots of oil.
+p50
+aa(lp51
+VNow, why do we want to do this offshore?
+p52
+aVWell, the reason we're doing this offshore is because
+p53
+aVif you look at our coastal cities, there isn't a choice,
+p54
+aVbecause we're going to use waste water, as I suggested,
+p55
+aVand if you look at where most of the waste water
+p56
+aVtreatment plants are, they're embedded in the cities.
+p57
+aVThis is the city of San Francisco, which has 900 miles
+p58
+aVof sewer pipes under the city already,
+p59
+aVand it releases its waste water offshore.
+p60
+aVSo different cities around the world treat their waste water
+p61
+aVdifferently. Some cities process it.
+p62
+aVSome cities just release the water.
+p63
+aVBut in all cases, the water that's released is
+p64
+aVperfectly adequate for growing microalgae.
+p65
+aVSo let's envision what the system might look like.
+p66
+aVWe call it OMEGA, which is an acronym for
+p67
+aVOffshore Membrane Enclosures for Growing Algae.
+p68
+aVAt NASA, you have to have good acronyms.
+p69
+aa(lp70
+VSo how does it work? I sort of showed you how it works already.
+p71
+aVWe put waste water and some source of CO2
+p72
+aVinto our floating structure,
+p73
+aVand the waste water provides nutrients for the algae to grow,
+p74
+aVand they sequester CO2 that would otherwise go off
+p75
+aVinto the atmosphere as a greenhouse gas.
+p76
+aVThey of course use solar energy to grow,
+p77
+aVand the wave energy on the surface provides energy
+p78
+aVfor mixing the algae, and the temperature
+p79
+aVis controlled by the surrounding water temperature.
+p80
+aVThe algae that grow produce oxygen, as I've mentioned,
+p81
+aVand they also produce biofuels and fertilizer and food and
+p82
+aVother bi-algal products of interest.
+p83
+aa(lp84
+VAnd the system is contained. What do I mean by that?
+p85
+aVIt's modular. Let's say something happens that's
+p86
+aVtotally unexpected to one of the modules.
+p87
+aVIt leaks. It's struck by lightning.
+p88
+aVThe waste water that leaks out is water that already now
+p89
+aVgoes into that coastal environment, and
+p90
+aVthe algae that leak out are biodegradable,
+p91
+aVand because they're living in waste water,
+p92
+aVthey're fresh water algae, which means they can't
+p93
+aVlive in salt water, so they die.
+p94
+aVThe plastic we'll build it out of is some kind of
+p95
+aVwell-known plastic that we have good experience with, and
+p96
+aVwe'll rebuild our modules to be able to reuse them again.
+p97
+aa(lp98
+VSo we may be able to go beyond that when thinking about
+p99
+aVthis system that I'm showing you, and that is to say
+p100
+aVwe need to think in terms of the water, the fresh water,
+p101
+aVwhich is also going to be an issue in the future,
+p102
+aVand we're working on methods now
+p103
+aVfor recovering the waste water.
+p104
+aa(lp105
+VThe other thing to consider is the structure itself.
+p106
+aVIt provides a surface for things in the ocean,
+p107
+aVand this surface, which is covered by seaweeds
+p108
+aVand other organisms in the ocean,
+p109
+aVwill become enhanced marine habitat
+p110
+aVso it increases biodiversity.
+p111
+aVAnd finally, because it's an offshore structure,
+p112
+aVwe can think in terms of how it might contribute
+p113
+aVto an aquaculture activity offshore.
+p114
+aa(lp115
+VSo you're probably thinking, "Gee, this sounds
+p116
+aVlike a good idea. What can we do to try to see if it's real?"
+p117
+aVWell, I set up laboratories in Santa Cruz
+p118
+aVat the California Fish and Game facility,
+p119
+aVand that facility allowed us to have big seawater tanks
+p120
+aVto test some of these ideas.
+p121
+aVWe also set up experiments in San Francisco
+p122
+aVat one of the three waste water treatment plants,
+p123
+aVagain a facility to test ideas.
+p124
+aVAnd finally, we wanted to see where we could look at
+p125
+aVwhat the impact of this structure would be
+p126
+aVin the marine environment, and we set up a field site
+p127
+aVat a place called Moss Landing Marine Lab
+p128
+aVin Monterey Bay, where we worked in a harbor
+p129
+aVto see what impact this would have on marine organisms.
+p130
+aa(lp131
+VThe laboratory that we set up in Santa Cruz was our skunkworks.
+p132
+aVIt was a place where we were growing algae
+p133
+aVand welding plastic and building tools
+p134
+aVand making a lot of mistakes,
+p135
+aVor, as Edison said, we were
+p136
+aVfinding the 10,000 ways that the system wouldn't work.
+p137
+aVNow, we grew algae in waste water, and we built tools
+p138
+aVthat allowed us to get into the lives of algae
+p139
+aVso that we could monitor the way they grow,
+p140
+aVwhat makes them happy, how do we make sure that
+p141
+aVwe're going to have a culture that will survive and thrive.
+p142
+aVSo the most important feature that we needed to develop were these
+p143
+aVso-called photobioreactors, or PBRs.
+p144
+aVThese were the structures that would be floating at the
+p145
+aVsurface made out of some inexpensive plastic material
+p146
+aVthat'll allow the algae to grow, and we had built lots and lots
+p147
+aVof designs, most of which were horrible failures,
+p148
+aVand when we finally got to a design that worked,
+p149
+aVat about 30 gallons, we scaled it up
+p150
+aVto 450 gallons in San Francisco.
+p151
+aa(lp152
+VSo let me show you how the system works.
+p153
+aVWe basically take waste water with algae of our choice in it,
+p154
+aVand we circulate it through this floating structure,
+p155
+aVthis tubular, flexible plastic structure,
+p156
+aVand it circulates through this thing,
+p157
+aVand there's sunlight of course, it's at the surface,
+p158
+aVand the algae grow on the nutrients.
+p159
+aa(lp160
+VBut this is a bit like putting your head in a plastic bag.
+p161
+aVThe algae are not going to suffocate because of CO2,
+p162
+aVas we would.
+p163
+aVThey suffocate because they produce oxygen, and they
+p164
+aVdon't really suffocate, but the oxygen that they produce
+p165
+aVis problematic, and they use up all the CO2.
+p166
+aVSo the next thing we had to figure out was how we could
+p167
+aVremove the oxygen, which we did by building this column
+p168
+aVwhich circulated some of the water,
+p169
+aVand put back CO2, which we did by bubbling the system
+p170
+aVbefore we recirculated the water.
+p171
+aVAnd what you see here is the prototype,
+p172
+aVwhich was the first attempt at building this type of column.
+p173
+aVThe larger column that we then installed in San Francisco
+p174
+aVin the installed system.
+p175
+aa(lp176
+VSo the column actually had another very nice feature,
+p177
+aVand that is the algae settle in the column,
+p178
+aVand this allowed us to accumulate the algal biomass
+p179
+aVin a context where we could easily harvest it.
+p180
+aVSo we would remove the algaes that concentrated
+p181
+aVin the bottom of this column, and then we could
+p182
+aVharvest that by a procedure where you float the algae
+p183
+aVto the surface and can skim it off with a net.
+p184
+aa(lp185
+VSo we wanted to also investigate what would be the impact
+p186
+aVof this system in the marine environment,
+p187
+aVand I mentioned we set up this experiment at a field site
+p188
+aVin Moss Landing Marine Lab.
+p189
+aVWell, we found of course that this material became
+p190
+aVovergrown with algae, and we needed then to develop
+p191
+aVa cleaning procedure, and we also looked at how
+p192
+aVseabirds and marine mammals interacted, and in fact you
+p193
+aVsee here a sea otter that found this incredibly interesting,
+p194
+aVand would periodically work its way across this little
+p195
+aVfloating water bed, and we wanted to hire this guy
+p196
+aVor train him to be able to clean the surface
+p197
+aVof these things, but that's for the future.
+p198
+aa(lp199
+VNow really what we were doing,
+p200
+aVwe were working in four areas.
+p201
+aVOur research covered the biology of the system,
+p202
+aVwhich included studying the way algae grew,
+p203
+aVbut also what eats the algae, and what kills the algae.
+p204
+aVWe did engineering to understand what we would need
+p205
+aVto be able to do to build this structure,
+p206
+aVnot only on the small scale, but how we would build it
+p207
+aVon this enormous scale that will ultimately be required.
+p208
+aVI mentioned we looked at birds and marine mammals
+p209
+aVand looked at basically the environmental impact
+p210
+aVof the system, and finally we looked at the economics,
+p211
+aVand what I mean by economics is,
+p212
+aVwhat is the energy required to run the system?
+p213
+aVDo you get more energy out of the system
+p214
+aVthan you have to put into the system
+p215
+aVto be able to make the system run?
+p216
+aVAnd what about operating costs?
+p217
+aVAnd what about capital costs?
+p218
+aVAnd what about, just, the whole economic structure?
+p219
+aa(lp220
+VSo let me tell you that it's not going to be easy,
+p221
+aVand there's lots more work to do in all four
+p222
+aVof those areas to be able to really make the system work.
+p223
+aVBut we don't have a lot of time, and I'd like to show you
+p224
+aVthe artist's conception of how this system might look
+p225
+aVif we find ourselves in a protected bay
+p226
+aVsomewhere in the world, and we have in the background
+p227
+aVin this image, the waste water treatment plant
+p228
+aVand a source of flue gas for the CO2,
+p229
+aVbut when you do the economics of this system,
+p230
+aVyou find that in fact it will be difficult to make it work.
+p231
+aVUnless you look at the system as a way to treat waste water,
+p232
+aVsequester carbon, and potentially for photovoltaic panels
+p233
+aVor wave energy or even wind energy,
+p234
+aVand if you start thinking in terms of
+p235
+aVintegrating all of these different activities,
+p236
+aVyou could also include in such a facility aquaculture.
+p237
+aVSo we would have under this system a shellfish aquaculture
+p238
+aVwhere we're growing mussels or scallops.
+p239
+aVWe'd be growing oysters and things
+p240
+aVthat would be producing high value products and food,
+p241
+aVand this would be a market driver as we build the system
+p242
+aVto larger and larger scales so that it becomes, ultimately,
+p243
+aVcompetitive with the idea of doing it for fuels.
+p244
+aa(lp245
+VSo there's always a big question that comes up,
+p246
+aVbecause plastic in the ocean has got a really bad reputation
+p247
+aVright now, and so we've been thinking cradle to cradle.
+p248
+aVWhat are we going to do with all this plastic that we're
+p249
+aVgoing to need to use in our marine environment?
+p250
+aVWell, I don't know if you know about this,
+p251
+aVbut in California, there's a huge amount of plastic
+p252
+aVthat's used in fields right now as plastic mulch,
+p253
+aVand this is plastic that's making these tiny little greenhouses
+p254
+aVright along the surface of the soil, and this provides
+p255
+aVwarming the soil to increase the growing season,
+p256
+aVit allows us to control weeds,
+p257
+aVand, of course, it makes the watering much more efficient.
+p258
+aVSo the OMEGA system will be part
+p259
+aVof this type of an outcome, and that when we're finished
+p260
+aVusing it in the marine environment, we'll be using it,
+p261
+aVhopefully, on fields.
+p262
+aa(lp263
+VWhere are we going to put this,
+p264
+aVand what will it look like offshore?
+p265
+aVHere's an image of what we could do in San Francisco Bay.
+p266
+aVSan Francisco produces 65 million gallons a day
+p267
+aVof waste water. If we imagine a five-day retention time
+p268
+aVfor this system, we'd need 325 million gallons
+p269
+aVto accomodate, and that would be about 1,280 acres
+p270
+aVof these OMEGA modules floating in San Francisco Bay.
+p271
+aVWell, that's less than one percent
+p272
+aVof the surface area of the bay.
+p273
+aVIt would produce, at 2,000 gallons per acre per year,
+p274
+aVit would produce over 2 million gallons of fuel,
+p275
+aVwhich is about 20 percent of the biodiesel,
+p276
+aVor of the diesel that would be required in San Francisco,
+p277
+aVand that's without doing anything about efficiency.
+p278
+aa(lp279
+VWhere else could we potentially put this system?
+p280
+aVThere's lots of possibilities.
+p281
+aVThere's, of course, San Francisco Bay, as I mentioned.
+p282
+aVSan Diego Bay is another example,
+p283
+aVMobile Bay or Chesapeake Bay, but the reality is,
+p284
+aVas sea level rises, there's going to be lots and lots
+p285
+aVof new opportunities to consider. (Laughter)
+p286
+aa(lp287
+VSo what I'm telling you about is a system
+p288
+aVof integrated activities.
+p289
+aVBiofuels production is integrated with alternative energy
+p290
+aVis integrated with aquaculture.
+p291
+aa(lp292
+VI set out to find a pathway
+p293
+aVto innovative production of sustainable biofuels,
+p294
+aVand en route I discovered that what's really required
+p295
+aVfor sustainability is integration more than innovation.
+p296
+aa(lp297
+VLong term, I have great faith
+p298
+aVin our collective and connected ingenuity.
+p299
+aVI think there is almost no limit to what we can accomplish
+p300
+aVif we are radically open
+p301
+aVand we don't care who gets the credit.
+p302
+aVSustainable solutions for our future problems
+p303
+aVare going to be diverse
+p304
+aVand are going to be many.
+p305
+aVI think we need to consider everything,
+p306
+aVeverything from alpha to OMEGA.
+p307
+aVThank you. (Applause)
+p308
+aV(Applause)
+p309
+aVChris Anderson: Just a quick question for you, Jonathan.
+p310
+aVCan this project continue to move forward within
+p311
+aVNASA or do you need some very ambitious
+p312
+aVgreen energy fund to come and take it by the throat?
+p313
+aVJonathan Trent: So it's really gotten to a stage now
+p314
+aVin NASA where they would like to spin it out into something
+p315
+aVwhich would go offshore, and there are a lot of issues
+p316
+aVwith doing it in the United States because of limited
+p317
+aVpermitting issues and the time required to get permits
+p318
+aVto do things offshore.
+p319
+aVIt really requires, at this point, people on the outside,
+p320
+aVand we're being radically open with this technology
+p321
+aVin which we're going to launch it out there
+p322
+aVfor anybody and everybody who's interested
+p323
+aVto take it on and try to make it real.
+p324
+aVCA: So that's interesting. You're not patenting it.
+p325
+aVYou're publishing it.
+p326
+aVJT: Absolutely.
+p327
+aVCA: All right. Thank you so much.
+p328
+aVJT: Thank you. (Applause)
+p329
+aasS'id'
+p330
+I1561
+sS'title'
+p331
+VEnergy from floating algae pods
+p332
+s.

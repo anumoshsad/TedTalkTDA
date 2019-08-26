@@ -1,0 +1,756 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VYou know, one of the things that I'd like to say upfront is that
+p4
+aVI'm really here by accident.
+p5
+aVAnd what I mean \u2014 not at TED \u2014 that I'm \u2014
+p6
+aVat this point in my life, truly my set of circumstances
+p7
+aVI would truly consider an accident.
+p8
+aVBut what I'd like to talk to you about today
+p9
+aVis perhaps a way in which we could use technology
+p10
+aVto make those accidents happen often.
+p11
+aVBecause I really think, when I look back at how I actually ended up
+p12
+aVin this accident, technology played a big role in that.
+p13
+aa(lp14
+VSo, what I'd like to do today is tell you a little bit about myself,
+p15
+aVbecause I'd like to put in context what I'm going to tell you.
+p16
+aVAnd I think you will see why the two greatest passions in my life today
+p17
+aVare children and education.
+p18
+aVAnd once I put that in context,
+p19
+aVI'd like to tell you a little bit about technology:
+p20
+aVwhy I believe technology is a tremendous enabler;
+p21
+aVa very powerful tool to help address some of these challenges.
+p22
+aVThen, about the initiative that Chris mentioned,
+p23
+aVthat we decided to launch at AMD that we call 50x15.
+p24
+aVAnd then I'll come back to the beginning,
+p25
+aVand tell you a little bit more \u2014 hopefully convince you \u2014
+p26
+aVthat I believe that in today's world,
+p27
+aVit is really important for business leaders
+p28
+aVnot only to have an idea of what their business is all about,
+p29
+aVbut to have a passion for something that is meaningful.
+p30
+aa(lp31
+VSo, with that in mind, first of all let me tell you,
+p32
+aVI'm one of five children. I'm the oldest, the other four are women.
+p33
+aVSo I grew up in a family of women.
+p34
+aVI learned a lot about how to deal with that part of the world.
+p35
+aV(Laughter)
+p36
+aVAnd, as you can imagine, if you can picture this:
+p37
+aVI was born in a very small village in Mexico,
+p38
+aVin, unfortunately, very poor surroundings,
+p39
+aVand my parents did not have a college education.
+p40
+aVBut I was fortunate to be able to have one, and so were my four sisters.
+p41
+aVThat kind of tells you a little bit of an idea of the emphasis
+p42
+aVthat my parents placed on education.
+p43
+aVMy parents were fanatics about learning,
+p44
+aVand I'll come back to that a little bit later.
+p45
+aa(lp46
+VBut one of the things that exposed me early to learning,
+p47
+aVand a tremendous curiosity that was instilled in me as a child,
+p48
+aVwas through a technology which is on the screen \u2014 is a Victrola.
+p49
+aVMy father found that in a junkyard,
+p50
+aVand was able to repair it and make it work. And somehow \u2014
+p51
+aVto this day, I frankly don't know how he was so aware
+p52
+aVof what was going on in the world \u2014 but,
+p53
+aVby inviting me to sit down with him when I was only a few years old,
+p54
+aVand playing records in this Victrola by Mozart, and he would tell me
+p55
+aVhow Mozart was the most romantic of all the classic composers ever,
+p56
+aVand how Claire de Lune, which was one of his favorites,
+p57
+aVwas a real exposure to me to classical music.
+p58
+aVHe explained to me about Johann Strauss, and how he created the waltzes
+p59
+aVthat became so famous in the world.
+p60
+aVAnd would tell me a little bit about history too,
+p61
+aVwhen he'd play the 1812 Overture by Tchaikovsky
+p62
+aVon this little Victrola, and he would tell me about Russia
+p63
+aVand all the things that were happening in Russia at those times
+p64
+aVand why this music,
+p65
+aVin some way, represented a little bit of that history.
+p66
+aVAnd even as a child, he was able to instill in me a lot of curiosity.
+p67
+aVAnd perhaps to you this product may not look like high tech,
+p68
+aVbut if you can imagine the time when this occurred \u2014
+p69
+aVit was in the mid '40s \u2014 this was really, in his view, a pretty piece of high tech.
+p70
+aa(lp71
+VWell, one of the things that is really critical to try to
+p72
+aVdistill from that experience is that in addition to that,
+p73
+aVpeople ask me and say, "Well,
+p74
+aVhow did your parents treat you when you were a child?"
+p75
+aVAnd I always said that they were really tough on me.
+p76
+aVAnd not tough in the sense that most people think of,
+p77
+aVwhere your parents yell at you or hit you or whatever.
+p78
+aVThey were tough in the sense that, as I grew up,
+p79
+aVboth my mother and father would always say to me,
+p80
+aVit's really important that you always remember two things.
+p81
+aVFirst of all, when you go to bed at night,
+p82
+aVyou've got to look back on the day and make sure that you felt
+p83
+aVthe day was a day which you contributed something, and
+p84
+aVthat you did everything you could to do it the best way you could.
+p85
+aVAnd the second thing they said: and we trust you,
+p86
+aVthat no matter where you are or where you go,
+p87
+aVyou will always do the right thing.
+p88
+aVNow, I don't know how many of you have ever done that with your kids,
+p89
+aVbut if you do, please trust me,
+p90
+aVit's the most pressure you can put on a child, to say \u2014
+p91
+aV(Laughter)
+p92
+aV\u2014 we trust you that you will always do the right thing.
+p93
+aVWhen I was out with my friends drinking beer,
+p94
+aVI always was very aware of those words \u2014
+p95
+aV(Laughter)
+p96
+aa(lp97
+V\u2014 and very careful. One of the things that has happened with technology
+p98
+aVis that it can only be helpful if it is useful, of course,
+p99
+aVbut it can only be helpful too if it's accessible,
+p100
+aVand it can only be helpful if it's affordable.
+p101
+aVAnd in today's world, being useful, affordable and accessible
+p102
+aVis not necessarily what happens
+p103
+aVin a lot of the technology that is done today.
+p104
+aVSo, one of our passions in our company,
+p105
+aVand now one of my personal passions, is to be able to really work hard
+p106
+aVat making the technology useful, accessible and affordable.
+p107
+aVAnd to me, that is very, very critical.
+p108
+aa(lp109
+VNow, technology has changed a lot since the Victrola days.
+p110
+aVYou know, we now have, of course, incredibly powerful computers.
+p111
+aVA tremendous thing that people refer to as a killer app is called the Internet.
+p112
+aVAlthough frankly speaking, we don't believe the Internet is the killer app.
+p113
+aVWhat we believe is that the Internet, frankly,
+p114
+aVis a connection of people and ideas.
+p115
+aVThe Internet happens to be just the medium
+p116
+aVin which those people and ideas get connected.
+p117
+aVAnd the power of connecting people and ideas can be pretty awesome.
+p118
+aVAnd so, we believe that through all the changes that have occurred,
+p119
+aVthat we're faced today with a tremendous opportunity.
+p120
+aVIf we can connect people and ideas more intensely \u2014 and although
+p121
+aVyou've seen a plethora and a myriad of products
+p122
+aVthat have come to the market today, the key to me is
+p123
+aVhow many of these products are able to provide people connectivity, in a useful way,
+p124
+aVaccessibility, in an easy manner,
+p125
+aVand also affordability, that
+p126
+aVregardless of the economic status that a person could have,
+p127
+aVthat they could have the opportunity to afford this technology.
+p128
+aa(lp129
+VSo, when you look at that, we said, well, we would like to, then,
+p130
+aVenable that a little bit. We would like to create an initiative.
+p131
+aVAnd a couple of years ago at AMD,
+p132
+aVwe came up with this idea of saying,
+p133
+aVwhat if we create this initiative we call 50x15,
+p134
+aVwhere we are going to aim, that by the year 2015,
+p135
+aVhalf of the world will be connected to the Internet
+p136
+aVso that people and ideas can get connected.
+p137
+aVWe knew we couldn't do it by ourselves, and by no means
+p138
+aVdid we ever intend to imply that we at AMD could do it alone.
+p139
+aVWe always felt that this was something that could be done
+p140
+aVthrough partnerships with governments, industry,
+p141
+aVeducational institutions, a myriad of other companies and, frankly, even competitors.
+p142
+aVSo, it is really a rather lofty initiative,
+p143
+aVif you want to think that way,
+p144
+aVbut we felt that we had to put a real stake up in the years ahead,
+p145
+aVthat was bold enough and courageous enough
+p146
+aVthat it would force us all to think of ways to do things differently.
+p147
+aVAnd I'll come back to that in a minute, because I think
+p148
+aVthe results so far have been remarkable,
+p149
+aVand I can only anticipate and get real excited about
+p150
+aVwhat I think is going to happen in the next eight years,
+p151
+aVwhile we get to the 2015 initiative.
+p152
+aa(lp153
+VWhere are we today?
+p154
+aVThat's year by year. This comes from our friends at Gapminder.com.
+p155
+aVThose of you who've never looked at their website,
+p156
+aVyou should look at it. It's really impressive. And you can see
+p157
+aVhow the Internet penetration has changed over the years.
+p158
+aVAnd so when we gave ourselves this scorecard to say
+p159
+aVwell, where are we related to our goal towards 2015,
+p160
+aVthe thing that becomes apparent is three pieces.
+p161
+aVOne is the Western world,
+p162
+aVdefined mostly by Western Europe and the United States,
+p163
+aVhas made an awful lot of progress.
+p164
+aVThe connectivity in these parts of the world
+p165
+aVare really truly phenomenal and continue to increase.
+p166
+aa(lp167
+VAs a matter of fact, we think reaching 100 percent is very doable,
+p168
+aVeven before the 2015 timeframe. In other parts of emerging countries,
+p169
+aVsuch as India and China, the progress has been good \u2014
+p170
+aVhas been solid, has been good. But in places that are not as developed,
+p171
+aVplaces like Africa, Latin America and other places in the world,
+p172
+aVthe progress has been rather slow. As a matter of fact,
+p173
+aVI was just recently visiting South Africa.
+p174
+aVI had the opportunity to have a discussion with President Mbeki,
+p175
+aVand one of the things that we talked about is, what is it
+p176
+aVthat's keeping this connectivity goal from moving ahead faster?
+p177
+aVAnd one of the reasons is, in South Africa,
+p178
+aVit costs 100 dollars a month to have a broadband connectivity.
+p179
+aVIt is impossible, even in the United States, for that cost,
+p180
+aVto be able to enable the connectivity that we're all trying to reach.
+p181
+aVSo, we talked about ways in which perhaps one could partner
+p182
+aVto be able to bring the cost of this technology down.
+p183
+aVSo, when you look at this chart,
+p184
+aVyou look at the very last \u2014 it's a logarithmic chart on a horizontal scale \u2014
+p185
+aVyou look at the very end:
+p186
+aVwe've got quite a long way to go to get to the 2015 goal of 50 percent.
+p187
+aVBut we're excited in our company; we're motivated.
+p188
+aVWe really think it's a phenomenal driver of things,
+p189
+aVto force us to do things differently, and we look forward to being able to actually,
+p190
+aVworking with so many partners around the world,
+p191
+aVto be able to reach that goal.
+p192
+aa(lp193
+VNow, one of the things I'd like to explain [about] 50x15,
+p194
+aVwhich I think is really critical, is that it is not a charity.
+p195
+aVIt is actually a business venture.
+p196
+aVLet's take a small segment of this, of this unconnected world,
+p197
+aVand call it the education market.
+p198
+aVWhen you look at elementary-school children,
+p199
+aVwe have hundreds and hundreds of millions of children around the world
+p200
+aVthat could benefit tremendously
+p201
+aVfrom being able to be connected to the Internet.
+p202
+aVTherefore, when we see that, we see an opportunity
+p203
+aVto have a business that addresses the need of that segment.
+p204
+aVAnd when we embarked in this initiative, from the very beginning
+p205
+aVwe said it very clearly: this is not a charity.
+p206
+aVThis is really a business venture,
+p207
+aVone that addresses a very challenging segment of the market.
+p208
+aVBecause what we have learned in the last three years
+p209
+aVis that this segment of the market, whether it's education
+p210
+aVor under-developed nations, either way, it's a segment that demands
+p211
+aVincredibly high quality, incredibly high reliability,
+p212
+aVtremendous low cost and access, and a lot of challenges
+p213
+aVthat frankly, without actually doing it,
+p214
+aVit would be very difficult to understand, and
+p215
+aVI'll explain that in just a minute.
+p216
+aa(lp217
+VIt is an initiative that is focused on simple, accessible and human-centric solutions.
+p218
+aVWhat we mean by that is,
+p219
+aVyou know, frankly, the PC was invented in 1980, roughly speaking
+p220
+aVmore or less, and for 20-odd years, it hasn't changed.
+p221
+aVIt is still, in most places, a gray or black box, and it looks the same.
+p222
+aVAnd frankly \u2014 and I know that sometimes I offend some of my customers
+p223
+aVwhen I say this, but I truly mean it \u2014
+p224
+aVif you could take the name of the computer off the top of it,
+p225
+aVit would be very difficult to judge who made it,
+p226
+aVbecause they're all highly commoditized but they're all different.
+p227
+aVSo, there has not been a human-centric approach
+p228
+aVto addressing this segment of the market,
+p229
+aVso we really believe it is critical to think of it.
+p230
+aa(lp231
+VIt reminded me a lot of the talk we heard this morning, about this
+p232
+aVoperating room machinery that was designed specifically for Africa.
+p233
+aVWe're talking about something very similar here.
+p234
+aVAnd it has to be based on a geo-sensitive approach.
+p235
+aVWhat I mean by that is that in some parts of the world,
+p236
+aVthe government plays a key role in the development of technology.
+p237
+aVIn other parts, it doesn't.
+p238
+aVIn other parts of the world, you have an infrastructure
+p239
+aVthat allows for manufacturing to take place.
+p240
+aVIn other parts, it doesn't. And then we have to be sensitive
+p241
+aVabout how this technology can be developed
+p242
+aVand put into action in those regions.
+p243
+aVAnd the last piece, which is really important \u2014
+p244
+aVand this is an opinion that we have, not shared by many,
+p245
+aVthis is one where we seem to stand alone, on this one \u2014
+p246
+aVis that we really believe that the greatest success of this initiative
+p247
+aVcan come by fostering local, integrated, end-to-end ecosystems.
+p248
+aa(lp249
+VWhat I mean by that, and let me use this example,
+p250
+aVthe country of South Africa, because I was just there,
+p251
+aVtherefore I'm a little bit familiar with some of the challenges they have.
+p252
+aVIt's a country of 45 million people. It's an economy that's emerging.
+p253
+aVIt's beginning to grow tremendously.
+p254
+aVThey have an objective to lowering the cost of connectivity.
+p255
+aVThey have a computer company that makes computers in South Africa.
+p256
+aVThey're developing a software-training environment in their universities.
+p257
+aVWhat a place, what an ideal place
+p258
+aVto create an ecosystem that could build the hardware and the software
+p259
+aVneeded for their schools. And to my surprise, I learned in South Africa
+p260
+aVthey have 18 dialects, I always thought they only had two \u2014
+p261
+aVEnglish and Afrikaans \u2014 but it turns out they have 18 dialects.
+p262
+aVAnd to be able to meet the needs of this rather complex educational system,
+p263
+aVit could only be done from inside.
+p264
+aVI don't think this segment of the market can be addressed
+p265
+aVby companies parachuting from another place of the world,
+p266
+aVand just dumping product and selling into the markets.
+p267
+aVSo, we believe that in those regions of the world
+p268
+aVwhere the population is large,
+p269
+aVand there's an infrastructure that can provide it,
+p270
+aVthat a local, integrated, end-to-end system
+p271
+aVis really critical for its success.
+p272
+aa(lp273
+VThis is a picture of a classroom that we outfitted with computers
+p274
+aVin Mexico, in my home country.
+p275
+aVThis particular classroom happens to be in the state of Michoacan.
+p276
+aVThose of you that might be familiar with Mexico \u2014
+p277
+aVMichoacan is a very colorful state.
+p278
+aVChildren dress with very colorful, colorful clothes,
+p279
+aVand it is incredible to see the power that this has in the hands of kids,
+p280
+aVin a computer. And I have to tell you that it's
+p281
+aVso easy to appreciate the impact that access to technology
+p282
+aVand connectivity can have in the lives and education of these kids.
+p283
+aVWe just recently opened a learning laboratory in a school
+p284
+aVin the West Cape in South Africa,
+p285
+aVin a school that's called Nelson Mandela School,
+p286
+aVand when you see the faces and activities of these children
+p287
+aVbeing able to access computers, it's just phenomenal.
+p288
+aVAnd recently, they've written us letters,
+p289
+aVtelling us how excited they are about the impact
+p290
+aVthat this has had on their lives, on their educational dreams,
+p291
+aVon their capabilities, and it's just phenomenal.
+p292
+aa(lp293
+VWe have now deployed 30 different technologists
+p294
+aVin 18 different countries, and we have been able
+p295
+aVto connect millions of people in an effort to continue to learn
+p296
+aVwhat this particular segment of the market needs and demands.
+p297
+aVAnd I have to tell you that although
+p298
+aVmillions doesn't sound like a lot
+p299
+aVin terms of the billions that need to be connected,
+p300
+aVit's a start. And we are learning a lot.
+p301
+aVAnd we're learning a tremendous amount about
+p302
+aVwhat we believe this segment needs to be able to be effective.
+p303
+aa(lp304
+VOne example of this has been the One Laptop per Child.
+p305
+aVSome of you are familiar with this.
+p306
+aVThis is a partnership between MIT and a group of companies \u2014
+p307
+aVGoogle is involved, Red Hat \u2014 and AMD is a key player.
+p308
+aVThe electronics behind the One Laptop per Child
+p309
+aVare based on AMD technology; it's a microprocessor.
+p310
+aVBut to give you an idea how creative this group of people can be,
+p311
+aVone of the objectives of the One Laptop per Child
+p312
+aVis to be able to achieve a 10-hour battery life.
+p313
+aVBecause it was felt that a school day
+p314
+aVwould last at least eight hours, and
+p315
+aVyou wanted the child to have the ability to use the laptop
+p316
+aVfor at least one full day without having to recharge it.
+p317
+aVThe engineers have done a phenomenal amount of innovation on this part,
+p318
+aVand battery life on this product is now 15 hours \u2014
+p319
+aVjust through a lot of innovative work people have done
+p320
+aVbecause they're passionate and motivated to be able to do this.
+p321
+aVWe expect this to be deployed towards the end of this year,
+p322
+aVand we're very excited at the opportunities that this is going to offer
+p323
+aVin the field of education.
+p324
+aVIt's a highly focused product aimed at strictly the education market,
+p325
+aVnot only in the developing countries, but actually
+p326
+aVin the developed regions as well, because
+p327
+aVthere are parts of the United States where this can have
+p328
+aValso a huge impact on the ability to make education more fun and more efficient.
+p329
+aa(lp330
+VWe also have partnered with TED
+p331
+aVin this project, with Architecture for Humanity,
+p332
+aVand along with the TED Prize winner Cameron Sinclair,
+p333
+aVwe're having a contest that we have issued to the architectural community
+p334
+aVto come up with the best design for a computer lab for an emerging region.
+p335
+aVAnd we're really thrilled about the opportunity to be part of this,
+p336
+aVand can't wait to see what comes out of this exciting, exciting activity.
+p337
+aa(lp338
+VLet me come back to the beginning,
+p339
+aVto end this presentation.
+p340
+aVI'll tell you that one of the things
+p341
+aVthat I feel is really critical for us in industry, in business,
+p342
+aVis to be able to be passionate about solving these problems.
+p343
+aVI don't think it's enough to be able to put them on a spreadsheet,
+p344
+aVand look at numbers and say, yes, that's a good business.
+p345
+aVI really believe that you have to have a passion for it.
+p346
+aa(lp347
+VAnd one of the things that I learned, too, from my parents \u2014
+p348
+aVand I'll give you a little anecdote \u2014 especially from my father.
+p349
+aVAnd it took me a while to understand it,
+p350
+aVbut he said to me, when I went to college, he said,
+p351
+aV"You're the first person in the family to go to college.
+p352
+aVAnd it's really important you understand
+p353
+aVthat for civilization to make progress,
+p354
+aVeach generation has to do better than the last one.
+p355
+aVAnd therefore, this is your opportunity to do better than my generation."
+p356
+aVFrankly, I don't know that I really understood what he told me at the time.
+p357
+aVI was eager to go off to college, and go find girls, and study,
+p358
+aVand girls, and study, but then I finished college and I fell in love.
+p359
+aVI graduated. I decided to get married.
+p360
+aVAnd on my wedding day, my father came to me again and said, "You know,
+p361
+aVI'm going to remind you again, that each generation
+p362
+aVhas to do better than the last one.
+p363
+aVYou have to be a better husband than I was,
+p364
+aVbecause that's how you make progress." And now he began to make sense.
+p365
+aVBecause I knew what a great husband he was,
+p366
+aVand now he was once again beginning to put pressure on me,
+p367
+aVlike he did when I was a little kid. And then a few years later, I had a child,
+p368
+aVmy first child, and again, my father comes
+p369
+aVto the hospital, and we're looking at the glass,
+p370
+aVand see all the children on the other side, and he said,
+p371
+aV"I've got to remind you again, that for each generation to do better,
+p372
+aVyou're going to have to be a better father than I was."
+p373
+aVThat's when it dawned on me the tremendous challenge
+p374
+aVthat he was placing on me, because he was a great father.
+p375
+aVBut the key is that he instilled in me a passion
+p376
+aVto really get up every day in the morning and want to do better,
+p377
+aVto really get up and think that my role in life
+p378
+aVis not just to be the CEO of a Fortune 500 company.
+p379
+aVIt's got to be that someday I can look back,
+p380
+aVand this place is truly better through some small contribution
+p381
+aVthat perhaps each of us could make.
+p382
+aVThank you very much.
+p383
+aV(Applause)
+p384
+aasS'id'
+p385
+I255
+sS'title'
+p386
+VThe thinking behind 50x15
+p387
+s.

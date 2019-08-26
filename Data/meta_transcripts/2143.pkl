@@ -1,0 +1,662 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo in the oasis of  intelligentsia that is TED,
+p4
+aVI stand here before you this evening
+p5
+aVas an expert in dragging heavy stuff around cold places.
+p6
+aVI've been leading polar expeditions  for most of my adult life,
+p7
+aVand last month, my teammate  Tarka L'Herpiniere and I
+p8
+aVfinished the most ambitious  expedition I've ever attempted.
+p9
+aVIn fact, it feels like I've been transported straight here
+p10
+aVfrom four months in the middle of nowhere,
+p11
+aVmostly grunting and swearing,  straight to the TED stage.
+p12
+aVSo you can imagine that's a transition that hasn't been entirely seamless.
+p13
+aVOne of the interesting side effects
+p14
+aVseems to be that my short-term memory is entirely shot.
+p15
+aVSo I've had to write some notes
+p16
+aVto avoid too much grunting and swearing in the next 17 minutes.
+p17
+aVThis is the first talk I've given about this expedition,
+p18
+aVand while we weren't sequencing genomes or building space telescopes,
+p19
+aVthis is a story about giving everything we had to achieve something
+p20
+aVthat hadn't been done before.
+p21
+aVSo I hope in that you might  find some food for thought.
+p22
+aa(lp23
+VIt was a journey, an  expedition in Antarctica,
+p24
+aVthe coldest, windiest, driest and highest altitude continent on Earth.
+p25
+aVIt's a fascinating place. It's a huge place.
+p26
+aVIt's twice the size of Australia,
+p27
+aVa continent that is the same size as China and India put together.
+p28
+aa(lp29
+VAs an aside, I have experienced
+p30
+aVan interesting phenomenon in the last few days,
+p31
+aVsomething that I expect Chris Hadfield may get at TED in a few years' time,
+p32
+aVconversations that go something like this:
+p33
+aV"Oh, Antarctica. Awesome.
+p34
+aVMy husband and I did Antarctica with Lindblad for our anniversary."
+p35
+aVOr, "Oh cool, did you go there for the marathon?"
+p36
+aV(Laughter)
+p37
+aa(lp38
+VOur journey was, in fact, 69 marathons back to back
+p39
+aVin 105 days, an 1,800-mile round trip on foot from the coast of Antarctica
+p40
+aVto the South Pole and back again.
+p41
+aVIn the process, we broke the record
+p42
+aVfor the longest human-powered polar journey in history by more than 400 miles.
+p43
+aV(Applause)
+p44
+aVFor those of you from the Bay Area,
+p45
+aVit was the same as walking from  here to San Francisco,
+p46
+aVthen turning around and walking back again.
+p47
+aVSo as camping trips go, it was a long one,
+p48
+aVand one I've seen summarized  most succinctly here
+p49
+aVon the hallowed pages  of Business Insider Malaysia.
+p50
+aV["Two Explorers Just Completed A Polar Expedition  That Killed Everyone The Last Time It Was Attempted"]
+p51
+aa(lp52
+VChris Hadfield talked so eloquently
+p53
+aVabout fear and about the odds of success, and indeed the odds of survival.
+p54
+aVOf the nine people in history that had attempted this journey before us,
+p55
+aVnone had made it to the pole and back,
+p56
+aVand five had died in the process.
+p57
+aa(lp58
+VThis is Captain Robert Falcon Scott.
+p59
+aVHe led the last team to attempt this expedition.
+p60
+aVScott and his rival Sir Ernest Shackleton,
+p61
+aVover the space of a decade,
+p62
+aVboth led expeditions battling to become the first to reach the South Pole,
+p63
+aVto chart and map the interior of Antarctica,
+p64
+aVa place we knew less about, at the time,
+p65
+aVthan the surface of the moon,
+p66
+aVbecause we could see the moon through telescopes.
+p67
+aVAntarctica was, for the most part, a century ago, uncharted.
+p68
+aa(lp69
+VSome of you may know the story.
+p70
+aVScott's last expedition, the  Terra Nova Expedition in 1910,
+p71
+aVstarted as a giant siege-style approach.
+p72
+aVHe had a big team using ponies,
+p73
+aVusing dogs, using petrol-driven tractors,
+p74
+aVdropping multiple, pre-positioned depots of food and fuel
+p75
+aVthrough which Scott's final team of five would travel to the Pole,
+p76
+aVwhere they would turn around and ski  back to the coast again on foot.
+p77
+aVScott and his final team of five
+p78
+aVarrived at the South Pole  in January 1912
+p79
+aVto find they had been beaten to it by a Norwegian team led by Roald Amundsen,
+p80
+aVwho rode on dogsled.
+p81
+aVScott's team ended up on foot.
+p82
+aVAnd for more than a century this journey has remained unfinished.
+p83
+aVScott's team of five died  on the return journey.
+p84
+aVAnd for the last decade,
+p85
+aVI've been asking myself why that is.
+p86
+aVHow come this has remained  the high-water mark?
+p87
+aVScott's team covered 1,600 miles on foot.
+p88
+aVNo one's come close to that ever since.
+p89
+aVSo this is the high-water mark  of human endurance,
+p90
+aVhuman endeavor,  human athletic achievement
+p91
+aVin arguably the harshest climate on Earth.
+p92
+aVIt was as if the marathon record
+p93
+aVhas remained unbroken since 1912.
+p94
+aVAnd of course some strange and  predictable combination of curiosity,
+p95
+aVstubbornness, and probably hubris
+p96
+aVled me to thinking I might be the man to try to finish the job.
+p97
+aa(lp98
+VUnlike Scott's expedition, there were just two of us,
+p99
+aVand we set off from the coast of Antarctica in October last year,
+p100
+aVdragging everything ourselves,
+p101
+aVa process Scott called "man-hauling."
+p102
+aVWhen I say it was like walking from here to San Francisco and back,
+p103
+aVI actually mean it was like dragging something that weighs a shade more
+p104
+aVthan the heaviest ever NFL player.
+p105
+aVOur sledges weighed 200 kilos,
+p106
+aVor 440 pounds each at the start,
+p107
+aVthe same weights that the weakest of Scott's ponies pulled.
+p108
+aVEarly on, we averaged 0.5 miles per hour.
+p109
+aVPerhaps the reason no one had  attempted this journey until now,
+p110
+aVin more than a century,
+p111
+aVwas that no one had been quite stupid enough to try.
+p112
+aVAnd while I can't claim we were exploring
+p113
+aVin the genuine Edwardian sense of the word \u2014
+p114
+aVwe weren't naming any mountains or mapping any uncharted valleys \u2014
+p115
+aVI think we were stepping into uncharted territory in a human sense.
+p116
+aVCertainly, if in the future we learn there is an area of the human brain
+p117
+aVthat lights up when one curses oneself,
+p118
+aVI won't be at all surprised.
+p119
+aa(lp120
+VYou've heard that the average American spends 90 percent of their time indoors.
+p121
+aVWe didn't go indoors for nearly four months.
+p122
+aVWe didn't see a sunset either.
+p123
+aVIt was 24-hour daylight.
+p124
+aVLiving conditions were quite spartan.
+p125
+aVI changed my underwear  three times in 105 days
+p126
+aVand Tarka and I shared  30 square feet on the canvas.
+p127
+aVThough we did have some technology that Scott could never have imagined.
+p128
+aVAnd we blogged live every evening from the tent via a laptop
+p129
+aVand a custom-made satellite transmitter,
+p130
+aVall of which were solar-powered:
+p131
+aVwe had a flexible photovoltaic panel over the tent.
+p132
+aVAnd the writing was important to me.
+p133
+aVAs a kid, I was inspired by the  literature of adventure and exploration,
+p134
+aVand I think we've all seen here this week
+p135
+aVthe importance and  the power of storytelling.
+p136
+aa(lp137
+VSo we had some 21st-century gear,
+p138
+aVbut the reality is that the  challenges that Scott faced
+p139
+aVwere the same that we faced:
+p140
+aVthose of the weather and of  what Scott called glide,
+p141
+aVthe amount of friction between the sledges and the snow.
+p142
+aVThe lowest wind chill  we experienced was in the -70s,
+p143
+aVand we had zero visibility, what's called white-out,
+p144
+aVfor much of our journey.
+p145
+aVWe traveled up and down one of the largest
+p146
+aVand most dangerous glaciers in the world, the Beardmore glacier.
+p147
+aVIt's 110 miles long; most of its surface is what's called blue ice.
+p148
+aVYou can see it's a beautiful,  shimmering steel-hard blue surface
+p149
+aVcovered with thousands  and thousands of crevasses,
+p150
+aVthese deep cracks in the glacial ice  up to 200 feet deep.
+p151
+aVPlanes can't land here,
+p152
+aVso we were at the most risk,
+p153
+aVtechnically, when we had the slimmest chance of being rescued.
+p154
+aa(lp155
+VWe got to the South Pole after 61 days on foot,
+p156
+aVwith one day off for bad weather,
+p157
+aVand I'm sad to say, it was something of an anticlimax.
+p158
+aVThere's a permanent American base,
+p159
+aVthe Amundsen-Scott South Pole Station at the South Pole.
+p160
+aVThey have an airstrip, they have a canteen,
+p161
+aVthey have hot showers,
+p162
+aVthey have a post office, a tourist shop,
+p163
+aVa basketball court that doubles as a movie theater.
+p164
+aVSo it's a bit different these days,
+p165
+aVand there are also acres of junk.
+p166
+aVI think it's a marvelous thing
+p167
+aVthat humans can exist 365 days of the year
+p168
+aVwith hamburgers and hot showers and movie theaters,
+p169
+aVbut it does seem to produce a lot of empty cardboard boxes.
+p170
+aVYou can see on the left of  this photograph,
+p171
+aVseveral square acres of junk
+p172
+aVwaiting to be flown out from the South Pole.
+p173
+aVBut there is also a pole at the South Pole,
+p174
+aVand we got there on foot, unassisted,
+p175
+aVunsupported, by the hardest route,
+p176
+aV900 miles in record time,
+p177
+aVdragging more weight than anyone in history.
+p178
+aVAnd if we'd stopped there  and flown home,
+p179
+aVwhich would have been the eminently sensible thing to do,
+p180
+aVthen my talk would end here
+p181
+aVand it would end something like this.
+p182
+aa(lp183
+VIf you have the right team around you, the right tools, the right technology,
+p184
+aVand if you have enough self-belief and enough determination,
+p185
+aVthen anything is possible.
+p186
+aa(lp187
+VBut then we turned around,
+p188
+aVand this is where things get interesting.
+p189
+aVHigh on the Antarctic plateau,
+p190
+aVover 10,000 feet, it's very windy, very cold, very dry, we were exhausted.
+p191
+aVWe'd covered 35 marathons,
+p192
+aVwe were only halfway,
+p193
+aVand we had a safety net, of course,
+p194
+aVof ski planes and satellite phones
+p195
+aVand live, 24-hour tracking beacons that didn't exist for Scott,
+p196
+aVbut in hindsight,
+p197
+aVrather than making our lives easier,
+p198
+aVthe safety net actually allowed us
+p199
+aVto cut things very fine indeed,
+p200
+aVto sail very close to our absolute limits as human beings.
+p201
+aVAnd it is an exquisite form of torture
+p202
+aVto exhaust yourself to the point of starvation day after day
+p203
+aVwhile dragging a sledge full of food.
+p204
+aa(lp205
+VFor years, I'd been writing glib lines in sponsorship proposals
+p206
+aVabout pushing the limits of human endurance,
+p207
+aVbut in reality, that was  a very frightening place to be indeed.
+p208
+aVWe had, before we'd got to the Pole,
+p209
+aVtwo weeks of almost permanent headwind, which slowed us down.
+p210
+aVAs a result, we'd had several days of eating half rations.
+p211
+aVWe had a finite amount of food in the sledges to make this journey,
+p212
+aVso we were trying to string that out
+p213
+aVby reducing our intake to half  the calories we should have been eating.
+p214
+aVAs a result, we both became increasingly hypoglycemic \u2014
+p215
+aVwe had low blood sugar  levels day after day \u2014
+p216
+aVand increasingly susceptible to the extreme cold.
+p217
+aVTarka took this photo of me one evening
+p218
+aVafter I'd nearly passed out with hypothermia.
+p219
+aVWe both had repeated bouts of hypothermia, something I hadn't experienced before,
+p220
+aVand it was very humbling indeed.
+p221
+aVAs much as you might like to think, as I do,
+p222
+aVthat you're the kind of person who doesn't quit,
+p223
+aVthat you'll go down swinging,
+p224
+aVhypothermia doesn't leave you much choice.
+p225
+aVYou become utterly incapacitated.
+p226
+aVIt's like being a drunk toddler.
+p227
+aVYou become pathetic.
+p228
+aVI remember just wanting to lie down and quit.
+p229
+aVIt was a peculiar, peculiar feeling,
+p230
+aVand a real surprise to me to be debilitated to that degree.
+p231
+aa(lp232
+VAnd then we ran out of food completely,
+p233
+aV46 miles short of the first of the depots
+p234
+aVthat we'd laid on our outward journey.
+p235
+aVWe'd laid 10 depots of food,
+p236
+aVliterally burying food and fuel, for our return journey \u2014
+p237
+aVthe fuel was for a cooker so you could melt snow to get water \u2014
+p238
+aVand I was forced to make the decision to call for a resupply flight,
+p239
+aVa ski plane carrying eight days of food to tide us over that gap.
+p240
+aVThey took 12 hours to reach us from the other side of Antarctica.
+p241
+aa(lp242
+VCalling for that plane was one of  the toughest decisions of my life.
+p243
+aVAnd I sound like a bit of a fraud standing here now with a sort of belly.
+p244
+aVI've put on 30 pounds in the last three weeks.
+p245
+aVBeing that hungry has left an interesting mental scar,
+p246
+aVwhich is that I've been hoovering up every hotel buffet that I can find.
+p247
+aV(Laughter)
+p248
+aVBut we were genuinely quite hungry, and in quite a bad way.
+p249
+aVI don't regret calling for that plane for a second,
+p250
+aVbecause I'm still standing here alive,
+p251
+aVwith all digits intact,  telling this story.
+p252
+aVBut getting external assistance like that was never part of the plan,
+p253
+aVand it's something my ego is still struggling with.
+p254
+aVThis was the biggest dream I've ever had,
+p255
+aVand it was so nearly perfect.
+p256
+aa(lp257
+VOn the way back down to the coast,
+p258
+aVour crampons \u2014 they're  the spikes on our boots
+p259
+aVthat we have for traveling over this blue ice on the glacier \u2014
+p260
+aVbroke on the top of the Beardmore.
+p261
+aVWe still had 100 miles to go downhill
+p262
+aVon very slippery rock-hard blue ice.
+p263
+aVThey needed repairing almost every hour.
+p264
+aVTo give you an idea of scale,
+p265
+aVthis is looking down towards the mouth of the Beardmore Glacier.
+p266
+aVYou could fit the entirety of Manhattan in the gap on the horizon.
+p267
+aVThat's 20 miles between Mount Hope and Mount Kiffin.
+p268
+aVI've never felt as small  as I did in Antarctica.
+p269
+aVWhen we got down to the mouth of the glacier,
+p270
+aVwe found fresh snow had obscured the dozens of deep crevasses.
+p271
+aVOne of Shackleton's men described crossing this sort of terrain
+p272
+aVas like walking over the glass roof of a railway station.
+p273
+aVWe fell through more times than I can remember,
+p274
+aVusually just putting a ski or a boot through the snow.
+p275
+aVOccasionally we went in all  the way up to our armpits,
+p276
+aVbut thankfully never deeper than that.
+p277
+aa(lp278
+VAnd less than five weeks ago, after 105 days,
+p279
+aVwe crossed this oddly  inauspicious finish line,
+p280
+aVthe coast of Ross Island  on the New Zealand side of Antarctica.
+p281
+aVYou can see the ice in the foreground
+p282
+aVand the sort of rubbly rock behind that.
+p283
+aVBehind us lay an unbroken  ski trail of nearly 1,800 miles.
+p284
+aVWe'd made the longest ever polar journey on foot,
+p285
+aVsomething I'd been dreaming  of doing for a decade.
+p286
+aa(lp287
+VAnd looking back,
+p288
+aVI still stand by all the things
+p289
+aVI've been saying for years
+p290
+aVabout the importance of goals
+p291
+aVand determination and self-belief,
+p292
+aVbut I'll also admit that I hadn't given much thought to what happens
+p293
+aVwhen you reach the all-consuming goal
+p294
+aVthat you've dedicated  most of your adult life to,
+p295
+aVand the reality is that I'm  still figuring that bit out.
+p296
+aVAs I said, there are very few superficial signs that I've been away.
+p297
+aVI've put on 30 pounds.
+p298
+aVI've got some very faint, probably  covered in makeup now, frostbite scars.
+p299
+aVI've got one on my nose, one on  each cheek, from where the goggles are,
+p300
+aVbut inside I am a very  different person indeed.
+p301
+aVIf I'm honest,
+p302
+aVAntarctica challenged me and humbled me so deeply
+p303
+aVthat I'm not sure I'll ever be able to put it into words.
+p304
+aVI'm still struggling to piece together my thoughts.
+p305
+aVThat I'm standing here  telling this story
+p306
+aVis proof that we all can  accomplish great things,
+p307
+aVthrough ambition, through passion,
+p308
+aVthrough sheer stubbornness,
+p309
+aVby refusing to quit,
+p310
+aVthat if you dream something  hard enough, as Sting said,
+p311
+aVit does indeed come to pass.
+p312
+aVBut I'm also standing here  saying, you know what,
+p313
+aVthat cliche about the journey being  more important than the destination?
+p314
+aVThere's something in that.
+p315
+aVThe closer I got to my finish line,
+p316
+aVthat rubbly, rocky coast of Ross Island,
+p317
+aVthe more I started to realize that the biggest lesson
+p318
+aVthat this very long, very hard walk might be teaching me
+p319
+aVis that happiness is not a finish line,
+p320
+aVthat for us humans,
+p321
+aVthe perfection that so many of us seem to dream of
+p322
+aVmight not ever be truly attainable,
+p323
+aVand that if we can't feel content here, today, now, on our journeys
+p324
+aVamidst the mess and the striving that we all inhabit,
+p325
+aVthe open loops,  the half-finished to-do lists,
+p326
+aVthe could-do-better-next-times,
+p327
+aVthen we might never feel it.
+p328
+aa(lp329
+VA lot of people have asked me, what next?
+p330
+aVRight now, I am very happy just recovering and in front of hotel buffets.
+p331
+aVBut as Bob Hope put it,
+p332
+aVI feel very humble,
+p333
+aVbut I think I have the strength of character to fight it. (Laughter)
+p334
+aa(lp335
+VThank you.
+p336
+aa(lp337
+V(Applause)
+p338
+aasS'id'
+p339
+I2143
+sS'title'
+p340
+VTo the South Pole and back \u2014 the hardest 105 days of my life
+p341
+s.

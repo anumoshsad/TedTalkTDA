@@ -1,0 +1,571 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VDo you think the world is going to be a better place next year?
+p4
+aVIn the next decade?
+p5
+aVCan we end hunger,
+p6
+aVachieve gender equality,
+p7
+aVhalt climate change,
+p8
+aVall in the next 15 years?
+p9
+aa(lp10
+VWell, according to the governments of the world, yes we can.
+p11
+aVIn the last few days, the leaders of the world,
+p12
+aVmeeting at the UN in New York,
+p13
+aVagreed a new set of Global Goals
+p14
+aVfor the development of the world to 2030.
+p15
+aVAnd here they are:
+p16
+aVthese goals are the product of a massive consultation exercise.
+p17
+aVThe Global Goals are who we, humanity, want to be.
+p18
+aa(lp19
+VNow that's the plan, but can we get there?
+p20
+aVCan this vision for a better world really be achieved?
+p21
+aVWell, I'm here today because we've run the numbers,
+p22
+aVand the answer, shockingly,
+p23
+aVis that maybe we actually can.
+p24
+aVBut not with business as usual.
+p25
+aa(lp26
+VNow, the idea that the world is going to get a better place
+p27
+aVmay seem a little fanciful.
+p28
+aVWatch the news every day and the world seems to be going backwards, not forwards.
+p29
+aVAnd let's be frank:
+p30
+aVit's pretty easy to be skeptical about grand announcements
+p31
+aVcoming out of the UN.
+p32
+aa(lp33
+VBut please, I invite you to suspend your disbelief for just a moment.
+p34
+aVBecause back in 2001,
+p35
+aVthe UN agreed another set of goals, the Millennium Development Goals.
+p36
+aVAnd the flagship target there was to halve the proportion of people
+p37
+aVliving in poverty by 2015.
+p38
+aVThe target was to take from a baseline of 1990,
+p39
+aVwhen 36 percent of the world's population lived in poverty,
+p40
+aVto get to 18 percent poverty this year.
+p41
+aa(lp42
+VDid we hit this target?
+p43
+aVWell, no, we didn't.
+p44
+aVWe exceeded it.
+p45
+aVThis year, global poverty is going to fall to 12 percent.
+p46
+aVNow, that's still not good enough,
+p47
+aVand the world does still have plenty of problems.
+p48
+aVBut the pessimists and doomsayers who say that the world can't get better
+p49
+aVare simply wrong.
+p50
+aa(lp51
+VSo how did we achieve this success?
+p52
+aVWell, a lot of it was because of economic growth.
+p53
+aVSome of the biggest reductions in poverty were in countries such as China and India,
+p54
+aVwhich have seen rapid economic growth in recent years.
+p55
+aVSo can we pull off the same trick again?
+p56
+aVCan economic growth get us to the Global Goals?
+p57
+aVWell, to answer that question,
+p58
+aVwe need to benchmark where the world is today against the Global Goals
+p59
+aVand figure out how far we have to travel.
+p60
+aa(lp61
+VBut that ain't easy,
+p62
+aVbecause the Global Goals aren't just ambitious,
+p63
+aVthey're also pretty complicated.
+p64
+aVOver 17 goals, there are then 169 targets
+p65
+aVand literally hundreds of indicators.
+p66
+aVAlso, while some of the goals are pretty specific \u2014
+p67
+aVend hunger \u2014
+p68
+aVothers are a lot vaguer \u2014
+p69
+aVpromote peaceful and tolerant societies.
+p70
+aa(lp71
+VSo to help us with this benchmarking,
+p72
+aVI'm going to use a tool called the Social Progress Index.
+p73
+aVWhat this does is measures all the stuff the Global Goals are trying to achieve,
+p74
+aVbut sums it up into a single number that we can use as our benchmark
+p75
+aVand track progress over time.
+p76
+aa(lp77
+VThe Social Progress Index basically asks three fundamental questions
+p78
+aVabout a society.
+p79
+aVFirst of all, does everyone have the basic needs of survival:
+p80
+aVfood, water, shelter, safety?
+p81
+aVSecondly, does everyone have the building blocks of a better life:
+p82
+aVeducation, information, health and a sustainable environment?
+p83
+aVAnd does everyone have the opportunity to improve their lives,
+p84
+aVthrough rights, freedom of choice, freedom from discrimination,
+p85
+aVand access to the world's most advanced knowledge?
+p86
+aa(lp87
+VThe Social Progress Index sums all this together using 52 indicators
+p88
+aVto create an aggregate score on a scale of 0 to 100.
+p89
+aVAnd what we find is that there's a wide diversity of performance
+p90
+aVin the world today.
+p91
+aVThe highest performing country, Norway, scores 88.
+p92
+aVThe lowest performing country, Central African Republic, scores 31.
+p93
+aVAnd we can add up all the countries together,
+p94
+aVweighting for the different population sizes,
+p95
+aVand that global score is 61.
+p96
+aVIn concrete terms,
+p97
+aVthat means that the average human being is living on a level of social progress
+p98
+aVabout the same of Cuba or Kazakhstan today.
+p99
+aa(lp100
+VThat's where we are today: 61 out of 100.
+p101
+aVWhat do we have to get to to achieve the Global Goals?
+p102
+aa(lp103
+VNow, the Global Goals are certainly ambitious,
+p104
+aVbut they're not about turning the world into Norway in just 15 years.
+p105
+aVSo having looked at the numbers, my estimate is that a score of 75
+p106
+aVwould not only be a giant leap forward in human well-being,
+p107
+aVit would also count as hitting the Global Goals target.
+p108
+aVSo there's our target, 75 out of 100.
+p109
+aVCan we get there?
+p110
+aa(lp111
+VWell, the Social Progress Index can help us calculate this,
+p112
+aVbecause as you might have noticed,
+p113
+aVthere are no economic indicators in there;
+p114
+aVthere's no GDP or economic growth in the Social Progress Index model.
+p115
+aVAnd what that lets us do is understand the relationship
+p116
+aVbetween economic growth and social progress.
+p117
+aa(lp118
+VLet me show you on this chart.
+p119
+aVSo here on the vertical axis, I've put social progress,
+p120
+aVthe stuff the Global Goals are trying to achieve.
+p121
+aVHigher is better.
+p122
+aVAnd then on the horizontal axis, is GDP per capita.
+p123
+aVFurther to the right means richer.
+p124
+aVAnd in there, I'm now going to put all the countries of the world,
+p125
+aVeach one represented by a dot,
+p126
+aVand on top of that I'm going to put the regression line
+p127
+aVthat shows the average relationship.
+p128
+aVAnd what this tells us is that as we get richer,
+p129
+aVsocial progress does tend to improve.
+p130
+aVHowever, as we get richer, each extra dollar of GDP
+p131
+aVis buying us less and less social progress.
+p132
+aVAnd now we can use this information to start building our forecast.
+p133
+aVSo here is the world in 2015.
+p134
+aVWe have a social progress score of 61
+p135
+aVand a GDP per capita of $14,000.
+p136
+aVAnd the place we're trying to get to, remember, is 75, that Global Goals target.
+p137
+aVSo here we are today, $14,000 per capita GDP.
+p138
+aVHow rich are we going to be in 2030?
+p139
+aVThat's what we need to know next.
+p140
+aVWell, the best forecast we can find comes from the US Department of Agriculture,
+p141
+aVwhich forecasts 3.1 percent average global economic growth
+p142
+aVover the next 15 years,
+p143
+aVwhich means that in 2030, if they're right,
+p144
+aVper capita GDP will be about $23,000.
+p145
+aVSo now the question is: if we get that much richer,
+p146
+aVhow much social progress are we going to get?
+p147
+aVWell, we asked a team of economists at Deloitte
+p148
+aVwho checked and crunched the numbers,
+p149
+aVand they came back and said, well, look: if the world's average wealth goes
+p150
+aVfrom $14,000 a year to $23,000 a year,
+p151
+aVsocial progress is going to increase
+p152
+aVfrom 61 to 62.4.
+p153
+aa(lp154
+V(Laughter)
+p155
+aa(lp156
+VJust 62.4. Just a tiny increase.
+p157
+aa(lp158
+VNow this seems a bit strange.
+p159
+aVEconomic growth seems to have really helped
+p160
+aVin the fight against poverty,
+p161
+aVbut it doesn't seem to be having much impact
+p162
+aVon trying to get to the Global Goals.
+p163
+aVSo what's going on?
+p164
+aVWell, I think there are two things.
+p165
+aVThe first is that in a way, we're the victims of our own success.
+p166
+aVWe've used up the easy wins from economic growth,
+p167
+aVand now we're moving on to harder problems.
+p168
+aVAnd also, we know that economic growth comes with costs as well as benefits.
+p169
+aVThere are costs to the environment, costs from new health problems like obesity.
+p170
+aa(lp171
+VSo that's the bad news.
+p172
+aVWe're not going to get to the Global Goals just by getting richer.
+p173
+aa(lp174
+VSo are the pessimists right?
+p175
+aa(lp176
+VWell, maybe not.
+p177
+aVBecause the Social Progress Index also has some very good news.
+p178
+aVLet me take you back to that regression line.
+p179
+aVSo this is the average relationship between GDP and social progress,
+p180
+aVand this is what our last forecast was based on.
+p181
+aVBut as you saw already,
+p182
+aVthere is actually lots of noise around this trend line.
+p183
+aa(lp184
+VWhat that tells us, quite simply,
+p185
+aVis that GDP is not destiny.
+p186
+aVWe have countries that are underperforming
+p187
+aVon social progress, relative to their wealth.
+p188
+aVRussia has lots of natural resource wealth,
+p189
+aVbut lots of social problems.
+p190
+aVChina has boomed economically,
+p191
+aVbut hasn't made much headway on human rights or environmental issues.
+p192
+aVIndia has a space program and millions of people without toilets.
+p193
+aVNow, on the other hand, we have countries that are overperforming
+p194
+aVon social progress relative to their GDP.
+p195
+aVCosta Rica has prioritized education, health and environmental sustainability,
+p196
+aVand as a result, it's achieving a very high level of social progress,
+p197
+aVdespite only having a rather modest GDP.
+p198
+aVAnd Costa Rica's not alone.
+p199
+aVFrom poor countries like Rwanda to richer countries like New Zealand,
+p200
+aVwe see that it's possible to get lots of social progress,
+p201
+aVeven if your GDP is not so great.
+p202
+aa(lp203
+VAnd that's really important, because it tells us two things.
+p204
+aVFirst of all, it tells us that we already in the world have the solutions
+p205
+aVto many of the problems that the Global Goals are trying to solve.
+p206
+aVIt also tells us that we're not slaves to GDP.
+p207
+aVOur choices matter: if we prioritize the well-being of people,
+p208
+aVthen we can make a lot more progress than our GDP might expect.
+p209
+aa(lp210
+VHow much? Enough to get us to the Global Goals?
+p211
+aVWell, let's look at some numbers.
+p212
+aVWhat we know already: the world today is scoring 61 on social progress,
+p213
+aVand the place we want to get to is 75.
+p214
+aVIf we rely on economic growth alone,
+p215
+aVwe're going to get to 62.4.
+p216
+aVSo let's assume now that we can get the countries that are currently
+p217
+aVunderperforming on social progress \u2014 the Russia, China, Indias \u2014
+p218
+aVjust up to the average.
+p219
+aVHow much social progress does that get us?
+p220
+aVWell, that takes us to 65.
+p221
+aVIt's a bit better, but still quite a long way to go.
+p222
+aVSo let's get a little bit more optimistic and say,
+p223
+aVwhat if every country gets a little bit better
+p224
+aVat turning its wealth into well-being?
+p225
+aVWell then, we get to 67.
+p226
+aVAnd now let's be even bolder still.
+p227
+aVWhat if every country in the world chose to be like Costa Rica
+p228
+aVin prioritizing human well-being,
+p229
+aVusing its wealth for the well-being of its citizens?
+p230
+aVWell then, we get to nearly 73, very close to the Global Goals.
+p231
+aa(lp232
+VCan we achieve the Global Goals?
+p233
+aVCertainly not with business as usual.
+p234
+aVEven a flood tide of economic growth is not going to get us there,
+p235
+aVif it just raises the mega-yachts and the super-wealthy
+p236
+aVand leaves the rest behind.
+p237
+aVIf we're going to achieve the Global Goals we have to do things differently.
+p238
+aVWe have to prioritize social progress, and really scale solutions
+p239
+aVaround the world.
+p240
+aVI believe the Global Goals are a historic opportunity,
+p241
+aVbecause the world's leaders have promised to deliver them.
+p242
+aVLet's not dismiss the goals or slide into pessimism;
+p243
+aVlet's hold them to that promise.
+p244
+aVAnd we need to hold them to that promise by holding them accountable,
+p245
+aVtracking their progress all the way through the next 15 years.
+p246
+aa(lp247
+VAnd I want to finish by showing you
+p248
+aVa way to do that, called the People's Report Card.
+p249
+aVThe People's Report Card brings together all this data into a simple framework
+p250
+aVthat we'll all be familiar with from our school days,
+p251
+aVto hold them to account.
+p252
+aVIt grades our performance on the Global Goals
+p253
+aVon a scale from F to A,
+p254
+aVwhere F is humanity at its worst, and A is humanity at its best.
+p255
+aVOur world today is scoring a C-.
+p256
+aVThe Global Goals are all about getting to an A,
+p257
+aVand that's why we're going to be updating the People's Report Card annually,
+p258
+aVfor the world and for all the countries of the world,
+p259
+aVso we can hold our leaders to account
+p260
+aVto achieve this target and fulfill this promise.
+p261
+aVBecause getting to the Global Goals will only happen if we do things differently,
+p262
+aVif our leaders do things differently,
+p263
+aVand for that to happen, that needs us to demand it.
+p264
+aa(lp265
+VSo let's reject business as usual.
+p266
+aVLet's demand a different path.
+p267
+aVLet's choose the world that we want.
+p268
+aa(lp269
+VThank you.
+p270
+aa(lp271
+V(Applause)
+p272
+aa(lp273
+VBruno Giussani: Thank you, Michael.
+p274
+aVMichael, just one question: the Millennium Development Goals
+p275
+aVestablished 15 years ago,
+p276
+aVthey were kind of applying to every country
+p277
+aVbut it turned out to be really a scorecard for emerging countries.
+p278
+aVNow the new Global Goals are explicitly universal.
+p279
+aVThey ask for every country to show action and to show progress.
+p280
+aVHow can I, as a private citizen, use the report card
+p281
+aVto create pressure for action?
+p282
+aa(lp283
+VMichael Green: This is a really important point; it's a big shift in priorities \u2014
+p284
+aVit's no longer about poor countries and just poverty.
+p285
+aVIt's about every country.
+p286
+aVAnd every country is going to have challenges in getting to the Global Goals.
+p287
+aVEven, I'm sorry to say, Bruno, Switzerland has got to work to do.
+p288
+aVAnd so that's why we're going to produce these report cards in 2016
+p289
+aVfor every country in the world.
+p290
+aVThen we can really see, how are we doing?
+p291
+aVAnd it's not going to be rich countries scoring straight A's.
+p292
+aVAnd that, then, I think, is to provide a point of focus
+p293
+aVfor people to start demanding action and start demanding progress.
+p294
+aa(lp295
+VBG: Thank you very much.
+p296
+aa(lp297
+V(Applause)
+p298
+aasS'id'
+p299
+I2348
+sS'title'
+p300
+VHow we can make the world a better place by 2030
+p301
+s.

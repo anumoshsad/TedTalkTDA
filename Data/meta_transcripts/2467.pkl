@@ -1,0 +1,422 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VCancer affects all of us \u2014
+p4
+aVespecially the ones that come back over and over again,
+p5
+aVthe highly invasive and drug-resistant ones,
+p6
+aVthe ones that defy medical treatment,
+p7
+aVeven when we throw our best drugs at them.
+p8
+aVEngineering at the molecular level,
+p9
+aVworking at the smallest of scales,
+p10
+aVcan provide exciting new ways
+p11
+aVto fight the most aggressive forms of cancer.
+p12
+aa(lp13
+VCancer is a very clever disease.
+p14
+aVThere are some forms of cancer,
+p15
+aVwhich, fortunately, we've learned how to address relatively well
+p16
+aVwith known and established drugs and surgery.
+p17
+aVBut there are some forms of cancer
+p18
+aVthat don't respond to these approaches,
+p19
+aVand the tumor survives or comes back,
+p20
+aVeven after an onslaught of drugs.
+p21
+aa(lp22
+VWe can think of these very aggressive forms of cancer
+p23
+aVas kind of supervillains in a comic book.
+p24
+aVThey're clever, they're adaptable,
+p25
+aVand they're very good at staying alive.
+p26
+aVAnd, like most supervillains these days,
+p27
+aVtheir superpowers come from a genetic mutation.
+p28
+aVThe genes that are modified inside these tumor cells
+p29
+aVcan enable and encode for new and unimagined modes of survival,
+p30
+aVallowing the cancer cell to live through
+p31
+aVeven our best chemotherapy treatments.
+p32
+aa(lp33
+VOne example is a trick in which a gene allows a cell,
+p34
+aVeven as the drug approaches the cell,
+p35
+aVto push the drug out,
+p36
+aVbefore the drug can have any effect.
+p37
+aVImagine \u2014 the cell effectively spits out the drug.
+p38
+aVThis is just one example of the many genetic tricks
+p39
+aVin the bag of our supervillain, cancer.
+p40
+aVAll due to mutant genes.
+p41
+aa(lp42
+VSo, we have a supervillain with incredible superpowers.
+p43
+aVAnd we need a new and powerful mode of attack.
+p44
+aVActually, we can turn off a gene.
+p45
+aVThe key is a set of molecules known as siRNA.
+p46
+aVsiRNA are short sequences of genetic code
+p47
+aVthat guide a cell to block a certain gene.
+p48
+aVEach siRNA molecule can turn off a specific gene
+p49
+aVinside the cell.
+p50
+aVFor many years since its discovery,
+p51
+aVscientists have been very excited
+p52
+aVabout how we can apply these gene blockers in medicine.
+p53
+aa(lp54
+VBut, there is a problem.
+p55
+aVsiRNA works well inside the cell.
+p56
+aVBut if it gets exposed to the enzymes
+p57
+aVthat reside in our bloodstream or our tissues,
+p58
+aVit degrades within seconds.
+p59
+aVIt has to be packaged, protected through its journey through the body
+p60
+aVon its way to the final target inside the cancer cell.
+p61
+aa(lp62
+VSo, here's our strategy.
+p63
+aVFirst, we'll dose the cancer cell with siRNA, the gene blocker,
+p64
+aVand silence those survival genes,
+p65
+aVand then we'll whop it with a chemo drug.
+p66
+aVBut how do we carry that out?
+p67
+aVUsing molecular engineering,
+p68
+aVwe can actually design a superweapon
+p69
+aVthat can travel through the bloodstream.
+p70
+aVIt has to be tiny enough to get through the bloodstream,
+p71
+aVit's got to be small enough to penetrate the tumor tissue,
+p72
+aVand it's got to be tiny enough to be taken up inside the cancer cell.
+p73
+aVTo do this job well,
+p74
+aVit has to be about one one-hundredth the size of a human hair.
+p75
+aa(lp76
+VLet's take a closer look at how we can build this nanoparticle.
+p77
+aVFirst, let's start with the nanoparticle core.
+p78
+aVIt's a tiny capsule that contains the chemotherapy drug.
+p79
+aVThis is the poison that will actually end the tumor cell's life.
+p80
+aVAround this core, we'll wrap a very thin,
+p81
+aVnanometers-thin blanket of siRNA.
+p82
+aVThis is our gene blocker.
+p83
+aVBecause siRNA is strongly negatively charged,
+p84
+aVwe can protect it
+p85
+aVwith a nice, protective layer of positively charged polymer.
+p86
+aVThe two oppositely charged molecules stick together
+p87
+aVthrough charge attraction,
+p88
+aVand that provides us with a protective layer
+p89
+aVthat prevents the siRNA from degrading in the bloodstream.
+p90
+aVWe're almost done.
+p91
+aa(lp92
+V(Laughter)
+p93
+aa(lp94
+VBut there is one more big obstacle we have to think about.
+p95
+aVIn fact, it may be the biggest obstacle of all.
+p96
+aVHow do we deploy this superweapon?
+p97
+aVI mean, every good weapon needs to be targeted,
+p98
+aVwe have to target this superweapon to the supervillain cells
+p99
+aVthat reside in the tumor.
+p100
+aa(lp101
+VBut our bodies have a natural immune-defense system:
+p102
+aVcells that reside in the bloodstream
+p103
+aVand pick out things that don't belong,
+p104
+aVso that it can destroy or eliminate them.
+p105
+aVAnd guess what? Our nanoparticle is considered a foreign object.
+p106
+aVWe have to sneak our nanoparticle past the tumor defense system.
+p107
+aVWe have to get it past this mechanism of getting rid of the foreign object
+p108
+aVby disguising it.
+p109
+aa(lp110
+VSo we add one more negatively charged layer
+p111
+aVaround this nanoparticle,
+p112
+aVwhich serves two purposes.
+p113
+aVFirst, this outer layer is one of the naturally charged,
+p114
+aVhighly hydrated polysaccharides that resides in our body.
+p115
+aVIt creates a cloud of water molecules around the nanoparticle
+p116
+aVthat gives us an invisibility cloaking effect.
+p117
+aVThis invisibility cloak allows the nanoparticle
+p118
+aVto travel through the bloodstream
+p119
+aVlong and far enough to reach the tumor,
+p120
+aVwithout getting eliminated by the body.
+p121
+aa(lp122
+VSecond, this layer contains molecules
+p123
+aVwhich bind specifically to our tumor cell.
+p124
+aVOnce bound, the cancer cell takes up the nanoparticle,
+p125
+aVand now we have our nanoparticle inside the cancer cell
+p126
+aVand ready to deploy.
+p127
+aa(lp128
+VAlright! I feel the same way. Let's go!
+p129
+aa(lp130
+V(Applause)
+p131
+aa(lp132
+VThe siRNA is deployed first.
+p133
+aVIt acts for hours,
+p134
+aVgiving enough time to silence and block those survival genes.
+p135
+aVWe have now disabled those genetic superpowers.
+p136
+aVWhat remains is a cancer cell with no special defenses.
+p137
+aVThen, the chemotherapy drug comes out of the core
+p138
+aVand destroys the tumor cell cleanly and efficiently.
+p139
+aVWith sufficient gene blockers,
+p140
+aVwe can address many different kinds of mutations,
+p141
+aVallowing the chance to sweep out tumors,
+p142
+aVwithout leaving behind any bad guys.
+p143
+aa(lp144
+VSo, how does our strategy work?
+p145
+aVWe've tested these nanostructure particles in animals
+p146
+aVusing a highly aggressive form of triple-negative breast cancer.
+p147
+aVThis triple-negative breast cancer exhibits the gene
+p148
+aVthat spits out cancer drug as soon as it is delivered.
+p149
+aa(lp150
+VUsually, doxorubicin \u2014 let's call it "dox" \u2014 is the cancer drug
+p151
+aVthat is the first line of treatment for breast cancer.
+p152
+aVSo, we first treated our animals with a dox core, dox only.
+p153
+aVThe tumor slowed their rate of growth,
+p154
+aVbut they still grew rapidly,
+p155
+aVdoubling in size over a period of two weeks.
+p156
+aa(lp157
+VThen, we tried our combination superweapon.
+p158
+aVA nanolayer particle with siRNA against the chemo pump,
+p159
+aVplus, we have the dox in the core.
+p160
+aVAnd look \u2014 we found that not only did the tumors stop growing,
+p161
+aVthey actually decreased in size
+p162
+aVand were eliminated in some cases.
+p163
+aVThe tumors were actually regressing.
+p164
+aa(lp165
+V(Applause)
+p166
+aa(lp167
+VWhat's great about this approach is that it can be personalized.
+p168
+aVWe can add many different layers of siRNA
+p169
+aVto address different mutations and tumor defense mechanisms.
+p170
+aVAnd we can put different drugs into the nanoparticle core.
+p171
+aVAs doctors learn how to test patients
+p172
+aVand understand certain tumor genetic types,
+p173
+aVthey can help us determine which patients can benefit from this strategy
+p174
+aVand which gene blockers we can use.
+p175
+aa(lp176
+VOvarian cancer strikes a special chord with me.
+p177
+aVIt is a very aggressive cancer,
+p178
+aVin part because it's discovered at very late stages,
+p179
+aVwhen it's highly advanced
+p180
+aVand there are a number of genetic mutations.
+p181
+aVAfter the first round of chemotherapy,
+p182
+aVthis cancer comes back for 75 percent of patients.
+p183
+aVAnd it usually comes back in a drug-resistant form.
+p184
+aVHigh-grade ovarian cancer
+p185
+aVis one of the biggest supervillains out there.
+p186
+aVAnd we're now directing our superweapon
+p187
+aVtoward its defeat.
+p188
+aa(lp189
+VAs a researcher,
+p190
+aVI usually don't get to work with patients.
+p191
+aVBut I recently met a mother
+p192
+aVwho is an ovarian cancer survivor, Mimi, and her daughter, Paige.
+p193
+aVI was deeply inspired by the optimism and strength
+p194
+aVthat both mother and daughter displayed
+p195
+aVand by their story of courage and support.
+p196
+aVAt this event, we spoke about the different technologies
+p197
+aVdirected at cancer.
+p198
+aVAnd Mimi was in tears
+p199
+aVas she explained how learning about these efforts
+p200
+aVgives her hope for future generations,
+p201
+aVincluding her own daughter.
+p202
+aVThis really touched me.
+p203
+aVIt's not just about building really elegant science.
+p204
+aVIt's about changing people's lives.
+p205
+aVIt's about understanding the power of engineering
+p206
+aVon the scale of molecules.
+p207
+aa(lp208
+VI know that as students like Paige move forward in their careers,
+p209
+aVthey'll open new possibilities
+p210
+aVin addressing some of the big health problems in the world \u2014
+p211
+aVincluding ovarian cancer, neurological disorders, infectious disease \u2014
+p212
+aVjust as chemical engineering has found a way to open doors for me,
+p213
+aVand has provided a way of engineering
+p214
+aVon the tiniest scale, that of molecules,
+p215
+aVto heal on the human scale.
+p216
+aa(lp217
+VThank you.
+p218
+aa(lp219
+V(Applause)
+p220
+aasS'id'
+p221
+I2467
+sS'title'
+p222
+VA new superweapon in the fight against cancer
+p223
+s.

@@ -1,0 +1,783 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm going to be showing some of the cybercriminals'
+p4
+aVlatest and nastiest creations.
+p5
+aVSo basically, please don't go and download
+p6
+aVany of the viruses that I show you.
+p7
+aa(lp8
+VSome of you might be wondering what a cybersecurity specialist looks like,
+p9
+aVand I thought I'd give you a quick insight
+p10
+aVinto my career so far.
+p11
+aVIt's a pretty accurate description.
+p12
+aVThis is what someone that specializes
+p13
+aVin malware and hacking looks like.
+p14
+aa(lp15
+VSo today, computer viruses and trojans,
+p16
+aVdesigned to do everything from stealing data
+p17
+aVto watching you in your webcam
+p18
+aVto the theft of billions of dollars.
+p19
+aVSome malicious code today goes as far
+p20
+aVas targeting power, utilities and infrastructure.
+p21
+aa(lp22
+VLet me give you a quick snapshot
+p23
+aVof what malicious code is capable of today.
+p24
+aVRight now, every second, eight new users
+p25
+aVare joining the Internet.
+p26
+aVToday, we will see 250,000 individual new computer viruses.
+p27
+aVWe will see 30,000 new infected websites.
+p28
+aVAnd, just to kind of tear down a myth here,
+p29
+aVlots of people think that when you get infected
+p30
+aVwith a computer virus, it's because you went to a porn site.
+p31
+aVRight? Well, actually, statistically speaking,
+p32
+aVif you only visit porn sites, you're safer.
+p33
+aVPeople normally write that down, by the way. (Laughter)
+p34
+aVActually, about 80 percent of these
+p35
+aVare small business websites getting infected.
+p36
+aa(lp37
+VToday's cybercriminal, what do they look like?
+p38
+aVWell, many of you have the image, don't you,
+p39
+aVof the spotty teenager sitting in a basement,
+p40
+aVhacking away for notoriety.
+p41
+aVBut actually today, cybercriminals
+p42
+aVare wonderfully professional and organized.
+p43
+aVIn fact, they have product adverts.
+p44
+aVYou can go online and buy a hacking service
+p45
+aVto knock your business competitor offline.
+p46
+aVCheck out this one I found.
+p47
+aa(lp48
+V(Video) Man: So you're here for one reason,
+p49
+aVand that reason is
+p50
+aVbecause you need your business competitors,
+p51
+aVrivals, haters, or whatever the reason is, or who,
+p52
+aVthey are to go down.
+p53
+aVWell you, my friend, you've came to the right place.
+p54
+aVIf you want your business competitors to go down,
+p55
+aVwell, they can.
+p56
+aVIf you want your rivals to go offline, well, they will.
+p57
+aVNot only that, we are providing a short-term-to-long-term
+p58
+aVDDOS service or scheduled attack,
+p59
+aVstarting five dollars per hour for small personal websites
+p60
+aVto 10 to 50 dollars per hour.
+p61
+aa(lp62
+VJames Lyne: Now, I did actually pay
+p63
+aVone of these cybercriminals to attack my own website.
+p64
+aVThings got a bit tricky when I tried to expense it at the company.
+p65
+aVTurns out that's not cool.
+p66
+aVBut regardless, it's amazing how many products
+p67
+aVand services are available now to cybercriminals.
+p68
+aVFor example, this testing platform,
+p69
+aVwhich enables the cybercriminals
+p70
+aVto test the quality of their viruses
+p71
+aVbefore they release them on the world.
+p72
+aVFor a small fee, they can upload it
+p73
+aVand make sure everything is good.
+p74
+aa(lp75
+VBut it goes further.
+p76
+aVCybercriminals now have crime packs
+p77
+aVwith business intelligence reporting dashboards
+p78
+aVto manage the distribution of their malicious code.
+p79
+aVThis is the market leader in malware distribution,
+p80
+aVthe Black Hole Exploit Pack,
+p81
+aVresponsible for nearly one third of malware distribution
+p82
+aVin the last couple of quarters.
+p83
+aVIt comes with technical installation guides,
+p84
+aVvideo setup routines,
+p85
+aVand get this, technical support.
+p86
+aVYou can email the cybercriminals and they'll tell you
+p87
+aVhow to set up your illegal hacking server.
+p88
+aa(lp89
+VSo let me show you what malicious code looks like today.
+p90
+aVWhat I've got here is two systems,
+p91
+aVan attacker, which I've made look all Matrix-y and scary,
+p92
+aVand a victim, which you might recognize from home or work.
+p93
+aVNow normally, these would be on different sides
+p94
+aVof the planet or of the Internet,
+p95
+aVbut I've put them side by side
+p96
+aVbecause it makes things much more interesting.
+p97
+aa(lp98
+VNow, there are many ways you can get infected.
+p99
+aVYou will have come in contact with some of them.
+p100
+aVMaybe some of you have received an email
+p101
+aVthat says something like, "Hi, I'm a Nigerian banker,
+p102
+aVand I'd like to give you 53 billion dollars
+p103
+aVbecause I like your face."
+p104
+aVOr funnycats.exe, which rumor has it
+p105
+aVwas quite successful in China's recent campaign against America.
+p106
+aa(lp107
+VNow there are many ways you can get infected.
+p108
+aVI want to show you a couple of my favorites.
+p109
+aVThis is a little USB key.
+p110
+aVNow how do you get a USB key to run in a business?
+p111
+aVWell, you could try looking really cute.
+p112
+aVAwww.
+p113
+aVOr, in my case, awkward and pathetic.
+p114
+aVSo imagine this scenario: I walk into one of your businesses,
+p115
+aVlooking very awkward and pathetic, with a copy of my C.V.
+p116
+aVwhich I've covered in coffee,
+p117
+aVand I ask the receptionist to plug in this USB key
+p118
+aVand print me a new one.
+p119
+aVSo let's have a look here on my victim computer.
+p120
+aVWhat I'm going to do is plug in the USB key.
+p121
+aVAfter a couple of seconds,
+p122
+aVthings start to happen on the computer on their own,
+p123
+aVusually a bad sign.
+p124
+aVThis would, of course, normally happen
+p125
+aVin a couple of seconds, really, really quickly,
+p126
+aVbut I've kind of slowed it down
+p127
+aVso you can actually see the attack occurring.
+p128
+aVMalware is very boring otherwise.
+p129
+aVSo this is writing out the malicious code,
+p130
+aVand a few seconds later, on the left-hand side,
+p131
+aVyou'll see the attacker's screen get some interesting new text.
+p132
+aVNow if I place the mouse cursor over it,
+p133
+aVthis is what we call a command prompt,
+p134
+aVand using this we can navigate around the computer.
+p135
+aVWe can access your documents, your data.
+p136
+aVYou can turn on the webcam.
+p137
+aVThat can be very embarrassing.
+p138
+aVOr just to really prove a point,
+p139
+aVwe can launch programs like my personal favorite,
+p140
+aVthe Windows Calculator.
+p141
+aa(lp142
+VSo isn't it amazing how much control
+p143
+aVthe attackers can get with such a simple operation?
+p144
+aVLet me show you how most malware
+p145
+aVis now distributed today.
+p146
+aVWhat I'm going to do is open up a website
+p147
+aVthat I wrote.
+p148
+aVIt's a terrible website. It's got really awful graphics.
+p149
+aVAnd it's got a comments section here
+p150
+aVwhere we can submit comments to the website.
+p151
+aVMany of you will have used something a bit like this before.
+p152
+aVUnfortunately, when this was implemented,
+p153
+aVthe developer was slightly inebriated
+p154
+aVand managed to forget
+p155
+aVall of the secure coding practices he had learned.
+p156
+aVSo let's imagine that our attacker,
+p157
+aVcalled Evil Hacker just for comedy value,
+p158
+aVinserts something a little nasty.
+p159
+aVThis is a script.
+p160
+aVIt's code which will be interpreted on the webpage.
+p161
+aVSo I'm going to submit this post,
+p162
+aVand then, on my victim computer,
+p163
+aVI'm going to open up the web browser
+p164
+aVand browse to my website,
+p165
+aVwww.incrediblyhacked.com.
+p166
+aVNotice that after a couple of seconds,
+p167
+aVI get redirected.
+p168
+aVThat website address at the top there,
+p169
+aVwhich you can just about see, microshaft.com,
+p170
+aVthe browser crashes as it hits one of these exploit packs,
+p171
+aVand up pops fake antivirus.
+p172
+aVThis is a virus pretending to look like antivirus software,
+p173
+aVand it will go through and it will scan the system,
+p174
+aVhave a look at what its popping up here.
+p175
+aVIt creates some very serious alerts.
+p176
+aVOh look, a child porn proxy server.
+p177
+aVWe really should clean that up.
+p178
+aVWhat's really insulting about this is
+p179
+aVnot only does it provide the attackers with access to your data,
+p180
+aVbut when the scan finishes, they tell you
+p181
+aVin order to clean up the fake viruses,
+p182
+aVyou have to register the product.
+p183
+aVNow I liked it better when viruses were free.
+p184
+aV(Laughter)
+p185
+aVPeople now pay cybercriminals money
+p186
+aVto run viruses,
+p187
+aVwhich I find utterly bizarre.
+p188
+aa(lp189
+VSo anyway, let me change pace a little bit.
+p190
+aVChasing 250,000 pieces of malware a day
+p191
+aVis a massive challenge,
+p192
+aVand those numbers are only growing
+p193
+aVdirectly in proportion to the length of my stress line, you'll note here.
+p194
+aVSo I want to talk to you briefly
+p195
+aVabout a group of hackers we tracked for a year
+p196
+aVand actually found \u2014
+p197
+aVand this is a rare treat in our job.
+p198
+aVNow this was a cross-industry collaboration,
+p199
+aVpeople from Facebook, independent researchers,
+p200
+aVguys from Sophos.
+p201
+aVSo here we have a couple of documents
+p202
+aVwhich our cybercriminals had uploaded
+p203
+aVto a cloud service, kind of like Dropbox or SkyDrive,
+p204
+aVlike many of you might use.
+p205
+aVAt the top, you'll notice a section of source code.
+p206
+aVWhat this would do is send the cybercriminals
+p207
+aVa text message every day telling them how much money
+p208
+aVthey'd made that day,
+p209
+aVso a kind of cybercriminal billings report, if you will.
+p210
+aVIf you look closely, you'll notice a series
+p211
+aVof what are Russian telephone numbers.
+p212
+aVNow that's obviously interesting,
+p213
+aVbecause that gives us a way of finding our cybercriminals.
+p214
+aVDown below, highlighted in red,
+p215
+aVin the other section of source code,
+p216
+aVis this bit "leded:leded."
+p217
+aVThat's a username,
+p218
+aVkind of like you might have on Twitter.
+p219
+aa(lp220
+VSo let's take this a little further.
+p221
+aVThere are a few other interesting pieces
+p222
+aVthe cybercriminals had uploaded.
+p223
+aVLots of you here will use smartphones
+p224
+aVto take photos and post them from the conference.
+p225
+aVAn interesting feature of lots of modern smartphones
+p226
+aVis that when you take a photo,
+p227
+aVit embeds GPS data about where that photo was taken.
+p228
+aVIn fact, I've been spending a lot of time
+p229
+aVon Internet dating sites recently,
+p230
+aVobviously for research purposes,
+p231
+aVand I've noticed that about 60 percent
+p232
+aVof the profile pictures on Internet dating sites
+p233
+aVcontain the GPS coordinates of where the photo was taken,
+p234
+aVwhich is kind of scary
+p235
+aVbecause you wouldn't give out your home address
+p236
+aVto lots of strangers,
+p237
+aVbut we're happy to give away our GPS coordinates
+p238
+aVto plus or minus 15 meters.
+p239
+aVAnd our cybercriminals had done the same thing.
+p240
+aVSo here's a photo which resolves to St. Petersburg.
+p241
+aVWe then deploy the incredibly advanced hacking tool.
+p242
+aVWe used Google.
+p243
+aVUsing the email address, the telephone number
+p244
+aVand the GPS data, on the left you see an advert
+p245
+aVfor a BMW that one of our cybercriminals is selling,
+p246
+aVon the other side an advert for the sale of sphynx kittens.
+p247
+aVOne of these was more stereotypical for me.
+p248
+aVA little more searching, and here's our cybercriminal.
+p249
+aVImagine, these are hardened cybercriminals
+p250
+aVsharing information scarcely.
+p251
+aVImagine what you could find
+p252
+aVabout each of the people in this room.
+p253
+aVA bit more searching through the profile
+p254
+aVand there's a photo of their office.
+p255
+aVThey were working on the third floor.
+p256
+aVAnd you can also see some photos
+p257
+aVfrom his business companion
+p258
+aVwhere he has a taste in a certain kind of image.
+p259
+aVIt turns out he's a member of the Russian Adult Webmasters Federation.
+p260
+aa(lp261
+VBut this is where our investigation starts to slow down.
+p262
+aVThe cybercriminals have locked down their profiles quite well.
+p263
+aVAnd herein is the greatest lesson
+p264
+aVof social media and mobile devices for all of us right now.
+p265
+aVOur friends, our families and our colleagues
+p266
+aVcan break our security even when we do the right things.
+p267
+aVThis is MobSoft, one of the companies
+p268
+aVthat this cybercriminal gang owned,
+p269
+aVand an interesting thing about MobSoft
+p270
+aVis the 50-percent owner of this
+p271
+aVposted a job advert,
+p272
+aVand this job advert matched one of the telephone numbers
+p273
+aVfrom the code earlier.
+p274
+aVThis woman was Maria,
+p275
+aVand Maria is the wife of one of our cybercriminals.
+p276
+aVAnd it's kind of like she went into her social media settings
+p277
+aVand clicked on every option imaginable
+p278
+aVto make herself really, really insecure.
+p279
+aVBy the end of the investigation,
+p280
+aVwhere you can read the full 27-page report at that link,
+p281
+aVwe had photos of the cybercriminals,
+p282
+aVeven the office Christmas party
+p283
+aVwhen they were out on an outing.
+p284
+aVThat's right, cybercriminals do have Christmas parties,
+p285
+aVas it turns out.
+p286
+aVNow you're probably wondering what happened to these guys.
+p287
+aVLet me come back to that in just a minute.
+p288
+aa(lp289
+VI want to change pace to one last little demonstration,
+p290
+aVa technique that is wonderfully simple and basic,
+p291
+aVbut is interesting in exposing how much information
+p292
+aVwe're all giving away,
+p293
+aVand it's relevant because it applies to us as a TED audience.
+p294
+aVThis is normally when people start kind of shuffling in their pockets
+p295
+aVtrying to turn their phones onto airplane mode desperately.
+p296
+aa(lp297
+VMany of you all know about the concept
+p298
+aVof scanning for wireless networks.
+p299
+aVYou do it every time you take out your iPhone or your Blackberry
+p300
+aVand connect to something like TEDAttendees.
+p301
+aVBut what you might not know
+p302
+aVis that you're also beaming out a list of networks
+p303
+aVyou've previously connected to,
+p304
+aVeven when you're not using wireless actively.
+p305
+aVSo I ran a little scan.
+p306
+aVI was relatively inhibited compared to the cybercriminals,
+p307
+aVwho wouldn't be so concerned by law,
+p308
+aVand here you can see my mobile device.
+p309
+aVOkay? So you can see a list of wireless networks.
+p310
+aVTEDAttendees, HyattLB. Where do you think I'm staying?
+p311
+aVMy home network, PrettyFlyForAWifi,
+p312
+aVwhich I think is a great name.
+p313
+aVSophos_Visitors, SANSEMEA, companies I work with.
+p314
+aVLoganwifi, that's in Boston. HiltonLondon.
+p315
+aVCIASurveillanceVan.
+p316
+aVWe called it that at one of our conferences
+p317
+aVbecause we thought that would freak people out,
+p318
+aVwhich is quite fun.
+p319
+aVThis is how geeks party.
+p320
+aa(lp321
+VSo let's make this a little bit more interesting.
+p322
+aVLet's talk about you.
+p323
+aVTwenty-three percent of you have been to Starbucks
+p324
+aVrecently and used the wireless network.
+p325
+aVThings get more interesting.
+p326
+aVForty-six percent of you I could link to a business,
+p327
+aVXYZ Employee network.
+p328
+aVThis isn't an exact science, but it gets pretty accurate.
+p329
+aVSeven hundred and sixty-one of you I could identify a hotel you'd been to recently,
+p330
+aVabsolutely with pinpoint precision somewhere on the globe.
+p331
+aVTwo hundred and thirty-four of you, well, I know where you live.
+p332
+aVYour wireless network name is so unique
+p333
+aVthat I was able to pinpoint it
+p334
+aVusing data available openly on the Internet
+p335
+aVwith no hacking or clever, clever tricks.
+p336
+aVAnd I should mention as well that
+p337
+aVsome of you do use your names,
+p338
+aV"James Lyne's iPhone," for example.
+p339
+aVAnd two percent of you have a tendency to extreme profanity.
+p340
+aa(lp341
+VSo something for you to think about:
+p342
+aVAs we adopt these new applications and mobile devices,
+p343
+aVas we play with these shiny new toys,
+p344
+aVhow much are we trading off convenience
+p345
+aVfor privacy and security?
+p346
+aVNext time you install something,
+p347
+aVlook at the settings and ask yourself,
+p348
+aV"Is this information that I want to share?
+p349
+aVWould someone be able to abuse it?"
+p350
+aa(lp351
+VWe also need to think very carefully
+p352
+aVabout how we develop our future talent pool.
+p353
+aVYou see, technology's changing at a staggering rate,
+p354
+aVand that 250,000 pieces of malware
+p355
+aVwon't stay the same for long.
+p356
+aVThere's a very concerning trend
+p357
+aVthat whilst many people coming out of schools now
+p358
+aVare much more technology-savvy, they know how to use technology,
+p359
+aVfewer and fewer people are following the feeder subjects
+p360
+aVto know how that technology works under the covers.
+p361
+aVIn the U.K., a 60 percent reduction since 2003,
+p362
+aVand there are similar statistics all over the world.
+p363
+aa(lp364
+VWe also need to think about the legal issues in this area.
+p365
+aVThe cybercriminals I talked about,
+p366
+aVdespite theft of millions of dollars,
+p367
+aVactually still haven't been arrested,
+p368
+aVand at this point possibly never will.
+p369
+aVMost laws are national in their implementation,
+p370
+aVdespite cybercrime conventions, where the Internet
+p371
+aVis borderless and international by definition.
+p372
+aVCountries do not agree, which makes this area
+p373
+aVexceptionally challenging from a legal perspective.
+p374
+aa(lp375
+VBut my biggest ask is this:
+p376
+aVYou see, you're going to leave here
+p377
+aVand you're going to see some astonishing stories in the news.
+p378
+aVYou're going to read about malware doing incredible
+p379
+aVand terrifying, scary things.
+p380
+aVHowever, 99 percent of it works
+p381
+aVbecause people fail to do the basics.
+p382
+aVSo my ask is this: Go online,
+p383
+aVfind these simple best practices,
+p384
+aVfind out how to update and patch your computer.
+p385
+aVGet a secure password.
+p386
+aVMake sure you use a different password
+p387
+aVon each of your sites and services online.
+p388
+aVFind these resources. Apply them.
+p389
+aa(lp390
+VThe Internet is a fantastic resource
+p391
+aVfor business, for political expression,
+p392
+aVfor art and for learning.
+p393
+aVHelp me and the security community
+p394
+aVmake life much, much more difficult
+p395
+aVfor cybercriminals.
+p396
+aa(lp397
+VThank you.
+p398
+aa(lp399
+V(Applause)
+p400
+aasS'id'
+p401
+I1820
+sS'title'
+p402
+VEveryday cybercrime -- and what you can do about it
+p403
+s.

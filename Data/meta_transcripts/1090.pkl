@@ -1,0 +1,953 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VKhan Academy is most known for its collection of videos,
+p4
+aVso before I go any further,
+p5
+aVlet me show you a little bit of a montage.
+p6
+aa(lp7
+V(Video) Salman Khan: So the hypotenuse is now going to be five.
+p8
+aVThis animal's fossils are only found in this area of South America \u2014
+p9
+aVa nice clean band here \u2014
+p10
+aVand this part of Africa.
+p11
+aVWe can integrate over the surface,
+p12
+aVand the notation usually is a capital sigma.
+p13
+aVNational Assembly: They create the Committee of Public Safety,
+p14
+aVwhich sounds like a very nice committee.
+p15
+aVNotice, this is an aldehyde, and it's an alcohol.
+p16
+aVStart differentiating into effector and memory cells.
+p17
+aVA galaxy. Hey! There's another galaxy. Oh, look! There's another galaxy.
+p18
+aVAnd for dollars, is their 30 million,
+p19
+aVplus the 20 million dollars from the American manufacturer.
+p20
+aVIf this does not blow your mind,
+p21
+aVthen you have no emotion.
+p22
+aa(lp23
+V(Laughter)
+p24
+aa(lp25
+V(Applause)
+p26
+aa(lp27
+V(Live) SK: We now have on the order of 2,200 videos,
+p28
+aVcovering everything from basic arithmetic, all the way to vector calculus,
+p29
+aVand some of the stuff that you saw up there.
+p30
+aVWe have a million students a month using the site,
+p31
+aVwatching on the order of 100 to 200,000 videos a day.
+p32
+aVBut what we're going to talk about in this is how we're going to the next level.
+p33
+aVBut before I do that,
+p34
+aVI want to talk a little bit about really just how I got started.
+p35
+aVAnd some of you all might know,
+p36
+aVabout five years ago, I was an analyst at a hedge fund,
+p37
+aVand I was in Boston,
+p38
+aVand I was tutoring my cousins in New Orleans, remotely.
+p39
+aVAnd I started putting the first YouTube videos up,
+p40
+aVreally just as a kind of nice-to-have,
+p41
+aVjust kind of a supplement for my cousins,
+p42
+aVsomething that might give them a refresher or something.
+p43
+aa(lp44
+VAnd as soon as I put those first YouTube videos up,
+p45
+aVsomething interesting happened.
+p46
+aVActually, a bunch of interesting things happened.
+p47
+aVThe first was the feedback from my cousins.
+p48
+aVThey told me that they preferred me on YouTube than in person.
+p49
+aa(lp50
+V(Laughter)
+p51
+aa(lp52
+VAnd once you get over the backhanded nature of that,
+p53
+aVthere was actually something very profound there.
+p54
+aVThey were saying that they preferred the automated version of their cousin
+p55
+aVto their cousin.
+p56
+aVAt first it's very unintuitive,
+p57
+aVbut when you think about it from their point of view, it makes a ton of sense.
+p58
+aVYou have this situation where now they can pause and repeat their cousin,
+p59
+aVwithout feeling like they're wasting my time.
+p60
+aVIf they have to review something
+p61
+aVthat they should have learned a couple of weeks ago,
+p62
+aVor maybe a couple of years ago,
+p63
+aVthey don't have to be embarrassed and ask their cousin.
+p64
+aVThey can just watch those videos; if they're bored, they can go ahead.
+p65
+aVThey can watch at their own time and pace.
+p66
+aVProbably the least-appreciated aspect of this
+p67
+aVis the notion that the very first time
+p68
+aVthat you're trying to get your brain around a new concept,
+p69
+aVthe very last thing you need
+p70
+aVis another human being saying, "Do you understand this?"
+p71
+aVAnd that's what was happening
+p72
+aVwith the interaction with my cousins before,
+p73
+aVand now they can just do it in the intimacy of their own room.
+p74
+aa(lp75
+VThe other thing that happened is \u2014
+p76
+aVI put them on YouTube just \u2014
+p77
+aVI saw no reason to make it private,
+p78
+aVso I let other people watch it,
+p79
+aVand then people started stumbling on it,
+p80
+aVand I started getting some comments and some letters
+p81
+aVand all sorts of feedback
+p82
+aVfrom random people around the world.
+p83
+aVThese are just a few.
+p84
+aVThis is actually from one of the original calculus videos.
+p85
+aVSomeone wrote it on YouTube, it was a YouTube comment:
+p86
+aV"First time I smiled doing a derivative."
+p87
+aa(lp88
+V(Laughter)
+p89
+aa(lp90
+VLet's pause here.
+p91
+aVThis person did a derivative,
+p92
+aVand then they smiled.
+p93
+aa(lp94
+V(Laughter)
+p95
+aa(lp96
+VIn response to that same comment \u2014
+p97
+aVthis is on the thread, you can go on YouTube and look at the comments \u2014
+p98
+aVsomeone else wrote: "Same thing here.
+p99
+aVI actually got a natural high and a good mood for the entire day,
+p100
+aVsince I remember seeing all of this matrix text in class,
+p101
+aVand here I'm all like, 'I know kung fu.'"
+p102
+aa(lp103
+V(Laughter)
+p104
+aa(lp105
+VWe get a lot of feedback along those lines.
+p106
+aVThis clearly was helping people.
+p107
+aVBut then, as the viewership kept growing and kept growing,
+p108
+aVI started getting letters from people,
+p109
+aVand it was starting to become clear
+p110
+aVthat it was more than just a nice-to-have.
+p111
+aVThis is just an excerpt from one of those letters:
+p112
+aV"My 12 year-old son has autism,
+p113
+aVand has had a terrible time with math.
+p114
+aVWe have tried everything,
+p115
+aVviewed everything, bought everything.
+p116
+aVWe stumbled on your video on decimals, and it got through.
+p117
+aVThen we went on to the dreaded fractions.
+p118
+aVAgain, he got it.
+p119
+aVWe could not believe it.
+p120
+aVHe is so excited."
+p121
+aVAnd so you can imagine,
+p122
+aVhere I was, an analyst at a hedge fund \u2014
+p123
+aVit was very strange for me to do something of social value.
+p124
+aa(lp125
+V(Laughter)
+p126
+aa(lp127
+V(Applause)
+p128
+aa(lp129
+VBut I was excited, so I kept going.
+p130
+aVAnd then a few other things started to dawn on me;
+p131
+aVthat not only would it help my cousins right now,
+p132
+aVor these people who were sending letters,
+p133
+aVbut that this content will never grow old,
+p134
+aVthat it could help their kids or their grandkids.
+p135
+aVIf Isaac Newton had done YouTube videos on calculus,
+p136
+aVI wouldn't have to.
+p137
+aa(lp138
+V(Laughter)
+p139
+aa(lp140
+VAssuming he was good. We don't know.
+p141
+aa(lp142
+V(Laughter)
+p143
+aa(lp144
+VThe other thing that happened \u2014 and even at this point, I said,
+p145
+aV"OK, maybe it's a good supplement. It's good for motivated students.
+p146
+aVIt's good for maybe home-schoolers."
+p147
+aVBut I didn't think it would somehow penetrate the classroom.
+p148
+aVThen I started getting letters from teachers,
+p149
+aVand the teachers would write, saying,
+p150
+aV"We've used your videos to flip the classroom.
+p151
+aVYou've given the lectures, so now what we do \u2014"
+p152
+aVAnd this could happen in every classroom in America tomorrow \u2014
+p153
+aV"what I do is I assign the lectures for homework,
+p154
+aVand what used to be homework,
+p155
+aVI now have the students doing in the classroom."
+p156
+aa(lp157
+VAnd I want to pause here \u2014
+p158
+aa(lp159
+V(Applause)
+p160
+aa(lp161
+VI want to pause here, because there's a couple of interesting things.
+p162
+aVOne, when those teachers are doing that,
+p163
+aVthere's the obvious benefit \u2014
+p164
+aVthe benefit that now their students
+p165
+aVcan enjoy the videos in the way that my cousins did,
+p166
+aVthey can pause, repeat at their own pace, at their own time.
+p167
+aVBut the more interesting thing \u2014 and this is the unintuitive thing
+p168
+aVwhen you talk about technology in the classroom \u2014
+p169
+aVby removing the one-size-fits-all lecture from the classroom,
+p170
+aVand letting students have a self-paced lecture at home,
+p171
+aVthen when you go to the classroom,
+p172
+aVletting them do work, having the teacher walk around,
+p173
+aVhaving the peers actually be able to interact with each other,
+p174
+aVthese teachers have used technology to humanize the classroom.
+p175
+aVThey took a fundamentally dehumanizing experience \u2014
+p176
+aV30 kids with their fingers on their lips,
+p177
+aVnot allowed to interact with each other.
+p178
+aVA teacher, no matter how good,
+p179
+aVhas to give this one-size-fits-all lecture to 30 students \u2014
+p180
+aVblank faces, slightly antagonistic \u2014
+p181
+aVand now it's a human experience,
+p182
+aVnow they're actually interacting with each other.
+p183
+aa(lp184
+VSo once the Khan Academy \u2014
+p185
+aVI quit my job,
+p186
+aVand we turned into a real organization \u2014
+p187
+aVwe're a not-for-profit \u2014
+p188
+aVthe question is, how do we take this to the next level?
+p189
+aVHow do we take what those teachers were doing to its natural conclusion?
+p190
+aVAnd so, what I'm showing over here,
+p191
+aVthese are actual exercises
+p192
+aVthat I started writing for my cousins.
+p193
+aVThe ones I started were much more primitive.
+p194
+aVThis is a more competent version of it.
+p195
+aVBut the paradigm here is, we'll generate as many questions as you need,
+p196
+aVuntil you get that concept, until you get 10 in a row.
+p197
+aVAnd the Khan Academy videos are there.
+p198
+aVYou get hints, the actual steps for that problem,
+p199
+aVif you don't know how to do it.
+p200
+aVThe paradigm here seems like a very simple thing:
+p201
+aV10 in a row, you move on.
+p202
+aVBut it's fundamentally different
+p203
+aVthan what's happening in classrooms right now.
+p204
+aa(lp205
+VIn a traditional classroom,
+p206
+aVyou have homework, lecture, homework, lecture,
+p207
+aVand then you have a snapshot exam.
+p208
+aVAnd that exam, whether you get a 70 percent, an 80 percent,
+p209
+aVa 90 percent or a 95 percent,
+p210
+aVthe class moves on to the next topic.
+p211
+aVAnd even that 95 percent student \u2014
+p212
+aVwhat was the five percent they didn't know?
+p213
+aVMaybe they didn't know what happens when you raise something to the zeroth power.
+p214
+aVThen you build on that in the next concept.
+p215
+aVThat's analogous to \u2014 imagine learning to ride a bicycle.
+p216
+aVMaybe I give you a lecture ahead of time,
+p217
+aVand I give you a bicycle for two weeks, then I come back after two weeks,
+p218
+aVand say, "Well, let's see. You're having trouble taking left turns.
+p219
+aVYou can't quite stop. You're an 80 percent bicyclist."
+p220
+aVSo I put a big "C" stamp on your forehead \u2014
+p221
+aa(lp222
+V(Laughter)
+p223
+aa(lp224
+Vand then I say, "Here's a unicycle."
+p225
+aa(lp226
+V(Laughter)
+p227
+aa(lp228
+VBut as ridiculous as that sounds,
+p229
+aVthat's exactly what's happening in our classrooms right now.
+p230
+aVAnd the idea is you fast forward
+p231
+aVand good students start failing algebra all of the sudden,
+p232
+aVand start failing calculus all of the sudden,
+p233
+aVdespite being smart, despite having good teachers,
+p234
+aVand it's usually because they have these Swiss cheese gaps
+p235
+aVthat kept building throughout their foundation.
+p236
+aVSo our model is: learn math the way you'd learn anything,
+p237
+aVlike riding a bicycle.
+p238
+aVStay on that bicycle. Fall off that bicycle.
+p239
+aVDo it as long as necessary, until you have mastery.
+p240
+aVThe traditional model,
+p241
+aVit penalizes you for experimentation and failure,
+p242
+aVbut it does not expect mastery.
+p243
+aVWe encourage you to experiment. We encourage you to fail.
+p244
+aVBut we do expect mastery.
+p245
+aa(lp246
+VThis is just another one of the modules.
+p247
+aVThis is trigonometry.
+p248
+aVThis is shifting and reflecting functions.
+p249
+aVAnd they all fit together.
+p250
+aVWe have about 90 of these right now.
+p251
+aVYou can go to the site right now,
+p252
+aVit's all free, not trying to sell anything.
+p253
+aVBut the general idea is that they all fit into this knowledge map.
+p254
+aVThat top node right there, that's literally single-digit addition,
+p255
+aVit's like one plus one is equal to two.
+p256
+aVThe paradigm is, once you get 10 in a row on that,
+p257
+aVit keeps forwarding you to more and more advanced modules.
+p258
+aa(lp259
+VFurther down the knowledge map,
+p260
+aVwe're getting into more advanced arithmetic.
+p261
+aVFurther down, you start getting into pre-algebra and early algebra.
+p262
+aVFurther down, you start getting into algebra one, algebra two,
+p263
+aVa little bit of precalculus.
+p264
+aVAnd the idea is, from this we can actually teach everything \u2014
+p265
+aVwell, everything that can be taught in this type of a framework.
+p266
+aVSo you can imagine \u2014 and this is what we are working on \u2014
+p267
+aVfrom this knowledge map, you have logic, you have computer programming,
+p268
+aVyou have grammar, you have genetics,
+p269
+aVall based off of that core of, if you know this and that,
+p270
+aVnow you're ready for this next concept.
+p271
+aVNow that can work well for an individual learner,
+p272
+aVand I encourage you to do it with your kids,
+p273
+aVbut I also encourage everyone in the audience to do it yourself.
+p274
+aVIt'll change what happens at the dinner table.
+p275
+aa(lp276
+VBut what we want to do
+p277
+aVis use the natural conclusion of the flipping of the classroom
+p278
+aVthat those early teachers had emailed me about.
+p279
+aVAnd so what I'm showing you here,
+p280
+aVthis is data from a pilot in the Los Altos school district,
+p281
+aVwhere they took two fifth-grade classes and two seventh-grade classes,
+p282
+aVand completely gutted their old math curriculum.
+p283
+aVThese kids aren't using textbooks, or getting one-size-fits-all lectures.
+p284
+aVThey're doing Khan Academy, that software, for roughly half of their math class.
+p285
+aVI want to be clear: we don't view this as a complete math education.
+p286
+aVWhat it does is \u2014 this is what's happening in Los Altos \u2014
+p287
+aVit frees up time \u2014 it's the blocking and tackling,
+p288
+aVmaking sure you know how to move through a system of equations,
+p289
+aVand it frees up time for the simulations, for the games,
+p290
+aVfor the mechanics, for the robot-building,
+p291
+aVfor the estimating how high that hill is based on its shadow.
+p292
+aa(lp293
+VAnd so the paradigm is the teacher walks in every day,
+p294
+aVevery kid works at their own pace \u2014
+p295
+aVthis is actually a live dashboard from the Los Altos school district \u2014
+p296
+aVand they look at this dashboard.
+p297
+aVEvery row is a student.
+p298
+aVEvery column is one of those concepts.
+p299
+aVGreen means the student's already proficient.
+p300
+aVBlue means they're working on it \u2014 no need to worry.
+p301
+aVRed means they're stuck.
+p302
+aVAnd what the teacher does is literally just say,
+p303
+aV"Let me intervene on the red kids."
+p304
+aVOr even better, "Let me get one of the green kids,
+p305
+aVwho are already proficient in that concept,
+p306
+aVto be the first line of attack, and actually tutor their peer."
+p307
+aa(lp308
+V(Applause)
+p309
+aa(lp310
+VNow, I come from a very data-centric reality,
+p311
+aVso we don't want that teacher to even go and intervene
+p312
+aVand have to ask the kid awkward questions:
+p313
+aV"What don't you understand? What do you understand?" and all the rest.
+p314
+aVSo our paradigm is to arm teachers with as much data as possible \u2014
+p315
+aVdata that, in any other field, is expected,
+p316
+aVin finance, marketing, manufacturing \u2014
+p317
+aVso the teachers can diagnose what's wrong with the students
+p318
+aVso they can make their interaction as productive as possible.
+p319
+aVNow teachers know exactly what the students have been up to,
+p320
+aVhow long they've spent each day, what videos they've watched,
+p321
+aVwhen did they pause the videos, what did they stop watching,
+p322
+aVwhat exercises are they using, what have they focused on?
+p323
+aVThe outer circle shows what exercises they were focused on.
+p324
+aVThe inner circle shows the videos they're focused on.
+p325
+aVThe data gets pretty granular,
+p326
+aVso you can see the exact problems the student got right or wrong.
+p327
+aVRed is wrong, blue is right.
+p328
+aVThe leftmost question is the first one the student attempted.
+p329
+aVThey watched the video over there.
+p330
+aVAnd you can see, eventually they were able to get 10 in a row.
+p331
+aVIt's almost like you can see them learning over those last 10 problems.
+p332
+aVThey also got faster \u2014 the height is how long it took them.
+p333
+aa(lp334
+VWhen you talk about self-paced learning, it makes sense for everyone \u2014
+p335
+aVin education-speak, "differentiated learning" \u2014
+p336
+aVbut it's kind of crazy, what happens when you see it in a classroom.
+p337
+aVBecause every time we've done this, in every classroom we've done,
+p338
+aVover and over again, if you go five days into it,
+p339
+aVthere's a group of kids who've raced ahead
+p340
+aVand a group who are a little bit slower.
+p341
+aVIn a traditional model, in a snapshot assessment,
+p342
+aVyou say, "These are the gifted kids, these are the slow kids.
+p343
+aVMaybe they should be tracked differently.
+p344
+aVMaybe we should put them in different classes."
+p345
+aVBut when you let students work at their own pace \u2014
+p346
+aVwe see it over and over again \u2014
+p347
+aVyou see students who took a little bit extra time
+p348
+aVon one concept or the other,
+p349
+aVbut once they get through that concept,
+p350
+aVthey just race ahead.
+p351
+aVAnd so the same kids that you thought were slow six weeks ago,
+p352
+aVyou now would think are gifted.
+p353
+aVAnd we're seeing it over and over again.
+p354
+aVIt makes you really wonder
+p355
+aVhow much all of the labels maybe a lot of us have benefited from
+p356
+aVwere really just due to a coincidence of time.
+p357
+aa(lp358
+VNow as valuable as something like this is in a district like Los Altos,
+p359
+aVour goal is to use technology
+p360
+aVto humanize, not just in Los Altos, but on a global scale,
+p361
+aVwhat's happening in education.
+p362
+aVAnd that brings up an interesting point.
+p363
+aVA lot of the effort in humanizing the classroom
+p364
+aVis focused on student-to-teacher ratios.
+p365
+aVIn our mind, the relevant metric is:
+p366
+aVstudent-to-valuable-human-time- with-the-teacher ratio.
+p367
+aVSo in a traditional model, most of the teacher's time
+p368
+aVis spent doing lectures and grading and whatnot.
+p369
+aVMaybe five percent of their time is sitting next to students
+p370
+aVand working with them.
+p371
+aVNow, 100 percent of their time is.
+p372
+aVSo once again, using technology, not just flipping the classroom,
+p373
+aVyou're humanizing the classroom, I'd argue,
+p374
+aVby a factor of five or 10.
+p375
+aa(lp376
+VAs valuable as that is in Los Altos,
+p377
+aVimagine what it does to the adult learner,
+p378
+aVwho's embarrassed to go back and learn stuff
+p379
+aVthey should have known before going back to college.
+p380
+aVImagine what it does to a street kid in Calcutta,
+p381
+aVwho has to help his family during the day,
+p382
+aVand that's the reason he or she can't go to school.
+p383
+aVNow they can spend two hours a day and remediate,
+p384
+aVor get up to speed and not feel embarrassed
+p385
+aVabout what they do or don't know.
+p386
+aVNow imagine what happens where \u2014
+p387
+aVwe talked about the peers teaching each other
+p388
+aVinside of a classroom.
+p389
+aVBut this is all one system.
+p390
+aVThere's no reason why you can't have that peer-to-peer tutoring
+p391
+aVbeyond that one classroom.
+p392
+aVImagine what happens if that student in Calcutta
+p393
+aVall of the sudden can tutor your son,
+p394
+aVor your son can tutor that kid in Calcutta.
+p395
+aVAnd I think what you'll see emerging
+p396
+aVis this notion of a global one-world classroom.
+p397
+aVAnd that's essentially what we're trying to build.
+p398
+aa(lp399
+VThank you.
+p400
+aa(lp401
+V(Applause)
+p402
+aa(lp403
+VBill Gates: I'll ask about two or three questions.
+p404
+aa(lp405
+VSalman Khan: Oh, OK.
+p406
+aa(lp407
+V(Applause continues)
+p408
+aa(lp409
+V(Applause ends)
+p410
+aa(lp411
+VBG: I've seen some things you're doing in the system,
+p412
+aVthat have to do with motivation and feedback \u2014
+p413
+aVenergy points, merit badges.
+p414
+aVTell me what you're thinking there.
+p415
+aa(lp416
+VSK: Oh yeah. No, we have an awesome team working on it.
+p417
+aVI have to be clear, it's not just me anymore.
+p418
+aVI'm still doing all the videos,
+p419
+aVbut we have a rock-star team doing the software.
+p420
+aVWe've put a bunch of game mechanics in there, where you get badges,
+p421
+aVwe're going to start having leader boards by area, you get points.
+p422
+aVIt's actually been pretty interesting.
+p423
+aVJust the wording of the badging,
+p424
+aVor how many points you get for doing something,
+p425
+aVwe see on a system-wide basis,
+p426
+aVlike tens of thousands of fifth-graders or sixth-graders
+p427
+aVgoing one direction or another, depending what badge you give them.
+p428
+aa(lp429
+V(Laughter)
+p430
+aa(lp431
+VBG: And the collaboration you're doing with Los Altos,
+p432
+aVhow did that come about?
+p433
+aa(lp434
+VSK: Los Altos, it was kind of crazy.
+p435
+aVOnce again, I didn't expect it to be used in classrooms.
+p436
+aVSomeone from their board came and said,
+p437
+aV"What would you do if you had carte Blanche in a classroom?"
+p438
+aVI said, "Well, every student would work at their own pace,
+p439
+aVon something like this, we'd give a dashboard."
+p440
+aVThey said, "This is kind of radical. We have to think about it."
+p441
+aVMe and the rest of the team were like, "They're never going to want to do this."
+p442
+aVBut literally the next day they were like, "Can you start in two weeks?"
+p443
+aa(lp444
+V(Laughter)
+p445
+aa(lp446
+VBG: So fifth-grade math is where that's going on right now?
+p447
+aa(lp448
+VSK: It's two fifth-grade classes and two seventh-grade classes.
+p449
+aVThey're doing it at the district level.
+p450
+aVI think what they're excited about is they can follow these kids,
+p451
+aVnot only in school; on Christmas, we saw some of the kids were doing it.
+p452
+aVWe can track everything, track them as they go through the entire district.
+p453
+aVThrough the summers, as they go from one teacher to the next,
+p454
+aVyou have this continuity of data that even at the district level, they can see.
+p455
+aa(lp456
+VBG: So some of those views we saw were for the teacher
+p457
+aVto go in and track actually what's going on with those kids.
+p458
+aVSo you're getting feedback on those teacher views
+p459
+aVto see what they think they need?
+p460
+aa(lp461
+VSK: Oh yeah. Most of those were specs by the teachers.
+p462
+aVWe made some of those for students so they could see their data,
+p463
+aVbut we have a very tight design loop with the teachers themselves.
+p464
+aVAnd they're saying, "Hey, this is nice, but \u2014"
+p465
+aVLike that focus graph, a lot of the teachers said,
+p466
+aV"I have a feeling a lot of the kids are jumping around
+p467
+aVand not focusing on one topic."
+p468
+aVSo we made that focus diagram.
+p469
+aVSo it's all been teacher-driven. It's been pretty crazy.
+p470
+aa(lp471
+VBG: Is this ready for prime time?
+p472
+aVDo you think a lot of classes next school year should try this thing out?
+p473
+aa(lp474
+VSK: Yeah, it's ready.
+p475
+aVWe've got a million people on the site already,
+p476
+aVso we can handle a few more.
+p477
+aa(lp478
+V(Laughter)
+p479
+aa(lp480
+VNo, no reason why it really can't happen
+p481
+aVin every classroom in America tomorrow.
+p482
+aa(lp483
+VBG: And the vision of the tutoring thing.
+p484
+aVThe idea there is, if I'm confused about a topic,
+p485
+aVsomehow right in the user interface,
+p486
+aVI'd find people who are volunteering,
+p487
+aVmaybe see their reputation,
+p488
+aVand I could schedule and connect up with those people?
+p489
+aa(lp490
+VSK: Absolutely. And this is something I recommend everyone in this audience do.
+p491
+aVThose dashboards the teachers have, you can go log in right now
+p492
+aVand you can essentially become a coach
+p493
+aVfor your kids, your nephews, your cousins,
+p494
+aVor maybe some kids at the Boys and Girls Club.
+p495
+aVAnd yeah, you can start becoming a mentor, a tutor,
+p496
+aVreally immediately.
+p497
+aVBut yeah, it's all there.
+p498
+aa(lp499
+VBG: Well, it's amazing.
+p500
+aVI think you just got a glimpse of the future of education.
+p501
+aa(lp502
+VBG: Thank you. SK: Thank you.
+p503
+aa(lp504
+V(Applause)
+p505
+aasS'id'
+p506
+I1090
+sS'title'
+p507
+VLet's use video to reinvent education
+p508
+s.

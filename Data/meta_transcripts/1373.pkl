@@ -1,0 +1,438 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm going to speak
+p4
+aVabout a tiny, little idea.
+p5
+aVAnd this is about shifting baseline.
+p6
+aVAnd because the idea can be explained in one minute,
+p7
+aVI will tell you three stories before
+p8
+aVto fill in the time.
+p9
+aVAnd the first story
+p10
+aVis about Charles Darwin, one of my heroes.
+p11
+aVAnd he was here, as you well know, in '35.
+p12
+aVAnd you'd think he was chasing finches,
+p13
+aVbut he wasn't.
+p14
+aVHe was actually collecting fish.
+p15
+aVAnd he described one of them
+p16
+aVas very "common."
+p17
+aVThis was the sailfin grouper.
+p18
+aVA big fishery was run on it
+p19
+aVuntil the '80s.
+p20
+aVNow the fish is on the IUCN Red List.
+p21
+aVNow this story,
+p22
+aVwe have heard it lots of times
+p23
+aVon Galapagos and other places,
+p24
+aVso there is nothing particular about it.
+p25
+aVBut the point is, we still come to Galapagos.
+p26
+aVWe still think it is pristine.
+p27
+aVThe brochures still say
+p28
+aVit is untouched.
+p29
+aVSo what happens here?
+p30
+aa(lp31
+VThe second story, also to illustrate another concept,
+p32
+aVis called shifting waistline.
+p33
+aV(Laughter)
+p34
+aVBecause I was there in '71,
+p35
+aVstudying a lagoon in West Africa.
+p36
+aVI was there because I grew up in Europe
+p37
+aVand I wanted later to work in Africa.
+p38
+aVAnd I thought I could blend in.
+p39
+aVAnd I got a big sunburn,
+p40
+aVand I was convinced that I was really not from there.
+p41
+aVThis was my first sunburn.
+p42
+aa(lp43
+VAnd the lagoon
+p44
+aVwas surrounded by palm trees,
+p45
+aVas you can see, and a few mangrove.
+p46
+aVAnd it had tilapia
+p47
+aVabout 20 centimeters,
+p48
+aVa species of tilapia called blackchin tilapia.
+p49
+aVAnd the fisheries for this tilapia
+p50
+aVsustained lots of fish and they had a good time
+p51
+aVand they earned more than average
+p52
+aVin Ghana.
+p53
+aVWhen I went there 27 years later,
+p54
+aVthe fish had shrunk to half of their size.
+p55
+aVThey were maturing at five centimeters.
+p56
+aVThey had been pushed genetically.
+p57
+aVThere were still fishes.
+p58
+aVThey were still kind of happy.
+p59
+aVAnd the fish also were happy to be there.
+p60
+aVSo nothing has changed,
+p61
+aVbut everything has changed.
+p62
+aa(lp63
+VMy third little story
+p64
+aVis that I was an accomplice
+p65
+aVin the introduction of trawling
+p66
+aVin Southeast Asia.
+p67
+aVIn the '70s \u2014 well, beginning in the '60s \u2014
+p68
+aVEurope did lots of development projects.
+p69
+aVFish development
+p70
+aVmeant imposing on countries
+p71
+aVthat had already 100,000 fishers
+p72
+aVto impose on them industrial fishing.
+p73
+aVAnd this boat, quite ugly,
+p74
+aVis called the Mutiara 4.
+p75
+aVAnd I went sailing on it,
+p76
+aVand we did surveys
+p77
+aVthroughout the southern South China sea
+p78
+aVand especially the Java Sea.
+p79
+aVAnd what we caught,
+p80
+aVwe didn't have words for it.
+p81
+aVWhat we caught, I know now,
+p82
+aVis the bottom of the sea.
+p83
+aVAnd 90 percent of our catch
+p84
+aVwere sponges,
+p85
+aVother animals that are fixed on the bottom.
+p86
+aVAnd actually most of the fish,
+p87
+aVthey are a little spot on the debris,
+p88
+aVthe piles of debris, were coral reef fish.
+p89
+aVEssentially the bottom of the sea came onto the deck
+p90
+aVand then was thrown down.
+p91
+aa(lp92
+VAnd these pictures are extraordinary
+p93
+aVbecause this transition is very rapid.
+p94
+aVWithin a year, you do a survey
+p95
+aVand then commercial fishing begins.
+p96
+aVThe bottom is transformed
+p97
+aVfrom, in this case, a hard bottom or soft coral
+p98
+aVinto a muddy mess.
+p99
+aVThis is a dead turtle.
+p100
+aVThey were not eaten, they were thrown away because they were dead.
+p101
+aVAnd one time we caught a live one.
+p102
+aVIt was not drowned yet.
+p103
+aVAnd then they wanted to kill it because it was good to eat.
+p104
+aVThis mountain of debris
+p105
+aVis actually collected by fishers
+p106
+aVevery time they go
+p107
+aVinto an area that's never been fished.
+p108
+aVBut it's not documented.
+p109
+aa(lp110
+VWe transform the world,
+p111
+aVbut we don't remember it.
+p112
+aVWe adjust our baseline
+p113
+aVto the new level,
+p114
+aVand we don't recall what was there.
+p115
+aVIf you generalize this,
+p116
+aVsomething like this happens.
+p117
+aVYou have on the y axis some good thing:
+p118
+aVbiodiversity, numbers of orca,
+p119
+aVthe greenness of your country, the water supply.
+p120
+aVAnd over time it changes \u2014
+p121
+aVit changes
+p122
+aVbecause people do things, or naturally.
+p123
+aVEvery generation
+p124
+aVwill use the images
+p125
+aVthat they got at the beginning of their conscious lives
+p126
+aVas a standard
+p127
+aVand will extrapolate forward.
+p128
+aVAnd the difference then,
+p129
+aVthey perceive as a loss.
+p130
+aVBut they don't perceive what happened before as a loss.
+p131
+aVYou can have a succession of changes.
+p132
+aVAt the end you want to sustain
+p133
+aVmiserable leftovers.
+p134
+aVAnd that, to a large extent, is what we want to do now.
+p135
+aVWe want to sustain things that are gone
+p136
+aVor things that are not the way they were.
+p137
+aa(lp138
+VNow one should think
+p139
+aVthis problem affected people
+p140
+aVcertainly when in predatory societies,
+p141
+aVthey killed animals
+p142
+aVand they didn't know they had done so
+p143
+aVafter a few generations.
+p144
+aVBecause, obviously,
+p145
+aVan animal that is very abundant,
+p146
+aVbefore it gets extinct,
+p147
+aVit becomes rare.
+p148
+aVSo you don't lose abundant animals.
+p149
+aVYou always lose rare animals.
+p150
+aVAnd therefore they're not perceived
+p151
+aVas a big loss.
+p152
+aVOver time,
+p153
+aVwe concentrate on large animals,
+p154
+aVand in a sea that means the big fish.
+p155
+aVThey become rarer because we fish them.
+p156
+aVOver time we have a few fish left
+p157
+aVand we think this is the baseline.
+p158
+aa(lp159
+VAnd the question is,
+p160
+aVwhy do people accept this?
+p161
+aVWell because they don't know that it was different.
+p162
+aVAnd in fact, lots of people, scientists,
+p163
+aVwill contest that it was really different.
+p164
+aVAnd they will contest this
+p165
+aVbecause the evidence
+p166
+aVpresented in an earlier mode
+p167
+aVis not in the way
+p168
+aVthey would like the evidence presented.
+p169
+aVFor example,
+p170
+aVthe anecdote that some present,
+p171
+aVas Captain so-and-so
+p172
+aVobserved lots of fish in this area
+p173
+aVcannot be used
+p174
+aVor is usually not utilized by fishery scientists,
+p175
+aVbecause it's not "scientific."
+p176
+aVSo you have a situation
+p177
+aVwhere people don't know the past,
+p178
+aVeven though we live in literate societies,
+p179
+aVbecause they don't trust
+p180
+aVthe sources of the past.
+p181
+aa(lp182
+VAnd hence, the enormous role
+p183
+aVthat a marine protected area can play.
+p184
+aVBecause with marine protected areas,
+p185
+aVwe actually recreate the past.
+p186
+aVWe recreate the past that people cannot conceive
+p187
+aVbecause the baseline has shifted
+p188
+aVand is extremely low.
+p189
+aVThat is for people
+p190
+aVwho can see a marine protected area
+p191
+aVand who can benefit
+p192
+aVfrom the insight that it provides,
+p193
+aVwhich enables them to reset their baseline.
+p194
+aa(lp195
+VHow about the people who can't do that
+p196
+aVbecause they have no access \u2014
+p197
+aVthe people in the Midwest for example?
+p198
+aVThere I think
+p199
+aVthat the arts and film
+p200
+aVcan perhaps fill the gap,
+p201
+aVand simulation.
+p202
+aVThis is a simulation of Chesapeake Bay.
+p203
+aVThere were gray whales in Chesapeake Bay a long time ago \u2014
+p204
+aV500 years ago.
+p205
+aVAnd you will have noticed that the hues and tones
+p206
+aVare like "Avatar."
+p207
+aV(Laughter)
+p208
+aVAnd if you think about "Avatar,"
+p209
+aVif you think of why people were so touched by it \u2014
+p210
+aVnever mind the Pocahontas story \u2014
+p211
+aVwhy so touched by the imagery?
+p212
+aVBecause it evokes something
+p213
+aVthat in a sense has been lost.
+p214
+aVAnd so my recommendation,
+p215
+aVit's the only one I will provide,
+p216
+aVis for Cameron to do "Avatar II" underwater.
+p217
+aa(lp218
+VThank you very much.
+p219
+aa(lp220
+V(Applause)
+p221
+aasS'id'
+p222
+I1373
+sS'title'
+p223
+VThe ocean's shifting baseline
+p224
+s.

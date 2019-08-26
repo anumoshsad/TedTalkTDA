@@ -1,0 +1,947 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VChris Anderson: Elon, what kind of crazy dream
+p4
+aVwould persuade you to think of trying
+p5
+aVto take on the auto industry and build an all-electric car?
+p6
+aa(lp7
+VElon Musk: Well, it goes back to when I was in university.
+p8
+aVI thought about, what are the problems that are most likely
+p9
+aVto affect the future of the world or the future of humanity?
+p10
+aVI think it's extremely important that we have sustainable transport
+p11
+aVand sustainable energy production.
+p12
+aVThat sort of overall sustainable energy problem
+p13
+aVis the biggest problem that we have to solve this century,
+p14
+aVindependent of environmental concerns.
+p15
+aVIn fact, even if producing CO2 was good for the environment,
+p16
+aVgiven that we're going to run out of hydrocarbons,
+p17
+aVwe need to find some sustainable means of operating.
+p18
+aa(lp19
+VCA: Most of American electricity comes from
+p20
+aVburning fossil fuels.
+p21
+aVHow can an electric car that plugs into that electricity help?
+p22
+aa(lp23
+VEM: Right. There's two elements to that answer.
+p24
+aVOne is that, even if you take the same source fuel
+p25
+aVand produce power at the power plant
+p26
+aVand use it to charge electric cars, you're still better off.
+p27
+aVSo if you take, say, natural gas,
+p28
+aVwhich is the most prevalent hydrocarbon source fuel,
+p29
+aVif you burn that in a modern
+p30
+aVGeneral Electric natural gas turbine,
+p31
+aVyou'll get about 60 percent efficiency.
+p32
+aVIf you put that same fuel in an internal combustion engine car,
+p33
+aVyou get about 20 percent efficiency.
+p34
+aVAnd the reason is, in the stationary power plant,
+p35
+aVyou can afford to have something that weighs a lot more,
+p36
+aVis voluminous,
+p37
+aVand you can take the waste heat
+p38
+aVand run a steam turbine and generate
+p39
+aVa secondary power source.
+p40
+aVSo in effect, even after you've taken transmission loss into account and everything,
+p41
+aVeven using the same source fuel, you're at least twice as better off
+p42
+aVcharging an electric car, then burning it at the power plant.
+p43
+aa(lp44
+VCA: That scale delivers efficiency.
+p45
+aa(lp46
+VEM: Yes, it does.
+p47
+aVAnd then the other point is, we have to have sustainable means
+p48
+aVof power generation anyway, electricity generation.
+p49
+aVSo given that we have to solve sustainable electricity generation,
+p50
+aVthen it makes sense for us to have electric cars
+p51
+aVas the mode of transport.
+p52
+aa(lp53
+VCA: So we've got some video here
+p54
+aVof the Tesla being assembled,
+p55
+aVwhich, if we could play that first video \u2014
+p56
+aVSo what is innovative about this process in this vehicle?
+p57
+aa(lp58
+VEM: Sure. So, in order to accelerate the advent of electric transport,
+p59
+aVand I should say that I think, actually,
+p60
+aVall modes of transport will become fully electric
+p61
+aVwith the ironic exception of rockets.
+p62
+aVThere's just no way around Newton's third law.
+p63
+aVThe question is how do you accelerate
+p64
+aVthe advent of electric transport?
+p65
+aVAnd in order to do that for cars, you have to come up with
+p66
+aVa really energy efficient car,
+p67
+aVso that means making it incredibly light,
+p68
+aVand so what you're seeing here
+p69
+aVis the only all-aluminum body and chassis car
+p70
+aVmade in North America.
+p71
+aVIn fact, we applied a lot of rocket design techniques
+p72
+aVto make the car light despite having a very large battery pack.
+p73
+aVAnd then it also has the lowest drag coefficient
+p74
+aVof any car of its size.
+p75
+aVSo as a result, the energy usage is very low,
+p76
+aVand it has the most advanced battery pack,
+p77
+aVand that's what gives it the range that's competitive,
+p78
+aVso you can actually have on the order of a 250-mile range.
+p79
+aa(lp80
+VCA: I mean, those battery packs are incredibly heavy,
+p81
+aVbut you think the math can still work out intelligently \u2014
+p82
+aVby combining light body, heavy battery,
+p83
+aVyou can still gain spectacular efficiency.
+p84
+aa(lp85
+VEM: Exactly. The rest of the car has to be very light
+p86
+aVto offset the mass of the pack,
+p87
+aVand then you have to have a low drag coefficient so that you have good highway range.
+p88
+aVAnd in fact, customers of the Model S
+p89
+aVare sort of competing with each other
+p90
+aVto try to get the highest possible range.
+p91
+aVI think somebody recently got 420 miles out of a single charge.
+p92
+aa(lp93
+VCA: Bruno Bowden, who's here, did that,
+p94
+aVbroke the world record.EM: Congratulations.
+p95
+aa(lp96
+VCA: That was the good news. The bad news was that
+p97
+aVto do it, he had to drive at 18 miles an hour constant speed
+p98
+aVand got pulled over by the cops. (Laughter)
+p99
+aa(lp100
+VEM: I mean, you can certainly drive \u2014
+p101
+aVif you drive it 65 miles an hour,
+p102
+aVunder normal conditions,
+p103
+aV250 miles is a reasonable number.
+p104
+aa(lp105
+VCA: Let's show that second video
+p106
+aVshowing the Tesla in action on ice.
+p107
+aVNot at all a dig at The New York Times, this, by the way.
+p108
+aVWhat is the most surprising thing about the experience
+p109
+aVof driving the car?
+p110
+aa(lp111
+VEM: In creating an electric car,
+p112
+aVthe responsiveness of the car is really incredible.
+p113
+aVSo we wanted really to have people feel as though
+p114
+aVthey've almost got to mind meld with the car,
+p115
+aVso you just feel like you and the car are kind of one,
+p116
+aVand as you corner and accelerate, it just happens,
+p117
+aVlike the car has ESP.
+p118
+aVYou can do that with an electric car because of its responsiveness.
+p119
+aVYou can't do that with a gasoline car.
+p120
+aVI think that's really a profound difference,
+p121
+aVand people only experience that when they have a test drive.
+p122
+aa(lp123
+VCA: I mean, this is a beautiful but expensive car.
+p124
+aVIs there a road map where this becomes
+p125
+aVa mass-market vehicle?
+p126
+aa(lp127
+VEM: Yeah. The goal of Tesla has always been
+p128
+aVto have a sort of three-step process,
+p129
+aVwhere version one was an expensive car at low volume,
+p130
+aVversion two is medium priced and medium volume,
+p131
+aVand then version three would be low price, high volume.
+p132
+aVSo we're at step two at this point.
+p133
+aVSo we had a $100,000 sports car, which was the Roadster.
+p134
+aVThen we've got the Model S, which starts at around 50,000 dollars.
+p135
+aVAnd our third generation car, which should hopefully
+p136
+aVbe out in about three or four years
+p137
+aVwill be a $30,000 car.
+p138
+aVBut whenever you've got really new technology,
+p139
+aVit generally takes about three major versions
+p140
+aVin order to make it a compelling mass-market product.
+p141
+aVAnd so I think we're making progress in that direction,
+p142
+aVand I feel confident that we'll get there.
+p143
+aa(lp144
+VCA: I mean, right now, if you've got a short commute,
+p145
+aVyou can drive, you can get back, you can charge it at home.
+p146
+aVThere isn't a huge nationwide network of charging stations now that are fast.
+p147
+aVDo you see that coming, really, truly,
+p148
+aVor just on a few key routes?
+p149
+aa(lp150
+VEM: There actually are far more charging stations
+p151
+aVthan people realize,
+p152
+aVand at Tesla we developed something
+p153
+aVcalled a Supercharging technology,
+p154
+aVand we're offering that if you buy a Model S
+p155
+aVfor free, forever.
+p156
+aVAnd so this is something that maybe a lot of people don't realize.
+p157
+aVWe actually have California and Nevada covered,
+p158
+aVand we've got the Eastern seaboard
+p159
+aVfrom Boston to D.C. covered.
+p160
+aVBy the end of this year, you'll be able to drive
+p161
+aVfrom L.A. to New York
+p162
+aVjust using the Supercharger network,
+p163
+aVwhich charges at five times the rate of anything else.
+p164
+aVAnd the key thing is to have a ratio of drive to stop,
+p165
+aVto stop time, of about six or seven.
+p166
+aVSo if you drive for three hours,
+p167
+aVyou want to stop for 20 or 30 minutes,
+p168
+aVbecause that's normally what people will stop for.
+p169
+aVSo if you start a trip at 9 a.m.,
+p170
+aVby noon you want to stop to have a bite to eat,
+p171
+aVhit the restroom, coffee, and keep going.
+p172
+aa(lp173
+VCA: So your proposition to consumers is, for the full charge, it could take an hour.
+p174
+aVSo it's common \u2014 don't expect to be out of here in 10 minutes.
+p175
+aVWait for an hour, but the good news is,
+p176
+aVyou're helping save the planet,
+p177
+aVand by the way, the electricity is free. You don't pay anything.
+p178
+aa(lp179
+VEM: Actually, what we're expecting is for people
+p180
+aVto stop for about 20 to 30 minutes, not for an hour.
+p181
+aVIt's actually better to drive for about maybe 160, 170 miles
+p182
+aVand then stop for half an hour
+p183
+aVand then keep going.
+p184
+aVThat's the natural cadence of a trip.
+p185
+aVCA: All right. So this is only one string to your energy bow.
+p186
+aVYou've been working on this solar company SolarCity.
+p187
+aVWhat's unusual about that?
+p188
+aa(lp189
+VEM: Well, as I mentioned earlier,
+p190
+aVwe have to have sustainable electricity production
+p191
+aVas well as consumption,
+p192
+aVso I'm quite confident that the primary means
+p193
+aVof power generation will be solar.
+p194
+aVI mean, it's really indirect fusion, is what it is.
+p195
+aVWe've got this giant fusion generator in the sky called the sun,
+p196
+aVand we just need to tap a little bit of that energy
+p197
+aVfor purposes of human civilization.
+p198
+aVWhat most people know but don't realize they know
+p199
+aVis that the world is almost entirely solar-powered already.
+p200
+aVIf the sun wasn't there, we'd be a frozen ice ball
+p201
+aVat three degrees Kelvin,
+p202
+aVand the sun powers the entire system of precipitation.
+p203
+aVThe whole ecosystem is solar-powered.
+p204
+aa(lp205
+VCA: But in a gallon of gasoline, you have,
+p206
+aVeffectively, thousands of years of sun power
+p207
+aVcompressed into a small space,
+p208
+aVso it's hard to make the numbers work right now on solar,
+p209
+aVand to remotely compete with, for example, natural gas,
+p210
+aVfracked natural gas. How are you going to build a business here?
+p211
+aa(lp212
+VEM: Well actually, I'm confident that solar
+p213
+aVwill beat everything, hands down, including natural gas.
+p214
+aa(lp215
+V(Applause)CA: How?
+p216
+aa(lp217
+VEM: It must, actually. If it doesn't, we're in deep trouble.
+p218
+aa(lp219
+VCA: But you're not selling solar panels to consumers.
+p220
+aVWhat are you doing?
+p221
+aVEM: No, we actually are. You can buy a solar system
+p222
+aVor you can lease a solar system.
+p223
+aVMost people choose to lease.
+p224
+aVAnd the thing about solar power is that
+p225
+aVit doesn't have any feed stock or operational costs,
+p226
+aVso once it's installed, it's just there.
+p227
+aVIt works for decades. It'll work for probably a century.
+p228
+aVSo therefore, the key thing to do is to get the cost
+p229
+aVof that initial installation low,
+p230
+aVand then get the cost of the financing low,
+p231
+aVbecause that interest \u2014 those are the two factors that drive the cost of solar.
+p232
+aVAnd we've made huge progress in that direction,
+p233
+aVand that's why I'm confident we'll actually beat natural gas.
+p234
+aa(lp235
+VCA: So your current proposition to consumers is,
+p236
+aVdon't pay so much up front.
+p237
+aa(lp238
+VEM: Zero.CA: Pay zero up front.
+p239
+aVWe will install panels on your roof.
+p240
+aVYou will then pay, how long is a typical lease?
+p241
+aa(lp242
+VEM: Typical leases are 20 years,
+p243
+aVbut the value proposition is, as you're sort of alluding to, quite straightforward.
+p244
+aVIt's no money down, and your utility bill decreases.
+p245
+aVPretty good deal.
+p246
+aa(lp247
+VCA: So that seems like a win for the consumer.
+p248
+aVNo risk, you'll pay less than you're paying now.
+p249
+aVFor you, the dream here then is that \u2014
+p250
+aVI mean, who owns the electricity from those panels for the longer term?
+p251
+aVI mean, how do you, the company, benefit?
+p252
+aa(lp253
+VEM: Well, essentially,
+p254
+aVSolarCity raises a chunk of capital
+p255
+aVfrom say, a company or a bank.
+p256
+aVGoogle is one of our big partners here.
+p257
+aVAnd they have an expected return on that capital.
+p258
+aVWith that capital, SolarCity purchases and installs the panel on the roof
+p259
+aVand then charges the homeowner or business owner
+p260
+aVa monthly lease payment, which is less than the utility bill.
+p261
+aa(lp262
+VCA: But you yourself get a long-term commercial benefit from that power.
+p263
+aVYou're kind of building a new type of distributed utility.
+p264
+aa(lp265
+VEM: Exactly. What it amounts to
+p266
+aVis a giant distributed utility.
+p267
+aVI think it's a good thing, because utilities
+p268
+aVhave been this monopoly, and people haven't had any choice.
+p269
+aVSo effectively it's the first time
+p270
+aVthere's been competition for this monopoly,
+p271
+aVbecause the utilities have been the only ones
+p272
+aVthat owned those power distribution lines, but now it's on your roof.
+p273
+aVSo I think it's actually very empowering
+p274
+aVfor homeowners and businesses.
+p275
+aa(lp276
+VCA: And you really picture a future
+p277
+aVwhere a majority of power in America,
+p278
+aVwithin a decade or two, or within your lifetime, it goes solar?
+p279
+aa(lp280
+VEM: I'm extremely confident that solar will be at least a plurality of power,
+p281
+aVand most likely a majority,
+p282
+aVand I predict it will be a plurality in less than 20 years.
+p283
+aVI made that bet with someone \u2014CA: Definition of plurality is?
+p284
+aa(lp285
+VEM: More from solar than any other source.
+p286
+aa(lp287
+VCA: Ah. Who did you make the bet with?
+p288
+aa(lp289
+VEM: With a friend who will remain nameless.
+p290
+aa(lp291
+VCA: Just between us. (Laughter)
+p292
+aa(lp293
+VEM: I made that bet, I think, two or three years ago,
+p294
+aVso in roughly 18 years,
+p295
+aVI think we'll see more power from solar than any other source.
+p296
+aa(lp297
+VCA: All right, so let's go back to another bet that you made
+p298
+aVwith yourself, I guess, a kind of crazy bet.
+p299
+aVYou'd made some money from the sale of PayPal.
+p300
+aVYou decided to build a space company.
+p301
+aVWhy on Earth would someone do that?
+p302
+aV(Laughter)
+p303
+aa(lp304
+VEM: I got that question a lot, that's true.
+p305
+aVPeople would say, "Did you hear the joke about the guy
+p306
+aVwho made a small fortune in the space industry?"
+p307
+aVObviously, "He started with a large one," is the punchline.
+p308
+aVAnd so I tell people, well, I was trying to figure out
+p309
+aVthe fastest way to turn a large fortune into a small one.
+p310
+aVAnd they'd look at me, like, "Is he serious?"
+p311
+aa(lp312
+VCA: And strangely, you were. So what happened?
+p313
+aa(lp314
+VEM: It was a close call. Things almost didn't work out.
+p315
+aVWe came very close to failure,
+p316
+aVbut we managed to get through that point in 2008.
+p317
+aVThe goal of SpaceX is to try to advance rocket technology,
+p318
+aVand in particular to try to crack a problem
+p319
+aVthat I think is vital
+p320
+aVfor humanity to become a space-faring civilization,
+p321
+aVwhich is to have a rapidly and fully reusable rocket.
+p322
+aa(lp323
+VCA: Would humanity become a space-faring civilization?
+p324
+aVSo that was a dream of yours, in a way, from a young age?
+p325
+aVYou've dreamed of Mars and beyond?
+p326
+aa(lp327
+VEM: I did build rockets when I was a kid,
+p328
+aVbut I didn't think I'd be involved in this.
+p329
+aVIt was really more from the standpoint of
+p330
+aVwhat are the things that need to happen in order for
+p331
+aVthe future to be an exciting and inspiring one?
+p332
+aVAnd I really think there's a fundamental difference,
+p333
+aVif you sort of look into the future,
+p334
+aVbetween a humanity that is a space-faring civilization,
+p335
+aVthat's out there exploring the stars, on multiple planets,
+p336
+aVand I think that's really exciting,
+p337
+aVcompared with one where we are forever confined to Earth
+p338
+aVuntil some eventual extinction event.
+p339
+aa(lp340
+VCA: So you've somehow slashed the cost of building
+p341
+aVa rocket by 75 percent, depending on how you calculate it.
+p342
+aVHow on Earth have you done that?
+p343
+aVNASA has been doing this for years. How have you done this?
+p344
+aa(lp345
+VEM: Well, we've made significant advances
+p346
+aVin the technology of the airframe, the engines,
+p347
+aVthe electronics and the launch operation.
+p348
+aVThere's a long list of innovations
+p349
+aVthat we've come up with there
+p350
+aVthat are a little difficult to communicate in this talk, but \u2014
+p351
+aa(lp352
+VCA: Not least because you could still get copied, right?
+p353
+aVYou haven't patented this stuff. It's really interesting to me.
+p354
+aa(lp355
+VEM: No, we don't patent.CA: You didn't patent because you think it's
+p356
+aVmore dangerous to patent than not to patent.
+p357
+aa(lp358
+VEM: Since our primary competitors are national governments,
+p359
+aVthe enforceability of patents is questionable.(Laughter) (Applause)
+p360
+aa(lp361
+VCA: That's really, really interesting.
+p362
+aVBut the big innovation is still ahead,
+p363
+aVand you're working on it now. Tell us about this.
+p364
+aa(lp365
+VEM: Right, so the big innovation\u2014
+p366
+aa(lp367
+VCA: In fact, let's roll that video and you can talk us through it, what's happening here.
+p368
+aa(lp369
+VEM: Absolutely. So the thing about rockets is that
+p370
+aVthey're all expendable.
+p371
+aVAll rockets that fly today are fully expendable.
+p372
+aVThe space shuttle was an attempt at a reusable rocket,
+p373
+aVbut even the main tank of the space shuttle was thrown away every time,
+p374
+aVand the parts that were reusable
+p375
+aVtook a 10,000-person group nine months to refurbish for flight.
+p376
+aVSo the space shuttle ended up costing a billion dollars per flight.
+p377
+aVObviously that doesn't work very well for \u2014
+p378
+aa(lp379
+VCA: What just happened there? We just saw something land?
+p380
+aa(lp381
+VEM: That's right. So it's important that the rocket stages
+p382
+aVbe able to come back, to be able to return to the launch site
+p383
+aVand be ready to launch again within a matter of hours.
+p384
+aa(lp385
+VCA: Wow. Reusable rockets.EM: Yes. (Applause)
+p386
+aVAnd so what a lot of people don't realize is,
+p387
+aVthe cost of the fuel, of the propellant, is very small.
+p388
+aVIt's much like on a jet.
+p389
+aVSo the cost of the propellant is about .3 percent
+p390
+aVof the cost of the rocket.
+p391
+aVSo it's possible to achieve, let's say,
+p392
+aVroughly 100-fold improvement in the cost of spaceflight
+p393
+aVif you can effectively reuse the rocket.
+p394
+aVThat's why it's so important.
+p395
+aVEvery mode of transport that we use,
+p396
+aVwhether it's planes, trains, automobiles, bikes, horses,
+p397
+aVis reusable, but not rockets.
+p398
+aVSo we must solve this problem in order to become a space-faring civilization.
+p399
+aa(lp400
+VCA: You asked me the question earlier
+p401
+aVof how popular traveling on cruises would be
+p402
+aVif you had to burn your ships afterward.EM: Certain cruises are apparently highly problematic.
+p403
+aa(lp404
+VCA: Definitely more expensive.
+p405
+aVSo that's potentially absolutely disruptive technology,
+p406
+aVand, I guess, paves the way for your dream to actually take,
+p407
+aVat some point, to take humanity to Mars at scale.
+p408
+aVYou'd like to see a colony on Mars.
+p409
+aa(lp410
+VEM: Yeah, exactly. SpaceX, or some combination
+p411
+aVof companies and governments, needs to make progress
+p412
+aVin the direction of making life multi-planetary,
+p413
+aVof establishing a base on another planet,
+p414
+aVon Mars \u2014 being the only realistic option \u2014
+p415
+aVand then building that base up
+p416
+aVuntil we're a true multi-planet species.
+p417
+aa(lp418
+VCA: So progress on this "let's make it reusable,"
+p419
+aVhow is that going? That was just a simulation video we saw.
+p420
+aVHow's it going?
+p421
+aa(lp422
+VEM: We're actually, we've been making some good progress recently
+p423
+aVwith something we call the Grasshopper Test Project,
+p424
+aVwhere we're testing the vertical landing portion of the flight,
+p425
+aVthe sort of terminal portion which is quite tricky.
+p426
+aVAnd we've had some good tests.
+p427
+aa(lp428
+VCA: Can we see that?EM: Yeah.
+p429
+aVSo that's just to give a sense of scale.
+p430
+aVWe dressed a cowboy as Johnny Cash
+p431
+aVand bolted the mannequin to the rocket. (Laughter)
+p432
+aa(lp433
+VCA: All right, let's see that video then,
+p434
+aVbecause this is actually amazing when you think about it.
+p435
+aVYou've never seen this before. A rocket blasting off and then \u2014
+p436
+aa(lp437
+VEM: Yeah, so that rocket is about the size
+p438
+aVof a 12-story building.
+p439
+aV(Rocket launch)
+p440
+aVSo now it's hovering at about 40 meters,
+p441
+aVand it's constantly adjusting
+p442
+aVthe angle, the pitch  and yaw of the main engine,
+p443
+aVand maintaining roll  with cold gas thrusters.
+p444
+aa(lp445
+VCA: How cool is that? (Applause)
+p446
+aVElon, how have you done this?
+p447
+aVThese projects are so \u2014 Paypal, SolarCity,
+p448
+aVTesla, SpaceX, they're so spectacularly different,
+p449
+aVthey're such ambitious projects at scale.
+p450
+aVHow on Earth has one person
+p451
+aVbeen able to innovate in this way?
+p452
+aVWhat is it about you?
+p453
+aa(lp454
+VEM: I don't know, actually.
+p455
+aVI don't have a good answer for you.
+p456
+aVI work a lot. I mean, a lot.
+p457
+aa(lp458
+VCA: Well, I have a theory.EM: Okay. All right.
+p459
+aa(lp460
+VCA: My theory is that you
+p461
+aVhave an ability to think at a system level of design
+p462
+aVthat pulls together design, technology and business,
+p463
+aVso if TED was TBD, design, technology and business,
+p464
+aVinto one package,
+p465
+aVsynthesize it in a way that very few people can and \u2014
+p466
+aVand this is the critical thing \u2014 feel so damn confident
+p467
+aVin that clicked-together package that you take crazy risks.
+p468
+aVYou bet your fortune on it, and you seem to have done that multiple times.
+p469
+aVI mean, almost no one can do that.
+p470
+aVIs that \u2014 could we have some of that secret sauce?
+p471
+aVCan we put it into our education system? Can someone learn from you?
+p472
+aVIt is truly amazing what you've done.
+p473
+aa(lp474
+VEM: Well, thanks. Thank you.
+p475
+aVWell, I do think there's a good framework for thinking.
+p476
+aVIt is physics. You know, the sort of first principles reasoning.
+p477
+aVGenerally I think there are \u2014 what I mean by that is,
+p478
+aVboil things down to their fundamental truths
+p479
+aVand reason up from there,
+p480
+aVas opposed to reasoning by analogy.
+p481
+aVThrough most of our life, we get through life
+p482
+aVby reasoning by analogy,
+p483
+aVwhich essentially means copying what other people do with slight variations.
+p484
+aVAnd you have to do that.
+p485
+aVOtherwise, mentally, you wouldn't be able to get through the day.
+p486
+aVBut when you want to do something new,
+p487
+aVyou have to apply the physics approach.
+p488
+aVPhysics is really figuring out how to discover
+p489
+aVnew things that are counterintuitive, like quantum mechanics.
+p490
+aVIt's really counterintuitive.
+p491
+aVSo I think that's an important thing to do,
+p492
+aVand then also to really pay attention to negative feedback,
+p493
+aVand solicit it, particularly from friends.
+p494
+aVThis may sound like simple advice,
+p495
+aVbut hardly anyone does that,
+p496
+aVand it's incredibly helpful.
+p497
+aa(lp498
+VCA: Boys and girls watching, study physics.
+p499
+aVLearn from this man.
+p500
+aVElon Musk, I wish we had all day, but thank you so much for coming to TED.
+p501
+aa(lp502
+VEM: Thank you. CA: That was awesome. That was really, really cool.
+p503
+aVLook at that. (Applause)
+p504
+aa(lp505
+VJust take a bow. That was fantastic.
+p506
+aVThank you so much.
+p507
+aasS'id'
+p508
+I1695
+sS'title'
+p509
+VThe mind behind Tesla, SpaceX, SolarCity ...
+p510
+s.

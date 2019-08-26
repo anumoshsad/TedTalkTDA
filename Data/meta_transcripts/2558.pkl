@@ -1,0 +1,762 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VImagine you're walking through a forest.
+p4
+aVI'm guessing you're thinking of a collection of trees,
+p5
+aVwhat we foresters call a stand,
+p6
+aVwith their rugged stems and their beautiful crowns.
+p7
+aVYes, trees are the foundation of forests,
+p8
+aVbut a forest is much more than what you see,
+p9
+aVand today I want to change the way you think about forests.
+p10
+aVYou see, underground there is this other world,
+p11
+aVa world of infinite biological pathways
+p12
+aVthat connect trees and allow them to communicate
+p13
+aVand allow the forest to behave as though it's a single organism.
+p14
+aVIt might remind you of a sort of intelligence.
+p15
+aa(lp16
+VHow do I know this?
+p17
+aVHere's my story.
+p18
+aVI grew up in the forests of British Columbia.
+p19
+aVI used to lay on the forest floor and stare up at the tree crowns.
+p20
+aVThey were giants.
+p21
+aVMy grandfather was a giant, too.
+p22
+aVHe was a horse logger,
+p23
+aVand he used to selectively cut cedar poles from the inland rainforest.
+p24
+aVGrandpa taught me about the quiet and cohesive ways of the woods,
+p25
+aVand how my family was knit into it.
+p26
+aVSo I followed in grandpa's footsteps.
+p27
+aa(lp28
+VHe and I had this curiosity about forests,
+p29
+aVand my first big "aha" moment
+p30
+aVwas at the outhouse by our lake.
+p31
+aVOur poor dog Jigs had slipped and fallen into the pit.
+p32
+aVSo grandpa ran up with his shovel to rescue the poor dog.
+p33
+aVHe was down there, swimming in the muck.
+p34
+aVBut as grandpa dug through that forest floor,
+p35
+aVI became fascinated with the roots,
+p36
+aVand under that, what I learned later was the white mycelium
+p37
+aVand under that the red and yellow mineral horizons.
+p38
+aVEventually, grandpa and I rescued the poor dog,
+p39
+aVbut it was at that moment that I realized
+p40
+aVthat that palette of roots and soil
+p41
+aVwas really the foundation of the forest.
+p42
+aa(lp43
+VAnd I wanted to know more.
+p44
+aVSo I studied forestry.
+p45
+aVBut soon I found myself working alongside the powerful people
+p46
+aVin charge of the commercial harvest.
+p47
+aVThe extent of the clear-cutting
+p48
+aVwas alarming,
+p49
+aVand I soon found myself conflicted by my part in it.
+p50
+aVNot only that, the spraying and hacking of the aspens and birches
+p51
+aVto make way for the more commercially valuable planted pines and firs
+p52
+aVwas astounding.
+p53
+aVIt seemed that nothing could stop this relentless industrial machine.
+p54
+aa(lp55
+VSo I went back to school,
+p56
+aVand I studied my other world.
+p57
+aVYou see, scientists had just discovered in the laboratory in vitro
+p58
+aVthat one pine seedling root
+p59
+aVcould transmit carbon to another pine seedling root.
+p60
+aVBut this was in the laboratory,
+p61
+aVand I wondered, could this happen in real forests?
+p62
+aVI thought yes.
+p63
+aVTrees in real forests might also share information below ground.
+p64
+aVBut this was really controversial,
+p65
+aVand some people thought I was crazy,
+p66
+aVand I had a really hard time getting research funding.
+p67
+aVBut I persevered,
+p68
+aVand I eventually conducted some experiments deep in the forest,
+p69
+aV25 years ago.
+p70
+aVI grew 80 replicates of three species:
+p71
+aVpaper birch, Douglas fir, and western red cedar.
+p72
+aVI figured the birch and the fir would be connected in a belowground web,
+p73
+aVbut not the cedar.
+p74
+aVIt was in its own other world.
+p75
+aVAnd I gathered my apparatus,
+p76
+aVand I had no money, so I had to do it on the cheap.
+p77
+aVSo I went to Canadian Tire \u2014
+p78
+aa(lp79
+V(Laughter)
+p80
+aa(lp81
+Vand I bought some plastic bags and duct tape and shade cloth,
+p82
+aVa timer, a paper suit, a respirator.
+p83
+aVAnd then I borrowed some high-tech stuff from my university:
+p84
+aVa Geiger counter, a scintillation counter, a mass spectrometer, microscopes.
+p85
+aVAnd then I got some really dangerous stuff:
+p86
+aVsyringes full of radioactive carbon-14 carbon dioxide gas
+p87
+aVand some high pressure bottles
+p88
+aVof the stable isotope carbon-13 carbon dioxide gas.
+p89
+aVBut I was legally permitted.
+p90
+aa(lp91
+V(Laughter)
+p92
+aa(lp93
+VOh, and I forgot some stuff,
+p94
+aVimportant stuff: the bug spray,
+p95
+aVthe bear spray, the filters for my respirator.
+p96
+aVOh well.
+p97
+aa(lp98
+VThe first day of the experiment, we got out to our plot
+p99
+aVand a grizzly bear and her cub chased us off.
+p100
+aVAnd I had no bear spray.
+p101
+aVBut you know, this is how forest research in Canada goes.
+p102
+aa(lp103
+V(Laughter)
+p104
+aa(lp105
+VSo I came back the next day,
+p106
+aVand mama grizzly and her cub were gone.
+p107
+aVSo this time, we really got started,
+p108
+aVand I pulled on my white paper suit,
+p109
+aVI put on my respirator,
+p110
+aVand then
+p111
+aVI put the plastic bags over my trees.
+p112
+aVI got my giant syringes,
+p113
+aVand I injected the bags
+p114
+aVwith my tracer isotope carbon dioxide gases,
+p115
+aVfirst the birch.
+p116
+aVI injected carbon-14, the radioactive gas,
+p117
+aVinto the bag of birch.
+p118
+aVAnd then for fir,
+p119
+aVI injected the stable isotope carbon-13 carbon dioxide gas.
+p120
+aVI used two isotopes,
+p121
+aVbecause I was wondering
+p122
+aVwhether there was two-way communication going on between these species.
+p123
+aVI got to the final bag,
+p124
+aVthe 80th replicate,
+p125
+aVand all of a sudden mama grizzly showed up again.
+p126
+aVAnd she started to chase me,
+p127
+aVand I had my syringes above my head,
+p128
+aVand I was swatting the mosquitos, and I jumped into the truck,
+p129
+aVand I thought,
+p130
+aV"This is why people do lab studies."
+p131
+aa(lp132
+V(Laughter)
+p133
+aa(lp134
+VI waited an hour.
+p135
+aVI figured it would take this long
+p136
+aVfor the trees to suck up the CO2 through photosynthesis,
+p137
+aVturn it into sugars, send it down into their roots,
+p138
+aVand maybe, I hypothesized,
+p139
+aVshuttle that carbon belowground to their neighbors.
+p140
+aVAfter the hour was up,
+p141
+aVI rolled down my window,
+p142
+aVand I checked for mama grizzly.
+p143
+aVOh good, she's over there eating her huckleberries.
+p144
+aVSo I got out of the truck and I got to work.
+p145
+aVI went to my first bag with the birch. I pulled the bag off.
+p146
+aVI ran my Geiger counter over its leaves.
+p147
+aVKkhh!
+p148
+aVPerfect.
+p149
+aVThe birch had taken up the radioactive gas.
+p150
+aVThen the moment of truth.
+p151
+aVI went over to the fir tree.
+p152
+aVI pulled off its bag.
+p153
+aVI ran the Geiger counter up its needles,
+p154
+aVand I heard the most beautiful sound.
+p155
+aVKkhh!
+p156
+aVIt was the sound of birch talking to fir,
+p157
+aVand birch was saying, "Hey, can I help you?"
+p158
+aVAnd fir was saying, "Yeah, can you send me some of your carbon?
+p159
+aVBecause somebody threw a shade cloth over me."
+p160
+aVI went up to cedar, and I ran the Geiger counter over its leaves,
+p161
+aVand as I suspected,
+p162
+aVsilence.
+p163
+aVCedar was in its own world.
+p164
+aVIt was not connected into the web interlinking birch and fir.
+p165
+aa(lp166
+VI was so excited,
+p167
+aVI ran from plot to plot and I checked all 80 replicates.
+p168
+aVThe evidence was clear.
+p169
+aVThe C-13 and C-14 was showing me
+p170
+aVthat paper birch and Douglas fir were in a lively two-way conversation.
+p171
+aVIt turns out at that time of the year,
+p172
+aVin the summer,
+p173
+aVthat birch was sending more carbon to fir than fir was sending back to birch,
+p174
+aVespecially when the fir was shaded.
+p175
+aVAnd then in later experiments, we found the opposite,
+p176
+aVthat fir was sending more carbon to birch than birch was sending to fir,
+p177
+aVand this was because the fir was still growing while the birch was leafless.
+p178
+aVSo it turns out the two species were interdependent,
+p179
+aVlike yin and yang.
+p180
+aa(lp181
+VAnd at that moment, everything came into focus for me.
+p182
+aVI knew I had found something big,
+p183
+aVsomething that would change the way we look at how trees interact in forests,
+p184
+aVfrom not just competitors
+p185
+aVbut to cooperators.
+p186
+aVAnd I had found solid evidence
+p187
+aVof this massive belowground communications network,
+p188
+aVthe other world.
+p189
+aa(lp190
+VNow, I truly hoped and believed
+p191
+aVthat my discovery would change how we practice forestry,
+p192
+aVfrom clear-cutting and herbiciding
+p193
+aVto more holistic and sustainable methods,
+p194
+aVmethods that were less expensive and more practical.
+p195
+aVWhat was I thinking?
+p196
+aVI'll come back to that.
+p197
+aa(lp198
+VSo how do we do science in complex systems like forests?
+p199
+aVWell, as forest scientists, we have to do our research in the forests,
+p200
+aVand that's really tough, as I've shown you.
+p201
+aVAnd we have to be really good at running from bears.
+p202
+aVBut mostly, we have to persevere
+p203
+aVin spite of all the stuff stacked against us.
+p204
+aVAnd we have to follow our intuition and our experiences
+p205
+aVand ask really good questions.
+p206
+aVAnd then we've got to gather our data and then go verify.
+p207
+aVFor me, I've conducted and published hundreds of experiments in the forest.
+p208
+aVSome of my oldest experimental plantations are now over 30 years old.
+p209
+aVYou can check them out.
+p210
+aVThat's how forest science works.
+p211
+aa(lp212
+VSo now I want to talk about the science.
+p213
+aVHow were paper birch and Douglas fir communicating?
+p214
+aVWell, it turns out they were conversing not only in the language of carbon
+p215
+aVbut also nitrogen and phosphorus
+p216
+aVand water and defense signals and allele chemicals and hormones \u2014
+p217
+aVinformation.
+p218
+aVAnd you know, I have to tell you, before me, scientists had thought
+p219
+aVthat this belowground mutualistic symbiosis called a mycorrhiza
+p220
+aVwas involved.
+p221
+aVMycorrhiza literally means "fungus root."
+p222
+aVYou see their reproductive organs when you walk through the forest.
+p223
+aVThey're the mushrooms.
+p224
+aVThe mushrooms, though, are just the tip of the iceberg,
+p225
+aVbecause coming out of those stems are fungal threads that form a mycelium,
+p226
+aVand that mycelium infects and colonizes the roots
+p227
+aVof all the trees and plants.
+p228
+aVAnd where the fungal cells interact with the root cells,
+p229
+aVthere's a trade of carbon for nutrients,
+p230
+aVand that fungus gets those nutrients by growing through the soil
+p231
+aVand coating every soil particle.
+p232
+aVThe web is so dense that there can be hundreds of kilometers of mycelium
+p233
+aVunder a single footstep.
+p234
+aVAnd not only that, that mycelium connects different individuals in the forest,
+p235
+aVindividuals not only of the same species but between species, like birch and fir,
+p236
+aVand it works kind of like the Internet.
+p237
+aa(lp238
+VYou see, like all networks,
+p239
+aVmycorrhizal networks have nodes and links.
+p240
+aVWe made this map by examining the short sequences of DNA
+p241
+aVof every tree and every fungal individual in a patch of Douglas fir forest.
+p242
+aVIn this picture, the circles represent the Douglas fir, or the nodes,
+p243
+aVand the lines represent the interlinking fungal highways, or the links.
+p244
+aa(lp245
+VThe biggest, darkest nodes are the busiest nodes.
+p246
+aVWe call those hub trees,
+p247
+aVor more fondly, mother trees,
+p248
+aVbecause it turns out that those hub trees nurture their young,
+p249
+aVthe ones growing in the understory.
+p250
+aVAnd if you can see those yellow dots,
+p251
+aVthose are the young seedlings that have established within the network
+p252
+aVof the old mother trees.
+p253
+aVIn a single forest, a mother tree can be connected to hundreds of other trees.
+p254
+aVAnd using our isotope tracers,
+p255
+aVwe have found that mother trees
+p256
+aVwill send their excess carbon through the mycorrhizal network
+p257
+aVto the understory seedlings,
+p258
+aVand we've associated this with increased seedling survival
+p259
+aVby four times.
+p260
+aa(lp261
+VNow, we know we all favor our own children,
+p262
+aVand I wondered, could Douglas fir recognize its own kin,
+p263
+aVlike mama grizzly and her cub?
+p264
+aVSo we set about an experiment,
+p265
+aVand we grew mother trees with kin and stranger's seedlings.
+p266
+aVAnd it turns out they do recognize their kin.
+p267
+aVMother trees colonize their kin with bigger mycorrhizal networks.
+p268
+aVThey send them more carbon below ground.
+p269
+aVThey even reduce their own root competition
+p270
+aVto make elbow room for their kids.
+p271
+aVWhen mother trees are injured or dying,
+p272
+aVthey also send messages of wisdom on to the next generation of seedlings.
+p273
+aVSo we've used isotope tracing
+p274
+aVto trace carbon moving from an injured mother tree
+p275
+aVdown her trunk into the mycorrhizal network
+p276
+aVand into her neighboring seedlings,
+p277
+aVnot only carbon but also defense signals.
+p278
+aVAnd these two compounds
+p279
+aVhave increased the resistance of those seedlings to future stresses.
+p280
+aVSo trees talk.
+p281
+aa(lp282
+V(Applause)
+p283
+aa(lp284
+VThank you.
+p285
+aa(lp286
+VThrough back and forth conversations,
+p287
+aVthey increase the resilience of the whole community.
+p288
+aVIt probably reminds you of our own social communities,
+p289
+aVand our families,
+p290
+aVwell, at least some families.
+p291
+aa(lp292
+V(Laughter)
+p293
+aa(lp294
+VSo let's come back to the initial point.
+p295
+aVForests aren't simply collections of trees,
+p296
+aVthey're complex systems with hubs and networks
+p297
+aVthat overlap and connect trees and allow them to communicate,
+p298
+aVand they provide avenues for feedbacks and adaptation,
+p299
+aVand this makes the forest resilient.
+p300
+aVThat's because there are many hub trees and many overlapping networks.
+p301
+aVBut they're also vulnerable,
+p302
+aVvulnerable not only to natural disturbances
+p303
+aVlike bark beetles that preferentially attack big old trees
+p304
+aVbut high-grade logging and clear-cut logging.
+p305
+aVYou see, you can take out one or two hub trees,
+p306
+aVbut there comes a tipping point,
+p307
+aVbecause hub trees are not unlike rivets in an airplane.
+p308
+aVYou can take out one or two and the plane still flies,
+p309
+aVbut you take out one too many,
+p310
+aVor maybe that one holding on the wings,
+p311
+aVand the whole system collapses.
+p312
+aa(lp313
+VSo now how are you thinking about forests? Differently?
+p314
+aa(lp315
+V(Audience) Yes.
+p316
+aa(lp317
+VCool.
+p318
+aVI'm glad.
+p319
+aa(lp320
+VSo, remember I said earlier that I hoped that my research,
+p321
+aVmy discoveries would change the way we practice forestry.
+p322
+aVWell, I want to take a check on that 30 years later here in western Canada.
+p323
+aa(lp324
+VThis is about 100 kilometers to the west of us,
+p325
+aVjust on the border of Banff National Park.
+p326
+aVThat's a lot of clear-cuts.
+p327
+aVIt's not so pristine.
+p328
+aVIn 2014, the World Resources Institute reported that Canada in the past decade
+p329
+aVhas had the highest forest disturbance rate of any country worldwide,
+p330
+aVand I bet you thought it was Brazil.
+p331
+aVIn Canada, it's 3.6 percent per year.
+p332
+aVNow, by my estimation, that's about four times the rate that is sustainable.
+p333
+aa(lp334
+VNow, massive disturbance at this scale is known to affect hydrological cycles,
+p335
+aVdegrade wildlife habitat,
+p336
+aVand emit greenhouse gases back into the atmosphere,
+p337
+aVwhich creates more disturbance and more tree diebacks.
+p338
+aa(lp339
+VNot only that, we're continuing to plant one or two species
+p340
+aVand weed out the aspens and birches.
+p341
+aVThese simplified forests lack complexity,
+p342
+aVand they're really vulnerable to infections and bugs.
+p343
+aVAnd as climate changes,
+p344
+aVthis is creating a perfect storm
+p345
+aVfor extreme events, like the massive mountain pine beetle outbreak
+p346
+aVthat just swept across North America,
+p347
+aVor that megafire in the last couple months in Alberta.
+p348
+aa(lp349
+VSo I want to come back to my final question:
+p350
+aVinstead of weakening our forests,
+p351
+aVhow can we reinforce them and help them deal with climate change?
+p352
+aVWell, you know, the great thing about forests as complex systems
+p353
+aVis they have enormous capacity to self-heal.
+p354
+aVIn our recent experiments,
+p355
+aVwe found with patch-cutting and retention of hub trees
+p356
+aVand regeneration to a diversity of species and genes and genotypes
+p357
+aVthat these mycorrhizal networks, they recover really rapidly.
+p358
+aVSo with this in mind, I want to leave you with four simple solutions.
+p359
+aVAnd we can't kid ourselves that these are too complicated to act on.
+p360
+aa(lp361
+VFirst, we all need to get out in the forest.
+p362
+aVWe need to reestablish local involvement in our own forests.
+p363
+aVYou see, most of our forests now
+p364
+aVare managed using a one-size-fits-all approach,
+p365
+aVbut good forest stewardship requires knowledge of local conditions.
+p366
+aa(lp367
+VSecond, we need to save our old-growth forests.
+p368
+aVThese are the repositories of genes and mother trees and mycorrhizal networks.
+p369
+aVSo this means less cutting.
+p370
+aVI don't mean no cutting, but less cutting.
+p371
+aa(lp372
+VAnd third, when we do cut,
+p373
+aVwe need to save the legacies,
+p374
+aVthe mother trees and networks,
+p375
+aVand the wood, the genes,
+p376
+aVso they can pass their wisdom onto the next generation of trees
+p377
+aVso they can withstand the future stresses coming down the road.
+p378
+aVWe need to be conservationists.
+p379
+aa(lp380
+VAnd finally, fourthly and finally,
+p381
+aVwe need to regenerate our forests with a diversity of species
+p382
+aVand genotypes and structures
+p383
+aVby planting and allowing natural regeneration.
+p384
+aVWe have to give Mother Nature the tools she needs
+p385
+aVto use her intelligence to self-heal.
+p386
+aVAnd we need to remember that forests aren't just a bunch of trees
+p387
+aVcompeting with each other,
+p388
+aVthey're supercooperators.
+p389
+aa(lp390
+VSo back to Jigs.
+p391
+aVJigs's fall into the outhouse showed me this other world,
+p392
+aVand it changed my view of forests.
+p393
+aVI hope today to have changed how you think about forests.
+p394
+aa(lp395
+VThank you.
+p396
+aa(lp397
+V(Applause)
+p398
+aasS'id'
+p399
+I2558
+sS'title'
+p400
+VHow trees talk to each other
+p401
+s.

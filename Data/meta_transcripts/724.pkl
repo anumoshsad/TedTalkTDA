@@ -1,0 +1,383 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'd like to talk to you today about the human brain,
+p4
+aVwhich is what we do research on at the University of California.
+p5
+aVJust think about this problem for a second.
+p6
+aVHere is a lump of flesh, about three pounds,
+p7
+aVwhich you can hold in the palm of your hand.
+p8
+aVBut it can contemplate the vastness of interstellar space.
+p9
+aVIt can contemplate the meaning of infinity,
+p10
+aVask questions about the meaning of its own existence,
+p11
+aVabout the nature of God.
+p12
+aa(lp13
+VAnd this is truly the most amazing thing in the world.
+p14
+aVIt's the greatest mystery confronting human beings:
+p15
+aVHow does this all come about?
+p16
+aVWell, the brain, as you know, is made up of neurons.
+p17
+aVWe're looking at neurons here.
+p18
+aVThere are 100 billion neurons in the adult human brain.
+p19
+aVAnd each neuron makes something like 1,000 to 10,000 contacts
+p20
+aVwith other neurons in the brain.
+p21
+aVAnd based on this, people have calculated
+p22
+aVthat the number of permutations and combinations of brain activity
+p23
+aVexceeds the number of elementary particles in the universe.
+p24
+aa(lp25
+VSo, how do you go about studying the brain?
+p26
+aVOne approach is to look at patients who had lesions
+p27
+aVin different part of the brain, and study changes in their behavior.
+p28
+aVThis is what I spoke about in the last TED.
+p29
+aVToday I'll talk about a different approach,
+p30
+aVwhich is to put electrodes in different parts of the brain,
+p31
+aVand actually record the activity of individual nerve cells in the brain.
+p32
+aVSort of eavesdrop on the activity of nerve cells in the brain.
+p33
+aa(lp34
+VNow, one recent discovery that has been made
+p35
+aVby researchers in Italy, in Parma,
+p36
+aVby Giacomo Rizzolatti and his colleagues,
+p37
+aVis a group of neurons called mirror neurons,
+p38
+aVwhich are on the front of the brain in the frontal lobes.
+p39
+aVNow, it turns out there are neurons
+p40
+aVwhich are called ordinary motor command neurons in the front of the brain,
+p41
+aVwhich have been known for over 50 years.
+p42
+aVThese neurons will fire when a person performs a specific action.
+p43
+aVFor example, if I do that, and reach and grab an apple,
+p44
+aVa motor command neuron in the front of my brain will fire.
+p45
+aVIf I reach out and pull an object, another neuron will fire,
+p46
+aVcommanding me to pull that object.
+p47
+aVThese are called motor command neurons that have been known for a long time.
+p48
+aa(lp49
+VBut what Rizzolatti found was
+p50
+aVa subset of these neurons,
+p51
+aVmaybe about 20 percent of them, will also fire
+p52
+aVwhen I'm looking at somebody else performing the same action.
+p53
+aVSo, here is a neuron that fires when I reach and grab something,
+p54
+aVbut it also fires when I watch Joe reaching and grabbing something.
+p55
+aVAnd this is truly astonishing.
+p56
+aVBecause it's as though this neuron is adopting
+p57
+aVthe other person's point of view.
+p58
+aVIt's almost as though it's performing a virtual reality simulation
+p59
+aVof the other person's action.
+p60
+aa(lp61
+VNow, what is the significance of these mirror neurons?
+p62
+aVFor one thing they must be involved in things like imitation and emulation.
+p63
+aVBecause to imitate a complex act
+p64
+aVrequires my brain to adopt the other person's point of view.
+p65
+aVSo, this is important for imitation and emulation.
+p66
+aVWell, why is that important?
+p67
+aVWell, let's take a look at the next slide.
+p68
+aVSo, how do you do imitation? Why is imitation important?
+p69
+aVMirror neurons and imitation, emulation.
+p70
+aa(lp71
+VNow, let's look at culture, the phenomenon of human culture.
+p72
+aVIf you go back in time about [75,000] to 100,000 years ago,
+p73
+aVlet's look at human evolution, it turns out
+p74
+aVthat something very important happened around 75,000 years ago.
+p75
+aVAnd that is, there is a sudden emergence and rapid spread
+p76
+aVof a number of skills that are unique to human beings
+p77
+aVlike tool use,
+p78
+aVthe use of fire, the use of shelters, and, of course, language,
+p79
+aVand the ability to read somebody else's mind
+p80
+aVand interpret that person's behavior.
+p81
+aVAll of that happened relatively quickly.
+p82
+aa(lp83
+VEven though the human brain had achieved its present size
+p84
+aValmost three or four hundred thousand years ago,
+p85
+aV100,000 years ago all of this happened very, very quickly.
+p86
+aVAnd I claim that what happened was
+p87
+aVthe sudden emergence of a sophisticated mirror neuron system,
+p88
+aVwhich allowed you to emulate and imitate other people's actions.
+p89
+aVSo that when there was a sudden accidental discovery
+p90
+aVby one member of the group, say the use of fire,
+p91
+aVor a particular type of tool, instead of dying out,
+p92
+aVthis spread rapidly, horizontally across the population,
+p93
+aVor was transmitted vertically, down the generations.
+p94
+aa(lp95
+VSo, this made evolution suddenly Lamarckian,
+p96
+aVinstead of Darwinian.
+p97
+aVDarwinian evolution is slow; it takes hundreds of thousands of years.
+p98
+aVA polar bear, to evolve a coat,
+p99
+aVwill take thousands of generations, maybe 100,000 years.
+p100
+aVA human being, a child, can just watch its parent
+p101
+aVkill another polar bear,
+p102
+aVand skin it and put the skin on its body, fur on the body,
+p103
+aVand learn it in one step. What the polar bear
+p104
+aVtook 100,000 years to learn,
+p105
+aVit can learn in five minutes, maybe 10 minutes.
+p106
+aVAnd then once it's learned this it spreads
+p107
+aVin geometric proportion across a population.
+p108
+aa(lp109
+VThis is the basis. The imitation of complex skills
+p110
+aVis what we call culture and is the basis of civilization.
+p111
+aVNow there is another kind of mirror neuron,
+p112
+aVwhich is involved in something quite different.
+p113
+aVAnd that is, there are mirror neurons,
+p114
+aVjust as there are mirror neurons for action, there are mirror neurons for touch.
+p115
+aVIn other words, if somebody touches me,
+p116
+aVmy hand, neuron in the somatosensory cortex
+p117
+aVin the sensory region of the brain fires.
+p118
+aVBut the same neuron, in some cases, will fire
+p119
+aVwhen I simply watch another person being touched.
+p120
+aVSo, it's empathizing the other person being touched.
+p121
+aa(lp122
+VSo, most of them will fire when I'm touched
+p123
+aVin different locations. Different neurons for different locations.
+p124
+aVBut a subset of them will fire even when I watch somebody else
+p125
+aVbeing touched in the same location.
+p126
+aVSo, here again you have neurons
+p127
+aVwhich are enrolled in empathy.
+p128
+aVNow, the question then arises: If I simply watch another person being touched,
+p129
+aVwhy do I not get confused and literally feel that touch sensation
+p130
+aVmerely by watching somebody being touched?
+p131
+aVI mean, I empathize with that person but I don't literally feel the touch.
+p132
+aVWell, that's because you've got receptors in your skin,
+p133
+aVtouch and pain receptors, going back into your brain
+p134
+aVand saying "Don't worry, you're not being touched.
+p135
+aVSo, empathize, by all means, with the other person,
+p136
+aVbut do not actually experience the touch,
+p137
+aVotherwise you'll get confused and muddled."
+p138
+aa(lp139
+VOkay, so there is a feedback signal
+p140
+aVthat vetoes the signal of the mirror neuron
+p141
+aVpreventing you from consciously experiencing that touch.
+p142
+aVBut if you remove the arm, you simply anesthetize my arm,
+p143
+aVso you put an injection into my arm,
+p144
+aVanesthetize the brachial plexus, so the arm is numb,
+p145
+aVand there is no sensations coming in,
+p146
+aVif I now watch you being touched,
+p147
+aVI literally feel it in my hand.
+p148
+aVIn other words, you have dissolved the barrier
+p149
+aVbetween you and other human beings.
+p150
+aVSo, I call them Gandhi neurons, or empathy neurons.
+p151
+aV(Laughter)
+p152
+aa(lp153
+VAnd this is not in some abstract metaphorical sense.
+p154
+aVAll that's separating you from him,
+p155
+aVfrom the other person, is your skin.
+p156
+aVRemove the skin, you experience that person's touch in your mind.
+p157
+aVYou've dissolved the barrier between you and other human beings.
+p158
+aVAnd this, of course, is the basis of much of Eastern philosophy,
+p159
+aVand that is there is no real independent self,
+p160
+aValoof from other human beings, inspecting the world,
+p161
+aVinspecting other people.
+p162
+aVYou are, in fact, connected not just via Facebook and Internet,
+p163
+aVyou're actually quite literally connected by your neurons.
+p164
+aVAnd there is whole chains of neurons around this room, talking to each other.
+p165
+aVAnd there is no real distinctiveness
+p166
+aVof your consciousness from somebody else's consciousness.
+p167
+aa(lp168
+VAnd this is not mumbo-jumbo philosophy.
+p169
+aVIt emerges from our understanding of basic neuroscience.
+p170
+aVSo, you have a patient with a phantom limb. If the arm has been removed
+p171
+aVand you have a phantom, and you watch somebody else
+p172
+aVbeing touched, you feel it in your phantom.
+p173
+aVNow the astonishing thing is,
+p174
+aVif you have pain in your phantom limb, you squeeze the other person's hand,
+p175
+aVmassage the other person's hand,
+p176
+aVthat relieves the pain in your phantom hand,
+p177
+aValmost as though the neuron
+p178
+aVwere obtaining relief from merely
+p179
+aVwatching somebody else being massaged.
+p180
+aa(lp181
+VSo, here you have my last slide.
+p182
+aVFor the longest time people have regarded science
+p183
+aVand humanities as being distinct.
+p184
+aVC.P. Snow spoke of the two cultures:
+p185
+aVscience on the one hand, humanities on the other;
+p186
+aVnever the twain shall meet.
+p187
+aVSo, I'm saying the mirror neuron system underlies the interface
+p188
+aVallowing you to rethink about issues like consciousness,
+p189
+aVrepresentation of self,
+p190
+aVwhat separates you from other human beings,
+p191
+aVwhat allows you to empathize with other human beings,
+p192
+aVand also even things like the emergence of culture and civilization,
+p193
+aVwhich is unique to human beings. Thank you.
+p194
+aV(Applause)
+p195
+aasS'id'
+p196
+I724
+sS'title'
+p197
+VThe neurons that shaped civilization
+p198
+s.

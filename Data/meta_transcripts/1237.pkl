@@ -1,0 +1,788 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo, I have a strange career.
+p4
+aVI know it because people come up to me, like colleagues, and say,
+p5
+aV"Chris, you have a strange career."
+p6
+aa(lp7
+V(Laughter)
+p8
+aa(lp9
+VAnd I can see their point,
+p10
+aVbecause I started my career as a theoretical nuclear physicist.
+p11
+aVAnd I was thinking about quarks and gluons and heavy ion collisions,
+p12
+aVand I was only 14 years old \u2014
+p13
+aVNo, no, I wasn't 14 years old.
+p14
+aVBut after that,
+p15
+aVI actually had my own lab
+p16
+aVin the Computational Neuroscience department,
+p17
+aVand I wasn't doing any neuroscience.
+p18
+aVLater, I would work on evolutionary genetics,
+p19
+aVand I would work on systems biology.
+p20
+aa(lp21
+VBut I'm going to tell you about something else today.
+p22
+aVI'm going to tell you about how I learned something about life.
+p23
+aVAnd I was actually a rocket scientist.
+p24
+aVI wasn't really a rocket scientist,
+p25
+aVbut I was working at the Jet Propulsion Laboratory
+p26
+aVin sunny California, where it's warm;
+p27
+aVwhereas now I am in the mid-West, and it's cold.
+p28
+aVBut it was an exciting experience.
+p29
+aVOne day, a NASA manager comes into my office,
+p30
+aVsits down and says,
+p31
+aV"Can you please tell us, how do we look for life outside Earth?"
+p32
+aVAnd that came as a surprise to me,
+p33
+aVbecause I was actually hired to work on quantum computation.
+p34
+aVYet, I had a very good answer.
+p35
+aVI said, "I have no idea."
+p36
+aa(lp37
+V(Laughter)
+p38
+aa(lp39
+VAnd he told me, "Biosignatures, we need to look for a biosignature."
+p40
+aVAnd I said, "What is that?"
+p41
+aVAnd he said, "It's any measurable phenomenon
+p42
+aVthat allows us to indicate the presence of life."
+p43
+aVAnd I said, "Really?
+p44
+aVBecause isn't that easy?
+p45
+aVI mean, we have life.
+p46
+aVCan't you apply a definition,
+p47
+aVfor example, a Supreme Court-like definition of life?"
+p48
+aa(lp49
+VAnd then I thought about it a little bit, and I said,
+p50
+aV"Well, is it really that easy?
+p51
+aVBecause, yes, if you see something like this,
+p52
+aVthen all right, fine, I'm going to call it life \u2014
+p53
+aVno doubt about it.
+p54
+aVBut here's something."
+p55
+aVAnd he goes, "Right, that's life too. I know that."
+p56
+aVExcept, if you think that life is also defined by things that die,
+p57
+aVyou're not in luck with this thing,
+p58
+aVbecause that's actually a very strange organism.
+p59
+aVIt grows up into the adult stage like that
+p60
+aVand then goes through a Benjamin Button phase,
+p61
+aVand actually goes backwards and backwards until it's like a little embryo again,
+p62
+aVand then actually grows back up, and back down and back up \u2014
+p63
+aVsort of yo-yo \u2014 and it never dies.
+p64
+aVSo it's actually life,
+p65
+aVbut it's actually not as we thought life would be.
+p66
+aVAnd then you see something like that.
+p67
+aVAnd he was like, "My God, what kind of a life form is that?"
+p68
+aVAnyone know?
+p69
+aVIt's actually not life, it's a crystal.
+p70
+aa(lp71
+VSo once you start looking and looking at smaller and smaller things \u2014
+p72
+aVso this particular person wrote a whole article and said,
+p73
+aV"Hey, these are bacteria."
+p74
+aVExcept, if you look a little bit closer,
+p75
+aVyou see, in fact, that this thing is way too small to be anything like that.
+p76
+aVSo he was convinced, but, in fact, most people aren't.
+p77
+aVAnd then, of course, NASA also had a big announcement,
+p78
+aVand President Clinton gave a press conference,
+p79
+aVabout this amazing discovery of life in a Martian meteorite.
+p80
+aVExcept that nowadays, it's heavily disputed.
+p81
+aVIf you take the lesson of all these pictures,
+p82
+aVthen you realize, well, actually, maybe it's not that easy.
+p83
+aVMaybe I do need a definition of life
+p84
+aVin order to make that kind of distinction.
+p85
+aa(lp86
+VSo can life be defined?
+p87
+aVWell how would you go about it?
+p88
+aVWell of course, you'd go to Encyclopedia Britannica and open at L.
+p89
+aVNo, of course you don't do that; you put it somewhere in Google.
+p90
+aVAnd then you might get something.
+p91
+aa(lp92
+V(Laughter)
+p93
+aa(lp94
+VAnd what you might get \u2014
+p95
+aVand anything that actually refers to things that we are used to,
+p96
+aVyou throw away.
+p97
+aVAnd then you might come up with something like this.
+p98
+aVAnd it says something complicated with lots and lots of concepts.
+p99
+aVWho on Earth would write something as convoluted and complex and inane?
+p100
+aVOh, it's actually a really, really, important set of concepts.
+p101
+aVSo I'm highlighting just a few words
+p102
+aVand saying definitions like that rely on things
+p103
+aVthat are not based on amino acids or leaves or anything that we are used to,
+p104
+aVbut in fact on processes only.
+p105
+aVAnd if you take a look at that,
+p106
+aVthis was actually in a book that I wrote that deals with artificial life.
+p107
+aVAnd that explains why that NASA manager was actually in my office to begin with.
+p108
+aVBecause the idea was that, with concepts like that,
+p109
+aVmaybe we can actually manufacture a form of life.
+p110
+aa(lp111
+VAnd so if you go and ask yourself, "What on Earth is artificial life?",
+p112
+aVlet me give you a whirlwind tour of how all this stuff came about.
+p113
+aVAnd it started out quite a while ago,
+p114
+aVwhen someone wrote one of the first successful computer viruses.
+p115
+aVAnd for those of you who aren't old enough,
+p116
+aVyou have no idea how this infection was working \u2014
+p117
+aVnamely, through these floppy disks.
+p118
+aVBut the interesting thing about these computer virus infections
+p119
+aVwas that, if you look at the rate at which the infection worked,
+p120
+aVthey show this spiky behavior that you're used to from a flu virus.
+p121
+aVAnd it is in fact due to this arms race
+p122
+aVbetween hackers and operating system designers
+p123
+aVthat things go back and forth.
+p124
+aVAnd the result is kind of a tree of life of these viruses,
+p125
+aVa phylogeny that looks very much like the type of life
+p126
+aVthat we're used to, at least on the viral level.
+p127
+aa(lp128
+VSo is that life?
+p129
+aVNot as far as I'm concerned.
+p130
+aVWhy? Because these things don't evolve by themselves.
+p131
+aVIn fact, they have hackers writing them.
+p132
+aVBut the idea was taken very quickly a little bit further,
+p133
+aVwhen a scientist working at the Santa Fe Institute decided,
+p134
+aV"Why don't we try to package these little viruses
+p135
+aVin artificial worlds inside of the computer
+p136
+aVand let them evolve?"
+p137
+aVAnd this was Steen Rasmussen.
+p138
+aVAnd he designed this system, but it really didn't work,
+p139
+aVbecause his viruses were constantly destroying each other.
+p140
+aVBut there was another scientist who had been watching this, an ecologist.
+p141
+aVAnd he went home and says, "I know how to fix this."
+p142
+aVAnd he wrote the Tierra system,
+p143
+aVand, in my book,
+p144
+aVis in fact one of the first truly artificial living systems \u2014
+p145
+aVexcept for the fact that these programs didn't really grow in complexity.
+p146
+aa(lp147
+VSo having seen this work, worked a little bit on this,
+p148
+aVthis is where I came in.
+p149
+aVAnd I decided to create a system that has all the properties
+p150
+aVthat are necessary to see, in fact, the evolution of complexity,
+p151
+aVmore and more complex problems constantly evolving.
+p152
+aVAnd of course, since I really don't know how to write code, I had help in this.
+p153
+aVI had two undergraduate students
+p154
+aVat California Institute of Technology that worked with me.
+p155
+aVThat's Charles Ofria on the left, Titus Brown on the right.
+p156
+aVThey are now, actually, respectable professors
+p157
+aVat Michigan State University,
+p158
+aVbut I can assure you, back in the day, we were not a respectable team.
+p159
+aVAnd I'm really happy that no photo survives
+p160
+aVof the three of us anywhere close together.
+p161
+aa(lp162
+VBut what is this system like?
+p163
+aVWell I can't really go into the details,
+p164
+aVbut what you see here is some of the entrails.
+p165
+aVBut what I wanted to focus on is this type of population structure.
+p166
+aVThere's about 10,000 programs sitting here.
+p167
+aVAnd all different strains are colored in different colors.
+p168
+aVAnd as you see here, there are groups that are growing on top of each other,
+p169
+aVbecause they are spreading.
+p170
+aVAny time there is a program that's better at surviving in this world,
+p171
+aVdue to whatever mutation it has acquired,
+p172
+aVit is going to spread over the others and drive the others to extinction.
+p173
+aa(lp174
+VSo I'm going to show you a movie
+p175
+aVwhere you're going to see that kind of dynamic.
+p176
+aVAnd these kinds of experiments are started with programs that we wrote ourselves.
+p177
+aVWe write our own stuff, replicate it, and are very proud of ourselves.
+p178
+aVAnd we put them in, and what you see immediately
+p179
+aVis that there are waves and waves of innovation.
+p180
+aVBy the way, this is highly accelerated,
+p181
+aVso it's like a 1000 generations a second.
+p182
+aVBut immediately, the system goes like, "What kind of dumb piece of code was this?
+p183
+aVThis can be improved upon in so many ways, so quickly."
+p184
+aVSo you see waves of new types taking over the other types.
+p185
+aVAnd this type of activity goes on for quite a while,
+p186
+aVuntil the main easy things have been acquired by these programs.
+p187
+aVAnd then, you see sort of like a stasis coming on
+p188
+aVwhere the system essentially waits
+p189
+aVfor a new type of innovation, like this one,
+p190
+aVwhich is going to spread over all the other innovations that were before
+p191
+aVand is erasing the genes that it had before,
+p192
+aVuntil a new type of higher level of complexity has been achieved.
+p193
+aVAnd this process goes on and on and on.
+p194
+aa(lp195
+VSo what we see here
+p196
+aVis a system that lives in very much the way we're used to how life goes.
+p197
+aVBut what the NASA people had asked me really was,
+p198
+aV"Do these guys have a biosignature?
+p199
+aVCan we measure this type of life?
+p200
+aVBecause if we can,
+p201
+aVmaybe we have a chance of actually discovering life somewhere else
+p202
+aVwithout being biased by things like amino acids."
+p203
+aVSo I said, "Well, perhaps we should construct a biosignature
+p204
+aVbased on life as a universal process.
+p205
+aVIn fact, it should perhaps make use of the concepts that I developed
+p206
+aVjust in order to sort of capture what a simple living system might be."
+p207
+aa(lp208
+VAnd the thing I came up with \u2014
+p209
+aVI have to first give you an introduction about the idea,
+p210
+aVand maybe that would be a meaning detector,
+p211
+aVrather than a life detector.
+p212
+aVAnd the way we would do that \u2014
+p213
+aVI would like to find out how I can distinguish text
+p214
+aVthat was written by a million monkeys, as opposed to text that is in our books.
+p215
+aVAnd I would like to do it in such a way
+p216
+aVthat I don't actually have to be able to read the language,
+p217
+aVbecause I'm sure I won't be able to.
+p218
+aVAs long as I know that there's some sort of alphabet.
+p219
+aVSo here would be a frequency plot
+p220
+aVof how often you find each of the 26 letters of the alphabet
+p221
+aVin a text written by random monkeys.
+p222
+aVAnd obviously, each of these letters comes off about roughly equally frequent.
+p223
+aa(lp224
+VBut if you now look at the same distribution in English texts,
+p225
+aVit looks like that.
+p226
+aVAnd I'm telling you, this is very robust across English texts.
+p227
+aVAnd if I look at French texts, it looks a little bit different,
+p228
+aVor Italian or German.
+p229
+aVThey all have their own type of frequency distribution,
+p230
+aVbut it's robust.
+p231
+aVIt doesn't matter whether it writes about politics or about science.
+p232
+aVIt doesn't matter whether it's a poem or whether it's a mathematical text.
+p233
+aVIt's a robust signature,
+p234
+aVand it's very stable.
+p235
+aVAs long as our books are written in English \u2014
+p236
+aVbecause people are rewriting them and recopying them \u2014
+p237
+aVit's going to be there.
+p238
+aa(lp239
+VSo that inspired me to think about, well, what if I try to use this idea
+p240
+aVin order, not to detect random texts from texts with meaning,
+p241
+aVbut rather detect the fact that there is meaning
+p242
+aVin the biomolecules that make up life.
+p243
+aVBut first I have to ask:
+p244
+aVwhat are these building blocks,
+p245
+aVlike the alphabet, elements that I showed you?
+p246
+aVWell it turns out, we have many different alternatives
+p247
+aVfor such a set of building blocks.
+p248
+aVWe could use amino acids,
+p249
+aVwe could use nucleic acids, carboxylic acids, fatty acids.
+p250
+aVIn fact, chemistry's extremely rich, and our body uses a lot of them.
+p251
+aa(lp252
+VSo that we actually, to test this idea,
+p253
+aVfirst took a look at amino acids and some other carboxylic acids.
+p254
+aVAnd here's the result.
+p255
+aVHere is, in fact, what you get
+p256
+aVif you, for example, look at the distribution of amino acids
+p257
+aVon a comet or in interstellar space or, in fact, in a laboratory,
+p258
+aVwhere you made very sure that in your primordial soup,
+p259
+aVthere is no living stuff in there.
+p260
+aVWhat you find is mostly glycine and then alanine
+p261
+aVand there's some trace elements of the other ones.
+p262
+aVThat is also very robust \u2014
+p263
+aVwhat you find in systems like Earth
+p264
+aVwhere there are amino acids, but there is no life.
+p265
+aa(lp266
+VBut suppose you take some dirt and dig through it
+p267
+aVand then put it into these spectrometers,
+p268
+aVbecause there's bacteria all over the place;
+p269
+aVor you take water anywhere on Earth,
+p270
+aVbecause it's teaming with life,
+p271
+aVand you make the same analysis;
+p272
+aVthe spectrum looks completely different.
+p273
+aVOf course, there is still glycine and alanine,
+p274
+aVbut in fact, there are these heavy elements, these heavy amino acids,
+p275
+aVthat are being produced because they are valuable to the organism.
+p276
+aVAnd some other ones that are not used in the set of 20,
+p277
+aVthey will not appear at all in any type of concentration.
+p278
+aVSo this also turns out to be extremely robust.
+p279
+aVIt doesn't matter what kind of sediment you're using to grind up,
+p280
+aVwhether it's bacteria or any other plants or animals.
+p281
+aVAnywhere there's life,
+p282
+aVyou're going to have this distribution,
+p283
+aVas opposed to that distribution.
+p284
+aVAnd it is detectable not just in amino acids.
+p285
+aa(lp286
+VNow you could ask:
+p287
+aVWell, what about these Avidians?
+p288
+aVThe Avidians being the denizens of this computer world
+p289
+aVwhere they are perfectly happy replicating and growing in complexity.
+p290
+aVSo this is the distribution that you get if, in fact, there is no life.
+p291
+aVThey have about 28 of these instructions.
+p292
+aVAnd if you have a system where they're being replaced one by the other,
+p293
+aVit's like the monkeys writing on a typewriter.
+p294
+aVEach of these instructions appears with roughly the equal frequency.
+p295
+aVBut if you now take a set of replicating guys
+p296
+aVlike in the video that you saw,
+p297
+aVit looks like this.
+p298
+aVSo there are some instructions
+p299
+aVthat are extremely valuable to these organisms,
+p300
+aVand their frequency is going to be high.
+p301
+aVAnd there's actually some instructions that you only use once, if ever.
+p302
+aVSo they are either poisonous
+p303
+aVor really should be used at less of a level than random.
+p304
+aVIn this case, the frequency is lower.
+p305
+aVAnd so now we can see, is that really a robust signature?
+p306
+aVI can tell you indeed it is,
+p307
+aVbecause this type of spectrum, just like what you've seen in books,
+p308
+aVand just like what you've seen in amino acids,
+p309
+aVit doesn't really matter how you change the environment,
+p310
+aVit's very robust, it's going to reflect the environment.
+p311
+aa(lp312
+VSo I'm going to show you now a little experiment that we did.
+p313
+aVAnd I have to explain to you,
+p314
+aVthe top of this graph
+p315
+aVshows you that frequency distribution that I talked about.
+p316
+aVHere, that's the lifeless environment
+p317
+aVwhere each instruction occurs at an equal frequency.
+p318
+aVAnd below there, I show, in fact, the mutation rate in the environment.
+p319
+aVAnd I'm starting this at a mutation rate that is so high
+p320
+aVthat even if you would drop a replicating program
+p321
+aVthat would otherwise happily grow up to fill the entire world,
+p322
+aVif you drop it in, it gets mutated to death immediately.
+p323
+aVSo there is no life possible at that type of mutation rate.
+p324
+aVBut then I'm going to slowly turn down the heat, so to speak,
+p325
+aVand then there's this viability threshold
+p326
+aVwhere now it would be possible for a replicator to actually live.
+p327
+aVAnd indeed, we're going to be dropping these guys into that soup all the time.
+p328
+aa(lp329
+VSo let's see what that looks like.
+p330
+aVSo first, nothing, nothing, nothing.
+p331
+aVToo hot, too hot.
+p332
+aVNow the viability threshold is reached,
+p333
+aVand the frequency distribution has dramatically changed
+p334
+aVand, in fact, stabilizes.
+p335
+aVAnd now what I did there
+p336
+aVis, I was being nasty, I just turned up the heat again and again.
+p337
+aVAnd of course, it reaches the viability threshold.
+p338
+aVAnd I'm just showing this to you again because it's so nice.
+p339
+aVYou hit the viability threshold.
+p340
+aVThe distribution changes to "alive!"
+p341
+aVAnd then, once you hit the threshold
+p342
+aVwhere the mutation rate is so high that you cannot self-reproduce,
+p343
+aVyou cannot copy the information forward to your offspring
+p344
+aVwithout making so many mistakes that your ability to replicate vanishes.
+p345
+aVAnd then, that signature is lost.
+p346
+aa(lp347
+VWhat do we learn from that?
+p348
+aVWell, I think we learn a number of things from that.
+p349
+aVOne of them is,
+p350
+aVif we are able to think about life in abstract terms \u2014
+p351
+aVand we're not talking about things like plants,
+p352
+aVand we're not talking about amino acids,
+p353
+aVand we're not talking about bacteria,
+p354
+aVbut we think in terms of processes \u2014
+p355
+aVthen we could start to think about life
+p356
+aVnot as something that is so special to Earth,
+p357
+aVbut that, in fact, could exist anywhere.
+p358
+aVBecause it really only has to do with these concepts of information,
+p359
+aVof storing information within physical substrates \u2014
+p360
+aVanything: bits, nucleic acids, anything that's an alphabet \u2014
+p361
+aVand make sure that there's some process
+p362
+aVso that this information can be stored for much longer than you would expect \u2014
+p363
+aVthe time scales for the deterioration of information.
+p364
+aVAnd if you can do that, then you have life.
+p365
+aa(lp366
+VSo the first thing that we learn
+p367
+aVis that it is possible to define life in terms of processes alone,
+p368
+aVwithout referring at all to the type of things that we hold dear,
+p369
+aVas far as the type of life on Earth is.
+p370
+aVAnd that, in a sense, removes us again,
+p371
+aVlike all of our scientific discoveries, or many of them \u2014
+p372
+aVit's this continuous dethroning of man \u2014
+p373
+aVof how we think we're special because we're alive.
+p374
+aVWell, we can make life; we can make life in the computer.
+p375
+aVGranted, it's limited,
+p376
+aVbut we have learned what it takes in order to actually construct it.
+p377
+aVAnd once we have that,
+p378
+aVthen it is not such a difficult task anymore
+p379
+aVto say, if we understand the fundamental processes
+p380
+aVthat do not refer to any particular substrate,
+p381
+aVthen we can go out and try other worlds,
+p382
+aVfigure out what kind of chemical alphabets might there be,
+p383
+aVfigure enough about the normal chemistry, the geochemistry of the planet,
+p384
+aVso that we know what this distribution would look like in the absence of life,
+p385
+aVand then look for large deviations from this \u2014
+p386
+aVthis thing sticking out, which says, "This chemical really shouldn't be there."
+p387
+aVNow we don't know that there's life then,
+p388
+aVbut we could say,
+p389
+aV"Well at least I'm going to have to take a look very precisely at this chemical
+p390
+aVand see where it comes from."
+p391
+aVAnd that might be our chance of actually discovering life
+p392
+aVwhen we cannot visibly see it.
+p393
+aa(lp394
+VAnd so that's really the only take-home message that I have for you.
+p395
+aVLife can be less mysterious than we make it out to be
+p396
+aVwhen we try to think about how it would be on other planets.
+p397
+aVAnd if we remove the mystery of life,
+p398
+aVthen I think it is a little bit easier for us to think about how we live,
+p399
+aVand how perhaps we're not as special as we always think we are.
+p400
+aVAnd I'm going to leave you with that.
+p401
+aa(lp402
+VAnd thank you very much.
+p403
+aa(lp404
+V(Applause)
+p405
+aasS'id'
+p406
+I1237
+sS'title'
+p407
+VFinding life we can't imagine
+p408
+s.

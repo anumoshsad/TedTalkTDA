@@ -1,0 +1,611 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VScientific breakthrough,
+p4
+aVthe kind that can potentially save lives,
+p5
+aVcan sometimes be lying right out in the open
+p6
+aVfor us to discover,
+p7
+aVin the evolved, accumulated body
+p8
+aVof human anecdote, for example,
+p9
+aVor in the time-tested adaptations
+p10
+aVthat we observe in the natural world around us.
+p11
+aVScience starts with observation,
+p12
+aVbut the trick is to identify the patterns and signatures
+p13
+aVthat we might otherwise dismiss
+p14
+aVas myth or coincidence,
+p15
+aVisolate them, and test them with scientific rigor.
+p16
+aVAnd when we do, the results will often surprise.
+p17
+aa(lp18
+VWestern Australia has had a particular problem
+p19
+aVwith shark attacks over the last three years,
+p20
+aVunfortunately and tragically culminating
+p21
+aVin five fatal shark attacks in a 10-month period
+p22
+aVduring that time.
+p23
+aVBut Western Australia is not alone in this.
+p24
+aVThe incident of shark engagements on humans
+p25
+aVis escalating worldwide.
+p26
+aVAnd so it's not surprising, perhaps,
+p27
+aVthat in July of this year,
+p28
+aVShark Attack Mitigation Systems in collaboration
+p29
+aVwith the University of Western Australia Oceans Institute
+p30
+aVmade an announcement which captured the attention
+p31
+aVof the worldwide media and of ocean users
+p32
+aVworldwide,
+p33
+aVand that was around the development of technology
+p34
+aVto mitigate or reduce the risk of shark attack
+p35
+aVbased on the science of what sharks can see.
+p36
+aVAnd I have for you today
+p37
+aVthe story of that journey,
+p38
+aVbut also the notion that science can be
+p39
+aVas powerful as a translator
+p40
+aVas it can be for invention.
+p41
+aa(lp42
+VWhen we began this process,
+p43
+aVwe were looking, it was about three years ago,
+p44
+aVand we'd just had the first two fatal shark attacks
+p45
+aVin Western Australia,
+p46
+aVand by chance, in a previous role,
+p47
+aVI happened to be having dinner with Harry Butler.
+p48
+aVNow Harry Butler, who most Australians would know is a famous naturalist,
+p49
+aVhad spent a lot of time in the marine environment.
+p50
+aVHarry Butler is a precursor, if you like,
+p51
+aVto the late Steve Irwin.
+p52
+aVWhen I asked him about
+p53
+aVwhat the solution to the problem might be,
+p54
+aVthe answer was quite surprising.
+p55
+aVHe said, "Take a black wetsuit,
+p56
+aVband it in yellow stripes like a bumblebee,
+p57
+aVand you'll be mimicking the warning systems
+p58
+aVof most marine species."
+p59
+aVI didn't think about that much at the time,
+p60
+aVand it wasn't until the next three fatal shark attacks happened,
+p61
+aVand it caused me to think,
+p62
+aVmaybe there's some merit to this idea.
+p63
+aVAnd I turned to the web
+p64
+aVto see if there might be some clues.
+p65
+aa(lp66
+VAnd it turns out the web is awash
+p67
+aVwith this sort of evidence that supports
+p68
+aVthis sort of thinking.
+p69
+aVSo biologically, there are plenty of species
+p70
+aVthat display banding or patterns, warning patterns,
+p71
+aVto either be cryptical in the water
+p72
+aVor warn against being attacked,
+p73
+aVnot the least of which is the pilot fish
+p74
+aVwhich spends a big slab of its life
+p75
+aVaround the business end of a shark.
+p76
+aVOn the human side, Walter Starck, an oceanographer,
+p77
+aVhas been painting his wetsuit since the 1970s,
+p78
+aVand anthropologically,
+p79
+aVPacific island tribes painted themselves in bands
+p80
+aVin a sea snake ceremony
+p81
+aVto ward off the shark god.
+p82
+aa(lp83
+VSo what's going on here?
+p84
+aVIs this an idea lying wide out in the open
+p85
+aVfor us to consider and define?
+p86
+aVWe know that sharks use a range of sensors
+p87
+aVwhen they engage, particularly for attack,
+p88
+aVbut the sight sensor is the one that they use
+p89
+aVto identify the target, and particularly
+p90
+aVin the last number of meters before the attack.
+p91
+aVIt makes sense to pay attention to the biological anecdote
+p92
+aVbecause that's time-tested evolution
+p93
+aVover many millennia.
+p94
+aVBut isn't human anecdote also an evolution of sorts,
+p95
+aVthe idea that there's a kernel of truth
+p96
+aVthought to be important,
+p97
+aVpassed down from generation to generation,
+p98
+aVso that it actually ends up shaping human behavior?
+p99
+aa(lp100
+VI wanted to test this idea.
+p101
+aVI wanted to put some science
+p102
+aVto this anecdotal evidence,
+p103
+aVbecause if science could support this concept,
+p104
+aVthen we might have at least part of the solution
+p105
+aVto shark attack right under our very nose.
+p106
+aVTo do that, I needed some experts
+p107
+aVin shark vision and shark neurology,
+p108
+aVand a worldwide search, again,
+p109
+aVled to the University of W.A.
+p110
+aVon the doorstep here, with the Oceans Institute.
+p111
+aVAnd professor Nathan Hart and his team
+p112
+aVhad just written a paper which tells us,
+p113
+aVconfirms that predatory sharks see
+p114
+aVin black and white, or grayscale.
+p115
+aVSo I called up Nathan,
+p116
+aVa little bit sheepishly, actually, about this idea
+p117
+aVthat maybe we could use these patterns and shapes
+p118
+aVto produce a wetsuit to try and mitigate the risk of shark attack,
+p119
+aVand fortunately, he thought that was a good idea.
+p120
+aVSo what ensued is a collaborative bit of research
+p121
+aVsupported by the West Australian State Government.
+p122
+aVAnd we did three key things.
+p123
+aVThe first is that we mapped the characteristics,
+p124
+aVthe physical characteristics of the eyes
+p125
+aVof the three main predatory sharks,
+p126
+aVso the great white, tiger and bull shark.
+p127
+aVWe did that genetically
+p128
+aVand we did that anatomically.
+p129
+aVThe next thing we did was to understand,
+p130
+aVusing complex computer modeling,
+p131
+aVwhat that eye can see
+p132
+aVat different depths, distances,
+p133
+aVlight conditions, and water clarity in the ocean.
+p134
+aVAnd from there, we were able to pinpoint
+p135
+aVtwo key characteristics:
+p136
+aVwhat patterns and shapes would present the wearer
+p137
+aVas hidden or hard to make out in the water, cryptic,
+p138
+aVand what patterns and shapes might provide
+p139
+aVthe greatest contrast but provide the greatest
+p140
+aVbreakup of profile
+p141
+aVso that that person wasn't confused for shark prey
+p142
+aVor shark food.
+p143
+aa(lp144
+VThe next thing we needed to do was to convert this
+p145
+aVinto wetsuits that people might actually wear,
+p146
+aVand to that end, I invited Ray Smith,
+p147
+aVa surfer, industrial designer, wetsuit designer,
+p148
+aVand in fact the guy that designed the original Quiksilver logo,
+p149
+aVto come over and sit with the science team
+p150
+aVand interpret that science
+p151
+aVinto aesthetic wetsuits that people might actually wear.
+p152
+aVAnd here's an example of one of the first drawings.
+p153
+aVSo this is what I call a "don't eat me" wetsuit.
+p154
+aVSo this takes that banding idea,
+p155
+aVtakes that banding idea, it's highly visible,
+p156
+aVprovides a highly disruptive profile,
+p157
+aVand is intended to prevent the shark
+p158
+aVfrom considering that you would be ordinary food,
+p159
+aVand potentially even create confusion for the shark.
+p160
+aVAnd this one's configured to go with a surfboard.
+p161
+aVYou can see that dark, opaque panel on the front,
+p162
+aVand it's particularly better for the surface,
+p163
+aVwhere being backlit and providing a silhouette
+p164
+aVis problematic.
+p165
+aVSecond iteration is the cryptic wetsuit,
+p166
+aVor the one which attempts to hide the wearer
+p167
+aVin the water column.
+p168
+aVThere are three panels on this suit,
+p169
+aVand in any given conditions,
+p170
+aVone or more of those panels
+p171
+aVwill match the reflective spectra of the water
+p172
+aVso as to disappear fully or partially,
+p173
+aVleaving the last panel or panels
+p174
+aVto create a disruptive profile in the water column.
+p175
+aVAnd this one's particularly well-suited
+p176
+aVto the dive configuration,
+p177
+aVso when you're deeper under the water.
+p178
+aa(lp179
+VSo we knew that we had
+p180
+aVsome really solid science here.
+p181
+aVWe knew, if you wanted to stand out,
+p182
+aVyou needed to look stripy,
+p183
+aVand we knew if you wanted to be cryptic,
+p184
+aVyou needed to look like this.
+p185
+aVBut the acid test is always going to be,
+p186
+aVhow would sharks really behave
+p187
+aVin the context of these patterns and shapes.
+p188
+aVAnd testing to simulate a person in a wetsuit
+p189
+aVin the water with a predatory shark
+p190
+aVin a natural environment
+p191
+aVis actually a lot harder than you might think.
+p192
+aV(Laughter)
+p193
+aa(lp194
+VSo we have to bait the rig,
+p195
+aVbecause we need to get the statistical number
+p196
+aVof samples through to get the scientific evidence,
+p197
+aVand by baiting the rig,
+p198
+aVwe're obviously changing shark behavior.
+p199
+aVWe can't put humans in the water.
+p200
+aVWe're ethically precluded from even using
+p201
+aVhumanoid shapes and baiting them up in the water.
+p202
+aVBut nevertheless, we started the testing process
+p203
+aVin January of this year,
+p204
+aVinitially with tiger sharks
+p205
+aVand subsequently with great white sharks.
+p206
+aVThe way we did that
+p207
+aVwas to get a perforated drum which is full of bait,
+p208
+aVwrap it in a neoprene skin,
+p209
+aVand then run two stereo underwater cameras
+p210
+aVto watch how the shark actually engages with that rig.
+p211
+aVAnd because we use stereo,
+p212
+aVwe can capture all the statistics on how big the shark is,
+p213
+aVwhat angle it comes in at, how quickly it leaves,
+p214
+aVand what its behavior is
+p215
+aVin an empirical rather than a subjective way.
+p216
+aVBecause we needed to preserve the scientific method,
+p217
+aVwe ran a control rig
+p218
+aVwhich was a black neoprene rig
+p219
+aVjust like a normal black wetsuit
+p220
+aVagainst the, what we call,
+p221
+aVSAMS technology rig.
+p222
+aVAnd the results were not just exciting,
+p223
+aVbut very encouraging,
+p224
+aVand today I would like to just give you a snapshot
+p225
+aVof two of those engagements.
+p226
+aa(lp227
+VSo here we've got a four-meter tiger shark
+p228
+aVengaging the black control rig,
+p229
+aVwhich it had encountered about
+p230
+aVa minute and a half before.
+p231
+aVNow that exact same shark had engaged,
+p232
+aVor encountered this SAMS rig,
+p233
+aVwhich is the Elude SAMS rig,
+p234
+aVabout eight minutes before,
+p235
+aVand spent six minutes circling it, hunting for it,
+p236
+aVlooking for what it could smell and sense but not see,
+p237
+aVand this was the final engagement.
+p238
+aVGreat white sharks are more confident than the tigers,
+p239
+aVand here you see great white shark
+p240
+aVengaging a control rig,
+p241
+aVso a black neoprene wetsuit,
+p242
+aVand going straight to the bottom,
+p243
+aVcoming up
+p244
+aVand engaging.
+p245
+aVIn contrast to the SAMS technology rig,
+p246
+aVthis is the banded one,
+p247
+aVwhere it's more tactile,
+p248
+aVit's more investigative,
+p249
+aVit's more apprehensive,
+p250
+aVand shows a reluctance to come straight in and go.
+p251
+aV(Applause)
+p252
+aa(lp253
+VSo, it's important for us that all  the testing is done independently,
+p254
+aVand the University of W.A. is doing the testing.
+p255
+aVIt'll be an ongoing process.
+p256
+aVIt's subject to peer review and subject to publication.
+p257
+aVIt's so important that this concept
+p258
+aVis led with the science.
+p259
+aVFrom the perspective of Shark  Attack Mitigation Systems,
+p260
+aVwe're a biotechnology licensing company,
+p261
+aVso we don't make wetsuits ourselves.
+p262
+aVWe'll license others to do that.
+p263
+aa(lp264
+VBut I thought you might be interested
+p265
+aVin seeing what SAMS technology looks like
+p266
+aVembedded in a wetsuit, and to that end,
+p267
+aVfor the first time, live, worldwide \u2014
+p268
+aV(Laughter) \u2014
+p269
+aVI can show you what biological adaptation,
+p270
+aVscience and design looks like in real life.
+p271
+aVSo I can welcome Sam, the surfer,
+p272
+aVfrom this side. Where are you, Sam?
+p273
+aV(Applause)
+p274
+aVAnd Eduardo.
+p275
+aV(Applause)
+p276
+aVCheers, mate.
+p277
+aVCheers.
+p278
+aVThanks, gentlemen. (Applause)
+p279
+aa(lp280
+VSo what have we done here?
+p281
+aVWell, to my mind, rather than take a blank sheet
+p282
+aVand use science as a tool for invention,
+p283
+aVwe've paid attention to the biological evidence,
+p284
+aVwe've put importance to the
+p285
+aVhuman anecdotal evidence,
+p286
+aVand we've used science as a tool
+p287
+aVfor translation,
+p288
+aVtranslation of something that was already there
+p289
+aVinto something that we can  use for the benefit of mankind.
+p290
+aVAnd it strikes me that this idea of science
+p291
+aVas a tool for translation rather than invention
+p292
+aVis one that we can apply much more widely than this
+p293
+aVin the pursuit of innovation.
+p294
+aVAfter all, did the Wright brothers
+p295
+aVdiscover manned flight,
+p296
+aVor did they observe the biological fact of flight
+p297
+aVand translate that mechanically, replicate it
+p298
+aVin a way that humans could use?
+p299
+aVAs for the humble wetsuit,
+p300
+aVwho knows what oceanwear will look like
+p301
+aVin two years' time, in five years' time
+p302
+aVor in 50 years' time, but with this new thinking,
+p303
+aVI'm guessing there's a fair chance
+p304
+aVit won't be pure black.
+p305
+aa(lp306
+VThank you.
+p307
+aa(lp308
+V(Applause)
+p309
+aasS'id'
+p310
+I1981
+sS'title'
+p311
+VA shark-deterrent wetsuit (and it's not what you think)
+p312
+s.

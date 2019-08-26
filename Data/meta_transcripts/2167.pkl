@@ -1,0 +1,535 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhen you grow up in a developing country like India, as I did,
+p4
+aVyou instantly learn to get more value from limited resources
+p5
+aVand find creative ways to reuse what you already have.
+p6
+aVTake Mansukh Prajapati, a potter in India.
+p7
+aVHe has created a fridge made entirely of clay
+p8
+aVthat consumes no electricity.
+p9
+aVHe can keep fruits and vegetables fresh for many days.
+p10
+aVThat's a cool invention, literally.
+p11
+aVIn Africa, if you run out of your cell phone battery, don't panic.
+p12
+aVYou will find some resourceful entrepreneurs
+p13
+aVwho can recharge your  cell phone using bicycles.
+p14
+aVAnd since we are in South America,
+p15
+aVlet's go to Lima in Peru,
+p16
+aVa region with high humidity
+p17
+aVthat receives only one inch of rainfall each year.
+p18
+aVAn engineering college in Lima designed a giant advertising billboard
+p19
+aVthat absorbs air humidity and converts it into purified water,
+p20
+aVgenerating over 90 liters of water every day.
+p21
+aVThe Peruvians are amazing.
+p22
+aVThey can literally create water out of thin air.
+p23
+aa(lp24
+VFor the past seven years,
+p25
+aVI have met and studied hundreds of entrepreneurs
+p26
+aVin India, China, Africa and South America, and they keep amazing me.
+p27
+aVMany of them did not go to school.
+p28
+aVThey don't invent stuff in big R&D labs.
+p29
+aVThe street is the lab.
+p30
+aVWhy do they do that?
+p31
+aVBecause they don't have the kind of basic resources we take for granted,
+p32
+aVlike capital and energy,
+p33
+aVand basic services like healthcare and education
+p34
+aVare also scarce in those regions.
+p35
+aVWhen external resources are scarce, you have to go within yourself
+p36
+aVto tap the most abundant resource, human ingenuity,
+p37
+aVand use that ingenuity to find clever ways to solve problems with limited resources.
+p38
+aa(lp39
+VIn India, we call it Jugaad.
+p40
+aVJugaad is a Hindi word
+p41
+aVthat means an improvised fix, a clever solution born in adversity.
+p42
+aVJugaad solutions are not sophisticated or perfect,
+p43
+aVbut they create more value at lower cost.
+p44
+aVFor me, the entrepreneurs who will create Jugaad solutions
+p45
+aVare like alchemists.
+p46
+aVThey can magically transform adversity into opportunity,
+p47
+aVand turn something of less value into something of high value.
+p48
+aVIn other words, they mastered the art of doing more with less,
+p49
+aVwhich is the essence of frugal innovation.
+p50
+aa(lp51
+VFrugal innovation is the ability  to create more economic and social value
+p52
+aVusing fewer resources.
+p53
+aVFrugal innovation is not about making do; it's about making things better.
+p54
+aVNow I want to show you how, across emerging markets,
+p55
+aVentrepreneurs and companies are adopting  frugal innovation on a larger scale
+p56
+aVto cost-effectively deliver healthcare and energy to billions of people
+p57
+aVwho may have little income but very high aspirations.
+p58
+aa(lp59
+VLet's first go to China,
+p60
+aVwhere the country's largest I.T. service provider, Neusoft,
+p61
+aVhas developed a telemedicine solution
+p62
+aVto help doctors in cities remotely treat old and poor patients
+p63
+aVin Chinese villages.
+p64
+aVThis solution is based on simple-to-use medical devices
+p65
+aVthat less qualified health workers like nurses can use in rural clinics.
+p66
+aVChina desperately needs these frugal medical solutions
+p67
+aVbecause by 2050 it will be home to over half a billion senior citizens.
+p68
+aa(lp69
+VNow let's go to Kenya,
+p70
+aVa country where half the population uses M-Pesa, a mobile payment solution.
+p71
+aVThis is a great solution for the African continent
+p72
+aVbecause 80 percent of Africans don't have a bank account,
+p73
+aVbut what is exciting is that M-Pesa is now becoming the source
+p74
+aVof other disruptive business models in sectors like energy.
+p75
+aVTake M-KOPA, the home solar solution that comes literally in a box
+p76
+aVthat has a solar rooftop panel, three LED lights,
+p77
+aVa solar radio, and a cell phone charger.
+p78
+aVThe whole kit, though, costs 200 dollars, which is too expensive for most Kenyans,
+p79
+aVand this is where mobile telephony can make the solution more affordable.
+p80
+aVToday, you can buy this kit by making an initial deposit of just 35 dollars,
+p81
+aVand then pay off the rest by making a daily micro-payment of 45 cents
+p82
+aVusing your mobile phone.
+p83
+aVOnce you've made 365 micro-payments, the system is unlocked,
+p84
+aVand you own the product and you start  receiving clean, free electricity.
+p85
+aVThis is an amazing solution for Kenya,
+p86
+aVwhere 70 percent of people live off the grid.
+p87
+aVThis shows that with frugal innovation
+p88
+aVwhat matters is that you take what is most abundant, mobile connectivity,
+p89
+aVto deal with what is scarce, which is energy.
+p90
+aa(lp91
+VWith frugal innovation, the global South is actually catching up
+p92
+aVand in some cases  even leap-frogging the North.
+p93
+aVInstead of building expensive hospitals, China is using telemedicine
+p94
+aVto cost-effectively treat millions of patients,
+p95
+aVand Africa, instead of building banks and electricity grids,
+p96
+aVis going straight to mobile payments and distributed clean energy.
+p97
+aa(lp98
+VFrugal innovation is diametrically opposed to the way we innovate in the North.
+p99
+aVI live in Silicon Valley,
+p100
+aVwhere we keep chasing the next big technology thing.
+p101
+aVThink of the iPhone 5, 6, then 7, 8.
+p102
+aVCompanies in the West spend billions of dollars investing in R&D,
+p103
+aVand use tons of natural resources to create ever more complex products,
+p104
+aVto differentiate their brands from competition,
+p105
+aVand they charge customers more money for new features.
+p106
+aVSo the conventional business model  in the West is more for more.
+p107
+aVBut sadly, this more for more model is running out of gas, for three reasons:
+p108
+aVFirst, a big portion of customers in the West
+p109
+aVbecause of the diminishing purchasing power,
+p110
+aVcan no longer afford these expensive products.
+p111
+aVSecond, we are running out of natural water and oil.
+p112
+aVIn California, where I live, water scarcity is becoming a big problem.
+p113
+aVAnd third, most importantly,
+p114
+aVbecause of the growing income disparity
+p115
+aVbetween the rich  and the middle class in the West,
+p116
+aVthere is a big disconnect between existing products and services
+p117
+aVand basic needs of customers.
+p118
+aVDo you know that today,
+p119
+aVthere are over 70 million Americans today who are underbanked,
+p120
+aVbecause existing banking services
+p121
+aVare not designed to address their basic needs.
+p122
+aa(lp123
+VThe prolonged economic crisis in the West is making people think
+p124
+aVthat they are about to lose the high standard of living
+p125
+aVand face deprivation.
+p126
+aVI believe that the only way we can sustain growth and prosperity in the West
+p127
+aVis if we learn to do more with less.
+p128
+aa(lp129
+VThe good news is, that's starting to happen.
+p130
+aVSeveral Western companies are now adopting frugal innovation
+p131
+aVto create affordable products for Western consumers.
+p132
+aVLet me give you two examples.
+p133
+aa(lp134
+VWhen I first saw this building,
+p135
+aVI told myself it's some kind of postmodern house.
+p136
+aVActually, it's a small manufacturing plant set up by Grameen Danone,
+p137
+aVa joint venture between  Grameen Bank of Muhammad Yunus
+p138
+aVand the food multinational Danone
+p139
+aVto make high-quality yogurt in Bangladesh.
+p140
+aVThis factory is 10 percent the size of existing Danone factories
+p141
+aVand cost much less to build.
+p142
+aVI guess you can call it a low-fat factory.
+p143
+aVNow this factory, unlike Western factories that are highly automated,
+p144
+aVrelies a lot on manual processes in order  to generate jobs for local communities.
+p145
+aVDanone was so inspired by this model
+p146
+aVthat combines economic efficiency and social sustainability,
+p147
+aVthey are planning to roll it out in other parts of the world as well.
+p148
+aa(lp149
+VNow, when you see this example,
+p150
+aVyou might be thinking, "Well, frugal innovation is low tech."
+p151
+aVActually, no.
+p152
+aVFrugal innovation is also about making high tech
+p153
+aVmore affordable and more accessible to more people.
+p154
+aVLet me give you an example.
+p155
+aa(lp156
+VIn China, the R&D engineers of Siemens Healthcare
+p157
+aVhave designed a C.T. scanner that is easy enough to be used
+p158
+aVby less qualified health workers, like nurses and technicians.
+p159
+aVThis device can scan more patients on a daily basis,
+p160
+aVand yet consumes less energy,
+p161
+aVwhich is great for hospitals, but it's also great for patients
+p162
+aVbecause it reduces the cost of treatment by 30 percent
+p163
+aVand radiation dosage by up to 60 percent.
+p164
+aVThis solution was initially designed for the Chinese market,
+p165
+aVbut now it's selling like hotcakes in the U.S. and Europe,
+p166
+aVwhere hospitals are pressured to deliver quality care at lower cost.
+p167
+aa(lp168
+VBut the frugal innovation revolution
+p169
+aVin the West is actually led by creative entrepreneurs
+p170
+aVwho are coming up with amazing solutions
+p171
+aVto address basic needs in the U.S. and Europe.
+p172
+aVLet me quickly give you three examples of startups
+p173
+aVthat personally inspire me.
+p174
+aVThe first one happens to be launched by my neighbor in Silicon Valley.
+p175
+aVIt's called gThrive.
+p176
+aVThey make these wireless sensors designed like plastic rulers
+p177
+aVthat farmers can stick in different parts of the field
+p178
+aVand start collecting detailed information like soil conditions.
+p179
+aVThis dynamic data allows farmers to optimize use of water energy
+p180
+aVwhile improving quality of the products and the yields,
+p181
+aVwhich is a great solution for California, which faces major water shortage.
+p182
+aVIt pays for itself within one year.
+p183
+aa(lp184
+VSecond example is Be-Bound, also in Silicon Valley,
+p185
+aVthat enables you to connect to the Internet
+p186
+aVeven in no-bandwidth areas where there's no wi-fi or 3G or 4G.
+p187
+aVHow do they do that?
+p188
+aVThey simply use SMS, a basic technology, but that happens to be the most reliable
+p189
+aVand most widely available around the world.
+p190
+aVThree billion people today with  cell phones can't access the Internet.
+p191
+aVThis solution can connect them to the Internet in a frugal way.
+p192
+aa(lp193
+VAnd in France, there is a startup calle Compte Nickel,
+p194
+aVwhich is revolutionizing the banking sector.
+p195
+aVIt allows thousands of people to walk into a Mom and Pop store
+p196
+aVand in just five minutes activate the service that gives them two products:
+p197
+aVan international bank account number and an international debit card.
+p198
+aVThey charge a flat annual  maintenance fee of just 20 Euros.
+p199
+aVThat means you can do all banking transactions \u2014
+p200
+aVsend and receive money, pay with your debit card \u2014
+p201
+aVall with no additional charge.
+p202
+aVThis is what I call low-cost banking without the bank.
+p203
+aVAmazingly, 75 percent of the customers using this service
+p204
+aVare the middle-class French who can't afford high banking fees.
+p205
+aa(lp206
+VNow, I talked about frugal innovation, initially pioneered in the South,
+p207
+aVnow being adopted in the North.
+p208
+aVUltimately, we would like to see
+p209
+aVdeveloped countries and developing countries
+p210
+aVcome together and co-create frugal solutions
+p211
+aVthat benefit the entire humanity.
+p212
+aVThe exciting news is that's starting to happen.
+p213
+aVLet's go to Nairobi to find that out.
+p214
+aa(lp215
+VNairobi has horrendous traffic jams.
+p216
+aVWhen I first saw them, I thought, "Holy cow."
+p217
+aVLiterally, because you have to dodge cows as well when you drive in Nairobi.
+p218
+aVTo ease the situation,
+p219
+aVthe engineers at the IBM lab in Kenya are piloting a solution called Megaffic,
+p220
+aVwhich initially was designed by the Japanese engineers.
+p221
+aVUnlike in the West, Megaffic doesn't rely on roadside sensors,
+p222
+aVwhich are very expensive to install in Nairobi.
+p223
+aVInstead they process images, traffic data,
+p224
+aVcollected from a small number of low-resolution webcams in Nairobi streets,
+p225
+aVand then they use analytic software to predict congestion points,
+p226
+aVand they can SMS drivers alternate routes to take.
+p227
+aVGranted, Megaffic is not as sexy as self-driving cars,
+p228
+aVbut it promises to take Nairobi drivers from point A to point B
+p229
+aVat least 20 percent faster.
+p230
+aVAnd earlier this year, UCLA Health launched its Global Lab for Innovation,
+p231
+aVwhich seeks to identify frugal healthcare  solutions anywhere in the world
+p232
+aVthat will be at least 20 percent cheaper than existing solutions in the U.S.
+p233
+aVand yet more effective.
+p234
+aVIt also tries to bring together innovators from North and South
+p235
+aVto cocreate affordable healthcare solutions for all of humanity.
+p236
+aa(lp237
+VI gave tons of examples of frugal innovators from around the world,
+p238
+aVbut the question is, how do you go about adopting frugal innovation?
+p239
+aVWell, I gleaned out three principles from frugal innovators around the world
+p240
+aVthat I want to share with you
+p241
+aVthat you can apply in your own organization
+p242
+aVto do more with less.
+p243
+aa(lp244
+VThe first principle is: Keep it simple.
+p245
+aVDon't create solutions to impress customers.
+p246
+aVMake them easy enough to use and widely accessible,
+p247
+aVlike the C.T. scanner we saw in China.
+p248
+aa(lp249
+VSecond principle:  Do not reinvent the wheel.
+p250
+aVTry to leverage existing resources and assets that are widely available,
+p251
+aVlike using mobile telephony to offer clean energy
+p252
+aVor Mom and Pop stores to offer banking services.
+p253
+aa(lp254
+VThird principle is: Think and act horizontally.
+p255
+aVCompanies tend to scale up vertically
+p256
+aVby centralizing operations in big factories and warehouses,
+p257
+aVbut if you want to be agile and deal with immense customer diversity,
+p258
+aVyou need to scale out horizontally using a distributed supply chain
+p259
+aVwith smaller manufacturing and distribution units,
+p260
+aVlike Grameen Bank has shown.
+p261
+aa(lp262
+VThe South pioneered frugal innovation out of sheer necessity.
+p263
+aVThe North is now learning to do more and better with less
+p264
+aVas it faces resource constraints.
+p265
+aVAs an Indian-born French national who lives in the United States,
+p266
+aVmy hope is that we transcend this artificial North-South divide
+p267
+aVso that we can harness the collective ingenuity
+p268
+aVof innovators from around the world
+p269
+aVto cocreate frugal solutions
+p270
+aVthat will improve the quality of life of everyone in the world,
+p271
+aVwhile preserving our precious planet.
+p272
+aa(lp273
+VThank you very much.
+p274
+aa(lp275
+V(Applause)
+p276
+aasS'id'
+p277
+I2167
+sS'title'
+p278
+VCreative problem-solving in the face of extreme limits
+p279
+s.

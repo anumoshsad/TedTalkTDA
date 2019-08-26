@@ -1,0 +1,627 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhen I was about three or four years old,
+p4
+aVI remember my mum reading a story to me
+p5
+aVand my two big brothers,
+p6
+aVand I remember putting up my hands
+p7
+aVto feel the page of the book,
+p8
+aVto feel the picture they were discussing.
+p9
+aa(lp10
+VAnd my mum said, "Darling,
+p11
+aVremember that you can't see
+p12
+aVand you can't feel the picture
+p13
+aVand you can't feel the print on the page."
+p14
+aa(lp15
+VAnd I thought to myself,
+p16
+aV"But that's what I want to do.
+p17
+aVI love stories. I want to read."
+p18
+aVLittle did I know
+p19
+aVthat I would be part of a technological revolution
+p20
+aVthat would make that dream come true.
+p21
+aa(lp22
+VI was born premature by about 10 weeks,
+p23
+aVwhich resulted in my blindness, some 64 years ago.
+p24
+aVThe condition is known as retrolental fibroplasia,
+p25
+aVand it's now very rare in the developed world.
+p26
+aVLittle did I know, lying curled up
+p27
+aVin my prim baby humidicrib in 1948
+p28
+aVthat I'd been born at the right place
+p29
+aVand the right time,
+p30
+aVthat I was in a country where I could participate
+p31
+aVin the technological revolution.
+p32
+aa(lp33
+VThere are 37 million totally blind people on our planet,
+p34
+aVbut those of us who've shared in the technological changes
+p35
+aVmainly come from North America, Europe,
+p36
+aVJapan and other developed parts of the world.
+p37
+aVComputers have changed the lives of us all in this room
+p38
+aVand around the world,
+p39
+aVbut I think they've changed the lives
+p40
+aVof we blind people more than any other group.
+p41
+aVAnd so I want to tell you about the interaction
+p42
+aVbetween computer-based adaptive technology
+p43
+aVand the many volunteers who helped me over the years
+p44
+aVto become the person I am today.
+p45
+aVIt's an interaction between volunteers,
+p46
+aVpassionate inventors and technology,
+p47
+aVand it's a story that many other blind people could tell.
+p48
+aVBut let me tell you a bit about it today.
+p49
+aa(lp50
+VWhen I was five, I went to school and I learned braille.
+p51
+aVIt's an ingenious system of six dots
+p52
+aVthat are punched into paper,
+p53
+aVand I can feel them with my fingers.
+p54
+aVIn fact, I think they're putting up my grade six report.
+p55
+aVI don't know where Julian Morrow got that from.
+p56
+aV(Laughter)
+p57
+aVI was pretty good in reading,
+p58
+aVbut religion and musical appreciation needed more work.
+p59
+aV(Laughter)
+p60
+aa(lp61
+VWhen you leave the opera house,
+p62
+aVyou'll find there's braille signage in the lifts.
+p63
+aVLook for it. Have you noticed it?
+p64
+aVI do. I look for it all the time.
+p65
+aa(lp66
+V(Laughter)
+p67
+aa(lp68
+VWhen I was at school,
+p69
+aVthe books were transcribed by transcribers,
+p70
+aVvoluntary people who punched one dot at a time
+p71
+aVso I'd have volumes to read,
+p72
+aVand that had been going on, mainly by women,
+p73
+aVsince the late 19th century in this country,
+p74
+aVbut it was the only way I could read.
+p75
+aVWhen I was in high school,
+p76
+aVI got my first Philips reel-to-reel tape recorder,
+p77
+aVand tape recorders became my sort of pre-computer
+p78
+aVmedium of learning.
+p79
+aVI could have family and friends read me material,
+p80
+aVand I could then read it back
+p81
+aVas many times as I needed.
+p82
+aVAnd it brought me into contact
+p83
+aVwith volunteers and helpers.
+p84
+aVFor example, when I studied at graduate school
+p85
+aVat Queen's University in Canada,
+p86
+aVthe prisoners at the Collins Bay jail agreed to help me.
+p87
+aVI gave them a tape recorder, and they read into it.
+p88
+aVAs one of them said to me,
+p89
+aV"Ron, we ain't going anywhere at the moment."
+p90
+aa(lp91
+V(Laughter)
+p92
+aa(lp93
+VBut think of it. These men,
+p94
+aVwho hadn't had the educational opportunities I'd had,
+p95
+aVhelped me gain post-graduate qualifications in law
+p96
+aVby their dedicated help.
+p97
+aa(lp98
+VWell, I went back and became an academic
+p99
+aVat Melbourne's Monash University,
+p100
+aVand for those 25 years,
+p101
+aVtape recorders were everything to me.
+p102
+aVIn fact, in my office in 1990,
+p103
+aVI had 18 miles of tape.
+p104
+aVStudents, family and friends all read me material.
+p105
+aVMrs. Lois Doery,
+p106
+aVwhom I later came to call my surrogate mum,
+p107
+aVread me many thousands of hours onto tape.
+p108
+aVOne of the reasons I agreed to give this talk today
+p109
+aVwas that I was hoping that Lois would be here
+p110
+aVso I could introduce you to her and publicly thank her.
+p111
+aVBut sadly, her health hasn't permitted her to come today.
+p112
+aVBut I thank you here, Lois, from this platform.
+p113
+aa(lp114
+V(Applause)
+p115
+aa(lp116
+VI saw my first Apple computer in 1984,
+p117
+aVand I thought to myself,
+p118
+aV"This thing's got a glass screen, not much use to me."
+p119
+aVHow very wrong I was.
+p120
+aVIn 1987, in the month our eldest son Gerard was born,
+p121
+aVI got my first blind computer,
+p122
+aVand it's actually here.
+p123
+aVSee it up there?
+p124
+aVAnd you see it has no, what do you call it, no screen.
+p125
+aV(Laughter)
+p126
+aVIt's a blind computer.
+p127
+aV(Laughter)
+p128
+aVIt's a Keynote Gold 84k,
+p129
+aVand the 84k stands for it had 84 kilobytes of memory.
+p130
+aV(Laughter)
+p131
+aVDon't laugh, it cost me 4,000 dollars at the time. (Laughter)
+p132
+aVI think there's more memory in my watch.
+p133
+aa(lp134
+VIt was invented by Russell Smith, a passionate inventor
+p135
+aVin New Zealand who was trying to help blind people.
+p136
+aVSadly, he died in a light plane crash in 2005,
+p137
+aVbut his memory lives on in my heart.
+p138
+aVIt meant, for the first time,
+p139
+aVI could read back what I had typed into it.
+p140
+aVIt had a speech synthesizer.
+p141
+aVI'd written my first coauthored labor law book
+p142
+aVon a typewriter in 1979 purely from memory.
+p143
+aVThis now allowed me to read back what I'd written
+p144
+aVand to enter the computer world,
+p145
+aVeven with its 84k of memory.
+p146
+aa(lp147
+VIn 1974, the great Ray Kurzweil, the American inventor,
+p148
+aVworked on building a machine that would scan books
+p149
+aVand read them out in synthetic speech.
+p150
+aVOptical character recognition units then
+p151
+aVonly operated usually on one font,
+p152
+aVbut by using charge-coupled device flatbed scanners
+p153
+aVand speech synthesizers,
+p154
+aVhe developed a machine that could read any font.
+p155
+aVAnd his machine, which was as big as a washing machine,
+p156
+aVwas launched on the 13th of January, 1976.
+p157
+aVI saw my first commercially available Kurzweil
+p158
+aVin March 1989, and it blew me away,
+p159
+aVand in September 1989,
+p160
+aVthe month that my associate professorship
+p161
+aVat Monash University was announced,
+p162
+aVthe law school got one, and I could use it.
+p163
+aVFor the first time, I could read what I wanted to read
+p164
+aVby putting a book on the scanner.
+p165
+aVI didn't have to be nice to people!
+p166
+aa(lp167
+V(Laughter)
+p168
+aa(lp169
+VI no longer would be censored.
+p170
+aVFor example, I was too shy then,
+p171
+aVand I'm actually too shy now, to ask anybody
+p172
+aVto read me out loud sexually explicit material.
+p173
+aV(Laughter)
+p174
+aVBut, you know, I could pop a book on in the middle of the night, and \u2014
+p175
+aV(Laughter) (Applause)
+p176
+aa(lp177
+VNow, the Kurzweil reader is simply
+p178
+aVa program on my laptop.
+p179
+aVThat's what it's shrunk to.
+p180
+aVAnd now I can scan the latest novel
+p181
+aVand not wait to get it into talking book libraries.
+p182
+aVI can keep up with my friends.
+p183
+aa(lp184
+VThere are many people who have helped me in my life,
+p185
+aVand many that I haven't met.
+p186
+aVOne is another American inventor Ted Henter.
+p187
+aVTed was a motorcycle racer,
+p188
+aVbut in 1978 he had a car accident and lost his sight,
+p189
+aVwhich is devastating if you're trying to ride motorbikes.
+p190
+aVHe then turned to being a waterskier
+p191
+aVand was a champion disabled waterskier.
+p192
+aVBut in 1989, he teamed up with Bill Joyce
+p193
+aVto develop a program that would read out
+p194
+aVwhat was on the computer screen
+p195
+aVfrom the Net or from what was on the computer.
+p196
+aVIt's called JAWS, Job Access With Speech,
+p197
+aVand it sounds like this.
+p198
+aa(lp199
+V(JAWS speaking)
+p200
+aa(lp201
+VRon McCallum: Isn't that slow?
+p202
+aa(lp203
+V(Laughter)
+p204
+aVYou see, if I read like that, I'd fall asleep.
+p205
+aVI slowed it down for you.
+p206
+aVI'm going to ask that we play it at the speed I read it.
+p207
+aVCan we play that one?
+p208
+aa(lp209
+V(JAWS speaking)
+p210
+aa(lp211
+V(Laughter)
+p212
+aa(lp213
+VRM: You know, when you're marking student essays,
+p214
+aVyou want to get through them fairly quickly.
+p215
+aa(lp216
+V(Laughter) (Applause)
+p217
+aa(lp218
+VThis technology that fascinated me in 1987
+p219
+aVis now on my iPhone and on yours as well.
+p220
+aVBut, you know, I find reading with machines
+p221
+aVa very lonely process.
+p222
+aVI grew up with family, friends, reading to me,
+p223
+aVand I loved the warmth and the breath
+p224
+aVand the closeness of people reading.
+p225
+aVDo you love being read to?
+p226
+aVAnd one of my most enduring memories
+p227
+aVis in 1999, Mary reading to me and the children
+p228
+aVdown near Manly Beach
+p229
+aV"Harry Potter and the Philosopher's Stone."
+p230
+aVIsn't that a great book?
+p231
+aVI still love being close to someone reading to me.
+p232
+aVBut I wouldn't give up the technology,
+p233
+aVbecause it's allowed me to lead a great life.
+p234
+aa(lp235
+VOf course, talking books for the blind
+p236
+aVpredated all this technology.
+p237
+aVAfter all, the long-playing record was developed
+p238
+aVin the early 1930s,
+p239
+aVand now we put talking books on CDs
+p240
+aVusing the digital access system known as DAISY.
+p241
+aVBut when I'm reading with synthetic voices,
+p242
+aVI love to come home and read a racy novel
+p243
+aVwith a real voice.
+p244
+aa(lp245
+VNow there are still barriers
+p246
+aVin front of we people with disabilities.
+p247
+aVMany websites we can't read using JAWS
+p248
+aVand the other technologies.
+p249
+aVWebsites are often very visual,
+p250
+aVand there are all these sorts of graphs
+p251
+aVthat aren't labeled and buttons that aren't labeled,
+p252
+aVand that's why the World Wide Web Consortium 3,
+p253
+aVknown as W3C, has developed worldwide standards
+p254
+aVfor the Internet.
+p255
+aVAnd we want all Internet users or Internet site owners
+p256
+aVto make their sites compatible so that
+p257
+aVwe persons without vision can have a level playing field.
+p258
+aVThere are other barriers brought about by our laws.
+p259
+aVFor example, Australia,
+p260
+aVlike about one third of the world's countries,
+p261
+aVhas copyright exceptions which allow books to be brailled
+p262
+aVor read for we blind persons.
+p263
+aVBut those books can't travel across borders.
+p264
+aVFor example, in Spain, there are a 100,000
+p265
+aVaccessible books in Spanish.
+p266
+aVIn Argentina, there are 50,000.
+p267
+aVIn no other Latin American country
+p268
+aVare there more than a couple of thousand.
+p269
+aVBut it's not legal to transport the books
+p270
+aVfrom Spain to Latin America.
+p271
+aVThere are hundreds of thousands of accessible books
+p272
+aVin the United States, Britain, Canada, Australia, etc.,
+p273
+aVbut they can't be transported to the 60 countries
+p274
+aVin our world where English is the first and the second language.
+p275
+aVAnd remember I was telling you about Harry Potter.
+p276
+aVWell, because we can't transport books across borders,
+p277
+aVthere had to be separate versions read
+p278
+aVin all the different English-speaking countries:
+p279
+aVBritain, United States, Canada, Australia,
+p280
+aVand New Zealand all had to have
+p281
+aVseparate readings of Harry Potter.
+p282
+aa(lp283
+VAnd that's why, next month in Morocco,
+p284
+aVa meeting is taking place between all the countries.
+p285
+aVIt's something that a group of countries
+p286
+aVand the World Blind Union are advocating,
+p287
+aVa cross-border treaty
+p288
+aVso that if books are available under a copyright exception
+p289
+aVand the other country has a copyright exception,
+p290
+aVwe can transport those books across borders
+p291
+aVand give life to people, particularly in developing countries,
+p292
+aVblind people who don't have the books to read.
+p293
+aVI want that to happen.
+p294
+aa(lp295
+V(Applause)
+p296
+aa(lp297
+VMy life has been extraordinarily blessed
+p298
+aVwith marriage and children
+p299
+aVand certainly interesting work to do,
+p300
+aVwhether it be at the University of Sydney Law School,
+p301
+aVwhere I served a term as dean,
+p302
+aVor now as I sit on the United Nations Committee
+p303
+aVon the Rights of Persons with Disabilities, in Geneva.
+p304
+aVI've indeed been a very fortunate human being.
+p305
+aa(lp306
+VI wonder what the future will hold.
+p307
+aVThe technology will advance even further,
+p308
+aVbut I can still remember my mum saying, 60 years ago,
+p309
+aV"Remember, darling,
+p310
+aVyou'll never be able to read the print with your fingers."
+p311
+aVI'm so glad that the interaction between braille transcribers,
+p312
+aVvolunteer readers and passionate inventors,
+p313
+aVhas allowed this dream of reading to come true for me
+p314
+aVand for blind people throughout the world.
+p315
+aa(lp316
+VI'd like to thank my researcher Hannah Martin,
+p317
+aVwho is my slide clicker, who clicks the slides,
+p318
+aVand my wife, Professor Mary Crock, who's the light of my life,
+p319
+aVis coming on to collect me.
+p320
+aVI want to thank her too.
+p321
+aa(lp322
+VI think I have to say goodbye now.
+p323
+aVBless you. Thank you very much.
+p324
+aa(lp325
+V(Applause)
+p326
+aVYay! (Applause)
+p327
+aVOkay. Okay. Okay. Okay. Okay. (Applause)
+p328
+aasS'id'
+p329
+I1818
+sS'title'
+p330
+VHow technology allowed me to read
+p331
+s.

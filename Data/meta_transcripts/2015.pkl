@@ -1,0 +1,532 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VLet me tell you a story.
+p4
+aVIt goes back 200 million years.
+p5
+aVIt's a story of the neocortex,
+p6
+aVwhich means "new rind."
+p7
+aVSo in these early mammals,
+p8
+aVbecause only mammals have a neocortex,
+p9
+aVrodent-like creatures.
+p10
+aVIt was the size of a postage stamp and just as thin,
+p11
+aVand was a thin covering around
+p12
+aVtheir walnut-sized brain,
+p13
+aVbut it was capable of a new type of thinking.
+p14
+aVRather than the fixed behaviors
+p15
+aVthat non-mammalian animals have,
+p16
+aVit could invent new behaviors.
+p17
+aVSo a mouse is escaping a predator,
+p18
+aVits path is blocked,
+p19
+aVit'll try to invent a new solution.
+p20
+aVThat may work, it may not,
+p21
+aVbut if it does, it will remember that
+p22
+aVand have a new behavior,
+p23
+aVand that can actually spread virally
+p24
+aVthrough the rest of the community.
+p25
+aVAnother mouse watching this could say,
+p26
+aV"Hey, that was pretty clever, going around that rock,"
+p27
+aVand it could adopt a new behavior as well.
+p28
+aa(lp29
+VNon-mammalian animals
+p30
+aVcouldn't do any of those things.
+p31
+aVThey had fixed behaviors.
+p32
+aVNow they could learn a new behavior
+p33
+aVbut not in the course of one lifetime.
+p34
+aVIn the course of maybe a thousand lifetimes,
+p35
+aVit could evolve a new fixed behavior.
+p36
+aVThat was perfectly okay 200 million years ago.
+p37
+aVThe environment changed very slowly.
+p38
+aVIt could take 10,000 years for there to be
+p39
+aVa significant environmental change,
+p40
+aVand during that period of time
+p41
+aVit would evolve a new behavior.
+p42
+aa(lp43
+VNow that went along fine,
+p44
+aVbut then something happened.
+p45
+aVSixty-five million years ago,
+p46
+aVthere was a sudden, violent change to the environment.
+p47
+aVWe call it the Cretaceous extinction event.
+p48
+aVThat's when the dinosaurs went extinct,
+p49
+aVthat's when 75 percent of the
+p50
+aVanimal and plant species went extinct,
+p51
+aVand that's when mammals
+p52
+aVovertook their ecological niche,
+p53
+aVand to anthropomorphize, biological evolution said,
+p54
+aV"Hmm, this neocortex is pretty good stuff,"
+p55
+aVand it began to grow it.
+p56
+aVAnd mammals got bigger,
+p57
+aVtheir brains got bigger at an even faster pace,
+p58
+aVand the neocortex got bigger even faster than that
+p59
+aVand developed these distinctive ridges and folds
+p60
+aVbasically to increase its surface area.
+p61
+aVIf you took the human neocortex
+p62
+aVand stretched it out,
+p63
+aVit's about the size of a table napkin,
+p64
+aVand it's still a thin structure.
+p65
+aVIt's about the thickness of a table napkin.
+p66
+aVBut it has so many convolutions and ridges
+p67
+aVit's now 80 percent of our brain,
+p68
+aVand that's where we do our thinking,
+p69
+aVand it's the great sublimator.
+p70
+aVWe still have that old brain
+p71
+aVthat provides our basic drives and motivations,
+p72
+aVbut I may have a drive for conquest,
+p73
+aVand that'll be sublimated by the neocortex
+p74
+aVinto writing a poem or inventing an app
+p75
+aVor giving a TED Talk,
+p76
+aVand it's really the neocortex that's where
+p77
+aVthe action is.
+p78
+aa(lp79
+VFifty years ago, I wrote a paper
+p80
+aVdescribing how I thought the brain worked,
+p81
+aVand I described it as a series of modules.
+p82
+aVEach module could do things with a pattern.
+p83
+aVIt could learn a pattern. It could remember a pattern.
+p84
+aVIt could implement a pattern.
+p85
+aVAnd these modules were organized in hierarchies,
+p86
+aVand we created that hierarchy with our own thinking.
+p87
+aVAnd there was actually very little to go on
+p88
+aV50 years ago.
+p89
+aVIt led me to meet President Johnson.
+p90
+aVI've been thinking about this for 50 years,
+p91
+aVand a year and a half ago I came out with the book
+p92
+aV"How To Create A Mind,"
+p93
+aVwhich has the same thesis,
+p94
+aVbut now there's a plethora of evidence.
+p95
+aVThe amount of data we're getting about the brain
+p96
+aVfrom neuroscience is doubling every year.
+p97
+aVSpatial resolution of brainscanning of all types
+p98
+aVis doubling every year.
+p99
+aVWe can now see inside a living brain
+p100
+aVand see individual interneural connections
+p101
+aVconnecting in real time, firing in real time.
+p102
+aVWe can see your brain create your thoughts.
+p103
+aVWe can see your thoughts create your brain,
+p104
+aVwhich is really key to how it works.
+p105
+aa(lp106
+VSo let me describe briefly how it works.
+p107
+aVI've actually counted these modules.
+p108
+aVWe have about 300 million of them,
+p109
+aVand we create them in these hierarchies.
+p110
+aVI'll give you a simple example.
+p111
+aVI've got a bunch of modules
+p112
+aVthat can recognize the crossbar to a capital A,
+p113
+aVand that's all they care about.
+p114
+aVA beautiful song can play,
+p115
+aVa pretty girl could walk by,
+p116
+aVthey don't care, but they see a crossbar to a capital A,
+p117
+aVthey get very excited and they say "crossbar,"
+p118
+aVand they put out a high probability
+p119
+aVon their output axon.
+p120
+aVThat goes to the next level,
+p121
+aVand these layers are organized in conceptual levels.
+p122
+aVEach is more abstract than the next one,
+p123
+aVso the next one might say "capital A."
+p124
+aVThat goes up to a higher level that might say "Apple."
+p125
+aVInformation flows down also.
+p126
+aVIf the apple recognizer has seen A-P-P-L,
+p127
+aVit'll think to itself, "Hmm, I think an E is probably likely,"
+p128
+aVand it'll send a signal down to all the E recognizers
+p129
+aVsaying, "Be on the lookout for an E,
+p130
+aVI think one might be coming."
+p131
+aVThe E recognizers will lower their threshold
+p132
+aVand they see some sloppy thing, could be an E.
+p133
+aVOrdinarily you wouldn't think so,
+p134
+aVbut we're expecting an E, it's good enough,
+p135
+aVand yeah, I've seen an E, and then apple says,
+p136
+aV"Yeah, I've seen an Apple."
+p137
+aa(lp138
+VGo up another five levels,
+p139
+aVand you're now at a pretty high level
+p140
+aVof this hierarchy,
+p141
+aVand stretch down into the different senses,
+p142
+aVand you may have a module that sees a certain fabric,
+p143
+aVhears a certain voice quality, smells a certain perfume,
+p144
+aVand will say, "My wife has entered the room."
+p145
+aa(lp146
+VGo up another 10 levels, and now you're at
+p147
+aVa very high level.
+p148
+aVYou're probably in the frontal cortex,
+p149
+aVand you'll have modules that say, "That was ironic.
+p150
+aVThat's funny. She's pretty."
+p151
+aa(lp152
+VYou might think that those are more sophisticated,
+p153
+aVbut actually what's more complicated
+p154
+aVis the hierarchy beneath them.
+p155
+aVThere was a 16-year-old girl, she had brain surgery,
+p156
+aVand she was conscious because the surgeons
+p157
+aVwanted to talk to her.
+p158
+aVYou can do that because there's no pain receptors
+p159
+aVin the brain.
+p160
+aVAnd whenever they stimulated particular,
+p161
+aVvery small points on her neocortex,
+p162
+aVshown here in red, she would laugh.
+p163
+aVSo at first they thought they were triggering
+p164
+aVsome kind of laugh reflex,
+p165
+aVbut no, they quickly realized they had found
+p166
+aVthe points in her neocortex that detect humor,
+p167
+aVand she just found everything hilarious
+p168
+aVwhenever they stimulated these points.
+p169
+aV"You guys are so funny just standing around,"
+p170
+aVwas the typical comment,
+p171
+aVand they weren't funny,
+p172
+aVnot while doing surgery.
+p173
+aa(lp174
+VSo how are we doing today?
+p175
+aVWell, computers are actually beginning to master
+p176
+aVhuman language with techniques
+p177
+aVthat are similar to the neocortex.
+p178
+aVI actually described the algorithm,
+p179
+aVwhich is similar to something called
+p180
+aVa hierarchical hidden Markov model,
+p181
+aVsomething I've worked on since the '90s.
+p182
+aV"Jeopardy" is a very broad natural language game,
+p183
+aVand Watson got a higher score
+p184
+aVthan the best two players combined.
+p185
+aVIt got this query correct:
+p186
+aV"A long, tiresome speech
+p187
+aVdelivered by a frothy pie topping,"
+p188
+aVand it quickly responded, "What is a meringue harangue?"
+p189
+aVAnd Jennings and the other guy didn't get that.
+p190
+aVIt's a pretty sophisticated example of
+p191
+aVcomputers actually understanding human language,
+p192
+aVand it actually got its knowledge by reading
+p193
+aVWikipedia and several other encyclopedias.
+p194
+aa(lp195
+VFive to 10 years from now,
+p196
+aVsearch engines will actually be based on
+p197
+aVnot just looking for combinations of words and links
+p198
+aVbut actually understanding,
+p199
+aVreading for understanding the billions of pages
+p200
+aVon the web and in books.
+p201
+aVSo you'll be walking along, and Google will pop up
+p202
+aVand say, "You know, Mary, you expressed concern
+p203
+aVto me a month ago that your glutathione supplement
+p204
+aVwasn't getting past the blood-brain barrier.
+p205
+aVWell, new research just came out 13 seconds ago
+p206
+aVthat shows a whole new approach to that
+p207
+aVand a new way to take glutathione.
+p208
+aVLet me summarize it for you."
+p209
+aa(lp210
+VTwenty years from now, we'll have nanobots,
+p211
+aVbecause another exponential trend
+p212
+aVis the shrinking of technology.
+p213
+aVThey'll go into our brain
+p214
+aVthrough the capillaries
+p215
+aVand basically connect our neocortex
+p216
+aVto a synthetic neocortex in the cloud
+p217
+aVproviding an extension of our neocortex.
+p218
+aVNow today, I mean,
+p219
+aVyou have a computer in your phone,
+p220
+aVbut if you need 10,000 computers for a few seconds
+p221
+aVto do a complex search,
+p222
+aVyou can access that for a second or two in the cloud.
+p223
+aVIn the 2030s, if you need some extra neocortex,
+p224
+aVyou'll be able to connect to that in the cloud
+p225
+aVdirectly from your brain.
+p226
+aVSo I'm walking along and I say,
+p227
+aV"Oh, there's Chris Anderson.
+p228
+aVHe's coming my way.
+p229
+aVI'd better think of something clever to say.
+p230
+aVI've got three seconds.
+p231
+aVMy 300 million modules in my neocortex
+p232
+aVisn't going to cut it.
+p233
+aVI need a billion more."
+p234
+aVI'll be able to access that in the cloud.
+p235
+aVAnd our thinking, then, will be a hybrid
+p236
+aVof biological and non-biological thinking,
+p237
+aVbut the non-biological portion
+p238
+aVis subject to my law of accelerating returns.
+p239
+aVIt will grow exponentially.
+p240
+aVAnd remember what happens
+p241
+aVthe last time we expanded our neocortex?
+p242
+aVThat was two million years ago
+p243
+aVwhen we became humanoids
+p244
+aVand developed these large foreheads.
+p245
+aVOther primates have a slanted brow.
+p246
+aVThey don't have the frontal cortex.
+p247
+aVBut the frontal cortex is not really qualitatively different.
+p248
+aVIt's a quantitative expansion of neocortex,
+p249
+aVbut that additional quantity of thinking
+p250
+aVwas the enabling factor for us to take
+p251
+aVa qualitative leap and invent language
+p252
+aVand art and science and technology
+p253
+aVand TED conferences.
+p254
+aVNo other species has done that.
+p255
+aa(lp256
+VAnd so, over the next few decades,
+p257
+aVwe're going to do it again.
+p258
+aVWe're going to again expand our neocortex,
+p259
+aVonly this time we won't be limited
+p260
+aVby a fixed architecture of enclosure.
+p261
+aVIt'll be expanded without limit.
+p262
+aVThat additional quantity will again
+p263
+aVbe the enabling factor for another qualitative leap
+p264
+aVin culture and technology.
+p265
+aa(lp266
+VThank you very much.
+p267
+aa(lp268
+V(Applause)
+p269
+aasS'id'
+p270
+I2015
+sS'title'
+p271
+VGet ready for hybrid thinking
+p272
+s.

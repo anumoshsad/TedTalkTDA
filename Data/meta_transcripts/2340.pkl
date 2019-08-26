@@ -1,0 +1,282 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIn the year 1901,
+p4
+aVa woman called Auguste was taken to a medical asylum in Frankfurt.
+p5
+aVAuguste was delusional
+p6
+aVand couldn't remember even the most basic details of her life.
+p7
+aVHer doctor was called Alois.
+p8
+aVAlois didn't know how to help Auguste,
+p9
+aVbut he watched over her until, sadly, she passed away in 1906.
+p10
+aVAfter she died, Alois performed an autopsy
+p11
+aVand found strange plaques and tangles in Auguste's brain \u2014
+p12
+aVthe likes of which he'd never seen before.
+p13
+aa(lp14
+VNow here's the even more striking thing.
+p15
+aVIf Auguste had instead been alive today,
+p16
+aVwe could offer her no more help than Alois was able to 114 years ago.
+p17
+aVAlois was Dr. Alois Alzheimer.
+p18
+aVAnd Auguste Deter
+p19
+aVwas the first patient to be diagnosed with what we now call Alzheimer's disease.
+p20
+aVSince 1901, medicine has advanced greatly.
+p21
+aVWe've discovered antibiotics and vaccines to protect us from infections,
+p22
+aVmany treatments for cancer, antiretrovirals for HIV,
+p23
+aVstatins for heart disease and much more.
+p24
+aVBut we've made essentially no progress at all in treating Alzheimer's disease.
+p25
+aa(lp26
+VI'm part of a team of scientists
+p27
+aVwho has been working to find a cure for Alzheimer's for over a decade.
+p28
+aVSo I think about this all the time.
+p29
+aVAlzheimer's now affects 40 million people worldwide.
+p30
+aVBut by 2050, it will affect 150 million people \u2014
+p31
+aVwhich, by the way, will include many of you.
+p32
+aVIf you're hoping to live to be 85 or older,
+p33
+aVyour chance of getting Alzheimer's will be almost one in two.
+p34
+aVIn other words, odds are you'll spend your golden years
+p35
+aVeither suffering from Alzheimer's
+p36
+aVor helping to look after a friend or loved one with Alzheimer's.
+p37
+aVAlready in the United States alone,
+p38
+aVAlzheimer's care costs 200 billion dollars every year.
+p39
+aVOne out of every five Medicare dollars get spent on Alzheimer's.
+p40
+aVIt is today the most expensive disease,
+p41
+aVand costs are projected to increase fivefold by 2050,
+p42
+aVas the baby boomer generation ages.
+p43
+aa(lp44
+VIt may surprise you that, put simply,
+p45
+aVAlzheimer's is one of the biggest medical and social challenges of our generation.
+p46
+aVBut we've done relatively little to address it.
+p47
+aVToday, of the top 10 causes of death worldwide,
+p48
+aVAlzheimer's is the only one we cannot prevent, cure or even slow down.
+p49
+aVWe understand less about the science of Alzheimer's than other diseases
+p50
+aVbecause we've invested less time and money into researching it.
+p51
+aVThe US government spends 10 times more every year
+p52
+aVon cancer research than on Alzheimer's
+p53
+aVdespite the fact that Alzheimer's costs us more
+p54
+aVand causes a similar number of deaths each year as cancer.
+p55
+aa(lp56
+VThe lack of resources stems from a more fundamental cause:
+p57
+aVa lack of awareness.
+p58
+aVBecause here's what few people know but everyone should:
+p59
+aVAlzheimer's is a disease, and we can cure it.
+p60
+aVFor most of the past 114 years,
+p61
+aVeveryone, including scientists, mistakenly confused Alzheimer's with aging.
+p62
+aVWe thought that becoming senile
+p63
+aVwas a normal and inevitable part of getting old.
+p64
+aVBut we only have to look at a picture
+p65
+aVof a healthy aged brain compared to the brain of an Alzheimer's patient
+p66
+aVto see the real physical damage caused by this disease.
+p67
+aVAs well as triggering severe loss of memory and mental abilities,
+p68
+aVthe damage to the brain caused by Alzheimer's
+p69
+aVsignificantly reduces life expectancy and is always fatal.
+p70
+aa(lp71
+VRemember Dr. Alzheimer found strange plaques and tangles
+p72
+aVin Auguste's brain a century ago.
+p73
+aVFor almost a century, we didn't know much about these.
+p74
+aVToday we know they're made from protein molecules.
+p75
+aVYou can imagine a protein molecule
+p76
+aVas a piece of paper that normally folds into an elaborate piece of origami.
+p77
+aVThere are spots on the paper that are sticky.
+p78
+aVAnd when it folds correctly, these sticky bits end up on the inside.
+p79
+aVBut sometimes things go wrong, and some sticky bits are on the outside.
+p80
+aVThis causes the protein molecules to stick to each other,
+p81
+aVforming clumps that eventually become large plaques and tangles.
+p82
+aVThat's what we see in the brains of Alzheimer's patients.
+p83
+aa(lp84
+VWe've spent the past 10 years at the University of Cambridge
+p85
+aVtrying to understand how this malfunction works.
+p86
+aVThere are many steps, and identifying which step to try to block is complex \u2014
+p87
+aVlike defusing a bomb.
+p88
+aVCutting one wire might do nothing.
+p89
+aVCutting others might make the bomb explore.
+p90
+aVWe have to find the right step to block,
+p91
+aVand then create a drug that does it.
+p92
+aa(lp93
+VUntil recently, we for the most part
+p94
+aVhave been cutting wires and hoping for the best.
+p95
+aVBut now we've got together a diverse group of people \u2014
+p96
+aVmedics, biologists, geneticists, chemists, physicists, engineers and mathematicians.
+p97
+aVAnd together, we've managed to identify a critical step in the process
+p98
+aVand are now testing a new class of drugs which would specifically block this step
+p99
+aVand stop the disease.
+p100
+aa(lp101
+VNow let me show you some of our latest results.
+p102
+aVNo one outside of our lab has seen these yet.
+p103
+aVLet's look at some videos of what happened when we tested these new drugs in worms.
+p104
+aVSo these are healthy worms,
+p105
+aVand you can see they're moving around normally.
+p106
+aVThese worms, on the other hand,
+p107
+aVhave protein molecules sticking together inside them \u2014
+p108
+aVlike humans with Alzheimer's.
+p109
+aVAnd you can see they're clearly sick.
+p110
+aVBut if we give our new drugs to these worms at an early stage,
+p111
+aVthen we see that they're healthy, and they live a normal lifespan.
+p112
+aVThis is just an initial positive result, but research like this
+p113
+aVshows us that Alzheimer's is a disease that we can understand and we can cure.
+p114
+aa(lp115
+VAfter 114 years of waiting,
+p116
+aVthere's finally real hope for what can be achieved
+p117
+aVin the next 10 or 20 years.
+p118
+aVBut to grow that hope, to finally beat Alzheimer's, we need help.
+p119
+aVThis isn't about scientists like me \u2014
+p120
+aVit's about you.
+p121
+aVWe need you to raise awareness that Alzheimer's is a disease
+p122
+aVand that if we try, we can beat it.
+p123
+aVIn the case of other diseases,
+p124
+aVpatients and their families have led the charge for more research
+p125
+aVand put pressure on governments, the pharmaceutical industry,
+p126
+aVscientists and regulators.
+p127
+aVThat was essential for advancing treatment for HIV in the late 1980s.
+p128
+aVToday, we see that same drive to beat cancer.
+p129
+aVBut Alzheimer's patients are often unable to speak up for themselves.
+p130
+aVAnd their families, the hidden victims, caring for their loved ones night and day,
+p131
+aVare often too worn out to go out and advocate for change.
+p132
+aVSo, it really is down to you.
+p133
+aVAlzheimer's isn't, for the most part, a genetic disease.
+p134
+aVEveryone with a brain is at risk.
+p135
+aVToday, there are 40 million patients like Auguste,
+p136
+aVwho can't create the change they need for themselves.
+p137
+aVHelp speak up for them,
+p138
+aVand help demand a cure.
+p139
+aa(lp140
+VThank you.
+p141
+aa(lp142
+V(Applause)
+p143
+aasS'id'
+p144
+I2340
+sS'title'
+p145
+VAlzheimer's is not normal aging \u2014 and we can cure it
+p146
+s.

@@ -1,0 +1,440 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIt's time to start designing for our ears.
+p4
+aVArchitects and designers tend to focus
+p5
+aVexclusively on these.
+p6
+aVThey use these to design with and they design for them,
+p7
+aVwhich is why we end up sitting in restaurants that look
+p8
+aVlike this \u2014 (loud crowd noise) \u2014 and sound like this,
+p9
+aVshouting from a foot away to try and be heard
+p10
+aVby our dinner companion,
+p11
+aVor why we get on airplanes \u2014 (flight attendant announcements) \u2014 which cost 200 million pounds,
+p12
+aVwith somebody talking through an old-fashioned telephone handset
+p13
+aVon a cheap stereo system,
+p14
+aVmaking us jump out of our skins.
+p15
+aa(lp16
+VWe're designing environments that make us crazy. (Laughter)
+p17
+aVAnd it's not just our quality of life which suffers.
+p18
+aVIt's our health,
+p19
+aVour social behavior, and our productivity as well.
+p20
+aa(lp21
+VHow does this work? Well, two ways.
+p22
+aVFirst of all, ambience. I have a whole TEDTalk about this.
+p23
+aVSound affects us physiologically, psychologically,
+p24
+aVcognitively and behaviorally all the time.
+p25
+aVThe sound around us is affecting us
+p26
+aVeven though we're not conscious of it.
+p27
+aVThere's a second way though, as well.
+p28
+aVThat's interference. Communication requires sending
+p29
+aVand receiving, and I have another whole TEDTalk
+p30
+aVabout the importance of conscious listening,
+p31
+aVbut I can send as well as I like,
+p32
+aVand you can be brilliant conscious listeners.
+p33
+aVIf the space I'm sending it in is not effective,
+p34
+aVthat communication can't happen.
+p35
+aa(lp36
+VSpaces tend to include noise and acoustics.
+p37
+aVA room like this has acoustics, this one very good acoustics.
+p38
+aVMany rooms are not so good.
+p39
+aVLet me give you some examples from a couple of areas
+p40
+aVwhich I think we all care about: health and education.
+p41
+aV(Hospital noises) When I was visiting my terminally ill father
+p42
+aVin a hospital, I was asking myself,
+p43
+aVhow does anybody get well in a place that sounds like this?
+p44
+aVHospital sound is getting worse all the time.
+p45
+aVNoise levels in hospitals have doubled
+p46
+aVin the last few years, and it affects not just the patients
+p47
+aVbut also the people working there.
+p48
+aVI think we would like for dispensing errors to be zero,
+p49
+aVwouldn't we? And yet, as noise levels go up, so do
+p50
+aVthe errors in dispensing made by the staff in hospitals.
+p51
+aVMost of all, though, it affects the patients,
+p52
+aVand that could be you, it could be me.
+p53
+aVSleep is absolutely crucial for recovery.
+p54
+aVIt's when we regenerate, when we rebuild ourselves,
+p55
+aVand with threatening noise like this going on,
+p56
+aVyour body, even if you are able to sleep, your body
+p57
+aVis telling you, "I'm under threat. This is dangerous."
+p58
+aVAnd the quality of sleep is degraded, and so is our recovery.
+p59
+aVThere are just huge benefits to come
+p60
+aVfrom designing for the ears in our health care.
+p61
+aVThis is an area I intend to take on this year.
+p62
+aa(lp63
+VEducation.
+p64
+aVWhen I see a classroom that looks like this,
+p65
+aVcan you imagine how this sounds?
+p66
+aVI am forced to ask myself a question.
+p67
+aV("Do architects have ears?") (Laughter)
+p68
+aVNow, that's a little unfair. Some of my best friends
+p69
+aVare architects. (Laughter) And they definitely do have ears.
+p70
+aVBut I think sometimes they don't use them
+p71
+aVwhen they're designing buildings. Here's a case in point.
+p72
+aVThis is a 32-million-pound flagship academy school
+p73
+aVwhich was built quite recently in the U.K. and designed
+p74
+aVby one of Britain's top architects.
+p75
+aVUnfortunately, it was designed like a corporate
+p76
+aVheadquarters, with a vast central atrium
+p77
+aVand classrooms leading off it with no back walls at all.
+p78
+aVThe children couldn't hear their teachers.
+p79
+aVThey had to go back in and spend 600,000 pounds
+p80
+aVputting the walls in. Let's stop this madness
+p81
+aVof open plan classrooms right now, please.
+p82
+aa(lp83
+VIt's not just these modern buildings which suffer.
+p84
+aVOld-fashioned classrooms suffer too.
+p85
+aVA study in Florida just a few years ago found
+p86
+aVthat if you're sitting where this photograph was taken
+p87
+aVin the classroom, row four, speech intelligibility
+p88
+aVis just 50 percent.
+p89
+aVChildren are losing one word in two.
+p90
+aVNow that doesn't mean they only get half their education,
+p91
+aVbut it does mean they have to work very hard
+p92
+aVto join the dots and understand what's going on.
+p93
+aa(lp94
+VThis is affected massively by reverberation time,
+p95
+aVhow reverberant a room is.
+p96
+aVIn a classroom with a reverberation time of 1.2 seconds,
+p97
+aVwhich is pretty common, this is what it sounds like.
+p98
+aa(lp99
+V(Inaudible echoing voice)
+p100
+aa(lp101
+VNot so good, is it?
+p102
+aVIf you take that 1.2 seconds down to 0.4 seconds
+p103
+aVby installing acoustic treatments, sound absorbing materials
+p104
+aVand so forth, this is what you get.
+p105
+aa(lp106
+VVoice: In language, infinitely many words can be written
+p107
+aVwith a small set of letters. In arithmetic,
+p108
+aVinfinitely many numbers can be composed
+p109
+aVfrom just a few digits with the help of the simple zero.
+p110
+aa(lp111
+VJulian Treasure: What a difference.
+p112
+aVNow that education you would receive,
+p113
+aVand thanks to the British acoustician Adrian James
+p114
+aVfor those simulations. The signal was the same,
+p115
+aVthe background noise was the same.
+p116
+aVAll that changed was the acoustics of the classroom
+p117
+aVin those two examples.
+p118
+aa(lp119
+VIf education can be likened to watering a garden,
+p120
+aVwhich is a fair metaphor, sadly, much of the water
+p121
+aVis evaporating before it reaches the flowers,
+p122
+aVespecially for some groups,
+p123
+aVfor example, those with hearing impairment.
+p124
+aVNow that's not just deaf children. That could be any child
+p125
+aVwho's got a cold, glue ear, an ear infection,
+p126
+aVeven hay fever. On a given day, one in eight children
+p127
+aVfall into that group, on any given day.
+p128
+aVThen you have children for whom English is a second language,
+p129
+aVor whatever they're being taught in is a second language.
+p130
+aVIn the U.K., that's more than 10 percent of the school population.
+p131
+aVAnd finally, after Susan Cain's wonderful TEDTalk in February,
+p132
+aVwe know that introverts find it very difficult to relate
+p133
+aVwhen they're in a noisy environment doing group work.
+p134
+aVAdd those up. That is a lot of children
+p135
+aVwho are not receiving their education properly.
+p136
+aa(lp137
+VIt's not just the children who are affected, though.
+p138
+aV(Noisy conversation) This study in Germany found
+p139
+aVthe average noise level in classrooms is 65 decibels.
+p140
+aVI have to really raise my voice to talk over 65 decibels
+p141
+aVof sound, and teachers are not just raising their voices.
+p142
+aVThis chart maps the teacher's heart rate
+p143
+aVagainst the noise level.
+p144
+aVNoise goes up, heart rate goes up.
+p145
+aVThat is not good for you.
+p146
+aVIn fact, 65 decibels is the very level at which this big survey
+p147
+aVof all the evidence on noise and health found that, that is
+p148
+aVthe threshold for the danger of myocardial infarction.
+p149
+aVTo you and me, that's a heart attack.
+p150
+aVIt may not be pushing the boat out too far to suggest
+p151
+aVthat many teachers are losing significant life expectancy
+p152
+aVby teaching in environments like that day after day.
+p153
+aa(lp154
+VWhat does it cost to treat a classroom
+p155
+aVdown to that 0.4-second reverberation time?
+p156
+aVTwo and a half thousand pounds.
+p157
+aVAnd the Essex study which has just been done in the U.K.,
+p158
+aVwhich incidentally showed that when you do this,
+p159
+aVyou do not just make a room that's suitable
+p160
+aVfor hearing-impaired children, you make a room
+p161
+aVwhere behavior improves, and results improve significantly,
+p162
+aVthis found that sending a child out of area to a school
+p163
+aVthat does have such a room, if you don't have one,
+p164
+aVcosts 90,000 pounds a year.
+p165
+aVI think the economics are pretty clear on this.
+p166
+aa(lp167
+VI'm glad that debate is happening on this.
+p168
+aVI just moderated a major conference in London
+p169
+aVa few weeks ago called Sound Education,
+p170
+aVwhich brought together top acousticians,
+p171
+aVgovernment people, teachers, and so forth.
+p172
+aVWe're at last starting to debate this issue, and the benefits
+p173
+aVthat are available for designing for the ears in education,
+p174
+aVunbelievable.
+p175
+aVOut of that conference, incidentally, also came
+p176
+aVa free app which is designed to help children study
+p177
+aVif they're having to work at home, for example,
+p178
+aVin a noisy kitchen.
+p179
+aVAnd that's free out of that conference.
+p180
+aa(lp181
+VLet's broaden the perspective a little bit
+p182
+aVand look at cities.
+p183
+aVWe have urban planners.
+p184
+aVWhere are the urban sound planners?
+p185
+aVI don't know of one in the world, and the opportunity is there
+p186
+aVto transform our experience in our cities.
+p187
+aVThe World Health Organization estimates
+p188
+aVthat a quarter of Europe's population is having its sleep
+p189
+aVdegraded by noise in cities. We can do better than that.
+p190
+aa(lp191
+VAnd in our offices, we spend a lot of time at work.
+p192
+aVWhere are the office sound planners?
+p193
+aVPeople who say, don't sit that team next to this team,
+p194
+aVbecause they like noise and they need quiet.
+p195
+aVOr who say, don't spend all your budget on a huge screen
+p196
+aVin the conference room,
+p197
+aVand then place one tiny microphone
+p198
+aVin the middle of a table for 30 people. (Laughter)
+p199
+aVIf you can hear me, you can understand me
+p200
+aVwithout seeing me. If you can see me without hearing me,
+p201
+aVthat does not work.
+p202
+aVSo office sound is a huge area, and incidentally,
+p203
+aVnoise in offices has been shown to make people
+p204
+aVless helpful, less enjoy their teamwork,
+p205
+aVand less productive at work.
+p206
+aa(lp207
+VFinally, we have homes. We use interior designers.
+p208
+aVWhere are the interior sound designers?
+p209
+aVHey, let's all be interior sound designers,
+p210
+aVtake on listening to our rooms and designing sound
+p211
+aVthat's effective and appropriate.
+p212
+aa(lp213
+VMy friend Richard Mazuch, an architect in London,
+p214
+aVcoined the phrase "invisible architecture."
+p215
+aVI love that phrase.
+p216
+aVIt's about designing, not appearance, but experience,
+p217
+aVso that we have spaces that sound as good as they look,
+p218
+aVthat are fit for purpose, that improve our quality of life,
+p219
+aVour health and well being, our social behavior
+p220
+aVand our productivity.
+p221
+aa(lp222
+VIt's time to start designing for the ears.
+p223
+aVThank you. (Applause)
+p224
+aV(Applause)
+p225
+aVThank you. (Applause)
+p226
+aasS'id'
+p227
+I1564
+sS'title'
+p228
+VWhy architects need to use their ears
+p229
+s.

@@ -1,0 +1,830 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+V(Dominoes fall)
+p4
+aa(lp5
+V(Toy car)
+p6
+aa(lp7
+V(Ball rolls)
+p8
+aa(lp9
+V(Music: "This Too Shall Pass")
+p10
+aa(lp11
+V(Singing)
+p12
+aa(lp13
+VYou know you can't keep letting it get you down,
+p14
+aa(lp15
+Vand you can't keep dragging that dead weight around.
+p16
+aa(lp17
+VIf there ain't all that much to lug around
+p18
+aa(lp19
+Vbetter run like hell when you hit the ground
+p20
+aa(lp21
+VWhen the morning comes
+p22
+aa(lp23
+VWhen the morning comes
+p24
+aa(lp25
+VYou can't stop these kids from dancing,
+p26
+aa(lp27
+Vbut why would you want to,
+p28
+aa(lp29
+Vespecially when you're already getting yours?
+p30
+aa(lp31
+V(Xylophone)
+p32
+aa(lp33
+V(Singing) 'Cause if your mind don't move and your knees don't bend,
+p34
+aa(lp35
+Vwell don't go blaming the kids again.
+p36
+aa(lp37
+V(Xylophone)
+p38
+aa(lp39
+V(Singing) When the morning comes
+p40
+aa(lp41
+VWhen the morning comes
+p42
+aa(lp43
+VWhen the morning comes
+p44
+aa(lp45
+VWhen the morning comes
+p46
+aa(lp47
+VWhen the morning comes
+p48
+aa(lp49
+VWhen the morning comes
+p50
+aa(lp51
+V(Xylophone)
+p52
+aa(lp53
+V(Singing) Let it go,
+p54
+aa(lp55
+Vthis too shall pass
+p56
+aa(lp57
+VLet it go,
+p58
+aVthis too shall pass
+p59
+aa(lp60
+VYou know you can't keep letting it get you down,
+p61
+aa(lp62
+Vyou can't keep letting it get you down \u2014
+p63
+aa(lp64
+Vthis too shall pass
+p65
+aa(lp66
+VIf there ain't all that much to lug around,
+p67
+aa(lp68
+Vyou can't keep letting it get you down \u2014
+p69
+aa(lp70
+Vthis too shall pass
+p71
+aa(lp72
+VWhen the morning comes \u2014
+p73
+aa(lp74
+Vyou can't keep letting it get you down,
+p75
+aa(lp76
+Vno you can't keep letting it
+p77
+aa(lp78
+VWhen the morning comes \u2014
+p79
+aa(lp80
+Vyou can't keep letting it get you down,
+p81
+aa(lp82
+Vno you can't keep letting it
+p83
+aa(lp84
+VWhen the morning comes \u2014
+p85
+aa(lp86
+Vyou can't keep letting it get you down,
+p87
+aa(lp88
+Vno you can't keep letting it
+p89
+aa(lp90
+VWhen the morning comes \u2014
+p91
+aa(lp92
+Vyou can't keep letting it get you down,
+p93
+aa(lp94
+Vno you can't keep letting it
+p95
+aa(lp96
+VWhen the morning comes
+p97
+aa(lp98
+V(Paint guns fire)
+p99
+aa(lp100
+V(Applause)
+p101
+aa(lp102
+VDamian Kulash: Thank you, thanks very much.
+p103
+aa(lp104
+VWe are OK Go,
+p105
+aVand we've been together as a band since 1998.
+p106
+aVBut in the last decade,
+p107
+aVwe've become known as much for the elaborate music videos,
+p108
+aVlike the one we just saw,
+p109
+aVas for the songs they accompany.
+p110
+aVSo we will play along with another one of those in a few minutes,
+p111
+aVbut in the meantime,
+p112
+aVwe want to address this question that we get asked all the time
+p113
+aVbut we've really never come up with an adequate answer for it,
+p114
+aVand that is, how do we think of those ideas?
+p115
+aa(lp116
+VThe videos are not all Rube Goldberg machines, by the way.
+p117
+aVLast year we did a dance in zero gravity,
+p118
+aVand once we set up an obstacle course
+p119
+aVout of thousands of musical instruments in the desert,
+p120
+aVand then played them by stunt driving a car through them.
+p121
+aa(lp122
+V(Laughter)
+p123
+aa(lp124
+VFor one of the videos,
+p125
+aVwe choreographed hundreds of people with umbrellas
+p126
+aVin an abandoned parking lot outside Tokyo,
+p127
+aVand then filmed them from a drone a half a mile in the air.
+p128
+aa(lp129
+VSo it's all of these ideas that people are curious about,
+p130
+aVand the reason we've had so much trouble describing how we think of these ideas
+p131
+aVis that it doesn't really feel like we think of them at all.
+p132
+aVIt feels like we find them.
+p133
+aVAnd by way of explanation \u2014
+p134
+aVwell, I have a compulsive habit.
+p135
+aVI play parallax and perspective games with my eyes pretty much all the time,
+p136
+aVand it's something I've been doing since I was a teenager.
+p137
+aVAnd I think the big contributing factor may have been
+p138
+aVthat this is how I decorated my high school bedroom.
+p139
+aa(lp140
+V(Laughter)
+p141
+aa(lp142
+VAnd being a teenager,
+p143
+aVwhat I did in there, of course, was just talk on the phone
+p144
+aVfor staggering amounts of time.
+p145
+aVSo I was in this visual maelstrom
+p146
+aVjust pretty much usually sitting in one place,
+p147
+aVand I guess just the overload in general \u2014
+p148
+aVmy brain kind of tried to make sense of it, and I would \u2014
+p149
+aVIf I could move my head off to one side a little bit,
+p150
+aVthe edge of the desk would line up just perfectly
+p151
+aVwith that poster on the opposite wall;
+p152
+aVor if I put my thumb out,
+p153
+aVI could close first my left eye and then my right,
+p154
+aVand my thumb would bounce back and forth
+p155
+aVbetween Jimi Hendrix's left eye and his right.
+p156
+aa(lp157
+V(Laughter)
+p158
+aa(lp159
+VIt was not a conscious thing, of course,
+p160
+aVthis is just kind of the equivalent of doodling while you're talking,
+p161
+aVand it's still something I do all the time.
+p162
+aVThis is my wife, Kristin \u2014
+p163
+aa(lp164
+V(Applause)
+p165
+aa(lp166
+VYeah!
+p167
+aVWoo!
+p168
+aa(lp169
+VAnd it's not uncommon that we are out at dinner,
+p170
+aVand in the middle of a great conversation she'll just stop mid-sentence,
+p171
+aVand when she stops is when I realize that I'm the one who's acting weird
+p172
+aVbecause I'm like bobbing and weaving.
+p173
+aVAnd what I'm trying to do is get that ficus back there
+p174
+aVto stick out of her head like a ponytail.
+p175
+aa(lp176
+V(Laughter)
+p177
+aa(lp178
+VThe point of telling you all this is that \u2014
+p179
+aVfor me this is what it feels like to have an idea.
+p180
+aVIt's like they're made of these disparate parts,
+p181
+aVthese disparate chunks sort of floating out there.
+p182
+aVAnd if you're receptive and you're observant,
+p183
+aVand crucially, if you're in exactly the right place,
+p184
+aVyou can get them to just line up.
+p185
+aa(lp186
+VSo if you get used to \u2014
+p187
+aVif it's your job to think of ideas this way,
+p188
+aVthey'll start beckoning to you
+p189
+aVthe way that Jimi's eyes beckoned from that poster,
+p190
+aVor the ficus beckons from behind Kristin's head.
+p191
+aVWriting music feels like that process just over and over again,
+p192
+aVlike you've got a bunch of sounds or a groove or a chord progression
+p193
+aVand you're just looking for that thing on the other side,
+p194
+aVthat little chunk over there, that puzzle piece that clicks right in.
+p195
+aVAnd when it does click,
+p196
+aVit doesn't feel like you thought up that puzzle piece,
+p197
+aVit feels like you found it \u2014
+p198
+aVlike it was a set of relationships that you unlocked.
+p199
+aa(lp200
+VBut with the videos in particular,
+p201
+aVwe're usually looking for this specific feeling
+p202
+aVwhich is wonder.
+p203
+aVAnd there's always a component of surprise to wonder,
+p204
+aVso we're not just looking for good ideas,
+p205
+aVwe're looking for good ideas that surprise us in some way.
+p206
+aVAnd this causes something of a problem,
+p207
+aVbecause ...
+p208
+aVthe process that we all use to make stuff,
+p209
+aVit actually has a very strong bias against surprising ideas.
+p210
+aa(lp211
+VThe process I'm talking about is the one you all know \u2014
+p212
+aVwe all do it all the time.
+p213
+aVYou think of an idea.
+p214
+aVYou just sit and think of your brilliant idea
+p215
+aVand then you come up with a plan
+p216
+aVfor how you're going to make that idea happen.
+p217
+aVAnd then with that plan in mind,
+p218
+aVyou go back and double-check your original idea
+p219
+aVand maybe revise it,
+p220
+aVand then bouncing back and forth between the idea and the plan,
+p221
+aVthe plan and the idea,
+p222
+aVeventually you come up with a truly great plan.
+p223
+aVAnd then once you have that, and only then,
+p224
+aVdo you go out and you execute.
+p225
+aVAnd this is like \u2014
+p226
+aVthis is sort of a flawless system
+p227
+aVin terms of maximizing your resources,
+p228
+aVbecause this \u2014 super cheap.
+p229
+aVThinking usually costs very little,
+p230
+aVbut this is really expensive most of the time,
+p231
+aVso by the time you get there,
+p232
+aVyou want to make sure you're super prepared
+p233
+aVand you can squeeze every last drop out of what you've got.
+p234
+aa(lp235
+VBut there are problems with this,
+p236
+aVand math will help us reveal the biggest one.
+p237
+aVGo back to that video that we just showed you.
+p238
+aVThat Rube Goldberg machine,
+p239
+aVit had about 130 interactions in it.
+p240
+aVThat was 130 things
+p241
+aVthat we had to have go according to our plan.
+p242
+aVSo let's assume that we want to make a new video now,
+p243
+aVsimilarly complex \u2014 130 moving parts.
+p244
+aVIf we're really good planners in that system,
+p245
+aVit seems like maybe we could be good enough
+p246
+aVto get every part of that system to be 90 percent reliable.
+p247
+aV90 percent sounds good, right?
+p248
+aVWell, it's not.
+p249
+aVIt's terrible actually. The numbers say so.
+p250
+aVThe chance of getting all 130 things to not fail at the same time
+p251
+aVis .9 for 90 percent to the 130th power.
+p252
+aVSo calculate that out and you get ...
+p253
+aa(lp254
+V(Ding)
+p255
+aa(lp256
+V.000001,
+p257
+aVwhich is one ten-thousandth of one percent,
+p258
+aVso your chance for success is literally one in a million.
+p259
+aa(lp260
+V(Whistle)
+p261
+aa(lp262
+V(Laughter)
+p263
+aa(lp264
+VI mean that's not a gamble I want to take,
+p265
+aVso let's ratchet up that reliability to 99 percent.
+p266
+aV.99 to the 130th power is ...
+p267
+aa(lp268
+V(Ding)
+p269
+aa(lp270
+V.27 \u2014 27 percent.
+p271
+aVSignificantly less daunting \u2014
+p272
+aVlike this might even be usable.
+p273
+aVBut really think about that.
+p274
+aVHow many parts of your lives are 99 percent reliable?
+p275
+aVAnd could you really get 130 of them all in one place at once?
+p276
+aVAnd if you really could,
+p277
+aVdoesn't it seem like you deserve to succeed?
+p278
+aVLike that is \u2014
+p279
+aVthat thing is going to work, right?
+p280
+aVBut no, it actually fails three times more often than it succeeds.
+p281
+aa(lp282
+VSo the upshot of all this
+p283
+aVis that if your project is pretty complex \u2014
+p284
+aVlike, you know, every ambitious project is \u2014
+p285
+aVif you've got a lot of moving parts,
+p286
+aVyou're basically constrained to just reshuffling ideas
+p287
+aVthat have already demonstrably proven that they're 100 percent reliable.
+p288
+aVSo now go back to me sitting with my thumb in the air
+p289
+aVtrying to line up something surprising.
+p290
+aVIf the only things I'm allowed to consider in the first place
+p291
+aVare ideas that have already been done over and over and over again,
+p292
+aVI am screwed.
+p293
+aVHowever, there are ways around this,
+p294
+aVbecause we all know that there are tons of untried ideas still out there,
+p295
+aVand plenty of them will turn out to be every bit as reliable as we need,
+p296
+aVit's just that we don't yet know they are reliable
+p297
+aVwhen we are at this planning phase.
+p298
+aa(lp299
+VSo what we do is we try to identify some place
+p300
+aVwhere there might just be a ton of those untried ideas.
+p301
+aVWe try to find a sandbox
+p302
+aVand then we gamble a whole bunch of our resources
+p303
+aVon getting in that sandbox and playing.
+p304
+aa(lp305
+V(Laughter)
+p306
+aa(lp307
+VBecause we have to trust that it's the process in the sandbox
+p308
+aVthat will reveal to us which ideas are not only surprising,
+p309
+aVbut surprisingly reliable.
+p310
+aa(lp311
+VSo some of the sandboxes that we've started videos with.
+p312
+aVLet's play with optical illusions.
+p313
+aVLet's try to dance on moving surfaces.
+p314
+aVLet's try to make toast with a laser cutter.
+p315
+aVOr let's do something in one of those zero-gravity airplanes.
+p316
+aVBut then instead of actually trying to sit there
+p317
+aVand think out what that something is,
+p318
+aVwe spent a full third of our budget getting in an actual Vomit Comet
+p319
+aVand bouncing off the walls for a week.
+p320
+aa(lp321
+VSo this may seem to you like testing,
+p322
+aVbut it really isn't,
+p323
+aVbecause at this point we don't yet know what our idea is,
+p324
+aVwe don't have a plan to be testing.
+p325
+aVSo we're just \u2014
+p326
+aVwe're just playing,
+p327
+aVwe're just trying everything we can think of,
+p328
+aVbecause we need to get this idea space filled up with a chaos
+p329
+aVlike the one in my high school bedroom.
+p330
+aVBecause then, if we can do the bob and weave thing,
+p331
+aVif we can put our thumbs up and get just a few things to line up \u2014
+p332
+aa(lp333
+V(Ding)
+p334
+aa(lp335
+Vchances are no one else has ever made those same things line up before.
+p336
+aVAnd when we're done with that project,
+p337
+aVpeople will ask us again how we thought of that idea,
+p338
+aVand we'll be stumped, because from our perspective,
+p339
+aVit doesn't feel like we thought of it at all,
+p340
+aVit just feels like we found it.
+p341
+aa(lp342
+VSo we'll play another video for you now and the song along with it.
+p343
+aVThis is for the song "The One Moment,"
+p344
+aVand for this one, the sandbox was ballistics and math.
+p345
+aVSo I spent a full month putting together a giant spreadsheet for this.
+p346
+aVIt was like my playspace was 400 lines long
+p347
+aVand 25 columns wide \u2014
+p348
+aVwhich I presume that if anybody is going to understand that, it's this crowd.
+p349
+aa(lp350
+V(Laughter)
+p351
+aa(lp352
+VNothing is better than a giant spreadsheet, right?
+p353
+aa(lp354
+V(Laughter)
+p355
+aa(lp356
+VWell, thank you everyone, very much.
+p357
+aVWe are OK Go,
+p358
+aVand this is called "The One Moment."
+p359
+aa(lp360
+V(Applause)
+p361
+aa(lp362
+V[The One Moment]
+p363
+aa(lp364
+V(Explosions)
+p365
+aa(lp366
+V[What you just saw was real
+p367
+aVand it took 4.2 seconds]
+p368
+aa(lp369
+V(Video) Let me know when it's safe.
+p370
+aa(lp371
+V(Percussion)
+p372
+aa(lp373
+V[Here's the same moment ...
+p374
+aVslowed down.]
+p375
+aa(lp376
+V(Music)
+p377
+aa(lp378
+V(Guitar)
+p379
+aa(lp380
+V(Singing) You're right,
+p381
+aa(lp382
+Vthere's nothing more lovely,
+p383
+aa(lp384
+Vthere's nothing more profound
+p385
+aVthan the certainty,
+p386
+aa(lp387
+Vthan the certainty that all of this will end
+p388
+aa(lp389
+VThat all of this will end
+p390
+aa(lp391
+VSo open your arms to me,
+p392
+aa(lp393
+Vopen your arms to me
+p394
+aa(lp395
+VAnd this will be the one moment that matters,
+p396
+aa(lp397
+Vand this will be the one thing we remember,
+p398
+aa(lp399
+Vand this will be the reason to have been here,
+p400
+aa(lp401
+Vand this will be the one moment that matters \u2014
+p402
+aa(lp403
+VOh ...
+p404
+aa(lp405
+V(Guitar)
+p406
+aa(lp407
+V(Singing) So while the mud reclaims our footprints,
+p408
+aa(lp409
+Vand while our bones keep looking back
+p410
+aa(lp411
+Vat the overgrowth that's swallowing the path \u2014
+p412
+aa(lp413
+Vbut for the grace of God go we,
+p414
+aa(lp415
+Vbut for the grace of God go we
+p416
+aa(lp417
+VBut for the grace of time and chance and entropy's cruel hands \u2014
+p418
+aa(lp419
+VSo open your arms to me,
+p420
+aa(lp421
+Vopen your arms to me
+p422
+aa(lp423
+VAnd this will be the one moment that matters,
+p424
+aa(lp425
+Vand this will be the one thing we remember,
+p426
+aa(lp427
+Vand this will be the reason to have been here,
+p428
+aa(lp429
+Vand this will be the one moment that matters
+p430
+aa(lp431
+VOh ...
+p432
+aa(lp433
+VSo won't you stay here with me
+p434
+aa(lp435
+Vand we'll build 'til we've blistered our hands
+p436
+aa(lp437
+VSo won't you stay here with me and we'll build us some temples,
+p438
+aa(lp439
+Vbuild us some castles,
+p440
+aa(lp441
+Vbuild us some monuments
+p442
+aa(lp443
+Vand burn them all right down
+p444
+aa(lp445
+V(Music)
+p446
+aa(lp447
+V(Singing) So open your arms to me
+p448
+aa(lp449
+VAnd this will be the one moment that matters,
+p450
+aa(lp451
+Vand this will be the reason to have been here,
+p452
+aa(lp453
+Vand this will be the one thing we remember,
+p454
+aa(lp455
+Vand this will be the one moment that matters
+p456
+aa(lp457
+VSo won't you stay here with me,
+p458
+aa(lp459
+Vwe'll build 'til we blister our hands
+p460
+aa(lp461
+VAnd this will be the one moment that matters \u2014
+p462
+aa(lp463
+VSo won't you stay here with me and build us some temples \u2014
+p464
+aa(lp465
+VThis will be the one moment that matters \u2014
+p466
+aa(lp467
+VBuild us some temples \u2014
+p468
+aa(lp469
+VThe one moment that matters \u2014
+p470
+aa(lp471
+VBuild us some monuments \u2014
+p472
+aa(lp473
+VThe one moment that matters
+p474
+aa(lp475
+VBuild us some temples \u2014
+p476
+aa(lp477
+VThe one moment that matters.
+p478
+aa(lp479
+VBuild us some monuments \u2014
+p480
+aa(lp481
+VThe one moment that matters, oh
+p482
+aa(lp483
+V(Guitar)
+p484
+aa(lp485
+V(Applause)
+p486
+aasS'id'
+p487
+I2792
+sS'title'
+p488
+VHow to find a wonderful idea
+p489
+s.

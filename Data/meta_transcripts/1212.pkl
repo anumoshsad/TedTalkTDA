@@ -1,0 +1,281 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo, I was in the hospital for a long time.
+p4
+aVAnd a few years after I left, I went back,
+p5
+aVand the chairman of the burn department was very excited to see me \u2014
+p6
+aVsaid, "Dan, I have a fantastic new treatment for you."
+p7
+aVI was very excited. I walked with him to his office.
+p8
+aVAnd he explained to me that, when I shave,
+p9
+aVI have little black dots on the left side of my face where the hair is,
+p10
+aVbut on the right side of my face
+p11
+aVI was badly burned so I have no hair,
+p12
+aVand this creates lack of symmetry.
+p13
+aVAnd what's the brilliant idea he had?
+p14
+aVHe was going to tattoo little black dots
+p15
+aVon the right side of my face
+p16
+aVand make me look very symmetric.
+p17
+aa(lp18
+VIt sounded interesting. He asked me to go and shave.
+p19
+aVLet me tell you, this was a strange way to shave,
+p20
+aVbecause I thought about it
+p21
+aVand I realized that the way I was shaving then
+p22
+aVwould be the way I would shave for the rest of my life \u2014
+p23
+aVbecause I had to keep the width the same.
+p24
+aVWhen I got back to his office,
+p25
+aVI wasn't really sure.
+p26
+aVI said, "Can I see some evidence for this?"
+p27
+aVSo he showed me some pictures
+p28
+aVof little cheeks with little black dots \u2014
+p29
+aVnot very informative.
+p30
+aVI said, "What happens when I grow older and my hair becomes white?
+p31
+aVWhat would happen then?"
+p32
+aV"Oh, don't worry about it," he said.
+p33
+aV"We have lasers; we can whiten it out."
+p34
+aVBut I was still concerned,
+p35
+aVso I said, "You know what, I'm not going to do it."
+p36
+aa(lp37
+VAnd then came one of the biggest guilt trips of my life.
+p38
+aVThis is coming from a Jewish guy, all right, so that means a lot.
+p39
+aV(Laughter)
+p40
+aVAnd he said, "Dan, what's wrong with you?
+p41
+aVDo you enjoy looking non-symmetric?
+p42
+aVDo you have some kind of perverted pleasure from this?
+p43
+aVDo women feel pity for you
+p44
+aVand have sex with you more frequently?"
+p45
+aVNone of those happened.
+p46
+aVAnd this was very surprising to me,
+p47
+aVbecause I've gone through many treatments \u2014
+p48
+aVthere were many treatments I decided not to do \u2014
+p49
+aVand I never got this guilt trip to this extent.
+p50
+aVBut I decided not to have this treatment.
+p51
+aVAnd I went to his deputy and asked him, "What was going on?
+p52
+aVWhere was this guilt trip coming from?"
+p53
+aVAnd he explained that they have done this procedure on two patients already,
+p54
+aVand they need the third patient for a paper they were writing.
+p55
+aa(lp56
+V(Laughter)
+p57
+aa(lp58
+VNow you probably think that this guy's a schmuck.
+p59
+aVRight, that's what he seems like.
+p60
+aVBut let me give you a different perspective on the same story.
+p61
+aVA few years ago, I was running some of my own experiments in the lab.
+p62
+aVAnd when we run experiments,
+p63
+aVwe usually hope that one group will behave differently than another.
+p64
+aVSo we had one group that I hoped their performance would be very high,
+p65
+aVanother group that I thought their performance would be very low,
+p66
+aVand when I got the results, that's what we got \u2014
+p67
+aVI was very happy \u2014 aside from one person.
+p68
+aVThere was one person in the group
+p69
+aVthat was supposed to have very high performance
+p70
+aVthat was actually performing terribly.
+p71
+aVAnd he pulled the whole mean down,
+p72
+aVdestroying my statistical significance of the test.
+p73
+aa(lp74
+VSo I looked carefully at this guy.
+p75
+aVHe was 20-some years older than anybody else in the sample.
+p76
+aVAnd I remembered that the old and drunken guy
+p77
+aVcame one day to the lab
+p78
+aVwanting to make some easy cash
+p79
+aVand this was the guy.
+p80
+aV"Fantastic!" I thought. "Let's throw him out.
+p81
+aVWho would ever include a drunken guy in a sample?"
+p82
+aa(lp83
+VBut a couple of days later,
+p84
+aVwe thought about it with my students,
+p85
+aVand we said, "What would have happened if this drunken guy was not in that condition?
+p86
+aVWhat would have happened if he was in the other group?
+p87
+aVWould we have thrown him out then?"
+p88
+aVWe probably wouldn't have looked at the data at all,
+p89
+aVand if we did look at the data,
+p90
+aVwe'd probably have said, "Fantastic! What a smart guy who is performing this low,"
+p91
+aVbecause he would have pulled the mean of the group lower,
+p92
+aVgiving us even stronger statistical results than we could.
+p93
+aVSo we decided not to throw the guy out and to rerun the experiment.
+p94
+aa(lp95
+VBut you know, these stories,
+p96
+aVand lots of other experiments that we've done on conflicts of interest,
+p97
+aVbasically kind of bring two points
+p98
+aVto the foreground for me.
+p99
+aVThe first one is that in life we encounter many people
+p100
+aVwho, in some way or another,
+p101
+aVtry to tattoo our faces.
+p102
+aVThey just have the incentives that get them to be blinded to reality
+p103
+aVand give us advice that is inherently biased.
+p104
+aVAnd I'm sure that it's something that we all recognize,
+p105
+aVand we see that it happens.
+p106
+aVMaybe we don't recognize it every time,
+p107
+aVbut we understand that it happens.
+p108
+aa(lp109
+VThe most difficult thing, of course, is to recognize
+p110
+aVthat sometimes we too
+p111
+aVare blinded by our own incentives.
+p112
+aVAnd that's a much, much more difficult lesson to take into account.
+p113
+aVBecause we don't see how conflicts of interest work on us.
+p114
+aVWhen I was doing these experiments,
+p115
+aVin my mind, I was helping science.
+p116
+aVI was eliminating the data
+p117
+aVto get the true pattern of the data to shine through.
+p118
+aVI wasn't doing something bad.
+p119
+aVIn my mind, I was actually a knight
+p120
+aVtrying to help science move along.
+p121
+aVBut this was not the case.
+p122
+aVI was actually interfering with the process with lots of good intentions.
+p123
+aVAnd I think the real challenge is to figure out
+p124
+aVwhere are the cases in our lives
+p125
+aVwhere conflicts of interest work on us,
+p126
+aVand try not to trust our own intuition to overcome it,
+p127
+aVbut to try to do things
+p128
+aVthat prevent us from falling prey to these behaviors,
+p129
+aVbecause we can create lots of undesirable circumstances.
+p130
+aa(lp131
+VI do want to leave you with one positive thought.
+p132
+aVI mean, this is all very depressing, right \u2014
+p133
+aVpeople have conflicts of interest, we don't see it, and so on.
+p134
+aVThe positive perspective, I think, of all of this
+p135
+aVis that, if we do understand when we go wrong,
+p136
+aVif we understand the deep mechanisms
+p137
+aVof why we fail and where we fail,
+p138
+aVwe can actually hope to fix things.
+p139
+aVAnd that, I think, is the hope. Thank you very much.
+p140
+aa(lp141
+V(Applause)
+p142
+aasS'id'
+p143
+I1212
+sS'title'
+p144
+VBeware conflicts of interest
+p145
+s.

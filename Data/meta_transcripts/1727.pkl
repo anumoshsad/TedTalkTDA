@@ -1,0 +1,574 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWell, I have a big announcement to make today,
+p4
+aVand I'm really excited about this.
+p5
+aVAnd this may be a little bit of a surprise
+p6
+aVto many of you who know my research
+p7
+aVand what I've done well.
+p8
+aVI've really tried to solve some big problems:
+p9
+aVcounterterrorism, nuclear terrorism,
+p10
+aVand health care and diagnosing and treating cancer,
+p11
+aVbut I started thinking about all these problems,
+p12
+aVand I realized that the really biggest problem we face,
+p13
+aVwhat all these other problems come down to,
+p14
+aVis energy, is electricity, the flow of electrons.
+p15
+aVAnd I decided that I was going to set out
+p16
+aVto try to solve this problem.
+p17
+aa(lp18
+VAnd this probably is not what you're expecting.
+p19
+aVYou're probably expecting me to come up here
+p20
+aVand talk about fusion,
+p21
+aVbecause that's what I've done most of my life.
+p22
+aVBut this is actually a talk about, okay \u2014
+p23
+aV(Laughter) \u2014
+p24
+aVbut this is actually a talk about fission.
+p25
+aVIt's about perfecting something old,
+p26
+aVand bringing something old into the 21st century.
+p27
+aa(lp28
+VLet's talk a little bit about how nuclear fission works.
+p29
+aVIn a nuclear power plant, you have
+p30
+aVa big pot of water that's under high pressure,
+p31
+aVand you have some fuel rods,
+p32
+aVand these fuel rods are encased in zirconium,
+p33
+aVand they're little pellets of uranium dioxide fuel,
+p34
+aVand a fission reaction is controlled and maintained at a proper level,
+p35
+aVand that reaction heats up water,
+p36
+aVthe water turns to steam, steam turns the turbine,
+p37
+aVand you produce electricity from it.
+p38
+aVThis is the same way we've been producing electricity,
+p39
+aVthe steam turbine idea, for 100 years,
+p40
+aVand nuclear was a really big advancement
+p41
+aVin a way to heat the water,
+p42
+aVbut you still boil water and that turns to steam and turns the turbine.
+p43
+aa(lp44
+VAnd I thought, you know, is this the best way to do it?
+p45
+aVIs fission kind of played out,
+p46
+aVor is there something left to innovate here?
+p47
+aVAnd I realized that I had hit upon something
+p48
+aVthat I think has this huge potential to change the world.
+p49
+aVAnd this is what it is.
+p50
+aa(lp51
+VThis is a small modular reactor.
+p52
+aVSo it's not as big as the reactor you see in the diagram here.
+p53
+aVThis is between 50 and 100 megawatts.
+p54
+aVBut that's a ton of power.
+p55
+aVThat's between, say at an average use,
+p56
+aVthat's maybe 25,000 to 100,000 homes could run off that.
+p57
+aVNow the really interesting thing about these reactors
+p58
+aVis they're built in a factory.
+p59
+aVSo they're modular reactors that are built
+p60
+aVessentially on an assembly line,
+p61
+aVand they're trucked anywhere in the world,
+p62
+aVyou plop them down, and they produce electricity.
+p63
+aVThis region right here is the reactor.
+p64
+aa(lp65
+VAnd this is buried below ground, which is really important.
+p66
+aVFor someone who's done a lot of counterterrorism work,
+p67
+aVI can't extol to you
+p68
+aVhow great having something buried below the ground is
+p69
+aVfor proliferation and security concerns.
+p70
+aa(lp71
+VAnd inside this reactor is a molten salt,
+p72
+aVso anybody who's a fan of thorium,
+p73
+aVthey're going to be really excited about this,
+p74
+aVbecause these reactors happen to be really good
+p75
+aVat breeding and burning the thorium fuel cycle,
+p76
+aVuranium-233.
+p77
+aa(lp78
+VBut I'm not really concerned about the fuel.
+p79
+aVYou can run these off \u2014 they're really hungry,
+p80
+aVthey really like down-blended weapons pits,
+p81
+aVso that's highly enriched uranium and weapons-grade plutonium
+p82
+aVthat's been down-blended.
+p83
+aVIt's made into a grade where it's not usable for a nuclear weapon,
+p84
+aVbut they love this stuff.
+p85
+aVAnd we have a lot of it sitting around,
+p86
+aVbecause this is a big problem.
+p87
+aVYou know, in the Cold War, we built up this huge arsenal
+p88
+aVof nuclear weapons, and that was great,
+p89
+aVand we don't need them anymore,
+p90
+aVand what are we doing with all the waste, essentially?
+p91
+aVWhat are we doing with all the pits of those nuclear weapons?
+p92
+aVWell, we're securing them, and it would be great
+p93
+aVif we could burn them, eat them up,
+p94
+aVand this reactor loves this stuff.
+p95
+aa(lp96
+VSo it's a molten salt reactor. It has a core,
+p97
+aVand it has a heat exchanger from the hot salt,
+p98
+aVthe radioactive salt, to a cold salt which isn't radioactive.
+p99
+aVIt's still thermally hot but it's not radioactive.
+p100
+aVAnd then that's a heat exchanger
+p101
+aVto what makes this design really, really interesting,
+p102
+aVand that's a heat exchanger to a gas.
+p103
+aVSo going back to what I was saying before about all power
+p104
+aVbeing produced \u2014 well, other than photovoltaic \u2014
+p105
+aVbeing produced by this boiling of steam and turning a turbine,
+p106
+aVthat's actually not that efficient, and in fact,
+p107
+aVin a nuclear power plant like this,
+p108
+aVit's only roughly 30 to 35 percent efficient.
+p109
+aVThat's how much thermal energy the reactor's putting out
+p110
+aVto how much electricity it's producing.
+p111
+aVAnd the reason the efficiencies are so low is these reactors
+p112
+aVoperate at pretty low temperature.
+p113
+aVThey operate anywhere from, you know,
+p114
+aVmaybe 200 to 300 degrees Celsius.
+p115
+aVAnd these reactors run at 600 to 700 degrees Celsius,
+p116
+aVwhich means the higher the temperature you go to,
+p117
+aVthermodynamics tells you that you will have higher efficiencies.
+p118
+aVAnd this reactor doesn't use water. It uses gas,
+p119
+aVso supercritical CO2 or helium,
+p120
+aVand that goes into a turbine,
+p121
+aVand this is called the Brayton cycle.
+p122
+aVThis is the thermodynamic cycle that produces electricity,
+p123
+aVand this makes this almost 50 percent efficient,
+p124
+aVbetween 45 and 50 percent efficiency.
+p125
+aVAnd I'm really excited about this,
+p126
+aVbecause it's a very compact core.
+p127
+aVMolten salt reactors are very compact by nature,
+p128
+aVbut what's also great is you get a lot more electricity out
+p129
+aVfor how much uranium you're fissioning,
+p130
+aVnot to mention the fact that these burn up.
+p131
+aVTheir burn-up is much higher.
+p132
+aVSo for a given amount of fuel you put in the reactor,
+p133
+aVa lot more of it's being used.
+p134
+aa(lp135
+VAnd the problem with a traditional nuclear power plant like this
+p136
+aVis, you've got these rods that are clad in zirconium,
+p137
+aVand inside them are uranium dioxide fuel pellets.
+p138
+aVWell, uranium dioxide's a ceramic,
+p139
+aVand ceramic doesn't like releasing what's inside of it.
+p140
+aVSo you have what's called the xenon pit,
+p141
+aVand so some of these fission products love neutrons.
+p142
+aVThey love the neutrons that are going on
+p143
+aVand helping this reaction take place.
+p144
+aVAnd they eat them up, which means that, combined with
+p145
+aVthe fact that the cladding doesn't last very long,
+p146
+aVyou can only run one of these reactors
+p147
+aVfor roughly, say, 18 months without refueling it.
+p148
+aVSo these reactors run for 30 years without refueling,
+p149
+aVwhich is, in my opinion, very, very amazing,
+p150
+aVbecause it means it's a sealed system.
+p151
+aVNo refueling means you can seal them up
+p152
+aVand they're not going to be a proliferation risk,
+p153
+aVand they're not going to have
+p154
+aVeither nuclear material or radiological material
+p155
+aVproliferated from their cores.
+p156
+aa(lp157
+VBut let's go back to safety, because everybody
+p158
+aVafter Fukushima had to reassess the safety of nuclear,
+p159
+aVand one of the things when I set out to design a power reactor
+p160
+aVwas it had to be passively and intrinsically safe,
+p161
+aVand I'm really excited about this reactor
+p162
+aVfor essentially two reasons.
+p163
+aVOne, it doesn't operate at high pressure.
+p164
+aVSo traditional reactors like a pressurized water reactor
+p165
+aVor boiling water reactor, they're very, very hot water
+p166
+aVat very high pressures, and this means, essentially,
+p167
+aVin the event of an accident, if you had any kind of breach
+p168
+aVof this stainless steel pressure vessel,
+p169
+aVthe coolant would leave the core.
+p170
+aVThese reactors operate at essentially atmospheric pressure,
+p171
+aVso there's no inclination for the fission products
+p172
+aVto leave the reactor in the event of an accident.
+p173
+aVAlso, they operate at high temperatures,
+p174
+aVand the fuel is molten, so they can't melt down,
+p175
+aVbut in the event that the reactor ever went out of tolerances,
+p176
+aVor you lost off-site power in the case
+p177
+aVof something like Fukushima, there's a dump tank.
+p178
+aVBecause your fuel is liquid, and it's combined with your coolant,
+p179
+aVyou could actually just drain the core
+p180
+aVinto what's called a sub-critical setting,
+p181
+aVbasically a tank underneath the reactor
+p182
+aVthat has some neutrons absorbers.
+p183
+aVAnd this is really important, because the reaction stops.
+p184
+aVIn this kind of reactor, you can't do that.
+p185
+aVThe fuel, like I said, is ceramic inside zirconium fuel rods,
+p186
+aVand in the event of an accident in one of these type of reactors,
+p187
+aVFukushima and Three Mile Island \u2014
+p188
+aVlooking back at Three Mile Island, we didn't really see this for a while \u2014
+p189
+aVbut these zirconium claddings on these fuel rods,
+p190
+aVwhat happens is, when they see high pressure water,
+p191
+aVsteam, in an oxidizing environment,
+p192
+aVthey'll actually produce hydrogen,
+p193
+aVand that hydrogen has this explosive capability
+p194
+aVto release fission products.
+p195
+aVSo the core of this reactor, since it's not under pressure
+p196
+aVand it doesn't have this chemical reactivity,
+p197
+aVmeans that there's no inclination for the fission products
+p198
+aVto leave this reactor.
+p199
+aVSo even in the event of an accident,
+p200
+aVyeah, the reactor may be toast, which is, you know,
+p201
+aVsorry for the power company,
+p202
+aVbut we're not going to contaminate large quantities of land.
+p203
+aVSo I really think that in the, say,
+p204
+aV20 years it's going to take us to get fusion
+p205
+aVand make fusion a reality,
+p206
+aVthis could be the source of energy
+p207
+aVthat provides carbon-free electricity.
+p208
+aVCarbon-free electricity.
+p209
+aa(lp210
+VAnd it's an amazing technology because
+p211
+aVnot only does it combat climate change,
+p212
+aVbut it's an innovation.
+p213
+aVIt's a way to bring power to the developing world,
+p214
+aVbecause it's produced in a factory and it's cheap.
+p215
+aVYou can put them anywhere in the world you want to.
+p216
+aa(lp217
+VAnd maybe something else.
+p218
+aVAs a kid, I was obsessed with space.
+p219
+aVWell, I was obsessed with nuclear science too, to a point,
+p220
+aVbut before that I was obsessed with space,
+p221
+aVand I was really excited about, you know,
+p222
+aVbeing an astronaut and designing rockets,
+p223
+aVwhich was something that was always exciting to me.
+p224
+aVBut I think I get to come back to this,
+p225
+aVbecause imagine having a compact reactor in a rocket
+p226
+aVthat produces 50 to 100 megawatts.
+p227
+aVThat is the rocket designer's dream.
+p228
+aVThat's someone who is designing a habitat on another planet's dream.
+p229
+aVNot only do you have 50 to 100 megawatts
+p230
+aVto power whatever you want to provide propulsion to get you there,
+p231
+aVbut you have power once you get there.
+p232
+aVYou know, rocket designers who use solar panels
+p233
+aVor fuel cells, I mean a few watts or kilowatts \u2014
+p234
+aVwow, that's a lot of power.
+p235
+aVI mean, now we're talking about 100 megawatts.
+p236
+aVThat's a ton of power.
+p237
+aVThat could power a Martian community.
+p238
+aVThat could power a rocket there.
+p239
+aVAnd so I hope that
+p240
+aVmaybe I'll have an opportunity to kind of explore
+p241
+aVmy rocketry passion at the same time that I explore my nuclear passion.
+p242
+aa(lp243
+VAnd people say, "Oh, well, you've launched this thing,
+p244
+aVand it's radioactive, into space, and what about accidents?"
+p245
+aVBut we launch plutonium batteries all the time.
+p246
+aVEverybody was really excited about Curiosity,
+p247
+aVand that had this big plutonium battery on board
+p248
+aVthat has plutonium-238,
+p249
+aVwhich actually has a higher specific activity
+p250
+aVthan the low-enriched uranium fuel of these molten salt reactors,
+p251
+aVwhich means that the effects would be negligible,
+p252
+aVbecause you launch it cold,
+p253
+aVand when it gets into space is where you actually activate this reactor.
+p254
+aa(lp255
+VSo I'm really excited.
+p256
+aVI think that I've designed this reactor here
+p257
+aVthat can be an innovative source of energy,
+p258
+aVprovide power for all kinds of neat scientific applications,
+p259
+aVand I'm really prepared to do this.
+p260
+aVI graduated high school in May, and \u2014
+p261
+aV(Laughter) (Applause) \u2014
+p262
+aVI graduated high school in May,
+p263
+aVand I decided that I was going to start up a company
+p264
+aVto commercialize these technologies that I've developed,
+p265
+aVthese revolutionary detectors for scanning cargo containers
+p266
+aVand these systems to produce medical isotopes,
+p267
+aVbut I want to do this, and I've slowly been building up
+p268
+aVa team of some of the most incredible people
+p269
+aVI've ever had the chance to work with,
+p270
+aVand I'm really prepared to make this a reality.
+p271
+aVAnd I think, I think, that looking at the technology,
+p272
+aVthis will be cheaper than or the same price as natural gas,
+p273
+aVand you don't have to refuel it for 30 years,
+p274
+aVwhich is an advantage for the developing world.
+p275
+aa(lp276
+VAnd I'll just say one more maybe philosophical thing
+p277
+aVto end with, which is weird for a scientist.
+p278
+aVBut I think there's something really poetic
+p279
+aVabout using nuclear power to propel us to the stars,
+p280
+aVbecause the stars are giant fusion reactors.
+p281
+aVThey're giant nuclear cauldrons in the sky.
+p282
+aVThe energy that I'm able to talk to you today,
+p283
+aVwhile it was converted to chemical energy in my food,
+p284
+aVoriginally came from a nuclear reaction,
+p285
+aVand so there's something poetic about, in my opinion,
+p286
+aVperfecting nuclear fission
+p287
+aVand using it as a future source of innovative energy.
+p288
+aa(lp289
+VSo thank you guys.
+p290
+aa(lp291
+V(Applause)
+p292
+aasS'id'
+p293
+I1727
+sS'title'
+p294
+VMy radical plan for small nuclear fission reactors
+p295
+s.

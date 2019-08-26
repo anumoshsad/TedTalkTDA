@@ -1,0 +1,510 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'd like you to come back with me for a moment
+p4
+aVto the 19th century,
+p5
+aVspecifically to June 24, 1833.
+p6
+aVThe British Association for the Advancement of Science
+p7
+aVis holding its third meeting at the University of Cambridge.
+p8
+aVIt's the first night of the meeting,
+p9
+aVand a confrontation is about to take place
+p10
+aVthat will change science forever.
+p11
+aa(lp12
+VAn elderly, white-haired man stands up.
+p13
+aVThe members of the Association are shocked to realize
+p14
+aVthat it's the poet Samuel Taylor Coleridge,
+p15
+aVwho hadn't even left his house in years until that day.
+p16
+aVThey're even more shocked by what he says.
+p17
+aa(lp18
+V"You must stop calling yourselves natural philosophers."
+p19
+aa(lp20
+VColeridge felt that true philosophers like himself
+p21
+aVpondered the cosmos from their armchairs.
+p22
+aVThey were not mucking around in the fossil pits
+p23
+aVor conducting messy experiments with electrical piles
+p24
+aVlike the members of the British Association.
+p25
+aa(lp26
+VThe crowd grew angry and began to complain loudly.
+p27
+aVA young Cambridge scholar named William Whewell stood up
+p28
+aVand quieted the audience.
+p29
+aVHe politely agreed that an appropriate name
+p30
+aVfor the members of the association did not exist.
+p31
+aa(lp32
+V"If 'philosophers' is taken to be too wide and lofty a term,"
+p33
+aVhe said, "then, by analogy with 'artist,'
+p34
+aVwe may form 'scientist.'"
+p35
+aVThis was the first time the word scientist
+p36
+aVwas uttered in public,
+p37
+aVonly 179 years ago.
+p38
+aa(lp39
+VI first found out about this confrontation when I was in graduate school,
+p40
+aVand it kind of blew me away.
+p41
+aVI mean, how could the word scientist
+p42
+aVnot have existed until 1833?
+p43
+aVWhat were scientists called before?
+p44
+aVWhat had changed to make a new name necessary
+p45
+aVprecisely at that moment?
+p46
+aVPrior to this meeting, those who studied the natural world
+p47
+aVwere talented amateurs.
+p48
+aVThink of the country clergyman or squire
+p49
+aVcollecting his beetles or fossils,
+p50
+aVlike Charles Darwin, for example,
+p51
+aVor, the hired help of a nobleman, like Joseph Priestley,
+p52
+aVwho was the literary companion
+p53
+aVto the Marquis of Lansdowne
+p54
+aVwhen he discovered oxygen.
+p55
+aVAfter this, they were scientists,
+p56
+aVprofessionals with a particular scientific method,
+p57
+aVgoals, societies and funding.
+p58
+aa(lp59
+VMuch of this revolution can be traced to four men
+p60
+aVwho met at Cambridge University in 1812:
+p61
+aVCharles Babbage, John Herschel, Richard Jones and William Whewell.
+p62
+aVThese were brilliant, driven men
+p63
+aVwho accomplished amazing things.
+p64
+aVCharles Babbage, I think known to most TEDsters,
+p65
+aVinvented the first mechanical calculator
+p66
+aVand the first prototype of a modern computer.
+p67
+aVJohn Herschel mapped the stars of the southern hemisphere,
+p68
+aVand, in his spare time, co-invented photography.
+p69
+aVI'm sure we could all be that productive
+p70
+aVwithout Facebook or Twitter to take up our time.
+p71
+aVRichard Jones became an important economist
+p72
+aVwho later influenced Karl Marx.
+p73
+aVAnd Whewell not only coined the term scientist,
+p74
+aVas well as the words anode, cathode and ion,
+p75
+aVbut spearheaded international big science
+p76
+aVwith his global research on the tides.
+p77
+aVIn the Cambridge winter of 1812 and 1813,
+p78
+aVthe four met for what they called philosophical breakfasts.
+p79
+aVThey talked about science
+p80
+aVand the need for a new scientific revolution.
+p81
+aVThey felt science had stagnated
+p82
+aVsince the days of the scientific revolution that had happened
+p83
+aVin the 17th century.
+p84
+aVIt was time for a new revolution,
+p85
+aVwhich they pledged to bring about,
+p86
+aVand what's so amazing about these guys is,
+p87
+aVnot only did they have these
+p88
+aVgrandiose undergraduate dreams,
+p89
+aVbut they actually carried them out,
+p90
+aVeven beyond their wildest dreams.
+p91
+aVAnd I'm going to tell you today
+p92
+aVabout four major changes to science these men made.
+p93
+aa(lp94
+VAbout 200 years before,
+p95
+aVFrancis Bacon and then, later, Isaac Newton,
+p96
+aVhad proposed an inductive scientific method.
+p97
+aVNow that's a method that starts from
+p98
+aVobservations and experiments
+p99
+aVand moves to generalizations about nature called natural laws,
+p100
+aVwhich are always subject to revision or rejection
+p101
+aVshould new evidence arise.
+p102
+aVHowever, in 1809, David Ricardo muddied the waters
+p103
+aVby arguing that the science of economics
+p104
+aVshould use a different, deductive method.
+p105
+aVThe problem was that an influential group at Oxford
+p106
+aVbegan arguing that because it worked so well in economics,
+p107
+aVthis deductive method ought to be applied
+p108
+aVto the natural sciences too.
+p109
+aVThe members of the philosophical breakfast club disagreed.
+p110
+aVThey wrote books and articles promoting inductive method
+p111
+aVin all the sciences
+p112
+aVthat were widely read by natural philosophers,
+p113
+aVuniversity students and members of the public.
+p114
+aVReading one of Herschel's books
+p115
+aVwas such a watershed moment for Charles Darwin
+p116
+aVthat he would later say, "Scarcely anything in my life
+p117
+aVmade so deep an impression on me.
+p118
+aVIt made me wish to add my might
+p119
+aVto the accumulated store of natural knowledge."
+p120
+aVIt also shaped Darwin's scientific method,
+p121
+aVas well as that used by his peers.
+p122
+aV[Science for the public good]
+p123
+aa(lp124
+VPreviously, it was believed that scientific knowledge
+p125
+aVought to be used for the good of the king or queen,
+p126
+aVor for one's own personal gain.
+p127
+aVFor example, ship captains needed to know
+p128
+aVinformation about the tides in order to safely dock at ports.
+p129
+aVHarbormasters would gather this knowledge
+p130
+aVand sell it to the ship captains.
+p131
+aVThe philosophical breakfast club changed that,
+p132
+aVworking together.
+p133
+aVWhewell's worldwide study of the tides
+p134
+aVresulted in public tide tables and tidal maps
+p135
+aVthat freely provided the harbormasters' knowledge
+p136
+aVto all ship captains.
+p137
+aVHerschel helped by making tidal observations
+p138
+aVoff the coast of South Africa,
+p139
+aVand, as he complained to Whewell,
+p140
+aVhe was knocked off the docks during a violent high tide for his trouble.
+p141
+aVThe four men really helped each other in every way.
+p142
+aVThey also relentlessly lobbied the British government
+p143
+aVfor the money to build Babbage's engines
+p144
+aVbecause they believed these engines
+p145
+aVwould have a huge practical impact on society.
+p146
+aVIn the days before pocket calculators,
+p147
+aVthe numbers that most professionals needed \u2014
+p148
+aVbankers, insurance agents, ship captains, engineers \u2014
+p149
+aVwere to be found in lookup books like this,
+p150
+aVfilled with tables of figures.
+p151
+aVThese tables were calculated
+p152
+aVusing a fixed procedure over and over
+p153
+aVby part-time workers known as \u2014 and this is amazing \u2014 computers,
+p154
+aVbut these calculations were really difficult.
+p155
+aVI mean, this nautical almanac
+p156
+aVpublished the lunar differences for every month of the year.
+p157
+aVEach month required 1,365 calculations,
+p158
+aVso these tables were filled with mistakes.
+p159
+aVBabbage's difference engine was the first mechanical calculator
+p160
+aVdevised to accurately compute any of these tables.
+p161
+aVTwo models of his engine were built in the last 20 years
+p162
+aVby a team from the Science Museum of London
+p163
+aVusing his own plans.
+p164
+aVThis is the one now at the Computer History Museum in California,
+p165
+aVand it calculates accurately. It actually works.
+p166
+aVLater, Babbage's analytical engine
+p167
+aVwas the first mechanical computer in the modern sense.
+p168
+aVIt had a separate memory and central processor.
+p169
+aVIt was capable of iteration, conditional branching
+p170
+aVand parallel processing,
+p171
+aVand it was programmable using punched cards,
+p172
+aVan idea Babbage took from Jacquard's loom.
+p173
+aVTragically, Babbage's engines never were built in his day
+p174
+aVbecause most people thought that
+p175
+aVnon-human computers would have no usefulness
+p176
+aVfor the public.
+p177
+aV[New scientific institutions]
+p178
+aa(lp179
+VFounded in Bacon's time, the Royal Society of London
+p180
+aVwas the foremost scientific society in England
+p181
+aVand even in the rest of the world.
+p182
+aVBy the 19th century, it had become
+p183
+aVa kind of gentleman's club
+p184
+aVpopulated mainly by antiquarians, literary men and the nobility.
+p185
+aVThe members of the philosophical breakfast club
+p186
+aVhelped form a number of new scientific societies,
+p187
+aVincluding the British Association.
+p188
+aVThese new societies required
+p189
+aVthat members be active researchers publishing their results.
+p190
+aVThey reinstated the tradition of the Q&A
+p191
+aVafter scientific papers were read,
+p192
+aVwhich had been discontinued by the Royal Society
+p193
+aVas being ungentlemanly.
+p194
+aVAnd for the first time, they gave women a foot in the door of science.
+p195
+aVMembers were encouraged to bring their wives,
+p196
+aVdaughters and sisters to the meetings of the British Association,
+p197
+aVand while the women were expected to attend
+p198
+aVonly the public lectures and the social events like this one,
+p199
+aVthey began to infiltrate the scientific sessions as well.
+p200
+aVThe British Association would later be the first
+p201
+aVof the major national science organizations in the world
+p202
+aVto admit women as full members.
+p203
+aV[External funding for science]
+p204
+aa(lp205
+VUp to the 19th century,
+p206
+aVnatural philosophers were expected to pay
+p207
+aVfor their own equipment and supplies.
+p208
+aVOccasionally, there were prizes,
+p209
+aVsuch as that given to John Harrison in the 18th century,
+p210
+aVfor solving the so-called longitude problem,
+p211
+aVbut prizes were only given after the fact,
+p212
+aVwhen they were given at all.
+p213
+aVOn the advice of the philosophical breakfast club,
+p214
+aVthe British Association began to use the extra money
+p215
+aVgenerated by its meetings to give grants
+p216
+aVfor research in astronomy, the tides, fossil fish,
+p217
+aVshipbuilding, and many other areas.
+p218
+aVThese grants not only allowed
+p219
+aVless wealthy men to conduct research,
+p220
+aVbut they also encouraged thinking outside the box,
+p221
+aVrather than just trying to solve one pre-set question.
+p222
+aVEventually, the Royal Society
+p223
+aVand the scientific societies of other countries followed suit,
+p224
+aVand this has become \u2014 fortunately it's become \u2014
+p225
+aVa major part of the scientific landscape today.
+p226
+aa(lp227
+VSo the philosophical breakfast club
+p228
+aVhelped invent the modern scientist.
+p229
+aVThat's the heroic part of their story.
+p230
+aVThere's a flip side as well.
+p231
+aVThey did not foresee at least one consequence
+p232
+aVof their revolution.
+p233
+aVThey would have been deeply dismayed
+p234
+aVby today's disjunction between science and the rest of culture.
+p235
+aVIt's shocking to realize
+p236
+aVthat only 28 percent of American adults
+p237
+aVhave even a very basic level of science literacy,
+p238
+aVand this was tested by asking simple questions like,
+p239
+aV"Did humans and dinosaurs inhabit the Earth at the same time?"
+p240
+aVand "What proportion of the Earth is covered in water?"
+p241
+aVOnce scientists became members of a professional group,
+p242
+aVthey were slowly walled off from the rest of us.
+p243
+aVThis is the unintended consequence of the revolution
+p244
+aVthat started with our four friends.
+p245
+aa(lp246
+VCharles Darwin said,
+p247
+aV"I sometimes think that general and popular treatises
+p248
+aVare almost as important for the progress of science
+p249
+aVas original work."
+p250
+aVIn fact, "Origin of Species" was written
+p251
+aVfor a general and popular audience,
+p252
+aVand was widely read when it first appeared.
+p253
+aVDarwin knew what we seem to have forgotten,
+p254
+aVthat science is not only for scientists.
+p255
+aa(lp256
+VThank you.
+p257
+aa(lp258
+V(Applause)
+p259
+aasS'id'
+p260
+I1712
+sS'title'
+p261
+VThe Philosophical Breakfast Club
+p262
+s.

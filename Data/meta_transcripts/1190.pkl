@@ -1,0 +1,882 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIt's the Second World War.
+p4
+aVA German prison camp.
+p5
+aVAnd this man,
+p6
+aVArchie Cochrane,
+p7
+aVis a prisoner of war and a doctor,
+p8
+aVand he has a problem.
+p9
+aVThe problem is that the men under his care
+p10
+aVare suffering
+p11
+aVfrom an excruciating and debilitating condition
+p12
+aVthat Archie doesn't really understand.
+p13
+aVThe symptoms
+p14
+aVare this horrible swelling up of fluids under the skin.
+p15
+aVBut he doesn't know whether it's an infection, whether it's to do with malnutrition.
+p16
+aVHe doesn't know how to cure it.
+p17
+aVAnd he's operating in a hostile environment.
+p18
+aVAnd people do terrible things in wars.
+p19
+aVThe German camp guards, they've got bored.
+p20
+aVThey've taken to just firing into the prison camp at random
+p21
+aVfor fun.
+p22
+aVOn one particular occasion,
+p23
+aVone of the guards threw a grenade into the prisoners' lavatory
+p24
+aVwhile it was full of prisoners.
+p25
+aVHe said he heard suspicious laughter.
+p26
+aVAnd Archie Cochrane, as the camp doctor,
+p27
+aVwas one of the first men in
+p28
+aVto clear up the mess.
+p29
+aVAnd one more thing:
+p30
+aVArchie was suffering from this illness himself.
+p31
+aa(lp32
+VSo the situation seemed pretty desperate.
+p33
+aVBut Archie Cochrane
+p34
+aVwas a resourceful person.
+p35
+aVHe'd already smuggled vitamin C into the camp,
+p36
+aVand now he managed
+p37
+aVto get hold of supplies of marmite
+p38
+aVon the black market.
+p39
+aVNow some of you will be wondering what marmite is.
+p40
+aVMarmite is a breakfast spread beloved of the British.
+p41
+aVIt looks like crude oil.
+p42
+aVIt tastes ...
+p43
+aVzesty.
+p44
+aVAnd importantly,
+p45
+aVit's a rich source
+p46
+aVof vitamin B12.
+p47
+aVSo Archie splits the men under his care as best he can
+p48
+aVinto two equal groups.
+p49
+aVHe gives half of them vitamin C.
+p50
+aVHe gives half of them vitamin B12.
+p51
+aVHe very carefully and meticulously notes his results
+p52
+aVin an exercise book.
+p53
+aVAnd after just a few days,
+p54
+aVit becomes clear
+p55
+aVthat whatever is causing this illness,
+p56
+aVmarmite is the cure.
+p57
+aa(lp58
+VSo Cochrane then goes to the Germans who are running the prison camp.
+p59
+aVNow you've got to imagine at the moment \u2014
+p60
+aVforget this photo, imagine this guy
+p61
+aVwith this long ginger beard and this shock of red hair.
+p62
+aVHe hasn't been able to shave \u2014 a sort of Billy Connolly figure.
+p63
+aVCochrane, he starts ranting at these Germans
+p64
+aVin this Scottish accent \u2014
+p65
+aVin fluent German, by the way, but in a Scottish accent \u2014
+p66
+aVand explains to them how German culture was the culture
+p67
+aVthat gave Schiller and Goethe to the world.
+p68
+aVAnd he can't understand
+p69
+aVhow this barbarism can be tolerated,
+p70
+aVand he vents his frustrations.
+p71
+aVAnd then he goes back to his quarters,
+p72
+aVbreaks down and weeps
+p73
+aVbecause he's convinced that the situation is hopeless.
+p74
+aVBut a young German doctor
+p75
+aVpicks up Archie Cochrane's exercise book
+p76
+aVand says to his colleagues,
+p77
+aV"This evidence is incontrovertible.
+p78
+aVIf we don't supply vitamins to the prisoners,
+p79
+aVit's a war crime."
+p80
+aVAnd the next morning,
+p81
+aVsupplies of vitamin B12 are delivered to the camp,
+p82
+aVand the prisoners begin to recover.
+p83
+aa(lp84
+VNow I'm not telling you this story
+p85
+aVbecause I think Archie Cochrane is a dude,
+p86
+aValthough Archie Cochrane is a dude.
+p87
+aVI'm not even telling you the story
+p88
+aVbecause I think we should be running
+p89
+aVmore carefully controlled randomized trials
+p90
+aVin all aspects of public policy,
+p91
+aValthough I think that would also be completely awesome.
+p92
+aVI'm telling you this story
+p93
+aVbecause Archie Cochrane, all his life,
+p94
+aVfought against a terrible affliction,
+p95
+aVand he realized it was debilitating to individuals
+p96
+aVand it was corrosive to societies.
+p97
+aVAnd he had a name for it.
+p98
+aVHe called it the God complex.
+p99
+aVNow I can describe the symptoms of the God complex very, very easily.
+p100
+aVSo the symptoms of the complex
+p101
+aVare, no matter how complicated the problem,
+p102
+aVyou have an absolutely overwhelming belief
+p103
+aVthat you are infallibly right in your solution.
+p104
+aa(lp105
+VNow Archie was a doctor,
+p106
+aVso he hung around with doctors a lot.
+p107
+aVAnd doctors suffer from the God complex a lot.
+p108
+aVNow I'm an economist, I'm not a doctor,
+p109
+aVbut I see the God complex around me all the time
+p110
+aVin my fellow economists.
+p111
+aVI see it in our business leaders.
+p112
+aVI see it in the politicians we vote for \u2014
+p113
+aVpeople who, in the face of an incredibly complicated world,
+p114
+aVare nevertheless absolutely convinced
+p115
+aVthat they understand the way that the world works.
+p116
+aVAnd you know, with the future billions that we've been hearing about,
+p117
+aVthe world is simply far too complex
+p118
+aVto understand in that way.
+p119
+aa(lp120
+VWell let me give you an example.
+p121
+aVImagine for a moment
+p122
+aVthat, instead of Tim Harford in front of you,
+p123
+aVthere was Hans Rosling presenting his graphs.
+p124
+aVYou know Hans:
+p125
+aVthe Mick Jagger of TED.
+p126
+aV(Laughter)
+p127
+aVAnd he'd be showing you these amazing statistics,
+p128
+aVthese amazing animations.
+p129
+aVAnd they are brilliant; it's wonderful work.
+p130
+aVBut a typical Hans Rosling graph:
+p131
+aVthink for a moment, not what it shows,
+p132
+aVbut think instead about what it leaves out.
+p133
+aVSo it'll show you GDP per capita,
+p134
+aVpopulation, longevity,
+p135
+aVthat's about it.
+p136
+aVSo three pieces of data for each country \u2014
+p137
+aVthree pieces of data.
+p138
+aVThree pieces of data is nothing.
+p139
+aVI mean, have a look at this graph.
+p140
+aa(lp141
+VThis is produced by the physicist Cesar Hidalgo.
+p142
+aVHe's at MIT.
+p143
+aVNow you won't be able to understand a word of it,
+p144
+aVbut this is what it looks like.
+p145
+aVCesar has trolled the database
+p146
+aVof over 5,000 different products,
+p147
+aVand he's used techniques of network analysis
+p148
+aVto interrogate this database
+p149
+aVand to graph relationships between the different products.
+p150
+aVAnd it's wonderful, wonderful work.
+p151
+aVYou show all these interconnections, all these interrelations.
+p152
+aVAnd I think it'll be profoundly useful
+p153
+aVin understanding how it is that economies grow.
+p154
+aVBrilliant work.
+p155
+aVCesar and I tried to write a piece for The New York Times Magazine
+p156
+aVexplaining how this works.
+p157
+aVAnd what we learned
+p158
+aVis Cesar's work is far too good to explain
+p159
+aVin The New York Times Magazine.
+p160
+aa(lp161
+VFive thousand products \u2014
+p162
+aVthat's still nothing.
+p163
+aVFive thousand products \u2014
+p164
+aVimagine counting every product category
+p165
+aVin Cesar Hidalgo's data.
+p166
+aVImagine you had one second
+p167
+aVper product category.
+p168
+aVIn about the length of this session,
+p169
+aVyou would have counted all 5,000.
+p170
+aVNow imagine doing the same thing
+p171
+aVfor every different type of product on sale in Walmart.
+p172
+aVThere are 100,000 there. It would take you all day.
+p173
+aVNow imagine trying to count
+p174
+aVevery different specific product and service
+p175
+aVon sale in a major economy
+p176
+aVsuch as Tokyo, London or New York.
+p177
+aVIt's even more difficult in Edinburgh
+p178
+aVbecause you have to count all the whisky and the tartan.
+p179
+aVIf you wanted to count every product and service
+p180
+aVon offer in New York \u2014
+p181
+aVthere are 10 billion of them \u2014
+p182
+aVit would take you 317 years.
+p183
+aVThis is how complex the economy we've created is.
+p184
+aVAnd I'm just counting toasters here.
+p185
+aVI'm not trying to solve the Middle East problem.
+p186
+aVThe complexity here is unbelievable.
+p187
+aVAnd just a piece of context \u2014
+p188
+aVthe societies in which our brains evolved
+p189
+aVhad about 300 products and services.
+p190
+aVYou could count them in five minutes.
+p191
+aa(lp192
+VSo this is the complexity of the world that surrounds us.
+p193
+aVThis perhaps is why
+p194
+aVwe find the God complex so tempting.
+p195
+aVWe tend to retreat and say, "We can draw a picture,
+p196
+aVwe can post some graphs,
+p197
+aVwe get it, we understand how this works."
+p198
+aVAnd we don't.
+p199
+aVWe never do.
+p200
+aVNow I'm not trying to deliver a nihilistic message here.
+p201
+aVI'm not trying to say we can't solve
+p202
+aVcomplicated problems in a complicated world.
+p203
+aVWe clearly can.
+p204
+aVBut the way we solve them
+p205
+aVis with humility \u2014
+p206
+aVto abandon the God complex
+p207
+aVand to actually use a problem-solving technique that works.
+p208
+aVAnd we have a problem-solving technique that works.
+p209
+aVNow you show me
+p210
+aVa successful complex system,
+p211
+aVand I will show you a system
+p212
+aVthat has evolved through trial and error.
+p213
+aa(lp214
+VHere's an example.
+p215
+aVThis baby was produced through trial and error.
+p216
+aVI realize that's an ambiguous statement.
+p217
+aVMaybe I should clarify it.
+p218
+aVThis baby is a human body: it evolved.
+p219
+aVWhat is evolution?
+p220
+aVOver millions of years, variation and selection,
+p221
+aVvariation and selection \u2014
+p222
+aVtrial and error,
+p223
+aVtrial and error.
+p224
+aVAnd it's not just biological systems
+p225
+aVthat produce miracles through trial and error.
+p226
+aVYou could use it in an industrial context.
+p227
+aa(lp228
+VSo let's say you wanted to make detergent.
+p229
+aVLet's say you're Unilever
+p230
+aVand you want to make detergent in a factory near Liverpool.
+p231
+aVHow do you do it?
+p232
+aVWell you have this great big tank full of liquid detergent.
+p233
+aVYou pump it at a high pressure through a nozzle.
+p234
+aVYou create a spray of detergent.
+p235
+aVThen the spray dries. It turns into powder.
+p236
+aVIt falls to the floor.
+p237
+aVYou scoop it up. You put it in cardboard boxes.
+p238
+aVYou sell it at a supermarket.
+p239
+aVYou make lots of money.
+p240
+aVHow do you design that nozzle?
+p241
+aVIt turns out to be very important.
+p242
+aVNow if you ascribe to the God complex,
+p243
+aVwhat you do is you find yourself a little God.
+p244
+aVYou find yourself a mathematician; you find yourself a physicist \u2014
+p245
+aVsomebody who understands the dynamics of this fluid.
+p246
+aVAnd he will, or she will,
+p247
+aVcalculate the optimal design of the nozzle.
+p248
+aVNow Unilever did this and it didn't work \u2014
+p249
+aVtoo complicated.
+p250
+aVEven this problem, too complicated.
+p251
+aa(lp252
+VBut the geneticist Professor Steve Jones
+p253
+aVdescribes how Unilever actually did solve this problem \u2014
+p254
+aVtrial and error,
+p255
+aVvariation and selection.
+p256
+aVYou take a nozzle
+p257
+aVand you create 10 random variations on the nozzle.
+p258
+aVYou try out all 10; you keep the one that works best.
+p259
+aVYou create 10 variations on that one.
+p260
+aVYou try out all 10. You keep the one that works best.
+p261
+aVYou try out 10 variations on that one.
+p262
+aVYou see how this works, right?
+p263
+aVAnd after 45 generations,
+p264
+aVyou have this incredible nozzle.
+p265
+aVIt looks a bit like a chess piece \u2014
+p266
+aVfunctions absolutely brilliantly.
+p267
+aVWe have no idea
+p268
+aVwhy it works,
+p269
+aVno idea at all.
+p270
+aVAnd the moment you step back from the God complex \u2014
+p271
+aVlet's just try to have a bunch of stuff;
+p272
+aVlet's have a systematic way of determining what's working and what's not \u2014
+p273
+aVyou can solve your problem.
+p274
+aa(lp275
+VNow this process of trial and error
+p276
+aVis actually far more common in successful institutions
+p277
+aVthan we care to recognize.
+p278
+aVAnd we've heard a lot about how economies function.
+p279
+aVThe U.S. economy is still the world's greatest economy.
+p280
+aVHow did it become the world's greatest economy?
+p281
+aVI could give you all kinds of facts and figures
+p282
+aVabout the U.S. economy,
+p283
+aVbut I think the most salient one is this:
+p284
+aVten percent of American businesses
+p285
+aVdisappear every year.
+p286
+aVThat is a huge failure rate.
+p287
+aVIt's far higher than the failure rate of, say, Americans.
+p288
+aVTen percent of Americans don't disappear every year.
+p289
+aVWhich leads us to conclude
+p290
+aVAmerican businesses fail faster than Americans,
+p291
+aVand therefore American businesses are evolving faster than Americans.
+p292
+aVAnd eventually, they'll have evolved to such a high peak of perfection
+p293
+aVthat they will make us all their pets \u2014
+p294
+aV(Laughter)
+p295
+aVif, of course, they haven't already done so.
+p296
+aVI sometimes wonder.
+p297
+aVBut it's this process of trial and error
+p298
+aVthat explains this great divergence,
+p299
+aVthis incredible performance of Western economies.
+p300
+aVIt didn't come because you put some incredibly smart person in charge.
+p301
+aVIt's come through trial and error.
+p302
+aa(lp303
+VNow I've been sort of banging on about this
+p304
+aVfor the last couple of months,
+p305
+aVand people sometimes say to me,
+p306
+aV"Well Tim, it's kind of obvious.
+p307
+aVObviously trial and error is very important.
+p308
+aVObviously experimentation is very important.
+p309
+aVNow why are you just wandering around saying this obvious thing?"
+p310
+aa(lp311
+VSo I say, okay, fine.
+p312
+aVYou think it's obvious?
+p313
+aVI will admit it's obvious
+p314
+aVwhen schools
+p315
+aVstart teaching children
+p316
+aVthat there are some problems that don't have a correct answer.
+p317
+aVStop giving them lists of questions
+p318
+aVevery single one of which has an answer.
+p319
+aVAnd there's an authority figure in the corner
+p320
+aVbehind the teacher's desk who knows all the answers.
+p321
+aVAnd if you can't find the answers,
+p322
+aVyou must be lazy or stupid.
+p323
+aVWhen schools stop doing that all the time,
+p324
+aVI will admit that, yes,
+p325
+aVit's obvious that trial and error is a good thing.
+p326
+aVWhen a politician stands up
+p327
+aVcampaigning for elected office
+p328
+aVand says, "I want to fix our health system.
+p329
+aVI want to fix our education system.
+p330
+aVI have no idea how to do it.
+p331
+aVI have half a dozen ideas.
+p332
+aVWe're going to test them out. They'll probably all fail.
+p333
+aVThen we'll test some other ideas out.
+p334
+aVWe'll find some that work. We'll build on those.
+p335
+aVWe'll get rid of the ones that don't." \u2014
+p336
+aVwhen a politician campaigns on that platform,
+p337
+aVand more importantly, when voters like you and me
+p338
+aVare willing to vote for that kind of politician,
+p339
+aVthen I will admit
+p340
+aVthat it is obvious that trial and error works, and that \u2014 thank you.
+p341
+aa(lp342
+V(Applause)
+p343
+aa(lp344
+VUntil then, until then
+p345
+aVI'm going to keep banging on about trial and error
+p346
+aVand why we should abandon the God complex.
+p347
+aVBecause it's so hard
+p348
+aVto admit our own fallibility.
+p349
+aVIt's so uncomfortable.
+p350
+aVAnd Archie Cochrane understood this as well as anybody.
+p351
+aVThere's this one trial he ran
+p352
+aVmany years after World War II.
+p353
+aVHe wanted to test out
+p354
+aVthe question of, where is it
+p355
+aVthat patients should recover
+p356
+aVfrom heart attacks?
+p357
+aVShould they recover in a specialized cardiac unit in hospital,
+p358
+aVor should they recover at home?
+p359
+aVAll the cardiac doctors tried to shut him down.
+p360
+aVThey had the God complex in spades.
+p361
+aVThey knew that their hospitals were the right place for patients,
+p362
+aVand they knew it was very unethical
+p363
+aVto run any kind of trial or experiment.
+p364
+aa(lp365
+VNevertheless, Archie managed to get permission to do this.
+p366
+aVHe ran his trial.
+p367
+aVAnd after the trial had been running for a little while,
+p368
+aVhe gathered together all his colleagues
+p369
+aVaround his table,
+p370
+aVand he said, "Well, gentlemen,
+p371
+aVwe have some preliminary results.
+p372
+aVThey're not statistically significant.
+p373
+aVBut we have something.
+p374
+aVAnd it turns out that you're right and I'm wrong.
+p375
+aVIt is dangerous for patients
+p376
+aVto recover from heart attacks at home.
+p377
+aVThey should be in hospital."
+p378
+aVAnd there's this uproar, and all the doctors start pounding the table
+p379
+aVand saying, "We always said you were unethical, Archie.
+p380
+aVYou're killing people with your clinical trials. You need to shut it down now.
+p381
+aVShut it down at once."
+p382
+aVAnd there's this huge hubbub.
+p383
+aVArchie lets it die down.
+p384
+aVAnd then he says, "Well that's very interesting, gentlemen,
+p385
+aVbecause when I gave you the table of results,
+p386
+aVI swapped the two columns around.
+p387
+aVIt turns out your hospitals are killing people,
+p388
+aVand they should be at home.
+p389
+aVWould you like to close down the trial now,
+p390
+aVor should we wait until we have robust results?"
+p391
+aVTumbleweed
+p392
+aVrolls through the meeting room.
+p393
+aa(lp394
+VBut Cochrane would do that kind of thing.
+p395
+aVAnd the reason he would do that kind of thing
+p396
+aVis because he understood
+p397
+aVit feels so much better
+p398
+aVto stand there and say,
+p399
+aV"Here in my own little world,
+p400
+aVI am a god, I understand everything.
+p401
+aVI do not want to have my opinions challenged.
+p402
+aVI do not want to have my conclusions tested."
+p403
+aVIt feels so much more comfortable
+p404
+aVsimply to lay down the law.
+p405
+aVCochrane understood
+p406
+aVthat uncertainty, that fallibility,
+p407
+aVthat being challenged, they hurt.
+p408
+aVAnd you sometimes need to be shocked out of that.
+p409
+aVNow I'm not going to pretend that this is easy.
+p410
+aVIt isn't easy.
+p411
+aVIt's incredibly painful.
+p412
+aa(lp413
+VAnd since I started talking about this subject
+p414
+aVand researching this subject,
+p415
+aVI've been really haunted by something
+p416
+aVa Japanese mathematician said on the subject.
+p417
+aVSo shortly after the war,
+p418
+aVthis young man, Yutaka Taniyama,
+p419
+aVdeveloped this amazing conjecture
+p420
+aVcalled the Taniyama-Shimura Conjecture.
+p421
+aVIt turned out to be absolutely instrumental
+p422
+aVmany decades later
+p423
+aVin proving Fermat's Last Theorem.
+p424
+aVIn fact, it turns out it's equivalent
+p425
+aVto proving Fermat's Last Theorem.
+p426
+aVYou prove one, you prove the other.
+p427
+aVBut it was always a conjecture.
+p428
+aVTaniyama tried and tried and tried
+p429
+aVand he could never prove that it was true.
+p430
+aVAnd shortly before his 30th birthday in 1958,
+p431
+aVYutaka Taniyama killed himself.
+p432
+aVHis friend, Goro Shimura \u2014
+p433
+aVwho worked on the mathematics with him \u2014
+p434
+aVmany decades later, reflected on Taniyama's life.
+p435
+aVHe said,
+p436
+aV"He was not a very careful person
+p437
+aVas a mathematician.
+p438
+aVHe made a lot of mistakes.
+p439
+aVBut he made mistakes in a good direction.
+p440
+aVI tried to emulate him,
+p441
+aVbut I realized
+p442
+aVit is very difficult
+p443
+aVto make good mistakes."
+p444
+aa(lp445
+VThank you.
+p446
+aa(lp447
+V(Applause)
+p448
+aasS'id'
+p449
+I1190
+sS'title'
+p450
+VTrial, error and the God complex
+p451
+s.

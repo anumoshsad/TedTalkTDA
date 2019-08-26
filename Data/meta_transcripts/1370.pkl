@@ -1,0 +1,808 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm a computer science professor,
+p4
+aVand my area of expertise is
+p5
+aVcomputer and information security.
+p6
+aVWhen I was in graduate school,
+p7
+aVI had the opportunity to overhear my grandmother
+p8
+aVdescribing to one of her fellow senior citizens
+p9
+aVwhat I did for a living.
+p10
+aVApparently, I was in charge of making sure that
+p11
+aVno one stole the computers from the university. (Laughter)
+p12
+aVAnd, you know, that's a perfectly reasonable thing
+p13
+aVfor her to think, because I told her I was working
+p14
+aVin computer security,
+p15
+aVand it was interesting to get her perspective.
+p16
+aa(lp17
+VBut that's not the most ridiculous thing I've ever heard
+p18
+aVanyone say about my work.
+p19
+aVThe most ridiculous thing I ever heard is,
+p20
+aVI was at a dinner party, and a woman heard
+p21
+aVthat I work in computer security,
+p22
+aVand she asked me if \u2014 she said her computer had been
+p23
+aVinfected by a virus, and she was very concerned that she
+p24
+aVmight get sick from it, that she could get this virus. (Laughter)
+p25
+aVAnd I'm not a doctor, but I reassured her
+p26
+aVthat it was very, very unlikely that this would happen,
+p27
+aVbut if she felt more comfortable, she could be free to use
+p28
+aVlatex gloves when she was on the computer,
+p29
+aVand there would be no harm whatsoever in that.
+p30
+aa(lp31
+VI'm going to get back to this notion of being able to get
+p32
+aVa virus from your computer, in a serious way.
+p33
+aVWhat I'm going to talk to you about today
+p34
+aVare some hacks, some real world cyberattacks that people
+p35
+aVin my community, the academic research community,
+p36
+aVhave performed, which I don't think
+p37
+aVmost people know about,
+p38
+aVand I think they're very interesting and scary,
+p39
+aVand this talk is kind of a greatest hits
+p40
+aVof the academic security community's hacks.
+p41
+aVNone of the work is my work. It's all work
+p42
+aVthat my colleagues have done, and I actually asked them
+p43
+aVfor their slides and incorporated them into this talk.
+p44
+aa(lp45
+VSo the first one I'm going to talk about
+p46
+aVare implanted medical devices.
+p47
+aVNow medical devices have come a long way technologically.
+p48
+aVYou can see in 1926 the first pacemaker was invented.
+p49
+aV1960, the first internal pacemaker was implanted,
+p50
+aVhopefully a little smaller than that one that you see there,
+p51
+aVand the technology has continued to move forward.
+p52
+aVIn 2006, we hit an important milestone from the perspective
+p53
+aVof computer security.
+p54
+aVAnd why do I say that?
+p55
+aVBecause that's when implanted devices inside of people
+p56
+aVstarted to have networking capabilities.
+p57
+aVOne thing that brings us close to home is we look
+p58
+aVat Dick Cheney's device, he had a device that
+p59
+aVpumped blood from an aorta to another part of the heart,
+p60
+aVand as you can see at the bottom there,
+p61
+aVit was controlled by a computer controller,
+p62
+aVand if you ever thought that software liability
+p63
+aVwas very important, get one of these inside of you.
+p64
+aa(lp65
+VNow what a research team did was they got their hands
+p66
+aVon what's called an ICD.
+p67
+aVThis is a defibrillator, and this is a device
+p68
+aVthat goes into a person to control their heart rhythm,
+p69
+aVand these have saved many lives.
+p70
+aVWell, in order to not have to open up the person
+p71
+aVevery time you want to reprogram their device
+p72
+aVor do some diagnostics on it, they made the thing be able
+p73
+aVto communicate wirelessly, and what this research team did
+p74
+aVis they reverse engineered the wireless protocol,
+p75
+aVand they built the device you see pictured here,
+p76
+aVwith a little antenna, that could talk the protocol
+p77
+aVto the device, and thus control it.
+p78
+aVIn order to make their experience real \u2014 they were unable
+p79
+aVto find any volunteers, and so they went
+p80
+aVand they got some ground beef and some bacon
+p81
+aVand they wrapped it all up to about the size
+p82
+aVof a human being's area where the device would go,
+p83
+aVand they stuck the device inside it
+p84
+aVto perform their experiment somewhat realistically.
+p85
+aVThey launched many, many successful attacks.
+p86
+aVOne that I'll highlight here is changing the patient's name.
+p87
+aVI don't know why you would want to do that,
+p88
+aVbut I sure wouldn't want that done to me.
+p89
+aVAnd they were able to change therapies,
+p90
+aVincluding disabling the device \u2014 and this is with a real,
+p91
+aVcommercial, off-the-shelf device \u2014
+p92
+aVsimply by performing reverse engineering and sending
+p93
+aVwireless signals to it.
+p94
+aa(lp95
+VThere was a piece on NPR that some of these ICDs
+p96
+aVcould actually have their performance disrupted
+p97
+aVsimply by holding a pair of headphones onto them.
+p98
+aa(lp99
+VNow, wireless and the Internet
+p100
+aVcan improve health care greatly.
+p101
+aVThere's several examples up on the screen
+p102
+aVof situations where doctors are looking to implant devices
+p103
+aVinside of people, and all of these devices now,
+p104
+aVit's standard that they communicate wirelessly,
+p105
+aVand I think this is great,
+p106
+aVbut without a full understanding of trustworthy computing,
+p107
+aVand without understanding what attackers can do
+p108
+aVand the security risks from the beginning,
+p109
+aVthere's a lot of danger in this.
+p110
+aa(lp111
+VOkay, let me shift gears and show you another target.
+p112
+aVI'm going to show you a few different targets like this,
+p113
+aVand that's my talk. So we'll look at automobiles.
+p114
+aa(lp115
+VThis is a car, and it has a lot of components,
+p116
+aVa lot of electronics in it today.
+p117
+aVIn fact, it's got many, many different computers inside of it,
+p118
+aVmore Pentiums than my lab did when I was in college,
+p119
+aVand they're connected by a wired network.
+p120
+aVThere's also a wireless network in the car,
+p121
+aVwhich can be reached from many different ways.
+p122
+aVSo there's Bluetooth, there's the FM and XM radio,
+p123
+aVthere's actually wi-fi, there's sensors in the wheels
+p124
+aVthat wirelessly communicate the tire pressure
+p125
+aVto a controller on board.
+p126
+aVThe modern car is a sophisticated multi-computer device.
+p127
+aa(lp128
+VAnd what happens if somebody wanted to attack this?
+p129
+aVWell, that's what the researchers
+p130
+aVthat I'm going to talk about today did.
+p131
+aVThey basically stuck an attacker on the wired network
+p132
+aVand on the wireless network.
+p133
+aVNow, they have two areas they can attack.
+p134
+aVOne is short-range wireless, where you can actually
+p135
+aVcommunicate with the device from nearby,
+p136
+aVeither through Bluetooth or wi-fi,
+p137
+aVand the other is long-range, where you can communicate
+p138
+aVwith the car through the cellular network,
+p139
+aVor through one of the radio stations.
+p140
+aVThink about it. When a car receives a radio signal,
+p141
+aVit's processed by software.
+p142
+aVThat software has to receive and decode the radio signal,
+p143
+aVand then figure out what to do with it,
+p144
+aVeven if it's just music that it needs to play on the radio,
+p145
+aVand that software that does that decoding,
+p146
+aVif it has any bugs in it, could create a vulnerability
+p147
+aVfor somebody to hack the car.
+p148
+aa(lp149
+VThe way that the researchers did this work is,
+p150
+aVthey read the software in the computer chips
+p151
+aVthat were in the car, and then they used sophisticated
+p152
+aVreverse engineering tools
+p153
+aVto figure out what that software did,
+p154
+aVand then they found vulnerabilities in that software,
+p155
+aVand then they built exploits to exploit those.
+p156
+aVThey actually carried out their attack in real life.
+p157
+aVThey bought two cars, and I guess
+p158
+aVthey have better budgets than I do.
+p159
+aVThe first threat model was to see what someone could do
+p160
+aVif an attacker actually got access
+p161
+aVto the internal network on the car.
+p162
+aVOkay, so think of that as, someone gets to go to your car,
+p163
+aVthey get to mess around with it, and then they leave,
+p164
+aVand now, what kind of trouble are you in?
+p165
+aVThe other threat model is that they contact you
+p166
+aVin real time over one of the wireless networks
+p167
+aVlike the cellular, or something like that,
+p168
+aVnever having actually gotten physical access to your car.
+p169
+aa(lp170
+VThis is what their setup looks like for the first model,
+p171
+aVwhere you get to have access to the car.
+p172
+aVThey put a laptop, and they connected to the diagnostic unit
+p173
+aVon the in-car network, and they did all kinds of silly things,
+p174
+aVlike here's a picture of the speedometer
+p175
+aVshowing 140 miles an hour when the car's in park.
+p176
+aVOnce you have control of the car's computers,
+p177
+aVyou can do anything.
+p178
+aVNow you might say, "Okay, that's silly."
+p179
+aVWell, what if you make the car always say
+p180
+aVit's going 20 miles an hour slower than it's actually going?
+p181
+aVYou might produce a lot of speeding tickets.
+p182
+aa(lp183
+VThen they went out to an abandoned airstrip with two cars,
+p184
+aVthe target victim car and the chase car,
+p185
+aVand they launched a bunch of other attacks.
+p186
+aVOne of the things they were able to do from the chase car
+p187
+aVis apply the brakes on the other car,
+p188
+aVsimply by hacking the computer.
+p189
+aVThey were able to disable the brakes.
+p190
+aVThey also were able to install malware that wouldn't kick in
+p191
+aVand wouldn't trigger until the car was doing something like
+p192
+aVgoing over 20 miles an hour, or something like that.
+p193
+aVThe results are astonishing, and when they gave this talk,
+p194
+aVeven though they gave this talk at a conference
+p195
+aVto a bunch of computer security researchers,
+p196
+aVeverybody was gasping.
+p197
+aVThey were able to take over a bunch of critical computers
+p198
+aVinside the car: the brakes computer, the lighting computer,
+p199
+aVthe engine, the dash, the radio, etc.,
+p200
+aVand they were able to perform these on real commercial
+p201
+aVcars that they purchased using the radio network.
+p202
+aVThey were able to compromise every single one of the
+p203
+aVpieces of software that controlled every single one
+p204
+aVof the wireless capabilities of the car.
+p205
+aVAll of these were implemented successfully.
+p206
+aa(lp207
+VHow would you steal a car in this model?
+p208
+aVWell, you compromise the car by a buffer overflow
+p209
+aVof vulnerability in the software, something like that.
+p210
+aVYou use the GPS in the car to locate it.
+p211
+aVYou remotely unlock the doors through the computer
+p212
+aVthat controls that, start the engine, bypass anti-theft,
+p213
+aVand you've got yourself a car.
+p214
+aa(lp215
+VSurveillance was really interesting.
+p216
+aVThe authors of the study have a video where they show
+p217
+aVthemselves taking over a car and then turning on
+p218
+aVthe microphone in the car, and listening in on the car
+p219
+aVwhile tracking it via GPS on a map,
+p220
+aVand so that's something that the drivers of the car
+p221
+aVwould never know was happening.
+p222
+aa(lp223
+VAm I scaring you yet?
+p224
+aVI've got a few more of these interesting ones.
+p225
+aVThese are ones where I went to a conference,
+p226
+aVand my mind was just blown, and I said,
+p227
+aV"I have to share this with other people."
+p228
+aa(lp229
+VThis was Fabian Monrose's lab
+p230
+aVat the University of North Carolina, and what they did was
+p231
+aVsomething intuitive once you see it,
+p232
+aVbut kind of surprising.
+p233
+aVThey videotaped people on a bus,
+p234
+aVand then they post-processed the video.
+p235
+aVWhat you see here in number one is a
+p236
+aVreflection in somebody's glasses of the smartphone
+p237
+aVthat they're typing in.
+p238
+aVThey wrote software to stabilize \u2014
+p239
+aVeven though they were on a bus
+p240
+aVand maybe someone's holding their phone at an angle \u2014
+p241
+aVto stabilize the phone, process it, and
+p242
+aVyou may know on your smartphone, when you type
+p243
+aVa password, the keys pop out a little bit, and they were able
+p244
+aVto use that to reconstruct what the person was typing,
+p245
+aVand had a language model for detecting typing.
+p246
+aVWhat was interesting is, by videotaping on a bus,
+p247
+aVthey were able to produce exactly what people
+p248
+aVon their smartphones were typing,
+p249
+aVand then they had a surprising result, which is that
+p250
+aVtheir software had not only done it for their target,
+p251
+aVbut other people who accidentally happened
+p252
+aVto be in the picture, they were able to produce
+p253
+aVwhat those people had been typing, and that was kind of
+p254
+aVan accidental artifact of what their software was doing.
+p255
+aa(lp256
+VI'll show you two more. One is P25 radios.
+p257
+aVP25 radios are used by law enforcement
+p258
+aVand all kinds of government agencies
+p259
+aVand people in combat to communicate,
+p260
+aVand there's an encryption option on these phones.
+p261
+aVThis is what the phone looks like. It's not really a phone.
+p262
+aVIt's more of a two-way radio.
+p263
+aVMotorola makes the most widely used one, and you can see
+p264
+aVthat they're used by Secret Service, they're used in combat,
+p265
+aVit's a very, very common standard in the U.S. and elsewhere.
+p266
+aVSo one question the researchers asked themselves is,
+p267
+aVcould you block this thing, right?
+p268
+aVCould you run a denial-of-service,
+p269
+aVbecause these are first responders?
+p270
+aVSo, would a terrorist organization want to black out the
+p271
+aVability of police and fire to communicate at an emergency?
+p272
+aVThey found that there's this GirlTech device used for texting
+p273
+aVthat happens to operate at the same exact frequency
+p274
+aVas the P25, and they built what they called
+p275
+aVMy First Jammer. (Laughter)
+p276
+aVIf you look closely at this device,
+p277
+aVit's got a switch for encryption or cleartext.
+p278
+aVLet me advance the slide, and now I'll go back.
+p279
+aVYou see the difference?
+p280
+aVThis is plain text. This is encrypted.
+p281
+aVThere's one little dot that shows up on the screen,
+p282
+aVand one little tiny turn of the switch.
+p283
+aVAnd so the researchers asked themselves, "I wonder how
+p284
+aVmany times very secure, important, sensitive conversations
+p285
+aVare happening on these two-way radios where they forget
+p286
+aVto encrypt and they don't notice that they didn't encrypt?"
+p287
+aa(lp288
+VSo they bought a scanner. These are perfectly legal
+p289
+aVand they run at the frequency of the P25,
+p290
+aVand what they did is they hopped around frequencies
+p291
+aVand they wrote software to listen in.
+p292
+aVIf they found encrypted communication, they stayed
+p293
+aVon that channel and they wrote down, that's a channel
+p294
+aVthat these people communicate in,
+p295
+aVthese law enforcement agencies,
+p296
+aVand they went to 20 metropolitan areas and listened in
+p297
+aVon conversations that were happening at those frequencies.
+p298
+aVThey found that in every metropolitan area,
+p299
+aVthey would capture over 20 minutes a day
+p300
+aVof cleartext communication.
+p301
+aVAnd what kind of things were people talking about?
+p302
+aVWell, they found the names and information
+p303
+aVabout confidential informants. They found information
+p304
+aVthat was being recorded in wiretaps,
+p305
+aVa bunch of crimes that were being discussed,
+p306
+aVsensitive information.
+p307
+aVIt was mostly law enforcement and criminal.
+p308
+aVThey went and reported this to the law enforcement
+p309
+aVagencies, after anonymizing it,
+p310
+aVand the vulnerability here is simply the user interface
+p311
+aVwasn't good enough. If you're talking
+p312
+aVabout something really secure and sensitive, it should
+p313
+aVbe really clear to you that this conversation is encrypted.
+p314
+aVThat one's pretty easy to fix.
+p315
+aa(lp316
+VThe last one I thought was really, really cool,
+p317
+aVand I just had to show it to you, it's probably not something
+p318
+aVthat you're going to lose sleep over
+p319
+aVlike the cars or the defibrillators,
+p320
+aVbut it's stealing keystrokes.
+p321
+aVNow, we've all looked at smartphones upside down.
+p322
+aVEvery security expert wants to hack a smartphone,
+p323
+aVand we tend to look at the USB port, the GPS for tracking,
+p324
+aVthe camera, the microphone, but no one up till this point
+p325
+aVhad looked at the accelerometer.
+p326
+aVThe accelerometer is the thing that determines
+p327
+aVthe vertical orientation of the smartphone.
+p328
+aVAnd so they had a simple setup.
+p329
+aVThey put a smartphone next to a keyboard,
+p330
+aVand they had people type, and then their goal was
+p331
+aVto use the vibrations that were created by typing
+p332
+aVto measure the change in the accelerometer reading
+p333
+aVto determine what the person had been typing.
+p334
+aVNow, when they tried this on an iPhone 3GS,
+p335
+aVthis is a graph of the perturbations that were created
+p336
+aVby the typing, and you can see that it's very difficult
+p337
+aVto tell when somebody was typing or what they were typing,
+p338
+aVbut the iPhone 4 greatly improved the accelerometer,
+p339
+aVand so the same measurement
+p340
+aVproduced this graph.
+p341
+aVNow that gave you a lot of information while someone
+p342
+aVwas typing, and what they did then is used advanced
+p343
+aVartificial intelligence techniques called machine learning
+p344
+aVto have a training phase,
+p345
+aVand so they got most likely grad students
+p346
+aVto type in a whole lot of things, and to learn,
+p347
+aVto have the system use the machine learning tools that
+p348
+aVwere available to learn what it is that the people were typing
+p349
+aVand to match that up
+p350
+aVwith the measurements in the accelerometer.
+p351
+aVAnd then there's the attack phase, where you get
+p352
+aVsomebody to type something in, you don't know what it was,
+p353
+aVbut you use your model that you created
+p354
+aVin the training phase to figure out what they were typing.
+p355
+aVThey had pretty good success. This is an article from the USA Today.
+p356
+aVThey typed in, "The Illinois Supreme Court has ruled
+p357
+aVthat Rahm Emanuel is eligible to run for Mayor of Chicago"
+p358
+aV\u2014 see, I tied it in to the last talk \u2014
+p359
+aV"and ordered him to stay on the ballot."
+p360
+aVNow, the system is interesting, because it produced
+p361
+aV"Illinois Supreme" and then it wasn't sure.
+p362
+aVThe model produced a bunch of options,
+p363
+aVand this is the beauty of some of the A.I. techniques,
+p364
+aVis that computers are good at some things,
+p365
+aVhumans are good at other things,
+p366
+aVtake the best of both and let the humans solve this one.
+p367
+aVDon't waste computer cycles.
+p368
+aVA human's not going to think it's the Supreme might.
+p369
+aVIt's the Supreme Court, right?
+p370
+aVAnd so, together we're able to reproduce typing
+p371
+aVsimply by measuring the accelerometer.
+p372
+aVWhy does this matter? Well, in the Android platform,
+p373
+aVfor example, the developers have a manifest
+p374
+aVwhere every device on there, the microphone, etc.,
+p375
+aVhas to register if you're going to use it
+p376
+aVso that hackers can't take over it,
+p377
+aVbut nobody controls the accelerometer.
+p378
+aa(lp379
+VSo what's the point? You can leave your iPhone next to
+p380
+aVsomeone's keyboard, and just leave the room,
+p381
+aVand then later recover what they did,
+p382
+aVeven without using the microphone.
+p383
+aVIf someone is able to put malware on your iPhone,
+p384
+aVthey could then maybe get the typing that you do
+p385
+aVwhenever you put your iPhone next to your keyboard.
+p386
+aa(lp387
+VThere's several other notable attacks that unfortunately
+p388
+aVI don't have time to go into, but the one that I wanted
+p389
+aVto point out was a group from the University of Michigan
+p390
+aVwhich was able to take voting machines,
+p391
+aVthe Sequoia AVC Edge DREs that
+p392
+aVwere going to be used in New Jersey in the election
+p393
+aVthat were left in a hallway, and put Pac-Man on it.
+p394
+aVSo they ran the Pac-Man game.
+p395
+aa(lp396
+VWhat does this all mean?
+p397
+aVWell, I think that society tends to adopt technology
+p398
+aVreally quickly. I love the next coolest gadget.
+p399
+aVBut it's very important, and these researchers are showing,
+p400
+aVthat the developers of these things
+p401
+aVneed to take security into account from the very beginning,
+p402
+aVand need to realize that they may have a threat model,
+p403
+aVbut the attackers may not be nice enough
+p404
+aVto limit themselves to that threat model,
+p405
+aVand so you need to think outside of the box.
+p406
+aa(lp407
+VWhat we can do is be aware
+p408
+aVthat devices can be compromised,
+p409
+aVand anything that has software in it
+p410
+aVis going to be vulnerable. It's going to have bugs.
+p411
+aVThank you very much. (Applause)
+p412
+aasS'id'
+p413
+I1370
+sS'title'
+p414
+VAll your devices can be hacked
+p415
+s.

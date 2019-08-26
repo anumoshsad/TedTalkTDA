@@ -1,0 +1,554 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhen I saw a piece of technology called Kinect \u2014
+p4
+aVit was called Natal \u2014 I was inspired,
+p5
+aVand I thought for a moment,
+p6
+aVmaybe it's possible
+p7
+aVto address that one problem of storytelling,
+p8
+aVto create a character
+p9
+aVwhich seemed alive,
+p10
+aVwhich noticed me,
+p11
+aVthat could look me in the eyes
+p12
+aVand feel real,
+p13
+aVand sculpt a story about our relationship.
+p14
+aVAnd so a year ago,
+p15
+aVI showed this off
+p16
+aVat a computer show called E3.
+p17
+aVAnd this was a piece of technology
+p18
+aVwith someone called Claire interacting with this boy.
+p19
+aVAnd there was a huge row online
+p20
+aVabout, "Hey, this can't be real."
+p21
+aVAnd so I waited till now
+p22
+aVto have an actual demo
+p23
+aVof the real tech.
+p24
+aa(lp25
+VNow, this tech incorporates
+p26
+aVthree big elements.
+p27
+aVThe first is a Kinect camera,
+p28
+aVwhich will be out in November,
+p29
+aVsome incredible AI
+p30
+aVthat was hidden in the dusty vaults,
+p31
+aVcollecting dust
+p32
+aVin Microsoft,
+p33
+aVplus our quite crude
+p34
+aVattempts at AI
+p35
+aVat a company called Lionhead,
+p36
+aVmixing all those things together
+p37
+aVjust to get to this one simple idea:
+p38
+aVto create a real, living
+p39
+aVbeing in a computer.
+p40
+aVNow, I'll be honest with you
+p41
+aVand say that most of it
+p42
+aVis just a trick,
+p43
+aVbut it's a trick that actually works.
+p44
+aa(lp45
+VSo why don't we go over and have
+p46
+aVa look at the demo now.
+p47
+aVThis is Dimitri.
+p48
+aVDimitri, just waggle your arm around.
+p49
+aVNow, you notice he's sitting.
+p50
+aVThere are no controllers,
+p51
+aVno keyboards,
+p52
+aVor mice,
+p53
+aVor joysticks, or joypads.
+p54
+aVHe is just going to use
+p55
+aVhis hand, his body and his voice,
+p56
+aVjust like humans interact with their hands, body and voice.
+p57
+aa(lp58
+VSo let's move forward.
+p59
+aVYou're going to meet Milo for the first time.
+p60
+aVWe had to give him a problem
+p61
+aVbecause when we first created Milo,
+p62
+aVwe realized that he came across as a little bit of a brat,
+p63
+aVto be honest with you.
+p64
+aVHe was quite a know-it-all,
+p65
+aVand he wanted to kind of make you laugh.
+p66
+aVSo the problem we introduced to him was this:
+p67
+aVhe's just moved house.
+p68
+aVHe's moved from London
+p69
+aVto New England, over in America.
+p70
+aVHis parents are too busy
+p71
+aVto listen to his problems,
+p72
+aVand that's when he starts almost conjuring you up.
+p73
+aVSo here he is
+p74
+aVwalking through the grass.
+p75
+aVAnd you're able to interact with his world.
+p76
+aVThe cool thing is, what we're doing
+p77
+aVis we're changing the mind
+p78
+aVof Milo constantly.
+p79
+aVThat means no two people's Milos
+p80
+aVcan be the same.
+p81
+aVYou're actually sculpting a human being here.
+p82
+aVSo, he's discovering the garden.
+p83
+aVYou're helping him discover the garden
+p84
+aVby just pointing out these snails.
+p85
+aVVery simple at the start.
+p86
+aVBy the way, if you are a boy, it's snails;
+p87
+aVif you're a girl, it's butterflies
+p88
+aVbecause what we found was that girls hate snails.
+p89
+aa(lp90
+V(Laughter)
+p91
+aa(lp92
+VSo remember, this is the first time you've met him,
+p93
+aVand we really want to draw you in and make you more curious.
+p94
+aVHis face, by the way,
+p95
+aVis fully AI-driven.
+p96
+aVWe have complete control over his blush responses,
+p97
+aVthe diameter of his nostrils
+p98
+aVto denote stress.
+p99
+aVWe actually do something called body matching.
+p100
+aVIf you're leaning forward,
+p101
+aVhe will try and slightly change
+p102
+aVthe neuro-linguistic nature of his face,
+p103
+aVbecause we went out with this strong idea:
+p104
+aVhow can we make you believe that something's real?
+p105
+aVNow we've used the hand.
+p106
+aVThe other thing to use is your body.
+p107
+aVWhy not just, instead of pushing left and right
+p108
+aVwith a mouse or with a joypad,
+p109
+aVwhy not use your body just to lean on the chair \u2014
+p110
+aVagain, relaxed?
+p111
+aVYou can lean back,
+p112
+aVbut the camera will change its perspective
+p113
+aVdepending on which way you're looking.
+p114
+aa(lp115
+VSo Dimitri's now going to use \u2014
+p116
+aVhe's used his hand; he's used his body.
+p117
+aVHe's now going to use the other thing which is essential,
+p118
+aVand that's his voice.
+p119
+aVNow, the thing about voice is,
+p120
+aVour experience with voice recognition
+p121
+aVis pretty awful, isn't it?
+p122
+aVIt never works.
+p123
+aVYou order an airline ticket; you end up in Timbuktu.
+p124
+aVSo we've tackled that problem,
+p125
+aVand we've come up with a solution, which we'll see in a second.
+p126
+aa(lp127
+VMilo: I could just squish it.
+p128
+aa(lp129
+VPeter Molyneux: What are you going to do, Dimitri?
+p130
+aa(lp131
+VFemale Voice: Squashing a snail may not seem important,
+p132
+aVbut remember, even this choice
+p133
+aVwill affect how Milo develops.
+p134
+aVDo you want Milo to squash it?
+p135
+aVWhen you see the microphone,
+p136
+aVsay ... (PM: Squash.) ... yes to decide.
+p137
+aa(lp138
+VDimitri: Go on, Milo. Squash it.
+p139
+aa(lp140
+VPM: No. That's the wrong thing to do.
+p141
+aVNow look at his response.
+p142
+aVHe said, "Go on, Milo. Squash it."
+p143
+aVWhat we're using there is,
+p144
+aVwe're using something, a piece of technology called Tellme.
+p145
+aVIt's a company that Microsoft acquired some years ago.
+p146
+aVWe've got a database of words which we recognize.
+p147
+aVWe pick those words out.
+p148
+aVWe also reference that
+p149
+aVwith the tonation database
+p150
+aVthat we build up of Dimitri's voice,
+p151
+aVor the user's voice.
+p152
+aVNow we need to have a bit more engagement,
+p153
+aVand again, what we can do
+p154
+aVis we can look at the body.
+p155
+aVAnd we'll do that in a second.
+p156
+aa(lp157
+VMilo: I wonder how deep it is.
+p158
+aVDeep.
+p159
+aa(lp160
+VPM: Okay. So what we're going to do now
+p161
+aVis teach Milo to skim stones.
+p162
+aVWe're actually teaching him.
+p163
+aVIt's very, very interesting
+p164
+aVthat men, more than women,
+p165
+aVtend to be more competitive here.
+p166
+aVThey're fine with teaching Milo for the first few throws,
+p167
+aVbut then they want to beat Milo,
+p168
+aVwhere women,
+p169
+aVthey're more nurturing about this.
+p170
+aVOkay, this is skimming stones.
+p171
+aVHow do you skim stones?
+p172
+aVYou stand up,
+p173
+aVand you skim the stone.
+p174
+aVIt's that simple.
+p175
+aVJust recognizing your body,
+p176
+aVrecognizing the body's motions, the tech,
+p177
+aVunderstanding that you've gone
+p178
+aVfrom sitting down to standing up.
+p179
+aVAgain, all of this is done
+p180
+aVin the way us humans do things,
+p181
+aVand that's crucially important
+p182
+aVif we want Milo to appear real.
+p183
+aa(lp184
+VFemale Voice: See if you can inspire him to do any better.
+p185
+aVTry hitting the boat.
+p186
+aa(lp187
+VMilo: Ahhh. So close.
+p188
+aa(lp189
+VPM: That's Dimitri at his most competitive.
+p190
+aVNow beaten an 11-year-old child. Well done.
+p191
+aa(lp192
+VMilo: Okay.
+p193
+aa(lp194
+VPM: So, Milo's being called back in by his parents,
+p195
+aVgiving us time to be alone
+p196
+aVand to help him out.
+p197
+aVBasically \u2014 the bit that we missed at the start \u2014
+p198
+aVhis parents had asked him to clean up his room.
+p199
+aVAnd we're going to help him with this now.
+p200
+aVBut this is going to be an introduction,
+p201
+aVand this is all about the deep psychology that we're trying to use.
+p202
+aVWe're trying to introduce you
+p203
+aVto what I believe is the most wonderful part,
+p204
+aVyou being able to talk
+p205
+aVin your natural voice to Milo.
+p206
+aVNow, to do that, we needed a set up,
+p207
+aVlike a magician's trick.
+p208
+aVAnd what we did was,
+p209
+aVwe needed to give Milo this big problem.
+p210
+aa(lp211
+VSo as Dimitri
+p212
+aVstarts tidying up,
+p213
+aVyou can overhear a conversation
+p214
+aVthat Milo's having with his parents.
+p215
+aa(lp216
+VMilo's Mom: Oh, you've got gravy all over the floor. (Milo: I didn't mean to!)
+p217
+aa(lp218
+VMilo's Mom: That carpet is brand new.
+p219
+aa(lp220
+VPM: So he's just spilled
+p221
+aVa plate of sausages on the floor,
+p222
+aVon the brand-new carpet.
+p223
+aVWe've all done it as parents; we've all done it as children.
+p224
+aVNow's a chance for Dimitri
+p225
+aVto kind of reassure and calm Milo down.
+p226
+aVIt's all been too much for him.
+p227
+aVHe's just moved house. He's got no friends.
+p228
+aVNow is the time
+p229
+aVwhen we open that portal
+p230
+aVand allow you to talk to Milo.
+p231
+aa(lp232
+VFemale Voice: Why don't you try saying something encouraging
+p233
+aVto cheer Milo up.
+p234
+aa(lp235
+VDimitri: Come on, Milo. You know what parents are like.
+p236
+aVThey're always getting stressed.
+p237
+aa(lp238
+VMilo: What do they want to come here for anyway?
+p239
+aVWe don't know anyone.
+p240
+aa(lp241
+VDimitri: Well, you've got a new school to go to.
+p242
+aVYou're going to meet loads of cool, new friends.
+p243
+aVMilo: I just really miss my old house, that's all.
+p244
+aa(lp245
+VDimitri: Well, this is a pretty awesome house, Milo.
+p246
+aVYou've got a cool garden to play in and a pond.
+p247
+aa(lp248
+VMilo: It was good skimming stones.
+p249
+aVThis looks nice.
+p250
+aVYou cleaned up my room.
+p251
+aVThanks.
+p252
+aa(lp253
+VPM: So after three-quarters of an hour,
+p254
+aVhe recognizes you.
+p255
+aVAnd I promise you, if you're sitting in front of this screen,
+p256
+aVthat is a truly wonderful moment.
+p257
+aVAnd we're ready now
+p258
+aVto tell a story about his childhood and his life,
+p259
+aVand it goes on,
+p260
+aVand he has, you know, many adventures.
+p261
+aVSome of those adventures are a little bit dark or on the darker side.
+p262
+aVSome of those adventures are wonderfully encouraging \u2014
+p263
+aVhe's got to go to school.
+p264
+aa(lp265
+VThe cool thing is
+p266
+aVthat we're doing as well:
+p267
+aVas you interact with him,
+p268
+aVyou're able to put things into his world; he recognizes objects.
+p269
+aVHis mind is based in a cloud.
+p270
+aVThat means Milo's mind,
+p271
+aVas millions of people use it,
+p272
+aVwill get smarter and cleverer.
+p273
+aVHe'll recognize more objects
+p274
+aVand thus understand more words.
+p275
+aa(lp276
+VBut for me,
+p277
+aVthis is a wonderful opportunity
+p278
+aVwhere technology, at last, can be connected with,
+p279
+aVwhere I am no longer restrained
+p280
+aVby the finger I hold in my hand \u2014
+p281
+aVas far as a computer game's concerned \u2014
+p282
+aVor by the blandness of not being noticed
+p283
+aVif you're watching a film or a book.
+p284
+aVAnd I love those revolutions,
+p285
+aVand I love the future that Milo brings.
+p286
+aa(lp287
+VThank you very much indeed.
+p288
+aa(lp289
+V(Applause)
+p290
+aasS'id'
+p291
+I932
+sS'title'
+p292
+VMeet Milo, the virtual boy
+p293
+s.

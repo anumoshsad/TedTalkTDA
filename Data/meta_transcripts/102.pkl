@@ -1,0 +1,772 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo I'm going to speak about a problem that I have
+p4
+aVand that's that I'm a philosopher.
+p5
+aa(lp6
+V(Laughter)
+p7
+aa(lp8
+VWhen I go to a party and people ask me what do I do
+p9
+aVand I say, "I'm a professor," their eyes glaze over.
+p10
+aVWhen I go to an academic cocktail party
+p11
+aVand there are all the professors around, they ask me what field I'm in
+p12
+aVand I say, "philosophy" \u2014 their eyes glaze over.
+p13
+aa(lp14
+V(Laughter)
+p15
+aa(lp16
+VWhen I go to a philosopher's party
+p17
+aa(lp18
+V(Laughter)
+p19
+aa(lp20
+Vand they ask me what I work on and I say, "consciousness,"
+p21
+aVtheir eyes don't glaze over \u2014 their lips curl into a snarl.
+p22
+aa(lp23
+V(Laughter)
+p24
+aa(lp25
+VAnd I get hoots of derision and cackles and growls
+p26
+aVbecause they think, "That's impossible! You can't explain consciousness."
+p27
+aVThe very chutzpah of somebody thinking
+p28
+aVthat you could explain consciousness is just out of the question.
+p29
+aa(lp30
+VMy late, lamented friend Bob Nozick, a fine philosopher,
+p31
+aVin one of his books, "Philosophical Explanations,"
+p32
+aVis commenting on the ethos of philosophy \u2014
+p33
+aVthe way philosophers go about their business.
+p34
+aVAnd he says, you know, "Philosophers love rational argument."
+p35
+aVAnd he says, "It seems as if the ideal argument
+p36
+aVfor most philosophers is you give your audience the premises
+p37
+aVand then you give them the inferences and the conclusion,
+p38
+aVand if they don't accept the conclusion, they die.
+p39
+aVTheir heads explode." The idea is to have an argument
+p40
+aVthat is so powerful that it knocks out your opponents.
+p41
+aVBut in fact that doesn't change people's minds at all.
+p42
+aa(lp43
+VIt's very hard to change people's minds
+p44
+aVabout something like consciousness,
+p45
+aVand I finally figured out the reason for that.
+p46
+aVThe reason for that is that everybody's an expert on consciousness.
+p47
+aVWe heard the other day that everybody's got a strong opinion about video games.
+p48
+aVThey all have an idea for a video game, even if they're not experts.
+p49
+aVBut they don't consider themselves experts on video games;
+p50
+aVthey've just got strong opinions.
+p51
+aVI'm sure that people here who work on, say, climate change
+p52
+aVand global warming, or on the future of the Internet,
+p53
+aVencounter people who have very strong opinions
+p54
+aVabout what's going to happen next.
+p55
+aVBut they probably don't think of these opinions as expertise.
+p56
+aVThey're just strongly held opinions.
+p57
+aVBut with regard to consciousness, people seem to think,
+p58
+aVeach of us seems to think, "I am an expert.
+p59
+aVSimply by being conscious, I know all about this."
+p60
+aVAnd so, you tell them your theory and they say,
+p61
+aV"No, no, that's not the way consciousness is!
+p62
+aVNo, you've got it all wrong."
+p63
+aVAnd they say this with an amazing confidence.
+p64
+aa(lp65
+VAnd so what I'm going to try to do today
+p66
+aVis to shake your confidence. Because I know the feeling \u2014
+p67
+aVI can feel it myself.
+p68
+aVI want to shake your confidence that you know your own innermost minds \u2014
+p69
+aVthat you are, yourselves, authoritative about your own consciousness.
+p70
+aVThat's the order of the day here.
+p71
+aa(lp72
+VNow, this nice picture shows a thought-balloon, a thought-bubble.
+p73
+aVI think everybody understands what that means.
+p74
+aVThat's supposed to exhibit the stream of consciousness.
+p75
+aVThis is my favorite picture of consciousness that's ever been done.
+p76
+aVIt's a Saul Steinberg of course \u2014 it was a New Yorker cover.
+p77
+aVAnd this fellow here is looking at the painting by Braque.
+p78
+aVThat reminds him of the word baroque, barrack, bark, poodle,
+p79
+aVSuzanne R. \u2014 he's off to the races.
+p80
+aVThere's a wonderful stream of consciousness here
+p81
+aVand if you follow it along, you learn a lot about this man.
+p82
+aVWhat I particularly like about this picture, too,
+p83
+aVis that Steinberg has rendered the guy
+p84
+aVin this sort of pointillist style.
+p85
+aa(lp86
+VWhich reminds us, as Rod Brooks was saying yesterday:
+p87
+aVwhat we are, what each of us is \u2014 what you are, what I am \u2014
+p88
+aVis approximately 100 trillion little cellular robots.
+p89
+aVThat's what we're made of.
+p90
+aVNo other ingredients at all. We're just made of cells, about 100 trillion of them.
+p91
+aVNot a single one of those cells is conscious;
+p92
+aVnot a single one of those cells knows who you are, or cares.
+p93
+aVSomehow, we have to explain
+p94
+aVhow when you put together teams, armies, battalions
+p95
+aVof hundreds of millions of little robotic unconscious cells \u2014
+p96
+aVnot so different really from a bacterium, each one of them \u2014
+p97
+aVthe result is this. I mean, just look at it.
+p98
+aVThe content \u2014 there's color, there's ideas, there's memories,
+p99
+aVthere's history. And somehow all that content of consciousness
+p100
+aVis accomplished by the busy activity of those hoards of neurons.
+p101
+aVHow is that possible? Many people just think it isn't possible at all.
+p102
+aVThey think, "No, there can't be any
+p103
+aVsort of naturalistic explanation of consciousness."
+p104
+aa(lp105
+VThis is a lovely book by a friend of mine named Lee Siegel,
+p106
+aVwho's a professor of religion, actually, at the University of Hawaii,
+p107
+aVand he's an expert magician, and an expert
+p108
+aVon the street magic of India, which is what this book is about,
+p109
+aV"Net of Magic."
+p110
+aVAnd there's a passage in it which I would love to share with you.
+p111
+aVIt speaks so eloquently to the problem.
+p112
+aV"'I'm writing a book on magic,' I explain, and I'm asked, 'Real magic?'
+p113
+aVBy 'real magic,' people mean miracles,
+p114
+aVthaumaturgical acts, and supernatural powers.
+p115
+aV'No,' I answer. 'Conjuring tricks, not real magic.'
+p116
+aV'Real magic,' in other words, refers to the magic that is not real;
+p117
+aVwhile the magic that is real, that can actually be done, is not real magic."
+p118
+aa(lp119
+V(Laughter)
+p120
+aa(lp121
+VNow, that's the way a lot of people feel about consciousness.
+p122
+aa(lp123
+V(Laughter)
+p124
+aa(lp125
+VReal consciousness is not a bag of tricks.
+p126
+aVIf you're going to explain this as a bag of tricks,
+p127
+aVthen it's not real consciousness, whatever it is.
+p128
+aVAnd, as Marvin said, and as other people have said,
+p129
+aV"Consciousness is a bag of tricks."
+p130
+aVThis means that a lot of people are just left completely dissatisfied
+p131
+aVand incredulous when I attempt to explain consciousness.
+p132
+aVSo this is the problem. So I have to
+p133
+aVdo a little bit of the sort of work
+p134
+aVthat a lot of you won't like,
+p135
+aVfor the same reason that you don't like to see
+p136
+aVa magic trick explained to you.
+p137
+aVHow many of you here, if somebody \u2014 some smart aleck \u2014
+p138
+aVstarts telling you how a particular magic trick is done,
+p139
+aVyou sort of want to block your ears and say, "No, no, I don't want to know!
+p140
+aVDon't take the thrill of it away. I'd rather be mystified.
+p141
+aVDon't tell me the answer."
+p142
+aVA lot of people feel that way about consciousness, I've discovered.
+p143
+aVAnd I'm sorry if I impose some clarity, some understanding on you.
+p144
+aVYou'd better leave now if you don't want to know some of these tricks.
+p145
+aa(lp146
+VBut I'm not going to explain it all to you.
+p147
+aVI'm going to do what philosophers do.
+p148
+aVHere's how a philosopher explains the sawing-the-lady-in-half trick.
+p149
+aVYou know the sawing-the-lady-in-half trick?
+p150
+aVThe philosopher says, "I'm going to explain to you how that's done.
+p151
+aVYou see, the magician doesn't really saw the lady in half."
+p152
+aa(lp153
+V(Laughter)
+p154
+aa(lp155
+V"He merely makes you think that he does."
+p156
+aVAnd you say, "Yes, and how does he do that?"
+p157
+aVHe says, "Oh, that's not my department, I'm sorry."
+p158
+aa(lp159
+V(Laughter)
+p160
+aa(lp161
+VSo now I'm going to illustrate how philosophers explain consciousness.
+p162
+aVBut I'm going to try to also show you
+p163
+aVthat consciousness isn't quite as marvelous \u2014
+p164
+aVyour own consciousness isn't quite as wonderful \u2014
+p165
+aVas you may have thought it is.
+p166
+aVThis is something, by the way, that Lee Siegel talks about in his book.
+p167
+aVHe marvels at how he'll do a magic show, and afterwards
+p168
+aVpeople will swear they saw him do X, Y, and Z. He never did those things.
+p169
+aVHe didn't even try to do those things.
+p170
+aVPeople's memories inflate what they think they saw.
+p171
+aVAnd the same is true of consciousness.
+p172
+aa(lp173
+VNow, let's see if this will work. All right. Let's just watch this.
+p174
+aVWatch it carefully.
+p175
+aVI'm working with a young computer-animator documentarian
+p176
+aVnamed Nick Deamer, and this is a little demo that he's done for me,
+p177
+aVpart of a larger project some of you may be interested in.
+p178
+aVWe're looking for a backer.
+p179
+aVIt's a feature-length documentary on consciousness.
+p180
+aVOK, now, you all saw what changed, right?
+p181
+aVHow many of you noticed that every one of those squares changed color?
+p182
+aVEvery one. I'll just show you by running it again.
+p183
+aVEven when you know that they're all going to change color,
+p184
+aVit's very hard to notice. You have to really concentrate
+p185
+aVto pick up any of the changes at all.
+p186
+aa(lp187
+VNow, this is an example \u2014 one of many \u2014
+p188
+aVof a phenomenon that's now being studied quite a bit.
+p189
+aVIt's one that I predicted in the last page or two of my
+p190
+aV1991 book, "Consciousness Explained,"
+p191
+aVwhere I said if you did experiments of this sort,
+p192
+aVyou'd find that people were unable to pick up really large changes.
+p193
+aVIf there's time at the end,
+p194
+aVI'll show you the much more dramatic case.
+p195
+aVNow, how can it be that there are all those changes going on,
+p196
+aVand that we're not aware of them?
+p197
+aVWell, earlier today, Jeff Hawkins mentioned the way your eye saccades,
+p198
+aVthe way your eye moves around three or four times a second.
+p199
+aVHe didn't mention the speed. Your eye is constantly in motion,
+p200
+aVmoving around, looking at eyes, noses, elbows,
+p201
+aVlooking at interesting things in the world.
+p202
+aVAnd where your eye isn't looking,
+p203
+aVyou're remarkably impoverished in your vision.
+p204
+aVThat's because the foveal part of your eye,
+p205
+aVwhich is the high-resolution part,
+p206
+aVis only about the size of your thumbnail held at arms length.
+p207
+aVThat's the detail part.
+p208
+aVIt doesn't seem that way, does it?
+p209
+aVIt doesn't seem that way, but that's the way it is.
+p210
+aVYou're getting in a lot less information than you think.
+p211
+aa(lp212
+VHere's a completely different effect. This is a painting by Bellotto.
+p213
+aVIt's in the museum in North Carolina.
+p214
+aVBellotto was a student of Canaletto's.
+p215
+aVAnd I love paintings like that \u2014
+p216
+aVthe painting is actually about as big as it is right here.
+p217
+aVAnd I love Canalettos, because Canaletto has this fantastic detail,
+p218
+aVand you can get right up
+p219
+aVand see all the details on the painting.
+p220
+aVAnd I started across the hall in North Carolina,
+p221
+aVbecause I thought it was probably a Canaletto,
+p222
+aVand would have all that in detail.
+p223
+aVAnd I noticed that on the bridge there, there's a lot of people \u2014
+p224
+aVyou can just barely see them walking across the bridge.
+p225
+aVAnd I thought as I got closer
+p226
+aVI would be able to see all the detail of most people,
+p227
+aVsee their clothes, and so forth.
+p228
+aVAnd as I got closer and closer, I actually screamed.
+p229
+aVI yelled out because when I got closer,
+p230
+aVI found the detail wasn't there at all.
+p231
+aVThere were just little artfully placed blobs of paint.
+p232
+aVAnd as I walked towards the picture,
+p233
+aVI was expecting detail that wasn't there.
+p234
+aVThe artist had very cleverly suggested people and clothes
+p235
+aVand wagons and all sorts of things,
+p236
+aVand my brain had taken the suggestion.
+p237
+aa(lp238
+VYou're familiar with a more recent technology, which is \u2014 There,
+p239
+aVyou can get a better view of the blobs.
+p240
+aVSee, when you get close
+p241
+aVthey're really just blobs of paint.
+p242
+aVYou will have seen something like this \u2014 this is the reverse effect.
+p243
+aVI'll just give that to you one more time.
+p244
+aa(lp245
+VNow, what does your brain do when it takes the suggestion?
+p246
+aVWhen an artful blob of paint or two, by an artist,
+p247
+aVsuggests a person \u2014 say, one of
+p248
+aVMarvin Minsky's little society of mind \u2014
+p249
+aVdo they send little painters out to fill in all the details in your brain somewhere?
+p250
+aVI don't think so. Not a chance. But then, how on Earth is it done?
+p251
+aVWell, remember the philosopher's explanation of the lady?
+p252
+aVIt's the same thing.
+p253
+aVThe brain just makes you think that it's got the detail there.
+p254
+aVYou think the detail's there, but it isn't there.
+p255
+aVThe brain isn't actually putting the detail in your head at all.
+p256
+aVIt's just making you expect the detail.
+p257
+aa(lp258
+VLet's just do this experiment very quickly.
+p259
+aVIs the shape on the left the same as the shape on the right, rotated?
+p260
+aVYes.
+p261
+aVHow many of you did it by rotating the one on the left
+p262
+aVin your mind's eye, to see if it matched up with the one on the right?
+p263
+aVHow many of you rotated the one on the right? OK.
+p264
+aVHow do you know that's what you did?
+p265
+aa(lp266
+V(Laughter)
+p267
+aa(lp268
+VThere's in fact been a very interesting debate
+p269
+aVraging for over 20 years in cognitive science \u2014
+p270
+aVvarious experiments started by Roger Shepherd,
+p271
+aVwho measured the angular velocity of rotation of mental images.
+p272
+aVYes, it's possible to do that.
+p273
+aVBut the details of the process are still in significant controversy.
+p274
+aVAnd if you read that literature, one of the things
+p275
+aVthat you really have to come to terms with is
+p276
+aVeven when you're the subject in the experiment, you don't know.
+p277
+aVYou don't know how you do it.
+p278
+aVYou just know that you have certain beliefs.
+p279
+aVAnd they come in a certain order, at a certain time.
+p280
+aVAnd what explains the fact that that's what you think?
+p281
+aVWell, that's where you have to go backstage and ask the magician.
+p282
+aa(lp283
+VThis is a figure that I love: Bradley, Petrie, and Dumais.
+p284
+aVYou may think that I've cheated,
+p285
+aVthat I've put a little whiter-than-white boundary there.
+p286
+aVHow many of you see that sort of boundary,
+p287
+aVwith the Necker cube floating in front of the circles?
+p288
+aVCan you see it?
+p289
+aVWell, you know, in effect, the boundary's really there, in a certain sense.
+p290
+aVYour brain is actually computing that boundary,
+p291
+aVthe boundary that goes right there.
+p292
+aVBut now, notice there are two ways of seeing the cube, right?
+p293
+aVIt's a Necker cube.
+p294
+aVEverybody can see the two ways of seeing the cube? OK.
+p295
+aVCan you see the four ways of seeing the cube?
+p296
+aVBecause there's another way of seeing it.
+p297
+aVIf you're seeing it as a cube floating in front of some circles,
+p298
+aVsome black circles, there's another way of seeing it.
+p299
+aVAs a cube, on a black background,
+p300
+aVas seen through a piece of Swiss cheese.
+p301
+aa(lp302
+V(Laughter)
+p303
+aa(lp304
+VCan you get it? How many of you can't get it? That'll help.
+p305
+aa(lp306
+V(Laughter)
+p307
+aa(lp308
+VNow you can get it. These are two very different phenomena.
+p309
+aVWhen you see the cube one way, behind the screen,
+p310
+aVthose boundaries go away.
+p311
+aVBut there's still a sort of filling in, as we can tell if we look at this.
+p312
+aVWe don't have any trouble seeing the cube, but where does the color change?
+p313
+aVDoes your brain have to send little painters in there?
+p314
+aVThe purple-painters and the green-painters
+p315
+aVfight over who's going to paint that bit behind the curtain? No.
+p316
+aVYour brain just lets it go. The brain doesn't need to fill that in.
+p317
+aVWhen I first started talking about
+p318
+aVthe Bradley, Petrie, Dumais example that you just saw \u2014
+p319
+aVI'll go back to it, this one \u2014
+p320
+aVI said that there was no filling-in behind there.
+p321
+aVAnd I supposed that that was just a flat truth, always true.
+p322
+aVBut Rob Van Lier has recently shown that it isn't.
+p323
+aa(lp324
+VNow, if you think you see some pale yellow \u2014
+p325
+aVI'll run this a few more times.
+p326
+aVLook in the gray areas,
+p327
+aVand see if you seem to see something sort of shadowy moving in there \u2014
+p328
+aVyeah, it's amazing. There's nothing there. It's no trick.
+p329
+aV["Failure to Detect Changes in Scenes" slide]
+p330
+aVThis is Ron Rensink's work, which was in some degree
+p331
+aVinspired by that suggestion right at the end of the book.
+p332
+aVLet me just pause this for a second if I can.
+p333
+aa(lp334
+VThis is change-blindness.
+p335
+aVWhat you're going to see is two pictures,
+p336
+aVone of which is slightly different from the other.
+p337
+aVYou see here the red roof and the gray roof,
+p338
+aVand in between them there will be a mask,
+p339
+aVwhich is just a blank screen, for about a quarter of a second.
+p340
+aVSo you'll see the first picture, then a mask,
+p341
+aVthen the second picture, then a mask.
+p342
+aVAnd this will just continue, and your job as the subject
+p343
+aVis to press the button when you see the change.
+p344
+aVSo, show the original picture for 240 milliseconds. Blank.
+p345
+aVShow the next picture for 240 milliseconds. Blank.
+p346
+aVAnd keep going, until the subject presses the button, saying,
+p347
+aV"I see the change."
+p348
+aa(lp349
+VSo now we're going to be subjects in the experiment.
+p350
+aVWe're going to start easy. Some examples.
+p351
+aVNo trouble there.
+p352
+aVCan everybody see? All right.
+p353
+aVIndeed, Rensink's subjects took only a little bit more
+p354
+aVthan a second to press the button.
+p355
+aVCan you see that one?
+p356
+aV2.9 seconds.
+p357
+aVHow many don't see it still?
+p358
+aVWhat's on the roof of that barn?
+p359
+aa(lp360
+V(Laughter)
+p361
+aa(lp362
+VIt's easy.
+p363
+aVIs it a bridge or a dock?
+p364
+aVThere are a few more really dramatic ones, and then I'll close.
+p365
+aVI want you to see a few that are particularly striking.
+p366
+aVThis one because it's so large and yet it's pretty hard to see.
+p367
+aVCan you see it?
+p368
+aa(lp369
+VAudience: Yes.
+p370
+aa(lp371
+VDan Dennett: See the shadows going back and forth? Pretty big.
+p372
+aVSo 15.5 seconds is the median time
+p373
+aVfor subjects in his experiment there.
+p374
+aa(lp375
+VI love this one. I'll end with this one,
+p376
+aVjust because it's such an obvious and important thing.
+p377
+aVHow many still don't see it? How many still don't see it?
+p378
+aVHow many engines on the wing of that Boeing?
+p379
+aa(lp380
+V(Laughter)
+p381
+aa(lp382
+VRight in the middle of the picture!
+p383
+aVThanks very much for your attention.
+p384
+aVWhat I wanted to show you is that scientists,
+p385
+aVusing their from-the-outside, third-person methods,
+p386
+aVcan tell you things about your own consciousness
+p387
+aVthat you would never dream of,
+p388
+aVand that, in fact, you're not the authority
+p389
+aVon your own consciousness that you think you are.
+p390
+aVAnd we're really making a lot of progress
+p391
+aVon coming up with a theory of mind.
+p392
+aa(lp393
+VJeff Hawkins, this morning, was describing his attempt
+p394
+aVto get theory, and a good, big theory, into the neuroscience.
+p395
+aVAnd he's right. This is a problem.
+p396
+aVHarvard Medical School once \u2014 I was at a talk \u2014
+p397
+aVdirector of the lab said, "In our lab, we have a saying.
+p398
+aVIf you work on one neuron, that's neuroscience.
+p399
+aVIf you work on two neurons, that's psychology."
+p400
+aa(lp401
+V(Laughter)
+p402
+aa(lp403
+VWe have to have more theory, and it can come as much from the top down.
+p404
+aa(lp405
+VThank you very much.
+p406
+aa(lp407
+V(Applause)
+p408
+aasS'id'
+p409
+I102
+sS'title'
+p410
+VThe illusion of consciousness
+p411
+s.

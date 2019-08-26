@@ -1,0 +1,659 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm delighted to be here.
+p4
+aVI'm honored by the invitation, and thanks.
+p5
+aVI would love to talk about stuff that I'm interested in,
+p6
+aVbut unfortunately, I suspect that what I'm interested in
+p7
+aVwon't interest many other people.
+p8
+aVFirst off, my badge says I'm an astronomer.
+p9
+aVI would love to talk about my astronomy,
+p10
+aVbut I suspect that the number of people who are interested in radiative transfer
+p11
+aVin non-gray atmospheres
+p12
+aVand polarization of light in Jupiter's upper atmosphere
+p13
+aVare the number of people who'd fit in a bus shelter.
+p14
+aVSo I'm not going to talk about that.
+p15
+aV(Laughter)
+p16
+aa(lp17
+VIt would be just as much fun
+p18
+aVto talk about some stuff that happened in 1986 and 1987,
+p19
+aVwhen a computer hacker is breaking into our systems
+p20
+aVover at Lawrence Berkeley Labs.
+p21
+aVAnd I caught the guys,
+p22
+aVand they turned out to be working for what was then the Soviet KGB,
+p23
+aVand stealing information and selling it.
+p24
+aVAnd I'd love to talk about that \u2014 and it'd be fun \u2014
+p25
+aVbut, 20 years later ...
+p26
+aVI find computer security, frankly, to be kind of boring.
+p27
+aVIt's tedious.
+p28
+aVI'm \u2014
+p29
+aa(lp30
+VThe first time you do something, it's science.
+p31
+aVThe second time, it's engineering.
+p32
+aVA third time, it's just being a technician.
+p33
+aVI'm a scientist. Once I do something, I do something else.
+p34
+aVSo, I'm not going to talk about that.
+p35
+aVNor am I going to talk about what I think are obvious statements from my first book,
+p36
+aV"Silicon Snake Oil," or my second book,
+p37
+aVnor am I going to talk about
+p38
+aVwhy I believe computers don't belong in schools.
+p39
+aa(lp40
+VI feel that there's a massive and bizarre idea going around
+p41
+aVthat we have to bring more computers into schools.
+p42
+aVMy idea is: no! No!
+p43
+aVGet them out of schools, and keep them out of schools.
+p44
+aVAnd I'd love to talk about this,
+p45
+aVbut I think the argument is so obvious to anyone who's hung around a fourth grade classroom
+p46
+aVthat it doesn't need much talking about \u2014
+p47
+aVbut I guess I may be very wrong about that,
+p48
+aVand everything else that I've said.
+p49
+aVSo don't go back and read my dissertation.
+p50
+aVIt probably has lies in it as well.
+p51
+aa(lp52
+VHaving said that, I outlined my talk about five minutes ago.
+p53
+aV(Laughter)
+p54
+aVAnd if you look at it over here,
+p55
+aVthe main thing I wrote on my thumb was the future.
+p56
+aVI'm supposed to talk about the future, yes?
+p57
+aVOh, right. And my feeling is, asking me to talk about the future is bizarre,
+p58
+aVbecause I've got gray hair,
+p59
+aVand so, it's kind of silly for me to talk about the future.
+p60
+aVIn fact, I think that if you really want to know what the future's going to be,
+p61
+aVif you really want to know about the future,
+p62
+aVdon't ask a technologist, a scientist, a physicist.
+p63
+aVNo! Don't ask somebody who's writing code.
+p64
+aa(lp65
+VNo, if you want to know what society's going to be like in 20 years,
+p66
+aVask a kindergarten teacher.
+p67
+aVThey know.
+p68
+aVIn fact, don't ask just any kindergarten teacher,
+p69
+aVask an experienced one.
+p70
+aVThey're the ones who know what society is going to be like in another generation.
+p71
+aVI don't. Nor, I suspect,
+p72
+aVdo many other people who are talking about what the future will bring.
+p73
+aVCertainly, all of us can imagine these cool new things
+p74
+aVthat are going to be there.
+p75
+aVBut to me, things aren't the future.
+p76
+aVWhat I ask myself is, what's society is going to be like,
+p77
+aVwhen the kids today are phenomenally good at text messaging
+p78
+aVand spend a huge amount of on-screen time,
+p79
+aVbut have never gone bowling together?
+p80
+aa(lp81
+VChange is happening, and the change that is happening
+p82
+aVis not one that is in software.
+p83
+aVBut that's not what I'm going to talk about.
+p84
+aVI'd love to talk about it, it'd be fun,
+p85
+aVbut I want to talk about what I'm doing now. What am I doing now?
+p86
+aVOh \u2014 the other thing that I think I'd like to talk about
+p87
+aVis right over here. Right over here.
+p88
+aVIs that visible? What I'd like to talk about is one-sided things.
+p89
+aVI would dearly love to talk about
+p90
+aVthings that have one side.
+p91
+aVBecause I love Mobius loops. I not only love Mobius loops,
+p92
+aVbut I'm one of the very few people,
+p93
+aVif not the only person in the world, that makes Klein bottles.
+p94
+aVRight away, I hope that all of your eyes glaze over.
+p95
+aVThis is a Klein bottle.
+p96
+aVFor those of you in the audience who know,
+p97
+aVyou roll your eyes and say, yup, I know all about it.
+p98
+aVIt's one sided. It's a bottle whose inside is its outside.
+p99
+aVIt has zero volume. And it's non-orientable.
+p100
+aVIt has wonderful properties.
+p101
+aVIf you take two Mobius loops and sew their common edge together,
+p102
+aVyou get one of these, and I make them out of glass.
+p103
+aVAnd I'd love to talk to you about this,
+p104
+aVbut I don't have much in the way of ... things to say because \u2014
+p105
+aV(Laughter)
+p106
+aa(lp107
+V(Chris Anderson: I've got a cold.)
+p108
+aa(lp109
+VHowever, the "D" in TED of course stands for design.
+p110
+aVJust two weeks ago I made \u2014
+p111
+aVyou know, I've been making small, medium and big Klein bottles for the trade.
+p112
+aVBut what I've just made \u2014
+p113
+aVand I'm delighted to show you, first time in public here.
+p114
+aVThis is a Klein bottle wine bottle,
+p115
+aVwhich, although in four dimensions
+p116
+aVit shouldn't be able to hold any fluid at all,
+p117
+aVit's perfectly capable of doing so
+p118
+aVbecause our universe has only three spatial dimensions.
+p119
+aVAnd because our universe is only three spatial dimensions,
+p120
+aVit can hold fluids.
+p121
+aVSo it's highly \u2014 that one's the cool one.
+p122
+aVThat was a month of my life.
+p123
+aVBut although I would love to talk about topology with you, I'm not going to.
+p124
+aV(Laughter)
+p125
+aa(lp126
+VInstead, I'm going to mention my mom,
+p127
+aVwho passed away last summer.
+p128
+aVHad collected photographs of me, as mothers will do.
+p129
+aVCould somebody put this guy up?
+p130
+aVAnd I looked over her album
+p131
+aVand she had collected a picture of me, standing \u2014
+p132
+aVwell, sitting \u2014 in 1969, in front of a bunch of dials.
+p133
+aVAnd I looked at it, and said, oh my god,
+p134
+aVthat was me, when I was working at the electronic music studio!
+p135
+aVAs a technician, repairing and maintaining
+p136
+aVthe electronic music studio at SUNY Buffalo. And wow!
+p137
+aVWay back machine. And I said to myself, oh yeah!
+p138
+aVAnd it sent me back.
+p139
+aa(lp140
+VSoon after that, I found in another picture that she had, a picture of me.
+p141
+aVThis guy over here of course is me.
+p142
+aVThis man is Robert Moog,
+p143
+aVthe inventor of the Moog synthesizer,
+p144
+aVwho passed away this past August.
+p145
+aVRobert Moog was a generous, kind person, extraordinarily competent engineer.
+p146
+aVA musician who took time from his life to teach me,
+p147
+aVa sophomore, a freshman at SUNY Buffalo.
+p148
+aVHe'd come up from Trumansburg to teach me
+p149
+aVnot just about the Moog synthesizer, but we'd be sitting there \u2014
+p150
+aVI'm studying physics at the time. This is 1969, 70, 71.
+p151
+aVWe're studying physics, I'm studying physics,
+p152
+aVand he's saying, "That's a good thing to do.
+p153
+aVDon't get caught up in electronic music if you're doing physics."
+p154
+aVMentoring me. He'd come up and
+p155
+aVspend hours and hours with me.
+p156
+aVHe wrote a letter of recommendation for me to get into graduate school.
+p157
+aVIn the background, my bicycle.
+p158
+aVI realize that this picture was taken at a friend's living room.
+p159
+aVBob Moog came by and hauled a whole pile of equipment
+p160
+aVto show Greg Flint and I things about this.
+p161
+aVWe sat around talking about Fourier transforms,
+p162
+aVBessel functions, modulation transfer functions,
+p163
+aVstuff like this.
+p164
+aVBob's passing this past summer has been a loss to all of us.
+p165
+aVAnyone who's a musician has been profoundly influenced by Robert Moog.
+p166
+aV(Applause)
+p167
+aVAnd I'll just say what I'm about to do. What I'm about to do \u2014
+p168
+aVI hope you can recognize that there's a distorted sine wave,
+p169
+aValmost a triangular wave upon this Hewlett-Packard oscilloscope.
+p170
+aa(lp171
+VOh, cool. I can get to this place over here, right?
+p172
+aVKids. Kids is what I'm going to talk about \u2014 is that okay?
+p173
+aVIt says kids over here, that's what I'd like to talk about.
+p174
+aVI've decided that, for me at least,
+p175
+aVI don't have a big enough head.
+p176
+aVSo I think locally and I act locally.
+p177
+aVI feel that the best way I can help out anything is to help out very, very locally.
+p178
+aVSo Ph.D. this, and degree there, and the yadda yadda.
+p179
+aVI was talking about this stuff to
+p180
+aVsome schoolteachers about a year ago.
+p181
+aVAnd one of them, several of them would come up to me and say,
+p182
+aV"Well, how come you ain't teaching?"
+p183
+aVAnd I said, "Well, I've taught graduate \u2014
+p184
+aVI've had graduate students, I've taught undergraduate classes."
+p185
+aVNo, they said, "If you're so into kids and all this stuff,
+p186
+aVhow come you ain't over here on the front lines?
+p187
+aVPut your money where you mouth is."
+p188
+aa(lp189
+VIs true. Is true. I teach eighth-grade science four days a week.
+p190
+aVNot just showing up every now and then.
+p191
+aVNo, no, no, no, no. I take attendance.
+p192
+aVI take lunch hour. (Applause)
+p193
+aVThis is not \u2014 no, no, no, this is not claps.
+p194
+aVI strongly suggest that this is a good thing for each of you to do.
+p195
+aVNot just show up to class every now and then.
+p196
+aVTeach a solid week. Okay, I'm teaching three-quarters time, but good enough.
+p197
+aVOne of the things that I've done for my science students
+p198
+aVis to tell them, "Look, I'm going to teach you college-level physics.
+p199
+aVNo calculus, I'll cut out that.
+p200
+aVYou won't need to know trig.
+p201
+aVBut you will need to know eighth-grade algebra,
+p202
+aVand we're going to do serious experiments.
+p203
+aVNone of this open-to-chapter-seven-and-do-all-the-odd-problem-sets.
+p204
+aVWe're going to be doing genuine physics."
+p205
+aVAnd that's one of the things I thought I'd do right now.
+p206
+aV(High-pitched tone)
+p207
+aa(lp208
+VOh, before I even turn that on,
+p209
+aVone of the things that we did about three weeks ago in my class \u2014
+p210
+aVthis is through the lens, and one of the things we used a lens for
+p211
+aVwas to measure the speed of light.
+p212
+aVMy students in El Cerrito \u2014 with my help, of course,
+p213
+aVand with the help of a very beat up oscilloscope \u2014
+p214
+aVmeasured the speed of light.
+p215
+aVWe were off by 25 percent. How many eighth graders do you know of
+p216
+aVwho have measured the speed of light?
+p217
+aVIn addition to that, we've measured the speed of sound.
+p218
+aVI'd love to measure the speed of light here.
+p219
+aVI was all set to do it and I was thinking, "Aw man,"
+p220
+aVI was just going to impose upon the powers that be,
+p221
+aVand measure the speed of light.
+p222
+aVAnd I'm all set to do it. I'm all set to do it,
+p223
+aVbut then it turns out that to set up here, you have like 10 minutes to set up!
+p224
+aVAnd there's no time to do it.
+p225
+aVSo, next time, maybe, I'll measure the speed of light!
+p226
+aa(lp227
+VBut meanwhile, let's measure the speed of sound!
+p228
+aVWell, the obvious way to measure the speed of sound
+p229
+aVis to bounce sound off something and look at the echo.
+p230
+aVBut, probably \u2014 one of my students, Ariel [unclear], said,
+p231
+aV"Could we measure the speed of light using the wave equation?"
+p232
+aVAnd all of you know the wave equation is
+p233
+aVthe frequency times the wavelength of any wave ...
+p234
+aVis a constant. When the frequency goes up,
+p235
+aVthe wavelength comes down. Wavelength goes up,
+p236
+aVfrequency goes down. So, if we have a wave here \u2014
+p237
+aVover here, that's what's interesting \u2014
+p238
+aVas the pitch goes up, things get closer,
+p239
+aVpitch goes down, things stretch out.
+p240
+aVRight? This is simple physics.
+p241
+aVAll of you know this from eighth grade, remember?
+p242
+aVWhat they didn't tell you in physics \u2014 in eighth-grade physics \u2014
+p243
+aVbut they should have, and I wish they had,
+p244
+aVwas that if you multiply the frequency times the wavelength of sound
+p245
+aVor light, you get a constant.
+p246
+aVAnd that constant is the speed of sound.
+p247
+aVSo, in order to measure the speed of sound,
+p248
+aVall I've got to do is know its frequency. Well, that's easy.
+p249
+aVI've got a frequency counter right here.
+p250
+aVSet it up to around A, above A, above A. There's an A, more or less.
+p251
+aVNow, so I know the frequency.
+p252
+aVIt's 1.76 kilohertz. I measure its wavelength.
+p253
+aVAll I need now is to flip on another beam,
+p254
+aVand the bottom beam is me talking, right?
+p255
+aVSo anytime I talk, you'd see it on the screen.
+p256
+aVI'll put it over here, and as I move this away from the source,
+p257
+aVyou'll notice the spiral.
+p258
+aVThe slinky moves. We're going through different nodes of the wave,
+p259
+aVcoming out this way.
+p260
+aVThose of you who are physicists, I hear you rolling your eyes,
+p261
+aVbut bear with me. (Laughter)
+p262
+aa(lp263
+VTo measure the wavelength,
+p264
+aVall I need to do is measure the distance from here \u2014
+p265
+aVone full wave \u2014 over to here.
+p266
+aVFrom here to here is the wavelength of sound.
+p267
+aVSo, I'll put a measuring tape here, measuring tape here, move it back over to here.
+p268
+aVI've moved the microphone 20 centimeters.
+p269
+aV0.2 meters from here, back to here, 20 centimeters.
+p270
+aVOK, let's go back to Mr. Elmo.
+p271
+aVAnd we'll say the frequency is 1.76 kilohertz, or 1760.
+p272
+aVThe wavelength was 0.2 meters.
+p273
+aVLet's figure out what this is.
+p274
+aV(Laughter) (Applause)
+p275
+aV1.76 times 0.2 over here is 352 meters per second.
+p276
+aVIf you look it up in the book, it's really 343.
+p277
+aVBut, here with kludgy material, and lousy drink \u2014
+p278
+aVwe've been able to measure the speed of sound to \u2014
+p279
+aVnot bad. Pretty good.
+p280
+aa(lp281
+VAll of which comes to what I wanted to say.
+p282
+aVGo back to this picture of me a million years ago.
+p283
+aVIt was 1971, the Vietnam War was going on,
+p284
+aVand I'm like, "Oh my God!"
+p285
+aVI'm studying physics: Landau, Lipschitz, Resnick and Halliday.
+p286
+aVI'm going home for a midterm. A riot's going on on campus.
+p287
+aVThere's a riot! Hey, Elmo's done: off.
+p288
+aVThere's a riot going on on campus,
+p289
+aVand the police are chasing me, right?
+p290
+aVI'm walking across campus. Cop comes and looks at me and says,
+p291
+aV"You! You're a student."
+p292
+aVPulls out a gun. Goes boom!
+p293
+aVAnd a tear gas canister the size of a Pepsi can goes by my head. Whoosh!
+p294
+aVI get a breath of tear gas and I can't breathe.
+p295
+aVThis cop comes after me with a rifle.
+p296
+aVHe wants to clunk me over the head!
+p297
+aVI'm saying, "I got to clear out of here!"
+p298
+aVI go running across campus quick as I can. I duck into Hayes Hall.
+p299
+aVIt's one of these bell-tower buildings.
+p300
+aVThe cop's chasing me.
+p301
+aVChasing me up the first floor, second floor, third floor.
+p302
+aVChases me into this room.
+p303
+aVThe entranceway to the bell tower.
+p304
+aVI slam the door behind me, climb up,
+p305
+aVgo past this place where I see a pendulum ticking.
+p306
+aVAnd I'm thinking, "Oh yeah,
+p307
+aVthe square root of the length is proportional to its period." (Laughter)
+p308
+aa(lp309
+VI keep climbing up, go back.
+p310
+aVI go to a place where a dowel splits off.
+p311
+aVThere's a clock, clock, clock, clock.
+p312
+aVThe time's going backwards because I'm inside of it.
+p313
+aVI'm thinking of Lorenz contractions and Einsteinian relativity.
+p314
+aVI climb up, and there's this place, way in the back,
+p315
+aVthat you climb up this wooden ladder.
+p316
+aVI pop up the top, and there's a cupola.
+p317
+aVA dome, one of these ten-foot domes.
+p318
+aVI'm looking out and I'm seeing the cops bashing students' heads,
+p319
+aVshooting tear gas, and watching students throwing bricks.
+p320
+aVAnd I'm asking, "What am I doing here? Why am I here?"
+p321
+aVThen I remember what my English teacher in high school said.
+p322
+aVNamely, that when they cast bells,
+p323
+aVthey write inscriptions on them.
+p324
+aVSo, I wipe the pigeon manure off one of the bells, and I look at it.
+p325
+aVI'm asking myself, "Why am I here?"
+p326
+aa(lp327
+VSo, at this time, I'd like to tell you the words inscribed
+p328
+aVupon the Hayes Hall tower bells:
+p329
+aV"All truth is one.
+p330
+aVIn this light, may science and religion endeavor here
+p331
+aVfor the steady evolution of mankind, from darkness to light,
+p332
+aVfrom narrowness to broad-mindedness, from prejudice to tolerance.
+p333
+aVIt is the voice of life, which calls us to come and learn."
+p334
+aVThank you very much.
+p335
+aasS'id'
+p336
+I237
+sS'title'
+p337
+VThe call to learn
+p338
+s.

@@ -1,0 +1,136 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VToday, I'm going to talk to you about sketching electronics.
+p4
+aa(lp5
+VI'm, among several other things, an electrical engineer,
+p6
+aVand that means that I spend a good amount of time
+p7
+aVdesigning and building new pieces of technology,
+p8
+aVand more specifically designing and building electronics.
+p9
+aVAnd what I've found is that the process of designing
+p10
+aVand building electronics is problematic in all sorts of ways.
+p11
+aVSo it's a really slow process, it's really expensive,
+p12
+aVand the outcome of that process,
+p13
+aVnamely electronic circuit boards,
+p14
+aVare limited in all sorts of kind of interesting ways.
+p15
+aVSo they're really small, generally, they're square
+p16
+aVand flat and hard, and frankly, most of them
+p17
+aVjust aren't very attractive, and so my team and I
+p18
+aVhave been thinking of ways to really change and mix up
+p19
+aVthe process and the outcome of designing electronics.
+p20
+aa(lp21
+VAnd so what if you could design and build electronics
+p22
+aVlike this? So what if you could do it extremely quickly,
+p23
+aVextremely inexpensively, and maybe more interestingly,
+p24
+aVreally fluidly and expressively and even improvisationally?
+p25
+aVWouldn't that be so cool, and that wouldn't that open up
+p26
+aVall sorts of new possibilities?
+p27
+aa(lp28
+VI'm going to share with you two projects that are
+p29
+aVinvestigations along these lines, and we'll start with this one.
+p30
+aV(Video) Magnetic electronic pieces and ferrous paper.
+p31
+aVA conductive pen from the Lewis lab at UIUC.
+p32
+aVSticker templates.
+p33
+aVSpeed x 4.
+p34
+aVMaking a switch.
+p35
+aVMusic: DJ Shadow.
+p36
+aVAdding some intelligence with a microcontroller.
+p37
+aVSketching an interface.
+p38
+aa(lp39
+V(Music)
+p40
+aV(Laughter)
+p41
+aV(Applause)
+p42
+aa(lp43
+VPretty cool, huh? We think so.
+p44
+aVSo now that we developed these tools
+p45
+aVand found these materials that let us do these things,
+p46
+aVwe started to realize that, essentially, anything
+p47
+aVthat we can do with paper, anything that we can do
+p48
+aVwith a piece of paper and a pen
+p49
+aVwe can now do with electronics.
+p50
+aVSo the next project that I want to show you is kind of a
+p51
+aVdeeper exploration of that possibility.
+p52
+aVAnd I'll kind of let it speak for itself.
+p53
+aa(lp54
+V(Music)
+p55
+aV(Applause)
+p56
+aa(lp57
+VSo the next step for us in this process
+p58
+aVis now to find a way to let all of you
+p59
+aVbuild things like this,
+p60
+aVand so the way that we're approaching that is by
+p61
+aVteaching workshops to people where we explain
+p62
+aVhow they can use these kinds of tools, and then also
+p63
+aVworking to get the tools and the materials and techniques
+p64
+aVout into the real world in a variety of ways.
+p65
+aVAnd so sometime soon, you'll be able to play and build
+p66
+aVand sketch with electronics in this fundamentally new way.
+p67
+aVSo thank you very much. (Applause)
+p68
+aasS'id'
+p69
+I1609
+sS'title'
+p70
+VHow to "sketch" with electronics
+p71
+s.

@@ -1,0 +1,652 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VMost of us think of motion as a very visual thing.
+p4
+aVIf I walk across this stage or gesture with my hands while I speak,
+p5
+aVthat motion is something that you can see.
+p6
+aVBut there's a world of important motion that's too subtle for the human eye,
+p7
+aVand over the past few years,
+p8
+aVwe've started to find that cameras
+p9
+aVcan often see this motion even when humans can't.
+p10
+aa(lp11
+VSo let me show you what I mean.
+p12
+aVOn the left here, you see video of a person's wrist,
+p13
+aVand on the right, you see video of a sleeping infant,
+p14
+aVbut if I didn't tell you that these were videos,
+p15
+aVyou might assume that you were looking at two regular images,
+p16
+aVbecause in both cases,
+p17
+aVthese videos appear to be almost completely still.
+p18
+aVBut there's actually a lot of subtle motion going on here,
+p19
+aVand if you were to touch the wrist on the left,
+p20
+aVyou would feel a pulse,
+p21
+aVand if you were to hold the infant on the right,
+p22
+aVyou would feel the rise and fall of her chest
+p23
+aVas she took each breath.
+p24
+aVAnd these motions carry a lot of significance,
+p25
+aVbut they're usually too subtle for us to see,
+p26
+aVso instead, we have to observe them
+p27
+aVthrough direct contact, through touch.
+p28
+aa(lp29
+VBut a few years ago,
+p30
+aVmy colleagues at MIT developed what they call a motion microscope,
+p31
+aVwhich is software that finds these subtle motions in video
+p32
+aVand amplifies them so that they become large enough for us to see.
+p33
+aVAnd so, if we use their software on the left video,
+p34
+aVit lets us see the pulse in this wrist,
+p35
+aVand if we were to count that pulse,
+p36
+aVwe could even figure out this person's heart rate.
+p37
+aVAnd if we used the same software on the right video,
+p38
+aVit lets us see each breath that this infant takes,
+p39
+aVand we can use this as a contact-free way to monitor her breathing.
+p40
+aa(lp41
+VAnd so this technology is really powerful because it takes these phenomena
+p42
+aVthat we normally have to experience through touch
+p43
+aVand it lets us capture them visually and non-invasively.
+p44
+aa(lp45
+VSo a couple years ago, I started working with the folks that created that software,
+p46
+aVand we decided to pursue a crazy idea.
+p47
+aVWe thought, it's cool that we can use software
+p48
+aVto visualize tiny motions like this,
+p49
+aVand you can almost think of it as a way to extend our sense of touch.
+p50
+aVBut what if we could do the same thing with our ability to hear?
+p51
+aVWhat if we could use video to capture the vibrations of sound,
+p52
+aVwhich are just another kind of motion,
+p53
+aVand turn everything that we see into a microphone?
+p54
+aa(lp55
+VNow, this is a bit of a strange idea,
+p56
+aVso let me try to put it in perspective for you.
+p57
+aVTraditional microphones work by converting the motion
+p58
+aVof an internal diaphragm into an electrical signal,
+p59
+aVand that diaphragm is designed to move readily with sound
+p60
+aVso that its motion can be recorded and interpreted as audio.
+p61
+aVBut sound causes all objects to vibrate.
+p62
+aVThose vibrations are just usually too subtle and too fast for us to see.
+p63
+aa(lp64
+VSo what if we record them with a high-speed camera
+p65
+aVand then use software to extract tiny motions
+p66
+aVfrom our high-speed video,
+p67
+aVand analyze those motions to figure out what sounds created them?
+p68
+aVThis would let us turn visible objects into visual microphones from a distance.
+p69
+aVAnd so we tried this out,
+p70
+aVand here's one of our experiments,
+p71
+aVwhere we took this potted plant that you see on the right
+p72
+aVand we filmed it with a high-speed camera
+p73
+aVwhile a nearby loudspeaker played this sound.
+p74
+aa(lp75
+V(Music: "Mary Had a Little Lamb")
+p76
+aa(lp77
+VAnd so here's the video that we recorded,
+p78
+aVand we recorded it at thousands of frames per second,
+p79
+aVbut even if you look very closely,
+p80
+aVall you'll see are some leaves
+p81
+aVthat are pretty much just sitting there doing nothing,
+p82
+aVbecause our sound only moved those leaves by about a micrometer.
+p83
+aVThat's one ten-thousandth of a centimeter,
+p84
+aVwhich spans somewhere between a hundredth and a thousandth
+p85
+aVof a pixel in this image.
+p86
+aVSo you can squint all you want,
+p87
+aVbut motion that small is pretty much perceptually invisible.
+p88
+aVBut it turns out that something can be perceptually invisible
+p89
+aVand still be numerically significant,
+p90
+aVbecause with the right algorithms,
+p91
+aVwe can take this silent, seemingly still video
+p92
+aVand we can recover this sound.
+p93
+aa(lp94
+V(Music: "Mary Had a Little Lamb")
+p95
+aa(lp96
+V(Applause)
+p97
+aa(lp98
+VSo how is this possible?
+p99
+aVHow can we get so much information out of so little motion?
+p100
+aVWell, let's say that those leaves move by just a single micrometer,
+p101
+aVand let's say that that shifts our image by just a thousandth of a pixel.
+p102
+aVThat may not seem like much,
+p103
+aVbut a single frame of video
+p104
+aVmay have hundreds of thousands of pixels in it,
+p105
+aVand so if we combine all of the tiny motions that we see
+p106
+aVfrom across that entire image,
+p107
+aVthen suddenly a thousandth of a pixel
+p108
+aVcan start to add up to something pretty significant.
+p109
+aa(lp110
+VOn a personal note, we were pretty psyched when we figured this out.
+p111
+aV(Laughter)
+p112
+aVBut even with the right algorithm,
+p113
+aVwe were still missing a pretty important piece of the puzzle.
+p114
+aVYou see, there are a lot of factors that affect when and how well
+p115
+aVthis technique will work.
+p116
+aVThere's the object and how far away it is;
+p117
+aVthere's the camera and the lens that you use;
+p118
+aVhow much light is shining on the object and how loud your sound is.
+p119
+aVAnd even with the right algorithm,
+p120
+aVwe had to be very careful with our early experiments,
+p121
+aVbecause if we got any of these factors wrong,
+p122
+aVthere was no way to tell what the problem was.
+p123
+aVWe would just get noise back.
+p124
+aVAnd so a lot of our early experiments looked like this.
+p125
+aVAnd so here I am,
+p126
+aVand on the bottom left, you can kind of see our high-speed camera,
+p127
+aVwhich is pointed at a bag of chips,
+p128
+aVand the whole thing is lit by these bright lamps.
+p129
+aVAnd like I said, we had to be very careful in these early experiments,
+p130
+aVso this is how it went down.
+p131
+aa(lp132
+V(Video) Abe Davis: Three, two, one, go.
+p133
+aVMary had a little lamb! Little lamb! Little lamb!
+p134
+aa(lp135
+V(Laughter)
+p136
+aa(lp137
+VAD: So this experiment looks completely ridiculous.
+p138
+aV(Laughter)
+p139
+aVI mean, I'm screaming at a bag of chips \u2014
+p140
+aV(Laughter) \u2014
+p141
+aVand we're blasting it with so much light,
+p142
+aVwe literally melted the first bag we tried this on. (Laughter)
+p143
+aVBut ridiculous as this experiment looks,
+p144
+aVit was actually really important,
+p145
+aVbecause we were able to recover this sound.
+p146
+aa(lp147
+V(Audio) Mary had a little lamb! Little lamb! Little lamb!
+p148
+aa(lp149
+V(Applause)
+p150
+aa(lp151
+VAD: And this was really significant,
+p152
+aVbecause it was the first time we recovered intelligible human speech
+p153
+aVfrom silent video of an object.
+p154
+aVAnd so it gave us this point of reference,
+p155
+aVand gradually we could start to modify the experiment,
+p156
+aVusing different objects or moving the object further away,
+p157
+aVusing less light or quieter sounds.
+p158
+aVAnd we analyzed all of these experiments
+p159
+aVuntil we really understood the limits of our technique,
+p160
+aVbecause once we understood those limits,
+p161
+aVwe could figure out how to push them.
+p162
+aa(lp163
+VAnd that led to experiments like this one,
+p164
+aVwhere again, I'm going to speak to a bag of chips,
+p165
+aVbut this time we've moved our camera about 15 feet away,
+p166
+aVoutside, behind a soundproof window,
+p167
+aVand the whole thing is lit by only natural sunlight.
+p168
+aVAnd so here's the video that we captured.
+p169
+aVAnd this is what things sounded like from inside, next to the bag of chips.
+p170
+aa(lp171
+V(Audio) Mary had a little lamb whose fleece was white as snow,
+p172
+aVand everywhere that Mary went, that lamb was sure to go.
+p173
+aa(lp174
+VAD: And here's what we were able to recover from our silent video
+p175
+aVcaptured outside behind that window.
+p176
+aa(lp177
+V(Audio) Mary had a little lamb whose fleece was white as snow,
+p178
+aVand everywhere that Mary went, that lamb was sure to go.
+p179
+aa(lp180
+V(Applause)
+p181
+aa(lp182
+VAD: And there are other ways that we can push these limits as well.
+p183
+aVSo here's a quieter experiment
+p184
+aVwhere we filmed some earphones plugged into a laptop computer,
+p185
+aVand in this case, our goal was to recover the music that was playing on that laptop
+p186
+aVfrom just silent video
+p187
+aVof these two little plastic earphones,
+p188
+aVand we were able to do this so well
+p189
+aVthat I could even Shazam our results.
+p190
+aV(Laughter)
+p191
+aa(lp192
+V(Music: "Under Pressure" by Queen)
+p193
+aa(lp194
+V(Applause)
+p195
+aa(lp196
+VAnd we can also push things by changing the hardware that we use.
+p197
+aVBecause the experiments I've shown you so far
+p198
+aVwere done with a camera, a high-speed camera,
+p199
+aVthat can record video about a 100 times faster
+p200
+aVthan most cell phones,
+p201
+aVbut we've also found a way to use this technique
+p202
+aVwith more regular cameras,
+p203
+aVand we do that by taking advantage of what's called a rolling shutter.
+p204
+aVYou see, most cameras record images one row at a time,
+p205
+aVand so if an object moves during the recording of a single image,
+p206
+aVthere's a slight time delay between each row,
+p207
+aVand this causes slight artifacts
+p208
+aVthat get coded into each frame of a video.
+p209
+aVAnd so what we found is that by analyzing these artifacts,
+p210
+aVwe can actually recover sound using a modified version of our algorithm.
+p211
+aVSo here's an experiment we did
+p212
+aVwhere we filmed a bag of candy
+p213
+aVwhile a nearby loudspeaker played
+p214
+aVthe same "Mary Had a Little Lamb" music from before,
+p215
+aVbut this time, we used just a regular store-bought camera,
+p216
+aVand so in a second, I'll play for you the sound that we recovered,
+p217
+aVand it's going to sound distorted this time,
+p218
+aVbut listen and see if you can still recognize the music.
+p219
+aa(lp220
+V(Audio: "Mary Had a Little Lamb")
+p221
+aa(lp222
+VAnd so, again, that sounds distorted,
+p223
+aVbut what's really amazing here is that we were able to do this
+p224
+aVwith something that you could literally run out
+p225
+aVand pick up at a Best Buy.
+p226
+aa(lp227
+VSo at this point,
+p228
+aVa lot of people see this work,
+p229
+aVand they immediately think about surveillance.
+p230
+aVAnd to be fair,
+p231
+aVit's not hard to imagine how you might use this technology to spy on someone.
+p232
+aVBut keep in mind that there's already a lot of very mature technology
+p233
+aVout there for surveillance.
+p234
+aVIn fact, people have been using lasers
+p235
+aVto eavesdrop on objects from a distance for decades.
+p236
+aVBut what's really new here,
+p237
+aVwhat's really different,
+p238
+aVis that now we have a way to picture the vibrations of an object,
+p239
+aVwhich gives us a new lens through which to look at the world,
+p240
+aVand we can use that lens
+p241
+aVto learn not just about forces like sound that cause an object to vibrate,
+p242
+aVbut also about the object itself.
+p243
+aa(lp244
+VAnd so I want to take a step back
+p245
+aVand think about how that might change the ways that we use video,
+p246
+aVbecause we usually use video to look at things,
+p247
+aVand I've just shown you how we can use it
+p248
+aVto listen to things.
+p249
+aVBut there's another important way that we learn about the world:
+p250
+aVthat's by interacting with it.
+p251
+aVWe push and pull and poke and prod things.
+p252
+aVWe shake things and see what happens.
+p253
+aVAnd that's something that video still won't let us do,
+p254
+aVat least not traditionally.
+p255
+aVSo I want to show you some new work,
+p256
+aVand this is based on an idea I had just a few months ago,
+p257
+aVso this is actually the first time I've shown it to a public audience.
+p258
+aVAnd the basic idea is that we're going to use the vibrations in a video
+p259
+aVto capture objects in a way that will let us interact with them
+p260
+aVand see how they react to us.
+p261
+aa(lp262
+VSo here's an object,
+p263
+aVand in this case, it's a wire figure in the shape of a human,
+p264
+aVand we're going to film that object with just a regular camera.
+p265
+aVSo there's nothing special about this camera.
+p266
+aVIn fact, I've actually done this with my cell phone before.
+p267
+aVBut we do want to see the object vibrate,
+p268
+aVso to make that happen,
+p269
+aVwe're just going to bang a little bit on the surface where it's resting
+p270
+aVwhile we record this video.
+p271
+aa(lp272
+VSo that's it: just five seconds of regular video,
+p273
+aVwhile we bang on this surface,
+p274
+aVand we're going to use the vibrations in that video
+p275
+aVto learn about the structural and material properties of our object,
+p276
+aVand we're going to use that information to create something new and interactive.
+p277
+aVAnd so here's what we've created.
+p278
+aVAnd it looks like a regular image,
+p279
+aVbut this isn't an image, and it's not a video,
+p280
+aVbecause now I can take my mouse
+p281
+aVand I can start interacting with the object.
+p282
+aVAnd so what you see here
+p283
+aVis a simulation of how this object
+p284
+aVwould respond to new forces that we've never seen before,
+p285
+aVand we created it from just five seconds of regular video.
+p286
+aa(lp287
+V(Applause)
+p288
+aa(lp289
+VAnd so this is a really powerful way to look at the world,
+p290
+aVbecause it lets us predict how objects will respond
+p291
+aVto new situations,
+p292
+aVand you could imagine, for instance, looking at an old bridge
+p293
+aVand wondering what would happen, how would that bridge hold up
+p294
+aVif I were to drive my car across it.
+p295
+aVAnd that's a question that you probably want to answer
+p296
+aVbefore you start driving across that bridge.
+p297
+aVAnd of course, there are going to be limitations to this technique,
+p298
+aVjust like there were with the visual microphone,
+p299
+aVbut we found that it works in a lot of situations
+p300
+aVthat you might not expect,
+p301
+aVespecially if you give it longer videos.
+p302
+aa(lp303
+VSo for example, here's a video that I captured
+p304
+aVof a bush outside of my apartment,
+p305
+aVand I didn't do anything to this bush,
+p306
+aVbut by capturing a minute-long video,
+p307
+aVa gentle breeze caused enough vibrations
+p308
+aVthat we could learn enough about this bush to create this simulation.
+p309
+aV(Applause)
+p310
+aVAnd so you could imagine giving this to a film director,
+p311
+aVand letting him control, say,
+p312
+aVthe strength and direction of wind in a shot after it's been recorded.
+p313
+aVOr, in this case, we pointed our camera at a hanging curtain,
+p314
+aVand you can't even see any motion in this video,
+p315
+aVbut by recording a two-minute-long video,
+p316
+aVnatural air currents in this room
+p317
+aVcreated enough subtle, imperceptible motions and vibrations
+p318
+aVthat we could learn enough to create this simulation.
+p319
+aa(lp320
+VAnd ironically,
+p321
+aVwe're kind of used to having this kind of interactivity
+p322
+aVwhen it comes to virtual objects,
+p323
+aVwhen it comes to video games and 3D models,
+p324
+aVbut to be able to capture this information from real objects in the real world
+p325
+aVusing just simple, regular video,
+p326
+aVis something new that has a lot of potential.
+p327
+aa(lp328
+VSo here are the amazing people who worked with me on these projects.
+p329
+aV(Applause)
+p330
+aa(lp331
+VAnd what I've shown you today is only the beginning.
+p332
+aVWe've just started to scratch the surface
+p333
+aVof what you can do with this kind of imaging,
+p334
+aVbecause it gives us a new way
+p335
+aVto capture our surroundings with common, accessible technology.
+p336
+aVAnd so looking to the future,
+p337
+aVit's going to be really exciting to explore
+p338
+aVwhat this can tell us about the world.
+p339
+aa(lp340
+VThank you.
+p341
+aa(lp342
+V(Applause)
+p343
+aasS'id'
+p344
+I2246
+sS'title'
+p345
+VNew video technology that reveals an object's hidden properties
+p346
+s.

@@ -1,0 +1,952 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo I thought I'd talk about identity.
+p4
+aVThat's sort of an interesting enough topic to me.
+p5
+aVAnd the reason was, because when I was asked to do this,
+p6
+aVI'd just read, in one of the papers, I can't remember,
+p7
+aVsomething from someone at Facebook saying, well,
+p8
+aV"we need to make everybody use their real names."
+p9
+aVand then that's basically all the problems solved.
+p10
+aVAnd that's so wrong,
+p11
+aVthat's such a fundamentally, reactionary view of identity,
+p12
+aVand it's going to get us into all sorts of trouble.
+p13
+aVAnd so what I thought I'd do
+p14
+aVis I'll explain four sort of problems about it,
+p15
+aVand then I'll suggest a solution,
+p16
+aVwhich hopefully you might find interesting.
+p17
+aa(lp18
+VSo just to frame the problem,
+p19
+aVwhat does authenticity mean?
+p20
+aVThat's me, that's a camera phone picture of me
+p21
+aVlooking at a painting.
+p22
+aV[What's the Problem?]
+p23
+aVThat's a painting that was painted
+p24
+aVby a very famous forger,
+p25
+aVand because I'm not very good at presentations,
+p26
+aVI already can't remember the name that I wrote on my card.
+p27
+aVAnd he was incarcerated in, I think, Wakefield Prison
+p28
+aVfor forging masterpieces by, I think, French Impressionists.
+p29
+aVAnd he's so good at it, that when he was in prison,
+p30
+aVeverybody in prison, the governor and whatever,
+p31
+aVwanted him to paint masterpieces to put on the walls,
+p32
+aVbecause they were so good.
+p33
+aVAnd so that's a masterpiece,
+p34
+aVwhich is a fake of a masterpiece,
+p35
+aVand bonded into the canvas is a chip which identifies that as a real fake,
+p36
+aVif you see what I mean.
+p37
+aV(Laughter)
+p38
+aVSo when we're talking about authenticity,
+p39
+aVit's a little more fractal than it appears and that's a good example to show it.
+p40
+aVI tried to pick four problems that will frame the issue properly.
+p41
+aa(lp42
+VSo the first problem, I thought,
+p43
+aVChip and PIN, right?
+p44
+aV[Banks and legacies bringing down the system from within]
+p45
+aV[Offline solutions do not work online]
+p46
+aVI'm guessing everyone's got a chip and PIN card, right?
+p47
+aVSo why is that a good example?
+p48
+aVThat's the example of how legacy thinking about identity
+p49
+aVsubverts the security of a well-constructed system.
+p50
+aVThat chip and PIN card that's in your pocket
+p51
+aVhas a little chip on it that cost millions of pounds to develop,
+p52
+aVis extremely secure,
+p53
+aVyou can put scanning electron microscopes on it,
+p54
+aVyou can try and grind it down, blah blah blah.
+p55
+aVThose chips have never been broken, whatever you read in the paper.
+p56
+aVAnd for a joke, we take that super-secure chip
+p57
+aVand we bond it to a trivially counterfeitable magnetic stripe
+p58
+aVand for very lazy criminals, we still emboss the card.
+p59
+aVSo if you're a criminal in a hurry and you need to copy someone's card,
+p60
+aVyou can just stick a piece of paper on it and rub a pencil over it
+p61
+aVjust to sort of speed things up.
+p62
+aVAnd even more amusingly, and on my debit card too,
+p63
+aVwe print the name and the SALT code and everything else on the front too.
+p64
+aVWhy?
+p65
+aVThere is no earthly reason why your name is printed on a chip and PIN card.
+p66
+aVAnd if you think about it,
+p67
+aVit's even more insidious and perverse than it seems at first.
+p68
+aVBecause the only people that benefit
+p69
+aVfrom having the name on the card are criminals.
+p70
+aVYou know what your name is, right?
+p71
+aV(Laughter)
+p72
+aVAnd when you go into a shop and buy something,
+p73
+aVit's a PIN, he doesn't care what the name is.
+p74
+aVThe only place where you ever have to write your name on the back
+p75
+aVis in America at the moment.
+p76
+aVAnd whenever I go to America,
+p77
+aVand I have to pay with a mag stripe on the back of the card,
+p78
+aVI always sign it Carlos Tethers anyway,
+p79
+aVjust as a security mechanism,
+p80
+aVbecause if a transaction ever gets disputed,
+p81
+aVand it comes back and it says Dave Birch,
+p82
+aVI know it must have been a criminal,
+p83
+aVbecause I would never sign it Dave Birch.
+p84
+aV(Laughter)
+p85
+aVSo if you drop your card in the street,
+p86
+aVit means a criminal can pick it up and read it.
+p87
+aVThey know the name,
+p88
+aVfrom the name they can find the address,
+p89
+aVand then they can go off and buy stuff online.
+p90
+aVWhy do we put the name on the card?
+p91
+aVBecause we think identity is something to do with names,
+p92
+aVand because we're rooted in the idea of the identity card,
+p93
+aVwhich obsesses us.
+p94
+aVAnd I know it crashed and burned a couple of years ago,
+p95
+aVbut if you're someone in politics or the home office or whatever,
+p96
+aVand you think about identity,
+p97
+aVyou can only think of identity in terms of cards with names on them.
+p98
+aVAnd that's very subversive in a modern world.
+p99
+aa(lp100
+VSo the second example I thought I'd use
+p101
+aVis chatrooms.
+p102
+aV[Chatrooms and Children]
+p103
+aVI'm very proud of that picture, that's my son
+p104
+aVplaying in his band with his friends for the first-ever gig,
+p105
+aVI believe you call it, where he got paid.
+p106
+aV(Laughter)
+p107
+aVAnd I love that picture.
+p108
+aVI like the picture of him getting into medical school a lot better,
+p109
+aV(Laughter)
+p110
+aVI like that picture for the moment.
+p111
+aVWhy do I use that picture?
+p112
+aVBecause that was very interesting, watching that experience as an old person.
+p113
+aVSo him and his friends,
+p114
+aVthey get together, they booked a room, like a church hall,
+p115
+aVand they got all their friends who had bands,
+p116
+aVand they got them together,
+p117
+aVand they do it all on Facebook,
+p118
+aVand then they sell tickets, and the first band on the -
+p119
+aVI was going to say "menu,"
+p120
+aVthat's probably the wrong word for it, isn't it?
+p121
+aVThe first band on the list of bands
+p122
+aVthat appears at some public music performance of some kind
+p123
+aVgets the sales from the first 20 tickets,
+p124
+aVthen the next band gets the next 20,
+p125
+aVand so on.
+p126
+aVThey were at the bottom of the menu,
+p127
+aVthey were like fifth, I thought they had no chance.
+p128
+aVHe actually got 20 quid. Fantastic, right?
+p129
+aVBut my point is, that all worked perfectly,
+p130
+aVexcept on the web.
+p131
+aVSo they're sitting on Facebook,
+p132
+aVand they're sending these messages and arranging things
+p133
+aVand they don't know who anybody is, right?
+p134
+aVThat's the big problem we're trying to solve.
+p135
+aVIf only they were using the real names,
+p136
+aVThen you wouldn't be worried about them on the Internet.
+p137
+aVAnd so when he says to me,
+p138
+aV"Oh, I want to go to a chatroom to talk about guitars" or something,
+p139
+aVI'm like, "oh, well, I don't want you to go into a chatroom
+p140
+aVto talk about guitars, because they might not all be your friends,
+p141
+aVand some of the people that are in the chatroom
+p142
+aVmight be perverts and teachers and vicars."
+p143
+aV(Laughter)
+p144
+aVI mean, they generally are, when you look in the paper, right?
+p145
+aVSo I want to know who all the people in the chatroom are.
+p146
+aVSo okay, you can go in the chatroom,
+p147
+aVbut only if everybody in the chatroom is using their real names,
+p148
+aVand they submit full copies of their police report.
+p149
+aVBut of course, if anybody in the chatroom asked for his real name,
+p150
+aVI'd say no. You can't give them your real name.
+p151
+aVBecause what happens if they turn out to be perverts,
+p152
+aVand teachers and whatever.
+p153
+aa(lp154
+VSo you have this odd sort of paradox
+p155
+aVwhere I'm happy for him to go into this space
+p156
+aVif I know who everybody else is,
+p157
+aVbut I don't want anybody else to know who he is.
+p158
+aVAnd so you get this sort of logjam around identity
+p159
+aVwhere you want full disclosure from everybody else,
+p160
+aVbut not from yourself.
+p161
+aVAnd there's no progress, we get stuck.
+p162
+aVAnd so the chatroom thing doesn't work properly,
+p163
+aVand it's a very bad way of thinking about identity.
+p164
+aa(lp165
+VSo on my RSS feed, I saw this thing about -
+p166
+aVI just said something bad about my RSS feed, didn't I?
+p167
+aVI should stop saying it like that.
+p168
+aVFor some random reason, I can't imagine,
+p169
+aVsomething about cheerleaders turned up in my inbox.
+p170
+aVAnd I read this story about cheerleaders,
+p171
+aVand it's a fascinating story.
+p172
+aVThis happened a couple of years ago in the U.S.
+p173
+aVThere were some cheerleaders in a team at a high school
+p174
+aVin the U.S., and they said mean things
+p175
+aVabout their cheerleading coach,
+p176
+aVas I'm sure kids do about all of their teachers
+p177
+aVall of the time,
+p178
+aVand somehow the cheerleading coach found out about this.
+p179
+aVShe was very upset.
+p180
+aVAnd so she went to one of the girls, and said,
+p181
+aV"you have to give me your Facebook password."
+p182
+aVI read this all the time, where even at some universities
+p183
+aVand places of education,
+p184
+aVkids are forced to hand over their Facebook passwords.
+p185
+aVSo you've got to give them your Facebook password.
+p186
+aVShe was a kid!
+p187
+aVWhat she should have said
+p188
+aVis, "my lawyer will be calling you
+p189
+aVfirst thing in the morning.
+p190
+aVIt's an outrageous imposition
+p191
+aVon my 4th Amendment right to privacy,
+p192
+aVand you're going to be sued
+p193
+aVfor all the money you've got."
+p194
+aVThat's what she should have said.
+p195
+aVBut she's a kid,
+p196
+aVso she hands over the password.
+p197
+aVThe teacher can't log into Facebook,
+p198
+aVbecause the school has blocked access to Facebook.
+p199
+aVSo the teacher can't log into Facebook until she gets home.
+p200
+aVSo the girl tells her friends,
+p201
+aVguess what happened?
+p202
+aVThe teacher logged in, she knows.
+p203
+aVSo the girls just all logged into Facebook on their phones,
+p204
+aVand deleted their profiles.
+p205
+aVAnd so when the teacher logged in, there was nothing there.
+p206
+aVMy point is, those identities, they don't think about them the same way.
+p207
+aa(lp208
+VIdentity is, especially when you're a teenager, a fluid thing.
+p209
+aVYou have lots of identities.
+p210
+aVAnd you can have an identity, you don't like it,
+p211
+aVbecause it's subverted in some way, or it's insecure, or it's inappropriate,
+p212
+aVyou just delete it and get another one.
+p213
+aVThe idea that you have an identity that's given to you by someone,
+p214
+aVthe government or whatever,
+p215
+aVand you have to stick with that identity and use it in all places,
+p216
+aVthat's absolutely wrong.
+p217
+aVWhy would you want to really know who someone was on Facebook,
+p218
+aVunless you wanted to abuse them and harass them in some way?
+p219
+aVAnd it just doesn't work properly.
+p220
+aVAnd my fourth example is there are some cases
+p221
+aVwhere you really want to be -
+p222
+aVIn case you're wondering, that's me at the G20 protest.
+p223
+aVI wasn't actually at the G20 protest, but I had a meeting at a bank
+p224
+aVon the day of the G20 protest, and I got an email from the bank
+p225
+aVsaying please don't wear a suit, because it'll inflame the protesters.
+p226
+aVI look pretty good in a suit, frankly,
+p227
+aVso you can see why it would drive them
+p228
+aVinto an anti-capitalist frenzy.
+p229
+aV(Laughter)
+p230
+aVSo I thought, well, look.
+p231
+aVIf I don't want to inflame the protesters,
+p232
+aVthe obvious thing to do
+p233
+aVis go dressed as a protester.
+p234
+aVSo I went dressed completely in black,
+p235
+aVyou know, with a black balaclava,
+p236
+aVI had black gloves on,
+p237
+aVbut I've taken them off to sign the visitor's book.
+p238
+aV(Laughter)
+p239
+aVI'm wearing black trousers, black boots,
+p240
+aVI'm dressed completely in black.
+p241
+aVI go into the bank at 10 o'clock,
+p242
+aVgo, "Hi, I'm Dave Birch,
+p243
+aVI've got a 3 o'clock with so and so there."
+p244
+aVSure. They sign me in.
+p245
+aVThere's my visitor's badge.
+p246
+aV(Laughter)
+p247
+aa(lp248
+VSo this nonsense
+p249
+aVabout you've got to have real names on Facebook and whatever,
+p250
+aVthat gets you that kind of security.
+p251
+aVThat gets you security theater, where there's no actual security,
+p252
+aVbut people are sort of playing parts in a play about security.
+p253
+aVAnd as long as everybody learns their lines,
+p254
+aVeveryone's happy.
+p255
+aVBut it's not real security.
+p256
+aVEspecially because I hate banks more than the G20 protesters do,
+p257
+aVbecause I work for them.
+p258
+aVI know that things are actually worse than these guys think.
+p259
+aV(Laughter)
+p260
+aVBut suppose I worked next to somebody in a bank
+p261
+aVwho was doing something.
+p262
+aVSuppose I was sitting next to a rogue trader,
+p263
+aVand I want to report it to the boss of the bank.
+p264
+aVSo I log on to do a little bit of whistleblowing.
+p265
+aVI send a message, this guy's a rogue trader.
+p266
+aVThat message is meaningless
+p267
+aVif you don't know that I'm a trader at the bank.
+p268
+aVIf that message just comes from anybody,
+p269
+aVit has zero information value.
+p270
+aVThere's no point in sending that message.
+p271
+aVBut if I have to prove who I am,
+p272
+aVI'll never send that message.
+p273
+aVIt's just like the nurse in the hospital reporting the drunk surgeon.
+p274
+aVThat message will only happen if I'm anonymous.
+p275
+aVSo the system has to have ways of providing anonymity there,
+p276
+aVotherwise we don't get where we want to get to.
+p277
+aa(lp278
+VSo four issues. So what are we going to do about it?
+p279
+aVWell, what we tend to do about it
+p280
+aVis we think about Orwell space.
+p281
+aVAnd we try to make electronic versions
+p282
+aVof the identity card that we got rid of in 1953.
+p283
+aVSo we think if we had a card,
+p284
+aVcall it a Facebook login,
+p285
+aVwhich proves who you are,
+p286
+aVand I make you carry it all the time,
+p287
+aVthat solves the problem.
+p288
+aVAnd of course, for all those reasons I've just outlined,
+p289
+aVit doesn't, and it might, actually,
+p290
+aVmake some problems worse.
+p291
+aVThe more times you're forced to use your real identity,
+p292
+aVcertainly in transactional terms,
+p293
+aVthe more likely that identity is to get stolen and subverted.
+p294
+aVThe goal is to stop people from using identity
+p295
+aVin transactions which don't need identity,
+p296
+aVwhich is actually almost all transactions.
+p297
+aVAlmost all of the transactions you do
+p298
+aVare not, who are you?
+p299
+aVThey're, are you allowed to drive the car,
+p300
+aVare you allowed in the building,
+p301
+aVare you over 18,
+p302
+aVetcetera, etcetera.
+p303
+aVSo my suggestion-I, like James,
+p304
+aVthink that there should be a resurgence of interest in R & D.
+p305
+aa(lp306
+VI think this is a solvable problem.
+p307
+aVIt's something we can do about.
+p308
+aVNaturally, in these circumstances,
+p309
+aVI turn to Doctor Who.
+p310
+aVBecause in this,
+p311
+aVas in so many other walks of life,
+p312
+aVDoctor Who has already shown us the answer.
+p313
+aVSo I should say,
+p314
+aVfor some of our foreign visitors,
+p315
+aVDoctor Who is the greatest living scientist in England,
+p316
+aV(Laughter)
+p317
+aVand a beacon of truth and enlightenment to all of us.
+p318
+aVAnd this is Doctor Who with his psychic paper.
+p319
+aVCome on, you guys must have seen Doctor Who's psychic paper.
+p320
+aVYou're not nerds if you say yes.
+p321
+aVWho's seen Doctor Who's psychic paper?
+p322
+aVOh right, you were in the library the whole time studying I guess.
+p323
+aVIs that what you're going to tell us?
+p324
+aVDoctor Who's psychic paper
+p325
+aVis when you hold up the psychic paper,
+p326
+aVthe person, in their brain,
+p327
+aVsees the thing that they need to see.
+p328
+aVSo I want to show you a British passport,
+p329
+aVI hold up the psychic paper,
+p330
+aVyou see a British passport.
+p331
+aVI want to get into a party,
+p332
+aVI hold up the psychic paper,
+p333
+aVI show you a party invitation.
+p334
+aVYou see what you want to see.
+p335
+aVSo what I'm saying is we need to make an electronic version of that,
+p336
+aVbut with one tiny, tiny change,
+p337
+aVwhich is that it'll only show you the British passport
+p338
+aVif I've actually got one.
+p339
+aVIt'll only show you the party invitation
+p340
+aVif I actually have one.
+p341
+aVIt will only show you that I'm over 18 if I actually am over 18.
+p342
+aVBut nothing else.
+p343
+aVSo you're the bouncer at the pub, you need to know that I'm over 18,
+p344
+aVinstead of showing you my driving license,
+p345
+aVwhich shows you I know how to drive,
+p346
+aVwhat my name is, my address, all these kind of things,
+p347
+aVI show you my psychic paper,
+p348
+aVand all it tells you is am I over 18 or not.
+p349
+aVRight.
+p350
+aa(lp351
+VIs that just a pipe dream?
+p352
+aVOf course not, otherwise I wouldn't be here talking to you.
+p353
+aVSo in order to build that and make it work,
+p354
+aVI'm only going to name these things, I'll not go into them,
+p355
+aVwe need a plan,
+p356
+aVwhich is we're going to build this
+p357
+aVas an infrastructure for everybody to use,
+p358
+aVto solve all of these problems.
+p359
+aVWe're going to make a utility,
+p360
+aVthe utility has to be universal,
+p361
+aVyou can use it everywhere,
+p362
+aVI'm just giving you little flashes of the technology as we go along.
+p363
+aVThat's a Japanese ATM,
+p364
+aVthe fingerprint template is stored inside the mobile phone.
+p365
+aVSo when you want to draw money out,
+p366
+aVyou put the mobile phone on the ATM,
+p367
+aVand touch your finger,
+p368
+aVyour fingerprint goes through to the phone,
+p369
+aVthe phone says yes, that's whoever,
+p370
+aVand the ATM then gives you some money.
+p371
+aVIt has to be a utility that you can use everywhere.
+p372
+aVIt has to be absolutely convenient,
+p373
+aVthat's me going into the pub.
+p374
+aVAll the device on the door of the pub is allowed is,
+p375
+aVis this person over 18 and not barred from the pub?
+p376
+aVAnd so the idea is, you touch your ID card to the door,
+p377
+aVand if I am allowed in, it shows my picture,
+p378
+aVif I'm not allowed in, it shows a red cross.
+p379
+aVIt doesn't disclose any other information.
+p380
+aVIt has to have no special gadgets.
+p381
+aVThat can only mean one thing,
+p382
+aVfollowing on from Ross's statement,
+p383
+aVwhich I agree with completely.
+p384
+aVIf it means no special gadgets,
+p385
+aVit has to run on a mobile phone.
+p386
+aVThat's the only choice we have,
+p387
+aVwe have to make it work on mobile phones.
+p388
+aVThere are 6.6 billion
+p389
+aVmobile phone subscriptions.
+p390
+aVMy favorite statistic of all time,
+p391
+aVonly 4 billion toothbrushes in the world.
+p392
+aVThat means something,
+p393
+aVI don't know what.
+p394
+aV(Laughter)
+p395
+aVI rely on our futurologists to tell me.
+p396
+aVIt has to be a utility which is extensible.
+p397
+aVSo it has to be something
+p398
+aVthat anybody could build on.
+p399
+aVAnybody should be able to use this infrastructure,
+p400
+aVyou don't need permissions, licenses, whatever,
+p401
+aVanyone should be able to write some code to do this.
+p402
+aa(lp403
+VYou know what symmetry is,
+p404
+aVso you don't need a picture of it.
+p405
+aVThis is how we're going to do it.
+p406
+aVWe're going to do it using phones,
+p407
+aVand we're going to do it
+p408
+aVusing mobile proximity.
+p409
+aVI'm going to suggest to you
+p410
+aVthe technology to implement
+p411
+aVDoctor Who's psychic paper
+p412
+aVis already here, and if any of you
+p413
+aVhave got one of the new Barclay's debit cards
+p414
+aVwith the contactless interface on it,
+p415
+aVyou've already got that technology.
+p416
+aVIf you've ever been up to the big city,
+p417
+aVand used an Oyster card at all,
+p418
+aVdoes that ring any bells to anybody?
+p419
+aVThe technology already exists.
+p420
+aVThe first phones
+p421
+aVthat have the technology built in,
+p422
+aVthe Google Nexus, the S2,
+p423
+aVthe Samsung Wifi 7.9,
+p424
+aVthe first phones that have
+p425
+aVthe technology built into them
+p426
+aVare already in the shops.
+p427
+aVSo the idea that the gas man
+p428
+aVcan turn up at my mom's door
+p429
+aVand he can show my mom his phone,
+p430
+aVand she can tap it with her phone,
+p431
+aVand it will come up with green if he really is from British Gas
+p432
+aVand allowed in,
+p433
+aVand it'll come up with red if he isn't,
+p434
+aVend of story.
+p435
+aa(lp436
+VWe have the technology to do that.
+p437
+aVAnd what's more,
+p438
+aValthough some of those things sounded a bit counter-intuitive,
+p439
+aVlike proving I'm over 18 without proving who I am,
+p440
+aVthe cryptography to do that not only exists,
+p441
+aVit's extremely well-known and well-understood.
+p442
+aVDigital signatures, the blinding of public key certificates,
+p443
+aVthese technologies have been around for a while,
+p444
+aVwe've just had no way of packaging them up.
+p445
+aVSo the technology already exists.
+p446
+aVWe know it works,
+p447
+aVThere are a few examples of the technology being used
+p448
+aVin experimental places.
+p449
+aVThat's London Fashion Week,
+p450
+aVwhere we built a system with O2,
+p451
+aVthat's for the Wireless Festival in Hyde Park,
+p452
+aVyou can see the persons
+p453
+aVwalking in with their VIP band,
+p454
+aVit's just being checked
+p455
+aVby the Nokia phone that's reading the band.
+p456
+aVI'm only putting those up to show you
+p457
+aVthese things are prosaic,
+p458
+aVthis stuff works in these environments.
+p459
+aVThey don't need to be special.
+p460
+aa(lp461
+VSo finally, I know that you can do this,
+p462
+aVbecause if you saw the episode of Doctor Who,
+p463
+aVthe Easter special of Doctor Who,
+p464
+aVwhere he went to Mars in a bus,
+p465
+aVI should say again for our foreign students,
+p466
+aVthat doesn't happen every episode.
+p467
+aVThis was a very special case.
+p468
+aVSo in the episode where he goes to Mars in a London bus,
+p469
+aVI can't show you the clip,
+p470
+aVdue to the outrageous restrictions of Queen Anne-style copyright
+p471
+aVby the BBC,
+p472
+aVbut in the episode where he goes to Mars in a London bus,
+p473
+aVDoctor Who is clearly shown getting on to the bus
+p474
+aVwith the Oyster card reader
+p475
+aVusing his psychic paper.
+p476
+aVWhich proves that psychic paper
+p477
+aVhas an MSE interface.
+p478
+aVThank you very much.
+p479
+aasS'id'
+p480
+I1466
+sS'title'
+p481
+VA new way to stop identity theft
+p482
+s.

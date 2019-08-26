@@ -1,0 +1,793 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI want to talk to you about one thing
+p4
+aVand just one thing only,
+p5
+aVand this has to do with when people ask me,
+p6
+aVwhat do you do?
+p7
+aVTo which I usually respond,
+p8
+aVI do computer music.
+p9
+aa(lp10
+VNow, a number of people
+p11
+aVjust stop talking to me right then and there,
+p12
+aVand the rest who are left usually have
+p13
+aVthis blank look in their eye,
+p14
+aVas if to say, what does that mean?
+p15
+aVAnd I feel like I'm actually depriving them
+p16
+aVof information by telling them this,
+p17
+aVat which point I usually panic
+p18
+aVand spit out the first thing that comes to my mind,
+p19
+aVwhich is, I have no idea what I'm doing.
+p20
+aVWhich is true.
+p21
+aVThat's usually followed by a second thought,
+p22
+aVwhich is, whatever it is that I'm doing,
+p23
+aVI love it.
+p24
+aVAnd today, I want to, well,
+p25
+aVshare with you something I love,
+p26
+aVand also why.
+p27
+aa(lp28
+VAnd I think we'll begin with just this question:
+p29
+aVWhat is computer music?
+p30
+aVAnd I'm going to try to do my best to provide a definition,
+p31
+aVmaybe by telling you a story
+p32
+aVthat goes through some of the stuff
+p33
+aVI've been working on.
+p34
+aa(lp35
+VAnd the first thing, I think, in our story
+p36
+aVis going to be something called ChucK.
+p37
+aVNow, ChucK is a programming language for music,
+p38
+aVand it's open-source, it's freely available,
+p39
+aVand I like to think that it crashes equally well
+p40
+aVon all modern operating systems.
+p41
+aVAnd instead of telling you more about it,
+p42
+aVI'm just going to give you a demo.
+p43
+aVBy the way, I'm just going to nerd out
+p44
+aVfor just a few minutes here,
+p45
+aVso I would say, don't freak out.
+p46
+aVIn fact, I would invite all of you to join me
+p47
+aVin just geeking out.
+p48
+aVIf you've never written a line of code before in your life,
+p49
+aVdo not worry.
+p50
+aVI'll bet you'll be able to come along on this.
+p51
+aa(lp52
+VFirst thing I'm going to do is to make
+p53
+aVa sine wave oscillator,
+p54
+aVand we're going to called the sine wave generator
+p55
+aV"Ge."
+p56
+aVAnd then we're going to connect "Ge" to the DAC.
+p57
+aVNow this is kind of the abstraction
+p58
+aVfor the sound output on my computer. Okay?
+p59
+aVSo I've connected myself into the speaker.
+p60
+aVNext, I'm going to say my frequency
+p61
+aVis 440 hertz,
+p62
+aVand I'm going to let time advance
+p63
+aVby two seconds through this operation.
+p64
+aVAll right, so if I were to play this \u2014
+p65
+aV(Tone) \u2014
+p66
+aVyou would hear a sine wave at 440 hertz for two seconds.
+p67
+aVOkay, great. Now I'm going to copy and paste this,
+p68
+aVand then just change some of these numbers,
+p69
+aV220.5, 440 I shall leave it as that,
+p70
+aVand .5 and 880.
+p71
+aVBy doubling the frequency,
+p72
+aVwe're actually going up in successive octaves,
+p73
+aVand then we have this sequence \u2014
+p74
+aV(Tones) \u2014 of tones.
+p75
+aVOkay, great, now I can imagine creating
+p76
+aVall kinds of really horrible
+p77
+aVsingle sine wave pieces of music with this,
+p78
+aVbut I'm going to do something that computers are really good at,
+p79
+aVwhich is repetition.
+p80
+aVI'm going to put this all in a while loop,
+p81
+aVand you actually don't need to indent,
+p82
+aVbut this is purely for aesthetic reasons.
+p83
+aVIt's good practice.
+p84
+aVAnd when we do this \u2014
+p85
+aV(Tones) \u2014
+p86
+aVthat's going to go on for a while.
+p87
+aVIn fact, it's probably not going to stop
+p88
+aVuntil this computer disintegrates.
+p89
+aVAnd I can't really empirically prove that to you,
+p90
+aVbut I hope you'll believe me when I say that.
+p91
+aVNext, I'm going to replace this 220
+p92
+aVby math.random2f.
+p93
+aVI'm going to generate a random number
+p94
+aVbetween 30 and 1,000 and send that
+p95
+aVto the frequency of me.
+p96
+aVAnd I'm going to do this every half a second.
+p97
+aV(Tones)
+p98
+aVLet's do this every 200 milliseconds.
+p99
+aV(Tones)
+p100
+aVOne hundred.
+p101
+aV(Tones)
+p102
+aVAll right.
+p103
+aVAt this point, we've reached something
+p104
+aVthat I would like to think of as
+p105
+aVthe canonical computer music.
+p106
+aVThis is, to me, the sound that mainframes
+p107
+aVare supposed to be making
+p108
+aVwhen they're thinking really hard.
+p109
+aVIt's this sound, it's like,
+p110
+aVthe square root of five million.
+p111
+aa(lp112
+VSo is this computer music?
+p113
+aVYeah, I guess by definition,
+p114
+aVit's kind of computer music.
+p115
+aVIt's probably not the kind of music you would listen to
+p116
+aVcruising down the highway,
+p117
+aVbut it's a foundation of computer-generated music,
+p118
+aVand using ChucK,
+p119
+aVwe've actually been building instruments
+p120
+aVin the Stanford Laptop Orchestra,
+p121
+aVbased right here at Stanford Center for Computer Research in Music and Acoustics.
+p122
+aa(lp123
+VNow the Laptop Orchestra is an ensemble of laptops,
+p124
+aVhumans and special hemispherical speaker arrays.
+p125
+aVNow the reason we have these
+p126
+aVis so that for the instruments that we create
+p127
+aVout of the laptop, we want the sound to come
+p128
+aVout of somewhere near the instrument
+p129
+aVand the performer,
+p130
+aVkind of much like a traditional, acoustic instrument.
+p131
+aVLike, if I were to play a violin here,
+p132
+aVthe sound would naturally not come out of
+p133
+aVthe P.A. system, but from the artifact itself.
+p134
+aVSo these speakers are meant to emulate that.
+p135
+aVIn fact, I'm going to show you
+p136
+aVhow we actually built them.
+p137
+aVThe first step is to go to IKEA
+p138
+aVand buy a salad bowl.
+p139
+aVThis is an 11-inch Blanda Matt.
+p140
+aVThat's the actual name,
+p141
+aVand I actually use one of these
+p142
+aVto make salad at home as well, I kid you not.
+p143
+aVAnd the first step is you turn it upside down,
+p144
+aVand then you drill holes in them,
+p145
+aVsix holes per hemi,
+p146
+aVand then make a base plate,
+p147
+aVput car speaker drivers in them
+p148
+aValong with amplifiers in the enclosure,
+p149
+aVand you put that all together and you have
+p150
+aVthese hemispherical speaker arrays.
+p151
+aVAdd people, add laptops,
+p152
+aVyou have a laptop orchestra.
+p153
+aa(lp154
+VAnd what might a laptop orchestra sound like?
+p155
+aVWell, let me give you a demonstration
+p156
+aVof about 200 instruments we've created so far
+p157
+aVfor the Laptop Orchestra.
+p158
+aVAnd what I'm going to do is actually come over to this thing.
+p159
+aVThis thing I have in front of me
+p160
+aVactually used to be a commodity gaming controller
+p161
+aVcalled a Gametrak.
+p162
+aVThis thing actually has a glove you can put on your hands.
+p163
+aVIt's tethered to the base,
+p164
+aVand this will track the position of your hands
+p165
+aVin real time.
+p166
+aVIt was originally designed as a golfing controller
+p167
+aVto detect the motion of your swing.
+p168
+aVThat turned out to be a rather large
+p169
+aVcommercial non-success,
+p170
+aVat which point they slashed prices to 10 dollars,
+p171
+aVat which point computer music researchers
+p172
+aVsaid, "This is awesome!
+p173
+aVWe can prototype instruments out of this."
+p174
+aa(lp175
+VSo let me show you one instrument we've created,
+p176
+aVone of many, and this instrument
+p177
+aVis called "Twilight,"
+p178
+aVand it's meant to go with this metaphor
+p179
+aVof pulling a sound out of the ground.
+p180
+aVSo let me see if this will work.
+p181
+aa(lp182
+V(Music)
+p183
+aa(lp184
+VAnd put it back.
+p185
+aVAnd then if you go to the left,
+p186
+aVright,
+p187
+aVit sounds like an elephant in pain.
+p188
+aa(lp189
+VThis is a slightly metallic sound.
+p190
+aVTurn it just a bit.
+p191
+aa(lp192
+V(Music)
+p193
+aVIt's like a hovering car.
+p194
+aa(lp195
+VOkay.
+p196
+aa(lp197
+VThis third one is a ratchet-like interaction, so
+p198
+aVlet me turn it up.
+p199
+aa(lp200
+V(Music)
+p201
+aa(lp202
+VSo it's a slightly different interaction.
+p203
+aa(lp204
+VThe fourth one is a drone.
+p205
+aa(lp206
+V(Music)
+p207
+aVAnd finally, let's see,
+p208
+aVthis is a totally different interaction,
+p209
+aVand I think you have to imagine that there's
+p210
+aVthis giant invisible drum sitting right here on stage,
+p211
+aVand I'm going to bang it.
+p212
+aV(Drum)
+p213
+aV(Laughter)
+p214
+aVSo there we go, so that's one of many instruments
+p215
+aVin the Laptop Orchestra.
+p216
+aa(lp217
+V(Applause)
+p218
+aa(lp219
+VThank you.
+p220
+aa(lp221
+VAnd when you put that together,
+p222
+aVyou get something that sounds like this.
+p223
+aa(lp224
+V(Music)
+p225
+aa(lp226
+VOkay, and so, I think from the experience
+p227
+aVof building a lot of instruments for the Laptop Orchestra,
+p228
+aVand I think from the curiosity of wondering,
+p229
+aVwhat if we took these
+p230
+aVhopefully expressive instruments
+p231
+aVand we brought it to a lot of people,
+p232
+aVplus then a healthy bout of insanity \u2014
+p233
+aVput those three things together \u2014
+p234
+aVled to me actually co-founding a startup company
+p235
+aVin 2008 called Smule.
+p236
+aa(lp237
+VNow Smule's mission is to create
+p238
+aVexpressive, mobile music things,
+p239
+aVand one of the first musical instruments
+p240
+aVwe created is called Ocarina.
+p241
+aVAnd I'm going to just demo this for you real quick.
+p242
+aVSo Ocarina \u2014
+p243
+aV(Music) \u2014
+p244
+aVis based on this ancient flute-like instrument
+p245
+aVcalled the ocarina,
+p246
+aVand this one is the four-hole English pendant configuration,
+p247
+aVand you're literally blowing into the microphone
+p248
+aVto make the sound.
+p249
+aVAnd there's actually a little ChucK script
+p250
+aVrunning in here that's detecting
+p251
+aVthe strength of your blowing
+p252
+aVand also synthesizing the sound.
+p253
+aV(Music)
+p254
+aVAnd vibrato is mapped to the accelerometer,
+p255
+aVso you can get \u2014
+p256
+aV(Music)
+p257
+aVAll right. So let me play a little ditty for you,
+p258
+aVa little Bach.
+p259
+aVAnd here, you'll hear a little accompaniment with the melody.
+p260
+aVThe accompaniment actually follows the melody,
+p261
+aVnot the other way around.
+p262
+aa(lp263
+V(Music)
+p264
+aa(lp265
+VAnd this was designed
+p266
+aVto let you take your time
+p267
+aVand figure out where your expressive space is,
+p268
+aVand you can just hang out here
+p269
+aVfor a while, for a really dramatic effect, if you want,
+p270
+aVand whenever you're ready \u2014
+p271
+aa(lp272
+V(Music)
+p273
+aa(lp274
+VAnd on these longer notes,
+p275
+aVI'm going to use more vibrato
+p276
+aVtowards the end of the notes
+p277
+aVto give it a little bit more of an expressive quality.
+p278
+aa(lp279
+V(Music)
+p280
+aa(lp281
+VHuh, that's a nice chord to end this excerpt on.
+p282
+aa(lp283
+V(Applause)
+p284
+aa(lp285
+VThank you.
+p286
+aa(lp287
+VSo I think a good question to ask about Ocarina is,
+p288
+aVis this a toy or it an instrument? Maybe it's both,
+p289
+aVbut for me, I think the more important question is,
+p290
+aVis it expressive?
+p291
+aVAnd at the same time, I think
+p292
+aVcreating these types of instruments
+p293
+aVasks a question about the role of technology,
+p294
+aVand its place for how we make music.
+p295
+aVApparently, for example,
+p296
+aVnot that long ago, like only a hundred years ago \u2014
+p297
+aVthat's not that long in the course of human history \u2014
+p298
+aVfamilies back then
+p299
+aVused to make music together
+p300
+aVas a common form of entertainment.
+p301
+aVI don't think that's really happening
+p302
+aVthat much anymore.
+p303
+aVYou know, this is before radio, before recording.
+p304
+aVIn the last hundred years, with all this technology,
+p305
+aVwe now have more access to music
+p306
+aVas listeners and consumers,
+p307
+aVbut somehow, I think we're making less music
+p308
+aVthan ever before.
+p309
+aVI'm not sure why that would be.
+p310
+aVMaybe it's because it's too easy just to hit play.
+p311
+aVAnd while listening to music is wonderful,
+p312
+aVthere's a special joy to making music
+p313
+aVthat's all its own.
+p314
+aVAnd I think that's one part
+p315
+aVof the goal of why I do what I do
+p316
+aVis kind of to take us back to the past a little bit. Right?
+p317
+aa(lp318
+VNow, if that's one goal, the other goal
+p319
+aVis to look to the future and think about
+p320
+aVwhat kind of new musical things can we make
+p321
+aVthat we don't perhaps yet have names for
+p322
+aVthat's enabled by technology, but ultimately
+p323
+aVmight change the way that humans make music.
+p324
+aVAnd I'll just give you one example here,
+p325
+aVand this is Ocarina's other feature.
+p326
+aVThis is a globe,
+p327
+aVand here you're actually listening
+p328
+aVto other users of Ocarina
+p329
+aVblow into their iPhones to play something.
+p330
+aVThis is "G.I.R." from Texas,
+p331
+aV"R.I.K." I don't know why it's these three-letter names today, Los Angeles.
+p332
+aVThey're all playing pretty,
+p333
+aVsomewhat minimal music here.
+p334
+aa(lp335
+V(Music)
+p336
+aa(lp337
+VAnd the idea with this is that, well,
+p338
+aVtechnology should not be foregrounded here,
+p339
+aVand \u2014 (Laughter) \u2014
+p340
+aVwe've actually opened this up.
+p341
+aVThe first thought is that, hey, you know
+p342
+aVthere's somebody somewhere out there
+p343
+aVplaying some music,
+p344
+aVand this is a small but I think important
+p345
+aVhuman connection to make
+p346
+aVthat perhaps the technology affords.
+p347
+aa(lp348
+VAs a final example,
+p349
+aVand perhaps my favorite example,
+p350
+aVis that in the wake of the 2011 earthquake
+p351
+aVand tsunami disaster in Japan,
+p352
+aVa woman reached out in one of our singing apps
+p353
+aVto try to get people to join in to sing with her
+p354
+aVon a version of "Lean on Me."
+p355
+aVNow, in these apps, there's this thing that allows
+p356
+aVany user to add their voice
+p357
+aVto an existing performance by any other user
+p358
+aVor group of users,
+p359
+aVso in some sense, she's created this kind of
+p360
+aVglobal ad hoc corral of strangers,
+p361
+aVand within weeks, thousands of people
+p362
+aVjoined in on this,
+p363
+aVand you can kind of see people coming from all around the world
+p364
+aVand all these lines converging on the origin
+p365
+aVwhere the first rendition of the song was sung,
+p366
+aVand that's in Tokyo.
+p367
+aVAnd this is what it sounds like  when there's 1,000 people.
+p368
+aVThis is 1,000 voices.
+p369
+aa(lp370
+V(Recording) \u266a Sometimes in our lives \u266a
+p371
+aa(lp372
+V\u266a We all have pain, we all have sorrow \u266a
+p373
+aa(lp374
+V\u266a But if we are wise \u266a
+p375
+aa(lp376
+V\u266a We know that there's always tomorrow \u266a
+p377
+aa(lp378
+V\u266a Lean on me \u266a
+p379
+aa(lp380
+V\u266a When you're not strong \u266a
+p381
+aa(lp382
+V\u266a And I'll be your friend \u266a
+p383
+aa(lp384
+V\u266a I'll help you carry on \u266a
+p385
+aa(lp386
+V\u266a For it won't be long \u266a
+p387
+aa(lp388
+V\u266a Till I'm gonna need \u266a
+p389
+aa(lp390
+V\u266a Somebody to lean on \u266a
+p391
+aa(lp392
+V\u266a Just lean on \u2014 \u266a
+p393
+aa(lp394
+VIs this computer music?
+p395
+aa(lp396
+V(Applause)
+p397
+aa(lp398
+VWas that computer music?
+p399
+aVYeah, I guess so; it's something that you really
+p400
+aVcouldn't have done without computers.
+p401
+aVBut at the same time, it's also just human,
+p402
+aVand I think what I've essentially answered so far
+p403
+aVis maybe why I do the stuff that I do,
+p404
+aVand let's just finally return to the first question:
+p405
+aVWhat is computer music?
+p406
+aVAnd I think that the catch here is that,
+p407
+aVat least to me, computer music
+p408
+aVisn't really about computers.
+p409
+aVIt is about people.
+p410
+aVIt's about how we can use technology
+p411
+aVto change the way we think
+p412
+aVand do and make music,
+p413
+aVand maybe even add to how we can
+p414
+aVconnect with each other through music.
+p415
+aa(lp416
+VAnd with that, I want to say,
+p417
+aVthis is computer music, and thank you for listening.
+p418
+aa(lp419
+V(Applause)
+p420
+aasS'id'
+p421
+I2033
+sS'title'
+p422
+VThe DIY orchestra of the future
+p423
+s.

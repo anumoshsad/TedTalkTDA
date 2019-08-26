@@ -1,0 +1,480 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VCode is the next universal language.
+p4
+aVIn the seventies, it was punk music that drove the whole generation.
+p5
+aVIn the eighties, it was probably money.
+p6
+aVBut for my generation of people,
+p7
+aVsoftware is the interface to our imagination and our world.
+p8
+aVAnd that means that we need
+p9
+aVa radically, radically more diverse set of people
+p10
+aVto build those products,
+p11
+aVto not see computers as mechanical and lonely and boring and magic,
+p12
+aVto see them as things that they can tinker
+p13
+aVand turn around and twist, and so forth.
+p14
+aa(lp15
+VMy personal journey into the world of programming and technology
+p16
+aVstarted at the tender age of 14.
+p17
+aVI had this mad teenage crush on an older man,
+p18
+aVand the older man in question just happened to be
+p19
+aVthe then Vice President of the United States, Mr. Al Gore.
+p20
+aVAnd I did what every single teenage girl would want to do.
+p21
+aVI wanted to somehow express all of this love,
+p22
+aVso I built him a website, it's over here.
+p23
+aVAnd in 2001, there was no Tumblr,
+p24
+aVthere was no Facebook, there was no Pinterest.
+p25
+aVSo I needed to learn to code
+p26
+aVin order to express all of this longing and loving.
+p27
+aa(lp28
+VAnd that is how programming started for me.
+p29
+aVIt started as a means of self-expression.
+p30
+aVJust like when I was smaller, I would use crayons and legos.
+p31
+aVAnd when I was older, I would use guitar lessons and theater plays.
+p32
+aVBut then, there were other things to get excited about,
+p33
+aVlike poetry and knitting socks
+p34
+aVand conjugating French irregular verbs
+p35
+aVand coming up with make-believe worlds
+p36
+aVand Bertrand Russell and his philosophy.
+p37
+aVAnd I started to be one of those people
+p38
+aVwho felt that computers are boring and technical and lonely.
+p39
+aa(lp40
+VHere's what I think today.
+p41
+aVLittle girls don't know that they are not supposed to like computers.
+p42
+aVLittle girls are amazing.
+p43
+aVThey are really, really good at concentrating on things
+p44
+aVand being exact and they ask amazing questions like,
+p45
+aV"What?" and "Why?" and "How?" and "What if?"
+p46
+aVAnd they don't know that they are not supposed to like computers.
+p47
+aVIt's the parents who do.
+p48
+aVIt's us parents who feel
+p49
+aVlike computer science is this esoteric, weird science discipline
+p50
+aVthat only belongs to the mystery makers.
+p51
+aVThat it's almost as far removed from everyday life
+p52
+aVas, say, nuclear physics.
+p53
+aa(lp54
+VAnd they are partly right about that.
+p55
+aVThere's a lot of syntax and controls and data structures
+p56
+aVand algorithms and practices,
+p57
+aVprotocols and paradigms in programming.
+p58
+aVAnd we as a community, we've made computers smaller and smaller.
+p59
+aVWe've built layers and layers of abstraction on top of each other
+p60
+aVbetween the man and the machine
+p61
+aVto the point that we no longer have any idea how computers work
+p62
+aVor how to talk to them.
+p63
+aVAnd we do teach our kids how the human body works,
+p64
+aVwe teach them how the combustion engine functions
+p65
+aVand we even tell them that if you want to really be an astronaut
+p66
+aVyou can become one.
+p67
+aVBut when the kid comes to us and asks,
+p68
+aV"So, what is a bubble sort algorithm?"
+p69
+aVOr, "How does the computer know what happens when I press 'play,'
+p70
+aVhow does it know which video to show?"
+p71
+aVOr, "Linda, is Internet a place?"
+p72
+aVWe adults, we grow oddly silent.
+p73
+aV"It's magic," some of us say.
+p74
+aV"It's too complicated," the others say.
+p75
+aa(lp76
+VWell, it's neither.
+p77
+aVIt's not magic and it's not complicated.
+p78
+aVIt all just happened really, really, really fast.
+p79
+aVComputer scientists built these amazing, beautiful machines,
+p80
+aVbut they made them very, very foreign to us,
+p81
+aVand also the language we speak to the computers
+p82
+aVso that we don't know how to speak to the computers anymore
+p83
+aVwithout our fancy user interfaces.
+p84
+aa(lp85
+VAnd that's why no one recognized
+p86
+aVthat when I was conjugating French irregular verbs,
+p87
+aVI was actually practicing my pattern recognition skills.
+p88
+aVAnd when I was excited about knitting,
+p89
+aVI actually was following a sequence of symbolic commands
+p90
+aVthat included loops inside of them.
+p91
+aVAnd that Bertrand Russell's lifelong quest
+p92
+aVto find an exact language between English and mathematics
+p93
+aVfound its home inside of a computer.
+p94
+aVI was a programmer, but no one knew it.
+p95
+aa(lp96
+VThe kids of today, they tap, swipe and pinch their way through the world.
+p97
+aVBut unless we give them tools to build with computers,
+p98
+aVwe are raising only consumers instead of creators.
+p99
+aa(lp100
+VThis whole quest led me to this little girl.
+p101
+aVHer name is Ruby, she is six years old.
+p102
+aVShe is completely fearless, imaginative and a little bit bossy.
+p103
+aVAnd every time I would run into a problem
+p104
+aVin trying to teach myself programming like,
+p105
+aV"What is object-oriented design or what is garbage collection?",
+p106
+aVI would try to imagine how a six-year-old little girl would explain the problem.
+p107
+aa(lp108
+VAnd I wrote a book about her and I illustrated it
+p109
+aVand the things Ruby taught me go like this.
+p110
+aVRuby taught me that you're not supposed to be afraid
+p111
+aVof the bugs under your bed.
+p112
+aVAnd even the biggest of the problems
+p113
+aVare a group of tiny problems stuck together.
+p114
+aVAnd Ruby also introduced me to her friends,
+p115
+aVthe colorful side of the Internet culture.
+p116
+aVShe has friends like the Snow Leopard,
+p117
+aVwho is beautiful but doesn't want to play with the other kids.
+p118
+aVAnd she has friends like the green robots that are really friendly but super messy.
+p119
+aVAnd she has friends like Linux the penguin
+p120
+aVwho's really ruthlessly efficient, but somewhat hard to understand.
+p121
+aVAnd idealistic foxes, and so on.
+p122
+aa(lp123
+VIn Ruby's world, you learn technology through play.
+p124
+aVAnd, for instance, computers are really good at repeating stuff,
+p125
+aVso the way Ruby would teach loops goes like this.
+p126
+aVThis is Ruby's favorite dance move, it goes, "Clap, clap, stomp, stomp
+p127
+aVclap, clap and jump."
+p128
+aVAnd you learn counter loops by repeating that four times.
+p129
+aVAnd you learn while loops by repeating that sequence
+p130
+aVwhile I'm standing on one leg.
+p131
+aVAnd you learn until loops by repeating that sequence
+p132
+aVuntil mom gets really mad.
+p133
+aV(Laughter)
+p134
+aVAnd most of all, you learn that there are no ready answers.
+p135
+aa(lp136
+VWhen coming up with the curriculum for Ruby's world,
+p137
+aVI needed to really ask the kids how they see the world
+p138
+aVand what kind of questions they have
+p139
+aVand I would organize play testing sessions.
+p140
+aVI would start by showing the kids these four pictures.
+p141
+aVI would show them a picture of a car,
+p142
+aVa grocery store, a dog and a toilet.
+p143
+aVAnd I would ask, "Which one of these do you think is a computer?"
+p144
+aVAnd the kids would be very conservative and go,
+p145
+aV"None of these is a computer.
+p146
+aVI know what a computer is:
+p147
+aVit's that glowing box
+p148
+aVin front of which mom or dad spends way too much time."
+p149
+aVBut then we would talk
+p150
+aVand we would discover that actually, a car is a computer,
+p151
+aVit has a navigation system inside of it.
+p152
+aVAnd a dog \u2014 a dog might not be a computer,
+p153
+aVbut it has a collar
+p154
+aVand the collar might have a computer inside of it.
+p155
+aVAnd grocery stores, they have so many different kinds of computers,
+p156
+aVlike the cashier system and the burglar alarms.
+p157
+aVAnd kids, you know what?
+p158
+aVIn Japan, toilets are computers
+p159
+aVand there's even hackers who hack them.
+p160
+aV(Laughter)
+p161
+aa(lp162
+VAnd we go further
+p163
+aVand I give them these little stickers with an on/off button on them.
+p164
+aVAnd I tell the kids, "Today you have this magic ability
+p165
+aVto make anything in this room into a computer."
+p166
+aVAnd again, the kids go,
+p167
+aV"Sounds really hard, I don't know the right answer for this."
+p168
+aVBut I tell them, "Don't worry,
+p169
+aVyour parents don't know the right answer, either.
+p170
+aVThey've just started to hear about this thing
+p171
+aVcalled The Internet of Things.
+p172
+aVBut you kids, you are going to be the ones
+p173
+aVwho are really going to live up in a world where everything is a computer."
+p174
+aa(lp175
+VAnd then I had this little girl who came to me
+p176
+aVand took a bicycle lamp
+p177
+aVand she said, "This bicycle lamp, if it were a computer,
+p178
+aVit would change colors."
+p179
+aVAnd I said, "That's a really good idea, what else could it do?"
+p180
+aVAnd she thinks and she thinks,
+p181
+aVand she goes, "If this bicycle lamp were a computer,
+p182
+aVwe could go on a biking trip with my father
+p183
+aVand we would sleep in a tent
+p184
+aVand this biking lamp could also be a movie projector."
+p185
+aVAnd that's the moment I'm looking for,
+p186
+aVthe moment when the kid realizes
+p187
+aVthat the world is definitely not ready yet,
+p188
+aVthat a really awesome way of making the world more ready
+p189
+aVis by building technology
+p190
+aVand that each one of us can be a part of that change.
+p191
+aa(lp192
+VFinal story, we also built a computer.
+p193
+aVAnd we got to know the bossy CPU and the helpful RAM and ROM
+p194
+aVthat help it remember things.
+p195
+aVAnd after we've assembled our computer together,
+p196
+aVwe also design an application for it.
+p197
+aVAnd my favorite story is this little boy,
+p198
+aVhe's six years old
+p199
+aVand his favorite thing in the world is to be an astronaut.
+p200
+aVAnd the boy, he has these huge headphones on
+p201
+aVand he's completely immersed in his tiny paper computer
+p202
+aVbecause you see, he's built his own
+p203
+aVintergalactic planetary navigation application.
+p204
+aVAnd his father, the lone astronaut in the Martian orbit,
+p205
+aVis on the other side of the room
+p206
+aVand the boy's important mission
+p207
+aVis to bring the father safely back to earth.
+p208
+aVAnd these kids are going to have a profoundly different view of the world
+p209
+aVand the way we build it with technology.
+p210
+aa(lp211
+VFinally, the more approachable, the more inclusive,
+p212
+aVand the more diverse we make the world of technology,
+p213
+aVthe more colorful and better the world will look like.
+p214
+aVSo, imagine with me, for a moment,
+p215
+aVa world where the stories we tell
+p216
+aVabout how things get made don't only include
+p217
+aVthe twentysomething-year-old Silicon Valley boys,
+p218
+aVbut also Kenyan schoolgirls and Norwegian librarians.
+p219
+aVImagine a world where the little Ada Lovelaces of tomorrow,
+p220
+aVwho live in a permanent reality of 1s and 0s,
+p221
+aVthey grow up to be very optimistic and brave about technology.
+p222
+aVThey embrace the powers and the opportunities
+p223
+aVand the limitations of the world.
+p224
+aVA world of technology that is wonderful, whimsical
+p225
+aVand a tiny bit weird.
+p226
+aa(lp227
+VWhen I was a girl,
+p228
+aVI wanted to be a storyteller.
+p229
+aVI loved make-believe worlds
+p230
+aVand my favorite thing to do
+p231
+aVwas to wake up in the mornings in Moominvalley.
+p232
+aVIn the afternoons, I would roam around the Tatooines.
+p233
+aVAnd in the evenings, I would go to sleep in Narnia.
+p234
+aVAnd programming turned out to be the perfect profession for me.
+p235
+aVI still create worlds.
+p236
+aVInstead of stories, I do them with code.
+p237
+aa(lp238
+VProgramming gives me this amazing power
+p239
+aVto build my whole little universe
+p240
+aVwith its own rules and paradigms and practices.
+p241
+aVCreate something out of nothing with the pure power of logic.
+p242
+aa(lp243
+VThank you.
+p244
+aa(lp245
+V(Applause)
+p246
+aasS'id'
+p247
+I2417
+sS'title'
+p248
+VA delightful way to teach kids about computers
+p249
+s.

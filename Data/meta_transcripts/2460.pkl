@@ -1,0 +1,584 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIn 1962 at Rice University,
+p4
+aVJFK told the country about a dream he had,
+p5
+aVa dream to put a person on the moon by the end of the decade.
+p6
+aVThe eponymous moonshot.
+p7
+aa(lp8
+VNo one knew if it was possible to do
+p9
+aVbut he made sure a plan was put in place to do it if it was possible.
+p10
+aVThat's how great dreams are.
+p11
+aVGreat dreams aren't just visions,
+p12
+aVthey're visions coupled to strategies for making them real.
+p13
+aa(lp14
+VI have the incredible good fortune to work at a moonshot factory.
+p15
+aVAt X \u2014 formerly called Google X \u2014
+p16
+aVyou'll find an aerospace engineer working alongside a fashion designer
+p17
+aVand former military ops commanders brainstorming with laser experts.
+p18
+aVThese inventors, engineers and makers are dreaming up technologies
+p19
+aVthat we hope can make the world a wonderful place.
+p20
+aa(lp21
+VWe use the word "moonshots" to remind us to keep our visions big \u2014
+p22
+aVto keep dreaming.
+p23
+aVAnd we use the word "factory" to remind ourselves
+p24
+aVthat we want to have concrete visions \u2014
+p25
+aVconcrete plans to make them real.
+p26
+aa(lp27
+VHere's our moonshot blueprint.
+p28
+aVNumber one:
+p29
+aVwe want to find a huge problem in the world
+p30
+aVthat affects many millions of people.
+p31
+aVNumber two:
+p32
+aVwe want to find or propose a radical solution for solving that problem.
+p33
+aVAnd then number three:
+p34
+aVthere has to be some reason to believe
+p35
+aVthat the technology for such a radical solution
+p36
+aVcould actually be built.
+p37
+aa(lp38
+VBut I have a secret for you.
+p39
+aVThe moonshot factory is a messy place.
+p40
+aVBut rather than avoid the mess,
+p41
+aVpretend it's not there,
+p42
+aVwe've tried to make that our strength.
+p43
+aVWe spend most of our time breaking things
+p44
+aVand trying to prove that we're wrong.
+p45
+aVThat's it, that's the secret.
+p46
+aVRun at all the hardest parts of the problem first.
+p47
+aVGet excited and cheer,
+p48
+aV"Hey! How are we going to kill our project today?"
+p49
+aa(lp50
+VWe've got this interesting balance going
+p51
+aVwhere we allow our unchecked optimism to fuel our visions.
+p52
+aVBut then we also harness enthusiastic skepticism
+p53
+aVto breathe life, breathe reality into those visions.
+p54
+aa(lp55
+VI want to show you a few of the projects
+p56
+aVthat we've had to leave behind on the cutting room floor,
+p57
+aVand also a few of the gems
+p58
+aVthat at least so far, have not only survived that process,
+p59
+aVbut have been accelerated by it.
+p60
+aa(lp61
+VLast year we killed a project in automated vertical farming.
+p62
+aVThis is some of the lettuce that we grew.
+p63
+aVOne in nine people in the world suffers from undernourishment.
+p64
+aVSo this is a moonshot that needs to happen.
+p65
+aVVertical farming uses 10 times less water
+p66
+aVand a hundred times less land than conventional farming.
+p67
+aVAnd because you can grow the food close to where it's consumed,
+p68
+aVyou don't have to transport it large distances.
+p69
+aVWe made progress in a lot of the areas
+p70
+aVlike automated harvesting and efficient lighting.
+p71
+aVBut unfortunately,
+p72
+aVwe couldn't get staple crops like grains and rice to grow this way.
+p73
+aVSo we killed the project.
+p74
+aa(lp75
+VHere's another huge problem.
+p76
+aVWe pay enormous costs in resources and environmental damage
+p77
+aVto ship goods worldwide.
+p78
+aVEconomic development of landlocked countries
+p79
+aVis limited by lack of shipping infrastructure.
+p80
+aVThe radical solution?
+p81
+aVA lighter-than-air, variable-buoyancy cargo ship.
+p82
+aVThis has the potential to lower,
+p83
+aVat least overall,
+p84
+aVthe cost, time and carbon footprint of shipping
+p85
+aVwithout needing runways.
+p86
+aVWe came up with this clever set of technical breakthroughs
+p87
+aVthat together might make it possible for us to lower the cost enough
+p88
+aVthat we could actually make these ships \u2014
+p89
+aVinexpensively enough in volume.
+p90
+aVBut however cheap they would have been to make in volume
+p91
+aVit turned out that it was going to cost close to 200 million dollars
+p92
+aVto design and build the first one.
+p93
+aa(lp94
+V200 million dollars is just way too expensive.
+p95
+aVBecause X is structured with these tight feedback loops
+p96
+aVof making mistakes and learning and new designs,
+p97
+aVwe can't spend 200 million dollars
+p98
+aVto get the first data point
+p99
+aVabout whether we're on the right track or not.
+p100
+aVIf there's an Achilles' heel in one our projects,
+p101
+aVwe want to know it now, up front, not way down the road.
+p102
+aVSo we killed this project, too.
+p103
+aa(lp104
+VDiscovering a major flaw in a project
+p105
+aVdoesn't always mean that it ends the project.
+p106
+aVSometimes it actually gets us onto a more productive path.
+p107
+aa(lp108
+VThis is our fully self-driving vehicle prototype,
+p109
+aVwhich we built without a steering wheel or break pedal.
+p110
+aVBut that wasn't actually our goal when we started.
+p111
+aa(lp112
+VWith 1.2 million people dying on the roads globally every year,
+p113
+aVbuilding a car that drives itself was a natural moonshot to take.
+p114
+aVThree and a half years ago,
+p115
+aVwhen we had these Lexus, retrofitted, self-driving cars in testing,
+p116
+aVthey were doing so well, we gave them out to other Googlers
+p117
+aVto find out what they thought of the experience.
+p118
+aVAnd what we discovered
+p119
+aVwas that our plan to have the cars do almost all the driving
+p120
+aVand just hand over to the users in case of emergency
+p121
+aVwas a really bad plan.
+p122
+aVIt wasn't safe
+p123
+aVbecause the users didn't do their job.
+p124
+aVThey didn't stay alert
+p125
+aVin case the car needed to hand control back to them.
+p126
+aa(lp127
+VThis was a major crisis for the team.
+p128
+aVIt sent them back to the drawing board.
+p129
+aVAnd they came up with a beautiful, new perspective.
+p130
+aVAim for a car where you're truly a passenger.
+p131
+aVYou tell the car where you want to go,
+p132
+aVyou push a button
+p133
+aVand it takes you from point A to point B by itself.
+p134
+aa(lp135
+VWe're really grateful
+p136
+aVthat we had this insight as early on in the project as we did.
+p137
+aVAnd it's shaped everything we've done since then.
+p138
+aVAnd now our cars have self-driven more than 1.4 million miles,
+p139
+aVand they're out everyday
+p140
+aVon the streets of Mountain View, California and Austin, Texas.
+p141
+aa(lp142
+VThe cars team shifted their perspective.
+p143
+aVThis is one of X's mantras.
+p144
+aVSometimes shifting your perspective is more powerful than being smart.
+p145
+aa(lp146
+VTake wind energy.
+p147
+aVIt's one of my favorite examples of perspective shifting.
+p148
+aVThere's no way that we're going to build
+p149
+aVa better standard wind turbine than the experts in that industry.
+p150
+aVBut we found a way to get up higher into the sky,
+p151
+aVand so get access to faster, more consistent winds,
+p152
+aVand so more energy without needing hundreds of tons of steel to get there.
+p153
+aa(lp154
+VOur Makani energy kite rises up from its perch
+p155
+aVby spinning up those propellers along its wing.
+p156
+aVAnd it pulls out a tether as it rises,
+p157
+aVpulling energy up through the tether.
+p158
+aVOnce the tether's all the way out,
+p159
+aVit goes into crosswind circles in the sky.
+p160
+aVAnd now those propellers that lifted it up have become flying turbines.
+p161
+aVAnd that sends energy back down the tether.
+p162
+aa(lp163
+VWe haven't yet found a way to kill this project.
+p164
+aVAnd the longer it survives that pressure, the more excited we get
+p165
+aVthat this could become a cheaper and more deployable form
+p166
+aVof wind energy for the world.
+p167
+aa(lp168
+VProbably the craziest sounding project we have is Project Loon.
+p169
+aVWe're trying to make balloon-powered Internet.
+p170
+aVA network of balloons in the stratosphere
+p171
+aVthat beam an internet connection down to rural and remote areas of the world.
+p172
+aVThis could bring online as many as four billion more people,
+p173
+aVwho today have little or no internet connection.
+p174
+aa(lp175
+VBut you can't just take a cell tower,
+p176
+aVstrap it to a balloon and stick it in the sky.
+p177
+aVThe winds are too strong, it would be blown away.
+p178
+aVAnd the balloons are too high up to tie it to the ground.
+p179
+aa(lp180
+VHere comes the crazy moment.
+p181
+aVWhat if, instead,
+p182
+aVwe let the balloons drift
+p183
+aVand we taught them how to sail the winds to go where the needed to go?
+p184
+aVIt turns out the stratosphere has winds
+p185
+aVthat are going in quite different speeds and directions in thin strata.
+p186
+aVSo we hoped that using smart algorithms and wind data from around the world,
+p187
+aVwe could maneuver the balloons a bit,
+p188
+aVgetting them to go up and down just a tiny bit in the stratosphere
+p189
+aVto grab those winds going in those different directions and speeds.
+p190
+aVThe idea is to have enough balloons
+p191
+aVso as one balloon floats out of your area,
+p192
+aVthere's another balloon ready to float into place,
+p193
+aVhanding off the internet connection,
+p194
+aVjust like your phone hands off between cell towers
+p195
+aVas you drive down the freeway.
+p196
+aa(lp197
+VWe get how crazy that vision sounds \u2014
+p198
+aVthere's the name of the project to remind us of that.
+p199
+aVSo since 2012,
+p200
+aVthe Loon team has prioritized the work that seems the most difficult
+p201
+aVand so the most likely to kill their project.
+p202
+aa(lp203
+VThe first thing that they did
+p204
+aVwas try to get a Wi-Fi connection from a balloon in the stratosphere
+p205
+aVdown to an antenna on the ground.
+p206
+aVIt worked.
+p207
+aVAnd I promise you there were bets that it wasn't going to.
+p208
+aVSo we kept going.
+p209
+aa(lp210
+VCould we get the balloon to talk directly to handsets,
+p211
+aVso that we didn't need the antenna as an intermediary receiver?
+p212
+aVYeah.
+p213
+aa(lp214
+VCould we get the balloon bandwidth high enough
+p215
+aVso it was a real Internet connection?
+p216
+aVSo that people could have something more than just SMS?
+p217
+aVThe early tests weren't even a megabit per second,
+p218
+aVbut now we can do up to 15 megabits per second.
+p219
+aVEnough to watch a TED Talk.
+p220
+aa(lp221
+VCould we get the balloons to talk to each other through the sky
+p222
+aVso that we could reach our signal deeper into rural areas?
+p223
+aVCheck.
+p224
+aa(lp225
+VCould we get balloons the size of a house to stay up for more than 100 days,
+p226
+aVwhile costing less than five percent
+p227
+aVof what traditional, long-life balloons have cost to make?
+p228
+aVYes. In the end.
+p229
+aVBut I promise you, you name it, we had to try it to get there.
+p230
+aVWe made round, silvery balloons.
+p231
+aVWe made giant pillow-shaped balloons.
+p232
+aVWe made balloons the size of a blue whale.
+p233
+aVWe busted a lot of balloons.
+p234
+aa(lp235
+V(Laughter)
+p236
+aa(lp237
+VSince one of the things that was most likely to kill the Loon project
+p238
+aVwas whether we could guide the balloons through the sky,
+p239
+aVone of our most important experiments was putting a balloon inside a balloon.
+p240
+aa(lp241
+VSo there are two compartments here, one with air and then one with helium.
+p242
+aVThe balloon pumps air in to make itself heavier,
+p243
+aVor lets air out to make it lighter.
+p244
+aVAnd these weight changes allow it to rise or fall,
+p245
+aVand that simple movement of the balloon is its steering mechanism.
+p246
+aVIt floats up or down,
+p247
+aVhoping to grab winds going in the speed and direction that it wants.
+p248
+aa(lp249
+VBut is that good enough for it to navigate through the world?
+p250
+aVBarely at first,
+p251
+aVbut better all the time.
+p252
+aa(lp253
+VThis particular balloon, our latest balloon,
+p254
+aVcan navigate a two-mile vertical stretch of sky
+p255
+aVand can sail itself to within 500 meters of where it wants to go
+p256
+aVfrom 20,000 kilometers away.
+p257
+aa(lp258
+VWe have lots more to do
+p259
+aVin terms of fine-tuning the system and reducing costs.
+p260
+aVBut last year, a balloon built inexpensively
+p261
+aVwent around the world 19 times over 187 days.
+p262
+aVSo we're going to keep going.
+p263
+aa(lp264
+V(Applause)
+p265
+aa(lp266
+VOur balloons today
+p267
+aVare doing pretty much everything a complete system needs to do.
+p268
+aVWe're in discussions with telcos around the world,
+p269
+aVand we're going to fly over places like Indonesia
+p270
+aVfor real service testing this year.
+p271
+aa(lp272
+VThis probably all sounds too good to be true,
+p273
+aVand you're right.
+p274
+aVBeing audacious
+p275
+aVand working on big, risky things
+p276
+aVmakes people inherently uncomfortable.
+p277
+aa(lp278
+VYou cannot yell at people and force them to fail fast.
+p279
+aVPeople resist. They worry.
+p280
+aV"What will happen to me if I fail?
+p281
+aVWill people laugh at me?
+p282
+aVWill I be fired?"
+p283
+aa(lp284
+VI started with our secret.
+p285
+aVI'm going to leave you with how we actually make it happen.
+p286
+aVThe only way to get people to work on big, risky things \u2014
+p287
+aVaudacious ideas \u2014
+p288
+aVand have them run at all the hardest parts of the problem first,
+p289
+aVis if you make that the path of least resistance for them.
+p290
+aa(lp291
+VWe work hard at X to make it safe to fail.
+p292
+aVTeams kill their ideas as soon as the evidence is on the table
+p293
+aVbecause they're rewarded for it.
+p294
+aVThey get applause from their peers.
+p295
+aVHugs and high fives from their manager, me in particular.
+p296
+aVThey get promoted for it.
+p297
+aVWe have bonused every single person on teams that ended their projects,
+p298
+aVfrom teams as small as two to teams of more than 30.
+p299
+aa(lp300
+VWe believe in dreams at the moonshot factory.
+p301
+aVBut enthusiastic skepticism
+p302
+aVis not the enemy of boundless optimism.
+p303
+aVIt's optimism's perfect partner.
+p304
+aVIt unlocks the potential in every idea.
+p305
+aVWe can create the future that's in our dreams.
+p306
+aa(lp307
+VThank you very much.
+p308
+aa(lp309
+V(Applause)
+p310
+aasS'id'
+p311
+I2460
+sS'title'
+p312
+VThe unexpected benefit of celebrating failure
+p313
+s.

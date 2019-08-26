@@ -1,0 +1,776 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+V(Applause)
+p4
+aa(lp5
+V(Video) Announcer: Threats, in the wake of Bin Laden's death, have spiked.
+p6
+aVAnnouncer Two: Famine in Somalia. Announcer Three: Police pepper spray.
+p7
+aVAnnouncer Four: Vicious cartels. Announcer Five: Caustic cruise lines.
+p8
+aVAnnouncer Six: Societal decay. Announcer Seven: 65 dead.
+p9
+aVAnnouncer Eight: Tsunami warning. Announcer Nine: Cyberattacks.
+p10
+aVMultiple Announcers: Drug war. Mass destruction. Tornado.
+p11
+aVRecession. Default. Doomsday. Egypt. Syria.
+p12
+aVCrisis. Death. Disaster.
+p13
+aVOh, my God.
+p14
+aa(lp15
+VPeter Diamandis: So those are just a few of the clips
+p16
+aVI collected over the last six months \u2014
+p17
+aVcould have easily been the last six days
+p18
+aVor the last six years.
+p19
+aVThe point is that the news media
+p20
+aVpreferentially feeds us negative stories
+p21
+aVbecause that's what our minds pay attention to.
+p22
+aVAnd there's a very good reason for that.
+p23
+aVEvery second of every day,
+p24
+aVour senses bring in way too much data
+p25
+aVthan we can possibly process in our brains.
+p26
+aa(lp27
+VAnd because nothing is more important to us
+p28
+aVthan survival,
+p29
+aVthe first stop of all of that data
+p30
+aVis an ancient sliver of the temporal lobe
+p31
+aVcalled the amygdala.
+p32
+aVNow the amygdala is our early warning detector,
+p33
+aVour danger detector.
+p34
+aVIt sorts and scours through all of the information
+p35
+aVlooking for anything in the environment that might harm us.
+p36
+aVSo given a dozen news stories,
+p37
+aVwe will preferentially look
+p38
+aVat the negative news.
+p39
+aVAnd that old newspaper saying,
+p40
+aV"If it bleeds it leads,"
+p41
+aVis very true.
+p42
+aVSo given all of our digital devices
+p43
+aVthat are bringing all the negative news to us
+p44
+aVseven days a week, 24 hours a day,
+p45
+aVit's no wonder that we're pessimistic.
+p46
+aVIt's no wonder that people think
+p47
+aVthat the world is getting worse.
+p48
+aa(lp49
+VBut perhaps that's not the case.
+p50
+aVPerhaps instead,
+p51
+aVit's the distortions brought to us
+p52
+aVof what's really going on.
+p53
+aVPerhaps the tremendous progress we've made
+p54
+aVover the last century
+p55
+aVby a series of forces
+p56
+aVare, in fact, accelerating to a point
+p57
+aVthat we have the potential in the next three decades
+p58
+aVto create a world of abundance.
+p59
+aVNow I'm not saying
+p60
+aVwe don't have our set of problems \u2014
+p61
+aVclimate crisis, species extinction,
+p62
+aVwater and energy shortage \u2014 we surely do.
+p63
+aVAnd as humans, we are far better
+p64
+aVat seeing the problems way in advance,
+p65
+aVbut ultimately we knock them down.
+p66
+aa(lp67
+VSo let's look
+p68
+aVat what this last century has been
+p69
+aVto see where we're going.
+p70
+aVOver the last hundred years,
+p71
+aVthe average human lifespan has more than doubled,
+p72
+aVaverage per capita income adjusted for inflation
+p73
+aVaround the world has tripled.
+p74
+aVChildhood mortality
+p75
+aVhas come down a factor of 10.
+p76
+aVAdd to that the cost of food, electricity,
+p77
+aVtransportation, communication
+p78
+aVhave dropped 10 to 1,000-fold.
+p79
+aVSteve Pinker has showed us
+p80
+aVthat, in fact, we're living during the most peaceful time ever
+p81
+aVin human history.
+p82
+aVAnd Charles Kenny
+p83
+aVthat global literacy has gone from 25 percent to over 80 percent
+p84
+aVin the last 130 years.
+p85
+aVWe truly are living in an extraordinary time.
+p86
+aVAnd many people forget this.
+p87
+aa(lp88
+VAnd we keep setting our expectations higher and higher.
+p89
+aVIn fact, we redefine what poverty means.
+p90
+aVThink of this, in America today,
+p91
+aVthe majority of people under the poverty line
+p92
+aVstill have electricity, water, toilets, refrigerators,
+p93
+aVtelevision, mobile phones,
+p94
+aVair conditioning and cars.
+p95
+aVThe wealthiest robber barons of the last century, the emperors on this planet,
+p96
+aVcould have never dreamed of such luxuries.
+p97
+aa(lp98
+VUnderpinning much of this
+p99
+aVis technology,
+p100
+aVand of late,
+p101
+aVexponentially growing technologies.
+p102
+aVMy good friend Ray Kurzweil
+p103
+aVshowed that any tool that becomes an information technology
+p104
+aVjumps on this curve, on Moore's Law,
+p105
+aVand experiences price performance doubling
+p106
+aVevery 12 to 24 months.
+p107
+aVThat's why the cellphone in your pocket
+p108
+aVis literally a million times cheaper and a thousand times faster
+p109
+aVthan a supercomputer of the '70s.
+p110
+aVNow look at this curve.
+p111
+aVThis is Moore's Law over the last hundred years.
+p112
+aVI want you to notice two things from this curve.
+p113
+aVNumber one, how smooth it is \u2014
+p114
+aVthrough good time and bad time, war time and peace time,
+p115
+aVrecession, depression and boom time.
+p116
+aVThis is the result of faster computers
+p117
+aVbeing used to build faster computers.
+p118
+aVIt doesn't slow for any of our grand challenges.
+p119
+aVAnd also, even though it's plotted
+p120
+aVon a log curve on the left,
+p121
+aVit's curving upwards.
+p122
+aVThe rate at which the technology is getting faster
+p123
+aVis itself getting faster.
+p124
+aa(lp125
+VAnd on this curve, riding on Moore's Law,
+p126
+aVare a set of extraordinarily powerful technologies
+p127
+aVavailable to all of us.
+p128
+aVCloud computing,
+p129
+aVwhat my friends at Autodesk call infinite computing;
+p130
+aVsensors and networks; robotics;
+p131
+aV3D printing, which is the ability to democratize and distribute
+p132
+aVpersonalized production around the planet;
+p133
+aVsynthetic biology;
+p134
+aVfuels, vaccines and foods;
+p135
+aVdigital medicine; nanomaterials; and A.I.
+p136
+aVI mean, how many of you saw the winning of Jeopardy
+p137
+aVby IBM's Watson?
+p138
+aVI mean, that was epic.
+p139
+aVIn fact, I scoured the headlines
+p140
+aVlooking for the best headline in a newspaper I could.
+p141
+aVAnd I love this: "Watson Vanquishes Human Opponents."
+p142
+aVJeopardy's not an easy game.
+p143
+aVIt's about the nuance of human language.
+p144
+aVAnd imagine if you would
+p145
+aVA.I.'s like this on the cloud
+p146
+aVavailable to every person with a cellphone.
+p147
+aa(lp148
+VFour years ago here at TED,
+p149
+aVRay Kurzweil and I started a new university
+p150
+aVcalled Singularity University.
+p151
+aVAnd we teach our students all of these technologies,
+p152
+aVand particularly how they can be used
+p153
+aVto solve humanity's grand challenges.
+p154
+aVAnd every year we ask them
+p155
+aVto start a company or a product or a service
+p156
+aVthat can affect positively the lives of a billion people
+p157
+aVwithin a decade.
+p158
+aVThink about that, the fact that, literally, a group of students
+p159
+aVcan touch the lives of a billion people today.
+p160
+aV30 years ago that would have sounded ludicrous.
+p161
+aVToday we can point at dozens of companies
+p162
+aVthat have done just that.
+p163
+aa(lp164
+VWhen I think about creating abundance,
+p165
+aVit's not about creating a life of luxury for everybody on this planet;
+p166
+aVit's about creating a life of possibility.
+p167
+aVIt is about taking that which was scarce
+p168
+aVand making it abundant.
+p169
+aVYou see, scarcity is contextual,
+p170
+aVand technology is a resource-liberating force.
+p171
+aVLet me give you an example.
+p172
+aa(lp173
+VSo this is a story of Napoleon III
+p174
+aVin the mid-1800s.
+p175
+aVHe's the dude on the left.
+p176
+aVHe invited over to dinner
+p177
+aVthe king of Siam.
+p178
+aVAll of Napoleon's troops
+p179
+aVwere fed with silver utensils,
+p180
+aVNapoleon himself with gold utensils.
+p181
+aVBut the King of Siam,
+p182
+aVhe was fed with aluminum utensils.
+p183
+aVYou see, aluminum
+p184
+aVwas the most valuable metal on the planet,
+p185
+aVworth more than gold and platinum.
+p186
+aVIt's the reason that the tip of the Washington Monument
+p187
+aVis made of aluminum.
+p188
+aVYou see, even though aluminum
+p189
+aVis 8.3 percent of the Earth by mass,
+p190
+aVit doesn't come as a pure metal.
+p191
+aVIt's all bound by oxygen and silicates.
+p192
+aVBut then the technology of electrolysis came along
+p193
+aVand literally made aluminum so cheap
+p194
+aVthat we use it with throw-away mentality.
+p195
+aa(lp196
+VSo let's project this analogy going forward.
+p197
+aVWe think about energy scarcity.
+p198
+aVLadies and gentlemen,
+p199
+aVwe are on a planet
+p200
+aVthat is bathed with 5,000 times more energy
+p201
+aVthan we use in a year.
+p202
+aV16 terawatts of energy hits the Earth's surface
+p203
+aVevery 88 minutes.
+p204
+aVIt's not about being scarce,
+p205
+aVit's about accessibility.
+p206
+aVAnd there's good news here.
+p207
+aVFor the first time, this year
+p208
+aVthe cost of solar-generated electricity
+p209
+aVis 50 percent that of diesel-generated electricity in India \u2014
+p210
+aV8.8 rupees versus 17 rupees.
+p211
+aVThe cost of solar dropped 50 percent last year.
+p212
+aVLast month, MIT put out a study
+p213
+aVshowing that by the end of this decade,
+p214
+aVin the sunny parts of the United States,
+p215
+aVsolar electricity will be six cents a kilowatt hour
+p216
+aVcompared to 15 cents
+p217
+aVas a national average.
+p218
+aa(lp219
+VAnd if we have abundant energy,
+p220
+aVwe also have abundant water.
+p221
+aVNow we talk about water wars.
+p222
+aVDo you remember
+p223
+aVwhen Carl Sagan turned the Voyager spacecraft
+p224
+aVback towards the Earth,
+p225
+aVin 1990 after it just passed Saturn?
+p226
+aVHe took a famous photo. What was it called?
+p227
+aV"A Pale Blue Dot."
+p228
+aVBecause we live on a water planet.
+p229
+aVWe live on a planet 70 percent covered by water.
+p230
+aVYes, 97.5 percent is saltwater,
+p231
+aVtwo percent is ice,
+p232
+aVand we fight over a half a percent of the water on this planet,
+p233
+aVbut here too there is hope.
+p234
+aVAnd there is technology coming online,
+p235
+aVnot 10, 20 years from now,
+p236
+aVright now.
+p237
+aVThere's nanotechnology coming on, nanomaterials.
+p238
+aa(lp239
+VAnd the conversation I had with Dean Kamen this morning,
+p240
+aVone of the great DIY innovators,
+p241
+aVI'd like to share with you \u2014 he gave me permission to do so \u2014
+p242
+aVhis technology called Slingshot
+p243
+aVthat many of you may have heard of,
+p244
+aVit is the size of a small dorm room refrigerator.
+p245
+aVIt's able to generate
+p246
+aVa thousand liters of clean drinking water a day
+p247
+aVout of any source \u2014 saltwater, polluted water, latrine \u2014
+p248
+aVat less than two cents a liter.
+p249
+aVThe chairman of Coca-Cola has just agreed
+p250
+aVto do a major test
+p251
+aVof hundreds of units of this in the developing world.
+p252
+aVAnd if that pans out,
+p253
+aVwhich I have every confidence it will,
+p254
+aVCoca-Cola will deploy this globally
+p255
+aVto 206 countries
+p256
+aVaround the planet.
+p257
+aVThis is the kind of innovation, empowered by this technology,
+p258
+aVthat exists today.
+p259
+aa(lp260
+VAnd we've seen this in cellphones.
+p261
+aVMy goodness, we're going to hit 70 percent penetration
+p262
+aVof cellphones in the developing world
+p263
+aVby the end of 2013.
+p264
+aVThink about it,
+p265
+aVthat a Masai warrior on a cellphone in the middle of Kenya
+p266
+aVhas better mobile comm
+p267
+aVthan President Reagan did 25 years ago.
+p268
+aVAnd if they're on a smartphone on Google,
+p269
+aVthey've got access to more knowledge and information
+p270
+aVthan President Clinton did 15 years ago.
+p271
+aVThey're living in a world of information and communication abundance
+p272
+aVthat no one could have ever predicted.
+p273
+aVBetter than that,
+p274
+aVthe things that you and I
+p275
+aVspent tens and hundreds of thousands of dollars for \u2014
+p276
+aVGPS, HD video and still images,
+p277
+aVlibraries of books and music,
+p278
+aVmedical diagnostic technology \u2014
+p279
+aVare now literally dematerializing and demonetizing
+p280
+aVinto your cellphone.
+p281
+aa(lp282
+VProbably the best part of it
+p283
+aVis what's coming down the pike in health.
+p284
+aVLast month, I had the pleasure of announcing with Qualcomm Foundation
+p285
+aVsomething called the $10 million Qualcomm Tricorder X Prize.
+p286
+aVWe're challenging teams around the world
+p287
+aVto basically combine these technologies
+p288
+aVinto a mobile device
+p289
+aVthat you can speak to, because it's got A.I.,
+p290
+aVyou can cough on it, you can do a finger blood prick.
+p291
+aVAnd to win, it needs to be able to diagnose you better
+p292
+aVthan a team of board-certified doctors.
+p293
+aVSo literally, imagine this device
+p294
+aVin the middle of the developing world where there are no doctors,
+p295
+aV25 percent of the disease burden
+p296
+aVand 1.3 percent of the health care workers.
+p297
+aVWhen this device sequences an RNA or DNA virus
+p298
+aVthat it doesn't recognize,
+p299
+aVit calls the CDC
+p300
+aVand prevents the pandemic from happening in the first place.
+p301
+aa(lp302
+VBut here, here is the biggest force
+p303
+aVfor bringing about a world of abundance.
+p304
+aVI call it the rising billion.
+p305
+aVSo the white lines here are population.
+p306
+aVWe just passed the seven billion mark on Earth.
+p307
+aVAnd by the way,
+p308
+aVthe biggest protection against a population explosion
+p309
+aVis making the world educated
+p310
+aVand healthy.
+p311
+aVIn 2010,
+p312
+aVwe had just short of two billion people
+p313
+aVonline, connected.
+p314
+aVBy 2020,
+p315
+aVthat's going from two billion to five billion
+p316
+aVInternet users.
+p317
+aVThree billion new minds
+p318
+aVwho have never been heard from before
+p319
+aVare connecting to the global conversation.
+p320
+aVWhat will these people want?
+p321
+aVWhat will they consume? What will they desire?
+p322
+aVAnd rather than having economic shutdown,
+p323
+aVwe're about to have the biggest economic injection ever.
+p324
+aVThese people represent
+p325
+aVtens of trillions of dollars
+p326
+aVinjected into the global economy.
+p327
+aVAnd they will get healthier
+p328
+aVby using the Tricorder,
+p329
+aVand they'll become better educated by using the Khan Academy,
+p330
+aVand by literally being able to use
+p331
+aV3D printing and infinite computing
+p332
+aV[become] more productive than ever before.
+p333
+aa(lp334
+VSo what could three billion rising,
+p335
+aVhealthy, educated, productive members of humanity
+p336
+aVbring to us?
+p337
+aVHow about a set of voices that have never been heard from before.
+p338
+aVWhat about giving the oppressed,
+p339
+aVwherever they might be,
+p340
+aVthe voice to be heard and the voice to act
+p341
+aVfor the first time ever?
+p342
+aVWhat will these three billion people bring?
+p343
+aVWhat about contributions we can't even predict?
+p344
+aVThe one thing I've learned at the X Prize
+p345
+aVis that small teams
+p346
+aVdriven by their passion with a clear focus
+p347
+aVcan do extraordinary things,
+p348
+aVthings that large corporations and governments
+p349
+aVcould only do in the past.
+p350
+aa(lp351
+VLet me share and close with a story
+p352
+aVthat really got me excited.
+p353
+aVThere is a program that some of you might have heard of.
+p354
+aVIt's a game called Foldit.
+p355
+aVIt came out of the University of Washington in Seattle.
+p356
+aVAnd this is a game
+p357
+aVwhere individuals can actually take a sequence of amino acids
+p358
+aVand figure out how the protein is going to fold.
+p359
+aVAnd how it folds dictates its structure and its functionality.
+p360
+aVAnd it's very important for research in medicine.
+p361
+aVAnd up until now, it's been a supercomputer problem.
+p362
+aa(lp363
+VAnd this game has been played
+p364
+aVby university professors and so forth.
+p365
+aVAnd it's literally, hundreds of thousands of people
+p366
+aVcame online and started playing it.
+p367
+aVAnd it showed that, in fact, today,
+p368
+aVthe human pattern recognition machinery
+p369
+aVis better at folding proteins than the best computers.
+p370
+aVAnd when these individuals went and looked
+p371
+aVat who was the best protein folder in the world,
+p372
+aVit wasn't an MIT professor,
+p373
+aVit wasn't a CalTech student,
+p374
+aVit was a person from England, from Manchester,
+p375
+aVa woman who, during the day,
+p376
+aVwas an executive assistant at a rehab clinic
+p377
+aVand, at night, was the world's best protein folder.
+p378
+aa(lp379
+VLadies and gentlemen,
+p380
+aVwhat gives me tremendous confidence
+p381
+aVin the future
+p382
+aVis the fact that we are now more empowered as individuals
+p383
+aVto take on the grand challenges of this planet.
+p384
+aVWe have the tools with this exponential technology.
+p385
+aVWe have the passion of the DIY innovator.
+p386
+aVWe have the capital of the techno-philanthropist.
+p387
+aVAnd we have three billion new minds
+p388
+aVcoming online to work with us
+p389
+aVto solve the grand challenges,
+p390
+aVto do that which we must do.
+p391
+aVWe are living into extraordinary decades ahead.
+p392
+aa(lp393
+VThank you.
+p394
+aa(lp395
+V(Applause)
+p396
+aasS'id'
+p397
+I1375
+sS'title'
+p398
+VAbundance is our future
+p399
+s.

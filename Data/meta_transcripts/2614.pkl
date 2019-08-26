@@ -1,0 +1,312 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIn the spring of 2016,
+p4
+aVa legal battle between Apple and the Federal Bureau of Investigation
+p5
+aVcaptured the world's attention.
+p6
+aa(lp7
+VApple has built security features into its mobile products
+p8
+aVwhich protect data on its devices from everyone but the owner.
+p9
+aVThat means that criminals, hackers and yes, even governments
+p10
+aVare all locked out.
+p11
+aVFor Apple's customers, this is a great thing.
+p12
+aVBut governments are not so happy.
+p13
+aVYou see, Apple has made a conscious decision
+p14
+aVto get out of the surveillance business.
+p15
+aVApple has tried to make surveillance as difficult as possible
+p16
+aVfor governments and any other actors.
+p17
+aa(lp18
+VThere are really two smartphone operating systems
+p19
+aVin the global smartphone market:
+p20
+aViOS and Android.
+p21
+aViOS is made by Apple. Android is made by Google.
+p22
+aVApple has spent a lot of time and money
+p23
+aVto make sure that its products are as secure as possible.
+p24
+aVApple encrypts all data stored on iPhones by default,
+p25
+aVand text messages sent from one Apple customer to another Apple customer
+p26
+aVare encrypted by default
+p27
+aVwithout the user having to take any actions.
+p28
+aa(lp29
+VWhat this means is that,
+p30
+aVif the police seize an iPhone and it has a password,
+p31
+aVthey'll have a difficult time getting any data off of it,
+p32
+aVif they can do it at all.
+p33
+aVIn contrast, the security of Android just really isn't as good.
+p34
+aVAndroid phones, or at least most of the Android phones
+p35
+aVthat have been sold to consumers,
+p36
+aVdo not encrypt data stored on the device by default,
+p37
+aVand the built-in text messaging app in Android does not use encryption.
+p38
+aVSo if the police seize an Android phone,
+p39
+aVchances are, they'll be able to get all the data they want
+p40
+aVoff of that device.
+p41
+aa(lp42
+VTwo smartphones
+p43
+aVfrom two of the biggest companies in the world;
+p44
+aVone that protects data by default,
+p45
+aVand one that doesn't.
+p46
+aa(lp47
+VApple is a seller of luxury goods.
+p48
+aVIt dominates the high end of the market.
+p49
+aVAnd we would expect a manufacturer of luxury goods to have products
+p50
+aVthat include more features.
+p51
+aVBut not everyone can afford an iPhone.
+p52
+aVThat's where Android really, really dominates:
+p53
+aVat the middle and low end of the market,
+p54
+aVsmartphones for the billion and a half people
+p55
+aVwho cannot or will not spend
+p56
+aV600 dollars on a phone.
+p57
+aa(lp58
+VBut the dominance of Android has led to what I call
+p59
+aVthe "digital security divide."
+p60
+aVThat is, there is now increasingly a gap
+p61
+aVbetween the privacy and security of the rich,
+p62
+aVwho can afford devices that secure their data by default,
+p63
+aVand of the poor,
+p64
+aVwhose devices do very little to protect them by default.
+p65
+aa(lp66
+VSo, think of the average Apple customer:
+p67
+aVa banker, a lawyer, a doctor, a politician.
+p68
+aVThese individuals now increasingly have smartphones in their pockets
+p69
+aVthat encrypt their calls, their text messages,
+p70
+aVall the data on the device,
+p71
+aVwithout them doing really anything to secure their information.
+p72
+aVIn contrast, the poor and the most vulnerable in our societies
+p73
+aVare using devices that leave them completely vulnerable to surveillance.
+p74
+aa(lp75
+VIn the United States, where I live,
+p76
+aVAfrican-Americans are more likely to be seen as suspicious
+p77
+aVor more likely to be profiled,
+p78
+aVand are more likely to be targeted by the state with surveillance.
+p79
+aVBut African-Americans are also disproportionately likely
+p80
+aVto use Android devices that do nothing at all
+p81
+aVto protect them from that surveillance.
+p82
+aVThis is a problem.
+p83
+aa(lp84
+VWe must remember that surveillance is a tool.
+p85
+aVIt's a tool used by those in power
+p86
+aVagainst those who have no power.
+p87
+aVAnd while I think it's absolutely great
+p88
+aVthat companies like Apple are making it easy for people to encrypt,
+p89
+aVif the only people who can protect themselves
+p90
+aVfrom the gaze of the government
+p91
+aVare the rich and powerful,
+p92
+aVthat's a problem.
+p93
+aVAnd it's not just a privacy or a cybersecurity problem.
+p94
+aVIt's a civil rights problem.
+p95
+aa(lp96
+VSo the lack of default security in Android
+p97
+aVis not just a problem for the poor and vulnerable users
+p98
+aVwho are depending on these devices.
+p99
+aVThis is actually a problem for our democracy.
+p100
+aVI'll explain what I mean.
+p101
+aa(lp102
+VModern social movements rely on technology \u2014
+p103
+aVfrom Black Lives Matter to the Arab Spring to Occupy Wall Street.
+p104
+aVThe organizers of these movements and the members of these movements
+p105
+aVincreasingly communicate and coordinate with smartphones.
+p106
+aVAnd so, naturally governments that feel threatened by these movements
+p107
+aVwill also target the organizers and their smartphones.
+p108
+aVNow, it's quite possible
+p109
+aVthat a future Martin Luther King or a Mandela or a Gandhi
+p110
+aVwill have an iPhone and be protected from government surveillance.
+p111
+aVBut chances are,
+p112
+aVthey'll probably have a cheap, $20 Android phone in their pocket.
+p113
+aa(lp114
+VAnd so if we do nothing to address the digital security divide,
+p115
+aVif we do nothing to ensure that everyone in our society
+p116
+aVgets the same benefits of encryption
+p117
+aVand is equally able to protect themselves from surveillance by the state,
+p118
+aVnot only will the poor and vulnerable be exposed to surveillance,
+p119
+aVbut future civil rights movements may be crushed
+p120
+aVbefore they ever reach their full potential.
+p121
+aa(lp122
+VThank you.
+p123
+aa(lp124
+V(Applause)
+p125
+aa(lp126
+VHelen Walters: Chris, thank you so much.
+p127
+aVI have a question for you.
+p128
+aVWe saw recently in the press
+p129
+aVthat Mark Zuckerberg from Facebook covers over his camera
+p130
+aVand does something with his headphone mic jack.
+p131
+aVSo I wanted to ask you a personal question, which is:
+p132
+aVDo you do that?
+p133
+aVAnd, on behalf of everyone here, particularly myself,
+p134
+aVShould we be doing that?
+p135
+aVShould we be covering these things?
+p136
+aa(lp137
+VChristopher Soghoian: Putting a sticker \u2014 actually, I like Band-Aids,
+p138
+aVbecause you can remove them and put them back on
+p139
+aVwhenever you want to make a call or a Skype call.
+p140
+aVPutting a sticker over your web cam
+p141
+aVis probably the best thing you can do for your privacy
+p142
+aVin terms of bang for buck.
+p143
+aVThere really is malware, malicious software out there
+p144
+aVthat can take over your web cam,
+p145
+aVeven without the light turning on.
+p146
+aVThis is used by criminals. This is used by stalkers.
+p147
+aVYou can buy $19.99 "spy on your ex-girlfriend" software online.
+p148
+aVIt's really terrifying.
+p149
+aVAnd then, of course, it's used by governments.
+p150
+aVAnd there's obviously a sexual violence component to this,
+p151
+aVwhich is that this kind of surveillance can be used most effectively
+p152
+aVagainst women and other people who can be shamed in our society.
+p153
+aVEven if you think you have nothing to hide,
+p154
+aVat the very least, if you have children, teenagers in your lives,
+p155
+aVmake sure you put a sticker on their camera and protect them.
+p156
+aa(lp157
+VHW: Wow. Thank you so much. CS: Thank you.
+p158
+aa(lp159
+VHW: Thanks, Chris.
+p160
+aa(lp161
+V(Applause)
+p162
+aasS'id'
+p163
+I2614
+sS'title'
+p164
+VYour smartphone is a civil rights issue
+p165
+s.

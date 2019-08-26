@@ -1,0 +1,692 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo let me ask for a show of hands.
+p4
+aVHow many people here are over the age of 48?
+p5
+aVWell, there do seem to be a few.
+p6
+aa(lp7
+VWell, congratulations,
+p8
+aVbecause if you look at this particular slide of U.S. life expectancy,
+p9
+aVyou are now in excess of the average life span
+p10
+aVof somebody who was born in 1900.
+p11
+aa(lp12
+VBut look what happened in the course of that century.
+p13
+aVIf you follow that curve,
+p14
+aVyou'll see that it starts way down there.
+p15
+aVThere's that dip there for the 1918 flu.
+p16
+aVAnd here we are at 2010,
+p17
+aVaverage life expectancy of a child born today, age 79,
+p18
+aVand we are not done yet.
+p19
+aVNow, that's the good news.
+p20
+aVBut there's still a lot of work to do.
+p21
+aa(lp22
+VSo, for instance, if you ask,
+p23
+aVhow many diseases do we now know
+p24
+aVthe exact molecular basis?
+p25
+aVTurns out it's about 4,000, which is pretty amazing,
+p26
+aVbecause most of those molecular discoveries
+p27
+aVhave just happened in the last little while.
+p28
+aVIt's exciting to see that in terms of what we've learned,
+p29
+aVbut how many of those 4,000 diseases
+p30
+aVnow have treatments available?
+p31
+aVOnly about 250.
+p32
+aVSo we have this huge challenge, this huge gap.
+p33
+aa(lp34
+VYou would think this wouldn't be too hard,
+p35
+aVthat we would simply have the ability
+p36
+aVto take this fundamental information that we're learning
+p37
+aVabout how it is that basic biology teaches us
+p38
+aVabout the causes of disease
+p39
+aVand build a bridge across this yawning gap
+p40
+aVbetween what we've learned about basic science
+p41
+aVand its application,
+p42
+aVa bridge that would look maybe something like this,
+p43
+aVwhere you'd have to put together a nice shiny way
+p44
+aVto get from one side to the other.
+p45
+aa(lp46
+VWell, wouldn't it be nice if it was that easy?
+p47
+aVUnfortunately, it's not.
+p48
+aVIn reality, trying to go from fundamental knowledge
+p49
+aVto its application is more like this.
+p50
+aVThere are no shiny bridges.
+p51
+aVYou sort of place your bets.
+p52
+aVMaybe you've got a swimmer and a rowboat
+p53
+aVand a sailboat and a tugboat
+p54
+aVand you set them off on their way,
+p55
+aVand the rains come and the lightning flashes,
+p56
+aVand oh my gosh, there are sharks in the water
+p57
+aVand the swimmer gets into trouble,
+p58
+aVand, uh oh, the swimmer drowned
+p59
+aVand the sailboat capsized,
+p60
+aVand that tugboat, well, it hit the rocks,
+p61
+aVand maybe if you're lucky, somebody gets across.
+p62
+aa(lp63
+VWell, what does this really look like?
+p64
+aVWell, what is it to make a therapeutic, anyway?
+p65
+aVWhat's a drug? A drug is made up
+p66
+aVof a small molecule of hydrogen, carbon,
+p67
+aVoxygen, nitrogen, and a few other atoms
+p68
+aVall cobbled together in a shape,
+p69
+aVand it's those shapes that determine whether, in fact,
+p70
+aVthat particular drug is going to hit its target.
+p71
+aVIs it going to land where it's supposed to?
+p72
+aVSo look at this picture here \u2014 a lot of shapes dancing around for you.
+p73
+aVNow what you need to do, if you're trying to develop
+p74
+aVa new treatment for autism
+p75
+aVor Alzheimer's disease or cancer
+p76
+aVis to find the right shape in that mix
+p77
+aVthat will ultimately provide benefit and will be safe.
+p78
+aVAnd when you look at what happens to that pipeline,
+p79
+aVyou start out maybe with thousands,
+p80
+aVtens of thousands of compounds.
+p81
+aVYou weed down through various steps
+p82
+aVthat cause many of these to fail.
+p83
+aVUltimately, maybe you can run a clinical trial with four or five of these,
+p84
+aVand if all goes well, 14 years after you started,
+p85
+aVyou will get one approval.
+p86
+aVAnd it will cost you upwards of a billion dollars
+p87
+aVfor that one success.
+p88
+aa(lp89
+VSo we have to look at this pipeline the way an engineer would,
+p90
+aVand say, "How can we do better?"
+p91
+aVAnd that's the main theme of what I want to say to you this morning.
+p92
+aVHow can we make this go faster?
+p93
+aVHow can we make it more successful?
+p94
+aa(lp95
+VWell, let me tell you about a few examples
+p96
+aVwhere this has actually worked.
+p97
+aVOne that has just happened in the last few months
+p98
+aVis the successful approval of a drug for cystic fibrosis.
+p99
+aVBut it's taken a long time to get there.
+p100
+aVCystic fibrosis had its molecular cause discovered in 1989
+p101
+aVby my group working with another group in Toronto,
+p102
+aVdiscovering what the mutation was in a particular gene
+p103
+aVon chromosome 7.
+p104
+aVThat picture you see there?
+p105
+aVHere it is. That's the same kid.
+p106
+aVThat's Danny Bessette, 23 years later,
+p107
+aVbecause this is the year,
+p108
+aVand it's also the year where Danny got married,
+p109
+aVwhere we have, for the first time, the approval by the FDA
+p110
+aVof a drug that precisely targets the defect in cystic fibrosis
+p111
+aVbased upon all this molecular understanding.
+p112
+aVThat's the good news.
+p113
+aVThe bad news is, this drug doesn't actually treat all cases of cystic fibrosis,
+p114
+aVand it won't work for Danny, and we're still waiting
+p115
+aVfor that next generation to help him.
+p116
+aa(lp117
+VBut it took 23 years to get this far. That's too long.
+p118
+aVHow do we go faster?
+p119
+aa(lp120
+VWell, one way to go faster is to take advantage of technology,
+p121
+aVand a very important technology that we depend on
+p122
+aVfor all of this is the human genome,
+p123
+aVthe ability to be able to look at a chromosome,
+p124
+aVto unzip it, to pull out all the DNA,
+p125
+aVand to be able to then read out the letters in that DNA code,
+p126
+aVthe A's, C's, G's and T's
+p127
+aVthat are our instruction book and the instruction book for all living things,
+p128
+aVand the cost of doing this,
+p129
+aVwhich used to be in the hundreds of millions of dollars,
+p130
+aVhas in the course of the last 10 years
+p131
+aVfallen faster than Moore's Law, down to the point
+p132
+aVwhere it is less than 10,000 dollars today to have your genome sequenced, or mine,
+p133
+aVand we're headed for the $1,000 genome fairly soon.
+p134
+aVWell, that's exciting.
+p135
+aVHow does that play out in terms of application to a disease?
+p136
+aa(lp137
+VI want to tell you about another disorder.
+p138
+aVThis one is a disorder which is quite rare.
+p139
+aVIt's called Hutchinson-Gilford progeria,
+p140
+aVand it is the most dramatic form of premature aging.
+p141
+aVOnly about one in every four million kids has this disease,
+p142
+aVand in a simple way, what happens is,
+p143
+aVbecause of a mutation in a particular gene,
+p144
+aVa protein is made that's toxic to the cell
+p145
+aVand it causes these individuals to age
+p146
+aVat about seven times the normal rate.
+p147
+aa(lp148
+VLet me show you a video of what that does to the cell.
+p149
+aVThe normal cell, if you looked at it under the microscope,
+p150
+aVwould have a nucleus sitting in the middle of the cell,
+p151
+aVwhich is nice and round and smooth in its boundaries
+p152
+aVand it looks kind of like that.
+p153
+aVA progeria cell, on the other hand,
+p154
+aVbecause of this toxic protein called progerin,
+p155
+aVhas these lumps and bumps in it.
+p156
+aVSo what we would like to do after discovering this
+p157
+aVback in 2003
+p158
+aVis to come up with a way to try to correct that.
+p159
+aVWell again, by knowing something about the molecular pathways,
+p160
+aVit was possible to pick
+p161
+aVone of those many, many compounds that might have been useful
+p162
+aVand try it out.
+p163
+aVIn an experiment done in cell culture
+p164
+aVand shown here in a cartoon,
+p165
+aVif you take that particular compound
+p166
+aVand you add it to that cell that has progeria,
+p167
+aVand you watch to see what happened,
+p168
+aVin just 72 hours, that cell becomes,
+p169
+aVfor all purposes that we can determine,
+p170
+aValmost like a normal cell.
+p171
+aa(lp172
+VWell that was exciting, but would it actually work in a real human being?
+p173
+aVThis has led, in the space of only four years
+p174
+aVfrom the time the gene was discovered to the start of a clinical trial,
+p175
+aVto a test of that very compound.
+p176
+aVAnd the kids that you see here
+p177
+aVall volunteered to be part of this,
+p178
+aV28 of them,
+p179
+aVand you can see as soon as the picture comes up
+p180
+aVthat they are in fact a remarkable group of young people
+p181
+aVall afflicted by this disease,
+p182
+aVall looking quite similar to each other.
+p183
+aVAnd instead of telling you more about it,
+p184
+aVI'm going to invite one of them, Sam Berns from Boston,
+p185
+aVwho's here this morning, to come up on the stage
+p186
+aVand tell us about his experience
+p187
+aVas a child affected with progeria.
+p188
+aVSam is 15 years old. His parents, Scott Berns and Leslie Gordon,
+p189
+aVboth physicians, are here with us this morning as well.
+p190
+aVSam, please have a seat.
+p191
+aa(lp192
+V(Applause)
+p193
+aa(lp194
+VSo Sam, why don't you tell these folks
+p195
+aVwhat it's like being affected with this condition called progeria?
+p196
+aa(lp197
+VSam Burns: Well, progeria limits me in some ways.
+p198
+aVI cannot play sports or do physical activities,
+p199
+aVbut I have been able to take interest in things
+p200
+aVthat progeria, luckily, does not limit.
+p201
+aVBut when there is something that I really do want to do
+p202
+aVthat progeria gets in the way of, like marching band
+p203
+aVor umpiring, we always find a way to do it,
+p204
+aVand that just shows that progeria isn't in control of my life.
+p205
+aa(lp206
+V(Applause)
+p207
+aa(lp208
+VFrancis Collins: So what would you like to say to researchers
+p209
+aVhere in the auditorium and others listening to this?
+p210
+aVWhat would you say to them both about research on progeria
+p211
+aVand maybe about other conditions as well?
+p212
+aa(lp213
+VSB: Well, research on progeria has come so far
+p214
+aVin less than 15 years,
+p215
+aVand that just shows the drive that researchers can have
+p216
+aVto get this far, and it really means a lot
+p217
+aVto myself and other kids with progeria,
+p218
+aVand it shows that if that drive exists,
+p219
+aVanybody can cure any disease,
+p220
+aVand hopefully progeria can be cured in the near future,
+p221
+aVand so we can eliminate those 4,000 diseases
+p222
+aVthat Francis was talking about.
+p223
+aa(lp224
+VFC: Excellent. So Sam took the day off from school today
+p225
+aVto be here, and he is \u2014 (Applause) \u2014
+p226
+aVHe is, by the way, a straight-A+ student in the ninth grade
+p227
+aVin his school in Boston.
+p228
+aVPlease join me in thanking and welcoming Sam.
+p229
+aVSB: Thank you very much. FC: Well done. Well done, buddy.
+p230
+aV(Applause)
+p231
+aa(lp232
+VSo I just want to say a couple more things
+p233
+aVabout that particular story, and then try to generalize
+p234
+aVhow could we have stories of success
+p235
+aVall over the place for these diseases, as Sam says,
+p236
+aVthese 4,000 that are waiting for answers.
+p237
+aVYou might have noticed that the drug
+p238
+aVthat is now in clinical trial for progeria
+p239
+aVis not a drug that was designed for that.
+p240
+aVIt's such a rare disease, it would be hard for a company
+p241
+aVto justify spending hundreds of millions of dollars to generate a drug.
+p242
+aVThis is a drug that was developed for cancer.
+p243
+aVTurned out, it didn't work very well for cancer,
+p244
+aVbut it has exactly the right properties, the right shape,
+p245
+aVto work for progeria, and that's what's happened.
+p246
+aVWouldn't it be great if we could do that more systematically?
+p247
+aVCould we, in fact, encourage all the companies that are out there
+p248
+aVthat have drugs in their freezers
+p249
+aVthat are known to be safe in humans
+p250
+aVbut have never actually succeeded in terms
+p251
+aVof being effective for the treatments they were tried for?
+p252
+aVNow we're learning about all these new molecular pathways \u2014
+p253
+aVsome of those could be repositioned or repurposed,
+p254
+aVor whatever word you want to use, for new applications,
+p255
+aVbasically teaching old drugs new tricks.
+p256
+aVThat could be a phenomenal, valuable activity.
+p257
+aVWe have many discussions now between NIH and companies
+p258
+aVabout doing this that are looking very promising.
+p259
+aa(lp260
+VAnd you could expect quite a lot to come from this.
+p261
+aVThere are quite a number of success stories one can point to
+p262
+aVabout how this has led to major advances.
+p263
+aVThe first drug for HIV/AIDS
+p264
+aVwas not developed for HIV/AIDS.
+p265
+aVIt was developed for cancer. It was AZT.
+p266
+aVIt didn't work very well for cancer, but became
+p267
+aVthe first successful antiretroviral,
+p268
+aVand you can see from the table there are others as well.
+p269
+aa(lp270
+VSo how do we actually make that a more generalizable effort?
+p271
+aVWell, we have to come up with a partnership
+p272
+aVbetween academia, government, the private sector,
+p273
+aVand patient organizations to make that so.
+p274
+aVAt NIH, we have started this new
+p275
+aVNational Center for Advancing Translational Sciences.
+p276
+aVIt just started last December, and this is one of its goals.
+p277
+aa(lp278
+VLet me tell you another thing we could do.
+p279
+aVWouldn't it be nice to be able to a test a drug
+p280
+aVto see if it's effective and safe
+p281
+aVwithout having to put patients at risk,
+p282
+aVbecause that first time you're never quite sure?
+p283
+aVHow do we know, for instance, whether drugs are safe
+p284
+aVbefore we give them to people? We test them on animals.
+p285
+aVAnd it's not all that reliable, and it's costly,
+p286
+aVand it's time-consuming.
+p287
+aVSuppose we could do this instead on human cells.
+p288
+aVYou probably know, if you've been paying attention
+p289
+aVto some of the science literature
+p290
+aVthat you can now take a skin cell
+p291
+aVand encourage it to become a liver cell
+p292
+aVor a heart cell or a kidney cell or a brain cell for any of us.
+p293
+aVSo what if you used those cells as your test
+p294
+aVfor whether a drug is going to work and whether it's going to be safe?
+p295
+aa(lp296
+VHere you see a picture of a lung on a chip.
+p297
+aVThis is something created by the Wyss Institute in Boston,
+p298
+aVand what they have done here, if we can run the little video,
+p299
+aVis to take cells from an individual,
+p300
+aVturn them into the kinds of cells that are present in the lung,
+p301
+aVand determine what would happen
+p302
+aVif you added to this various drug compounds
+p303
+aVto see if they are toxic or safe.
+p304
+aVYou can see this chip even breathes.
+p305
+aVIt has an air channel. It has a blood channel.
+p306
+aVAnd it has cells in between
+p307
+aVthat allow you to see what happens when you add a compound.
+p308
+aVAre those cells happy or not?
+p309
+aVYou can do this same kind of chip technology
+p310
+aVfor kidneys, for hearts, for muscles,
+p311
+aVall the places where you want to see whether a drug
+p312
+aVis going to be a problem, for the liver.
+p313
+aa(lp314
+VAnd ultimately, because you can do this for the individual,
+p315
+aVwe could even see this moving to the point
+p316
+aVwhere the ability to develop and test medicines
+p317
+aVwill be you on a chip, what we're trying to say here is
+p318
+aVthe individualizing of the process of developing drugs
+p319
+aVand testing their safety.
+p320
+aa(lp321
+VSo let me sum up.
+p322
+aVWe are in a remarkable moment here.
+p323
+aVFor me, at NIH now for almost 20 years,
+p324
+aVthere has never been a time where there was more excitement
+p325
+aVabout the potential that lies in front of us.
+p326
+aVWe have made all these discoveries
+p327
+aVpouring out of laboratories across the world.
+p328
+aVWhat do we need to capitalize on this? First of all, we need resources.
+p329
+aVThis is research that's high-risk, sometimes high-cost.
+p330
+aVThe payoff is enormous, both in terms of health
+p331
+aVand in terms of economic growth. We need to support that.
+p332
+aVSecond, we need new kinds of partnerships
+p333
+aVbetween academia and government and the private sector
+p334
+aVand patient organizations, just like the one I've been describing here,
+p335
+aVin terms of the way in which we could go after repurposing new compounds.
+p336
+aVAnd third, and maybe most important, we need talent.
+p337
+aVWe need the best and the brightest
+p338
+aVfrom many different disciplines to come and join this effort \u2014
+p339
+aVall ages, all different groups \u2014
+p340
+aVbecause this is the time, folks.
+p341
+aVThis is the 21st-century biology that you've been waiting for,
+p342
+aVand we have the chance to take that
+p343
+aVand turn it into something which will, in fact,
+p344
+aVknock out disease. That's my goal.
+p345
+aVI hope that's your goal.
+p346
+aVI think it'll be the goal of the poets and the muppets
+p347
+aVand the surfers and the bankers
+p348
+aVand all the other people who join this stage
+p349
+aVand think about what we're trying to do here
+p350
+aVand why it matters.
+p351
+aVIt matters for now. It matters as soon as possible.
+p352
+aVIf you don't believe me, just ask Sam.
+p353
+aa(lp354
+VThank you all very much.
+p355
+aa(lp356
+V(Applause)
+p357
+aasS'id'
+p358
+I1696
+sS'title'
+p359
+VWe need better drugs -- now
+p360
+s.

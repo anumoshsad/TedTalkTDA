@@ -1,0 +1,693 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VGood afternoon, everybody.
+p4
+aVI've got something to show you.
+p5
+aV(Laughter)
+p6
+aVThink about this as a pixel, a flying pixel.
+p7
+aVThis is what we call, in our lab, sensible design.
+p8
+aVLet me tell you a bit about it.
+p9
+aVNow if you take this picture \u2014 I'm Italian originally,
+p10
+aVand every boy in Italy grows up
+p11
+aVwith this picture on the wall of his bedroom \u2014
+p12
+aVbut the reason I'm showing you this
+p13
+aVis that something very interesting
+p14
+aVhappened in Formula 1 racing
+p15
+aVover the past couple of decades.
+p16
+aVNow some time ago,
+p17
+aVif you wanted to win a Formula 1 race,
+p18
+aVyou take a budget, and you bet your budget
+p19
+aVon a good driver and a good car.
+p20
+aVAnd if the car and the driver were good enough, then you'd win the race.
+p21
+aVNow today, if you want to win the race,
+p22
+aVactually you need also something like this \u2014
+p23
+aVsomething that monitors the car in real time,
+p24
+aVhas a few thousand sensors
+p25
+aVcollecting information from the car,
+p26
+aVtransmitting this information into the system,
+p27
+aVand then processing it
+p28
+aVand using it in order to go back to the car with decisions
+p29
+aVand changing things in real time
+p30
+aVas information is collected.
+p31
+aVThis is what, in engineering terms,
+p32
+aVyou would call a real time control system.
+p33
+aVAnd basically, it's a system made of two components \u2014
+p34
+aVa sensing and an actuating component.
+p35
+aa(lp36
+VWhat is interesting today
+p37
+aVis that real time control systems
+p38
+aVare starting to enter into our lives.
+p39
+aVOur cities, over the past few years,
+p40
+aVjust have been blanketed
+p41
+aVwith networks, electronics.
+p42
+aVThey're becoming like computers in open air.
+p43
+aVAnd, as computers in open air,
+p44
+aVthey're starting to respond in a different way
+p45
+aVto be able to be sensed and to be actuated.
+p46
+aVIf we fix cities, actually it's a big deal.
+p47
+aVJust as an aside, I wanted to mention,
+p48
+aVcities are only two percent of the Earth's crust,
+p49
+aVbut they are 50 percent of the world's population.
+p50
+aVThey are 75 percent of the energy consumption \u2014
+p51
+aVup to 80 percent of CO2 emissions.
+p52
+aVSo if we're able to do something with cities, that's a big deal.
+p53
+aVBeyond cities,
+p54
+aVall of this sensing and actuating
+p55
+aVis entering our everyday objects.
+p56
+aa(lp57
+VThat's from an exhibition that
+p58
+aVPaola Antonelli is organizing
+p59
+aVat MoMA later this year, during the summer.
+p60
+aVIt's called "Talk to Me."
+p61
+aVWell our objects, our environment
+p62
+aVis starting to talk back to us.
+p63
+aVIn a certain sense, it's almost as if every atom out there
+p64
+aVwere becoming both a sensor and an actuator.
+p65
+aVAnd that is radically changing the interaction we have as humans
+p66
+aVwith the environment out there.
+p67
+aVIn a certain sense,
+p68
+aVit's almost as if the old dream of Michelangelo ...
+p69
+aVyou know, when Michelangelo sculpted the Moses,
+p70
+aVat the end it said that he took the hammer, threw it at the Moses \u2014
+p71
+aVactually you can still see a small chip underneath \u2014
+p72
+aVand said, shouted,
+p73
+aV"Perché non parli? Why don't you talk?"
+p74
+aVWell today, for the first time,
+p75
+aVour environment is starting to talk back to us.
+p76
+aVAnd I'll show just a few examples \u2014
+p77
+aVagain, with this idea of sensing our environment and actuating it.
+p78
+aa(lp79
+VLet's starting with sensing.
+p80
+aVWell, the first project I wanted to share with you
+p81
+aVis actually one of the first projects by our lab.
+p82
+aVIt was four and a half years ago in Italy.
+p83
+aVAnd what we did there
+p84
+aVwas actually use a new type of network at the time
+p85
+aVthat had been deployed all across the world \u2014
+p86
+aVthat's a cellphone network \u2014
+p87
+aVand use anonymous and aggregated information from that network,
+p88
+aVthat's collected anyway by the operator,
+p89
+aVin order to understand
+p90
+aVhow the city works.
+p91
+aVThe summer was a lucky summer \u2014 2006.
+p92
+aVIt's when Italy won the soccer World Cup.
+p93
+aVSome of you might remember, it was Italy and France playing,
+p94
+aVand then Zidane at the end, the headbutt.
+p95
+aVAnd anyway, Italy won at the end.
+p96
+aa(lp97
+V(Laughter)
+p98
+aa(lp99
+VNow look at what happened that day
+p100
+aVjust by monitoring activity
+p101
+aVhappening on the network.
+p102
+aVHere you see the city.
+p103
+aVYou see the Colosseum in the middle,
+p104
+aVthe river Tiber.
+p105
+aVIt's morning, before the match.
+p106
+aVYou see the timeline on the top.
+p107
+aVEarly afternoon,
+p108
+aVpeople here and there,
+p109
+aVmaking calls and moving.
+p110
+aVThe match begins \u2014 silence.
+p111
+aVFrance scores. Italy scores.
+p112
+aVHalftime, people make a quick call and go to the bathroom.
+p113
+aVSecond half. End of normal time.
+p114
+aVFirst overtime, second.
+p115
+aVZidane, the headbutt in a moment.
+p116
+aVItaly wins. Yeah.
+p117
+aV(Laughter)
+p118
+aV(Applause)
+p119
+aVWell, that night, everybody went to celebrate in the center.
+p120
+aVYou saw the big peak.
+p121
+aVThe following day, again everybody went to the center
+p122
+aVto meet the winning team
+p123
+aVand the prime minister at the time.
+p124
+aVAnd then everybody moved down.
+p125
+aVYou see the image of the place called Circo Massimo,
+p126
+aVwhere, since Roman times, people go to celebrate,
+p127
+aVto have a big party, and you see the peak at the end of the day.
+p128
+aVWell, that's just one example of how we can sense the city today
+p129
+aVin a way that we couldn't have done
+p130
+aVjust a few years ago.
+p131
+aa(lp132
+VAnother quick example about sensing:
+p133
+aVit's not about people,
+p134
+aVbut about things we use and consume.
+p135
+aVWell today, we know everything
+p136
+aVabout where our objects come from.
+p137
+aVThis is a map that shows you
+p138
+aVall the chips that form a Mac computer, how they came together.
+p139
+aVBut we know very little about where things go.
+p140
+aVSo in this project,
+p141
+aVwe actually developed some small tags
+p142
+aVto track trash as it moves through the system.
+p143
+aVSo we actually started with a number of volunteers
+p144
+aVwho helped us in Seattle,
+p145
+aVjust over a year ago,
+p146
+aVto tag what they were throwing away \u2014
+p147
+aVdifferent types of things, as you can see here \u2014
+p148
+aVthings they would throw away anyway.
+p149
+aVThen we put a little chip, little tag,
+p150
+aVonto the trash
+p151
+aVand then started following it.
+p152
+aVHere are the results we just obtained.
+p153
+aa(lp154
+V(Music)
+p155
+aa(lp156
+VFrom Seattle ...
+p157
+aVafter one week.
+p158
+aVWith this information we realized
+p159
+aVthere's a lot of inefficiencies in the system.
+p160
+aVWe can actually do the same thing with much less energy.
+p161
+aVThis data was not available before.
+p162
+aVBut there's a lot of wasted transportation and convoluted things happening.
+p163
+aVBut the other thing is that we believe
+p164
+aVthat if we see every day
+p165
+aVthat the cup we're throwing away, it doesn't disappear,
+p166
+aVit's still somewhere on the planet.
+p167
+aVAnd the plastic bottle we're throwing away every day still stays there.
+p168
+aVAnd if we show that to people,
+p169
+aVthen we can also promote some behavioral change.
+p170
+aVSo that was the reason for the project.
+p171
+aa(lp172
+VMy colleague at MIT, Assaf Biderman,
+p173
+aVhe could tell you much more about sensing
+p174
+aVand many other wonderful things we can do with sensing,
+p175
+aVbut I wanted to go to the second part we discussed at the beginning,
+p176
+aVand that's actuating our environment.
+p177
+aVAnd the first project
+p178
+aVis something we did a couple of years ago in Zaragoza, Spain.
+p179
+aVIt started with a question by the mayor of the city,
+p180
+aVwho came to us saying
+p181
+aVthat Spain and Southern Europe have a beautiful tradition
+p182
+aVof using water in public space, in architecture.
+p183
+aVAnd the question was: How could technology, new technology,
+p184
+aVbe added to that?
+p185
+aVAnd one of the ideas that was developed at MIT in a workshop
+p186
+aVwas, imagine this pipe, and you've got valves,
+p187
+aVsolenoid valves, taps,
+p188
+aVopening and closing.
+p189
+aVYou create like a water curtain with pixels made of water.
+p190
+aVIf those pixels fall,
+p191
+aVyou can write on it,
+p192
+aVyou can show patterns, images, text.
+p193
+aVAnd even you can approach it, and it will open up
+p194
+aVto let you jump through,
+p195
+aVas you see in this image.
+p196
+aa(lp197
+VWell, we presented this to Mayor Belloch.
+p198
+aVHe liked it very much.
+p199
+aVAnd we got a commission to design a building
+p200
+aVat the entrance of the expo.
+p201
+aVWe called it Digital Water Pavilion.
+p202
+aVThe whole building is made of water.
+p203
+aVThere's no doors or windows,
+p204
+aVbut when you approach it,
+p205
+aVit will open up to let you in.
+p206
+aV(Music)
+p207
+aVThe roof also is covered with water.
+p208
+aVAnd if there's a bit of wind,
+p209
+aVif you want to minimize splashing, you can actually lower the roof.
+p210
+aVOr you could close the building,
+p211
+aVand the whole architecture will disappear,
+p212
+aVlike in this case.
+p213
+aVYou know, these days, you always get images during the winter,
+p214
+aVwhen they take the roof down,
+p215
+aVof people who have been there and said, "They demolished the building."
+p216
+aVNo, they didn't demolish it, just when it goes down,
+p217
+aVthe architecture almost disappears.
+p218
+aVHere's the building working.
+p219
+aVYou see the person puzzled about what was going on inside.
+p220
+aVAnd here was myself trying not to get wet,
+p221
+aVtesting the sensors that open the water.
+p222
+aa(lp223
+VWell, I should tell you now what happened one night
+p224
+aVwhen all of the sensors stopped working.
+p225
+aVBut actually that night, it was even more fun.
+p226
+aVAll the kids from Zaragoza came to the building,
+p227
+aVbecause the way of engaging with the building became something different.
+p228
+aVNot anymore a building that would open up to let you in,
+p229
+aVbut a building that would still make cuts and holes through the water,
+p230
+aVand you had to jump without getting wet.
+p231
+aa(lp232
+V(Video) (Crowd Noise)
+p233
+aa(lp234
+VAnd that was, for us, was very interesting,
+p235
+aVbecause, as architects, as engineers, as designers,
+p236
+aVwe always think about how people will use the things we design.
+p237
+aVBut then reality's always unpredictable.
+p238
+aVAnd that's the beauty of doing things
+p239
+aVthat are used and interact with people.
+p240
+aa(lp241
+VHere is an image then of the building
+p242
+aVwith the physical pixels, the pixels made of water,
+p243
+aVand then projections on them.
+p244
+aVAnd this is what led us to think about
+p245
+aVthe following project I'll show you now.
+p246
+aVThat's, imagine those pixels could actually start flying.
+p247
+aVImagine you could have small helicopters
+p248
+aVthat move in the air,
+p249
+aVand then each of them with a small pixel in changing lights \u2014
+p250
+aValmost as a cloud that can move in space.
+p251
+aVHere is the video.
+p252
+aa(lp253
+V(Music)
+p254
+aa(lp255
+VSo imagine one helicopter,
+p256
+aVlike the one we saw before,
+p257
+aVmoving with others,
+p258
+aVin synchrony.
+p259
+aVSo you can have this cloud.
+p260
+aVYou can have a kind of flexible screen or display, like this \u2014
+p261
+aVa regular configuration in two dimensions.
+p262
+aVOr in regular, but in three dimensions,
+p263
+aVwhere the thing that changes is the light,
+p264
+aVnot the pixels' position.
+p265
+aVYou can play with a different type.
+p266
+aVImagine your screen could just appear
+p267
+aVin different scales or sizes,
+p268
+aVdifferent types of resolution.
+p269
+aVBut then the whole thing can be
+p270
+aVjust a 3D cloud of pixels
+p271
+aVthat you can approach and move through it
+p272
+aVand see from many, many directions.
+p273
+aVHere is the real Flyfire
+p274
+aVcontrol and going down to form the regular grid as before.
+p275
+aVWhen you turn on the light, actually you see this. So the same as we saw before.
+p276
+aVAnd imagine each of them then controlled by people.
+p277
+aVYou can have each pixel
+p278
+aVhaving an input that comes from people,
+p279
+aVfrom people's movement, or so and so.
+p280
+aa(lp281
+VI want to show you something here for the first time.
+p282
+aVWe've been working with Roberto Bolle,
+p283
+aVone of today's top ballet dancers \u2014
+p284
+aVthe étoile at Metropolitan in New York
+p285
+aVand La Scala in Milan \u2014
+p286
+aVand actually captured his movement in 3D
+p287
+aVin order to use it as an input for Flyfire.
+p288
+aVAnd here you can see Roberto dancing.
+p289
+aVYou see on the left the pixels,
+p290
+aVthe different resolutions being captured.
+p291
+aVIt's both 3D scanning in real time
+p292
+aVand motion capture.
+p293
+aVSo you can reconstruct a whole movement.
+p294
+aVYou can go all the way through.
+p295
+aVBut then, once we have the pixels, then you can play with them
+p296
+aVand play with color and movement
+p297
+aVand gravity and rotation.
+p298
+aVSo we want to use this as one of the possible inputs
+p299
+aVfor Flyfire.
+p300
+aa(lp301
+VI wanted to show you the last project we are working on.
+p302
+aVIt's something we're working on for the London Olympics.
+p303
+aVIt's called The Cloud.
+p304
+aVAnd the idea here is, imagine, again,
+p305
+aVwe can involve people
+p306
+aVin doing something and changing our environment \u2014
+p307
+aValmost to impart what we call cloud raising \u2014
+p308
+aVlike barn raising, but with a cloud.
+p309
+aVImagine you can have everybody make a small donation for one pixel.
+p310
+aVAnd I think what is remarkable
+p311
+aVthat has happened over the past couple of years
+p312
+aVis that, over the past couple of decades,
+p313
+aVwe went from the physical world to the digital one.
+p314
+aVThis has been digitizing everything, knowledge,
+p315
+aVand making that accessible through the Internet.
+p316
+aa(lp317
+VNow today, for the first time \u2014
+p318
+aVand the Obama campaign showed us this \u2014
+p319
+aVwe can go from the digital world,
+p320
+aVfrom the self-organizing power of networks,
+p321
+aVto the physical one.
+p322
+aVThis can be, in our case,
+p323
+aVwe want to use it for designing and doing a symbol.
+p324
+aVThat means something built in a city.
+p325
+aVBut tomorrow it can be,
+p326
+aVin order to tackle today's pressing challenges \u2014
+p327
+aVthink about climate change or CO2 emissions \u2014
+p328
+aVhow we can go from the digital world to the physical one.
+p329
+aVSo the idea that we can actually involve people
+p330
+aVin doing this thing together, collectively.
+p331
+aa(lp332
+VThe cloud is a cloud, again, made of pixels,
+p333
+aVin the same way as the real cloud
+p334
+aVis a cloud made of particles.
+p335
+aVAnd those particles are water,
+p336
+aVwhere our cloud is a cloud of pixels.
+p337
+aVIt's a physical structure in London, but covered with pixels.
+p338
+aVYou can move inside, have different types of experiences.
+p339
+aVYou can actually see from underneath,
+p340
+aVsharing the main moments
+p341
+aVfor the Olympics in 2012 and beyond,
+p342
+aVand really using it as a way to connect with the community.
+p343
+aVSo both the physical cloud in the sky
+p344
+aVand something you can go to the top [of],
+p345
+aVlike London's new mountaintop.
+p346
+aVYou can enter inside it.
+p347
+aVAnd a kind of new digital beacon for the night \u2014
+p348
+aVbut most importantly,
+p349
+aVa new type of experience for anybody who will go to the top.
+p350
+aa(lp351
+VThank you.
+p352
+aa(lp353
+V(Applause)
+p354
+aasS'id'
+p355
+I1137
+sS'title'
+p356
+VArchitecture that senses and responds
+p357
+s.

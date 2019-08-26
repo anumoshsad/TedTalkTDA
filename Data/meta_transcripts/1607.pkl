@@ -1,0 +1,450 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo, people want a lot of things out of life,
+p4
+aVbut I think, more than anything else, they want happiness.
+p5
+aVAristotle called happiness "the chief good," the end
+p6
+aVtowards which all other things aim.
+p7
+aVAccording to this view, the reason we want a big house
+p8
+aVor a nice car
+p9
+aVor a good job
+p10
+aVisn't that these things are intrinsically valuable.
+p11
+aVIt's that we expect them to bring us
+p12
+aVhappiness.
+p13
+aa(lp14
+VNow in the last 50 years, we Americans have gotten
+p15
+aVa lot of the things that we want. We're richer.
+p16
+aVWe live longer. We have access to technology
+p17
+aVthat would have seemed like science fiction
+p18
+aVjust a few years ago.
+p19
+aVThe paradox of happiness is that even though the
+p20
+aVobjective conditions of our lives have improved dramatically,
+p21
+aVwe haven't actually gotten any happier.
+p22
+aa(lp23
+VMaybe because these conventional notions of progress
+p24
+aVhaven't delivered big benefits in terms of happiness,
+p25
+aVthere's been an increased interest in recent years
+p26
+aVin happiness itself.
+p27
+aVPeople have been debating the causes of happiness
+p28
+aVfor a really long time, in fact for thousands of years,
+p29
+aVbut it seems like many of those debates remain unresolved.
+p30
+aVWell, as with many other domains in life, I think
+p31
+aVthe scientific method has the potential to answer this question.
+p32
+aVIn fact, in the last few years, there's been an explosion
+p33
+aVin research on happiness. For example, we've learned a lot
+p34
+aVabout its demographics, how things like income
+p35
+aVand education, gender and marriage relate to it.
+p36
+aVBut one of the puzzles this has revealed is that
+p37
+aVfactors like these don't seem to have a particularly strong effect.
+p38
+aVYes, it's better to make more money rather than less,
+p39
+aVor to graduate from college instead of dropping out,
+p40
+aVbut the differences in happiness tend to be small.
+p41
+aa(lp42
+VWhich leaves the question, what are the big causes of happiness?
+p43
+aVI think that's a question we haven't really answered yet,
+p44
+aVbut I think something that has the potential to be an answer
+p45
+aVis that maybe happiness has an awful lot to do with
+p46
+aVthe contents of our moment-to-moment experiences.
+p47
+aVIt certainly seems that we're going about our lives,
+p48
+aVthat what we're doing, who we're with, what we're thinking about,
+p49
+aVhave a big influence on our happiness, and yet
+p50
+aVthese are the very factors that have been very difficult,
+p51
+aVin fact almost impossible, for scientists to study.
+p52
+aa(lp53
+VA few years ago, I came up with a way to study people's happiness
+p54
+aVmoment to moment as they're going about their daily lives
+p55
+aVon a massive scale all over the world, something we'd never
+p56
+aVbeen able to do before. Called trackyourhappiness.org,
+p57
+aVit uses the iPhone to monitor people's happiness in real time.
+p58
+aVHow does this work? Basically, I send people signals
+p59
+aVat random points throughout the day, and then I ask them
+p60
+aVa bunch of questions about their moment-to-moment experience
+p61
+aVat the instant just before the signal.
+p62
+aVThe idea is that, if we can watch how people's happiness
+p63
+aVgoes up and down over the course of the day,
+p64
+aVminute to minute in some cases,
+p65
+aVand try to understand how what people are doing,
+p66
+aVwho they're with, what they're thinking about, and all
+p67
+aVthe other factors that describe our day, how those might
+p68
+aVrelate to those changes in happiness, we might be able
+p69
+aVto discover some of the things that really have
+p70
+aVa big influence on happiness.
+p71
+aVWe've been fortunate with this project to collect
+p72
+aVquite a lot of data, a lot more data of this kind than I think
+p73
+aVhas ever been collected before,
+p74
+aVover 650,000 real-time reports
+p75
+aVfrom over 15,000 people.
+p76
+aVAnd it's not just a lot of people, it's a really diverse group,
+p77
+aVpeople from a wide range of ages, from 18 to late 80s,
+p78
+aVa wide range of incomes, education levels,
+p79
+aVpeople who are married, divorced, widowed, etc.
+p80
+aVThey collectively represent every one of
+p81
+aV86 occupational categories and hail from over 80 countries.
+p82
+aa(lp83
+VWhat I'd like to do with the rest of my time with you today
+p84
+aVis talk a little bit about one of the areas that we've been
+p85
+aVinvestigating, and that's mind-wandering.
+p86
+aVAs human beings, we have this unique ability
+p87
+aVto have our minds stray away from the present.
+p88
+aVThis guy is sitting here working on his computer,
+p89
+aVand yet he could be thinking about
+p90
+aVthe vacation he had last month,
+p91
+aVwondering what he's going to have for dinner.
+p92
+aVMaybe he's worried that he's going bald. (Laughter)
+p93
+aVThis ability to focus our attention on something other
+p94
+aVthan the present is really amazing. It allows us to learn
+p95
+aVand plan and reason in ways that no other species of animal can.
+p96
+aVAnd yet it's not clear what the relationship is
+p97
+aVbetween our use of this ability and our happiness.
+p98
+aVYou've probably heard people suggest that you should
+p99
+aVstay focused on the present. "Be here now,"
+p100
+aVyou've probably heard a hundred times.
+p101
+aVMaybe, to really be happy, we need to stay completely
+p102
+aVimmersed and focused on our experience in the moment.
+p103
+aVMaybe these people are right. Maybe mind-wandering
+p104
+aVis a bad thing.
+p105
+aVOn the other hand, when our minds wander,
+p106
+aVthey're unconstrained. We can't change the physical reality
+p107
+aVin front of us, but we can go anywhere in our minds.
+p108
+aVSince we know people want to be happy, maybe
+p109
+aVwhen our minds wander, they're going to someplace happier than the place
+p110
+aVthat they're leaving. It would make a lot of sense.
+p111
+aVIn other words, maybe the pleasures of the mind
+p112
+aVallow us to increase our happiness with mind-wandering.
+p113
+aa(lp114
+VWell, since I'm a scientist, I'd like to try to
+p115
+aVresolve this debate with some data, and in particular
+p116
+aVI'd like to present some data to you from three questions
+p117
+aVthat I ask with Track Your Happiness. Remember, this is from
+p118
+aVsort of moment-to-moment experience in people's real lives.
+p119
+aVThere are three questions. The first one is a happiness question:
+p120
+aVHow do you feel, on a scale ranging from very bad
+p121
+aVto very good? Second, an activity question:
+p122
+aVWhat are you doing, on a list of 22 different activities
+p123
+aVincluding things like eating and working and watching TV?
+p124
+aVAnd finally a mind-wandering question:
+p125
+aVAre you thinking about something other
+p126
+aVthan what you're currently doing?
+p127
+aVPeople could say no \u2014 in other words, I'm focused only on my task \u2014
+p128
+aVor yes \u2014 I am thinking about something else \u2014
+p129
+aVand the topic of those thoughts are pleasant,
+p130
+aVneutral or unpleasant.
+p131
+aVAny of those yes responses are what we called mind-wandering.
+p132
+aa(lp133
+VSo what did we find?
+p134
+aVThis graph shows happiness on the vertical axis,
+p135
+aVand you can see that bar there representing how happy
+p136
+aVpeople are when they're focused on the present,
+p137
+aVwhen they're not mind-wandering.
+p138
+aVAs it turns out, people are substantially less happy
+p139
+aVwhen their minds are wandering than when they're not.
+p140
+aVNow you might look at this result and say, okay, sure,
+p141
+aVon average people are less happy when they're mind-wandering,
+p142
+aVbut surely when their minds are straying away
+p143
+aVfrom something that wasn't very enjoyable to begin with,
+p144
+aVat least then mind-wandering should be doing something good for us.
+p145
+aVNope. As it turns out,
+p146
+aVpeople are less happy when they're mind-wandering
+p147
+aVno matter what they're doing. For example,
+p148
+aVpeople don't really like commuting to work very much.
+p149
+aVIt's one of their least enjoyable activities, and yet
+p150
+aVthey are substantially happier when they're focused
+p151
+aVonly on their commute than when their mind is going
+p152
+aVoff to something else.
+p153
+aVIt's amazing.
+p154
+aa(lp155
+VSo how could this be happening? I think part of the reason,
+p156
+aVa big part of the reason, is that when our minds wander,
+p157
+aVwe often think about unpleasant things, and they are
+p158
+aVenormously less happy when they do that,
+p159
+aVour worries, our anxieties, our regrets,
+p160
+aVand yet even when people are thinking about something
+p161
+aVneutral, they're still considerably less happy
+p162
+aVthan when they're not mind-wandering at all.
+p163
+aVEven when they're thinking about something they would describe as pleasant,
+p164
+aVthey're actually just slightly less happy
+p165
+aVthan when they aren't mind-wandering.
+p166
+aVIf mind-wandering were a slot machine, it would be like
+p167
+aVhaving the chance to lose 50 dollars, 20 dollars
+p168
+aVor one dollar. Right? You'd never want to play. (Laughter)
+p169
+aa(lp170
+VSo I've been talking about this, suggesting, perhaps,
+p171
+aVthat mind-wandering causes unhappiness, but all
+p172
+aVI've really shown you is that these two things are correlated.
+p173
+aVIt's possible that's the case, but it might also be the case
+p174
+aVthat when people are unhappy, then they mind-wander.
+p175
+aVMaybe that's what's really going on. How could we ever
+p176
+aVdisentangle these two possibilites?
+p177
+aVWell, one fact that we can take advantage of, I think a fact
+p178
+aVyou'll all agree is true, is that time goes forward, not
+p179
+aVbackward. Right? The cause has to come before the effect.
+p180
+aVWe're lucky in this data we have many responses from each person,
+p181
+aVand so we can look and see, does mind-wandering
+p182
+aVtend to precede unhappiness, or does unhappiness
+p183
+aVtend to precede mind-wandering, to get some insight
+p184
+aVinto the causal direction.
+p185
+aVAs it turns out, there is a strong relationship between
+p186
+aVmind-wandering now and being unhappy a short time later,
+p187
+aVconsistent with the idea that mind-wandering is causing people to be unhappy.
+p188
+aVIn contrast, there's no relationship between being unhappy
+p189
+aVnow and mind-wandering a short time later.
+p190
+aVIn other words, mind-wandering very likely seems to be
+p191
+aVan actual cause, and not merely a consequence, of unhappiness.
+p192
+aa(lp193
+VA few minutes ago, I likened mind-wandering
+p194
+aVto a slot machine you'd never want to play.
+p195
+aVWell, how often do people's minds wander?
+p196
+aVTurns out, they wander a lot. In fact, really a lot.
+p197
+aVForty-seven percent of the time, people are thinking
+p198
+aVabout something other than what they're currently doing.
+p199
+aVHow does that depend on what people are doing?
+p200
+aVThis shows the rate of mind-wandering across 22 activities
+p201
+aVranging from a high of 65 percent \u2014 (Laughter) \u2014
+p202
+aVwhen people are taking a shower, brushing their teeth,
+p203
+aVto 50 percent when they're working,
+p204
+aVto 40 percent when they're exercising,
+p205
+aVall the way down to this one short bar on the right
+p206
+aVthat I think some of you are probably laughing at.
+p207
+aVTen percent of the time people's minds are wandering
+p208
+aVwhen they're having sex. (Laughter)
+p209
+aVBut there's something I think that's quite interesting in this graph,
+p210
+aVand that is, basically with one exception,
+p211
+aVno matter what people are doing, they're mind-wandering
+p212
+aVat least 30 percent of the time, which suggests, I think,
+p213
+aVthat mind-wandering isn't just frequent, it's ubiquitous.
+p214
+aVIt pervades basically everything that we do.
+p215
+aa(lp216
+VIn my talk today, I've told you a little bit about mind-wandering,
+p217
+aVa variable that I think turns out to be fairly important
+p218
+aVin the equation for happiness.
+p219
+aVMy hope is that over time, by tracking people's
+p220
+aVmoment-to-moment happiness and their experiences
+p221
+aVin daily life, we'll be able to uncover a lot of important causes of happiness,
+p222
+aVand then in the end, a scientific understanding of happiness
+p223
+aVwill help us create a future that's not only richer
+p224
+aVand healthier, but happier as well.
+p225
+aVThank you. (Applause)
+p226
+aV(Applause)
+p227
+aasS'id'
+p228
+I1607
+sS'title'
+p229
+VWant to be happier? Stay in the moment
+p230
+s.

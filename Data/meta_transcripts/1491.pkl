@@ -1,0 +1,807 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo a few weeks ago, a friend
+p4
+aVof mine gave this toy car to his
+p5
+aV8-year-old son.
+p6
+aVBut instead of going into a store and buying one,
+p7
+aVlike we do normally, he went to this
+p8
+aVwebsite and he downloaded
+p9
+aVa file, and then he printed it
+p10
+aVon this printer.
+p11
+aVSo this idea that you can
+p12
+aVmanufacture objects
+p13
+aVdigitally using these machines
+p14
+aVis something that The Economist magazine
+p15
+aVdefined as the Third Industrial Revolution.
+p16
+aa(lp17
+VActually, I argue that there is another revolution
+p18
+aVgoing on, and it's the one that has to do with
+p19
+aVopen-source hardware and the maker's movement,
+p20
+aVbecause the printer that my friend used
+p21
+aVto print the toy is actually open-source.
+p22
+aVSo you go to the same website, you can download all the files
+p23
+aVthat you need in order to make that printer:
+p24
+aVthe construction files, the hardware, the software,
+p25
+aVall the instruction is there.
+p26
+aVAnd also this is part of a large
+p27
+aVcommunity where there are thousands of people
+p28
+aVaround the world that are actually
+p29
+aVmaking these kinds of printers,
+p30
+aVand there's a lot of innovation
+p31
+aVhappening because it's all open-source.
+p32
+aVYou don't need anybody's permission to create something great.
+p33
+aVAnd that space is like
+p34
+aVthe personal computer in 1976,
+p35
+aVlike the Apples with the other companies are fighting,
+p36
+aVand we will see in a few years,
+p37
+aVthere will be the Apple of this kind of market come out.
+p38
+aa(lp39
+VWell, there's also another interesting thing.
+p40
+aVI said the electronics are open-source, because at the heart
+p41
+aVof this printer there is something I'm really attached to:
+p42
+aVthese Arduino boards, the motherboard that sort of
+p43
+aVpowers this printer, is a project
+p44
+aVI've been working on for the past seven years.
+p45
+aVIt's an open-source project.
+p46
+aVI worked with these friends of mine that I have here.
+p47
+aVSo the five of us, two Americans, two Italians
+p48
+aVand a Spaniard, we \u2014 (Laughter)
+p49
+aVYou know, it's a worldwide project. (Laughter)
+p50
+aVSo we came together in this
+p51
+aVdesign institute called the Interaction Design Institute
+p52
+aVIvrea, which was teaching
+p53
+aVinteraction design, this idea that you can take
+p54
+aVdesign from the simple shape
+p55
+aVof an object and you can move it
+p56
+aVforward to design the way you interact with things.
+p57
+aVWell, when you design an object that's supposed to interact
+p58
+aVwith a human being, if you make a foam model
+p59
+aVof a mobile phone, it doesn't make any sense.
+p60
+aVYou have to have something that
+p61
+aVactually interacts with people.
+p62
+aVSo, we worked on Arduino and
+p63
+aVa lot of other projects there to
+p64
+aVcreate platforms that would be
+p65
+aVsimple for our students to use,
+p66
+aVso that our students could just build things that worked,
+p67
+aVbut they don't have five years to become an electronics engineer. We have one month.
+p68
+aa(lp69
+VSo how do I make something that even a kid can use?
+p70
+aVAnd actually, with Arduino,
+p71
+aVwe have kids like Sylvia that you see here,
+p72
+aVthat actually make projects with Arduino.
+p73
+aVI have 11-year-old kids stop me and show me
+p74
+aVstuff they built for Arduino that's really
+p75
+aVscary to see the capabilities
+p76
+aVthat kids have when you give them the tools.
+p77
+aa(lp78
+VSo let's look at what happens when you make a tool
+p79
+aVthat anybody can just pick up and build something quickly,
+p80
+aVso one of the examples that I like to sort of
+p81
+aVkick off this discussion is this
+p82
+aVexample of this cat feeder.
+p83
+aVThe gentleman who made this project had two cats.
+p84
+aVOne was sick and the other one
+p85
+aVwas healthy, so he had to make
+p86
+aVsure they ate the proper food.
+p87
+aVSo he made this thing that recognizes the cat
+p88
+aVfrom a chip mounted inside
+p89
+aVon the collar of the cat, and opens the door
+p90
+aVand the cat can eat the food.
+p91
+aVThis is made by recycling an old CD player
+p92
+aVthat you can get from an old computer,
+p93
+aVsome cardboard, tape, couple of sensors, a few blinking LEDs,
+p94
+aVand then suddenly you have a tool. You build something
+p95
+aVthat you cannot find on the market.
+p96
+aVAnd I like this phrase: "Scratch your own itch."
+p97
+aVIf you have an idea, you just go and you make it.
+p98
+aVThis is the equivalent of sketching on paper
+p99
+aVdone with electronics.
+p100
+aa(lp101
+VSo one of the features that I
+p102
+aVthink is important about our work
+p103
+aVis that our hardware, on top of
+p104
+aVbeing made with love in Italy \u2014
+p105
+aVas you can see from the
+p106
+aVback of the circuit \u2014 (Laughter)
+p107
+aVis that it's open,
+p108
+aVso we publish all the design
+p109
+aVfiles for the circuit online,
+p110
+aVso you can download it and
+p111
+aVyou can actually use it to
+p112
+aVmake something, or to modify, to learn.
+p113
+aVYou know, when I was learning about programming,
+p114
+aVI learned by looking at other people's code,
+p115
+aVor looking at other people's circuits in magazines.
+p116
+aVAnd this is a good way to learn,
+p117
+aVby looking at other people's work.
+p118
+aVSo the different elements of the project are all open,
+p119
+aVso the hardware is released
+p120
+aVwith a Creative Commons license.
+p121
+aVSo, you know, I like this idea that hardware becomes
+p122
+aVlike a piece of culture that you share
+p123
+aVand you build upon, like it was
+p124
+aVa song or a poem with Creative Commons.
+p125
+aVOr, the software is GPL, so it's open-source as well.
+p126
+aVThe documentation and the hands-on teaching
+p127
+aVmethodology is also open-source and released as the Creative Commons.
+p128
+aVJust the name is protected so
+p129
+aVthat we can make sure that we can tell people
+p130
+aVwhat is Arduino and what isn't.
+p131
+aa(lp132
+VNow, Arduino itself is made of
+p133
+aVa lot of different open-source components
+p134
+aVthat maybe individually are hard to use for
+p135
+aVa 12-year-old kid, so Arduino
+p136
+aVwraps everything together into
+p137
+aVa mashup of open-source technologies
+p138
+aVwhere we try to give them the
+p139
+aVbest user experience to get something done quickly.
+p140
+aa(lp141
+VSo you have situations like this,
+p142
+aVwhere some people in Chile
+p143
+aVdecided to make their own boards instead of buying them,
+p144
+aVto organize a workshop and
+p145
+aVto save money. Or there are
+p146
+aVcompanies that make their own
+p147
+aVvariations of Arduino that fit
+p148
+aVin a certain market, and there's
+p149
+aVprobably, maybe like a 150 of them
+p150
+aVor something at the moment.
+p151
+aVThis one is made by a company
+p152
+aVcalled Adafruit, which is run by
+p153
+aVthis woman called Limor Fried,
+p154
+aValso known as Ladyada, who is
+p155
+aVone of the heroes of the open-source hardware movement
+p156
+aVand the maker movement.
+p157
+aVSo, this idea that you have a new, sort of
+p158
+aVturbo-charged DIY community
+p159
+aVthat believes in open-source,
+p160
+aVin collaboration, collaborates
+p161
+aVonline, collaborates in different spaces.
+p162
+aVThere is this magazine called Make that sort of gathered
+p163
+aVall these people and sort of put them together
+p164
+aVas a community, and you see
+p165
+aVa very technical project explained in a
+p166
+aVvery simple language, beautifully typeset.
+p167
+aVOr you have websites,
+p168
+aVlike this one, like Instructables,
+p169
+aVwhere people actually teach each other about anything.
+p170
+aVSo this one is about Arduino projects,
+p171
+aVthe page you see on the screen, but effectively here you can
+p172
+aVlearn how to make a cake and everything else.
+p173
+aVSo let's look at some projects.
+p174
+aa(lp175
+VSo this one is a quadcopter.
+p176
+aVIt's a small model helicopter.
+p177
+aVIn a way, it's a toy, no?
+p178
+aVAnd so this one was military technology
+p179
+aVa few years ago, and now it's
+p180
+aVopen-source, easy to use, you can buy it online.
+p181
+aVDIY Drones is the community; they do this thing called ArduCopter.
+p182
+aVBut then somebody actually launched this start-up called
+p183
+aVMatternet, where they figured out that you could
+p184
+aVuse this to actually transport
+p185
+aVthings from one village to another in Africa,
+p186
+aVand the fact that this was easy to find,
+p187
+aVopen-source, easy to hack, enabled them
+p188
+aVto prototype their company really quickly.
+p189
+aVOr, other projects. Matt Richardson: I'm getting a little sick
+p190
+aVof hearing about the same people on TV over and over and over
+p191
+aVagain, so I decided to do something about it.
+p192
+aVThis Arduino project,
+p193
+aVwhich I call the Enough Already, will mute the TV anytime
+p194
+aVany of these over-exposed
+p195
+aVpersonalities is mentioned. (Laughter)
+p196
+aVI'll show you how I made it. (Applause)
+p197
+aVMB: Check this out.
+p198
+aVMR: Our producers caught up with Kim Kardashian earlier
+p199
+aVtoday to find out what she was planning on wearing to her \u2014
+p200
+aVMB: Eh? (Laughter)
+p201
+aVMR: It should do a pretty good
+p202
+aVjob of protecting our ears from having to hear about the details
+p203
+aVof Kim Kardashian's wedding.
+p204
+aVMB: Okay. So, you know, again, what is interesting here
+p205
+aVis that Matt found this module
+p206
+aVthat lets Arduino process
+p207
+aVTV signals, he found some code
+p208
+aVwritten by somebody else that generates infrared signals for the TV,
+p209
+aVput it together and then created this great project.
+p210
+aa(lp211
+VIt's also used, Arduino's used,
+p212
+aVin serious places like, you know, the Large Hadron Collider.
+p213
+aVThere's some Arduino balls collecting data and sort of
+p214
+aVmeasuring some parameters.
+p215
+aVOr it's used for \u2014
+p216
+aV(Music)
+p217
+aVSo this is a musical interface
+p218
+aVbuilt by a student from Italy,
+p219
+aVand he's now turning this into
+p220
+aVa product. Because it was a
+p221
+aVstudent project becoming a product.
+p222
+aVOr it can be used to make an assistive device.
+p223
+aVThis is a glove that understands
+p224
+aVthe sign language and transforms
+p225
+aVthe gestures you make into sounds
+p226
+aVand writes the words that you're signing on a display
+p227
+aVAnd again, this is made of all different parts you can find
+p228
+aVon all the websites that sell Arduino-compatible parts,
+p229
+aVand you assemble it into a project.
+p230
+aVOr this is a project from the ITP part of NYU,
+p231
+aVwhere they met with this boy
+p232
+aVwho has a severe disability, cannot play with the PS3,
+p233
+aVso they built this device that
+p234
+aVallows the kid to play baseball
+p235
+aValthough he has limited
+p236
+aVmovement capability.
+p237
+aa(lp238
+VOr you can find it in arts projects.
+p239
+aVSo this is the txtBomber.
+p240
+aVSo you put a message into this device
+p241
+aVand then you roll it on the wall, and it basically
+p242
+aVhas all these solenoids
+p243
+aVpressing the buttons on spray cans,
+p244
+aVso you just pull it over a wall
+p245
+aVand it just writes on the wall
+p246
+aVall the political messages.
+p247
+aVSo, yeah. (Applause)
+p248
+aVThen we have this plant here.
+p249
+aVThis is called Botanicalls,
+p250
+aVbecause there's an Arduino ball with a Wi-Fi module
+p251
+aVin the plant, and it's measuring
+p252
+aVthe well-being of the plant,
+p253
+aVand it's creating a Twitter account
+p254
+aVwhere you can actually interact with the plant. (Laughter)
+p255
+aVSo, you know, this plant
+p256
+aVwill start to say, "This is really hot," or
+p257
+aVthere's a lot of, you know, "I need water right now." (Laughter)
+p258
+aVSo it just gives a personality to your plant.
+p259
+aVOr this is something that twitters when the
+p260
+aVbaby inside the belly of a
+p261
+aVpregnant woman kicks. (Laughter)
+p262
+aVOr this is a 14-year-old kid in
+p263
+aVChile who made a system that
+p264
+aVdetects earthquakes and publishes on Twitter.
+p265
+aVHe has 280,000 followers.
+p266
+aVHe's 14 and he anticipated
+p267
+aVa governmental project by one year. (Applause)
+p268
+aVOr again, another project where,
+p269
+aVby analyzing the Twitter feed
+p270
+aVof a family, you can basically
+p271
+aVpoint where they are, like in the "Harry Potter" movie.
+p272
+aVSo you can find out everything about this project on the website.
+p273
+aVOr somebody made a chair that twitters when somebody farts. (Laughter)
+p274
+aVIt's interesting how, in 2009,
+p275
+aVGizmodo basically defined,
+p276
+aVsaid that this project actually gives a meaning to Twitter,
+p277
+aVso it was \u2014 a lot changed in between. (Laughter)
+p278
+aa(lp279
+VSo very serious project.
+p280
+aVWhen the Fukushima disaster happened,
+p281
+aVa bunch of people in Japan, they realized that the information
+p282
+aVthat the government was giving wasn't really open
+p283
+aVand really reliable, so they built
+p284
+aVthis Geiger counter, plus Arduino, plus network
+p285
+aVinterface. They made 100
+p286
+aVof them and gave them to people around Japan, and essentially
+p287
+aVthe data that they gathered gets published on this website
+p288
+aVcalled Cosm, another website
+p289
+aVthey built, so you can actually get reliable real-time
+p290
+aVinformation from the field,
+p291
+aVand you can get unbiased information.
+p292
+aVOr this machine here, it's from
+p293
+aVthe DIY bio movement,
+p294
+aVand it's one of the steps that you need in order to process DNA,
+p295
+aVand again, it's completely open-source from the ground up.
+p296
+aVOr you have students in developing countries making
+p297
+aVreplicas of scientific instruments that cost
+p298
+aVa lot of money to make.
+p299
+aVActually they just build them themselves for a lot less
+p300
+aVusing Arduino and a few parts.
+p301
+aVThis is a pH probe.
+p302
+aVOr you get kids, like these kids, they're from Spain.
+p303
+aVThey learned how to program and to make robots when they
+p304
+aVwere probably, like, 11, and then they started to use Arduino
+p305
+aVto make these robots that play football. They became
+p306
+aVworld champions by making an Arduino-based robot.
+p307
+aVAnd so when we had to make
+p308
+aVour own educational robot, we just went to them and said,
+p309
+aVyou know, "You design it, because you know exactly
+p310
+aVwhat is needed to make a great robot that excites kids."
+p311
+aVNot me. I'm an old guy.
+p312
+aVWhat am I supposed to excite, huh? (Laughter)
+p313
+aVBut as I \u2014 in terms of educational assets. (Laughter)
+p314
+aa(lp315
+VThere's also companies like Google
+p316
+aVthat are using the technology
+p317
+aVto create interfaces between
+p318
+aVmobile phones, tablets and the real world.
+p319
+aVSo the Accessory Development Kit
+p320
+aVfrom Google is open-source
+p321
+aVand based on Arduino, as opposed
+p322
+aVto the one from Apple which is
+p323
+aVclosed-source, NDA, sign your
+p324
+aVlife to Apple. Here you are.
+p325
+aVThere's a giant maze, and Joey's sitting there, and the
+p326
+aVmaze is moving when you tilt the tablet.
+p327
+aa(lp328
+VAlso, I come from Italy, and the design is important
+p329
+aVin Italy, and yet very conservative.
+p330
+aVSo we worked with a design
+p331
+aVstudio called Habits, in Milan,
+p332
+aVto make this mirror, which is completely open-source.
+p333
+aVThis doubles also as an iPod speaker.
+p334
+aVSo the idea is that the hardware, the software,
+p335
+aVthe design of the object, the fabrication,
+p336
+aVeverything about this project is open-source
+p337
+aVand you can make it yourself.
+p338
+aVSo we want other designers to pick this up and learn how
+p339
+aVto make great devices, to learn
+p340
+aVhow to make interactive products
+p341
+aVby starting from something real.
+p342
+aa(lp343
+VBut when you have this idea,
+p344
+aVyou know, what happens to all these ideas?
+p345
+aVThere's, like, thousands of ideas that I \u2014
+p346
+aVYou know, it would take seven hours for me to do
+p347
+aVall the presentations.
+p348
+aVI will not take all the seven hours. Thank you.
+p349
+aVBut let's start from this example:
+p350
+aVSo, the group of people
+p351
+aVthat started this company called Pebble, they prototyped
+p352
+aVa watch that communicates via Bluetooth with your phone,
+p353
+aVand you can display information
+p354
+aVon it. And they prototyped with
+p355
+aVan old LCD screen from a Nokia
+p356
+aVmobile phone and an Arduino.
+p357
+aVAnd then, when they had a final
+p358
+aVproject, they actually went to Kickstarter
+p359
+aVand they were asking for 100,000 dollars to make
+p360
+aVa few of them to sell.
+p361
+aVThey got 10 million dollars.
+p362
+aVThey got a completely
+p363
+aVfully funded start-up, and they don't have to,
+p364
+aVyou know, get VCs involved or anything,
+p365
+aVjust excite the people with their great project.
+p366
+aa(lp367
+VThe last project I want to show you is this:
+p368
+aVIt's called ArduSat. It's currently on Kickstarter,
+p369
+aVso if you want to contribute, please do it.
+p370
+aVIt's a satellite that goes into space, which is probably
+p371
+aVthe least open-source thing you can imagine,
+p372
+aVand it contains an Arduino
+p373
+aVconnected to a bunch of sensors. So if you know how to use Arduino,
+p374
+aVyou can actually upload your experiments
+p375
+aVinto this satellite and run them.
+p376
+aVSo imagine, if you as a high school can have the satellite
+p377
+aVfor a week and do satellite
+p378
+aVspace experiments like that.
+p379
+aa(lp380
+VSo, as I said, there's
+p381
+aVlots of examples, and I'm going to stop here. And I just
+p382
+aVwant to thank the Arduino community
+p383
+aVfor being the best, and just
+p384
+aVevery day making lots of projects.
+p385
+aVThank you. (Applause)
+p386
+aa(lp387
+V(Applause)
+p388
+aa(lp389
+VAnd thanks to the community.
+p390
+aa(lp391
+VChris Anderson: Massimo,
+p392
+aVyou told me earlier today that you had no idea, of course,
+p393
+aVthat it would take off like this.
+p394
+aa(lp395
+VMB: No.
+p396
+aa(lp397
+VCA: I mean, how must you feel when you read this stuff and you
+p398
+aVsee what you've unlocked?
+p399
+aa(lp400
+VMB: Well, it's the work of a lot of people, so we as a community
+p401
+aVare enabling people to make
+p402
+aVgreat stuff, and I just feel overwhelmed.
+p403
+aVIt's just, it's difficult to describe this.
+p404
+aVEvery morning, I wake up and I look at all the stuff that
+p405
+aVGoogle Alerts sends me, and it's
+p406
+aVjust amazing. It's just
+p407
+aVgoing into every field that you can imagine.
+p408
+aa(lp409
+VCA: Thank you so much. (Applause)
+p410
+aa(lp411
+V(Applause)
+p412
+aasS'id'
+p413
+I1491
+sS'title'
+p414
+VHow Arduino is open-sourcing imagination
+p415
+s.

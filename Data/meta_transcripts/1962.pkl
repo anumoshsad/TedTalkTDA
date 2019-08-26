@@ -1,0 +1,198 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VDaffodil Hudson: Hello?
+p4
+aVYeah, this is she.
+p5
+aVWhat?
+p6
+aVOh, yeah, yeah, yeah, yeah, of course I accept.
+p7
+aVWhat are the dates again?
+p8
+aVPen. Pen. Pen.
+p9
+aVMarch 17 through 21.
+p10
+aVOkay, all right, great. Thanks.
+p11
+aa(lp12
+VLab Partner: Who was that?
+p13
+aa(lp14
+VDH: It was TED.
+p15
+aa(lp16
+VLP: Who's TED?
+p17
+aa(lp18
+VDH: I've got to prepare.
+p19
+aa(lp20
+V["Give Your Talk: A Musical"] (Music)
+p21
+aa(lp22
+V["My Talk"]
+p23
+aa(lp24
+V\u266a Procrastination. \u266a
+p25
+aVWhat do you think?
+p26
+aa(lp27
+V(Doorbell)
+p28
+aa(lp29
+VCan I help you?
+p30
+aa(lp31
+V(Music)
+p32
+aa(lp33
+VSpeaker Coach 1: \u266a Let's prepare for main stage. \u266a
+p34
+aV\u266a It's your time to shine. \u266a
+p35
+aV\u266a If you want to succeed then \u266a
+p36
+aV\u266a you must be primed. \u266a
+p37
+aa(lp38
+VSpeaker Coach 2: \u266a Your slides are bad \u266a
+p39
+aV\u266a but your idea is good \u266a
+p40
+aV\u266a so you can bet before we're through, \u266a
+p41
+aV\u266a speaker, we'll make a TED Talk out of you. \u266a
+p42
+aa(lp43
+VSpeaker Coach 3: \u266a We know about climate change, \u266a
+p44
+aV\u266a but what can you say that's new? \u266a
+p45
+aa(lp46
+V\u266a SC 1: Once you find your focus \u266a
+p47
+aV\u266a then the talk comes into view. \u266a
+p48
+aa(lp49
+VSC 2: \u266a Don't ever try to sell something \u266a
+p50
+aV\u266a from up on that stage \u266a
+p51
+aV\u266a or we won't post your talk online. \u266a
+p52
+aa(lp53
+VAll: \u266a Somehow we'll make a TED Talk out of you. \u266a
+p54
+aa(lp55
+V(Music)
+p56
+aa(lp57
+VSC 1: Ready to practice one more time?
+p58
+aa(lp59
+VDH: Right now?
+p60
+aa(lp61
+VStagehand: Break a leg.
+p62
+aa(lp63
+VDH: \u266a I'll never remember all this. \u266a
+p64
+aV\u266a Will the clicker work when I press it? \u266a
+p65
+aV\u266a Why must Al Gore go right before me? \u266a
+p66
+aV\u266a Oh man, I'm scared to death. \u266a
+p67
+aV\u266a I hope I don't pass out onstage \u266a
+p68
+aV\u266a and now I really wish I wasn't wearing green. \u266a
+p69
+aa(lp70
+VAll: \u266a Give your talk. \u266a
+p71
+aa(lp72
+VSC 1: \u266a You must be be sweet like Brené Brown. \u266a
+p73
+aa(lp74
+VAll: \u266a Give your talk. \u266a
+p75
+aa(lp76
+VSC 2: \u266a You must be funny like Ken Robinson. \u266a
+p77
+aa(lp78
+VAll: \u266a Give your talk. \u266a
+p79
+aa(lp80
+VSC 3: \u266a You must be cool like Reggie Watts \u266a
+p81
+aa(lp82
+VAll: \u266a and bring out a prop like Jill Bolte Taylor. \u266a
+p83
+aa(lp84
+VDH: \u266a My time is running over. The clock now says nil. \u266a
+p85
+aV\u266a I'm saying my words faster. Understand me still. \u266a
+p86
+aV\u266a I'm too nervous to give this TED Talk. \u266a
+p87
+aa(lp88
+VAll: \u266a Don't give up. Rehearse. You're good. \u266a
+p89
+aV\u266a We'll edit out the mistakes that you make. \u266a
+p90
+aV\u266a Give your talk. \u266a
+p91
+aa(lp92
+VDH: \u266a I will be big like Amy Cuddy. \u266a
+p93
+aa(lp94
+VAll: \u266a Give your talk. \u266a
+p95
+aa(lp96
+VDH: \u266a I will inspire like Liz Gilbert. \u266a
+p97
+aa(lp98
+VAll: \u266a Give your talk. \u266a
+p99
+aa(lp100
+VDH: \u266a I will engage like Hans Rosling \u266a
+p101
+aV\u266a and release mosquitos \u266a
+p102
+aV\u266a like Bill Gates. \u266a
+p103
+aa(lp104
+VSC 2: \u266a I'll make a TED Talk out of you. \u266a
+p105
+aV\u266a I'll make a TED Talk out of you. \u266a
+p106
+aV\u266a I'll make a TED Talk out of you. \u266a
+p107
+aV\u266a I'll make a TED Talk out of you. \u266a
+p108
+aV\u266a I'll make a TED Talk out of you. \u266a
+p109
+aa(lp110
+V(Applause)
+p111
+aa(lp112
+V["Brought to you by TED staff and friends"]
+p113
+aa(lp114
+V(Music)
+p115
+aasS'id'
+p116
+I1962
+sS'title'
+p117
+VIt's TED, the Musical
+p118
+s.

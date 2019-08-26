@@ -1,0 +1,387 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhen I wrote my memoir,
+p4
+aVthe publishers were really confused.
+p5
+aVWas it about me as a child refugee,
+p6
+aVor as a woman who set up a high-tech software company back in the 1960s,
+p7
+aVone that went public
+p8
+aVand eventually employed over 8,500 people?
+p9
+aVOr was it as a mother of an autistic child?
+p10
+aVOr as a philanthropist that's now given away serious money?
+p11
+aVWell, it turns out, I'm all of these.
+p12
+aVSo let me tell you my story.
+p13
+aa(lp14
+VAll that I am stems from when I got onto a train in Vienna,
+p15
+aVpart of the Kindertransport that saved nearly 10,000 Jewish children
+p16
+aVfrom Nazi Europe.
+p17
+aVI was five years old, clutching the hand of my nine-year-old sister
+p18
+aVand had very little idea as to  what was going on.
+p19
+aV"What is England and  why am I going there?"
+p20
+aVI'm only alive because so long ago,  I was helped by generous strangers.
+p21
+aVI was lucky, and doubly lucky to be later reunited
+p22
+aVwith my birth parents.
+p23
+aVBut, sadly, I never bonded  with them again.
+p24
+aVBut I've done more in the seven decades since that miserable day
+p25
+aVwhen my mother put me on the train
+p26
+aVthan I would ever have dreamed possible.
+p27
+aVAnd I love England, my adopted country,
+p28
+aVwith a passion that perhaps only someone who has lost their human rights can feel.
+p29
+aVI decided to make mine a life that was worth saving.
+p30
+aVAnd then, I just got on with it.
+p31
+aV(Laughter)
+p32
+aa(lp33
+VLet me take you back to the early 1960s.
+p34
+aVTo get past the gender issues of the time,
+p35
+aVI set up my own software house at one of the first such startups in Britain.
+p36
+aVBut it was also a company of women, a company for women,
+p37
+aVan early social business.
+p38
+aVAnd people laughed at the very idea because software, at that time,
+p39
+aVwas given away free with hardware.
+p40
+aVNobody would buy software, certainly not from a woman.
+p41
+aVAlthough women were then coming out of the universities with decent degrees,
+p42
+aVthere was a glass ceiling to our progress.
+p43
+aVAnd I'd hit that glass ceiling too often,
+p44
+aVand I wanted opportunities for women.
+p45
+aa(lp46
+VI recruited professionally qualified women who'd left the industry on marriage,
+p47
+aVor when their first child was expected
+p48
+aVand structured them into a home-working organization.
+p49
+aVWe pioneered the concept of women going back into the workforce
+p50
+aVafter a career break.
+p51
+aVWe pioneered all sorts of new, flexible work methods:
+p52
+aVjob shares, profit-sharing,  and eventually, co-ownership
+p53
+aVwhen I took a quarter of the company into the hands of the staff
+p54
+aVat no cost to anyone but me.
+p55
+aVFor years, I was the first woman this, or the only woman that.
+p56
+aVAnd in those days, I couldn't work on the stock exchange,
+p57
+aVI couldn't drive a bus or fly an airplane.
+p58
+aVIndeed, I couldn't open a bank account without my husband's permission.
+p59
+aVMy generation of women fought the battles for the right to work
+p60
+aVand the right for equal pay.
+p61
+aa(lp62
+VNobody really expected much  from people at work or in society
+p63
+aVbecause all the expectations then
+p64
+aVwere about home and  family responsibilities.
+p65
+aVAnd I couldn't really face that,
+p66
+aVso I started to challenge the conventions of the time,
+p67
+aVeven to the extent of changing my name from "Stephanie" to "Steve"
+p68
+aVin my business development letters,
+p69
+aVso as to get through the door before anyone realized
+p70
+aVthat he was a she.
+p71
+aV(Laughter)
+p72
+aa(lp73
+VMy company, called Freelance Programmers, and that's precisely what it was,
+p74
+aVcouldn't have started smaller:  on the dining room table,
+p75
+aVand financed by the equivalent of 100 dollars in today's terms,
+p76
+aVand financed by my labor and  by borrowing against the house.
+p77
+aVMy interests were scientific,  the market was commercial \u2014
+p78
+aVthings such as payroll, which I found rather boring.
+p79
+aVSo I had to compromise with  operational research work,
+p80
+aVwhich had the intellectual challenge  that interested me
+p81
+aVand the commercial value  that was valued by the clients:
+p82
+aVthings like scheduling freight trains,
+p83
+aVtime-tabling buses, stock control, lots and lots of stock control.
+p84
+aVAnd eventually, the work came in.
+p85
+aVWe disguised the domestic and part-time nature of the staff
+p86
+aVby offering fixed prices, one of the very first to do so.
+p87
+aVAnd who would have guessed that the programming
+p88
+aVof the black box flight recorder  of Supersonic Concord
+p89
+aVwould have been done by a bunch  of women working in their own homes.
+p90
+aV(Applause)
+p91
+aa(lp92
+VAll we used was a simple  "trust the staff" approach
+p93
+aVand a simple telephone.
+p94
+aVWe even used to ask job applicants,  "Do you have access to a telephone?"
+p95
+aa(lp96
+VAn early project was to develop software standards
+p97
+aVon management control protocols.
+p98
+aVAnd software was and still is a maddeningly hard-to-control activity,
+p99
+aVso that was enormously valuable.
+p100
+aVWe used the standards ourselves,
+p101
+aVwe were even paid to update  them over the years,
+p102
+aVand eventually, they were adopted by NATO.
+p103
+aVOur programmers \u2014 remember, only women,
+p104
+aVincluding gay and transgender \u2014
+p105
+aVworked with pencil and paper to develop flowcharts
+p106
+aVdefining each task to be done.
+p107
+aVAnd they then wrote code,  usually machine code,
+p108
+aVsometimes binary code,
+p109
+aVwhich was then sent by mail to a data center
+p110
+aVto be punched onto paper tape or card
+p111
+aVand then re-punched,  in order to verify it.
+p112
+aVAll this, before it ever got near a computer.
+p113
+aVThat was programming in the early 1960s.
+p114
+aa(lp115
+VIn 1975, 13 years from startup,
+p116
+aVequal opportunity legislation  came in in Britain
+p117
+aVand that made it illegal to have  our pro-female policies.
+p118
+aVAnd as an example of  unintended consequences,
+p119
+aVmy female company had to let the men in.
+p120
+aV(Laughter)
+p121
+aa(lp122
+VWhen I started my company of women,
+p123
+aVthe men said, "How interesting, because it only works because it's small."
+p124
+aVAnd later, as it became sizable,  they accepted, "Yes, it is sizable now,
+p125
+aVbut of no strategic interest."
+p126
+aVAnd later, when it was a company valued at over three billion dollars,
+p127
+aVand I'd made 70 of the staff  into millionaires,
+p128
+aVthey sort of said, "Well done, Steve!"
+p129
+aV(Laughter)
+p130
+aV(Applause)
+p131
+aa(lp132
+VYou can always tell ambitious women by the shape of our heads:
+p133
+aVThey're flat on top for being  patted patronizingly.
+p134
+aV(Laughter) (Applause)
+p135
+aVAnd we have larger feet to stand away from the kitchen sink.
+p136
+aV(Laughter)
+p137
+aa(lp138
+VLet me share with you  two secrets of success:
+p139
+aVSurround yourself with first-class people and people that you like;
+p140
+aVand choose your partner very, very carefully.
+p141
+aVBecause the other day when I said,  "My husband's an angel,"
+p142
+aVa woman complained \u2014 "You're lucky," she said,
+p143
+aV"mine's still alive."
+p144
+aV(Laughter)
+p145
+aa(lp146
+VIf success were easy,  we'd all be millionaires.
+p147
+aVBut in my case, it came in the midst of family trauma and indeed, crisis.
+p148
+aVOur late son, Giles, was an only child, a beautiful, contented baby.
+p149
+aVAnd then, at two and a half,
+p150
+aVlike a changeling in a fairy story,
+p151
+aVhe lost the little speech that he had
+p152
+aVand turned into a wild,  unmanageable toddler.
+p153
+aVNot the terrible twos;
+p154
+aVhe was profoundly autistic  and he never spoke again.
+p155
+aVGiles was the first resident in the first house of the first charity that I set up
+p156
+aVto pioneer services for autism.
+p157
+aVAnd then there's been a groundbreaking Prior's Court school
+p158
+aVfor pupils with autism
+p159
+aVand a medical research charity, again, all for autism.
+p160
+aVBecause whenever I found a gap in services, I tried to help.
+p161
+aVI like doing new things  and making new things happen.
+p162
+aVAnd I've just started a three-year  think tank for autism.
+p163
+aa(lp164
+VAnd so that some of my wealth does go back to the industry from which it stems,
+p165
+aVI've also founded  the Oxford Internet Institute
+p166
+aVand other IT ventures.
+p167
+aVThe Oxford Internet Institute focuses not on the technology,
+p168
+aVbut on the social, economic, legal and ethical issues of the Internet.
+p169
+aa(lp170
+VGiles died unexpectedly 17 years ago now.
+p171
+aVAnd I have learned to live without him,
+p172
+aVand I have learned to live  without his need of me.
+p173
+aVPhilanthropy is all that I do now.
+p174
+aVI need never worry about getting lost
+p175
+aVbecause several charities would quickly come and find me.
+p176
+aV(Laughter)
+p177
+aa(lp178
+VIt's one thing to have an idea  for an enterprise,
+p179
+aVbut as many people in this room will know,
+p180
+aVmaking it happen is a very difficult thing
+p181
+aVand it demands extraordinary energy, self-belief and determination,
+p182
+aVthe courage to risk family and home,
+p183
+aVand a 24/7 commitment  that borders on the obsessive.
+p184
+aVSo it's just as well that I'm a workaholic.
+p185
+aVI believe in the beauty of work when we do it properly and in humility.
+p186
+aVWork is not just something I do when I'd rather be doing something else.
+p187
+aa(lp188
+VWe live our lives forward.
+p189
+aVSo what has all that taught me?
+p190
+aVI learned that tomorrow's  never going to be like today,
+p191
+aVand certainly nothing like yesterday.
+p192
+aVAnd that made me able to cope with change,
+p193
+aVindeed, eventually to welcome change,
+p194
+aVthough I'm told I'm still very difficult.
+p195
+aa(lp196
+VThank you very much.
+p197
+aa(lp198
+V(Applause)
+p199
+aasS'id'
+p200
+I2223
+sS'title'
+p201
+VWhy do ambitious women have flat heads?
+p202
+s.

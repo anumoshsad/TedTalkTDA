@@ -1,0 +1,875 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VHere's my thing.
+p4
+aVHold on. There I go. Hey.
+p5
+aVI want to start today \u2014 talk about the structure of a polypeptide.
+p6
+aa(lp7
+V(Laughter)
+p8
+aa(lp9
+VI get a lot of people asking me, in terms of "Lost," you know,
+p10
+aV"What the hell's that island?"
+p11
+aVYou know, it's usually followed by,
+p12
+aV"No, seriously, what the hell is that island?"
+p13
+aa(lp14
+VWhy so many mysteries?
+p15
+aVWhat is it about mystery that I seem to be drawn to?
+p16
+aVAnd I was thinking about this, what to talk about at TED.
+p17
+aVWhen I talked to the kind rep from TED,
+p18
+aVand I said, "Listen, you know, what should I talk about?"
+p19
+aVHe said, "Don't worry about it. Just be profound."
+p20
+aa(lp21
+V(Laughter)
+p22
+aa(lp23
+VAnd I took enormous comfort in that.
+p24
+aVSo thank you, if you're here.
+p25
+aa(lp26
+VI was trying to think, what do I talk about? Good question.
+p27
+aVWhy do I do so much stuff that involves mystery?
+p28
+aVAnd I started trying to figure it out.
+p29
+aVAnd I started thinking about why do I do any of what I do,
+p30
+aVand I started thinking about my grandfather.
+p31
+aVI loved my grandfather.
+p32
+aVHarry Kelvin was his name, my mother's father.
+p33
+aVHe died in 1986. He was an amazing guy.
+p34
+aVAnd one of the reasons he was amazing:
+p35
+aVAfter World War II, he began an electronics company.
+p36
+aVHe started selling surplus parts, kits, to schools and stuff.
+p37
+aVSo he had this incredible curiosity.
+p38
+aVAs a kid, I saw him come over to me
+p39
+aVwith radios and telephones and all sorts of things.
+p40
+aVAnd he'd open them up, he'd unscrew them and reveal the inner workings \u2014
+p41
+aVwhich many of us, I'm sure, take for granted.
+p42
+aVBut it's an amazing gift to give a kid.
+p43
+aVTo open up this thing and show how it works
+p44
+aVand why it works and what it is.
+p45
+aVHe was the ultimate deconstructor, in many ways.
+p46
+aVAnd my grandfather was a kind of guy who would not only take things apart,
+p47
+aVbut he got me interested in all sorts of different odd crafts,
+p48
+aVlike, you know, printing, like the letter press.
+p49
+aVI'm obsessed with printing.
+p50
+aVI'm obsessed with silk-screening and bookbinding and box making.
+p51
+aVWhen I was a kid, I was always, like, taking apart boxes and stuff.
+p52
+aa(lp53
+VAnd last night in the hotel, I took apart the Kleenex box.
+p54
+aVI was just looking at it. And I'm telling you \u2014
+p55
+aa(lp56
+V(Laughter)
+p57
+aa(lp58
+VIt's a beautiful thing. I swear to God.
+p59
+aVI mean, when you look at the box and you sort of see how it works.
+p60
+aVRives is here, and I met him years ago at a book fair;
+p61
+aVhe does pop-up books.
+p62
+aVAnd I'm obsessed with engineering of paper.
+p63
+aVThe scoring of it, the printing of it,
+p64
+aVwhere the thing gets glued, the registration marks for the ink.
+p65
+aVI just love boxes.
+p66
+aVMy grandfather was the guy
+p67
+aVwho kind of got me into all sorts of these things.
+p68
+aVHe would also supply me with tools.
+p69
+aVHe was this amazing encourager \u2014 this patron, sort of, to make stuff.
+p70
+aVAnd he got me a Super 8 camera when I was 10 years old.
+p71
+aVAnd in 1976, that was sort of an anomaly,
+p72
+aVto be a 10-year-old kid that had access to a camera.
+p73
+aVAnd you know, he was so generous; I couldn't believe it.
+p74
+aVHe wasn't doing it entirely without some manipulation.
+p75
+aVI mean, I would call him, and I'd be like,
+p76
+aV"Listen, Grandpa, I really need this camera.
+p77
+aVYou don't understand. This is, like, I want to make movies.
+p78
+aVI'll get invited to TED one day \u2014"
+p79
+aa(lp80
+V(Laughter)
+p81
+aa(lp82
+VAnd, you know, my grandmother was the greatest.
+p83
+aVBecause she'd be like, you know \u2014 she'd get on the phone.
+p84
+aVShe'd be like, "Harry, it's better than the drugs.
+p85
+aVShe was fantastic.
+p86
+aVSo I found myself getting this stuff, thanks to her assist,
+p87
+aVand suddenly, you know,
+p88
+aVI had a synthesizer when I was 14 years old \u2014
+p89
+aVthis kind of stuff.
+p90
+aVAnd it let me make things, which, to me, was sort of the dream.
+p91
+aVHe sort of humored my obsession to other things too, like magic.
+p92
+aVThe thing is, we'd go to this magic store in New York City
+p93
+aVcalled Lou Tannen's Magic.
+p94
+aVIt was this great magic store.
+p95
+aVIt was a crappy little building in Midtown,
+p96
+aVbut you'd be in the elevator, the elevator would open \u2014
+p97
+aVthere'd be this little, small magic store.
+p98
+aVYou'd be in the magic store. And it was a magical place.
+p99
+aVSo I got all these magic tricks. Here. I'll show you.
+p100
+aVThis is the kind of thing. So it would be like, you know.
+p101
+aVWhich is good, but now I can't move.
+p102
+aVNow, I have to do the rest of the thing like this.
+p103
+aVI'm like, "Oh, wow. Look at my computer over there!"
+p104
+aa(lp105
+V(Laughter)
+p106
+aa(lp107
+VSo one of the things that I bought at the magic store was this:
+p108
+aVTannen's Mystery Magic Box.
+p109
+aVThe premise behind the Mystery Magic Box was the following:
+p110
+aV15 dollars buys you 50 dollars worth of magic.
+p111
+aVWhich is a savings.
+p112
+aa(lp113
+V(Laughter)
+p114
+aa(lp115
+VNow, I bought this decades ago and I'm not kidding.
+p116
+aVIf you look at this, you'll see it's never been opened.
+p117
+aVBut I've had this forever.
+p118
+aVNow, I was looking at this,
+p119
+aVit was in my office, as it always is, on the shelf,
+p120
+aVand I was thinking, why have I not opened this?
+p121
+aVAnd why have I kept it?
+p122
+aVBecause I'm not a pack rat.
+p123
+aVI don't keep everything,
+p124
+aVbut for some reason I haven't opened this box.
+p125
+aVAnd I felt like there was a key to this, somehow,
+p126
+aVin talking about something at TED that I haven't discussed before,
+p127
+aVand bored people elsewhere.
+p128
+aVSo I thought, maybe there's something with this.
+p129
+aVAnd there was this giant question mark.
+p130
+aVI love the design, for what it's worth, of this thing.
+p131
+aVAnd I started thinking, why haven't I opened it?
+p132
+aa(lp133
+VAnd I realized that I haven't opened it
+p134
+aVbecause it represents something important \u2014 to me.
+p135
+aVIt represents my grandfather.
+p136
+aVAm I allowed to cry at TED?
+p137
+aVBecause \u2014 no, I'm not going to cry.
+p138
+aa(lp139
+V(Laughter)
+p140
+aa(lp141
+VBut \u2014
+p142
+aa(lp143
+V(Laughter)
+p144
+aa(lp145
+VThe thing is that it represents infinite possibility.
+p146
+aVIt represents hope. It represents potential.
+p147
+aVAnd what I love about this box,
+p148
+aVand what I realize I sort of do in whatever it is that I do,
+p149
+aVis I find myself drawn to infinite possibility,
+p150
+aVthat sense of potential.
+p151
+aVAnd I realize that mystery is the catalyst for imagination.
+p152
+aVNow, it's not the most ground-breaking idea,
+p153
+aVbut when I started to think that maybe there are times
+p154
+aVwhen mystery is more important than knowledge.
+p155
+aVI started getting interested in this.
+p156
+aa(lp157
+VAnd so I started thinking about "Lost" and the stuff that we do,
+p158
+aVand I realized, oh my God, mystery boxes are everywhere in what I do!
+p159
+aVIn the creation of "Lost," Damon Lindelof and I,
+p160
+aVwho created the show with me,
+p161
+aVwe were basically tasked with creating this series
+p162
+aVthat we had very little time to do.
+p163
+aVWe had 11 and a half weeks
+p164
+aVto write it, cast it, crew it, shoot it, cut it, post it, turn in a two-hour pilot.
+p165
+aVSo it was not a lot of time.
+p166
+aVAnd that sense of possibility \u2014 what could this thing be?
+p167
+aVThere was no time to develop it.
+p168
+aVI'm sure you're all familiar with people
+p169
+aVwho tell you what you can't do and what you should change.
+p170
+aVThere was no time for that, which is kind of amazing.
+p171
+aVAnd so we did this show,
+p172
+aVand for those of you who haven't seen it, or don't know it,
+p173
+aVI can show you one little clip from the pilot,
+p174
+aVjust to show you some stuff that we did.
+p175
+aa(lp176
+V(Engine roaring)
+p177
+aa(lp178
+V(Video) Claire: Help!
+p179
+aa(lp180
+VPlease help me!
+p181
+aVHelp me! Please, help me!
+p182
+aa(lp183
+VJack: Get him out of here! Get him away from the engine!
+p184
+aVGet him out of here!
+p185
+aa(lp186
+V(Engine roaring)
+p187
+aa(lp188
+VC: Help me, please! I'm having contractions!
+p189
+aa(lp190
+VJ: How many months pregnant are you?
+p191
+aa(lp192
+VC: I'm only eight months.
+p193
+aa(lp194
+VJ: And how far apart are they coming?
+p195
+aa(lp196
+VC: I don't know. I think it just happened.
+p197
+aa(lp198
+VMan: Hey! Hey! Hey, get away from \u2014
+p199
+aa(lp200
+VJJ Abrams: 10 years ago, if we wanted to do that,
+p201
+aVwe'd have to kill a stuntman.
+p202
+aa(lp203
+V(Laughter)
+p204
+aa(lp205
+VIt would be harder.
+p206
+aVTake two would be a bitch.
+p207
+aa(lp208
+V(Laughter)
+p209
+aa(lp210
+VSo the amazing thing was, we were able to do this thing.
+p211
+aVAnd part of that was the amazing availability of technology,
+p212
+aVknowing we could do anything.
+p213
+aVI mean, we could never have done that.
+p214
+aVWe might have been able to write it;
+p215
+aVwe wouldn't have been able to depict it like we did.
+p216
+aVSo part of the amazing thing for me is in the creative process,
+p217
+aVtechnology is mind-blowingly inspiring to me.
+p218
+aVI realize that that blank page is a magic box, you know?
+p219
+aVIt needs to be filled with something fantastic.
+p220
+aa(lp221
+VI used to have the "Ordinary People" script that I'd flip through.
+p222
+aVThe romance was amazing to me; it would inspire me.
+p223
+aVI wanted to try and fill pages
+p224
+aVwith the same kind of spirit and thought and emotion
+p225
+aVthat that script did.
+p226
+aVSo, you know, I love Apple computers.
+p227
+aVI'm obsessed.
+p228
+aVSo the Apple computer \u2014 the PowerBook \u2014 this computer,
+p229
+aVit challenges me.
+p230
+aVIt basically says, what are you going to write worthy of me?
+p231
+aVI feel this \u2014 I'm compelled.
+p232
+aa(lp233
+V(Laughter)
+p234
+aa(lp235
+VAnd I often am like, you know, dude, today I'm out.
+p236
+aVI got nothing. You know? So there's that.
+p237
+aa(lp238
+VIn terms of the content of it,
+p239
+aVyou look at stories, you think, what are stories but mystery boxes?
+p240
+aVThere's a fundamental question \u2014 in TV, the first act is called the teaser.
+p241
+aVIt's literally the teaser. It's the big question.
+p242
+aVSo you're drawn into it. Then there's another question.
+p243
+aVAnd it goes on. Look at "Star Wars."
+p244
+aVThe droids meet the mysterious woman.
+p245
+aVWho's that? We don't know. Mystery box! Then you meet Luke Skywalker.
+p246
+aVHe gets the droid, you see the holographic image.
+p247
+aVYou learn it's a message. She wants to find Obi Wan Kenobi.
+p248
+aVHe's her only hope. But who's Obi Wan Kenobi?
+p249
+aVMystery box! So then he meets Ben Kenobi.
+p250
+aVBen Kenobi is Obi Wan Kenobi. Holy shit! So it keeps us \u2014
+p251
+aa(lp252
+V(Laughter)
+p253
+aa(lp254
+VHave you guys not seen that?
+p255
+aa(lp256
+V(Laughter)
+p257
+aa(lp258
+VIt's huge! Anyway \u2014
+p259
+aVSo there's this thing with mystery boxes that I started feeling compelled.
+p260
+aVThen there's the thing of mystery in terms of imagination \u2014
+p261
+aVthe withholding of information.
+p262
+aVYou know, doing that intentionally is much more engaging.
+p263
+aVWhether it's like the shark in "Jaws" \u2014
+p264
+aVif Spielberg's mechanical shark, Bruce, had worked,
+p265
+aVit would not be remotely as scary; you would have seen it too much.
+p266
+aVIn "Alien", they never really showed the alien: terrifying!
+p267
+aVEven in a movie like a romantic comedy, "The Graduate,"
+p268
+aVthey're having that date, and they're in the car,
+p269
+aVand it's loud, and so they put the top up.
+p270
+aVYou don't hear anything they're saying!
+p271
+aVYou can't hear a word! But it's the most romantic date ever.
+p272
+aVAnd you love it because you don't hear it.
+p273
+aa(lp274
+VSo to me, there's that. And then, finally, there's this idea \u2014
+p275
+aVstretching the paradigm a little bit \u2014
+p276
+aVbut the idea of the mystery box.
+p277
+aVMeaning, what you think you're getting, then what you're really getting.
+p278
+aVAnd it's true in so many movies and stories.
+p279
+aVLook at "E.T.," for example \u2014
+p280
+aV"E.T." is this unbelievable movie about what?
+p281
+aVIt's about an alien who meets a kid, right?
+p282
+aVWell, it's not. "E.T." is about divorce.
+p283
+aV"E.T." is about a heartbroken, divorce-crippled family,
+p284
+aVand ultimately, this kid who can't find his way.
+p285
+aV"Die Hard," right? Crazy, great, fun, action-adventure movie in a building.
+p286
+aVIt's about a guy who's on the verge of divorce.
+p287
+aVHe's showing up to L.A., tail between his legs.
+p288
+aVThere are great scenes \u2014
+p289
+aVmaybe not the most amazing dramatic scenes in the history of time,
+p290
+aVbut pretty great scenes.
+p291
+aVThere's a half an hour of investment in character
+p292
+aVbefore you get to the stuff that you're expecting.
+p293
+aa(lp294
+VWhen you look at a movie like "Jaws,"
+p295
+aVthe scene that you expect \u2014 we have the screen?
+p296
+aVThese are the kind of scenes
+p297
+aVthat you remember and expect from "Jaws."
+p298
+aVAnd she's being eaten;
+p299
+aVthere's a shark.
+p300
+aa(lp301
+V(Woman screaming)
+p302
+aa(lp303
+VThe thing about "Jaws" is, it's really about a guy
+p304
+aVwho is sort of dealing with his place in the world \u2014 with his masculinity,
+p305
+aVwith his family, how he's going to, you know, make it work in this new town.
+p306
+aVThis is one of my favorite scenes ever,
+p307
+aVand this is a scene that you wouldn't necessarily think of
+p308
+aVwhen you think of "Jaws." But it's an amazing scene.
+p309
+aa(lp310
+V(Video) Father: C'mere.
+p311
+aVGive us a kiss.
+p312
+aa(lp313
+VSon: Why?
+p314
+aa(lp315
+VFather: 'Cause I need it.
+p316
+aa(lp317
+VJJA: Come on. "Why? 'Cause I need it"?
+p318
+aVBest scene ever, right?
+p319
+aa(lp320
+V(Laughter)
+p321
+aa(lp322
+VCome on! So you think of "Jaws" \u2014
+p323
+aVso that's the kind of stuff that,
+p324
+aVlike, you know \u2014 the investment of character,
+p325
+aVwhich is the stuff that really is inside the box, you know?
+p326
+aVIt's why when people do sequels, or rip off movies, you know, of a genre,
+p327
+aVthey're ripping off the wrong thing.
+p328
+aVYou're not supposed to rip off the shark or the monster.
+p329
+aVYou know, if you rip something off \u2014 rip off the character.
+p330
+aVRip off the stuff that matters.
+p331
+aVI mean, look inside yourself and figure out what is inside you.
+p332
+aVBecause ultimately, the mystery box is all of us.
+p333
+aa(lp334
+VSo there's that. Then the distribution.
+p335
+aVWhat's a bigger mystery box than a movie theater? You know?
+p336
+aVYou go to the theater, you're just so excited to see anything.
+p337
+aVThe moment the lights go down is often the best part.
+p338
+aVAnd you're full of that amazing \u2014 that feeling of excited anticipation.
+p339
+aVAnd often, the movie's there and it's going,
+p340
+aVand then something happens and you go, "Oh \u2014", and then, "Mmm ..."
+p341
+aVWhen it's a great movie, you're along for the ride
+p342
+aVbecause you're willing to give yourself to it.
+p343
+aa(lp344
+VSo to me, whether it's a TV, an iPod, computer, cell phone \u2014
+p345
+aVIt's funny, I'm an \u2014 as I said, Apple fanatic \u2014
+p346
+aVand one day, about a year or so ago,
+p347
+aVI was signing on online in the morning to watch Steve Jobs' keynote,
+p348
+aVbecause I always do.
+p349
+aVAnd he came on, he was presenting the video iPod,
+p350
+aVand what was on the enormous iPod behind him?
+p351
+aV"Lost"! I had no idea!
+p352
+aVAnd I realized, holy shit, it'd come full circle.
+p353
+aVThe inspiration I get from the technology
+p354
+aVis now using the stuff that I do to sell technology. It's nuts!
+p355
+aa(lp356
+V(Laughter)
+p357
+aa(lp358
+VI was going to show you a couple of other things I'm going to skip.
+p359
+aVI'll show you one other thing that has nothing to do with anything.
+p360
+aVThis is something online; six years ago, they did this.
+p361
+aVThis is an online thing done by guys who had some visual effects experience.
+p362
+aVBut the point was, that they were doing things
+p363
+aVthat were using these mystery boxes that they had \u2014 everyone has now.
+p364
+aVWhat I've realized is what my grandfather did for me when I was a kid,
+p365
+aVeveryone has access to now.
+p366
+aVYou don't need to have my grandfather, though you wish you had.
+p367
+aVBut I have to tell you \u2014
+p368
+aVthis is a guy doing stuff on a Quadra 950 computer \u2014
+p369
+aVthe resolution's a little bit low \u2014
+p370
+aVusing Infinity software they stopped making 15 years ago.
+p371
+aVHe's doing stuff that looks as amazing
+p372
+aVas stuff I've seen released from Hollywood.
+p373
+aa(lp374
+VThe most incredible sort of mystery, I think,
+p375
+aVis now the question of what comes next.
+p376
+aVBecause it is now democratized.
+p377
+aVSo now, the creation of media \u2014 it's everywhere.
+p378
+aVThe stuff that I was lucky and begging for to get when I was a kid
+p379
+aVis now ubiquitous.
+p380
+aVAnd so, there's an amazing sense of opportunity out there.
+p381
+aVAnd when I think of the filmmakers who exist out there now
+p382
+aVwho would have been silenced, you know \u2014
+p383
+aVwho have been silenced in the past \u2014
+p384
+aVit's a very exciting thing.
+p385
+aa(lp386
+VI used to say in classes and lectures and stuff,
+p387
+aVto someone who wants to write, "Go! Write! Do your thing."
+p388
+aVIt's free, you don't need permission.
+p389
+aVBut now I can say, "Go make your movie!" There's nothing stopping you
+p390
+aVfrom going out there and getting the technology.
+p391
+aVYou can lease, rent, buy stuff off the shelf
+p392
+aVthat is either as good, or just as good,
+p393
+aVas the stuff that's being used by the, you know, "legit people."
+p394
+aVNo community is best served when only the elite have control.
+p395
+aVAnd I feel like this is an amazing opportunity
+p396
+aVto see what else is out there.
+p397
+aa(lp398
+VWhen I did "Mission: Impossible III," we had amazing visual effects.
+p399
+aVILM did the effects; it was incredible.
+p400
+aVAnd sort of my dream to be involved.
+p401
+aVAnd there are a couple of sequences in the movie,
+p402
+aVlike these couple of moments I'll show you.
+p403
+aVThere's that.
+p404
+aa(lp405
+V(Video) Luther: Ethan, move!
+p406
+aa(lp407
+V(Explosion)
+p408
+aa(lp409
+VObviously, I have an obsession with big crazy explosions.
+p410
+aVSo my favorite visual effect in the movie is the one I'm about to show you.
+p411
+aVIt's a scene in which Tom's character wakes up.
+p412
+aVHe's drowsy. He's crazy.
+p413
+aVAnd the guy wakes up, and he shoves this gun in his nose
+p414
+aVand shoots this little capsule into his brain
+p415
+aVthat he's going to use later to kill him, as bad guys do.
+p416
+aa(lp417
+V(Video) Brownway: Good morning.
+p418
+aa(lp419
+VJJA: OK, now.
+p420
+aVWhen we shot that scene,
+p421
+aVthe actor who had the gun, an English actor, Eddie Marsan \u2014
+p422
+aVsweetheart, great guy \u2014
+p423
+aVhe kept taking the gun and putting it into Tom's nose,
+p424
+aVand it was hurting Tom's nose.
+p425
+aVAnd I learned this very early on in my career:
+p426
+aVDon't hurt Tom's nose.
+p427
+aa(lp428
+V(Laughter)
+p429
+aa(lp430
+VThere are three things you don't want to do.
+p431
+aVNumber two is: Don't hurt Tom's nose.
+p432
+aVSo Eddie has this gun \u2014 and he's this sweet English guy.
+p433
+aVHe's like, "Sorry, I don't want to hurt you."
+p434
+aVI'm like, "We have to make this look good."
+p435
+aVAnd I realized that we had to do something because it wasn't working.
+p436
+aVAnd I thought back to what I would have done
+p437
+aVusing the Super 8 camera that my grandfather got me
+p438
+aVsitting in that room,
+p439
+aVand I realized that hand didn't have to be Eddie Marsan's.
+p440
+aVIt could be Tom's.
+p441
+aVAnd Tom would know just how hard to push the gun.
+p442
+aVHe wouldn't hurt himself.
+p443
+aa(lp444
+VSo we took his hand and we painted it to look a little bit more like Eddie's.
+p445
+aVWe put it in Eddie's sleeve,
+p446
+aVand so the hand that you see \u2014
+p447
+aVthat's not Eddie's hand, that's Tom's. So Tom is playing two roles.
+p448
+aa(lp449
+V(Laughter)
+p450
+aa(lp451
+VAnd he didn't ask for any more money.
+p452
+aVSo here, here. Watch it again.
+p453
+aVThere he is. He's waking up.
+p454
+aVHe's drowsy, been through a lot.
+p455
+aa(lp456
+V(Video) Brownway: Good morning.
+p457
+aa(lp458
+VJJA: Tom's hand. Tom's hand. Tom's hand.
+p459
+aVAnyway.
+p460
+aVSo ...
+p461
+aa(lp462
+V(Applause)
+p463
+aa(lp464
+VThanks.
+p465
+aa(lp466
+V(Applause)
+p467
+aa(lp468
+VSo you don't need the greatest technology to do things that can work in movies.
+p469
+aVAnd the mystery box, in honor of my grandfather, stays closed.
+p470
+aa(lp471
+VThank you.
+p472
+aa(lp473
+V(Applause)
+p474
+aasS'id'
+p475
+I205
+sS'title'
+p476
+VThe mystery box
+p477
+s.

@@ -1,0 +1,849 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VToday I'm going to talk to you about the problem of other minds.
+p4
+aVAnd the problem I'm going to talk about
+p5
+aVis not the familiar one from philosophy,
+p6
+aVwhich is, "How can we know
+p7
+aVwhether other people have minds?"
+p8
+aVThat is, maybe you have a mind,
+p9
+aVand everyone else is just a really convincing robot.
+p10
+aVSo that's a problem in philosophy,
+p11
+aVbut for today's purposes I'm going to assume
+p12
+aVthat many people in this audience have a mind,
+p13
+aVand that I don't have to worry about this.
+p14
+aa(lp15
+VThere is a second problem that is maybe even more familiar to us
+p16
+aVas parents and teachers and spouses
+p17
+aVand novelists,
+p18
+aVwhich is, "Why is it so hard
+p19
+aVto know what somebody else wants or believes?"
+p20
+aVOr perhaps, more relevantly,
+p21
+aV"Why is it so hard to change what somebody else wants or believes?"
+p22
+aa(lp23
+VI think novelists put this best.
+p24
+aVLike Philip Roth, who said,
+p25
+aV"And yet, what are we to do about this terribly significant business
+p26
+aVof other people?
+p27
+aVSo ill equipped are we all,
+p28
+aVto envision one another's interior workings
+p29
+aVand invisible aims."
+p30
+aVSo as a teacher and as a spouse,
+p31
+aVthis is, of course, a problem I confront every day.
+p32
+aVBut as a scientist, I'm interested in a different problem of other minds,
+p33
+aVand that is the one I'm going to introduce to you today.
+p34
+aVAnd that problem is, "How is it so easy
+p35
+aVto know other minds?"
+p36
+aa(lp37
+VSo to start with an illustration,
+p38
+aVyou need almost no information,
+p39
+aVone snapshot of a stranger,
+p40
+aVto guess what this woman is thinking,
+p41
+aVor what this man is.
+p42
+aVAnd put another way, the crux of the problem is
+p43
+aVthe machine that we use for thinking about other minds,
+p44
+aVour brain, is made up of pieces, brain cells,
+p45
+aVthat we share with all other animals, with monkeys
+p46
+aVand mice and even sea slugs.
+p47
+aVAnd yet, you put them together in a particular network,
+p48
+aVand what you get is the capacity to write Romeo and Juliet.
+p49
+aVOr to say, as Alan Greenspan did,
+p50
+aV"I know you think you understand what you thought I said,
+p51
+aVbut I'm not sure you realize that what you heard
+p52
+aVis not what I meant."
+p53
+aV(Laughter)
+p54
+aa(lp55
+VSo, the job of my field of cognitive neuroscience
+p56
+aVis to stand with these ideas,
+p57
+aVone in each hand.
+p58
+aVAnd to try to understand how you can put together
+p59
+aVsimple units, simple messages over space and time, in a network,
+p60
+aVand get this amazing human capacity to think about minds.
+p61
+aVSo I'm going to tell you three things about this today.
+p62
+aVObviously the whole project here is huge.
+p63
+aVAnd I'm going to tell you just our first few steps
+p64
+aVabout the discovery of a special brain region
+p65
+aVfor thinking about other people's thoughts.
+p66
+aVSome observations on the slow development of this system
+p67
+aVas we learn how to do this difficult job.
+p68
+aVAnd then finally, to show that some of the differences
+p69
+aVbetween people, in how we judge others,
+p70
+aVcan be explained by differences in this brain system.
+p71
+aa(lp72
+VSo first, the first thing I want to tell you is that
+p73
+aVthere is a brain region in the human brain, in your brains,
+p74
+aVwhose job it is to think about other people's thoughts.
+p75
+aVThis is a picture of it.
+p76
+aVIt's called the Right Temporo-Parietal Junction.
+p77
+aVIt's above and behind your right ear.
+p78
+aVAnd this is the brain region you used when you saw the pictures I showed you,
+p79
+aVor when you read Romeo and Juliet
+p80
+aVor when you tried to understand Alan Greenspan.
+p81
+aVAnd you don't use it for solving any other kinds of logical problems.
+p82
+aVSo this brain region is called the Right TPJ.
+p83
+aVAnd this picture shows the average activation
+p84
+aVin a group of what we call typical human adults.
+p85
+aVThey're MIT undergraduates.
+p86
+aV(Laughter)
+p87
+aa(lp88
+VThe second thing I want to say about this brain system
+p89
+aVis that although we human adults
+p90
+aVare really good at understanding other minds,
+p91
+aVwe weren't always that way.
+p92
+aVIt takes children a long time to break into the system.
+p93
+aVI'm going to show you a little bit of that long, extended process.
+p94
+aVThe first thing I'm going to show you is a change between age three and five,
+p95
+aVas kids learn to understand
+p96
+aVthat somebody else can have beliefs that are different from their own.
+p97
+aVSo I'm going to show you a five-year-old
+p98
+aVwho is getting a standard kind of puzzle
+p99
+aVthat we call the false belief task.
+p100
+aa(lp101
+VRebecca Saxe (Video): This is the first pirate. His name is Ivan.
+p102
+aVAnd you know what pirates really like?
+p103
+aa(lp104
+VChild: What? RS: Pirates really like cheese sandwiches.
+p105
+aa(lp106
+VChild: Cheese? I love cheese!
+p107
+aa(lp108
+VRS: Yeah. So Ivan has this cheese sandwich,
+p109
+aVand he says, "Yum yum yum yum yum!
+p110
+aVI really love cheese sandwiches."
+p111
+aVAnd Ivan puts his sandwich over here, on top of the pirate chest.
+p112
+aVAnd Ivan says, "You know what? I need a drink with my lunch."
+p113
+aVAnd so Ivan goes to get a drink.
+p114
+aVAnd while Ivan is away
+p115
+aVthe wind comes,
+p116
+aVand it blows the sandwich down onto the grass.
+p117
+aVAnd now, here comes the other pirate.
+p118
+aVThis pirate is called Joshua.
+p119
+aVAnd Joshua also really loves cheese sandwiches.
+p120
+aVSo Joshua has a cheese sandwich and he says,
+p121
+aV"Yum yum yum yum yum! I love cheese sandwiches."
+p122
+aVAnd he puts his cheese sandwich over here on top of the pirate chest.
+p123
+aa(lp124
+VChild: So, that one is his.
+p125
+aa(lp126
+VRS: That one is Joshua's. That's right.
+p127
+aa(lp128
+VChild: And then his went on the ground.
+p129
+aa(lp130
+VRS: That's exactly right.
+p131
+aa(lp132
+VChild: So he won't know which one is his.
+p133
+aa(lp134
+VRS: Oh. So now Joshua goes off to get a drink.
+p135
+aVIvan comes back and he says, "I want my cheese sandwich."
+p136
+aVSo which one do you think Ivan is going to take?
+p137
+aa(lp138
+VChild: I think he is going to take that one.
+p139
+aa(lp140
+VRS: Yeah, you think he's going to take that one? All right. Let's see.
+p141
+aVOh yeah, you were right. He took that one.
+p142
+aa(lp143
+VSo that's a five-year-old who clearly understands
+p144
+aVthat other people can have false beliefs
+p145
+aVand what the consequences are for their actions.
+p146
+aVNow I'm going to show you a three-year-old
+p147
+aVwho got the same puzzle.
+p148
+aa(lp149
+VRS: And Ivan says, "I want my cheese sandwich."
+p150
+aVWhich sandwich is he going to take?
+p151
+aVDo you think he's going to take that one? Let's see what happens.
+p152
+aVLet's see what he does. Here comes Ivan.
+p153
+aVAnd he says, "I want my cheese sandwich."
+p154
+aVAnd he takes this one.
+p155
+aVUh-oh. Why did he take that one?
+p156
+aa(lp157
+VChild: His was on the grass.
+p158
+aa(lp159
+VSo the three-year-old does two things differently.
+p160
+aVFirst, he predicts Ivan will take the sandwich
+p161
+aVthat's really his.
+p162
+aVAnd second, when he sees Ivan taking the sandwich where he left his,
+p163
+aVwhere we would say he's taking that one because he thinks it's his,
+p164
+aVthe three-year-old comes up with another explanation:
+p165
+aVHe's not taking his own sandwich because he doesn't want it,
+p166
+aVbecause now it's dirty, on the ground.
+p167
+aVSo that's why he's taking the other sandwich.
+p168
+aVNow of course, development doesn't end at five.
+p169
+aVAnd we can see the continuation of this process
+p170
+aVof learning to think about other people's thoughts
+p171
+aVby upping the ante
+p172
+aVand asking children now, not for an action prediction,
+p173
+aVbut for a moral judgment.
+p174
+aVSo first I'm going to show you the three-year-old again.
+p175
+aa(lp176
+VRS.: So is Ivan being mean and naughty for taking Joshua's sandwich?
+p177
+aa(lp178
+VChild: Yeah.
+p179
+aa(lp180
+VRS: Should Ivan get in trouble for taking Joshua's sandwich?
+p181
+aa(lp182
+VChild: Yeah.
+p183
+aa(lp184
+VSo it's maybe not surprising he thinks it was mean of Ivan
+p185
+aVto take Joshua's sandwich,
+p186
+aVsince he thinks Ivan only took Joshua's sandwich
+p187
+aVto avoid having to eat his own dirty sandwich.
+p188
+aVBut now I'm going to show you the five-year-old.
+p189
+aVRemember the five-year-old completely understood
+p190
+aVwhy Ivan took Joshua's sandwich.
+p191
+aa(lp192
+VRS: Was Ivan being mean and naughty
+p193
+aVfor taking Joshua's sandwich?
+p194
+aa(lp195
+VChild: Um, yeah.
+p196
+aa(lp197
+VAnd so, it is not until age seven
+p198
+aVthat we get what looks more like an adult response.
+p199
+aa(lp200
+VRS: Should Ivan get in trouble for taking Joshua's sandwich?
+p201
+aa(lp202
+VChild: No, because the wind should get in trouble.
+p203
+aa(lp204
+VHe says the wind should get in trouble
+p205
+aVfor switching the sandwiches.
+p206
+aV(Laughter)
+p207
+aa(lp208
+VAnd now what we've started to do in my lab
+p209
+aVis to put children into the brain scanner
+p210
+aVand ask what's going on in their brain
+p211
+aVas they develop this ability to think about other people's thoughts.
+p212
+aVSo the first thing is that in children we see this same brain region, the Right TPJ,
+p213
+aVbeing used while children are thinking about other people.
+p214
+aVBut it's not quite like the adult brain.
+p215
+aa(lp216
+VSo whereas in the adults, as I told you,
+p217
+aVthis brain region is almost completely specialized \u2014
+p218
+aVit does almost nothing else except for thinking about other people's thoughts \u2014
+p219
+aVin children it's much less so,
+p220
+aVwhen they are age five to eight,
+p221
+aVthe age range of the children I just showed you.
+p222
+aVAnd actually if we even look at eight to 11-year-olds,
+p223
+aVgetting into early adolescence,
+p224
+aVthey still don't have quite an adult-like brain region.
+p225
+aVAnd so, what we can see is that over the course of childhood
+p226
+aVand even into adolescence,
+p227
+aVboth the cognitive system,
+p228
+aVour mind's ability to think about other minds,
+p229
+aVand the brain system that supports it
+p230
+aVare continuing, slowly, to develop.
+p231
+aa(lp232
+VBut of course, as you're probably aware,
+p233
+aVeven in adulthood,
+p234
+aVpeople differ from one another in how good they are
+p235
+aVat thinking of other minds, how often they do it
+p236
+aVand how accurately.
+p237
+aVAnd so what we wanted to know was, could differences among adults
+p238
+aVin how they think about other people's thoughts
+p239
+aVbe explained in terms of differences in this brain region?
+p240
+aVSo, the first thing that we did is we gave adults a version
+p241
+aVof the pirate problem that we gave to the kids.
+p242
+aVAnd I'm going to give that to you now.
+p243
+aa(lp244
+VSo Grace and her friend are on a tour of a chemical factory,
+p245
+aVand they take a break for coffee.
+p246
+aVAnd Grace's friend asks for some sugar in her coffee.
+p247
+aVGrace goes to make the coffee
+p248
+aVand finds by the coffee a pot
+p249
+aVcontaining a white powder, which is sugar.
+p250
+aVBut the powder is labeled "Deadly Poison,"
+p251
+aVso Grace thinks that the powder is a deadly poison.
+p252
+aVAnd she puts it in her friend's coffee.
+p253
+aVAnd her friend drinks the coffee, and is fine.
+p254
+aa(lp255
+VHow many people think it was morally permissible
+p256
+aVfor Grace to put the powder in the coffee?
+p257
+aVOkay. Good. (Laughter)
+p258
+aVSo we ask people, how much should Grace be blamed
+p259
+aVin this case, which we call a failed attempt to harm?
+p260
+aa(lp261
+VAnd we can compare that to another case,
+p262
+aVwhere everything in the real world is the same.
+p263
+aVThe powder is still sugar, but what's different is what Grace thinks.
+p264
+aVNow she thinks the powder is sugar.
+p265
+aVAnd perhaps unsurprisingly, if Grace thinks the powder is sugar
+p266
+aVand puts it in her friend's coffee,
+p267
+aVpeople say she deserves no blame at all.
+p268
+aVWhereas if she thinks the powder was poison, even though it's really sugar,
+p269
+aVnow people say she deserves a lot of blame,
+p270
+aVeven though what happened in the real world was exactly the same.
+p271
+aa(lp272
+VAnd in fact, they say she deserves more blame
+p273
+aVin this case, the failed attempt to harm,
+p274
+aVthan in another case,
+p275
+aVwhich we call an accident.
+p276
+aVWhere Grace thought the powder was sugar,
+p277
+aVbecause it was labeled "sugar" and by the coffee machine,
+p278
+aVbut actually the powder was poison.
+p279
+aVSo even though when the powder was poison,
+p280
+aVthe friend drank the coffee and died,
+p281
+aVpeople say Grace deserves less blame in that case,
+p282
+aVwhen she innocently thought it was sugar,
+p283
+aVthan in the other case, where she thought it was poison
+p284
+aVand no harm occurred.
+p285
+aa(lp286
+VPeople, though, disagree a little bit
+p287
+aVabout exactly how much blame Grace should get
+p288
+aVin the accident case.
+p289
+aVSome people think she should deserve more blame,
+p290
+aVand other people less.
+p291
+aVAnd what I'm going to show you is what happened when we look inside
+p292
+aVthe brains of people while they're making that judgment.
+p293
+aVSo what I'm showing you, from left to right,
+p294
+aVis how much activity there was in this brain region,
+p295
+aVand from top to bottom, how much blame
+p296
+aVpeople said that Grace deserved.
+p297
+aa(lp298
+VAnd what you can see is, on the left
+p299
+aVwhen there was very little activity in this brain region,
+p300
+aVpeople paid little attention to her innocent belief
+p301
+aVand said she deserved a lot of blame for the accident.
+p302
+aVWhereas on the right, where there was a lot of activity,
+p303
+aVpeople paid a lot more attention to her innocent belief,
+p304
+aVand said she deserved a lot less blame
+p305
+aVfor causing the accident.
+p306
+aa(lp307
+VSo that's good, but of course
+p308
+aVwhat we'd rather is have a way to interfere
+p309
+aVwith function in this brain region,
+p310
+aVand see if we could change people's moral judgment.
+p311
+aVAnd we do have such a tool.
+p312
+aVIt's called Trans-Cranial Magnetic Stimulation,
+p313
+aVor TMS.
+p314
+aVThis is a tool that lets us pass a magnetic pulse
+p315
+aVthrough somebody's skull, into a small region of their brain,
+p316
+aVand temporarily disorganize the function of the neurons in that region.
+p317
+aa(lp318
+VSo I'm going to show you a demo of this.
+p319
+aVFirst, I'm going to show you that this is a magnetic pulse.
+p320
+aVI'm going to show you what happens when you put a quarter on the machine.
+p321
+aVWhen you hear clicks, we're turning the machine on.
+p322
+aVSo now I'm going to apply that same pulse to my brain,
+p323
+aVto the part of my brain that controls my hand.
+p324
+aVSo there is no physical force, just a magnetic pulse.
+p325
+aa(lp326
+VWoman (Video): Ready, Rebecca? RS: Yes.
+p327
+aa(lp328
+VOkay, so it causes a small involuntary contraction in my hand
+p329
+aVby putting a magnetic pulse in my brain.
+p330
+aVAnd we can use that same pulse,
+p331
+aVnow applied to the RTPJ,
+p332
+aVto ask if we can change people's moral judgments.
+p333
+aVSo these are the judgments I showed you before, people's normal moral judgments.
+p334
+aVAnd then we can apply TMS to the RTPJ
+p335
+aVand ask how people's judgments change.
+p336
+aVAnd the first thing is, people can still do this task overall.
+p337
+aa(lp338
+VSo their judgments of the case when everything was fine
+p339
+aVremain the same. They say she deserves no blame.
+p340
+aVBut in the case of a failed attempt to harm,
+p341
+aVwhere Grace thought that it was poison, although it was really sugar,
+p342
+aVpeople now say it was more okay, she deserves less blame
+p343
+aVfor putting the powder in the coffee.
+p344
+aa(lp345
+VAnd in the case of the accident, where she thought that it was sugar,
+p346
+aVbut it was really poison and so she caused a death,
+p347
+aVpeople say that it was less okay, she deserves more blame.
+p348
+aVSo what I've told you today is that
+p349
+aVpeople come, actually, especially well equipped
+p350
+aVto think about other people's thoughts.
+p351
+aa(lp352
+VWe have a special brain system
+p353
+aVthat lets us think about what other people are thinking.
+p354
+aVThis system takes a long time to develop,
+p355
+aVslowly throughout the course of childhood and into early adolescence.
+p356
+aVAnd even in adulthood, differences in this brain region
+p357
+aVcan explain differences among adults
+p358
+aVin how we think about and judge other people.
+p359
+aa(lp360
+VBut I want to give the last word back to the novelists,
+p361
+aVand to Philip Roth, who ended by saying,
+p362
+aV"The fact remains that getting people right
+p363
+aVis not what living is all about anyway.
+p364
+aVIt's getting them wrong that is living.
+p365
+aVGetting them wrong and wrong and wrong,
+p366
+aVand then on careful reconsideration,
+p367
+aVgetting them wrong again."
+p368
+aVThank you.
+p369
+aV(Applause)
+p370
+aa(lp371
+VChris Anderson: So, I have a question. When you start talking about using
+p372
+aVmagnetic pulses to change people's moral judgments,
+p373
+aVthat sounds alarming.
+p374
+aV(Laughter)
+p375
+aVPlease tell me that you're not taking phone calls from the Pentagon, say.
+p376
+aa(lp377
+VRS: I'm not.
+p378
+aVI mean, they're calling, but I'm not taking the call.
+p379
+aV(Laughter)
+p380
+aa(lp381
+VCA: They really are calling?
+p382
+aVSo then seriously,
+p383
+aVyou must lie awake at night sometimes
+p384
+aVwondering where this work leads.
+p385
+aVI mean, you're clearly an incredible human being,
+p386
+aVbut someone could take this knowledge
+p387
+aVand in some future
+p388
+aVnot-torture chamber,
+p389
+aVdo acts that people here might be worried about.
+p390
+aa(lp391
+VRS: Yeah, we worry about this.
+p392
+aVSo, there's a couple of things to say about TMS.
+p393
+aVOne is that you can't be TMSed without knowing it.
+p394
+aVSo it's not a surreptitious technology.
+p395
+aVIt's quite hard, actually, to get those very small changes.
+p396
+aVThe changes I showed you are impressive to me
+p397
+aVbecause of what they tell us about the function of the brain,
+p398
+aVbut they're small on the scale
+p399
+aVof the moral judgments that we actually make.
+p400
+aa(lp401
+VAnd what we changed was not people's
+p402
+aVmoral judgments when they're deciding what to do,
+p403
+aVwhen they're making action choices.
+p404
+aVWe changed their ability to judge other people's actions.
+p405
+aVAnd so, I think of what I'm doing not so much as
+p406
+aVstudying the defendant in a criminal trial,
+p407
+aVbut studying the jury.
+p408
+aa(lp409
+VCA: Is your work going to lead to any recommendations
+p410
+aVin education, to perhaps bring up
+p411
+aVa generation of kids able to make fairer moral judgments?
+p412
+aa(lp413
+VRS: That's one of the idealistic hopes.
+p414
+aVThe whole research program here of studying
+p415
+aVthe distinctive parts of the human brain is brand new.
+p416
+aVUntil recently, what we knew about the brain
+p417
+aVwere the things that any other animal's brain could do too,
+p418
+aVso we could study it in animal models.
+p419
+aVWe knew how brains see, and how they control the body
+p420
+aVand how they hear and sense.
+p421
+aVAnd the whole project of understanding
+p422
+aVhow brains do the uniquely human things \u2014
+p423
+aVlearn language and abstract concepts,
+p424
+aVand thinking about other people's thoughts \u2014 that's brand new.
+p425
+aVAnd we don't know yet what the implications will be
+p426
+aVof understanding it.
+p427
+aa(lp428
+VCA: So I've got one last question. There is this thing called
+p429
+aVthe hard problem of consciousness,
+p430
+aVthat puzzles a lot of people.
+p431
+aVThe notion that you can understand
+p432
+aVwhy a brain works, perhaps.
+p433
+aVBut why does anyone have to feel anything?
+p434
+aVWhy does it seem to require these beings who sense things
+p435
+aVfor us to operate?
+p436
+aVYou're a brilliant young neuroscientist.
+p437
+aVI mean, what chances do you think there are
+p438
+aVthat at some time in your career,
+p439
+aVsomeone, you or someone else,
+p440
+aVis going to come up with some paradigm shift
+p441
+aVin understanding what seems an impossible problem?
+p442
+aa(lp443
+VRS: I hope they do. And I think they probably won't.
+p444
+aa(lp445
+VCA: Why?
+p446
+aa(lp447
+VRS: It's not called the hard problem of consciousness for nothing.
+p448
+aV(Laughter)
+p449
+aa(lp450
+VCA: That's a great answer. Rebecca Saxe, thank you very much. That was fantastic.
+p451
+aV(Applause)
+p452
+aasS'id'
+p453
+I630
+sS'title'
+p454
+VHow we read each other's minds
+p455
+s.

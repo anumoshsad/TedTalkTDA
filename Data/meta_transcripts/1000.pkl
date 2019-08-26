@@ -1,0 +1,850 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI have a doppelganger.
+p4
+aV(Laughter)
+p5
+aVDr. Gero is a brilliant
+p6
+aVbut slightly mad scientist
+p7
+aVin the "Dragonball Z: Android Saga."
+p8
+aVIf you look very carefully,
+p9
+aVyou see that his skull has been replaced
+p10
+aVwith a transparent Plexiglas dome
+p11
+aVso that the workings of his brain can be observed
+p12
+aVand also controlled with light.
+p13
+aVThat's exactly what I do \u2014
+p14
+aVoptical mind control.
+p15
+aa(lp16
+V(Laughter)
+p17
+aa(lp18
+VBut in contrast to my evil twin
+p19
+aVwho lusts after world domination,
+p20
+aVmy motives are not sinister.
+p21
+aVI control the brain
+p22
+aVin order to understand how it works.
+p23
+aVNow wait a minute, you may say,
+p24
+aVhow can you go straight to controlling the brain
+p25
+aVwithout understanding it first?
+p26
+aVIsn't that putting the cart before the horse?
+p27
+aVMany neuroscientists agree with this view
+p28
+aVand think that understanding will come
+p29
+aVfrom more detailed observation and analysis.
+p30
+aVThey say, "If we could record the activity of our neurons,
+p31
+aVwe would understand the brain."
+p32
+aVBut think for a moment what that means.
+p33
+aVEven if we could measure
+p34
+aVwhat every cell is doing at all times,
+p35
+aVwe would still have to make sense
+p36
+aVof the recorded activity patterns,
+p37
+aVand that's so difficult,
+p38
+aVchances are we'll understand these patterns
+p39
+aVjust as little as the brains that produce them.
+p40
+aa(lp41
+VTake a look at what brain activity might look like.
+p42
+aVIn this simulation, each black dot
+p43
+aVis one nerve cell.
+p44
+aVThe dot is visible
+p45
+aVwhenever a cell fires an electrical impulse.
+p46
+aVThere's 10,000 neurons here.
+p47
+aVSo you're looking at roughly one percent
+p48
+aVof the brain of a cockroach.
+p49
+aVYour brains are about 100 million times
+p50
+aVmore complicated.
+p51
+aVSomewhere, in a pattern like this,
+p52
+aVis you,
+p53
+aVyour perceptions,
+p54
+aVyour emotions, your memories,
+p55
+aVyour plans for the future.
+p56
+aVBut we don't know where,
+p57
+aVsince we don't know how to read the pattern.
+p58
+aVWe don't understand the code used by the brain.
+p59
+aVTo make progress,
+p60
+aVwe need to break the code.
+p61
+aVBut how?
+p62
+aVAn experienced code-breaker will tell you
+p63
+aVthat in order to figure out what the symbols in a code mean,
+p64
+aVit's essential to be able to play with them,
+p65
+aVto rearrange them at will.
+p66
+aVSo in this situation too,
+p67
+aVto decode the information
+p68
+aVcontained in patterns like this,
+p69
+aVwatching alone won't do.
+p70
+aVWe need to rearrange the pattern.
+p71
+aVIn other words,
+p72
+aVinstead of recording the activity of neurons,
+p73
+aVwe need to control it.
+p74
+aVIt's not essential that we can control
+p75
+aVthe activity of all neurons in the brain, just some.
+p76
+aVThe more targeted our interventions, the better.
+p77
+aVAnd I'll show you in a moment
+p78
+aVhow we can achieve the necessary precision.
+p79
+aa(lp80
+VAnd since I'm realistic, rather than grandiose,
+p81
+aVI don't claim that the ability to control the function of the nervous system
+p82
+aVwill at once unravel all its mysteries.
+p83
+aVBut we'll certainly learn a lot.
+p84
+aVNow, I'm by no means
+p85
+aVthe first person to realize
+p86
+aVhow powerful a tool intervention is.
+p87
+aVThe history of attempts
+p88
+aVto tinker with the function of the nervous system
+p89
+aVis long and illustrious.
+p90
+aVIt dates back at least 200 years,
+p91
+aVto Galvani's famous experiments
+p92
+aVin the late 18th century and beyond.
+p93
+aVGalvani showed that a frog's legs twitched
+p94
+aVwhen he connected the lumbar nerve
+p95
+aVto a source of electrical current.
+p96
+aVThis experiment revealed the first, and perhaps most fundamental,
+p97
+aVnugget of the neural code:
+p98
+aVthat information is written in the form
+p99
+aVof electrical impulses.
+p100
+aVGalvani's approach
+p101
+aVof probing the nervous system with electrodes
+p102
+aVhas remained state-of-the-art until today,
+p103
+aVdespite a number of drawbacks.
+p104
+aVSticking wires into the brain is obviously rather crude.
+p105
+aVIt's hard to do in animals that run around,
+p106
+aVand there is a physical limit
+p107
+aVto the number of wires
+p108
+aVthat can be inserted simultaneously.
+p109
+aa(lp110
+VSo around the turn of the last century,
+p111
+aVI started to think,
+p112
+aV"Wouldn't it be wonderful if one could take this logic
+p113
+aVand turn it upside down?"
+p114
+aVSo instead of inserting a wire
+p115
+aVinto one spot of the brain,
+p116
+aVre-engineer the brain itself
+p117
+aVso that some of its neural elements
+p118
+aVbecome responsive to diffusely broadcast signals
+p119
+aVsuch as a flash of light.
+p120
+aVSuch an approach would literally, in a flash of light,
+p121
+aVovercome many of the obstacles to discovery.
+p122
+aVFirst, it's clearly a non-invasive,
+p123
+aVwireless form of communication.
+p124
+aVAnd second, just as in a radio broadcast,
+p125
+aVyou can communicate with many receivers at once.
+p126
+aVYou don't need to know where these receivers are,
+p127
+aVand it doesn't matter if these receivers move \u2014
+p128
+aVjust think of the stereo in your car.
+p129
+aVIt gets even better,
+p130
+aVfor it turns out that we can fabricate the receivers
+p131
+aVout of materials that are encoded in DNA.
+p132
+aVSo each nerve cell
+p133
+aVwith the right genetic makeup
+p134
+aVwill spontaneously produce a receiver
+p135
+aVthat allows us to control its function.
+p136
+aVI hope you'll appreciate
+p137
+aVthe beautiful simplicity
+p138
+aVof this concept.
+p139
+aVThere's no high-tech gizmos here,
+p140
+aVjust biology revealed through biology.
+p141
+aa(lp142
+VNow let's take a look at these miraculous receivers up close.
+p143
+aVAs we zoom in on one of these purple neurons,
+p144
+aVwe see that its outer membrane
+p145
+aVis studded with microscopic pores.
+p146
+aVPores like these conduct electrical current
+p147
+aVand are responsible
+p148
+aVfor all the communication in the nervous system.
+p149
+aVBut these pores here are special.
+p150
+aVThey are coupled to light receptors
+p151
+aVsimilar to the ones in your eyes.
+p152
+aVWhenever a flash of light hits the receptor,
+p153
+aVthe pore opens, an electrical current is switched on,
+p154
+aVand the neuron fires electrical impulses.
+p155
+aVBecause the light-activated pore is encoded in DNA,
+p156
+aVwe can achieve incredible precision.
+p157
+aVThis is because,
+p158
+aValthough each cell in our bodies
+p159
+aVcontains the same set of genes,
+p160
+aVdifferent mixes of genes get turned on and off
+p161
+aVin different cells.
+p162
+aVYou can exploit this to make sure
+p163
+aVthat only some neurons
+p164
+aVcontain our light-activated pore and others don't.
+p165
+aVSo in this cartoon, the bluish white cell
+p166
+aVin the upper-left corner
+p167
+aVdoes not respond to light
+p168
+aVbecause it lacks the light-activated pore.
+p169
+aVThe approach works so well
+p170
+aVthat we can write purely artificial messages
+p171
+aVdirectly to the brain.
+p172
+aVIn this example, each electrical impulse,
+p173
+aVeach deflection on the trace,
+p174
+aVis caused by a brief pulse of light.
+p175
+aVAnd the approach, of course, also works
+p176
+aVin moving, behaving animals.
+p177
+aa(lp178
+VThis is the first ever such experiment,
+p179
+aVsort of the optical equivalent of Galvani's.
+p180
+aVIt was done six or seven years ago
+p181
+aVby my then graduate student, Susana Lima.
+p182
+aVSusana had engineered the fruit fly on the left
+p183
+aVso that just two out of the 200,000 cells in its brain
+p184
+aVexpressed the light-activated pore.
+p185
+aVYou're familiar with these cells
+p186
+aVbecause they are the ones that frustrate you
+p187
+aVwhen you try to swat the fly.
+p188
+aVThey trained the escape reflex that makes the fly jump into the air
+p189
+aVand fly away whenever you move your hand in position.
+p190
+aVAnd you can see here that the flash of light has exactly the same effect.
+p191
+aVThe animal jumps, it spreads its wings, it vibrates them,
+p192
+aVbut it can't actually take off
+p193
+aVbecause the fly is sandwiched between two glass plates.
+p194
+aVNow to make sure that this was no reaction of the fly
+p195
+aVto a flash it could see,
+p196
+aVSusana did a simple
+p197
+aVbut brutally effective experiment.
+p198
+aVShe cut the heads off of her flies.
+p199
+aVThese headless bodies can live for about a day,
+p200
+aVbut they don't do much.
+p201
+aVThey just stand around
+p202
+aVand groom excessively.
+p203
+aVSo it seems that the only trait that survives decapitation is vanity.
+p204
+aV(Laughter)
+p205
+aVAnyway, as you'll see in a moment,
+p206
+aVSusana was able to turn on the flight motor
+p207
+aVof what's the equivalent of the spinal cord of these flies
+p208
+aVand get some of the headless bodies
+p209
+aVto actually take off and fly away.
+p210
+aVThey didn't get very far, obviously.
+p211
+aVSince we took these first steps,
+p212
+aVthe field of optogenetics has exploded.
+p213
+aVAnd there are now hundreds of labs
+p214
+aVusing these approaches.
+p215
+aa(lp216
+VAnd we've come a long way
+p217
+aVsince Galvani's and Susana's first successes
+p218
+aVin making animals twitch or jump.
+p219
+aVWe can now actually interfere with their psychology
+p220
+aVin rather profound ways,
+p221
+aVas I'll show you in my last example,
+p222
+aVwhich is directed at a familiar question.
+p223
+aVLife is a string of choices
+p224
+aVcreating a constant pressure to decide what to do next.
+p225
+aVWe cope with this pressure by having brains,
+p226
+aVand within our brains, decision-making centers
+p227
+aVthat I've called here the "Actor."
+p228
+aVThe Actor implements a policy that takes into account
+p229
+aVthe state of the environment
+p230
+aVand the context in which we operate.
+p231
+aVOur actions change the environment, or context,
+p232
+aVand these changes are then fed back into the decision loop.
+p233
+aa(lp234
+VNow to put some neurobiological meat
+p235
+aVon this abstract model,
+p236
+aVwe constructed a simple one-dimensional world
+p237
+aVfor our favorite subject, fruit flies.
+p238
+aVEach chamber in these two vertical stacks
+p239
+aVcontains one fly.
+p240
+aVThe left and the right halves of the chamber
+p241
+aVare filled with two different odors,
+p242
+aVand a security camera watches
+p243
+aVas the flies pace up and down between them.
+p244
+aVHere's some such CCTV footage.
+p245
+aVWhenever a fly reaches the midpoint of the chamber
+p246
+aVwhere the two odor streams meet,
+p247
+aVit has to make a decision.
+p248
+aVIt has to decide whether to turn around
+p249
+aVand stay in the same odor,
+p250
+aVor whether to cross the midline
+p251
+aVand try something new.
+p252
+aVThese decisions are clearly a reflection
+p253
+aVof the Actor's policy.
+p254
+aVNow for an intelligent being like our fly,
+p255
+aVthis policy is not written in stone
+p256
+aVbut rather changes as the animal learns from experience.
+p257
+aVWe can incorporate such an element
+p258
+aVof adaptive intelligence into our model
+p259
+aVby assuming that the fly's brain
+p260
+aVcontains not only an Actor,
+p261
+aVbut a different group of cells,
+p262
+aVa "Critic," that provides a running commentary
+p263
+aVon the Actor's choices.
+p264
+aVYou can think of this nagging inner voice
+p265
+aVas sort of the brain's equivalent
+p266
+aVof the Catholic Church,
+p267
+aVif you're an Austrian like me,
+p268
+aVor the super-ego, if you're Freudian,
+p269
+aVor your mother, if you're Jewish.
+p270
+aa(lp271
+V(Laughter)
+p272
+aa(lp273
+VNow obviously,
+p274
+aVthe Critic is a key ingredient
+p275
+aVin what makes us intelligent.
+p276
+aVSo we set out to identify
+p277
+aVthe cells in the fly's brain
+p278
+aVthat played the role of the Critic.
+p279
+aVAnd the logic of our experiment was simple.
+p280
+aVWe thought if we could use our optical remote control
+p281
+aVto activate the cells of the Critic,
+p282
+aVwe should be able, artificially, to nag the Actor
+p283
+aVinto changing its policy.
+p284
+aVIn other words,
+p285
+aVthe fly should learn from mistakes
+p286
+aVthat it thought it had made
+p287
+aVbut, in reality, it had not made.
+p288
+aVSo we bred flies
+p289
+aVwhose brains were more or less randomly peppered
+p290
+aVwith cells that were light addressable.
+p291
+aVAnd then we took these flies
+p292
+aVand allowed them to make choices.
+p293
+aVAnd whenever they made one of the two choices,
+p294
+aVchose one odor,
+p295
+aVin this case the blue one over the orange one,
+p296
+aVwe switched on the lights.
+p297
+aVIf the Critic was among the optically activated cells,
+p298
+aVthe result of this intervention
+p299
+aVshould be a change in policy.
+p300
+aVThe fly should learn to avoid
+p301
+aVthe optically reinforced odor.
+p302
+aa(lp303
+VHere's what happened in two instances:
+p304
+aVWe're comparing two strains of flies,
+p305
+aVeach of them having
+p306
+aVabout 100 light-addressable cells in their brains,
+p307
+aVshown here in green on the left and on the right.
+p308
+aVWhat's common among these groups of cells
+p309
+aVis that they all produce the neurotransmitter dopamine.
+p310
+aVBut the identities of the individual
+p311
+aVdopamine-producing neurons
+p312
+aVare clearly largely different on the left and on the right.
+p313
+aVOptically activating
+p314
+aVthese hundred or so cells
+p315
+aVinto two strains of flies
+p316
+aVhas dramatically different consequences.
+p317
+aVIf you look first at the behavior
+p318
+aVof the fly on the right,
+p319
+aVyou can see that whenever it reaches the midpoint of the chamber
+p320
+aVwhere the two odors meet,
+p321
+aVit marches straight through, as it did before.
+p322
+aVIts behavior is completely unchanged.
+p323
+aVBut the behavior of the fly on the left is very different.
+p324
+aVWhenever it comes up to the midpoint,
+p325
+aVit pauses,
+p326
+aVit carefully scans the odor interface
+p327
+aVas if it was sniffing out its environment,
+p328
+aVand then it turns around.
+p329
+aVThis means that the policy that the Actor implements
+p330
+aVnow includes an instruction to avoid the odor
+p331
+aVthat's in the right half of the chamber.
+p332
+aVThis means that the Critic
+p333
+aVmust have spoken in that animal,
+p334
+aVand that the Critic must be contained
+p335
+aVamong the dopamine-producing neurons on the left,
+p336
+aVbut not among the dopamine producing neurons on the right.
+p337
+aa(lp338
+VThrough many such experiments,
+p339
+aVwe were able to narrow down
+p340
+aVthe identity of the Critic
+p341
+aVto just 12 cells.
+p342
+aVThese 12 cells, as shown here in green,
+p343
+aVsend the output to a brain structure
+p344
+aVcalled the "mushroom body,"
+p345
+aVwhich is shown here in gray.
+p346
+aVWe know from our formal model
+p347
+aVthat the brain structure
+p348
+aVat the receiving end of the Critic's commentary is the Actor.
+p349
+aVSo this anatomy suggests
+p350
+aVthat the mushroom bodies have something to do
+p351
+aVwith action choice.
+p352
+aVBased on everything we know about the mushroom bodies,
+p353
+aVthis makes perfect sense.
+p354
+aVIn fact, it makes so much sense
+p355
+aVthat we can construct an electronic toy circuit
+p356
+aVthat simulates the behavior of the fly.
+p357
+aVIn this electronic toy circuit,
+p358
+aVthe mushroom body neurons are symbolized
+p359
+aVby the vertical bank of blue LEDs
+p360
+aVin the center of the board.
+p361
+aVThese LED's are wired to sensors
+p362
+aVthat detect the presence of odorous molecules in the air.
+p363
+aVEach odor activates a different combination of sensors,
+p364
+aVwhich in turn activates
+p365
+aVa different odor detector in the mushroom body.
+p366
+aVSo the pilot in the cockpit of the fly,
+p367
+aVthe Actor,
+p368
+aVcan tell which odor is present
+p369
+aVsimply by looking at which of the blue LEDs lights up.
+p370
+aa(lp371
+VWhat the Actor does with this information
+p372
+aVdepends on its policy,
+p373
+aVwhich is stored in the strengths of the connection,
+p374
+aVbetween the odor detectors
+p375
+aVand the motors
+p376
+aVthat power the fly's evasive actions.
+p377
+aVIf the connection is weak, the motors will stay off
+p378
+aVand the fly will continue straight on its course.
+p379
+aVIf the connection is strong, the motors will turn on
+p380
+aVand the fly will initiate a turn.
+p381
+aVNow consider a situation
+p382
+aVin which the motors stay off,
+p383
+aVthe fly continues on its path
+p384
+aVand it suffers some painful consequence
+p385
+aVsuch as getting zapped.
+p386
+aVIn a situation like this,
+p387
+aVwe would expect the Critic to speak up
+p388
+aVand to tell the Actor
+p389
+aVto change its policy.
+p390
+aVWe have created such a situation, artificially,
+p391
+aVby turning on the critic with a flash of light.
+p392
+aVThat caused a strengthening of the connections
+p393
+aVbetween the currently active odor detector
+p394
+aVand the motors.
+p395
+aVSo the next time
+p396
+aVthe fly finds itself facing the same odor again,
+p397
+aVthe connection is strong enough to turn on the motors
+p398
+aVand to trigger an evasive maneuver.
+p399
+aa(lp400
+VI don't know about you,
+p401
+aVbut I find it exhilarating to see
+p402
+aVhow vague psychological notions
+p403
+aVevaporate and give rise
+p404
+aVto a physical, mechanistic understanding of the mind,
+p405
+aVeven if it's the mind of the fly.
+p406
+aVThis is one piece of good news.
+p407
+aVThe other piece of good news,
+p408
+aVfor a scientist at least,
+p409
+aVis that much remains to be discovered.
+p410
+aVIn the experiments I told you about,
+p411
+aVwe have lifted the identity of the Critic,
+p412
+aVbut we still have no idea
+p413
+aVhow the Critic does its job.
+p414
+aVCome to think of it, knowing when you're wrong
+p415
+aVwithout a teacher, or your mother, telling you,
+p416
+aVis a very hard problem.
+p417
+aVThere are some ideas in computer science
+p418
+aVand in artificial intelligence
+p419
+aVas to how this might be done,
+p420
+aVbut we still haven't solved
+p421
+aVa single example
+p422
+aVof how intelligent behavior
+p423
+aVsprings from the physical interactions
+p424
+aVin living matter.
+p425
+aVI think we'll get there in the not too distant future.
+p426
+aa(lp427
+VThank you.
+p428
+aa(lp429
+V(Applause)
+p430
+aasS'id'
+p431
+I1000
+sS'title'
+p432
+VRe-engineering the brain
+p433
+s.

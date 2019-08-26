@@ -1,0 +1,386 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VA girl I've never met before
+p4
+aVchanged my life and the life of thousands of other people.
+p5
+aVI'm the CEO of DoSomething.org.
+p6
+aVIt's one of the largest organizations in the world for young people.
+p7
+aVIn fact it's bigger than the Boy Scouts in the United States.
+p8
+aVAnd we're not homophobic.
+p9
+aa(lp10
+V(Laughter)
+p11
+aa(lp12
+VAnd it's true \u2014 the way we communicate with young people is by text,
+p13
+aVbecause that's how young people communicate.
+p14
+aVSo we'll run over 200 campaigns this year,
+p15
+aVthings like collecting peanut butter for food pantries,
+p16
+aVor making Valentine's Day cards for senior citizens who are homebound.
+p17
+aVAnd we'll text them.
+p18
+aVAnd we'll have a 97 percent open rate.
+p19
+aVIt'll over-index Hispanic and urban.
+p20
+aVWe collected 200,000 jars of peanut butter
+p21
+aVand over 365,000 Valentine's Day cards.
+p22
+aVThis is big scale. OK \u2014
+p23
+aa(lp24
+V(Applause)
+p25
+aa(lp26
+VBut there's one weird side effect.
+p27
+aVEvery time we send out a text message,
+p28
+aVwe get back a few dozen text messages having nothing to do with peanut butter
+p29
+aVor hunger or senior citizens \u2014
+p30
+aVbut text messages about being bullied,
+p31
+aVtext messages about being addicted to pot.
+p32
+aVAnd the worst message we ever got said exactly this:
+p33
+aV"He won't stop raping me.
+p34
+aVIt's my dad.
+p35
+aVHe told me not to tell anyone. Are you there?"
+p36
+aa(lp37
+VWe couldn't believe this was happening.
+p38
+aVWe couldn't believe that something so horrific could happen to a human being,
+p39
+aVand that she would share it with us \u2014 something so intimate, so personal.
+p40
+aVAnd we realized we had to stop triaging this
+p41
+aVand we had to build a crisis text line for these people in pain.
+p42
+aVSo we launched Crisis Text Line,
+p43
+aVvery quietly, in Chicago and El Paso \u2014 just a few thousand people in each market.
+p44
+aVAnd in four months, we were in all 295 area codes in America.
+p45
+aVJust to put that into perspective,
+p46
+aVthat's zero marketing and faster growth than when Facebook first launched.
+p47
+aa(lp48
+V(Applause)
+p49
+aa(lp50
+VText is unbelievably private.
+p51
+aVNo one hears you talking.
+p52
+aVSo we spike everyday at lunch time \u2014
+p53
+aVkids are sitting at the lunch table
+p54
+aVand you think that she's texting the cute boy across the hall,
+p55
+aVbut she's actually texting us about her bulimia.
+p56
+aVAnd we don't get the word "like" or "um" or hyperventilating or crying.
+p57
+aVWe just get facts.
+p58
+aa(lp59
+VWe get things like, "I want to die.
+p60
+aVI have a bottle of pills on the desk in front of me."
+p61
+aVAnd so the crisis counselor says,
+p62
+aV"How about you put those pills in the drawer while we text?"
+p63
+aVAnd they go back and forth for a while.
+p64
+aVAnd the crisis counselor gets the girl to give her her address,
+p65
+aVbecause if you're texting a text line, you want help.
+p66
+aVSo she gets the address
+p67
+aVand the counselor triggers an active rescue
+p68
+aVwhile they're texting back and forth.
+p69
+aVAnd then it goes quiet \u2014
+p70
+aV23 minutes with no response from this girl.
+p71
+aVAnd the next message that comes in says \u2014
+p72
+aVit's the mom \u2014
+p73
+aV"I had no idea, and I was in the house,
+p74
+aVwe're in an ambulance on our way to the hospital."
+p75
+aVAs a mom that one just \u2014
+p76
+aVThe next message comes a month later.
+p77
+aV"I just got out of the hospital.
+p78
+aVI was diagnosed as bipolar, and I think I'm going to be OK."
+p79
+aa(lp80
+V(Applause)
+p81
+aa(lp82
+VI would love to tell you that that's an unusual exchange,
+p83
+aVbut we're doing on average 2.41 active rescues a day.
+p84
+aVThirty percent of our text messages are about suicide and depression \u2014 huge.
+p85
+aVThe beautiful thing about Crisis Text Line
+p86
+aVis that these are strangers counseling other strangers
+p87
+aVon the most intimate issues,
+p88
+aVand getting them from hot moments to cold moments.
+p89
+aVIt's exciting, and I will tell you
+p90
+aVthat we have done a total of more than 6.5 million text messages
+p91
+aVin less than two years.
+p92
+aa(lp93
+V(Applause)
+p94
+aa(lp95
+VBut the thing that really gets me hot and sweaty about this,
+p96
+aVthe thing that really gets me psyched is the data:
+p97
+aV6.5 million messages \u2014
+p98
+aVthat's the volume, velocity and variety to provide a really juicy corpus.
+p99
+aVWe can do things like predictive work.
+p100
+aVWe can do all kinds of conclusions and learnings from that data set.
+p101
+aVSo we can be better, and the world can be better.
+p102
+aVSo how do we use the data to make us better?
+p103
+aVAlright, chances are someone here, someone watching this
+p104
+aVhas seen a therapist or a shrink at some point in time in your life \u2014
+p105
+aVyou do not have to raise your hand.
+p106
+aa(lp107
+V(Laughter)
+p108
+aa(lp109
+VHow do you know that person's any good?
+p110
+aVOh, they have a degree from Harvard on the wall?
+p111
+aVAre you sure he didn't graduate in the bottom 10 percent?
+p112
+aa(lp113
+V(Laughter)
+p114
+aa(lp115
+VWhen my husband and I saw a marriage counselor,
+p116
+aVI thought she was a genius when she said,
+p117
+aV"I'll see you guys in two weeks \u2014 but I need to see you next week, sir."
+p118
+aa(lp119
+V(Laughter)
+p120
+aa(lp121
+VWe have the data to know what makes a great counselor.
+p122
+aVWe know that if you text the words "numbs" and "sleeve,"
+p123
+aVthere's a 99 percent match for cutting.
+p124
+aVWe know that if you text in the words "mg" and "rubber band,"
+p125
+aVthere's a 99 percent match for substance abuse.
+p126
+aVAnd we know that if you text in "sex," "oral" and "Mormon,"
+p127
+aVyou're questioning if you're gay.
+p128
+aVNow that's interesting information that a counselor could figure out
+p129
+aVbut that algorithm in our hands means that an automatic pop-up says,
+p130
+aV"99 percent match for cutting \u2014 try asking one of these questions"
+p131
+aVto prompt the counselor.
+p132
+aVOr "99 percent match for substance abuse,
+p133
+aVhere are three drug clinics near the texter."
+p134
+aVIt makes us more accurate.
+p135
+aa(lp136
+VOn the day that Robin Williams committed suicide,
+p137
+aVpeople flooded hotlines all over this country.
+p138
+aVIt was sad to see an icon, a funnyman, commit suicide,
+p139
+aVand there were three hour wait times on every phone hotline in the country.
+p140
+aVWe had a spike in volume also.
+p141
+aVThe difference was
+p142
+aVif you text us, "I want to die," or "I want to kill myself,"
+p143
+aVthe algorithm reads that, you're code orange,
+p144
+aVand you become number one in the queue.
+p145
+aVSo we can handle severity, not chronological.
+p146
+aa(lp147
+V(Applause)
+p148
+aa(lp149
+VThis data is also making the world better
+p150
+aVbecause I'm sitting on the world's first map of real-time crises.
+p151
+aVThink about it:
+p152
+aVthose 6.5 million messages, auto-tagging through natural language processes,
+p153
+aVall of these data points \u2014
+p154
+aVI can tell you that the worst day of the week for eating disorders: Monday.
+p155
+aVThe worst time of day for substance abuse: 5am.
+p156
+aVAnd that Montana is a beautiful place to visit
+p157
+aVbut you do not want to live there,
+p158
+aVbecause it is the number one state for suicidal ideation.
+p159
+aa(lp160
+VAnd we've made this data public and free and open.
+p161
+aVWe've pulled all the personally identifiable information.
+p162
+aVAnd it's in a place called CrisisTrends.org.
+p163
+aVBecause I want schools to be able to see
+p164
+aVthat Monday is the worst day for eating disorders,
+p165
+aVso that they can plan meals
+p166
+aVand guidance counselors to be there on Mondays.
+p167
+aVAnd I want families to see that substance abuse questions spike at 5am.
+p168
+aVI want somebody to take care of those Native American reservations in Montana.
+p169
+aa(lp170
+V(Applause)
+p171
+aa(lp172
+VData, evidence
+p173
+aVmakes policy, research,
+p174
+aVjournalism, policing, school boards \u2014 everything better.
+p175
+aVI don't think of myself as a mental health activist.
+p176
+aVI think of myself as a national health activist.
+p177
+aVI get really excited about this data, I'm a little nerdy.
+p178
+aVYeah, that sounded too girly.
+p179
+aVI'm nerdy.
+p180
+aa(lp181
+V(Laughter)
+p182
+aa(lp183
+VI love data.
+p184
+aVAnd the only difference really between me and those people in hoodies down the road
+p185
+aVwith their fat-funded companies,
+p186
+aVis that I'm not inspired by helping you find Chinese food at 2am in Dallas,
+p187
+aVor helping you touch your wrist and get a car immediately,
+p188
+aVor swipe right and get laid.
+p189
+aVI'm inspired \u2014
+p190
+aa(lp191
+V(Laughter, applause)
+p192
+aa(lp193
+VI want to use tech and data to make the world a better place.
+p194
+aVI want to use it to help that girl,
+p195
+aVwho texted in about  being raped by her father.
+p196
+aVBecause the truth is we never heard from her again.
+p197
+aVAnd I hope that she is somewhere safe and healthy,
+p198
+aVand I hope that she sees this talk
+p199
+aVand she knows that her desperation
+p200
+aVand her courage inspired the creation of Crisis Text Line
+p201
+aVand inspires me every freaking day.
+p202
+aa(lp203
+V(Applause)
+p204
+aasS'id'
+p205
+I2362
+sS'title'
+p206
+VHow data from a crisis text line is saving lives
+p207
+s.

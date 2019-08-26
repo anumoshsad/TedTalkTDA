@@ -1,0 +1,203 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThank you very much.
+p4
+aVNow, I've got a story for you.
+p5
+aVWhen I arrived off the plane,
+p6
+aVafter a very long journey from the West of England,
+p7
+aVmy computer, my beloved laptop,
+p8
+aVhad gone mad,
+p9
+aVand had \u2014 oh! \u2014 a bit like that! \u2014
+p10
+aVand the display on it \u2014
+p11
+aVanyway, the whole thing had burst.
+p12
+aVAnd I went to the IT guys here
+p13
+aVand a gentleman mended my computer,
+p14
+aVand then he said, "What are you doing here?"
+p15
+aVand I said "I'm playing the cello and I'm doing a bit of singing,"
+p16
+aVand he said, "Oh, I sort of play the cello as well."
+p17
+aVAnd I said, "Do you really?"
+p18
+aVAnyway, so you're in for a treat,
+p19
+aVbecause he's fantastic, and his name's Mark.
+p20
+aa(lp21
+V(Applause)
+p22
+aa(lp23
+VI am also joined by my partner in crime, Thomas Dolby.
+p24
+aa(lp25
+V(Applause)
+p26
+aa(lp27
+VThis song is called "Farther than the Sun."
+p28
+aa(lp29
+V(Music)
+p30
+aa(lp31
+V\u266b Strung in the wind I called you \u266b
+p32
+aa(lp33
+V\u266b but you did not hear ... \u266b
+p34
+aa(lp35
+V\u266b And you're a plant that needs poor soil \u266b
+p36
+aa(lp37
+V\u266b and I have treated you too well \u266b
+p38
+aa(lp39
+V\u266b to give up flowers ... \u266b
+p40
+aa(lp41
+V\u266b Oh, I have been too rich for you ... \u266b
+p42
+aa(lp43
+V\u266b Farther than the sun from me \u266b
+p44
+aa(lp45
+V\u266b Farther than I'd have you be \u266b
+p46
+aa(lp47
+V\u266b And I go north, I get so cold \u266b
+p48
+aa(lp49
+V\u266b My heart is lava under stone \u266b
+p50
+aa(lp51
+V\u266b You are not worthy \u266b
+p52
+aa(lp53
+V\u266b You are not worthy ... \u266b
+p54
+aa(lp55
+V\u266b With your calculating eyes \u266b
+p56
+aa(lp57
+V\u266b spinning figures \u266b
+p58
+aa(lp59
+V\u266b you cannot see me \u266b
+p60
+aa(lp61
+V\u266b You cannot see me ... \u266b
+p62
+aa(lp63
+V\u266b And if I tell myself enough \u266b
+p64
+aa(lp65
+V\u266b I'll believe it \u266b
+p66
+aa(lp67
+V\u266b You are not worthy \u266b
+p68
+aa(lp69
+V\u266b The sea, it freezes over ... \u266b
+p70
+aa(lp71
+V\u266b to trap the light \u266b
+p72
+aa(lp73
+V\u266b And I'm in love with being in love \u266b
+p74
+aa(lp75
+V\u266b and you were never quite the one \u266b
+p76
+aa(lp77
+V\u266b In Gerda's eyes \u266b
+p78
+aa(lp79
+V\u266b Fragments of what you've become \u266b
+p80
+aa(lp81
+V\u266b And all the moths that fly at night \u266b
+p82
+aa(lp83
+V\u266b believe electric light is bright \u266b
+p84
+aa(lp85
+V\u266b You are not worthy \u266b
+p86
+aa(lp87
+V\u266b You are not worthy \u266b
+p88
+aa(lp89
+V\u266b With your calculating eyes \u266b
+p90
+aa(lp91
+V\u266b Spinning figures \u266b
+p92
+aa(lp93
+V\u266b You cannot see me, no \u266b
+p94
+aa(lp95
+V\u266b And if I tell myself enough \u266b
+p96
+aa(lp97
+V\u266b I'll believe it \u266b
+p98
+aa(lp99
+V\u266b You are not worthy \u266b
+p100
+aa(lp101
+V\u266b Farther than the sun from me \u266b
+p102
+aa(lp103
+V\u266b Farther than I'd have you be \u266b
+p104
+aa(lp105
+V\u266b And I go north, I get so cold \u266b
+p106
+aa(lp107
+V\u266b My heart is lava under stone \u266b
+p108
+aa(lp109
+V\u266b You are not worthy \u266b
+p110
+aa(lp111
+V\u266b You are not worthy \u266b
+p112
+aa(lp113
+V\u266b With your calculating eyes \u266b
+p114
+aa(lp115
+V\u266b Spinning figures \u266b
+p116
+aa(lp117
+V\u266b You cannot see me, no ... \u266b
+p118
+aa(lp119
+V\u266b And if I tell myself enough, I'll believe it \u266b
+p120
+aa(lp121
+V(Applause)
+p122
+aa(lp123
+VThank you very much.
+p124
+aasS'id'
+p125
+I101
+sS'title'
+p126
+VCasting a spell on the cello
+p127
+s.

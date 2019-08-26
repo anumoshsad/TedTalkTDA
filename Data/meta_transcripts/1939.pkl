@@ -1,0 +1,501 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI had brain surgery 18 years ago,
+p4
+aVand since that time, brain science has become
+p5
+aVa personal passion of mine.
+p6
+aVI'm actually an engineer.
+p7
+aVAnd first let me say, I recently joined
+p8
+aVGoogle's Moonshot group,
+p9
+aVwhere I had a division,
+p10
+aVthe display division in Google X,
+p11
+aVand the brain science work I'm speaking about today
+p12
+aVis work I did before I joined Google
+p13
+aVand on the side outside of Google.
+p14
+aa(lp15
+VSo that said, there's a stigma
+p16
+aVwhen you have brain surgery.
+p17
+aVAre you still smart or not?
+p18
+aVAnd if not, can you make yourself smart again?
+p19
+aa(lp20
+VAfter my neurosurgery,
+p21
+aVpart of my brain was missing,
+p22
+aVand I had to deal with that.
+p23
+aVIt wasn't the grey matter, but it  was the gooey part dead center
+p24
+aVthat makes key hormones and neurotransmitters.
+p25
+aVImmediately after my surgery,
+p26
+aVI had to decide what amounts of each of over
+p27
+aVa dozen powerful chemicals to take each day,
+p28
+aVbecause if I just took nothing,
+p29
+aVI would die within hours.
+p30
+aVEvery day now for 18 years \u2014 every single day \u2014
+p31
+aVI've had to try to decide the combinations
+p32
+aVand mixtures of chemicals,
+p33
+aVand try to get them, to stay alive.
+p34
+aVThere have been several close calls.
+p35
+aa(lp36
+VBut luckily, I'm an experimentalist at heart,
+p37
+aVso I decided I would experiment
+p38
+aVto try to find more optimal dosages
+p39
+aVbecause there really isn't a clear road map
+p40
+aVon this that's detailed.
+p41
+aVI began to try different mixtures,
+p42
+aVand I was blown away by how
+p43
+aVtiny changes in dosages
+p44
+aVdramatically changed my sense of self,
+p45
+aVmy sense of who I was, my thinking,
+p46
+aVmy behavior towards people.
+p47
+aVOne particularly dramatic case:
+p48
+aVfor a couple months I actually tried dosages
+p49
+aVand chemicals typical of a man in his early 20s,
+p50
+aVand I was blown away by how my thoughts changed.
+p51
+aV(Laughter)
+p52
+aVI was angry all the time,
+p53
+aVI thought about sex constantly,
+p54
+aVand I thought I was the smartest person
+p55
+aVin the entire world, and
+p56
+aV\u2014(Laughter)\u2014
+p57
+aVof course over the years I'd met guys kind of like that,
+p58
+aVor maybe kind of toned-down versions of that.
+p59
+aVI was kind of extreme.
+p60
+aVBut to me, the surprise was,
+p61
+aVI wasn't trying to be arrogant.
+p62
+aVI was actually trying,
+p63
+aVwith a little bit of insecurity,
+p64
+aVto actually fix a problem in front of me,
+p65
+aVand it just didn't come out that way.
+p66
+aa(lp67
+VSo I couldn't handle it.
+p68
+aVI changed my dosages.
+p69
+aVBut that experience, I think, gave me
+p70
+aVa new appreciation for men
+p71
+aVand what they might walk through,
+p72
+aVand I've gotten along with men
+p73
+aVa lot better since then.
+p74
+aa(lp75
+VWhat I was trying to do
+p76
+aVwith tuning these hormones
+p77
+aVand neurotransmitters and so forth
+p78
+aVwas to try to get my intelligence back
+p79
+aVafter my illness and surgery,
+p80
+aVmy creative thought, my idea flow.
+p81
+aVAnd I think mostly in images,
+p82
+aVand so for me that became a key metric \u2014
+p83
+aVhow to get these mental images
+p84
+aVthat I use as a way of rapid prototyping,
+p85
+aVif you will, my ideas,
+p86
+aVtrying on different new ideas for size,
+p87
+aVplaying out scenarios.
+p88
+aVThis kind of thinking isn't new.
+p89
+aVPhiliosophers like Hume and Descartes and Hobbes
+p90
+aVsaw things similarly.
+p91
+aVThey thought that mental images and ideas
+p92
+aVwere actually the same thing.
+p93
+aVThere are those today that dispute that,
+p94
+aVand lots of debates about how the mind works,
+p95
+aVbut for me it's simple:
+p96
+aVMental images, for most of us,
+p97
+aVare central in inventive and creative thinking.
+p98
+aa(lp99
+VSo after several years,
+p100
+aVI tuned myself up and I have lots of great,
+p101
+aVreally vivid mental images with a lot of sophistication
+p102
+aVand the analytical backbone behind them.
+p103
+aVAnd so now I'm working on,
+p104
+aVhow can I get these mental images in my mind
+p105
+aVout to my computer screen faster?
+p106
+aVCan you imagine, if you will,
+p107
+aVa movie director being able to use
+p108
+aVher imagination alone to direct the world in front of her?
+p109
+aVOr a musician to get the music out of his head?
+p110
+aVThere are incredible possibilities with this
+p111
+aVas a way for creative people
+p112
+aVto share at light speed.
+p113
+aVAnd the truth is, the remaining bottleneck
+p114
+aVin being able to do this
+p115
+aVis just upping the resolution of brain scan systems.
+p116
+aa(lp117
+VSo let me show you why I think  we're pretty close to getting there
+p118
+aVby sharing with you two recent experiments
+p119
+aVfrom two top neuroscience groups.
+p120
+aVBoth used fMRI technology \u2014
+p121
+aVfunctional magnetic resonance imaging technology \u2014
+p122
+aVto image the brain,
+p123
+aVand here is a brain scan set from Giorgio Ganis
+p124
+aVand his colleagues at Harvard.
+p125
+aVAnd the left-hand column shows a brain scan
+p126
+aVof a person looking at an image.
+p127
+aVThe middle column shows the brainscan
+p128
+aVof that same individual
+p129
+aVimagining, seeing that same image.
+p130
+aVAnd the right column was created
+p131
+aVby subtracting the middle  column from the left column,
+p132
+aVshowing the difference to be nearly zero.
+p133
+aVThis was repeated on lots of different individuals
+p134
+aVwith lots of different images,
+p135
+aValways with a similar result.
+p136
+aVThe difference between seeing an image
+p137
+aVand imagining seeing that same image
+p138
+aVis next to nothing.
+p139
+aa(lp140
+VNext let me share with you one other experiment,
+p141
+aVthis from Jack Gallant's lab at Cal Berkeley.
+p142
+aVThey've been able to decode brainwaves
+p143
+aVinto recognizable visual fields.
+p144
+aVSo let me set this up for you.
+p145
+aVIn this experiment, individuals were shown
+p146
+aVhundreds of hours of YouTube videos
+p147
+aVwhile scans were made of their brains
+p148
+aVto create a large library of their brain reacting
+p149
+aVto video sequences.
+p150
+aVThen a new movie was shown with new images,
+p151
+aVnew people, new animals in it,
+p152
+aVand a new scan set was recorded.
+p153
+aVThe computer, using brain scan data alone,
+p154
+aVdecoded that new brain scan
+p155
+aVto show what it thought the  individual was actually seeing.
+p156
+aVOn the right-hand side, you see the computer's guess,
+p157
+aVand on the left-hand side, the presented clip.
+p158
+aVThis is the jaw-dropper.
+p159
+aVWe are so close to being able to do this.
+p160
+aVWe just need to up the resolution.
+p161
+aVAnd now remember that when you see an image
+p162
+aVversus when you imagine that same image,
+p163
+aVit creates the same brain scan.
+p164
+aa(lp165
+VSo this was done with the highest-resolution
+p166
+aVbrain scan systems available today,
+p167
+aVand their resolution has increased really
+p168
+aVabout a thousandfold in the last several years.
+p169
+aVNext we need to increase the resolution
+p170
+aVanother thousandfold
+p171
+aVto get a deeper glimpse.
+p172
+aVHow do we do that?
+p173
+aVThere's a lot of techniques in this approach.
+p174
+aVOne way is to crack open your skull and put in electrodes.
+p175
+aVI'm not for that.
+p176
+aVThere's a lot of new imaging techniques
+p177
+aVbeing proposed, some even by me,
+p178
+aVbut given the recent success of MRI,
+p179
+aVfirst we need to ask the question,
+p180
+aVis it the end of the road with this technology?
+p181
+aVConventional wisdom says the only way
+p182
+aVto get higher resolution is with bigger magnets,
+p183
+aVbut at this point bigger magnets
+p184
+aVonly offer incremental resolution improvements,
+p185
+aVnot the thousandfold we need.
+p186
+aVI'm putting forward an idea:
+p187
+aVinstead of bigger magnets,
+p188
+aVlet's make better magnets.
+p189
+aVThere's some new technology breakthroughs
+p190
+aVin nanoscience
+p191
+aVwhen applied to magnetic structures
+p192
+aVthat have created a whole new class of magnets,
+p193
+aVand with these magnets, we can lay down
+p194
+aVvery fine detailed magnetic field patterns
+p195
+aVthroughout the brain,
+p196
+aVand using those, we can actually create
+p197
+aVholographic-like interference structures
+p198
+aVto get precision control over many patterns,
+p199
+aVas is shown here by shifting things.
+p200
+aVWe can create much more complicated structures
+p201
+aVwith slightly different arrangements,
+p202
+aVkind of like making Spirograph.
+p203
+aa(lp204
+VSo why does that matter?
+p205
+aVA lot of effort in MRI over the years
+p206
+aVhas gone into making really big,
+p207
+aVreally huge magnets, right?
+p208
+aVBut yet most of the recent advances
+p209
+aVin resolution have actually come from
+p210
+aVingeniously clever encoding and decoding solutions
+p211
+aVin the F.M. radio frequency transmitters and receivers
+p212
+aVin the MRI systems.
+p213
+aVLet's also, instead of a uniform magnetic field,
+p214
+aVput down structured magnetic patterns
+p215
+aVin addition to the F.M. radio frequencies.
+p216
+aVSo by combining the magnetics patterns
+p217
+aVwith the patterns in the F.M. radio frequencies
+p218
+aVprocessing which can massively increase
+p219
+aVthe information that we can extract
+p220
+aVin a single scan.
+p221
+aVAnd on top of that, we can then layer
+p222
+aVour ever-growing knowledge  of brain structure and memory
+p223
+aVto create a thousandfold increase that we need.
+p224
+aVAnd using fMRI, we should be able to measure
+p225
+aVnot just oxygenated blood flow,
+p226
+aVbut the hormones and neurotransmitters  I've talked about
+p227
+aVand maybe even the direct neural activity,
+p228
+aVwhich is the dream.
+p229
+aa(lp230
+VWe're going to be able to dump our ideas
+p231
+aVdirectly to digital media.
+p232
+aVCould you imagine if we could leapfrog language
+p233
+aVand communicate directly with human thought?
+p234
+aVWhat would we be capable of then?
+p235
+aVAnd how will we learn to deal
+p236
+aVwith the truths of unfiltered human thought?
+p237
+aVYou think the Internet was big.
+p238
+aVThese are huge questions.
+p239
+aVIt might be irresistible as a tool
+p240
+aVto amplify our thinking and communication skills.
+p241
+aVAnd indeed, this very same tool
+p242
+aVmay prove to lead to the cure
+p243
+aVfor Alzheimer's and similar diseases.
+p244
+aa(lp245
+VWe have little option but to open this door.
+p246
+aVRegardless, pick a year \u2014
+p247
+aVwill it happen in five years or 15 years?
+p248
+aVIt's hard to imagine it taking much longer.
+p249
+aVWe need to learn how to take this step together.
+p250
+aa(lp251
+VThank you.
+p252
+aa(lp253
+V(Applause)
+p254
+aasS'id'
+p255
+I1939
+sS'title'
+p256
+VCould future devices read images from our brains?
+p257
+s.

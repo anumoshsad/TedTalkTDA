@@ -1,0 +1,273 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI would like to demonstrate for the first time in public
+p4
+aVthat it is possible to transmit a video
+p5
+aVfrom a standard off-the-shelf LED lamp
+p6
+aVto a solar cell with a laptop acting as a receiver.
+p7
+aVThere is no Wi-Fi involved, it's just light.
+p8
+aa(lp9
+VAnd you may wonder, what's the point?
+p10
+aVAnd the point is this:
+p11
+aVThere will be a massive extension of the Internet
+p12
+aVto close the digital divide,
+p13
+aVand also to allow for what we call "The Internet of Things" \u2014
+p14
+aVtens of billions of devices connected to the Internet.
+p15
+aa(lp16
+VIn my view, such an extension of the Internet can only work
+p17
+aVif it's almost energy-neutral.
+p18
+aVThis means we need to use existing infrastructure as much as possible.
+p19
+aVAnd this is where the solar cell and the LED come in.
+p20
+aa(lp21
+VI demonstrated for the first time,
+p22
+aVat TED in 2011,
+p23
+aVLi-Fi, or Light Fidelity.
+p24
+aVLi-Fi uses off-the-shelf LEDs to transmit data incredibly fast,
+p25
+aVand also in a safe and secure manner.
+p26
+aVData is transported by the light,
+p27
+aVencoded in subtle changes of the brightness.
+p28
+aVIf we look around, we have many LEDs around us,
+p29
+aVso there's a rich infrastructure of Li-Fi transmitters around us.
+p30
+aVBut so far, we have been using special devices \u2014 small photo detectors,
+p31
+aVto receive the information encoded in the data.
+p32
+aVI wanted to find a way to also use existing infrastructure
+p33
+aVto receive data from our Li-Fi lights.
+p34
+aVAnd this is why I have been looking into solar cells and solar panels.
+p35
+aa(lp36
+VA solar cell absorbs light and converts it into electrical energy.
+p37
+aVThis is why we can use a solar cell to charge our mobile phone.
+p38
+aVBut now we need to remember
+p39
+aVthat the data is encoded in subtle changes of the brightness of the LED,
+p40
+aVso if the incoming light fluctuates,
+p41
+aVso does the energy harvested from the solar cell.
+p42
+aVThis means we have a principal mechanism in place
+p43
+aVto receive information from the light and by the solar cell,
+p44
+aVbecause the fluctuations of the energy harvested
+p45
+aVcorrespond to the data transmitted.
+p46
+aa(lp47
+VOf course the question is:
+p48
+aVcan we receive very fast and subtle changes of the brightness,
+p49
+aVsuch as the ones transmitted by our LED lights?
+p50
+aVAnd the answer to that is yes, we can.
+p51
+aVWe have shown in the lab
+p52
+aVthat we can receive up to 50 megabytes per second
+p53
+aVfrom a standard, off-the-shelf solar cell.
+p54
+aVAnd this is faster than most broadband connections these days.
+p55
+aa(lp56
+VNow let me show you in practice.
+p57
+aVIn this box is a standard, off-the-shelf LED lamp.
+p58
+aVThis is a standard, off-the-shelf solar cell;
+p59
+aVit is connected to the laptop.
+p60
+aVAnd also we have an instrument here
+p61
+aVto visualize the energy we harvest from the solar cell.
+p62
+aVAnd this instrument shows something at the moment.
+p63
+aVThis is because the solar cell already harvests light from the ambient light.
+p64
+aa(lp65
+VNow what I would like to do first is switch on the light,
+p66
+aVand I'll simply, only switch on the light,
+p67
+aVfor a moment,
+p68
+aVand what you'll notice is that the instrument jumps to the right.
+p69
+aVSo the solar cell, for a moment,
+p70
+aVis harvesting energy from this artificial light source.
+p71
+aVIf I turn it off, we see it drops.
+p72
+aVI turn it on ...
+p73
+aVSo we harvest energy with the solar cell.
+p74
+aa(lp75
+VBut next I would like to activate the streaming of the video.
+p76
+aVAnd I've done this by pressing this button.
+p77
+aVSo now this LED lamp here is streaming a video
+p78
+aVby changing the brightness of the LED in a very subtle way,
+p79
+aVand in a way that you can't recognize with your eye,
+p80
+aVbecause the changes are too fast to recognize.
+p81
+aVBut in order to prove the point,
+p82
+aVI can block the light of the solar cell.
+p83
+aVSo first you notice the energy harvesting drops
+p84
+aVand the video stops as well.
+p85
+aVIf I remove the blockage, the video will restart.
+p86
+aa(lp87
+V(Applause)
+p88
+aa(lp89
+VAnd I can repeat that.
+p90
+aVSo we stop the transmission of the video and energy harvesting stops as well.
+p91
+aVSo that is to show that the solar cell acts as a receiver.
+p92
+aa(lp93
+VBut now imagine that this LED lamp is a street light, and there's fog.
+p94
+aVAnd so I want to simulate fog,
+p95
+aVand that's why I brought a handkerchief with me.
+p96
+aa(lp97
+V(Laughter)
+p98
+aa(lp99
+VAnd let me put the handkerchief over the solar cell.
+p100
+aVFirst you notice
+p101
+aVthe energy harvested drops, as expected,
+p102
+aVbut now the video still continues.
+p103
+aVThis means, despite the blockage,
+p104
+aVthere's sufficient light coming through the handkerchief to the solar cell,
+p105
+aVso that the solar cell is able to decode and stream that information,
+p106
+aVin this case, a high-definition video.
+p107
+aa(lp108
+VWhat's really important here is that a solar cell has become a receiver
+p109
+aVfor high-speed wireless signals encoded in light,
+p110
+aVwhile it maintains its primary function as an energy-harvesting device.
+p111
+aVThat's why it is possible
+p112
+aVto use existing solar cells on the roof of a hut
+p113
+aVto act as a broadband receiver
+p114
+aVfrom a laser station on a close by hill, or indeed, lamp post.
+p115
+aa(lp116
+VAnd It really doesn't matter where the beam hits the solar cell.
+p117
+aVAnd the same is true
+p118
+aVfor translucent solar cells integrated into windows,
+p119
+aVsolar cells integrated into street furniture,
+p120
+aVor indeed, solar cells integrated into these billions of devices
+p121
+aVthat will form the Internet of Things.
+p122
+aVBecause simply,
+p123
+aVwe don't want to charge these devices regularly,
+p124
+aVor worse, replace the batteries every few months.
+p125
+aa(lp126
+VAs I said to you,
+p127
+aVthis is the first time I've shown this in public.
+p128
+aVIt's very much a lab demonstration,
+p129
+aVa prototype.
+p130
+aVBut my team and I are confident that we can take this to market
+p131
+aVwithin the next two to three years.
+p132
+aVAnd we hope we will be able to contribute to closing the digital divide,
+p133
+aVand also contribute
+p134
+aVto connecting all these billions of devices to the Internet.
+p135
+aVAnd all of this without causing
+p136
+aVa massive explosion of energy consumption \u2014
+p137
+aVbecause of the solar cells, quite the opposite.
+p138
+aa(lp139
+VThank you.
+p140
+aa(lp141
+V(Applause)
+p142
+aasS'id'
+p143
+I2368
+sS'title'
+p144
+VForget Wi-Fi. Meet the new Li-Fi Internet
+p145
+s.

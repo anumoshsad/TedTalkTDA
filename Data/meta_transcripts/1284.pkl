@@ -1,0 +1,338 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI, like many of you,
+p4
+aVam one of the two billion people on Earth who live in cities.
+p5
+aVAnd there are days \u2014 I don't know about the rest of you \u2014
+p6
+aVbut there are days when I palpably feel
+p7
+aVhow much I rely on other people
+p8
+aVfor pretty much everything in my life.
+p9
+aVAnd some days, that can even be a little scary.
+p10
+aVBut what I'm here to talk to you about today
+p11
+aVis how that same interdependence
+p12
+aVis actually an extremely powerful social infrastructure
+p13
+aVthat we can actually harness
+p14
+aVto help heal some of our deepest civic issues,
+p15
+aVif we apply open-source collaboration.
+p16
+aa(lp17
+VA couple of years ago,
+p18
+aVI read an article by New York Times writer Michael Pollan,
+p19
+aVin which he argued that growing even some of our own food
+p20
+aVis one of the best things that we can do for the environment.
+p21
+aVNow at the time that I was reading this,
+p22
+aVit was the middle of the winter
+p23
+aVand I definitely did not have room for a lot of dirt
+p24
+aVin my New York City apartment.
+p25
+aVSo I was basically just willing to settle
+p26
+aVfor just reading the next Wired magazine
+p27
+aVand finding out how the experts were going to figure out
+p28
+aVhow to solve all these problems for us in the future.
+p29
+aVBut that was actually exactly the point
+p30
+aVthat Michael Pollan was making in this article \u2014
+p31
+aVit's precisely when we hand over
+p32
+aVthe responsibility for all these things to specialists
+p33
+aVthat we cause the kind of messes that we see with the food system.
+p34
+aa(lp35
+VSo, I happen to know a little bit from my own work
+p36
+aVabout how NASA has been using hydroponics
+p37
+aVto explore growing food in space.
+p38
+aVAnd that you can actually get optimal nutritional yield
+p39
+aVby running a kind of high-quality liquid soil over plants' root systems.
+p40
+aVNow to a vegetable plant,
+p41
+aVmy apartment has got to be about as foreign as outer space.
+p42
+aVBut I can offer some natural light
+p43
+aVand year-round climate control.
+p44
+aa(lp45
+VFast-forward two years later:
+p46
+aVwe now have window farms,
+p47
+aVwhich are vertical, hydroponic platforms
+p48
+aVfor food-growing indoors.
+p49
+aVAnd the way it works is that there's a pump at the bottom,
+p50
+aVwhich periodically sends this liquid nutrient solution up to the top,
+p51
+aVwhich then trickles down through plants' root systems
+p52
+aVthat are suspended in clay pellets \u2014
+p53
+aVso there's no dirt involved.
+p54
+aVNow light and temperature vary with each window's microclimate,
+p55
+aVso a window farm requires a farmer,
+p56
+aVand she must decide
+p57
+aVwhat kind of crops she is going to put in her window farm,
+p58
+aVand whether she is going to feed her food organically.
+p59
+aa(lp60
+VBack at the time,
+p61
+aVa window farm was no more than a technically complex idea
+p62
+aVthat was going to require a lot of testing.
+p63
+aVAnd I really wanted it to be an open project,
+p64
+aVbecause hydroponics
+p65
+aVis one of the fastest growing areas of patenting
+p66
+aVin the United States right now,
+p67
+aVand could possibly become another area like Monsanto,
+p68
+aVwhere we have a lot of corporate intellectual property
+p69
+aVin the way of people's food.
+p70
+aVSo I decided that, instead of creating a product,
+p71
+aVwhat I was going to do
+p72
+aVwas open this up to a whole bunch of codevelopers.
+p73
+aa(lp74
+VThe first few systems that we created, they kind of worked.
+p75
+aVWe were actually able to grow about a salad a week
+p76
+aVin a typical New York City apartment window.
+p77
+aVAnd we were able to grow cherry tomatoes
+p78
+aVand cucumbers, all kinds of stuff.
+p79
+aVBut the first few systems
+p80
+aVwere these leaky, loud power-guzzlers
+p81
+aVthat Martha Stewart would definitely never have approved.
+p82
+aa(lp83
+V(Laughter)
+p84
+aa(lp85
+VSo to bring on more codevelopers,
+p86
+aVwhat we did was we created a social media site
+p87
+aVon which we published the designs,
+p88
+aVwe explained how they worked,
+p89
+aVand we even went so far
+p90
+aVas to point out everything that was wrong with these systems.
+p91
+aVAnd then we invited people all over the world
+p92
+aVto build them and experiment with us.
+p93
+aVSo actually now on this website,
+p94
+aVwe have 18,000 people.
+p95
+aVAnd we have window farms all over the world.
+p96
+aa(lp97
+VWhat we're doing is what NASA or a large corporation
+p98
+aVwould call R&D, or research and development.
+p99
+aVBut what we call it is R&D-I-Y,
+p100
+aVor "research and develop it yourself."
+p101
+aa(lp102
+V(Laughter)
+p103
+aa(lp104
+VSo, for example, Jackson came along
+p105
+aVand suggested that we use air pumps instead of water pumps.
+p106
+aVIt took building a whole bunch of systems to get it right,
+p107
+aVbut once we did, we were able to cut our carbon footprint nearly in half.
+p108
+aVTony in Chicago has been taking on growing experiments,
+p109
+aVlike lots of other window farmers,
+p110
+aVand he's been able to get his strawberries to fruit
+p111
+aVfor nine months of the year in low-light conditions
+p112
+aVby simply changing out the organic nutrients.
+p113
+aVAnd window farmers in Finland have been customizing their window farms
+p114
+aVfor the dark days of the Finnish winters
+p115
+aVby outfitting them with LED grow lights
+p116
+aVthat they're now making open source and part of the project.
+p117
+aa(lp118
+VSo window farms have been evolving
+p119
+aVthrough a rapid versioning process similar to software.
+p120
+aVAnd with every open source project,
+p121
+aVthe real benefit is the interplay
+p122
+aVbetween the specific concerns of people customizing their systems
+p123
+aVfor their own particular concerns,
+p124
+aVand the universal concerns.
+p125
+aVSo my core team and I
+p126
+aVare able to concentrate on the improvements
+p127
+aVthat really benefit everyone.
+p128
+aVAnd we're able to look out for the needs of newcomers.
+p129
+aa(lp130
+VSo for do-it-yourselfers,
+p131
+aVwe provide free, very well-tested instructions
+p132
+aVso that anyone, anywhere around the world,
+p133
+aVcan build one of these systems for free.
+p134
+aVAnd there's a patent pending on these systems as well
+p135
+aVthat's held by the community.
+p136
+aVAnd to fund the project,
+p137
+aVwe partner to create products
+p138
+aVthat we then sell to schools and to individuals
+p139
+aVwho don't have time to build their own systems.
+p140
+aa(lp141
+VNow within our community, a certain culture has appeared.
+p142
+aVIn our culture, it is better to be a tester
+p143
+aVwho supports someone else's idea
+p144
+aVthan it is to be just the idea guy.
+p145
+aVWhat we get out of this project is support for our own work,
+p146
+aVas well as an experience of actually contributing
+p147
+aVto the environmental movement
+p148
+aVin a way other than just screwing in new light bulbs.
+p149
+aVBut I think that Eleen expresses best
+p150
+aVwhat we really get out of this,
+p151
+aVwhich is the actual joy of collaboration.
+p152
+aVSo she expresses here what it's like
+p153
+aVto see someone halfway across the world
+p154
+aVhaving taken your idea, built upon it
+p155
+aVand then acknowledging you for contributing.
+p156
+aVIf we really want to see the kind of wide consumer behavior change
+p157
+aVthat we're all talking about as environmentalists and food people,
+p158
+aVmaybe we just need to ditch the term "consumer"
+p159
+aVand get behind the people who are doing stuff.
+p160
+aa(lp161
+VOpen source projects tend to have a momentum of their own.
+p162
+aVAnd what we're seeing is that R&D-I-Y
+p163
+aVhas moved beyond just window farms and LEDs
+p164
+aVinto solar panels and aquaponic systems.
+p165
+aVAnd we're building upon innovations of generations who went before us.
+p166
+aVAnd we're looking ahead at generations
+p167
+aVwho really need us to retool our lives now.
+p168
+aVSo we ask that you join us
+p169
+aVin rediscovering the value of citizens united,
+p170
+aVand to declare that we are all still pioneers.
+p171
+aa(lp172
+V(Applause)
+p173
+aasS'id'
+p174
+I1284
+sS'title'
+p175
+VA garden in my apartment
+p176
+s.

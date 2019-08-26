@@ -1,0 +1,760 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VAs you heard, I'm a physicist.
+p4
+aVAnd I think the way we talk about physics needs a little modification.
+p5
+aVI am from just down the road here; I don't live here anymore.
+p6
+aVBut coming from round here means that I have a northern nana,
+p7
+aVmy mum's mom.
+p8
+aVAnd Nana is very bright; she hasn't had much formal education,
+p9
+aVbut she's sharp.
+p10
+aVAnd when I was a second-year undergraduate studying physics at Cambridge,
+p11
+aVI remember spending an afternoon at Nana's house in Urmston
+p12
+aVstudying quantum mechanics.
+p13
+aVAnd I had these folders open in front of me
+p14
+aVwith this, you know, hieroglyphics \u2014 let's be honest.
+p15
+aVAnd Nana came along, and she looked at this folder,
+p16
+aVand she said, "What's that?"
+p17
+aVI said, "It's quantum mechanics, Nana."
+p18
+aVAnd I tried to explain something about what was on the page.
+p19
+aVIt was to do with the nucleus and Einstein A and B coefficients.
+p20
+aVAnd Nana looked very impressed.
+p21
+aVAnd then she said, "Oh.
+p22
+aVWhat can you do when you know that?"
+p23
+aa(lp24
+V(Laughter)
+p25
+aa(lp26
+V"Don't know, ma'am."
+p27
+aa(lp28
+V(Laughter)
+p29
+aa(lp30
+VI think I said something about computers,
+p31
+aVbecause it was all I could think of at the time.
+p32
+aa(lp33
+VBut you can broaden that question out, because it's a very good question \u2014
+p34
+aV"What can you do when you know that?" when "that" is physics?
+p35
+aVAnd I've come to realize that when we talk about physics in society
+p36
+aVand our sort of image of it,
+p37
+aVwe don't include the things that we can do when we know that.
+p38
+aVOur perception of what physics is needs a bit of a shift.
+p39
+aVNot only does it need a bit of a shift,
+p40
+aVbut sharing this different perspective matters for our society,
+p41
+aVand I'm not just saying that because I'm a physicist and I'm biased
+p42
+aVand I think we're the most important people in the world.
+p43
+aVHonest.
+p44
+aa(lp45
+VSo, the image of physics \u2014 we've got an image problem, let's be honest \u2014
+p46
+aVit hasn't moved on much from this.
+p47
+aVThis is a very famous photograph that's from the Solvay Conference in 1927.
+p48
+aVThis is when the great minds of physics were grappling
+p49
+aVwith the nature of determinism
+p50
+aVand what it means only to have a probability
+p51
+aVthat a particle might be somewhere,
+p52
+aVand whether any of it was real.
+p53
+aVAnd it was all very difficult.
+p54
+aVAnd you'll notice they're all very stern-looking men in suits.
+p55
+aVMarie Curie \u2014 I keep maybe saying, "Marie Antoinette,"
+p56
+aVwhich would be a turn-up for the books \u2014
+p57
+aVMarie Curie, third from the left on the bottom there,
+p58
+aVshe was allowed in, but had to dress like everybody else.
+p59
+aa(lp60
+V(Laughter)
+p61
+aa(lp62
+VSo, this is what physics is like \u2014 there's all these kinds of hieroglyphics,
+p63
+aVthese are to do with waves and particles.
+p64
+aVThat is an artist's impression of two black holes colliding,
+p65
+aVwhich makes it look worth watching, to be honest.
+p66
+aVI'm glad I didn't have to write the risk assessment
+p67
+aVfor whatever was going on there.
+p68
+aVThe point is: this is the image of physics, right?
+p69
+aVIt's weird and difficult,
+p70
+aVdone by slightly strange people dressed in a slightly strange way.
+p71
+aVIt's inaccessible, it's somewhere else
+p72
+aVand fundamentally, why should I care?
+p73
+aa(lp74
+VAnd the problem with that is that I'm a physicist,
+p75
+aVand I study this.
+p76
+aVThis \u2014 this is my job, right?
+p77
+aVI study the interface between the atmosphere and the ocean.
+p78
+aVThe atmosphere is massive, the ocean is massive,
+p79
+aVand the thin layer that joins them together
+p80
+aVis really important,
+p81
+aVbecause that's where things go from one huge reservoir to the other.
+p82
+aVYou can see that the sea surface \u2014 that was me who took this video \u2014
+p83
+aVthe average height of those waves by the way, was 10 meters.
+p84
+aVSo this is definitely physics happening here \u2014
+p85
+aVthere's lots of things \u2014 this is definitely physics.
+p86
+aVAnd yet it's not included in our cultural perception of physics,
+p87
+aVand that bothers me.
+p88
+aa(lp89
+VSo what is included in our cultural perception of physics?
+p90
+aVBecause I'm a physicist, there has to be a graph, right?
+p91
+aVThat's allowed.
+p92
+aVWe've got time along the bottom here, from very fast things there,
+p93
+aVto things that take a long time over here.
+p94
+aVSmall things at the bottom, big things up there.
+p95
+aVSo, our current cultural image of physics looks like this.
+p96
+aVThere's quantum mechanics down in that corner,
+p97
+aVit's very small, it's very weird,
+p98
+aVit happens very quickly,
+p99
+aVand it's a long way down in the general ...
+p100
+aVon the scale of anything that matters for everyday life.
+p101
+aVAnd then there's cosmology, which is up there;
+p102
+aVvery large, very far away,
+p103
+aValso very weird.
+p104
+aVAnd if you go to some places
+p105
+aVlike black holes in the beginning of the universe,
+p106
+aVwe know that these are frontiers in physics, right?
+p107
+aVThere's lots of work being done to discover new physics
+p108
+aVin these places.
+p109
+aa(lp110
+VBut the thing is, you will notice there's a very large gap in the middle.
+p111
+aVAnd in that gap, there are many things.
+p112
+aVThere are planets and toasts and volcanoes and clouds
+p113
+aVand clarinets and bubbles and dolphins
+p114
+aVand all sorts of things that make up our everyday life.
+p115
+aVAnd these are also run by physics, you'd be surprised \u2014
+p116
+aVthere is physics in the middle, it's just that nobody talks about it.
+p117
+aVAnd the thing about all of these is that they all run
+p118
+aVon a relatively small number of physical laws,
+p119
+aVthings like Newton's laws of motion,
+p120
+aVthermodynamics,
+p121
+aVsome rotational dynamics.
+p122
+aVThe physics in the middle applies over a huge range,
+p123
+aVfrom very, very small things to very, very big things.
+p124
+aVYou have to try very hard to get outside of this.
+p125
+aVAnd there is also a frontier in research physics here,
+p126
+aVit's just that nobody talks about it.
+p127
+aVThis is the world of the complex.
+p128
+aVWhen these laws work together, they bring about
+p129
+aVthe beautiful, messy, complex world we live in.
+p130
+aa(lp131
+VFundamentally, this is the bit that really matters to me
+p132
+aVon an everyday basis.
+p133
+aVAnd this is the bit that we don't talk about.
+p134
+aVThere's plenty of physics research going on here.
+p135
+aVBut because it doesn't involve pointing at stars,
+p136
+aVpeople for some reason think it's not that.
+p137
+aVNow, the cool thing about this is that there are so many things
+p138
+aVin this middle bit,
+p139
+aVall following the same physical laws,
+p140
+aVthat we can see those laws at work
+p141
+aValmost all the time around us.
+p142
+aa(lp143
+VI've got a little video here.
+p144
+aVSo the game is, one of these eggs is raw and one of them has been boiled.
+p145
+aVI want you to tell me which one is which.
+p146
+aVWhich one's raw?
+p147
+aa(lp148
+V(Audience responds)
+p149
+aa(lp150
+VThe one on the left \u2014 yes!
+p151
+aVAnd even though you might not have tried that, you all knew.
+p152
+aVThe reason for that is, you set them spinning,
+p153
+aVand when you stop the cooked egg, the one that's completely solid,
+p154
+aVyou stop the entire egg.
+p155
+aVWhen you stop the other one, you only stop the shell;
+p156
+aVthe liquid inside is still rotating because nothing's made it stop.
+p157
+aVAnd then it pushes the shell round again, so the egg starts to rotate again.
+p158
+aVThis is brilliant, right?
+p159
+aVIt's a demonstration of something in physics
+p160
+aVthat we call the law of conservation of angular momentum,
+p161
+aVwhich basically says that if you set something spinning
+p162
+aVabout a fixed axis,
+p163
+aVthat it will keep spinning unless you do something to stop it.
+p164
+aVAnd that's really fundamental in how the universe works.
+p165
+aVAnd it's not just eggs that it applies to,
+p166
+aValthough it's really useful if you're the sort of person \u2014
+p167
+aVand apparently, these people do exist \u2014
+p168
+aVwho will boil eggs and then put them back in the fridge.
+p169
+aVWho does that? Don't admit to it \u2014 it's OK. We won't judge you.
+p170
+aVBut it's also got much broader applicabilities.
+p171
+aa(lp172
+VThis is the Hubble Space Telescope.
+p173
+aVThe Hubble Ultra Deep Field, which is a very tiny part of the sky.
+p174
+aVHubble has been floating in free space for 25 years,
+p175
+aVnot touching anything.
+p176
+aVAnd yet it can point to a tiny region of sky.
+p177
+aVFor 11 and a half days, it did it in sections,
+p178
+aVaccurately enough to take amazing images like this.
+p179
+aVSo the question is:
+p180
+aVHow does something that is not touching anything
+p181
+aVknow where it is?
+p182
+aVThe answer is that right in the middle of it, it has something
+p183
+aVthat, to my great disappointment, isn't a raw egg,
+p184
+aVbut basically does the same job.
+p185
+aVIt's got gyroscopes which are spinning,
+p186
+aVand because of the law of conservation of angular momentum,
+p187
+aVthey keep spinning with the same axis, indefinitely.
+p188
+aVHubble kind of rotates around them, and so it can orient itself.
+p189
+aVSo the same little physical law we can play with in the kitchen and use,
+p190
+aValso explains what makes possible some of the most advanced technology
+p191
+aVof our time.
+p192
+aVSo this is the fun bit of physics, that you learn these patterns
+p193
+aVand then you can apply them again and again and again.
+p194
+aVAnd it's really rewarding when you spot them in new places.
+p195
+aVThis is the fun of physics.
+p196
+aa(lp197
+VI have shown that egg video to an audience full of businesspeople once
+p198
+aVand they were all dressed up very smartly and trying to impress their bosses.
+p199
+aVAnd I was running out of time, so I showed the egg video and then said,
+p200
+aV"Well, you can work it out, and ask me afterwards to check."
+p201
+aVThen I left the stage.
+p202
+aVAnd I had, literally,
+p203
+aVmiddle-aged grown men tugging on my sleeve afterwards,
+p204
+aVsaying, "Is it this? Is it this?"
+p205
+aVAnd when I said, "Yes." They went, "Yes!"
+p206
+aa(lp207
+V(Laughter)
+p208
+aa(lp209
+VThe joy that you get from spotting these patterns
+p210
+aVdoesn't go away when you're an adult.
+p211
+aa(lp212
+VAnd that's really important,
+p213
+aVbecause physics is all about patterns,
+p214
+aVand a small number of patterns give you access
+p215
+aVto almost all of the physics in our everyday world.
+p216
+aVThe thing that's best about this is it involves playing with toys.
+p217
+aVThings like the egg shouldn't be dismissed as the mundane little things
+p218
+aVthat we just give the kids to play with on a Saturday afternoon
+p219
+aVto keep them quiet.
+p220
+aVThis is the stuff that actually really matters,
+p221
+aVbecause this is the laws of the universe and it applies to eggs
+p222
+aVand toast falling butter-side down and all sorts of other things,
+p223
+aVjust as much as it applies to modern technology
+p224
+aVand anything else that's going on in the world.
+p225
+aVSo I think we should play with these patterns.
+p226
+aa(lp227
+VBasically, there are a small number of concepts
+p228
+aVthat you can become familiar with using things in your kitchen,
+p229
+aVthat are really useful for life in the outside world.
+p230
+aVIf you want to learn about thermodynamics, a duck is a good place to start,
+p231
+aVfor example, why their feet don't get cold.
+p232
+aVOnce you've got a bit of thermodynamics with the duck,
+p233
+aVyou can also explain fridges.
+p234
+aVMagnets that you can play with in your kitchen
+p235
+aVget you to wind turbines and modern energy generation.
+p236
+aVRaisins in [fizzy] lemonade, which is always a good thing to play with.
+p237
+aVIf you're at a boring party, fish some raisins out of the bar snacks,
+p238
+aVput them in some lemonade.
+p239
+aVIt's got three consequences.
+p240
+aVFirst thing is, it's quite good to watch; try it.
+p241
+aVSecondly, it sends the boring people away.
+p242
+aVThirdly, it brings the interesting people to you.
+p243
+aVYou win on all fronts.
+p244
+aVAnd then there's spin and gas laws and viscosity.
+p245
+aVThere's these little patterns, and they're right around us everywhere.
+p246
+aVAnd it's fundamentally democratic, right?
+p247
+aVEverybody has access to the same physics; you don't need a big, posh lab.
+p248
+aa(lp249
+VWhen I wrote the book, I had the chapter on spin.
+p250
+aVI had written a bit about toast falling butter-side down.
+p251
+aVI gave the chapter to a friend of mine who's not a scientist,
+p252
+aVfor him to read and tell me what he thought,
+p253
+aVand he took the chapter away.
+p254
+aVHe was working overseas.
+p255
+aVI got this text message back from him a couple of weeks later,
+p256
+aVand it said, "I'm at breakfast in a posh hotel in Switzerland,
+p257
+aVand I really want to push toast off the table,
+p258
+aVbecause I don't believe what you wrote."
+p259
+aVAnd that was the good bit \u2014 he doesn't have to.
+p260
+aVHe can push the toast off the table and try it for himself.
+p261
+aa(lp262
+VAnd so there's two important things to know about science:
+p263
+aVthe fundamental laws we've learned through experience and experimentation,
+p264
+aVwork.
+p265
+aVThe day we drop an apple and it goes up,
+p266
+aVthen we'll have a debate about gravity.
+p267
+aVUp to that point, we basically know how gravity works,
+p268
+aVand we can learn the framework.
+p269
+aVThen there's the process of experimentation:
+p270
+aVhaving confidence in things, trying things out,
+p271
+aVcritical thinking \u2014 how we move science forward \u2014
+p272
+aVand you can learn both of those things
+p273
+aVby playing with toys in the everyday world.
+p274
+aa(lp275
+VAnd it's really important,
+p276
+aVbecause there's all this talk about technology,
+p277
+aVwe've heard talks about quantum computing
+p278
+aVand all these mysterious, far-off things.
+p279
+aVBut fundamentally, we still live in bodies that are about this size,
+p280
+aVwe still walk about, sit on chairs that are about this size,
+p281
+aVwe still live in the physical world.
+p282
+aVAnd being familiar with these concepts means we're not helpless.
+p283
+aVAnd I think it's really important that we're not helpless,
+p284
+aVthat society feels it can look at things,
+p285
+aVbecause this isn't about knowing all the answers.
+p286
+aVIt's about having the framework so you can ask the right questions.
+p287
+aVAnd by playing with these fundamental little things in everyday life,
+p288
+aVwe gain the confidence to ask the right questions.
+p289
+aa(lp290
+VSo, there's a bigger thing.
+p291
+aVIn answer to Nana's question
+p292
+aVabout what can you do when you know that \u2014
+p293
+aVbecause there's lots of stuff in the everyday world
+p294
+aVthat you can do when you know that,
+p295
+aVespecially if you've got eggs in the fridge \u2014
+p296
+aVthere's a much deeper answer.
+p297
+aVAnd so there's all the fun and the curiosity
+p298
+aVthat you could have playing with toys.
+p299
+aVBy the way \u2014 why should kids have all the fun, right?
+p300
+aVAll of us can have fun playing with toys,
+p301
+aVand we shouldn't be embarrassed about it.
+p302
+aVYou can blame me, it's fine.
+p303
+aa(lp304
+VSo when it comes to reasons for studying physics, for example,
+p305
+aVhere is the best reason I can think of:
+p306
+aVI think that each of us has three life-support systems.
+p307
+aVWe've got our own body, we've got a planet
+p308
+aVand we've got our civilization.
+p309
+aVEach of those is an independent life-support system,
+p310
+aVkeeping us alive in its own way.
+p311
+aVAnd they all run on the fundamental physical laws
+p312
+aVthat you can learn in the kitchen with eggs and teacups and lemonade,
+p313
+aVand everything else you can play with.
+p314
+aVThis is the reason, for example,
+p315
+aVwhy something like climate change is such a serious problem,
+p316
+aVbecause It's two of these life-support systems,
+p317
+aVour planet and our civilization,
+p318
+aVkind of butting up against each other;
+p319
+aVthey're in conflict, and we need to negotiate that boundary.
+p320
+aa(lp321
+VAnd the fundamental physical laws that we can learn
+p322
+aVthat are the way the world around us works,
+p323
+aVare the tools at the basis of everything;
+p324
+aVthey're the foundation.
+p325
+aVThere's lots of things to know about in life,
+p326
+aVbut knowing the foundations is going to get you a long way.
+p327
+aVAnd I think this, if you're not interested in having fun with physics
+p328
+aVor anything like that \u2014 strange, but apparently, these people exist \u2014
+p329
+aVyou surely are interested in keeping yourself alive
+p330
+aVand in how our life-support systems work.
+p331
+aVThe framework for physics is remarkably constant;
+p332
+aVit's the same in lots and lots of things that we measure.
+p333
+aVIt's not going to change anytime soon.
+p334
+aVThey might discover some new quantum mechanics,
+p335
+aVbut apples right here are still going to fall down.
+p336
+aa(lp337
+VSo, the question is \u2014
+p338
+aVI get asked sometimes: How do you start?
+p339
+aVWhat's the place to start
+p340
+aVif you're interested in the physical world, in not being helpless,
+p341
+aVand in finding some toys to play with?
+p342
+aVHere is my suggestion to you:
+p343
+aVthe place to start is that moment \u2014 and adults do this \u2014
+p344
+aVyou're drifting along somewhere,
+p345
+aVand you spot something and your brain goes, "Oh, that's weird."
+p346
+aVAnd then your consciousness goes, "You're an adult. Keep going."
+p347
+aVAnd that's the point \u2014 hold that thought \u2014
+p348
+aVthat bit where your brain went, "Oh, that's a bit odd,"
+p349
+aVbecause there's something there to play with,
+p350
+aVand it's worth you playing with it,
+p351
+aVso that's the place to start.
+p352
+aa(lp353
+VBut if you don't have any of those little moments
+p354
+aVon your way home from this event,
+p355
+aVhere are some things to start with.
+p356
+aVPut raisins in [fizzy] lemonade; highly entertaining.
+p357
+aVWatch a coffee spill dry.
+p358
+aVI know that sounds a little bit like watching paint dry,
+p359
+aVbut it does do quite weird things; it's worth watching.
+p360
+aVI'm an acquired taste at dinner parties if there are teacups around.
+p361
+aVThere are so many things you can do to play with teacups, it's brilliant.
+p362
+aVThe most obvious one is to get a teacup, get a spoon,
+p363
+aVtap the teacup around the rim and listen,
+p364
+aVand you will hear something strange.
+p365
+aVAnd the other thing is, push your toast off the table
+p366
+aVbecause you can, and you'll learn stuff from it.
+p367
+aVAnd if you're feeling really ambitious,
+p368
+aVtry and push it off in such a way that it doesn't fall butter-side down,
+p369
+aVwhich is possible.
+p370
+aa(lp371
+VThe point of all of this is that,
+p372
+aVfirst of all, we should all play with toys.
+p373
+aVWe shouldn't be afraid to investigate the physical world for ourselves
+p374
+aVwith the tools around us,
+p375
+aVbecause we all have access to them.
+p376
+aVIt matters, because if we want to understand society,
+p377
+aVif we want to be good citizens,
+p378
+aVwe need to understand the framework on which everything else must be based.
+p379
+aa(lp380
+VPlaying with toys is great.
+p381
+aVUnderstanding how to keep our life-support systems going is great.
+p382
+aVBut fundamentally, the thing that we need to change
+p383
+aVin the way that we talk about physics,
+p384
+aVis we need to understand
+p385
+aVthat physics isn't out there with weird people
+p386
+aVand strange hieroglyphics
+p387
+aVfor somebody else in a posh lab.
+p388
+aVPhysics is right here; it's for us, and we can all play with it.
+p389
+aa(lp390
+VThank you very much.
+p391
+aa(lp392
+V(Applause)
+p393
+aasS'id'
+p394
+I2862
+sS'title'
+p395
+VThe fascinating physics of everyday life
+p396
+s.

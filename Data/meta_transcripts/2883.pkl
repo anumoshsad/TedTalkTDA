@@ -1,0 +1,573 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VToday I want to confess something to you,
+p4
+aVbut first of all I'm going to ask you a couple of questions.
+p5
+aVHow many people here have children?
+p6
+aVAnd how many of you are confident
+p7
+aVthat you know how to bring up your children
+p8
+aVin exactly the right way?
+p9
+aa(lp10
+V(Laughter)
+p11
+aa(lp12
+VOK, I don't see too many hands going up on that second one,
+p13
+aVand that's my confession, too.
+p14
+aVI've got three boys;
+p15
+aVthey're three, nine and 12.
+p16
+aVAnd like you, and like most parents,
+p17
+aVthe honest truth is I have pretty much no idea what I'm doing.
+p18
+aVI want them to be happy and healthy in their lives,
+p19
+aVbut I don't know what I'm supposed to do
+p20
+aVto make sure they are happy and healthy.
+p21
+aVThere's so many books offering all kinds of conflicting advice,
+p22
+aVit can be really overwhelming.
+p23
+aVSo I've spent most of their lives just making it up as I go along.
+p24
+aVHowever, something changed me a few years ago,
+p25
+aVwhen I came across a little secret that we have in Britain.
+p26
+aVIt's helped me become more confident about how I bring up my own children,
+p27
+aVand it's revealed a lot about how we as a society can help all children.
+p28
+aVI want to share that secret with you today.
+p29
+aa(lp30
+VFor the last 70 years,
+p31
+aVscientists in Britain have been following thousands of children through their lives
+p32
+aVas part of an incredible scientific study.
+p33
+aVThere's nothing quite like it anywhere else in the world.
+p34
+aVCollecting information on thousands of children
+p35
+aVis a really powerful thing to do,
+p36
+aVbecause it means we can compare the ones who say,
+p37
+aVdo well at school or end up healthy or happy or wealthy as adults,
+p38
+aVand the ones who struggle much more,
+p39
+aVand then we can sift through all the information we've collected
+p40
+aVand try to work out why their lives turned out different.
+p41
+aa(lp42
+VThis British study \u2014 it's actually a kind of crazy story.
+p43
+aVSo it all starts back in 1946,
+p44
+aVjust a few months after the end of the war,
+p45
+aVwhen scientists wanted to know
+p46
+aVwhat it was like for a woman to have a baby at the time.
+p47
+aVThey carried out this huge survey of mothers
+p48
+aVand ended up recording the birth of nearly every baby
+p49
+aVborn in England, Scotland and Wales in one week.
+p50
+aVThat was nearly 14,000 babies.
+p51
+aVThe questions they asked these women
+p52
+aVare very different than the ones we might ask today.
+p53
+aVThey sound really old-fashioned now.
+p54
+aVThey asked them things like,
+p55
+aV"During pregnancy,
+p56
+aVdid you get your full extra ration of a pint of milk a day?"
+p57
+aV"How much did you spend on smocks, corsets,
+p58
+aVnightdresses, knickers and brassieres?"
+p59
+aVAnd this is my favorite one:
+p60
+aV"Who looked after your husband while you were in bed with this baby?"
+p61
+aa(lp62
+V(Laughter)
+p63
+aa(lp64
+VNow, this wartime study actually ended up being so successful
+p65
+aVthat scientists did it again.
+p66
+aVThey recorded the births of thousands of babies born in 1958
+p67
+aVand thousands more in 1970.
+p68
+aVThey did it again in the early 1990s,
+p69
+aVand again at the turn of the millennium.
+p70
+aVAltogether, more than 70,000 children have been involved in these studies
+p71
+aVacross those five generations.
+p72
+aVThey're called the British birth cohorts,
+p73
+aVand scientists have gone back and recorded more information
+p74
+aVon all of these people every few years ever since.
+p75
+aVThe amount of information that's now been collected on these people
+p76
+aVis just completely mind-boggling.
+p77
+aVIt includes thousands of paper questionnaires
+p78
+aVand terabytes' worth of computer data.
+p79
+aVScientists have also built up a huge bank of tissue samples,
+p80
+aVwhich includes locks of hair, nail clippings, baby teeth and DNA.
+p81
+aVThey've even collected 9,000 placentas from some of the births,
+p82
+aVwhich are now pickled in plastic buckets in a secure storage warehouse.
+p83
+aVThis whole project has become unique \u2014
+p84
+aVso, no other country in the world is tracking generations of children
+p85
+aVin quite this detail.
+p86
+aVThese are some of the best-studied people on the planet,
+p87
+aVand the data has become incredibly valuable for scientists,
+p88
+aVgenerating well over 6,000 academic papers and books.
+p89
+aVBut today I want to focus on just one finding \u2014
+p90
+aVperhaps the most important discovery to come from this remarkable study.
+p91
+aVAnd it's also the one that spoke to me personally,
+p92
+aVbecause it's about how to use science to do the best for our children.
+p93
+aa(lp94
+VSo, let's get the bad news out of the way first.
+p95
+aVPerhaps the biggest message from this remarkable study is this:
+p96
+aVdon't be born into poverty or into disadvantage,
+p97
+aVbecause if you are,
+p98
+aVyou're far more likely to walk a difficult path in life.
+p99
+aVMany children in this study were born into poor families
+p100
+aVor into working-class families that had cramped homes or other problems,
+p101
+aVand it's clear now that those disadvantaged children
+p102
+aVhave been more likely to struggle on almost every score.
+p103
+aVThey've been more likely to do worse at school,
+p104
+aVto end up with worse jobs and to earn less money.
+p105
+aVNow, maybe that sounds really obvious,
+p106
+aVbut some of the results have been really surprising,
+p107
+aVso children who had a tough start in life
+p108
+aVare also more likely to end up unhealthy as adults.
+p109
+aVThey're more likely to be overweight,
+p110
+aVto have high blood pressure,
+p111
+aVand then decades down the line,
+p112
+aVmore likely to have a failing memory, poor health and even to die earlier.
+p113
+aa(lp114
+VNow, I talked about what happens later,
+p115
+aVbut some of these differences emerge at a really shockingly early age.
+p116
+aVIn one study,
+p117
+aVchildren who were growing up in poverty
+p118
+aVwere almost a year behind the richer children on educational tests,
+p119
+aVand that was by the age of just three.
+p120
+aVThese types of differences have been found again and again across the generations.
+p121
+aVIt means that our early circumstances have a profound influence
+p122
+aVon the way that the rest of our lives play out.
+p123
+aVAnd working out why that is
+p124
+aVis one of the most difficult questions that we face today.
+p125
+aa(lp126
+VSo there we have it.
+p127
+aVThe first lesson for successful life, everyone, is this:
+p128
+aVchoose your parents very carefully.
+p129
+aa(lp130
+V(Laughter)
+p131
+aa(lp132
+VDon't be born into a poor family or into a struggling family.
+p133
+aVNow, I'm sure you can see the small problem here.
+p134
+aVWe can't choose our parents or how much they earn,
+p135
+aVbut this British study has also struck a real note of optimism
+p136
+aVby showing that not everyone who has a disadvantaged start
+p137
+aVends up in difficult circumstances.
+p138
+aVAs you know, many people have a tough start in life,
+p139
+aVbut they end up doing very well on some measure nevertheless,
+p140
+aVand this study starts to explain how.
+p141
+aa(lp142
+VSo the second lesson is this:
+p143
+aVparents really matter.
+p144
+aVIn this study,
+p145
+aVchildren who had engaged, interested parents,
+p146
+aVones who had ambition for their future,
+p147
+aVwere more likely to escape from a difficult start.
+p148
+aVIt seems that parents and what they do are really, really important,
+p149
+aVespecially in the first few years of life.
+p150
+aa(lp151
+VLet me give you an example of that.
+p152
+aVIn one study,
+p153
+aVscientists looked at about 17,000 children who were born in 1970.
+p154
+aVThey sifted all the mountains of data that they had collected
+p155
+aVto try to work out
+p156
+aVwhat allowed the children who'd had a difficult start in life
+p157
+aVto go on and do well at school nevertheless.
+p158
+aVIn other words, which ones beat the odds.
+p159
+aVThe data showed that what mattered more than anything else was parents.
+p160
+aVHaving engaged, interested parents in those first few years of life
+p161
+aVwas strongly linked to children going on to do well at school later on.
+p162
+aVIn fact, quite small things that parents do
+p163
+aVare associated with good outcomes for children.
+p164
+aVTalking and listening to a child,
+p165
+aVresponding to them warmly,
+p166
+aVteaching them their letters and numbers,
+p167
+aVtaking them on trips and visits.
+p168
+aVReading to children every day seems to be really important, too.
+p169
+aVSo in one study,
+p170
+aVchildren whose parents were reading to them daily when they were five
+p171
+aVand then showing an interest in their education at the age of 10,
+p172
+aVwere significantly less likely to be in poverty at the age of 30
+p173
+aVthan those whose parents weren't doing those things.
+p174
+aa(lp175
+VNow, there are huge challenges with interpreting this type of science.
+p176
+aVThese studies show that certain things that parents do
+p177
+aVare correlated with good outcomes for children,
+p178
+aVbut we don't necessarily know those behaviors caused the good outcomes,
+p179
+aVor whether some other factor is getting in the way.
+p180
+aVFor example, we have to take genes into account,
+p181
+aVand that's a whole other talk in itself.
+p182
+aa(lp183
+VBut scientists working with this British study
+p184
+aVare working really hard to get at causes,
+p185
+aVand this is one study I particularly love.
+p186
+aVIn this one,
+p187
+aVthey looked at the bedtime routines of about 10,000 children
+p188
+aVborn at the turn of the millennium.
+p189
+aVWere the children going to bed at regular times,
+p190
+aVor did they go to bed at different times during the week?
+p191
+aVThe data showed that those children who were going to bed at different times
+p192
+aVwere more likely to have behavioral problems,
+p193
+aVand then those that switched to having regular bedtimes
+p194
+aVoften showed an improvement in behavior,
+p195
+aVand that was really crucial,
+p196
+aVbecause it suggested it was the bedtime routines
+p197
+aVthat were really helping things get better for those kids.
+p198
+aa(lp199
+VHere's another one to think about.
+p200
+aVIn this one,
+p201
+aVscientists looked at children who were reading for pleasure.
+p202
+aVThat means that they picked up a magazine, a picture book, a story book.
+p203
+aVThe data showed that children who were reading for pleasure
+p204
+aVat the ages of five and 10
+p205
+aVwere more likely to go on in school better, on average,
+p206
+aVon school tests later in their lives.
+p207
+aVAnd not just tests of reading,
+p208
+aVbut tests of spelling and maths as well.
+p209
+aVThis study tried to control for all the confounding factors,
+p210
+aVso it looked at children who were equally intelligent
+p211
+aVand from the same social-class background,
+p212
+aVso it seemed as if it was the reading which really helped those children
+p213
+aVgo on and score better on those school tests later in their lives.
+p214
+aa(lp215
+VNow at the start,
+p216
+aVI said the first lesson from this study
+p217
+aVwas not to be born into poverty or into disadvantage,
+p218
+aVbecause those children tend to follow more difficult paths in their lives.
+p219
+aVBut then I said that parenting matters,
+p220
+aVand that good parenting, if you can call it that,
+p221
+aVhelps children beat the odds
+p222
+aVand overcome some of those early disadvantages.
+p223
+aVSo wait,
+p224
+aVdoes that actually mean, then, that poverty doesn't matter after all?
+p225
+aVYou could argue it doesn't matter if a child is born poor \u2014
+p226
+aVas long as their parents are good parents, they're going to do just fine.
+p227
+aVI don't believe that's true.
+p228
+aVThis study shows that poverty and parenting matter.
+p229
+aVAnd one study actually put figures on that,
+p230
+aVso it looked at children growing up in persistent poverty
+p231
+aVand how well they were doing at school.
+p232
+aVThe data showed
+p233
+aVthat even when their parents were doing everything right \u2014
+p234
+aVputting them to bed on time
+p235
+aVand reading to them every day and everything else \u2014
+p236
+aVthat only got those children so far.
+p237
+aVGood parenting only reduced the educational gap
+p238
+aVbetween the rich and poor children by about 50 percent.
+p239
+aVNow that means that poverty leaves a really lasting scar,
+p240
+aVand it means that if we really want to ensure the success and well-being
+p241
+aVof the next generation,
+p242
+aVthen tackling child poverty is an incredibly important thing to do.
+p243
+aa(lp244
+VNow, what does all this mean for you and me?
+p245
+aVAre there lessons here we can all take home and use?
+p246
+aVAs a scientist and a journalist,
+p247
+aVI like to have some science to inform my parenting ...
+p248
+aVand I can tell you that when you're shouting at your kids
+p249
+aVto go to bed on time,
+p250
+aVit really helps to have the scientific literature on your side.
+p251
+aa(lp252
+V(Laughter)
+p253
+aa(lp254
+VAnd wouldn't it be great to think
+p255
+aVthat all we had to do to have happy, successful children
+p256
+aVwas to talk to them, be interested in their future,
+p257
+aVput them to bed on time, and give them a book to read?
+p258
+aVOur job would be done.
+p259
+aa(lp260
+VNow, as you can imagine,
+p261
+aVthe answers aren't quite as simple as that.
+p262
+aVFor one thing, this study looks at what happens
+p263
+aVto thousands and thousands of children on average,
+p264
+aVbut that doesn't necessarily say what will help my child or your child
+p265
+aVor any individual child.
+p266
+aVIn the end, each of our children is going to walk their own path,
+p267
+aVand that's partly defined by the genes they inherit
+p268
+aVand of course all the experiences they have through their lives,
+p269
+aVincluding their interactions with us, their parents.
+p270
+aa(lp271
+VI will tell you what I did after I learned all this.
+p272
+aVIt's a bit embarrassing.
+p273
+aVI realized I was so busy working,
+p274
+aVand ironically,
+p275
+aVlearning and writing about this incredible study of British children,
+p276
+aVthat there were days when I hardly even spoke to my own British children.
+p277
+aVSo at home, we introduced talking time,
+p278
+aVwhich is just 15 minutes at the end of the day
+p279
+aVwhen we talk and listen to the boys.
+p280
+aVI try better now to ask them what they did today,
+p281
+aVand to show that I value what they do at school.
+p282
+aVOf course, I make sure they always have a book to read.
+p283
+aVI tell them I'm ambitious for their future,
+p284
+aVand I think they can be happy and do great things.
+p285
+aVI don't know that any of that will make a difference,
+p286
+aVbut I'm pretty confident it won't do them any harm,
+p287
+aVand it might even do them some good.
+p288
+aa(lp289
+VUltimately, if we want happy children,
+p290
+aVall we can do is listen to the science,
+p291
+aVand of course,
+p292
+aVlisten to our children themselves.
+p293
+aa(lp294
+VThank you.
+p295
+aasS'id'
+p296
+I2883
+sS'title'
+p297
+VLessons from the longest study on human development
+p298
+s.

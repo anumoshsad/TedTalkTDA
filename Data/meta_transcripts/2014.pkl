@@ -1,0 +1,264 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VEven nature's most disgusting creatures
+p4
+aVhave important secrets,
+p5
+aVbut who would want a swarm of cockroaches
+p6
+aVcoming towards them?
+p7
+aa(lp8
+VYet one of the greatest differences between natural and human technologies
+p9
+aVrelates to robustness.
+p10
+aVRobust systems are stable in complex
+p11
+aVand new environments.
+p12
+aVRemarkably, cockroaches can self-stabilize
+p13
+aVrunning over rough terrain.
+p14
+aVWhen we put a jet pack on them,
+p15
+aVor give them a perturbation like an earthquake,
+p16
+aVwe discovered that their wonderfully tuned legs
+p17
+aVallow them to self-stabilize
+p18
+aVwithout using any of their brainpower.
+p19
+aVThey can go over complex terrain like grass,
+p20
+aVno problem, and not get destabilized.
+p21
+aVWe discovered a new behavior where,
+p22
+aVbecause of their shape,
+p23
+aVthey actually roll automatically to their side
+p24
+aVto go through this artificial test bit of grass.
+p25
+aa(lp26
+VRobust systems can perform multiple tasks
+p27
+aVwith the same structure.
+p28
+aVHere's a new behavior we've discovered.
+p29
+aVThe animals rapidly invert and disappear
+p30
+aVin less than 150 milliseconds \u2014 you never see them \u2014
+p31
+aVusing the same structures that they use to run, their legs.
+p32
+aVThey can run upside down
+p33
+aVvery rapidly on rods, branches and wires,
+p34
+aVand if you perturb one of those branches,
+p35
+aVthey can do this.
+p36
+aVThey can perform gymnastic maneuvers
+p37
+aVlike no robot we have yet.
+p38
+aVAnd they have nearly unlimited
+p39
+aVmaneuverability with that same structure
+p40
+aVand unprecedented access to a variety
+p41
+aVof different areas.
+p42
+aVThey have wings for flying when they get warm,
+p43
+aVbut they use those same wings to flip over
+p44
+aVif they get destabilized.
+p45
+aVVery effective.
+p46
+aa(lp47
+VRobust systems are also fault tolerant and fail-safe.
+p48
+aVThis is the foot of a cockroach.
+p49
+aVIt has spines, gluey pads and claws,
+p50
+aVbut if you take off those feet,
+p51
+aVthey can still go over rough terrain,
+p52
+aVlike the bottom video that you see,
+p53
+aVwithout hardly slowing down. Extraordinary.
+p54
+aVThey can run up mesh without their feet.
+p55
+aVHere's an animal using a normal, alternating tripod:
+p56
+aVthree legs, three legs, three legs,
+p57
+aVbut in nature, the insects often have lost their legs.
+p58
+aVHere's one moving with two middle legs gone.
+p59
+aVIt can even lose three legs, in a tripod,
+p60
+aVand adopt a new gait, a hopping gait.
+p61
+aVAnd I point out that all of these videos
+p62
+aVare slowed down 20 times,
+p63
+aVso they're actually really fast, when you see this.
+p64
+aa(lp65
+VRobust systems are also damage resistant.
+p66
+aVHere's an animal climbing up a wall.
+p67
+aVIt looks like a rapid, smooth, vertical climb,
+p68
+aVbut when you slow it down,
+p69
+aVyou see something very different.
+p70
+aVHere's what they do.
+p71
+aVThey intentionally have a head-on collision with the wall
+p72
+aVso they don't slow down and can transition up it
+p73
+aVin 75 milliseconds.
+p74
+aVAnd they can do this in part because they have
+p75
+aVextraordinary exoskeletons.
+p76
+aVAnd they're really just made up of compliant joints
+p77
+aVthat are tubes and plates
+p78
+aVconnected to one another.
+p79
+aVHere's a dissection of an abdomen of a cockroach.
+p80
+aVYou see these plates, and you see the compliant membrane.
+p81
+aa(lp82
+VMy engineering colleague at Berkeley
+p83
+aVdesigned with his students
+p84
+aVa novel manufacturing technique
+p85
+aVwhere you essentially origami the exoskeleton,
+p86
+aVyou laser cut it, laminate it,
+p87
+aVand you fold it up into a robot.
+p88
+aVAnd you can do that now in less than 15 minutes.
+p89
+aVThese robots, called DASH,
+p90
+aVfor Dynamic Autonomous Sprawled Hexapod,
+p91
+aVare highly compliant robots,
+p92
+aVand they're remarkably robust as a result
+p93
+aVof these features.
+p94
+aVThey're certainly incredibly damage resistant.
+p95
+aV(Laughter)
+p96
+aVThey even have some of the behaviors of the cockroaches.
+p97
+aVSo they can use their smart, compliant body
+p98
+aVto transition up a wall
+p99
+aVin a very simple way.
+p100
+aVThey even have some of the beginnings
+p101
+aVof the rapid inversion behavior
+p102
+aVwhere they disappear.
+p103
+aa(lp104
+VNow we want to know why they can go anywhere.
+p105
+aVWe discovered that they can go through
+p106
+aVthree-millimeter gaps,
+p107
+aVthe height of two pennies, two stacked pennies,
+p108
+aVand when they do this,
+p109
+aVthey can actually run through those confined spaces
+p110
+aVat high speeds,
+p111
+aValthough you never see it.
+p112
+aVTo understand it better,
+p113
+aVwe did a CT scan of the exoskeleton
+p114
+aVand showed that they can compress their body
+p115
+aVby over 40 percent.
+p116
+aVWe put them in a materials testing machine
+p117
+aVto look at the stress strain analysis
+p118
+aVand showed that they can withstand forces
+p119
+aV800 times their body weight,
+p120
+aVand after this they can fly and run
+p121
+aVabsolutely normally.
+p122
+aa(lp123
+VSo you never know where
+p124
+aVcuriosity-based research will lead,
+p125
+aVand someday you may want a swarm
+p126
+aVof cockroach-inspired robots
+p127
+aVto come at you.
+p128
+aV(Laughter)
+p129
+aa(lp130
+VThank you.
+p131
+aa(lp132
+V(Applause)
+p133
+aasS'id'
+p134
+I2014
+sS'title'
+p135
+VThe secrets of nature's grossest creatures, channeled into robots
+p136
+s.

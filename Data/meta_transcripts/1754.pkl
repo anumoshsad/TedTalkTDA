@@ -1,0 +1,386 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VHow many of you have checked your email today?
+p4
+aVCome on, raise your hands.
+p5
+aVHow many of you are checking it right now?
+p6
+aa(lp7
+V(Laughter)
+p8
+aa(lp9
+VAnd how about finances? Anybody check that today?
+p10
+aVCredit card, investment account?
+p11
+aVHow about this week?
+p12
+aa(lp13
+VNow, how about your household energy use?
+p14
+aVAnybody check that today?
+p15
+aVThis week? Last week?
+p16
+aVA few energy geeks spread out across the room.
+p17
+aVIt's good to see you guys.
+p18
+aVBut the rest of us \u2014 this is a room filled with people
+p19
+aVwho are passionate about the future of this planet,
+p20
+aVand even we aren't paying attention
+p21
+aVto the energy use that's driving climate change.
+p22
+aVThe woman in the photo with me is Harriet.
+p23
+aVWe met her on our first family vacation.
+p24
+aVHarriet's paying attention to her energy use,
+p25
+aVand she is decidedly not an energy geek.
+p26
+aVThis is the story of how Harriet came to pay attention.
+p27
+aa(lp28
+VThis is coal,
+p29
+aVthe most common source of electricity on the planet,
+p30
+aVand there's enough energy in this coal
+p31
+aVto light this bulb for more than a year.
+p32
+aVBut unfortunately, between here and here,
+p33
+aVmost of that energy is lost to things
+p34
+aVlike transmission leakage and heat.
+p35
+aVIn fact, only 10 percent ends up as light.
+p36
+aVSo this coal will last a little bit more than a month.
+p37
+aVIf you wanted to light this bulb for a year,
+p38
+aVyou'd need this much coal.
+p39
+aVThe bad news here is that, for every unit of energy we use,
+p40
+aVwe waste nine.
+p41
+aVThat means there's good news,
+p42
+aVbecause for every unit of energy we save,
+p43
+aVwe save the other nine.
+p44
+aVSo the question is, how can we get the people in this room
+p45
+aVand across the globe to start paying attention
+p46
+aVto the energy we're using,
+p47
+aVand start wasting less of it?
+p48
+aa(lp49
+VThe answer comes from a behavioral science experiment
+p50
+aVthat was run one hot summer, 10 years ago,
+p51
+aVand only 90 miles from here,
+p52
+aVin San Marcos, California.
+p53
+aVGraduate students put signs on every door in a neighborhood,
+p54
+aVasking people to turn off their air conditioning
+p55
+aVand turn on their fans.
+p56
+aVOne quarter of the homes received a message that said,
+p57
+aVdid you know you could save 54 dollars a month this summer?
+p58
+aVTurn off your air conditioning, turn on your fans.
+p59
+aVAnother group got an environmental message.
+p60
+aVAnd still a third group got a message about
+p61
+aVbeing good citizens, preventing blackouts.
+p62
+aVMost people guessed that money-saving message would work best of all.
+p63
+aVIn fact, none of these messages worked.
+p64
+aVThey had zero impact on energy consumption.
+p65
+aVIt was as if the grad students hadn't shown up at all.
+p66
+aa(lp67
+VBut there was a fourth message,
+p68
+aVand this message simply said,
+p69
+aV"When surveyed, 77 percent of your neighbors
+p70
+aVsaid that they turned off their air conditioning and turned on their fans.
+p71
+aVPlease join them. Turn off your air conditioning
+p72
+aVand turn on your fans."
+p73
+aVAnd wouldn't you know it, they did.
+p74
+aVThe people who received this message
+p75
+aVshowed a marked decrease in energy consumption
+p76
+aVsimply by being told what their neighbors were doing.
+p77
+aa(lp78
+VSo what does this tell us?
+p79
+aVWell, if something is inconvenient,
+p80
+aVeven if we believe in it,
+p81
+aVmoral suasion, financial incentives, don't do much to move us \u2014
+p82
+aVbut social pressure, that's powerful stuff.
+p83
+aVAnd harnessed correctly, it can be a powerful force for good.
+p84
+aVIn fact, it already is.
+p85
+aa(lp86
+VInspired by this insight, my friend Dan Yates and I
+p87
+aVstarted a company called Opower.
+p88
+aVWe built software and partnered with utility companies
+p89
+aVwho wanted to help their customers save energy.
+p90
+aVWe deliver personalized home energy reports
+p91
+aVthat show people how their consumption
+p92
+aVcompares to their neighbors in similar-sized homes.
+p93
+aVJust like those effective door hangers,
+p94
+aVwe have people comparing themselves to their neighbors,
+p95
+aVand then we give everyone targeted recommendations
+p96
+aVto help them save.
+p97
+aVWe started with paper, we moved to a mobile application,
+p98
+aVweb, and now even a controllable thermostat,
+p99
+aVand for the last five years we've been running
+p100
+aVthe largest behavioral science experiment in the world.
+p101
+aa(lp102
+VAnd it's working.
+p103
+aVOrdinary homeowners and renters have saved
+p104
+aVmore than 250 million dollars on their energy bills,
+p105
+aVand we're just getting started.
+p106
+aVThis year alone, in partnership with more than 80 utilities
+p107
+aVin six countries, we're going to generate
+p108
+aVanother two terawatt hours of electricity savings.
+p109
+aa(lp110
+VNow, the energy geeks in the room know two terawatt hours,
+p111
+aVbut for the rest of us, two terawatt hours
+p112
+aVis more than enough energy to power every home
+p113
+aVin St. Louis and Salt Lake City combined
+p114
+aVfor more than a year.
+p115
+aVTwo terawatt hours, it's roughly half
+p116
+aVwhat the U.S. solar industry produced last year.
+p117
+aVAnd two terawatt hours? In terms of coal,
+p118
+aVwe'd need to burn 34 of these wheelbarrows
+p119
+aVevery minute around the clock every day for an entire year
+p120
+aVto get two terawatt hours of electricity.
+p121
+aVAnd we're not burning anything.
+p122
+aVWe're just motivating people to pay attention
+p123
+aVand change their behavior.
+p124
+aa(lp125
+VBut we're just one company, and this is just
+p126
+aVscratching the surface.
+p127
+aVTwenty percent of the electricity in homes is wasted,
+p128
+aVand when I say wasted, I don't mean that people have
+p129
+aVinefficient lightbulbs. They may.
+p130
+aVI mean we leave the lights on in empty rooms,
+p131
+aVand we leave the air conditioning on when nobody's home.
+p132
+aVThat's 40 billion dollars a year wasted
+p133
+aVon electricity that does not contribute to our well-being
+p134
+aVbut does contribute to climate change.
+p135
+aVThat's 40 billion \u2014 with a B \u2014
+p136
+aVevery year in the U.S. alone.
+p137
+aVThat's half our coal usage right there.
+p138
+aa(lp139
+VNow thankfully, some of the world's best material scientists
+p140
+aVare looking to replace coal with sustainable resources
+p141
+aVlike these,
+p142
+aVand this is both fantastic and essential.
+p143
+aVBut the most overlooked resource to get us
+p144
+aVto a sustainable energy future, it isn't on this slide.
+p145
+aVIt's in this room. It's you, and it's me.
+p146
+aVAnd we can harness this resource
+p147
+aVwith no new material science
+p148
+aVsimply by applying behavioral science.
+p149
+aVWe can do it today, we know it works,
+p150
+aVand it will save us money right away.
+p151
+aa(lp152
+VSo what are we waiting for?
+p153
+aVWell, in most places, utility regulation
+p154
+aVhasn't changed much since Thomas Edison.
+p155
+aVUtilities are still rewarded when their customers
+p156
+aVwaste energy.
+p157
+aVThey ought to be rewarded for helping their customers save it.
+p158
+aa(lp159
+VBut this story is much more than about household energy use.
+p160
+aVTake a look at the Prius.
+p161
+aVIt's efficient not only because Toyota invested in material science
+p162
+aVbut because they invested in behavioral science.
+p163
+aVThe dashboard that shows drivers how much energy
+p164
+aVthey're saving in real time
+p165
+aVmakes former speed demons
+p166
+aVdrive more like cautious grandmothers.
+p167
+aa(lp168
+VWhich brings us back to Harriet.
+p169
+aVWe met her on our first family vacation.
+p170
+aVShe came over to meet my young daughter,
+p171
+aVand she was tickled to learn that my daughter's name
+p172
+aVis also Harriet.
+p173
+aVShe asked me what I did for a living,
+p174
+aVand I told her, I work with utilities
+p175
+aVto help people save energy.
+p176
+aVIt was then that her eyes lit up.
+p177
+aa(lp178
+VShe looked at me, and she said,
+p179
+aV"You're exactly the person I need to talk to.
+p180
+aVYou see, two weeks ago, my husband and I got a letter
+p181
+aVin the mail from our utility.
+p182
+aVIt told us we were using twice as much energy as our neighbors."
+p183
+aV(Laughter)
+p184
+aV"And for the last two weeks, all we can think about,
+p185
+aVtalk about, and even argue about,
+p186
+aVis what we should be doing to save energy.
+p187
+aVWe did everything that letter told us to do,
+p188
+aVand still I know there must be more.
+p189
+aVNow I'm here with a genuine expert.
+p190
+aVTell me. What should I do to save energy?"
+p191
+aa(lp192
+VThere are many experts who can help answer Harriet's question.
+p193
+aVMy goal is to make sure
+p194
+aVwe are all asking it.
+p195
+aa(lp196
+VThank you.
+p197
+aa(lp198
+V(Applause)
+p199
+aasS'id'
+p200
+I1754
+sS'title'
+p201
+VHow behavioral science can lower your energy bill
+p202
+s.

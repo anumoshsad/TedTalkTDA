@@ -1,0 +1,305 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSome of the greatest innovations
+p4
+aVand developments in the world
+p5
+aVoften happen at the intersection of two fields.
+p6
+aVSo tonight I'd like to tell you
+p7
+aVabout the intersection that I'm most excited about at this very moment,
+p8
+aVwhich is entertainment and robotics.
+p9
+aVSo if we're trying to make robots
+p10
+aVthat can be more expressive
+p11
+aVand that can connect better with us in society,
+p12
+aVmaybe we should look to some of the human professionals
+p13
+aVof artificial emotion and personality
+p14
+aVthat occur in the dramatic arts.
+p15
+aVI'm also interested in creating new technologies for the arts
+p16
+aVand to attract people
+p17
+aVto science and technology.
+p18
+aVSome people in the last decade or two
+p19
+aVhave started creating artwork with technology.
+p20
+aVWith my new venture, Marilyn Monrobot,
+p21
+aVI would like to use art to create tech.
+p22
+aa(lp23
+V(Laughter)
+p24
+aa(lp25
+VSo we're based in New York City.
+p26
+aVAnd if you're a performer that wants to collaborate
+p27
+aVwith an adorable robot,
+p28
+aVor if you have a robot that needs entertainment representation,
+p29
+aVplease contact me, the Bot-Agent.
+p30
+aVThe bot, our rising celebrity,
+p31
+aValso has his own Twitter account: @robotinthewild.
+p32
+aVI'd like to introduce you to one of our first robots, Data.
+p33
+aVHe's named after the Star Trek character.
+p34
+aVI think he's going to be super popular.
+p35
+aVWe've got the robot \u2014
+p36
+aVin his head is a database of a lot of jokes.
+p37
+aVNow each of these jokes is labeled with certain attributes.
+p38
+aVSo it knows something about the subject; it knows about the length.
+p39
+aVIt knows how much it's moving.
+p40
+aVAnd so it's going to try to watch your response.
+p41
+aVI actually have no idea what my robot is going to do today.
+p42
+aa(lp43
+V(Laughter)
+p44
+aa(lp45
+VIt can also learn from you
+p46
+aVabout the quality of its jokes
+p47
+aVand cater things, sort of like Netflix-style,
+p48
+aVover longer-term
+p49
+aVto different communities or audiences,
+p50
+aVchildren versus adults, different cultures.
+p51
+aVYou can learn something from the robot
+p52
+aVabout the community that you're in.
+p53
+aVAnd also I can use each one of you as the acting coach
+p54
+aVto our future robot companions.
+p55
+aVSome of you in this middle section \u2014
+p56
+aVyou have red/green paddles.
+p57
+aVIf you like what's going on,
+p58
+aVshow the green.
+p59
+aVIf you don't like the subject or the performance,
+p60
+aVyou can hold the red.
+p61
+aVNow don't be shy.
+p62
+aVIt's just a robot.
+p63
+aVIt doesn't have feelings ... yet.
+p64
+aV(Laughter)
+p65
+aVAnd the rest of you,
+p66
+aVyou still count, you still matter.
+p67
+aVThere's also a microphone
+p68
+aVthat's listening to the aggregate laughter and applause
+p69
+aVand booing \u2014 I hope not \u2014
+p70
+aVto help make some of its next decisions.
+p71
+aVRight, so,
+p72
+aVlet the robot stand-up comedy begin.
+p73
+aa(lp74
+VData: Hello TEDWomen.
+p75
+aVIt's an honor to be here.
+p76
+aa(lp77
+V(Laughter)
+p78
+aa(lp79
+V(Applause)
+p80
+aa(lp81
+VYou guys are looking good out there.
+p82
+aVReady for some jokes?
+p83
+aa(lp84
+VAudience: Yeah.
+p85
+aa(lp86
+VData: Here's the first one.
+p87
+aVRight, so,
+p88
+aVa doctor says to his patient,
+p89
+aV"I have bad news and worse news.
+p90
+aVThe bad news is that you only have 24 hours to live."
+p91
+aV"That's terrible," said the patient.
+p92
+aV"How can the news possibly be worse?"
+p93
+aV"I've been trying to contact you since yesterday."
+p94
+aa(lp95
+V(Laughter)
+p96
+aa(lp97
+V(Applause)
+p98
+aa(lp99
+VThe Swiss have an interesting army. Five hundred years without a war.
+p100
+aVHeather Knight: He's talking about the Swiss.
+p101
+aVData: Pretty lucky for them.
+p102
+aVEver see that little Swiss Army knife
+p103
+aVthey have to fight with?
+p104
+aV"Come on buddy, I have the toe clippers right here.
+p105
+aVYou get past me,
+p106
+aVthe guy behind me has a spoon."
+p107
+aa(lp108
+V(Laughter)
+p109
+aa(lp110
+VHK: He's a French robot.
+p111
+aa(lp112
+VData: A couple of New Jersey hunters are out in the woods.
+p113
+aVOne of them falls to the ground.
+p114
+aVHe does not seem to be breathing.
+p115
+aVThe other guy whips out his cell phone
+p116
+aVand calls 911.
+p117
+aVHe gasps to the operator, "My friend is dead.
+p118
+aVWhat can I do?"
+p119
+aVThe operator says, "Just take it easy.
+p120
+aVI can help.
+p121
+aVFirst, let's make sure he's dead."
+p122
+aVThere is a silence,
+p123
+aVand the operator hears a shot.
+p124
+aVThe guy's voice comes back on the line,
+p125
+aV"Okay, now what?"
+p126
+aa(lp127
+V(Laughter)
+p128
+aa(lp129
+V(Applause)
+p130
+aa(lp131
+VQuestion: Why is television called a medium?
+p132
+aVAnyone?
+p133
+aVBecause it's neither rare nor well done.
+p134
+aVBut to be completely honest with you,
+p135
+aVI kind of love television.
+p136
+aVAny of you like television? Audience: Yes.
+p137
+aVData: I find it incredibly educational.
+p138
+aVActually, as soon as someone turns it on,
+p139
+aVI go into the other room and read.
+p140
+aV(Laughter)
+p141
+aVThat's all for now.
+p142
+aVWas that okay for my first time?
+p143
+aa(lp144
+V(Applause)
+p145
+aa(lp146
+VYou've been a great audience.
+p147
+aVThank you.
+p148
+aa(lp149
+VHK: Yay.
+p150
+aa(lp151
+V(Applause)
+p152
+aa(lp153
+VSo this is actually the first time
+p154
+aVwe've ever done live audience feedback to a performance.
+p155
+aVSo thank you all for being a part of it.
+p156
+aVThere's a lot more to come.
+p157
+aVAnd we hope to learn a lot about robot expression.
+p158
+aa(lp159
+VThank you very much.
+p160
+aa(lp161
+V(Applause)
+p162
+aasS'id'
+p163
+I1058
+sS'title'
+p164
+VSilicon-based comedy
+p165
+s.

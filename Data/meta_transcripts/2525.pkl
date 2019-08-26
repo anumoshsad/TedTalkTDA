@@ -1,0 +1,620 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhat does it mean to spend our time well?
+p4
+aVI spend a lot of my time
+p5
+aVthinking about how to spend my time.
+p6
+aVProbably too much \u2014 I probably obsess over it.
+p7
+aVMy friends think I do.
+p8
+aVBut I feel like I kind of have to, because these days,
+p9
+aVit feels like little bits of my time kind of slip away from me,
+p10
+aVand when that happens, it feels like parts of my life are slipping away.
+p11
+aa(lp12
+VSpecifically,
+p13
+aVit feels like little bits of my time get slipped away
+p14
+aVto various things like this,
+p15
+aVlike technology \u2014 I check things.
+p16
+aVI'll give you an example.
+p17
+aVIf this email shows up \u2014
+p18
+aVhow many of you have gotten an email like this, right?
+p19
+aVI've been tagged in a photo.
+p20
+aVWhen this appears,
+p21
+aVI can't help but click on it right now.
+p22
+aVRight? Because, like, what if it's a bad photo?
+p23
+aVSo I have to click it right now.
+p24
+aVBut I'm not just going to click "See photo,"
+p25
+aVwhat I'm actually going to do is spend the next 20 minutes.
+p26
+aa(lp27
+V(Laughter)
+p28
+aa(lp29
+VBut the worst part is that I know this is what's going to happen,
+p30
+aVand even knowing that's what's going to happen
+p31
+aVdoesn't stop me from doing it again the next time.
+p32
+aVOr I find myself in a situation like this,
+p33
+aVwhere I check my email and I pull down to refresh,
+p34
+aVBut the thing is that 60 seconds later,
+p35
+aVI'll pull down to refresh again.
+p36
+aVWhy am I doing this?
+p37
+aVThis doesn't make any sense.
+p38
+aa(lp39
+VBut I'll give you a hint why this is happening.
+p40
+aVWhat do you think makes more money in the United States
+p41
+aVthan movies, game parks and baseball combined?
+p42
+aVSlot machines.
+p43
+aVHow can slot machines make all this money
+p44
+aVwhen we play with such small amounts of money?
+p45
+aVWe play with coins.
+p46
+aVHow is this possible?
+p47
+aVWell, the thing is ...
+p48
+aVmy phone is a slot machine.
+p49
+aVEvery time I check my phone,
+p50
+aVI'm playing the slot machine to see,
+p51
+aVwhat am I going to get?
+p52
+aVWhat am I going to get?
+p53
+aVEvery time I check my email,
+p54
+aVI'm playing the slot machine,
+p55
+aVsaying, "What am I going to get?"
+p56
+aVEvery time I scroll a news feed,
+p57
+aVI'm playing the slot machine to see,
+p58
+aVwhat am I going to get next?
+p59
+aVAnd the thing is that,
+p60
+aVagain, knowing exactly how this works \u2014 and I'm a designer,
+p61
+aVI know exactly how the psychology of this works,
+p62
+aVI know exactly what's going on \u2014
+p63
+aVbut it doesn't leave me with any choice,
+p64
+aVI still just get sucked into it.
+p65
+aa(lp66
+VSo what are we going to do?
+p67
+aVBecause it leaves us with this all-or-nothing relationship
+p68
+aVwith technology, right?
+p69
+aVYou're either on,
+p70
+aVand you're connected and distracted all the time,
+p71
+aVor you're off,
+p72
+aVbut then you're wondering,
+p73
+aVam I missing something important?
+p74
+aVIn other words, you're either distracted
+p75
+aVor you have fear of missing out.
+p76
+aVRight?
+p77
+aa(lp78
+VSo we need to restore choice.
+p79
+aVWe want to have a relationship with technology
+p80
+aVthat gives us back choice about how we spend time with it,
+p81
+aVand we're going to need help from designers,
+p82
+aVbecause knowing this stuff doesn't help.
+p83
+aVWe're going to need design help.
+p84
+aVSo what would that look like?
+p85
+aa(lp86
+VSo let's take an example that we all face:
+p87
+aVchat \u2014 text messaging.
+p88
+aVSo let's say there's two people.
+p89
+aVNancy's on the left and she's working on a document,
+p90
+aVand John's on the right.
+p91
+aVAnd John suddenly remembers,
+p92
+aV"I need to ask Nancy for that document before I forget."
+p93
+aVSo when he sends her that message,
+p94
+aVit blows away her attention.
+p95
+aa(lp96
+VThat's what we're doing all the time, bulldozing each other's attention,
+p97
+aVleft and right.
+p98
+aVAnd there's serious cost to this,
+p99
+aVbecause every time we interrupt each other,
+p100
+aVit takes us about 23 minutes, on average,
+p101
+aVto refocus our attention.
+p102
+aVWe actually cycle through two different projects
+p103
+aVbefore we come back to the original thing we were doing.
+p104
+aVThis is Gloria Mark's research combined with Microsoft research,
+p105
+aVthat showed this.
+p106
+aVAnd her research also shows that it actually trains bad habits.
+p107
+aVThe more interruptions we get externally,
+p108
+aVit's conditioning and training us to interrupt ourselves.
+p109
+aVWe actually self-interrupt every three-and-a-half minutes.
+p110
+aa(lp111
+VThis is crazy.
+p112
+aVSo how do we fix this?
+p113
+aVBecause Nancy and John are in this all-or-nothing relationship.
+p114
+aVNancy might want to disconnect,
+p115
+aVbut then she'd be worried:
+p116
+aVWhat if I'm missing something important?
+p117
+aa(lp118
+VDesign can fix this problem.
+p119
+aVLet's say you have Nancy again on the left,
+p120
+aVJohn on the right.
+p121
+aVAnd John remembers, "I need to send Nancy that document."
+p122
+aVExcept this time,
+p123
+aVNancy can mark that she's focused.
+p124
+aVLet's say she drags a slider and says,
+p125
+aV"I want to be focused for 30 minutes,"
+p126
+aVso \u2014 bam \u2014 she's focused.
+p127
+aVNow when John wants to message her,
+p128
+aVhe can get the thought off of his mind \u2014
+p129
+aVbecause he has a need, he has this thought,
+p130
+aVand he needs to dump it out before he forgets.
+p131
+aVExcept this time,
+p132
+aVit holds the messages so that Nancy can still focus,
+p133
+aVbut John can get the thought off of his mind.
+p134
+aa(lp135
+VBut this only works if one last thing is true,
+p136
+aVwhich is that Nancy needs to know that if something is truly important,
+p137
+aVJohn can still interrupt.
+p138
+aVBut instead of having constant accidental or mindless interruptions,
+p139
+aVwe're now only creating conscious interruptions,
+p140
+aa(lp141
+VSo we're doing two things here.
+p142
+aVWe're creating a new choice for both Nancy and John,
+p143
+aVBut there's a second, subtle thing we're doing here, too.
+p144
+aVAnd it's that we're changing the question we're answering.
+p145
+aVInstead of the goal of chat being:
+p146
+aV"Let's design it so it's easy to send a message" \u2014
+p147
+aVthat's the goal of chat,
+p148
+aVit should be really easy to send a message to someone \u2014
+p149
+aVwe change the goal to something deeper and a human value,
+p150
+aVwhich is: "Let's create the highest possible quality communication
+p151
+aVin a relationship between two people.
+p152
+aVSo we upgraded the goal.
+p153
+aa(lp154
+VNow, do designers actually care about this?
+p155
+aVDo we want to have conversations about what these deeper human goals are?
+p156
+aVWell, I'll tell you one story.
+p157
+aVA little over a year ago,
+p158
+aVI got to help organize a meeting
+p159
+aVbetween some of technology's leading designers and Thich Nhat Hanh.
+p160
+aVThich Nhat Hanh is an international spokesperson for mindfulness meditation.
+p161
+aVAnd it was the most amazing meeting.
+p162
+aVYou have to imagine \u2014 picture a room \u2014
+p163
+aVon one side of the room, you have a bunch of tech geeks;
+p164
+aVon the other side of the room,
+p165
+aVyou have a bunch of long brown robes, shaved heads, Buddhist monks.
+p166
+aVAnd the questions were about the deepest human values,
+p167
+aVlike what does the future of technology look like
+p168
+aVwhen you're designing for the deepest questions
+p169
+aVand the deepest human values?
+p170
+aVAnd our conversation centered on listening more deeply
+p171
+aVto what those values might be.
+p172
+aVHe joked in our conversation
+p173
+aVthat what if, instead of a spell check,
+p174
+aVyou had a compassion check,
+p175
+aVmeaning, you might highlight a word that might be accidentally abrasive \u2014
+p176
+aVperceived as abrasive by someone else.
+p177
+aa(lp178
+VSo does this kind of conversation happen in the real world,
+p179
+aVnot just in these design meetings?
+p180
+aVWell, the answer is yes,
+p181
+aVand one of my favorites is Couchsurfing.
+p182
+aVIf you didn't know, Couchsurfing is a website
+p183
+aVthat matches people who are looking for a place to stay
+p184
+aVwith a free couch, from someone who's trying to offer it.
+p185
+aa(lp186
+VSo, great service \u2014
+p187
+aVwhat would their design goal be?
+p188
+aVWhat are you designing for if you work at Couchsurfing?
+p189
+aVWell, you would think it's to match guests with hosts.
+p190
+aVRight?
+p191
+aVThat's a pretty good goal.
+p192
+aVBut that would kind of be like our goal with messaging before,
+p193
+aVwhere we're just trying to deliver a message.
+p194
+aa(lp195
+VSo what's the deeper, human goal?
+p196
+aVWell, they set their goal
+p197
+aVas the need to create lasting, positive experiences and relationships
+p198
+aVbetween people who've never met before.
+p199
+aVAnd the most amazing thing about this was in 2007,
+p200
+aVthey introduced a way to measure this,
+p201
+aVwhich is incredible.
+p202
+aVI'll tell you how it works.
+p203
+aVFor every design goal you have,
+p204
+aVyou have to have a corresponding measurement
+p205
+aVto know how you're doing \u2014
+p206
+aVa way of measuring success.
+p207
+aVSo what they do is,
+p208
+aVlet's say you take two people who meet up,
+p209
+aVand they take the number of days those two people spent together,
+p210
+aVand then they estimate how many hours were in those days \u2014
+p211
+aVhow many hours did those two people spend together?
+p212
+aVAnd then after they spend that time together,
+p213
+aVthey ask both of them:
+p214
+aVHow positive was your experience?
+p215
+aVDid you have a good experience with this person that you met?
+p216
+aVAnd they subtract from those positive hours
+p217
+aVthe amount of time people spent on the website,
+p218
+aVbecause that's a cost to people's lives.
+p219
+aVWhy should we value that as success?
+p220
+aVAnd what you were left with
+p221
+aVis something they refer to as "net orchestrated conviviality,"
+p222
+aVor, really, just a net "Good Times" created.
+p223
+aVThe net hours that would have never existed, had Couchsurfing not existed.
+p224
+aa(lp225
+VCan you imagine how inspiring it would be to come to work every day
+p226
+aVand measure your success
+p227
+aVin the actual net new contribution of hours in people's lives
+p228
+aVthat are positive, that would have never existed
+p229
+aVif you didn't do what you were about to do at work today?
+p230
+aVCan you imagine a whole world that worked this way?
+p231
+aa(lp232
+VCan you imagine a social network that \u2014
+p233
+aVlet's say you care about cooking,
+p234
+aVand it measured its success in terms of cooking nights organized
+p235
+aVand the cooking articles that you were glad you read,
+p236
+aVand subtracted from that the articles you weren't glad you read
+p237
+aVor the time you spent scrolling that you didn't like?
+p238
+aVImagine a professional social network
+p239
+aVthat, instead of measuring its success in terms of connections created
+p240
+aVor messages sent,
+p241
+aVinstead measured its success in terms of the job offers that people got
+p242
+aVthat they were excited to get.
+p243
+aVAnd subtracted the amount of time people spent on the website.
+p244
+aVOr imagine dating services,
+p245
+aVlike maybe Tinder or something,
+p246
+aVwhere instead of measuring the number of swipes left and right people did,
+p247
+aVwhich is how they measure success today,
+p248
+aVinstead measured the deep, romantic, fulfilling connections people created.
+p249
+aVWhatever that was for them, by the way.
+p250
+aa(lp251
+VBut can you imagine a whole world that worked this way,
+p252
+aVthat was helping you spend your time well?
+p253
+aVNow to do this you also need a new system,
+p254
+aVbecause you're probably thinking,
+p255
+aVtoday's Internet economy \u2014
+p256
+aVtoday's economy in general \u2014
+p257
+aVis measured in time spent.
+p258
+aVThe more users you have,
+p259
+aVthe more usage you have,
+p260
+aVthe more time people spend,
+p261
+aVthat's how we measure success.
+p262
+aa(lp263
+VBut we've solved this problem before.
+p264
+aVWe solved it with organic,
+p265
+aVwhen we said we need to value things a different way.
+p266
+aVWe said this is a different kind of food.
+p267
+aVSo we can't compare it just based on price;
+p268
+aVthis is a different category of food.
+p269
+aVWe solved it with Leed Certification,
+p270
+aVwhere we said this is a different kind of building
+p271
+aVthat stood for different values of environmental sustainability.
+p272
+aa(lp273
+VWhat if we had something like that for technology?
+p274
+aVWhat if we had something whose entire purpose and goal
+p275
+aVwas to help create net new positive contributions to human life?
+p276
+aVAnd what if we could value it a different way,
+p277
+aVso it would actually work?
+p278
+aVImagine you gave this different premium shelf space on app stores.
+p279
+aVImagine you had web browsers that helped route you
+p280
+aVto these kinds of design products.
+p281
+aVCan you imagine how exciting it would be to live and create that world?
+p282
+aa(lp283
+VWe can create this world today.
+p284
+aVCompany leaders, all you have to do \u2014
+p285
+aVonly you can prioritize a new metric,
+p286
+aVwhich is your metric for net positive contribution to human life.
+p287
+aVAnd have an honest conversation about that.
+p288
+aVMaybe you're not doing so well to start with,
+p289
+aVbut let's start that conversation.
+p290
+aa(lp291
+VDesigners, you can redefine success; you can redefine design.
+p292
+aVArguably, you have more power than many people in your organization
+p293
+aVto create the choices that all of us live by.
+p294
+aVMaybe like in medicine,
+p295
+aVwhere we have a Hippocratic oath
+p296
+aVto recognize the responsibility and this higher value
+p297
+aVthat we have to treat patients.
+p298
+aVWhat if designers had something like that,
+p299
+aVin terms of this new kind of design?
+p300
+aa(lp301
+VAnd users, for all of us \u2014
+p302
+aVwe can demand technology that works this way.
+p303
+aVNow it may seem hard,
+p304
+aVbut McDonald's didn't have salads until the consumer demand was there.
+p305
+aVWalmart didn't have organic food until the consumer demand was there.
+p306
+aVWe have to demand this new kind of technology.
+p307
+aVAnd we can do that.
+p308
+aVAnd doing that
+p309
+aVwould amount to shifting from a world that's driven and run
+p310
+aVentirely on time spent,
+p311
+aVto world that's driven by time well spent.
+p312
+aa(lp313
+VI want to live in this world,
+p314
+aVand I want this conversation to happen.
+p315
+aVLet's start that conversation now.
+p316
+aa(lp317
+VThank you.
+p318
+aa(lp319
+V(Applause)
+p320
+aasS'id'
+p321
+I2525
+sS'title'
+p322
+VHow better tech could protect us from distraction
+p323
+s.

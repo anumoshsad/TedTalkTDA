@@ -1,0 +1,88 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+V(Music)
+p4
+aa(lp5
+VText: BeatJazz.
+p6
+aVBeatJazz is:
+p7
+aV1. Live looping,
+p8
+aV2. Jazz improvisation
+p9
+aVAnd
+p10
+aV3. "Gestural" sound design.
+p11
+aVAccelerometers
+p12
+aVon each hand
+p13
+aVread hand position.
+p14
+aVThe color of the lights
+p15
+aVindicates which sound I am playing.
+p16
+aa(lp17
+VRed = Drums,
+p18
+aVBlue = Bass,
+p19
+aVGreen = Chords,
+p20
+aVOrange = Leads,
+p21
+aVPurple = Pads
+p22
+aa(lp23
+VThe mouthpiece
+p24
+aVconsists of ...
+p25
+aVa button,
+p26
+aVtwo guitar picks
+p27
+aVand lots of hot glue.
+p28
+aVThe heads-up display
+p29
+aVis a smartphone that displays system parameters.
+p30
+aa(lp31
+VWhy?
+p32
+aVTo atomize music culture
+p33
+aVso that ALL past, present and future genres
+p34
+aVcan be studied and abstracted, live.
+p35
+aVAnd
+p36
+aV"BeatJazzers"
+p37
+aVbecome as common as D.J.'s.
+p38
+aVBut mostly ...
+p39
+aVto MAKE the future
+p40
+aVrather than wait for it.
+p41
+aa(lp42
+V(Applause)
+p43
+aasS'id'
+p44
+I1172
+sS'title'
+p45
+VThis is beatjazz
+p46
+s.

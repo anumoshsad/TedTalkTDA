@@ -1,0 +1,651 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo, my question:
+p4
+aVare we alone?
+p5
+aa(lp6
+VThe story of humans is the story of ideas \u2014
+p7
+aVscientific ideas that shine light into dark corners,
+p8
+aVideas that we embrace rationally and irrationally,
+p9
+aVideas for which we've lived and died and killed and been killed,
+p10
+aVideas that have vanished in history,
+p11
+aVand ideas that have been set in dogma.
+p12
+aVIt's a story of nations,
+p13
+aVof ideologies,
+p14
+aVof territories,
+p15
+aVand of conflicts among them.
+p16
+aVBut, every moment of human history,
+p17
+aVfrom the Stone Age to the Information Age,
+p18
+aVfrom Sumer and Babylon to the iPod and celebrity gossip,
+p19
+aVthey've all been carried out \u2014
+p20
+aVevery book that you've read,
+p21
+aVevery poem, every laugh, every tear \u2014
+p22
+aVthey've all happened here.
+p23
+aVHere.
+p24
+aVHere.
+p25
+aVHere.
+p26
+aV(Laughter)
+p27
+aa(lp28
+VPerspective is a very powerful thing.
+p29
+aVPerspectives can change.
+p30
+aVPerspectives can be altered.
+p31
+aVFrom my perspective, we live on a fragile island of life,
+p32
+aVin a universe of possibilities.
+p33
+aVFor many millennia, humans have been on a journey to find answers,
+p34
+aVanswers to questions about naturalism and transcendence,
+p35
+aVabout who we are and why we are,
+p36
+aVand of course, who else might be out there.
+p37
+aVIs it really just us?
+p38
+aVAre we alone in this vast universe
+p39
+aVof energy and matter and chemistry and physics?
+p40
+aVWell, if we are, it's an awful waste of space.
+p41
+aV(Laughter)
+p42
+aVBut, what if we're not?
+p43
+aa(lp44
+VWhat if, out there, others are asking and answering similar questions?
+p45
+aVWhat if they look up at the night sky, at the same stars,
+p46
+aVbut from the opposite side?
+p47
+aVWould the discovery of an older cultural civilization out there
+p48
+aVinspire us to find ways to survive
+p49
+aVour increasingly uncertain technological adolescence?
+p50
+aVMight it be the discovery of a distant civilization
+p51
+aVand our common cosmic origins
+p52
+aVthat finally drives home the message of the bond among all humans?
+p53
+aVWhether we're born in San Francisco, or Sudan,
+p54
+aVor close to the heart of the Milky Way galaxy,
+p55
+aVwe are the products of a billion-year lineage of wandering stardust.
+p56
+aVWe, all of us,
+p57
+aVare what happens when a primordial mixture of hydrogen and helium
+p58
+aVevolves for so long that it begins to ask where it came from.
+p59
+aVFifty years ago,
+p60
+aVthe journey to find answers took a different path
+p61
+aVand SETI, the Search for Extra-Terrestrial Intelligence,
+p62
+aVbegan.
+p63
+aa(lp64
+VSo, what exactly is SETI?
+p65
+aVWell, SETI uses the tools of astronomy
+p66
+aVto try and find evidence of someone else's technology out there.
+p67
+aVOur own technologies are visible over interstellar distances,
+p68
+aVand theirs might be as well.
+p69
+aVIt might be that some massive network of communications,
+p70
+aVor some shield against asteroidal impact,
+p71
+aVor some huge astro-engineering project that we can't even begin to conceive of,
+p72
+aVcould generate signals at radio or optical frequencies
+p73
+aVthat a determined program of searching might detect.
+p74
+aVFor millennia, we've actually turned to the priests and the philosophers
+p75
+aVfor guidance and instruction on this question of whether there's intelligent life out there.
+p76
+aVNow, we can use the tools of the 21st century to try and observe what is,
+p77
+aVrather than ask what should be, believed.
+p78
+aa(lp79
+VSETI doesn't presume the existence of extra terrestrial intelligence;
+p80
+aVit merely notes the possibility, if not the probability
+p81
+aVin this vast universe, which seems fairly uniform.
+p82
+aVThe numbers suggest a universe of possibilities.
+p83
+aVOur sun is one of 400 billion stars in our galaxy,
+p84
+aVand we know that many other stars have planetary systems.
+p85
+aVWe've discovered over 350 in the last 14 years,
+p86
+aVincluding the small planet, announced earlier this week,
+p87
+aVwhich has a radius just twice the size of the Earth.
+p88
+aVAnd, if even all of the planetary systems in our galaxy were devoid of life,
+p89
+aVthere are still 100 billion other galaxies out there,
+p90
+aValtogether 10^22 stars.
+p91
+aVNow, I'm going to try a trick, and recreate an experiment from this morning.
+p92
+aVRemember, one billion?
+p93
+aVBut, this time not one billion dollars, one billion stars.
+p94
+aVAlright, one billion stars.
+p95
+aVNow, up there, 20 feet above the stage,
+p96
+aVthat's 10 trillion.
+p97
+aVWell, what about 10^22?
+p98
+aVWhere's the line that marks that?
+p99
+aVThat line would have to be 3.8 million miles above this stage.
+p100
+aV(Laughter)
+p101
+aV16 times farther away than the moon,
+p102
+aVor four percent of the distance to the sun.
+p103
+aa(lp104
+VSo, there are many possibilities.
+p105
+aV(Laughter)
+p106
+aVAnd much of this vast universe,
+p107
+aVmuch more may be habitable than we once thought,
+p108
+aVas we study extremophiles on Earth \u2014
+p109
+aVorganisms that can live in conditions totally inhospitable for us,
+p110
+aVin the hot, high pressure thermal vents at the bottom of the ocean,
+p111
+aVfrozen in ice, in boiling battery acid,
+p112
+aVin the cooling waters of nuclear reactors.
+p113
+aVThese extremophiles tell us that life may exist in many other environments.
+p114
+aa(lp115
+VBut those environments are going to be widely spaced in this universe.
+p116
+aVEven our nearest star, the Sun \u2014
+p117
+aVits emissions suffer the tyranny of light speed.
+p118
+aVIt takes a full eight minutes for its radiation to reach us.
+p119
+aVAnd the nearest star is 4.2 light years away,
+p120
+aVwhich means its light takes 4.2 years to get here.
+p121
+aVAnd the edge of our galaxy is 75,000 light years away,
+p122
+aVand the nearest galaxy to us, 2.5 million light years.
+p123
+aVThat means any signal we detect would have started its journey a long time ago.
+p124
+aVAnd a signal would give us a glimpse of their past,
+p125
+aVnot their present.
+p126
+aVWhich is why Phil Morrison calls SETI, "the archaeology of the future."
+p127
+aVIt tells us about their past,
+p128
+aVbut detection of a signal tells us it's possible for us to have a long future.
+p129
+aa(lp130
+VI think this is what David Deutsch meant in 2005,
+p131
+aVwhen he ended his Oxford TEDTalk
+p132
+aVby saying he had two principles he'd like to share for living,
+p133
+aVand he would like to carve them on stone tablets.
+p134
+aVThe first is that problems are inevitable.
+p135
+aVThe second is that problems are soluble.
+p136
+aVSo, ultimately what's going to determine the success or failure of SETI
+p137
+aVis the longevity of technologies,
+p138
+aVand the mean distance between technologies in the cosmos \u2014
+p139
+aVdistance over space and distance over time.
+p140
+aVIf technologies don't last and persist,
+p141
+aVwe will not succeed.
+p142
+aVAnd we're a very young technology
+p143
+aVin an old galaxy,
+p144
+aVand we don't yet know whether it's possible for technologies to persist.
+p145
+aa(lp146
+VSo, up until now I've been talking to you about really large numbers.
+p147
+aVLet me talk about a relatively small number.
+p148
+aVAnd that's the length of time that the Earth was lifeless.
+p149
+aVZircons that are mined in the Jack Hills of western Australia,
+p150
+aVzircons taken from the Jack Hills of western Australia
+p151
+aVtell us that within a few hundred million years of the origin of the planet
+p152
+aVthere was abundant water and perhaps even life.
+p153
+aVSo, our planet has spent the vast majority of its 4.56 billion year history
+p154
+aVdeveloping life,
+p155
+aVnot anticipating its emergence.
+p156
+aVLife happened very quickly,
+p157
+aVand that bodes well for the potential of life elsewhere in the cosmos.
+p158
+aa(lp159
+VAnd the other thing that one should take away from this chart
+p160
+aVis the very narrow range of time
+p161
+aVover which humans can claim to be the dominant intelligence on the planet.
+p162
+aVIt's only the last few hundred thousand years
+p163
+aVmodern humans have been pursuing technology and civilization.
+p164
+aVSo, one needs a very deep appreciation
+p165
+aVof the diversity and incredible scale of life on this planet
+p166
+aVas the first step in preparing to make contact with life elsewhere in the cosmos.
+p167
+aa(lp168
+VWe are not the pinnacle of evolution.
+p169
+aVWe are not the determined product
+p170
+aVof billions of years of evolutionary plotting and planning.
+p171
+aVWe are one outcome of a continuing adaptational process.
+p172
+aVWe are residents of one small planet
+p173
+aVin a corner of the Milky Way galaxy.
+p174
+aVAnd Homo sapiens are one small leaf
+p175
+aVon a very extensive Tree of Life,
+p176
+aVwhich is densely populated by organisms that have been honed for survival
+p177
+aVover millions of years.
+p178
+aVWe misuse language,
+p179
+aVand talk about the "ascent" of man.
+p180
+aVWe understand the scientific basis for the interrelatedness of life
+p181
+aVbut our ego hasn't caught up yet.
+p182
+aVSo this "ascent" of man, pinnacle of evolution,
+p183
+aVhas got to go.
+p184
+aVIt's a sense of privilege that the natural universe doesn't share.
+p185
+aa(lp186
+VLoren Eiseley has said,
+p187
+aV"One does not meet oneself
+p188
+aVuntil one catches the reflection from an eye other than human."
+p189
+aVOne day that eye may be that of an intelligent alien,
+p190
+aVand the sooner we eschew our narrow view of evolution
+p191
+aVthe sooner we can truly explore our ultimate origins and destinations.
+p192
+aa(lp193
+VWe are a small part of the story of cosmic evolution,
+p194
+aVand we are going to be responsible for our continued participation in that story,
+p195
+aVand perhaps SETI will help as well.
+p196
+aVOccasionally, throughout history, this concept
+p197
+aVof this very large cosmic perspective comes to the surface,
+p198
+aVand as a result we see transformative and profound discoveries.
+p199
+aVSo in 1543, Nicholas Copernicus published "The Revolutions of Heavenly Spheres,"
+p200
+aVand by taking the Earth out of the center,
+p201
+aVand putting the sun in the center of the solar system,
+p202
+aVhe opened our eyes to a much larger universe,
+p203
+aVof which we are just a small part.
+p204
+aVAnd that Copernican revolution continues today
+p205
+aVto influence science and philosophy and technology and theology.
+p206
+aa(lp207
+VSo, in 1959, Giuseppe Coccone and Philip Morrison
+p208
+aVpublished the first SETI article in a refereed journal,
+p209
+aVand brought SETI into the scientific mainstream.
+p210
+aVAnd in 1960, Frank Drake conducted the first SETI observation
+p211
+aVlooking at two stars, Tau Ceti and Epsilon Eridani,
+p212
+aVfor about 150 hours.
+p213
+aVNow Drake did not discover extraterrestrial intelligence,
+p214
+aVbut he learned a very valuable lesson from a passing aircraft,
+p215
+aVand that's that terrestrial technology can interfere
+p216
+aVwith the search for extraterrestrial technology.
+p217
+aa(lp218
+VWe've been searching ever since,
+p219
+aVbut it's impossible to overstate the magnitude of the search that remains.
+p220
+aVAll of the concerted SETI efforts, over the last 40-some years,
+p221
+aVare equivalent to scooping a single glass of water from the oceans.
+p222
+aVAnd no one would decide that the ocean was without fish
+p223
+aVon the basis of one glass of water.
+p224
+aVThe 21st century now allows us to build bigger glasses \u2014
+p225
+aVmuch bigger glasses.
+p226
+aVIn Northern California, we're beginning to take observations
+p227
+aVwith the first 42 telescopes of the Allen Telescope Array \u2014
+p228
+aVand I've got to take a moment right now to publicly thank
+p229
+aVPaul Allen and Nathan Myhrvold
+p230
+aVand all the TeamSETI members in the TED community
+p231
+aVwho have so generously supported this research.
+p232
+aV(Applause)
+p233
+aa(lp234
+VThe ATA is the first telescope built from a large number of small dishes,
+p235
+aVand hooked together with computers.
+p236
+aVIt's making silicon as important as aluminum,
+p237
+aVand we'll grow it in the future by adding more antennas to reach 350
+p238
+aVfor more sensitivity and leveraging Moore's law for more processing capability.
+p239
+aVToday, our signal detection algorithms
+p240
+aVcan find very simple artifacts and noise.
+p241
+aVIf you look very hard here you can see the signal from the Voyager 1 spacecraft,
+p242
+aVthe most distant human object in the universe,
+p243
+aV106 times as far away from us as the sun is.
+p244
+aVAnd over those long distances, its signal is very faint when it reaches us.
+p245
+aVIt may be hard for your eye to see it,
+p246
+aVbut it's easily found with our efficient algorithms.
+p247
+aVBut this is a simple signal,
+p248
+aVand tomorrow we want to be able to find more complex signals.
+p249
+aa(lp250
+VThis is a very good year.
+p251
+aV2009 is the 400th anniversary of Galileo's first use of the telescope,
+p252
+aVDarwin's 200th birthday,
+p253
+aVthe 150th anniversary of the publication of "On the Origin of Species,"
+p254
+aVthe 50th anniversary of SETI as a science,
+p255
+aVthe 25th anniversary of the incorporation of the SETI Institute as a non-profit,
+p256
+aVand of course, the 25th anniversary of TED.
+p257
+aVAnd next month, the Kepler Spacecraft will launch
+p258
+aVand will begin to tell us just how frequent Earth-like planets are,
+p259
+aVthe targets for SETI's searches.
+p260
+aVIn 2009, the U.N. has declared it to be the International Year of Astronomy,
+p261
+aVa global festival to help us residents of Earth
+p262
+aVrediscover our cosmic origins and our place in the universe.
+p263
+aVAnd in 2009, change has come to Washington,
+p264
+aVwith a promise to put science in its rightful position.
+p265
+aV(Applause)
+p266
+aa(lp267
+VSo, what would change everything?
+p268
+aVWell, this is the question the Edge foundation asked this year,
+p269
+aVand four of the respondents said, "SETI."
+p270
+aVWhy?
+p271
+aVWell, to quote:
+p272
+aV"The discovery of intelligent life beyond Earth
+p273
+aVwould eradicate the loneliness and solipsism
+p274
+aVthat has plagued our species since its inception.
+p275
+aVAnd it wouldn't simply change everything,
+p276
+aVit would change everything all at once."
+p277
+aVSo, if that's right, why did we only capture four out of those 151 minds?
+p278
+aVI think it's a problem of completion and delivery,
+p279
+aVbecause the fine print said,
+p280
+aV"What game-changing ideas and scientific developments
+p281
+aVwould you expect to live to see?"
+p282
+aVSo, we have a fulfillment problem.
+p283
+aVWe need bigger glasses and more hands in the water,
+p284
+aVand then working together, maybe we can all live to see
+p285
+aVthe detection of the first extraterrestrial signal.
+p286
+aa(lp287
+VThat brings me to my wish.
+p288
+aVI wish that you would empower Earthlings everywhere
+p289
+aVto become active participants
+p290
+aVin the ultimate search for cosmic company.
+p291
+aa(lp292
+VThe first step would be to tap into the global brain trust,
+p293
+aVto build an environment where raw data could be stored,
+p294
+aVand where it could be accessed and manipulated,
+p295
+aVwhere new algorithms could be developed and old algorithms made more efficient.
+p296
+aVAnd this is a technically creative challenge,
+p297
+aVand it would change the perspective of people who worked on it.
+p298
+aVAnd then, we'd like to augment the automated search with human insight.
+p299
+aVWe'd like to use the pattern recognition capability of the human eye
+p300
+aVto find faint, complex signals that our current algorithms miss.
+p301
+aa(lp302
+VAnd, of course, we'd like to inspire and engage the next generation.
+p303
+aVWe'd like to take the materials that we have built for education,
+p304
+aVand get them out to students everywhere,
+p305
+aVstudents that can't come and visit us at the ATA.
+p306
+aVWe'd like to tell our story better,
+p307
+aVand engage young people, and thereby change their perspective.
+p308
+aa(lp309
+VI'm sorry Seth Godin, but over the millennia, we've seen where tribalism leads.
+p310
+aVWe've seen what happens when we divide an already small planet
+p311
+aVinto smaller islands.
+p312
+aVAnd, ultimately, we actually all belong to only one tribe,
+p313
+aVto Earthlings.
+p314
+aVAnd SETI is a mirror \u2014
+p315
+aVa mirror that can show us ourselves
+p316
+aVfrom an extraordinary perspective,
+p317
+aVand can help to trivialize the differences among us.
+p318
+aVIf SETI does nothing but change the perspective of humans on this planet,
+p319
+aVthen it will be one of the most profound endeavors in history.
+p320
+aa(lp321
+VSo, in the opening days of 2009,
+p322
+aVa visionary president stood on the steps of the U.S. Capitol
+p323
+aVand said, "We cannot help but believe
+p324
+aVthat the old hatreds shall someday pass,
+p325
+aVthat the lines of tribe shall soon dissolve,
+p326
+aVthat, as the world grows smaller, our common humanity shall reveal itself."
+p327
+aVSo, I look forward to working with the TED community
+p328
+aVto hear about your ideas about how to fulfill this wish,
+p329
+aVand in collaborating with you,
+p330
+aVhasten the day that that visionary statement can become a reality.
+p331
+aa(lp332
+VThank you.
+p333
+aV(Applause)
+p334
+aasS'id'
+p335
+I468
+sS'title'
+p336
+VJoin the SETI search
+p337
+s.

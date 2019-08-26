@@ -1,0 +1,786 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIt's an amazing thing
+p4
+aVthat we're here to talk about the year of patients rising.
+p5
+aVYou heard stories earlier today
+p6
+aVabout patients who are taking control of their cases,
+p7
+aVpatients who are saying,
+p8
+aV"You know what, I know what the odds are,
+p9
+aVbut I'm going to look for more information.
+p10
+aVI'm going to define what the terms of my success are."
+p11
+aVI'm going to be sharing with you how, four years ago, I almost died \u2014
+p12
+aVfound out I was, in fact, already almost dead \u2014
+p13
+aVand what I then found out
+p14
+aVabout what's called the e-Patient movement.
+p15
+aVI'll explain what that term means.
+p16
+aVI had been blogging under the name "Patient Dave,"
+p17
+aVand when I discovered this,
+p18
+aVI just renamed myself e-Patient Dave.
+p19
+aa(lp20
+VRegarding the word "patient":
+p21
+aVWhen I first started a few years ago getting involved in health care
+p22
+aVand attending meetings as just a casual observer,
+p23
+aVI noticed that people would talk about patients
+p24
+aVas if it was somebody who's not in the room here \u2014
+p25
+aVsomebody out there.
+p26
+aVSome of our talks today, we still act like that.
+p27
+aVBut I'm here to tell you:
+p28
+aV"patient" is not a third-person word.
+p29
+aVAll right?
+p30
+aVYou yourself will find yourself in a hospital bed \u2014
+p31
+aVor your mother, your child \u2014
+p32
+aVthere are heads nodding, people who say,
+p33
+aV"Yes, I know exactly what you mean."
+p34
+aa(lp35
+VSo when you hear what I'm going to talk about here today,
+p36
+aVfirst of all, I want to say that I am here
+p37
+aVon behalf of all the patients that I have ever met,
+p38
+aVall the ones I haven't met.
+p39
+aVThis is about letting patients play a more active role
+p40
+aVin helping health care, in fixing health care.
+p41
+aVOne of the senior doctors at my hospital,
+p42
+aVCharlie Safran, and his colleague, Warner Slack,
+p43
+aVhave been saying for decades
+p44
+aVthat the most underutilized resource in all of health care
+p45
+aVis the patient.
+p46
+aVThey have been saying that since the 1970s.
+p47
+aa(lp48
+VNow, I'm going to step back in history.
+p49
+aVThis is from July, 1969.
+p50
+aVI was a freshman in college,
+p51
+aVand this was when we first landed on the Moon.
+p52
+aVAnd it was the first time
+p53
+aVwe had ever seen from another surface \u2014
+p54
+aVthat's the place where you and I are right now,
+p55
+aVwhere we live.
+p56
+aVThe world was changing.
+p57
+aVIt was about to change in ways that nobody could foresee.
+p58
+aVA few weeks later, Woodstock happened.
+p59
+aVThree days of fun and music.
+p60
+aVHere, just for historical authenticity,
+p61
+aVis a picture of me in that year.
+p62
+aa(lp63
+V(Laughter)
+p64
+aa(lp65
+VYeah, the wavy hair, the blue eyes \u2014
+p66
+aVit was really something.
+p67
+aa(lp68
+VThat fall of 1969,
+p69
+aVthe Whole Earth Catalog came out.
+p70
+aVIt was a hippie journal of self-sufficiency.
+p71
+aVWe think of hippies of being just hedonists,
+p72
+aVbut there's a very strong component \u2014 I was in that movement \u2014
+p73
+aVa very strong component of being responsible for yourself.
+p74
+aVThis book's title's subtitle is "Access to Tools."
+p75
+aVIt talked about how to build your own house,
+p76
+aVhow to grow your own food, all kinds of things.
+p77
+aVIn the 1980s,
+p78
+aVthis young doctor, Tom Ferguson,
+p79
+aVwas the medical editor of the Whole Earth Catalog.
+p80
+aVHe saw that the great majority of what we do in medicine and health care
+p81
+aVis taking care of ourselves.
+p82
+aVIn fact, he said it was 70 to 80 percent
+p83
+aVof how we actually take care of our bodies.
+p84
+aVWell, he also saw that when health care turns to medical care
+p85
+aVbecause of a more serious disease,
+p86
+aVthe key thing that holds us back is access to information.
+p87
+aVAnd when the Web came along, that changed everything,
+p88
+aVbecause not only could we find information,
+p89
+aVwe could find other people like ourselves
+p90
+aVwho could gather, who could bring us information.
+p91
+aVAnd he coined this term "e-Patients" \u2014
+p92
+aVequipped, engaged, empowered, enabled.
+p93
+aVObviously, at this stage of life
+p94
+aVhe was in a somewhat more dignified form than he was back then.
+p95
+aa(lp96
+VNow, I was an engaged patient long before I ever heard of the term.
+p97
+aVIn 2006, I went to my doctor for a regular physical,
+p98
+aVand I had said, "I have a sore shoulder."
+p99
+aVWell, I got an X-ray,
+p100
+aVand the next morning \u2014
+p101
+aVyou may have noticed, those of you who have been through a medical crisis
+p102
+aVwill understand this.
+p103
+aVThis morning, some of the speakers named the date when they found out
+p104
+aVabout their condition.
+p105
+aVFor me, it was 9am
+p106
+aVon January 3, 2007.
+p107
+aVI was at the office; my desk was clean.
+p108
+aVI had the blue partition carpet on the walls.
+p109
+aVThe phone rang and it was my doctor.
+p110
+aVHe said, "Dave, I pulled up the X-ray image
+p111
+aVon the screen on the computer at home."
+p112
+aVHe said, "Your shoulder is going to be fine,
+p113
+aVbut Dave, there's something in your lung."
+p114
+aVAnd if you look in that red oval,
+p115
+aVthat shadow was not supposed to be there.
+p116
+aVTo make a long story short,
+p117
+aVI said, "So you need me to get back in there?"
+p118
+aVHe said, "Yeah, we're going to need to do a CT scan of your chest."
+p119
+aVIn parting, I said, "Is there anything I should do?"
+p120
+aVHe said \u2014 think about this one,
+p121
+aVthis is the advice your doctor gives you:
+p122
+aV"Just go home and have a glass of wine with your wife."
+p123
+aa(lp124
+VI went in for the CAT scan.
+p125
+aVIt turns out there were five of these things in both my lungs.
+p126
+aVSo at that point we knew that it was cancer.
+p127
+aVWe knew it wasn't lung cancer.
+p128
+aVThat meant it was metastasized from somewhere.
+p129
+aVThe question was, where from?
+p130
+aVSo I went in for an ultrasound.
+p131
+aVI got to do what many women have \u2014
+p132
+aVthe jelly on the belly and the, "Bzzzz!"
+p133
+aVMy wife came with me.
+p134
+aVShe's a veterinarian,
+p135
+aVso she's seen lots of ultrasounds.
+p136
+aVI mean, she knows I'm not a dog.
+p137
+aa(lp138
+V(Laughter)
+p139
+aa(lp140
+VThis is an MRI image.
+p141
+aVThis is much sharper than an ultrasound would be.
+p142
+aVWhat we saw in that kidney
+p143
+aVwas that big blob there.
+p144
+aVThere were actually two of these: one was growing out the front
+p145
+aVand had already erupted and latched onto the bowel.
+p146
+aVOne was growing out the back and it attached to the psoas muscle,
+p147
+aVwhich is a big muscle in the back that I'd never heard of,
+p148
+aVbut all of a sudden I cared about it.
+p149
+aa(lp150
+V(Laughter)
+p151
+aa(lp152
+VI went home.
+p153
+aa(lp154
+VNow, I've been Googling \u2014
+p155
+aVI've been online since 1989, on CompuServe.
+p156
+aVI went home, and I know you can't read the details here;
+p157
+aVthat's not important.
+p158
+aVMy point is, I went to a respected medical website, WebMD,
+p159
+aVbecause I know how to filter out junk.
+p160
+aVI also found my wife online.
+p161
+aVBefore I met her,
+p162
+aVI went through some suboptimal search results.
+p163
+aa(lp164
+V(Laughter)
+p165
+aa(lp166
+VSo I looked for quality information.
+p167
+aVThere's so much about trust \u2014
+p168
+aVwhat sources of information can we trust?
+p169
+aVWhere does my body end and an invader start?
+p170
+aVA cancer, a tumor, is something you grow out of your own tissue.
+p171
+aVHow does that happen?
+p172
+aVWhere does medical ability end and start?
+p173
+aVWell, so what I read on WebMD:
+p174
+aV"The prognosis is poor for progressing renal cell cancer.
+p175
+aVAlmost all patients are incurable."
+p176
+aVI've been online long enough to know if I don't like the first results I get,
+p177
+aVI go look for more.
+p178
+aVAnd what I found on other websites was,
+p179
+aVeven by the third page of Google results:
+p180
+aV"Outlook is bleak."
+p181
+aV"Prognosis is grim."
+p182
+aVAnd I'm thinking, "What the heck?"
+p183
+aVI didn't feel sick at all.
+p184
+aVI mean, I'd been getting tired in the evening,
+p185
+aVbut I was 56 years old, you know?
+p186
+aVI was slowly losing weight,
+p187
+aVbut for me, that was what the doctor told me to do.
+p188
+aVIt was really something.
+p189
+aa(lp190
+VAnd this is the diagram of stage 4 kidney cancer
+p191
+aVfrom the drug I eventually got.
+p192
+aVTotally by coincidence, there's that thing in my lung.
+p193
+aVIn the left femur, the left thigh bone, there's another one.
+p194
+aVI had one. My leg eventually snapped.
+p195
+aVI fainted and landed on it, and it broke.
+p196
+aVThere's one in the skull,
+p197
+aVand then for good measure, I had these other tumors,
+p198
+aVincluding, by the time my treatment started,
+p199
+aVone was growing out of my tongue.
+p200
+aVI had kidney cancer growing out of my tongue.
+p201
+aVAnd what I read
+p202
+aVwas that my median survival was 24 weeks.
+p203
+aVThis was bad.
+p204
+aVI was facing the grave.
+p205
+aVI thought, "What's my mother's face going to look like
+p206
+aVon the day of my funeral?"
+p207
+aVI had to sit down with my daughter and say, "Here's the situation."
+p208
+aVHer boyfriend was with her.
+p209
+aVI said, "I don't want you guys to get married prematurely,
+p210
+aVjust so you can do it while Dad's still alive."
+p211
+aVIt's really serious.
+p212
+aVIf you wonder why patients are motivated and want to help,
+p213
+aVthink about this.
+p214
+aa(lp215
+VWell, my doctor prescribed a patient community, ACOR.org,
+p216
+aVa network of cancer patients, of all amazing things.
+p217
+aVVery quickly they told me,
+p218
+aV"Kidney cancer is an uncommon disease.
+p219
+aVGet yourself to a specialist center.
+p220
+aVThere is no cure, but there's something that sometimes works \u2014
+p221
+aVit usually doesn't \u2014
+p222
+aVcalled high-dosage interleukin.
+p223
+aVMost hospitals don't offer it,
+p224
+aVso they won't even tell you it exists.
+p225
+aVDon't let them give you anything else first.
+p226
+aVAnd by the way, here are four doctors in your part of the United States
+p227
+aVwho offer it, and their phone numbers."
+p228
+aVHow amazing is that?
+p229
+aa(lp230
+V(Applause)
+p231
+aa(lp232
+VHere's the thing:
+p233
+aVHere we are, four years later \u2014
+p234
+aVyou can't find a website that gives patients that information.
+p235
+aVGovernment-approved, American Cancer Society,
+p236
+aVbut patients know what patients want to know.
+p237
+aVIt's the power of patient networks.
+p238
+aVThis amazing substance \u2014 again, I mentioned:
+p239
+aVWhere does my body end?
+p240
+aVMy oncologist and I talk a lot these days
+p241
+aVbecause I try to keep my talks technically accurate.
+p242
+aVAnd he said, "You know, the immune system is good at detecting invaders,
+p243
+aVbacteria coming from outside,
+p244
+aVbut when it's your own tissue that you've grown,
+p245
+aVit's a whole different thing."
+p246
+aVAnd I went through a mental exercise, actually,
+p247
+aVbecause I started a patient support community of my own on a website,
+p248
+aVand one of my friends \u2014 one of my relatives, actually \u2014 said,
+p249
+aV"Look, Dave, who grew this thing?
+p250
+aVAre you going to set yourself up as mentally attacking yourself?"
+p251
+aVSo we went into it.
+p252
+aVThe story of how all that happened is in the book.
+p253
+aa(lp254
+VAnyway, this is the way the numbers unfolded.
+p255
+aVMe being me, I put the numbers from my hospital's website,
+p256
+aVfor my tumor sizes,
+p257
+aVinto a spreadsheet.
+p258
+aVDon't worry about the numbers.
+p259
+aVYou see, that's the immune system.
+p260
+aVAmazing thing, those two yellow lines
+p261
+aVare where I got the two doses of interleukin two months apart.
+p262
+aVAnd look at how the tumor sizes plummeted in between.
+p263
+aVJust incredible.
+p264
+aVWho knows what we'll be able to do when we learn to make more use of it?
+p265
+aa(lp266
+VThe punch line is that a year and a half later,
+p267
+aVI was there when this magnificent young woman, my daughter,
+p268
+aVgot married.
+p269
+aVAnd when she came down those steps,
+p270
+aVand it was just her and me for that moment,
+p271
+aVI was so glad that she didn't have to say to her mother,
+p272
+aV"I wish Dad could have been here."
+p273
+aVAnd this is what we're doing when we make health care better.
+p274
+aa(lp275
+VNow, I want to talk briefly about a couple of other patients
+p276
+aVwho are doing everything in their power to improve health care.
+p277
+aVThis is Regina Holliday,
+p278
+aVa painter in Washington DC, whose husband died of kidney cancer
+p279
+aVa year after my disease.
+p280
+aVShe's painting, here, a mural
+p281
+aVof his horrible final weeks in the hospital.
+p282
+aVOne of the things that she discovered
+p283
+aVwas that her husband's medical record in this paper folder
+p284
+aVwas just disorganized.
+p285
+aVAnd she thought, "You know, if I have a nutrition facts label
+p286
+aVon the side of a cereal box,
+p287
+aVwhy can't there be something that simple
+p288
+aVtelling every new nurse who comes on duty,
+p289
+aVevery new doctor,
+p290
+aVthe basics about my husband's condition?"
+p291
+aVSo she painted this medical facts mural with a nutrition label,
+p292
+aVsomething like that,
+p293
+aVin a diagram of him.
+p294
+aVShe then, last year, painted this diagram.
+p295
+aa(lp296
+VShe studied health care like me.
+p297
+aVShe came to realize there were a lot of people
+p298
+aVwho'd written patient-advocate books
+p299
+aVthat you just don't hear about at medical conferences.
+p300
+aVPatients are such an underutilized resource.
+p301
+aVWell, as it said in my introduction,
+p302
+aVI've gotten somewhat known for saying
+p303
+aVthat patients should have access to their data.
+p304
+aVI actually said at one conference a couple of years ago,
+p305
+aV"Give me my damn data,
+p306
+aVbecause you people can't be trusted to keep it clean."
+p307
+aVAnd here, she has our "damned" data \u2014
+p308
+aVit's a pun \u2014
+p309
+aVwhich is starting to break out, starting to break through \u2014
+p310
+aVthe water symbolizes our data.
+p311
+aa(lp312
+VAnd in fact,
+p313
+aVI want to do a little something improvisational for you.
+p314
+aVThere's a guy on Twitter that I know, a health IT guy outside Boston,
+p315
+aVand he wrote the e-Patient rap.
+p316
+aVAnd it goes like this.
+p317
+aa(lp318
+V(Laughter)
+p319
+aa(lp320
+V(Beatboxing)
+p321
+aa(lp322
+V(Rapping) Gimme my damn data
+p323
+aVI wanna be an e-Patient just like Dave
+p324
+aVGimme my damn data, 'cause it's my life to save
+p325
+aV(Normal voice) Now, I'm not going to go any further \u2014
+p326
+aa(lp327
+V(Applause) (Cheering)
+p328
+aa(lp329
+VWell, thank you. That shot the timing.
+p330
+aa(lp331
+V(Laughter)
+p332
+aa(lp333
+VThink about the possibility.
+p334
+aVWhy is it that iPhones and iPads advance far faster
+p335
+aVthan the health tools that are available to you
+p336
+aVto help take care of your family?
+p337
+aVHere's a website, VisibleBody.com, that I stumbled across.
+p338
+aVAnd I thought, "You know, I wonder what my psoas muscle is?"
+p339
+aVSo you can click on things and remove it.
+p340
+aVAnd I saw, "Aha! That's the kidney and the psoas muscle."
+p341
+aVI was rotating it in 3D and saying, "I understand now."
+p342
+aVAnd then I realized it reminded me of Google Earth,
+p343
+aVwhere you can fly to any address.
+p344
+aVAnd I thought, "Why not take this and connect it to my digital scan data
+p345
+aVand have Google Earth for my body?"
+p346
+aVWhat did Google come out with this year?
+p347
+aVNow there's Google Body browser.
+p348
+aVBut you see, it's still generic.
+p349
+aVIt's not my data.
+p350
+aVBut if we can get that data out from behind the dam
+p351
+aVso software innovators can pounce on it
+p352
+aVthe way software innovators like to do,
+p353
+aVwho knows what we'll be able to come up with.
+p354
+aa(lp355
+VOne final story.
+p356
+aVThis is Kelly Young, a rheumatoid arthritis patient from Florida.
+p357
+aVThis is a live story, unfolding just in the last few weeks.
+p358
+aVRA patients, as they call themselves \u2014 her blog is "RA Warrior" \u2014
+p359
+aVhave a big problem,
+p360
+aVbecause 40 percent of them have no visible symptoms.
+p361
+aVAnd that makes it really hard to tell how the disease is going,
+p362
+aVand some doctors think, "Yeah right, you're really in pain."
+p363
+aVWell, she found, through her online research,
+p364
+aVa nuclear bone scan that's usually used for cancer,
+p365
+aVbut it can also reveal inflammation.
+p366
+aVAnd she saw that if there is no inflammation,
+p367
+aVthen the scan is a uniform gray.
+p368
+aVSo she took it.
+p369
+aVAnd the radiologist's report said, "No cancer found."
+p370
+aVWell, that's not what he was supposed to do with it.
+p371
+aVSo she wanted to have it read again,
+p372
+aVand her doctor fired her.
+p373
+aVShe pulled up the CD.
+p374
+aVHe said, "If you don't want to follow my instructions, go away."
+p375
+aVSo she pulled up the CD of the scan images,
+p376
+aVand look at all those hot spots.
+p377
+aVAnd she's now actively engaged on her blog
+p378
+aVin looking for assistance in getting better care.
+p379
+aVSee, that is an empowered patient \u2014 no medical training.
+p380
+aa(lp381
+VWe are, you are,
+p382
+aVthe most underused resource in health care.
+p383
+aVWhat she was able to do
+p384
+aVwas because she had access to the raw data.
+p385
+aVHow big a deal was this?
+p386
+aVWell at TED2009,
+p387
+aVTim Berners-Lee himself, inventor of the Web,
+p388
+aVgave a talk where he said the next big thing
+p389
+aVis not to have your browser find other people's articles about the data,
+p390
+aVbut the raw data.
+p391
+aVAnd he got them chanting by the end of the talk,
+p392
+aV"Raw data now! Raw data now!"
+p393
+aVAnd I ask you,
+p394
+aVthree words, please, to improve health care:
+p395
+aVLet patients help!
+p396
+aVLet patients help!
+p397
+aVLet patients help!
+p398
+aVLet patients help!
+p399
+aa(lp400
+VThank you.
+p401
+aa(lp402
+V(Applause)
+p403
+aa(lp404
+VFor all the patients around the world watching this on the Webcast,
+p405
+aVGod bless you, everyone. Let patients help.
+p406
+aa(lp407
+VHost: And bless yourself. Thank you very much.
+p408
+aasS'id'
+p409
+I1181
+sS'title'
+p410
+VMeet e-Patient Dave
+p411
+s.

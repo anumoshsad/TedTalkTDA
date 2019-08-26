@@ -1,0 +1,816 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VOnce upon a time, there was a dread disease that afflicted children.
+p4
+aVAnd in fact, among all the diseases that existed in this land,
+p5
+aVit was the worst. It killed the most children.
+p6
+aVAnd along came a brilliant inventor, a scientist,
+p7
+aVwho came up with a partial cure for that disease.
+p8
+aVAnd it wasn't perfect. Many children still died,
+p9
+aVbut it was certainly better than what they had before.
+p10
+aVAnd one of the good things about this cure was that it was free,
+p11
+aVvirtually free, and was very easy to use.
+p12
+aVBut the worst thing about it was that you couldn't use it
+p13
+aVon the youngest children, on infants, and on one-year-olds.
+p14
+aa(lp15
+VAnd so, as a consequence, a few years later,
+p16
+aVanother scientist \u2014 perhaps maybe this scientist
+p17
+aVnot quite as brilliant as the one who had preceded him,
+p18
+aVbut building on the invention of the first one \u2014
+p19
+aVcame up with a second cure.
+p20
+aVAnd the beauty of the second cure for this disease
+p21
+aVwas that it could be used on infants and one-year-olds.
+p22
+aVAnd the problem with this cure was it was very expensive,
+p23
+aVand it was very complicated to use.
+p24
+aVAnd although parents tried as hard as they could to use it properly,
+p25
+aValmost all of them ended up using it wrong in the end.
+p26
+aVBut what they did, of course, since it was so complicated and expensive,
+p27
+aVthey only used it on the zero-year-olds and the one-year-olds.
+p28
+aVAnd they kept on using the existing cure that they had
+p29
+aVon the two-year-olds and up.
+p30
+aa(lp31
+VAnd this went on for quite some time. People were happy.
+p32
+aVThey had their two cures. Until a particular mother,
+p33
+aVwhose child had just turned two, died of this disease.
+p34
+aVAnd she thought to herself, "My child just turned two,
+p35
+aVand until the child turned two, I had always used
+p36
+aVthis complicated, expensive cure, you know, this treatment.
+p37
+aVAnd then the child turned two, and I started using
+p38
+aVthe cheap and easy treatment, and I wonder" \u2014
+p39
+aVand she wondered, like all parents who lose children wonder \u2014
+p40
+aV"if there isn't something that I could have done,
+p41
+aVlike keep on using that complicated, expensive cure."
+p42
+aVAnd she told all the other people, and she said,
+p43
+aV"How could it possibly be that something
+p44
+aVthat's cheap and simple works as well as something
+p45
+aVthat's complicated and expensive?"
+p46
+aVAnd the people thought, "You know, you're right.
+p47
+aVIt probably is the wrong thing to do to switch
+p48
+aVand use the cheap and simple solution."
+p49
+aVAnd the government, they heard her story and the other people,
+p50
+aVand they said, "Yeah, you're right, we should make a law.
+p51
+aVWe should outlaw this cheap and simple treatment
+p52
+aVand not let anybody use this on their children."
+p53
+aVAnd the people were happy. They were satisfied.
+p54
+aa(lp55
+VFor many years this went along, and everything was fine.
+p56
+aVBut then along came a lowly economist, who had children himself,
+p57
+aVand he used the expensive and complicated treatment.
+p58
+aVBut he knew about the cheap and simple one.
+p59
+aVAnd he thought about it, and the expensive one
+p60
+aVdidn't seem that great to him. So he thought,
+p61
+aV"I don't know anything about science, but I do know something about data,
+p62
+aVso maybe I should go and look at the data
+p63
+aVand see whether this expensive and complicated treatment
+p64
+aVactually works any better than the cheap and simple one."
+p65
+aVAnd lo and behold, when he went through the data,
+p66
+aVhe found that it didn't look like the expensive, complicated
+p67
+aVsolution was any better than the cheap one,
+p68
+aVat least for the children who were two and older \u2014
+p69
+aVthe cheap one still didn't work on the kids who were younger.
+p70
+aa(lp71
+VAnd so, he went forth to the people and he said,
+p72
+aV"I've made this wonderful finding:
+p73
+aVit looks as if we could just use the cheap and simple solution,
+p74
+aVand by doing so we could save ourselves 300 million dollars a year,
+p75
+aVand we could spend that on our children in other ways."
+p76
+aVAnd the parents were very unhappy, and they said,
+p77
+aV"This is a terrible thing, because how can the cheap and easy thing
+p78
+aVbe as good as the hard thing?" And the government was very upset.
+p79
+aVAnd in particular, the people who made this expensive solution
+p80
+aVwere very upset because they thought,
+p81
+aV"How can we hope to compete with something that's essentially free?
+p82
+aVWe would lose all of our market."
+p83
+aVAnd people were very angry, and they called him horrible names.
+p84
+aVAnd he decided that maybe he should leave the country
+p85
+aVfor a few days, and seek out some more intelligent,
+p86
+aVopen-minded people in a place called Oxford,
+p87
+aVand come and try and tell the story at that place.
+p88
+aa(lp89
+VAnd so, anyway, here I am. It's not a fairy tale.
+p90
+aVIt's a true story about the United States today,
+p91
+aVand the disease I'm referring to is actually
+p92
+aVmotor vehicle accidents for children.
+p93
+aVAnd the free cure is adult seatbelts, and the expensive cure \u2014
+p94
+aVthe 300-million-dollar-a-year cure \u2014 is child car seats.
+p95
+aVAnd what I'd like to talk to you about today
+p96
+aVis some of the evidence why I believe this to be true:
+p97
+aVthat for children two years old and up,
+p98
+aVthere really is no real benefit \u2014 proven benefit \u2014 of car seats,
+p99
+aVin spite of the incredible energy
+p100
+aVthat has been devoted toward expanding the laws
+p101
+aVand making it socially unacceptable
+p102
+aVto put your children into seatbelts. And then talk about why \u2014
+p103
+aVwhat is it that makes that true?
+p104
+aVAnd then, finally talk a little bit about a third way,
+p105
+aVabout another technology, which is probably better than anything we have,
+p106
+aVbut which \u2014 there hasn't been any enthusiasm for adoption
+p107
+aVprecisely because people are so enamored
+p108
+aVwith the current car seat solution. OK.
+p109
+aa(lp110
+VSo, many times when you try to do research on data,
+p111
+aVit records complicated stories \u2014 it's hard to find in the data.
+p112
+aVIt doesn't turn out to be the case when you look at seatbelts versus car seats.
+p113
+aVSo the United States keeps a data set
+p114
+aVof every fatal accident that's happened since 1975.
+p115
+aVSo in every car crash in which at least one person dies,
+p116
+aVthey have information on all of the people.
+p117
+aVSo if you look at that data \u2014 it's right up on the National Highway
+p118
+aVTransportation Safety Administration's website \u2014
+p119
+aVyou can just look at the raw data,
+p120
+aVand begin to get a sense of the limited amount of evidence
+p121
+aVthat's in favor of car seats for children aged two and up.
+p122
+aVSo, here is the data. Here I have, among two- to six-year-olds \u2014
+p123
+aVanyone above six, basically no one uses car seats,
+p124
+aVso you can't compare \u2014 29.3 percent of the children who are unrestrained
+p125
+aVin a crash in which at least one person dies, themselves die.
+p126
+aVIf you put a child in a car seat, 18.2 percent of the children die.
+p127
+aVIf they're wearing a lap-and-shoulder belt, in this raw data,
+p128
+aV19.4 percent die. And interestingly, wearing a lap-only seatbelt,
+p129
+aV16.7 percent die. And actually, the theory tells you
+p130
+aVthat the lap-only seatbelt's got to be worse
+p131
+aVthan the lap-and-shoulder belt. And that just reminds you
+p132
+aVthat when you deal with raw data, there are hundreds
+p133
+aVof confounding variables that may be getting in the way.
+p134
+aa(lp135
+VSo what we do in the study is \u2014 and this is just presenting
+p136
+aVthe same information, but turned into a figure to make it easier.
+p137
+aVSo the yellow bar represents car seats,
+p138
+aVthe orange bar lap-and-shoulder, and the red bar lap-only seatbelts.
+p139
+aVAnd this is all relative to unrestrained \u2014
+p140
+aVthe bigger the bar, the better. Okay.
+p141
+aVSo, this is the data I just showed, OK?
+p142
+aVSo the highest bar is what you're striving to beat.
+p143
+aVSo you can control for the basic things, like how hard the crash was,
+p144
+aVwhat seat the child was sitting in, etc., the age of the child.
+p145
+aVAnd that's that middle set of bars.
+p146
+aVAnd so, you can see that the lap-only seatbelts
+p147
+aVstart to look worse once you do that.
+p148
+aVAnd then finally, the last set of bars,
+p149
+aVwhich are really controlling for everything
+p150
+aVyou could possibly imagine about the crash,
+p151
+aV50, 75, 100 different characteristics of the crash.
+p152
+aa(lp153
+VAnd what you find is that the car seats and the lap-and-shoulder belts,
+p154
+aVwhen it comes to saving lives, fatalities look exactly identical.
+p155
+aVAnd the standard error bands are relatively small around these estimates as well.
+p156
+aVAnd it's not just overall. It's very robust
+p157
+aVto anything you want to look at.
+p158
+aVOne thing that's interesting: if you look at frontal-impact crashes \u2014
+p159
+aVwhen the car crashes, the front hits into something \u2014
+p160
+aVindeed, what you see is that the car seats look a little bit better.
+p161
+aVAnd I think this isn't just chance.
+p162
+aVIn order to have the car seat approved,
+p163
+aVyou need to pass certain federal standards,
+p164
+aVall of which involve slamming your car into a direct frontal crash.
+p165
+aVBut when you look at other types of crashes, like rear-impact crashes,
+p166
+aVindeed, the car seats don't perform as well.
+p167
+aVAnd I think that's because they've been optimized to pass,
+p168
+aVas we always expect people to do,
+p169
+aVto optimize relative to bright-line rules
+p170
+aVabout how affected the car will be.
+p171
+aa(lp172
+VAnd the other thing you might argue is,
+p173
+aV"Well, car seats have got a lot better over time.
+p174
+aVAnd so if we look at recent crashes \u2014
+p175
+aVthe whole data set is almost 30 years' worth of data \u2014
+p176
+aVyou won't see it in the recent crashes. The new car seats are far, far better."
+p177
+aVBut indeed, in recent crashes the lap-and-shoulder seatbelts,
+p178
+aVactually, are doing even better than the car seats.
+p179
+aVThey say, "Well, that's impossible, that can't be."
+p180
+aVAnd the line of argument, if you ask parents, is,
+p181
+aV"But car seats are so expensive and complicated,
+p182
+aVand they have this big tangle of latches,
+p183
+aVhow could they possibly not work better than seatbelts
+p184
+aVbecause they are so expensive and complicated?"
+p185
+aVIt's kind of an interesting logic,
+p186
+aVI think, that people use. And the other logic, they say,
+p187
+aV"Well, the government wouldn't have told us [to] use them
+p188
+aVif they weren't much better."
+p189
+aa(lp190
+VBut what's interesting is the government telling us to use them
+p191
+aVis not actually based on very much.
+p192
+aVIt really is based on some impassioned pleas of parents
+p193
+aVwhose children died after they turned two,
+p194
+aVwhich has led to the passage of all these laws \u2014 not very much on data.
+p195
+aVSo you can only get so far, I think, in telling your story
+p196
+aVby using these abstract statistics.
+p197
+aVAnd so I had some friends over to dinner, and I was asking \u2014
+p198
+aVwe had a cookout \u2014 I was asking them what advice they might have for me
+p199
+aVabout proving my point. They said, "Why don't you run some crash tests?"
+p200
+aVAnd I said, "That's a great idea."
+p201
+aVSo we actually tried to commission some crash tests.
+p202
+aVAnd it turns out that as we called around to the independent
+p203
+aVcrash test companies around the country,
+p204
+aVnone of them wanted to do our crash test
+p205
+aVbecause they said, some explicitly, some not so explicitly,
+p206
+aV"All of our business comes from car seat manufacturers.
+p207
+aVWe can't risk alienating them by testing seatbelts relative to car seats."
+p208
+aa(lp209
+VNow, eventually, one did. Under the conditions of anonymity,
+p210
+aVthey said they would be happy to do this test for us \u2014
+p211
+aVso anonymity, and 1,500 dollars per seat that we crashed.
+p212
+aVAnd so, we went to Buffalo, New York,
+p213
+aVand here is the precursor to it.
+p214
+aVThese are the crash test dummies,
+p215
+aVwaiting for their chance to take the center stage.
+p216
+aVAnd then, here's how the crash test works.
+p217
+aVHere, they don't actually crash the entire car, you know \u2014
+p218
+aVit's not worth ruining a whole car to do it.
+p219
+aVSo they just have these bench seats,
+p220
+aVand they strap the car seat and the seatbelt onto it.
+p221
+aVSo I just wanted you to look at this.
+p222
+aVAnd I think this gives you a good idea of why parents think
+p223
+aVcar seats are so great. Look at the kid in the car seat.
+p224
+aVDoes he not look content, ready to go,
+p225
+aVlike he could survive anything? And then, if you look at the kid in back,
+p226
+aVit looks like he's already choking before the crash even happens.
+p227
+aVIt's hard to believe, when you look at this, that
+p228
+aVthat kid in back is going to do very well when you get in a crash.
+p229
+aVSo this is going to be a crash
+p230
+aVwhere they're going to slam this thing forward into a wall
+p231
+aVat 30 miles an hour, and see what happens. OK?
+p232
+aa(lp233
+VSo, let me show you what happens.
+p234
+aVThese are three-year-old dummies, by the way.
+p235
+aVSo here \u2014 this is the car seat. Now watch two things:
+p236
+aVwatch how the head goes forward,
+p237
+aVand basically hits the knees \u2014 and this is in the car seat \u2014
+p238
+aVand watch how the car seat flies around, in the rebound, up in the air.
+p239
+aVThe car seat's moving all over the place.
+p240
+aVBear in mind there are two things about this.
+p241
+aVThis is a car seat that was installed by someone
+p242
+aVwho has installed 1,000 car seats, who knew exactly how to do it.
+p243
+aVAnd also it turned out these bench seats
+p244
+aVare the very best way to install car seats.
+p245
+aVHaving a flat back makes it much easier to install them.
+p246
+aVAnd so this is a test that's very much rigged in favor of the car seat,
+p247
+aVOK? So, that kid in this crash fared very well.
+p248
+aa(lp249
+VThe federal standards are
+p250
+aVthat you have to score below a 1,000
+p251
+aVto be an approved car seat on this crash,
+p252
+aVin some metric of units which are not important.
+p253
+aVAnd this crash would have been about a 450.
+p254
+aVSo this car seat was actually an above-average car seat
+p255
+aVfrom Consumer Reports, and did quite well.
+p256
+aVSo the next one. Now, this is the kid, same crash,
+p257
+aVwho is in the seatbelt. He hardly moves at all, actually,
+p258
+aVrelative to the other child. The funny thing is,
+p259
+aVthe cam work is terrible because they've only set it up
+p260
+aVto do the car seats, and so, they actually don't even have a way
+p261
+aVto move the camera so you can see the kid that's on the rebound.
+p262
+aVAnyway, it turns out that those two crashes, that actually
+p263
+aVthe three-year-old did slightly worse. So, he gets about a 500
+p264
+aVout of \u2014 you know, on this range \u2014 relative to a 400 and something.
+p265
+aVBut still, if you just took that data from that crash
+p266
+aVto the federal government, and said, "I have invented a new car seat.
+p267
+aVI would like you to approve it for selling,"
+p268
+aVthen they would say, "This is a fantastic new car seat, it works great.
+p269
+aVIt only got a 500, it could have gotten as high up as a 1,000."
+p270
+aVAnd this seatbelt would have passed with flying colors
+p271
+aVinto being approved as a car seat.
+p272
+aa(lp273
+VSo, in some sense, what this is suggesting
+p274
+aVis that it's not just that people are setting up their car seats wrong,
+p275
+aVwhich is putting children at risk. It's just that, fundamentally,
+p276
+aVthe car seats aren't doing much.
+p277
+aVSo here's the crash. So these are timed at the same time,
+p278
+aVso you can see that it takes much longer with the car seat \u2014
+p279
+aVat rebound, it takes a lot longer \u2014
+p280
+aVbut there's just a lot less movement for child who's in the seatbelt.
+p281
+aVSo, I'll show you the six-year-old crashes as well.
+p282
+aVThe six-year-old is in a car seat, and it turns out
+p283
+aVthat looks terrible, but that's great. That's like a 400, OK?
+p284
+aVSo that kid would do fine in the crash.
+p285
+aVNothing about that would have been problematic to the child at all.
+p286
+aVAnd then here's the six-year-old in the seatbelt,
+p287
+aVand in fact, they get exactly within, you know,
+p288
+aVwithin one or two points of the same. So really, for the six-year-old,
+p289
+aVthe car seat did absolutely nothing whatsoever.
+p290
+aa(lp291
+VThat's some more evidence, so in some sense \u2014
+p292
+aVI was criticized by a scientist, who said, "You could never publish
+p293
+aVa study with an n of 4," meaning those four crashes.
+p294
+aVSo I wrote him back and I said, "What about an n of 45,004?"
+p295
+aVBecause I had the other 45,000 other real-world crashes.
+p296
+aVAnd I just think that it's interesting that the idea
+p297
+aVof using real-world crashes, which is very much something
+p298
+aVthat economists think would be the right thing to do,
+p299
+aVis something that scientists don't actually, usually think \u2014
+p300
+aVthey would rather use a laboratory,
+p301
+aVa very imperfect science of looking at the dummies,
+p302
+aVthan actually 30 years of data of what we've seen
+p303
+aVwith children and with car seats.
+p304
+aa(lp305
+VAnd so I think the answer to this puzzle
+p306
+aVis that there's a much better solution out there,
+p307
+aVthat's gotten nobody excited because everyone
+p308
+aVis so delighted with the way car seats are presumably working.
+p309
+aVAnd if you think from a design perspective,
+p310
+aVabout going back to square one, and say,
+p311
+aV"I just want to protect kids in the back seat."
+p312
+aVI don't there's anyone in this room who'd say,
+p313
+aV"Well, the right way to start would be,
+p314
+aVlet's make a great seat belt for adults.
+p315
+aVAnd then, let's make this really big contraption
+p316
+aVthat you have to rig up to it in this daisy chain."
+p317
+aVI mean, why not start \u2014 who's sitting in the back seat anyway except for kids?
+p318
+aVBut essentially, do something like this,
+p319
+aVwhich I don't know exactly how much it would cost to do,
+p320
+aVbut there's no reason I could see
+p321
+aVwhy this should be much more expensive than a regular car seat.
+p322
+aVIt's just actually \u2014 you see, this is folding up \u2014 it's behind the seat.
+p323
+aVYou've got a regular seat for adults, and then you fold it down,
+p324
+aVand the kid sits on top, and it's integrated.
+p325
+aVIt seems to me that this can't be a very expensive solution,
+p326
+aVand it's got to work better than what we already have.
+p327
+aa(lp328
+VSo the question is, is there any hope for adoption of something like this,
+p329
+aVwhich would presumably save a lot of lives?
+p330
+aVAnd I think the answer, perhaps, lies in a story.
+p331
+aVThe answer both to why has a car seat been so successful,
+p332
+aVand why this may someday be adopted or not,
+p333
+aVlies in a story that my dad told me, relating to when he was a doctor
+p334
+aVin the U.S. Air Force in England. And this is a long time ago:
+p335
+aVyou were allowed to do things then you can't do today.
+p336
+aVSo, my father would have patients come in
+p337
+aVwho he thought were not really sick.
+p338
+aVAnd he had a big jar full of placebo pills that he would give them,
+p339
+aVand he'd say, "Come back in a week, if you still feel lousy."
+p340
+aVOK, and most of them would not come back,
+p341
+aVbut some of them would come back.
+p342
+aVAnd when they came back, he, still convinced they were not sick,
+p343
+aVhad another jar of pills. In this jar were huge horse pills.
+p344
+aVThey were almost impossible to swallow.
+p345
+aVAnd these, to me, are the analogy for the car seats.
+p346
+aVPeople would look at these and say, "Man, this thing is so big
+p347
+aVand so hard to swallow. If this doesn't make me feel better,
+p348
+aVyou know, what possibly could?"
+p349
+aa(lp350
+VAnd it turned out that most people wouldn't come back,
+p351
+aVbecause it worked. But every once in a while,
+p352
+aVthere was still a patient convinced that he was sick,
+p353
+aVand he'd come back. And my dad had a third jar of pills.
+p354
+aVAnd the jar of pills he had, he said,
+p355
+aVwere the tiniest little pills he could find,
+p356
+aVso small you could barely see them.
+p357
+aVAnd he would say, listen, I know I gave you that huge pill,
+p358
+aVthat complicated, hard-to-swallow pill before,
+p359
+aVbut now I've got one that's so potent,
+p360
+aVthat is really tiny and small and almost invisible.
+p361
+aVIt's almost like this thing here, which you can't even see."
+p362
+aa(lp363
+VAnd it turned out that never,
+p364
+aVin all the times my dad gave out this pill, the really tiny pill,
+p365
+aVdid anyone ever come back still complaining of sickness.
+p366
+aVSo, my dad always took that as evidence
+p367
+aVthat this little, teeny, powerful pill
+p368
+aVhad the ultimate placebo effect. And in some sense, if that's the right story,
+p369
+aVI think integrated car seats you will see, very quickly,
+p370
+aVbecoming something that everyone has. The other possible conclusion
+p371
+aVis, well, maybe after coming to my father three times,
+p372
+aVgetting sent home with placebos, he still felt sick,
+p373
+aVhe went and found another doctor.
+p374
+aVAnd that's completely possible. And if that's the case,
+p375
+aVthen I think we're stuck with conventional car seats for a long time to come.
+p376
+aVThank you very much.
+p377
+aa(lp378
+V(Applause)
+p379
+aa(lp380
+V(Audience: I just wanted to ask you, when we wear seatbelts
+p381
+aVwe don't necessarily wear them just to prevent loss of life,
+p382
+aVit's also to prevent lots of serious injury.
+p383
+aVYour data looks at fatalities. It doesn't look at serious injury.
+p384
+aVIs there any data to show that child seats
+p385
+aVare actually less effective, or just as effective as seatbelts
+p386
+aVfor serious injury? Because that would prove your case.)
+p387
+aa(lp388
+VSteven Levitt: Yeah, that's a great question. In my data, and in another data set
+p389
+aVI've looked at for New Jersey crashes,
+p390
+aVI find very small differences in injury.
+p391
+aVSo in this data, it's statistically insignificant differences
+p392
+aVin injury between car seats and lap-and-shoulder belts.
+p393
+aVIn the New Jersey data, which is different,
+p394
+aVbecause it's not just fatal crashes,
+p395
+aVbut all crashes in New Jersey that are reported,
+p396
+aVit turns out that there is a 10 percent difference in injuries,
+p397
+aVbut generally they're the minor injuries.
+p398
+aVNow, what's interesting, I should say this as a disclaimer,
+p399
+aVthere is medical literature that is very difficult to resolve with this other data,
+p400
+aVwhich suggests that car seats are dramatically better.
+p401
+aa(lp402
+VAnd they use a completely different methodology that involves \u2014
+p403
+aVafter the crash occurs, they get from the insurance companies
+p404
+aVthe names of the people who were in the crash,
+p405
+aVand they call them on the phone,
+p406
+aVand they asked them what happened.
+p407
+aVAnd I really can't resolve, yet,
+p408
+aVand I'd like to work with these medical researchers
+p409
+aVto try to understand how there can be these differences,
+p410
+aVwhich are completely at odds with one another.
+p411
+aVBut it's obviously a critical question.
+p412
+aVThe question is even if \u2014 are there enough serious injuries
+p413
+aVto make these cost-effective? It's kind of tricky.
+p414
+aVEven if they're right, it's not so clear
+p415
+aVthat they're so cost-effective.
+p416
+aasS'id'
+p417
+I30
+sS'title'
+p418
+VSurprising stats about child carseats
+p419
+s.

@@ -1,0 +1,612 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhat I do is I organize information.
+p4
+aVI'm a graphic designer.
+p5
+aVProfessionally, I try to make sense
+p6
+aVoften of things that don't make much sense themselves.
+p7
+aa(lp8
+VSo my father might not understand what it is that I do for a living.
+p9
+aVHis part of my ancestry has been farmers.
+p10
+aVHe's part of this ethnic minority called the Pontic Greeks.
+p11
+aVThey lived in Asia Minor and fled to Greece after a genocide
+p12
+aVabout a hundred years ago.
+p13
+aVAnd ever since that, migration has somewhat been a theme in my family.
+p14
+aVMy father moved to Germany, studied there and married,
+p15
+aVand as a result, I now have this half-German brain,
+p16
+aVwith all the analytical thinking and that slightly dorky demeanor
+p17
+aVthat come with that.
+p18
+aVAnd of course it meant that I was a foreigner in both countries,
+p19
+aVand that of course made it pretty easy for me to migrate as well,
+p20
+aVin good family tradition, if you like.
+p21
+aa(lp22
+VBut of course, most journeys that we undertake from day to day
+p23
+aVare within a city.
+p24
+aVAnd, especially if you know the city,
+p25
+aVgetting from A to B may seem pretty obvious, right?
+p26
+aVBut the question is, why is it obvious?
+p27
+aVHow do we know where we're going?
+p28
+aa(lp29
+VSo I washed up on a Dublin ferry port about 12 years ago,
+p30
+aVa professional foreigner, if you like,
+p31
+aVand I'm sure you've all had this experience before, yeah?
+p32
+aVYou arrive in a new city,
+p33
+aVand your brain is trying to make sense of this new place.
+p34
+aVOnce you find your base, your home,
+p35
+aVyou start to build this cognitive map of your environment.
+p36
+aVIt's essentially this virtual map that only exists in your brain.
+p37
+aVAll animal species do it,
+p38
+aVeven though we all use slightly different tools.
+p39
+aVUs humans, of course, we don't move around marking our territory by scent, like dogs.
+p40
+aVWe don't run around emitting ultrasonic squeaks, like bats.
+p41
+aVWe just don't do that,
+p42
+aValthough a night in the Temple Bar district can get pretty wild.
+p43
+aa(lp44
+V(Laughter)
+p45
+aa(lp46
+VNo, we do two important things to make a place our own.
+p47
+aVFirst, we move along linear routes.
+p48
+aVTypically, we find a main street,
+p49
+aVand this main street becomes a linear strip map in our minds.
+p50
+aVBut our mind keeps it pretty simple, yeah?
+p51
+aVEvery street is generally perceived as a straight line,
+p52
+aVand we kind of ignore the little twists and turns that the streets make.
+p53
+aVWhen we do, however, make a turn into a side street,
+p54
+aVour mind tends to adjust that turn to a 90-degree angle.
+p55
+aVThis of course makes for some funny moments
+p56
+aVwhen you're in some old city layout
+p57
+aVthat follows some sort of circular city logic, yeah?
+p58
+aVMaybe you've had that experience as well.
+p59
+aa(lp60
+VLet's say you're on some spot on a side street
+p61
+aVthat projects from a main cathedral square,
+p62
+aVand you want to get to another point on a side street just like that.
+p63
+aVThe cognitive map in your mind may tell you,
+p64
+aV"Aris, go back to the main cathedral square,
+p65
+aVtake a 90-degree turn and walk down that other side street."
+p66
+aVBut somehow you feel adventurous that day, and you suddenly discover
+p67
+aVthat the two spots were actually only a single building apart.
+p68
+aVNow, I don't know about you,
+p69
+aVbut I always feel like I find this wormhole
+p70
+aVor this inter-dimensional portal.
+p71
+aa(lp72
+V(Laughter)
+p73
+aa(lp74
+VSo we move along linear routes
+p75
+aVand our mind straightens streets and perceives turns as 90-degree angles.
+p76
+aa(lp77
+VThe second thing that we do to make a place our own
+p78
+aVis we attach meaning and emotions to the things
+p79
+aVthat we see along those lines.
+p80
+aVIf you go to the Irish countryside and you ask an old lady for directions,
+p81
+aVbrace yourself for some elaborate Irish storytelling
+p82
+aVabout all the landmarks, yeah?
+p83
+aVShe'll tell you the pub where her sister used to work,
+p84
+aVand "... go past that church where I got married," that kind of thing.
+p85
+aVSo we fill our cognitive maps with these markers of meaning.
+p86
+aVWhat's more, we abstract repeat patterns and recognize them.
+p87
+aVWe recognize them by the experiences and we abstract them into symbols.
+p88
+aVAnd of course, we're all capable of understanding these symbols.
+p89
+aa(lp90
+V(Laughter)
+p91
+aa(lp92
+VWhat's more, we're all capable of understanding the cognitive maps,
+p93
+aVand you are all capable of creating these cognitive maps yourselves.
+p94
+aVSo next time, when you want to tell your friend how to get to your place,
+p95
+aVyou grab a beermat, grab a napkin, and you just observe yourself
+p96
+aVcreate this awesome piece of communication design.
+p97
+aVIt's got straight lines.
+p98
+aVIt's got 90-degree corners.
+p99
+aVYou might add little symbols along the way.
+p100
+aVAnd when you look at what you've just drawn,
+p101
+aVyou realize it does not resemble a street map.
+p102
+aVIf you were to put an actual street map on top of what you've just drawn,
+p103
+aVyou'd realize your streets and the distances \u2014 they'd be way off.
+p104
+aVNo, what you've just drawn is more like a diagram or a schematic.
+p105
+aVIt's a visual construct of lines, dots, letters,
+p106
+aVdesigned in the language of our brains.
+p107
+aa(lp108
+VSo it's no big surprise
+p109
+aVthat the big information-design icon of the last century \u2014
+p110
+aVthe pinnacle of showing everybody how to get from A to B,
+p111
+aVthe London Underground map \u2014
+p112
+aVwas not designed by a cartographer or a city planner;
+p113
+aVit was designed by an engineering draftsman.
+p114
+aVIn the 1930s,
+p115
+aVHarry Beck applied the principles of schematic diagram design
+p116
+aVand changed the way public transport maps are designed forever.
+p117
+aVNow the very key to the success of this map
+p118
+aVis in the omission of less important information
+p119
+aVand in the extreme simplification.
+p120
+aVSo, straightened streets, corners of 90 and 45 degrees,
+p121
+aVbut also the extreme geographic distortion in that map.
+p122
+aVIf you were to look at the actual locations of these stations,
+p123
+aVyou'd see they're very different.
+p124
+aVBut this is all for the clarity of the public Tube map.
+p125
+aVIf you, say, wanted to get from Regent's Park station
+p126
+aVto Great Portland Street,
+p127
+aVthe Tube map would tell you:
+p128
+aVtake the Tube, go to Baker Street, change over, take another Tube.
+p129
+aVOf course, what you don't know is that the two stations
+p130
+aVare only about a hundred meters apart.
+p131
+aa(lp132
+VNow we've reached the subject of public transport,
+p133
+aVand public transport here in Dublin
+p134
+aVis a somewhat touchy subject.
+p135
+aa(lp136
+V(Laughter)
+p137
+aa(lp138
+VFor everybody who does not know the public transport here in Dublin,
+p139
+aVessentially, we have this system of local buses that grew with the city.
+p140
+aVFor every outskirt that was added, there was another bus route added,
+p141
+aVrunning from the outskirt all the way to the city center.
+p142
+aVAnd as these local buses approach the city center,
+p143
+aVthey all run side by side and converge in pretty much one main street.
+p144
+aa(lp145
+VSo when I stepped off the boat 12 years ago,
+p146
+aVI tried to make sense of that.
+p147
+aVBecause exploring a city on foot only gets you so far.
+p148
+aVBut when you explore a foreign and new public transport system,
+p149
+aVyou will build a cognitive map in your mind in pretty much the same way.
+p150
+aVTypically, you choose yourself a rapid transport route,
+p151
+aVand in your mind, this route is perceived as a straight line.
+p152
+aVAnd like a pearl necklace,
+p153
+aVall the stations and stops are nicely and neatly aligned along the line.
+p154
+aVAnd only then you start to discover some local bus routes
+p155
+aVthat would fill in the gaps,
+p156
+aVand that allow for those wormhole, inter-dimensional portal shortcuts.
+p157
+aVSo I tried to make sense, and when I arrived,
+p158
+aVI was looking for some information leaflets
+p159
+aVthat would help me crack this system and understand it,
+p160
+aVand I found those brochures.
+p161
+aa(lp162
+V(Laughter)
+p163
+aa(lp164
+VThey were not geographically distorted.
+p165
+aVThey had a lot of omission of information,
+p166
+aVbut unfortunately, the wrong information.
+p167
+aVSay, in the city center \u2014
+p168
+aVthere were never actually any lines that showed the routes.
+p169
+aa(lp170
+V(Laughter)
+p171
+aa(lp172
+VThere are actually not even any stations with names.
+p173
+aa(lp174
+V(Laughter)
+p175
+aa(lp176
+VNow, the maps of Dublin transport have gotten better,
+p177
+aVand after I finished the project, they got a good bit better,
+p178
+aVbut still no station names, still no routes.
+p179
+aa(lp180
+VSo, being naive, and being half-German, I decided,
+p181
+aV"Aris, why don't you build your own map?"
+p182
+aVSo that's what I did.
+p183
+aVI researched how each and every bus route moved through the city, nice and logical,
+p184
+aVevery bus route a separate line.
+p185
+aVI plotted it into my own map of Dublin,
+p186
+aVand in the city center ...
+p187
+aVI got a nice spaghetti plate.
+p188
+aa(lp189
+V(Laughter)
+p190
+aa(lp191
+VNow, this is a bit of a mess,
+p192
+aVso I decided, of course,
+p193
+aV"You're going to apply the rules of schematic design,"
+p194
+aVcleaning up the corridors,
+p195
+aVwidening the streets where there were loads of buses
+p196
+aVand making the streets at straight, 90-degree corners, 45-degree corners
+p197
+aVor fractions of that,
+p198
+aVand filled it in with the bus routes.
+p199
+aVAnd I built this city center bus map of the system,
+p200
+aVhow it was five years ago.
+p201
+aVI'll zoom in again so that you get the full impact
+p202
+aVof the quays and Westmoreland Street.
+p203
+aa(lp204
+V(Laughter)
+p205
+aa(lp206
+VNow I can proudly say \u2014
+p207
+aa(lp208
+V(Applause)
+p209
+aa(lp210
+VI can proudly say, as a public transport map,
+p211
+aVthis diagram is an utter failure.
+p212
+aa(lp213
+V(Laughter)
+p214
+aVExcept, probably, in one aspect:
+p215
+aVI now had a great visual representation
+p216
+aVof just how clogged up and overrun the city center really was.
+p217
+aa(lp218
+VNow, call me old-fashioned,
+p219
+aVbut I think a public transport route map should have lines,
+p220
+aVbecause that's what they are, yeah?
+p221
+aVThey're little pieces of string that wrap their way
+p222
+aVthrough the city center or through the city.
+p223
+aVIf you will, the Greek guy inside of me feels if I don't get a line,
+p224
+aVit's like entering the labyrinth of the Minotaur
+p225
+aVwithout having Ariadne giving you the string to find your way.
+p226
+aVSo the outcome of my academic research,
+p227
+aVloads of questionnaires, case studies and looking at a lot of maps,
+p228
+aVwas that a lot of the problems and shortcomings
+p229
+aVof the public transport system here in Dublin
+p230
+aVwas the lack of a coherent public transport map \u2014
+p231
+aVa simplified, coherent public transport map \u2014
+p232
+aVbecause I think this is the crucial step to understanding
+p233
+aVa public transport network on a physical level,
+p234
+aVbut it's also the crucial step to make a public transport network mappable
+p235
+aVon a visual level.
+p236
+aa(lp237
+VSo I teamed up with a gentleman called James Leahy,
+p238
+aVa civil engineer and a recent master's graduate
+p239
+aVof the Sustainable Development program at DIT,
+p240
+aVand together we drafted the simplified model network,
+p241
+aVwhich I could then go ahead and visualize.
+p242
+aa(lp243
+VSo here's what we did.
+p244
+aVWe distributed these rapid-transport corridors throughout the city center,
+p245
+aVand extended them into the outskirts.
+p246
+aVRapid, because we wanted them to be served by rapid-transport vehicles.
+p247
+aVThey would get exclusive road use, where possible,
+p248
+aVand it would be high-quantity, high-quality transport.
+p249
+aVJames wanted to use bus rapid transport for that,
+p250
+aVrather than light rail.
+p251
+aVFor me, it was important
+p252
+aVthat the vehicles that would run on those rapid transport corridors
+p253
+aVwould be visibly distinguishable from local buses on the street.
+p254
+aVNow we could take out all the local buses
+p255
+aVthat ran alongside those rapid transport means.
+p256
+aVAny gaps that appeared in the outskirts were filled again.
+p257
+aVSo, in other words, if there was a street in an outskirt
+p258
+aVwhere there had been a bus, we put a bus back in,
+p259
+aVonly now these buses wouldn't run all the way to the city center,
+p260
+aVbut connect to the nearest rapid-transport mode,
+p261
+aVone of these thick lines over there.
+p262
+aVSo the rest was merely a couple of months of work,
+p263
+aVand a couple of fights with my girlfriend,
+p264
+aVof our place constantly being clogged up with maps,
+p265
+aVand the outcome, one of the outcomes,
+p266
+aVwas this map of the Greater Dublin area.
+p267
+aVI'll zoom in a little bit.
+p268
+aa(lp269
+VThis map only shows the rapid transport connections, no local bus,
+p270
+aVvery much in the "metro map" style that was so successful in London,
+p271
+aVand that since has been exported to so many other major cities,
+p272
+aVand therefore is the language that we should use
+p273
+aVfor public transport maps.
+p274
+aVWhat's also important is, with a simplified network like this,
+p275
+aVit now would become possible for me to tackle the ultimate challenge
+p276
+aVand make a public transport map for the city center,
+p277
+aVone where I wouldn't just show rapid transport connections,
+p278
+aVbut also all the local bus routes, streets and the likes,
+p279
+aVand this is what a map like this could look like.
+p280
+aVI'll zoom in a little bit.
+p281
+aa(lp282
+VIn this map, I'm including each transport mode,
+p283
+aVso rapid transport, bus, DART, tram and the likes.
+p284
+aVEach individual route is represented by a separate line.
+p285
+aVThe map shows each and every station,
+p286
+aVeach and every station name,
+p287
+aVand I'm also displaying side streets.
+p288
+aVIn fact, most of the side streets even with their name,
+p289
+aVand for good measure, also a couple of landmarks,
+p290
+aVsome of them signified by little symbols,
+p291
+aVothers by these isometric three-dimensional
+p292
+aVbird's-eye-view drawings.
+p293
+aa(lp294
+VThe map is relatively small in overall size,
+p295
+aVso something that you could still hold as a fold-out map
+p296
+aVor display in a reasonably-sized display box on a bus shelter.
+p297
+aVI think it tries to be the best balance
+p298
+aVbetween actual representation and simplification \u2014
+p299
+aVthe language of way-finding in our brain.
+p300
+aVSo, straightened lines, cleaned-up corners,
+p301
+aVand of course, that very, very important geographic distortion
+p302
+aVthat makes public transport maps possible.
+p303
+aVIf you, for example, have a look at the two main corridors
+p304
+aVthat run through the city \u2014 the yellow and orange one over here \u2014
+p305
+aVthis is how they look in an actual, accurate street map,
+p306
+aVand this is how they would look in my distorted,
+p307
+aVsimplified public transport map.
+p308
+aa(lp309
+VSo for a successful public transport map,
+p310
+aVwe should not stick to accurate representation,
+p311
+aVbut design them in the way our brains work.
+p312
+aa(lp313
+VThe reactions I got were tremendous, it was really good to see.
+p314
+aVAnd of course, for my own self, I was very happy to see
+p315
+aVthat my folks in Germany and Greece finally have an idea
+p316
+aVwhat I do for a living.
+p317
+aa(lp318
+V(Laughter)
+p319
+aa(lp320
+VThank you.
+p321
+aa(lp322
+V(Applause)
+p323
+aasS'id'
+p324
+I1582
+sS'title'
+p325
+VMaking sense of maps
+p326
+s.

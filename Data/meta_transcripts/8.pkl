@@ -1,0 +1,931 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VKurt Andersen: Like many architects, David is a hog for the limelight
+p4
+aVbut is sufficiently reticent \u2014 or at least pretends to be \u2014
+p5
+aVthat he asked me to question him rather than speaking.
+p6
+aVIn fact what we're going to talk about,
+p7
+aVI think, is in fact a subject that is probably better served
+p8
+aVby a conversation than an address.
+p9
+aVAnd I guess we have a bit of news clip to precede.
+p10
+aa(lp11
+VDan Rather: Since the September 11th attack on the World Trade Center,
+p12
+aVmany people have flocked to downtown New York to see
+p13
+aVand pay respects at what amounts to the 16-acre burial ground.
+p14
+aVNow, as CBS's Jim Axelrod reports, they're putting the finishing touches
+p15
+aVon a new way for people to visit and view the scene.
+p16
+aa(lp17
+VJim Axelrod: Forget the Empire State Building or the Statue of Liberty.
+p18
+aVThere's a new place in New York
+p19
+aVwhere the crowds are thickest \u2014 Ground Zero.
+p20
+aa(lp21
+VTourist: I've taken my step-daughter here from Indianapolis.
+p22
+aVThis was \u2014 out of all the tourist sites in New York City \u2014
+p23
+aVthis was her number-one pick.
+p24
+aa(lp25
+VJA: Thousands now line up on lower Broadway.
+p26
+aa(lp27
+VTourist: I've been wanting to come down here since this happened.
+p28
+aa(lp29
+VJA: Even on the coldest winter days.
+p30
+aVTo honor and remember.
+p31
+aa(lp32
+VTourist: It's reality, it's us. It happened here.
+p33
+aVThis is ours.
+p34
+aa(lp35
+VJA: So many, in fact, that seeing has become
+p36
+aVa bit of a problem.
+p37
+aa(lp38
+VTourist: I think that people are very frustrated
+p39
+aVthat they're not able to get closer to see what's going on.
+p40
+aa(lp41
+VJA: But that is about to change.
+p42
+aVIn record time,
+p43
+aVa team of architects and construction workers
+p44
+aVdesigned and built a viewing platform to ease the frustration
+p45
+aVand bring people closer.
+p46
+aa(lp47
+VMan: They'll get an incredible panorama
+p48
+aVand understand, I think more completely,
+p49
+aVthe sheer totality of the destruction of the place.
+p50
+aa(lp51
+VJA: If you think about it, Ground Zero is unlike
+p52
+aVmost any other tourist site in America.
+p53
+aVUnlike the Grand Canyon or the Washington Monument,
+p54
+aVpeople come here to see what's no longer there.
+p55
+aa(lp56
+VDavid Rockwell: The first experience people will have here
+p57
+aVwhen they see this is not as a construction site
+p58
+aVbut as this incredibly moving burial ground.
+p59
+aa(lp60
+VJA: The walls are bare by design, so people can fill them
+p61
+aVwith their own memorials the way they already have
+p62
+aValong the current perimeter.
+p63
+aa(lp64
+VTourist: From our hearts, it affected us just as much.
+p65
+aa(lp66
+VJA: The ramps are made of simple material \u2014
+p67
+aVthe kind of plywood you see at construction sites \u2014
+p68
+aVwhich is really the whole point.
+p69
+aVIn the face of America's worst destruction
+p70
+aVpeople are building again.
+p71
+aVJim Axelrod, CBS News, New York.
+p72
+aa(lp73
+VKA: This is not an obvious subject to be in the sensuality segment,
+p74
+aVbut certainly David you are known as \u2014 I know, a phrase you hate \u2014
+p75
+aVan entertainment architect.
+p76
+aVYour work is highly sensual, even hedonistic.
+p77
+aa(lp78
+VDR: I like that word.
+p79
+aa(lp80
+VKA: It's about pleasure \u2014 casinos and hotels and restaurants.
+p81
+aVHow did the shock that all of us \u2014 and especially all of us in New York \u2014
+p82
+aVfelt on the 11th of September transmute
+p83
+aVinto your desire to do this thing?
+p84
+aa(lp85
+VDR: Well the truth of the matter is, post-September 11th,
+p86
+aVI felt myself in the role originally \u2014
+p87
+aVfirst of all as someone who lives in Tribeca
+p88
+aVand whose neighborhood was devastated,
+p89
+aVand as someone who works less than a mile from there \u2014
+p90
+aVthat I was in the role of forcing 100 people who work with me
+p91
+aVin my firm, to continue to have the same level of enthusiasm
+p92
+aVabout creating the places we had been creating.
+p93
+aVIn fact we're finishing a book which is called "Pleasure,"
+p94
+aVwhich is about sensual pleasure in spaces.
+p95
+aa(lp96
+VBut I've got to tell you \u2014 it became impossible to do that.
+p97
+aVWe were really paralyzed.
+p98
+aVAnd I found myself the Friday after September 11th \u2014
+p99
+aVtwo days afterwards \u2014
+p100
+aVliterally unable to motivate anyone to do anything.
+p101
+aVWe gave the office a few days off.
+p102
+aa(lp103
+VAnd in discussing this with other architects,
+p104
+aVwe had seen people saying in the press
+p105
+aVthat they should rebuild the towers as they were \u2014
+p106
+aVthey should rebuild them 50 stories taller.
+p107
+aVAnd I thought it was astonishing to speculate,
+p108
+aVas if this were a competition,
+p109
+aVon something that was such a fresh wound.
+p110
+aVAnd I had a series of discussions \u2014
+p111
+aVfirst with Rick Scofidio and Liz Diller, who collaborated with us on this,
+p112
+aVand several other people \u2014
+p113
+aVand really felt like we had to find relevance in doing something.
+p114
+aVAnd that as people who create places, the ultimate way to help
+p115
+aVwasn't to pontificate or to make up scenarios,
+p116
+aVbut to help right now.
+p117
+aVSo we tried to come up with a way,
+p118
+aVas a group, to have a kind of design SWAT team.
+p119
+aVAnd that was the mission that we came up with.
+p120
+aa(lp121
+VKA: Were you conscious of suddenly \u2014
+p122
+aVas a designer whose work is all about fulfilling wants \u2014
+p123
+aVsuddenly fulfilling needs?
+p124
+aa(lp125
+VDR: Well what I was aware of was,
+p126
+aVthere was this overwhelming need to act now.
+p127
+aVAnd we were asked to participate in a few projects before this.
+p128
+aVThere was a school, PS 234, that had been evacuated down at Ground Zero.
+p129
+aVThey moved to an abandoned school.
+p130
+aVWe took about 20 or 30 architects and designers and artists,
+p131
+aVand over four days \u2014 it was like this urban barn-raising \u2014
+p132
+aVto renovate it, and everyone wanted to help.
+p133
+aVIt was just extraordinary.
+p134
+aVTom Otterness contributed, Maira Kalman contributed
+p135
+aVand it became this cathartic experience for us.
+p136
+aa(lp137
+VKA: And that was done, effectively,
+p138
+aVby October 8 or something?
+p139
+aa(lp140
+VDR: Yeah.
+p141
+aa(lp142
+VKA: Obviously, what you faced in trying to do something
+p143
+aVas substantial as this project \u2014 and this is only one of four
+p144
+aVthat you've designed to surround the site \u2014
+p145
+aVyou must have run up against the incredibly byzantine,
+p146
+aVentrenched bureaucracy and powers that be
+p147
+aVin New York real estate and New York politics.
+p148
+aa(lp149
+VDR: Well, it's a funny thing.
+p150
+aVWe finished PS 234, and had dinner with a small group.
+p151
+aVI was actually asked to be a committee chair on an AIA committee to rebuild.
+p152
+aVAnd I sat in on several meetings.
+p153
+aVAnd there were the most circuitous grand plans
+p154
+aVthat had to do with long-term infrastructure and rebuilding the entire city.
+p155
+aVAnd the fact is that there were immediate wounds and needs that needed to be filled,
+p156
+aVand there was talk about inclusion and wanting it to be an inclusive process.
+p157
+aVAnd it wasn't an inclusive group.
+p158
+aVSo we said, what is \u2014
+p159
+aa(lp160
+VKA: It was not an inclusive group?
+p161
+aa(lp162
+VDR: It was not an inclusive group.
+p163
+aVIt was predominantly a white, rich, corporate group
+p164
+aVthat was not representative of the city.
+p165
+aa(lp166
+VKA: Shocking.
+p167
+aa(lp168
+VDR: Yeah, surprising.
+p169
+aVSo Rick and Liz and Kevin and I came up with the idea.
+p170
+aVThe city actually approached us.
+p171
+aVWe first approached the city about Pier 94.
+p172
+aVWe saw how PS 234 worked.
+p173
+aVThe families \u2014 the victims of the families \u2014
+p174
+aVwere going to this pier that was incredibly dehumanizing.
+p175
+aa(lp176
+VKA: On the Hudson River?
+p177
+aa(lp178
+VDR: Yeah. And the city actually \u2014 through Tim Zagat initially,
+p179
+aVand then through Christyne Nicholas, then we got to Giuliani \u2014
+p180
+aVsaid, "You know we don't want to do anything with Pier 94 right now,
+p181
+aVbut we have an observation platform for the families down at Ground Zero
+p182
+aVthat we'd like to be a more dignified experience for the families,
+p183
+aVand a way to protect it from the weather."
+p184
+aa(lp185
+VSo I went down there with Rick and Liz and Kevin,
+p186
+aVand I've got to say, it was the most moving experience of my life.
+p187
+aVIt was devastating to see the simple plywood platform with a rail around it,
+p188
+aVwhere the families of the victims had left notes to them.
+p189
+aVAnd there was no mediation between us and the experience.
+p190
+aVThere was no filter.
+p191
+aa(lp192
+VAnd I remembered on September 11th, on 14th Street,
+p193
+aVthe roof of our building \u2014 we can see the World Trade Towers prominently \u2014
+p194
+aVand I saw the first building collapse from a conference room
+p195
+aVon the eighth floor on a TV that we had set up.
+p196
+aVAnd then everyone was up on the roof, so I ran up there.
+p197
+aVAnd it was amazing how much harder it was
+p198
+aVto believe in real life than it was on TV.
+p199
+aVThere was something about the comfort of the filter
+p200
+aVand how much information was between us and the experience.
+p201
+aVSo seeing this in a very simple,
+p202
+aVdignified way was a very powerful experience.
+p203
+aa(lp204
+VSo we went back to the city and said
+p205
+aVwe're not particularly interested in the upgrade of this as a VIP platform,
+p206
+aVbut we've spent some time down there.
+p207
+aVAt the same time the city had this need.
+p208
+aVThey were looking for a solution
+p209
+aVto deal with 30 or 40 thousand people a day
+p210
+aVwho were going down there, that had nowhere to go.
+p211
+aVAnd there was no way to deal with the traffic around the site.
+p212
+aVSo dealing with it is just an immediate master plan.
+p213
+aVThere was a way \u2014 there had to be a way \u2014
+p214
+aVto get people to move around the site.
+p215
+aa(lp216
+VKA: But then you've got to figure out a way \u2014
+p217
+aVwe will skip over the insanely tedious process of getting permits
+p218
+aVand getting everybody on board \u2014 but simply funding this thing.
+p219
+aVIt looks like a fairly simple thing,
+p220
+aVbut this was a half a million dollar project?
+p221
+aa(lp222
+VDR: Well, we knew that if it wasn't privately funded,
+p223
+aVit wasn't going to happen.
+p224
+aVAnd we also, frankly, knew that if it didn't happen
+p225
+aVby the end of the Giuliani administration,
+p226
+aVthen everyone who we were dealing with at the DOT
+p227
+aVand the Police Department and all of the \u2014
+p228
+aVwe were meeting with 20 or 30 people with the city at a time,
+p229
+aVand it was set up by the Office of Emergency Management.
+p230
+aVThis incredible act on their part, because they really wanted this,
+p231
+aVand they sensed that this needed to happen.
+p232
+aa(lp233
+VKA: And there was therefore this ticking clock,
+p234
+aVbecause Giuliani was obviously out three months after that.
+p235
+aa(lp236
+VDR: Yeah. So the first thing we had to do was find a way to get this \u2014
+p237
+aVwe had to work with the families of the victims,
+p238
+aVthrough the city, to make sure that they knew this was happening.
+p239
+aVBecause this didn't want to be a surprise.
+p240
+aVAnd we also had to be as under the radar screen as we could be in New York,
+p241
+aVbecause the key was not raising a lot of objection
+p242
+aVand sort of working as quietly as possible.
+p243
+aa(lp244
+VWe came up with the idea of setting up a foundation,
+p245
+aVmainly because when we found a contractor who would build this,
+p246
+aVhe would not agree to do this, even if we would pay him the money.
+p247
+aVThere needed to be a foundation in place.
+p248
+aVSo we came up with a foundation, and actually what happened was
+p249
+aVone major developer in New York \u2014
+p250
+aa(lp251
+VKA: Who shall remain nameless, I guess?
+p252
+aa(lp253
+VDR: Yeah. His initials are JS, and he owns Rockefeller Center,
+p254
+aVif that helps anyone \u2014 volunteered to help.
+p255
+aVAnd we met with him.
+p256
+aVThe prices from the contractors were between five to 700,000 dollars.
+p257
+aVAnd Atlantic-Heydt, who's the largest scaffolding contractor in the country,
+p258
+aVvolunteered to do it at cost.
+p259
+aVSo this developer said, "You know what, we'll underwrite the entire expense."
+p260
+aVAnd we said, "That's incredible!"
+p261
+aa(lp262
+VAnd I think this was the 21st,
+p263
+aVand we knew this had to be built and up by the 28th.
+p264
+aVAnd we had to start construction the next day.
+p265
+aVWe had a meeting that evening with his contractor of choice,
+p266
+aVand the contractor showed up with the drawings of the platform
+p267
+aVabout half the size that we had drawn it.
+p268
+aa(lp269
+VKA: Sort of like the Spinal Tap scene where you get
+p270
+aVthe tiny little Stonehenge, I guess?
+p271
+aV(Laughter)
+p272
+aa(lp273
+VDR: In fact, it was as if this was going to be window-washing scaffolding.
+p274
+aVThere was no sense of the fact that this is next to Saint Paul \u2014
+p275
+aVthat this is really a place that needs to be kind of dignified,
+p276
+aVand a place to reflect and remember.
+p277
+aVAnd I've got to say that we spent a lot of time
+p278
+aVin putting this together, watching the crowds that gathered at Saint Paul \u2014
+p279
+aVwhich is just to the right \u2014 and moving around the site.
+p280
+aVAnd I live down there, so we spent a lot of time looking at the need.
+p281
+aa(lp282
+VAnd I think people were amazed at two things \u2014
+p283
+aVI think they were amazed at the destruction,
+p284
+aVbut I think there was a sense of disbelief
+p285
+aVabout the heroics of New Yorkers that I found very moving.
+p286
+aVJust the sort of everyday heroics of New Yorkers.
+p287
+aa(lp288
+VSo we were in this meeting and the contractor literally said,
+p289
+aV"I'm going to lock the door, because this developer
+p290
+aVwill not agree to have you leave till you've signed off on this."
+p291
+aVAnd we said, "Well, this is half the size,
+p292
+aVit doesn't have any of the design features
+p293
+aVthat have been agreed upon by everyone \u2014 everyone in the city.
+p294
+aVWe'd have to go back to the beginning to do this."
+p295
+aVAnd I convinced him that we should leave the room
+p296
+aVwith the agreement to build it as designed.
+p297
+aa(lp298
+VThe next day I got an email from the developer
+p299
+aVsaying that he was withdrawing all funding.
+p300
+aVSo we didn't know what to do,
+p301
+aVbut we decided to cast a very wide net.
+p302
+aVWe emailed out letters to as many people as we could \u2014
+p303
+aVseveral people in the audience here \u2014 who were very helpful.
+p304
+aa(lp305
+VKA: There was no thought of abandoning ship at that point?
+p306
+aa(lp307
+VDR: No. In fact I told the contractor to go ahead.
+p308
+aVHe had already ordered materials based on my go-ahead.
+p309
+aVWe knew that one way or another this was going to happen.
+p310
+aVAnd we just felt it had to happen.
+p311
+aa(lp312
+VKA: You were funding it yourself and with contributions and this foundation.
+p313
+aVRichard, I think very correctly,
+p314
+aVmade the point at the beginning \u2014
+p315
+aVbefore all the chair designers came out \u2014
+p316
+aVabout the history of chair designers imposing aesthetic solutions
+p317
+aVon this kind of universal, banal, common problem of sitting.
+p318
+aVIt seems to me with this,
+p319
+aVthat it was the opposite of that.
+p320
+aVThis was an unprecedented, singular design problem.
+p321
+aa(lp322
+VDR: Well here's the issue:
+p323
+aVwe knew that this was not in the sense of \u2014
+p324
+aVwe think about the site, and think about the need for a memorial.
+p325
+aVIt was important that this not be categorized as a memorial.
+p326
+aVThat this was a place for people to reflect, to remember \u2014
+p327
+aVa kind of quiet place.
+p328
+aa(lp329
+VSo it led us to using design solutions
+p330
+aVthat created as few filters between the viewer \u2014
+p331
+aVas we said about the families' platform \u2014 and the experience as possible.
+p332
+aVIt's all incredibly humble material.
+p333
+aVIt's scaffolding and plywood.
+p334
+aVAnd it allows \u2014 by sort of the procession of the movement,
+p335
+aVup by Saint Paul's and down the other side \u2014
+p336
+aVit gives you about 300 feet to go up 13 feet from the ground
+p337
+aVto where you get the 360 degree view.
+p338
+aa(lp339
+VBut the design was driven by a need to be quick, cheap, safe, respectful, flexible.
+p340
+aVOne of the other things is this is designed to be moveable.
+p341
+aVBecause when we looked at the four platforms around the site,
+p342
+aVone of which is an upgrade of the families' platform,
+p343
+aVwe knew that these had to be moveable
+p344
+aVto respond to changing conditions,
+p345
+aVand the changing definition of what Ground Zero is.
+p346
+aa(lp347
+VKA: Your work \u2014 I mean, we've talked about this before \u2014
+p348
+aVa lot of your work, I think, is informed by your belief in, or your focus on
+p349
+aVthe temporariness of all things and the evanescence of things,
+p350
+aVand a kind of "Eat, drink, and be merry, for tomorrow we die,"
+p351
+aVsort of sense of existence.
+p352
+aVThis is clearly not a work for the ages.
+p353
+aVYou know, a couple of years this thing isn't going to be here.
+p354
+aVDid that require, as an architect,
+p355
+aVa new way of thinking about what you were doing?
+p356
+aVTo think of it as this purely temporary installation?
+p357
+aa(lp358
+VDR: No, I don't think so.
+p359
+aVI think this is, obviously, substantially different
+p360
+aVfrom anything we'd ever thought about doing before, just by the nature of it.
+p361
+aVWhere it overlaps with thoughts about our work in general is,
+p362
+aVnumber one \u2014 the notion of collaboration as a sort of way to get things done.
+p363
+aVAnd Kevin Kennon, Rick Scofidio, Liz Diller
+p364
+aVand all the people within the city \u2014
+p365
+aVNorman Lear, who I spoke to four hours before our deadline for funding,
+p366
+aVoffered to give us a bridge loan to help us get through it.
+p367
+aVSo the notion of collaboration \u2014
+p368
+aVI think this reinforces how important that is.
+p369
+aa(lp370
+VAnd in terms of the temporary nature of it,
+p371
+aVour goal was not to create something
+p372
+aVthat would be there longer than it needed to be.
+p373
+aVI think what we were most interested in was promoting a kind of dialogue
+p374
+aVthat we felt may not have been happening enough in this city,
+p375
+aVabout what's really happening there.
+p376
+aa(lp377
+VAnd a day or two before it opened was Giuliani's farewell address,
+p378
+aVwhere he proposed the idea of all of Ground Zero being a memorial.
+p379
+aVWhich was very controversial, but it resonated with a lot of people.
+p380
+aVAnd I think regardless of what the position is about how
+p381
+aVthis sacred piece of land is to be used,
+p382
+aVhaving it come out of actually seeing it in a real encounter,
+p383
+aVI think makes it a more powerful dialogue.
+p384
+aVAnd that's what we were interested in.
+p385
+aVSo that, very much, is in the realm of things
+p386
+aVI've been interested in before.
+p387
+aa(lp388
+VKA: It seems to me, among other things, a lovely piece of civic infrastructure.
+p389
+aVIt enables that conversation to get serious.
+p390
+aVAnd six months after the fact \u2014
+p391
+aVand only a few months away from the site being cleaned \u2014
+p392
+aVwe are very quickly, now, getting to the point
+p393
+aVwhere those conversations about what should go there are getting serious.
+p394
+aVDo you have \u2014 having been as physically involved in the site
+p395
+aVas you have been doing this project \u2014 have any ideas about
+p396
+aVwhat should or shouldn't be done?
+p397
+aa(lp398
+VDR: Well, I think one thing that shouldn't be done is evaluate \u2014
+p399
+aVI think right now the discussion is a very closed discussion on the master plan.
+p400
+aVThe Protetch Gallery recently had a show on ideas for buildings,
+p401
+aVwhich had some sort of inventive ideas of buildings.
+p402
+aa(lp403
+VKA: But it had some really terrible ideas.
+p404
+aa(lp405
+VDR: And it also felt a little bit like a kind of competition of ideas,
+p406
+aVwhere I think the focus of ideas should be on master planning and uses.
+p407
+aVAnd I think there should be a broader \u2014 which there's starting to be \u2014
+p408
+aVthe dialogue is really opening up to,
+p409
+aVwhat does this site really want to be?
+p410
+aVAnd I truly believe until the issue of memorial is sorted out,
+p411
+aVthat it's going to be very hard to have an intelligent discussion.
+p412
+aVThere's a few discussions right now that I think are very positive,
+p413
+aVabout depressing the West Side Highway and connecting this over,
+p414
+aVso that there's one uninterrupted piece of land.
+p415
+aa(lp416
+VKA: Well, I think that's interesting.
+p417
+aVAnd it gets to another issue that was probably inappropriate
+p418
+aVto discuss six months ago, but perhaps isn't now,
+p419
+aVwhich is, not many of us love the World Trade Center as a piece of architecture,
+p420
+aVas what it had done to this city and that huge plaza.
+p421
+aVIs this an opportunity, is the silver lining \u2014
+p422
+aVa silver lining, here \u2014 to rebuild
+p423
+aVsome more traditional city grid, or not?
+p424
+aa(lp425
+VDR: I think there's a real opportunity to engage
+p426
+aVin a discussion of why we live in cities.
+p427
+aVAnd why do we live in places where such dissimilar people
+p428
+aVcollide up against us each day?
+p429
+aVI don't think it has much to do with 50 or 60 or 70 or 80 thousand new office spaces,
+p430
+aVregardless of what the number is.
+p431
+aVSo yeah, I think there is a chance to re-look at how we think about cities.
+p432
+aa(lp433
+VAnd in fact, there's a proposal on the table now for building number seven.
+p434
+aa(lp435
+VKA: Which was the building just north of the Towers?
+p436
+aa(lp437
+VDR: Right, which the towers fell into.
+p438
+aVAnd the reason that's been held up is essentially by community outrage
+p439
+aVthat they're not re-opening the street
+p440
+aVto connect that back to the rest of the city.
+p441
+aVI think a public dialogue \u2014 I think, you know,
+p442
+aVI'd like to see an international competition,
+p443
+aVand a call for ideas for uses.
+p444
+aa(lp445
+VKA: Whether it's arts, whether it's housing,
+p446
+aVwhether it's what amount of shopping?
+p447
+aa(lp448
+VDR: Right. And we're looking for other things.
+p449
+aVThis small foundation we put together is looking for other ways to help.
+p450
+aVIncluding taking a small piece adjacent to the site
+p451
+aVand inviting 10 architects who currently don't have a voice
+p452
+aVin New York to do artist housing.
+p453
+aVAnd find other ways to encourage the discussion
+p454
+aVto be against sort of monolithic, single solutions,
+p455
+aVand more about a multiplicity of things.
+p456
+aa(lp457
+VKA: Before we end, I know you have a piece of digital video
+p458
+aVof the experience of being on this platform?
+p459
+aa(lp460
+VDR: John Kamen \u2014 who's here, actually \u2014 put together
+p461
+aVa two and a half minute piece that shows the platform in use.
+p462
+aVSo I thought that would be good to end with.
+p463
+aa(lp464
+VDR: We're looking from Fulton Street, west.
+p465
+aVOne of the tricky issues we had with the Giuliani administration
+p466
+aVwas I had forgotten how anti-graffiti he was.
+p467
+aVAnd essentially our structure was designed to be written on.
+p468
+aa(lp469
+VKA: As you say, it's not a memorial.
+p470
+aVBut were you conscious of memorials? The Vietnam Memorial?
+p471
+aVThose kinds of forms?
+p472
+aa(lp473
+VDR: We certainly did as much research as we could,
+p474
+aVand we were conscious of other memorials.
+p475
+aVAnd also the complexity and length of time they really take to do.
+p476
+aVIt's 350 people on the committee for Oklahoma City,
+p477
+aVwhich is why we thought of this as a sort of ad-hoc, spontaneous solution
+p478
+aVthat expanded on Union Square
+p479
+aVand the places that were ad-hoc memorials in the city already.
+p480
+aa(lp481
+VThe scaffolding you can see built up over the street is de-mountable.
+p482
+aa(lp483
+VWhat's interesting now is the nature of the site has totally changed,
+p484
+aVso that what you're aware of
+p485
+aVis not just the destruction of the buildings in Ground Zero,
+p486
+aVbut all of the buildings around it \u2014
+p487
+aVand the scars on the building around it, which are enormous.
+p488
+aVThis shows Saint Paul's on the left.
+p489
+aa(lp490
+VKA: I just want to thank you on behalf of New Yorkers
+p491
+aVfor making this happen and getting this done.
+p492
+aVBut the kind of virtually instantaneous nature of its erection,
+p493
+aVand its being there,
+p494
+aValmost before you could believe
+p495
+aVthat a response of this magnitude could be accomplished,
+p496
+aVis part of its extraordinary \u2014
+p497
+aVI don't know if beauty is the word \u2014
+p498
+aVbut presence.
+p499
+aa(lp500
+VDR: It was an honor to do.
+p501
+aVAnd we were thrilled to be able to show it here.
+p502
+aasS'id'
+p503
+I8
+sS'title'
+p504
+VA memorial at Ground Zero
+p505
+s.

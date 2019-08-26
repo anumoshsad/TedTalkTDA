@@ -1,0 +1,708 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VAs a kid I always loved information
+p4
+aVthat I could get from data
+p5
+aVand the stories that could be told with numbers.
+p6
+aVI remember, growing up, I'd be frustrated at
+p7
+aVhow my own parents would lie to me using numbers.
+p8
+aV"Talithia, if I've told you once  I've told you a thousand times."
+p9
+aVNo dad, you've only told me 17 times
+p10
+aVand twice it wasn't my fault. (Laughter)
+p11
+aa(lp12
+VI think that is one of the reasons I got a Ph.D. in statistics.
+p13
+aVI always wanted to know,
+p14
+aVwhat are people trying to hide with numbers?
+p15
+aVAs a statistician,
+p16
+aVI want people to show me the data
+p17
+aVso I can decide for myself.
+p18
+aVDonald and I were pregnant with our third child
+p19
+aVand we were at about 41 and a half weeks,
+p20
+aVwhat some of you may refer to as being overdue.
+p21
+aVStatisticians, we call that
+p22
+aVbeing within the 95 percent confidence interval.
+p23
+aV(Laughter)
+p24
+aVAnd at this point in the process
+p25
+aVwe had to come in every couple of days
+p26
+aVto do a stress test on the baby,
+p27
+aVand this is just routine,
+p28
+aVit tests whether or not the baby  is feeling any type of undue stress.
+p29
+aVAnd you are rarely, if ever, seen by your actual doctor,
+p30
+aVjust whoever happens to be  working at the hospital that day.
+p31
+aVSo we go in for a stress test and after 20 minutes
+p32
+aVthe doctor comes out and he says,
+p33
+aV"Your baby is under stress, we need to induce you."
+p34
+aVNow, as a statistician, what's my response?
+p35
+aVShow me the data!
+p36
+aVSo then he proceeds to tell us
+p37
+aVthe baby's heart rate trace went from 18 minutes,
+p38
+aVthe baby's heart rate was in the normal zone
+p39
+aVand for two minutes it was in what appeared to be
+p40
+aVmy heart rate zone and I said,
+p41
+aV"Is it possible that maybe this was my heart rate?
+p42
+aVI was moving around a little bit,
+p43
+aVit's hard to lay still on your back,
+p44
+aV41 weeks pregnant for 20 minutes.
+p45
+aVMaybe it was shifting around."
+p46
+aVHe said, "Well, we don't want to take any chances."
+p47
+aVI said okay.
+p48
+aVI said, "What if I was at 36 weeks
+p49
+aVwith this same data?
+p50
+aVWould your decision be to induce?"
+p51
+aV"Well, no, I would wait until you were at least
+p52
+aV38 weeks, but you are almost 42,
+p53
+aVthere is no reason to leave that baby inside,
+p54
+aVlet's get you a room."
+p55
+aVI said, "Well, why don't we just do it again?
+p56
+aVWe can collect more data.
+p57
+aVI can try to be really still for 20 minutes.
+p58
+aVWe can average the two and see
+p59
+aVwhat that means. (Laughter)
+p60
+aVAnd he goes,
+p61
+aV"Ma'am, I just don't want you to have a miscarriage."
+p62
+aVThat makes three of us.
+p63
+aVAnd then he says,
+p64
+aV"Your chances of having a miscarriage double
+p65
+aVwhen you go past your due date. Let's get you a room."
+p66
+aVWow. So now as a statistician, what's my response?
+p67
+aVShow me the data!
+p68
+aVDude, you're talking chances,
+p69
+aVI do chances all day long, tell me all about chances.
+p70
+aVLet's talk chances. (Laughter)
+p71
+aVLet's talk chances.
+p72
+aa(lp73
+VSo I say, "Okay, great.
+p74
+aVDo I go from a 30-percent  chance to a 60-percent chance?
+p75
+aVWhere are we here with this miscarriage thing?
+p76
+aVAnd he goes, "Not quite, but it doubles,
+p77
+aVand we really just want what's best for the baby."
+p78
+aVUndaunted, I try a different angle.
+p79
+aVI said, "Okay, out of 1,000 full-term pregnant women,
+p80
+aVhow many of them are going to miscarry
+p81
+aVjust before their due date?
+p82
+aVAnd then he looks at me and looks at Donald,
+p83
+aVand he goes, about one in 1,000.
+p84
+aVI said, "Okay, so of those 1,000 women, how many
+p85
+aVare going to miscarry just after their due date?"
+p86
+aa(lp87
+V"About two." (Laughter)
+p88
+aVI said, "Okay, so you are telling me that my chances
+p89
+aVgo from a 0.1-percent chance
+p90
+aVto a 0.2-percent chance."
+p91
+aa(lp92
+VOkay, so at this point the data is not convincing us
+p93
+aVthat we need to be induced,
+p94
+aVand so then we proceed to have a conversation
+p95
+aVabout how inductions lead to a higher rate
+p96
+aVof Cesarean sections, and if at all  possible we'd like to avoid that.
+p97
+aVAnd then I said,
+p98
+aV"And I really don't think my due date is accurate."
+p99
+aV(Laughter)
+p100
+aVAnd so this really stunned him
+p101
+aVand he looked sort of puzzled
+p102
+aVand I said, "You may not know this,
+p103
+aVbut pregnancy due dates are calculated
+p104
+aVassuming that you have a standard 28-day cycle,
+p105
+aVand my cycle ranges \u2014
+p106
+aVsometimes it's 27, sometimes it's up to 38 \u2014
+p107
+aVand I have been collecting the data to prove it.
+p108
+aV(Laughter)
+p109
+aVAnd so we ended up leaving the hospital  that day without being induced.
+p110
+aVWe actually had to sign a waiver  to walk out of the hospital.
+p111
+aVAnd I'm not advocating that you not listen to your doctors,
+p112
+aVbecause even with our first child,
+p113
+aVwe were induced at 38 weeks; cervical fluid was low.
+p114
+aVI'm not anti-medical intervention.
+p115
+aVBut why were confident to leave that day?
+p116
+aVWell, we had data that told a different story.
+p117
+aVWe had been collecting data for six years.
+p118
+aVI had this temperature data,
+p119
+aVand it told a different story.
+p120
+aVIn fact, we could probably pretty  accurately estimate conception.
+p121
+aVYeah, that's a story you want to tell
+p122
+aVat your kid's wedding reception. (Laughter)
+p123
+aVI remember like it was yesterday.
+p124
+aVMy temperature was a sizzling 97.8 degrees
+p125
+aVas I stared into your father's eyes. (Laughter)
+p126
+aVOh, yeah. Twenty-two more years, we're telling that story.
+p127
+aVBut we were confident to leave  because we had been collecting data.
+p128
+aVNow, what does that data look like?
+p129
+aVHere's a standard chart
+p130
+aVof a woman's waking body temperature
+p131
+aVduring the course of a cycle.
+p132
+aVSo from the beginning of the menstrual cycle
+p133
+aVtill the beginning of the next.
+p134
+aVYou'll see that the temperature is not random.
+p135
+aVClearly there is a low pattern
+p136
+aVat the beginning of her cycle
+p137
+aVand then you see this jump and then a higher
+p138
+aVset of temperatures at the end of her cycle.
+p139
+aVSo what's happening here?
+p140
+aVWhat is that data telling you?
+p141
+aVWell, ladies, at the beginning of our cycle,
+p142
+aVthe hormone estrogen is dominant and that estrogen
+p143
+aVcauses a suppression of your body temperature.
+p144
+aVAnd at ovulation, your body releases an egg
+p145
+aVand progesterone takes over, pro-gestation.
+p146
+aVAnd so your body heats up in anticipation
+p147
+aVof housing this new little fertilized egg.
+p148
+aVSo why this temperature jump?
+p149
+aVWell, think about when a bird sits on her eggs.
+p150
+aVWhy is she sitting on them?
+p151
+aVShe wants to keep them warm,
+p152
+aVprotect them and keep them warm.
+p153
+aVLadies, this is exactly what our bodies do every month,
+p154
+aVthey heat up in anticipation
+p155
+aVof keeping a new little life warm.
+p156
+aVAnd if nothing happens, if you are not pregnant,
+p157
+aVthen estrogen takes back over and  that cycle starts all over again.
+p158
+aVBut if you do get pregnant, sometimes you
+p159
+aVactually see another shift in your temperatures
+p160
+aVand it stays elevated for those whole nine months.
+p161
+aVThat's why you see those pregnant  women just sweating and hot,
+p162
+aVbecause their temperatures are high.
+p163
+aVHere's a chart that we had about three or four years ago.
+p164
+aVWe were really very excited about this chart.
+p165
+aVYou'll see the low temperature level
+p166
+aVand then a shift and for about five days,
+p167
+aVthat's about the time it takes for the egg to travel
+p168
+aVdown the fallopian tube and implant,
+p169
+aVand then you see those temperatures  start to go up a little bit.
+p170
+aVAnd in fact, we had a second temperature shift,
+p171
+aVconfirmed with a pregnancy test  that were indeed pregnant
+p172
+aVwith our first child, very exciting.
+p173
+aVUntil a couple of days later
+p174
+aVI saw some spotting and then I noticed heavy blood flow,
+p175
+aVand we had in fact had an early stage miscarriage.
+p176
+aVHad I not been taking my temperature
+p177
+aVI really would have just thought  my period was late that month,
+p178
+aVbut we actually had data to show
+p179
+aVthat we had miscarried this baby,
+p180
+aVand even though this data revealed a really
+p181
+aVunfortunate event in our lives,
+p182
+aVit was information that we could then take to our doctor.
+p183
+aVSo if there was a fertility issue or some problem,
+p184
+aVI had data to show:
+p185
+aVLook, we got pregnant, our temperature shifted,
+p186
+aVwe somehow lost this baby.
+p187
+aVWhat is it that we can do to help prevent this problem?
+p188
+aVAnd it's not just about temperatures
+p189
+aVand it's not just about fertility;
+p190
+aVwe can use data about our bodies to tell us a lot of things.
+p191
+aa(lp192
+VFor instance, did you know that taking  your temperature can tell you a lot
+p193
+aVabout the condition of your thyroid?
+p194
+aVSo, your thyroid works a lot like  the thermostat in your house.
+p195
+aVThere is an optimal temperature  that you want in your house;
+p196
+aVyou set your thermostat.
+p197
+aVWhen it gets too cold in the house, your thermostat kicks in
+p198
+aVand says, "Hey, we need to blow some heat around."
+p199
+aVOr if it gets too hot, your thermostat
+p200
+aVregisters, "Turn the A.C. on. Cool us off."
+p201
+aVThat's exactly how your thyroid works in your body.
+p202
+aVYour thyroid tries to keep an optimal temperature
+p203
+aVfor your body.
+p204
+aVIf it gets too cold, your thyroid  says, "Hey, we need to heat up."
+p205
+aVIf it gets too hot, your thyroid cools you down.
+p206
+aVBut what happens when your  thyroid is not functioning well?
+p207
+aVWhen it doesn't function, then it shows up
+p208
+aVin your body temperatures,
+p209
+aVthey tend to be lower than normal or very erratic.
+p210
+aVAnd so by collecting this data
+p211
+aVyou can find out information about your thyroid.
+p212
+aa(lp213
+VNow, what is it, if you had a thyroid  problem and you went to the doctor,
+p214
+aVyour doctor would actually test the amount of
+p215
+aVthyroid stimulating hormone in your blood.
+p216
+aVFine. But the problem with that test is
+p217
+aVit doesn't tell you how active the hormone is in your body.
+p218
+aVSo you might have a lot of hormone present,
+p219
+aVbut it might not be actively working to regulate
+p220
+aVyour body temperature.
+p221
+aVSo just by collecting your temperature every day,
+p222
+aVyou get information about the condition of your thyroid.
+p223
+aVSo, what if you don't want to take  your temperature every day?
+p224
+aVI advocate that you do,
+p225
+aVbut there are tons of other things you could take.
+p226
+aVYou could take your blood pressure,  you could take your weight \u2014
+p227
+aVyeah, who's excited about
+p228
+aVtaking their weight every day? (Laughter)
+p229
+aa(lp230
+VEarly on in our marriage, Donald had a stuffy nose
+p231
+aVand he had been taking a slew of medications
+p232
+aVto try to relieve his stuffy nose, to no avail.
+p233
+aVAnd so, that night he comes and  he wakes me up and he says,
+p234
+aV"Honey, I can't breath out of my nose."
+p235
+aVAnd I roll over and I look, and I said,  "Well, can you breath out of your mouth?"
+p236
+aV(Laughter)
+p237
+aVAnd he goes, "Yes, but I can't breath out of my nose!"
+p238
+aVAnd so like any good wife, I rush him
+p239
+aVto the emergency room
+p240
+aVat 2 o'clock in the morning.
+p241
+aVAnd the whole time I'm driving and I'm thinking,
+p242
+aVyou can't die on me now.
+p243
+aVWe just got married,
+p244
+aVpeople will think I killed you! (Laughter)
+p245
+aVAnd so, we get to the emergency  room, and the nurse sees us,
+p246
+aVand he can't breath out of his nose, and so
+p247
+aVshe brings us to the back and the doctor says,
+p248
+aV"What seems to be the problem?" and  he goes, "I can't breath out of my nose."
+p249
+aVAnd he said, "You can't breath out of your nose?
+p250
+aVNo, but he can breath out of his mouth. (Laughter)
+p251
+aVHe takes a step back and he looks at both of us
+p252
+aVand he says "Sir, I think I know the problem.
+p253
+aVYou're having a heart attack.
+p254
+aVI'm going to order an EKG and a CAT scan
+p255
+aVfor you immediately."
+p256
+aVAnd we are thinking,
+p257
+aVno, no, no. It's not a heart attack. He can breathe,
+p258
+aVjust out of his mouth. No, no, no, no, no.
+p259
+aVAnd so we go back and forth with this doctor
+p260
+aVbecause we think this is the incorrect diagnosis,
+p261
+aVand he's like, "No really, it'll be fine, just calm down."
+p262
+aVAnd I'm thinking, how do you calm down?  But I don't think he's having a heart attack.
+p263
+aVAnd so fortunately for us, this  doctor was at the end of the shift.
+p264
+aVSo this new doctor comes in, he sees us clearly
+p265
+aVdistraught, with a husband who can't breath
+p266
+aVout of his nose. (Laughter)
+p267
+aVAnd he starts asking us questions.
+p268
+aVHe says, "Well, do you two exercise?"
+p269
+aVWe ride our bikes, we go to the gym occasionally.
+p270
+aV(Laughter)
+p271
+aVWe move around.
+p272
+aVAnd he says, "What were you doing  just before you came here?"
+p273
+aVI'm thinking, I was sleeping, honestly.
+p274
+aVBut okay, what was Donald doing just before?
+p275
+aVSo Donald goes into this slew  of medications he was taking.
+p276
+aVHe lists, "I took this decongestant  and then I took this nasal spray,"
+p277
+aVand then all of a sudden a lightbulb goes off and he says,
+p278
+aV"Oh! You should never mix this  decongestant with this nasal spray.
+p279
+aVClogs you up every time. Here, take this one instead."
+p280
+aVHe gives us a prescription.
+p281
+aVWe're looking at each other, and I looked at the doctor,
+p282
+aVand I said, "Why is it that it seems like you
+p283
+aVwere able to accurately diagnose his condition,
+p284
+aVbut this previous doctor wanted to order
+p285
+aVan EKG and a CAT scan?"
+p286
+aVAnd he looks at us and says,
+p287
+aV"Well, when a 350-pound man walks in the  emergency room and says he can't breath,
+p288
+aVyou assume he's having a heart attack
+p289
+aVand you ask questions later."
+p290
+aVNow, emergency room doctors are  trained to make decisions quickly,
+p291
+aVbut not always accurately.
+p292
+aVAnd so had we had some information
+p293
+aVabout our heart health to share with him,
+p294
+aVmaybe we would have gotten a  better diagnosis the first time.
+p295
+aa(lp296
+VI want you to consider the following chart,
+p297
+aVof systolic blood pressure measurements
+p298
+aVfrom October 2010 to July 2012.
+p299
+aVYou'll see that these measurements start
+p300
+aVin the prehypertension/hypertension zone,
+p301
+aVbut over about the course of a year and a half
+p302
+aVthey move into the normal zone.
+p303
+aVThis is about the heart rate of a healthy 16-year-old.
+p304
+aVWhat story is this data telling you?
+p305
+aVObviously it's the data from someone
+p306
+aVwho's made a drastic transformation,
+p307
+aVand fortunately for us, that person  happens to be here today.
+p308
+aVSo that 350-pound guy that walked  into the emergency room with me
+p309
+aVis now an even sexier and healthier
+p310
+aV225-pound guy, and that's his blood pressure trace.
+p311
+aVSo over the course of that year and a half
+p312
+aVDonald's eating changed
+p313
+aVand our exercise regimen changed,
+p314
+aVand his heart rate responded,
+p315
+aVhis blood pressure responded to that change
+p316
+aVthat he made in his body.
+p317
+aa(lp318
+VSo what's the take-home message
+p319
+aVthat I want you to leave with today?
+p320
+aVBy taking ownership of your data just like we've done,
+p321
+aVjust by taking this daily measurements about yourself,
+p322
+aVyou become the expert on your body.
+p323
+aVYou become the authority.
+p324
+aVIt's not hard to do.
+p325
+aVYou don't have to have a Ph.D. in statistics
+p326
+aVto be an expert in yourself.
+p327
+aVYou don't have to have a medical degree
+p328
+aVto be your body's expert.
+p329
+aVMedical doctors, they're experts on the population,
+p330
+aVbut you are the expert on yourself.
+p331
+aVAnd so when two of you come together,
+p332
+aVwhen two experts come together,
+p333
+aVthe two of you are able to make a better decision
+p334
+aVthan just your doctor alone.
+p335
+aVNow that you understand the power of information
+p336
+aVthat you can get through personal data collection,
+p337
+aVI'd like you all to stand and raise your right hand.
+p338
+aV(Laughter)
+p339
+aVYes, get it up.
+p340
+aVI challenge you to take ownership of your data.
+p341
+aVAnd today, I hereby confer upon you
+p342
+aVa TEDx associate's degree in elementary statistics
+p343
+aVwith a concentration in time-dependent data analysis
+p344
+aVwith all the rights and privileges appertaining thereto.
+p345
+aVAnd so the next time you are in your doctor's office,
+p346
+aVas newly inducted statisticians,
+p347
+aVwhat should always be your response?
+p348
+aVAudience: Show me the data!  Talithia Williams: I can't hear you!
+p349
+aVAudience: Show me the data!
+p350
+aVTW: One more time!
+p351
+aVAudience: Show me the data!
+p352
+aVTW: Show me the data.
+p353
+aVThank you.
+p354
+aV(Applause)
+p355
+aasS'id'
+p356
+I2056
+sS'title'
+p357
+VOwn your body's data
+p358
+s.

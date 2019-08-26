@@ -1,0 +1,813 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhat I want to talk to you about
+p4
+aVis what we can learn from studying the genomes
+p5
+aVof living people
+p6
+aVand extinct humans.
+p7
+aVBut before doing that,
+p8
+aVI just briefly want to remind you about what you already know:
+p9
+aVthat our genomes, our genetic material,
+p10
+aVare stored in almost all cells in our bodies in chromosomes
+p11
+aVin the form of DNA,
+p12
+aVwhich is this famous double-helical molecule.
+p13
+aVAnd the genetic information
+p14
+aVis contained in the form of a sequence
+p15
+aVof four bases
+p16
+aVabbreviated with the letters A, T, C and G.
+p17
+aVAnd the information is there twice \u2014
+p18
+aVone on each strand \u2014
+p19
+aVwhich is important,
+p20
+aVbecause when new cells are formed, these strands come apart,
+p21
+aVnew strands are synthesized with the old ones as templates
+p22
+aVin an almost perfect process.
+p23
+aa(lp24
+VBut nothing, of course, in nature
+p25
+aVis totally perfect,
+p26
+aVso sometimes an error is made
+p27
+aVand a wrong letter is built in.
+p28
+aVAnd we can then see the result
+p29
+aVof such mutations
+p30
+aVwhen we compare DNA sequences
+p31
+aVamong us here in the room, for example.
+p32
+aVIf we compare my genome to the genome of you,
+p33
+aVapproximately every 1,200, 1,300 letters
+p34
+aVwill differ between us.
+p35
+aVAnd these mutations accumulate
+p36
+aVapproximately as a function of time.
+p37
+aVSo if we add in a chimpanzee here, we will see more differences.
+p38
+aVApproximately one letter in a hundred
+p39
+aVwill differ from a chimpanzee.
+p40
+aa(lp41
+VAnd if you're then interested in the history
+p42
+aVof a piece of DNA, or the whole genome,
+p43
+aVyou can reconstruct the history of the DNA
+p44
+aVwith those differences you observe.
+p45
+aVAnd generally we depict our ideas about this history
+p46
+aVin the form of trees like this.
+p47
+aVIn this case, it's very simple.
+p48
+aVThe two human DNA sequences
+p49
+aVgo back to a common ancestor quite recently.
+p50
+aVFarther back is there one shared with chimpanzees.
+p51
+aVAnd because these mutations
+p52
+aVhappen approximately as a function of time,
+p53
+aVyou can transform these differences
+p54
+aVto estimates of time,
+p55
+aVwhere the two humans, typically,
+p56
+aVwill share a common ancestor about half a million years ago,
+p57
+aVand with the chimpanzees,
+p58
+aVit will be in the order of five million years ago.
+p59
+aa(lp60
+VSo what has now happened in the last few years
+p61
+aVis that there are account technologies around
+p62
+aVthat allow you to see many, many pieces of DNA very quickly.
+p63
+aVSo we can now, in a matter of hours,
+p64
+aVdetermine a whole human genome.
+p65
+aVEach of us, of course, contains two human genomes \u2014
+p66
+aVone from our mothers and one from our fathers.
+p67
+aVAnd they are around three billion such letters long.
+p68
+aVAnd we will find that the two genomes in me,
+p69
+aVor one genome of mine we want to use,
+p70
+aVwill have about three million differences
+p71
+aVin the order of that.
+p72
+aVAnd what you can then also begin to do
+p73
+aVis to say, "How are these genetic differences
+p74
+aVdistributed across the world?"
+p75
+aVAnd if you do that,
+p76
+aVyou find a certain amount of genetic variation in Africa.
+p77
+aVAnd if you look outside Africa,
+p78
+aVyou actually find less genetic variation.
+p79
+aVThis is surprising, of course,
+p80
+aVbecause in the order of six to eight times fewer people
+p81
+aVlive in Africa than outside Africa.
+p82
+aVYet the people inside Africa
+p83
+aVhave more genetic variation.
+p84
+aa(lp85
+VMoreover, almost all these genetic variants
+p86
+aVwe see outside Africa
+p87
+aVhave closely related DNA sequences
+p88
+aVthat you find inside Africa.
+p89
+aVBut if you look in Africa,
+p90
+aVthere is a component of the genetic variation
+p91
+aVthat has no close relatives outside.
+p92
+aVSo a model to explain this
+p93
+aVis that a part of the African variation, but not all of it,
+p94
+aV[has] gone out and colonized the rest of the world.
+p95
+aVAnd together with the methods to date these genetic differences,
+p96
+aVthis has led to the insight
+p97
+aVthat modern humans \u2014
+p98
+aVhumans that are essentially indistinguishable from you and me \u2014
+p99
+aVevolved in Africa, quite recently,
+p100
+aVbetween 100 and 200,000 years ago.
+p101
+aVAnd later, between 100 and 50,000 years ago or so,
+p102
+aVwent out of Africa
+p103
+aVto colonize the rest of the world.
+p104
+aa(lp105
+VSo what I often like to say
+p106
+aVis that, from a genomic perspective,
+p107
+aVwe are all Africans.
+p108
+aVWe either live inside Africa today,
+p109
+aVor in quite recent exile.
+p110
+aVAnother consequence
+p111
+aVof this recent origin of modern humans
+p112
+aVis that genetic variants
+p113
+aVare generally distributed widely in the world,
+p114
+aVin many places,
+p115
+aVand they tend to vary as gradients,
+p116
+aVfrom a bird's-eye perspective at least.
+p117
+aVAnd since there are many genetic variants,
+p118
+aVand they have different such gradients,
+p119
+aVthis means that if we determine a DNA sequence \u2014
+p120
+aVa genome from one individual \u2014
+p121
+aVwe can quite accurately estimate
+p122
+aVwhere that person comes from,
+p123
+aVprovided that its parents or grandparents
+p124
+aVhaven't moved around too much.
+p125
+aa(lp126
+VBut does this then mean,
+p127
+aVas many people tend to think,
+p128
+aVthat there are huge genetic differences between groups of people \u2014
+p129
+aVon different continents, for example?
+p130
+aVWell we can begin to ask those questions also.
+p131
+aVThere is, for example, a project that's underway
+p132
+aVto sequence a thousand individuals \u2014
+p133
+aVtheir genomes \u2014 from different parts of the world.
+p134
+aVThey've sequenced 185 Africans
+p135
+aVfrom two populations in Africa.
+p136
+aV[They've] sequenced approximately equally [as] many people
+p137
+aVin Europe and in China.
+p138
+aVAnd we can begin to say how much variance do we find,
+p139
+aVhow many letters that vary
+p140
+aVin at least one of those individual sequences.
+p141
+aVAnd it's a lot: 38 million variable positions.
+p142
+aa(lp143
+VBut we can then ask: Are there any absolute differences
+p144
+aVbetween Africans and non-Africans?
+p145
+aVPerhaps the biggest difference
+p146
+aVmost of us would imagine existed.
+p147
+aVAnd with absolute difference \u2014
+p148
+aVand I mean a difference
+p149
+aVwhere people inside Africa at a certain position,
+p150
+aVwhere all individuals \u2014 100 percent \u2014 have one letter,
+p151
+aVand everybody outside Africa has another letter.
+p152
+aVAnd the answer to that, among those millions of differences,
+p153
+aVis that there is not a single such position.
+p154
+aVThis may be surprising.
+p155
+aVMaybe a single individual is misclassified or so.
+p156
+aVSo we can relax the criterion a bit
+p157
+aVand say: How many positions do we find
+p158
+aVwhere 95 percent of people in Africa have
+p159
+aVone variant,
+p160
+aV95 percent another variant,
+p161
+aVand the number of that is 12.
+p162
+aa(lp163
+VSo this is very surprising.
+p164
+aVIt means that when we look at people
+p165
+aVand see a person from Africa
+p166
+aVand a person from Europe or Asia,
+p167
+aVwe cannot, for a single position in the genome with 100 percent accuracy,
+p168
+aVpredict what the person would carry.
+p169
+aVAnd only for 12 positions
+p170
+aVcan we hope to be 95 percent right.
+p171
+aVThis may be surprising,
+p172
+aVbecause we can, of course, look at these people
+p173
+aVand quite easily say where they or their ancestors came from.
+p174
+aVSo what this means now
+p175
+aVis that those traits we then look at
+p176
+aVand so readily see \u2014
+p177
+aVfacial features, skin color, hair structure \u2014
+p178
+aVare not determined by single genes with big effects,
+p179
+aVbut are determined by many different genetic variants
+p180
+aVthat seem to vary in frequency
+p181
+aVbetween different parts of the world.
+p182
+aa(lp183
+VThere is another thing with those traits
+p184
+aVthat we so easily observe in each other
+p185
+aVthat I think is worthwhile to consider,
+p186
+aVand that is that, in a very literal sense,
+p187
+aVthey're really on the surface of our bodies.
+p188
+aVThey are what we just said \u2014
+p189
+aVfacial features, hair structure, skin color.
+p190
+aVThere are also a number of features
+p191
+aVthat vary between continents like that
+p192
+aVthat have to do with how we metabolize food that we ingest,
+p193
+aVor that have to do
+p194
+aVwith how our immune systems deal with microbes
+p195
+aVthat try to invade our bodies.
+p196
+aVBut so those are all parts of our bodies
+p197
+aVwhere we very directly interact with our environment,
+p198
+aVin a direct confrontation, if you like.
+p199
+aVIt's easy to imagine
+p200
+aVhow particularly those parts of our bodies
+p201
+aVwere quickly influenced by selection from the environment
+p202
+aVand shifted frequencies of genes
+p203
+aVthat are involved in them.
+p204
+aVBut if we look on other parts of our bodies
+p205
+aVwhere we don't directly interact with the environment \u2014
+p206
+aVour kidneys, our livers, our hearts \u2014
+p207
+aVthere is no way to say,
+p208
+aVby just looking at these organs,
+p209
+aVwhere in the world they would come from.
+p210
+aa(lp211
+VSo there's another interesting thing
+p212
+aVthat comes from this realization
+p213
+aVthat humans have a recent common origin in Africa,
+p214
+aVand that is that when those humans emerged
+p215
+aVaround 100,000 years ago or so,
+p216
+aVthey were not alone on the planet.
+p217
+aVThere were other forms of humans around,
+p218
+aVmost famously perhaps, Neanderthals \u2014
+p219
+aVthese robust forms of humans,
+p220
+aVcompared to the left here
+p221
+aVwith a modern human skeleton on the right \u2014
+p222
+aVthat existed in Western Asia and Europe
+p223
+aVsince several hundreds of thousands of years.
+p224
+aVSo an interesting question is,
+p225
+aVwhat happened when we met?
+p226
+aVWhat happened to the Neanderthals?
+p227
+aa(lp228
+VAnd to begin to answer such questions,
+p229
+aVmy research group \u2014 since over 25 years now \u2014
+p230
+aVworks on methods to extract DNA
+p231
+aVfrom remains of Neanderthals
+p232
+aVand extinct animals
+p233
+aVthat are tens of thousands of years old.
+p234
+aVSo this involves a lot of technical issues
+p235
+aVin how you extract the DNA,
+p236
+aVhow you convert it to a form you can sequence.
+p237
+aVYou have to work very carefully
+p238
+aVto avoid contamination of experiments
+p239
+aVwith DNA from yourself.
+p240
+aVAnd this then, in conjunction with these methods
+p241
+aVthat allow very many DNA molecules to be sequenced very rapidly,
+p242
+aVallowed us last year
+p243
+aVto present the first version of the Neanderthal genome,
+p244
+aVso that any one of you
+p245
+aVcan now look on the Internet, on the Neanderthal genome,
+p246
+aVor at least on the 55 percent of it
+p247
+aVthat we've been able to reconstruct so far.
+p248
+aVAnd you can begin to compare it to the genomes
+p249
+aVof people who live today.
+p250
+aa(lp251
+VAnd one question
+p252
+aVthat you may then want to ask
+p253
+aVis, what happened when we met?
+p254
+aVDid we mix or not?
+p255
+aVAnd the way to ask that question
+p256
+aVis to look at the Neanderthal that comes from Southern Europe
+p257
+aVand compare it to genomes
+p258
+aVof people who live today.
+p259
+aVSo we then look
+p260
+aVto do this with pairs of individuals,
+p261
+aVstarting with two Africans,
+p262
+aVlooking at the two African genomes,
+p263
+aVfinding places where they differ from each other,
+p264
+aVand in each case ask: What is a Neanderthal like?
+p265
+aVDoes it match one African or the other African?
+p266
+aVWe would expect there to be no difference,
+p267
+aVbecause Neanderthals were never in Africa.
+p268
+aVThey should be equal, have no reason to be closer
+p269
+aVto one African than another African.
+p270
+aVAnd that's indeed the case.
+p271
+aVStatistically speaking, there is no difference
+p272
+aVin how often the Neanderthal matches one African or the other.
+p273
+aVBut this is different
+p274
+aVif we now look at the European individual and an African.
+p275
+aVThen, significantly more often,
+p276
+aVdoes a Neanderthal match the European
+p277
+aVrather than the African.
+p278
+aVThe same is true if we look at a Chinese individual
+p279
+aVversus an African,
+p280
+aVthe Neanderthal will match the Chinese individual more often.
+p281
+aVThis may also be surprising
+p282
+aVbecause the Neanderthals were never in China.
+p283
+aa(lp284
+VSo the model we've proposed to explain this
+p285
+aVis that when modern humans came out of Africa
+p286
+aVsometime after 100,000 years ago,
+p287
+aVthey met Neanderthals.
+p288
+aVPresumably, they did so first in the Middle East,
+p289
+aVwhere there were Neanderthals living.
+p290
+aVIf they then mixed with each other there,
+p291
+aVthen those modern humans
+p292
+aVthat became the ancestors
+p293
+aVof everyone outside Africa
+p294
+aVcarried with them this Neanderthal component in their genome
+p295
+aVto the rest of the world.
+p296
+aVSo that today, the people living outside Africa
+p297
+aVhave about two and a half percent of their DNA
+p298
+aVfrom Neanderthals.
+p299
+aa(lp300
+VSo having now a Neanderthal genome
+p301
+aVon hand as a reference point
+p302
+aVand having the technologies
+p303
+aVto look at ancient remains
+p304
+aVand extract the DNA,
+p305
+aVwe can begin to apply them elsewhere in the world.
+p306
+aVAnd the first place we've done that is in Southern Siberia
+p307
+aVin the Altai Mountains
+p308
+aVat a place called Denisova,
+p309
+aVa cave site in this mountain here,
+p310
+aVwhere archeologists in 2008
+p311
+aVfound a tiny little piece of bone \u2014
+p312
+aVthis is a copy of it \u2014
+p313
+aVthat they realized came from the last phalanx
+p314
+aVof a little finger of a pinky of a human.
+p315
+aVAnd it was well enough preserved
+p316
+aVso we could determine the DNA from this individual,
+p317
+aVeven to a greater extent
+p318
+aVthan for the Neanderthals actually,
+p319
+aVand start relating it to the Neanderthal genome
+p320
+aVand to people today.
+p321
+aVAnd we found that this individual
+p322
+aVshared a common origin for his DNA sequences
+p323
+aVwith Neanderthals around 640,000 years ago.
+p324
+aVAnd further back, 800,000 years ago
+p325
+aVis there a common origin
+p326
+aVwith present day humans.
+p327
+aa(lp328
+VSo this individual comes from a population
+p329
+aVthat shares an origin with Neanderthals,
+p330
+aVbut far back and then have a long independent history.
+p331
+aVWe call this group of humans,
+p332
+aVthat we then described for the first time
+p333
+aVfrom this tiny, tiny little piece of bone,
+p334
+aVthe Denisovans,
+p335
+aVafter this place where they were first described.
+p336
+aVSo we can then ask for Denisovans
+p337
+aVthe same things as for the Neanderthals:
+p338
+aVDid they mix with ancestors of present day people?
+p339
+aVIf we ask that question,
+p340
+aVand compare the Denisovan genome
+p341
+aVto people around the world,
+p342
+aVwe surprisingly find
+p343
+aVno evidence of Denisovan DNA
+p344
+aVin any people living even close to Siberia today.
+p345
+aVBut we do find it in Papua New Guinea
+p346
+aVand in other islands in Melanesia and the Pacific.
+p347
+aVSo this presumably means
+p348
+aVthat these Denisovans had been more widespread in the past,
+p349
+aVsince we don't think that the ancestors of Melanesians
+p350
+aVwere ever in Siberia.
+p351
+aa(lp352
+VSo from studying
+p353
+aVthese genomes of extinct humans,
+p354
+aVwe're beginning to arrive at a picture of what the world looked like
+p355
+aVwhen modern humans started coming out of Africa.
+p356
+aVIn the West, there were Neanderthals;
+p357
+aVin the East, there were Denisovans \u2014
+p358
+aVmaybe other forms of humans too
+p359
+aVthat we've not yet described.
+p360
+aVWe don't know quite where the borders between these people were,
+p361
+aVbut we know that in Southern Siberia,
+p362
+aVthere were both Neanderthals and Denisovans
+p363
+aVat least at some time in the past.
+p364
+aVThen modern humans emerged somewhere in Africa,
+p365
+aVcame out of Africa, presumably in the Middle East.
+p366
+aVThey meet Neanderthals, mix with them,
+p367
+aVcontinue to spread over the world,
+p368
+aVand somewhere in Southeast Asia,
+p369
+aVthey meet Denisovans and mix with them
+p370
+aVand continue on out into the Pacific.
+p371
+aVAnd then these earlier forms of humans disappear,
+p372
+aVbut they live on a little bit today
+p373
+aVin some of us \u2014
+p374
+aVin that people outside of Africa have two and a half percent of their DNA
+p375
+aVfrom Neanderthals,
+p376
+aVand people in Melanesia
+p377
+aVactually have an additional five percent approximately
+p378
+aVfrom the Denisovans.
+p379
+aa(lp380
+VDoes this then mean that there is after all
+p381
+aVsome absolute difference
+p382
+aVbetween people outside Africa and inside Africa
+p383
+aVin that people outside Africa
+p384
+aVhave this old component in their genome
+p385
+aVfrom these extinct forms of humans,
+p386
+aVwhereas Africans do not?
+p387
+aVWell I don't think that is the case.
+p388
+aVPresumably, modern humans
+p389
+aVemerged somewhere in Africa.
+p390
+aVThey spread across Africa also, of course,
+p391
+aVand there were older, earlier forms of humans there.
+p392
+aVAnd since we mixed elsewhere,
+p393
+aVI'm pretty sure that one day,
+p394
+aVwhen we will perhaps have a genome
+p395
+aVof also these earlier forms in Africa,
+p396
+aVwe will find that they have also mixed
+p397
+aVwith early modern humans in Africa.
+p398
+aa(lp399
+VSo to sum up,
+p400
+aVwhat have we learned from studying genomes
+p401
+aVof present day humans
+p402
+aVand extinct humans?
+p403
+aVWe learn perhaps many things,
+p404
+aVbut one thing that I find sort of important to mention
+p405
+aVis that I think the lesson is that we have always mixed.
+p406
+aVWe mixed with these earlier forms of humans,
+p407
+aVwherever we met them,
+p408
+aVand we mixed with each other ever since.
+p409
+aa(lp410
+VThank you for your attention.
+p411
+aa(lp412
+V(Applause)
+p413
+aasS'id'
+p414
+I1213
+sS'title'
+p415
+VDNA clues to our inner neanderthal
+p416
+s.

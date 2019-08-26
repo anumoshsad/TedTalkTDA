@@ -1,0 +1,210 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+V(Music) This is the human test,
+p4
+aVa test to see if you are a human.
+p5
+aVPlease raise your hand if something applies to you.
+p6
+aVAre we agreed? Yes?
+p7
+aVThen let's begin.
+p8
+aa(lp9
+VHave you ever eaten a booger
+p10
+aVlong past your childhood?
+p11
+aV(Laughter)
+p12
+aVIt's okay, it's safe here.
+p13
+aa(lp14
+VHave you ever made a small, weird sound
+p15
+aVwhen you remembered something embarrassing?
+p16
+aa(lp17
+VHave you ever purposely lowercased
+p18
+aVthe first letter of a text
+p19
+aVin order to come across as sad or disappointed?
+p20
+aV(Laughter)
+p21
+aVOkay.
+p22
+aa(lp23
+VHave you ever ended a text with a period
+p24
+aVas a sign of aggression? Okay. Period.
+p25
+aa(lp26
+VHave you ever laughed or smiled
+p27
+aVwhen someone said something shitty to you
+p28
+aVand then spent the rest of the day
+p29
+aVwondering why you reacted that way?
+p30
+aVYes.
+p31
+aa(lp32
+VHave you ever seemed to lose your airplane ticket
+p33
+aVa thousand times as you walked
+p34
+aVfrom the check-in to the gate?
+p35
+aVYes.
+p36
+aa(lp37
+VHave you ever put on a pair of pants
+p38
+aVand then much later realized that there was
+p39
+aVa loose sock smushed up against your thigh?
+p40
+aV(Laughter)
+p41
+aVGood.
+p42
+aa(lp43
+VHave you ever tried to guess someone else's password
+p44
+aVso many times that it locked their account?
+p45
+aVMmm.
+p46
+aa(lp47
+VHave you ever had a nagging feeling that one day
+p48
+aVyou will be discovered as a fraud?
+p49
+aVYes, it's safe here.
+p50
+aa(lp51
+VHave you ever hoped that there was some ability
+p52
+aVyou hadn't discovered yet
+p53
+aVthat you were just naturally great at?
+p54
+aVMmm.
+p55
+aa(lp56
+VHave you ever broken something in real life,
+p57
+aVand then found yourself looking
+p58
+aVfor an "undo" button in real life?
+p59
+aa(lp60
+VHave you ever misplaced your TED badge
+p61
+aVand then immediately started imagining
+p62
+aVwhat a three-day Vancouver vacation might look like?
+p63
+aa(lp64
+VHave you ever marveled
+p65
+aVat how someone you thought was so ordinary
+p66
+aVcould suddenly become so beautiful?
+p67
+aa(lp68
+VHave you ever stared at your phone
+p69
+aVsmiling like an idiot while texting with someone?
+p70
+aVHave you ever subsequently texted that person
+p71
+aVthe phrase "I'm staring at the phone
+p72
+aVsmiling like an idiot"?
+p73
+aa(lp74
+VHave you ever been tempted to,
+p75
+aVand then gave in to the temptation,
+p76
+aVof looking through someone else's phone?
+p77
+aa(lp78
+VHave you ever had a conversation with yourself
+p79
+aVand then suddenly realized
+p80
+aVyou're a real asshole to yourself?
+p81
+aa(lp82
+V(Laughter)
+p83
+aa(lp84
+VHas your phone ever run out of battery
+p85
+aVin the middle of an argument,
+p86
+aVand it sort of felt like the phone
+p87
+aVwas breaking up with both of you?
+p88
+aa(lp89
+VHave you ever thought
+p90
+aVthat working on an issue between you was futile
+p91
+aVbecause it should just be easier than this,
+p92
+aVor this is supposed to happen just naturally?
+p93
+aVHave you ever realized that very little, in the long run,
+p94
+aVjust happens naturally?
+p95
+aa(lp96
+VHave you ever woken up blissfully
+p97
+aVand suddenly been flooded by the awful remembrance
+p98
+aVthat someone had left you?
+p99
+aa(lp100
+VHave you ever lost the ability to imagine a future
+p101
+aVwithout a person
+p102
+aVthat no longer was in your life?
+p103
+aVHave you ever looked back on that event
+p104
+aVwith the sad smile of autumn
+p105
+aVand the realization that futures will happen
+p106
+aVregardless?
+p107
+aa(lp108
+VCongratulations.
+p109
+aVYou have now completed the test.
+p110
+aVYou are all human.
+p111
+aa(lp112
+V(Applause)
+p113
+aasS'id'
+p114
+I2049
+sS'title'
+p115
+VAre you human?
+p116
+s.

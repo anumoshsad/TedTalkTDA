@@ -1,0 +1,537 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo over the past few centuries, microscopes have revolutionized our world.
+p4
+aVThey revealed to us a tiny world of objects, life and structures
+p5
+aVthat are too small for us to see with our naked eyes.
+p6
+aVThey are a tremendous contribution to science and technology.
+p7
+aVToday I'd like to introduce you to a new type of microscope,
+p8
+aVa microscope for changes.
+p9
+aVIt doesn't use optics like a regular microscope
+p10
+aVto make small objects bigger,
+p11
+aVbut instead it uses a video camera and image processing
+p12
+aVto reveal to us the tiniest motions and color changes in objects and people,
+p13
+aVchanges that are impossible for us to see with our naked eyes.
+p14
+aVAnd it lets us look at our world in a completely new way.
+p15
+aa(lp16
+VSo what do I mean by color changes?
+p17
+aVOur skin, for example, changes its color very slightly
+p18
+aVwhen the blood flows under it.
+p19
+aVThat change is incredibly subtle,
+p20
+aVwhich is why, when you look at other people,
+p21
+aVwhen you look at the person sitting next to you,
+p22
+aVyou don't see their skin or their face changing color.
+p23
+aVWhen we look at this video of Steve here, it appears to us like a static picture,
+p24
+aVbut once we look at this video through our new, special microscope,
+p25
+aVsuddenly we see a completely different image.
+p26
+aVWhat you see here are small changes in the color of Steve's skin,
+p27
+aVmagnified 100 times so that they become visible.
+p28
+aVWe can actually see a human pulse.
+p29
+aVWe can see how fast Steve's heart is beating,
+p30
+aVbut we can also see the actual way that the blood flows in his face.
+p31
+aVAnd we can do that not just to visualize the pulse,
+p32
+aVbut also to actually  recover our heart rates,
+p33
+aVand measure our heart rates.
+p34
+aVAnd we can do it with regular cameras and without touching the patients.
+p35
+aVSo here you see the pulse and heart rate we extracted from a neonatal baby
+p36
+aVfrom a video we took with a regular DSLR camera,
+p37
+aVand the heart rate measurement we get
+p38
+aVis as accurate as the one you'd get with a standard monitor in a hospital.
+p39
+aVAnd it doesn't even have to be a video we recorded.
+p40
+aVWe can do it essentially with other videos as well.
+p41
+aVSo I just took a short clip from "Batman Begins" here
+p42
+aVjust to show Christian Bale's pulse.
+p43
+aV(Laughter)
+p44
+aVAnd you know, presumably he's wearing makeup,
+p45
+aVthe lighting here is kind of challenging,
+p46
+aVbut still, just from the video, we're able to extract his pulse
+p47
+aVand show it quite well.
+p48
+aa(lp49
+VSo how do we do all that?
+p50
+aVWe basically analyze the changes in the light that are recorded
+p51
+aVat every pixel in the video over time,
+p52
+aVand then we crank up those changes.
+p53
+aVWe make them bigger so that we can see them.
+p54
+aVThe tricky part is that those signals,
+p55
+aVthose changes that we're after, are extremely subtle,
+p56
+aVso we have to be very careful when you try to separate them
+p57
+aVfrom noise that always exists in videos.
+p58
+aVSo we use some clever image processing techniques
+p59
+aVto get a very accurate measurement of the color at each pixel in the video,
+p60
+aVand then the way the color changes over time,
+p61
+aVand then we amplify those changes.
+p62
+aVWe make them bigger to create those types of enhanced videos, or magnified videos,
+p63
+aVthat actually show us those changes.
+p64
+aa(lp65
+VBut it turns out we can do that not just to show tiny changes in color,
+p66
+aVbut also tiny motions,
+p67
+aVand that's because the light that gets recorded in our cameras
+p68
+aVwill change not only if the color of the object changes,
+p69
+aVbut also if the object moves.
+p70
+aVSo this is my daughter when she was about two months old.
+p71
+aVIt's a video I recorded about three years ago.
+p72
+aVAnd as new parents, we all want to make sure our babies are healthy,
+p73
+aVthat they're breathing, that they're alive, of course.
+p74
+aVSo I too got one of those baby monitors
+p75
+aVso that I could see my daughter when she was asleep.
+p76
+aVAnd this is pretty much what you'll see with a standard baby monitor.
+p77
+aVYou can see the baby's sleeping, but  there's not too much information there.
+p78
+aVThere's not too much we can see.
+p79
+aVWouldn't it be better, or more informative, or more useful,
+p80
+aVif instead we could look at the view like this.
+p81
+aVSo here I took the motions and I magnified them 30 times,
+p82
+aVand then I could clearly see that my daughter was indeed alive and breathing.
+p83
+aV(Laughter)
+p84
+aVHere is a side-by-side comparison.
+p85
+aVSo again, in the source video, in the original video,
+p86
+aVthere's not too much we can see,
+p87
+aVbut once we magnify the motions, the breathing becomes much more visible.
+p88
+aVAnd it turns out, there's a lot of phenomena
+p89
+aVwe can reveal and magnify with our new motion microscope.
+p90
+aVWe can see how our veins and arteries are pulsing in our bodies.
+p91
+aVWe can see that our eyes are constantly moving
+p92
+aVin this wobbly motion.
+p93
+aVAnd that's actually my eye,
+p94
+aVand again this video was taken right after my daughter was born,
+p95
+aVso you can see I wasn't getting too much sleep. (Laughter)
+p96
+aVEven when a person is sitting still,
+p97
+aVthere's a lot of information we can extract
+p98
+aVabout their breathing patterns, small facial expressions.
+p99
+aVMaybe we could use those motions
+p100
+aVto tell us something about our thoughts or our emotions.
+p101
+aVWe can also magnify small mechanical movements,
+p102
+aVlike vibrations in engines,
+p103
+aVthat can help engineers detect and diagnose machinery problems,
+p104
+aVor see how our buildings and structures sway in the wind and react to forces.
+p105
+aVThose are all things that our society knows how to measure in various ways,
+p106
+aVbut measuring those motions is one thing,
+p107
+aVand actually seeing those motions as they happen
+p108
+aVis a whole different thing.
+p109
+aa(lp110
+VAnd ever since we discovered this new technology,
+p111
+aVwe made our code available online so that  others could use and experiment with it.
+p112
+aVIt's very simple to use.
+p113
+aVIt can work on your own videos.
+p114
+aVOur collaborators at Quanta Research even created this nice website
+p115
+aVwhere you can upload your videos and process them online,
+p116
+aVso even if you don't have any experience in computer science or programming,
+p117
+aVyou can still very easily experiment with this new microscope.
+p118
+aVAnd I'd like to show you just a couple of examples
+p119
+aVof what others have done with it.
+p120
+aa(lp121
+VSo this video was made by a YouTube user called Tamez85.
+p122
+aVI don't know who that user is,
+p123
+aVbut he, or she, used our code
+p124
+aVto magnify small belly movements during pregnancy.
+p125
+aVIt's kind of creepy.
+p126
+aV(Laughter)
+p127
+aVPeople have used it to magnify pulsing veins in their hands.
+p128
+aVAnd you know it's not real science unless you use guinea pigs,
+p129
+aVand apparently this guinea pig is called Tiffany,
+p130
+aVand this YouTube user claims it is the first rodent on Earth
+p131
+aVthat was motion-magnified.
+p132
+aa(lp133
+VYou can also do some art with it.
+p134
+aVSo this video was sent to me by a design student at Yale.
+p135
+aVShe wanted to see if there's any difference
+p136
+aVin the way her classmates move.
+p137
+aVShe made them all stand still, and then magnified their motions.
+p138
+aVIt's like seeing  still pictures come to life.
+p139
+aVAnd the nice thing with  all those examples
+p140
+aVis that we had nothing to do with them.
+p141
+aVWe just provided this new tool, a new way to look at the world,
+p142
+aVand then people find other interesting, new and creative ways of using it.
+p143
+aa(lp144
+VBut we didn't stop there.
+p145
+aVThis tool not only allows us to look at the world in a new way,
+p146
+aVit also redefines what we can do
+p147
+aVand pushes the limits of what we can do with our cameras.
+p148
+aVSo as scientists, we started wondering,
+p149
+aVwhat other types of physical phenomena produce tiny motions
+p150
+aVthat we could now use our cameras to measure?
+p151
+aVAnd one such phenomenon that we focused on recently is sound.
+p152
+aVSound, as we all know, is basically changes
+p153
+aVin air pressure that travel through the air.
+p154
+aVThose pressure waves hit objects and they create small vibrations in them,
+p155
+aVwhich is how we hear and how we record sound.
+p156
+aVBut it turns out that sound also produces visual motions.
+p157
+aVThose are motions that are not visible to us
+p158
+aVbut are visible to a camera with the right processing.
+p159
+aVSo here are two examples.
+p160
+aVThis is me demonstrating my great singing skills.
+p161
+aV(Singing)
+p162
+aV(Laughter)
+p163
+aVAnd I took a high-speed video of my throat while I was humming.
+p164
+aVAgain, if you stare at that video,
+p165
+aVthere's not too much you'll be able to see,
+p166
+aVbut once we magnify the motions 100 times, we can see all the motions and ripples
+p167
+aVin the neck that are involved in producing the sound.
+p168
+aVThat signal is there in that video.
+p169
+aa(lp170
+VWe also know that singers can break a wine glass
+p171
+aVif they hit the correct note.
+p172
+aVSo here, we're going to play a note
+p173
+aVthat's in the resonance frequency of that glass
+p174
+aVthrough a loudspeaker that's next to it.
+p175
+aVOnce we play that note and magnify the motions 250 times,
+p176
+aVwe can very clearly see  how the glass vibrates
+p177
+aVand resonates in response to the sound.
+p178
+aVIt's not something you're used to seeing every day.
+p179
+aVBut this made us think. It gave us this crazy idea.
+p180
+aVCan we actually invert this process and recover sound from video
+p181
+aVby analyzing the tiny vibrations that sound waves create in objects,
+p182
+aVand essentially convert those back into the sounds that produced them.
+p183
+aVIn this way, we can turn everyday objects into microphones.
+p184
+aa(lp185
+VSo that's exactly what we did.
+p186
+aVSo here's an empty bag of chips that was lying on a table,
+p187
+aVand we're going to turn that  bag of chips into a microphone
+p188
+aVby filming it with a video camera
+p189
+aVand analyzing the tiny motions that sound waves create in it.
+p190
+aVSo here's the sound that we played in the room.
+p191
+aa(lp192
+V(Music: "Mary Had a Little Lamb")
+p193
+aa(lp194
+VAnd this is a high-speed video we recorded of that bag of chips.
+p195
+aVAgain it's playing.
+p196
+aVThere's no chance you'll be able to see anything going on in that video
+p197
+aVjust by looking at it,
+p198
+aVbut here's the sound we were able to recover just by analyzing
+p199
+aVthe tiny motions in that video.
+p200
+aa(lp201
+V(Music: "Mary Had a Little Lamb")
+p202
+aa(lp203
+VI call it \u2014 Thank you.
+p204
+aV(Applause)
+p205
+aVI call it the visual microphone.
+p206
+aVWe actually extract audio signals from video signals.
+p207
+aVAnd just to give you a sense of the scale of the motions here,
+p208
+aVa pretty loud sound will cause that bag of chips to move less than a micrometer.
+p209
+aVThat's one thousandth of a millimeter.
+p210
+aVThat's how tiny the motions are that we are now able to pull out
+p211
+aVjust by observing how light bounces off objects
+p212
+aVand gets recorded by our cameras.
+p213
+aa(lp214
+VWe can recover sounds from other objects, like plants.
+p215
+aa(lp216
+V(Music: "Mary Had a Little Lamb")
+p217
+aa(lp218
+VAnd we can recover speech as well.
+p219
+aVSo here's a person speaking in a room.
+p220
+aa(lp221
+VVoice: Mary had a little lamb whose fleece was white as snow,
+p222
+aVand everywhere that Mary went, that lamb was sure to go.
+p223
+aa(lp224
+VMichael Rubinstein: And here's that speech again recovered
+p225
+aVjust from this video of that same bag of chips.
+p226
+aa(lp227
+VVoice: Mary had a little lamb whose fleece was white as snow,
+p228
+aVand everywhere that Mary went, that lamb was sure to go.
+p229
+aa(lp230
+VMR: We used "Mary Had a Little Lamb"
+p231
+aVbecause those are said to be the first words
+p232
+aVthat Thomas Edison spoke  into his phonograph in 1877.
+p233
+aVIt was one of the first sound recording devices in history.
+p234
+aVIt basically directed the sounds onto a diaphragm
+p235
+aVthat vibrated a needle that essentially engraved the sound on tinfoil
+p236
+aVthat was wrapped around the cylinder.
+p237
+aa(lp238
+VHere's a demonstration of recording and  replaying sound with Edison's phonograph.
+p239
+aa(lp240
+V(Video) Voice: Testing, testing, one two three.
+p241
+aVMary had a little lamb whose fleece was white as snow,
+p242
+aVand everywhere that Mary went, the lamb was sure to go.
+p243
+aVTesting, testing, one two three.
+p244
+aVMary had a little lamb whose fleece was white as snow,
+p245
+aVand everywhere that Mary went, the lamb was sure to go.
+p246
+aa(lp247
+VMR: And now, 137 years later,
+p248
+aVwe're able to get sound in pretty much similar quality
+p249
+aVbut by just watching objects vibrate to sound with cameras,
+p250
+aVand we can even do that when the camera
+p251
+aVis 15 feet away from the object, behind soundproof glass.
+p252
+aa(lp253
+VSo this is the sound that we were  able to recover in that case.
+p254
+aa(lp255
+VVoice: Mary had a little lamb whose fleece was white as snow,
+p256
+aVand everywhere that Mary went, the lamb was sure to go.
+p257
+aa(lp258
+VMR: And of course, surveillance is the first application that comes to mind.
+p259
+aV(Laughter)
+p260
+aVBut it might actually be useful for other things as well.
+p261
+aVMaybe in the future, we'll be able to use it, for example,
+p262
+aVto recover sound across space,
+p263
+aVbecause sound can't travel in space, but light can.
+p264
+aa(lp265
+VWe've only just begun exploring
+p266
+aVother possible uses for this new technology.
+p267
+aVIt lets us see physical processes that we know are there
+p268
+aVbut that we've never been able to see with our own eyes until now.
+p269
+aa(lp270
+VThis is our team.
+p271
+aVEverything I showed you today is a result of a collaboration
+p272
+aVwith this great group of people you see here,
+p273
+aVand I encourage you and welcome you to check out our website,
+p274
+aVtry it out yourself,
+p275
+aVand join us in exploring this world of tiny motions.
+p276
+aa(lp277
+VThank you.
+p278
+aa(lp279
+V(Applause)
+p280
+aasS'id'
+p281
+I2159
+sS'title'
+p282
+VSee invisible motion, hear silent sounds
+p283
+s.

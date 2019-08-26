@@ -1,0 +1,803 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo, people argue vigorously about the definition of life.
+p4
+aVThey ask if it should have reproduction in it, or metabolism, or evolution.
+p5
+aVAnd I don't know the answer to that, so I'm not going to tell you.
+p6
+aVI will say that life involves computation.
+p7
+aVSo this is a computer program.
+p8
+aVBooted up in a cell, the program would execute,
+p9
+aVand it could result in this person;
+p10
+aVor with a small change, it could result in this person;
+p11
+aVor another small change, this person;
+p12
+aVor with a larger change, this dog,
+p13
+aVor this tree, or this whale.
+p14
+aa(lp15
+VSo now, if you take this metaphor
+p16
+aV[of] genome as program seriously,
+p17
+aVyou have to consider that Chris Anderson
+p18
+aVis a computer-fabricated artifact, as is Jim Watson,
+p19
+aVCraig Venter, as are all of us.
+p20
+aVAnd in convincing yourself that this metaphor is true,
+p21
+aVthere are lots of similarities between genetic programs
+p22
+aVand computer programs that could help to convince you.
+p23
+aVBut one, to me, that's most compelling
+p24
+aVis the peculiar sensitivity to small changes
+p25
+aVthat can make large changes in biological development \u2014 the output.
+p26
+aVA small mutation can take a two-wing fly
+p27
+aVand make it a four-wing fly.
+p28
+aVOr it could take a fly and put legs where its antennae should be.
+p29
+aVOr if you're familiar with "The Princess Bride,"
+p30
+aVit could create a six-fingered man.
+p31
+aa(lp32
+VNow, a hallmark of computer programs
+p33
+aVis just this kind of sensitivity to small changes.
+p34
+aVIf your bank account's one dollar, and you flip a single bit,
+p35
+aVyou could end up with a thousand dollars.
+p36
+aVSo these small changes are things that I think
+p37
+aVthat \u2014 they indicate to us that a complicated computation
+p38
+aVin development is underlying these amplified, large changes.
+p39
+aa(lp40
+VSo now, all of this indicates that there are molecular programs underlying biology,
+p41
+aVand it shows the power of molecular programs \u2014 biology does.
+p42
+aVAnd what I want to do is write molecular programs,
+p43
+aVpotentially to build technology.
+p44
+aVAnd there are a lot of people doing this,
+p45
+aVa lot of synthetic biologists doing this, like Craig Venter.
+p46
+aVAnd they concentrate on using cells.
+p47
+aVThey're cell-oriented.
+p48
+aVSo my friends, molecular programmers, and I
+p49
+aVhave a sort of biomolecule-centric approach.
+p50
+aVWe're interested in using DNA, RNA and protein,
+p51
+aVand building new languages for building things from the bottom up,
+p52
+aVusing biomolecules,
+p53
+aVpotentially having nothing to do with biology.
+p54
+aVSo, these are all the machines in a cell.
+p55
+aVThere's a camera.
+p56
+aVThere's the solar panels of the cell,
+p57
+aVsome switches that turn your genes on and off,
+p58
+aVthe girders of the cell, motors that move your muscles.
+p59
+aVMy little group of molecular programmers
+p60
+aVare trying to refashion all of these parts from DNA.
+p61
+aVWe're not DNA zealots, but DNA is the cheapest,
+p62
+aVeasiest to understand and easy to program material to do this.
+p63
+aVAnd as other things become easier to use \u2014
+p64
+aVmaybe protein \u2014 we'll work with those.
+p65
+aa(lp66
+VIf we succeed, what will molecular programming look like?
+p67
+aVYou're going to sit in front of your computer.
+p68
+aVYou're going to design something like a cell phone,
+p69
+aVand in a high-level language, you'll describe that cell phone.
+p70
+aVThen you're going to have a compiler
+p71
+aVthat's going to take that description
+p72
+aVand it's going to turn it into actual molecules
+p73
+aVthat can be sent to a synthesizer
+p74
+aVand that synthesizer will pack those molecules into a seed.
+p75
+aVAnd what happens if you water and feed that seed appropriately,
+p76
+aVis it will do a developmental computation,
+p77
+aVa molecular computation, and it'll build an electronic computer.
+p78
+aVAnd if I haven't revealed my prejudices already,
+p79
+aVI think that life has been about molecular computers
+p80
+aVbuilding electrochemical computers,
+p81
+aVbuilding electronic computers,
+p82
+aVwhich together with electrochemical computers
+p83
+aVwill build new molecular computers,
+p84
+aVwhich will build new electronic computers, and so forth.
+p85
+aa(lp86
+VAnd if you buy all of this,
+p87
+aVand you think life is about computation, as I do,
+p88
+aVthen you look at big questions through the eyes of a computer scientist.
+p89
+aVSo one big question is, how does a baby know when to stop growing?
+p90
+aVAnd for molecular programming,
+p91
+aVthe question is how does your cell phone know when to stop growing?
+p92
+aV(Laughter)
+p93
+aVOr how does a computer program know when to stop running?
+p94
+aVOr more to the point, how do you know if a program will ever stop?
+p95
+aVThere are other questions like this, too.
+p96
+aVOne of them is Craig Venter's question.
+p97
+aVTurns out I think he's actually a computer scientist.
+p98
+aVHe asked, how big is the minimal genome
+p99
+aVthat will give me a functioning microorganism?
+p100
+aVHow few genes can I use?
+p101
+aVThis is exactly analogous to the question,
+p102
+aVwhat's the smallest program I can write
+p103
+aVthat will act exactly like Microsoft Word?
+p104
+aV(Laughter)
+p105
+aVAnd just as he's writing, you know, bacteria that will be smaller,
+p106
+aVhe's writing genomes that will work,
+p107
+aVwe could write smaller programs
+p108
+aVthat would do what Microsoft Word does.
+p109
+aa(lp110
+VBut for molecular programming, our question is,
+p111
+aVhow many molecules do we need to put in that seed to get a cell phone?
+p112
+aVWhat's the smallest number we can get away with?
+p113
+aVNow, these are big questions in computer science.
+p114
+aVThese are all complexity questions,
+p115
+aVand computer science tells us that these are very hard questions.
+p116
+aVAlmost \u2014 many of them are impossible.
+p117
+aVBut for some tasks, we can start to answer them.
+p118
+aVSo, I'm going to start asking those questions
+p119
+aVfor the DNA structures I'm going to talk about next.
+p120
+aVSo, this is normal DNA, what you think of as normal DNA.
+p121
+aVIt's double-stranded, it's a double helix,
+p122
+aVhas the As, Ts, Cs and Gs that pair to hold the strands together.
+p123
+aVAnd I'm going to draw it like this sometimes,
+p124
+aVjust so I don't scare you.
+p125
+aVWe want to look at individual strands and not think about the double helix.
+p126
+aVWhen we synthesize it, it comes single-stranded,
+p127
+aVso we can take the blue strand in one tube
+p128
+aVand make an orange strand in the other tube,
+p129
+aVand they're floppy when they're single-stranded.
+p130
+aVYou mix them together and they make a rigid double helix.
+p131
+aVNow for the last 25 years,
+p132
+aVNed Seeman and a bunch of his descendants
+p133
+aVhave worked very hard and made beautiful three-dimensional structures
+p134
+aVusing this kind of reaction of DNA strands coming together.
+p135
+aVBut a lot of their approaches, though elegant, take a long time.
+p136
+aVThey can take a couple of years, or it can be difficult to design.
+p137
+aa(lp138
+VSo I came up with a new method a couple of years ago
+p139
+aVI call DNA origami
+p140
+aVthat's so easy you could do it at home in your kitchen
+p141
+aVand design the stuff on a laptop.
+p142
+aVBut to do it, you need a long, single strand of DNA,
+p143
+aVwhich is technically very difficult to get.
+p144
+aVSo, you can go to a natural source.
+p145
+aVYou can look in this computer-fabricated artifact,
+p146
+aVand he's got a double-stranded genome \u2014 that's no good.
+p147
+aVYou look in his intestines. There are billions of bacteria.
+p148
+aVThey're no good either.
+p149
+aVDouble strand again, but inside them, they're infected with a virus
+p150
+aVthat has a nice, long, single-stranded genome
+p151
+aVthat we can fold like a piece of paper.
+p152
+aVAnd here's how we do it.
+p153
+aa(lp154
+VThis is part of that genome.
+p155
+aVWe add a bunch of short, synthetic DNAs that I call staples.
+p156
+aVEach one has a left half that binds the long strand in one place,
+p157
+aVand a right half that binds it in a different place,
+p158
+aVand brings the long strand together like this.
+p159
+aVThe net action of many of these on that long strand
+p160
+aVis to fold it into something like a rectangle.
+p161
+aa(lp162
+VNow, we can't actually take a movie of this process,
+p163
+aVbut Shawn Douglas at Harvard
+p164
+aVhas made a nice visualization for us
+p165
+aVthat begins with a long strand and has some short strands in it.
+p166
+aVAnd what happens is that we mix these strands together.
+p167
+aVWe heat them up, we add a little bit of salt,
+p168
+aVwe heat them up to almost boiling and cool them down,
+p169
+aVand as we cool them down,
+p170
+aVthe short strands bind the long strands
+p171
+aVand start to form structure.
+p172
+aVAnd you can see a little bit of double helix forming there.
+p173
+aVWhen you look at DNA origami,
+p174
+aVyou can see that what it really is,
+p175
+aVeven though you think it's complicated,
+p176
+aVis a bunch of double helices that are parallel to each other,
+p177
+aVand they're held together
+p178
+aVby places where short strands go along one helix
+p179
+aVand then jump to another one.
+p180
+aVSo there's a strand that goes like this, goes along one helix and binds \u2014
+p181
+aVit jumps to another helix and comes back.
+p182
+aVThat holds the long strand like this.
+p183
+aa(lp184
+VNow, to show that we could make any shape or pattern
+p185
+aVthat we wanted, I tried to make this shape.
+p186
+aVI wanted to fold DNA into something that goes up over the eye,
+p187
+aVdown the nose, up the nose, around the forehead,
+p188
+aVback down and end in a little loop like this.
+p189
+aVAnd so, I thought, if this could work, anything could work.
+p190
+aVSo I had the computer program design the short staples to do this.
+p191
+aVI ordered them; they came by FedEx.
+p192
+aVI mixed them up, heated them, cooled them down,
+p193
+aVand I got 50 billion little smiley faces
+p194
+aVfloating around in a single drop of water.
+p195
+aVAnd each one of these is just
+p196
+aVone-thousandth the width of a human hair, OK?
+p197
+aa(lp198
+VSo, they're all floating around in solution, and to look at them,
+p199
+aVyou have to get them on a surface where they stick.
+p200
+aVSo, you pour them out onto a surface
+p201
+aVand they start to stick to that surface,
+p202
+aVand we take a picture using an atomic-force microscope.
+p203
+aVIt's got a needle, like a record needle,
+p204
+aVthat goes back and forth over the surface,
+p205
+aVbumps up and down, and feels the height of the first surface.
+p206
+aVIt feels the DNA origami.
+p207
+aVThere's the atomic-force microscope working
+p208
+aVand you can see that the landing's a little rough.
+p209
+aVWhen you zoom in, they've got, you know,
+p210
+aVweak jaws that flip over their heads
+p211
+aVand some of their noses get punched out, but it's pretty good.
+p212
+aVYou can zoom in and even see the extra little loop,
+p213
+aVthis little nano-goatee.
+p214
+aa(lp215
+VNow, what's great about this is anybody can do this.
+p216
+aVAnd so, I got this in the mail about a year after I did this, unsolicited.
+p217
+aVAnyone know what this is? What is it?
+p218
+aVIt's China, right?
+p219
+aVSo, what happened is, a graduate student in China,
+p220
+aVLulu Qian, did a great job.
+p221
+aVShe wrote all her own software
+p222
+aVto design and built this DNA origami,
+p223
+aVa beautiful rendition of China, which even has Taiwan,
+p224
+aVand you can see it's sort of on the world's shortest leash, right?
+p225
+aV(Laughter)
+p226
+aVSo, this works really well
+p227
+aVand you can make patterns as well as shapes, OK?
+p228
+aVAnd you can make a map of the Americas and spell DNA with DNA.
+p229
+aa(lp230
+VAnd what's really neat about it \u2014
+p231
+aVwell, actually, this all looks like nano-artwork,
+p232
+aVbut it turns out that nano-artwork
+p233
+aVis just what you need to make nano-circuits.
+p234
+aVSo, you can put circuit components on the staples,
+p235
+aVlike a light bulb and a light switch.
+p236
+aVLet the thing assemble, and you'll get some kind of a circuit.
+p237
+aVAnd then you can maybe wash the DNA away and have the circuit left over.
+p238
+aVSo, this is what some colleagues of mine at Caltech did.
+p239
+aVThey took a DNA origami, organized some carbon nano-tubes,
+p240
+aVmade a little switch, you see here, wired it up,
+p241
+aVtested it and showed that it is indeed a switch.
+p242
+aVNow, this is just a single switch
+p243
+aVand you need half a billion for a computer, so we have a long way to go.
+p244
+aVBut this is very promising
+p245
+aVbecause the origami can organize parts just one-tenth the size
+p246
+aVof those in a normal computer.
+p247
+aVSo it's very promising for making small computers.
+p248
+aa(lp249
+VNow, I want to get back to that compiler.
+p250
+aVThe DNA origami is a proof that that compiler actually works.
+p251
+aVSo, you start with something in the computer.
+p252
+aVYou get a high-level description of the computer program,
+p253
+aVa high-level description of the origami.
+p254
+aVYou can compile it to molecules, send it to a synthesizer,
+p255
+aVand it actually works.
+p256
+aVAnd it turns out that a company has made a nice program
+p257
+aVthat's much better than my code, which was kind of ugly,
+p258
+aVand will allow us to do this in a nice,
+p259
+aVvisual, computer-aided design way.
+p260
+aa(lp261
+VSo, now you can say, all right,
+p262
+aVwhy isn't DNA origami the end of the story?
+p263
+aVYou have your molecular compiler, you can do whatever you want.
+p264
+aVThe fact is that it does not scale.
+p265
+aVSo if you want to build a human from DNA origami,
+p266
+aVthe problem is, you need a long strand
+p267
+aVthat's 10 trillion trillion bases long.
+p268
+aVThat's three light years' worth of DNA,
+p269
+aVso we're not going to do this.
+p270
+aVWe're going to turn to another technology,
+p271
+aVcalled algorithmic self-assembly of tiles.
+p272
+aVIt was started by Erik Winfree,
+p273
+aVand what it does,
+p274
+aVit has tiles that are a hundredth the size of a DNA origami.
+p275
+aVYou zoom in, there are just four DNA strands
+p276
+aVand they have little single-stranded bits on them
+p277
+aVthat can bind to other tiles, if they match.
+p278
+aVAnd we like to draw these tiles as little squares.
+p279
+aVAnd if you look at their sticky ends, these little DNA bits,
+p280
+aVyou can see that they actually form a checkerboard pattern.
+p281
+aVSo, these tiles would make a complicated, self-assembling checkerboard.
+p282
+aVAnd the point of this, if you didn't catch that,
+p283
+aVis that tiles are a kind of molecular program
+p284
+aVand they can output patterns.
+p285
+aVAnd a really amazing part of this is
+p286
+aVthat any computer program can be translated
+p287
+aVinto one of these tile programs \u2014 specifically, counting.
+p288
+aVSo, you can come up with a set of tiles
+p289
+aVthat when they come together, form a little binary counter
+p290
+aVrather than a checkerboard.
+p291
+aVSo you can read off binary numbers five, six and seven.
+p292
+aa(lp293
+VAnd in order to get these kinds of computations started right,
+p294
+aVyou need some kind of input, a kind of seed.
+p295
+aVYou can use DNA origami for that.
+p296
+aVYou can encode the number 32
+p297
+aVin the right-hand side of a DNA origami,
+p298
+aVand when you add those tiles that count,
+p299
+aVthey will start to count \u2014 they will read that 32
+p300
+aVand they'll stop at 32.
+p301
+aVSo, what we've done is we've figured out a way
+p302
+aVto have a molecular program know when to stop going.
+p303
+aVIt knows when to stop growing because it can count.
+p304
+aVIt knows how big it is.
+p305
+aVSo, that answers that sort of first question I was talking about.
+p306
+aVIt doesn't tell us how babies do it, however.
+p307
+aa(lp308
+VSo now, we can use this counting to try and get at much bigger things
+p309
+aVthan DNA origami could otherwise.
+p310
+aVHere's the DNA origami, and what we can do
+p311
+aVis we can write 32 on both edges of the DNA origami,
+p312
+aVand we can now use our watering can
+p313
+aVand water with tiles, and we can start growing tiles off of that
+p314
+aVand create a square.
+p315
+aVThe counter serves as a template
+p316
+aVto fill in a square in the middle of this thing.
+p317
+aVSo, what we've done is we've succeeded
+p318
+aVin making something much bigger than a DNA origami
+p319
+aVby combining DNA origami with tiles.
+p320
+aVAnd the neat thing about it is, is that it's also reprogrammable.
+p321
+aVYou can just change a couple of the DNA strands in this binary representation
+p322
+aVand you'll get 96 rather than 32.
+p323
+aVAnd if you do that, the origami's the same size,
+p324
+aVbut the resulting square that you get is three times bigger.
+p325
+aa(lp326
+VSo, this sort of recapitulates
+p327
+aVwhat I was telling you about development.
+p328
+aVYou have a very sensitive computer program
+p329
+aVwhere small changes \u2014 single, tiny, little mutations \u2014
+p330
+aVcan take something that made one size square
+p331
+aVand make something very much bigger.
+p332
+aVNow, this \u2014 using counting to compute
+p333
+aVand build these kinds of things
+p334
+aVby this kind of developmental process
+p335
+aVis something that also has bearing on Craig Venter's question.
+p336
+aVSo, you can ask, how many DNA strands are required
+p337
+aVto build a square of a given size?
+p338
+aVIf we wanted to make a square of size 10, 100 or 1,000,
+p339
+aVif we used DNA origami alone,
+p340
+aVwe would require a number of DNA strands that's the square
+p341
+aVof the size of that square;
+p342
+aVso we'd need 100, 10,000 or a million DNA strands.
+p343
+aVThat's really not affordable.
+p344
+aVBut if we use a little computation \u2014
+p345
+aVwe use origami, plus some tiles that count \u2014
+p346
+aVthen we can get away with using 100, 200 or 300 DNA strands.
+p347
+aVAnd so we can exponentially reduce the number of DNA strands we use,
+p348
+aVif we use counting, if we use a little bit of computation.
+p349
+aVAnd so computation is some very powerful way
+p350
+aVto reduce the number of molecules you need to build something,
+p351
+aVto reduce the size of the genome that you're building.
+p352
+aa(lp353
+VAnd finally, I'm going to get back to that sort of crazy idea
+p354
+aVabout computers building computers.
+p355
+aVIf you look at the square that you build with the origami
+p356
+aVand some counters growing off it,
+p357
+aVthe pattern that it has is exactly the pattern that you need
+p358
+aVto make a memory.
+p359
+aVSo if you affix some wires and switches to those tiles \u2014
+p360
+aVrather than to the staple strands, you affix them to the tiles \u2014
+p361
+aVthen they'll self-assemble the somewhat complicated circuits,
+p362
+aVthe demultiplexer circuits, that you need to address this memory.
+p363
+aVSo you can actually make a complicated circuit
+p364
+aVusing a little bit of computation.
+p365
+aVIt's a molecular computer building an electronic computer.
+p366
+aVNow, you ask me, how far have we gotten down this path?
+p367
+aVExperimentally, this is what we've done in the last year.
+p368
+aVHere is a DNA origami rectangle,
+p369
+aVand here are some tiles growing from it.
+p370
+aVAnd you can see how they count.
+p371
+aVOne, two, three, four, five, six, nine, 10, 11, 12, 17.
+p372
+aVSo it's got some errors, but at least it counts up.
+p373
+aV(Laughter)
+p374
+aa(lp375
+VSo, it turns out we actually had this idea nine years ago,
+p376
+aVand that's about the time constant for how long it takes
+p377
+aVto do these kinds of things, so I think we made a lot of progress.
+p378
+aVWe've got ideas about how to fix these errors.
+p379
+aVAnd I think in the next five or 10 years,
+p380
+aVwe'll make the kind of squares that I described
+p381
+aVand maybe even get to some of those self-assembled circuits.
+p382
+aa(lp383
+VSo now, what do I want you to take away from this talk?
+p384
+aVI want you to remember that
+p385
+aVto create life's very diverse and complex forms,
+p386
+aVlife uses computation to do that.
+p387
+aVAnd the computations that it uses, they're molecular computations,
+p388
+aVand in order to understand this and get a better handle on it,
+p389
+aVas Feynman said, you know,
+p390
+aVwe need to build something to understand it.
+p391
+aVAnd so we are going to use molecules and refashion this thing,
+p392
+aVrebuild everything from the bottom up,
+p393
+aVusing DNA in ways that nature never intended,
+p394
+aVusing DNA origami,
+p395
+aVand DNA origami to seed this algorithmic self-assembly.
+p396
+aa(lp397
+VYou know, so this is all very cool,
+p398
+aVbut what I'd like you to take from the talk,
+p399
+aVhopefully from some of those big questions,
+p400
+aVis that this molecular programming isn't just about making gadgets.
+p401
+aVIt's not just making about \u2014
+p402
+aVit's making self-assembled cell phones and circuits.
+p403
+aVWhat it's really about is taking computer science
+p404
+aVand looking at big questions in a new light,
+p405
+aVasking new versions of those big questions
+p406
+aVand trying to understand how biology
+p407
+aVcan make such amazing things. Thank you.
+p408
+aV(Applause)
+p409
+aasS'id'
+p410
+I331
+sS'title'
+p411
+VDNA folding, in detail
+p412
+s.

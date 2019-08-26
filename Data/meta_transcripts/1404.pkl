@@ -1,0 +1,278 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThis may sound strange,
+p4
+aVbut I'm a big fan of the concrete block.
+p5
+aVThe first concrete blocks were manufactured in 1868
+p6
+aVwith a very simple idea:
+p7
+aVmodules made of cement of a fixed measurement
+p8
+aVthat fit together.
+p9
+aVVery quickly concrete blocks became
+p10
+aVthe most-used construction unit in the world.
+p11
+aVThey enabled us to to build things that were larger than us,
+p12
+aVbuildings, bridges,
+p13
+aVone brick at a time.
+p14
+aVEssentially concrete blocks had become
+p15
+aVthe building block of our time.
+p16
+aa(lp17
+VAlmost a hundred years later in 1947,
+p18
+aVLEGO came up with this.
+p19
+aVIt was called the Automatic Binding Brick.
+p20
+aVAnd in a few short years,
+p21
+aVLEGO bricks took place in every household.
+p22
+aVIt's estimated that over 400 billion bricks have been produced \u2014
+p23
+aVor 75 bricks for every person on the planet.
+p24
+aVYou don't have to be an engineer
+p25
+aVto make beautiful houses, beautiful bridges, beautiful buildings.
+p26
+aVLEGO made it accessible.
+p27
+aVLEGO has essentially taken the concrete block, the building block of the world,
+p28
+aVand made it into the building block
+p29
+aVof our imagination.
+p30
+aa(lp31
+VMeanwhile the exact same year,
+p32
+aVat Bell Labs the next revolution was about to be announced,
+p33
+aVthe next building block.
+p34
+aVThe transistor was a small plastic unit
+p35
+aVthat would take us from a world
+p36
+aVof static bricks piled on top of each other
+p37
+aVto a world where everything was interactive.
+p38
+aVLike the concrete block,
+p39
+aVthe transistor allows you to build
+p40
+aVmuch larger, more complex circuits, one brick at a time.
+p41
+aa(lp42
+VBut there's a main difference:
+p43
+aVThe transistor was only for experts.
+p44
+aVI personally don't accept this,
+p45
+aVthat the building block of our time
+p46
+aVis reserved for experts,
+p47
+aVso I decided to change that.
+p48
+aVEight years ago when I was at the Media Lab,
+p49
+aVI started exploring this idea
+p50
+aVof how to put the power of engineers
+p51
+aVin the hands of artists and designers.
+p52
+aa(lp53
+VA few years ago I started developing littleBits.
+p54
+aVLet me show you how they work.
+p55
+aVLittleBits are electronic modules
+p56
+aVwith each one specific function.
+p57
+aVThey're pre-engineered
+p58
+aVto be light, sound,
+p59
+aVmotors and sensors.
+p60
+aVAnd the best part about it
+p61
+aVis they snap together with magnets.
+p62
+aVSo you can't put them the wrong way.
+p63
+aVThe bricks are color-coded.
+p64
+aVGreen is output, blue is power,
+p65
+aVpink is input and orange is wire.
+p66
+aVSo all you need to do is snap a blue to a green
+p67
+aVand very quickly you can start making larger circuits.
+p68
+aVYou put a blue to a green,
+p69
+aVyou can make light.
+p70
+aVYou can put a knob in between
+p71
+aVand now you've made a little dimmer.
+p72
+aVSwitch out the knob
+p73
+aVfor a pulse module,
+p74
+aVwhich is here,
+p75
+aVand now you've made a little blinker.
+p76
+aVAdd this buzzer
+p77
+aVfor some extra punch
+p78
+aVand you've created a noise machine.
+p79
+aVI'm going to stop that.
+p80
+aa(lp81
+VSo beyond simple play,
+p82
+aVlittleBits are actually pretty powerful.
+p83
+aVInstead of having to program, to wire, to solder,
+p84
+aVlittleBits allow you to program
+p85
+aVusing very simple intuitive gestures.
+p86
+aVSo to make this blink faster or slower,
+p87
+aVyou would just turn this knob
+p88
+aVand basically make it pulse faster or slower.
+p89
+aVThe idea behind littleBits
+p90
+aVis that it's a growing library.
+p91
+aVWe want to make every single interaction in the world
+p92
+aVinto a ready-to-use brick.
+p93
+aVLights, sounds, solar panels, motors \u2014
+p94
+aVeverything should be accessible.
+p95
+aa(lp96
+VWe've been giving littleBits to kids and seeing them play with them.
+p97
+aVAnd it's been an incredible experience.
+p98
+aVThe nicest thing is how they start to understand
+p99
+aVthe electronics around them from everyday
+p100
+aVthat they don't learn at schools.
+p101
+aVFor example, how a nightlight works,
+p102
+aVor why an elevator door stays open,
+p103
+aVor how an iPod responds to touch.
+p104
+aVWe've also been taking littleBits to design schools.
+p105
+aVSo for example, we've had designers
+p106
+aVwith no experience with electronics whatsoever
+p107
+aVstart to play with littleBits as a material.
+p108
+aVHere you see, with felt and paper water bottles,
+p109
+aVwe have Geordie making ...
+p110
+aa(lp111
+V(Clanging)
+p112
+aa(lp113
+V(Buzzing)
+p114
+aa(lp115
+VA few weeks ago we took littleBits to RISD
+p116
+aVand gave them to some designers
+p117
+aVwith no experience in engineering whatsoever \u2014
+p118
+aVjust cardboard, wood and paper \u2014 and told them "Make something."
+p119
+aVHere's an example of a project they made,
+p120
+aVa motion-activated confetti canon ball.
+p121
+aV(Laughter)
+p122
+aVBut wait, this is actually my favorite project.
+p123
+aVIt's a lobster made of playdough
+p124
+aVthat's afraid of the dark.
+p125
+aa(lp126
+V(Laughter)
+p127
+aa(lp128
+VTo these non-engineers, littleBits became another material,
+p129
+aVelectronics became just another material.
+p130
+aVAnd we want to make this material accessible to everyone.
+p131
+aVSo littleBits is open-source.
+p132
+aVYou can go on the website, download all the design files, make them yourself.
+p133
+aVWe want to encourage a world
+p134
+aVof creators, of inventors, of contributors,
+p135
+aVbecause this world that we live in,
+p136
+aVthis interactive world, is ours.
+p137
+aVSo go ahead and start inventing.
+p138
+aa(lp139
+VThank you.
+p140
+aa(lp141
+V(Applause)
+p142
+aasS'id'
+p143
+I1404
+sS'title'
+p144
+VBuilding blocks that blink, beep and teach
+p145
+s.

@@ -1,0 +1,745 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VToday I want to talk to you about the mathematics of love.
+p4
+aVNow, I think that we can all agree
+p5
+aVthat mathematicians are famously excellent at finding love.
+p6
+aa(lp7
+V(Laughter)
+p8
+aa(lp9
+VBut it's not just because of our dashing personalities,
+p10
+aVsuperior conversational skills and excellent pencil cases.
+p11
+aVIt's also because we've actually done an awful lot of work into the maths
+p12
+aVof how to find the perfect partner.
+p13
+aa(lp14
+VNow, in my favorite paper on the subject, which is entitled,
+p15
+aV"Why I Don't Have a Girlfriend" \u2014
+p16
+aa(lp17
+V(Laughter)
+p18
+aa(lp19
+VPeter Backus tries to rate his chances of finding love.
+p20
+aVNow, Peter's not a very greedy man.
+p21
+aVOf all of the available women in the UK,
+p22
+aVall Peter's looking for is somebody who lives near him,
+p23
+aVsomebody in the right age range,
+p24
+aVsomebody with a university degree,
+p25
+aVsomebody he's likely to get on well with,
+p26
+aVsomebody who's likely to be attractive,
+p27
+aVsomebody who's likely to find him attractive.
+p28
+aa(lp29
+V(Laughter)
+p30
+aa(lp31
+VAnd comes up with an estimate of 26 women in the whole of the UK.
+p32
+aa(lp33
+V(Laughter)
+p34
+aa(lp35
+VIt's not looking very good, is it Peter?
+p36
+aVNow, just to put that into perspective,
+p37
+aVthat's about 400 times fewer than the best estimates
+p38
+aVof how many intelligent extraterrestrial life forms there are.
+p39
+aVAnd it also gives Peter a 1 in 285,000 chance
+p40
+aVof bumping into any one of these special ladies
+p41
+aVon a given night out.
+p42
+aVI'd like to think that's why mathematicians
+p43
+aVdon't really bother going on nights out anymore.
+p44
+aa(lp45
+VThe thing is that I personally don't subscribe
+p46
+aVto such a pessimistic view.
+p47
+aVBecause I know, just as well as all of you do,
+p48
+aVthat love doesn't really work like that.
+p49
+aVHuman emotion isn't neatly ordered and rational and easily predictable.
+p50
+aVBut I also know that that doesn't mean
+p51
+aVthat mathematics hasn't got something that it can offer us,
+p52
+aVbecause, love, as with most of life, is full of patterns
+p53
+aVand mathematics is, ultimately, all about the study of patterns.
+p54
+aVPatterns from predicting the weather to the fluctuations in the stock market,
+p55
+aVto the movement of the planets or the growth of cities.
+p56
+aVAnd if we're being honest, none of those things
+p57
+aVare exactly neatly ordered and easily predictable, either.
+p58
+aVBecause I believe that mathematics is so powerful that it has the potential
+p59
+aVto offer us a new way of looking at almost anything.
+p60
+aVEven something as mysterious as love.
+p61
+aVAnd so, to try to persuade you
+p62
+aVof how totally amazing, excellent and relevant mathematics is,
+p63
+aVI want to give you my top three mathematically verifiable tips for love.
+p64
+aa(lp65
+V(Laughter)
+p66
+aa(lp67
+VOK, so Top Tip #1:
+p68
+aVHow to win at online dating.
+p69
+aVSo my favorite online dating website is OkCupid,
+p70
+aVnot least because it was started by a group of mathematicians.
+p71
+aVNow, because they're mathematicians,
+p72
+aVthey have been collecting data
+p73
+aVon everybody who uses their site for almost a decade.
+p74
+aVAnd they've been trying to search for patterns
+p75
+aVin the way that we talk about ourselves
+p76
+aVand the way that we interact with each other
+p77
+aVon an online dating website.
+p78
+aVAnd they've come up with some seriously interesting findings.
+p79
+aVBut my particular favorite
+p80
+aVis that it turns out that on an online dating website,
+p81
+aVhow attractive you are does not dictate how popular you are,
+p82
+aVand actually, having people think that you're ugly
+p83
+aVcan work to your advantage.
+p84
+aa(lp85
+V(Laughter)
+p86
+aa(lp87
+VLet me show you how this works.
+p88
+aVIn a thankfully voluntary section of OkCupid,
+p89
+aVyou are allowed to rate how attractive you think people are
+p90
+aVon a scale between one and five.
+p91
+aVNow, if we compare this score, the average score,
+p92
+aVto how many messages a selection of people receive,
+p93
+aVyou can begin to get a sense
+p94
+aVof how attractiveness links to popularity on an online dating website.
+p95
+aa(lp96
+VThis is the graph the OkCupid guys have come up with.
+p97
+aVAnd the important thing to notice is that it's not totally true
+p98
+aVthat the more attractive you are, the more messages you get.
+p99
+aVBut the question arises then of what is it about people up here
+p100
+aVwho are so much more popular than people down here,
+p101
+aVeven though they have the same score of attractiveness?
+p102
+aVAnd the reason why is that it's not just straightforward looks that are important.
+p103
+aVSo let me try to illustrate their findings with an example.
+p104
+aVSo if you take someone like Portia de Rossi, for example,
+p105
+aVeverybody agrees that Portia de Rossi is a very beautiful woman.
+p106
+aVNobody thinks that she's ugly, but she's not a supermodel, either.
+p107
+aVIf you compare Portia de Rossi to someone like Sarah Jessica Parker,
+p108
+aVnow, a lot of people, myself included, I should say,
+p109
+aVthink that Sarah Jessica Parker is seriously fabulous
+p110
+aVand possibly one of the most beautiful creatures
+p111
+aVto have ever have walked on the face of the Earth.
+p112
+aVBut some other people, i.e., most of the Internet ...
+p113
+aa(lp114
+V(Laughter)
+p115
+aa(lp116
+Vseem to think that she looks a bit like a horse.
+p117
+aa(lp118
+V(Laughter)
+p119
+aa(lp120
+VNow, I think that if you ask people how attractive they thought
+p121
+aVJessica Parker or Portia de Rossi were,
+p122
+aVand you ask them to give them a score between one and five
+p123
+aVI reckon that they'd average out to have roughly the same score.
+p124
+aVBut the way that people would vote would be very different.
+p125
+aVSo Portia's scores would all be clustered around the four
+p126
+aVbecause everybody agrees that she's very beautiful,
+p127
+aVwhereas Sarah Jessica Parker completely divides opinion.
+p128
+aVThere'd be a huge spread in her scores.
+p129
+aVAnd actually it's this spread that counts.
+p130
+aVIt's this spread that makes you more popular
+p131
+aVon an online Internet dating website.
+p132
+aVSo what that means then
+p133
+aVis that if some people think that you're attractive,
+p134
+aVyou're actually better off
+p135
+aVhaving some other people think that you're a massive minger.
+p136
+aVThat's much better than everybody just thinking
+p137
+aVthat you're the cute girl next door.
+p138
+aa(lp139
+VNow, I think this begins to make a bit more sense
+p140
+aVwhen you think in terms of the people who are sending these messages.
+p141
+aVSo let's say that you think somebody's attractive,
+p142
+aVbut you suspect that other people won't necessarily be that interested.
+p143
+aVThat means there's less competition for you
+p144
+aVand it's an extra incentive for you to get in touch.
+p145
+aVWhereas compare that to if you think somebody is attractive
+p146
+aVbut you suspect that everybody is going to think they're attractive.
+p147
+aVWell, why would you bother humiliating yourself, let's be honest?
+p148
+aVBut here's where the really interesting part comes.
+p149
+aVBecause when people choose the pictures that they use on an online dating website,
+p150
+aVthey often try to minimize the things
+p151
+aVthat they think some people will find unattractive.
+p152
+aVThe classic example is people who are, perhaps, a little bit overweight
+p153
+aVdeliberately choosing a very cropped photo,
+p154
+aa(lp155
+V(Laughter)
+p156
+aa(lp157
+Vor bald men, for example,
+p158
+aVdeliberately choosing pictures where they're wearing hats.
+p159
+aVBut actually this is the opposite of what you should do
+p160
+aVif you want to be successful.
+p161
+aVYou should really, instead,
+p162
+aVplay up to whatever it is that makes you different,
+p163
+aVeven if you think that some people will find it unattractive.
+p164
+aVBecause the people who fancy you are just going to fancy you anyway,
+p165
+aVand the unimportant losers who don't, well, they only play up to your advantage.
+p166
+aa(lp167
+VOK, Top Tip #2: How to pick the perfect partner.
+p168
+aVSo let's imagine then that you're a roaring success
+p169
+aVon the dating scene.
+p170
+aVBut the question arises of how do you then convert that success
+p171
+aVinto longer-term happiness,
+p172
+aVand in particular, how do you decide when is the right time to settle down?
+p173
+aVNow generally, it's not advisable to just cash in
+p174
+aVand marry the first person who comes along and shows you any interest at all.
+p175
+aVBut, equally, you don't really want to leave it too long
+p176
+aVif you want to maximize your chance of long-term happiness.
+p177
+aVAs my favorite author, Jane Austen, puts it,
+p178
+aV"An unmarried woman of seven and twenty
+p179
+aVcan never hope to feel or inspire affection again."
+p180
+aa(lp181
+V(Laughter)
+p182
+aa(lp183
+VThanks a lot, Jane.
+p184
+aVWhat do you know about love?
+p185
+aa(lp186
+V(Laughter)
+p187
+aa(lp188
+VSo the question is then,
+p189
+aVhow do you know when is the right time to settle down,
+p190
+aVgiven all the people that you can date in your lifetime?
+p191
+aVThankfully, there's a rather delicious bit of mathematics that we can use
+p192
+aVto help us out here, called optimal stopping theory.
+p193
+aVSo let's imagine, then,
+p194
+aVthat you start dating when you're 15
+p195
+aVand ideally, you'd like to be married by the time that you're 35.
+p196
+aVAnd there's a number of people
+p197
+aVthat you could potentially date across your lifetime,
+p198
+aVand they'll be at varying levels of goodness.
+p199
+aVNow the rules are that once you cash in and get married,
+p200
+aVyou can't look ahead to see what you could have had,
+p201
+aVand equally, you can't go back and change your mind.
+p202
+aVIn my experience at least,
+p203
+aVI find that typically people don't much like being recalled
+p204
+aVyears after being passed up for somebody else, or that's just me.
+p205
+aa(lp206
+VSo the math says then that what you should do
+p207
+aVin the first 37 percent of your dating window,
+p208
+aVyou should just reject everybody as serious marriage potential.
+p209
+aa(lp210
+V(Laughter)
+p211
+aa(lp212
+VAnd then, you should pick the next person that comes along
+p213
+aVthat is better than everybody that you've seen before.
+p214
+aVSo here's the example.
+p215
+aVNow if you do this, it can be mathematically proven, in fact,
+p216
+aVthat this is the best possible way
+p217
+aVof maximizing your chances of finding the perfect partner.
+p218
+aVNow unfortunately, I have to tell you that this method does come with some risks.
+p219
+aVFor instance, imagine if your perfect partner appeared
+p220
+aVduring your first 37 percent.
+p221
+aVNow, unfortunately, you'd have to reject them.
+p222
+aa(lp223
+V(Laughter)
+p224
+aa(lp225
+VNow, if you're following the maths,
+p226
+aVI'm afraid no one else comes along
+p227
+aVthat's better than anyone you've seen before,
+p228
+aVso you have to go on rejecting everyone and die alone.
+p229
+aa(lp230
+V(Laughter)
+p231
+aa(lp232
+VProbably surrounded by cats ...
+p233
+aa(lp234
+V(Laughter)
+p235
+aa(lp236
+Vnibbling at your remains.
+p237
+aa(lp238
+VOK, another risk is, let's imagine, instead,
+p239
+aVthat the first people that you dated in your first 37 percent
+p240
+aVare just incredibly dull, boring, terrible people.
+p241
+aVThat's OK, because you're in your rejection phase,
+p242
+aVso that's fine, you can reject them.
+p243
+aVBut then imagine the next person to come along
+p244
+aVis just marginally less boring, dull and terrible ...
+p245
+aa(lp246
+V(Laughter)
+p247
+aa(lp248
+Vthan everybody that you've seen before.
+p249
+aVNow, if you are following the maths, I'm afraid you have to marry them ...
+p250
+aa(lp251
+V(Laughter)
+p252
+aa(lp253
+Vand end up in a relationship which is, frankly, suboptimal.
+p254
+aVSorry about that.
+p255
+aVBut I do think that there's an opportunity here for Hallmark to cash in on
+p256
+aVand really cater for this market.
+p257
+aVA Valentine's Day card like this.
+p258
+aa(lp259
+V(Laughter)
+p260
+aa(lp261
+V"My darling husband, you are marginally less terrible
+p262
+aVthan the first 37 percent of people I dated."
+p263
+aa(lp264
+V(Laughter)
+p265
+aa(lp266
+VIt's actually more romantic than I normally manage.
+p267
+aa(lp268
+V(Laughter)
+p269
+aa(lp270
+VOK, so this method doesn't give you a 100 percent success rate,
+p271
+aVbut there's no other possible strategy that can do any better.
+p272
+aVAnd actually, in the wild, there are certain types of fish
+p273
+aVwhich follow and employ this exact strategy.
+p274
+aVSo they reject every possible suitor that turns up
+p275
+aVin the first 37 percent of the mating season,
+p276
+aVand then they pick the next fish that comes along after that window
+p277
+aVthat's, I don't know, bigger and burlier
+p278
+aVthan all of the fish that they've seen before.
+p279
+aVI also think that subconsciously, humans, we do sort of do this anyway.
+p280
+aVWe give ourselves a little bit of time to play the field,
+p281
+aVget a feel for the marketplace or whatever when we're young.
+p282
+aVAnd then we only start looking seriously at potential marriage candidates
+p283
+aVonce we hit our mid-to-late 20s.
+p284
+aVI think this is conclusive proof, if ever it were needed,
+p285
+aVthat everybody's brains are prewired to be just a little bit mathematical.
+p286
+aa(lp287
+VOK, so that was Top Tip #2.
+p288
+aVNow, Top Tip #3: How to avoid divorce.
+p289
+aVOK, so let's imagine then that you picked your perfect partner
+p290
+aVand you're settling into a lifelong relationship with them.
+p291
+aVNow, I like to think that everybody would ideally like to avoid divorce,
+p292
+aVapart from, I don't know, Piers Morgan's wife, maybe?
+p293
+aa(lp294
+V(Laughter)
+p295
+aa(lp296
+VBut it's a sad fact of modern life
+p297
+aVthat one in two marriages in the States ends in divorce,
+p298
+aVwith the rest of the world not being far behind.
+p299
+aVNow, you can be forgiven, perhaps
+p300
+aVfor thinking that the arguments that precede a marital breakup
+p301
+aVare not an ideal candidate for mathematical investigation.
+p302
+aVFor one thing, it's very hard to know
+p303
+aVwhat you should be measuring or what you should be quantifying.
+p304
+aVBut this didn't stop a psychologist, John Gottman, who did exactly that.
+p305
+aVGottman observed hundreds of couples having a conversation
+p306
+aVand recorded, well, everything you can think of.
+p307
+aVSo he recorded what was said in the conversation,
+p308
+aVhe recorded their skin conductivity,
+p309
+aVhe recorded their facial expressions,
+p310
+aVtheir heart rates, their blood pressure,
+p311
+aVbasically everything apart from whether or not the wife was actually always right,
+p312
+aVwhich incidentally she totally is.
+p313
+aVBut what Gottman and his team found
+p314
+aVwas that one of the most important predictors
+p315
+aVfor whether or not a couple is going to get divorced
+p316
+aVwas how positive or negative each partner was being in the conversation.
+p317
+aa(lp318
+VNow, couples that were very low-risk
+p319
+aVscored a lot more positive points on Gottman's scale than negative.
+p320
+aVWhereas bad relationships,
+p321
+aVby which I mean, probably going to get divorced,
+p322
+aVthey found themselves getting into a spiral of negativity.
+p323
+aVNow just by using these very simple ideas,
+p324
+aVGottman and his group were able to predict
+p325
+aVwhether a given couple was going to get divorced
+p326
+aVwith a 90 percent accuracy.
+p327
+aVBut it wasn't until he teamed up with a mathematician, James Murray,
+p328
+aVthat they really started to understand
+p329
+aVwhat causes these negativity spirals and how they occur.
+p330
+aVAnd the results that they found,
+p331
+aVI think, are just incredibly impressively simple and interesting.
+p332
+aVSo these equations predict how the wife or husband is going to respond
+p333
+aVin their next turn of the conversation,
+p334
+aVhow positive or negative they're going to be.
+p335
+aVAnd these equations depend on
+p336
+aVthe mood of the person when they're on their own,
+p337
+aVthe mood of the person when they're with their partner,
+p338
+aVbut most importantly, they depend on
+p339
+aVhow much the husband and wife influence one another.
+p340
+aa(lp341
+VNow, I think it's important to point out at this stage,
+p342
+aVthat these exact equations have also been shown
+p343
+aVto be perfectly able at describing
+p344
+aVwhat happens between two countries in an arms race.
+p345
+aa(lp346
+V(Laughter)
+p347
+aa(lp348
+VSo that an arguing couple spiraling into negativity
+p349
+aVand teetering on the brink of divorce
+p350
+aVis actually mathematically equivalent to the beginning of a nuclear war.
+p351
+aa(lp352
+V(Laughter)
+p353
+aa(lp354
+VBut the really important term in this equation
+p355
+aVis the influence that people have on one another,
+p356
+aVand in particular, something called "the negativity threshold."
+p357
+aVNow, the negativity threshold,
+p358
+aVyou can think of as how annoying the husband can be
+p359
+aVbefore the wife starts to get really pissed off, and vice versa.
+p360
+aVNow, I always thought that good marriages were about compromise and understanding
+p361
+aVand allowing the person to have the space to be themselves.
+p362
+aVSo I would have thought that perhaps the most successful relationships
+p363
+aVwere ones where there was a really high negativity threshold.
+p364
+aVWhere couples let things go
+p365
+aVand only brought things up if they really were a big deal.
+p366
+aVBut actually, the mathematics and subsequent findings by the team
+p367
+aVhave shown the exact opposite is true.
+p368
+aVThe best couples, or the most successful couples,
+p369
+aVare the ones with a really low negativity threshold.
+p370
+aVThese are the couples that don't let anything go unnoticed
+p371
+aVand allow each other some room to complain.
+p372
+aVThese are the couples that are continually trying to repair their own relationship,
+p373
+aVthat have a much more positive outlook on their marriage.
+p374
+aVCouples that don't let things go
+p375
+aVand couples that don't let trivial things end up being a really big deal.
+p376
+aa(lp377
+VNow of course, it takes a bit more than just a low negativity threshold
+p378
+aVand not compromising to have a successful relationship.
+p379
+aVBut I think that it's quite interesting
+p380
+aVto know that there is really mathematical evidence
+p381
+aVto say that you should never let the sun go down on your anger.
+p382
+aa(lp383
+VSo those are my top three tips
+p384
+aVof how maths can help you with love and relationships.
+p385
+aVBut I hope, that aside from their use as tips,
+p386
+aVthey also give you a little bit of insight into the power of mathematics.
+p387
+aVBecause for me, equations and symbols aren't just a thing.
+p388
+aVThey're a voice that speaks out about the incredible richness of nature
+p389
+aVand the startling simplicity
+p390
+aVin the patterns that twist and turn and warp and evolve all around us,
+p391
+aVfrom how the world works to how we behave.
+p392
+aVSo I hope that perhaps, for just a couple of you,
+p393
+aVa little bit of insight into the mathematics of love
+p394
+aVcan persuade you to have a little bit more love for mathematics.
+p395
+aa(lp396
+VThank you.
+p397
+aa(lp398
+V(Applause)
+p399
+aasS'id'
+p400
+I2153
+sS'title'
+p401
+VThe mathematics of love
+p402
+s.

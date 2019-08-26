@@ -1,0 +1,243 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThe filmmaker Georges Méliès was first a magician.
+p4
+aVNow movies proved to be the ultimate medium for magic.
+p5
+aVWith complete control of everything the audience can see,
+p6
+aVmoviemakers had developed an arsenal of techniques
+p7
+aVto further their deceptions.
+p8
+aa(lp9
+VMotion pictures are themselves an illusion of life,
+p10
+aVproduced by the sequential projection of still frames,
+p11
+aVand they astonished the Lumière brothers' early audiences.
+p12
+aVEven today's sophisticated moviegoers
+p13
+aVstill lose themselves to the screen,
+p14
+aVand filmmakers leverage this separation from reality
+p15
+aVto great effect.
+p16
+aVNow imaginative people have been having fun with this
+p17
+aVfor over 400 years.
+p18
+aVGiambattista della Porta, a Neapolitan scholar
+p19
+aVin the 16th century, examined and studied the natural world
+p20
+aVand saw how it could be manipulated.
+p21
+aVPlaying with the world, and our perception of it,
+p22
+aVreally is the essence of visual effects.
+p23
+aVSo digging deeper into this
+p24
+aVwith the Science and Technology Council
+p25
+aVof the Academy of Motion Picture Arts and Sciences
+p26
+aVreveals some truth behind the trickery.
+p27
+aa(lp28
+VVisual effects are based on the principles of all illusions:
+p29
+aVassumption, things are as we know them;
+p30
+aVpresumption, things will behave as we expect;
+p31
+aVand context in reality,
+p32
+aVour knowledge of the world as we know it,
+p33
+aVsuch as scale.
+p34
+aa(lp35
+VNow a fourth factor really becomes an obsession,
+p36
+aVwhich is, never betray the illusion.
+p37
+aVAnd that last point has made visual effects
+p38
+aVa constant quest for perfection.
+p39
+aVSo from the hand-cranked jump cut early days of cinema
+p40
+aVto last Sunday's Oscar winner, what follows are some steps
+p41
+aVand a few repeats in the evolution of visual effects.
+p42
+aVI hope you will enjoy.
+p43
+aa(lp44
+VIsabelle: "The filmmaker Georges Méliès
+p45
+aVwas one of the first to realize that
+p46
+aVfilms had the power
+p47
+aVto capture dreams."
+p48
+aa(lp49
+V(Music) ["'A Trip to the Moon' (1902)"]
+p50
+aa(lp51
+V["2011 Restoration of the Original Hand-Tinted Color"]
+p52
+aa(lp53
+V["'2001: A Space Odyssey' (1968)"]
+p54
+aa(lp55
+V["Academy Award Winner for Visual Effects"]
+p56
+aa(lp57
+V["'Avatar' (2009)"] First doctor: How are you feeling, Jake?
+p58
+aa(lp59
+VJake: Hey guys.
+p60
+aV["Academy Award Winner for Visual Effects"]
+p61
+aa(lp62
+VSecond doctor: Welcome to your new body, Jake.First doctor: Good.
+p63
+aa(lp64
+VSecond doctor: We're gonna take this nice and easy, Jake.First doctor: Well, do you want to sit up? That's fine.
+p65
+aa(lp66
+VSecond doctor: And good, just take it nice and slow, Jake.
+p67
+aa(lp68
+VWell, no truncal ataxia, that's good.First doctor: You feeling light-headed or dizzy at all?
+p69
+aVOh, you're wiggling your toes.
+p70
+aa(lp71
+V["'Alice's Adventures in Wonderland' (1972)"]
+p72
+aa(lp73
+VAlice: What's happening to me?
+p74
+aa(lp75
+V["'Alice in Wonderland' (2010)"]
+p76
+aa(lp77
+V["Academy Award Nominee for Visual Effects"]
+p78
+aa(lp79
+V["'The Lost World' (1925)"]
+p80
+aa(lp81
+V["Stop Motion Animation"]
+p82
+aa(lp83
+V["'Jurassic Park' (1993)"] [Dinosaur roars]
+p84
+aa(lp85
+V["CG Animation"]
+p86
+aa(lp87
+V["Academy Award Winner for Visual Effects"]
+p88
+aa(lp89
+V["'The Smurfs' (2011)"]
+p90
+aa(lp91
+V["Autodesk Maya Software - Key Frame Animation"]
+p92
+aa(lp93
+V["'Rise of the Planet of the Apes' (2011)"]
+p94
+aa(lp95
+VChimpanzee: No! ["Academy Award Nominee for Visual Effects"]
+p96
+aa(lp97
+V["'Metropolis' (1927)"]
+p98
+aa(lp99
+V(Music)
+p100
+aa(lp101
+V["'Blade Runner' (1982)"]
+p102
+aa(lp103
+V["Academy Award Nominee for Visual Effects"]
+p104
+aa(lp105
+V["'The Rains Came' (1939)"] Rama Safti: Well, it's all over.
+p106
+aa(lp107
+VMaharaja: Nothing to worry about, not a thing.
+p108
+aa(lp109
+V['Academy Award for Special Effects - (First Year of Category)"]
+p110
+aV(Explosion)
+p111
+aa(lp112
+V["'2012' (2009)"]Governor: It seems to me that the worst is over.
+p113
+aa(lp114
+V["CG Destruction"]
+p115
+aa(lp116
+V["'Lord of the Rings: The Return of the King' (2003)"]
+p117
+aa(lp118
+V["Massive Software - Crowd Generation"]
+p119
+aa(lp120
+V["Academy Award Winner for Visual Effects"]
+p121
+aa(lp122
+V["'Ben Hur: A Tale of the Christ' (1925)"]
+p123
+aa(lp124
+V["Miniatures and Puppets Bring the Crowd to Life"]
+p125
+aa(lp126
+V["'Gladiator' (2000)"]
+p127
+aa(lp128
+V["CG Coliseum and Digital Crowds"]
+p129
+aa(lp130
+V["Academy Award Winner for Visual Effects"]
+p131
+aa(lp132
+V["'Harry Potter and the Deathly Hallows Part 2' (2011)"]
+p133
+aa(lp134
+V["Academy Award Nominee for Visual Effects"]
+p135
+aa(lp136
+V["Produced in conjunction with the Academy's Science and Technology Council."]
+p137
+aa(lp138
+V(Applause)
+p139
+aa(lp140
+V["'It is today possible to realize the most impossible and improbable things.' \u2014 Georges Méliès"]
+p141
+aa(lp142
+VDon Levy: Thank you.
+p143
+aasS'id'
+p144
+I1639
+sS'title'
+p145
+VA cinematic journey through visual effects
+p146
+s.

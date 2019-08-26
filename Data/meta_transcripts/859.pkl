@@ -1,0 +1,896 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VGood afternoon.
+p4
+aVThere's a medical revolution happening all around us,
+p5
+aVand it's one that's going to help us conquer
+p6
+aVsome of society's most dreaded conditions,
+p7
+aVincluding cancer.
+p8
+aVThe revolution is called angiogenesis,
+p9
+aVand it's based on the process that our bodies use to grow blood vessels.
+p10
+aa(lp11
+VSo why should we care about blood vessels?
+p12
+aVWell, the human body is literally packed with them \u2014
+p13
+aV60,000 miles worth in a typical adult.
+p14
+aVEnd to end, that would form a line that would circle the earth twice.
+p15
+aVThe smallest blood vessels are called capillaries.
+p16
+aVWe've got 19 billion of them in our bodies.
+p17
+aVAnd these are the vessels of life,
+p18
+aVand as I'll show you, they can also be the vessels of death.
+p19
+aVNow, the remarkable thing about blood vessels
+p20
+aVis that they have this ability
+p21
+aVto adapt to whatever environment they're growing in.
+p22
+aVFor example, in the liver, they form channels to detoxify the blood;
+p23
+aVin the lungs, they line air sacs for gas exchange.
+p24
+aVIn muscle, they corkscrew,
+p25
+aVso that muscles can contract without cutting off circulation.
+p26
+aVAnd in nerves, they course along like power lines,
+p27
+aVkeeping those nerves alive.
+p28
+aa(lp29
+VWe get most of these blood vessels
+p30
+aVwhen we're actually still in the womb.
+p31
+aVAnd what that means is that as adults,
+p32
+aVblood vessels don't normally grow.
+p33
+aVExcept in a few special circumstances.
+p34
+aVIn women, blood vessels grow every month,
+p35
+aVto build the lining of the uterus.
+p36
+aVDuring pregnancy, they form the placenta,
+p37
+aVwhich connects mom and baby.
+p38
+aVAnd after injury, blood vessels actually have to grow under the scab
+p39
+aVin order to heal a wound.
+p40
+aVAnd this is actually what it looks like,
+p41
+aVhundreds of blood vessels, all growing toward the center of the wound.
+p42
+aa(lp43
+VSo the body has the ability to regulate
+p44
+aVthe amount of blood vessels that are present at any given time.
+p45
+aVIt does this through an elaborate and elegant system of checks and balances,
+p46
+aVstimulators and inhibitors of angiogenesis,
+p47
+aVsuch that, when we need a brief burst of blood vessels,
+p48
+aVthe body can do this by releasing stimulators,
+p49
+aVproteins called angiogenic factors,
+p50
+aVthat act as natural fertilizer, and stimulate new blood vessels to sprout.
+p51
+aVWhen those excess vessels are no longer needed,
+p52
+aVthe body prunes them back to baseline,
+p53
+aVusing naturally-occurring inhibitors of angiogenesis.
+p54
+aVThere are other situations where we start beneath the baseline,
+p55
+aVand we need to grow more blood vessels, just to get back to normal levels \u2014
+p56
+aVfor example, after an injury \u2014
+p57
+aVand the body can do that too, but only to that normal level,
+p58
+aVthat set point.
+p59
+aa(lp60
+VBut what we now know, is that for a number of diseases,
+p61
+aVthere are defects in the system,
+p62
+aVwhere the body can't prune back extra blood vessels,
+p63
+aVor can't grow enough new ones in the right place at the right time.
+p64
+aVAnd in these situations, angiogenesis is out of balance.
+p65
+aVAnd when angiogenesis is out of balance,
+p66
+aVa myriad of diseases result.
+p67
+aVFor example, insufficient angiogenesis \u2014 not enough blood vessels \u2014
+p68
+aVleads to wounds that don't heal, heart attacks,
+p69
+aVlegs without circulation, death from stroke,
+p70
+aVnerve damage.
+p71
+aVAnd on the other end, excessive angiogenesis \u2014
+p72
+aVtoo many blood vessels \u2014 drives disease,
+p73
+aVand we see this in cancer, blindness,
+p74
+aVarthritis, obesity, Alzheimer's disease.
+p75
+aVIn total, there are more than 70 major diseases
+p76
+aVaffecting more than a billion people worldwide,
+p77
+aVthat all look on the surface to be different from one another,
+p78
+aVbut all actually share abnormal angiogenesis
+p79
+aVas their common denominator.
+p80
+aVAnd this realization is allowing us to re-conceptualize
+p81
+aVthe way that we actually approach these diseases,
+p82
+aVby controlling angiogenesis.
+p83
+aa(lp84
+VNow, I'm going to focus on cancer,
+p85
+aVbecause angiogenesis is a hallmark of cancer \u2014
+p86
+aVevery type of cancer.
+p87
+aVSo here we go.
+p88
+aVThis is a tumor: dark, gray, ominous mass growing inside a brain.
+p89
+aVAnd under the microscope,
+p90
+aVyou can see hundreds of these brown-stained blood vessels,
+p91
+aVcapillaries that are feeding cancer cells,
+p92
+aVbringing oxygen and nutrients.
+p93
+aVBut cancers don't start out like this,
+p94
+aVand in fact, cancers don't start out with a blood supply.
+p95
+aVThey start out as small, microscopic nests of cells,
+p96
+aVthat can only grow to one half a cubic millimeter in size.
+p97
+aVThat's the tip of a ballpoint pen.
+p98
+aVThen they can't get any larger because they don't have a blood supply,
+p99
+aVso they don't have enough oxygen or nutrients.
+p100
+aa(lp101
+VIn fact, we're probably forming these microscopic cancers
+p102
+aVall the time in our body.
+p103
+aVAutopsy studies from people who died in car accidents
+p104
+aVhave shown that about 40 percent of women between the ages of 40 and 50
+p105
+aVactually have microscopic cancers in their breasts.
+p106
+aVAbout 50 percent of men in their 50s and 60s
+p107
+aVhave microscopic prostate cancers,
+p108
+aVand virtually 100 percent of us, by the time we reach our 70s,
+p109
+aVwill have microscopic cancers growing in our thyroid.
+p110
+aVYet, without a blood supply,
+p111
+aVmost of these cancers will never become dangerous.
+p112
+aVDr. Judah Folkman, who was my mentor
+p113
+aVand who was the pioneer of the angiogenesis field,
+p114
+aVonce called this "cancer without disease."
+p115
+aa(lp116
+VSo the body's ability to balance angiogenesis,
+p117
+aVwhen it's working properly,
+p118
+aVprevents blood vessels from feeding cancers.
+p119
+aVAnd this turns out to be
+p120
+aVone of our most important defense mechanisms
+p121
+aVagainst cancer.
+p122
+aVIn fact, if you actually block angiogenesis
+p123
+aVand prevent blood vessels from ever reaching cancer cells,
+p124
+aVtumors simply can't grow up.
+p125
+aVBut once angiogenesis occurs,
+p126
+aVcancers can grow exponentially.
+p127
+aVAnd this is actually how a cancer goes from being harmless,
+p128
+aVto being deadly.
+p129
+aVCancer cells mutate,
+p130
+aVand they gain the ability to release lots of those angiogenic factors,
+p131
+aVnatural fertilizer,
+p132
+aVthat tip the balance in favor of blood vessels invading the cancer.
+p133
+aVAnd once those vessels invade the cancer,
+p134
+aVit can expand, it can invade local tissues,
+p135
+aVand the same vessels that are feeding tumors
+p136
+aVallow cancer cells to exit into the circulation as metastases.
+p137
+aVAnd unfortunately, this late stage of cancer
+p138
+aVis the one at which it's most likely to be diagnosed,
+p139
+aVwhen angiogenesis is already turned on,
+p140
+aVand cancer cells are growing like wild.
+p141
+aa(lp142
+VSo, if angiogenesis is a tipping point
+p143
+aVbetween a harmless cancer and a harmful one,
+p144
+aVthen one major part of the angiogenesis revolution
+p145
+aVis a new approach to treating cancer
+p146
+aVby cutting off the blood supply.
+p147
+aVWe call this antiangiogenic therapy,
+p148
+aVand it's completely different from chemotherapy,
+p149
+aVbecause it selectively aims
+p150
+aVat the blood vessels that are feeding the cancers.
+p151
+aVWe can do this because tumor blood vessels are unlike normal, healthy vessels
+p152
+aVwe see in other places of the body \u2014
+p153
+aVthey're abnormal, they're very poorly constructed,
+p154
+aVand because of that, they're highly vulnerable
+p155
+aVto treatments that target them.
+p156
+aVIn effect, when we give cancer patients antiangiogenic therapy \u2014
+p157
+aVhere, an experimental drug for a glioma,
+p158
+aVwhich is a type of brain tumor \u2014
+p159
+aVyou can see that there are dramatic changes that occur
+p160
+aVwhen the tumor is being starved.
+p161
+aVHere's a woman with a breast cancer,
+p162
+aVbeing treated with the antiangiogenic drug called Avastin,
+p163
+aVwhich is FDA approved.
+p164
+aVAnd you can see that the halo of blood flow
+p165
+aVdisappears after treatment.
+p166
+aa(lp167
+VWell, I've just shown you two very different types of cancer
+p168
+aVthat both responded to antiangiogenic therapy.
+p169
+aVSo a few years ago, I asked myself,
+p170
+aV"Can we take this one step further and treat other cancers,
+p171
+aVeven in other species?"
+p172
+aVSo here is a nine year-old boxer named Milo,
+p173
+aVwho had a very aggressive tumor
+p174
+aVcalled a malignant neurofibroma growing on his shoulder.
+p175
+aVIt invaded into his lungs.
+p176
+aVHis veterinarian only gave him three months to live.
+p177
+aVSo we created a cocktail of antiangiogenic drugs
+p178
+aVthat could be mixed into his dog food,
+p179
+aVas well as an antiangiogenic cream,
+p180
+aVthat could be applied on the surface of the tumor.
+p181
+aVAnd within a few weeks of treatment,
+p182
+aVwe were able to slow down that cancer's growth,
+p183
+aVsuch that we were ultimately able to extend Milo\u2019s survival
+p184
+aVto six times what the veterinarian had initially predicted,
+p185
+aVall with a very good quality of life.
+p186
+aVAnd we've subsequently treated more than 600 dogs.
+p187
+aVWe have about a 60 percent response rate,
+p188
+aVand improved survival for these pets
+p189
+aVthat were about to be euthanized.
+p190
+aa(lp191
+VSo let me show you a couple of even more interesting examples.
+p192
+aVThis is 20-year-old dolphin living in Florida,
+p193
+aVand she had these lesions in her mouth
+p194
+aVthat, over the course of three years,
+p195
+aVdeveloped into invasive squamous cell cancers.
+p196
+aVSo we created an antiangiogenic paste.
+p197
+aVWe had it painted on top of the cancer three times a week.
+p198
+aVAnd over the course of seven months,
+p199
+aVthe cancers completely disappeared,
+p200
+aVand the biopsies came back as normal.
+p201
+aa(lp202
+VHere's a cancer growing on the lip
+p203
+aVof a Quarter Horse named Guinness.
+p204
+aVIt's a very, very deadly type of cancer called an angiosarcoma.
+p205
+aVIt had already spread to his lymph nodes,
+p206
+aVso we used an antiangiogenic skin cream for the lip,
+p207
+aVand the oral cocktail, so we could treat from the inside as well as the outside.
+p208
+aVAnd over the course of six months,
+p209
+aVhe experienced a complete remission.
+p210
+aVAnd here he is six years later,
+p211
+aVGuinness, with his very happy owner.
+p212
+aa(lp213
+V(Applause)
+p214
+aa(lp215
+VNow obviously, antiangiogenic therapy could be used for a wide range of cancers.
+p216
+aVAnd in fact, the first pioneering treatments
+p217
+aVfor people as well as dogs,
+p218
+aVare already becoming available.
+p219
+aVThere are 12 different drugs, 11 different cancer types.
+p220
+aVBut the real question is:
+p221
+aVHow well do these work in practice?
+p222
+aVSo here's actually the patient survival data
+p223
+aVfrom eight different types of cancer.
+p224
+aVThe bars represent survival time
+p225
+aVtaken from the era in which there was only chemotherapy,
+p226
+aVor surgery, or radiation available.
+p227
+aVBut starting in 2004,
+p228
+aVwhen antiangiogenic therapies first became available,
+p229
+aVyou can see that there has been a 70 to 100 percent improvement in survival
+p230
+aVfor people with kidney cancer, multiple myeloma,
+p231
+aVcolorectal cancer, and gastrointestinal stromal tumors.
+p232
+aVThat's impressive.
+p233
+aVBut for other tumors and cancer types,
+p234
+aVthe improvements have only been modest.
+p235
+aa(lp236
+VSo I started asking myself,
+p237
+aV"Why haven't we been able to do better?"
+p238
+aVAnd the answer, to me, is obvious:
+p239
+aVwe're treating cancer too late in the game,
+p240
+aVwhen it's already established,
+p241
+aVand oftentimes, it's already spread or metastasized.
+p242
+aVAnd as a doctor,
+p243
+aVI know that once a disease progresses to an advanced stage,
+p244
+aVachieving a cure can be difficult, if not impossible.
+p245
+aVSo I went back to the biology of angiogenesis, and started thinking:
+p246
+aVCould the answer to cancer be preventing angiogenesis,
+p247
+aVbeating cancer at its own game,
+p248
+aVso the cancers could never become dangerous?
+p249
+aVThis could help healthy people,
+p250
+aVas well as people who've already beaten cancer once or twice,
+p251
+aVand want to find a way to keep it from coming back.
+p252
+aa(lp253
+VSo to look for a way to prevent angiogenesis in cancer,
+p254
+aVI went back to look at cancer's causes.
+p255
+aVAnd what really intrigued me,
+p256
+aVwas when I saw that diet accounts for 30 to 35 percent
+p257
+aVof environmentally-caused cancers.
+p258
+aVNow the obvious thing is to think about what we could remove from our diet,
+p259
+aVwhat to strip out, take away.
+p260
+aVBut I actually took a completely opposite approach,
+p261
+aVand began asking: What could we be adding to our diet
+p262
+aVthat's naturally antiangiogenic,
+p263
+aVand that could boost the body's defense system,
+p264
+aVand beat back those blood vessels that are feeding cancers?
+p265
+aVIn other words, can we eat to starve cancer?
+p266
+aa(lp267
+V(Laughter)
+p268
+aa(lp269
+VWell, the answer is yes, and I'm going to show you how.
+p270
+aVAnd our search for this has taken us to the market,
+p271
+aVthe farm and to the spice cabinet,
+p272
+aVbecause what we've discovered
+p273
+aVis that Mother Nature has laced a large number
+p274
+aVof foods and beverages and herbs
+p275
+aVwith naturally-occurring inhibitors of angiogenesis.
+p276
+aa(lp277
+VHere's a test system we developed.
+p278
+aVAt the center is a ring
+p279
+aVfrom which hundreds of blood vessels are growing out in a starburst fashion.
+p280
+aVAnd we can use this system to test dietary factors
+p281
+aVat concentrations that are obtainable by eating.
+p282
+aVLet me show you what happens
+p283
+aVwhen we put in an extract from red grapes.
+p284
+aVThe active ingredient is resveratrol,
+p285
+aVit's also found in red wine.
+p286
+aVThis inhibits abnormal angiogenesis,
+p287
+aVby 60 percent.
+p288
+aVHere's what happens when we added an extract from strawberries.
+p289
+aVIt potently inhibits angiogenesis.
+p290
+aVAnd extract from soybeans.
+p291
+aVAnd here is a growing list
+p292
+aVof antiangiogenic foods and beverages that we're interested in studying.
+p293
+aVFor each food type,
+p294
+aVwe believe that there are different potencies
+p295
+aVwithin different strains and varietals.
+p296
+aVAnd we want to measure this because,
+p297
+aVwell, while you're eating a strawberry
+p298
+aVor drinking tea,
+p299
+aVwhy not select the one that's most potent
+p300
+aVfor preventing cancer?
+p301
+aa(lp302
+VSo here are four different teas that we've tested.
+p303
+aVThey're all common ones: Chinese jasmine, Japanese sencha,
+p304
+aVEarl Grey and a special blend that we prepared,
+p305
+aVand you can see clearly that the teas vary in their potency,
+p306
+aVfrom less potent to more potent.
+p307
+aVBut what's very cool
+p308
+aVis when we combine the two less potent teas together,
+p309
+aVthe combination, the blend, is more potent than either one alone.
+p310
+aVThis means there's food synergy.
+p311
+aa(lp312
+VHere's some more data from our testing.
+p313
+aVNow in the lab, we can simulate tumor angiogenesis,
+p314
+aVrepresented here in a black bar.
+p315
+aVAnd using this system, we can test the potency of cancer drugs.
+p316
+aVSo the shorter the bar,
+p317
+aVthe less angiogenesis \u2014 that's good.
+p318
+aVAnd here are some common drugs
+p319
+aVthat have been associated with reducing the risk of cancer in people.
+p320
+aVStatins, nonsteroidal anti-inflammatory drugs,
+p321
+aVand a few others \u2014 they inhibit angiogenesis, too.
+p322
+aVAnd here are the dietary factors
+p323
+aVgoing head-to-head against these drugs.
+p324
+aVYou can see they clearly hold their own,
+p325
+aVand in some cases, they're more potent than the actual drugs.
+p326
+aVSoy, parsley, garlic, grapes, berries.
+p327
+aVI could go home and cook a tasty meal using these ingredients.
+p328
+aVImagine if we could create the world's first rating system,
+p329
+aVin which we could score foods
+p330
+aVaccording to their antiangiogenic, cancer-preventative properties.
+p331
+aVAnd that's what we're doing right now.
+p332
+aa(lp333
+VNow, I've shown you a bunch of lab data,
+p334
+aVand so the real question is:
+p335
+aVWhat is the evidence in people
+p336
+aVthat eating certain foods can reduce angiogenesis in cancer?
+p337
+aVWell, the best example I know
+p338
+aVis a study of 79,000 men followed over 20 years,
+p339
+aVin which it was found that men who consumed cooked tomatoes
+p340
+aVtwo to three times a week,
+p341
+aVhad up to a 50 percent reduction
+p342
+aVin their risk of developing prostate cancer.
+p343
+aVNow, we know that tomatoes are a good source of lycopene,
+p344
+aVand lycopene is antiangiogenic.
+p345
+aVBut what's even more interesting from this study,
+p346
+aVis that in those men who did develop prostate cancer,
+p347
+aVthose who ate more servings of tomato sauce,
+p348
+aVactually had fewer blood vessels feeding their cancer.
+p349
+aVSo this human study is a prime example
+p350
+aVof how antiangiogenic substances present in food and consumed at practical levels,
+p351
+aVcan have an impact on cancer.
+p352
+aVAnd we're now studying the role of a healthy diet \u2014
+p353
+aVwith Dean Ornish at UCSF and Tufts University \u2014
+p354
+aVthe role of this healthy diet on markers of angiogenesis
+p355
+aVthat we can find in the bloodstream.
+p356
+aa(lp357
+VObviously, what I've shared with you has some far-ranging implications,
+p358
+aVeven beyond cancer research.
+p359
+aVBecause if we're right, it could impact consumer education,
+p360
+aVfood services, public health
+p361
+aVand even the insurance industry.
+p362
+aVAnd in fact, some insurance companies
+p363
+aVare already beginning to think along these lines.
+p364
+aVCheck out this ad from BlueCross BlueShield of Minnesota.
+p365
+aVFor many people around the world,
+p366
+aVdietary cancer prevention may be the only practical solution,
+p367
+aVbecause not everybody can afford expensive end-stage cancer treatments,
+p368
+aVbut everybody could benefit from a healthy diet
+p369
+aVbased on local, sustainable, antiangiogenic crops.
+p370
+aa(lp371
+VNow, finally,
+p372
+aVI've talked to you about food,
+p373
+aVand I've talked to you about cancer,
+p374
+aVso there's just one more disease that I have to tell you about,
+p375
+aVand that's obesity.
+p376
+aVBecause it turns out that adipose tissue \u2014 fat \u2014
+p377
+aVis highly angiogenesis-dependent.
+p378
+aVAnd like a tumor, fat grows when blood vessels grow.
+p379
+aVSo the question is:
+p380
+aVCan we shrink fat by cutting off its blood supply?
+p381
+aVThe top curve shows the body weight of a genetically obese mouse
+p382
+aVthat eats nonstop until it turns fat,
+p383
+aVlike this furry tennis ball.
+p384
+aa(lp385
+V(Laughter)
+p386
+aa(lp387
+VAnd the bottom curve is the weight of a normal mouse.
+p388
+aa(lp389
+VIf you take the obese mouse
+p390
+aVand give it an angiogenesis inhibitor, it loses weight.
+p391
+aVStop the treatment, gains the weight back. Restart the treatment, loses the weight.
+p392
+aVStop the treatment, it gains the weight back.
+p393
+aVAnd, in fact, you can cycle the weight up and down
+p394
+aVsimply by inhibiting angiogenesis.
+p395
+aVSo this approach that we're taking for cancer prevention
+p396
+aVmay also have an application for obesity.
+p397
+aVThe truly interesting thing about this
+p398
+aVis that we can't take these obese mice
+p399
+aVand make them lose more weight
+p400
+aVthan what the normal mouse's weight is supposed to be.
+p401
+aVIn other words, we can't create supermodel mice.
+p402
+aa(lp403
+V(Laughter)
+p404
+aa(lp405
+VAnd this speaks to the role of angiogenesis
+p406
+aVin regulating healthy set points.
+p407
+aa(lp408
+VAlbert Szent-Györgi once said,
+p409
+aV"Discovery consists of seeing what everyone has seen,
+p410
+aVand thinking what no one has thought."
+p411
+aa(lp412
+VI hope I've convinced you
+p413
+aVthat for diseases like cancer, obesity and other conditions,
+p414
+aVthere may be a great power
+p415
+aVin attacking their common denominator: angiogenesis.
+p416
+aVAnd that's what I think the world needs now.
+p417
+aa(lp418
+VThank you.
+p419
+aa(lp420
+V(Applause)
+p421
+aa(lp422
+VJune Cohen: I have a quick question for you.
+p423
+aa(lp424
+VJC: So these drugs aren't exactly in mainstream cancer treatments right now.
+p425
+aVFor anyone out here who has cancer, what would you recommend?
+p426
+aVDo you recommend pursuing these treatments now, for most cancer patients?
+p427
+aa(lp428
+VWilliam Li: There are antiangiogenic treatments
+p429
+aVthat are FDA approved,
+p430
+aVand if you're a cancer patient,
+p431
+aVor working for one or advocating for one, you should ask about them.
+p432
+aVAnd there are many clinical trials.
+p433
+aVThe Angiogenesis Foundation is following almost 300 companies,
+p434
+aVand there are about 100 more drugs in that pipeline.
+p435
+aVSo, consider the approved ones,
+p436
+aVlook for clinical trials,
+p437
+aVbut then between what the doctor can do for you,
+p438
+aVwe need to start asking what can we do for ourselves.
+p439
+aVThis is one of the themes I'm talking about:
+p440
+aVWe can empower ourselves
+p441
+aVto do the things that doctors can't do for us,
+p442
+aVwhich is to use knowledge and take action.
+p443
+aVAnd if Mother Nature has given us some clues,
+p444
+aVwe think there might be a new future in the value of how we eat,
+p445
+aVand what we eat is really our chemotherapy three times a day.
+p446
+aa(lp447
+VJC: Right. And along those lines,
+p448
+aVfor people who might have risk factors for cancer,
+p449
+aVwould you recommend pursuing any treatments prophylactically,
+p450
+aVor simply pursuing the right diet,
+p451
+aVwith lots of tomato sauce?
+p452
+aa(lp453
+VWL: Well, you know, there's abundant epidemiological evidence,
+p454
+aVand I think in the information age,
+p455
+aVit doesn't take long to go to a credible source like PubMed,
+p456
+aVthe National Library of Medicine,
+p457
+aVto look for epidemiological studies for cancer risk reduction
+p458
+aVbased on diet and based on common medications.
+p459
+aVAnd that's certainly something that anybody can look into.
+p460
+aa(lp461
+VJC: Okay. Well, thank you so much.
+p462
+aa(lp463
+V(Applause)
+p464
+aasS'id'
+p465
+I859
+sS'title'
+p466
+VCan we eat to starve cancer?
+p467
+s.

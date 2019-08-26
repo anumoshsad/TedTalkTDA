@@ -1,0 +1,262 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI am holding something remarkably old.
+p4
+aVIt is older than any human artifact,
+p5
+aVolder than life on Earth,
+p6
+aVolder than the continents and the oceans between them.
+p7
+aVThis was formed over four billion years ago
+p8
+aVin the earliest days of the solar system
+p9
+aVwhile the planets were still forming.
+p10
+aVThis rusty lump of nickel and iron may not appear special,
+p11
+aVbut when it is cut open ...
+p12
+aVyou can see that it is different from earthly metals.
+p13
+aVThis pattern reveals metallic crystals that can only form out in space
+p14
+aVwhere molten metal can cool extremely slowly,
+p15
+aVa few degrees every million years.
+p16
+aVThis was once part of a much larger object,
+p17
+aVone of millions left over after the planets formed.
+p18
+aVWe call these objects asteroids.
+p19
+aa(lp20
+VAsteroids are our oldest and most numerous cosmic neighbors.
+p21
+aVThis graphic shows near-Earth asteroids orbiting around the Sun,
+p22
+aVshown in yellow,
+p23
+aVand swinging close to the Earth's orbit,
+p24
+aVshown in blue.
+p25
+aVThe sizes of the Earth, Sun and asteroids have been greatly exaggerated
+p26
+aVso you can see them clearly.
+p27
+aVTeams of scientists across the globe are searching for these objects,
+p28
+aVdiscovering new ones every day,
+p29
+aVsteadily mapping near-Earth space.
+p30
+aVMuch of this work is funded by NASA.
+p31
+aVI think of the search for these asteroids as a giant public works project,
+p32
+aVbut instead of building a highway, we're charting outer space,
+p33
+aVbuilding an archive that will last for generations.
+p34
+aa(lp35
+VThese are the 1,556 near-Earth asteroids discovered just last year.
+p36
+aVAnd these are all of the known near-Earth asteroids,
+p37
+aVwhich at last count was 13,733.
+p38
+aVEach one has been imaged, cataloged
+p39
+aVand had its path around the Sun determined.
+p40
+aVAlthough it varies from asteroid to asteroid,
+p41
+aVthe paths of most asteroids can be predicted for dozens of years.
+p42
+aVAnd the paths of some asteroids can be predicted with incredible precision.
+p43
+aVFor example, scientists at the Jet Propulsion Laboratory
+p44
+aVpredicted where the asteroid Toutatis was going to be four years in advance
+p45
+aVto within 30 kilometers.
+p46
+aVIn those four years,
+p47
+aVToutatis traveled 8.5 billion kilometers.
+p48
+aVThat's a fractional precision
+p49
+aVof 0.000000004.
+p50
+aa(lp51
+V(Laughter)
+p52
+aa(lp53
+VNow, the reason I have this beautiful asteroid fragment
+p54
+aVis because, like all neighbors,
+p55
+aVasteroids sometimes drop by unexpectedly.
+p56
+aa(lp57
+V(Laughter)
+p58
+aa(lp59
+VThree years ago today,
+p60
+aVa small asteroid exploded over the city of Chelyabinsk, Russia.
+p61
+aVThat object was about 19 meters across,
+p62
+aVor about as big as a convenience store.
+p63
+aVObjects of this size hit the Earth every 50 years or so.
+p64
+aa(lp65
+V66 million years ago,
+p66
+aVa much larger object hit the Earth,
+p67
+aVcausing a massive extinction.
+p68
+aV75 percent of plant and animal species were lost,
+p69
+aVincluding, sadly, the dinosaurs.
+p70
+aVThat object was about 10 kilometers across,
+p71
+aVand 10 kilometers is roughly the cruising altitude of a 747 jet.
+p72
+aVSo the next time you're in an airplane,
+p73
+aVsnag a window seat, look out and imagine a rock so enormous
+p74
+aVthat resting on the ground,
+p75
+aVit just grazes your wingtip.
+p76
+aVIt's so wide that it takes your plane one full minute to fly past it.
+p77
+aVThat's the size of the asteroid that hit the Earth.
+p78
+aa(lp79
+VIt has only been within my lifetime
+p80
+aVthat asteroids have been considered a credible threat to our planet.
+p81
+aVAnd since then, there's been a focused effort underway
+p82
+aVto discover and catalog these objects.
+p83
+aVI am lucky enough to be part of this effort.
+p84
+aVI'm part of a team of scientists that use NASA's NEOWISE telescope.
+p85
+aVNow, NEOWISE was not designed to find asteroids.
+p86
+aVIt was designed to orbit the earth and look far beyond our solar system
+p87
+aVto seek out the coldest stars and the most luminous galaxies.
+p88
+aVAnd it did that very well for its designed lifetime of seven months.
+p89
+aVBut today, six years later, it's still going.
+p90
+aVWe've repurposed it to discover and study asteroids.
+p91
+aVAnd although it's a wonderful little space robot,
+p92
+aVthese days it's kind of like a used car.
+p93
+aVThe cryogen that used to refrigerate its sensors is long gone,
+p94
+aVso we joke that its air-conditioning is broken.
+p95
+aVIt's got 920 million miles on the odometer,
+p96
+aVbut it still runs great
+p97
+aVand reliably takes a photograph of the sky every 11 seconds.
+p98
+aVIt's taken 23 photos since I began speaking to you.
+p99
+aa(lp100
+VOne of the reasons NEOWISE is so valuable
+p101
+aVis that it sees the sky in the thermal infrared.
+p102
+aVThat means that instead of seeing the sunlight that asteroids reflect,
+p103
+aVNEOWISE sees the heat that they emit.
+p104
+aVThis is a vital capability since some asteroids are as dark as coal
+p105
+aVand can be difficult or impossible to spot with other telescopes.
+p106
+aVBut all asteroids, light or dark, shine brightly for NEOWISE.
+p107
+aa(lp108
+VAstronomers are using every technique at their disposal
+p109
+aVto discover and study asteroids.
+p110
+aVIn 2010, a historic milestone was reached.
+p111
+aVThe community, together, discovered over 90 percent of asteroids
+p112
+aVbigger than one kilometer across \u2014
+p113
+aVobjects capable of massive destruction to Earth.
+p114
+aVBut the job's not done yet.
+p115
+aVAn object 140 meters or bigger could decimate a medium-sized country.
+p116
+aVSo far, we've only found 25 percent of those.
+p117
+aa(lp118
+VWe must keep searching the sky for near-Earth asteroids.
+p119
+aVWe are the only species able to understand calculus
+p120
+aVor build telescopes.
+p121
+aVWe know how to find these objects.
+p122
+aVThis is our responsibility.
+p123
+aVIf we found a hazardous asteroid with significant early warning,
+p124
+aVwe could nudge it out of the way.
+p125
+aVUnlike earthquakes, hurricanes or volcanic eruptions,
+p126
+aVan asteroid impact can be precisely predicted
+p127
+aVand prevented.
+p128
+aVWhat we need to do now is map near-Earth space.
+p129
+aVWe must keep searching the sky.
+p130
+aa(lp131
+VThank you.
+p132
+aa(lp133
+V(Applause)
+p134
+aasS'id'
+p135
+I2491
+sS'title'
+p136
+VAdventures of an asteroid hunter
+p137
+s.

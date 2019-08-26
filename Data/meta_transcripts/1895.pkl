@@ -1,0 +1,500 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VNine years ago, I worked
+p4
+aVfor the U.S. government in Iraq,
+p5
+aVhelping rebuild the electricity infrastructure.
+p6
+aVAnd I was there, and I worked in that job
+p7
+aVbecause I believe that technology
+p8
+aVcan improve people's lives.
+p9
+aVOne afternoon, I had tea with a storekeeper
+p10
+aVat the Al Rasheed Hotel in Baghdad,
+p11
+aVand he said to me, "You Americans,
+p12
+aVyou can put a man on the moon,
+p13
+aVbut when I get home tonight,
+p14
+aVI won't be able to turn on my lights."
+p15
+aVAt the time, the U.S. government had spent
+p16
+aVmore than two billion dollars
+p17
+aVon electricity reconstruction.
+p18
+aVHow do you ensure technology reaches users?
+p19
+aVHow do you put it in their hands
+p20
+aVso that it is useful?
+p21
+aa(lp22
+VSo those are the questions that my colleagues and I
+p23
+aVat D-Rev ask ourselves.
+p24
+aVAnd D-Rev is short for Design Revolution.
+p25
+aVAnd I took over the organization four years ago
+p26
+aVand really focused it on developing products
+p27
+aVthat actually reach users,
+p28
+aVand not just any users,
+p29
+aVbut customers who live on less than four dollars a day.
+p30
+aVOne of the key areas we've been working on recently
+p31
+aVis medical devices, and while it may not be obvious
+p32
+aVthat medical devices have something in common
+p33
+aVwith Iraq's electricity grid then,
+p34
+aVthere are some commonalities.
+p35
+aVDespite the advanced technology,
+p36
+aVit's not reaching the people who need it most.
+p37
+aa(lp38
+VSo I'm going to tell you about one of the projects we've been working on,
+p39
+aVthe ReMotion Knee, and it's a prosthetic knee
+p40
+aVfor above-knee amputees.
+p41
+aVAnd this project started when the Jaipur Foot Organization,
+p42
+aVthe largest fitter of prosthetic limbs in the world,
+p43
+aVcame to the Bay Area and they said,
+p44
+aV"We need a better knee."
+p45
+aVChances are, if you're living on less than four dollars a day,
+p46
+aVand you're an amputee,
+p47
+aVyou've lost your limb in a vehicle accident.
+p48
+aVMost people think it's land mines,
+p49
+aVbut it's a vehicle accident.
+p50
+aVYou're walking by the side of the road
+p51
+aVand you're hit by a truck,
+p52
+aVor you're trying to to jump on a moving train,
+p53
+aVyou're late for work, and your pant leg gets caught.
+p54
+aVAnd the reality is that if you don't have much money,
+p55
+aVlike this young named Kamal right here,
+p56
+aVthe option you really have
+p57
+aVis a bamboo staff to get around.
+p58
+aVAnd how big a problem is this?
+p59
+aVThere's over three million amputees every year
+p60
+aVwho need a new or replacement knee.
+p61
+aa(lp62
+VAnd what are their options?
+p63
+aVThis is a high-end. This is what we'd call a "smart knee."
+p64
+aVIt's got a microprocessor inside.
+p65
+aVIt can pretty much do anything,
+p66
+aVbut it's 20,000 dollars,
+p67
+aVand to give you a sense of who wears this,
+p68
+aVveterans, American veterans coming back from Afghanistan or Iraq
+p69
+aVwould be fit with something like this.
+p70
+aVThis is a low-end titanium knee.
+p71
+aVIt's a polycentric knee, and all that that means
+p72
+aVis the mechanism, is a four-bar mechanism,
+p73
+aVthat mimics a natural human knee.
+p74
+aVBut at 1,400 dollars, it's still too expensive
+p75
+aVfor people like Kamal.
+p76
+aVAnd lastly, here you see a low-end knee.
+p77
+aVThis is a knee that's been designed specifically
+p78
+aVfor poor people.
+p79
+aVAnd while you have affordability,
+p80
+aVyou've lost on functionality.
+p81
+aVThe mechanism here is a single axis,
+p82
+aVand a single axis is like a door hinge.
+p83
+aVSo you can think about how unstable that would be.
+p84
+aVAnd this is the type of mechanism
+p85
+aa(lp86
+Vthat the Jaipur Foot Organization was using when they were looking for a better knee,
+p87
+aVand I just wanted to give you a sense of what a leg system looks like,
+p88
+aVbecause I'm showing you all these knees
+p89
+aVand I imagine it's hard to think  how it all fits together.
+p90
+aVSo at the top you have a socket,
+p91
+aVand this fits over someone's residual limb,
+p92
+aVand everyone's residual limb is a little bit different.
+p93
+aVAnd then you have the knee,
+p94
+aVand here I've got a single axis on the knee
+p95
+aVso you can see how it rotates,
+p96
+aVand then a pylon, and then a foot.
+p97
+aVAnd we've been able to develop a knee,
+p98
+aVa polycentric knee, so that type of knee
+p99
+aVthat acts like a human knee, mimics human gait,
+p100
+aVfor 80 dollars retail.
+p101
+aa(lp102
+V(Applause)
+p103
+aa(lp104
+VBut the key is, you can have this great invention,
+p105
+aVyou can have this great design, but how do you get it
+p106
+aVto the people who most need it?
+p107
+aVHow do you ensure it gets to them and it improves their lives?
+p108
+aa(lp109
+VSo at D-Rev, we've done some other projects,
+p110
+aVand we looked at three things that we really believe
+p111
+aVgets technologies to customers, to users,
+p112
+aVto people who need it.
+p113
+aa(lp114
+VAnd the first thing is that the product  needs to be world class.
+p115
+aVIt needs to perform on par
+p116
+aVor better than the best products on the market.
+p117
+aVRegardless of your income level,
+p118
+aVyou want the most beautiful,
+p119
+aVthe best product that there is.
+p120
+aVI'm going to show you a video now
+p121
+aVof a man named Ash. You can see him walking.
+p122
+aVHe's wearing the same knee system here
+p123
+aVwith a single axis knee.
+p124
+aVAnd he's doing a 10-meter walk test.
+p125
+aVAnd you'll notice that he's struggling  with stability as he's walking.
+p126
+aVAnd something that's not obvious, that you can't see,
+p127
+aVis that it's psychologically draining
+p128
+aVto walk and to be preventing yourself from falling.
+p129
+aVNow this is a video of Kamal.
+p130
+aVYou remember Kamal earlier, holding the bamboo staff.
+p131
+aVHe's wearing one of the earlier versions of our knee,
+p132
+aVand he's doing that same 10-meter walk test.
+p133
+aVAnd you can see his stability is much better.
+p134
+aa(lp135
+VSo world class isn't just about technical performance.
+p136
+aVIt's also about human performance.
+p137
+aVAnd most medical devices, we've learned,
+p138
+aVas we've dug in, are really designed for Westerners,
+p139
+aVfor wealthier economies.
+p140
+aVBut the reality is our users, our customers,
+p141
+aVthey do different things. They sit cross-legged more.
+p142
+aVWe see that they squat. They kneel in prayer.
+p143
+aVAnd we designed our knee to have the greatest range of motion
+p144
+aVof almost any other knee on the market.
+p145
+aa(lp146
+VSo the second thing we learned, and this leads
+p147
+aVinto my second point, which is that we believe
+p148
+aVthat products need to be designed to be user-centric.
+p149
+aVAnd at D-Rev, we go one step further and we say
+p150
+aVyou need to be user-obsessed.
+p151
+aVSo it's not just the end user that you're thinking about,
+p152
+aVbut everyone who interacts with the product,
+p153
+aVso, for example, the prosthetist who fits the knee,
+p154
+aVbut also the context in which the knee is being fit.
+p155
+aVWhat is the local market like?
+p156
+aVHow do all these components get to the clinic?
+p157
+aVDo they all get there on time? The supply chain.
+p158
+aVEverything that goes into ensuring
+p159
+aVthat this product gets to the end user,
+p160
+aVand it goes in as part of the system, and it's used.
+p161
+aa(lp162
+VSo I wanted to show you some of the iterations
+p163
+aVwe did between the first version, the Jaipur Knee,
+p164
+aVso this is it right here.
+p165
+aV(Clicking)
+p166
+aVNotice anything about it?
+p167
+aVIt clicks.
+p168
+aVWe'd seen that users had actually modified it.
+p169
+aVSo do you see that black strip right there?
+p170
+aVThat's a homemade noise dampener.
+p171
+aVWe also saw that our users had modified it
+p172
+aVin other ways.
+p173
+aVYou can see there that that particular amputee,
+p174
+aVhe had wrapped bandages around the knee.
+p175
+aVHe'd made a cosmesis.
+p176
+aVAnd if you look at the knee,
+p177
+aVit's got those pointy edges, right?
+p178
+aVSo if you're wearing it under pants or a skirt
+p179
+aVor a sari, it's really obvious
+p180
+aVthat you're wearing a prosthetic limb,
+p181
+aVand in societies where there's social stigma around being disabled,
+p182
+aVpeople are particularly acute about this.
+p183
+aa(lp184
+VSo I'm going to show you some of the modifications we did.
+p185
+aVWe did a lot of iterations, not just  around this, but some other things.
+p186
+aVBut here we have the version three,  the ReMotion Knee,
+p187
+aVbut if you look in here, you can see
+p188
+aVthe noise dampener. It's quieter.
+p189
+aVThe other thing we did is that we smoothed the profile.
+p190
+aVWe made it thinner.
+p191
+aVAnd something that's not obvious is that we
+p192
+aVdesigned it for mass production.
+p193
+aa(lp194
+VAnd this goes into my last point.
+p195
+aVWe really, truly believe that if a product
+p196
+aVis going to reach users at the scale that it's needed,
+p197
+aVit needs to be market-driven,
+p198
+aVand market-driven means that products are sold.
+p199
+aVThey're not donated. They're not heavily subsidized.
+p200
+aVOur product needs to be designed to offer value
+p201
+aVto the end user.
+p202
+aVIt also has to be designed to be very affordable.
+p203
+aVBut a product that is valued by a customer
+p204
+aVis used by a customer,
+p205
+aVand use is what creates impact.
+p206
+aVAnd we believe that as designers,
+p207
+aVit holds us accountable to our customers.
+p208
+aVAnd with centralized manufacturing,
+p209
+aVyou can control the quality control,
+p210
+aVand you can hit that $80 price point
+p211
+aVwith profit margins built in.
+p212
+aVAnd now, those profit margins are critical,
+p213
+aVbecause if you want to scale, if you want to reach
+p214
+aVall the people in the world who possibly need a knee,
+p215
+aVit needs to be economically sustainable.
+p216
+aa(lp217
+VSo I want to give you a sense of where we are at.
+p218
+aVWe have fit over 5,000 amputees,
+p219
+aVand one of the big indicators we're looking at, of course,
+p220
+aVis, does it improve lives?
+p221
+aVWell, the standard is, is someone
+p222
+aVstill wearing their knee six months later?
+p223
+aVThe industry average is about 65 percent.
+p224
+aVOurs is 79 percent,
+p225
+aVand we're hoping to get that higher.
+p226
+aVRight now, our knees are worn in 12 countries.
+p227
+aVThis is where we want to get, though,
+p228
+aVin the next three years.
+p229
+aVWe'll double the impact in 2015,
+p230
+aVand we'll double it each of the following years after that.
+p231
+aVBut then we hit a new challenge,
+p232
+aVand that's the number of skilled prosthetists
+p233
+aVwho are able to fit knees.
+p234
+aa(lp235
+VSo I want to end with a story of Pournima.
+p236
+aVPournima was 18 years old
+p237
+aVwhen she was in a car accident where she lost her leg,
+p238
+aVand she traveled 12 hours by train
+p239
+aVto come to the clinic to be fit with a knee,
+p240
+aVand while all of the amputees who wear our knees
+p241
+aVaffect us as the designers,
+p242
+aVshe's particularly meaningful to me  as an engineer and as a woman,
+p243
+aVbecause she was in school,
+p244
+aVshe had just started school to study engineering.
+p245
+aVAnd she said, "Well, now that I can walk again,
+p246
+aVI can go back and complete my studies."
+p247
+aVAnd to me she represents the next generation
+p248
+aVof engineers solving problems
+p249
+aVand ensuring meaningful technologies
+p250
+aVreach their users.
+p251
+aa(lp252
+VSo thank you.
+p253
+aa(lp254
+V(Applause)
+p255
+aasS'id'
+p256
+I1895
+sS'title'
+p257
+VThe $80 prosthetic knee that's changing lives
+p258
+s.

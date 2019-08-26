@@ -1,0 +1,403 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VHave you ever experienced a moment in your life
+p4
+aVthat was so painful and confusing,
+p5
+aVthat all you wanted to do
+p6
+aVwas learn as much as you could to make sense of it all?
+p7
+aVWhen I was 13, a close family friend who was like an uncle to me
+p8
+aVpassed away from pancreatic cancer.
+p9
+aVWhen the disease hit so close to home,
+p10
+aVI knew I needed to learn more.
+p11
+aVSo I went online to find answers.
+p12
+aVUsing the Internet, I found a variety of statistics on pancreatic cancer,
+p13
+aVand what I had found shocked me.
+p14
+aVOver 85 percent of all pancreatic cancers are diagnosed late,
+p15
+aVwhen someone has less than a two percent chance of survival.
+p16
+aVWhy are we so bad at detecting pancreatic cancer?
+p17
+aVThe reason?
+p18
+aVToday's current "modern" medicine is a 60-year-old technique.
+p19
+aVThat's older than my dad.
+p20
+aV(Laughter)
+p21
+aVBut also, it's extremely expensive, costing 800 dollars per test,
+p22
+aVand it's grossly inaccurate, missing 30 percent of all pancreatic cancers.
+p23
+aVYour doctor would have to be ridiculously suspicious that you have the cancer
+p24
+aVin order to give you this test.
+p25
+aVLearning this, I knew there had to be a better way.
+p26
+aVSo, I set up scientific criteria
+p27
+aVas to what a sensor would have to look like
+p28
+aVin order to effectively diagnose pancreatic cancer.
+p29
+aVThe sensor would have to be:
+p30
+aVinexpensive, rapid, simple, sensitive,
+p31
+aVselective, and minimally invasive.
+p32
+aVNow, there's a reason why this test hasn't been updated in over six decades.
+p33
+aVAnd that's because when we're looking for pancreatic cancer,
+p34
+aVwe're looking at your bloodstream,
+p35
+aVwhich is already abundant in all these tons and tons of protein,
+p36
+aVand you're looking for this miniscule difference in this tiny amount of protein.
+p37
+aVJust this one protein.
+p38
+aVThat's next to impossible.
+p39
+aVHowever, undeterred due to my teenage optimism \u2014
+p40
+aV(Laughter)
+p41
+aV(Applause)
+p42
+aVI went online to a teenager's two best friends, Google and Wikipedia.
+p43
+aVI got everything for my homework from those two sources.
+p44
+aV(Laughter)
+p45
+aVAnd what I had found was an article
+p46
+aVthat listed a database of over 8,000 different proteins
+p47
+aVthat are found when you have pancreatic cancer.
+p48
+aVSo, I decided to go and make it my new mission
+p49
+aVto go through all these proteins,
+p50
+aVand see which ones could serve as a bio-marker for pancreatic cancer.
+p51
+aVAnd to make it a bit simpler for myself,
+p52
+aVI decided to map out scientific criteria, and here it is.
+p53
+aVEssentially, first, the protein would have to be found in all pancreatic cancers,
+p54
+aVat high levels in the bloodstream,
+p55
+aVin the earliest stages, but also only in cancer.
+p56
+aVAnd so I'm just plugging and chugging through this gargantuan task,
+p57
+aVand finally, on the 4,000th try,
+p58
+aVwhen I'm close to losing my sanity,
+p59
+aVI find the protein.
+p60
+aVAnd the name of the protein I'd located was called mesothelin,
+p61
+aVand it's just your ordinary, run-of-the-mill type protein,
+p62
+aVunless, of course, you have pancreatic, ovarian or lung cancer,
+p63
+aVin which case it's found at these very high levels in your bloodstream.
+p64
+aVBut also, the key is that it's found in the earliest stages of the disease,
+p65
+aVwhen someone has close to 100 percent chance of survival.
+p66
+aVSo now that I'd found a reliable protein I could detect,
+p67
+aVI then shifted my focus to actually detecting that protein,
+p68
+aVand thus, pancreatic cancer.
+p69
+aVNow, my breakthrough came in a very unlikely place,
+p70
+aVpossibly the most unlikely place for innovation \u2014
+p71
+aVmy high school biology class, the absolute stifler of innovation.
+p72
+aV(Laughter)
+p73
+aV(Applause)
+p74
+aVAnd I had snuck in this article on these things called carbon nanotubes,
+p75
+aVand that's just a long, thin pipe of carbon
+p76
+aVthat's an atom thick, and one 50,000th the diameter of your hair.
+p77
+aVAnd despite their extremely small sizes,
+p78
+aVthey have these incredible properties.
+p79
+aVThey're kind of like the superheroes of material science.
+p80
+aVAnd while I was sneakily reading this article under my desk in my biology class,
+p81
+aVwe were supposed to be paying attention to these other kind of cool molecules,
+p82
+aVcalled antibodies.
+p83
+aVAnd these are pretty cool because they only react
+p84
+aVwith one specific protein,
+p85
+aVbut they're not nearly as interesting as carbon nanotubes.
+p86
+aVAnd so then, I was sitting in class, and suddenly it hit me:
+p87
+aVI could combine what I was reading about, carbon nanotubes,
+p88
+aVwith what I was supposed to be thinking about, antibodies.
+p89
+aVEssentially, I could weave a bunch of these antibodies
+p90
+aVinto a network of carbon nanotubes,
+p91
+aVsuch that you have a network that only reacts with one protein,
+p92
+aVbut also, due to the properties of these nanotubes,
+p93
+aVit will change its electrical properties,
+p94
+aVbased on the amount of protein present.
+p95
+aVHowever, there's a catch.
+p96
+aVThese networks of carbon nanotubes are extremely flimsy.
+p97
+aVAnd since they're so delicate, they need to be supported.
+p98
+aVSo that's why I chose to use paper.
+p99
+aVMaking a cancer sensor out of paper is about as simple
+p100
+aVas making chocolate chip cookies, which I love.
+p101
+aV(Laughs)
+p102
+aVYou start with some water, pour in some nanotubes,
+p103
+aVadd antibodies, mix it up, take some paper, dip it, dry it,
+p104
+aVand you can detect cancer.
+p105
+aV(Applause)
+p106
+aVThen, suddenly, a thought occurred
+p107
+aVthat kind of put a blemish on my amazing plan here.
+p108
+aVI can't really do cancer research on my kitchen countertop.
+p109
+aVMy mom wouldn't really like that.
+p110
+aVSo instead, I decided to go for a lab.
+p111
+aVSo I typed up a budget, a materials list, a timeline, and a procedure,
+p112
+aVand I emailed it to 200 different professors
+p113
+aVat Johns Hopkins University and the National Institutes of Health \u2014
+p114
+aVessentially, anyone that had anything to do with pancreatic cancer.
+p115
+aVI sat back waiting for these positive emails to be pouring in,
+p116
+aVsaying, "You're a genius! You're going to save us all!"
+p117
+aVAnd \u2014
+p118
+aV(Laughter)
+p119
+aVThen reality took hold, and over the course of a month,
+p120
+aVI got 199 rejections out of those 200 emails.
+p121
+aVOne professor even went through my entire procedure,
+p122
+aVpainstakingly \u2014 I'm not really sure where he got all this time \u2014
+p123
+aVand he went through and said why each and every step
+p124
+aVwas like the worst mistake I could ever make.
+p125
+aVClearly, the professors did not have as high of an opinion of my work as I did.
+p126
+aVHowever, there is a silver lining.
+p127
+aVOne professor said, "Maybe I might be able to help you, kid."
+p128
+aVSo, I went in that direction.
+p129
+aV(Laughter)
+p130
+aVAs you can never say no to a kid.
+p131
+aVAnd so then, three months later,
+p132
+aVI finally nailed down a harsh deadline with this guy,
+p133
+aVand I get into his lab, I get all excited, and then I sit down,
+p134
+aVI start opening my mouth and talking,
+p135
+aVand five seconds later, he calls in another Ph.D.
+p136
+aVPh.D.s just flock into this little room,
+p137
+aVand they're just firing these questions at me,
+p138
+aVand by the end, I kind of felt like I was in a clown car.
+p139
+aVThere were 20 Ph.D.s, plus me and the professor
+p140
+aVcrammed into this tiny office space,
+p141
+aVwith them firing these rapid-fire questions at me,
+p142
+aVtrying to sink my procedure.
+p143
+aVHow unlikely is that? I mean, pshhh.
+p144
+aV(Laughter)
+p145
+aVHowever, subjecting myself to that interrogation \u2014
+p146
+aVI answered all their questions, and I guessed on quite a few
+p147
+aVbut I got them right \u2014
+p148
+aVand I finally landed the lab space I needed.
+p149
+aVBut it was shortly afterwards that I discovered my once brilliant procedure
+p150
+aVhad something like a million holes in it,
+p151
+aVand over the course of seven months,
+p152
+aVI painstakingly filled each and every one of those holes.
+p153
+aVThe result?
+p154
+aVOne small paper sensor that costs three cents and takes five minutes to run.
+p155
+aVThis makes it 168 times faster,
+p156
+aVover 26,000 times less expensive,
+p157
+aVand over 400 times more sensitive than our current standard
+p158
+aVfor pancreatic cancer detection.
+p159
+aV(Applause)
+p160
+aVOne of the best parts of the sensor, though,
+p161
+aVis that it has close to 100 percent accuracy,
+p162
+aVand can detect the cancer in the earliest stages,
+p163
+aVwhen someone has close to 100 percent chance of survival.
+p164
+aVAnd so in the next two to five years,
+p165
+aVthis sensor could potentially lift the pancreatic cancer survival rates
+p166
+aVfrom a dismal 5.5 percent to close to 100 percent,
+p167
+aVand it would do similar for ovarian and lung cancer.
+p168
+aVBut it wouldn't stop there.
+p169
+aVBy switching out that antibody,
+p170
+aVyou can look at a different protein, thus, a different disease \u2014
+p171
+aVpotentially any disease in the entire world.
+p172
+aVSo that ranges from heart disease, to malaria, HIV, AIDS,
+p173
+aVas well as other forms of cancer \u2014 anything.
+p174
+aVAnd so, hopefully one day,
+p175
+aVwe can all have that one extra uncle,
+p176
+aVthat one mother, that one brother, sister,
+p177
+aVwe can have that one more family member to love.
+p178
+aVAnd that our hearts will be rid of that one disease burden
+p179
+aVthat comes from pancreatic, ovarian and lung cancer,
+p180
+aVand potentially any disease.
+p181
+aVBut through the Internet, anything is possible.
+p182
+aVTheories can be shared,
+p183
+aVand you don't have to be a professor with multiple degrees
+p184
+aVto have your ideas valued.
+p185
+aVIt's a neutral space, where what you look like, age or gender \u2014
+p186
+aVit doesn't matter.
+p187
+aVIt's just your ideas that count.
+p188
+aVFor me, it's all about looking at the Internet in an entirely new way,
+p189
+aVto realize that there's so much more to it
+p190
+aVthan just posting duck-face pictures of yourself online.
+p191
+aV(Laughter)
+p192
+aVYou could be changing the world.
+p193
+aVSo if a 15 year-old who didn't even know what a pancreas was
+p194
+aVcould find a new way to detect pancreatic cancer \u2014
+p195
+aVjust imagine what you could do.
+p196
+aVThank you.
+p197
+aV(Applause)
+p198
+aasS'id'
+p199
+I1787
+sS'title'
+p200
+VA promising test for pancreatic cancer ... from a teenager
+p201
+s.

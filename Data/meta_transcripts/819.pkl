@@ -1,0 +1,824 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIt's not about technology,
+p4
+aVit's about people and stories.
+p5
+aVI could show you
+p6
+aVwhat recently was on television
+p7
+aVas a high quality video:
+p8
+aV60 Minutes, many of you may have seen it.
+p9
+aVAnd it was the now director of the entire piece
+p10
+aVof the veteran's administration \u2014
+p11
+aVwho, himself, had lost an arm 39 years ago
+p12
+aVin Vietnam \u2014
+p13
+aVwho was adamantly opposed to these crazy devices
+p14
+aVthat don't work.
+p15
+aVAnd it turns out that with 60 Minutes cameras rolling in the background,
+p16
+aVafter he pretty much made his position clear on this \u2014
+p17
+aVhe had his hook and he had his \u2014
+p18
+aVhe wore this arm for less than two hours
+p19
+aVand was able to pour himself a drink and got quite emotional over the fact
+p20
+aVthat, quote \u2014 his quote \u2014
+p21
+aVit's the first time he's felt like he's had an arm in 39 years.
+p22
+aa(lp23
+VBut that would sort of be jumping to the middle of the story,
+p24
+aVand I'm not going to show you that polished video.
+p25
+aVI'm going to, instead, in a minute or two,
+p26
+aVshow you an early, crude video
+p27
+aVbecause I think it's
+p28
+aVa better way to tell a story.
+p29
+aa(lp30
+VA few years ago I was visited by
+p31
+aVthe guy that runs DARPA,
+p32
+aVthe people that fund all the advanced technologies
+p33
+aVthat businesses and universities probably wouldn't take the risk of doing.
+p34
+aVThey have a particular interest in ones that will help our soldiers.
+p35
+aVI get this sort of unrequested \u2014 by me anyway \u2014 visit,
+p36
+aVand sitting in my conference room is a very senior surgeon
+p37
+aVfrom the military
+p38
+aVand the guy that runs DARPA.
+p39
+aa(lp40
+VThey proceed to tell me a story which comes down
+p41
+aVto basically the following. We have used such advanced technologies
+p42
+aVnow and made them available
+p43
+aVin the most remote places that we put soldiers:
+p44
+aVhills of Afghanistan, Iraq ...
+p45
+aVThey were quite proud of the fact that
+p46
+aVyou know, before the dust clears,
+p47
+aVif some soldier has been hurt
+p48
+aVthey will have collected him or her, they will have brought him back,
+p49
+aVthey will be getting world-class triage emergency care
+p50
+aVfaster than you and I would be getting it if we were hurt
+p51
+aVin a car accident in a major city in the United States.
+p52
+aVThat's the good news.
+p53
+aa(lp54
+VThe bad news is if they've collected this person
+p55
+aVand he or she is missing an arm or leg,
+p56
+aVpart of the face, it's probably not coming back.
+p57
+aVSo, they started giving me the statistics on how many of these kids had lost an arm.
+p58
+aVAnd then the surgeon pointed out, with a lot of anger,
+p59
+aVhe said, "Why is it? At the end of the Civil War,
+p60
+aVthey were shooting each other with muskets. If somebody lost an arm,
+p61
+aVwe gave them a wooden stick with a hook on it.
+p62
+aVNow we've got F18s and F22s,
+p63
+aVand if somebody loses an arm,
+p64
+aVwe give them a plastic stick with a hook on it."
+p65
+aa(lp66
+VAnd they basically said, "This is unacceptable,"
+p67
+aVand then the punchline: "So, Dean,
+p68
+aVwe're here because you make medical stuff.
+p69
+aVYou're going to give us an arm."
+p70
+aVAnd I was waiting for the 500 pages of bureaucracy,
+p71
+aVpaperwork and DODs.
+p72
+aVNo, the guy says,
+p73
+aV"We're going to bring a guy into this conference room,
+p74
+aVand wearing the arm you're going to give us,
+p75
+aVhe or she is going to pick up a raisin or a grape
+p76
+aVoff this table.
+p77
+aVIf it's the grape, they won't break it."
+p78
+aVGreat he needs efferent, afferent, haptic response sensors.
+p79
+aV"If it's the raisin, they won't drop it."
+p80
+aVSo he wants fine motor control: flex at the wrist,
+p81
+aVflex at the elbow, abduct and flex at the shoulder.
+p82
+aVEither way they were going to eat it.
+p83
+aa(lp84
+V"Oh, by the way Dean. It's going to fit on a 50th percentile female frame \u2014
+p85
+aVnamely 32 inches from the long finger \u2014
+p86
+aVand weigh less than nine pounds."
+p87
+aV50th percentile female frame.
+p88
+aV"And it's going to be completely self contained including all its power."
+p89
+aVSo, they finished that. And I, as you can tell,
+p90
+aVam a bashful guy.
+p91
+aVI told them they're nuts.
+p92
+aV(Laughter)
+p93
+aVThey've been watching too much "Terminator."
+p94
+aV(Laughter)
+p95
+aVThen, the surgeon says to me,
+p96
+aV"Dean, you need to know
+p97
+aVmore than two dozen of these kids have come back
+p98
+aVbilateral."
+p99
+aVNow, I cannot imagine \u2014
+p100
+aVI'm sorry, you may have a better
+p101
+aVimagination than I do \u2014
+p102
+aVI can't imagine losing my arm,
+p103
+aVand typically at 22 years old.
+p104
+aVBut compared to that, losing two?
+p105
+aVSeems like that would be an inconvenience.
+p106
+aa(lp107
+VAnyway, I went home that night. I thought about it.
+p108
+aVI literally could not sleep
+p109
+aVthinking about, "I wonder how you'd roll over
+p110
+aVwith no shoulders."
+p111
+aVSo, I decided we've got to do this.
+p112
+aVAnd trust me, I've got a day job, I've got a lot of day jobs.
+p113
+aVMost of my day job keeps me busy
+p114
+aVfunding my fantasies like FIRST and water and power ....
+p115
+aVAnd I've got a lot of day jobs.
+p116
+aVBut I figured I gotta do this.
+p117
+aVDid a little investigation,
+p118
+aVwent down to Washington, told them
+p119
+aVI still think they're nuts but we're going to do it.
+p120
+aVAnd I told them I'd build them an arm.
+p121
+aVI told them it would probably take five years to get through the FDA,
+p122
+aVand probably 10 years to be reasonably functional.
+p123
+aVLook what it takes to make things like iPods.
+p124
+aV"Great," he said, "You got two years."
+p125
+aV(Laughter)
+p126
+aVI said, "I'll tell you what. I'll build you an arm
+p127
+aVthat's under nine pounds
+p128
+aVthat has all that capability in one year.
+p129
+aVIt will take the other nine to make it functional and useful."
+p130
+aVWe sort of agreed to disagree.
+p131
+aa(lp132
+VI went back and I started putting a team together,
+p133
+aVthe best guys I could find with a passion to do this.
+p134
+aVAt the end of exactly one year
+p135
+aVwe had a device with 14 degrees of freedom,
+p136
+aVall the sensors, all the microprocessors,
+p137
+aVall the stuff inside.
+p138
+aVI could show you it with a cosmesis on it
+p139
+aVthat's so real it's eerie, but then you wouldn't see
+p140
+aVall this cool stuff.
+p141
+aVI then thought it would be years
+p142
+aVbefore we'd be able to make it really, really useful.
+p143
+aVIt turned out, as I think you could see
+p144
+aVin Aimee's capabilities and attitudes,
+p145
+aVpeople with a desire to do something
+p146
+aVare quite remarkable and nature is quite adaptable.
+p147
+aa(lp148
+VAnyway, with less than 10 hours of use,
+p149
+aVtwo guys \u2014 one that's bilateral.
+p150
+aVHe's literally, he's got no shoulder on one side,
+p151
+aVand he's high trans-humeral on the other.
+p152
+aVAnd that's Chuck and Randy together,
+p153
+aVafter 10 hours \u2014 were playing in our office.
+p154
+aVAnd we took some pretty cruddy home movies.
+p155
+aVAt the end of the one I'm going to show, it's only about a minute
+p156
+aVand a couple of seconds long,
+p157
+aVChuck does something that to this day I'm jealous of,
+p158
+aVI can't do it.
+p159
+aVHe picks up a spoon, picks it up,
+p160
+aVscoops out some Shredded Wheat and milk,
+p161
+aVholds the spoon level
+p162
+aVas he translates it, moving all these joints simultaneously,
+p163
+aVto his mouth, and he doesn't drop any milk.
+p164
+aV(Laughter)
+p165
+aVI cannot do that.
+p166
+aV(Laughter)
+p167
+aVHis wife was standing behind me.
+p168
+aVShe's standing behind me at the time
+p169
+aVand she says, "Dean,
+p170
+aVChuck hasn't fed himself in 19 years.
+p171
+aVSo, you've got a choice:
+p172
+aVWe keep the arm, or you keep Chuck."
+p173
+aV(Laughter) (Applause)
+p174
+aa(lp175
+VSo, can we see that?
+p176
+aVThis is Chuck showing simultaneous control
+p177
+aVof all the joints.
+p178
+aVHe's punching our controls guy. The guy behind him
+p179
+aVis our engineer/surgeon,
+p180
+aVwhich is a convenient guy to have around.
+p181
+aVThere's Randy, these guys are passing a rubber
+p182
+aVlittle puck between them.
+p183
+aVAnd just as in the spirit of FIRST,
+p184
+aVgracious professionalism, they are quite proud of this,
+p185
+aVso they decide to share a drink.
+p186
+aVThis is a non-trivial thing to do, by the way.
+p187
+aVImagine doing that with a wooden stick and a hook on the end of it,
+p188
+aVdoing either of those.
+p189
+aVNow Chuck is doing something quite extraordinary,
+p190
+aVat least for my limited physical skill.
+p191
+aVAnd now he's going to do what DARPA asked me for.
+p192
+aVHe's going to pick up a grape \u2014 he didn't drop it,
+p193
+aVhe didn't break it \u2014
+p194
+aVand he's going to eat it.
+p195
+aVSo, that's where we were
+p196
+aVat the end of about 15 months.
+p197
+aV(Applause)
+p198
+aa(lp199
+VBut, as I've learned from Richard,
+p200
+aVthe technology, the processors, the sensors, the motors,
+p201
+aVis not the story.
+p202
+aVI hadn't dealt with this kind of problem
+p203
+aVor frankly, this whole segment
+p204
+aVof the medical world.
+p205
+aVI'll give you some astounding things that have happened
+p206
+aVas we started this.
+p207
+aVAfter we were pretty much convinced we had a good design,
+p208
+aVand we'd have to make all the standard engineering trade-offs you always make \u2014
+p209
+aVyou can always get three out of four of anything you want;
+p210
+aVthe weight, the size, the cost, the functionality \u2014
+p211
+aVI put a bunch of guys in my plane
+p212
+aVand I said, "We're flying down to Walter Reed, and we're going talk to these kids,
+p213
+aVbecause frankly it doesn't matter whether we like this arm.
+p214
+aVIt doesn't matter whether the
+p215
+aVDepartment of Defense likes this arm."
+p216
+aVWhen I told them that they weren't entirely enthusiastic,
+p217
+aVbut I told them, "It really doesn't matter what their opinion is.
+p218
+aVThere is only one opinion that matters,
+p219
+aVthe kids that are either going to use it or not."
+p220
+aa(lp221
+VI told a bunch of my engineers, "Look we're going to walk into Walter Reed,
+p222
+aVand you're going to see people, lots of them,
+p223
+aVmissing major body parts.
+p224
+aVThey're probably going to be angry, depressed, frustrated.
+p225
+aVWe're probably going to have to give them support, encouragement.
+p226
+aVBut we've got to extract from them
+p227
+aVenough information to make sure we're doing the right thing."
+p228
+aVWe walked into Walter Reed and I could not have been more wrong.
+p229
+aVWe did see a bunch of people,
+p230
+aVa lot of them missing a lot of body parts,
+p231
+aVand parts they had left were burned;
+p232
+aVhalf a face gone, an ear burned off.
+p233
+aa(lp234
+VThey were sitting at a table. They were brought together for us.
+p235
+aVAnd we started asking them all questions.
+p236
+aV"Look," I'd say to them, "We're not quite as good as nature yet.
+p237
+aVI could give you fine motor control,
+p238
+aVor I could let you curl 40 pounds;
+p239
+aVI probably can't do both.
+p240
+aVI can give you fast control
+p241
+aVwith low reduction ratios in these gears,
+p242
+aVor I can give you power;
+p243
+aVI can't give you both.
+p244
+aVAnd we were trying to get them to all help us
+p245
+aVknow what to give them.
+p246
+aVNot only were they enthusiastic, they kept thinking
+p247
+aVthey're there to help us.
+p248
+aV"Well, would it help if I ..."
+p249
+aV"Guys, and woman,
+p250
+aVyou've given enough.
+p251
+aVWe're here to help you. We need data. We need to know
+p252
+aVwhat you need."
+p253
+aa(lp254
+VAfter a half an hour, maybe, there was one guy at the far end of the table
+p255
+aVwho wasn't saying much.
+p256
+aVYou could see he was missing an arm.
+p257
+aVHe was leaning on his other arm.
+p258
+aVI called down to the end, "Hey, you haven't said much.
+p259
+aVIf we needed this or this, what would you want?"
+p260
+aVAnd he said, "You know,
+p261
+aVI'm the lucky guy at this table.
+p262
+aVI lost my right arm,
+p263
+aVbut I'm a lefty."
+p264
+aV(Laughter)
+p265
+aVSo, he wouldn't say much.
+p266
+aVHe had a great spirit, like all the rest of them had great spirits.
+p267
+aVAnd he made a few comments.
+p268
+aVAnd then the meeting ended. We said goodbye to all these guys.
+p269
+aVAnd that guy pushed himself back from the table ...
+p270
+aVhe has no legs.
+p271
+aa(lp272
+VSo, we left.
+p273
+aVAnd I was thinking,
+p274
+aV"We didn't give them support and encouragement;
+p275
+aVthey gave it to us.
+p276
+aVThey're not finished giving yet."
+p277
+aVIt was astounding.
+p278
+aVSo, we went back.
+p279
+aVAnd I started working harder, faster.
+p280
+aVThen we went out to Brooke Army Medical Center.
+p281
+aVAnd we saw lots of these kids, lots of them.
+p282
+aVAnd it was astounding
+p283
+aVhow positive they are.
+p284
+aVSo, we went back,
+p285
+aVand we've been working harder yet.
+p286
+aVWe're in clinical trials,
+p287
+aVwe've got five of them on people.
+p288
+aVWe're screaming along.
+p289
+aVAnd I get a call and we go back
+p290
+aVto Washington.
+p291
+aa(lp292
+VWe go back to Walter Reed,
+p293
+aVand a kid, literally,
+p294
+aV20 some-odd days before that
+p295
+aVwas blown up.
+p296
+aVAnd they shipped him to Germany
+p297
+aVand 24 hours later they shipped him from Germany
+p298
+aVto Walter Reed.
+p299
+aVAnd he was there,
+p300
+aVand they said we needed to come.
+p301
+aVAnd I went down
+p302
+aVand they rolled him into a room.
+p303
+aVHe's got no legs.
+p304
+aVHe's got no arms.
+p305
+aVHe's got a small residual limb on one side.
+p306
+aVHalf of his face is gone,
+p307
+aVbut they said his vision is coming back.
+p308
+aVHe had one good eye.
+p309
+aVHis name is Brandon Marrocco.
+p310
+aa(lp311
+VAnd he said,
+p312
+aV"I need your arms,
+p313
+aVbut I need two of them."
+p314
+aV"You'll get them."
+p315
+aVThis kid was from Staten Island.
+p316
+aVAnd he said, "I had a truck,
+p317
+aVbefore I went over there,
+p318
+aVand it had a stick.
+p319
+aVYou think I'll be able to drive it?"
+p320
+aV"Sure."
+p321
+aVAnd I turned around and went, "How are we going to do this?"
+p322
+aV(Laughter)
+p323
+aVAnyway, he was just like all the rest of them.
+p324
+aVHe doesn't really want a lot.
+p325
+aVHe wants to help. He told me that
+p326
+aVhe wanted to go back
+p327
+aVto help his buddies.
+p328
+aa(lp329
+VSo, I was on my way out here.
+p330
+aVI was asked to stop at Texas.
+p331
+aVThere were 3,500 people,
+p332
+aVthe Veteran's Administration,
+p333
+aVU.S. ... just 3,500 at this huge event
+p334
+aVto help the families
+p335
+aVof all the kids \u2014
+p336
+aVsome that have died, some that are
+p337
+aVlike Brandon \u2014
+p338
+aVand they wanted me to speak.
+p339
+aVI said, "What am I going to say?
+p340
+aVThis is not a happy thing. Look, if this happens to you,
+p341
+aVI can give you ... This stuff is
+p342
+aVstill not as good at the original equipment."
+p343
+aV"You need to come."
+p344
+aa(lp345
+VSo, I went.
+p346
+aVAnd, as I think you get the point,
+p347
+aVthere were a lot people there recovering.
+p348
+aVSome further along than others.
+p349
+aVBut universally, these people that had been through this
+p350
+aVhad astounding attitudes,
+p351
+aVand just the fact that people care
+p352
+aVmakes a huge difference to them.
+p353
+aa(lp354
+VI'll shut up, except one message
+p355
+aVor concern I have.
+p356
+aVI don't think anybody does it intentionally,
+p357
+aVbut there were people there literally talking about,
+p358
+aV"Well, how much will they get?"
+p359
+aVYou know, this country is involved as we've all heard,
+p360
+aVin this great healthcare debate.
+p361
+aV"Who is entitled to what?
+p362
+aVWho is entitled to how much?
+p363
+aVWho is going to pay for it?"
+p364
+aVThose are tough questions.
+p365
+aVI don't have an answer to that. Not everybody
+p366
+aVcan be entitled to everything simply because you were born here.
+p367
+aVIt's not possible. It would be nice
+p368
+aVbut let's be realistic.
+p369
+aa(lp370
+VThey were tough questions. There's polarized groups down there.
+p371
+aVI don't know the answers.
+p372
+aVThere are other questions that are tough.
+p373
+aV"Should we be there?
+p374
+aVHow do we get out?
+p375
+aVWhat do we need to do?" There's very polarized
+p376
+aVanswers to that question too,
+p377
+aVand I don't have any answers to that.
+p378
+aVThose are political questions, economic questions,
+p379
+aVstrategic questions.
+p380
+aVI don't have the answer. But let me give you a simple
+p381
+aVconcern or maybe statement, then.
+p382
+aVIt is an easy answer.
+p383
+aa(lp384
+VI know what these kids deserve
+p385
+aVon the healthcare side.
+p386
+aVI was talking to one of them,
+p387
+aVand he was really liking this arm \u2014
+p388
+aVit's way, way, way better than a plastic
+p389
+aVstick with a hook on it \u2014
+p390
+aVbut there's nobody in this room that would rather have that
+p391
+aVthan the one you got.
+p392
+aVBut I was saying to him, "You know,
+p393
+aVthe first airplane
+p394
+aVwent 100 feet in 1903.
+p395
+aVWilbur and Orville.
+p396
+aVBut you know what? It wouldn't have made an old pigeon jealous.
+p397
+aVBut now we got Eagles out there,
+p398
+aVF15s, even that Bald Eagle.
+p399
+aVI've never seen a bird flying around at Mach 2.
+p400
+aVI think eventually we'll make these things extraordinary."
+p401
+aVAnd I said to that kid,
+p402
+aV"I'll stop when your buddies
+p403
+aVare envious of your Luke arm
+p404
+aVbecause of what it can do, and how it does it.
+p405
+aVAnd we'll keep working. And I'm not going to stop working
+p406
+aVuntil we do that."
+p407
+aa(lp408
+VAnd I think this country
+p409
+aVought to continue its great debate,
+p410
+aVwhining and complaining, "I'm entitled." "You're a victim."
+p411
+aVAnd whining and complaining about what our foreign policy ought to be.
+p412
+aVBut while we have the luxury of whining and complaining about
+p413
+aVwho's paying for what and how much we get,
+p414
+aVthe people that are out there
+p415
+aVgiving us that great privilege of whining and complaining,
+p416
+aVI know what they deserve:
+p417
+aVeverything humanly possible.
+p418
+aVAnd we ought to give it to them.
+p419
+aV(Applause)
+p420
+aasS'id'
+p421
+I819
+sS'title'
+p422
+VThe emotion behind invention
+p423
+s.

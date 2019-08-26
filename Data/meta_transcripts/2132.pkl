@@ -1,0 +1,728 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThe first patient to ever be  treated with an antibiotic
+p4
+aVwas a policeman in Oxford.
+p5
+aVOn his day off from work,
+p6
+aVhe was scratched by a rose thorn while working in the garden.
+p7
+aVThat small scratch became infected.
+p8
+aVOver the next few days,  his head was swollen
+p9
+aVwith abscesses,
+p10
+aVand in fact his eye was so infected
+p11
+aVthat they had to take it out,
+p12
+aVand by February of 1941,
+p13
+aVthis poor man was on the verge of dying.
+p14
+aVHe was at Radcliffe Infirmary in Oxford,
+p15
+aVand fortunately for him,
+p16
+aVa small team of doctors
+p17
+aVled by a Dr. Howard Florey
+p18
+aVhad managed to synthesize
+p19
+aVa very small amount of penicillin,
+p20
+aVa drug that had been discovered
+p21
+aV12 years before by Alexander Fleming
+p22
+aVbut had never actually been  used to treat a human,
+p23
+aVand indeed no one even  knew if the drug would work,
+p24
+aVif it was full of impurities  that would kill the patient,
+p25
+aVbut Florey and his team figured
+p26
+aVif they had to use it,  they might as well use it
+p27
+aVon someone who was going to die anyway.
+p28
+aa(lp29
+VSo they gave Albert Alexander,
+p30
+aVthis Oxford policeman, the drug,
+p31
+aVand within 24 hours,
+p32
+aVhe started getting better.
+p33
+aVHis fever went down,  his appetite came back.
+p34
+aVSecond day, he was doing much better.
+p35
+aVThey were starting to  run out of penicillin,
+p36
+aVso what they would do  was run with his urine
+p37
+aVacross the road to re-synthesize  the penicillin from his urine
+p38
+aVand give it back to him,
+p39
+aVand that worked.
+p40
+aVDay four, well on the way to recovery.
+p41
+aVThis was a miracle.
+p42
+aVDay five, they ran out of penicillin,
+p43
+aVand the poor man died.
+p44
+aa(lp45
+VSo that story didn't end that well,
+p46
+aVbut fortunately for  millions of other people,
+p47
+aVlike this child who was treated  again in the early 1940s,
+p48
+aVwho was again dying of a sepsis,
+p49
+aVand within just six days, you can see,
+p50
+aVrecovered thanks to this  wonder drug, penicillin.
+p51
+aVMillions have lived,
+p52
+aVand global health has been transformed.
+p53
+aVNow, antibiotics have been used
+p54
+aVfor patients like this,
+p55
+aVbut they've also been  used rather frivolously
+p56
+aVin some instances,
+p57
+aVfor treating someone  with just a cold or the flu,
+p58
+aVwhich they might not have  responded to an antibiotic,
+p59
+aVand they've also been  used in large quantities
+p60
+aVsub-therapeutically, which means in small concentrations,
+p61
+aVto make chicken and hogs grow faster.
+p62
+aVJust to save a few pennies on the price of meat,
+p63
+aVwe've spent a lot of  antibiotics on animals,
+p64
+aVnot for treatment, not for sick animals,
+p65
+aVbut primarily for growth promotion.
+p66
+aa(lp67
+VNow, what did that lead us to?
+p68
+aVBasically, the massive use of antibiotics
+p69
+aVaround the world
+p70
+aVhas imposed such large selection pressure on bacteria
+p71
+aVthat resistance is now a problem,
+p72
+aVbecause we've now selected for just
+p73
+aVthe resistant bacteria.
+p74
+aa(lp75
+VAnd I'm sure you've all read about this in the newspapers,
+p76
+aVyou've seen this in every magazine
+p77
+aVthat you come across,
+p78
+aVbut I really want you to appreciate
+p79
+aVthe significance of this problem.
+p80
+aVThis is serious.
+p81
+aVThe next slide I'm about to show you is  of carbapenem resistance in acinetobacter.
+p82
+aVAcinetobacter is a nasty hospital bug,
+p83
+aVand carbapenem is pretty much
+p84
+aVthe strongest class of antibiotics
+p85
+aVthat we can throw at this bug.
+p86
+aVAnd you can see in 1999
+p87
+aVthis is the pattern of resistance,
+p88
+aVmostly under about 10 percent across the United States.
+p89
+aVNow watch what happens  when we play the video.
+p90
+aa(lp91
+VSo I don't know where you live,
+p92
+aVbut wherever it is, it certainly is a lot worse now
+p93
+aVthan it was in 1999,
+p94
+aVand that is the problem of antibiotic resistance.
+p95
+aVIt's a global issue
+p96
+aVaffecting both rich and poor countries,
+p97
+aVand at the heart of it,  you might say, well,
+p98
+aVisn't this really just a medical issue?
+p99
+aVIf we taught doctors how not  to use antibiotics as much,
+p100
+aVif we taught patients how  not to demand antibiotics,
+p101
+aVperhaps this really wouldn't be an issue,
+p102
+aVand maybe the pharmaceutical companies
+p103
+aVshould be working harder to develop
+p104
+aVmore antibiotics.
+p105
+aVNow, it turns out that there's something  fundamental about antibiotics
+p106
+aVwhich makes it different from other drugs,
+p107
+aVwhich is that if I misuse antibiotics
+p108
+aVor I use antibiotics,
+p109
+aVnot only am I affected but  others are affected as well,
+p110
+aVin the same way as if I  choose to drive to work
+p111
+aVor take a plane to go somewhere,
+p112
+aVthat the costs I impose on others
+p113
+aVthrough global climate change go everywhere,
+p114
+aVand I don't necessarily take these costs into consideration.
+p115
+aVThis is what economists might  call a problem of the commons,
+p116
+aVand the problem of the commons is exactly
+p117
+aVwhat we face in the case  of antibiotics as well:
+p118
+aVthat we don't consider \u2014
+p119
+aVand we, including individuals, patients,
+p120
+aVhospitals, entire health systems \u2014
+p121
+aVdo not consider the costs  that they impose on others
+p122
+aVby the way antibiotics are actually used.
+p123
+aa(lp124
+VNow, that's a problem that's similar
+p125
+aVto another area that we all know about,
+p126
+aVwhich is of fuel use and energy,
+p127
+aVand of course energy use
+p128
+aVboth depletes energy as well as
+p129
+aVleads to local pollution  and climate change.
+p130
+aVAnd typically, in the case of energy,
+p131
+aVthere are two ways in which you can deal with the problem.
+p132
+aVOne is, we can make better use of the oil that we have,
+p133
+aVand that's analogous to making better use
+p134
+aVof existing antibiotics,
+p135
+aVand we can do this in a number of ways
+p136
+aVthat we'll talk about in a second,
+p137
+aVbut the other option is the  "drill, baby, drill" option,
+p138
+aVwhich in the case of antibiotics  is to go find new antibiotics.
+p139
+aa(lp140
+VNow, these are not separate.
+p141
+aVThey're related, because if we invest heavily
+p142
+aVin new oil wells,
+p143
+aVwe reduce the incentives  for conservation of oil
+p144
+aVin the same way that's going  to happen for antibiotics.
+p145
+aVThe reverse is also going  to happen, which is that
+p146
+aVif we use our antibiotics appropriately,
+p147
+aVwe don't necessarily have  to make the investments
+p148
+aVin new drug development.
+p149
+aa(lp150
+VAnd if you thought that these two were entirely,
+p151
+aVfully balanced between these two options,
+p152
+aVyou might consider the fact that
+p153
+aVthis is really a game that we're playing.
+p154
+aVThe game is really one of coevolution,
+p155
+aVand coevolution is, in  this particular picture,
+p156
+aVbetween cheetahs and gazelles.
+p157
+aVCheetahs have evolved to run faster,
+p158
+aVbecause if they didn't run faster,
+p159
+aVthey wouldn't get any lunch.
+p160
+aVGazelles have evolved to run faster because
+p161
+aVif they don't run faster, they would be lunch.
+p162
+aVNow, this is the game we're playing against the bacteria,
+p163
+aVexcept we're not the cheetahs,
+p164
+aVwe're the gazelles,
+p165
+aVand the bacteria would,
+p166
+aVjust in the course of this little talk,
+p167
+aVwould have had kids and grandkids
+p168
+aVand figured out how to be resistant
+p169
+aVjust by selection and trial and error,
+p170
+aVtrying it over and over again.
+p171
+aVWhereas how do we stay  ahead of the bacteria?
+p172
+aVWe have drug discovery processes,
+p173
+aVscreening molecules,
+p174
+aVwe have clinical trials,
+p175
+aVand then, when we think we have a drug,
+p176
+aVthen we have the FDA regulatory process.
+p177
+aVAnd once we go through all of that,
+p178
+aVthen we try to stay one step ahead
+p179
+aVof the bacteria.
+p180
+aa(lp181
+VNow, this is clearly not a  game that can be sustained,
+p182
+aVor one that we can win
+p183
+aVby simply innovating to stay ahead.
+p184
+aVWe've got to slow the pace of coevolution down,
+p185
+aVand there are ideas that we  can borrow from energy
+p186
+aVthat are helpful in thinking about
+p187
+aVhow we might want to do this in the case
+p188
+aVof antibiotics as well.
+p189
+aVNow, if you think about how we deal with
+p190
+aVenergy pricing, for instance,
+p191
+aVwe consider emissions taxes,
+p192
+aVwhich means we're imposing  the costs of pollution
+p193
+aVon people who actually use that energy.
+p194
+aVWe might consider doing that for antibiotics as well,
+p195
+aVand perhaps that would make sure that antibiotics
+p196
+aVactually get used appropriately.
+p197
+aVThere are clean energy subsidies,
+p198
+aVwhich are to switch to fuels which don't pollute as much
+p199
+aVor perhaps don't need fossil fuels.
+p200
+aVNow, the analogy here is, perhaps we need
+p201
+aVto move away from using antibiotics,
+p202
+aVand if you think about it, what are  good substitutes for antibiotics?
+p203
+aVWell, turns out that anything that reduces
+p204
+aVthe need for the antibiotic would really work,
+p205
+aVso that could include improving hospital infection control
+p206
+aVor vaccinating people,
+p207
+aVparticularly against  the seasonal influenza.
+p208
+aVAnd the seasonal flu is probably
+p209
+aVthe biggest driver of antibiotic use,
+p210
+aVboth in this country as well as in many other countries,
+p211
+aVand that could really help.
+p212
+aVA third option might include something like tradeable permits.
+p213
+aVAnd these seem like faraway scenarios,
+p214
+aVbut if you consider the  fact that we might not
+p215
+aVhave antibiotics for many  people who have infections,
+p216
+aVwe might consider the fact that we might
+p217
+aVwant to allocate who actually gets to use
+p218
+aVsome of these antibiotics over others,
+p219
+aVand some of these might have to be on the basis of clinical need,
+p220
+aVbut also on the basis of pricing.
+p221
+aVAnd certainly consumer education works.
+p222
+aVVery often, people overuse antibiotics
+p223
+aVor prescribe too much without necessarily
+p224
+aVknowing that they do so,
+p225
+aVand feedback mechanisms
+p226
+aVhave been found to be useful,
+p227
+aVboth on energy \u2014
+p228
+aVWhen you tell someone that they're using
+p229
+aVa lot of energy during peak hour,
+p230
+aVthey tend to cut back,
+p231
+aVand the same sort of example has been performed
+p232
+aVeven in the case of antibiotics.
+p233
+aVA hospital in St. Louis basically would put up
+p234
+aVon a chart the names of surgeons
+p235
+aVin the ordering of how much antibiotics they'd used
+p236
+aVin the previous month,
+p237
+aVand this was purely an  informational feedback,
+p238
+aVthere was no shaming,
+p239
+aVbut essentially that provided  some information back
+p240
+aVto surgeons that maybe they could rethink
+p241
+aVhow they were using antibiotics.
+p242
+aa(lp243
+VNow, there's a lot that can be done
+p244
+aVon the supply side as well.
+p245
+aVIf you look at the price of penicillin,
+p246
+aVthe cost per day is about 10 cents.
+p247
+aVIt's a fairly cheap drug.
+p248
+aVIf you take drugs that have been introduced since then \u2014
+p249
+aVlinezolid or daptomycin \u2014
+p250
+aVthose are significantly more expensive,
+p251
+aVso to a world that has been used to paying 10 cents a day for antibiotics,
+p252
+aVthe idea of paying 180 dollars per day
+p253
+aVseems like a lot.
+p254
+aVBut what is that really telling us?
+p255
+aVThat price is telling us
+p256
+aVthat we should no longer
+p257
+aVtake cheap, effective  antibiotics as a given
+p258
+aVinto the foreseeable future,
+p259
+aVand that price is a signal to us
+p260
+aVthat perhaps we need to be paying
+p261
+aVmuch more attention to conservation.
+p262
+aVThat price is also a signal
+p263
+aVthat maybe we need to start looking at other technologies,
+p264
+aVin the same way that  gasoline prices are a signal
+p265
+aVand an impetus, to, say,
+p266
+aVthe development of electric cars.
+p267
+aVPrices are important signals
+p268
+aVand we need to pay attention,
+p269
+aVbut we also need to consider the fact that
+p270
+aValthough these high prices seem unusual for antibiotics,
+p271
+aVthey're nothing compared to the price per day
+p272
+aVof some cancer drugs,
+p273
+aVwhich might save a patient's life only for a few months or perhaps a year,
+p274
+aVwhereas antibiotics would potentially
+p275
+aVsave a patient's life forever.
+p276
+aVSo this is going to involve
+p277
+aVa whole new paradigm shift,
+p278
+aVand it's also a scary shift because
+p279
+aVin many parts of this country,
+p280
+aVin many parts of the world,
+p281
+aVthe idea of paying 200 dollars
+p282
+aVfor a day of antibiotic treatment
+p283
+aVis simply unimaginable.
+p284
+aVSo we need to think about that.
+p285
+aa(lp286
+VNow, there are backstop options,
+p287
+aVwhich is other alternative technologies
+p288
+aVthat people are working on.
+p289
+aVIt includes bacteriophages, probiotics,
+p290
+aVquorum sensing, synbiotics.
+p291
+aa(lp292
+VNow, all of these are useful avenues to pursue,
+p293
+aVand they will become even more lucrative
+p294
+aVwhen the price of new  antibiotics starts going higher,
+p295
+aVand we've seen that the market does actually respond,
+p296
+aVand the government is now considering
+p297
+aVways of subsidizing new  antibiotics and development.
+p298
+aVBut there are challenges here.
+p299
+aVWe don't want to just throw money at a problem.
+p300
+aVWhat we want to be able to do
+p301
+aVis invest in new antibiotics
+p302
+aVin ways that actually encourage
+p303
+aVappropriate use and sales of those antibiotics,
+p304
+aVand that really is the challenge here.
+p305
+aa(lp306
+VNow, going back to these technologies,
+p307
+aVyou all remember the line from that famous
+p308
+aVdinosaur film, "Nature will find a way."
+p309
+aVSo it's not as if these are  permanent solutions.
+p310
+aVWe really have to remember that, whatever the technology might be,
+p311
+aVthat nature will find some  way to work around it.
+p312
+aa(lp313
+VYou might think, well,  this is just a problem
+p314
+aVjust with antibiotics and with bacteria,
+p315
+aVbut it turns out that we  have the exact same
+p316
+aVidentical problem in  many other fields as well,
+p317
+aVwith multidrug-resistant tuberculosis,
+p318
+aVwhich is a serious problem  in India and South Africa.
+p319
+aVThousands of patients are dying because
+p320
+aVthe second-line drugs are so expensive,
+p321
+aVand in some instances, even those don't work
+p322
+aVand you have XDR TB.
+p323
+aVViruses are becoming resistant.
+p324
+aVAgricultural pests. Malaria parasites.
+p325
+aVRight now, much of the world depends on
+p326
+aVone drug, artemisinin drugs,
+p327
+aVessentially to treat malaria.
+p328
+aVResistance to artemisinin has already emerged,
+p329
+aVand if this were to become widespread,
+p330
+aVthat puts at risk
+p331
+aVthe single drug that we have to  treat malaria around the world
+p332
+aVin a way that's currently  safe and efficacious.
+p333
+aVMosquitos develop resistance.
+p334
+aVIf you have kids, you probably  know about head lice,
+p335
+aVand if you're from New York City,
+p336
+aVI understand that the  specialty there is bedbugs.
+p337
+aVSo those are also resistant.
+p338
+aVAnd we have to bring an example from across the pond.
+p339
+aVTurns out that rats are  also resistant to poisons.
+p340
+aa(lp341
+VNow, what's common  to all of these things is
+p342
+aVthe idea that we've had these technologies
+p343
+aVto control nature only for  the last 70, 80 or 100 years
+p344
+aVand essentially in a blink,
+p345
+aVwe have squandered our ability to control,
+p346
+aVbecause we have not recognized
+p347
+aVthat natural selection and  evolution was going to find
+p348
+aVa way to get back,
+p349
+aVand we need to completely rethink
+p350
+aVhow we're going to use
+p351
+aVmeasures to control biological organisms,
+p352
+aVand rethink how we incentivize
+p353
+aVthe development, introduction,
+p354
+aVin the case of antibiotics prescription,
+p355
+aVand use of these valuable resources.
+p356
+aVAnd we really now need to  start thinking about them
+p357
+aVas natural resources.
+p358
+aVAnd so we stand at a crossroads.
+p359
+aVAn option is to go through that rethinking
+p360
+aVand carefully consider incentives
+p361
+aVto change how we do business.
+p362
+aVThe alternative is
+p363
+aVa world in which even a blade of grass
+p364
+aVis a potentially lethal weapon.
+p365
+aa(lp366
+VThank you.
+p367
+aa(lp368
+V(Applause)
+p369
+aasS'id'
+p370
+I2132
+sS'title'
+p371
+VThe coming crisis in antibiotics
+p372
+s.

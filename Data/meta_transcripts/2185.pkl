@@ -1,0 +1,502 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VOne of the first patients I had to see as a pediatrician was Sol,
+p4
+aVa beautiful month-old baby
+p5
+aVwho was admitted with signs of a severe respiratory infection.
+p6
+aVUntil then, I had never seen a patient worsen so fast.
+p7
+aVIn just two days she was connected to a respirator
+p8
+aVand on the third day she died.
+p9
+aVSol had whooping cough.
+p10
+aVAfter discussing the case in the room and after a quite distressing catharsis,
+p11
+aVI remember my chief resident said to me,
+p12
+aV"Okay, take a deep breath. Wash your face.
+p13
+aVAnd now comes the hardest part:
+p14
+aVWe have to go talk to her parents."
+p15
+aVAt that time, a thousand questions came to mind,
+p16
+aVfrom, "How could a one-month-old baby be so unfortunate?"
+p17
+aVto, "Could we have done something about it?"
+p18
+aa(lp19
+VBefore vaccines existed,
+p20
+aVmany infectious diseases killed millions of people per year.
+p21
+aVDuring the 1918 flu pandemic
+p22
+aV50 million people died.
+p23
+aVThat's greater than Argentina's current population.
+p24
+aVPerhaps, the older ones among you remember the polio epidemic
+p25
+aVthat occurred in Argentina in 1956.
+p26
+aVAt that time, there was no vaccine available against polio.
+p27
+aVPeople didn't know what to do. They were going crazy.
+p28
+aVThey would go painting trees with caustic lime.
+p29
+aVThey'd put little bags of camphor
+p30
+aVin their children's underwear, as if that could do something.
+p31
+aVDuring the polio epidemic, thousands of people died.
+p32
+aVAnd thousands of people were left with very significant neurological damage.
+p33
+aVI know this because I read about it,
+p34
+aVbecause thanks to vaccines, my generation was lucky
+p35
+aVto not live through an epidemic as terrible as this.
+p36
+aa(lp37
+VVaccines are one of the great successes of the 20th century's public health.
+p38
+aVAfter potable water,
+p39
+aVthey are the interventions that have most reduced mortality,
+p40
+aVeven more than antibiotics.
+p41
+aVVaccines eradicated terrible diseases such as smallpox from the planet
+p42
+aVand succeeded in significantly reducing mortality
+p43
+aVdue to other diseases such as measles,
+p44
+aVwhooping cough, polio and many more.
+p45
+aa(lp46
+VAll these diseases are considered vaccine-preventable diseases.
+p47
+aVWhat does this mean?
+p48
+aVThat they are potentially preventable,
+p49
+aVbut in order to be so, something must be done.
+p50
+aVYou need to get vaccinated.
+p51
+aVI imagine that most, if not all of us here today,
+p52
+aVreceived a vaccine at some point in our life.
+p53
+aVNow, I'm not so sure that many of us know
+p54
+aVwhich vaccines or boosters we should receive after adolescence.
+p55
+aVHave you ever wondered who we are protecting
+p56
+aVwhen we vaccinate?
+p57
+aVWhat do I mean by that?
+p58
+aVIs there any other effect beyond protecting ourselves?
+p59
+aa(lp60
+VLet me show you something.
+p61
+aVImagine for a moment
+p62
+aVthat we are in a city
+p63
+aVthat has never had a case of a particular disease,
+p64
+aVsuch as the measles.
+p65
+aVThis would mean that no one in the city has ever had contact with the disease.
+p66
+aVNo one has natural defenses against, nor been vaccinated against measles.
+p67
+aVIf one day, a person sick with the measles appears in this city
+p68
+aVthe disease won't find much resistance
+p69
+aVand will begin spreading from person to person,
+p70
+aVand in no time it will disseminate throughout the community.
+p71
+aVAfter a certain time
+p72
+aVa big part of the population will be ill.
+p73
+aVThis happened when there were no vaccines.
+p74
+aa(lp75
+VNow, imagine the complete opposite case.
+p76
+aVWe are in a city
+p77
+aVwhere more than 90 percent of the population
+p78
+aVhas defenses against the measles, which means
+p79
+aVthat they either had the disease, survived, and developed natural defenses;
+p80
+aVor that they had been immunized against measles.
+p81
+aVIf one day,
+p82
+aVa person sick with the measles appears in this city,
+p83
+aVthe disease will find much more resistance
+p84
+aVand won't be transmitted that much from person to person.
+p85
+aVThe spread will probably remain contained
+p86
+aVand a measles outbreak won't happen.
+p87
+aa(lp88
+VI would like you to pay attention to something.
+p89
+aVPeople who are vaccinated
+p90
+aVare not only protecting themselves,
+p91
+aVbut by blocking the dissemination of the disease
+p92
+aVwithin the community,
+p93
+aVthey are indirectly protecting the people in this community
+p94
+aVwho are not vaccinated.
+p95
+aVThey create a kind of protective shield
+p96
+aVwhich prevents them from coming in contact with the disease,
+p97
+aVso that these people are protected.
+p98
+aVThis indirect protection
+p99
+aVthat the unvaccinated people within a community receive
+p100
+aVsimply by being surrounded by vaccinated people,
+p101
+aVis called herd immunity.
+p102
+aa(lp103
+VMany people in the community
+p104
+aVdepend almost exclusively on this herd immunity
+p105
+aVto be protected against disease.
+p106
+aVThe unvaccinated people you see in infographics are not just hypothetical.
+p107
+aVThose people are our nieces and nephews, our children,
+p108
+aVwho may be too young to receive their first shots.
+p109
+aVThey are our parents, our siblings,
+p110
+aVour acquaintances,
+p111
+aVwho may have a disease,
+p112
+aVor take medication that lowers their defenses.
+p113
+aVThere are also people who are allergic to a particular vaccine.
+p114
+aVThey could even be among us,
+p115
+aVany of us who got vaccinated,
+p116
+aVbut the vaccine didn't produce the expected effect,
+p117
+aVbecause not all vaccines are always 100 percent effective.
+p118
+aVAll these people depend almost exclusively on herd immunity
+p119
+aVto be protected against diseases.
+p120
+aa(lp121
+VTo achieve this effect of herd immunity,
+p122
+aVit is necessary that a large percentage of the population be vaccinated.
+p123
+aVThis percentage is called the threshold.
+p124
+aVThe threshold depends on many variables:
+p125
+aVIt depends on the germ's characteristics,
+p126
+aVand those of the immune response that the vaccine generates.
+p127
+aVBut they all have something in common.
+p128
+aVIf the percentage of the population in a vaccinated community
+p129
+aVis below this threshold number,
+p130
+aVthe disease will begin to spread more freely
+p131
+aVand may generate an outbreak of this disease within the community.
+p132
+aVEven diseases which were  at some point controlled may reappear.
+p133
+aa(lp134
+VThis is not just a theory.
+p135
+aVThis has happened, and is still happening.
+p136
+aVIn 1998, a British researcher published an article
+p137
+aVin one of the most important medical journals,
+p138
+aVsaying that the MMR vaccine,
+p139
+aVwhich is given for measles, mumps and rubella,
+p140
+aVwas associated with autism.
+p141
+aVThis generated an immediate impact.
+p142
+aVPeople began to stop getting vaccinated, and stopped vaccinating their children.
+p143
+aVAnd what happened?
+p144
+aVThe number of people vaccinated,
+p145
+aVin many communities around the world, fell below this threshold.
+p146
+aVAnd there were outbreaks of measles in many cities in the world \u2014
+p147
+aVin the U.S., in Europe.
+p148
+aVMany people got sick.
+p149
+aVPeople died of measles.
+p150
+aVWhat happened?
+p151
+aa(lp152
+VThis article also generated a huge stir within the medical community.
+p153
+aVDozens of researchers began to assess if this was actually true.
+p154
+aVNot only could no one find
+p155
+aVa causal association between MMR and autism at the population level,
+p156
+aVbut it was also found that this article had incorrect claims.
+p157
+aVEven more, it was fraudulent.
+p158
+aVIt was fraudulent.
+p159
+aVIn fact, the journal publicly retracted the article in 2010.
+p160
+aVOne of the main concerns and excuses for not getting vaccinated
+p161
+aVare the adverse effects.
+p162
+aa(lp163
+VVaccines, like other drugs, can have potential adverse effects.
+p164
+aVMost are mild and temporary.
+p165
+aVBut the benefits are always greater than possible complications.
+p166
+aVWhen we are ill, we want to heal fast.
+p167
+aVMany of us who are here
+p168
+aVtake antibiotics when we have an infection,
+p169
+aVwe take anti-hypertensives when we have high blood pressure,
+p170
+aVwe take cardiac medications.
+p171
+aVWhy? Because we are sick and we want to heal fast.
+p172
+aVAnd we don't question it much.
+p173
+aVWhy is it so difficult to think of preventing diseases,
+p174
+aVby taking care of ourselves when we are healthy?
+p175
+aVWe take care of ourselves a lot when affected by an illness,
+p176
+aVor in situations of imminent danger.
+p177
+aa(lp178
+VI imagine most of us here,
+p179
+aVremember the influenza-A pandemic
+p180
+aVwhich broke out in 2009 in Argentina and worldwide.
+p181
+aVWhen the first cases began to come to light,
+p182
+aVwe, here in Argentina, were entering the winter season.
+p183
+aVWe knew absolutely nothing.
+p184
+aVEverything was a mess.
+p185
+aVPeople wore masks on the street, ran into pharmacies to buy alcohol gel.
+p186
+aVPeople would line up in pharmacies to get a vaccine,
+p187
+aVwithout even knowing if it was the right vaccine
+p188
+aVthat would protect them against this new virus.
+p189
+aVWe knew absolutely nothing.
+p190
+aVAt that time, in addition to doing my fellowship at the Infant Foundation,
+p191
+aVI worked as a home pediatrician for a prepaid medicine company.
+p192
+aVI remember that I started my shift at 8 a.m.,
+p193
+aVand by 8, I already had a list of 50 scheduled visits.
+p194
+aVIt was chaos; people didn't know what to do.
+p195
+aVI remember the types of patients that I was examining.
+p196
+aVThe patients were a little older than what we were used to seeing in winter,
+p197
+aVwith longer fevers.
+p198
+aa(lp199
+VAnd I mentioned that to my fellowship mentor,
+p200
+aVand he, for his part, had heard the same from a colleague,
+p201
+aVabout the large number of pregnant women
+p202
+aVand young adults
+p203
+aVbeing hospitalized in intensive care,
+p204
+aVwith hard-to-manage clinical profiles.
+p205
+aVAt that time, we set out to understand what was happening.
+p206
+aVFirst thing Monday morning, we took the car
+p207
+aVand went to a hospital in Buenos Aires Province,
+p208
+aVthat served as a referral hospital for cases of the new influenza virus.
+p209
+aVWe arrived at the hospital; it was crowded.
+p210
+aVAll health staff were dressed in NASA-like bio-safety suits.
+p211
+aVWe all had face masks in our pockets.
+p212
+aVI, being a hypochondriac, didn't breathe for two hours.
+p213
+aVBut we could see what was happening.
+p214
+aVImmediately, we started reaching out to pediatricians
+p215
+aVfrom six hospitals in the city and in Buenos Aires Province.
+p216
+aVOur main goal was to find out
+p217
+aVhow this new virus behaved in contact with our children,
+p218
+aVin the shortest time possible.
+p219
+aVA marathon work.
+p220
+aVIn less than three months,
+p221
+aVwe could see what effect this new H1N1 virus had
+p222
+aVon the 251 children hospitalized by this virus.
+p223
+aVWe could see which children got more seriously ill:
+p224
+aVchildren under four, especially those less than one year old;
+p225
+aVpatients with neurological diseases;
+p226
+aVand young children with chronic pulmonary diseases.
+p227
+aVIdentifying these at-risk groups was important
+p228
+aVto include them as priority groups
+p229
+aVin the recommendations for getting the influenza vaccine,
+p230
+aVnot only here in Argentina,
+p231
+aVbut also in other countries which the pandemic not yet reached.
+p232
+aa(lp233
+VA year later,
+p234
+aVwhen a vaccine against the pandemic H1N1 virus became available,
+p235
+aVwe wanted to see what happened.
+p236
+aVAfter a huge vaccination campaign
+p237
+aVaimed at protecting at-risk groups,
+p238
+aVthese hospitals, with 93 percent of the at-risk groups vaccinated,
+p239
+aVhad not hospitalized a single patient
+p240
+aVfor the pandemic H1N1 virus.
+p241
+aV(Applause)
+p242
+aVIn 2009: 251.
+p243
+aVIn 2010: zero.
+p244
+aa(lp245
+VVaccination is an act of individual responsibility,
+p246
+aVbut it has a huge collective impact.
+p247
+aVIf I get vaccinated, not only am I protecting myself,
+p248
+aVbut I am also protecting others.
+p249
+aVSol had whooping cough.
+p250
+aVSol was very young,
+p251
+aVand she hadn't yet received her first vaccine against whooping cough.
+p252
+aVI still wonder what would have happened
+p253
+aVif everyone around Sol had been vaccinated.
+p254
+aV(Applause)
+p255
+aasS'id'
+p256
+I2185
+sS'title'
+p257
+VThe power of herd immunity
+p258
+s.

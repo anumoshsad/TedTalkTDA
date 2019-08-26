@@ -1,0 +1,560 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWe are all activists now.
+p4
+aa(lp5
+V(Applause)
+p6
+aa(lp7
+VThank you.
+p8
+aa(lp9
+VI'll just stop here.
+p10
+aa(lp11
+V(Laughter)
+p12
+aa(lp13
+VFrom the families who are fighting to maintain funding for public schools,
+p14
+aVthe tens of thousands of people who joined Occupy Wall Street
+p15
+aVor marched with Black Lives Matter
+p16
+aVto protest police brutality against African Americans,
+p17
+aVfamilies that join rallies,
+p18
+aVpro-life and pro-choice,
+p19
+aVthose of us who are afraid
+p20
+aVthat our friends and neighbors are going to be deported
+p21
+aVor that they'll be added to lists
+p22
+aVbecause they are Muslim,
+p23
+aVpeople who advocate for gun rights and for gun control
+p24
+aVand the millions of people who joined the women's marches
+p25
+aVall across the country this last January.
+p26
+aa(lp27
+V(Applause)
+p28
+aa(lp29
+VWe are all activists now,
+p30
+aVand that means that we all have something to worry about from surveillance.
+p31
+aVSurveillance means government collection and use
+p32
+aVof private and sensitive data about us.
+p33
+aVAnd surveillance is essential
+p34
+aVto law enforcement and to national security.
+p35
+aVBut the history of surveillance
+p36
+aVis one that includes surveillance abuses
+p37
+aVwhere this sensitive information has been used against people
+p38
+aVbecause of their race,
+p39
+aVtheir national origin,
+p40
+aVtheir sexual orientation,
+p41
+aVand in particular, because of their activism,
+p42
+aVtheir political beliefs.
+p43
+aa(lp44
+VAbout 53 years ago,
+p45
+aVDr. Martin Luther King Jr. gave his "I have a dream" speech
+p46
+aVon the Mall in Washington.
+p47
+aVAnd today the ideas behind this speech of racial equality and tolerance
+p48
+aVare so noncontroversial
+p49
+aVthat my daughters study the speech in third grade.
+p50
+aVBut at the time,
+p51
+aVDr. King was extremely controversial.
+p52
+aVThe legendary and notorious FBI Director J. Edgar Hoover believed,
+p53
+aVor wanted to believe,
+p54
+aVthat the Civil Rights Movement was a Soviet communist plot
+p55
+aVintended to destabilize the American government.
+p56
+aVAnd so Hoover had his agents put bugs in Dr. King's hotel rooms,
+p57
+aVand those bugs picked up conversations between civil rights leaders
+p58
+aVtalking about the strategies and tactics of the Civil Rights Movement.
+p59
+aVThey also picked up sounds of Dr. King
+p60
+aVhaving sex with women who were not his wife,
+p61
+aVand J. Edgar Hoover saw the opportunity here
+p62
+aVto discredit and undermine the Civil Rights Movement.
+p63
+aVThe FBI sent a package of these recordings
+p64
+aValong with a handwritten note to Dr. King,
+p65
+aVand a draft of this note was found in FBI archives years later,
+p66
+aVand the letter said,
+p67
+aV"You are no clergyman and you know it.
+p68
+aVKing, like all frauds, your end is approaching."
+p69
+aVThe letter even seemed to encourage Dr. King to commit suicide,
+p70
+aVsaying, "King, there is only one thing left for you to do.
+p71
+aVYou know what it is.
+p72
+aVYou better take it before your filthy, abnormal, fraudulent self
+p73
+aVis bared to the nation."
+p74
+aa(lp75
+VBut the important thing is,
+p76
+aVDr. King was not abnormal.
+p77
+aVEvery one of us has something that we want to hide from somebody.
+p78
+aVAnd even more important,
+p79
+aVJ. Edgar Hoover wasn't abnormal either.
+p80
+aVThe history of surveillance abuses
+p81
+aVis not the history of one bad, megalomaniacal man.
+p82
+aVThroughout his decades at the FBI,
+p83
+aVJ. Edgar Hoover enjoyed the support of the presidents that he served,
+p84
+aVDemocratic and Republican alike.
+p85
+aVAfter all, it was John F. Kennedy and his brother Robert Kennedy
+p86
+aVwho knew about and approved the surveillance of Dr. King.
+p87
+aVHoover ran a program called COINTELPRO for 15 years
+p88
+aVwhich was designed to spy on and undermine civic groups
+p89
+aVthat were devoted to things like civil rights,
+p90
+aVthe Women's Rights Movement,
+p91
+aVand peace groups and anti-war movements.
+p92
+aVAnd the surveillance didn't stop there.
+p93
+aVLyndon Baines Johnson,
+p94
+aVduring the election campaign,
+p95
+aVhad the campaign airplane of his rival Barry Goldwater bugged
+p96
+aVas part of his effort to win that election.
+p97
+aVAnd then, of course, there was Watergate.
+p98
+aVBurglars were caught
+p99
+aVbreaking into the Democratic National Committee headquarters
+p100
+aVat the Watergate Hotel,
+p101
+aVthe Nixon administration was involved in covering up the burglary,
+p102
+aVand eventually Nixon had to step down as president.
+p103
+aVCOINTELPRO and Watergate were a wake-up call for Americans.
+p104
+aVSurveillance was out of control
+p105
+aVand it was being used to squelch political challengers.
+p106
+aVAnd so Americans rose to the occasion
+p107
+aVand what we did was we reformed surveillance law.
+p108
+aVAnd the primary tool we used to reform surveillance law
+p109
+aVwas to require a search warrant
+p110
+aVfor the government to be able to get access to our phone calls and our letters.
+p111
+aVNow, the reason why a search warrant is important
+p112
+aVis because it interposes a judge
+p113
+aVin the relationship between investigators and the citizens,
+p114
+aVand that judge's job is to make sure
+p115
+aVthat there's good cause for the surveillance,
+p116
+aVthat the surveillance is targeted at the right people,
+p117
+aVand that the information that's collected
+p118
+aVis going to be used for legitimate government purposes
+p119
+aVand not for discriminatory ones.
+p120
+aVThis was our system,
+p121
+aVand what this means is
+p122
+aVthat President Obama did not wiretap Trump Tower.
+p123
+aVThe system is set up to prevent something like that from happening
+p124
+aVwithout a judge being involved.
+p125
+aa(lp126
+VBut what happens when we're not talking about phone calls or letters anymore?
+p127
+aVToday, we have technology
+p128
+aVthat makes it cheap and easy for the government to collect information
+p129
+aVon ordinary everyday people.
+p130
+aVYour phone call records
+p131
+aVcan reveal whether you have an addiction,
+p132
+aVwhat your religion is,
+p133
+aVwhat charities you donate to,
+p134
+aVwhat political candidate you support.
+p135
+aVAnd yet, our government collected, dragnet-style,
+p136
+aVAmericans' calling records for years.
+p137
+aVIn 2012, the Republican National Convention
+p138
+aVhighlighted a new technology it was planning to use,
+p139
+aVfacial recognition,
+p140
+aVto identify people who were going to be in the crowd
+p141
+aVwho might be activists or troublemakers
+p142
+aVand to stop them ahead of time.
+p143
+aVToday, over 50 percent of American adults
+p144
+aVhave their faceprint in a government database.
+p145
+aVThe Bureau of Alcohol, Tobacco, Firearms and Explosives
+p146
+aVconcocted a plan
+p147
+aVto find out what Americans were going to gun shows
+p148
+aVby using license plate detectors
+p149
+aVto scan the license plates of cars
+p150
+aVthat were in the parking lots of these events.
+p151
+aVToday, we believe that over 70 percent of police departments
+p152
+aVhave automatic license plate detection technology
+p153
+aVthat they're using to track people's cars as they drive through town.
+p154
+aVAnd all of this information,
+p155
+aVthe license plates, the faceprints,
+p156
+aVthe phone records,
+p157
+aVyour address books, your buddy lists,
+p158
+aVthe photos that you upload to Dropbox or Google Photos,
+p159
+aVand sometimes even your chats and your emails
+p160
+aVare not protected by a warrant requirement.
+p161
+aVSo what that means is we have all of this information on regular people
+p162
+aVthat's newly available at very low expense.
+p163
+aVIt is the golden age for surveillance.
+p164
+aa(lp165
+VNow, every parent is going to understand what this means.
+p166
+aVWhen you have a little baby
+p167
+aVand the baby's young,
+p168
+aVthat child is not able to climb out of its crib.
+p169
+aVBut eventually your little girl gets older
+p170
+aVand she's able to climb out of the crib,
+p171
+aVbut you tell her, "Don't climb out of the crib. OK?"
+p172
+aVAnd every parent knows what's going to happen.
+p173
+aVSome of those babies are going to climb out of the crib.
+p174
+aVRight? That's the difference between ability and permission.
+p175
+aVWell, the same thing is true with the government today.
+p176
+aVIt used to be that our government didn't have the ability
+p177
+aVto do widespread, massive surveillance on hundreds of millions of Americans
+p178
+aVand then abuse that information.
+p179
+aVBut now our government has grown up,
+p180
+aVand we have that technology today.
+p181
+aVThe government has the ability,
+p182
+aVand that means the law is more important than ever before.
+p183
+aVThe law is supposed to say
+p184
+aVwhen the government has permission to do it,
+p185
+aVand it's supposed to ensure that there's some kind of ramification.
+p186
+aVWe notice when those laws are broken
+p187
+aVand there's some of kind of ramification or punishment.
+p188
+aVThe law is more important than ever because we are now living in a world
+p189
+aVwhere only rules are stopping the government
+p190
+aVfrom abusing this information.
+p191
+aa(lp192
+VBut the law has fallen down on the job.
+p193
+aVParticularly since September 11 the law has fallen down on the job,
+p194
+aVand we do not have the rules in place that we need.
+p195
+aVAnd we are seeing the ramifications of that.
+p196
+aVSo fusion centers are these joint task forces
+p197
+aVbetween local, state and federal government
+p198
+aVthat are meant to ferret out domestic terrorism.
+p199
+aVAnd what we've seen is fusion center reports
+p200
+aVthat say that you might be dangerous
+p201
+aVif you voted for a third-party candidate,
+p202
+aVor you own a "Don't Tread On Me" flag,
+p203
+aVor you watched movies that are anti-tax.
+p204
+aVThese same fusion centers have spied on Muslim community groups' reading lists
+p205
+aVand on Quakers who are resisting military recruiting in high schools.
+p206
+aVThe Internal Revenue Service has disproportionately audited
+p207
+aVgroups that have "Tea Party" or "Patriot" in their name.
+p208
+aVAnd now customs and border patrol
+p209
+aVis stopping people as they come into the country
+p210
+aVand demanding our social networking passwords
+p211
+aVwhich will allow them to see who our friends are,
+p212
+aVwhat we say
+p213
+aVand even to impersonate us online.
+p214
+aa(lp215
+VNow, civil libertarians like myself
+p216
+aVhave been trying to draw people's attention to these things
+p217
+aVand fighting against them for years.
+p218
+aVThis was a huge problem during the Obama administration,
+p219
+aVbut now the problem is worse.
+p220
+aVWhen the New York Police Department
+p221
+aVspies on Muslims
+p222
+aVor a police department uses license plate detectors
+p223
+aVto find out where the officers' spouses are
+p224
+aVor those sorts of things,
+p225
+aVthat is extremely dangerous.
+p226
+aVBut when a president repurposes the power
+p227
+aVof federal surveillance and the federal government
+p228
+aVto retaliate against political opposition,
+p229
+aVthat is a tyranny.
+p230
+aVAnd so we are all activists now,
+p231
+aVand we all have something to fear from surveillance.
+p232
+aVBut just like in the time of Dr. Martin Luther King,
+p233
+aVwe can reform the way things are.
+p234
+aa(lp235
+VFirst of all, use encryption.
+p236
+aVEncryption protects your information
+p237
+aVfrom being inexpensively and opportunistically collected.
+p238
+aVIt rolls back the golden age for surveillance.
+p239
+aa(lp240
+VSecond, support surveillance reform.
+p241
+aVDid you know that if you have a friend
+p242
+aVwho works for the French or German governments
+p243
+aVor for an international human rights group
+p244
+aVor for a global oil company
+p245
+aVthat your friend is a valid foreign intelligence target?
+p246
+aVAnd what that means is that when you have conversations with that friend,
+p247
+aVthe US government may be collecting that information.
+p248
+aVAnd when that information is collected,
+p249
+aVeven though it's conversations with Americans,
+p250
+aVit can then be funneled to the FBI
+p251
+aVwhere the FBI is allowed to search through it
+p252
+aVwithout getting a warrant,
+p253
+aVwithout probable cause,
+p254
+aVlooking for information about Americans
+p255
+aVand whatever crimes we may have committed
+p256
+aVwith no need to document any kind of suspicion.
+p257
+aVThe law that allows some of this to happen
+p258
+aVis called Section 702 of the FISA Amendments Act,
+p259
+aVand we have a great opportunity this year,
+p260
+aVbecause Section 702 is going to expire at the end of 2017,
+p261
+aVwhich means that Congress's inertia is on our side
+p262
+aVif we want reform.
+p263
+aVAnd we can pressure our representatives
+p264
+aVto actually implement important reforms to this law
+p265
+aVand protect our data from this redirection and misuse.
+p266
+aa(lp267
+VAnd finally, one of the reasons why things have gotten so out of control
+p268
+aVis because so much of what happens with surveillance \u2014
+p269
+aVthe technology, the enabling rules and the policies
+p270
+aVthat are either there or not there to protect us \u2014
+p271
+aVare secret or classified.
+p272
+aVWe need transparency, and we need to know as Americans
+p273
+aVwhat the government is doing in our name
+p274
+aVso that the surveillance that takes place and the use of that information
+p275
+aVis democratically accounted for.
+p276
+aa(lp277
+VWe are all activists now,
+p278
+aVwhich means that we all have something to worry about from surveillance.
+p279
+aVBut like in the time of Dr. Martin Luther King,
+p280
+aVthere is stuff that we can do about it.
+p281
+aVSo please join me, and let's get to work.
+p282
+aa(lp283
+VThank you.
+p284
+aa(lp285
+V(Applause)
+p286
+aasS'id'
+p287
+I2866
+sS'title'
+p288
+VHow the US government spies on people who protest -- including you
+p289
+s.

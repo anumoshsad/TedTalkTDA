@@ -1,0 +1,766 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIn two weeks time, that's the ninth anniversary
+p4
+aVof the day I first stepped out onto that hallowed "Jeopardy" set.
+p5
+aVI mean, nine years is a long time.
+p6
+aVAnd given "Jeopardy's" average demographics,
+p7
+aVI think what that means
+p8
+aVis most of the people who saw me on that show are now dead.
+p9
+aV(Laughter)
+p10
+aVBut not all, a few are still alive.
+p11
+aVOccasionally I still get recognized at the mall or whatever.
+p12
+aVAnd when I do, it's as a bit of a know-it-all.
+p13
+aVI think that ship has sailed, it's too late for me.
+p14
+aVFor better or for worse, that's what I'm going to be known as,
+p15
+aVas the guy who knew a lot of weird stuff.
+p16
+aa(lp17
+VAnd I can't complain about this.
+p18
+aVI feel like that was always sort of my destiny,
+p19
+aValthough I had for many years been pretty deeply in the trivia closet.
+p20
+aVIf nothing else, you realize very quickly as a teenager,
+p21
+aVit is not a hit with girls to know Captain Kirk's middle name.
+p22
+aV(Laughter)
+p23
+aVAnd as a result, I was sort of the deeply closeted kind of know-it-all for many years.
+p24
+aVBut if you go further back, if you look at it, it's all there.
+p25
+aVI was the kind of kid who was always bugging Mom and Dad
+p26
+aVwith whatever great fact I had just read about \u2014
+p27
+aVHaley's comet or giant squids
+p28
+aVor the size of the world's biggest pumpkin pie or whatever it was.
+p29
+aVI now have a 10-year-old of my own who's exactly the same.
+p30
+aVAnd I know how deeply annoying it is, so karma does work.
+p31
+aV(Laughter)
+p32
+aa(lp33
+VAnd I loved game shows, fascinated with game shows.
+p34
+aVI remember crying on my first day of kindergarten back in 1979
+p35
+aVbecause it had just hit me, as badly as I wanted to go to school,
+p36
+aVthat I was also going to miss "Hollywood Squares" and "Family Feud."
+p37
+aVI was going to miss my game shows.
+p38
+aVAnd later, in the mid-'80s,
+p39
+aVwhen "Jeopardy" came back on the air,
+p40
+aVI remember running home from school every day to watch the show.
+p41
+aVIt was my favorite show, even before it paid for my house.
+p42
+aVAnd we lived overseas, we lived in South Korea where my dad was working,
+p43
+aVwhere there was only one English language TV channel.
+p44
+aVThere was Armed Forces TV,
+p45
+aVand if you didn't speak Korean, that's what you were watching.
+p46
+aVSo me and all my friends would run home every day and watch "Jeopardy."
+p47
+aa(lp48
+VI was always that kind of obsessed trivia kid.
+p49
+aVI remember being able to play Trivial Pursuit against my parents back in the '80s
+p50
+aVand holding my own, back when that was a fad.
+p51
+aVThere's a weird sense of mastery you get
+p52
+aVwhen you know some bit of boomer trivia that Mom and Dad don't know.
+p53
+aVYou know some Beatles factoid that Dad didn't know.
+p54
+aVAnd you think, ah hah, knowledge really is power \u2014
+p55
+aVthe right fact deployed at exactly the right place.
+p56
+aa(lp57
+VI never had a guidance counselor
+p58
+aVwho thought this was a legitimate career path,
+p59
+aVthat thought you could major in trivia
+p60
+aVor be a professional ex-game show contestant.
+p61
+aVAnd so I sold out way too young.
+p62
+aVI didn't try to figure out what one does with that.
+p63
+aVI studied computers because I heard that was the thing,
+p64
+aVand I became a computer programmer \u2014
+p65
+aVnot an especially good one,
+p66
+aVnot an especially happy one at the time when I was first on "Jeopardy" in 2004.
+p67
+aVBut that's what I was doing.
+p68
+aa(lp69
+VAnd it made it doubly ironic \u2014 my computer background \u2014
+p70
+aVa few years later, I think 2009 or so,
+p71
+aVwhen I got another phone call from "Jeopardy" saying,
+p72
+aV"It's early days yet, but IBM tells us
+p73
+aVthey want to build a supercomputer to beat you at 'Jeopardy.'
+p74
+aVAre you up for this?"
+p75
+aVThis was the first I'd heard of it.
+p76
+aVAnd of course I said yes, for several reasons.
+p77
+aVOne, because playing "Jeopardy" is a great time.
+p78
+aVIt's fun. It's the most fun you can have with your pants on.
+p79
+aV(Laughter)
+p80
+aVAnd I would do it for nothing.
+p81
+aVI don't think they know that, luckily,
+p82
+aVbut I would go back and play for Arby's coupons.
+p83
+aVI just love "Jeopardy," and I always have.
+p84
+aVAnd second of all, because I'm a nerdy guy and this seemed like the future.
+p85
+aVPeople playing computers on game shows
+p86
+aVwas the kind of thing I always imagined would happen in the future,
+p87
+aVand now I could be on the stage with it.
+p88
+aVI was not going to say no.
+p89
+aa(lp90
+VThe third reason I said yes
+p91
+aVis because I was pretty confident that I was going to win.
+p92
+aVI had taken some artificial intelligence classes.
+p93
+aVI knew there were no computers that could do what you need to do to win on "Jeopardy."
+p94
+aVPeople don't realize how tough it is to write that kind of program
+p95
+aVthat can read a "Jeopardy" clue in a natural language like English
+p96
+aVand understand all the double meanings, the puns, the red herrings,
+p97
+aVunpack the meaning of the clue.
+p98
+aVThe kind of thing that a three- or four-year-old human, little kid could do,
+p99
+aVvery hard for a computer.
+p100
+aVAnd I thought, well this is going to be child's play.
+p101
+aVYes, I will come destroy the computer and defend my species.
+p102
+aV(Laughter)
+p103
+aa(lp104
+VBut as the years went on,
+p105
+aVas IBM started throwing money and manpower and processor speed at this,
+p106
+aVI started to get occasional updates from them,
+p107
+aVand I started to get a little more worried.
+p108
+aVI remember a journal article about this new question answering software that had a graph.
+p109
+aVIt was a scatter chart showing performance on "Jeopardy,"
+p110
+aVtens of thousands of dots representing "Jeopardy" champions up at the top
+p111
+aVwith their performance plotted on number of \u2014
+p112
+aVI was going to say questions answered, but answers questioned, I guess,
+p113
+aVclues responded to \u2014
+p114
+aVversus the accuracy of those answers.
+p115
+aVSo there's a certain performance level that the computer would need to get to.
+p116
+aVAnd at first, it was very low.
+p117
+aVThere was no software that could compete at this kind of arena.
+p118
+aVBut then you see the line start to go up.
+p119
+aVAnd it's getting very close to what they call the winner's cloud.
+p120
+aVAnd I noticed in the upper right of the scatter chart
+p121
+aVsome darker dots, some black dots, that were a different color.
+p122
+aVAnd thought, what are these?
+p123
+aV"The black dots in the upper right represent 74-time 'Jeopardy' champion Ken Jennings."
+p124
+aVAnd I saw this line coming for me.
+p125
+aVAnd I realized, this is it.
+p126
+aVThis is what it looks like when the future comes for you.
+p127
+aV(Laughter)
+p128
+aVIt's not the Terminator's gun sight;
+p129
+aVit's a little line coming closer and closer to the thing you can do,
+p130
+aVthe only thing that makes you special, the thing you're best at.
+p131
+aa(lp132
+VAnd when the game eventually happened about a year later,
+p133
+aVit was very different than the "Jeopardy" games I'd been used to.
+p134
+aVWe were not playing in L.A. on the regular "Jeopardy" set.
+p135
+aVWatson does not travel.
+p136
+aVWatson's actually huge.
+p137
+aVIt's thousands of processors, a terabyte of memory,
+p138
+aVtrillions of bytes of memory.
+p139
+aVWe got to walk through his climate-controlled server room.
+p140
+aVThe only other "Jeopardy" contestant to this day I've ever been inside.
+p141
+aVAnd so Watson does not travel.
+p142
+aVYou must come to it; you must make the pilgrimage.
+p143
+aa(lp144
+VSo me and the other human player
+p145
+aVwound up at this secret IBM research lab
+p146
+aVin the middle of these snowy woods in Westchester County
+p147
+aVto play the computer.
+p148
+aVAnd we realized right away
+p149
+aVthat the computer had a big home court advantage.
+p150
+aVThere was a big Watson logo in the middle of the stage.
+p151
+aVLike you're going to play the Chicago Bulls,
+p152
+aVand there's the thing in the middle of their court.
+p153
+aVAnd the crowd was full of IBM V.P.s and programmers
+p154
+aVcheering on their little darling,
+p155
+aVhaving poured millions of dollars into this
+p156
+aVhoping against hope that the humans screw up,
+p157
+aVand holding up "Go Watson" signs
+p158
+aVand just applauding like pageant moms every time their little darling got one right.
+p159
+aVI think guys had "W-A-T-S-O-N" written on their bellies in grease paint.
+p160
+aVIf you can imagine computer programmers with the letters "W-A-T-S-O-N" written on their gut,
+p161
+aVit's an unpleasant sight.
+p162
+aa(lp163
+VBut they were right. They were exactly right.
+p164
+aVI don't want to spoil it, if you still have this sitting on your DVR,
+p165
+aVbut Watson won handily.
+p166
+aVAnd I remember standing there behind the podium
+p167
+aVas I could hear that little insectoid thumb clicking.
+p168
+aVIt had a robot thumb that was clicking on the buzzer.
+p169
+aVAnd you could hear that little tick, tick, tick, tick.
+p170
+aVAnd I remember thinking, this is it.
+p171
+aVI felt obsolete.
+p172
+aVI felt like a Detroit factory worker of the '80s
+p173
+aVseeing a robot that could now do his job on the assembly line.
+p174
+aVI felt like quiz show contestant was now the first job that had become obsolete
+p175
+aVunder this new regime of thinking computers.
+p176
+aVAnd it hasn't been the last.
+p177
+aa(lp178
+VIf you watch the news, you'll see occasionally \u2014
+p179
+aVand I see this all the time \u2014
+p180
+aVthat pharmacists now, there's a machine that can fill prescriptions automatically
+p181
+aVwithout actually needing a human pharmacist.
+p182
+aVAnd a lot of law firms are getting rid of paralegals
+p183
+aVbecause there's software that can sum up case laws and legal briefs and decisions.
+p184
+aVYou don't need human assistants for that anymore.
+p185
+aVI read the other day about a program where you feed it a box score
+p186
+aVfrom a baseball or football game
+p187
+aVand it spits out a news article as if a human had watched the game
+p188
+aVand was commenting on it.
+p189
+aVAnd obviously these new technologies can't do as clever or creative a job
+p190
+aVas the humans they're replacing,
+p191
+aVbut they're faster, and crucially, they're much, much cheaper.
+p192
+aVSo it makes me wonder what the economic effects of this might be.
+p193
+aVI've read economists saying that, as a result of these new technologies,
+p194
+aVwe'll enter a new golden age of leisure
+p195
+aVwhen we'll all have time for the things we really love
+p196
+aVbecause all these onerous tasks will be taken over by Watson and his digital brethren.
+p197
+aVI've heard other people say quite the opposite,
+p198
+aVthat this is yet another tier of the middle class
+p199
+aVthat's having the thing they can do taken away from them by a new technology
+p200
+aVand that this is actually something ominous,
+p201
+aVsomething that we should worry about.
+p202
+aa(lp203
+VI'm not an economist myself.
+p204
+aVAll I know is how it felt to be the guy put out of work.
+p205
+aVAnd it was friggin' demoralizing. It was terrible.
+p206
+aVHere's the one thing that I was ever good at,
+p207
+aVand all it took was IBM pouring tens of millions of dollars and its smartest people
+p208
+aVand thousands of processors working in parallel
+p209
+aVand they could do the same thing.
+p210
+aVThey could do it a little bit faster and a little better on national TV,
+p211
+aVand "I'm sorry, Ken. We don't need you anymore."
+p212
+aVAnd it made me think, what does this mean,
+p213
+aVif we're going to be able to start outsourcing,
+p214
+aVnot just lower unimportant brain functions.
+p215
+aVI'm sure many of you remember a distant time
+p216
+aVwhen we had to know phone numbers, when we knew our friends' phone numbers.
+p217
+aVAnd suddenly there was a machine that did that,
+p218
+aVand now we don't need to remember that anymore.
+p219
+aVI have read that there's now actually evidence
+p220
+aVthat the hippocampus, the part of our brain that handles spacial relationships,
+p221
+aVphysically shrinks and atrophies
+p222
+aVin people who use tools like GPS,
+p223
+aVbecause we're not exercising our sense of direction anymore.
+p224
+aVWe're just obeying a little talking voice on our dashboard.
+p225
+aVAnd as a result, a part of our brain that's supposed to do that kind of stuff
+p226
+aVgets smaller and dumber.
+p227
+aVAnd it made me think, what happens when computers are now better
+p228
+aVat knowing and remembering stuff than we are?
+p229
+aVIs all of our brain going to start to shrink and atrophy like that?
+p230
+aVAre we as a culture going to start to value knowledge less?
+p231
+aVAs somebody who has always believed in the importance of the stuff that we know,
+p232
+aVthis was a terrifying idea to me.
+p233
+aa(lp234
+VThe more I thought about it, I realized, no, it's still important.
+p235
+aVThe things we know are still important.
+p236
+aVI came to believe there were two advantages
+p237
+aVthat those of us who have these things in our head have
+p238
+aVover somebody who says, "Oh, yeah. I can Google that. Hold on a second."
+p239
+aVThere's an advantage of volume, and there's an advantage of time.
+p240
+aa(lp241
+VThe advantage of volume, first,
+p242
+aVjust has to do with the complexity of the world nowadays.
+p243
+aVThere's so much information out there.
+p244
+aVBeing a Renaissance man or woman,
+p245
+aVthat's something that was only possible in the Renaissance.
+p246
+aVNow it's really not possible
+p247
+aVto be reasonably educated on every field of human endeavor.
+p248
+aVThere's just too much.
+p249
+aVThey say that the scope of human information
+p250
+aVis now doubling every 18 months or so,
+p251
+aVthe sum total of human information.
+p252
+aVThat means between now and late 2014,
+p253
+aVwe will generate as much information, in terms of gigabytes,
+p254
+aVas all of humanity has in all the previous millenia put together.
+p255
+aVIt's doubling every 18 months now.
+p256
+aVThis is terrifying because a lot of the big decisions we make
+p257
+aVrequire the mastery of lots of different kinds of facts.
+p258
+aVA decision like where do I go to school? What should I major in?
+p259
+aVWho do I vote for?
+p260
+aVDo I take this job or that one?
+p261
+aVThese are the decisions that require correct judgments
+p262
+aVabout many different kinds of facts.
+p263
+aVIf we have those facts at our mental fingertips,
+p264
+aVwe're going to be able to make informed decisions.
+p265
+aVIf, on the other hand, we need to look them all up,
+p266
+aVwe may be in trouble.
+p267
+aVAccording to a National Geographic survey I just saw,
+p268
+aVsomewhere along the lines of 80 percent
+p269
+aVof the people who vote in a U.S. presidential election about issues like foreign policy
+p270
+aVcannot find Iraq or Afghanistan on a map.
+p271
+aVIf you can't do that first step,
+p272
+aVare you really going to look up the other thousand facts you're going to need to know
+p273
+aVto master your knowledge of U.S. foreign policy?
+p274
+aVQuite probably not.
+p275
+aVAt some point you're just going to be like,
+p276
+aV"You know what? There's too much to know. Screw it."
+p277
+aVAnd you'll make a less informed decision.
+p278
+aa(lp279
+VThe other issue is the advantage of time that you have
+p280
+aVif you have all these things at your fingertips.
+p281
+aVI always think of the story of a little girl named Tilly Smith.
+p282
+aVShe was a 10-year-old girl from Surrey, England
+p283
+aVon vacation with her parents a few years ago in Phuket, Thailand.
+p284
+aVShe runs up to them on the beach one morning
+p285
+aVand says, "Mom, Dad, we've got to get off the beach."
+p286
+aVAnd they say, "What do you mean? We just got here."
+p287
+aVAnd she said, "In Mr. Kearney's geography class last month,
+p288
+aVhe told us that when the tide goes out abruptly out to sea
+p289
+aVand you see the waves churning way out there,
+p290
+aVthat's the sign of a tsunami, and you need to clear the beach."
+p291
+aVWhat would you do if your 10-year-old daughter came up to you with this?
+p292
+aVHer parents thought about it,
+p293
+aVand they finally, to their credit, decided to believe her.
+p294
+aVThey told the lifeguard, they went back to the hotel,
+p295
+aVand the lifeguard cleared over 100 people off the beach, luckily,
+p296
+aVbecause that was the day of the Boxing Day tsunami,
+p297
+aVthe day after Christmas, 2004,
+p298
+aVthat killed thousands of people in Southeast Asia and around the Indian Ocean.
+p299
+aVBut not on that beach, not on Mai Khao Beach,
+p300
+aVbecause this little girl had remembered one fact from her geography teacher a month before.
+p301
+aa(lp302
+VNow when facts come in handy like that \u2014
+p303
+aVI love that story because it shows you the power of one fact,
+p304
+aVone remembered fact in exactly the right place at the right time \u2014
+p305
+aVnormally something that's easier to see on game shows than in real life.
+p306
+aVBut in this case it happened in real life.
+p307
+aVAnd it happens in real life all the time.
+p308
+aVIt's not always a tsunami, often it's a social situation.
+p309
+aVIt's a meeting or job interview or first date
+p310
+aVor some relationship that gets lubricated
+p311
+aVbecause two people realize they share some common piece of knowledge.
+p312
+aVYou say where you're from, and I say, "Oh, yeah."
+p313
+aVOr your alma mater or your job,
+p314
+aVand I know just a little something about it,
+p315
+aVenough to get the ball rolling.
+p316
+aVPeople love that shared connection that gets created
+p317
+aVwhen somebody knows something about you.
+p318
+aVIt's like they took the time to get to know you before you even met.
+p319
+aVThat's often the advantage of time.
+p320
+aVAnd it's not effective if you say, "Well, hold on.
+p321
+aVYou're from Fargo, North Dakota. Let me see what comes up.
+p322
+aVOh, yeah. Roger Maris was from Fargo."
+p323
+aVThat doesn't work. That's just annoying.
+p324
+aV(Laughter)
+p325
+aa(lp326
+VThe great 18th-century British theologian and thinker, friend of Dr. Johnson,
+p327
+aVSamuel Parr once said, "It's always better to know a thing than not to know it."
+p328
+aVAnd if I have lived my life by any kind of creed, it's probably that.
+p329
+aVI have always believed that the things we know \u2014 that knowledge is an absolute good,
+p330
+aVthat the things we have learned and carry with us in our heads
+p331
+aVare what make us who we are,
+p332
+aVas individuals and as a species.
+p333
+aVI don't know if I want to live in a world where knowledge is obsolete.
+p334
+aVI don't want to live in a world where cultural literacy has been replaced
+p335
+aVby these little bubbles of specialty,
+p336
+aVso that none of us know about the common associations
+p337
+aVthat used to bind our civilization together.
+p338
+aVI don't want to be the last trivia know-it-all
+p339
+aVsitting on a mountain somewhere,
+p340
+aVreciting to himself the state capitals and the names of "Simpsons" episodes
+p341
+aVand the lyrics of Abba songs.
+p342
+aVI feel like our civilization works when this is a vast cultural heritage that we all share
+p343
+aVand that we know without having to outsource it to our devices,
+p344
+aVto our search engines and our smartphones.
+p345
+aa(lp346
+VIn the movies, when computers like Watson start to think,
+p347
+aVthings don't always end well.
+p348
+aVThose movies are never about beautiful utopias.
+p349
+aVIt's always a terminator or a matrix or an astronaut getting sucked out an airlock in "2001."
+p350
+aVThings always go terribly wrong.
+p351
+aVAnd I feel like we're sort of at the point now
+p352
+aVwhere we need to make that choice of what kind of future we want to be living in.
+p353
+aVThis is a question of leadership,
+p354
+aVbecause it becomes a question of who leads the future.
+p355
+aVOn the one hand, we can choose between a new golden age
+p356
+aVwhere information is more universally available
+p357
+aVthan it's ever been in human history,
+p358
+aVwhere we all have the answers to our questions at our fingertips.
+p359
+aVAnd on the other hand,
+p360
+aVwe have the potential to be living in some gloomy dystopia
+p361
+aVwhere the machines have taken over
+p362
+aVand we've all decided it's not important what we know anymore,
+p363
+aVthat knowledge isn't valuable because it's all out there in the cloud,
+p364
+aVand why would we ever bother learning anything new.
+p365
+aa(lp366
+VThose are the two choices we have. I know which future I would rather be living in.
+p367
+aVAnd we can all make that choice.
+p368
+aVWe make that choice by being curious, inquisitive people who like to learn,
+p369
+aVwho don't just say, "Well, as soon as the bell has rung and the class is over,
+p370
+aVI don't have to learn anymore,"
+p371
+aVor "Thank goodness I have my diploma. I'm done learning for a lifetime.
+p372
+aVI don't have to learn new things anymore."
+p373
+aVNo, every day we should be striving to learn something new.
+p374
+aVWe should have this unquenchable curiosity for the world around us.
+p375
+aVThat's where the people you see on "Jeopardy" come from.
+p376
+aVThese know-it-alls, they're not Rainman-style savants
+p377
+aVsitting at home memorizing the phone book.
+p378
+aVI've met a lot of them.
+p379
+aVFor the most part, they are just normal folks
+p380
+aVwho are universally interested in the world around them, curious about everything,
+p381
+aVthirsty for this knowledge about whatever subject.
+p382
+aa(lp383
+VWe can live in one of these two worlds.
+p384
+aVWe can live in a world where our brains, the things that we know,
+p385
+aVcontinue to be the thing that makes us special,
+p386
+aVor a world in which we've outsourced all of that to evil supercomputers from the future like Watson.
+p387
+aVLadies and gentlemen, the choice is yours.
+p388
+aa(lp389
+VThank you very much.
+p390
+aasS'id'
+p391
+I1708
+sS'title'
+p392
+VWatson, Jeopardy and me, the obsolete know-it-all
+p393
+s.

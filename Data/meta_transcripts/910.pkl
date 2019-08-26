@@ -1,0 +1,462 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm Ellen and I'm totally obsessed with food.
+p4
+aVBut I didn't start out obsessed with food.
+p5
+aVI started out obsessed with global security policy,
+p6
+aVbecause I lived in New York during 9/11 and it was a very relevant thing.
+p7
+aVI got from global security policy to food
+p8
+aVbecause I realized when I'm hungry, I'm really pissed off,
+p9
+aVand I'm assuming the rest of the world is too.
+p10
+aVEspecially if you and your kids are hungry and your neighbor's kids are hungry
+p11
+aVand your whole neighborhood is hungry.
+p12
+aVAnd actually, it looks like the areas of the world that are hungry
+p13
+aVare also the areas of the world that are pretty insecure.
+p14
+aa(lp15
+VSo I took a job at the United Nations World Food Programme
+p16
+aVas a way to try to address these security issues
+p17
+aVthrough food security issues.
+p18
+aVThere, I came across what I think is the most brilliant of their programs.
+p19
+aVIt's called School Feeding and it's a really simple idea
+p20
+aVto get in the middle of the cycle of poverty and hunger
+p21
+aVthat continues for a lot of people around the world, and stop it.
+p22
+aVA free school meal gets kids into school,
+p23
+aVwhich is education, the first step out of poverty,
+p24
+aVbut it also gives them the micronutrients and the macronutrients they need
+p25
+aVto develop mentally and physically.
+p26
+aa(lp27
+VWhile I was working at the UN, I met this girl. Her name is Lauren Bush.
+p28
+aVAnd she had this really awesome idea to sell the bag, called the "Feed Bag" \u2014
+p29
+aVwhich is really beautifully ironic because you can strap on the Feed Bag.
+p30
+aVBut each bag we'd sell would provide
+p31
+aVa year's worth of school meals for one kid.
+p32
+aVIt's so simple, and we thought, OK,
+p33
+aVit costs between 20 and 50 bucks to provide school feeding for a year.
+p34
+aVWe could sell these bags and raise a ton of money and awareness
+p35
+aVfor the World Food Programme.
+p36
+aVBut at the UN, sometimes things move slowly
+p37
+aVand they basically said no.
+p38
+aVAnd we thought, this is such a good idea, it's going to raise so much money.
+p39
+aVSo we said screw it, we'll start our own company,
+p40
+aVwhich we did, three years ago.
+p41
+aVThat was my first dream, to start this company called FEED,
+p42
+aVand here's a screenshot of our website.
+p43
+aVWe did a bag for Haiti just a month after the earthquake
+p44
+aVto provide school meals for kids in Haiti.
+p45
+aVSo FEED's doing great.
+p46
+aVWe've so far provided 55 million meals to kids around the world
+p47
+aVby selling now 550,000 bags, a ton of bags, a lot of bags.
+p48
+aa(lp49
+VAll this time you're really \u2014
+p50
+aVhunger is a hard thing to think about,
+p51
+aVbecause what we think about is eating.
+p52
+aVI think about eating a lot and I really love it.
+p53
+aVAnd the thing that's strange about international hunger
+p54
+aVand talking about international issues
+p55
+aVis that most people want to know:
+p56
+aV"What are you doing for America's kids?"
+p57
+aVThere's definitely hunger in America:
+p58
+aV49 million people and almost 16.7 million children.
+p59
+aVI mean that's pretty dramatic for our own country.
+p60
+aVHunger definitely means something different in America
+p61
+aVthan it does internationally,
+p62
+aVbut it's incredibly important to address hunger in our own country.
+p63
+aVBut the bigger problem that we all know about is obesity,
+p64
+aVand it's dramatic.
+p65
+aVThe other thing that's dramatic
+p66
+aVis that both hunger and obesity have really risen in the last 30 years.
+p67
+aVUnfortunately, obesity's not only an American problem.
+p68
+aVIt's actually been spreading all around the world
+p69
+aVand mainly through our kind of food systems that we're exporting.
+p70
+aVThe numbers are pretty crazy.
+p71
+aVThere's a billion people obese or overweight
+p72
+aVand a billion people hungry.
+p73
+aa(lp74
+VSo those seem like two bifurcated problems,
+p75
+aVbut I kind of started to think about, you know,
+p76
+aVwhat is obesity and hunger?
+p77
+aVWhat are both those things about?
+p78
+aVWell, they're both about food.
+p79
+aVAnd when you think about food,
+p80
+aVthe underpinning of food in both cases is potentially problematic agriculture.
+p81
+aVAnd agriculture is where food comes from.
+p82
+aVAgriculture in America's very interesting.
+p83
+aVIt's very consolidated
+p84
+aVand the foods that are produced lead to the foods that we eat.
+p85
+aVThe foods that are produced are, more or less, corn, soy and wheat.
+p86
+aVAnd that's three-quarters of the food that we're eating:
+p87
+aVprocessed foods and fast foods.
+p88
+aVUnfortunately, in our agricultural system,
+p89
+aVwe haven't done a good job in the last three decades
+p90
+aVof exporting those technologies around the world.
+p91
+aVSo African agriculture, which is the place of most hunger in the world,
+p92
+aVhas actually fallen precipitously as hunger has risen.
+p93
+aVSo somehow we're not making the connect
+p94
+aVbetween exporting a good agricultural system
+p95
+aVthat will help feed people all around the world.
+p96
+aa(lp97
+VWho is farming? That's what I was wondering.
+p98
+aVSo I went and stood on a big grain bin in the Midwest,
+p99
+aVand that really didn't help me understand farming,
+p100
+aVbut I think it's a really cool picture.
+p101
+aVAnd the reality is that between farmers in America \u2014
+p102
+aVwho actually, quite frankly, when I spend time in the Midwest,
+p103
+aVare pretty large in general.
+p104
+aVAnd their farms are also large.
+p105
+aVBut farmers in the rest of the world are actually quite skinny,
+p106
+aVand that's because they're starving.
+p107
+aVMost hungry people in the world are subsistence farmers.
+p108
+aVAnd most of those people are women \u2014
+p109
+aVwhich is a totally other topic that I won't get on right now,
+p110
+aVbut I'd love to do the feminist thing at some point.
+p111
+aVI think it's really interesting to look at agriculture from these two sides.
+p112
+aVThere's this large, consolidated farming that's led to what we eat in America,
+p113
+aVand it's really been since around 1980, after the oil crisis,
+p114
+aVwhen, you know \u2014 mass consolidation,
+p115
+aVmass exodus of small farmers in this country.
+p116
+aVAnd then in the same time period,
+p117
+aVwe've kind of left Africa's farmers to do their own thing.
+p118
+aVUnfortunately, what is farmed ends up as what we eat.
+p119
+aVAnd in America, a lot of what we eat has led to obesity
+p120
+aVand has led to a real change
+p121
+aVin sort of what our diet is, in the last 30 years.
+p122
+aa(lp123
+VIt's crazy.
+p124
+aVA fifth of kids under two drinks soda.
+p125
+aVHello! You don't put soda in bottles.
+p126
+aVBut people do, because it's so cheap,
+p127
+aVand so our whole food system in the last 30 years has really shifted.
+p128
+aVI mean, you know, it's not just in our own country,
+p129
+aVbut really we're exporting the system around the world,
+p130
+aVand when you look at the data of least developed countries \u2014
+p131
+aVespecially in cities, which are growing really rapidly \u2014
+p132
+aVpeople are eating American processed foods.
+p133
+aVAnd in one generation, they're going from hunger
+p134
+aVand all of the detrimental health effects of hunger
+p135
+aVto obesity and things like diabetes and heart disease in one generation.
+p136
+aVSo the problematic food system is affecting both hunger and obesity.
+p137
+aVNot to beat a dead horse, but this is a global food system
+p138
+aVwhere there's a billion people hungry and a billion people obese.
+p139
+aVI think that's the only way to look at it.
+p140
+aVAnd instead of taking these two things
+p141
+aVas bifurcated problems that are very separate,
+p142
+aVit's really important to look at them as one system.
+p143
+aVWe get a lot of our food from all around the world
+p144
+aVand people from all around the world are importing our food system,
+p145
+aVso it's incredibly relevant to start a new way of looking at it.
+p146
+aa(lp147
+VI've learned \u2014 and the technology people here,
+p148
+aVwhich I'm totally not one of \u2014
+p149
+aVbut apparently, it really takes 30 years
+p150
+aVfor a lot of technologies to become really endemic to us,
+p151
+aVlike the mouse and the Internet and Windows.
+p152
+aVYou know, there's 30-year cycles.
+p153
+aVI think 2010 can be a really interesting year
+p154
+aVbecause it is the end of the 30-year cycle,
+p155
+aVand it's the birthday of the global food system.
+p156
+aVThat's the first birthday I want to talk about.
+p157
+aVIf we really think that this is something that's happened in the last 30 years,
+p158
+aVthere's hope in that.
+p159
+aVIt's the 30th anniversary of GMO crops
+p160
+aVand the Big Gulp, Chicken McNuggets, high-fructose corn syrup,
+p161
+aVthe farm crisis in America
+p162
+aVand the change in how we've addressed agriculture internationally.
+p163
+aVSo there's a lot of reasons to take this 30-year time period
+p164
+aVas sort of the creation of this new food system.
+p165
+aVI'm not the only one who's obsessed with this whole 30-year thing.
+p166
+aVThe icons like Michael Pollan and Jamie Oliver in his TED Prize wish
+p167
+aVboth addressed this last three-decade time period
+p168
+aVas incredibly relevant for food system change.
+p169
+aVWell, I really care about 1980
+p170
+aVbecause it's also the 30th anniversary of me this year.
+p171
+aVAnd so in my lifetime,
+p172
+aVa lot of what's happened in the world \u2014
+p173
+aVand being a person obsessed with food \u2014
+p174
+aVa lot of this has really changed.
+p175
+aa(lp176
+VSo my second dream is that I think we can look to the next 30 years
+p177
+aVas a time to change the food system again.
+p178
+aVAnd we know what's happened in the past,
+p179
+aVso if we start now and we look at technologies
+p180
+aVand improvements to the food system long-term,
+p181
+aVwe might be able to recreate the food system
+p182
+aVso when I give my next talk and I'm 60 years old,
+p183
+aVI'll be able to say that it's been a success.
+p184
+aVSo I'm announcing today the start of a new organization,
+p185
+aVor a new fund within the FEED Foundation, called the 30 Project.
+p186
+aVAnd the 30 Project is really focused
+p187
+aVon these long-term ideas for food system change.
+p188
+aVAnd I think by aligning international advocates that are addressing hunger
+p189
+aVand domestic advocates that are addressing obesity,
+p190
+aVwe might actually look for long-term solutions
+p191
+aVthat will make the food system better for everyone.
+p192
+aa(lp193
+VWe all tend to think that these systems are quite different
+p194
+aVand people argue whether or not organic can feed the world,
+p195
+aVbut if we take a 30-year view, there's more hope in collaborative ideas.
+p196
+aVSo I'm hoping that by connecting really disparate organizations
+p197
+aVlike the ONE campaign and Slow Food,
+p198
+aVwhich don't seem right now to have much in common,
+p199
+aVwe can talk about holistic, long-term, systemic solutions
+p200
+aVthat will improve food for everyone.
+p201
+aVSome ideas I've had is like, look, the reality is \u2014
+p202
+aVkids in the South Bronx need apples and carrots
+p203
+aVand so do kids in Botswana.
+p204
+aVAnd how are we going to get those kids those nutritious foods?
+p205
+aa(lp206
+VAnother thing that's become incredibly global is production of meat and fish.
+p207
+aVUnderstanding how to produce protein
+p208
+aVin a way that's healthy for the environment
+p209
+aVand healthy for people
+p210
+aVwill be incredibly important to address things like climate change
+p211
+aVand how we use petrochemical fertilizers.
+p212
+aVAnd, you know, these are really relevant topics
+p213
+aVthat are long-term and important
+p214
+aVfor both people in Africa who are small farmers
+p215
+aVand people in America who are farmers and eaters.
+p216
+aa(lp217
+VAnd I also think that thinking about processed foods in a new way,
+p218
+aVwhere we actually price the negative externalities
+p219
+aVlike petrochemicals and like fertilizer runoff
+p220
+aVinto the price of a bag of chips \u2014
+p221
+aVWell, if that bag of chips then becomes inherently more expensive than an apple,
+p222
+aVthen maybe it's time for a different sense of personal responsibility in food choice
+p223
+aVbecause the choices are actually choices
+p224
+aVinstead of three-quarters of the products being made just from corn, soy and wheat.
+p225
+aa(lp226
+VThe 30Project.org is launched
+p227
+aVand I've gathered a coalition of a few organizations to start.
+p228
+aVAnd it'll be growing over the next few months.
+p229
+aVBut I really hope that you will all think of ways
+p230
+aVthat you can look long-term at things like the food system
+p231
+aVand make change.
+p232
+aa(lp233
+V(Applause)
+p234
+aasS'id'
+p235
+I910
+sS'title'
+p236
+VObesity + hunger = 1 global food issue
+p237
+s.

@@ -1,0 +1,669 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI want to start by doing an experiment.
+p4
+aVI'm going to play three videos of a rainy day.
+p5
+aVBut I've replaced the audio of one of the videos,
+p6
+aVand instead of the sound of rain,
+p7
+aVI've added the sound of bacon frying.
+p8
+aVSo I want you think carefully which one the clip with the bacon is.
+p9
+aa(lp10
+V(Rain falls)
+p11
+aa(lp12
+V(Rain falls)
+p13
+aa(lp14
+V(Rain falls)
+p15
+aa(lp16
+VAll right.
+p17
+aVActually, I lied.
+p18
+aVThey're all bacon.
+p19
+aa(lp20
+V(Bacon sizzles)
+p21
+aa(lp22
+V(Applause)
+p23
+aa(lp24
+VMy point here isn't really to make you hungry
+p25
+aVevery time you see a rainy scene,
+p26
+aVbut it's to show that our brains are conditioned to embrace the lies.
+p27
+aVWe're not looking for accuracy.
+p28
+aa(lp29
+VSo on the subject of deception,
+p30
+aVI wanted to quote one of my favorite authors.
+p31
+aVIn "The Decay of Lying," Oscar Wilde establishes the idea
+p32
+aVthat all bad art comes from copying nature and being realistic;
+p33
+aVand all great art comes from lying and deceiving,
+p34
+aVand telling beautiful, untrue things.
+p35
+aVSo when you're watching a movie
+p36
+aVand a phone rings,
+p37
+aVit's not actually ringing.
+p38
+aVIt's been added later in postproduction in a studio.
+p39
+aVAll of the sounds you hear are fake.
+p40
+aVEverything, apart from the dialogue,
+p41
+aVis fake.
+p42
+aVWhen you watch a movie and you see a bird flapping its wings \u2014
+p43
+aa(lp44
+V(Wings flap)
+p45
+aa(lp46
+VThey haven't really recorded the bird.
+p47
+aVIt sounds a lot more realistic if you record a sheet
+p48
+aVor shaking kitchen gloves.
+p49
+aa(lp50
+V(Flaps)
+p51
+aa(lp52
+VThe burning of a cigarette up close \u2014
+p53
+aa(lp54
+V(Cigarette burns)
+p55
+aa(lp56
+VIt actually sounds a lot more authentic
+p57
+aVif you take a small Saran Wrap ball
+p58
+aVand release it.
+p59
+aa(lp60
+V(A Saran Warp ball being released)
+p61
+aa(lp62
+VPunches?
+p63
+aa(lp64
+V(Punch)
+p65
+aa(lp66
+VOops, let me play that again.
+p67
+aa(lp68
+V(Punch)
+p69
+aa(lp70
+VThat's often done by sticking a knife in vegetables,
+p71
+aVusually cabbage.
+p72
+aa(lp73
+V(Cabbage stabbed with a knife)
+p74
+aa(lp75
+VThe next one \u2014 it's breaking bones.
+p76
+aa(lp77
+V(Bones break)
+p78
+aa(lp79
+VWell, no one was really harmed.
+p80
+aVIt's actually ...
+p81
+aVbreaking celery or frozen lettuce.
+p82
+aa(lp83
+V(Breaking frozen lettuce or celery)
+p84
+aa(lp85
+V(Laughter)
+p86
+aa(lp87
+VMaking the right sounds is not always as easy
+p88
+aVas a trip to the supermarket
+p89
+aVand going to the vegetable section.
+p90
+aVBut it's often a lot more complicated than that.
+p91
+aVSo let's reverse-engineer together
+p92
+aVthe creation of a sound effect.
+p93
+aa(lp94
+VOne of my favorite stories comes from Frank Serafine.
+p95
+aVHe's a contributor to our library,
+p96
+aVand a great sound designer for "Tron" and "Star Trek" and others.
+p97
+aVHe was part of the Paramount team that won the Oscar for best sound
+p98
+aVfor "The Hunt for Red October."
+p99
+aVIn this Cold War classic, in the '90s,
+p100
+aVthey were asked to produce the sound of the propeller of the submarine.
+p101
+aVSo they had a small problem:
+p102
+aVthey couldn't really find a submarine in West Hollywood.
+p103
+aVSo basically, what they did is,
+p104
+aVthey went to a friend's swimming pool,
+p105
+aVand Frank performed a cannonball, or bomba.
+p106
+aVThey placed an underwater mic
+p107
+aVand an overhead mic outside the swimming pool.
+p108
+aVSo here's what the underwater mic sounds like.
+p109
+aa(lp110
+V(Underwater plunge)
+p111
+aa(lp112
+VAdding the overhead mic,
+p113
+aVit sounded a bit like this:
+p114
+aa(lp115
+V(Water splashes)
+p116
+aa(lp117
+VSo now they took the sound and pitched it one octave down,
+p118
+aVsort of like slowing down a record.
+p119
+aa(lp120
+V(Water splashes at lower octave)
+p121
+aVAnd then they removed a lot of the high frequencies.
+p122
+aa(lp123
+V(Water splashes)
+p124
+aVAnd pitched it down another octave.
+p125
+aa(lp126
+V(Water splashes at lower octave)
+p127
+aVAnd then they added a little bit of the splash
+p128
+aVfrom the overhead microphone.
+p129
+aa(lp130
+V(Water splashes)
+p131
+aVAnd by looping and repeating that sound,
+p132
+aVthey got this:
+p133
+aa(lp134
+V(Propeller churns)
+p135
+aa(lp136
+VSo, creativity and technology put together in order to create the illusion
+p137
+aVthat we're inside the submarine.
+p138
+aa(lp139
+VBut once you've created your sounds
+p140
+aVand you've synced them to the image,
+p141
+aVyou want those sounds to live in the world of the story.
+p142
+aVAnd one the best ways to do that is to add reverb.
+p143
+aVSo this is the first audio tool I want to talk about.
+p144
+aVReverberation, or reverb, is the persistence of the sound
+p145
+aVafter the original sound has ended.
+p146
+aVSo it's sort of like the \u2014
+p147
+aVall the reflections from the materials,
+p148
+aVthe objects and the walls around the sound.
+p149
+aa(lp150
+VTake, for example, the sound of a gunshot.
+p151
+aVThe original sound is less than half a second long.
+p152
+aa(lp153
+V(Gunshot)
+p154
+aVBy adding reverb,
+p155
+aVwe can make it sound like it was recorded inside a bathroom.
+p156
+aa(lp157
+V(Gunshot reverbs in bathroom)
+p158
+aVOr like it was recorded inside a chapel or a church.
+p159
+aa(lp160
+V(Gunshot reverbs church)
+p161
+aa(lp162
+VOr in a canyon.
+p163
+aa(lp164
+V(Gunshot reverbs in canyon)
+p165
+aa(lp166
+VSo reverb gives us a lot of information
+p167
+aVabout the space between the listener and the original sound source.
+p168
+aVIf the sound is the taste,
+p169
+aVthen reverb is sort of like the smell of the sound.
+p170
+aa(lp171
+VBut reverb can do a lot more.
+p172
+aVListening to a sound with a lot less reverberation
+p173
+aVthan the on-screen action
+p174
+aVis going to immediately signify to us
+p175
+aVthat we're listening to a commentator,
+p176
+aVto an objective narrator that's not participating in the on-screen action.
+p177
+aVAlso, emotionally intimate moments in cinema
+p178
+aVare often heard with zero reverb,
+p179
+aVbecause that's how it would sound if someone was speaking inside our ear.
+p180
+aa(lp181
+VOn the completely other side,
+p182
+aVadding a lot of reverb to a voice
+p183
+aVis going to make us think that we're listening to a flashback,
+p184
+aVor perhaps that we're inside the head of a character
+p185
+aVor that we're listening to the voice of God.
+p186
+aVOr, even more powerful in film,
+p187
+aVMorgan Freeman.
+p188
+aa(lp189
+V(Laughter)
+p190
+aa(lp191
+VSo \u2014
+p192
+aa(lp193
+V(Applause)
+p194
+aa(lp195
+VBut what are some other tools or hacks
+p196
+aVthat sound designers use?
+p197
+aVWell, here's a really big one.
+p198
+aVIt's silence.
+p199
+aVA few moments of silence is going to make us pay attention.
+p200
+aVAnd in the Western world,
+p201
+aVwe're not really used to verbal silences.
+p202
+aVThey're considered awkward or rude.
+p203
+aVSo silence preceding verbal communication
+p204
+aVcan create a lot of tension.
+p205
+aVBut imagine a really big Hollywood movie,
+p206
+aVwhere it's full of explosions and automatic guns.
+p207
+aVLoud stops being loud anymore, after a while.
+p208
+aVSo in a yin-yang way,
+p209
+aVsilence needs loudness and loudness needs silence
+p210
+aVfor either of them to have any effect.
+p211
+aa(lp212
+VBut what does silence mean?
+p213
+aVWell, it depends how it's used in each film.
+p214
+aVSilence can place us inside the head of a character
+p215
+aVor provoke thought.
+p216
+aVWe often relate silences with ...
+p217
+aVcontemplation,
+p218
+aVmeditation,
+p219
+aVbeing deep in thought.
+p220
+aVBut apart from having one meaning,
+p221
+aVsilence becomes a blank canvas
+p222
+aVupon which the viewer is invited to the paint their own thoughts.
+p223
+aa(lp224
+VBut I want to make it clear: there is no such thing as silence.
+p225
+aVAnd I know this sounds like the most pretentious TED Talk statement ever.
+p226
+aVBut even if you were to enter a room with zero reverberation
+p227
+aVand zero external sounds,
+p228
+aVyou would still be able to hear the pumping of your own blood.
+p229
+aVAnd in cinema, traditionally, there was never a silent moment
+p230
+aVbecause of the sound of the projector.
+p231
+aVAnd even in today's Dolby world,
+p232
+aVthere's not really any moment of silence if you listen around you.
+p233
+aVThere's always some sort of noise.
+p234
+aa(lp235
+VNow, since there's no such thing as silence,
+p236
+aVwhat do filmmakers and sound designers use?
+p237
+aVWell, as a synonym, they often use ambiences.
+p238
+aVAmbiences are the unique background sounds
+p239
+aVthat are specific to each location.
+p240
+aVEach location has a unique sound,
+p241
+aVand each room has a unique sound,
+p242
+aVwhich is called room tone.
+p243
+aVSo here's a recording of a market in Morocco.
+p244
+aa(lp245
+V(Voices, music)
+p246
+aa(lp247
+VAnd here's a recording of Times Square in New York.
+p248
+aa(lp249
+V(Traffic sounds, car horns, voices)
+p250
+aa(lp251
+VRoom tone is the addition of all the noises inside the room:
+p252
+aVthe ventilation, the heating, the fridge.
+p253
+aVHere's a recording of my apartment in Brooklyn.
+p254
+aa(lp255
+V(You can hear the ventilation, the boiler, the fridge and street traffic)
+p256
+aa(lp257
+VAmbiences work in a most primal way.
+p258
+aVThey can speak directly to our brain subconsciously.
+p259
+aVSo, birds chirping outside your window may indicate normality,
+p260
+aVperhaps because, as a species,
+p261
+aVwe've been used to that sound every morning for millions of years.
+p262
+aa(lp263
+V(Birds chirp)
+p264
+aVOn the other hand, industrial sounds have been introduced to us
+p265
+aVa little more recently.
+p266
+aVEven though I really like them personally \u2014
+p267
+aVthey've been used by one of my heroes, David Lynch,
+p268
+aVand his sound designer, Alan Splet \u2014
+p269
+aVindustrial sounds often carry negative connotations.
+p270
+aa(lp271
+V(Machine noises)
+p272
+aa(lp273
+VNow, sound effects can tap into our emotional memory.
+p274
+aVOccasionally, they can be so significant
+p275
+aVthat they become a character in a movie.
+p276
+aVThe sound of thunder may indicate divine intervention or anger.
+p277
+aa(lp278
+V(Thunder)
+p279
+aa(lp280
+VChurch bells can remind us of the passing of time,
+p281
+aVor perhaps our own mortality.
+p282
+aa(lp283
+V(Bells ring)
+p284
+aa(lp285
+VAnd breaking of glass can indicate the end of a relationship
+p286
+aVor a friendship.
+p287
+aa(lp288
+V(Glass breaks)
+p289
+aa(lp290
+VScientists believe that dissonant sounds,
+p291
+aVfor example, brass or wind instruments played very loud,
+p292
+aVmay remind us of animal howls in nature
+p293
+aVand therefore create a sense of irritation or fear.
+p294
+aa(lp295
+V(Brass and wind instruments play)
+p296
+aa(lp297
+VSo now we've spoken about on-screen sounds.
+p298
+aVBut occasionally, the source of a sound cannot be seen.
+p299
+aVThat's what we call offscreen sounds,
+p300
+aVor "acousmatic."
+p301
+aVAcousmatic sounds \u2014
+p302
+aVwell, the term "acousmatic" comes from Pythagoras in ancient Greece,
+p303
+aVwho used to teach behind a veil or curtain for years,
+p304
+aVnot revealing himself to his disciples.
+p305
+aVI think the mathematician and philosopher thought that,
+p306
+aVin that way,
+p307
+aVhis students might focus more on the voice,
+p308
+aVand his words and its meaning,
+p309
+aVrather than the visual of him speaking.
+p310
+aVSo sort of like the Wizard of Oz,
+p311
+aVor "1984's" Big Brother,
+p312
+aVseparating the voice from its source,
+p313
+aVseparating cause and effect
+p314
+aVsort of creates a sense of ubiquity or panopticism,
+p315
+aVand therefore, authority.
+p316
+aa(lp317
+VThere's a strong tradition of acousmatic sound.
+p318
+aVNuns in monasteries in Rome and Venice used to sing in rooms
+p319
+aVup in galleries close to the ceiling,
+p320
+aVcreating the illusion that we're listening to angels up in the sky.
+p321
+aVRichard Wagner famously created the hidden orchestra
+p322
+aVthat was placed in a pit between the stage and the audience.
+p323
+aVAnd one of my heroes, Aphex Twin, famously hid in dark corners of clubs.
+p324
+aa(lp325
+VI think what all these masters knew is that by hiding the source,
+p326
+aVyou create a sense of mystery.
+p327
+aVThis has been seen in cinema over and over,
+p328
+aVwith Hitchcock, and Ridley Scott in "Alien."
+p329
+aVHearing a sound without knowing its source
+p330
+aVis going to create some sort of tension.
+p331
+aVAlso, it can minimize certain visual restrictions that directors have
+p332
+aVand can show something that wasn't there during filming.
+p333
+aVAnd if all this sounds a little theoretical,
+p334
+aVI wanted to play a little video.
+p335
+aa(lp336
+V(Toy squeaks)
+p337
+aa(lp338
+V(Typewriter)
+p339
+aa(lp340
+V(Drums)
+p341
+aa(lp342
+V(Ping-pong)
+p343
+aa(lp344
+V(Knives being sharpened)
+p345
+aa(lp346
+V(Record scratches)
+p347
+aa(lp348
+V(Saw cuts)
+p349
+aa(lp350
+V(Woman screams)
+p351
+aa(lp352
+VWhat I'm sort of trying to demonstrate with these tools
+p353
+aVis that sound is a language.
+p354
+aVIt can trick us by transporting us geographically;
+p355
+aVit can change the mood;
+p356
+aVit can set the pace;
+p357
+aVit can make us laugh or it can make us scared.
+p358
+aa(lp359
+VOn a personal level, I fell in love with that language
+p360
+aVa few years ago,
+p361
+aVand somehow managed to make it into some sort of profession.
+p362
+aVAnd I think with our work through the sound library,
+p363
+aVwe're trying to kind of expand the vocabulary of that language.
+p364
+aVAnd in that way, we want to offer the right tools
+p365
+aVto sound designers,
+p366
+aVfilmmakers,
+p367
+aVand video game and app designers,
+p368
+aVto keep telling even better stories
+p369
+aVand creating even more beautiful lies.
+p370
+aa(lp371
+VSo thanks for listening.
+p372
+aa(lp373
+V(Applause)
+p374
+aasS'id'
+p375
+I2610
+sS'title'
+p376
+VEverything you hear on film is a lie
+p377
+s.

@@ -1,0 +1,724 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIn the early days of Twitter, it was like a place of radical de-shaming.
+p4
+aVPeople would admit shameful secrets about themselves,
+p5
+aVand other people would say, "Oh my God, I'm exactly the same."
+p6
+aVVoiceless people realized that they had a voice,
+p7
+aVand it was powerful and eloquent.
+p8
+aVIf a newspaper ran some racist or homophobic column,
+p9
+aVwe realized we could do something about it.
+p10
+aVWe could get them.
+p11
+aVWe could hit them with a weapon that we understood but they didn't \u2014
+p12
+aVa social media shaming.
+p13
+aVAdvertisers would withdraw their advertising.
+p14
+aVWhen powerful people misused their privilege,
+p15
+aVwe were going to get them.
+p16
+aVThis was like the democratization of justice.
+p17
+aVHierarchies were being leveled out.
+p18
+aVWe were going to do things better.
+p19
+aa(lp20
+VSoon after that, a disgraced pop science writer called Jonah Lehrer \u2014
+p21
+aVhe'd been caught plagiarizing and faking quotes,
+p22
+aVand he was drenched in shame and regret, he told me.
+p23
+aVAnd he had the opportunity
+p24
+aVto publicly apologize at a foundation lunch.
+p25
+aVThis was going to be the most important speech of his life.
+p26
+aVMaybe it would win him some salvation.
+p27
+aVHe knew before he arrived
+p28
+aVthat the foundation was going to be live-streaming his event,
+p29
+aVbut what he didn't know until he turned up,
+p30
+aVwas that they'd erected a giant screen Twitter feed right next to his head.
+p31
+aV(Laughter)
+p32
+aVAnother one in a monitor screen in his eye line.
+p33
+aa(lp34
+VI don't think the foundation did this because they were monstrous.
+p35
+aVI think they were clueless: I think this was a unique moment
+p36
+aVwhen the beautiful naivety of Twitter
+p37
+aVwas hitting the increasingly horrific reality.
+p38
+aa(lp39
+VAnd here were some of the Tweets that were cascading into his eye line,
+p40
+aVas he was trying to apologize:
+p41
+aa(lp42
+V"Jonah Lehrer, boring us into forgiving him."
+p43
+aV(Laughter)
+p44
+aa(lp45
+VAnd, "Jonah Lehrer has not proven that he is capable of feeling shame."
+p46
+aa(lp47
+VThat one must have been written by the best psychiatrist ever,
+p48
+aVto know that about such a tiny figure behind a lectern.
+p49
+aa(lp50
+VAnd, "Jonah Lehrer is just a frigging sociopath."
+p51
+aa(lp52
+VThat last word is a very human thing to do, to dehumanize the people we hurt.
+p53
+aVIt's because we want to destroy people but not feel bad about it.
+p54
+aVImagine if this was an actual court,
+p55
+aVand the accused was in the dark, begging for another chance,
+p56
+aVand the jury was yelling out,
+p57
+aV"Bored! Sociopath!"
+p58
+aV(Laughter)
+p59
+aa(lp60
+VYou know, when we watch courtroom dramas, we tend to identify
+p61
+aVwith the kindhearted defense attorney,
+p62
+aVbut give us the power, and we become like hanging judges.
+p63
+aa(lp64
+VPower shifts fast.
+p65
+aVWe were getting Jonah because he was perceived to have misused his privilege,
+p66
+aVbut Jonah was on the floor then, and we were still kicking,
+p67
+aVand congratulating ourselves for punching up.
+p68
+aVAnd it began to feel weird and empty when there wasn't a powerful person
+p69
+aVwho had misused their privilege that we could get.
+p70
+aVA day without a shaming began to feel like a day
+p71
+aVpicking fingernails and treading water.
+p72
+aa(lp73
+VLet me tell you a story.
+p74
+aVIt's about a woman called Justine Sacco.
+p75
+aVShe was a PR woman from New York with 170 Twitter followers,
+p76
+aVand she'd Tweet little acerbic jokes to them,
+p77
+aVlike this one on a plane from New York to London:
+p78
+aV[Weird German Dude: You're in first class. It's 2014. Get some deodorant."
+p79
+aV-Inner monologue as inhale BO. Thank god for pharmaceuticals.]
+p80
+aVSo Justine chuckled to herself, and pressed send, and got no replies,
+p81
+aVand felt that sad feeling that we all feel
+p82
+aVwhen the Internet doesn't congratulate us for being funny.
+p83
+aV(Laughter)
+p84
+aVBlack silence when the Internet doesn't talk back.
+p85
+aVAnd then she got to Heathrow, and she had a little time to spare
+p86
+aVbefore her final leg, so she thought up another funny little acerbic joke:
+p87
+aa(lp88
+V[Going to Africa. Hope I don't get AIDS. Just kidding. I'm white!]
+p89
+aa(lp90
+VAnd she chuckled to herself, pressed send, got on the plane, got no replies,
+p91
+aVturned off her phone, fell asleep,
+p92
+aVwoke up 11 hours later,
+p93
+aVturned on her phone while the plane was taxiing on the runway,
+p94
+aVand straightaway there was a message from somebody
+p95
+aVthat she hadn't spoken to since high school,
+p96
+aVthat said, "I am so sorry to see what's happening to you."
+p97
+aVAnd then another message from a best friend,
+p98
+aV"You need to call me right now.
+p99
+aVYou are the worldwide number one trending topic on Twitter."
+p100
+aV(Laughter)
+p101
+aa(lp102
+VWhat had happened is that one of her 170 followers had sent the Tweet
+p103
+aVto a Gawker journalist, and he retweeted it to his 15,000 followers:
+p104
+aV[And now, a funny holiday joke from IAC's PR boss]
+p105
+aVAnd then it was like a bolt of lightning.
+p106
+aVA few weeks later, I talked to the Gawker journalist.
+p107
+aVI emailed him and asked him how it felt, and he said, "It felt delicious."
+p108
+aVAnd then he said, "But I'm sure she's fine."
+p109
+aa(lp110
+VBut she wasn't fine, because while she slept,
+p111
+aVTwitter took control of her life and dismantled it piece by piece.
+p112
+aVFirst there were the philanthropists:
+p113
+aV[If @JustineSacco's unfortunate words ... bother you,
+p114
+aVjoin me in supporting @CARE's work in Africa.]
+p115
+aV[In light of ... disgusting, racist tweet, I'm donating to @care today]
+p116
+aVThen came the beyond horrified:
+p117
+aV[... no words for that horribly disgusting racist as fuck tweet from Justine Sacco.
+p118
+aVI am beyond horrified.]
+p119
+aa(lp120
+VWas anybody on Twitter that night? A few of you.
+p121
+aVDid Justine's joke overwhelm your Twitter feed the way it did mine?
+p122
+aVIt did mine, and I thought what everybody thought that night,
+p123
+aVwhich was, "Wow, somebody's screwed!
+p124
+aVSomebody's life is about to get terrible!"
+p125
+aVAnd I sat up in my bed,
+p126
+aVand I put the pillow behind my head,
+p127
+aVand then I thought, I'm not entirely sure that joke was intended to be racist.
+p128
+aVMaybe instead of gleefully flaunting her privilege,
+p129
+aVshe was mocking the gleeful flaunting of privilege.
+p130
+aVThere's a comedy tradition of this,
+p131
+aVlike South Park or Colbert or Randy Newman.
+p132
+aVMaybe Justine Sacco's crime was not being as good at it as Randy Newman.
+p133
+aVIn fact, when I met Justine a couple of weeks later in a bar,
+p134
+aVshe was just crushed,
+p135
+aVand I asked her to explain the joke,
+p136
+aVand she said, "Living in America puts us in a bit of a bubble
+p137
+aVwhen it comes to what is going on in the Third World.
+p138
+aVI was making of fun of that bubble."
+p139
+aa(lp140
+VYou know, another woman on Twitter that night, a New Statesman writer Helen Lewis,
+p141
+aVshe reviewed my book on public shaming and wrote that she Tweeted that night,
+p142
+aV"I'm not sure that her joke was intended to be racist,"
+p143
+aVand she said straightaway she got a fury of Tweets saying,
+p144
+aV"Well, you're just a privileged bitch, too."
+p145
+aVAnd so to her shame, she wrote,
+p146
+aVshe shut up and watched as Justine's life got torn apart.
+p147
+aa(lp148
+VIt started to get darker:
+p149
+aV[Everyone go report this cunt @JustineSacco]
+p150
+aVThen came the calls for her to be fired.
+p151
+aV[Good luck with the job hunt in the new year. #GettingFired]
+p152
+aVThousands of people around the world
+p153
+aVdecided it was their duty to get her fired.
+p154
+aV[@JustineSacco last tweet of your career. #SorryNotSorry
+p155
+aVCorporations got involved, hoping to sell their products
+p156
+aVon the back of Justine's annihilation:
+p157
+aV[Next time you plan to tweet something stupid before you take off,
+p158
+aVmake sure you are getting on a @Gogo flight!]
+p159
+aV(Laughter)
+p160
+aa(lp161
+VA lot of companies were making good money that night.
+p162
+aVYou know, Justine's name was normally Googled 40 times a month.
+p163
+aVThat month, between December the 20th and the end of December,
+p164
+aVher name was Googled 1,220,000 times.
+p165
+aVAnd one Internet economist told me that that meant that Google made
+p166
+aVsomewhere between 120,000 dollars and 468,000 dollars
+p167
+aVfrom Justine's annihilation, whereas those of us doing the actual shaming \u2014
+p168
+aVwe got nothing.
+p169
+aV(Laughter)
+p170
+aVWe were like unpaid shaming interns for Google.
+p171
+aV(Laughter)
+p172
+aa(lp173
+VAnd then came the trolls:
+p174
+aV[I'm actually kind of hoping Justine Sacco gets aids? lol]
+p175
+aVSomebody else on that wrote,
+p176
+aV"Somebody HIV-positive should rape this bitch and then we'll find out
+p177
+aVif her skin color protects her from AIDS."
+p178
+aVAnd that person got a free pass.
+p179
+aVNobody went after that person.
+p180
+aVWe were all so excited about destroying Justine,
+p181
+aVand our shaming brains are so simple-minded,
+p182
+aVthat we couldn't also handle destroying somebody
+p183
+aVwho was inappropriately destroying Justine.
+p184
+aVJustine was really uniting a lot of disparate groups that night,
+p185
+aVfrom philanthropists to "rape the bitch."
+p186
+aV[@JustineSacco I hope you get fired! You demented bitch...
+p187
+aVJust let the world know you're planning to ride bare back while in Africa.]
+p188
+aa(lp189
+VWomen always have it worse than men.
+p190
+aVWhen a man gets shamed, it's, "I'm going to get you fired."
+p191
+aVWhen a woman gets shamed, it's,
+p192
+aV"I'm going to get you fired and raped and cut out your uterus."
+p193
+aa(lp194
+VAnd then Justine's employers got involved:
+p195
+aV[IAC on @JustineSacco tweet: This is an outrageous, offensive comment.
+p196
+aVEmployee in question currently unreachable on an intl flight.]
+p197
+aVAnd that's when the anger turned to excitement:
+p198
+aV[All I want for Christmas is to see @JustineSacco's face when her plane lands
+p199
+aVand she checks her inbox/voicemail. #fired]
+p200
+aV[Oh man, @justinesacco is going to have the most painful
+p201
+aVphone-turning-on moment ever when her plane lands.]
+p202
+aV[We are about to watch this @JustineSacco bitch get fired. In REAL time.
+p203
+aVBefore she even KNOWS she's getting fired.]
+p204
+aVWhat we had was a delightful narrative arc.
+p205
+aVWe knew something that Justine didn't.
+p206
+aVCan you think of anything less judicial than this?
+p207
+aVJustine was asleep on a plane and unable to explain herself,
+p208
+aVand her inability was a huge part of the hilarity.
+p209
+aVOn Twitter that night, we were like toddlers crawling towards a gun.
+p210
+aVSomebody worked out exactly which plane she was on, so they linked
+p211
+aVto a flight tracker website.
+p212
+aV[British Airways Flight 43 On-time - arrives in 1 hour 34 minutes]
+p213
+aVA hashtag began trending worldwide:
+p214
+aV# hasJustineLandedYet?
+p215
+aV[It is kinda wild to see someone self-destruct
+p216
+aVwithout them even being aware of it. #hasJustineLandedYet]
+p217
+aV[Seriously. I just want to go home to go to bed, but everyone at the bar
+p218
+aVis SO into #HasJustineLandedYet. Can't look away. Can't leave.]
+p219
+aV[#HasJustineLandedYet may be the best thing to happen to my Friday night.]
+p220
+aV[Is no one in Cape Town going to the airport to tweet her arrival?
+p221
+aVCome on, twitter! I'd like pictures]
+p222
+aVAnd guess what? Yes there was.
+p223
+aV[@JustineSacco HAS in fact landed at Cape Town international.
+p224
+aVAnd if you want to know what it looks like to discover
+p225
+aVthat you've just been torn to shreds because of a misconstrued liberal joke,
+p226
+aVnot by trolls, but by nice people like us,
+p227
+aVthis is what it looks like:
+p228
+aV[... She's decided to wear sunnies as a disguise.]
+p229
+aa(lp230
+VSo why did we do it?
+p231
+aVI think some people were genuinely upset,
+p232
+aVbut I think for other people,
+p233
+aVit's because Twitter is basically a mutual approval machine.
+p234
+aVWe surround ourselves with people who feel the same way we do,
+p235
+aVand we approve each other,
+p236
+aVand that's a really good feeling.
+p237
+aVAnd if somebody gets in the way, we screen them out.
+p238
+aVAnd do you know what that's the opposite of?
+p239
+aVIt's the opposite of democracy.
+p240
+aVWe wanted to show that we cared about people dying of AIDS in Africa.
+p241
+aVOur desire to be seen to be compassionate is what led us to commit
+p242
+aVthis profoundly un-compassionate act.
+p243
+aVAs Meghan O'Gieblyn wrote in the Boston Review,
+p244
+aV"This isn't social justice. It's a cathartic alternative."
+p245
+aa(lp246
+VFor the past three years,
+p247
+aVI've been going around the world meeting people like Justine Sacco \u2014
+p248
+aVand believe me, there's a lot of people like Justine Sacco.
+p249
+aVThere's more every day.
+p250
+aVAnd we want to think they're fine, but they're not fine.
+p251
+aVThe people I met were mangled.
+p252
+aVThey talked to me about depression,
+p253
+aVand anxiety and insomnia and suicidal thoughts.
+p254
+aVOne woman I talked to, who also told a joke that landed badly,
+p255
+aVshe stayed home for a year and a half.
+p256
+aVBefore that, she worked with adults with learning difficulties,
+p257
+aVand was apparently really good at her job.
+p258
+aa(lp259
+VJustine was fired, of course, because social media demanded it.
+p260
+aVBut it was worse than that.
+p261
+aVShe was losing herself.
+p262
+aVShe was waking up in the middle of the night, forgetting who she was.
+p263
+aVShe was got because she was perceived to have misused her privilege.
+p264
+aVAnd of course, that's a much better thing to get people for than the things
+p265
+aVwe used to get people for, like having children out of wedlock.
+p266
+aVBut the phrase "misuse of privilege" is becoming a free pass
+p267
+aVto tear apart pretty much anybody we choose to.
+p268
+aVIt's becoming a devalued term,
+p269
+aVand it's making us lose our capacity for empathy
+p270
+aVand for distinguishing between serious and unserious transgressions.
+p271
+aa(lp272
+VJustine had 170 Twitter followers, and so to make it work,
+p273
+aVshe had to be fictionalized.
+p274
+aVWord got around that she was the daughter the mining billionaire Desmond Sacco.
+p275
+aV[Let us not be fooled by #JustineSacco her father is a SA mining billionaire.
+p276
+aVShe's not sorry. And neither is her father.]
+p277
+aVI thought that was true about Justine,
+p278
+aVuntil I met her at a bar, and I asked her about her billionaire father,
+p279
+aVand she said, "My father sells carpets."
+p280
+aa(lp281
+VAnd I think back on the early days of Twitter,
+p282
+aVwhen people would admit shameful secrets about themselves,
+p283
+aVand other people would say, "Oh my God, I'm exactly the same."
+p284
+aVThese days, the hunt is on for people's shameful secrets.
+p285
+aVYou can lead a good, ethical life,
+p286
+aVbut some bad phraseology in a Tweet can overwhelm it all,
+p287
+aVbecome a clue to your secret inner evil.
+p288
+aa(lp289
+VMaybe there's two types of people in the world:
+p290
+aVthose people who favor humans over ideology,
+p291
+aVand those people who favor ideology over humans.
+p292
+aVI favor humans over ideology,
+p293
+aVbut right now, the ideologues are winning,
+p294
+aVand they're creating a stage for constant artificial high dramas
+p295
+aVwhere everybody's either a magnificent hero
+p296
+aVor a sickening villain,
+p297
+aVeven though we know that's not true about our fellow humans.
+p298
+aVWhat's true is that we are clever and stupid;
+p299
+aVwhat's true is that we're grey areas.
+p300
+aVThe great thing about social media was how it gave a voice
+p301
+aVto voiceless people,
+p302
+aVbut we're now creating a surveillance society,
+p303
+aVwhere the smartest way to survive is to go back to being voiceless.
+p304
+aa(lp305
+VLet's not do that.
+p306
+aa(lp307
+VThank you.
+p308
+aa(lp309
+V(Applause)
+p310
+aa(lp311
+VBruno Giussani: Thank you, Jon.
+p312
+aa(lp313
+VJon Ronson: Thanks, Bruno.
+p314
+aa(lp315
+VBG: Don't go away.
+p316
+aVWhat strikes me about Justine's story
+p317
+aVis also the fact that if you Google her name today,
+p318
+aVthis story covers the first 100 pages of Google results \u2014
+p319
+aVthere is nothing else about her.
+p320
+aVIn your book, you mention another story
+p321
+aVof another victim who actually got taken on by a reputation management firm,
+p322
+aVand by creating blogs and posting nice, innocuous stories about her love for cats
+p323
+aVand holidays and stuff, managed to get the story
+p324
+aVoff the first couple pages of Google results, but it didn't last long.
+p325
+aVA couple of weeks later, they started creeping back up to the top result.
+p326
+aVIs this a totally lost battle?
+p327
+aa(lp328
+VJon Ronson: You know, I think the very best thing we can do,
+p329
+aVif you see a kind of unfair or an ambiguous shaming,
+p330
+aVis to speak up, because I think the worst thing that happened to Justine
+p331
+aVwas that nobody supported her \u2014 like, everyone was against her,
+p332
+aVand that is profoundly traumatizing,
+p333
+aVto be told by tens of thousands of people that you need to get out.
+p334
+aVBut if a shaming happens and there's a babble of voices, like in a democracy,
+p335
+aVwhere people are discussing it, I think that's much less damaging.
+p336
+aVSo I think that's the way forward,
+p337
+aVbut it's hard, because if you do stand up for somebody,
+p338
+aVit's incredibly unpleasant.
+p339
+aa(lp340
+VBG: So let's talk about your experience,
+p341
+aVbecause you stood up by writing this book.
+p342
+aVBy the way, it's mandatory reading for everybody, okay?
+p343
+aVYou stood up because the book actually puts the spotlight on shamers.
+p344
+aVAnd I assume you didn't only have friendly reactions on Twitter.
+p345
+aa(lp346
+VJR: It didn't go down that well with some people.
+p347
+aV(Laughter)
+p348
+aVI mean, you don't want to just concentrate \u2014
+p349
+aVbecause lots of people understood, and were really nice about the book.
+p350
+aVBut yeah, for 30 years I've been writing stories about abuses of power,
+p351
+aVand when I say the powerful people over there in the military,
+p352
+aVor in the pharmaceutical industry, everybody applauds me.
+p353
+aVAs soon as I say, "We are the powerful people abusing our power now,"
+p354
+aVI get people saying, "Well you must be a racist too."
+p355
+aa(lp356
+VBG: So the other night \u2014 yesterday \u2014 we were at dinner,
+p357
+aVand there were two discussions going on.
+p358
+aVOn one side you were talking with people around the table \u2014
+p359
+aVand that was a nice, constructive discussion.
+p360
+aVOn the other, every time you turned to your phone,
+p361
+aVthere is this deluge of insults.
+p362
+aa(lp363
+VJR: Yeah. This happened last night. We had like a TED dinner last night.
+p364
+aVWe were chatting and it was lovely and nice, and I decided to check Twitter.
+p365
+aVSomebody said, "You are a white supremacist."
+p366
+aVAnd then I went back and had a nice conversation with somebody,
+p367
+aVand then I went back to Twitter,
+p368
+aVsomebody said my very existence made the world a worse place.
+p369
+aVMy friend Adam Curtis says
+p370
+aVthat maybe the Internet is like a John Carpenter movie from the 1980s,
+p371
+aVwhen eventually everyone will start screaming at each other
+p372
+aVand shooting each other, and then eventually everybody
+p373
+aVwould flee to somewhere safer,
+p374
+aVand I'm starting to think of that as a really nice option.
+p375
+aa(lp376
+VBG: Jon, thank you. JR: Thank you, Bruno.
+p377
+aa(lp378
+V(Applause)
+p379
+aasS'id'
+p380
+I2302
+sS'title'
+p381
+VWhen online shaming goes too far
+p382
+s.

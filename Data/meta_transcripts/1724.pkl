@@ -1,0 +1,404 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VLet's face it:
+p4
+aVDriving is dangerous.
+p5
+aVIt's one of the things that we don't like to think about,
+p6
+aVbut the fact that religious icons and good luck charms
+p7
+aVshow up on dashboards around the world
+p8
+aVbetrays the fact that we know this to be true.
+p9
+aVCar accidents are the leading cause of death
+p10
+aVin people ages 16 to 19 in the United States \u2014
+p11
+aVleading cause of death \u2014
+p12
+aVand 75 percent of these accidents have nothing to do
+p13
+aVwith drugs or alcohol.
+p14
+aa(lp15
+VSo what happens?
+p16
+aVNo one can say for sure, but I remember my first accident.
+p17
+aVI was a young driver out on the highway,
+p18
+aVand the car in front of me, I saw the brake lights go on.
+p19
+aVI'm like, "Okay, all right, this guy is slowing down,
+p20
+aVI'll slow down too."
+p21
+aVI step on the brake.
+p22
+aVBut no, this guy isn't slowing down.
+p23
+aVThis guy is stopping, dead stop, dead stop on the highway.
+p24
+aVIt was just going 65 \u2014 to zero?
+p25
+aVI slammed on the brakes.
+p26
+aVI felt the ABS kick in, and the car is still going,
+p27
+aVand it's not going to stop, and I know it's not going to stop,
+p28
+aVand the air bag deploys, the car is totaled,
+p29
+aVand fortunately, no one was hurt.
+p30
+aVBut I had no idea that car was stopping,
+p31
+aVand I think we can do a lot better than that.
+p32
+aVI think we can transform the driving experience
+p33
+aVby letting our cars talk to each other.
+p34
+aa(lp35
+VI just want you to think a little bit
+p36
+aVabout what the experience of driving is like now.
+p37
+aVGet into your car. Close the door. You're in a glass bubble.
+p38
+aVYou can't really directly sense the world around you.
+p39
+aVYou're in this extended body.
+p40
+aVYou're tasked with navigating it down
+p41
+aVpartially-seen roadways,
+p42
+aVin and amongst other metal giants, at super-human speeds.
+p43
+aVOkay? And all you have to guide you are your two eyes.
+p44
+aVOkay, so that's all you have,
+p45
+aVeyes that weren't really designed for this task,
+p46
+aVbut then people ask you to do things like,
+p47
+aVyou want to make a lane change,
+p48
+aVwhat's the first thing they ask you do?
+p49
+aVTake your eyes off the road. That's right.
+p50
+aVStop looking where you're going, turn,
+p51
+aVcheck your blind spot,
+p52
+aVand drive down the road without looking where you're going.
+p53
+aVYou and everyone else. This is the safe way to drive.
+p54
+aVWhy do we do this? Because we have to,
+p55
+aVwe have to make a choice, do I look here or do I look here?
+p56
+aVWhat's more important?
+p57
+aVAnd usually we do a fantastic job
+p58
+aVpicking and choosing what we attend to on the road.
+p59
+aVBut occasionally we miss something.
+p60
+aVOccasionally we sense something wrong or too late.
+p61
+aVIn countless accidents, the driver says,
+p62
+aV"I didn't see it coming."
+p63
+aVAnd I believe that. I believe that.
+p64
+aVWe can only watch so much.
+p65
+aa(lp66
+VBut the technology exists now that can help us improve that.
+p67
+aVIn the future, with cars exchanging data with each other,
+p68
+aVwe will be able to see not just three cars ahead
+p69
+aVand three cars behind, to the right and left,
+p70
+aVall at the same time, bird's eye view,
+p71
+aVwe will actually be able to see into those cars.
+p72
+aVWe will be able to see the velocity of the car in front of us,
+p73
+aVto see how fast that guy's going or stopping.
+p74
+aVIf that guy's going down to zero, I'll know.
+p75
+aa(lp76
+VAnd with computation and algorithms and predictive models,
+p77
+aVwe will be able to see the future.
+p78
+aVYou may think that's impossible.
+p79
+aVHow can you predict the future? That's really hard.
+p80
+aVActually, no. With cars, it's not impossible.
+p81
+aVCars are three-dimensional objects
+p82
+aVthat have a fixed position and velocity.
+p83
+aVThey travel down roads.
+p84
+aVOften they travel on pre-published routes.
+p85
+aVIt's really not that hard to make reasonable predictions
+p86
+aVabout where a car's going to be in the near future.
+p87
+aVEven if, when you're in your car
+p88
+aVand some motorcyclist comes \u2014 bshoom! \u2014
+p89
+aV85 miles an hour down, lane-splitting \u2014
+p90
+aVI know you've had this experience \u2014
+p91
+aVthat guy didn't "just come out of nowhere."
+p92
+aVThat guy's been on the road probably for the last half hour.
+p93
+aV(Laughter)
+p94
+aVRight? I mean, somebody's seen him.
+p95
+aVTen, 20, 30 miles back, someone's seen that guy,
+p96
+aVand as soon as one car sees that guy
+p97
+aVand puts him on the map, he's on the map \u2014
+p98
+aVposition, velocity,
+p99
+aVgood estimate he'll continue going 85 miles an hour.
+p100
+aVYou'll know, because your car will know, because
+p101
+aVthat other car will have whispered something in his ear,
+p102
+aVlike, "By the way, five minutes,
+p103
+aVmotorcyclist, watch out."
+p104
+aVYou can make reasonable predictions about how cars behave.
+p105
+aVI mean, they're Newtonian objects.
+p106
+aVThat's very nice about them.
+p107
+aa(lp108
+VSo how do we get there?
+p109
+aVWe can start with something as simple
+p110
+aVas sharing our position data between cars,
+p111
+aVjust sharing GPS.
+p112
+aVIf I have a GPS and a camera in my car,
+p113
+aVI have a pretty precise idea of where I am
+p114
+aVand how fast I'm going.
+p115
+aVWith computer vision, I can estimate where
+p116
+aVthe cars around me are, sort of, and where they're going.
+p117
+aVAnd same with the other cars.
+p118
+aVThey can have a precise idea of where they are,
+p119
+aVand sort of a vague idea of where the other cars are.
+p120
+aVWhat happens if two cars share that data,
+p121
+aVif they talk to each other?
+p122
+aVI can tell you exactly what happens.
+p123
+aVBoth models improve.
+p124
+aVEverybody wins.
+p125
+aVProfessor Bob Wang and his team
+p126
+aVhave done computer simulations of what happens
+p127
+aVwhen fuzzy estimates combine, even in light traffic,
+p128
+aVwhen cars just share GPS data,
+p129
+aVand we've moved this research out of the computer simulation
+p130
+aVand into robot test beds that have the actual sensors
+p131
+aVthat are in cars now on these robots:
+p132
+aVstereo cameras, GPS,
+p133
+aVand the two-dimensional laser range finders
+p134
+aVthat are common in backup systems.
+p135
+aVWe also attach a discrete short-range communication radio,
+p136
+aVand the robots talk to each other.
+p137
+aVWhen these robots come at each other,
+p138
+aVthey track each other's position precisely,
+p139
+aVand they can avoid each other.
+p140
+aa(lp141
+VWe're now adding more and more robots into the mix,
+p142
+aVand we encountered some problems.
+p143
+aVOne of the problems, when you get too much chatter,
+p144
+aVit's hard to process all the packets, so you have to prioritize,
+p145
+aVand that's where the predictive model helps you.
+p146
+aVIf your robot cars are all tracking the predicted trajectories,
+p147
+aVyou don't pay as much attention to those packets.
+p148
+aVYou prioritize the one guy
+p149
+aVwho seems to be going a little off course.
+p150
+aVThat guy could be a problem.
+p151
+aVAnd you can predict the new trajectory.
+p152
+aVSo you don't only know that he's going off course, you know how.
+p153
+aVAnd you know which drivers you need to alert to get out of the way.
+p154
+aa(lp155
+VAnd we wanted to do \u2014 how can we best alert everyone?
+p156
+aVHow can these cars whisper, "You need to get out of the way?"
+p157
+aVWell, it depends on two things:
+p158
+aVone, the ability of the car,
+p159
+aVand second the ability of the driver.
+p160
+aVIf one guy has a really great car,
+p161
+aVbut they're on their phone or, you know, doing something,
+p162
+aVthey're not probably in the best position
+p163
+aVto react in an emergency.
+p164
+aVSo we started a separate line of research
+p165
+aVdoing driver state modeling.
+p166
+aVAnd now, using a series of three cameras,
+p167
+aVwe can detect if a driver is looking forward,
+p168
+aVlooking away, looking down, on the phone,
+p169
+aVor having a cup of coffee.
+p170
+aVWe can predict the accident
+p171
+aVand we can predict who, which cars,
+p172
+aVare in the best position to move out of the way
+p173
+aVto calculate the safest route for everyone.
+p174
+aVFundamentally, these technologies exist today.
+p175
+aa(lp176
+VI think the biggest problem that we face
+p177
+aVis our own willingness to share our data.
+p178
+aVI think it's a very disconcerting notion,
+p179
+aVthis idea that our cars will be watching us,
+p180
+aVtalking about us to other cars,
+p181
+aVthat we'll be going down the road in a sea of gossip.
+p182
+aVBut I believe it can be done in a way that protects our privacy,
+p183
+aVjust like right now, when I look at your car from the outside,
+p184
+aVI don't really know about you.
+p185
+aVIf I look at your license plate number,
+p186
+aVI don't really know who you are.
+p187
+aVI believe our cars can talk about us behind our backs.
+p188
+aa(lp189
+V(Laughter)
+p190
+aa(lp191
+VAnd I think it's going to be a great thing.
+p192
+aVI want you to consider for a moment
+p193
+aVif you really don't want the distracted teenager behind you
+p194
+aVto know that you're braking,
+p195
+aVthat you're coming to a dead stop.
+p196
+aVBy sharing our data willingly,
+p197
+aVwe can do what's best for everyone.
+p198
+aa(lp199
+VSo let your car gossip about you.
+p200
+aVIt's going to make the roads a lot safer.
+p201
+aa(lp202
+VThank you.
+p203
+aa(lp204
+V(Applause)
+p205
+aasS'id'
+p206
+I1724
+sS'title'
+p207
+VIf cars could talk, accidents might be avoidable
+p208
+s.

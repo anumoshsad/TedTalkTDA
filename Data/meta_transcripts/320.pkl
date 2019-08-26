@@ -1,0 +1,639 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI got my first computer when I was a teenager growing up in Accra,
+p4
+aVand it was a really cool device.
+p5
+aVYou could play games with it. You could program it in BASIC.
+p6
+aVAnd I was fascinated.
+p7
+aVSo I went into the library to figure out how did this thing work.
+p8
+aVI read about how the CPU is constantly shuffling data back and forth
+p9
+aVbetween the memory, the RAM and the ALU,
+p10
+aVthe arithmetic and logic unit.
+p11
+aVAnd I thought to myself, this CPU really has to work like crazy
+p12
+aVjust to keep all this data moving through the system.
+p13
+aa(lp14
+VBut nobody was really worried about this.
+p15
+aVWhen computers were first introduced,
+p16
+aVthey were said to be a million times faster than neurons.
+p17
+aVPeople were really excited. They thought they would soon outstrip
+p18
+aVthe capacity of the brain.
+p19
+aVThis is a quote, actually, from Alan Turing:
+p20
+aV"In 30 years, it will be as easy to ask a computer a question
+p21
+aVas to ask a person."
+p22
+aVThis was in 1946. And now, in 2007, it's still not true.
+p23
+aVAnd so, the question is, why aren't we really seeing
+p24
+aVthis kind of power in computers that we see in the brain?
+p25
+aa(lp26
+VWhat people didn't realize, and I'm just beginning to realize right now,
+p27
+aVis that we pay a huge price for the speed
+p28
+aVthat we claim is a big advantage of these computers.
+p29
+aVLet's take a look at some numbers.
+p30
+aVThis is Blue Gene, the fastest computer in the world.
+p31
+aVIt's got 120,000 processors; they can basically process
+p32
+aV10 quadrillion bits of information per second.
+p33
+aVThat's 10 to the sixteenth. And they consume one and a half megawatts of power.
+p34
+aVSo that would be really great, if you could add that
+p35
+aVto the production capacity in Tanzania.
+p36
+aVIt would really boost the economy.
+p37
+aVJust to go back to the States,
+p38
+aVif you translate the amount of power or electricity
+p39
+aVthis computer uses to the amount of households in the States,
+p40
+aVyou get 1,200 households in the U.S.
+p41
+aVThat's how much power this computer uses.
+p42
+aa(lp43
+VNow, let's compare this with the brain.
+p44
+aVThis is a picture of, actually Rory Sayres' girlfriend's brain.
+p45
+aVRory is a graduate student at Stanford.
+p46
+aVHe studies the brain using MRI, and he claims that
+p47
+aVthis is the most beautiful brain that he has ever scanned.
+p48
+aV(Laughter)
+p49
+aVSo that's true love, right there.
+p50
+aVNow, how much computation does the brain do?
+p51
+aVI estimate 10 to the 16 bits per second,
+p52
+aVwhich is actually about very similar to what Blue Gene does.
+p53
+aVSo that's the question. The question is, how much \u2014
+p54
+aVthey are doing a similar amount of processing, similar amount of data \u2014
+p55
+aVthe question is how much energy or electricity does the brain use?
+p56
+aVAnd it's actually as much as your laptop computer:
+p57
+aVit's just 10 watts.
+p58
+aVSo what we are doing right now with computers
+p59
+aVwith the energy consumed by 1,200 houses,
+p60
+aVthe brain is doing with the energy consumed by your laptop.
+p61
+aa(lp62
+VSo the question is, how is the brain able to achieve this kind of efficiency?
+p63
+aVAnd let me just summarize. So the bottom line:
+p64
+aVthe brain processes information using 100,000 times less energy
+p65
+aVthan we do right now with this computer technology that we have.
+p66
+aVHow is the brain able to do this?
+p67
+aVLet's just take a look about how the brain works,
+p68
+aVand then I'll compare that with how computers work.
+p69
+aVSo, this clip is from the PBS series, "The Secret Life of the Brain."
+p70
+aVIt shows you these cells that process information.
+p71
+aVThey are called neurons.
+p72
+aVThey send little pulses of electricity down their processes to each other,
+p73
+aVand where they contact each other, those little pulses
+p74
+aVof electricity can jump from one neuron to the other.
+p75
+aVThat process is called a synapse.
+p76
+aVYou've got this huge network of cells interacting with each other \u2014
+p77
+aVabout 100 million of them,
+p78
+aVsending about 10 quadrillion of these pulses around every second.
+p79
+aVAnd that's basically what's going on in your brain right now as you're watching this.
+p80
+aa(lp81
+VHow does that compare with the way computers work?
+p82
+aVIn the computer, you have all the data
+p83
+aVgoing through the central processing unit,
+p84
+aVand any piece of data basically has to go through that bottleneck,
+p85
+aVwhereas in the brain, what you have is these neurons,
+p86
+aVand the data just really flows through a network of connections
+p87
+aVamong the neurons. There's no bottleneck here.
+p88
+aVIt's really a network in the literal sense of the word.
+p89
+aVThe net is doing the work in the brain.
+p90
+aVIf you just look at these two pictures,
+p91
+aVthese kind of words pop into your mind.
+p92
+aVThis is serial and it's rigid \u2014 it's like cars on a freeway,
+p93
+aVeverything has to happen in lockstep \u2014
+p94
+aVwhereas this is parallel and it's fluid.
+p95
+aVInformation processing is very dynamic and adaptive.
+p96
+aa(lp97
+VSo I'm not the first to figure this out. This is a quote from Brian Eno:
+p98
+aV"the problem with computers is that there is not enough Africa in them."
+p99
+aV(Laughter)
+p100
+aVBrian actually said this in 1995.
+p101
+aVAnd nobody was listening then,
+p102
+aVbut now people are beginning to listen
+p103
+aVbecause there's a pressing, technological problem that we face.
+p104
+aVAnd I'll just take you through that a little bit in the next few slides.
+p105
+aa(lp106
+VThis is \u2014 it's actually really this remarkable convergence
+p107
+aVbetween the devices that we use to compute in computers,
+p108
+aVand the devices that our brains use to compute.
+p109
+aVThe devices that computers use are what's called a transistor.
+p110
+aVThis electrode here, called the gate, controls the flow of current
+p111
+aVfrom the source to the drain \u2014 these two electrodes.
+p112
+aVAnd that current, electrical current,
+p113
+aVis carried by electrons, just like in your house and so on.
+p114
+aVAnd what you have here is, when you actually turn on the gate,
+p115
+aVyou get an increase in the amount of current, and you get a steady flow of current.
+p116
+aVAnd when you turn off the gate, there's no current flowing through the device.
+p117
+aVYour computer uses this presence of current to represent a one,
+p118
+aVand the absence of current to represent a zero.
+p119
+aa(lp120
+VNow, what's happening is that as transistors are getting smaller and smaller and smaller,
+p121
+aVthey no longer behave like this.
+p122
+aVIn fact, they are starting to behave like the device that neurons use to compute,
+p123
+aVwhich is called an ion channel.
+p124
+aVAnd this is a little protein molecule.
+p125
+aVI mean, neurons have thousands of these.
+p126
+aVAnd it sits in the membrane of the cell and it's got a pore in it.
+p127
+aVAnd these are individual potassium ions
+p128
+aVthat are flowing through that pore.
+p129
+aVNow, this pore can open and close.
+p130
+aVBut, when it's open, because these ions have to line up
+p131
+aVand flow through, one at a time, you get a kind of sporadic, not steady \u2014
+p132
+aVit's a sporadic flow of current.
+p133
+aVAnd even when you close the pore \u2014 which neurons can do,
+p134
+aVthey can open and close these pores to generate electrical activity \u2014
+p135
+aVeven when it's closed, because these ions are so small,
+p136
+aVthey can actually sneak through, a few can sneak through at a time.
+p137
+aVSo, what you have is that when the pore is open,
+p138
+aVyou get some current sometimes.
+p139
+aVThese are your ones, but you've got a few zeros thrown in.
+p140
+aVAnd when it's closed, you have a zero,
+p141
+aVbut you have a few ones thrown in.
+p142
+aa(lp143
+VNow, this is starting to happen in transistors.
+p144
+aVAnd the reason why that's happening is that, right now, in 2007 \u2014
+p145
+aVthe technology that we are using \u2014 a transistor is big enough
+p146
+aVthat several electrons can flow through the channel simultaneously, side by side.
+p147
+aVIn fact, there's about 12 electrons can all be flowing this way.
+p148
+aVAnd that means that a transistor corresponds
+p149
+aVto about 12 ion channels in parallel.
+p150
+aVNow, in a few years time, by 2015, we will shrink transistors so much.
+p151
+aVThis is what Intel does to keep adding more cores onto the chip.
+p152
+aVOr your memory sticks that you have now can carry one gigabyte
+p153
+aVof stuff on them \u2014 before, it was 256.
+p154
+aVTransistors are getting smaller to allow this to happen,
+p155
+aVand technology has really benefitted from that.
+p156
+aa(lp157
+VBut what's happening now is that in 2015, the transistor is going to become so small,
+p158
+aVthat it corresponds to only one electron at a time
+p159
+aVcan flow through that channel,
+p160
+aVand that corresponds to a single ion channel.
+p161
+aVAnd you start having the same kind of traffic jams that you have in the ion channel.
+p162
+aVThe current will turn on and off at random,
+p163
+aVeven when it's supposed to be on.
+p164
+aVAnd that means your computer is going to get
+p165
+aVits ones and zeros mixed up, and that's going to crash your machine.
+p166
+aa(lp167
+VSo, we are at the stage where we
+p168
+aVdon't really know how to compute with these kinds of devices.
+p169
+aVAnd the only kind of thing \u2014 the only thing we know right now
+p170
+aVthat can compute with these kinds of devices are the brain.
+p171
+aa(lp172
+VOK, so a computer picks a specific item of data from memory,
+p173
+aVit sends it into the processor or the ALU,
+p174
+aVand then it puts the result back into memory.
+p175
+aVThat's the red path that's highlighted.
+p176
+aVThe way brains work, I told you all, you have got all these neurons.
+p177
+aVAnd the way they represent information is
+p178
+aVthey break up that data into little pieces
+p179
+aVthat are represented by pulses and different neurons.
+p180
+aVSo you have all these pieces of data
+p181
+aVdistributed throughout the network.
+p182
+aVAnd then the way that you process that data to get a result
+p183
+aVis that you translate this pattern of activity into a new pattern of activity,
+p184
+aVjust by it flowing through the network.
+p185
+aVSo you set up these connections
+p186
+aVsuch that the input pattern just flows
+p187
+aVand generates the output pattern.
+p188
+aa(lp189
+VWhat you see here is that there's these redundant connections.
+p190
+aVSo if this piece of data or this piece of the data gets clobbered,
+p191
+aVit doesn't show up over here, these two pieces can activate the missing part
+p192
+aVwith these redundant connections.
+p193
+aVSo even when you go to these crappy devices
+p194
+aVwhere sometimes you want a one and you get a zero, and it doesn't show up,
+p195
+aVthere's redundancy in the network
+p196
+aVthat can actually recover the missing information.
+p197
+aVIt makes the brain inherently robust.
+p198
+aVWhat you have here is a system where you store data locally.
+p199
+aVAnd it's brittle, because each of these steps has to be flawless,
+p200
+aVotherwise you lose that data, whereas in the brain, you have a system
+p201
+aVthat stores data in a distributed way, and it's robust.
+p202
+aa(lp203
+VWhat I want to basically talk about is my dream,
+p204
+aVwhich is to build a computer that works like the brain.
+p205
+aVThis is something that we've been working on for the last couple of years.
+p206
+aVAnd I'm going to show you a system that we designed
+p207
+aVto model the retina,
+p208
+aVwhich is a piece of brain that lines the inside of your eyeball.
+p209
+aVWe didn't do this by actually writing code, like you do in a computer.
+p210
+aVIn fact, the processing that happens
+p211
+aVin that little piece of brain is very similar
+p212
+aVto the kind of processing that computers
+p213
+aVdo when they stream video over the Internet.
+p214
+aVThey want to compress the information \u2014
+p215
+aVthey just want to send the changes, what's new in the image, and so on \u2014
+p216
+aVand that is how your eyeball
+p217
+aVis able to squeeze all that information down to your optic nerve,
+p218
+aVto send to the rest of the brain.
+p219
+aa(lp220
+VInstead of doing this in software, or doing those kinds of algorithms,
+p221
+aVwe went and talked to neurobiologists
+p222
+aVwho have actually reverse engineered that piece of brain that's called the retina.
+p223
+aVAnd they figured out all the different cells,
+p224
+aVand they figured out the network, and we just took that network
+p225
+aVand we used it as the blueprint for the design of a silicon chip.
+p226
+aVSo now the neurons are represented by little nodes or circuits on the chip,
+p227
+aVand the connections among the neurons are represented, actually modeled by transistors.
+p228
+aVAnd these transistors are behaving essentially
+p229
+aVjust like ion channels behave in the brain.
+p230
+aVIt will give you the same kind of robust architecture that I described.
+p231
+aa(lp232
+VHere is actually what our artificial eye looks like.
+p233
+aVThe retina chip that we designed sits behind this lens here.
+p234
+aVAnd the chip \u2014 I'm going to show you a video
+p235
+aVthat the silicon retina put out of its output
+p236
+aVwhen it was looking at Kareem Zaghloul,
+p237
+aVwho's the student who designed this chip.
+p238
+aVLet me explain what you're going to see, OK,
+p239
+aVbecause it's putting out different kinds of information,
+p240
+aVit's not as straightforward as a camera.
+p241
+aVThe retina chip extracts four different kinds of information.
+p242
+aVIt extracts regions with dark contrast,
+p243
+aVwhich will show up on the video as red.
+p244
+aVAnd it extracts regions with white or light contrast,
+p245
+aVwhich will show up on the video as green.
+p246
+aa(lp247
+VThis is Kareem's dark eyes
+p248
+aVand that's the white background that you see here.
+p249
+aVAnd then it also extracts movement.
+p250
+aVWhen Kareem moves his head to the right,
+p251
+aVyou will see this blue activity there;
+p252
+aVit represents regions where the contrast is increasing in the image,
+p253
+aVthat's where it's going from dark to light.
+p254
+aVAnd you also see this yellow activity,
+p255
+aVwhich represents regions where contrast is decreasing;
+p256
+aVit's going from light to dark.
+p257
+aVAnd these four types of information \u2014
+p258
+aVyour optic nerve has about a million fibers in it,
+p259
+aVand 900,000 of those fibers
+p260
+aVsend these four types of information.
+p261
+aVSo we are really duplicating the kind of signals that you have on the optic nerve.
+p262
+aa(lp263
+VWhat you notice here is that these snapshots
+p264
+aVtaken from the output of the retina chip are very sparse, right?
+p265
+aVIt doesn't light up green everywhere in the background,
+p266
+aVonly on the edges, and then in the hair, and so on.
+p267
+aVAnd this is the same thing you see
+p268
+aVwhen people compress video to send: they want to make it very sparse,
+p269
+aVbecause that file is smaller. And this is what the retina is doing,
+p270
+aVand it's doing it just with the circuitry, and how this network of neurons
+p271
+aVthat are interacting in there, which we've captured on the chip.
+p272
+aa(lp273
+VBut the point that I want to make \u2014 I'll show you up here.
+p274
+aVSo this image here is going to look like these ones,
+p275
+aVbut here I'll show you that we can reconstruct the image,
+p276
+aVso, you know, you can almost recognize Kareem in that top part there.
+p277
+aVAnd so, here you go.
+p278
+aVYes, so that's the idea.
+p279
+aVWhen you stand still, you just see the light and dark contrasts.
+p280
+aVBut when it's moving back and forth,
+p281
+aVthe retina picks up these changes.
+p282
+aVAnd that's why, you know, when you're sitting here
+p283
+aVand something happens in your background,
+p284
+aVyou merely move your eyes to it.
+p285
+aVThere are these cells that detect change
+p286
+aVand you move your attention to it.
+p287
+aVSo those are very important for catching somebody
+p288
+aVwho's trying to sneak up on you.
+p289
+aa(lp290
+VLet me just end by saying that this is what happens
+p291
+aVwhen you put Africa in a piano, OK.
+p292
+aVThis is a steel drum here that has been modified,
+p293
+aVand that's what happens when you put Africa in a piano.
+p294
+aVAnd what I would like us to do is put Africa in the computer,
+p295
+aVand come up with a new kind of computer
+p296
+aVthat will generate thought, imagination, be creative and things like that.
+p297
+aVThank you.
+p298
+aV(Applause)
+p299
+aa(lp300
+VChris Anderson: Question for you, Kwabena.
+p301
+aVDo you put together in your mind the work you're doing,
+p302
+aVthe future of Africa, this conference \u2014
+p303
+aVwhat connections can we make, if any, between them?
+p304
+aa(lp305
+VKwabena Boahen: Yes, like I said at the beginning,
+p306
+aVI got my first computer when I was a teenager, growing up in Accra.
+p307
+aVAnd I had this gut reaction that this was the wrong way to do it.
+p308
+aVIt was very brute force; it was very inelegant.
+p309
+aVI don't think that I would've had that reaction,
+p310
+aVif I'd grown up reading all this science fiction,
+p311
+aVhearing about RD2D2, whatever it was called, and just \u2014 you know,
+p312
+aVbuying into this hype about computers.
+p313
+aVI was coming at it from a different perspective,
+p314
+aVwhere I was bringing that different perspective
+p315
+aVto bear on the problem.
+p316
+aVAnd I think a lot of people in Africa have this different perspective,
+p317
+aVand I think that's going to impact technology.
+p318
+aVAnd that's going to impact how it's going to evolve.
+p319
+aVAnd I think you're going to be able to see, use that infusion,
+p320
+aVto come up with new things,
+p321
+aVbecause you're coming from a different perspective.
+p322
+aVI think we can contribute. We can dream like everybody else.
+p323
+aa(lp324
+VCA: Thanks Kwabena, that was really interesting.
+p325
+aVThank you.
+p326
+aa(lp327
+V(Applause)
+p328
+aasS'id'
+p329
+I320
+sS'title'
+p330
+VA computer that works like the brain
+p331
+s.

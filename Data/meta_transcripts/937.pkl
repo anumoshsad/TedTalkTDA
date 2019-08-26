@@ -1,0 +1,918 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIt feels like we're all suffering
+p4
+aVfrom information overload or data glut.
+p5
+aVAnd the good news is there might be an easy solution to that,
+p6
+aVand that's using our eyes more.
+p7
+aVSo, visualizing information, so that we can see
+p8
+aVthe patterns and connections that matter
+p9
+aVand then designing that information so it makes more sense,
+p10
+aVor it tells a story,
+p11
+aVor allows us to focus only on the information that's important.
+p12
+aVFailing that, visualized information can just look really cool.
+p13
+aa(lp14
+VSo, let's see.
+p15
+aVThis is the $Billion Dollar o-Gram,
+p16
+aVand this image arose
+p17
+aVout of frustration I had
+p18
+aVwith the reporting of billion-dollar amounts in the press.
+p19
+aVThat is, they're meaningless without context:
+p20
+aV500 billion for this pipeline,
+p21
+aV20 billion for this war.
+p22
+aVIt doesn't make any sense, so the only way to understand it
+p23
+aVis visually and relatively.
+p24
+aVSo I scraped a load of reported figures
+p25
+aVfrom various news outlets
+p26
+aVand then scaled the boxes according to those amounts.
+p27
+aVAnd the colors here represent the motivation behind the money.
+p28
+aVSo purple is "fighting,"
+p29
+aVand red is "giving money away," and green is "profiteering."
+p30
+aVAnd what you can see straight away
+p31
+aVis you start to have a different relationship to the numbers.
+p32
+aVYou can literally see them.
+p33
+aVBut more importantly, you start to see
+p34
+aVpatterns and connections between numbers
+p35
+aVthat would otherwise be scattered across multiple news reports.
+p36
+aa(lp37
+VLet me point out some that I really like.
+p38
+aVThis is OPEC's revenue, this green box here \u2014
+p39
+aV780 billion a year.
+p40
+aVAnd this little pixel in the corner \u2014 three billion \u2014
+p41
+aVthat's their climate change fund.
+p42
+aVAmericans, incredibly generous people \u2014
+p43
+aVover 300 billion a year, donated to charity every year,
+p44
+aVcompared with the amount of foreign aid
+p45
+aVgiven by the top 17 industrialized nations
+p46
+aVat 120 billion.
+p47
+aVThen of course,
+p48
+aVthe Iraq War, predicted to cost just 60 billion
+p49
+aVback in 2003.
+p50
+aVAnd it mushroomed slightly. Afghanistan and Iraq mushroomed now
+p51
+aVto 3,000 billion.
+p52
+aVSo now it's great
+p53
+aVbecause now we have this texture, and we can add numbers to it as well.
+p54
+aVSo we could say, well, a new figure comes out ... let's see African debt.
+p55
+aVHow much of this diagram do you think might be taken up
+p56
+aVby the debt that Africa owes to the West?
+p57
+aVLet's take a look.
+p58
+aVSo there it is:
+p59
+aV227 billion is what Africa owes.
+p60
+aVAnd the recent financial crisis,
+p61
+aVhow much of this diagram might that figure take up?
+p62
+aVWhat has that cost the world? Let's take a look at that.
+p63
+aVDooosh \u2014 Which I think is the appropriate sound effect
+p64
+aVfor that much money:
+p65
+aV11,900 billion.
+p66
+aVSo, by visualizing this information,
+p67
+aVwe turned it into a landscape
+p68
+aVthat you can explore with your eyes,
+p69
+aVa kind of map really, a sort of information map.
+p70
+aVAnd when you're lost in information,
+p71
+aVan information map is kind of useful.
+p72
+aa(lp73
+VSo I want to show you another landscape now.
+p74
+aVWe need to imagine what a landscape
+p75
+aVof the world's fears might look like.
+p76
+aVLet's take a look.
+p77
+aVThis is Mountains Out of Molehills,
+p78
+aVa timeline of global media panic.
+p79
+aV(Laughter)
+p80
+aVSo, I'll label this for you in a second.
+p81
+aVBut the height here, I want to point out,
+p82
+aVis the intensity of certain fears
+p83
+aVas reported in the media.
+p84
+aVLet me point them out.
+p85
+aVSo this, swine flu \u2014 pink.
+p86
+aVBird flu.
+p87
+aVSARS \u2014 brownish here. Remember that one?
+p88
+aVThe millennium bug,
+p89
+aVterrible disaster.
+p90
+aVThese little green peaks
+p91
+aVare asteroid collisions.
+p92
+aV(Laughter)
+p93
+aVAnd in summer, here, killer wasps.
+p94
+aa(lp95
+V(Laughter)
+p96
+aa(lp97
+VSo these are what our fears look like
+p98
+aVover time in our media.
+p99
+aVBut what I love \u2014 and I'm a journalist \u2014
+p100
+aVand what I love is finding hidden patterns; I love being a data detective.
+p101
+aVAnd there's a very interesting and odd pattern hidden in this data
+p102
+aVthat you can only see when you visualize it.
+p103
+aVLet me highlight it for you.
+p104
+aVSee this line, this is a landscape for violent video games.
+p105
+aVAs you can see, there's a kind of odd, regular pattern in the data,
+p106
+aVtwin peaks every year.
+p107
+aVIf we look closer, we see those peaks occur
+p108
+aVat the same month every year.
+p109
+aVWhy?
+p110
+aVWell, November, Christmas video games come out,
+p111
+aVand there may well be an upsurge in the concern about their content.
+p112
+aVBut April isn't a particularly massive month
+p113
+aVfor video games.
+p114
+aVWhy April?
+p115
+aVWell, in April 1999 was the Columbine shooting,
+p116
+aVand since then, that fear
+p117
+aVhas been remembered by the media
+p118
+aVand echoes through the group mind gradually through the year.
+p119
+aVYou have retrospectives, anniversaries,
+p120
+aVcourt cases, even copy-cat shootings,
+p121
+aVall pushing that fear into the agenda.
+p122
+aVAnd there's another pattern here as well. Can you spot it?
+p123
+aVSee that gap there? There's a gap,
+p124
+aVand it affects all the other stories.
+p125
+aVWhy is there a gap there?
+p126
+aVYou see where it starts? September 2001,
+p127
+aVwhen we had something very real
+p128
+aVto be scared about.
+p129
+aa(lp130
+VSo, I've been working as a data journalist for about a year,
+p131
+aVand I keep hearing a phrase
+p132
+aVall the time, which is this:
+p133
+aV"Data is the new oil."
+p134
+aVData is the kind of ubiquitous resource
+p135
+aVthat we can shape to provide new innovations and new insights,
+p136
+aVand it's all around us, and it can be mined very easily.
+p137
+aVIt's not a particularly great metaphor in these times,
+p138
+aVespecially if you live around the Gulf of Mexico,
+p139
+aVbut I would, perhaps, adapt this metaphor slightly,
+p140
+aVand I would say that data is the new soil.
+p141
+aVBecause for me, it feels like a fertile, creative medium.
+p142
+aVOver the years, online,
+p143
+aVwe've laid down
+p144
+aVa huge amount of information and data,
+p145
+aVand we irrigate it with networks and connectivity,
+p146
+aVand it's been worked and tilled by unpaid workers and governments.
+p147
+aVAnd, all right, I'm kind of milking the metaphor a little bit.
+p148
+aVBut it's a really fertile medium,
+p149
+aVand it feels like visualizations, infographics, data visualizations,
+p150
+aVthey feel like flowers blooming from this medium.
+p151
+aVBut if you look at it directly,
+p152
+aVit's just a lot of numbers and disconnected facts.
+p153
+aVBut if you start working with it and playing with it in a certain way,
+p154
+aVinteresting things can appear and different patterns can be revealed.
+p155
+aa(lp156
+VLet me show you this.
+p157
+aVCan you guess what this data set is?
+p158
+aVWhat rises twice a year,
+p159
+aVonce in Easter
+p160
+aVand then two weeks before Christmas,
+p161
+aVhas a mini peak every Monday,
+p162
+aVand then flattens out over the summer?
+p163
+aVI'll take answers.
+p164
+aV(Audience: Chocolate.) David McCandless: Chocolate.
+p165
+aVYou might want to get some chocolate in.
+p166
+aVAny other guesses?
+p167
+aV(Audience: Shopping.) DM: Shopping.
+p168
+aVYeah, retail therapy might help.
+p169
+aV(Audience: Sick leave.)
+p170
+aVDM: Sick leave. Yeah, you'll definitely want to take some time off.
+p171
+aVShall we see?
+p172
+aa(lp173
+V(Laughter)
+p174
+aa(lp175
+V(Applause)
+p176
+aa(lp177
+VSo, the information guru Lee Byron and myself,
+p178
+aVwe scraped 10,000 status Facebook updates
+p179
+aVfor the phrase "break-up" and "broken-up"
+p180
+aVand this is the pattern we found \u2014
+p181
+aVpeople clearing out for Spring Break,
+p182
+aV(Laughter)
+p183
+aVcoming out of very bad weekends on a Monday,
+p184
+aVbeing single over the summer,
+p185
+aVand then the lowest day of the year, of course: Christmas Day.
+p186
+aVWho would do that?
+p187
+aVSo there's a titanic amount of data out there now,
+p188
+aVunprecedented.
+p189
+aVBut if you ask the right kind of question,
+p190
+aVor you work it in the right kind of way,
+p191
+aVinteresting things can emerge.
+p192
+aa(lp193
+VSo information is beautiful. Data is beautiful.
+p194
+aVI wonder if I could make my life beautiful.
+p195
+aVAnd here's my visual C.V.
+p196
+aVI'm not quite sure I've succeeded.
+p197
+aVPretty blocky, the colors aren't that great.
+p198
+aVBut I wanted to convey something to you.
+p199
+aVI started as a programmer,
+p200
+aVand then I worked as a writer for many years, about 20 years,
+p201
+aVin print, online and then in advertising,
+p202
+aVand only recently have I started designing.
+p203
+aVAnd I've never been to design school.
+p204
+aVI've never studied art or anything.
+p205
+aVI just kind of learned through doing.
+p206
+aVAnd when I started designing,
+p207
+aVI discovered an odd thing about myself.
+p208
+aVI already knew how to design,
+p209
+aVbut it wasn't like I was amazingly brilliant at it,
+p210
+aVbut more like I was sensitive
+p211
+aVto the ideas of grids and space
+p212
+aVand alignment and typography.
+p213
+aVIt's almost like being exposed
+p214
+aVto all this media over the years
+p215
+aVhad instilled a kind of dormant design literacy in me.
+p216
+aVAnd I don't feel like I'm unique.
+p217
+aa(lp218
+VI feel that everyday, all of us now
+p219
+aVare being blasted by information design.
+p220
+aVIt's being poured into our eyes through the Web,
+p221
+aVand we're all visualizers now;
+p222
+aVwe're all demanding a visual aspect
+p223
+aVto our information.
+p224
+aVThere's something almost quite magical about visual information.
+p225
+aVIt's effortless, it literally pours in.
+p226
+aVAnd if you're navigating a dense information jungle,
+p227
+aVcoming across a beautiful graphic
+p228
+aVor a lovely data visualization,
+p229
+aVit's a relief, it's like coming across a clearing in the jungle.
+p230
+aVI was curious about this, so it led me
+p231
+aVto the work of a Danish physicist
+p232
+aVcalled Tor Norretranders,
+p233
+aVand he converted the bandwidth of the senses into computer terms.
+p234
+aa(lp235
+VSo here we go. This is your senses,
+p236
+aVpouring into your senses every second.
+p237
+aVYour sense of sight is the fastest.
+p238
+aVIt has the same bandwidth as a computer network.
+p239
+aVThen you have touch, which is about the speed of a USB key.
+p240
+aVAnd then you have hearing and smell,
+p241
+aVwhich has the throughput of a hard disk.
+p242
+aVAnd then you have poor old taste,
+p243
+aVwhich is like barely the throughput of a pocket calculator.
+p244
+aVAnd that little square in the corner, a naught .7 percent,
+p245
+aVthat's the amount we're actually aware of.
+p246
+aVSo a lot of your vision \u2014
+p247
+aVthe bulk of it is visual, and it's pouring in.
+p248
+aVIt's unconscious.
+p249
+aVThe eye is exquisitely sensitive
+p250
+aVto patterns in variations in color, shape and pattern.
+p251
+aVIt loves them, and it calls them beautiful.
+p252
+aVIt's the language of the eye.
+p253
+aVIf you combine the language of the eye with the language of the mind,
+p254
+aVwhich is about words and numbers and concepts,
+p255
+aVyou start speaking two languages simultaneously,
+p256
+aVeach enhancing the other.
+p257
+aVSo, you have the eye, and then you drop in the concepts.
+p258
+aVAnd that whole thing \u2014 it's two languages
+p259
+aVboth working at the same time.
+p260
+aa(lp261
+VSo we can use this new kind of language, if you like,
+p262
+aVto alter our perspective or change our views.
+p263
+aVLet me ask you a simple question
+p264
+aVwith a really simple answer:
+p265
+aVWho has the biggest military budget?
+p266
+aVIt's got to be America, right?
+p267
+aVMassive. 609 billion in 2008 \u2014
+p268
+aV607, rather.
+p269
+aVSo massive, in fact, that it can contain
+p270
+aVall the other military budgets in the world inside itself.
+p271
+aVGobble, gobble, gobble, gobble, gobble.
+p272
+aVNow, you can see Africa's total debt there
+p273
+aVand the U.K. budget deficit for reference.
+p274
+aVSo that might well chime
+p275
+aVwith your view that America
+p276
+aVis a sort of warmongering military machine,
+p277
+aVout to overpower the world
+p278
+aVwith its huge industrial-military complex.
+p279
+aVBut is it true that America has the biggest military budget?
+p280
+aVBecause America is an incredibly rich country.
+p281
+aVIn fact, it's so massively rich
+p282
+aVthat it can contain the four other
+p283
+aVtop industrialized nations' economies
+p284
+aVinside itself, it's so vastly rich.
+p285
+aVSo its military budget is bound to be enormous.
+p286
+aVSo, to be fair and to alter our perspective,
+p287
+aVwe have to bring in another data set,
+p288
+aVand that data set is GDP, or the country's earnings.
+p289
+aVWho has the biggest budget as a proportion of GDP?
+p290
+aVLet's have a look.
+p291
+aVThat changes the picture considerably.
+p292
+aVOther countries pop into view that you, perhaps, weren't considering,
+p293
+aVand American drops into eighth.
+p294
+aa(lp295
+VNow you can also do this with soldiers.
+p296
+aVWho has the most soldiers? It's got to be China.
+p297
+aVOf course, 2.1 million.
+p298
+aVAgain, chiming with your view
+p299
+aVthat China has a militarized regime
+p300
+aVready to, you know, mobilize its enormous forces.
+p301
+aVBut of course, China has an enormous population.
+p302
+aVSo if we do the same,
+p303
+aVwe see a radically different picture.
+p304
+aVChina drops to 124th.
+p305
+aVIt actually has a tiny army
+p306
+aVwhen you take other data into consideration.
+p307
+aVSo, absolute figures, like the military budget,
+p308
+aVin a connected world,
+p309
+aVdon't give you the whole picture.
+p310
+aVThey're not as true as they could be.
+p311
+aa(lp312
+VWe need relative figures that are connected to other data
+p313
+aVso that we can see a fuller picture,
+p314
+aVand then that can lead to us changing our perspective.
+p315
+aVAs Hans Rosling, the master,
+p316
+aVmy master, said,
+p317
+aV"Let the dataset change your mindset."
+p318
+aVAnd if it can do that, maybe it can also change your behavior.
+p319
+aa(lp320
+VTake a look at this one.
+p321
+aVI'm a bit of a health nut.
+p322
+aVI love taking supplements and being fit,
+p323
+aVbut I can never understand what's going on in terms of evidence.
+p324
+aVThere's always conflicting evidence.
+p325
+aVShould I take vitamin C? Should I be taking wheatgrass?
+p326
+aVThis is a visualization of all the evidence
+p327
+aVfor nutritional supplements.
+p328
+aVThis kind of diagram is called a balloon race.
+p329
+aVSo the higher up the image,
+p330
+aVthe more evidence there is for each supplement.
+p331
+aVAnd the bubbles correspond to popularity as regards to Google hits.
+p332
+aVSo you can immediately apprehend
+p333
+aVthe relationship between efficacy and popularity,
+p334
+aVbut you can also, if you grade the evidence,
+p335
+aVdo a "worth it" line.
+p336
+aVSo supplements above this line are worth investigating,
+p337
+aVbut only for the conditions listed below,
+p338
+aVand then the supplements below the line
+p339
+aVare perhaps not worth investigating.
+p340
+aa(lp341
+VNow this image constitutes a huge amount of work.
+p342
+aVWe scraped like 1,000 studies from PubMed,
+p343
+aVthe biomedical database,
+p344
+aVand we compiled them and graded them all.
+p345
+aVAnd it was incredibly frustrating for me
+p346
+aVbecause I had a book of 250 visualizations to do for my book,
+p347
+aVand I spent a month doing this,
+p348
+aVand I only filled two pages.
+p349
+aVBut what it points to
+p350
+aVis that visualizing information like this
+p351
+aVis a form of knowledge compression.
+p352
+aVIt's a way of squeezing an enormous amount
+p353
+aVof information and understanding
+p354
+aVinto a small space.
+p355
+aVAnd once you've curated that data, and once you've cleaned that data,
+p356
+aVand once it's there,
+p357
+aVyou can do cool stuff like this.
+p358
+aa(lp359
+VSo I converted this into an interactive app,
+p360
+aVso I can now generate this application online \u2014
+p361
+aVthis is the visualization online \u2014
+p362
+aVand I can say, "Yeah, brilliant."
+p363
+aVSo it spawns itself.
+p364
+aVAnd then I can say, "Well, just show me the stuff
+p365
+aVthat affects heart health."
+p366
+aVSo let's filter that out.
+p367
+aVSo heart is filtered out, so I can see if I'm curious about that.
+p368
+aVI think, "No, no. I don't want to take any synthetics,
+p369
+aVI just want to see plants and \u2014
+p370
+aVjust show me herbs and plants. I've got all the natural ingredients."
+p371
+aVNow this app is spawning itself
+p372
+aVfrom the data.
+p373
+aVThe data is all stored in a Google Doc,
+p374
+aVand it's literally generating itself from that data.
+p375
+aVSo the data is now alive; this is a living image,
+p376
+aVand I can update it in a second.
+p377
+aVNew evidence comes out. I just change a row on a spreadsheet.
+p378
+aVDoosh! Again, the image recreates itself.
+p379
+aVSo it's cool.
+p380
+aVIt's kind of living.
+p381
+aa(lp382
+VBut it can go beyond data,
+p383
+aVand it can go beyond numbers.
+p384
+aVI like to apply information visualization
+p385
+aVto ideas and concepts.
+p386
+aVThis is a visualization
+p387
+aVof the political spectrum,
+p388
+aVan attempt for me to try
+p389
+aVand understand how it works
+p390
+aVand how the ideas percolate down
+p391
+aVfrom government into society and culture,
+p392
+aVinto families, into individuals, into their beliefs
+p393
+aVand back around again in a cycle.
+p394
+aVWhat I love about this image
+p395
+aVis it's made up of concepts,
+p396
+aVit explores our worldviews
+p397
+aVand it helps us \u2014 it helps me anyway \u2014
+p398
+aVto see what others think,
+p399
+aVto see where they're coming from.
+p400
+aVAnd it feels just incredibly cool to do that.
+p401
+aa(lp402
+VWhat was most exciting for me
+p403
+aVdesigning this
+p404
+aVwas that, when I was designing this image,
+p405
+aVI desperately wanted this side, the left side,
+p406
+aVto be better than the right side \u2014
+p407
+aVbeing a journalist, a Left-leaning person \u2014
+p408
+aVbut I couldn't, because I would have created
+p409
+aVa lopsided, biased diagram.
+p410
+aVSo, in order to really create a full image,
+p411
+aVI had to honor the perspectives on the right-hand side
+p412
+aVand at the same time, uncomfortably recognize
+p413
+aVhow many of those qualities were actually in me,
+p414
+aVwhich was very, very annoying and uncomfortable.
+p415
+aV(Laughter)
+p416
+aVBut not too uncomfortable,
+p417
+aVbecause there's something unthreatening
+p418
+aVabout seeing a political perspective,
+p419
+aVversus being told or forced to listen to one.
+p420
+aVYou're capable of holding conflicting viewpoints
+p421
+aVjoyously when you can see them.
+p422
+aVIt's even fun to engage with them
+p423
+aVbecause it's visual.
+p424
+aVSo that's what's exciting to me,
+p425
+aVseeing how data can change my perspective
+p426
+aVand change my mind midstream \u2014
+p427
+aVbeautiful, lovely data.
+p428
+aa(lp429
+VSo, just to wrap up,
+p430
+aVI wanted to say
+p431
+aVthat it feels to me that design is about solving problems
+p432
+aVand providing elegant solutions,
+p433
+aVand information design is about
+p434
+aVsolving information problems.
+p435
+aVIt feels like we have a lot of information problems
+p436
+aVin our society at the moment,
+p437
+aVfrom the overload and the saturation
+p438
+aVto the breakdown of trust and reliability
+p439
+aVand runaway skepticism and lack of transparency,
+p440
+aVor even just interestingness.
+p441
+aVI mean, I find information just too interesting.
+p442
+aVIt has a magnetic quality that draws me in.
+p443
+aa(lp444
+VSo, visualizing information
+p445
+aVcan give us a very quick solution to those kinds of problems.
+p446
+aVEven when the information is terrible,
+p447
+aVthe visual can be quite beautiful.
+p448
+aVOften we can get clarity
+p449
+aVor the answer to a simple question very quickly,
+p450
+aVlike this one,
+p451
+aVthe recent Icelandic volcano.
+p452
+aVWhich was emitting the most CO2?
+p453
+aVWas it the planes or the volcano,
+p454
+aVthe grounded planes or the volcano?
+p455
+aVSo we can have a look.
+p456
+aVWe look at the data and we see:
+p457
+aVYep, the volcano emitted 150,000 tons;
+p458
+aVthe grounded planes would have emitted
+p459
+aV345,000 if they were in the sky.
+p460
+aVSo essentially, we had our first carbon-neutral volcano.
+p461
+aa(lp462
+V(Laughter)
+p463
+aa(lp464
+V(Applause)
+p465
+aa(lp466
+VAnd that is beautiful. Thank you.
+p467
+aa(lp468
+V(Applause)
+p469
+aasS'id'
+p470
+I937
+sS'title'
+p471
+VThe beauty of data visualization
+p472
+s.

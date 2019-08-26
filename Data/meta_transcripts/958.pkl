@@ -1,0 +1,930 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VFor the last 10 years, I've been spending my time trying to figure out
+p4
+aVhow and why human beings
+p5
+aVassemble themselves into social networks.
+p6
+aVAnd the kind of social network I'm talking about
+p7
+aVis not the recent online variety,
+p8
+aVbut rather, the kind of social networks
+p9
+aVthat human beings have been assembling for hundreds of thousands of years,
+p10
+aVever since we emerged from the African savannah.
+p11
+aVSo, I form friendships and co-worker
+p12
+aVand sibling and relative relationships with other people
+p13
+aVwho in turn have similar relationships with other people.
+p14
+aVAnd this spreads on out endlessly into a distance.
+p15
+aVAnd you get a network that looks like this.
+p16
+aVEvery dot is a person.
+p17
+aVEvery line between them is a relationship between two people \u2014
+p18
+aVdifferent kinds of relationships.
+p19
+aVAnd you can get this kind of vast fabric of humanity,
+p20
+aVin which we're all embedded.
+p21
+aa(lp22
+VAnd my colleague, James Fowler and I have been studying for quite sometime
+p23
+aVwhat are the mathematical, social,
+p24
+aVbiological and psychological rules
+p25
+aVthat govern how these networks are assembled
+p26
+aVand what are the similar rules
+p27
+aVthat govern how they operate, how they affect our lives.
+p28
+aVBut recently, we've been wondering
+p29
+aVwhether it might be possible to take advantage of this insight,
+p30
+aVto actually find ways to improve the world,
+p31
+aVto do something better,
+p32
+aVto actually fix things, not just understand things.
+p33
+aVSo one of the first things we thought we would tackle
+p34
+aVwould be how we go about predicting epidemics.
+p35
+aa(lp36
+VAnd the current state of the art in predicting an epidemic \u2014
+p37
+aVif you're the CDC or some other national body \u2014
+p38
+aVis to sit in the middle where you are
+p39
+aVand collect data
+p40
+aVfrom physicians and laboratories in the field
+p41
+aVthat report the prevalence or the incidence of certain conditions.
+p42
+aVSo, so and so patients have been diagnosed with something,
+p43
+aVor other patients have been diagnosed,
+p44
+aVand all these data are fed into a central repository, with some delay.
+p45
+aVAnd if everything goes smoothly,
+p46
+aVone to two weeks from now
+p47
+aVyou'll know where the epidemic was today.
+p48
+aVAnd actually, about a year or so ago,
+p49
+aVthere was this promulgation
+p50
+aVof the idea of Google Flu Trends, with respect to the flu,
+p51
+aVwhere by looking at people's searching behavior today,
+p52
+aVwe could know where the flu \u2014
+p53
+aVwhat the status of the epidemic was today,
+p54
+aVwhat's the prevalence of the epidemic today.
+p55
+aa(lp56
+VBut what I'd like to show you today
+p57
+aVis a means by which we might get
+p58
+aVnot just rapid warning about an epidemic,
+p59
+aVbut also actually
+p60
+aVearly detection of an epidemic.
+p61
+aVAnd, in fact, this idea can be used
+p62
+aVnot just to predict epidemics of germs,
+p63
+aVbut also to predict epidemics of all sorts of kinds.
+p64
+aVFor example, anything that spreads by a form of social contagion
+p65
+aVcould be understood in this way,
+p66
+aVfrom abstract ideas on the left
+p67
+aVlike patriotism, or altruism, or religion
+p68
+aVto practices
+p69
+aVlike dieting behavior, or book purchasing,
+p70
+aVor drinking, or bicycle-helmet [and] other safety practices,
+p71
+aVor products that people might buy,
+p72
+aVpurchases of electronic goods,
+p73
+aVanything in which there's kind of an interpersonal spread.
+p74
+aVA kind of a diffusion of innovation
+p75
+aVcould be understood and predicted
+p76
+aVby the mechanism I'm going to show you now.
+p77
+aa(lp78
+VSo, as all of you probably know,
+p79
+aVthe classic way of thinking about this
+p80
+aVis the diffusion-of-innovation,
+p81
+aVor the adoption curve.
+p82
+aVSo here on the Y-axis, we have the percent of the people affected,
+p83
+aVand on the X-axis, we have time.
+p84
+aVAnd at the very beginning, not too many people are affected,
+p85
+aVand you get this classic sigmoidal,
+p86
+aVor S-shaped, curve.
+p87
+aVAnd the reason for this shape is that at the very beginning,
+p88
+aVlet's say one or two people
+p89
+aVare infected, or affected by the thing
+p90
+aVand then they affect, or infect, two people,
+p91
+aVwho in turn affect four, eight, 16 and so forth,
+p92
+aVand you get the epidemic growth phase of the curve.
+p93
+aVAnd eventually, you saturate the population.
+p94
+aVThere are fewer and fewer people
+p95
+aVwho are still available that you might infect,
+p96
+aVand then you get the plateau of the curve,
+p97
+aVand you get this classic sigmoidal curve.
+p98
+aVAnd this holds for germs, ideas,
+p99
+aVproduct adoption, behaviors,
+p100
+aVand the like.
+p101
+aVBut things don't just diffuse in human populations at random.
+p102
+aVThey actually diffuse through networks.
+p103
+aVBecause, as I said, we live our lives in networks,
+p104
+aVand these networks have a particular kind of a structure.
+p105
+aa(lp106
+VNow if you look at a network like this \u2014
+p107
+aVthis is 105 people.
+p108
+aVAnd the lines represent \u2014 the dots are the people,
+p109
+aVand the lines represent friendship relationships.
+p110
+aVYou might see that people occupy
+p111
+aVdifferent locations within the network.
+p112
+aVAnd there are different kinds of relationships between the people.
+p113
+aVYou could have friendship relationships, sibling relationships,
+p114
+aVspousal relationships, co-worker relationships,
+p115
+aVneighbor relationships and the like.
+p116
+aVAnd different sorts of things
+p117
+aVspread across different sorts of ties.
+p118
+aVFor instance, sexually transmitted diseases
+p119
+aVwill spread across sexual ties.
+p120
+aVOr, for instance, people's smoking behavior
+p121
+aVmight be influenced by their friends.
+p122
+aVOr their altruistic or their charitable giving behavior
+p123
+aVmight be influenced by their coworkers,
+p124
+aVor by their neighbors.
+p125
+aVBut not all positions in the network are the same.
+p126
+aa(lp127
+VSo if you look at this, you might immediately grasp
+p128
+aVthat different people have different numbers of connections.
+p129
+aVSome people have one connection, some have two,
+p130
+aVsome have six, some have 10 connections.
+p131
+aVAnd this is called the "degree" of a node,
+p132
+aVor the number of connections that a node has.
+p133
+aVBut in addition, there's something else.
+p134
+aVSo, if you look at nodes A and B,
+p135
+aVthey both have six connections.
+p136
+aVBut if you can see this image [of the network] from a bird's eye view,
+p137
+aVyou can appreciate that there's something very different
+p138
+aVabout nodes A and B.
+p139
+aVSo, let me ask you this \u2014 I can cultivate this intuition by asking a question \u2014
+p140
+aVwho would you rather be
+p141
+aVif a deadly germ was spreading through the network, A or B?
+p142
+aV(Audience: B.) Nicholas Christakis: B, it's obvious.
+p143
+aVB is located on the edge of the network.
+p144
+aVNow, who would you rather be
+p145
+aVif a juicy piece of gossip were spreading through the network?
+p146
+aVA. And you have an immediate appreciation
+p147
+aVthat A is going to be more likely
+p148
+aVto get the thing that's spreading and to get it sooner
+p149
+aVby virtue of their structural location within the network.
+p150
+aVA, in fact, is more central,
+p151
+aVand this can be formalized mathematically.
+p152
+aVSo, if we want to track something
+p153
+aVthat was spreading through a network,
+p154
+aVwhat we ideally would like to do is to set up sensors
+p155
+aVon the central individuals within the network,
+p156
+aVincluding node A,
+p157
+aVmonitor those people that are right there in the middle of the network,
+p158
+aVand somehow get an early detection
+p159
+aVof whatever it is that is spreading through the network.
+p160
+aa(lp161
+VSo if you saw them contract a germ or a piece of information,
+p162
+aVyou would know that, soon enough,
+p163
+aVeverybody was about to contract this germ
+p164
+aVor this piece of information.
+p165
+aVAnd this would be much better
+p166
+aVthan monitoring six randomly chosen people,
+p167
+aVwithout reference to the structure of the population.
+p168
+aVAnd in fact, if you could do that,
+p169
+aVwhat you would see is something like this.
+p170
+aVOn the left-hand panel, again, we have the S-shaped curve of adoption.
+p171
+aVIn the dotted red line, we show
+p172
+aVwhat the adoption would be in the random people,
+p173
+aVand in the left-hand line, shifted to the left,
+p174
+aVwe show what the adoption would be
+p175
+aVin the central individuals within the network.
+p176
+aVOn the Y-axis is the cumulative instances of contagion,
+p177
+aVand on the X-axis is the time.
+p178
+aVAnd on the right-hand side, we show the same data,
+p179
+aVbut here with daily incidence.
+p180
+aVAnd what we show here is \u2014 like, here \u2014
+p181
+aVvery few people are affected, more and more and more and up to here,
+p182
+aVand here's the peak of the epidemic.
+p183
+aVBut shifted to the left is what's occurring in the central individuals.
+p184
+aVAnd this difference in time between the two
+p185
+aVis the early detection, the early warning we can get,
+p186
+aVabout an impending epidemic
+p187
+aVin the human population.
+p188
+aa(lp189
+VThe problem, however,
+p190
+aVis that mapping human social networks
+p191
+aVis not always possible.
+p192
+aVIt can be expensive, not feasible,
+p193
+aVunethical,
+p194
+aVor, frankly, just not possible to do such a thing.
+p195
+aVSo, how can we figure out
+p196
+aVwho the central people are in a network
+p197
+aVwithout actually mapping the network?
+p198
+aVWhat we came up with
+p199
+aVwas an idea to exploit an old fact,
+p200
+aVor a known fact, about social networks,
+p201
+aVwhich goes like this:
+p202
+aVDo you know that your friends
+p203
+aVhave more friends than you do?
+p204
+aVYour friends have more friends than you do,
+p205
+aVand this is known as the friendship paradox.
+p206
+aVImagine a very popular person in the social network \u2014
+p207
+aVlike a party host who has hundreds of friends \u2014
+p208
+aVand a misanthrope who has just one friend,
+p209
+aVand you pick someone at random from the population;
+p210
+aVthey were much more likely to know the party host.
+p211
+aVAnd if they nominate the party host as their friend,
+p212
+aVthat party host has a hundred friends,
+p213
+aVtherefore, has more friends than they do.
+p214
+aVAnd this, in essence, is what's known as the friendship paradox.
+p215
+aVThe friends of randomly chosen people
+p216
+aVhave higher degree, and are more central
+p217
+aVthan the random people themselves.
+p218
+aa(lp219
+VAnd you can get an intuitive appreciation for this
+p220
+aVif you imagine just the people at the perimeter of the network.
+p221
+aVIf you pick this person,
+p222
+aVthe only friend they have to nominate is this person,
+p223
+aVwho, by construction, must have at least two
+p224
+aVand typically more friends.
+p225
+aVAnd that happens at every peripheral node.
+p226
+aVAnd in fact, it happens throughout the network as you move in,
+p227
+aVeveryone you pick, when they nominate a random \u2014
+p228
+aVwhen a random person nominates a friend of theirs,
+p229
+aVyou move closer to the center of the network.
+p230
+aVSo, we thought we would exploit this idea
+p231
+aVin order to study whether we could predict phenomena within networks.
+p232
+aVBecause now, with this idea
+p233
+aVwe can take a random sample of people,
+p234
+aVhave them nominate their friends,
+p235
+aVthose friends would be more central,
+p236
+aVand we could do this without having to map the network.
+p237
+aa(lp238
+VAnd we tested this idea with an outbreak of H1N1 flu
+p239
+aVat Harvard College
+p240
+aVin the fall and winter of 2009, just a few months ago.
+p241
+aVWe took 1,300 randomly selected undergraduates,
+p242
+aVwe had them nominate their friends,
+p243
+aVand we followed both the random students and their friends
+p244
+aVdaily in time
+p245
+aVto see whether or not they had the flu epidemic.
+p246
+aVAnd we did this passively by looking at whether or not they'd gone to university health services.
+p247
+aVAnd also, we had them [actively] email us a couple of times a week.
+p248
+aVExactly what we predicted happened.
+p249
+aVSo the random group is in the red line.
+p250
+aVThe epidemic in the friends group has shifted to the left, over here.
+p251
+aVAnd the difference in the two is 16 days.
+p252
+aVBy monitoring the friends group,
+p253
+aVwe could get 16 days advance warning
+p254
+aVof an impending epidemic in this human population.
+p255
+aa(lp256
+VNow, in addition to that,
+p257
+aVif you were an analyst who was trying to study an epidemic
+p258
+aVor to predict the adoption of a product, for example,
+p259
+aVwhat you could do is you could pick a random sample of the population,
+p260
+aValso have them nominate their friends and follow the friends
+p261
+aVand follow both the randoms and the friends.
+p262
+aVAmong the friends, the first evidence you saw of a blip above zero
+p263
+aVin adoption of the innovation, for example,
+p264
+aVwould be evidence of an impending epidemic.
+p265
+aVOr you could see the first time the two curves diverged,
+p266
+aVas shown on the left.
+p267
+aVWhen did the randoms \u2014 when did the friends take off
+p268
+aVand leave the randoms,
+p269
+aVand [when did] their curve start shifting?
+p270
+aVAnd that, as indicated by the white line,
+p271
+aVoccurred 46 days
+p272
+aVbefore the peak of the epidemic.
+p273
+aVSo this would be a technique
+p274
+aVwhereby we could get more than a month-and-a-half warning
+p275
+aVabout a flu epidemic in a particular population.
+p276
+aa(lp277
+VI should say that
+p278
+aVhow far advanced a notice one might get about something
+p279
+aVdepends on a host of factors.
+p280
+aVIt could depend on the nature of the pathogen \u2014
+p281
+aVdifferent pathogens,
+p282
+aVusing this technique, you'd get different warning \u2014
+p283
+aVor other phenomena that are spreading,
+p284
+aVor frankly, on the structure of the human network.
+p285
+aVNow in our case, although it wasn't necessary,
+p286
+aVwe could also actually map the network of the students.
+p287
+aa(lp288
+VSo, this is a map of 714 students
+p289
+aVand their friendship ties.
+p290
+aVAnd in a minute now, I'm going to put this map into motion.
+p291
+aVWe're going to take daily cuts through the network
+p292
+aVfor 120 days.
+p293
+aVThe red dots are going to be cases of the flu,
+p294
+aVand the yellow dots are going to be friends of the people with the flu.
+p295
+aVAnd the size of the dots is going to be proportional
+p296
+aVto how many of their friends have the flu.
+p297
+aVSo bigger dots mean more of your friends have the flu.
+p298
+aVAnd if you look at this image \u2014 here we are now in September the 13th \u2014
+p299
+aVyou're going to see a few cases light up.
+p300
+aVYou're going to see kind of blooming of the flu in the middle.
+p301
+aVHere we are on October the 19th.
+p302
+aVThe slope of the epidemic curve is approaching now, in November.
+p303
+aVBang, bang, bang, bang, bang \u2014 you're going to see lots of blooming in the middle,
+p304
+aVand then you're going to see a sort of leveling off,
+p305
+aVfewer and fewer cases towards the end of December.
+p306
+aVAnd this type of a visualization
+p307
+aVcan show that epidemics like this take root
+p308
+aVand affect central individuals first,
+p309
+aVbefore they affect others.
+p310
+aa(lp311
+VNow, as I've been suggesting,
+p312
+aVthis method is not restricted to germs,
+p313
+aVbut actually to anything that spreads in populations.
+p314
+aVInformation spreads in populations,
+p315
+aVnorms can spread in populations,
+p316
+aVbehaviors can spread in populations.
+p317
+aVAnd by behaviors, I can mean things like criminal behavior,
+p318
+aVor voting behavior, or health care behavior,
+p319
+aVlike smoking, or vaccination,
+p320
+aVor product adoption, or other kinds of behaviors
+p321
+aVthat relate to interpersonal influence.
+p322
+aVIf I'm likely to do something that affects others around me,
+p323
+aVthis technique can get early warning or early detection
+p324
+aVabout the adoption within the population.
+p325
+aVThe key thing is that for it to work,
+p326
+aVthere has to be interpersonal influence.
+p327
+aVIt cannot be because of some broadcast mechanism
+p328
+aVaffecting everyone uniformly.
+p329
+aa(lp330
+VNow the same insights
+p331
+aVcan also be exploited \u2014 with respect to networks \u2014
+p332
+aVcan also be exploited in other ways,
+p333
+aVfor example, in the use of targeting
+p334
+aVspecific people for interventions.
+p335
+aVSo, for example, most of you are probably familiar
+p336
+aVwith the notion of herd immunity.
+p337
+aVSo, if we have a population of a thousand people,
+p338
+aVand we want to make the population immune to a pathogen,
+p339
+aVwe don't have to immunize every single person.
+p340
+aVIf we immunize 960 of them,
+p341
+aVit's as if we had immunized a hundred [percent] of them.
+p342
+aVBecause even if one or two of the non-immune people gets infected,
+p343
+aVthere's no one for them to infect.
+p344
+aVThey are surrounded by immunized people.
+p345
+aVSo 96 percent is as good as 100 percent.
+p346
+aVWell, some other scientists have estimated
+p347
+aVwhat would happen if you took a 30 percent random sample
+p348
+aVof these 1000 people, 300 people and immunized them.
+p349
+aVWould you get any population-level immunity?
+p350
+aVAnd the answer is no.
+p351
+aVBut if you took this 30 percent, these 300 people
+p352
+aVand had them nominate their friends
+p353
+aVand took the same number of vaccine doses
+p354
+aVand vaccinated the friends of the 300 \u2014
+p355
+aVthe 300 friends \u2014
+p356
+aVyou can get the same level of herd immunity
+p357
+aVas if you had vaccinated 96 percent of the population
+p358
+aVat a much greater efficiency, with a strict budget constraint.
+p359
+aa(lp360
+VAnd similar ideas can be used, for instance,
+p361
+aVto target distribution of things like bed nets
+p362
+aVin the developing world.
+p363
+aVIf we could understand the structure of networks in villages,
+p364
+aVwe could target to whom to give the interventions
+p365
+aVto foster these kinds of spreads.
+p366
+aVOr, frankly, for advertising with all kinds of products.
+p367
+aVIf we could understand how to target,
+p368
+aVit could affect the efficiency
+p369
+aVof what we're trying to achieve.
+p370
+aVAnd in fact, we can use data
+p371
+aVfrom all kinds of sources nowadays [to do this].
+p372
+aa(lp373
+VThis is a map of eight million phone users
+p374
+aVin a European country.
+p375
+aVEvery dot is a person, and every line represents
+p376
+aVa volume of calls between the people.
+p377
+aVAnd we can use such data, that's being passively obtained,
+p378
+aVto map these whole countries
+p379
+aVand understand who is located where within the network.
+p380
+aVWithout actually having to query them at all,
+p381
+aVwe can get this kind of a structural insight.
+p382
+aVAnd other sources of information, as you're no doubt aware
+p383
+aVare available about such features, from email interactions,
+p384
+aVonline interactions,
+p385
+aVonline social networks and so forth.
+p386
+aVAnd in fact, we are in the era of what I would call
+p387
+aV"massive-passive" data collection efforts.
+p388
+aVThey're all kinds of ways we can use massively collected data
+p389
+aVto create sensor networks
+p390
+aVto follow the population,
+p391
+aVunderstand what's happening in the population,
+p392
+aVand intervene in the population for the better.
+p393
+aVBecause these new technologies tell us
+p394
+aVnot just who is talking to whom,
+p395
+aVbut where everyone is,
+p396
+aVand what they're thinking based on what they're uploading on the Internet,
+p397
+aVand what they're buying based on their purchases.
+p398
+aVAnd all this administrative data can be pulled together
+p399
+aVand processed to understand human behavior
+p400
+aVin a way we never could before.
+p401
+aa(lp402
+VSo, for example, we could use truckers' purchases of fuel.
+p403
+aVSo the truckers are just going about their business,
+p404
+aVand they're buying fuel.
+p405
+aVAnd we see a blip up in the truckers' purchases of fuel,
+p406
+aVand we know that a recession is about to end.
+p407
+aVOr we can monitor the velocity
+p408
+aVwith which people are moving with their phones on a highway,
+p409
+aVand the phone company can see,
+p410
+aVas the velocity is slowing down,
+p411
+aVthat there's a traffic jam.
+p412
+aVAnd they can feed that information back to their subscribers,
+p413
+aVbut only to their subscribers on the same highway
+p414
+aVlocated behind the traffic jam!
+p415
+aVOr we can monitor doctors prescribing behaviors, passively,
+p416
+aVand see how the diffusion of innovation with pharmaceuticals
+p417
+aVoccurs within [networks of] doctors.
+p418
+aVOr again, we can monitor purchasing behavior in people
+p419
+aVand watch how these types of phenomena
+p420
+aVcan diffuse within human populations.
+p421
+aa(lp422
+VAnd there are three ways, I think,
+p423
+aVthat these massive-passive data can be used.
+p424
+aVOne is fully passive,
+p425
+aVlike I just described \u2014
+p426
+aVas in, for instance, the trucker example,
+p427
+aVwhere we don't actually intervene in the population in any way.
+p428
+aVOne is quasi-active,
+p429
+aVlike the flu example I gave,
+p430
+aVwhere we get some people to nominate their friends
+p431
+aVand then passively monitor their friends \u2014
+p432
+aVdo they have the flu, or not? \u2014 and then get warning.
+p433
+aVOr another example would be,
+p434
+aVif you're a phone company, you figure out who's central in the network
+p435
+aVand you ask those people, "Look, will you just text us your fever every day?
+p436
+aVJust text us your temperature."
+p437
+aVAnd collect vast amounts of information about people's temperature,
+p438
+aVbut from centrally located individuals.
+p439
+aVAnd be able, on a large scale,
+p440
+aVto monitor an impending epidemic
+p441
+aVwith very minimal input from people.
+p442
+aVOr, finally, it can be more fully active \u2014
+p443
+aVas I know subsequent speakers will also talk about today \u2014
+p444
+aVwhere people might globally participate in wikis,
+p445
+aVor photographing, or monitoring elections,
+p446
+aVand upload information in a way that allows us to pool
+p447
+aVinformation in order to understand social processes
+p448
+aVand social phenomena.
+p449
+aa(lp450
+VIn fact, the availability of these data, I think,
+p451
+aVheralds a kind of new era
+p452
+aVof what I and others would like to call
+p453
+aV"computational social science."
+p454
+aVIt's sort of like when Galileo invented \u2014 or, didn't invent \u2014
+p455
+aVcame to use a telescope
+p456
+aVand could see the heavens in a new way,
+p457
+aVor Leeuwenhoek became aware of the microscope \u2014
+p458
+aVor actually invented \u2014
+p459
+aVand could see biology in a new way.
+p460
+aVBut now we have access to these kinds of data
+p461
+aVthat allow us to understand social processes
+p462
+aVand social phenomena
+p463
+aVin an entirely new way that was never before possible.
+p464
+aVAnd with this science, we can
+p465
+aVunderstand how exactly
+p466
+aVthe whole comes to be greater
+p467
+aVthan the sum of its parts.
+p468
+aVAnd actually, we can use these insights
+p469
+aVto improve society and improve human well-being.
+p470
+aa(lp471
+VThank you.
+p472
+aasS'id'
+p473
+I958
+sS'title'
+p474
+VHow social networks predict epidemics
+p475
+s.

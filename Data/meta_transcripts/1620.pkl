@@ -1,0 +1,378 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VHi. I'm here to talk about congestion,
+p4
+aVnamely road congestion.
+p5
+aVRoad congestion is a pervasive phenomenon.
+p6
+aVIt exists in basically all of the cities all around the world,
+p7
+aVwhich is a little bit surprising when you think about it.
+p8
+aVI mean, think about how different cities are, actually.
+p9
+aVI mean, you have the typical European cities,
+p10
+aVwith a dense urban core, good public transportation
+p11
+aVmostly, not a lot of road capacity.
+p12
+aVBut then, on the other hand, you have the American cities.
+p13
+aVIt's moving by itself, okay.
+p14
+aVAnyway, the American cities:
+p15
+aVlots of roads dispersed over large areas,
+p16
+aValmost no public transportation.
+p17
+aVAnd then you have the emerging world cities,
+p18
+aVwith a mixed variety of vehicles,
+p19
+aVmixed land-use patterns, also rather dispersed
+p20
+aVbut often with a very dense urban core.
+p21
+aVAnd traffic planners all around the world have tried
+p22
+aVlots of different measures: dense cities or dispersed cities,
+p23
+aVlots of roads or lots of public transport
+p24
+aVor lots of bike lanes or more information,
+p25
+aVor lots of different things, but nothing seems to work.
+p26
+aa(lp27
+VBut all of these attempts have one thing in common.
+p28
+aVThey're basically attempts at figuring out
+p29
+aVwhat people should do instead of rush hour car driving.
+p30
+aVThey're essentially, to a point, attempts at planning
+p31
+aVwhat other people should do, planning their life for them.
+p32
+aa(lp33
+VNow, planning a complex social system
+p34
+aVis a very hard thing to do, and let me tell you a story.
+p35
+aVBack in 1989, when the Berlin Wall fell,
+p36
+aVan urban planner in London got a phone call
+p37
+aVfrom a colleague in Moscow saying, basically,
+p38
+aV"Hi, this is Vladimir. I'd like to know,
+p39
+aVwho's in charge of London's bread supply?"
+p40
+aa(lp41
+VAnd the urban planner in London goes,
+p42
+aV"What do you mean, who's in charge of London's \u2014
+p43
+aVI mean, no one is in charge."
+p44
+aV"Oh, but surely someone must be in charge.
+p45
+aVI mean, it's a very complicated system. Someone must control all of this."
+p46
+aa(lp47
+V"No. No. No one is in charge.
+p48
+aVI mean, it basically \u2014 I haven't really thought of it.
+p49
+aVIt basically organizes itself."
+p50
+aa(lp51
+VIt organizes itself.
+p52
+aVThat's an example of a complex social system
+p53
+aVwhich has the ability of self-organizing,
+p54
+aVand this is a very deep insight.
+p55
+aVWhen you try to solve really complex social problems,
+p56
+aVthe right thing to do is most of the time
+p57
+aVto create the incentives.
+p58
+aVYou don't plan the details,
+p59
+aVand people will figure out what to do,
+p60
+aVhow to adapt to this new framework.
+p61
+aa(lp62
+VAnd let's now look at how we can use this insight
+p63
+aVto combat road congestion.
+p64
+aa(lp65
+VThis is a map of Stockholm, my hometown.
+p66
+aVNow, Stockholm is a medium-sized city, roughly two million people,
+p67
+aVbut Stockholm also has lots of water and lots of water
+p68
+aVmeans lots of bridges \u2014 narrow bridges, old bridges \u2014
+p69
+aVwhich means lots of road congestion.
+p70
+aVAnd these red dots show the most congested parts,
+p71
+aVwhich are the bridges that lead into the inner city.
+p72
+aVAnd then someone came up with the idea that,
+p73
+aVapart from good public transport,
+p74
+aVapart from spending money on roads,
+p75
+aVlet's try to charge drivers one or two euros at these bottlenecks.
+p76
+aa(lp77
+VNow, one or two euros, that isn't really a lot of money,
+p78
+aVI mean compared to parking charges and running costs, etc.,
+p79
+aVso you would probably expect that car drivers
+p80
+aVwouldn't really react to this fairly small charge.
+p81
+aVYou would be wrong.
+p82
+aVOne or two euros was enough to make 20 percent of cars
+p83
+aVdisappear from rush hours.
+p84
+aVNow, 20 percent, well, that's a fairly huge figure, you might think,
+p85
+aVbut you've still got 80 percent left of the problem, right?
+p86
+aVBecause you still have 80 percent of the traffic.
+p87
+aVNow, that's also wrong, because traffic happens to be
+p88
+aVa nonlinear phenomenon, meaning that
+p89
+aVonce you reach above a certain capacity threshold
+p90
+aVthen congestion starts to increase really, really rapidly.
+p91
+aVBut fortunately, it also works the other way around.
+p92
+aVIf you can reduce traffic even somewhat, then congestion
+p93
+aVwill go down much faster than you might think.
+p94
+aVNow, congestion charges were introduced in Stockholm
+p95
+aVon January 3, 2006, and the first picture here is a picture
+p96
+aVof Stockholm, one of the typical streets, January 2.
+p97
+aVThe first day with the congestion charges looked like this.
+p98
+aVThis is what happens when you take away
+p99
+aV20 percent of the cars from the streets.
+p100
+aVYou really reduce congestion quite substantially.
+p101
+aa(lp102
+VBut, well, as I said, I mean, car drivers adapt, right?
+p103
+aVSo after a while they would all come back because they
+p104
+aVhave sort of gotten used to charges.
+p105
+aVWrong again. It's now six and a half years ago
+p106
+aVsince the congestion charges were introduced in Stockholm,
+p107
+aVand we basically have the same low traffic levels still.
+p108
+aa(lp109
+VBut you see, there's an interesting gap here in the time series
+p110
+aVin 2007.
+p111
+aVWell, the thing is that, the congestion charges,
+p112
+aVthey were introduced first as a trial, so they were introduced
+p113
+aVin January and then abolished again at the end of July,
+p114
+aVfollowed by a referendum, and then they were reintroduced
+p115
+aVagain in 2007, which of course was a wonderful scientific opportunity.
+p116
+aVI mean, this was a really fun experiment to start with,
+p117
+aVand we actually got to do it twice.
+p118
+aVAnd personally, I would like to do this every once a year or so,
+p119
+aVbut they won't let me do that.
+p120
+aVBut it was fun anyway.
+p121
+aa(lp122
+VSo, we followed up. What happened?
+p123
+aVThis is the last day with the congestion charges, July 31,
+p124
+aVand you see the same street but now it's summer,
+p125
+aVand summer in Stockholm is a very nice
+p126
+aVand light time of the year,
+p127
+aVand the first day without the congestion charges
+p128
+aVlooked like this.
+p129
+aVAll the cars were back again, and you even have to admire
+p130
+aVthe car drivers. They adapt so extremely quickly.
+p131
+aVThe first day they all came back.
+p132
+aVAnd this effect hanged on. So 2007 figures looked like this.
+p133
+aa(lp134
+VNow these traffic figures are really exciting
+p135
+aVand a little bit surprising and very useful to know,
+p136
+aVbut I would say that the most surprising slide here
+p137
+aVI'm going to show you today is not this one. It's this one.
+p138
+aVThis shows public support for congestion pricing of Stockholm,
+p139
+aVand you see that when congestion pricing were introduced
+p140
+aVin the beginning of Spring 2006, people were fiercely against it.
+p141
+aVSeventy percent of the population didn't want this.
+p142
+aVBut what happened when the congestion charges
+p143
+aVwere there is not what you would expect, that people hated it more and more.
+p144
+aVNo, on the contrary, they changed, up to a point
+p145
+aVwhere we now have 70 percent support for keeping the charges,
+p146
+aVmeaning that \u2014 I mean, let me repeat that:
+p147
+aV70 percent of the population in Stockholm
+p148
+aVwant to keep a price for something that used to be free.
+p149
+aa(lp150
+VOkay. So why can that be? Why is that?
+p151
+aVWell, think about it this way. Who changed?
+p152
+aVI mean, the 20 percent of the car drivers that disappeared,
+p153
+aVsurely they must be discontent in a way.
+p154
+aVAnd where did they go? If we can understand this,
+p155
+aVthen maybe we can figure out how people can be so happy with this.
+p156
+aVWell, so we did this huge interview survey
+p157
+aVwith lots of travel services, and tried to figure out
+p158
+aVwho changed, and where did they go?
+p159
+aVAnd it turned out that they don't know themselves. (Laughter)
+p160
+aVFor some reason, the car drivers are \u2014
+p161
+aVthey are confident they actually drive the same way that they used to do.
+p162
+aVAnd why is that? It's because that travel patterns
+p163
+aVare much less stable than you might think.
+p164
+aVEach day, people make new decisions, and people change
+p165
+aVand the world changes around them, and each day
+p166
+aVall of these decisions are sort of nudged ever so slightly
+p167
+aVaway from rush hour car driving
+p168
+aVin a way that people don't even notice.
+p169
+aVThey're not even aware of this themselves.
+p170
+aa(lp171
+VAnd the other question, who changed their mind?
+p172
+aVWho changed their opinion, and why?
+p173
+aVSo we did another interview survey, tried to figure out
+p174
+aVwhy people changed their mind, and what type of group changed their minds?
+p175
+aVAnd after analyzing the answers, it turned out that
+p176
+aVmore than half of them believe that they haven't changed their minds.
+p177
+aVThey're actually confident that they have
+p178
+aVliked congestion pricing all along.
+p179
+aVWhich means that we are now in a position
+p180
+aVwhere we have reduced traffic across this toll cordon
+p181
+aVwith 20 percent, and reduced congestion by enormous numbers,
+p182
+aVand people aren't even aware that they have changed,
+p183
+aVand they honestly believe that they have liked this all along.
+p184
+aa(lp185
+VThis is the power of nudges when trying to solve
+p186
+aVcomplex social problems, and when you do that,
+p187
+aVyou shouldn't try to tell people how to adapt.
+p188
+aVYou should just nudge them in the right direction.
+p189
+aVAnd if you do it right,
+p190
+aVpeople will actually embrace the change,
+p191
+aVand if you do it right, people will actually even like it.
+p192
+aVThank you. (Applause)
+p193
+aasS'id'
+p194
+I1620
+sS'title'
+p195
+VHow to solve traffic jams
+p196
+s.

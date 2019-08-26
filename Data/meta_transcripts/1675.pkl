@@ -1,0 +1,800 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo here's the good news about families.
+p4
+aVThe last 50 years have seen a revolution
+p5
+aVin what it means to be a family.
+p6
+aVWe have blended families, adopted families,
+p7
+aVwe have nuclear families living in separate houses
+p8
+aVand divorced families living in the same house.
+p9
+aVBut through it all, the family has grown stronger.
+p10
+aVEight in 10 say the family they have today
+p11
+aVis as strong or stronger than the family they grew up in.
+p12
+aa(lp13
+VNow, here's the bad news.
+p14
+aVNearly everyone is completely overwhelmed
+p15
+aVby the chaos of family life.
+p16
+aVEvery parent I know, myself included,
+p17
+aVfeels like we're constantly playing defense.
+p18
+aVJust when our kids stop teething, they start having tantrums.
+p19
+aVJust when they stop needing our help taking a bath,
+p20
+aVthey need our help dealing with cyberstalking or bullying.
+p21
+aa(lp22
+VAnd here's the worst news of all.
+p23
+aVOur children sense we're out of control.
+p24
+aVEllen Galinsky of the Families and Work Institute
+p25
+aVasked 1,000 children, "If you were granted
+p26
+aVone wish about your parents, what would it be?"
+p27
+aVThe parents predicted the kids would say,
+p28
+aVspending more time with them.
+p29
+aVThey were wrong. The kids' number one wish?
+p30
+aVThat their parents be less tired and less stressed.
+p31
+aa(lp32
+VSo how can we change this dynamic?
+p33
+aVAre there concrete things we can do to reduce stress,
+p34
+aVdraw our family closer,
+p35
+aVand generally prepare our children to enter the world?
+p36
+aa(lp37
+VI spent the last few years trying to answer that question,
+p38
+aVtraveling around, meeting families, talking to scholars,
+p39
+aVexperts ranging from elite peace negotiators
+p40
+aVto Warren Buffett's bankers to the Green Berets.
+p41
+aVI was trying to figure out, what do happy families do right
+p42
+aVand what can I learn from them to make my family happier?
+p43
+aa(lp44
+VI want to tell you about one family that I met,
+p45
+aVand why I think they offer clues.
+p46
+aVAt 7 p.m. on a Sunday in Hidden Springs, Idaho,
+p47
+aVwhere the six members of the Starr family are sitting down
+p48
+aVto the highlight of their week: the family meeting.
+p49
+aVThe Starrs are a regular American family
+p50
+aVwith their share of regular American family problems.
+p51
+aVDavid is a software engineer. Eleanor takes care
+p52
+aVof their four children, ages 10 to 15.
+p53
+aVOne of those kids tutors math on the far side of town.
+p54
+aVOne has lacrosse on the near side of town.
+p55
+aVOne has Asperger syndrome. One has ADHD.
+p56
+aa(lp57
+V"We were living in complete chaos," Eleanor said.
+p58
+aa(lp59
+VWhat the Starrs did next, though, was surprising.
+p60
+aVInstead of turning to friends or relatives,
+p61
+aVthey looked to David's workplace.
+p62
+aVThey turned to a cutting-edge program called agile development
+p63
+aVthat was just spreading from manufacturers in Japan
+p64
+aVto startups in Silicon Valley.
+p65
+aVIn agile, workers are organized into small groups
+p66
+aVand do things in very short spans of time.
+p67
+aVSo instead of having executives issue grand proclamations,
+p68
+aVthe team in effect manages itself.
+p69
+aVYou have constant feedback. You have daily update sessions.
+p70
+aVYou have weekly reviews. You're constantly changing.
+p71
+aVDavid said when they brought this system into their home,
+p72
+aVthe family meetings in particular increased communication,
+p73
+aVdecreased stress, and made everybody
+p74
+aVhappier to be part of the family team.
+p75
+aVWhen my wife and I adopted these family meetings and other techniques
+p76
+aVinto the lives of our then-five-year-old twin daughters,
+p77
+aVit was the biggest single change we made since our daughters were born.
+p78
+aVAnd these meetings had this effect
+p79
+aVwhile taking under 20 minutes.
+p80
+aa(lp81
+VSo what is Agile, and why can it help
+p82
+aVwith something that seems so different, like families?
+p83
+aVIn 1983, Jeff Sutherland was a technologist
+p84
+aVat a financial firm in New England.
+p85
+aVHe was very frustrated with how software got designed.
+p86
+aVCompanies followed the waterfall method, right,
+p87
+aVin which executives issued orders that slowly trickled down
+p88
+aVto programmers below,
+p89
+aVand no one had ever consulted the programmers.
+p90
+aVEighty-three percent of projects failed.
+p91
+aVThey were too bloated or too out of date
+p92
+aVby the time they were done.
+p93
+aVSutherland wanted to create a system where
+p94
+aVideas didn't just percolate down but could percolate up from the bottom
+p95
+aVand be adjusted in real time.
+p96
+aVHe read 30 years of Harvard Business Review
+p97
+aVbefore stumbling upon an article in 1986
+p98
+aVcalled "The New New Product Development Game."
+p99
+aVIt said that the pace of business was quickening \u2014
+p100
+aVand by the way, this was in 1986 \u2014
+p101
+aVand the most successful companies were flexible.
+p102
+aVIt highlighted Toyota and Canon
+p103
+aVand likened their adaptable, tight-knit teams to rugby scrums.
+p104
+aVAs Sutherland told me, we got to that article,
+p105
+aVand said, "That's it."
+p106
+aVIn Sutherland's system, companies don't use
+p107
+aVlarge, massive projects that take two years.
+p108
+aVThey do things in small chunks.
+p109
+aVNothing takes longer than two weeks.
+p110
+aVSo instead of saying, "You guys go off into that bunker
+p111
+aVand come back with a cell phone or a social network,"
+p112
+aVyou say, "You go off and come up with one element,
+p113
+aVthen bring it back. Let's talk about it. Let's adapt."
+p114
+aVYou succeed or fail quickly.
+p115
+aVToday, agile is used in a hundred countries,
+p116
+aVand it's sweeping into management suites.
+p117
+aVInevitably, people began taking some of these techniques
+p118
+aVand applying it to their families.
+p119
+aVYou had blogs pop up, and some manuals were written.
+p120
+aVEven the Sutherlands told me that they had
+p121
+aVan Agile Thanksgiving,
+p122
+aVwhere you had one group of people working on the food,
+p123
+aVone setting the table, and one greeting visitors at the door.
+p124
+aVSutherland said it was the best Thanksgiving ever.
+p125
+aa(lp126
+VSo let's take one problem that families face,
+p127
+aVcrazy mornings, and talk about how agile can help.
+p128
+aVA key plank is accountability,
+p129
+aVso teams use information radiators,
+p130
+aVthese large boards in which everybody is accountable.
+p131
+aVSo the Starrs, in adapting this to their home,
+p132
+aVcreated a morning checklist
+p133
+aVin which each child is expected to tick off chores.
+p134
+aVSo on the morning I visited, Eleanor came downstairs,
+p135
+aVpoured herself a cup of coffee, sat in a reclining chair,
+p136
+aVand she sat there,
+p137
+aVkind of amiably talking to each of her children
+p138
+aVas one after the other they came downstairs,
+p139
+aVchecked the list, made themselves breakfast,
+p140
+aVchecked the list again, put the dishes in the dishwasher,
+p141
+aVrechecked the list, fed the pets or whatever chores they had,
+p142
+aVchecked the list once more, gathered their belongings,
+p143
+aVand made their way to the bus.
+p144
+aVIt was one of the most astonishing family dynamics I have ever seen.
+p145
+aa(lp146
+VAnd when I strenuously objected this would never work in our house,
+p147
+aa(lp148
+Vour kids needed way too much monitoring,
+p149
+aa(lp150
+VEleanor looked at me.
+p151
+aa(lp152
+V"That's what I thought," she said.
+p153
+aV"I told David, 'keep your work out of my kitchen.'
+p154
+aVBut I was wrong."
+p155
+aa(lp156
+VSo I turned to David: "So why does it work?"
+p157
+aa(lp158
+VHe said, "You can't underestimate the power of doing this."
+p159
+aVAnd he made a checkmark.
+p160
+aVHe said, "In the workplace, adults love it.
+p161
+aVWith kids, it's heaven."
+p162
+aa(lp163
+VThe week we introduced a morning checklist into our house,
+p164
+aVit cut parental screaming in half. (Laughter)
+p165
+aVBut the real change didn't come until we had these family meetings.
+p166
+aVSo following the agile model, we ask three questions:
+p167
+aVWhat worked well in our family this week,
+p168
+aVwhat didn't work well, and what will we agree to work on in the week ahead?
+p169
+aVEveryone throws out suggestions
+p170
+aVand then we pick two to focus on.
+p171
+aVAnd suddenly the most amazing things started coming out of our daughters' mouths.
+p172
+aVWhat worked well this week?
+p173
+aVGetting over our fear of riding bikes. Making our beds.
+p174
+aVWhat didn't work well? Our math sheets,
+p175
+aVor greeting visitors at the door.
+p176
+aVLike a lot of parents, our kids are something like Bermuda Triangles.
+p177
+aVLike, thoughts and ideas go in, but none ever comes out,
+p178
+aVI mean at least not that are revealing.
+p179
+aVThis gave us access suddenly to their innermost thoughts.
+p180
+aVBut the most surprising part was when we turned to,
+p181
+aVwhat are we going to work on in the week ahead?
+p182
+aVYou know, the key idea of agile is that
+p183
+aVteams essentially manage themselves,
+p184
+aVand it works in software and it turns out that it works with kids.
+p185
+aVOur kids love this process.
+p186
+aVSo they would come up with all these ideas.
+p187
+aVYou know, greet five visitors at the door this week,
+p188
+aVget an extra 10 minutes of reading before bed.
+p189
+aVKick someone, lose desserts for a month.
+p190
+aVIt turns out, by the way, our girls are little Stalins.
+p191
+aVWe constantly have to kind of dial them back.
+p192
+aVNow look, naturally there's a gap between
+p193
+aVtheir kind of conduct in these meetings and their behavior the rest of the week,
+p194
+aVbut the truth is it didn't really bother us.
+p195
+aVIt felt like we were kind of laying these underground cables
+p196
+aVthat wouldn't light up their world for many years to come.
+p197
+aa(lp198
+VThree years later \u2014 our girls are almost eight now \u2014
+p199
+aVWe're still holding these meetings.
+p200
+aVMy wife counts them among her most treasured moments as a mom.
+p201
+aa(lp202
+VSo what did we learn?
+p203
+aVThe word "agile" entered the lexicon in 2001
+p204
+aVwhen Jeff Sutherland and a group of designers
+p205
+aVmet in Utah and wrote a 12-point Agile Manifesto.
+p206
+aVI think the time is right for an Agile Family Manifesto.
+p207
+aVI've taken some ideas from the Starrs and from many other families I met.
+p208
+aVI'm proposing three planks.
+p209
+aa(lp210
+VPlank number one: Adapt all the time.
+p211
+aa(lp212
+VWhen I became a parent, I figured, you know what?
+p213
+aVWe'll set a few rules and we'll stick to them.
+p214
+aVThat assumes, as parents, we can anticipate every problem that's going to arise.
+p215
+aVWe can't. What's great about the agile system
+p216
+aVis you build in a system of change
+p217
+aVso that you can react to what's happening to you in real time.
+p218
+aVIt's like they say in the Internet world:
+p219
+aVif you're doing the same thing today you were doing six months ago,
+p220
+aVyou're doing the wrong thing.
+p221
+aVParents can learn a lot from that.
+p222
+aVBut to me, "adapt all the time" means something deeper, too.
+p223
+aVWe have to break parents out of this straitjacket
+p224
+aVthat the only ideas we can try at home
+p225
+aVare ones that come from shrinks or self-help gurus
+p226
+aVor other family experts.
+p227
+aVThe truth is, their ideas are stale,
+p228
+aVwhereas in all these other worlds there are these new ideas
+p229
+aVto make groups and teams work effectively.
+p230
+aa(lp231
+VLet's just take a few examples.
+p232
+aVLet's take the biggest issue of all: family dinner.
+p233
+aVEverybody knows that having family dinner
+p234
+aVwith your children is good for the kids.
+p235
+aVBut for so many of us, it doesn't work in our lives.
+p236
+aVI met a celebrity chef in New Orleans who said,
+p237
+aV"No problem, I'll just time-shift family dinner.
+p238
+aVI'm not home, can't make family dinner?
+p239
+aVWe'll have family breakfast. We'll meet for a bedtime snack.
+p240
+aVWe'll make Sunday meals more important."
+p241
+aVAnd the truth is, recent research backs him up.
+p242
+aVIt turns out there's only 10 minutes of productive time
+p243
+aVin any family meal.
+p244
+aVThe rest of it's taken up with "take your elbows off the table" and "pass the ketchup."
+p245
+aVYou can take that 10 minutes and move it
+p246
+aVto any part of the day and have the same benefit.
+p247
+aVSo time-shift family dinner. That's adaptability.
+p248
+aa(lp249
+VAn environmental psychologist told me,
+p250
+aV"If you're sitting in a hard chair on a rigid surface,
+p251
+aVyou'll be more rigid.
+p252
+aVIf you're sitting on a cushioned chair, you'll be more open."
+p253
+aVShe told me, "When you're discipling your children,
+p254
+aVsit in an upright chair with a cushioned surface.
+p255
+aVThe conversation will go better."
+p256
+aVMy wife and I actually moved where we sit for difficult conversations
+p257
+aVbecause I was sitting above in the power position.
+p258
+aVSo move where you sit. That's adaptability.
+p259
+aa(lp260
+VThe point is there are all these new ideas out there.
+p261
+aVWe've got to hook them up with parents.
+p262
+aVSo plank number one: Adapt all the time.
+p263
+aVBe flexible, be open-minded, let the best ideas win.
+p264
+aa(lp265
+VPlank number two: Empower your children.
+p266
+aVOur instinct as parents is to order our kids around.
+p267
+aVIt's easier, and frankly, we're usually right.
+p268
+aVThere's a reason that few systems have been more
+p269
+aVwaterfall over time than the family.
+p270
+aVBut the single biggest lesson we learned
+p271
+aVis to reverse the waterfall as much as possible.
+p272
+aVEnlist the children in their own upbringing.
+p273
+aVJust yesterday, we were having our family meeting,
+p274
+aVand we had voted to work on overreacting.
+p275
+aVSo we said, "Okay, give us a reward and give us a punishment. Okay?"
+p276
+aVSo one of my daughters threw out, you get five minutes of overreacting time all week.
+p277
+aVSo we kind of liked that.
+p278
+aVBut then her sister started working the system.
+p279
+aVShe said, "Do I get one five-minute overreaction
+p280
+aVor can I get 10 30-second overreactions?"
+p281
+aVI loved that. Spend the time however you want.
+p282
+aVNow give us a punishment. Okay.
+p283
+aVIf we get 15 minutes of overreaction time, that's the limit.
+p284
+aVEvery minute above that, we have to do one pushup.
+p285
+aVSo you see, this is working. Now look, this system isn't lax.
+p286
+aVThere's plenty of parental authority going on.
+p287
+aVBut we're giving them practice becoming independent,
+p288
+aVwhich of course is our ultimate goal.
+p289
+aVJust as I was leaving to come here tonight,
+p290
+aVone of my daughters started screaming.
+p291
+aVThe other one said, "Overreaction! Overreaction!"
+p292
+aVand started counting, and within 10 seconds it had ended.
+p293
+aVTo me that is a certified agile miracle.
+p294
+aV(Laughter) (Applause)
+p295
+aVAnd by the way, research backs this up too.
+p296
+aVChildren who plan their own goals, set weekly schedules,
+p297
+aVevaluate their own work build up their frontal cortex
+p298
+aVand take more control over their lives.
+p299
+aVThe point is, we have to let our children succeed on their own terms,
+p300
+aVand yes, on occasion, fail on their own terms.
+p301
+aVI was talking to Warren Buffett's banker,
+p302
+aVand he was chiding me for not letting my children
+p303
+aVmake mistakes with their allowance.
+p304
+aVAnd I said, "But what if they drive into a ditch?"
+p305
+aVHe said, "It's much better to drive into a ditch
+p306
+aVwith a $6 allowance than a $60,000-a-year salary
+p307
+aVor a $6 million inheritance."
+p308
+aVSo the bottom line is, empower your children.
+p309
+aa(lp310
+VPlank number three: Tell your story.
+p311
+aVAdaptability is fine, but we also need bedrock.
+p312
+aVJim Collins, the author of "Good To Great,"
+p313
+aVtold me that successful human organizations of any kind
+p314
+aVhave two things in common:
+p315
+aVthey preserve the core, they stimulate progress.
+p316
+aVSo agile is great for stimulating progress,
+p317
+aVbut I kept hearing time and again, you need to preserve the core.
+p318
+aVSo how do you do that?
+p319
+aVCollins coached us on doing something
+p320
+aVthat businesses do, which is define your mission
+p321
+aVand identify your core values.
+p322
+aVSo he led us through the process of creating a family mission statement.
+p323
+aVWe did the family equivalent of a corporate retreat.
+p324
+aVWe had a pajama party.
+p325
+aVI made popcorn. Actually, I burned one, so I made two.
+p326
+aVMy wife bought a flip chart.
+p327
+aVAnd we had this great conversation, like, what's important to us?
+p328
+aVWhat values do we most uphold?
+p329
+aVAnd we ended up with 10 statements.
+p330
+aVWe are travelers, not tourists.
+p331
+aVWe don't like dilemmas. We like solutions.
+p332
+aVAgain, research shows that parents should spend less time
+p333
+aVworrying about what they do wrong
+p334
+aVand more time focusing on what they do right,
+p335
+aVworry less about the bad times and build up the good times.
+p336
+aVThis family mission statement is a great way to identify
+p337
+aVwhat it is that you do right.
+p338
+aa(lp339
+VA few weeks later, we got a call from the school.
+p340
+aVOne of our daughters had gotten into a spat.
+p341
+aVAnd suddenly we were worried, like, do we have a mean girl on our hands?
+p342
+aVAnd we didn't really know what to do,
+p343
+aVso we called her into my office.
+p344
+aVThe family mission statement was on the wall,
+p345
+aVand my wife said, "So, anything up there seem to apply?"
+p346
+aVAnd she kind of looked down the list, and she said,
+p347
+aV"Bring people together?"
+p348
+aVSuddenly we had a way into the conversation.
+p349
+aa(lp350
+VAnother great way to tell your story
+p351
+aVis to tell your children where they came from.
+p352
+aVResearchers at Emory gave children a simple
+p353
+aV"what do you know" test.
+p354
+aVDo you know where your grandparents were born?
+p355
+aVDo you know where your parents went to high school?
+p356
+aVDo you know anybody in your family
+p357
+aVwho had a difficult situation, an illness, and they overcame it?
+p358
+aVThe children who scored highest on this "do you know" scale
+p359
+aVhad the highest self-esteem and a greater sense they could control their lives.
+p360
+aVThe "do you know" test was the single biggest predictor
+p361
+aVof emotional health and happiness.
+p362
+aVAs the author of the study told me,
+p363
+aVchildren who have a sense of \u2014 they're part of a larger narrative
+p364
+aVhave greater self-confidence.
+p365
+aVSo my final plank is, tell your story.
+p366
+aVSpend time retelling the story of your family's positive moments
+p367
+aVand how you overcame the negative ones.
+p368
+aVIf you give children this happy narrative,
+p369
+aVyou give them the tools to make themselves happier.
+p370
+aa(lp371
+VI was a teenager when I first read "Anna Karenina"
+p372
+aVand its famous opening sentence,
+p373
+aV"All happy families are alike.
+p374
+aVEach unhappy family is unhappy in its own way."
+p375
+aVWhen I first read that, I thought, "That sentence is inane.
+p376
+aVOf course all happy families aren't alike."
+p377
+aVBut as I began working on this project,
+p378
+aVI began changing my mind.
+p379
+aVRecent scholarship has allowed us, for the first time,
+p380
+aVto identify the building blocks
+p381
+aVthat successful families have.
+p382
+aVI've mentioned just three here today:
+p383
+aVAdapt all the time, empower the children, tell your story.
+p384
+aVIs it possible, all these years later, to say Tolstoy was right?
+p385
+aVThe answer, I believe, is yes.
+p386
+aVWhen Leo Tolstoy was five years old,
+p387
+aVhis brother Nikolay came to him
+p388
+aVand said he had engraved the secret to universal happiness
+p389
+aVon a little green stick, which he had hidden
+p390
+aVin a ravine on the family's estate in Russia.
+p391
+aVIf the stick were ever found, all humankind would be happy.
+p392
+aVTolstoy became consumed with that stick, but he never found it.
+p393
+aVIn fact, he asked to be buried in that ravine where he thought it was hidden.
+p394
+aVHe still lies there today, covered in a layer of green grass.
+p395
+aVThat story perfectly captures for me
+p396
+aVthe final lesson that I learned:
+p397
+aVHappiness is not something we find,
+p398
+aVit's something we make.
+p399
+aVAlmost anybody who's looked at well-run organizations
+p400
+aVhas come to pretty much the same conclusion.
+p401
+aVGreatness is not a matter of circumstance.
+p402
+aVIt's a matter of choice.
+p403
+aVYou don't need some grand plan. You don't need a waterfall.
+p404
+aVYou just need to take small steps,
+p405
+aVaccumulate small wins,
+p406
+aVkeep reaching for that green stick.
+p407
+aVIn the end, this may be the greatest lesson of all.
+p408
+aVWhat's the secret to a happy family? Try.
+p409
+aa(lp410
+V(Applause)
+p411
+aasS'id'
+p412
+I1675
+sS'title'
+p413
+VAgile programming -- for your family
+p414
+s.

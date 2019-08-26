@@ -1,0 +1,347 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThe Kraken, a beast so terrifying
+p4
+aVit was said to devour men and ships and whales,
+p5
+aVand so enormous it could be mistaken for an island.
+p6
+aVIn assessing the merits of such tales,
+p7
+aVit's probably wise to keep in mind that old sailor's saw
+p8
+aVthat the only difference between a fairytale and a sea story
+p9
+aVis a fairytale begins, "Once upon a time,"
+p10
+aVand a sea story begins, "This ain't no shit." (Laughter)
+p11
+aa(lp12
+VEvery fish that gets away
+p13
+aVgrows with every telling of the tale.
+p14
+aVNevertheless, there are giants in the ocean,
+p15
+aVand we now have video proof,
+p16
+aVas those of you that saw the Discovery Channel documentary are no doubt aware.
+p17
+aa(lp18
+VI was one of the three scientists on this expedition
+p19
+aVthat took place last summer off Japan.
+p20
+aVI'm the short one.
+p21
+aVThe other two are Dr. Tsunemi Kubodera and Dr. Steve O'Shea.
+p22
+aa(lp23
+VI owe my participation in this now-historic event
+p24
+aVto TED.
+p25
+aVIn 2010, there was a TED event called Mission Blue
+p26
+aVheld aboard the Lindblad Explorer in the Galapagos
+p27
+aVas part of the fulfillment of Sylvia Earle's TED wish.
+p28
+aVI spoke about a new way of exploring the ocean,
+p29
+aVone that focuses on attracting animals instead of scaring them away.
+p30
+aVMike deGruy was also invited,
+p31
+aVand he spoke with great passion about his love of the ocean,
+p32
+aVand he also talked to me about applying my approach
+p33
+aVto something he's been involved with for a very long time,
+p34
+aVwhich is the hunt for the giant squid.
+p35
+aVIt was Mike that got me invited to the squid summit,
+p36
+aVa gathering of squid experts at the Discovery Channel
+p37
+aVthat summer during Shark Week. (Laughter)
+p38
+aa(lp39
+VI gave a talk on unobtrusive viewing
+p40
+aVand optical luring of deep sea squid
+p41
+aVin which I emphasized the importance
+p42
+aVof using quiet, unobtrusive platforms for exploration.
+p43
+aVThis came out of hundreds of dives I have made,
+p44
+aVfarting around in the dark
+p45
+aVusing these platforms,
+p46
+aVand my impression that I saw more animals
+p47
+aVworking from the submersible
+p48
+aVthan I did with either of the remote-operated vehicles.
+p49
+aVBut that could just be because the submersible has a wider field of view.
+p50
+aVBut I also felt like I saw more animals
+p51
+aVworking with the Tiburon than the Ventana,
+p52
+aVtwo vehicles with the same field of view
+p53
+aVbut different propulsion systems.
+p54
+aa(lp55
+VSo my suspicion was that it might have something to do with the amount of noise they make.
+p56
+aVSo I set up a hydrophone on the bottom of the ocean,
+p57
+aVand I had each of these fly by at the same speed and distance
+p58
+aVand recorded the sound they made.
+p59
+aVThe Johnson Sea-Link \u2014 (whirring noise) \u2014
+p60
+aVwhich you can probably just barely hear here,
+p61
+aVuses electric thrusters \u2014 very, very quiet.
+p62
+aVThe Tiburon also uses electric powered thrusters.
+p63
+aVIt's also pretty quiet, but a bit noisier. (Louder whirring noise)
+p64
+aVBut most deep-diving ROVs these days use hydraulics
+p65
+aVand they sound like the Ventana. (Loud beeping noise)
+p66
+aVI think that's got to be scaring a lot of animals away.
+p67
+aa(lp68
+VSo for the deep sea squid hunt,
+p69
+aVI proposed using an optical lure
+p70
+aVattached to a camera platform
+p71
+aVwith no thrusters, no motors,
+p72
+aVjust a battery-powered camera,
+p73
+aVand the only illumination coming from red light
+p74
+aVthat's invisible to most deep-sea animals
+p75
+aVthat are adapted to see primarily blue.
+p76
+aVThat's visible to our eye,
+p77
+aVbut it's the equivalent of infrared in the deep sea.
+p78
+aVSo this camera platform, which we called the Medusa,
+p79
+aVcould just be thrown off the back of the ship,
+p80
+aVattached to a float at the surface with over 2,000 feet of line,
+p81
+aVit would just float around passively carried by the currents,
+p82
+aVand the only light visible to the animals in the deep
+p83
+aVwould be the blue light of the optical lure,
+p84
+aVwhich we called the electronic jellyfish, or e-jelly,
+p85
+aVbecause it was designed to imitate
+p86
+aVthe bioluminescent display
+p87
+aVof the common deep sea jellyfish Atolla.
+p88
+aa(lp89
+VNow, this pinwheel of light that the Atolla produces
+p90
+aVis known as a bioluminescent burglar alarm
+p91
+aVand is a form of defense.
+p92
+aVThe reason that the electronic jellyfish worked as a lure
+p93
+aVis not because giant squid eat jellyfish,
+p94
+aVbut it's because this jellyfish only resorts to producing this light
+p95
+aVwhen it's being chewed on by a predator
+p96
+aVand its only hope for escape
+p97
+aVmay be to attract the attention of a larger predator
+p98
+aVthat will attack its attacker
+p99
+aVand thereby afford it an opportunity for escape.
+p100
+aVIt's a scream for help, a last-ditch attempt for escape,
+p101
+aVand a common form of defense in the deep sea.
+p102
+aa(lp103
+VThe approach worked.
+p104
+aVWhereas all previous expeditions had failed to garner
+p105
+aVa single video glimpse of the giant,
+p106
+aVwe managed six, and the first triggered wild excitement.
+p107
+aa(lp108
+VEdith Widder (on video): Oh my God. Oh my God! Are you kidding me?Other scientists: Oh ho ho! That's just hanging there.
+p109
+aa(lp110
+VEW: It was like it was teasing us, doing a kind of fan dance \u2014
+p111
+aVnow you see me, now you don't \u2014
+p112
+aVand we had four such teasing appearances,
+p113
+aVand then on the fifth, it came in and totally wowed us.
+p114
+aa(lp115
+V(Music) Narrator: (Speaking in Japanese)
+p116
+aa(lp117
+VScientists: Ooh. Bang! Oh my God! Whoa!
+p118
+aa(lp119
+V(Applause)
+p120
+aa(lp121
+VEW: The full monty.
+p122
+aa(lp123
+VWhat really wowed me about that
+p124
+aVwas the way it came in up over the e-jelly
+p125
+aVand then attacked the enormous thing next to it,
+p126
+aVwhich I think it mistook for the predator on the e-jelly.
+p127
+aa(lp128
+VBut even more incredible was the footage shot
+p129
+aVfrom the Triton submersible.
+p130
+aVWhat was not mentioned in the Discovery documentary
+p131
+aVwas that the bait squid that Dr. Kubodera used,
+p132
+aVa one-meter long diamondback squid
+p133
+aVhad a light attached to it, a squid jig
+p134
+aVof the type that longline fishermen use,
+p135
+aVand I think it was this light
+p136
+aVthat brought the giant in.
+p137
+aa(lp138
+VNow, what you're seeing
+p139
+aVis the intensified camera's view under red light,
+p140
+aVand that's all Dr. Kubodera could see when the giant comes in here.
+p141
+aVAnd then he got so excited,
+p142
+aVhe turned on his flashlight because he wanted to see better,
+p143
+aVand the giant didn't run away,
+p144
+aVso he risked turning on the white lights on the submersible,
+p145
+aVbringing a creature of legend
+p146
+aVfrom the misty history into high-resolution video.
+p147
+aVIt was absolutely breathtaking,
+p148
+aVand had this animal had its feeding tentacles intact
+p149
+aVand fully extended,
+p150
+aVit would have been as tall as a two-story house.
+p151
+aa(lp152
+VHow could something that big
+p153
+aVlive in our ocean and yet remain unfilmed until now?
+p154
+aVWe've only explored about five percent of our ocean.
+p155
+aVThere are great discoveries yet to be made down there,
+p156
+aVfantastic creatures representing millions of years of evolution
+p157
+aVand possibly bioactive compounds
+p158
+aVthat could benefit us in ways that we can't even yet imagine.
+p159
+aVYet we have spent only a tiny fraction
+p160
+aVof the money on ocean exploration
+p161
+aVthat we've spent on space exploration.
+p162
+aVWe need a NASA-like organization for ocean exploration,
+p163
+aVbecause we need to be exploring and protecting
+p164
+aVour life support systems here on Earth.
+p165
+aa(lp166
+VWe need \u2014 thank you. (Applause)
+p167
+aa(lp168
+VExploration is the engine that drives innovation.
+p169
+aVInnovation drives economic growth.
+p170
+aVSo let's all go exploring,
+p171
+aVbut let's do it in a way that doesn't scare the animals away,
+p172
+aVor, as Mike deGruy once said,
+p173
+aV"If you want to get away from it all
+p174
+aVand see something you've never seen,
+p175
+aVor have an excellent chance of seeing something that no one's ever seen,
+p176
+aVget in a sub."
+p177
+aVHe should have been with us for this adventure.
+p178
+aVWe miss him.
+p179
+aV(Applause)
+p180
+aasS'id'
+p181
+I1684
+sS'title'
+p182
+VHow we found the giant squid
+p183
+s.

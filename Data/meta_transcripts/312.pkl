@@ -1,0 +1,914 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhen I was President of the American Psychological Association,
+p4
+aVthey tried to media-train me.
+p5
+aVAnd an encounter I had with CNN summarizes
+p6
+aVwhat I'm going to be talking about today,
+p7
+aVwhich is the eleventh reason to be optimistic.
+p8
+aVThe editor of Discover told us 10 of them;
+p9
+aVI'm going to give you the eleventh.
+p10
+aa(lp11
+VSo they came to me, CNN, and they said, "Professor Seligman \u2014
+p12
+aVwould you tell us about the state of psychology today?
+p13
+aVWe'd like to interview you about that."
+p14
+aVAnd I said, "Great."
+p15
+aVAnd she said, "But this is CNN, so you only get a sound bite."
+p16
+aVI said, "Well, how many words do I get?"
+p17
+aVAnd she said, "Well, one."
+p18
+aa(lp19
+V(Laughter)
+p20
+aa(lp21
+VAnd the cameras rolled, and she said,
+p22
+aV"Professor Seligman, what is the state of psychology today?"
+p23
+aV"Good."
+p24
+aa(lp25
+V(Laughter)
+p26
+aa(lp27
+V"Cut! Cut. That won't do.
+p28
+aVWe'd really better give you a longer sound bite."
+p29
+aV"How many words do I get this time?"
+p30
+aV"Well, you get two."
+p31
+aa(lp32
+V(Laughter)
+p33
+aa(lp34
+V"Doctor Seligman, what is the state of psychology today?"
+p35
+aV"Not good."
+p36
+aa(lp37
+V(Laughter)
+p38
+aa(lp39
+V"Look, Doctor Seligman,
+p40
+aVwe can see you're really not comfortable in this medium.
+p41
+aVWe'd better give you a real sound bite.
+p42
+aVThis time you can have three words.
+p43
+aVProfessor Seligman, what is the state of psychology today?"
+p44
+aV"Not good enough."
+p45
+aVThat's what I'm going to be talking about.
+p46
+aa(lp47
+VI want to say why psychology was good, why it was not good,
+p48
+aVand how it may become, in the next 10 years, good enough.
+p49
+aVAnd by parallel summary, I want to say the same thing about technology,
+p50
+aVabout entertainment and design,
+p51
+aVbecause I think the issues are very similar.
+p52
+aa(lp53
+VSo, why was psychology good?
+p54
+aVWell, for more than 60 years, psychology worked within the disease model.
+p55
+aVTen years ago, when I was on an airplane
+p56
+aVand I introduced myself to my seatmate, and told them what I did,
+p57
+aVthey'd move away from me,
+p58
+aVbecause, quite rightly, they were saying
+p59
+aVpsychology is about finding what's wrong with you.
+p60
+aVSpot the loony.
+p61
+aVAnd now, when I tell people what I do, they move toward me.
+p62
+aa(lp63
+VWhat was good about psychology \u2014
+p64
+aVabout the $30 billion investment NIMH made,
+p65
+aVabout working in the disease model,
+p66
+aVabout what you mean by psychology \u2014
+p67
+aVis that, 60 years ago, none of the disorders were treatable;
+p68
+aVit was entirely smoke and mirrors.
+p69
+aVAnd now, 14 of the disorders are treatable,
+p70
+aVtwo of them actually curable.
+p71
+aa(lp72
+VAnd the other thing that happened is that a science developed,
+p73
+aVa science of mental illness.
+p74
+aVWe found out we could take fuzzy concepts
+p75
+aVlike depression, alcoholism,
+p76
+aVand measure them with rigor;
+p77
+aVthat we could create a classification of the mental illnesses;
+p78
+aVthat we could understand the causality of the mental illnesses.
+p79
+aVWe could look across time at the same people \u2014
+p80
+aVpeople, for example, who were genetically vulnerable to schizophrenia \u2014
+p81
+aVand ask what the contribution of mothering, of genetics are,
+p82
+aVand we could isolate third variables
+p83
+aVby doing experiments on the mental illnesses.
+p84
+aa(lp85
+VAnd best of all, we were able, in the last 50 years,
+p86
+aVto invent drug treatments and psychological treatments.
+p87
+aVAnd then we were able to test them rigorously,
+p88
+aVin random-assignment, placebo-controlled designs,
+p89
+aVthrow out the things that didn't work,
+p90
+aVkeep the things that actively did.
+p91
+aa(lp92
+VThe conclusion of that is,
+p93
+aVpsychology and psychiatry of the last 60 years
+p94
+aVcan actually claim that we can make miserable people less miserable.
+p95
+aVAnd I think that's terrific.
+p96
+aVI'm proud of it.
+p97
+aVBut what was not good, the consequences of that,
+p98
+aVwere three things.
+p99
+aa(lp100
+VThe first was moral;
+p101
+aVthat psychologists and psychiatrists became victimologists, pathologizers;
+p102
+aVthat our view of human nature was that if you were in trouble,
+p103
+aVbricks fell on you.
+p104
+aVAnd we forgot that people made choices and decisions.
+p105
+aVWe forgot responsibility.
+p106
+aVThat was the first cost.
+p107
+aa(lp108
+VThe second cost was that we forgot about you people.
+p109
+aVWe forgot about improving normal lives.
+p110
+aVWe forgot about a mission to make relatively untroubled people happier,
+p111
+aVmore fulfilled, more productive.
+p112
+aVAnd "genius," "high-talent," became a dirty word.
+p113
+aVNo one works on that.
+p114
+aa(lp115
+VAnd the third problem about the disease model is,
+p116
+aVin our rush to do something about people in trouble,
+p117
+aVin our rush to do something about repairing damage,
+p118
+aVit never occurred to us to develop interventions
+p119
+aVto make people happier \u2014 positive interventions.
+p120
+aa(lp121
+VSo that was not good.
+p122
+aVAnd so that's what led people like Nancy Etcoff, Dan Gilbert,
+p123
+aVMike Csikszentmihalyi and myself
+p124
+aVto work in something I call, "positive psychology,"
+p125
+aVwhich has three aims.
+p126
+aVThe first is that psychology should be just as concerned
+p127
+aVwith human strength as it is with weakness.
+p128
+aVIt should be just as concerned with building strength
+p129
+aVas with repairing damage.
+p130
+aVIt should be interested in the best things in life.
+p131
+aVAnd it should be just as concerned
+p132
+aVwith making the lives of normal people fulfilling,
+p133
+aVand with genius, with nurturing high talent.
+p134
+aa(lp135
+VSo in the last 10 years and the hope for the future,
+p136
+aVwe've seen the beginnings of a science of positive psychology,
+p137
+aVa science of what makes life worth living.
+p138
+aVIt turns out that we can measure different forms of happiness.
+p139
+aVAnd any of you, for free, can go to that website \u2014
+p140
+aa(lp141
+V[www.authentichappiness.org]
+p142
+aa(lp143
+Vand take the entire panoply of tests of happiness.
+p144
+aVYou can ask, how do you stack up for positive emotion, for meaning,
+p145
+aVfor flow, against literally tens of thousands of other people?
+p146
+aVWe created the opposite of the diagnostic manual of the insanities:
+p147
+aVa classification of the strengths and virtues that looks at the sex ratio,
+p148
+aVhow they're defined, how to diagnose them,
+p149
+aVwhat builds them and what gets in their way.
+p150
+aVWe found that we could discover the causation of the positive states,
+p151
+aVthe relationship between left hemispheric activity
+p152
+aVand right hemispheric activity, as a cause of happiness.
+p153
+aa(lp154
+VI've spent my life working on extremely miserable people,
+p155
+aVand I've asked the question:
+p156
+aVHow do extremely miserable people differ from the rest of you?
+p157
+aVAnd starting about six years ago, we asked about extremely happy people.
+p158
+aVHow do they differ from the rest of us?
+p159
+aVIt turns out there's one way, very surprising \u2014
+p160
+aVthey're not more religious, they're not in better shape,
+p161
+aVthey don't have more money, they're not better looking,
+p162
+aVthey don't have more good events and fewer bad events.
+p163
+aVThe one way in which they differ: they're extremely social.
+p164
+aVThey don't sit in seminars on Saturday morning.
+p165
+aa(lp166
+V(Laughter)
+p167
+aa(lp168
+VThey don't spend time alone.
+p169
+aVEach of them is in a romantic relationship
+p170
+aVand each has a rich repertoire of friends.
+p171
+aa(lp172
+VBut watch out here \u2014 this is merely correlational data, not causal,
+p173
+aVand it's about happiness in the first, "Hollywood" sense,
+p174
+aVI'm going to talk about,
+p175
+aVhappiness of ebullience and giggling and good cheer.
+p176
+aVAnd I'm going to suggest to you that's not nearly enough,
+p177
+aVin just a moment.
+p178
+aVWe found we could begin to look at interventions over the centuries,
+p179
+aVfrom the Buddha to Tony Robbins.
+p180
+aVAbout 120 interventions have been proposed that allegedly make people happy.
+p181
+aVAnd we find that we've been able to manualize many of them,
+p182
+aVand we actually carry out
+p183
+aVrandom-assignment efficacy and effectiveness studies.
+p184
+aVThat is, which ones actually make people lastingly happier?
+p185
+aVIn a couple of minutes, I'll tell you about some of those results.
+p186
+aa(lp187
+VBut the upshot of this is that the mission I want psychology to have,
+p188
+aVin addition to its mission of curing the mentally ill,
+p189
+aVand in addition to its mission of making miserable people less miserable,
+p190
+aVis, can psychology actually make people happier?
+p191
+aVAnd to ask that question \u2014 "happy" is not a word I use very much \u2014
+p192
+aVwe've had to break it down
+p193
+aVinto what I think is askable about "happy."
+p194
+aVAnd I believe there are three different \u2014
+p195
+aVI call them "different" because different interventions build them,
+p196
+aVit's possible to have one rather than the other \u2014
+p197
+aVthree different happy lives.
+p198
+aVThe first happy life is the pleasant life.
+p199
+aVThis is a life in which you have as much positive emotion
+p200
+aVas you possibly can,
+p201
+aVand the skills to amplify it.
+p202
+aVThe second is a life of engagement:
+p203
+aVa life in your work, your parenting, your love, your leisure;
+p204
+aVtime stops for you.
+p205
+aVThat's what Aristotle was talking about.
+p206
+aVAnd third, the meaningful life.
+p207
+aVI want to say a little bit about each of those lives
+p208
+aVand what we know about them.
+p209
+aa(lp210
+VThe first life is the pleasant life, and it's simply, as best we can find it,
+p211
+aVit's having as many of the pleasures as you can,
+p212
+aVas much positive emotion as you can,
+p213
+aVand learning the skills \u2014 savoring, mindfulness \u2014 that amplify them,
+p214
+aVthat stretch them over time and space.
+p215
+aVBut the pleasant life has three drawbacks,
+p216
+aVand it's why positive psychology is not happy-ology,
+p217
+aVand why it doesn't end here.
+p218
+aa(lp219
+VThe first drawback is, it turns out the pleasant life,
+p220
+aVyour experience of positive emotion,
+p221
+aVis about 50 percent heritable,
+p222
+aVand, in fact, not very modifiable.
+p223
+aVSo the different tricks that Matthieu and I and others know
+p224
+aVabout increasing the amount of positive emotion in your life
+p225
+aVare 15 to 20 percent tricks, getting more of it.
+p226
+aVSecond is that positive emotion habituates.
+p227
+aVIt habituates rapidly, indeed.
+p228
+aVIt's all like French vanilla ice cream:
+p229
+aVthe first taste is 100 percent;
+p230
+aVby the time you're down to the sixth taste,
+p231
+aVit's gone.
+p232
+aVAnd, as I said, it's not particularly malleable.
+p233
+aa(lp234
+VAnd this leads to the second life.
+p235
+aVI have to tell you about my friend Len,
+p236
+aVto talk about why positive psychology is more than positive emotion,
+p237
+aVmore than building pleasure.
+p238
+aVIn two of the three great arenas of life, by the time Len was 30,
+p239
+aVLen was enormously successful.
+p240
+aVThe first arena was work.
+p241
+aVBy the time he was 20, he was an options trader.
+p242
+aVBy the time he was 25, he was a multimillionaire
+p243
+aVand the head of an options trading company.
+p244
+aVSecond, in play, he's a national champion bridge player.
+p245
+aVBut in the third great arena of life, love, Len is an abysmal failure.
+p246
+aVAnd the reason he was, was that Len is a cold fish.
+p247
+aa(lp248
+V(Laughter)
+p249
+aa(lp250
+VLen is an introvert.
+p251
+aVAmerican women said to Len, when he dated them,
+p252
+aV"You're no fun. You don't have positive emotion. Get lost."
+p253
+aVAnd Len was wealthy enough to be able to afford a Park Avenue psychoanalyst,
+p254
+aVwho for five years tried to find the sexual trauma
+p255
+aVthat had somehow locked positive emotion inside of him.
+p256
+aVBut it turned out there wasn't any sexual trauma.
+p257
+aVIt turned out that \u2014
+p258
+aVLen grew up in Long Island
+p259
+aVand he played football and watched football, and played bridge.
+p260
+aVLen is in the bottom five percent of what we call positive affectivities.
+p261
+aa(lp262
+VThe question is: Is Len unhappy?
+p263
+aVAnd I want to say, not.
+p264
+aVContrary to what psychology told us
+p265
+aVabout the bottom 50 percent of the human race in positive affectivity,
+p266
+aVI think Len is one of the happiest people I know.
+p267
+aVHe's not consigned to the hell of unhappiness,
+p268
+aVand that's because Len, like most of you,
+p269
+aVis enormously capable of flow.
+p270
+aVWhen he walks onto the floor of the American Exchange
+p271
+aVat 9:30 in the morning,
+p272
+aVtime stops for him.
+p273
+aVAnd it stops till the closing bell.
+p274
+aVWhen the first card is played till 10 days later,
+p275
+aVwhen the tournament is over,
+p276
+aVtime stops for Len.
+p277
+aa(lp278
+VAnd this is indeed what Mike Csikszentmihalyi
+p279
+aVhas been talking about, about flow.
+p280
+aVAnd it's distinct from pleasure in a very important way:
+p281
+aVpleasure has raw feel \u2014 you know it's happening; it's thought and feeling.
+p282
+aVBut what Mike told you yesterday \u2014 during flow ...
+p283
+aVyou can't feel anything.
+p284
+aVYou're one with the music.
+p285
+aVTime stops.
+p286
+aVYou have intense concentration.
+p287
+aVAnd this is indeed the characteristic of what we think of as the good life.
+p288
+aVAnd we think there's a recipe for it,
+p289
+aVand it's knowing what your highest strengths are \u2014
+p290
+aVagain, there's a valid test
+p291
+aVof what your five highest strengths are \u2014
+p292
+aVand then re-crafting your life
+p293
+aVto use them as much as you possibly can.
+p294
+aVRe-crafting your work, your love,
+p295
+aVyour play, your friendship, your parenting.
+p296
+aa(lp297
+VJust one example.
+p298
+aVOne person I worked with was a bagger at Genuardi's.
+p299
+aVHated the job.
+p300
+aVShe's working her way through college.
+p301
+aVHer highest strength was social intelligence.
+p302
+aVSo she re-crafted bagging to make the encounter with her
+p303
+aVthe social highlight of every customer's day.
+p304
+aVNow, obviously she failed.
+p305
+aVBut what she did was to take her highest strengths,
+p306
+aVand re-craft work to use them as much as possible.
+p307
+aVWhat you get out of that is not smiley-ness.
+p308
+aVYou don't look like Debbie Reynolds.
+p309
+aVYou don't giggle a lot.
+p310
+aVWhat you get is more absorption.
+p311
+aa(lp312
+VSo, that's the second path.
+p313
+aVThe first path, positive emotion;
+p314
+aVthe second path is eudaemonian flow;
+p315
+aVand the third path is meaning.
+p316
+aVThis is the most venerable of the happinesses, traditionally.
+p317
+aVAnd meaning, in this view, consists of \u2014
+p318
+aVvery parallel to eudaemonia \u2014
+p319
+aVit consists of knowing what your highest strengths are,
+p320
+aVand using them to belong to and in the service of
+p321
+aVsomething larger than you are.
+p322
+aa(lp323
+VI mentioned that for all three kinds of lives \u2014
+p324
+aVthe pleasant life, the good life, the meaningful life \u2014
+p325
+aVpeople are now hard at work on the question:
+p326
+aVAre there things that lastingly change those lives?
+p327
+aVAnd the answer seems to be yes.
+p328
+aVAnd I'll just give you some samples of it.
+p329
+aVIt's being done in a rigorous manner.
+p330
+aVIt's being done in the same way that we test drugs
+p331
+aVto see what really works.
+p332
+aVSo we do random-assignment, placebo-controlled,
+p333
+aVlong-term studies of different interventions.
+p334
+aVJust to sample the kind of interventions that we find have an effect:
+p335
+aVwhen we teach people about the pleasant life,
+p336
+aVhow to have more pleasure in your life,
+p337
+aVone of your assignments is to take the mindfulness skills,
+p338
+aVthe savoring skills,
+p339
+aVand you're assigned to design a beautiful day.
+p340
+aVNext Saturday, set a day aside, design yourself a beautiful day,
+p341
+aVand use savoring and mindfulness to enhance those pleasures.
+p342
+aVAnd we can show in that way that the pleasant life is enhanced.
+p343
+aa(lp344
+VGratitude visit.
+p345
+aVI want you all to do this with me now, if you would.
+p346
+aVClose your eyes.
+p347
+aVI'd like you to remember someone
+p348
+aVwho did something enormously important
+p349
+aVthat changed your life in a good direction,
+p350
+aVand who you never properly thanked.
+p351
+aVThe person has to be alive.
+p352
+aVNow, OK, you can open your eyes.
+p353
+aVI hope all of you have such a person.
+p354
+aVYour assignment, when you're learning the gratitude visit,
+p355
+aVis to write a 300-word testimonial to that person,
+p356
+aVcall them on the phone in Phoenix,
+p357
+aVask if you can visit, don't tell them why.
+p358
+aVShow up at their door,
+p359
+aVyou read the testimonial \u2014 everyone weeps when this happens.
+p360
+aVAnd what happens is, when we test people
+p361
+aVone week later, a month later, three months later,
+p362
+aVthey're both happier and less depressed.
+p363
+aa(lp364
+VAnother example is a strengths date,
+p365
+aVin which we get couples to identify their highest strengths
+p366
+aVon the strengths test,
+p367
+aVand then to design an evening in which they both use their strengths.
+p368
+aVWe find this is a strengthener of relationships.
+p369
+aVAnd fun versus philanthropy.
+p370
+aVIt's so heartening to be in a group like this,
+p371
+aVin which so many of you have turned your lives to philanthropy.
+p372
+aVWell, my undergraduates and the people I work with haven't discovered this,
+p373
+aVso we actually have people do something altruistic
+p374
+aVand do something fun,
+p375
+aVand contrast it.
+p376
+aVAnd what you find is when you do something fun,
+p377
+aVit has a square wave walk set.
+p378
+aVWhen you do something philanthropic to help another person,
+p379
+aVit lasts and it lasts.
+p380
+aVSo those are examples of positive interventions.
+p381
+aa(lp382
+VSo the next to last thing I want to say is:
+p383
+aVwe're interested in how much life satisfaction people have.
+p384
+aVThis is really what you're about.
+p385
+aVAnd that's our target variable.
+p386
+aVAnd we ask the question as a function of the three different lives,
+p387
+aVhow much life satisfaction do you get?
+p388
+aVSo we ask \u2014 and we've done this in 15 replications,
+p389
+aVinvolving thousands of people:
+p390
+aVTo what extent does the pursuit of pleasure,
+p391
+aVthe pursuit of positive emotion,
+p392
+aVthe pleasant life,
+p393
+aVthe pursuit of engagement, time stopping for you,
+p394
+aVand the pursuit of meaning contribute to life satisfaction?
+p395
+aa(lp396
+VAnd our results surprised us; they were backward of what we thought.
+p397
+aVIt turns out the pursuit of pleasure has almost no contribution
+p398
+aVto life satisfaction.
+p399
+aVThe pursuit of meaning is the strongest.
+p400
+aVThe pursuit of engagement is also very strong.
+p401
+aVWhere pleasure matters is if you have both engagement
+p402
+aVand you have meaning,
+p403
+aVthen pleasure's the whipped cream and the cherry.
+p404
+aVWhich is to say, the full life \u2014 the sum is greater than the parts,
+p405
+aVif you've got all three.
+p406
+aVConversely, if you have none of the three, the empty life,
+p407
+aVthe sum is less than the parts.
+p408
+aa(lp409
+VAnd what we're asking now is: Does the very same relationship \u2014
+p410
+aVphysical health, morbidity, how long you live and productivity \u2014
+p411
+aVfollow the same relationship?
+p412
+aVThat is, in a corporation,
+p413
+aVis productivity a function of positive emotion, engagement and meaning?
+p414
+aVIs health a function of positive engagement,
+p415
+aVof pleasure, and of meaning in life?
+p416
+aVAnd there is reason to think the answer to both of those may well be yes.
+p417
+aa(lp418
+VSo, Chris said that the last speaker had a chance
+p419
+aVto try to integrate what he heard,
+p420
+aVand so this was amazing for me.
+p421
+aVI've never been in a gathering like this.
+p422
+aVI've never seen speakers stretch beyond themselves so much,
+p423
+aVwhich was one of the remarkable things.
+p424
+aVBut I found that the problems of psychology seemed to be parallel
+p425
+aVto the problems of technology, entertainment and design
+p426
+aVin the following way:
+p427
+aVwe all know that technology, entertainment and design
+p428
+aVhave been and can be used for destructive purposes.
+p429
+aVWe also know that technology, entertainment and design
+p430
+aVcan be used to relieve misery.
+p431
+aVAnd by the way, the distinction between relieving misery
+p432
+aVand building happiness is extremely important.
+p433
+aVI thought, when I first became a therapist 30 years ago,
+p434
+aVthat if I was good enough to make someone not depressed,
+p435
+aVnot anxious, not angry,
+p436
+aVthat I'd make them happy.
+p437
+aVAnd I never found that;
+p438
+aVI found the best you could ever do
+p439
+aVwas to get to zero;
+p440
+aVthat they were empty.
+p441
+aa(lp442
+VAnd it turns out the skills of happiness, the skills of the pleasant life,
+p443
+aVthe skills of engagement, the skills of meaning,
+p444
+aVare different from the skills of relieving misery.
+p445
+aVAnd so, the parallel thing holds with technology, entertainment
+p446
+aVand design, I believe.
+p447
+aVThat is, it is possible for these three drivers of our world
+p448
+aVto increase happiness,
+p449
+aVto increase positive emotion.
+p450
+aVAnd that's typically how they've been used.
+p451
+aVBut once you fractionate happiness the way I do \u2014
+p452
+aVnot just positive emotion, that's not nearly enough \u2014
+p453
+aVthere's flow in life, and there's meaning in life.
+p454
+aVAs Laura Lee told us,
+p455
+aVdesign and, I believe, entertainment and technology,
+p456
+aVcan be used to increase meaning engagement in life as well.
+p457
+aa(lp458
+VSo in conclusion,
+p459
+aVthe eleventh reason for optimism,
+p460
+aVin addition to the space elevator,
+p461
+aVis that I think with technology, entertainment and design,
+p462
+aVwe can actually increase the amount of tonnage
+p463
+aVof human happiness on the planet.
+p464
+aVAnd if technology can, in the next decade or two,
+p465
+aVincrease the pleasant life, the good life and the meaningful life,
+p466
+aVit will be good enough.
+p467
+aVIf entertainment can be diverted to also increase positive emotion,
+p468
+aVmeaning eudaemonia,
+p469
+aVit will be good enough.
+p470
+aVAnd if design can increase positive emotion,
+p471
+aVeudaemonia, and flow and meaning,
+p472
+aVwhat we're all doing together will become good enough.
+p473
+aa(lp474
+VThank you.
+p475
+aa(lp476
+V(Applause)
+p477
+aasS'id'
+p478
+I312
+sS'title'
+p479
+VThe new era of positive psychology
+p480
+s.

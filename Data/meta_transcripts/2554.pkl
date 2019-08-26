@@ -1,0 +1,631 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI want to tell you about the future of money.
+p4
+aVLet's start with a story about this culture
+p5
+aVthat lived in Micronesia in the early 1900s, called the Yap.
+p6
+aVNow, I want to tell you about the Yap
+p7
+aVbecause their form of money is really interesting.
+p8
+aVThey use these limestone discs called Rai stones.
+p9
+aVNow, the Yap don't actually move these Rai stones around
+p10
+aVor exchange them the way we do with our coins,
+p11
+aVbecause Rai stones can get to be pretty massive.
+p12
+aVThe largest is about four tons and 12 feet across.
+p13
+aVSo the Yap just keep track of who owns part of what stone.
+p14
+aa(lp15
+VThere's a story about these sailors
+p16
+aVthat were transporting a stone across the ocean
+p17
+aVwhen they ran into some trouble and the stone actually fell in.
+p18
+aVThe sailors got back to the main island
+p19
+aVand they told everyone what had happened.
+p20
+aVAnd everyone decided that, actually, yes,
+p21
+aVthe sailors had the stone and \u2014 why not? \u2014 it still counted.
+p22
+aVEven though it was at the bottom of the ocean,
+p23
+aVit was still part of the Yap economy.
+p24
+aa(lp25
+VYou might think that this was just a small culture
+p26
+aVa hundred years ago.
+p27
+aVBut things like this happen in the Western world as well,
+p28
+aVand the Yap actually still use a form of these stones.
+p29
+aa(lp30
+VIn 1932, the Bank of France asked the United States
+p31
+aVto convert their holdings from dollars into gold.
+p32
+aVBut it was too inconvenient to think about actually shipping
+p33
+aVall of that gold over to Europe.
+p34
+aVSo instead, someone went to where that gold was being stored
+p35
+aVand they just labeled it as belonging to France now.
+p36
+aVAnd everyone agreed that France owned the gold.
+p37
+aVIt's just like those Rai stones.
+p38
+aa(lp39
+VThe point I want to make with these two examples
+p40
+aVis that there's nothing inherently valuable
+p41
+aVabout a dollar or a stone or a coin.
+p42
+aVThe only reason these things have any value
+p43
+aVis because we've all decided they should.
+p44
+aVAnd because we've decided that,
+p45
+aVthey do.
+p46
+aVMoney is about the exchanges and the transactions
+p47
+aVthat we have with each other.
+p48
+aVMoney isn't anything objective.
+p49
+aVIt's about a collective story that we tell each other about value.
+p50
+aVA collective fiction.
+p51
+aVAnd that's a really powerful concept.
+p52
+aa(lp53
+VIn the past two decades,
+p54
+aVwe've begun to use digital money.
+p55
+aVSo I get paid via direct deposit,
+p56
+aVI pay my rent via bank transfer,
+p57
+aVI pay my taxes online.
+p58
+aVAnd every month,
+p59
+aVa small amount of money is deducted from my paycheck
+p60
+aVand invested in mutual funds in my retirement account.
+p61
+aVAll of these interactions
+p62
+aVare literally just changing 1's and 0's on computers.
+p63
+aVThere's not even anything physical, like a stone or a coin.
+p64
+aVDigital money makes it so that I can pay someone around the world
+p65
+aVin seconds.
+p66
+aa(lp67
+VNow when this works,
+p68
+aVit's because there are large institutions underwriting every 1 or 0
+p69
+aVthat changes on a computer.
+p70
+aVAnd when it doesn't,
+p71
+aVit's often the fault of those large institutions.
+p72
+aVOr at least, it's up to them to fix the problem.
+p73
+aVAnd a lot of times, they don't.
+p74
+aVThere's a lot of friction in the system.
+p75
+aVHow long did it take the US credit card companies
+p76
+aVto implement chip and pin?
+p77
+aVHalf my credit cards still don't work in Europe.
+p78
+aVThat's friction.
+p79
+aVTransferring money across borders and across currencies
+p80
+aVis really expensive:
+p81
+aVfriction.
+p82
+aVAn entrepreneur in India can set up an online business in minutes,
+p83
+aVbut it's hard for her to get loans and to get paid:
+p84
+aVfriction.
+p85
+aVOur access to digital money and our ability to freely transact
+p86
+aVis being held captive by these gatekeepers.
+p87
+aVAnd there's a lot of impediments in the system slowing things down.
+p88
+aa(lp89
+VThat's because digital money isn't really mine,
+p90
+aVit's entries in databases that belong to my bank,
+p91
+aVmy credit card company or my investment firm.
+p92
+aVAnd these companies have the right to say "no."
+p93
+aVIf I'm a PayPal merchant
+p94
+aVand PayPal wrongly flags me for fraud,
+p95
+aVthat's it.
+p96
+aVMy account gets frozen, and I can't get paid.
+p97
+aa(lp98
+VThese institutions are standing in the way of innovation.
+p99
+aVHow many of you use Facebook photos, Google Photos,
+p100
+aVInstagram?
+p101
+aVMy photos are everywhere.
+p102
+aVThey are on my phone, they're on my laptop,
+p103
+aVthey're on my old phone, they're in Dropbox.
+p104
+aVThey're on all these different websites and services.
+p105
+aVAnd most of these services don't work together.
+p106
+aVThey don't inter-operate.
+p107
+aVAnd as a result,
+p108
+aVmy photo library is a mess.
+p109
+aa(lp110
+VThe same thing happens
+p111
+aVwhen institutions control the money supply.
+p112
+aVA lot of these services don't inter-operate,
+p113
+aVand as a result, this blocks what we can do with payment.
+p114
+aVAnd it makes transaction costs go up.
+p115
+aVSo far, we've been through two phases of money.
+p116
+aVIn an analog world, we had to deal with these physical objects,
+p117
+aVand money moved at a certain speed \u2014 the speed of humans.
+p118
+aVIn a digital world, money can reach much farther and is much faster,
+p119
+aVbut we're at the mercy of these gatekeeper institutions.
+p120
+aVMoney only moves at the speed of banks.
+p121
+aa(lp122
+VWe're about to enter a new phase of money.
+p123
+aVThe future of money is programmable.
+p124
+aVWhen we combine software and currency,
+p125
+aVmoney becomes more than just a static unit of value,
+p126
+aVand we don't have to rely on institutions for security.
+p127
+aVIn a programmable world,
+p128
+aVwe remove humans and institutions from the loop.
+p129
+aVAnd when this happens,
+p130
+aVwe won't even feel like we're transacting anymore.
+p131
+aVMoney will be directed by software,
+p132
+aVand it will just safely and securely flow.
+p133
+aa(lp134
+VCryptocurrencies are the first step of this evolution.
+p135
+aVCryptocurrencies are digital money
+p136
+aVthat isn't run by any government or bank.
+p137
+aVIt's money designed to work in a world without intermediaries.
+p138
+aVBitcoin is the most ubiquitous cryptocurrency,
+p139
+aVbut there are hundreds of them.
+p140
+aVThere's Ethereum, Litecoin, Stellar, Dogecoin,
+p141
+aVand those are just a few of the more popular ones.
+p142
+aVAnd these things are real money.
+p143
+aVThe sushi restaurant down my street
+p144
+aVtakes Bitcoin.
+p145
+aVI have an app on my phone that I can use to buy sashimi.
+p146
+aVBut it's not just for small transactions.
+p147
+aVIn March, there was a transaction that moved around 100,000 bitcoins.
+p148
+aVThat's the equivalent of 40 million US dollars.
+p149
+aa(lp150
+VCryptocurrencies are based on a special field of mathematics
+p151
+aVcalled cryptography.
+p152
+aVCryptography is the study of how to secure communication,
+p153
+aVand it's about two really important things:
+p154
+aVmasking information so it can be hidden in plain sight,
+p155
+aVand verifying a piece of information's source.
+p156
+aVCryptography underpins so many of the systems around us.
+p157
+aVAnd it's so powerful that at times
+p158
+aVthe US government has actually classified it as a weapon.
+p159
+aa(lp160
+VDuring World War II, breaking cryptosystems like Enigma
+p161
+aVwas critical to decoding enemy transmissions
+p162
+aVand turning the tide of the war.
+p163
+aVToday, anyone with a modern web browser is running
+p164
+aVa pretty sophisticated cryptosystem.
+p165
+aVIt's what we use to secure our interactions on the Internet.
+p166
+aVIt's what makes it safe for us to type our passwords in
+p167
+aVand to send financial information to websites.
+p168
+aVSo what the banks used to give us \u2014
+p169
+aVtrustworthy digital money transfer \u2014
+p170
+aVwe can now get with a clever application of cryptography.
+p171
+aVAnd this means that we don't have to rely on the banks anymore
+p172
+aVto secure our transactions.
+p173
+aVWe can do it ourselves.
+p174
+aa(lp175
+VBitcoin is based on the very same idea that the Yap used,
+p176
+aVthis collective global knowledge of transfers.
+p177
+aVIn Bitcoin, I spend by transferring Bitcoin,
+p178
+aVand I get paid when someone transfers Bitcoin to me.
+p179
+aa(lp180
+VImagine that we had this magic paper.
+p181
+aVSo the way that this paper works is I can give you a sheet of it
+p182
+aVand if you write something on it,
+p183
+aVit will magically appear on my piece as well.
+p184
+aVLet's say we just give everyone this paper
+p185
+aVand everyone writes down the transfers that they're doing
+p186
+aVin the Bitcoin system.
+p187
+aVAll of these transfers get copied around to everyone else's pieces of paper.
+p188
+aVAnd I can look at mine
+p189
+aVand I'll have a list of all of the transfers that are happening
+p190
+aVin the entire Bitcoin economy.
+p191
+aVThis is actually what's happening with the Bitcoin blockchain,
+p192
+aVwhich is a list of all of the transactions in Bitcoin.
+p193
+aVExcept, it's not done through paper.
+p194
+aVIt's done through computer code,
+p195
+aVrunning on thousands of networked computers
+p196
+aVaround the world.
+p197
+aVAll of these computers are collectively confirming
+p198
+aVwho owns what Bitcoin.
+p199
+aVSo the Bitcoin blockchain is core to how Bitcoin works.
+p200
+aa(lp201
+VBut where do bitcoins actually come from?
+p202
+aVWell, the code is designed to create new Bitcoin
+p203
+aVaccording to a schedule.
+p204
+aVAnd the way that it works is that to get those Bitcoin,
+p205
+aVI have to solve a puzzle \u2014 a random cryptographic puzzle.
+p206
+aVImagine that we had 15 dice,
+p207
+aVand we were throwing these dice over and over again.
+p208
+aVWhenever the dice come up all sixes,
+p209
+aVwe say that we win.
+p210
+aVThis is very close to what these computers are all actually doing.
+p211
+aVThey're trying over and over again to land on the right number.
+p212
+aVAnd when they do,
+p213
+aVwe say that they've solved the puzzle.
+p214
+aa(lp215
+VThe computer that solves the puzzle
+p216
+aVpublishes its solution to the rest of the network
+p217
+aVand collects its reward: new bitcoins.
+p218
+aVAnd in the act of solving this puzzle,
+p219
+aVthese computers are actually helping to secure the Bitcoin blockchain
+p220
+aVand add to the list of transactions.
+p221
+aa(lp222
+VThere are actually people all over the world running this software,
+p223
+aVand we call them Bitcoin miners.
+p224
+aVAnyone can become a Bitcoin miner.
+p225
+aVYou can go download the software right now
+p226
+aVand run it in your computer and try to collect some bitcoins.
+p227
+aVI can't say that I would recommend it,
+p228
+aVbecause right now, the puzzle is so hard and the network is so powerful,
+p229
+aVthat if I tried to mine Bitcoin on my laptop,
+p230
+aVI probably wouldn't see any for about two million years.
+p231
+aVThe miners, professional miners, use this special hardware
+p232
+aVthat's designed to solve the puzzle really fast.
+p233
+aVNow, the Bitcoin network and all of this special hardware,
+p234
+aVthere are estimates that the amount of energy it uses
+p235
+aVis equivalent to that of a small country.
+p236
+aVSo, the first set of cryptocurrencies
+p237
+aVare a little bit slow and a little bit cumbersome.
+p238
+aVBut the next generation is going to be so much better and so much faster.
+p239
+aa(lp240
+VCryptocurrencies are the first step
+p241
+aVto a world with a global programmable money.
+p242
+aVAnd in a world with programmable money,
+p243
+aVI can pay anyone else securely
+p244
+aVwithout having to sign up or ask permission,
+p245
+aVor do a conversion or worry about my money getting stuck.
+p246
+aVAnd I can send money around the world.
+p247
+aVThis is a really amazing thing.
+p248
+aVIt's the idea of permission-less innovation.
+p249
+aVThe Internet caused an explosion of innovation,
+p250
+aVbecause it was built upon an open architecture.
+p251
+aVAnd just like the Internet changed the way we communicate,
+p252
+aVprogrammable money is going to change the way we pay,
+p253
+aVallocate and decide on value.
+p254
+aa(lp255
+VSo what kind of world does programmable money create?
+p256
+aVImagine a world where I can rent out my healthcare data
+p257
+aVto a pharmaceutical company.
+p258
+aVThey can run large-scale data analysis
+p259
+aVand provide me with a cryptographic proof
+p260
+aVthat shows they're only using my data in a way that we agreed.
+p261
+aVAnd they can pay me for what they find out.
+p262
+aVInstead of signing up for streaming services
+p263
+aVand getting a cable bill,
+p264
+aVwhat if my television analyzed my watching habits
+p265
+aVand recommended well-priced content that fit within my budget
+p266
+aVthat I would enjoy?
+p267
+aVImagine an Internet without ads,
+p268
+aVbecause instead of paying with our attention when we view content,
+p269
+aVwe just pay.
+p270
+aa(lp271
+VInterestingly, things like micro-payments
+p272
+aVare actually going to change the way security works in our world,
+p273
+aVbecause once we're better able to allocate value,
+p274
+aVpeople will use their money and their energies
+p275
+aVfor more constructive things.
+p276
+aVIf it cost a fraction of a cent to send an email,
+p277
+aVwould we still have spam?
+p278
+aa(lp279
+VWe're not at this world yet,
+p280
+aVbut it's coming.
+p281
+aVRight now, it's like we're in a world that is seeing the first automobile.
+p282
+aVThe first cryptocurrency, like the first car,
+p283
+aVis slow and hard to understand and hard to use.
+p284
+aVDigital money, like the horse and carriage,
+p285
+aVworks pretty well,
+p286
+aVand the whole world economy is built on it.
+p287
+aVIf you were the first person on your block
+p288
+aVto get a car with an internal combustion engine,
+p289
+aVyour neighbors would probably think you were crazy:
+p290
+aV"Why would you want this large, clunky machine
+p291
+aVthat breaks down all the time, that lights on fire,
+p292
+aVand is still slower than a horse?"
+p293
+aVBut we all know how that story turns out.
+p294
+aa(lp295
+VWe're entering a new era of programmable money.
+p296
+aVAnd it's very exciting, but it's also a little bit scary.
+p297
+aVCryptocurrencies can be used for illegal transactions,
+p298
+aVjust like cash is used for crime in the world today.
+p299
+aVWhen all of our transactions are online,
+p300
+aVwhat does that mean for surveillance \u2014 who can see what we do?
+p301
+aVWho's advantaged in this new world and who isn't?
+p302
+aVWill I have to start to pay for things that I didn't have to pay for before?
+p303
+aVWill we all become slaves to algorithms and utility functions?
+p304
+aa(lp305
+VAll new technology comes with trade-offs.
+p306
+aVThe Internet brought us a lot of ways to waste time.
+p307
+aVBut it also greatly increased productivity.
+p308
+aVMobile phones are annoying
+p309
+aVbecause they make me feel like I have to stay connected to work
+p310
+aVall the time.
+p311
+aVBut they also help me stay connected to friends and family.
+p312
+aVThe new sharing economy is going to eliminate some jobs.
+p313
+aVBut it's also going to create new, flexible forms of employment.
+p314
+aVWith programmable money,
+p315
+aVwe decouple the need for large, trusted institutions
+p316
+aVfrom the architecture of the network.
+p317
+aVAnd this pushes innovation in money out to the edges, where it belongs.
+p318
+aVProgrammable money democratizes money.
+p319
+aVAnd because of this, things are going to change and unfold
+p320
+aVin ways that we can't even predict.
+p321
+aa(lp322
+VThank you.
+p323
+aa(lp324
+V(Applause)
+p325
+aasS'id'
+p326
+I2554
+sS'title'
+p327
+VThe future of money
+p328
+s.

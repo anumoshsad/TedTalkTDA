@@ -1,0 +1,803 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhat I'm going to try and do in the next 15 minutes or so
+p4
+aVis tell you about an idea
+p5
+aVof how we're going to make matter come alive.
+p6
+aVNow this may seem a bit ambitious,
+p7
+aVbut when you look at yourself, you look at your hands,
+p8
+aVyou realize that you're alive.
+p9
+aVSo this is a start.
+p10
+aVNow this quest started four billion years ago on planet Earth.
+p11
+aVThere's been four billion years
+p12
+aVof organic, biological life.
+p13
+aVAnd as an inorganic chemist,
+p14
+aVmy friends and colleagues make this distinction
+p15
+aVbetween the organic, living world
+p16
+aVand the inorganic, dead world.
+p17
+aVAnd what I'm going to try and do is plant some ideas
+p18
+aVabout how we can transform inorganic, dead matter
+p19
+aVinto living matter, into inorganic biology.
+p20
+aa(lp21
+VBefore we do that,
+p22
+aVI want to kind of put biology in its place.
+p23
+aVAnd I'm absolutely enthralled by biology.
+p24
+aVI love to do synthetic biology.
+p25
+aVI love things that are alive.
+p26
+aVI love manipulating the infrastructure of biology.
+p27
+aVBut within that infrastructure,
+p28
+aVwe have to remember
+p29
+aVthat the driving force of biology
+p30
+aVis really coming from evolution.
+p31
+aVAnd evolution,
+p32
+aValthough it was established well over 100 years ago by Charles Darwin
+p33
+aVand a vast number of other people,
+p34
+aVevolution still is a little bit intangible.
+p35
+aVAnd when I talk about Darwinian evolution,
+p36
+aVI mean one thing and one thing only,
+p37
+aVand that is survival of the fittest.
+p38
+aVAnd so forget about evolution
+p39
+aVin a kind of metaphysical way.
+p40
+aVThink about evolution
+p41
+aVin terms of offspring competing,
+p42
+aVand some winning.
+p43
+aa(lp44
+VSo bearing that in mind,
+p45
+aVas a chemist, I wanted to ask myself
+p46
+aVthe question frustrated by biology:
+p47
+aVWhat is the minimal unit of matter
+p48
+aVthat can undergo Darwinian evolution?
+p49
+aVAnd this seems quite a profound question.
+p50
+aVAnd as a chemist,
+p51
+aVwe're not used to profound questions every day.
+p52
+aVSo when I thought about it,
+p53
+aVthen suddenly I realized
+p54
+aVthat biology gave us the answer.
+p55
+aVAnd in fact, the smallest unit of matter
+p56
+aVthat can evolve independently
+p57
+aVis, in fact, a single cell \u2014
+p58
+aVa bacteria.
+p59
+aa(lp60
+VSo this raises three really important questions:
+p61
+aVWhat is life?
+p62
+aVIs biology special?
+p63
+aVBiologists seem to think so.
+p64
+aVIs matter evolvable?
+p65
+aVNow if we answer those questions in reverse order,
+p66
+aVthe third question \u2014 is matter evolvable? \u2014
+p67
+aVif we can answer that,
+p68
+aVthen we're going to know how special biology is,
+p69
+aVand maybe, just maybe,
+p70
+aVwe'll have some idea of what life really is.
+p71
+aa(lp72
+VSo here's some inorganic life.
+p73
+aVThis is a dead crystal,
+p74
+aVand I'm going to do something to it,
+p75
+aVand it's going to become alive.
+p76
+aVAnd you can see,
+p77
+aVit's kind of pollinating, germinating, growing.
+p78
+aVThis is an inorganic tube.
+p79
+aVAnd all these crystals here under the microscope
+p80
+aVwere dead a few minutes ago, and they look alive.
+p81
+aVOf course, they're not alive.
+p82
+aVIt's a chemistry experiment where I've made a crystal garden.
+p83
+aVBut when I saw this, I was really fascinated,
+p84
+aVbecause it seemed lifelike.
+p85
+aVAnd as I pause for a few seconds, have a look at the screen.
+p86
+aVYou can see there's architecture growing, filling the void.
+p87
+aVAnd this is dead.
+p88
+aVSo I was positive that,
+p89
+aVif somehow we can make things mimic life,
+p90
+aVlet's go one step further.
+p91
+aVLet's see if we can actually make life.
+p92
+aa(lp93
+VBut there's a problem,
+p94
+aVbecause up until maybe a decade ago,
+p95
+aVwe were told that life was impossible
+p96
+aVand that we were the most incredible miracle in the universe.
+p97
+aVIn fact, we were the only people
+p98
+aVin the universe.
+p99
+aVNow, that's a bit boring.
+p100
+aVSo as a chemist,
+p101
+aVI wanted to say, "Hang on. What is going on here?
+p102
+aVIs life that improbable?"
+p103
+aVAnd this is really the question.
+p104
+aVI think that perhaps the emergence of the first cells
+p105
+aVwas as probable as the emergence of the stars.
+p106
+aVAnd in fact, let's take that one step further.
+p107
+aVLet's say
+p108
+aVthat if the physics of fusion
+p109
+aVis encoded into the universe,
+p110
+aVmaybe the physics of life is as well.
+p111
+aVAnd so the problem with chemists \u2014
+p112
+aVand this is a massive advantage as well \u2014
+p113
+aVis we like to focus on our elements.
+p114
+aVIn biology, carbon takes center stage.
+p115
+aVAnd in a universe where carbon exists
+p116
+aVand organic biology,
+p117
+aVthen we have all this wonderful diversity of life.
+p118
+aVIn fact, we have such amazing lifeforms that we can manipulate.
+p119
+aVWe're awfully careful in the lab
+p120
+aVto try and avoid various biohazards.
+p121
+aa(lp122
+VWell what about matter?
+p123
+aVIf we can make matter alive, would we have a matterhazard?
+p124
+aVSo think, this is a serious question.
+p125
+aVIf your pen could replicate,
+p126
+aVthat would be a bit of a problem.
+p127
+aVSo we have to think differently
+p128
+aVif we're going to make stuff come alive.
+p129
+aVAnd we also have to be aware of the issues.
+p130
+aVBut before we can make life,
+p131
+aVlet's think for a second
+p132
+aVwhat life really is characterized by.
+p133
+aVAnd forgive the complicated diagram.
+p134
+aVThis is just a collection of pathways in the cell.
+p135
+aVAnd the cell is obviously for us
+p136
+aVa fascinating thing.
+p137
+aVSynthetic biologists are manipulating it.
+p138
+aVChemists are trying to study the molecules to look at disease.
+p139
+aVAnd you have all these pathways going on at the same time.
+p140
+aVYou have regulation;
+p141
+aVinformation is transcribed;
+p142
+aVcatalysts are made; stuff is happening.
+p143
+aVBut what does a cell do?
+p144
+aVWell it divides, it competes,
+p145
+aVit survives.
+p146
+aVAnd I think that is where we have to start
+p147
+aVin terms of thinking about
+p148
+aVbuilding from our ideas in life.
+p149
+aa(lp150
+VBut what else is life characterized by?
+p151
+aVWell, I like think of it
+p152
+aVas a flame in a bottle.
+p153
+aVAnd so what we have here
+p154
+aVis a description of single cells
+p155
+aVreplicating, metabolizing,
+p156
+aVburning through chemistries.
+p157
+aVAnd so we have to understand
+p158
+aVthat if we're going to make artificial life or understand the origin of life,
+p159
+aVwe need to power it somehow.
+p160
+aVSo before we can really start to make life,
+p161
+aVwe have to really think about where it came from.
+p162
+aVAnd Darwin himself mused in a letter to a colleague
+p163
+aVthat he thought that life probably emerged
+p164
+aVin some warm little pond somewhere \u2014
+p165
+aVmaybe not in Scotland, maybe in Africa,
+p166
+aVmaybe somewhere else.
+p167
+aVBut the real honest answer is, we just don't know,
+p168
+aVbecause there is a problem with the origin.
+p169
+aVImagine way back, four and a half billion years ago,
+p170
+aVthere is a vast chemical soup of stuff.
+p171
+aVAnd from this stuff we came.
+p172
+aa(lp173
+VSo when you think about the improbable nature
+p174
+aVof what I'm going to tell you in the next few minutes,
+p175
+aVjust remember,
+p176
+aVwe came from stuff on planet Earth.
+p177
+aVAnd we went through a variety of worlds.
+p178
+aVThe RNA people would talk about the RNA world.
+p179
+aVWe somehow got to proteins and DNA.
+p180
+aVWe then got to the last ancestor.
+p181
+aVEvolution kicked in \u2014 and that's the cool bit.
+p182
+aVAnd here we are.
+p183
+aVBut there's a roadblock that you can't get past.
+p184
+aVYou can decode the genome, you can look back,
+p185
+aVyou can link us all together by a mitochondrial DNA,
+p186
+aVbut we can't get further than the last ancestor,
+p187
+aVthe last visible cell
+p188
+aVthat we could sequence or think back in history.
+p189
+aVSo we don't know how we got here.
+p190
+aa(lp191
+VSo there are two options:
+p192
+aVintelligent design, direct and indirect \u2014
+p193
+aVso God,
+p194
+aVor my friend.
+p195
+aVNow talking about E.T. putting us there, or some other life,
+p196
+aVjust pushes the problem further on.
+p197
+aVI'm not a politician, I'm a scientist.
+p198
+aVThe other thing we need to think about
+p199
+aVis the emergence of chemical complexity.
+p200
+aVThis seems most likely.
+p201
+aVSo we have some kind of primordial soup.
+p202
+aVAnd this one happens to be
+p203
+aVa good source of all 20 amino acids.
+p204
+aVAnd somehow
+p205
+aVthese amino acids are combined,
+p206
+aVand life begins.
+p207
+aVBut life begins, what does that mean?
+p208
+aVWhat is life? What is this stuff of life?
+p209
+aa(lp210
+VSo in the 1950s,
+p211
+aVMiller-Urey did their fantastic chemical Frankenstein experiment,
+p212
+aVwhere they did the equivalent in the chemical world.
+p213
+aVThey took the basic ingredients, put them in a single jar
+p214
+aVand ignited them
+p215
+aVand put a lot of voltage through.
+p216
+aVAnd they had a look at what was in the soup,
+p217
+aVand they found amino acids,
+p218
+aVbut nothing came out, there was no cell.
+p219
+aVSo the whole area's been stuck for a while,
+p220
+aVand it got reignited in the '80s
+p221
+aVwhen analytical technologies and computer technologies were coming on.
+p222
+aa(lp223
+VIn my own laboratory,
+p224
+aVthe way we're trying to create inorganic life
+p225
+aVis by using many different reaction formats.
+p226
+aVSo what we're trying to do is do reactions \u2014
+p227
+aVnot in one flask, but in tens of flasks,
+p228
+aVand connect them together,
+p229
+aVas you can see with this flow system, all these pipes.
+p230
+aVWe can do it microfluidically, we can do it lithographically,
+p231
+aVwe can do it in a 3D printer,
+p232
+aVwe can do it in droplets for colleagues.
+p233
+aVAnd the key thing is to have lots of complex chemistry
+p234
+aVjust bubbling away.
+p235
+aVBut that's probably going to end in failure,
+p236
+aVso we need to be a bit more focused.
+p237
+aa(lp238
+VAnd the answer, of course, lies with mice.
+p239
+aVThis is how I remember what I need as a chemist.
+p240
+aVI say, "Well I want molecules."
+p241
+aVBut I need a metabolism, I need some energy.
+p242
+aVI need some information, and I need a container.
+p243
+aVBecause if I want evolution,
+p244
+aVI need containers to compete.
+p245
+aVSo if you have a container,
+p246
+aVit's like getting in your car.
+p247
+aV"This is my car,
+p248
+aVand I'm going to drive around and show off my car."
+p249
+aVAnd I imagine you have a similar thing
+p250
+aVin cellular biology
+p251
+aVwith the emergence of life.
+p252
+aVSo these things together give us evolution, perhaps.
+p253
+aVAnd the way to test it in the laboratory
+p254
+aVis to make it minimal.
+p255
+aa(lp256
+VSo what we're going to try and do
+p257
+aVis come up with an inorganic Lego kit of molecules.
+p258
+aVAnd so forgive the molecules on the screen,
+p259
+aVbut these are a very simple kit.
+p260
+aVThere's only maybe three or four different types of building blocks present.
+p261
+aVAnd we can aggregate them together
+p262
+aVand make literally thousands and thousands
+p263
+aVof really big nano-molecular molecules
+p264
+aVthe same size of DNA and proteins,
+p265
+aVbut there's no carbon in sight.
+p266
+aVCarbon is banned.
+p267
+aVAnd so with this Lego kit,
+p268
+aVwe have the diversity required
+p269
+aVfor complex information storage
+p270
+aVwithout DNA.
+p271
+aVBut we need to make some containers.
+p272
+aVAnd just a few months ago in my lab,
+p273
+aVwe were able to take these very same molecules and make cells with them.
+p274
+aVAnd you can see on the screen a cell being made.
+p275
+aVAnd we're now going to put some chemistry inside and do some chemistry in this cell.
+p276
+aVAnd all I wanted to show you
+p277
+aVis we can set up molecules
+p278
+aVin membranes, in real cells,
+p279
+aVand then it sets up a kind of molecular Darwinism,
+p280
+aVa molecular survival of the fittest.
+p281
+aa(lp282
+VAnd this movie here
+p283
+aVshows this competition between molecules.
+p284
+aVMolecules are competing for stuff.
+p285
+aVThey're all made of the same stuff,
+p286
+aVbut they want their shape to win.
+p287
+aVThey want their shape to persist.
+p288
+aVAnd that is the key.
+p289
+aVIf we can somehow encourage these molecules
+p290
+aVto talk to each other and make the right shapes and compete,
+p291
+aVthey will start to form cells
+p292
+aVthat will replicate and compete.
+p293
+aVIf we manage to do that,
+p294
+aVforget the molecular detail.
+p295
+aa(lp296
+VLet's zoom out to what that could mean.
+p297
+aVSo we have this special theory of evolution
+p298
+aVthat applies only to organic biology, to us.
+p299
+aVIf we could get evolution into the material world,
+p300
+aVthen I propose we should have a general theory of evolution.
+p301
+aVAnd that's really worth thinking about.
+p302
+aVDoes evolution control
+p303
+aVthe sophistication of matter in the universe?
+p304
+aVIs there some driving force through evolution
+p305
+aVthat allows matter to compete?
+p306
+aVSo that means we could then start
+p307
+aVto develop different platforms
+p308
+aVfor exploring this evolution.
+p309
+aVSo you imagine,
+p310
+aVif we're able to create a self-sustaining artificial life form,
+p311
+aVnot only will this tell us about the origin of life \u2014
+p312
+aVthat it's possible that the universe doesn't need carbon to be alive;
+p313
+aVit can use anything \u2014
+p314
+aVwe can then take [it] one step further and develop new technologies,
+p315
+aVbecause we can then use software control
+p316
+aVfor evolution to code in.
+p317
+aa(lp318
+VSo imagine we make a little cell.
+p319
+aVWe want to put it out in the environment,
+p320
+aVand we want it to be powered by the Sun.
+p321
+aVWhat we do is we evolve it in a box with a light on.
+p322
+aVAnd we don't use design anymore. We find what works.
+p323
+aVWe should take our inspiration from biology.
+p324
+aVBiology doesn't care about the design
+p325
+aVunless it works.
+p326
+aVSo this will reorganize
+p327
+aVthe way we design things.
+p328
+aVBut not only just that,
+p329
+aVwe will start to think about
+p330
+aVhow we can start to develop a symbiotic relationship with biology.
+p331
+aVWouldn't it be great
+p332
+aVif you could take these artificial biological cells
+p333
+aVand fuse them with biological ones
+p334
+aVto correct problems that we couldn't really deal with?
+p335
+aVThe real issue in cellular biology
+p336
+aVis we are never going to understand everything,
+p337
+aVbecause it's a multidimensional problem put there by evolution.
+p338
+aVEvolution cannot be cut apart.
+p339
+aVYou need to somehow find the fitness function.
+p340
+aVAnd the profound realization for me
+p341
+aVis that, if this works,
+p342
+aVthe concept of the selfish gene gets kicked up a level,
+p343
+aVand we really start talking about selfish matter.
+p344
+aa(lp345
+VAnd what does that mean in a universe
+p346
+aVwhere we are right now the highest form of stuff?
+p347
+aVYou're sitting on chairs.
+p348
+aVThey're inanimate, they're not alive.
+p349
+aVBut you are made of stuff, and you are using stuff,
+p350
+aVand you enslave stuff.
+p351
+aVSo using evolution
+p352
+aVin biology,
+p353
+aVand in inorganic biology,
+p354
+aVfor me is quite appealing, quite exciting.
+p355
+aVAnd we're really becoming very close
+p356
+aVto understanding the key steps
+p357
+aVthat makes dead stuff come alive.
+p358
+aVAnd again, when you're thinking about how improbable this is,
+p359
+aVremember, five billion years ago,
+p360
+aVwe were not here, and there was no life.
+p361
+aVSo what will that tell us
+p362
+aa(lp363
+Vabout the origin of life and the meaning of life?
+p364
+aVBut perhaps, for me as a chemist,
+p365
+aVI want to keep away from general terms;
+p366
+aVI want to think about specifics.
+p367
+aVSo what does it mean about defining life?
+p368
+aVWe really struggle to do this.
+p369
+aVAnd I think, if we can make inorganic biology,
+p370
+aVand we can make matter become evolvable,
+p371
+aVthat will in fact define life.
+p372
+aVI propose to you
+p373
+aVthat matter that can evolve is alive,
+p374
+aVand this gives us the idea of making evolvable matter.
+p375
+aa(lp376
+VThank you very much.
+p377
+aa(lp378
+V(Applause)
+p379
+aa(lp380
+VChris Anderson: Just a quick question on timeline.
+p381
+aVYou believe you're going to be successful in this project?
+p382
+aVWhen?
+p383
+aa(lp384
+VLee Cronin: So many people think
+p385
+aVthat life took millions of years to kick in.
+p386
+aVWe're proposing to do it in just a few hours,
+p387
+aVonce we've set up
+p388
+aVthe right chemistry.
+p389
+aa(lp390
+VCA: And when do you think that will happen?
+p391
+aa(lp392
+VLC: Hopefully within the next two years.
+p393
+aa(lp394
+VCA: That would be a big story.
+p395
+aV(Laughter)
+p396
+aVIn your own mind, what do you believe the chances are
+p397
+aVthat walking around on some other planet
+p398
+aVis non-carbon-based life,
+p399
+aVwalking or oozing or something?
+p400
+aa(lp401
+VLC: I think it's 100 percent.
+p402
+aVBecause the thing is, we are so chauvinistic to biology,
+p403
+aVif you take away carbon, there's other things that can happen.
+p404
+aVSo the other thing
+p405
+aVthat if we were able to create life that's not based on carbon,
+p406
+aVmaybe we can tell NASA what really to look for.
+p407
+aVDon't go and look for carbon, go and look for evolvable stuff.
+p408
+aa(lp409
+VCA: Lee Cronin, good luck. (LC: Thank you very much.)
+p410
+aa(lp411
+V(Applause)
+p412
+aasS'id'
+p413
+I1218
+sS'title'
+p414
+VMaking matter come alive
+p415
+s.

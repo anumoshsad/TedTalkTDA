@@ -1,0 +1,537 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VFor the past few years,
+p4
+aVI've been spending my summers in the marine biological laboratory
+p5
+aVin Woods Hole, Massachusetts.
+p6
+aVAnd there, what I've been doing is essentially renting a boat.
+p7
+aVWhat I would like to do is ask you
+p8
+aVto come on a boat ride with me tonight.
+p9
+aa(lp10
+VSo, we ride off from Eel Pond into Vineyard Sound,
+p11
+aVright off the coast of Martha's Vineyard,
+p12
+aVequipped with a drone to identify potential spots
+p13
+aVfrom which to peer into the Atlantic.
+p14
+aVEarlier, I was going to say into the depths of the Atlantic,
+p15
+aVbut we don't have to go too deep to reach the unknown.
+p16
+aVHere, barely two miles away
+p17
+aVfrom what is arguably the greatest marine biology lab in the world,
+p18
+aVwe lower a simple plankton net into the water
+p19
+aVand bring up to the surface
+p20
+aVthings that humanity rarely pays any attention to,
+p21
+aVand oftentimes has never seen before.
+p22
+aa(lp23
+VHere's one of the organisms that we caught in our net.
+p24
+aVThis is a jellyfish.
+p25
+aVBut look closely,
+p26
+aVand living inside of this animal is another organism
+p27
+aVthat is very likely entirely new to science.
+p28
+aVA complete new species.
+p29
+aVOr how about this other transparent beauty
+p30
+aVwith a beating heart,
+p31
+aVasexually growing on top of its head,
+p32
+aVprogeny that will move on to reproduce sexually.
+p33
+aVLet me say that again:
+p34
+aVthis animal is growing asexually on top of its head,
+p35
+aVprogeny that is going to reproduce sexually in the next generation.
+p36
+aVA weird jellyfish?
+p37
+aVNot quite.
+p38
+aVThis is an ascidian.
+p39
+aVThis is a group of animals
+p40
+aVthat now we know we share extensive genomic ancestry with,
+p41
+aVand it is perhaps the closest invertebrate species to our own.
+p42
+aVMeet your cousin,
+p43
+aVThalia democratica.
+p44
+aa(lp45
+V(Laughter)
+p46
+aa(lp47
+VI'm pretty sure you didn't save a spot at your last family reunion
+p48
+aVfor Thalia,
+p49
+aVbut let me tell you,
+p50
+aVthese animals are profoundly related to us
+p51
+aVin ways that we're just beginning to understand.
+p52
+aVSo, next time you hear anybody derisively telling you
+p53
+aVthat this type of research is a simple fishing expedition,
+p54
+aVI hope that you'll remember the trip that we just took.
+p55
+aa(lp56
+VToday, many of the biological sciences only see value
+p57
+aVin studying deeper what we already know \u2014
+p58
+aVin mapping already-discovered continents.
+p59
+aVBut some of us are much more interested in the unknown.
+p60
+aVWe want to discover completely new continents,
+p61
+aVand gaze at magnificent vistas of ignorance.
+p62
+aVWe crave the experience of being completely baffled
+p63
+aVby something we've never seen before.
+p64
+aVAnd yes, I agree
+p65
+aVthere's a lot of little ego satisfaction in being able to say,
+p66
+aV"Hey, I was the first one to discover that."
+p67
+aVBut this is not a self-aggrandizing enterprise,
+p68
+aVbecause in this type of discovery research,
+p69
+aVif you don't feel like a complete idiot most of the time,
+p70
+aVyou're just not sciencing hard enough.
+p71
+aa(lp72
+V(Laughter)
+p73
+aa(lp74
+VSo every summer I bring onto the deck of this little boat of ours
+p75
+aVmore and more things that we know very little about.
+p76
+aVI would like tonight to tell you a story about life
+p77
+aVthat rarely gets told in an environment like this.
+p78
+aVFrom the vantage point of our 21st-century biological laboratories,
+p79
+aVwe have begun to illuminate many mysteries of life with knowledge.
+p80
+aVWe sense that after centuries of scientific research,
+p81
+aVwe're beginning to make significant inroads
+p82
+aVinto understanding some of the most fundamental principles of life.
+p83
+aa(lp84
+VOur collective optimism is reflected by the growth of biotechnology
+p85
+aVacross the globe,
+p86
+aVstriving to utilize scientific knowledge to cure human diseases.
+p87
+aVThings like cancer, aging, degenerative diseases;
+p88
+aVthese are but some of the undesirables we wish to tame.
+p89
+aVI often wonder:
+p90
+aVWhy is it that we are having so much trouble
+p91
+aVtrying to solve the problem of cancer?
+p92
+aVIs it that we're trying to solve the problem of cancer,
+p93
+aVand not trying to understand life?
+p94
+aa(lp95
+VLife on this planet shares a common origin,
+p96
+aVand I can summarize 3.5 billion years of the history of life on this planet
+p97
+aVin a single slide.
+p98
+aVWhat you see here are representatives of all known species in our planet.
+p99
+aVIn this immensity of life and biodiversity,
+p100
+aVwe occupy a rather unremarkable position.
+p101
+aa(lp102
+V(Laughter)
+p103
+aa(lp104
+VHomo sapiens.
+p105
+aVThe last of our kind.
+p106
+aVAnd though I don't really want to disparage at all
+p107
+aVthe accomplishments of our species,
+p108
+aVas much as we wish it to be so and often pretend that it is,
+p109
+aVwe are not the measure of all things.
+p110
+aVWe are, however, the measurers of many things.
+p111
+aVWe relentlessly quantify, analyze and compare,
+p112
+aVand some of this is absolutely invaluable and indeed necessary.
+p113
+aa(lp114
+VBut this emphasis today on forcing biological research to specialize
+p115
+aVand to produce practical outcomes
+p116
+aVis actually restricting our ability to interrogate life
+p117
+aVto unacceptably narrow confines and unsatisfying depths.
+p118
+aVWe are measuring an astonishingly narrow sliver of life,
+p119
+aVand hoping that those numbers will save all of our lives.
+p120
+aVHow narrow do you ask?
+p121
+aVWell, let me give you a number.
+p122
+aVThe National Oceanic and Atmospheric Administration recently estimated
+p123
+aVthat about 95 percent of our oceans remain unexplored.
+p124
+aVNow let that sink in for a second.
+p125
+aV95 percent of our oceans remain unexplored.
+p126
+aVI think it's very safe to say
+p127
+aVthat we don't even know how much about life we do not know.
+p128
+aa(lp129
+VSo, it's not surprising that every week in my field
+p130
+aVwe begin to see the addition of more and more new species
+p131
+aVto this amazing tree of life.
+p132
+aVThis one for example \u2014
+p133
+aVdiscovered earlier this summer,
+p134
+aVnew to science,
+p135
+aVand now occupying its lonely branch in our family tree.
+p136
+aVWhat is even more tragic
+p137
+aVis that we know about a bunch of other species of animals out there,
+p138
+aVbut their biology remains sorely under-studied.
+p139
+aa(lp140
+VI'm sure some of you have heard about the fact
+p141
+aVthat a starfish can actually regenerate its arm after it's lost.
+p142
+aVBut some of you might not know
+p143
+aVthat the arm itself can actually regenerate a complete starfish.
+p144
+aVAnd there are animals out there that do truly astounding things.
+p145
+aVI'm almost willing to bet
+p146
+aVthat many of you have never heard of the flatworm, Schmidtea mediterranea.
+p147
+aVThis little guy right here
+p148
+aVdoes things that essentially just blow my mind.
+p149
+aVYou can grab one of these animals and cut it into 18 different fragments,
+p150
+aVand each and every one of those fragments will go on to regenerate
+p151
+aVa complete animal
+p152
+aVin under two weeks.
+p153
+aV18 heads, 18 bodies, 18 mysteries.
+p154
+aVFor the past decade and a half or so,
+p155
+aVI've been trying to figure out how these little dudes do what they do,
+p156
+aVand how they pull this magic trick off.
+p157
+aVBut like all good magicians,
+p158
+aVthey're not really releasing their secrets readily to me.
+p159
+aa(lp160
+V(Laughter)
+p161
+aa(lp162
+VSo here we are,
+p163
+aVafter 20 years of essentially studying these animals,
+p164
+aVgenome mapping, chin scratching,
+p165
+aVand thousands of amputations and thousands of regenerations,
+p166
+aVwe still don't fully understand how these animals do what they do.
+p167
+aVEach planarian an ocean unto itself,
+p168
+aVfull of unknowns.
+p169
+aa(lp170
+VOne of the common characteristics
+p171
+aVof all of these animals I've been talking to you about
+p172
+aVis that they did not appear to have received the memo
+p173
+aVthat they need to behave according to the rules
+p174
+aVthat we have derived from a handful of randomly selected animals
+p175
+aVthat currently populate the vast majority
+p176
+aVof biomedical laboratories across the world.
+p177
+aVMeet our Nobel Prize winners.
+p178
+aVSeven species, essentially,
+p179
+aVthat have produced for us the brunt of our understanding
+p180
+aVof biological behavior today.
+p181
+aVThis little guy right here \u2014
+p182
+aVthree Nobel Prizes in 12 years.
+p183
+aVAnd yet, after all the attention they have garnered,
+p184
+aVand all the knowledge they have generated,
+p185
+aVas well as the lion's share of the funding,
+p186
+aVhere we are standing [before] the same litany of intractable problems
+p187
+aVand many new challenges.
+p188
+aVAnd that's because, unfortunately,
+p189
+aVthese seven animals essentially correspond
+p190
+aVto 0.0009 percent of all of the species that inhabit the planet.
+p191
+aa(lp192
+VSo I'm beginning to suspect
+p193
+aVthat our specialization is beginning to impede our progress at best,
+p194
+aVand at worst, is leading us astray.
+p195
+aVThat's because life on this planet and its history
+p196
+aVis the history of rule breakers.
+p197
+aVLife started on the face of this planet as single-cell organisms,
+p198
+aVswimming for millions of years in the ocean,
+p199
+aVuntil one of those creatures decided,
+p200
+aV"I'm going to do things differently today;
+p201
+aVtoday I would like to invent something called multicellularity,
+p202
+aVand I'm going to do this."
+p203
+aVAnd I'm sure it wasn't a popular decision at the time \u2014
+p204
+aa(lp205
+V(Laughter)
+p206
+aa(lp207
+Vbut somehow, it managed to do it.
+p208
+aVAnd then, multicellular organisms began to populate
+p209
+aVall these ancestral oceans,
+p210
+aVand they thrived.
+p211
+aVAnd we have them here today.
+p212
+aVLand masses began to emerge from the surface of the oceans,
+p213
+aVand another creature thought,
+p214
+aV"Hey, that looks like a really nice piece of real estate.
+p215
+aVI'd like to move there."
+p216
+aV"Are you crazy?
+p217
+aVYou're going to desiccate out there. Nothing can live out of water."
+p218
+aVBut life found a way,
+p219
+aVand there are organisms now that live on land.
+p220
+aVOnce on land, they may have looked up into the sky
+p221
+aVand said, "It would be nice to go to the clouds,
+p222
+aVI'm going to fly."
+p223
+aV"You can't break the law of gravity, there's no way you can fly."
+p224
+aVAnd yet, nature has invented \u2014
+p225
+aVmultiple and independent times \u2014
+p226
+aVways to fly.
+p227
+aa(lp228
+VI love to study these animals that break the rules,
+p229
+aVbecause every time they break a rule, they invent something new
+p230
+aVthat made it possible for us to be able to be here today.
+p231
+aVThese animals did not get the memo.
+p232
+aVThey break the rules.
+p233
+aVSo if we're going to study animals that break the rules,
+p234
+aVshouldn't how we study them also break the rules?
+p235
+aa(lp236
+VI think we need to renew our spirit of exploration.
+p237
+aVRather than bring nature into our laboratories
+p238
+aVand interrogate it there,
+p239
+aVwe need to bring our science
+p240
+aVinto the majestic laboratory that is nature,
+p241
+aVand there, with our modern technological armamentarium,
+p242
+aVinterrogate every new form of life we find,
+p243
+aVand any new biological attribute that we may find.
+p244
+aVWe actually need to bring all of our intelligence
+p245
+aVto becoming stupid again \u2014
+p246
+aVclueless [before] the immensity of the unknown.
+p247
+aVBecause after all,
+p248
+aVscience is not really about knowledge.
+p249
+aVScience is about ignorance.
+p250
+aVThat's what we do.
+p251
+aa(lp252
+VOnce, Antoine de Saint-Exupéry wrote,
+p253
+aV"If you want to build a ship,
+p254
+aVdon't drum up people to collect wood
+p255
+aVand don't assign them tasks and work,
+p256
+aVbut rather teach them to long for the endless immensity of the sea ..."
+p257
+aVAs a scientist and a teacher,
+p258
+aVI like to paraphrase this to read
+p259
+aVthat we scientists need to teach our students
+p260
+aVto long for the endless immensity of the sea
+p261
+aVthat is our ignorance.
+p262
+aVWe Homo sapiens are the only species we know of
+p263
+aVthat is driven to scientific inquiry.
+p264
+aVWe, like all other species on this planet,
+p265
+aVare inextricably woven into the history of life on this planet.
+p266
+aVAnd I think I'm a little wrong when I say that life is a mystery,
+p267
+aVbecause I think that life is actually an open secret
+p268
+aVthat has been beckoning our species for millennia to understand it.
+p269
+aa(lp270
+VSo I ask you:
+p271
+aVAren't we the best chance that life has to know itself?
+p272
+aVAnd if so,
+p273
+aVwhat the heck are we waiting for?
+p274
+aa(lp275
+VThank you.
+p276
+aa(lp277
+V(Applause)
+p278
+aasS'id'
+p279
+I2663
+sS'title'
+p280
+VTo solve old problems, study new species
+p281
+s.

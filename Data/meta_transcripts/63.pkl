@@ -1,0 +1,902 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhat I'm going to do, in the spirit of collaborative creativity,
+p4
+aVis simply repeat many of the points
+p5
+aVthat the three people before me have already made,
+p6
+aVbut do them \u2014
+p7
+aVthis is called "creative collaboration;"
+p8
+aVit's actually called "borrowing" \u2014
+p9
+aVbut do it through a particular perspective,
+p10
+aVand that is to ask about the role of users and consumers
+p11
+aVin this emerging world of
+p12
+aVcollaborative creativity
+p13
+aVthat Jimmy and others have talked about.
+p14
+aa(lp15
+VLet me just ask you, to start with,
+p16
+aVthis simple question:
+p17
+aVwho invented the mountain bike?
+p18
+aVBecause traditional economic theory would say,
+p19
+aVwell, the mountain bike was probably invented by some big bike corporation
+p20
+aVthat had a big R&D lab
+p21
+aVwhere they were thinking up new projects,
+p22
+aVand it came out of there. It didn't come from there.
+p23
+aVAnother answer might be, well, it came from a sort of lone genius
+p24
+aVworking in his garage, who,
+p25
+aVworking away on different kinds of bikes, comes up
+p26
+aVwith a bike out of thin air.
+p27
+aa(lp28
+VIt didn't come from there. The mountain bike
+p29
+aVcame from users, came from young users,
+p30
+aVparticularly a group in Northern California,
+p31
+aVwho were frustrated with traditional racing bikes,
+p32
+aVwhich were those sort of bikes that Eddy Merckx rode,
+p33
+aVor your big brother, and they're very glamorous.
+p34
+aVBut also frustrated with the bikes that your dad rode,
+p35
+aVwhich sort of had big handlebars like that, and they were too heavy.
+p36
+aVSo, they got the frames from these big bikes,
+p37
+aVput them together with the gears from the racing bikes,
+p38
+aVgot the brakes from motorcycles,
+p39
+aVand sort of mixed and matched various ingredients.
+p40
+aVAnd for the first, I don't know, three to five years of their life,
+p41
+aVmountain bikes were known as "clunkers."
+p42
+aVAnd they were just made in a community of bikers,
+p43
+aVmainly in Northern California.
+p44
+aa(lp45
+VAnd then one of these companies that was importing parts
+p46
+aVfor the clunkers decided to set up in business,
+p47
+aVstart selling them to other people,
+p48
+aVand gradually another company emerged out of that, Marin,
+p49
+aVand it probably was, I don't know,
+p50
+aV10, maybe even 15, years,
+p51
+aVbefore the big bike companies
+p52
+aVrealized there was a market.
+p53
+aVThirty years later,
+p54
+aVmountain bike sales
+p55
+aVand mountain bike equipment
+p56
+aVaccount for 65 percent of bike sales in America.
+p57
+aVThat's 58 billion dollars.
+p58
+aa(lp59
+VThis is a category entirely created by consumers
+p60
+aVthat would not have been created by the mainstream bike market
+p61
+aVbecause they couldn't see the need,
+p62
+aVthe opportunity;
+p63
+aVthey didn't have the incentive to innovate.
+p64
+aVThe one thing I think I disagree with
+p65
+aVabout Yochai's presentation
+p66
+aVis when he said the Internet causes
+p67
+aVthis distributive capacity for innovation to come alive.
+p68
+aVIt's when the Internet combines
+p69
+aVwith these kinds of passionate pro-am consumers \u2014
+p70
+aVwho are knowledgeable; they've got the incentive to innovate;
+p71
+aVthey've got the tools; they want to \u2014
+p72
+aVthat you get this kind of explosion
+p73
+aVof creative collaboration.
+p74
+aVAnd out of that, you get the need for the kind of things
+p75
+aVthat Jimmy was talking about, which is our new kinds of organization,
+p76
+aVor a better way to put it:
+p77
+aVhow do we organize ourselves without organizations?
+p78
+aVThat's now possible; you don't need an organization to be organized,
+p79
+aVto achieve large and complex tasks,
+p80
+aVlike innovating new software programs.
+p81
+aa(lp82
+VSo this is a huge challenge
+p83
+aVto the way we think creativity comes about.
+p84
+aVThe traditional view, still enshrined
+p85
+aVin much of the way that we think about creativity
+p86
+aV\u2014 in organizations, in government \u2014
+p87
+aVis that creativity is about special people:
+p88
+aVwear baseball caps the wrong way round,
+p89
+aVcome to conferences like this, in special places,
+p90
+aVelite universities, R&D labs in the forests, water,
+p91
+aVmaybe special rooms in companies painted funny colors,
+p92
+aVyou know, bean bags, maybe the odd table-football table.
+p93
+aVSpecial people, special places, think up special ideas,
+p94
+aVthen you have a pipeline that takes the ideas
+p95
+aVdown to the waiting consumers, who are passive.
+p96
+aVThey can say "yes" or "no" to the invention.
+p97
+aVThat's the idea of creativity.
+p98
+aVWhat's the policy recommendation out of that
+p99
+aVif you're in government, or you're running a large company?
+p100
+aVMore special people, more special places.
+p101
+aVBuild creative clusters in cities;
+p102
+aVcreate more R&D parks, so on and so forth.
+p103
+aVExpand the pipeline down to the consumers.
+p104
+aa(lp105
+VWell this view, I think, is increasingly wrong.
+p106
+aVI think it's always been wrong,
+p107
+aVbecause I think always creativity has been highly collaborative,
+p108
+aVand it's probably been largely interactive.
+p109
+aVBut it's increasingly wrong, and one of the reasons it's wrong
+p110
+aVis that the ideas are flowing back up the pipeline.
+p111
+aVThe ideas are coming back from the consumers,
+p112
+aVand they're often ahead of the producers.
+p113
+aVWhy is that?
+p114
+aVWell, one issue
+p115
+aVis that radical innovation,
+p116
+aVwhen you've got ideas that
+p117
+aVaffect a large number of technologies or people,
+p118
+aVhave a great deal of uncertainty attached to them.
+p119
+aVThe payoffs to innovation are greatest
+p120
+aVwhere the uncertainty is highest.
+p121
+aVAnd when you get a radical innovation,
+p122
+aVit's often very uncertain how it can be applied.
+p123
+aa(lp124
+VThe whole history of telephony
+p125
+aVis a story of dealing with that uncertainty.
+p126
+aVThe very first landline telephones,
+p127
+aVthe inventors thought
+p128
+aVthat they would be used for people to listen in
+p129
+aVto live performances
+p130
+aVfrom West End theaters.
+p131
+aVWhen the mobile telephone companies invented SMS,
+p132
+aVthey had no idea what it was for;
+p133
+aVit was only when that technology got into the hands
+p134
+aVof teenage users
+p135
+aVthat they invented the use.
+p136
+aa(lp137
+VSo the more radical the innovation,
+p138
+aVthe more the uncertainty,
+p139
+aVthe more you need innovation in use
+p140
+aVto work out what a technology is for.
+p141
+aVAll of our patents, our entire approach
+p142
+aVto patents and invention, is based on the idea
+p143
+aVthat the inventor knows what the invention is for;
+p144
+aVwe can say what it's for.
+p145
+aVMore and more, the inventors of things
+p146
+aVwill not be able to say that in advance.
+p147
+aVIt will be worked out in use,
+p148
+aVin collaboration with users.
+p149
+aVWe like to think that invention is
+p150
+aVa sort of moment of creation:
+p151
+aVthere is a moment of birth when someone comes up with an idea.
+p152
+aVThe truth is that most creativity
+p153
+aVis cumulative and collaborative;
+p154
+aVlike Wikipedia, it develops over a long period of time.
+p155
+aa(lp156
+VThe second reason why users are more and more important
+p157
+aVis that they are the source of big, disruptive innovations.
+p158
+aVIf you want to find the big new ideas,
+p159
+aVit's often difficult to find them in mainstream markets,
+p160
+aVin big organizations.
+p161
+aVAnd just look inside large organizations
+p162
+aVand you'll see why that is so.
+p163
+aVSo, you're in a big corporation.
+p164
+aVYou're obviously keen to go up the corporate ladder.
+p165
+aVDo you go into your board and say,
+p166
+aV"Look, I've got a fantastic idea
+p167
+aVfor an embryonic product
+p168
+aVin a marginal market,
+p169
+aVwith consumers we've never dealt with before,
+p170
+aVand I'm not sure it's going to have a big payoff, but it could be really, really big in the future?"
+p171
+aVNo, what you do, is you go in and you say,
+p172
+aV"I've got a fantastic idea for an incremental innovation
+p173
+aVto an existing product we sell through existing channels
+p174
+aVto existing users, and I can guarantee
+p175
+aVyou get this much return out of it over the next three years."
+p176
+aa(lp177
+VBig corporations have an in-built tendency
+p178
+aVto reinforce past success.
+p179
+aVThey've got so much sunk in it
+p180
+aVthat it's very difficult for them to spot
+p181
+aVemerging new markets. Emerging new markets, then,
+p182
+aVare the breeding grounds for passionate users.
+p183
+aVBest example:
+p184
+aVwho in the music industry,
+p185
+aV30 years ago, would have said,
+p186
+aV"Yes, let's invent a musical form
+p187
+aVwhich is all about dispossessed black men
+p188
+aVin ghettos expressing their frustration
+p189
+aVwith the world through a form of music
+p190
+aVthat many people find initially quite difficult to listen to.
+p191
+aVThat sounds like a winner; we'll go with it."
+p192
+aV(Laughter).
+p193
+aVSo what happens? Rap music is created by the users.
+p194
+aVThey do it on their own tapes, with their own recording equipment;
+p195
+aVthey distribute it themselves.
+p196
+aV30 years later,
+p197
+aVrap music is the dominant musical form of popular culture \u2014
+p198
+aVwould never have come from the big companies.
+p199
+aVHad to start \u2014 this is the third point \u2014
+p200
+aVwith these pro-ams.
+p201
+aa(lp202
+VThis is the phrase that I've used in
+p203
+aVsome stuff which I've done
+p204
+aVwith a think tank in London called Demos,
+p205
+aVwhere we've been looking at these people who are amateurs \u2014
+p206
+aVi.e., they do it for the love of it \u2014
+p207
+aVbut they want to do it to very high standards.
+p208
+aVAnd across a whole range of fields \u2014
+p209
+aVfrom software, astronomy,
+p210
+aVnatural sciences,
+p211
+aVvast areas of leisure and culture
+p212
+aVlike kite-surfing, so on and so forth \u2014
+p213
+aVyou find people who want to do things because they love it,
+p214
+aVbut they want to do these things to very high standards.
+p215
+aVThey work at their leisure, if you like.
+p216
+aVThey take their leisure very seriously:
+p217
+aVthey acquire skills; they invest time;
+p218
+aVthey use technology that's getting cheaper \u2014 it's not just the Internet:
+p219
+aVcameras, design technology,
+p220
+aVleisure technology, surfboards, so on and so forth.
+p221
+aVLargely through globalization,
+p222
+aVa lot of this equipment has got a lot cheaper.
+p223
+aVMore knowledgeable consumers, more educated,
+p224
+aVmore able to connect with one another,
+p225
+aVmore able to do things together.
+p226
+aVConsumption, in that sense, is an expression
+p227
+aVof their productive potential.
+p228
+aVWhy, we found, people were interested in this,
+p229
+aVis that at work they don't feel very expressed.
+p230
+aVThey don't feel as if they're doing something that really matters to them,
+p231
+aVso they pick up these kinds of activities.
+p232
+aVThis has huge organizational implications
+p233
+aVfor very large areas of life.
+p234
+aa(lp235
+VTake astronomy as an example,
+p236
+aVwhich Yochai has already mentioned.
+p237
+aVTwenty years ago, 30 years ago,
+p238
+aVonly big professional astronomers
+p239
+aVwith very big telescopes could see far into space.
+p240
+aVAnd there's a big telescope in Northern England called Jodrell Bank,
+p241
+aVand when I was a kid, it was amazing,
+p242
+aVbecause the moon shots would take off, and this thing would move on rails.
+p243
+aVAnd it was huge \u2014 it was absolutely enormous.
+p244
+aVNow, six
+p245
+aVamateur astronomers, working with the Internet,
+p246
+aVwith Dobsonian digital telescopes \u2014
+p247
+aVwhich are pretty much open source \u2014
+p248
+aVwith some light sensors
+p249
+aVdeveloped over the last 10 years, the Internet \u2014
+p250
+aVthey can do what Jodrell Bank could only do 30 years ago.
+p251
+aVSo here in astronomy, you have this vast explosion
+p252
+aVof new productive resources.
+p253
+aVThe users can be producers.
+p254
+aa(lp255
+VWhat does this mean, then, for our
+p256
+aVorganizational landscape?
+p257
+aVWell, just imagine a world,
+p258
+aVfor the moment, divided into two camps.
+p259
+aVOver here, you've got the old, traditional corporate model:
+p260
+aVspecial people, special places;
+p261
+aVpatent it, push it down the pipeline
+p262
+aVto largely waiting, passive consumers.
+p263
+aVOver here, let's imagine we've got
+p264
+aVWikipedia, Linux, and beyond \u2014 open source.
+p265
+aVThis is open; this is closed.
+p266
+aVThis is new; this is traditional.
+p267
+aVWell, the first thing you can say, I think with certainty,
+p268
+aVis what Yochai has said already \u2014
+p269
+aVis there is a great big struggle
+p270
+aVbetween those two organizational forms.
+p271
+aVThese people over there will do everything they can
+p272
+aVto stop these kinds of organizations succeeding,
+p273
+aVbecause they're threatened by them.
+p274
+aVAnd so the debates about
+p275
+aVcopyright, digital rights, so on and so forth \u2014
+p276
+aVthese are all about trying to stifle, in my view,
+p277
+aVthese kinds of organizations.
+p278
+aVWhat we're seeing is a complete corruption
+p279
+aVof the idea of patents and copyright.
+p280
+aVMeant to be a way to incentivize invention,
+p281
+aVmeant to be a way to orchestrate the dissemination of knowledge,
+p282
+aVthey are increasingly being used by large companies
+p283
+aVto create thickets of patents
+p284
+aVto prevent innovation taking place.
+p285
+aa(lp286
+VLet me just give you two examples.
+p287
+aVThe first is: imagine yourself going to a venture capitalist
+p288
+aVand saying, "I've got a fantastic idea.
+p289
+aVI've invented this brilliant new program
+p290
+aVthat is much, much better than Microsoft Outlook."
+p291
+aVWhich venture capitalist in their right mind is going to give you any money to set up a venture
+p292
+aVcompeting with Microsoft, with Microsoft Outlook? No one.
+p293
+aVThat is why the competition with Microsoft is bound to come \u2014
+p294
+aVwill only come \u2014
+p295
+aVfrom an open-source kind of project.
+p296
+aa(lp297
+VSo, there is a huge competitive argument
+p298
+aVabout sustaining the capacity
+p299
+aVfor open-source and consumer-driven innovation,
+p300
+aVbecause it's one of the greatest
+p301
+aVcompetitive levers against monopoly.
+p302
+aVThere'll be huge professional arguments as well.
+p303
+aVBecause the professionals, over here
+p304
+aVin these closed organizations \u2014
+p305
+aVthey might be academics; they might be programmers;
+p306
+aVthey might be doctors; they might be journalists \u2014
+p307
+aVmy former profession \u2014
+p308
+aVsay, "No, no \u2014 you can't trust these people over here."
+p309
+aa(lp310
+VWhen I started in journalism \u2014
+p311
+aVFinancial Times, 20 years ago \u2014
+p312
+aVit was very, very exciting
+p313
+aVto see someone reading the newspaper.
+p314
+aVAnd you'd kind of look over their shoulder on the Tube
+p315
+aVto see if they were reading your article.
+p316
+aVUsually they were reading the share prices,
+p317
+aVand the bit of the paper with your article on
+p318
+aVwas on the floor, or something like that,
+p319
+aVand you know, "For heaven's sake, what are they doing!
+p320
+aVThey're not reading my brilliant article!"
+p321
+aVAnd we allowed users, readers,
+p322
+aVtwo places where they could contribute to the paper:
+p323
+aVthe letters page, where they could write a letter in,
+p324
+aVand we would condescend to them, cut it in half,
+p325
+aVand print it three days later.
+p326
+aVOr the op-ed page, where if they knew the editor \u2014
+p327
+aVhad been to school with him, slept with his wife \u2014
+p328
+aVthey could write an article for the op-ed page.
+p329
+aVThose were the two places.
+p330
+aa(lp331
+VShock, horror: now, the readers want to be writers and publishers.
+p332
+aVThat's not their role; they're supposed to read what we write.
+p333
+aVBut they don't want to be journalists. The journalists think
+p334
+aVthat the bloggers want to be journalists;
+p335
+aVthey don't want to be journalists; they just want to have a voice.
+p336
+aVThey want to, as Jimmy said, they want to have a dialogue, a conversation.
+p337
+aVThey want to be part of that flow of information.
+p338
+aVWhat's happening there is that the whole domain
+p339
+aVof creativity is expanding.
+p340
+aVSo, there's going to be a tremendous struggle.
+p341
+aVBut, also, there's going to be tremendous movement
+p342
+aVfrom the open to the closed.
+p343
+aa(lp344
+VWhat you'll see, I think, is two things that are critical,
+p345
+aVand these, I think, are two challenges
+p346
+aVfor the open movement.
+p347
+aVThe first is:
+p348
+aVcan we really survive on volunteers?
+p349
+aVIf this is so critical,
+p350
+aVdo we not need it funded, organized, supported
+p351
+aVin much more structured ways?
+p352
+aVI think the idea of creating the Red Cross
+p353
+aVfor information and knowledge is a fantastic idea,
+p354
+aVbut can we really organize that, just on volunteers?
+p355
+aVWhat kind of changes do we need in public policy
+p356
+aVand funding to make that possible?
+p357
+aVWhat's the role of the BBC,
+p358
+aVfor instance, in that world?
+p359
+aVWhat should be the role of public policy?
+p360
+aVAnd finally, what I think you will see
+p361
+aVis the intelligent, closed organizations
+p362
+aVmoving increasingly in the open direction.
+p363
+aVSo it's not going to be a contest between two camps,
+p364
+aVbut, in between them, you'll find all sorts of interesting places
+p365
+aVthat people will occupy.
+p366
+aVNew organizational models coming about,
+p367
+aVmixing closed and open in tricky ways.
+p368
+aVIt won't be so clear-cut; it won't be Microsoft versus Linux \u2014
+p369
+aVthere'll be all sorts of things in between.
+p370
+aVAnd those organizational models, it turns out,
+p371
+aVare incredibly powerful,
+p372
+aVand the people who can understand them
+p373
+aVwill be very, very successful.
+p374
+aa(lp375
+VLet me just give you one final example
+p376
+aVof what that means.
+p377
+aVI was in Shanghai,
+p378
+aVin an office block
+p379
+aVbuilt on what was a rice paddy five years ago \u2014
+p380
+aVone of the 2,500 skyscrapers
+p381
+aVthey've built in Shanghai in the last 10 years.
+p382
+aVAnd I was having dinner with this guy called Timothy Chan.
+p383
+aVTimothy Chan set up an Internet business
+p384
+aVin 2000.
+p385
+aVDidn't go into the Internet, kept his money,
+p386
+aVdecided to go into computer games.
+p387
+aVHe runs a company called Shanda,
+p388
+aVwhich is the largest computer games company in China.
+p389
+aVNine thousand servers all over China,
+p390
+aVhas 250 million subscribers.
+p391
+aVAt any one time, there are four million people playing one of his games.
+p392
+aVHow many people does he employ
+p393
+aVto service that population?
+p394
+aV500 people.
+p395
+aVWell, how can he service
+p396
+aV250 million people from 500 employees?
+p397
+aVBecause basically, he doesn't service them.
+p398
+aVHe gives them a platform;
+p399
+aVhe gives them some rules; he gives them the tools
+p400
+aVand then he kind of orchestrates the conversation;
+p401
+aVhe orchestrates the action.
+p402
+aVBut actually, a lot of the content
+p403
+aVis created by the users themselves.
+p404
+aVAnd it creates a kind of stickiness
+p405
+aVbetween the community and the company
+p406
+aVwhich is really, really powerful.
+p407
+aa(lp408
+VThe best measure of that: so you go into one of his games,
+p409
+aVyou create a character
+p410
+aVthat you develop in the course of the game.
+p411
+aVIf, for some reason, your credit card bounces,
+p412
+aVor there's some other problem,
+p413
+aVyou lose your character.
+p414
+aVYou've got two options.
+p415
+aVOne option: you can create a new character,
+p416
+aVright from scratch, but with none of the history of your player.
+p417
+aVThat costs about 100 dollars.
+p418
+aVOr you can get on a plane, fly to Shanghai,
+p419
+aVqueue up outside Shanda's offices \u2014
+p420
+aVcost probably 600, 700 dollars \u2014
+p421
+aVand reclaim your character, get your history back.
+p422
+aVEvery morning, there are 600 people queuing
+p423
+aVoutside their offices
+p424
+aVto reclaim these characters. (Laughter)
+p425
+aVSo this is about companies built on communities,
+p426
+aVthat provide communities with tools,
+p427
+aVresources, platforms in which they can share.
+p428
+aVHe's not open source,
+p429
+aVbut it's very, very powerful.
+p430
+aa(lp431
+VSo here is one of the challenges, I think,
+p432
+aVfor people like me, who
+p433
+aVdo a lot of work with government.
+p434
+aVIf you're a games company,
+p435
+aVand you've got a million players in your game,
+p436
+aVyou only need one percent of them
+p437
+aVto be co-developers, contributing ideas,
+p438
+aVand you've got a development workforce
+p439
+aVof 10,000 people.
+p440
+aVImagine you could take all the children
+p441
+aVin education in Britain, and one percent of them
+p442
+aVwere co-developers of education.
+p443
+aVWhat would that do to the resources available
+p444
+aVto the education system?
+p445
+aVOr if you got one percent of the patients in the NHS
+p446
+aVto, in some sense, be co-producers of health.
+p447
+aa(lp448
+VThe reason why \u2014
+p449
+aVdespite all the efforts to cut it down,
+p450
+aVto constrain it, to hold it back \u2014
+p451
+aVwhy these open models will still start emerging
+p452
+aVwith tremendous force,
+p453
+aVis that they multiply our productive resources.
+p454
+aVAnd one of the reasons they do that
+p455
+aVis that they turn users into producers,
+p456
+aVconsumers into designers.
+p457
+aa(lp458
+VThank you very much.
+p459
+aasS'id'
+p460
+I63
+sS'title'
+p461
+VThe era of open innovation
+p462
+s.

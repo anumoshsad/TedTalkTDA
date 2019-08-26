@@ -1,0 +1,519 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI love paper, and I love technology,
+p4
+aVand what I do is I make paper interactive.
+p5
+aVAnd that's what I say when people ask me what I do,
+p6
+aVbut it really confuses most people,
+p7
+aVso really, the best way for me to convey it
+p8
+aVis to take the technology and be creative
+p9
+aVand create experiences.
+p10
+aVSo I tried to think what I could use for here,
+p11
+aVand a couple of weeks ago I had a crazy idea
+p12
+aVthat I wanted to print two DJ decks
+p13
+aVand to try and mix some music.
+p14
+aVAnd I'm going to try and show that at the end,
+p15
+aVand the suspense will be as much mine if it works.
+p16
+aVAnd I'm not a DJ, and I'm not a musician,
+p17
+aVso I'm a little bit scared of that.
+p18
+aVSo I think, I found the best way to describe my journey
+p19
+aVis just to mention a few little things
+p20
+aVthat have happened to me throughout my life.
+p21
+aVThere's three particular things that I've done,
+p22
+aVand I'll just describe those first,
+p23
+aVand then talk about some of my work.
+p24
+aVSo when I was a kid, I was obsessed with wires,
+p25
+aVand I used to thread them under my carpet
+p26
+aVand thread them behind the walls
+p27
+aVand have little switches and little speakers,
+p28
+aVand I wanted to make my bedroom be interactive
+p29
+aVbut kind of all hidden away.
+p30
+aVAnd I was also really interested in wireless as well.
+p31
+aVSo I bought one of those little kits that you could get
+p32
+aVto make a radio transmitter,
+p33
+aVand I got an old book and I carved out the inside
+p34
+aVand I hid it inside there,
+p35
+aVand then I placed it next to my dad
+p36
+aVand snuck back to my bedroom and tuned in on the radio
+p37
+aVso I could eavesdrop.
+p38
+aVI was not at all interested in what he was saying.
+p39
+aVIt's more that I just liked the idea
+p40
+aVof an everyday object
+p41
+aVhaving something inside
+p42
+aVand doing something different.
+p43
+aVSeveral year later,
+p44
+aVI managed to successfully fail all of my exams
+p45
+aVand didn't really leave school with much to show for at all,
+p46
+aVand my parents, maybe as a reward,
+p47
+aVbought me what turned out to be
+p48
+aVa one-way ticket to Australia,
+p49
+aVand I came back home about four years later.
+p50
+aVI ended up on a farm in the middle of nowhere.
+p51
+aVIt was in far western New South Wales.
+p52
+aVAnd this farm was 120,000 acres.
+p53
+aVThere were 22,000 sheep,
+p54
+aVand it was about 40 degrees,
+p55
+aVor 100 or so Fahrenheit.
+p56
+aVAnd on this farm there was the farmer, his wife,
+p57
+aVand there was the four-year-old daughter.
+p58
+aVAnd they kind of took me into the farm
+p59
+aVand showed me what it was like to live and work.
+p60
+aVObviously, one of the most important things was the sheep,
+p61
+aVand so my job was, well, pretty much to do everything,
+p62
+aVbut it was about bringing the sheep back to the homestead.
+p63
+aVAnd we'd do that by building fences,
+p64
+aVusing motorbikes and horses,
+p65
+aVand the sheep would make their way all the way back
+p66
+aVto the shearing shed for the different seasons.
+p67
+aVAnd what I learned was,
+p68
+aValthough at the time, like everyone else,
+p69
+aVI thought sheep were pretty stupid
+p70
+aVbecause they didn't do what we wanted them to do,
+p71
+aVwhat I realize now, probably only just in the last few weeks
+p72
+aVlooking back, is the sheep weren't stupid at all.
+p73
+aVWe'd put them in an environment where they didn't want to be,
+p74
+aVand they didn't want to do what we wanted them to do.
+p75
+aVSo the challenge was to try and get them
+p76
+aVto do what we wanted them to do
+p77
+aVby listening to the weather, the lay of the land,
+p78
+aVand creating things that would let the sheep flow
+p79
+aVand go where we wanted them to go.
+p80
+aVAnother bunch of years later,
+p81
+aVI ended up at Cambridge University
+p82
+aVat the Cavendish Laboratory in the U.K.
+p83
+aVdoing a Ph.D. in physics.
+p84
+aVMy Ph.D. was to move electrons around, one at a time.
+p85
+aVAnd I realize \u2014 again, it's kind of these realizations
+p86
+aVlooking back as to what I did \u2014
+p87
+aVI realize now that it was pretty much the same
+p88
+aVas moving sheep around.
+p89
+aVIt really is.
+p90
+aVIt's just you do it by changing an environment.
+p91
+aVAnd that's kind of been a big lesson to me,
+p92
+aVthat you can't act on any object.
+p93
+aVYou change its environment, and the object will flow.
+p94
+aVSo we made it very small,
+p95
+aVso things were about 30 nanometers in size;
+p96
+aVmaking it very cold, so at liquid helium temperatures;
+p97
+aVand changing environment by changing the voltage,
+p98
+aVand the electrons could make flow around a loop
+p99
+aVone at a time, on and off, a little memory node.
+p100
+aVAnd I wanted to go one step further,
+p101
+aVand I wanted to move one electron on
+p102
+aVand one electron off.
+p103
+aVAnd I was told that I wouldn't be able to do this,
+p104
+aVwhich, you know, as we've heard from other people,
+p105
+aVthat's the thing that makes you do it.
+p106
+aVAnd I was determined, and I managed to show that I could do that.
+p107
+aVAnd a lot of that learning, I think,
+p108
+aVcame from being on that farm,
+p109
+aVbecause when I was working on the farm,
+p110
+aVwe'd have to use what was around us,
+p111
+aVwe'd have to use the environment,
+p112
+aVand there was no such thing
+p113
+aVas something can't be done,
+p114
+aVbecause you're in an environment where,
+p115
+aVif you can't do what you need to do,
+p116
+aVyou can die, and, you know,
+p117
+aVI had seen that sort of thing happen.
+p118
+aVSo now my obsession is printing,
+p119
+aVand I'm really fascinated by the idea
+p120
+aVof using conventional printing processes,
+p121
+aVso the types of print that are used to create
+p122
+aVmany of the things around us
+p123
+aVto make paper and card interactive.
+p124
+aVWhen I spoke to some printers when I started doing this
+p125
+aVand told them what I wanted to do,
+p126
+aVwhich was to print conductive inks onto paper,
+p127
+aVthey told me it couldn't be done,
+p128
+aVagain, that kind of favorite thing.
+p129
+aVSo I got about 10 credit cards and loans
+p130
+aVand got myself very close to bankruptcy, really,
+p131
+aVand bought myself this huge printing press,
+p132
+aVwhich I had no idea how to use at all.
+p133
+aVIt was about five meters long,
+p134
+aVand I covered myself and the floor with ink
+p135
+aVand made a massive mess, but I learned to print.
+p136
+aVAnd then I took it back to the printers and showed them what I've done,
+p137
+aVand they were like, "Of course you can do that.
+p138
+aVWhy didn't you come here in the first place?"
+p139
+aVThat's always the case.
+p140
+aVSo what we do is we take conventional printing presses,
+p141
+aVwe make conductive inks,
+p142
+aVand run those through a press, and basically
+p143
+aVjust letting hundreds of thousands of electrons flow
+p144
+aVthrough pieces of paper
+p145
+aVso we can make that paper interactive.
+p146
+aVAnd it's pretty simple, really.
+p147
+aVIt's just a collection of things that have been done before,
+p148
+aVbut bringing them together in a different way.
+p149
+aVSo we have a piece of paper with conductive ink on,
+p150
+aVand then add onto that a small circuit board with a couple of chips,
+p151
+aVone to run some capacitive touch software,
+p152
+aVso we know where we've touched it,
+p153
+aVand the other to run, quite often,
+p154
+aVsome wireless software so the piece of paper can connect.
+p155
+aVSo I'll just describe a couple of things that we've created.
+p156
+aVThere's lots of different things we've created.
+p157
+aVThis is one of them, because I love cake.
+p158
+aVAnd this one, it's a large poster,
+p159
+aVand you touch it and it has a little speaker behind it,
+p160
+aVand the poster talks to you when you touch it
+p161
+aVand asks you a series of questions,
+p162
+aVand it works out your perfect cake.
+p163
+aVBut it doesn't tell you the cake there and then.
+p164
+aVIt uploads a picture,
+p165
+aVand the reason why it chose that cake for you,
+p166
+aVto our Facebook page and to Twitter.
+p167
+aVSo we're trying to create that connection
+p168
+aVbetween the physical and the digital,
+p169
+aVbut have it not looking on a screen,
+p170
+aVand just looking like a regular poster.
+p171
+aVWe've worked with a bunch of universities on a project
+p172
+aVlooking at interactive newsprint.
+p173
+aVSo for example, we've created a newspaper,
+p174
+aVa regular newspaper.
+p175
+aVYou can wear a pair of headphones that are connected to it wirelessly,
+p176
+aVand when you touch it, you can hear the music
+p177
+aVthat's described on the top, which is something you can't read.
+p178
+aVYou can hear a press conference
+p179
+aVas well as reading what the editor has determined
+p180
+aVthat press conference was about.
+p181
+aVAnd you can press a Facebook "like" button
+p182
+aVor you can vote on something as well.
+p183
+aVSomething else that we created,
+p184
+aVand this was an idea that I had a couple of years ago,
+p185
+aVand so we've done a project on this.
+p186
+aVIt was for funding from the government
+p187
+aVfor user-centered design for energy-efficient buildings,
+p188
+aVdifficult to say, and something I had no idea what it was
+p189
+aVwhen I went into the workshop, but quickly learned.
+p190
+aVAnd we wanted to try and encourage people
+p191
+aVto use energy better.
+p192
+aVAnd I really liked the idea that, instead of looking at dials
+p193
+aVand reading things to say \u2014
+p194
+aVlooking at your energy usage,
+p195
+aVI wanted to create a poster that was wirelessly connected
+p196
+aVand had color-changing inks on it,
+p197
+aVand so if your energy usage was trending better,
+p198
+aVthan the leaves would appear and the rabbits would appear
+p199
+aVand all would be good.
+p200
+aVAnd if it wasn't, then there'd be graffiti
+p201
+aVand the leaves would fall off the trees.
+p202
+aVSo it was trying to make you look after something
+p203
+aVin your immediate environment,
+p204
+aVwhich you don't want to see not looking so good,
+p205
+aVrather than expecting people to do things
+p206
+aVin the local environment because of the effect
+p207
+aVthat it has a long way off.
+p208
+aVAnd I think, kind of like going back to the farm,
+p209
+aVit's about how to let people do what you want them to do
+p210
+aVrather than making people do what you want them to do.
+p211
+aVOkay.
+p212
+aVSo this is the bit I'm really scared of.
+p213
+aVSo a couple of things I've created are,
+p214
+aVthere's a poster over here
+p215
+aVthat you can play drums on.
+p216
+aVAnd I am not a musician. It seemed like a good idea at the time.
+p217
+aVIf anyone wants to try and play drums, then they can.
+p218
+aVI'll just describe how this works.
+p219
+aVThis poster is wirelessly connected to my cell phone,
+p220
+aVand when you touch it, it connects to the app.
+p221
+aV(Drums)
+p222
+aVAnd it has really good response time.
+p223
+aVIt's using Bluetooth 4, so it's pretty instantaneous.
+p224
+aVOkay. Thanks.
+p225
+aV(Applause)
+p226
+aVAnd there's a couple of other things.
+p227
+aVSo this one is like a sound board,
+p228
+aVso you can touch it, and I just love these horrible noises.
+p229
+aV(Sirens, explosions, breaking glass)
+p230
+aVOkay, and this is a D.J. turntable.
+p231
+aVSo it's wirelessly linked to my iPad,
+p232
+aVand this is a software that's running on the iPad.
+p233
+aVOh, yes. I just love doing that.
+p234
+aVI'm not a D.J., though, but I just always wanted to do that.
+p235
+aV(Scratching)
+p236
+aVSo I have a crossfader, and I have the two decks.
+p237
+aVSo I've made some new technology,
+p238
+aVand I love things being creative,
+p239
+aVand I love working with creative people.
+p240
+aVSo my 15-year-old niece, she's amazing,
+p241
+aVand she's called Charlotte,
+p242
+aVand I asked her to record something,
+p243
+aVand I worked with a friend called Elliot
+p244
+aVto put some beats together.
+p245
+aVSo this is my niece, Charlotte.
+p246
+aV(Music)
+p247
+aVYay!
+p248
+aV(Applause)
+p249
+aVSo that's pretty much what I do.
+p250
+aVI just love bringing technology together,
+p251
+aVhaving a lot of fun, being creative.
+p252
+aVBut it's not about the technology.
+p253
+aVIt's just about, I want to create some great experiences.
+p254
+aVSo thank you very much.
+p255
+aV(Applause)
+p256
+aasS'id'
+p257
+I1793
+sS'title'
+p258
+VDJ decks made of ... paper
+p259
+s.

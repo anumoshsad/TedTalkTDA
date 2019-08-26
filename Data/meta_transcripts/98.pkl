@@ -1,0 +1,815 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VMy title: "Queerer than we can suppose: the strangeness of science."
+p4
+aV"Queerer than we can suppose" comes from J.B.S. Haldane, the famous biologist,
+p5
+aVwho said, "Now, my own suspicion is that the universe is not only queerer
+p6
+aVthan we suppose, but queerer than we can suppose.
+p7
+aVI suspect that there are more things in heaven and earth
+p8
+aVthan are dreamed of, or can be dreamed of, in any philosophy."
+p9
+aVRichard Feynman compared the accuracy of quantum theories \u2014
+p10
+aVexperimental predictions \u2014
+p11
+aVto specifying the width of North America to within one hair's breadth of accuracy.
+p12
+aVThis means that quantum theory has got to be, in some sense, true.
+p13
+aVYet the assumptions that quantum theory needs to make
+p14
+aVin order to deliver those predictions are so mysterious
+p15
+aVthat even Feynman himself was moved to remark,
+p16
+aV"If you think you understand quantum theory,
+p17
+aVyou don't understand quantum theory."
+p18
+aa(lp19
+VIt's so queer that physicists resort to one or another
+p20
+aVparadoxical interpretation of it.
+p21
+aVDavid Deutsch, who's talking here, in "The Fabric of Reality,"
+p22
+aVembraces the many-worlds interpretation of quantum theory,
+p23
+aVbecause the worst that you can say about it
+p24
+aVis that it's preposterously wasteful.
+p25
+aVIt postulates a vast and rapidly growing number of universes existing in parallel,
+p26
+aVmutually undetectable,
+p27
+aVexcept through the narrow porthole of quantum mechanical experiments.
+p28
+aVAnd that's Richard Feynman.
+p29
+aa(lp30
+VThe biologist Lewis Wolpert believes
+p31
+aVthat the queerness of modern physics
+p32
+aVis just an extreme example.
+p33
+aVScience, as opposed to technology,
+p34
+aVdoes violence to common sense.
+p35
+aVEvery time you drink a glass of water, he points out,
+p36
+aVthe odds are that you will imbibe at least one molecule
+p37
+aVthat passed through the bladder of Oliver Cromwell.
+p38
+aV(Laughter)
+p39
+aVIt's just elementary probability theory.
+p40
+aa(lp41
+V(Laughter)
+p42
+aa(lp43
+VThe number of molecules per glassful is hugely greater
+p44
+aVthan the number of glassfuls, or bladdersful, in the world.
+p45
+aVAnd of course, there's nothing special about Cromwell or bladders \u2014
+p46
+aVyou have just breathed in a nitrogen atom
+p47
+aVthat passed through the right lung of the third iguanodon
+p48
+aVto the left of the tall cycad tree.
+p49
+aa(lp50
+V"Queerer than we can suppose."
+p51
+aVWhat is it that makes us capable of supposing anything,
+p52
+aVand does this tell us anything about what we can suppose?
+p53
+aVAre there things about the universe that will be forever beyond our grasp,
+p54
+aVbut not beyond the grasp of some superior intelligence?
+p55
+aVAre there things about the universe
+p56
+aVthat are, in principle, ungraspable by any mind,
+p57
+aVhowever superior?
+p58
+aVThe history of science has been one long series of violent brainstorms,
+p59
+aVas successive generations have come to terms with
+p60
+aVincreasing levels of queerness in the universe.
+p61
+aVWe're now so used to the idea that the Earth spins,
+p62
+aVrather than the Sun moves across the sky,
+p63
+aVit's hard for us to realize
+p64
+aVwhat a shattering mental revolution that must have been.
+p65
+aVAfter all, it seems obvious that the Earth is large and motionless,
+p66
+aVthe Sun, small and mobile.
+p67
+aVBut it's worth recalling Wittgenstein's remark on the subject:
+p68
+aV"Tell me," he asked a friend, "why do people always say
+p69
+aVit was natural for man to assume that the Sun went 'round the Earth,
+p70
+aVrather than that the Earth was rotating?"
+p71
+aVAnd his friend replied, "Well, obviously,
+p72
+aVbecause it just looks as though the Sun is going round the Earth."
+p73
+aVWittgenstein replied, "Well, what would it have looked like
+p74
+aVif it had looked as though the Earth was rotating?"
+p75
+aa(lp76
+V(Laughter)
+p77
+aa(lp78
+VScience has taught us, against all intuition,
+p79
+aVthat apparently solid things, like crystals and rocks,
+p80
+aVare really almost entirely composed of empty space.
+p81
+aVAnd the familiar illustration is the nucleus of an atom
+p82
+aVis a fly in the middle of a sports stadium,
+p83
+aVand the next atom is in the next sports stadium.
+p84
+aVSo it would seem the hardest, solidest, densest rock
+p85
+aVis really almost entirely empty space,
+p86
+aVbroken only by tiny particles so widely spaced they shouldn't count.
+p87
+aVWhy, then, do rocks look and feel solid and hard and impenetrable?
+p88
+aVAs an evolutionary biologist, I'd say this: our brains have evolved
+p89
+aVto help us survive within the orders of magnitude, of size and speed
+p90
+aVwhich our bodies operate at.
+p91
+aVWe never evolved to navigate in the world of atoms.
+p92
+aVIf we had, our brains probably would perceive rocks
+p93
+aVas full of empty space.
+p94
+aVRocks feel hard and impenetrable
+p95
+aVto our hands, precisely because objects like rocks and hands
+p96
+aVcannot penetrate each other.
+p97
+aVIt's therefore useful
+p98
+aVfor our brains to construct notions like "solidity" and "impenetrability,"
+p99
+aVbecause such notions help us to navigate our bodies
+p100
+aVthrough the middle-sized world in which we have to navigate.
+p101
+aa(lp102
+VMoving to the other end of the scale,
+p103
+aVour ancestors never had to navigate through the cosmos
+p104
+aVat speeds close to the speed of light.
+p105
+aVIf they had, our brains would be much better at understanding Einstein.
+p106
+aVI want to give the name "Middle World" to the medium-scaled environment
+p107
+aVin which we've evolved the ability to take act \u2014
+p108
+aVnothing to do with "Middle Earth" \u2014
+p109
+aVMiddle World.
+p110
+aa(lp111
+V(Laughter)
+p112
+aa(lp113
+VWe are evolved denizens of Middle World,
+p114
+aVand that limits what we are capable of imagining.
+p115
+aVWe find it intuitively easy to grasp ideas like,
+p116
+aVwhen a rabbit moves at the sort of medium velocity
+p117
+aVat which rabbits and other Middle World objects move,
+p118
+aVand hits another Middle World object like a rock, it knocks itself out.
+p119
+aa(lp120
+VMay I introduce Major General Albert Stubblebine III,
+p121
+aVcommander of military intelligence in 1983.
+p122
+aa(lp123
+V"...[He] stared at his wall in Arlington, Virginia, and decided to do it.
+p124
+aVAs frightening as the prospect was, he was going into the next office.
+p125
+aVHe stood up and moved out from behind his desk.
+p126
+aV'What is the atom mostly made of?' he thought, 'Space.'
+p127
+aVHe started walking. 'What am I mostly made of? Atoms.'
+p128
+aVHe quickened his pace, almost to a jog now.
+p129
+aV'What is the wall mostly made of?'
+p130
+aa(lp131
+V(Laughter)
+p132
+aa(lp133
+V'Atoms!'
+p134
+aVAll I have to do is merge the spaces.
+p135
+aVThen, General Stubblebine banged his nose hard on the wall of his office.
+p136
+aVStubblebine, who commanded 16,000 soldiers,
+p137
+aVwas confounded by his continual failure to walk through the wall.
+p138
+aVHe has no doubt that this ability will one day be a common tool
+p139
+aVin the military arsenal.
+p140
+aVWho would screw around with an army that could do that?"
+p141
+aa(lp142
+VThat's from an article in Playboy,
+p143
+aVwhich I was reading the other day.
+p144
+aa(lp145
+V(Laughter)
+p146
+aa(lp147
+VI have every reason to think it's true;
+p148
+aVI was reading Playboy because I, myself, had an article in it.
+p149
+aa(lp150
+V(Laughter)
+p151
+aa(lp152
+VUnaided human intuition, schooled in Middle World,
+p153
+aVfinds it hard to believe Galileo when he tells us
+p154
+aVa heavy object and a light object, air friction aside,
+p155
+aVwould hit the ground at the same instant.
+p156
+aVAnd that's because in Middle World, air friction is always there.
+p157
+aVIf we'd evolved in a vacuum,
+p158
+aVwe would expect them to hit the ground simultaneously.
+p159
+aVIf we were bacteria,
+p160
+aVconstantly buffeted by thermal movements of molecules,
+p161
+aVit would be different.
+p162
+aVBut we Middle-Worlders are too big to notice Brownian motion.
+p163
+aVIn the same way, our lives are dominated by gravity,
+p164
+aVbut are almost oblivious to the force of surface tension.
+p165
+aVA small insect would reverse these priorities.
+p166
+aa(lp167
+VSteve Grand \u2014 he's the one on the left,
+p168
+aVDouglas Adams is on the right.
+p169
+aVSteve Grand, in his book, "Creation: Life and How to Make It,"
+p170
+aVis positively scathing about our preoccupation with matter itself.
+p171
+aVWe have this tendency to think that only solid, material things
+p172
+aVare really things at all.
+p173
+aVWaves of electromagnetic fluctuation in a vacuum seem unreal.
+p174
+aVVictorians thought the waves had to be waves in some material medium:
+p175
+aVthe ether.
+p176
+aVBut we find real matter comforting
+p177
+aVonly because we've evolved to survive in Middle World,
+p178
+aVwhere matter is a useful fiction.
+p179
+aVA whirlpool, for Steve Grand, is a thing with just as much reality
+p180
+aVas a rock.
+p181
+aa(lp182
+VIn a desert plain in Tanzania,
+p183
+aVin the shadow of the volcano Ol Doinyo Lengai,
+p184
+aVthere's a dune made of volcanic ash.
+p185
+aVThe beautiful thing is that it moves bodily.
+p186
+aVIt's what's technically known as a "barchan,"
+p187
+aVand the entire dune walks across the desert in a westerly direction
+p188
+aVat a speed of about 17 meters per year.
+p189
+aVIt retains its crescent shape and moves in the direction of the horns.
+p190
+aVWhat happens is that the wind blows the sand up the shallow slope
+p191
+aVon the other side,
+p192
+aVand then, as each sand grain hits the top of the ridge, it cascades down
+p193
+aVon the inside of the crescent,
+p194
+aVand so the whole horn-shaped dune moves.
+p195
+aVSteve Grand points out that you and I are, ourselves,
+p196
+aVmore like a wave than a permanent thing.
+p197
+aVHe invites us, the reader,
+p198
+aVto think of an experience from your childhood,
+p199
+aVsomething you remember clearly,
+p200
+aVsomething you can see, feel, maybe even smell,
+p201
+aVas if you were really there.
+p202
+aVAfter all, you really were there at the time, weren't you?
+p203
+aVHow else would you remember it?
+p204
+aVBut here is the bombshell: You weren't there.
+p205
+aVNot a single atom that is in your body today
+p206
+aVwas there when that event took place.
+p207
+aVMatter flows from place to place
+p208
+aVand momentarily comes together to be you.
+p209
+aVWhatever you are, therefore,
+p210
+aVyou are not the stuff of which you are made.
+p211
+aVIf that doesn't make the hair stand up on the back of your neck,
+p212
+aVread it again until it does, because it is important.
+p213
+aa(lp214
+VSo "really" isn't a word that we should use with simple confidence.
+p215
+aVIf a neutrino had a brain,
+p216
+aVwhich it evolved in neutrino-sized ancestors,
+p217
+aVit would say that rocks really do consist of empty space.
+p218
+aVWe have brains that evolved in medium-sized ancestors
+p219
+aVwhich couldn't walk through rocks.
+p220
+aV"Really," for an animal, is whatever its brain needs it to be
+p221
+aVin order to assist its survival.
+p222
+aVAnd because different species live in different worlds,
+p223
+aVthere will be a discomforting variety of "reallys."
+p224
+aVWhat we see of the real world is not the unvarnished world,
+p225
+aVbut a model of the world, regulated and adjusted by sense data,
+p226
+aVbut constructed so it's useful for dealing with the real world.
+p227
+aa(lp228
+VThe nature of the model depends on the kind of animal we are.
+p229
+aVA flying animal needs a different kind of model
+p230
+aVfrom a walking, climbing or swimming animal.
+p231
+aVA monkey's brain must have software capable of simulating
+p232
+aVa three-dimensional world of branches and trunks.
+p233
+aVA mole's software for constructing models of its world will be customized
+p234
+aVfor underground use.
+p235
+aVA water strider's brain doesn't need 3D software at all,
+p236
+aVsince it lives on the surface of the pond,
+p237
+aVin an Edwin Abbott flatland.
+p238
+aa(lp239
+VI've speculated that bats may see color with their ears.
+p240
+aVThe world model that a bat needs in order to navigate
+p241
+aVthrough three dimensions catching insects
+p242
+aVmust be pretty similar to the world model that any flying bird \u2014
+p243
+aVa day-flying bird like a swallow \u2014 needs to perform the same kind of tasks.
+p244
+aVThe fact that the bat uses echoes in pitch darkness
+p245
+aVto input the current variables to its model,
+p246
+aVwhile the swallow uses light, is incidental.
+p247
+aVBats, I've even suggested, use perceived hues, such as red and blue,
+p248
+aVas labels, internal labels, for some useful aspect of echoes \u2014
+p249
+aVperhaps the acoustic texture of surfaces, furry or smooth and so on \u2014
+p250
+aVin the same way as swallows or indeed, we, use those perceived hues \u2014
+p251
+aVredness and blueness, etc. \u2014
+p252
+aVto label long and short wavelengths of light.
+p253
+aVThere's nothing inherent about red that makes it long wavelength.
+p254
+aa(lp255
+VThe point is that the nature of the model is governed by how it is to be used,
+p256
+aVrather than by the sensory modality involved.
+p257
+aVJ.B.S. Haldane himself had something to say about animals
+p258
+aVwhose world is dominated by smell.
+p259
+aVDogs can distinguish two very similar fatty acids, extremely diluted:
+p260
+aVcaprylic acid and caproic acid.
+p261
+aVThe only difference, you see,
+p262
+aVis that one has an extra pair of carbon atoms in the chain.
+p263
+aVHaldane guesses that a dog would probably be able to place the acids
+p264
+aVin the order of their molecular weights by their smells,
+p265
+aVjust as a man could place a number of piano wires
+p266
+aVin the order of their lengths by means of their notes.
+p267
+aVNow, there's another fatty acid, capric acid,
+p268
+aVwhich is just like the other two,
+p269
+aVexcept that it has two more carbon atoms.
+p270
+aVA dog that had never met capric acid would, perhaps,
+p271
+aVhave no more trouble imagining its smell
+p272
+aVthan we would have trouble imagining a trumpet, say,
+p273
+aVplaying one note higher than we've heard a trumpet play before.
+p274
+aVPerhaps dogs and rhinos and other smell-oriented animals smell in color.
+p275
+aVAnd the argument would be exactly the same as for the bats.
+p276
+aa(lp277
+VMiddle World \u2014 the range of sizes and speeds
+p278
+aVwhich we have evolved to feel intuitively comfortable with \u2014
+p279
+aVis a bit like the narrow range of the electromagnetic spectrum
+p280
+aVthat we see as light of various colors.
+p281
+aVWe're blind to all frequencies outside that,
+p282
+aVunless we use instruments to help us.
+p283
+aVMiddle World is the narrow range of reality
+p284
+aVwhich we judge to be normal, as opposed to the queerness
+p285
+aVof the very small, the very large and the very fast.
+p286
+aVWe could make a similar scale of improbabilities;
+p287
+aVnothing is totally impossible.
+p288
+aVMiracles are just events that are extremely improbable.
+p289
+aVA marble statue could wave its hand at us;
+p290
+aVthe atoms that make up its crystalline structure
+p291
+aVare all vibrating back and forth anyway.
+p292
+aVBecause there are so many of them,
+p293
+aVand because there's no agreement among them
+p294
+aVin their preferred direction of movement,
+p295
+aVthe marble, as we see it in Middle World, stays rock steady.
+p296
+aVBut the atoms in the hand could all just happen to move
+p297
+aVthe same way at the same time, and again and again.
+p298
+aVIn this case, the hand would move,
+p299
+aVand we'd see it waving at us in Middle World.
+p300
+aVThe odds against it, of course, are so great
+p301
+aVthat if you set out writing zeros at the time of the origin of the universe,
+p302
+aVyou still would not have written enough zeros to this day.
+p303
+aa(lp304
+VEvolution in Middle World has not equipped us
+p305
+aVto handle very improbable events; we don't live long enough.
+p306
+aVIn the vastness of astronomical space and geological time,
+p307
+aVthat which seems impossible in Middle World
+p308
+aVmight turn out to be inevitable.
+p309
+aVOne way to think about that is by counting planets.
+p310
+aVWe don't know how many planets there are in the universe,
+p311
+aVbut a good estimate is about 10 to the 20, or 100 billion billion.
+p312
+aVAnd that gives us a nice way to express our estimate of life's improbability.
+p313
+aVWe could make some sort of landmark points along a spectrum of improbability,
+p314
+aVwhich might look like the electromagnetic spectrum we just looked at.
+p315
+aa(lp316
+VIf life has arisen only once on any \u2014
+p317
+aVlife could originate once per planet, could be extremely common
+p318
+aVor it could originate once per star
+p319
+aVor once per galaxy or maybe only once in the entire universe,
+p320
+aVin which case it would have to be here.
+p321
+aVAnd somewhere up there would be the chance
+p322
+aVthat a frog would turn into a prince,
+p323
+aVand similar magical things like that.
+p324
+aVIf life has arisen on only one planet in the entire universe,
+p325
+aVthat planet has to be our planet, because here we are talking about it.
+p326
+aVAnd that means that if we want to avail ourselves of it,
+p327
+aVwe're allowed to postulate chemical events in the origin of life
+p328
+aVwhich have a probability as low as one in 100 billion billion.
+p329
+aVI don't think we shall have to avail ourselves of that,
+p330
+aVbecause I suspect that life is quite common in the universe.
+p331
+aVAnd when I say quite common, it could still be so rare
+p332
+aVthat no one island of life ever encounters another,
+p333
+aVwhich is a sad thought.
+p334
+aa(lp335
+VHow shall we interpret "queerer than we can suppose?"
+p336
+aVQueerer than can in principle be supposed,
+p337
+aVor just queerer than we can suppose, given the limitations
+p338
+aVof our brain's evolutionary apprenticeship in Middle World?
+p339
+aVCould we, by training and practice,
+p340
+aVemancipate ourselves from Middle World
+p341
+aVand achieve some sort of intuitive as well as mathematical understanding
+p342
+aVof the very small and the very large?
+p343
+aVI genuinely don't know the answer.
+p344
+aVI wonder whether we might help ourselves to understand, say, quantum theory,
+p345
+aVif we brought up children to play computer games
+p346
+aVbeginning in early childhood,
+p347
+aVwhich had a make-believe world of balls going through two slits on a screen,
+p348
+aVa world in which the strange goings-on of quantum mechanics were enlarged
+p349
+aVby the computer's make-believe,
+p350
+aVso that they became familiar on the Middle-World scale of the stream.
+p351
+aVAnd similarly, a relativistic computer game,
+p352
+aVin which objects on the screen manifest the Lorentz contraction, and so on,
+p353
+aVto try to get ourselves \u2014 to get children into the way of thinking about it.
+p354
+aa(lp355
+VI want to end by applying the idea of Middle World
+p356
+aVto our perceptions of each other.
+p357
+aVMost scientists today subscribe to a mechanistic view of the mind:
+p358
+aVwe're the way we are because our brains are wired up as they are,
+p359
+aVour hormones are the way they are.
+p360
+aVWe'd be different, our characters would be different,
+p361
+aVif our neuro-anatomy and our physiological chemistry were different.
+p362
+aVBut we scientists are inconsistent.
+p363
+aVIf we were consistent,
+p364
+aVour response to a misbehaving person, like a child-murderer,
+p365
+aVshould be something like:
+p366
+aVthis unit has a faulty component; it needs repairing.
+p367
+aVThat's not what we say.
+p368
+aVWhat we say \u2014 and I include the most austerely mechanistic among us,
+p369
+aVwhich is probably me \u2014
+p370
+aVwhat we say is, "Vile monster, prison is too good for you."
+p371
+aVOr worse, we seek revenge, in all probability thereby triggering
+p372
+aVthe next phase in an escalating cycle of counter-revenge,
+p373
+aVwhich we see, of course, all over the world today.
+p374
+aVIn short, when we're thinking like academics,
+p375
+aVwe regard people as elaborate and complicated machines,
+p376
+aVlike computers or cars.
+p377
+aVBut when we revert to being human,
+p378
+aVwe behave more like Basil Fawlty, who, we remember,
+p379
+aVthrashed his car to teach it a lesson,
+p380
+aVwhen it wouldn't start on "Gourmet Night."
+p381
+aa(lp382
+V(Laughter)
+p383
+aa(lp384
+VThe reason we personify things like cars and computers
+p385
+aVis that just as monkeys live in an arboreal world
+p386
+aVand moles live in an underground world
+p387
+aVand water striders live in a surface tension-dominated flatland,
+p388
+aVwe live in a social world.
+p389
+aVWe swim through a sea of people \u2014
+p390
+aVa social version of Middle World.
+p391
+aVWe are evolved to second-guess the behavior of others
+p392
+aVby becoming brilliant, intuitive psychologists.
+p393
+aVTreating people as machines
+p394
+aVmay be scientifically and philosophically accurate,
+p395
+aVbut it's a cumbersome waste of time
+p396
+aVif you want to guess what this person is going to do next.
+p397
+aVThe economically useful way to model a person
+p398
+aVis to treat him as a purposeful, goal-seeking agent
+p399
+aVwith pleasures and pains, desires and intentions,
+p400
+aVguilt, blame-worthiness.
+p401
+aVPersonification and the imputing of intentional purpose
+p402
+aVis such a brilliantly successful way to model humans,
+p403
+aVit's hardly surprising the same modeling software
+p404
+aVoften seizes control when we're trying to think about entities
+p405
+aVfor which it's not appropriate, like Basil Fawlty with his car
+p406
+aVor like millions of deluded people, with the universe as a whole.
+p407
+aa(lp408
+V(Laughter)
+p409
+aa(lp410
+VIf the universe is queerer than we can suppose,
+p411
+aVis it just because we've been naturally selected
+p412
+aVto suppose only what we needed to suppose
+p413
+aVin order to survive in the Pleistocene of Africa?
+p414
+aVOr are our brains so versatile and expandable that we can train ourselves
+p415
+aVto break out of the box of our evolution?
+p416
+aVOr finally, are there some things in the universe so queer
+p417
+aVthat no philosophy of beings, however godlike, could dream them?
+p418
+aa(lp419
+VThank you very much.
+p420
+aa(lp421
+V(Applause)
+p422
+aasS'id'
+p423
+I98
+sS'title'
+p424
+VWhy the universe seems so strange
+p425
+s.

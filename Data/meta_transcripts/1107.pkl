@@ -1,0 +1,516 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThe idea behind the Stuxnet computer worm
+p4
+aVis actually quite simple.
+p5
+aVWe don't want Iran to get the bomb.
+p6
+aVTheir major asset for developing nuclear weapons
+p7
+aVis the Natanz uranium enrichment facility.
+p8
+aVThe gray boxes that you see,
+p9
+aVthese are real-time control systems.
+p10
+aVNow if we manage to compromise these systems
+p11
+aVthat control drive speeds and valves,
+p12
+aVwe can actually cause a lot of problems
+p13
+aVwith the centrifuge.
+p14
+aVThe gray boxes don't run Windows software;
+p15
+aVthey are a completely different technology.
+p16
+aVBut if we manage
+p17
+aVto place a good Windows virus
+p18
+aVon a notebook
+p19
+aVthat is used by a maintenance engineer
+p20
+aVto configure this gray box,
+p21
+aVthen we are in business.
+p22
+aVAnd this is the plot behind Stuxnet.
+p23
+aa(lp24
+VSo we start with a Windows dropper.
+p25
+aVThe payload goes onto the gray box,
+p26
+aVdamages the centrifuge,
+p27
+aVand the Iranian nuclear program is delayed \u2014
+p28
+aVmission accomplished.
+p29
+aVThat's easy, huh?
+p30
+aVI want to tell you how we found that out.
+p31
+aVWhen we started our research on Stuxnet six months ago,
+p32
+aVit was completely unknown what the purpose of this thing was.
+p33
+aVThe only thing that was known
+p34
+aVis it's very, very complex on the Windows part, the dropper part,
+p35
+aVused multiple zero-day vulnerabilities.
+p36
+aVAnd it seemed to want to do something
+p37
+aVwith these gray boxes, these real-time control systems.
+p38
+aVSo that got our attention,
+p39
+aVand we started a lab project
+p40
+aVwhere we infected our environment with Stuxnet
+p41
+aVand checked this thing out.
+p42
+aVAnd then some very funny things happened.
+p43
+aVStuxnet behaved like a lab rat
+p44
+aVthat didn't like our cheese \u2014
+p45
+aVsniffed, but didn't want to eat.
+p46
+aVDidn't make sense to me.
+p47
+aVAnd after we experimented with different flavors of cheese,
+p48
+aVI realized, well, this is a directed attack.
+p49
+aVIt's completely directed.
+p50
+aVThe dropper is prowling actively
+p51
+aVon the gray box
+p52
+aVif a specific configuration is found,
+p53
+aVand even if the actual program code that it's trying to infect
+p54
+aVis actually running on that target.
+p55
+aVAnd if not, Stuxnet does nothing.
+p56
+aa(lp57
+VSo that really got my attention,
+p58
+aVand we started to work on this
+p59
+aVnearly around the clock,
+p60
+aVbecause I thought, "Well, we don't know what the target is.
+p61
+aVIt could be, let's say for example,
+p62
+aVa U.S. power plant,
+p63
+aVor a chemical plant in Germany.
+p64
+aVSo we better find out what the target is soon."
+p65
+aVSo we extracted and decompiled
+p66
+aVthe attack code,
+p67
+aVand we discovered that it's structured in two digital bombs \u2014
+p68
+aVa smaller one and a bigger one.
+p69
+aVAnd we also saw that they are very professionally engineered
+p70
+aVby people who obviously had all insider information.
+p71
+aVThey knew all the bits and bites
+p72
+aVthat they had to attack.
+p73
+aVThey probably even know the shoe size of the operator.
+p74
+aVSo they know everything.
+p75
+aa(lp76
+VAnd if you have heard that the dropper of Stuxnet
+p77
+aVis complex and high-tech,
+p78
+aVlet me tell you this:
+p79
+aVthe payload is rocket science.
+p80
+aVIt's way above everything
+p81
+aVthat we have ever seen before.
+p82
+aVHere you see a sample of this actual attack code.
+p83
+aVWe are talking about \u2014
+p84
+aVaround about 15,000 lines of code.
+p85
+aVLooks pretty much like old-style assembly language.
+p86
+aVAnd I want to tell you how we were able
+p87
+aVto make sense out of this code.
+p88
+aVSo what we were looking for is, first of all, system function calls,
+p89
+aVbecause we know what they do.
+p90
+aa(lp91
+VAnd then we were looking for timers and data structures
+p92
+aVand trying to relate them to the real world \u2014
+p93
+aVto potential real world targets.
+p94
+aVSo we do need target theories
+p95
+aVthat we can prove or disprove.
+p96
+aVIn order to get target theories,
+p97
+aVwe remember
+p98
+aVthat it's definitely hardcore sabotage,
+p99
+aVit must be a high-value target
+p100
+aVand it is most likely located in Iran,
+p101
+aVbecause that's where most of the infections had been reported.
+p102
+aVNow you don't find several thousand targets in that area.
+p103
+aVIt basically boils down
+p104
+aVto the Bushehr nuclear power plant
+p105
+aVand to the Natanz fuel enrichment plant.
+p106
+aa(lp107
+VSo I told my assistant,
+p108
+aV"Get me a list of all centrifuge and power plant experts from our client base."
+p109
+aVAnd I phoned them up and picked their brain
+p110
+aVin an effort to match their expertise
+p111
+aVwith what we found in code and data.
+p112
+aVAnd that worked pretty well.
+p113
+aVSo we were able to associate
+p114
+aVthe small digital warhead
+p115
+aVwith the rotor control.
+p116
+aVThe rotor is that moving part within the centrifuge,
+p117
+aVthat black object that you see.
+p118
+aVAnd if you manipulate the speed of this rotor,
+p119
+aVyou are actually able to crack the rotor
+p120
+aVand eventually even have the centrifuge explode.
+p121
+aVWhat we also saw
+p122
+aVis that the goal of the attack
+p123
+aVwas really to do it slowly and creepy \u2014
+p124
+aVobviously in an effort
+p125
+aVto drive maintenance engineers crazy,
+p126
+aVthat they would not be able to figure this out quickly.
+p127
+aa(lp128
+VThe big digital warhead \u2014 we had a shot at this
+p129
+aVby looking very closely
+p130
+aVat data and data structures.
+p131
+aVSo for example, the number 164
+p132
+aVreally stands out in that code;
+p133
+aVyou can't overlook it.
+p134
+aVI started to research scientific literature
+p135
+aVon how these centrifuges
+p136
+aVare actually built in Natanz
+p137
+aVand found they are structured
+p138
+aVin what is called a cascade,
+p139
+aVand each cascade holds 164 centrifuges.
+p140
+aVSo that made sense, that was a match.
+p141
+aa(lp142
+VAnd it even got better.
+p143
+aVThese centrifuges in Iran
+p144
+aVare subdivided into 15, what is called, stages.
+p145
+aVAnd guess what we found in the attack code?
+p146
+aVAn almost identical structure.
+p147
+aVSo again, that was a real good match.
+p148
+aVAnd this gave us very high confidence for what we were looking at.
+p149
+aVNow don't get me wrong here, it didn't go like this.
+p150
+aVThese results have been obtained
+p151
+aVover several weeks of really hard labor.
+p152
+aVAnd we often went into just a dead end
+p153
+aVand had to recover.
+p154
+aa(lp155
+VAnyway, so we figured out
+p156
+aVthat both digital warheads
+p157
+aVwere actually aiming at one and the same target,
+p158
+aVbut from different angles.
+p159
+aVThe small warhead is taking one cascade,
+p160
+aVand spinning up the rotors and slowing them down,
+p161
+aVand the big warhead
+p162
+aVis talking to six cascades
+p163
+aVand manipulating valves.
+p164
+aVSo in all, we are very confident
+p165
+aVthat we have actually determined what the target is.
+p166
+aVIt is Natanz, and it is only Natanz.
+p167
+aVSo we don't have to worry
+p168
+aVthat other targets
+p169
+aVmight be hit by Stuxnet.
+p170
+aa(lp171
+VHere's some very cool stuff that we saw \u2014
+p172
+aVreally knocked my socks off.
+p173
+aVDown there is the gray box,
+p174
+aVand on the top you see the centrifuges.
+p175
+aVNow what this thing does
+p176
+aVis it intercepts the input values from sensors \u2014
+p177
+aVso for example, from pressure sensors
+p178
+aVand vibration sensors \u2014
+p179
+aVand it provides legitimate program code,
+p180
+aVwhich is still running during the attack,
+p181
+aVwith fake input data.
+p182
+aVAnd as a matter of fact, this fake input data
+p183
+aVis actually prerecorded by Stuxnet.
+p184
+aVSo it's just like from the Hollywood movies
+p185
+aVwhere during the heist,
+p186
+aVthe observation camera is fed with prerecorded video.
+p187
+aVThat's cool, huh?
+p188
+aa(lp189
+VThe idea here is obviously
+p190
+aVnot only to fool the operators in the control room.
+p191
+aVIt actually is much more dangerous and aggressive.
+p192
+aVThe idea
+p193
+aVis to circumvent a digital safety system.
+p194
+aVWe need digital safety systems
+p195
+aVwhere a human operator could not act quick enough.
+p196
+aVSo for example, in a power plant,
+p197
+aVwhen your big steam turbine gets too over speed,
+p198
+aVyou must open relief valves within a millisecond.
+p199
+aVObviously, this cannot be done by a human operator.
+p200
+aVSo this is where we need digital safety systems.
+p201
+aVAnd when they are compromised,
+p202
+aVthen real bad things can happen.
+p203
+aVYour plant can blow up.
+p204
+aVAnd neither your operators nor your safety system will notice it.
+p205
+aVThat's scary.
+p206
+aa(lp207
+VBut it gets worse.
+p208
+aVAnd this is very important, what I'm going to say.
+p209
+aVThink about this:
+p210
+aVthis attack is generic.
+p211
+aVIt doesn't have anything to do, in specifics,
+p212
+aVwith centrifuges,
+p213
+aVwith uranium enrichment.
+p214
+aVSo it would work as well, for example,
+p215
+aVin a power plant
+p216
+aVor in an automobile factory.
+p217
+aVIt is generic.
+p218
+aVAnd you don't have \u2014 as an attacker \u2014
+p219
+aVyou don't have to deliver this payload
+p220
+aVby a USB stick,
+p221
+aVas we saw it in the case of Stuxnet.
+p222
+aVYou could also use conventional worm technology for spreading.
+p223
+aVJust spread it as wide as possible.
+p224
+aVAnd if you do that,
+p225
+aVwhat you end up with
+p226
+aVis a cyber weapon of mass destruction.
+p227
+aVThat's the consequence
+p228
+aVthat we have to face.
+p229
+aVSo unfortunately,
+p230
+aVthe biggest number of targets for such attacks
+p231
+aVare not in the Middle East.
+p232
+aVThey're in the United States and Europe and in Japan.
+p233
+aVSo all of the green areas,
+p234
+aVthese are your target-rich environments.
+p235
+aVWe have to face the consequences,
+p236
+aVand we better start to prepare right now.
+p237
+aa(lp238
+VThanks.
+p239
+aa(lp240
+V(Applause)
+p241
+aa(lp242
+VChris Anderson: I've got a question.
+p243
+aVRalph, it's been quite widely reported
+p244
+aVthat people assume that Mossad
+p245
+aVis the main entity behind this.
+p246
+aVIs that your opinion?
+p247
+aa(lp248
+VRalph Langner: Okay, you really want to hear that?
+p249
+aVYeah. Okay.
+p250
+aVMy opinion is that the Mossad is involved,
+p251
+aVbut that the leading force is not Israel.
+p252
+aVSo the leading force behind that
+p253
+aVis the cyber superpower.
+p254
+aVThere is only one,
+p255
+aVand that's the United States \u2014
+p256
+aVfortunately, fortunately.
+p257
+aVBecause otherwise,
+p258
+aVour problems would even be bigger.
+p259
+aa(lp260
+VCA: Thank you for scaring the living daylights out of us. Thank you, Ralph.
+p261
+aa(lp262
+V(Applause)
+p263
+aasS'id'
+p264
+I1107
+sS'title'
+p265
+VCracking Stuxnet, a 21st-century cyber weapon
+p266
+s.

@@ -1,0 +1,468 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo there's a lot of valid concern these days
+p4
+aVthat our technology is getting so smart
+p5
+aVthat we've put ourselves on the path to a jobless future.
+p6
+aVAnd I think the example of a self-driving car
+p7
+aVis actually the easiest one to see.
+p8
+aVSo these are going to be fantastic for all kinds of different reasons.
+p9
+aVBut did you know that "driver" is actually the most common job
+p10
+aVin 29 of the 50 US states?
+p11
+aVWhat's going to happen to these jobs when we're no longer driving our cars
+p12
+aVor cooking our food
+p13
+aVor even diagnosing our own diseases?
+p14
+aa(lp15
+VWell, a recent study from Forrester Research
+p16
+aVgoes so far to predict that 25 million jobs
+p17
+aVmight disappear over the next 10 years.
+p18
+aVTo put that in perspective,
+p19
+aVthat's three times as many jobs lost in the aftermath of the financial crisis.
+p20
+aVAnd it's not just blue-collar jobs that are at risk.
+p21
+aVOn Wall Street and across Silicon Valley, we are seeing tremendous gains
+p22
+aVin the quality of analysis and decision-making
+p23
+aVbecause of machine learning.
+p24
+aVSo even the smartest, highest-paid people will be affected by this change.
+p25
+aa(lp26
+VWhat's clear is that no matter what your job is,
+p27
+aVat least some, if not all of your work,
+p28
+aVis going to be done by a robot or software in the next few years.
+p29
+aVAnd that's exactly why people like Mark Zuckerberg and Bill Gates
+p30
+aVare talking about the need for government-funded minimum income levels.
+p31
+aVBut if our politicians can't agree on things like health care
+p32
+aVor even school lunches,
+p33
+aVI just don't see a path where they'll find consensus
+p34
+aVon something as big and as expensive as universal basic life income.
+p35
+aVInstead, I think the response needs to be led by us in industry.
+p36
+aVWe have to recognize the change that's ahead of us
+p37
+aVand start to design the new kinds of jobs
+p38
+aVthat will still be relevant in the age of robotics.
+p39
+aa(lp40
+VThe good news is that we have faced down and recovered
+p41
+aVtwo mass extinctions of jobs before.
+p42
+aVFrom 1870 to 1970,
+p43
+aVthe percent of American workers based on farms fell by 90 percent,
+p44
+aVand then again from 1950 to 2010,
+p45
+aVthe percent of Americans working in factories
+p46
+aVfell by 75 percent.
+p47
+aVThe challenge we face this time, however, is one of time.
+p48
+aVWe had a hundred years to move from farms to factories,
+p49
+aVand then 60 years to fully build out a service economy.
+p50
+aVThe rate of change today
+p51
+aVsuggests that we may only have 10 or 15 years to adjust,
+p52
+aVand if we don't react fast enough,
+p53
+aVthat means by the time today's elementary-school students
+p54
+aVare college-aged,
+p55
+aVwe could be living in a world that's robotic,
+p56
+aVlargely unemployed and stuck in kind of un-great depression.
+p57
+aa(lp58
+VBut I don't think it has to be this way.
+p59
+aVYou see, I work in innovation,
+p60
+aVand part of my job is to shape how large companies apply new technologies.
+p61
+aVCertainly some of these technologies
+p62
+aVare even specifically designed to replace human workers.
+p63
+aVBut I believe that if we start taking steps right now
+p64
+aVto change the nature of work,
+p65
+aVwe can not only create environments where people love coming to work
+p66
+aVbut also generate the innovation that we need
+p67
+aVto replace the millions of jobs that will be lost to technology.
+p68
+aVI believe that the key to preventing our jobless future
+p69
+aVis to rediscover what makes us human,
+p70
+aVand to create a new generation of human-centered jobs
+p71
+aVthat allow us to unlock the hidden talents and passions
+p72
+aVthat we carry with us every day.
+p73
+aa(lp74
+VBut first, I think it's important to recognize
+p75
+aVthat we brought this problem on ourselves.
+p76
+aVAnd it's not just because, you know, we are the one building the robots.
+p77
+aVBut even though most jobs left the factory decades ago,
+p78
+aVwe still hold on to this factory mindset
+p79
+aVof standardization and de-skilling.
+p80
+aVWe still define jobs around procedural tasks
+p81
+aVand then pay people for the number of hours that they perform these tasks.
+p82
+aVWe've created narrow job definitions
+p83
+aVlike cashier, loan processor or taxi driver
+p84
+aVand then asked people to form entire careers
+p85
+aVaround these singular tasks.
+p86
+aa(lp87
+VThese choices have left us with actually two dangerous side effects.
+p88
+aVThe first is that these narrowly defined jobs
+p89
+aVwill be the first to be displaced by robots,
+p90
+aVbecause single-task robots are just the easiest kinds to build.
+p91
+aVBut second, we have accidentally made it
+p92
+aVso that millions of workers around the world
+p93
+aVhave unbelievably boring working lives.
+p94
+aa(lp95
+V(Laughter)
+p96
+aa(lp97
+VLet's take the example of a call center agent.
+p98
+aVOver the last few decades, we brag about lower operating costs
+p99
+aVbecause we've taken most of the need for brainpower
+p100
+aVout of the person and put it into the system.
+p101
+aVFor most of their day, they click on screens,
+p102
+aVthey read scripts.
+p103
+aVThey act more like machines than humans.
+p104
+aVAnd unfortunately, over the next few years,
+p105
+aVas our technology gets more advanced,
+p106
+aVthey, along with people like clerks and bookkeepers,
+p107
+aVwill see the vast majority of their work disappear.
+p108
+aa(lp109
+VTo counteract this, we have to start creating new jobs
+p110
+aVthat are less centered on the tasks that a person does
+p111
+aVand more focused on the skills that a person brings to work.
+p112
+aVFor example, robots are great at repetitive and constrained work,
+p113
+aVbut human beings have an amazing ability
+p114
+aVto bring together capability with creativity
+p115
+aVwhen faced with problems that we've never seen before.
+p116
+aVIt's when every day brings a little bit of a surprise
+p117
+aVthat we have designed work for humans
+p118
+aVand not for robots.
+p119
+aVOur entrepreneurs and engineers already live in this world,
+p120
+aVbut so do our nurses and our plumbers
+p121
+aVand our therapists.
+p122
+aVYou know, it's the nature of too many companies and organizations
+p123
+aVto just ask people to come to work and do your job.
+p124
+aVBut if you work is better done by a robot,
+p125
+aVor your decisions better made by an AI,
+p126
+aVwhat are you supposed to be doing?
+p127
+aa(lp128
+VWell, I think for the manager,
+p129
+aVwe need to realistically think about the tasks that will be disappearing
+p130
+aVover the next few years
+p131
+aVand start planning for more meaningful, more valuable work that should replace it.
+p132
+aVWe need to create environments
+p133
+aVwhere both human beings and robots thrive.
+p134
+aVI say, let's give more work to the robots,
+p135
+aVand let's start with the work that we absolutely hate doing.
+p136
+aVHere, robot,
+p137
+aVprocess this painfully idiotic report.
+p138
+aa(lp139
+V(Laughter)
+p140
+aa(lp141
+VAnd move this box. Thank you.
+p142
+aa(lp143
+V(Laughter)
+p144
+aa(lp145
+VAnd for the human beings,
+p146
+aVwe should follow the advice from Harry Davis at the University of Chicago.
+p147
+aVHe says we have to make it so that people don't leave too much of themselves
+p148
+aVin the trunk of their car.
+p149
+aVI mean, human beings are amazing on weekends.
+p150
+aVThink about the people that you know and what they do on Saturdays.
+p151
+aVThey're artists, carpenters, chefs and athletes.
+p152
+aVBut on Monday, they're back to being Junior HR Specialist
+p153
+aVand Systems Analyst 3.
+p154
+aa(lp155
+V(Laughter)
+p156
+aa(lp157
+VYou know, these narrow job titles not only sound boring,
+p158
+aVbut they're actually a subtle encouragement
+p159
+aVfor people to make narrow and boring job contributions.
+p160
+aVBut I've seen firsthand that when you invite people to be more,
+p161
+aVthey can amaze us with how much more they can be.
+p162
+aa(lp163
+VA few years ago, I was working at a large bank
+p164
+aVthat was trying to bring more innovation into its company culture.
+p165
+aVSo my team and I designed a prototyping contest
+p166
+aVthat invited anyone to build anything that they wanted.
+p167
+aVWe were actually trying to figure out
+p168
+aVwhether or not the primary limiter to innovation
+p169
+aVwas a lack of ideas or a lack of talent,
+p170
+aVand it turns out it was neither one.
+p171
+aVIt was an empowerment problem.
+p172
+aVAnd the results of the program were amazing.
+p173
+aVWe started by inviting people to reenvision
+p174
+aVwhat it is they could bring to a team.
+p175
+aVThis contest was not only a chance to build anything that you wanted
+p176
+aVbut also be anything that you wanted.
+p177
+aVAnd when people were no longer limited by their day-to-day job titles,
+p178
+aVthey felt free to bring all kinds of different skills and talents
+p179
+aVto the problems that they were trying to solve.
+p180
+aVWe saw technology people being designers, marketing people being architects,
+p181
+aVand even finance people showing off their ability to write jokes.
+p182
+aa(lp183
+V(Laughter)
+p184
+aa(lp185
+VWe ran this program twice,
+p186
+aVand each time more than 400 people brought their unexpected talents to work
+p187
+aVand solved problems that they had been wanting to solve for years.
+p188
+aVCollectively, they created millions of dollars of value,
+p189
+aVbuilding things like a better touch-tone system for call centers,
+p190
+aVeasier desktop tools for branches
+p191
+aVand even a thank you card system
+p192
+aVthat has become a cornerstone of the employee working experience.
+p193
+aVOver the course of the eight weeks,
+p194
+aVpeople flexed muscles that they never dreamed of using at work.
+p195
+aVPeople learned new skills,
+p196
+aVthey met new people,
+p197
+aVand at the end, somebody pulled me aside and said,
+p198
+aV"I have to tell you,
+p199
+aVthe last few weeks has been one of the most intense,
+p200
+aVhardest working experiences of my entire life,
+p201
+aVbut not one second of it felt like work."
+p202
+aa(lp203
+VAnd that's the key.
+p204
+aVFor those few weeks, people got to be creators and innovators.
+p205
+aVThey had been dreaming of solutions
+p206
+aVto problems that had been bugging them for years,
+p207
+aVand this was a chance to turn those dreams into a reality.
+p208
+aVAnd that dreaming is an important part of what separates us from machines.
+p209
+aVFor now, our machines do not get frustrated,
+p210
+aVthey do not get annoyed,
+p211
+aVand they certainly don't imagine.
+p212
+aa(lp213
+VBut we, as human beings \u2014
+p214
+aVwe feel pain,
+p215
+aVwe get frustrated.
+p216
+aVAnd it's when we're most annoyed and most curious
+p217
+aVthat we're motivated to dig into a problem and create change.
+p218
+aVOur imaginations are the birthplace of new products, new services,
+p219
+aVand even new industries.
+p220
+aa(lp221
+VI believe that the jobs of the future
+p222
+aVwill come from the minds of people
+p223
+aVwho today we call analysts and specialists,
+p224
+aVbut only if we give them the freedom and protection that they need to grow
+p225
+aVinto becoming explorers and inventors.
+p226
+aVIf we really want to robot-proof our jobs,
+p227
+aVwe, as leaders, need to get out of the mindset
+p228
+aVof telling people what to do
+p229
+aVand instead start asking them what problems they're inspired to solve
+p230
+aVand what talents they want to bring to work.
+p231
+aVBecause when you can bring your Saturday self to work on Wednesdays,
+p232
+aVyou'll look forward to Mondays more,
+p233
+aVand those feelings that we have about Mondays
+p234
+aVare part of what makes us human.
+p235
+aa(lp236
+VAnd as we redesign work for an era of intelligent machines,
+p237
+aVI invite you all to work alongside me
+p238
+aVto bring more humanity to our working lives.
+p239
+aa(lp240
+VThank you.
+p241
+aa(lp242
+V(Applause)
+p243
+aasS'id'
+p244
+I2895
+sS'title'
+p245
+VWhy jobs of the future won't feel like work
+p246
+s.

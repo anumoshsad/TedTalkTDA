@@ -1,0 +1,518 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VHow many of you have seen the Alfred Hitchcock film "The Birds"?
+p4
+aVAny of you get really freaked out by that?
+p5
+aVYou might want to leave now.
+p6
+aa(lp7
+V(Laughter)
+p8
+aa(lp9
+VSo this is a vending machine for crows.
+p10
+aVOver the past few days, many of you have been asking,
+p11
+aV"How did you come to this? How did you get started doing this?"
+p12
+aVIt started, as with many great ideas,
+p13
+aVor many ideas you can't get rid of, anyway,
+p14
+aVat a cocktail party.
+p15
+aVAbout 10 years ago, I was at a cocktail party with a friend of mine.
+p16
+aVWe were sitting there, and he was complaining about the crows
+p17
+aVthat were all over his yard and making a big mess.
+p18
+aVAnd he was telling me we ought to eradicate these things,
+p19
+aVkill them, because they're making a mess.
+p20
+aVI said that was stupid,
+p21
+aVmaybe we should just train them to do something useful.
+p22
+aVAnd he said that was impossible.
+p23
+aa(lp24
+VAnd I'm sure I'm in good company in finding that tremendously annoying,
+p25
+aVwhen someone tells you it's impossible.
+p26
+aVSo I spent the next 10 years reading about crows in my spare time.
+p27
+aa(lp28
+V(Laughter)
+p29
+aa(lp30
+VAnd after 10 years of this, my wife said,
+p31
+aV"You've got to do this thing you've been talking about,
+p32
+aVand build the vending machine."
+p33
+aVSo I did.
+p34
+aVBut part of the reason I found this interesting is,
+p35
+aVI started noticing that we're very aware of all the species
+p36
+aVthat are going extinct on the planet
+p37
+aVas a result of human habitation expansion,
+p38
+aVand no one seems to be paying attention to all the species
+p39
+aVthat are actually living; they're surviving.
+p40
+aVAnd I'm talking specifically about synanthropic species,
+p41
+aVwhich have adapted specifically for human ecologies,
+p42
+aVspecies like rats and cockroaches and crows.
+p43
+aa(lp44
+VAnd as I started looking at them, I was finding that they had hyper-adapted.
+p45
+aVThey'd become extremely adept at living with us.
+p46
+aVAnd in return, we just tried to kill them all the time.
+p47
+aa(lp48
+V(Laughter)
+p49
+aa(lp50
+VAnd in doing so, we were breeding them for parasitism.
+p51
+aVWe were giving them all sorts of reasons to adapt new ways.
+p52
+aVSo, for example, rats are incredibly responsive breeders.
+p53
+aVAnd cockroaches, as anyone who's tried to get rid of them knows,
+p54
+aVhave become really immune to the poisons that we're using.
+p55
+aVSo I thought, let's build something that's mutually beneficial;
+p56
+aVsomething that we can both benefit from,
+p57
+aVand find some way to make a new relationship with these species.
+p58
+aVSo I built the vending machine.
+p59
+aa(lp60
+VBut the story of the vending machine is a little more interesting
+p61
+aVif you know more about crows.
+p62
+aVIt turns out, crows aren't just surviving with human beings;
+p63
+aVthey're actually thriving.
+p64
+aVThey're found everywhere on the planet except for the Arctic
+p65
+aVand the southern tip of South America.
+p66
+aVAnd in all that area, they're only rarely found breeding
+p67
+aVmore than five kilometers away from human beings.
+p68
+aVSo we may not think about them, but they're always around.
+p69
+aVAnd not surprisingly, given the human population growth,
+p70
+aVmore than half of the human population is living in cities now.
+p71
+aVAnd out of those, nine-tenths of the human growth population
+p72
+aVis occurring in cities.
+p73
+aVWe're seeing a population boom with crows.
+p74
+aVSo bird counts are indicating
+p75
+aVthat we might be seeing up to exponential growth in their numbers.
+p76
+aVSo that's no great surprise.
+p77
+aa(lp78
+VBut what was really interesting to me was to find out
+p79
+aVthat the birds were adapting in a pretty unusual way.
+p80
+aVAnd I'll give you an example of that.
+p81
+aVThis is Betty. She's a New Caledonian crow.
+p82
+aVAnd these crows use sticks in the wild
+p83
+aVto get insects and whatnot out of pieces of wood.
+p84
+aVHere, she's trying to get a piece of meat out of a tube.
+p85
+aVBut the researchers had a problem.
+p86
+aVThey messed up and left just a stick of wire in there.
+p87
+aVAnd she hadn't had the opportunity to do this before.
+p88
+aVYou see, it wasn't working very well.
+p89
+aVSo she adapted.
+p90
+aa(lp91
+VNow, this is completely unprompted; she had never seen this done before.
+p92
+aVNo one taught her to bend this into a hook
+p93
+aVor had shown her how it could happen.
+p94
+aVBut she did it all on her own.
+p95
+aVSo keep in mind \u2014 she's never seen this done.
+p96
+aa(lp97
+V(Laughter)
+p98
+aa(lp99
+VRight.
+p100
+aa(lp101
+V(Laughter)
+p102
+aa(lp103
+VYeah. All right.
+p104
+aa(lp105
+V(Applause)
+p106
+aa(lp107
+VSo that's the part where the researchers freak out.
+p108
+aa(lp109
+V(Laughter)
+p110
+aa(lp111
+VIt turns out,
+p112
+aVwe've been finding more and more that crows are really intelligent.
+p113
+aVTheir brains are in the same proportion as chimpanzee brains are.
+p114
+aVThere's all kinds of anecdotes
+p115
+aVfor the different kinds of intelligence they have.
+p116
+aVFor example, in Sweden, crows will wait for fishermen
+p117
+aVto drop lines through holes in the ice.
+p118
+aVAnd when the fishermen move off,
+p119
+aVthe crows fly down, reel up the lines, and eat the fish or the bait.
+p120
+aVIt's pretty annoying for the fishermen.
+p121
+aa(lp122
+VOn an entirely different tack,
+p123
+aVat University of Washington a few years ago,
+p124
+aVthey were doing an experiment where they captured some crows on campus.
+p125
+aVSome students went out, netted some crows, brought them in,
+p126
+aVweighed and measured them, and let them back out again.
+p127
+aVAnd they were entertained to discover that for the rest of the week,
+p128
+aVwhenever these particular students walked around campus,
+p129
+aVthese crows would caw at them and run around,
+p130
+aVand make their life kind of miserable.
+p131
+aa(lp132
+V(Laughter)
+p133
+aa(lp134
+VThey were significantly less entertained
+p135
+aVwhen this went on for the next week.
+p136
+aVAnd the next month.
+p137
+aVAnd after summer break.
+p138
+aVUntil they finally graduated and left campus,
+p139
+aVand \u2014 glad to get away, I'm sure \u2014
+p140
+aVcame back sometime later, and found the crows still remembered them.
+p141
+aa(lp142
+V(Laughter)
+p143
+aa(lp144
+VSo, the moral being: don't piss off crows.
+p145
+aVSo now, students at the University of Washington
+p146
+aVthat are studying these crows, do so with a giant wig and a big mask.
+p147
+aa(lp148
+V(Laughter)
+p149
+aa(lp150
+VIt's fairly interesting.
+p151
+aa(lp152
+V(Laughter)
+p153
+aa(lp154
+VSo we know these crows are really smart,
+p155
+aVbut the more I dug into this, the more I found
+p156
+aVthat they actually have an even more significant adaptation.
+p157
+aa(lp158
+VVideo: Crows have become highly skilled at making a living
+p159
+aVin these new urban environments.
+p160
+aVIn this Japanese city, they have devised a way of eating a food
+p161
+aVthat normally they can't manage:
+p162
+aVdrop it among the traffic.
+p163
+aVThe problem now is collecting the bits, without getting run over.
+p164
+aVWait for the light to stop the traffic.
+p165
+aVThen, collect your cracked nut in safety.
+p166
+aa(lp167
+V(Laughter)
+p168
+aa(lp169
+V(Applause)
+p170
+aa(lp171
+VJoshua Klein: Yeah, pretty interesting.
+p172
+aVWhat's significant about this isn't that crows are using cars
+p173
+aVto crack nuts.
+p174
+aVIn fact, that's old hat for crows.
+p175
+aVThis happened about 10 years ago
+p176
+aVin a place called Sendai City, at a driving school
+p177
+aVin the suburbs of Tokyo.
+p178
+aVAnd since that time,
+p179
+aVall the crows in the neighborhood are picking up this behavior.
+p180
+aVNow every crow within five kilometers is standing by a sidewalk,
+p181
+aVwaiting to collect its lunch.
+p182
+aa(lp183
+VSo they're learning from each other. And research bears this out.
+p184
+aVParents seem to be teaching their young.
+p185
+aVThey learn from their peers, they learn from their enemies.
+p186
+aVIf I have a little extra time,
+p187
+aVI'll tell you about a case of crow infidelity
+p188
+aVthat illustrates that nicely.
+p189
+aVThe point being, they've developed cultural adaptation.
+p190
+aVAnd as we heard yesterday,
+p191
+aVthat's the Pandora's box that's getting human beings in trouble,
+p192
+aVand we're starting to see it with them.
+p193
+aVThey're able to very quickly and very flexibly adapt
+p194
+aVto new challenges and new resources in their environment,
+p195
+aVwhich is really useful if you live in a city.
+p196
+aa(lp197
+VSo we know that there's lots of crows.
+p198
+aVWe found out they're really smart and they can teach each other.
+p199
+aVWhen all this became clear,
+p200
+aVI realized the only obvious thing to do is build a vending machine.
+p201
+aVSo that's what we did.
+p202
+aVThis is a vending machine for crows.
+p203
+aVAnd it uses Skinnerian training to shape their behavior over four stages.
+p204
+aVIt's pretty simple.
+p205
+aVBasically, what happens is that we put this out in a field
+p206
+aVor someplace where there's lots of crows.
+p207
+aVWe put coins and peanuts all around the base of the machine.
+p208
+aVCrows eventually come by, eat the peanuts,
+p209
+aVand get used to the machine being there.
+p210
+aVEventually, they eat all the peanuts.
+p211
+aVThen they see peanuts here on the feeder tray,
+p212
+aVand hop up and help themselves.
+p213
+aVThen they leave, the machine spits up more coins and peanuts,
+p214
+aVand life is dandy if you're a crow \u2014
+p215
+aVyou can come back anytime and get yourself a peanut.
+p216
+aa(lp217
+VSo when they get really used to that, we move on to the crows coming back.
+p218
+aVNow they're used to the sound of the machine;
+p219
+aVthey keep coming back and digging out peanuts
+p220
+aVfrom the pile of coins that's there.
+p221
+aVWhen they get really happy about this, we stymie them.
+p222
+aa(lp223
+VWe move to the third stage, where we only give them a coin.
+p224
+aVNow, like most of us who have gotten used to a good thing,
+p225
+aVthis really pisses them off.
+p226
+aVSo they do what they do in nature when they're looking for something:
+p227
+aVsweep things out of the way with their beak.
+p228
+aVThey do that here, and that knocks the coins down the slot.
+p229
+aVWhen that happens, they get a peanut.
+p230
+aVThis goes on for some time.
+p231
+aVThe crows learn that all they have to do is show up,
+p232
+aVwait for the coin to come out, put it in the slot,
+p233
+aVthen get their peanut.
+p234
+aa(lp235
+VWhen they're good and comfortable with that,
+p236
+aVwe move to the final stage, where they show up and nothing happens.
+p237
+aVThis is where we see the difference between crows and other animals.
+p238
+aVSquirrels, for example, would show up, look for the peanut, go away.
+p239
+aVCome back, look for the peanut, go away.
+p240
+aVThey do this maybe half a dozen times before they get bored,
+p241
+aVand then they go off and play in traffic.
+p242
+aa(lp243
+VCrows, on the other hand, show up and they try and figure it out.
+p244
+aVThey know this machine has been messing with them
+p245
+aVthrough three different stages of behavior.
+p246
+aa(lp247
+V(Laughter)
+p248
+aa(lp249
+VThey figure there must be more to it.
+p250
+aVSo they poke at it and peck at it.
+p251
+aVAnd eventually some crow gets a bright idea:
+p252
+aV"Hey, there's lots of coins lying around from the first stage,
+p253
+aVhops down, picks it up, drops it in the slot, and we're off to the races.
+p254
+aVThat crow enjoys a temporary monopoly on peanuts,
+p255
+aVuntil his friends figure out how to do it, and then there we go.
+p256
+aa(lp257
+VSo, what's significant about this to me
+p258
+aVisn't that we can train crows to pick up peanuts.
+p259
+aVMind you, there's 216 million dollars' worth of change lost every year,
+p260
+aVbut I'm not sure I can depend on that ROI from crows.
+p261
+aa(lp262
+V(Laughter)
+p263
+aa(lp264
+VInstead, I think we should look a little bit larger.
+p265
+aVI think crows can be trained to do other things.
+p266
+aVFor example, why not train them to pick up garbage after stadium events?
+p267
+aVOr find expensive components from discarded electronics?
+p268
+aVOr maybe do search and rescue?
+p269
+aVThe main point of all this for me is,
+p270
+aVwe can find mutually beneficial systems for these species.
+p271
+aVWe can find ways to interact with these other species
+p272
+aVthat doesn't involve exterminating them,
+p273
+aVbut involves finding an equilibrium with them that's a useful balance.
+p274
+aa(lp275
+VThanks very much.
+p276
+aa(lp277
+V(Applause)
+p278
+aasS'id'
+p279
+I261
+sS'title'
+p280
+VA thought experiment on the intelligence of crows
+p281
+s.

@@ -1,0 +1,313 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThe brain is an amazing and complex organ.
+p4
+aVAnd while many people are fascinated by the brain,
+p5
+aVthey can't really tell you that much
+p6
+aVabout the properties about how the brain works
+p7
+aVbecause we don't teach neuroscience in schools.
+p8
+aa(lp9
+VAnd one of the reasons why is that the equipment
+p10
+aVis so complex and so expensive
+p11
+aVthat it's really only done at major universities and large institutions.
+p12
+aVAnd so in order to be able to access the brain,
+p13
+aVyou really need to dedicate your life
+p14
+aVand spend six and a half years as a graduate student
+p15
+aVjust to become a neuroscientist to get access to these tools.
+p16
+aa(lp17
+VAnd that's a shame because one out of five of us,
+p18
+aVthat's 20 percent of the entire world, will have a neurological disorder.
+p19
+aVAnd there are zero cures for these diseases.
+p20
+aVAnd so it seems that what we should be doing
+p21
+aVis reaching back earlier in the eduction process
+p22
+aVand teaching students about neuroscience so that in the future,
+p23
+aVthey may be thinking about possibly becoming a brain scientist.
+p24
+aa(lp25
+VWhen I was a graduate student, my lab mate Tim Marzullo and myself,
+p26
+aVdecided that what if we took this complex equipment that we have
+p27
+aVfor studying the brain and made it simple enough and affordable enough
+p28
+aVthat anyone that you know, an amateur or a high school student,
+p29
+aVcould learn and actually participate in the discovery of neuroscience.
+p30
+aa(lp31
+VAnd so we did just that.
+p32
+aVA few years ago, we started a company called Backyard Brains
+p33
+aVand we make DIY neuroscience equipment and I brought some here tonight,
+p34
+aVand I want to do some demonstrations.
+p35
+aVYou guys want to see some?
+p36
+aa(lp37
+VSo I need a volunteer.
+p38
+aVSo right before \u2014 what is your name? (Applause)
+p39
+aVSam Kelly: Sam.
+p40
+aVGreg Gage: All right, Sam, I'm going to record from your brain.
+p41
+aVHave you had this before?
+p42
+aVSK: No.
+p43
+aVGG: I need you to stick out your arm for science,
+p44
+aVroll up your sleeve a bit,
+p45
+aVSo what I'm going to do, I'm putting electrodes on your arm,
+p46
+aVand you're probably wondering,
+p47
+aVI just said I'm going to record from your brain, what am I doing with your arm?
+p48
+aa(lp49
+VWell, you have about 80 billion neurons inside your brain right now.
+p50
+aVThey're sending electrical messages back and forth, and chemical messages.
+p51
+aVBut some of your neurons right here in your motor cortex
+p52
+aVare going to send messages down when you move your arm like this.
+p53
+aVThey're going to go down across your corpus callosum,
+p54
+aVdown onto your spinal cord to your lower motor neuron
+p55
+aVout to your muscles here,
+p56
+aVand that electrical discharge is going to be picked up
+p57
+aVby these electrodes right here
+p58
+aVand we're going to be able to listen
+p59
+aVto exactly what your brain is going to be doing.
+p60
+aVSo I'm going to turn this on for a second.
+p61
+aa(lp62
+VHave you ever heard what your brain sounds like?
+p63
+aVSK: No.
+p64
+aVGG: Let's try it out. So go ahead and squeeze your hand.
+p65
+aV(Rumbling)
+p66
+aVSo what you're listening to,
+p67
+aVso this is your motor units happening right here.
+p68
+aVLet's take a look at it as well.
+p69
+aVSo I'm going to stand over here,
+p70
+aVand I'm going to open up our app here.
+p71
+aVSo now I want you to squeeze.
+p72
+aV(Rumbling)
+p73
+aa(lp74
+VSo right here, these are the motor units that are happening
+p75
+aVfrom her spinal cord out to her muscle right here,
+p76
+aVand as she's doing it,
+p77
+aVyou're seeing the electrical activity that's happening here.
+p78
+aVYou can even click here and try to see one of them.
+p79
+aVSo keep doing it really hard.
+p80
+aVSo now we've paused
+p81
+aVon one motor action potential that's happening right now inside of your brain.
+p82
+aa(lp83
+VDo you guys want to see some more?
+p84
+aV(Applause)
+p85
+aVThat's interesting, but let's get it better.
+p86
+aVI need one more volunteer.
+p87
+aVWhat is your name, sir?
+p88
+aVMiguel Goncalves: Miguel.
+p89
+aVGG: Miguel, all right.
+p90
+aVYou're going to stand right here.
+p91
+aVSo when you're moving your arm like this,
+p92
+aVyour brain is sending a signal down to your muscles right here.
+p93
+aVI want you to move your arm as well.
+p94
+aVSo your brain is going to send a signal down to your muscles.
+p95
+aVAnd so it turns out that there is a nerve that's right here
+p96
+aVthat runs up here that innervates these three fingers,
+p97
+aVand it's close enough to the skin that we might be able
+p98
+aVto stimulate that so that what we can do
+p99
+aVis copy your brain signals going out to your hand
+p100
+aVand inject it into your hand,
+p101
+aVso that your hand will move when your brain tells your hand to move.
+p102
+aVSo in a sense, she will take away your free will
+p103
+aVand you will no longer have any control over this hand.
+p104
+aVYou with me?
+p105
+aa(lp106
+VSo I just need to hook you up.
+p107
+aV(Laughter)
+p108
+aVSo I'm going to find your ulnar nerve,
+p109
+aVwhich is probably right around here.
+p110
+aVYou don't know what you're signing up for
+p111
+aVwhen you come up.
+p112
+aVSo now I'm going to move away and we're going to plug it in
+p113
+aVto our human-to-human interface over here.
+p114
+aa(lp115
+VOkay, so Sam, I want you to squeeze your hand again.
+p116
+aVDo it again. Perfect.
+p117
+aVSo now I'm going to hook you up over here so that you get the \u2014
+p118
+aVIt's going to feel a little bit weird at first,
+p119
+aVthis is going to feel like a \u2014 (Laughter)
+p120
+aVYou know, when you lose your free will, and someone else becomes your agent,
+p121
+aVit does feel a bit strange.
+p122
+aa(lp123
+VNow I want you to relax your hand.
+p124
+aVSam, you're with me?
+p125
+aVSo you're going to squeeze.
+p126
+aVI'm not going to turn it on yet, so go ahead and give it a squeeze.
+p127
+aa(lp128
+VSo now, are you ready, Miguel?
+p129
+aVMG: Ready as I'll ever be.
+p130
+aVGG: I've turned it on, so go ahead and turn your hand.
+p131
+aVDo you feel that a little bit? MG: Nope.
+p132
+aVGG: Okay, do it again? MG: A little bit.
+p133
+aVGG: A little bit? (Laughter)
+p134
+aVSo relax.
+p135
+aVSo hit it again.
+p136
+aV(Laughter)
+p137
+aVOh, perfect, perfect.
+p138
+aVSo relax, do it again.
+p139
+aa(lp140
+VAll right, so right now,
+p141
+aVyour brain is controlling your arm and it's also controlling his arm,
+p142
+aVso go ahead and just do it one more time.
+p143
+aVAll right, so it's perfect. (Laughter)
+p144
+aa(lp145
+VSo now, what would happen if I took over my control of your hand?
+p146
+aVAnd so, just relax your hand.
+p147
+aVWhat happens?
+p148
+aVAh, nothing.
+p149
+aVWhy not?
+p150
+aVBecause the brain has to do it.
+p151
+aVSo you do it again.
+p152
+aVAll right, that's perfect.
+p153
+aa(lp154
+VThank you guys for being such a good sport.
+p155
+aVThis is what's happening all across the world \u2014
+p156
+aVelectrophysiology!
+p157
+aVWe're going to bring on the neuro-revolution.
+p158
+aa(lp159
+VThank you.
+p160
+aa(lp161
+V(Applause)
+p162
+aasS'id'
+p163
+I2244
+sS'title'
+p164
+VHow to control someone else's arm with your brain
+p165
+s.

@@ -1,0 +1,737 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo, I started my first job as a computer programmer
+p4
+aVin my very first year of college \u2014
+p5
+aVbasically, as a teenager.
+p6
+aa(lp7
+VSoon after I started working,
+p8
+aVwriting software in a company,
+p9
+aVa manager who worked at the company came down to where I was,
+p10
+aVand he whispered to me,
+p11
+aV"Can he tell if I'm lying?"
+p12
+aVThere was nobody else in the room.
+p13
+aa(lp14
+V"Can who tell if you're lying? And why are we whispering?"
+p15
+aa(lp16
+VThe manager pointed at the computer in the room.
+p17
+aV"Can he tell if I'm lying?"
+p18
+aVWell, that manager was having an affair with the receptionist.
+p19
+aa(lp20
+V(Laughter)
+p21
+aa(lp22
+VAnd I was still a teenager.
+p23
+aVSo I whisper-shouted back to him,
+p24
+aV"Yes, the computer can tell if you're lying."
+p25
+aa(lp26
+V(Laughter)
+p27
+aa(lp28
+VWell, I laughed, but actually, the laugh's on me.
+p29
+aVNowadays, there are computational systems
+p30
+aVthat can suss out emotional states and even lying
+p31
+aVfrom processing human faces.
+p32
+aVAdvertisers and even governments are very interested.
+p33
+aa(lp34
+VI had become a computer programmer
+p35
+aVbecause I was one of those kids crazy about math and science.
+p36
+aVBut somewhere along the line I'd learned about nuclear weapons,
+p37
+aVand I'd gotten really concerned with the ethics of science.
+p38
+aVI was troubled.
+p39
+aVHowever, because of family circumstances,
+p40
+aVI also needed to start working as soon as possible.
+p41
+aVSo I thought to myself, hey, let me pick a technical field
+p42
+aVwhere I can get a job easily
+p43
+aVand where I don't have to deal with any troublesome questions of ethics.
+p44
+aVSo I picked computers.
+p45
+aa(lp46
+V(Laughter)
+p47
+aa(lp48
+VWell, ha, ha, ha! All the laughs are on me.
+p49
+aVNowadays, computer scientists are building platforms
+p50
+aVthat control what a billion people see every day.
+p51
+aVThey're developing cars that could decide who to run over.
+p52
+aVThey're even building machines, weapons,
+p53
+aVthat might kill human beings in war.
+p54
+aVIt's ethics all the way down.
+p55
+aa(lp56
+VMachine intelligence is here.
+p57
+aVWe're now using computation to make all sort of decisions,
+p58
+aVbut also new kinds of decisions.
+p59
+aVWe're asking questions to computation that have no single right answers,
+p60
+aVthat are subjective
+p61
+aVand open-ended and value-laden.
+p62
+aa(lp63
+VWe're asking questions like,
+p64
+aV"Who should the company hire?"
+p65
+aV"Which update from which friend should you be shown?"
+p66
+aV"Which convict is more likely to reoffend?"
+p67
+aV"Which news item or movie should be recommended to people?"
+p68
+aa(lp69
+VLook, yes, we've been using computers for a while,
+p70
+aVbut this is different.
+p71
+aVThis is a historical twist,
+p72
+aVbecause we cannot anchor computation for such subjective decisions
+p73
+aVthe way we can anchor computation for flying airplanes, building bridges,
+p74
+aVgoing to the moon.
+p75
+aVAre airplanes safer? Did the bridge sway and fall?
+p76
+aVThere, we have agreed-upon, fairly clear benchmarks,
+p77
+aVand we have laws of nature to guide us.
+p78
+aVWe have no such anchors and benchmarks
+p79
+aVfor decisions in messy human affairs.
+p80
+aa(lp81
+VTo make things more complicated, our software is getting more powerful,
+p82
+aVbut it's also getting less transparent and more complex.
+p83
+aVRecently, in the past decade,
+p84
+aVcomplex algorithms have made great strides.
+p85
+aVThey can recognize human faces.
+p86
+aVThey can decipher handwriting.
+p87
+aVThey can detect credit card fraud
+p88
+aVand block spam
+p89
+aVand they can translate between languages.
+p90
+aVThey can detect tumors in medical imaging.
+p91
+aVThey can beat humans in chess and Go.
+p92
+aa(lp93
+VMuch of this progress comes from a method called "machine learning."
+p94
+aVMachine learning is different than traditional programming,
+p95
+aVwhere you give the computer detailed, exact, painstaking instructions.
+p96
+aVIt's more like you take the system and you feed it lots of data,
+p97
+aVincluding unstructured data,
+p98
+aVlike the kind we generate in our digital lives.
+p99
+aVAnd the system learns by churning through this data.
+p100
+aVAnd also, crucially,
+p101
+aVthese systems don't operate under a single-answer logic.
+p102
+aVThey don't produce a simple answer; it's more probabilistic:
+p103
+aV"This one is probably more like what you're looking for."
+p104
+aa(lp105
+VNow, the upside is: this method is really powerful.
+p106
+aVThe head of Google's AI systems called it,
+p107
+aV"the unreasonable effectiveness of data."
+p108
+aVThe downside is,
+p109
+aVwe don't really understand what the system learned.
+p110
+aVIn fact, that's its power.
+p111
+aVThis is less like giving instructions to a computer;
+p112
+aVit's more like training a puppy-machine-creature
+p113
+aVwe don't really understand or control.
+p114
+aVSo this is our problem.
+p115
+aVIt's a problem when this artificial intelligence system gets things wrong.
+p116
+aVIt's also a problem when it gets things right,
+p117
+aVbecause we don't even know which is which when it's a subjective problem.
+p118
+aVWe don't know what this thing is thinking.
+p119
+aa(lp120
+VSo, consider a hiring algorithm \u2014
+p121
+aVa system used to hire people, using machine-learning systems.
+p122
+aVSuch a system would have been trained on previous employees' data
+p123
+aVand instructed to find and hire
+p124
+aVpeople like the existing high performers in the company.
+p125
+aVSounds good.
+p126
+aVI once attended a conference
+p127
+aVthat brought together human resources managers and executives,
+p128
+aVhigh-level people,
+p129
+aVusing such systems in hiring.
+p130
+aVThey were super excited.
+p131
+aVThey thought that this would make hiring more objective, less biased,
+p132
+aVand give women and minorities a better shot
+p133
+aVagainst biased human managers.
+p134
+aa(lp135
+VAnd look \u2014 human hiring is biased.
+p136
+aVI know.
+p137
+aVI mean, in one of my early jobs as a programmer,
+p138
+aVmy immediate manager would sometimes come down to where I was
+p139
+aVreally early in the morning or really late in the afternoon,
+p140
+aVand she'd say, "Zeynep, let's go to lunch!"
+p141
+aVI'd be puzzled by the weird timing.
+p142
+aVIt's 4pm. Lunch?
+p143
+aVI was broke, so free lunch. I always went.
+p144
+aVI later realized what was happening.
+p145
+aVMy immediate managers had not confessed to their higher-ups
+p146
+aVthat the programmer they hired for a serious job was a teen girl
+p147
+aVwho wore jeans and sneakers to work.
+p148
+aVI was doing a good job, I just looked wrong
+p149
+aVand was the wrong age and gender.
+p150
+aa(lp151
+VSo hiring in a gender- and race-blind way
+p152
+aVcertainly sounds good to me.
+p153
+aVBut with these systems, it is more complicated, and here's why:
+p154
+aVCurrently, computational systems can infer all sorts of things about you
+p155
+aVfrom your digital crumbs,
+p156
+aVeven if you have not disclosed those things.
+p157
+aVThey can infer your sexual orientation,
+p158
+aVyour personality traits,
+p159
+aVyour political leanings.
+p160
+aVThey have predictive power with high levels of accuracy.
+p161
+aVRemember \u2014 for things you haven't even disclosed.
+p162
+aVThis is inference.
+p163
+aa(lp164
+VI have a friend who developed such computational systems
+p165
+aVto predict the likelihood of clinical or postpartum depression
+p166
+aVfrom social media data.
+p167
+aVThe results are impressive.
+p168
+aVHer system can predict the likelihood of depression
+p169
+aVmonths before the onset of any symptoms \u2014
+p170
+aVmonths before.
+p171
+aVNo symptoms, there's prediction.
+p172
+aVShe hopes it will be used for early intervention. Great!
+p173
+aVBut now put this in the context of hiring.
+p174
+aa(lp175
+VSo at this human resources managers conference,
+p176
+aVI approached a high-level manager in a very large company,
+p177
+aVand I said to her, "Look, what if, unbeknownst to you,
+p178
+aVyour system is weeding out people with high future likelihood of depression?
+p179
+aVThey're not depressed now, just maybe in the future, more likely.
+p180
+aVWhat if it's weeding out women more likely to be pregnant
+p181
+aVin the next year or two but aren't pregnant now?
+p182
+aVWhat if it's hiring aggressive people because that's your workplace culture?"
+p183
+aVYou can't tell this by looking at gender breakdowns.
+p184
+aVThose may be balanced.
+p185
+aVAnd since this is machine learning, not traditional coding,
+p186
+aVthere is no variable there labeled "higher risk of depression,"
+p187
+aV"higher risk of pregnancy,"
+p188
+aV"aggressive guy scale."
+p189
+aVNot only do you not know what your system is selecting on,
+p190
+aVyou don't even know where to begin to look.
+p191
+aVIt's a black box.
+p192
+aVIt has predictive power, but you don't understand it.
+p193
+aa(lp194
+V"What safeguards," I asked, "do you have
+p195
+aVto make sure that your black box isn't doing something shady?"
+p196
+aVShe looked at me as if I had just stepped on 10 puppy tails.
+p197
+aa(lp198
+V(Laughter)
+p199
+aa(lp200
+VShe stared at me and she said,
+p201
+aV"I don't want to hear another word about this."
+p202
+aVAnd she turned around and walked away.
+p203
+aVMind you \u2014 she wasn't rude.
+p204
+aVIt was clearly: what I don't know isn't my problem, go away, death stare.
+p205
+aa(lp206
+V(Laughter)
+p207
+aa(lp208
+VLook, such a system may even be less biased
+p209
+aVthan human managers in some ways.
+p210
+aVAnd it could make monetary sense.
+p211
+aVBut it could also lead
+p212
+aVto a steady but stealthy shutting out of the job market
+p213
+aVof people with higher risk of depression.
+p214
+aVIs this the kind of society we want to build,
+p215
+aVwithout even knowing we've done this,
+p216
+aVbecause we turned decision-making to machines we don't totally understand?
+p217
+aa(lp218
+VAnother problem is this:
+p219
+aVthese systems are often trained on data generated by our actions,
+p220
+aVhuman imprints.
+p221
+aVWell, they could just be reflecting our biases,
+p222
+aVand these systems could be picking up on our biases
+p223
+aVand amplifying them
+p224
+aVand showing them back to us,
+p225
+aVwhile we're telling ourselves,
+p226
+aV"We're just doing objective, neutral computation."
+p227
+aa(lp228
+VResearchers found that on Google,
+p229
+aVwomen are less likely than men to be shown job ads for high-paying jobs.
+p230
+aVAnd searching for African-American names
+p231
+aVis more likely to bring up ads suggesting criminal history,
+p232
+aVeven when there is none.
+p233
+aVSuch hidden biases and black-box algorithms
+p234
+aVthat researchers uncover sometimes but sometimes we don't know,
+p235
+aVcan have life-altering consequences.
+p236
+aa(lp237
+VIn Wisconsin, a defendant was sentenced to six years in prison
+p238
+aVfor evading the police.
+p239
+aVYou may not know this,
+p240
+aVbut algorithms are increasingly used in parole and sentencing decisions.
+p241
+aVHe wanted to know: How is this score calculated?
+p242
+aVIt's a commercial black box.
+p243
+aVThe company refused to have its algorithm be challenged in open court.
+p244
+aVBut ProPublica, an investigative nonprofit, audited that very algorithm
+p245
+aVwith what public data they could find,
+p246
+aVand found that its outcomes were biased
+p247
+aVand its predictive power was dismal, barely better than chance,
+p248
+aVand it was wrongly labeling black defendants as future criminals
+p249
+aVat twice the rate of white defendants.
+p250
+aa(lp251
+VSo, consider this case:
+p252
+aVThis woman was late picking up her godsister
+p253
+aVfrom a school in Broward County, Florida,
+p254
+aVrunning down the street with a friend of hers.
+p255
+aVThey spotted an unlocked kid's bike and a scooter on a porch
+p256
+aVand foolishly jumped on it.
+p257
+aVAs they were speeding off, a woman came out and said,
+p258
+aV"Hey! That's my kid's bike!"
+p259
+aVThey dropped it, they walked away, but they were arrested.
+p260
+aa(lp261
+VShe was wrong, she was foolish, but she was also just 18.
+p262
+aVShe had a couple of juvenile misdemeanors.
+p263
+aVMeanwhile, that man had been arrested for shoplifting in Home Depot \u2014
+p264
+aV85 dollars' worth of stuff, a similar petty crime.
+p265
+aVBut he had two prior armed robbery convictions.
+p266
+aVBut the algorithm scored her as high risk, and not him.
+p267
+aVTwo years later, ProPublica found that she had not reoffended.
+p268
+aVIt was just hard to get a job for her with her record.
+p269
+aVHe, on the other hand, did reoffend
+p270
+aVand is now serving an eight-year prison term for a later crime.
+p271
+aVClearly, we need to audit our black boxes
+p272
+aVand not have them have this kind of unchecked power.
+p273
+aa(lp274
+V(Applause)
+p275
+aa(lp276
+VAudits are great and important, but they don't solve all our problems.
+p277
+aVTake Facebook's powerful news feed algorithm \u2014
+p278
+aVyou know, the one that ranks everything and decides what to show you
+p279
+aVfrom all the friends and pages you follow.
+p280
+aVShould you be shown another baby picture?
+p281
+aa(lp282
+V(Laughter)
+p283
+aa(lp284
+VA sullen note from an acquaintance?
+p285
+aVAn important but difficult news item?
+p286
+aVThere's no right answer.
+p287
+aVFacebook optimizes for engagement on the site:
+p288
+aVlikes, shares, comments.
+p289
+aa(lp290
+VIn August of 2014,
+p291
+aVprotests broke out in Ferguson, Missouri,
+p292
+aVafter the killing of an African-American teenager by a white police officer,
+p293
+aVunder murky circumstances.
+p294
+aVThe news of the protests was all over
+p295
+aVmy algorithmically unfiltered Twitter feed,
+p296
+aVbut nowhere on my Facebook.
+p297
+aVWas it my Facebook friends?
+p298
+aVI disabled Facebook's algorithm,
+p299
+aVwhich is hard because Facebook keeps wanting to make you
+p300
+aVcome under the algorithm's control,
+p301
+aVand saw that my friends were talking about it.
+p302
+aVIt's just that the algorithm wasn't showing it to me.
+p303
+aVI researched this and found this was a widespread problem.
+p304
+aa(lp305
+VThe story of Ferguson wasn't algorithm-friendly.
+p306
+aVIt's not "likable."
+p307
+aVWho's going to click on "like?"
+p308
+aVIt's not even easy to comment on.
+p309
+aVWithout likes and comments,
+p310
+aVthe algorithm was likely showing it to even fewer people,
+p311
+aVso we didn't get to see this.
+p312
+aVInstead, that week,
+p313
+aVFacebook's algorithm highlighted this,
+p314
+aVwhich is the ALS Ice Bucket Challenge.
+p315
+aVWorthy cause; dump ice water, donate to charity, fine.
+p316
+aVBut it was super algorithm-friendly.
+p317
+aVThe machine made this decision for us.
+p318
+aVA very important but difficult conversation
+p319
+aVmight have been smothered,
+p320
+aVhad Facebook been the only channel.
+p321
+aa(lp322
+VNow, finally, these systems can also be wrong
+p323
+aVin ways that don't resemble human systems.
+p324
+aVDo you guys remember Watson, IBM's machine-intelligence system
+p325
+aVthat wiped the floor with human contestants on Jeopardy?
+p326
+aVIt was a great player.
+p327
+aVBut then, for Final Jeopardy, Watson was asked this question:
+p328
+aV"Its largest airport is named for a World War II hero,
+p329
+aVits second-largest for a World War II battle."
+p330
+aa(lp331
+V(Hums Final Jeopardy music)
+p332
+aa(lp333
+VChicago.
+p334
+aVThe two humans got it right.
+p335
+aVWatson, on the other hand, answered "Toronto" \u2014
+p336
+aVfor a US city category!
+p337
+aVThe impressive system also made an error
+p338
+aVthat a human would never make, a second-grader wouldn't make.
+p339
+aa(lp340
+VOur machine intelligence can fail
+p341
+aVin ways that don't fit error patterns of humans,
+p342
+aVin ways we won't expect and be prepared for.
+p343
+aVIt'd be lousy not to get a job one is qualified for,
+p344
+aVbut it would triple suck if it was because of stack overflow
+p345
+aVin some subroutine.
+p346
+aa(lp347
+V(Laughter)
+p348
+aa(lp349
+VIn May of 2010,
+p350
+aVa flash crash on Wall Street fueled by a feedback loop
+p351
+aVin Wall Street's "sell" algorithm
+p352
+aVwiped a trillion dollars of value in 36 minutes.
+p353
+aVI don't even want to think what "error" means
+p354
+aVin the context of lethal autonomous weapons.
+p355
+aa(lp356
+VSo yes, humans have always made biases.
+p357
+aVDecision makers and gatekeepers,
+p358
+aVin courts, in news, in war ...
+p359
+aVthey make mistakes; but that's exactly my point.
+p360
+aVWe cannot escape these difficult questions.
+p361
+aVWe cannot outsource our responsibilities to machines.
+p362
+aa(lp363
+V(Applause)
+p364
+aa(lp365
+VArtificial intelligence does not give us a "Get out of ethics free" card.
+p366
+aa(lp367
+VData scientist Fred Benenson calls this math-washing.
+p368
+aVWe need the opposite.
+p369
+aVWe need to cultivate algorithm suspicion, scrutiny and investigation.
+p370
+aVWe need to make sure we have algorithmic accountability,
+p371
+aVauditing and meaningful transparency.
+p372
+aVWe need to accept that bringing math and computation
+p373
+aVto messy, value-laden human affairs
+p374
+aVdoes not bring objectivity;
+p375
+aVrather, the complexity of human affairs invades the algorithms.
+p376
+aVYes, we can and we should use computation
+p377
+aVto help us make better decisions.
+p378
+aVBut we have to own up to our moral responsibility to judgment,
+p379
+aVand use algorithms within that framework,
+p380
+aVnot as a means to abdicate and outsource our responsibilities
+p381
+aVto one another as human to human.
+p382
+aa(lp383
+VMachine intelligence is here.
+p384
+aVThat means we must hold on ever tighter
+p385
+aVto human values and human ethics.
+p386
+aa(lp387
+VThank you.
+p388
+aa(lp389
+V(Applause)
+p390
+aasS'id'
+p391
+I2606
+sS'title'
+p392
+VMachine intelligence makes human morals more important
+p393
+s.

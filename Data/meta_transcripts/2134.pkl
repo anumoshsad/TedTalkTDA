@@ -1,0 +1,704 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VOn January 4, 1934,
+p4
+aVa young man delivered a report
+p5
+aVto the United States Congress
+p6
+aVthat 80 years on,
+p7
+aVstill shapes the lives of everyone in this room today,
+p8
+aVstill shapes the lives of everyone on this planet.
+p9
+aVThat young man wasn't a politician,
+p10
+aVhe wasn't a businessman,
+p11
+aVa civil rights activist
+p12
+aVor a faith leader.
+p13
+aVHe was that most unlikely of heroes,
+p14
+aVan economist.
+p15
+aVHis name was Simon Kuznets
+p16
+aVand the report that  he delivered was called
+p17
+aV"National Income, 1929-1932."
+p18
+aa(lp19
+VNow, you might think
+p20
+aVthis is a rather dry and dull report.
+p21
+aVAnd you're absolutely right.
+p22
+aVIt's dry as a bone.
+p23
+aVBut this report is the foundation
+p24
+aVof how, today, we judge the  success of countries:
+p25
+aVwhat we know best as Gross Domestic Product,
+p26
+aVGDP.
+p27
+aa(lp28
+VGDP has defined and shaped our lives
+p29
+aVfor the last 80 years.
+p30
+aVAnd today I want to talk about
+p31
+aVa different way to measure the success of countries,
+p32
+aVa different way to define  and shape our lives
+p33
+aVfor the next 80 years.
+p34
+aa(lp35
+VBut first, we have to understand
+p36
+aVhow GDP came to dominate our lives.
+p37
+aVKuznets' report was delivered
+p38
+aVat a moment of crisis.
+p39
+aVThe U.S. economy was plummeting
+p40
+aVinto the Great Depression
+p41
+aVand policy makers were  struggling to respond.
+p42
+aVStruggling because they didn't know what was going on.
+p43
+aVThey didn't have data and statistics.
+p44
+aVSo what Kuznet's report gave them
+p45
+aVwas reliable data on what  the U.S. economy
+p46
+aVwas producing,
+p47
+aVupdated year by year.
+p48
+aVAnd armed with this information,
+p49
+aVpolicy makers were, eventually,
+p50
+aVable to find a way out  of the slump.
+p51
+aVAnd because Kuznets' invention
+p52
+aVwas found to be so useful,
+p53
+aVit spread around the world.
+p54
+aVAnd now today, every country
+p55
+aVproduces GDP statistics.
+p56
+aa(lp57
+VBut, in that first report,
+p58
+aVKuznets himself delivered a warning.
+p59
+aVIt's in the introductory chapter.
+p60
+aVOn page seven he says,
+p61
+aV"The welfare of a nation can, therefore,
+p62
+aVscarcely be inferred
+p63
+aVfrom a measurement of  national income
+p64
+aVas defined above."
+p65
+aVIt's not the greatest sound  bite in the world,
+p66
+aVand it's dressed up in the cautious  language of the economist.
+p67
+aVBut his message was clear:
+p68
+aVGDP is a tool
+p69
+aVto help us measure economic performance.
+p70
+aVIt's not a measure of our well-being.
+p71
+aVAnd it shouldn't be a guide  to all decision making.
+p72
+aa(lp73
+VBut we have ignored Kuznets' warning.
+p74
+aVWe live in a world where
+p75
+aVGDP is the benchmark of success
+p76
+aVin a global economy.
+p77
+aVOur politicians boast when GDP goes up.
+p78
+aVMarkets move
+p79
+aVand trillions of dollars of capital
+p80
+aVmove around the world
+p81
+aVbased on which countries are going up
+p82
+aVand which countries  are going down,
+p83
+aVall measured in GDP.
+p84
+aVOur societies have become
+p85
+aVengines to create more GDP.
+p86
+aa(lp87
+VBut we know that GDP is flawed.
+p88
+aVIt ignores the environment.
+p89
+aVIt counts bombs and prisons as progress.
+p90
+aVIt can't count happiness or community.
+p91
+aVAnd it has nothing to say  about fairness or justice.
+p92
+aVIs it any surprise that our world,
+p93
+aVmarching to the drumbeat of GDP,
+p94
+aVis teetering on the brink of environmental disaster
+p95
+aVand filled with anger and conflict?
+p96
+aa(lp97
+VWe need a better way to measure our societies,
+p98
+aVa measure based on the real  things that matter to real people.
+p99
+aVDo I have enough to eat?
+p100
+aVCan I read and write?
+p101
+aVAm I safe?
+p102
+aVDo I have rights?
+p103
+aVDo I live in a society where I'm not discriminated against?
+p104
+aVIs my future and the future of my children  prevented from environmental destruction?
+p105
+aVThese are questions that GDP
+p106
+aVdoes not and cannot answer.
+p107
+aa(lp108
+VThere have, of course,
+p109
+aVbeen efforts in the past
+p110
+aVto move beyond GDP.
+p111
+aVBut I believe that we're living
+p112
+aVin a moment when we
+p113
+aVare ready for a measurement revolution.
+p114
+aVWe're ready because we've seen,
+p115
+aVin the financial crisis of 2008,
+p116
+aVhow our fetish for economic growth
+p117
+aVled us so far astray.
+p118
+aVWe've seen, in the Arab Spring,
+p119
+aVhow countries like Tunisia
+p120
+aVwere supposedly economic superstars,
+p121
+aVbut they were societies
+p122
+aVthat were seething with discontentment.
+p123
+aVWe're ready, because today we have the technology
+p124
+aVto gather and analyze data
+p125
+aVin ways that would have been unimaginable to Kuznets.
+p126
+aa(lp127
+VToday, I'd like to introduce you  to the Social Progress Index.
+p128
+aVIt's a measure of the  well-being of society,
+p129
+aVcompletely separate from GDP.
+p130
+aVIt's a whole new way of looking at the world.
+p131
+aVThe Social Progress Index
+p132
+aVbegins by defining what it
+p133
+aVmeans to be a good society
+p134
+aVbased around three dimensions.
+p135
+aVThe first is, does everyone have the basic needs for survival:
+p136
+aVfood, water, shelter, safety?
+p137
+aVSecondly, does everyone have
+p138
+aVaccess to the building blocks  to improve their lives:
+p139
+aVeducation, information, health and sustainable environment?
+p140
+aVAnd then third, does every  individual have access
+p141
+aVto a chance to pursue their goals
+p142
+aVand dreams and ambitions
+p143
+aVfree from obstacles?
+p144
+aVDo they have rights,
+p145
+aVfreedom of choice,
+p146
+aVfreedom from discrimination
+p147
+aVand access to the the world's most advanced knowledge?
+p148
+aVTogether, these 12 components
+p149
+aVform the Social Progress framework.
+p150
+aVAnd for each of these 12 components,
+p151
+aVwe have indicators to measure  how countries are performing.
+p152
+aVNot indicators of effort or intention,
+p153
+aVbut real achievement.
+p154
+aVWe don't measure how much a country spends on healthcare,
+p155
+aVwe measure the length and  quality of people's lives.
+p156
+aVWe don't measure whether governments pass laws against discrimination,
+p157
+aVwe measure whether people  experience discrimination.
+p158
+aa(lp159
+VBut what you want to know
+p160
+aVis who's top, don't you? (Laughter)
+p161
+aVI knew that, I knew that, I knew that.
+p162
+aVOkay, I'm going to show you.
+p163
+aVI'm going to show you on this chart.
+p164
+aVSo here we are,
+p165
+aVwhat I've done here is put on the  vertical axis social progress.
+p166
+aVHigher is better.
+p167
+aVAnd then, just for comparison,
+p168
+aVjust for fun,
+p169
+aVon the horizontal axis is GDP per capita.
+p170
+aVFurther to the right is more.
+p171
+aVSo the country in the world
+p172
+aVwith the highest social progress,
+p173
+aVthe number one country on social progress
+p174
+aVis New Zealand.
+p175
+aV(Applause)
+p176
+aVWell done! Never been; must go.
+p177
+aV(Laughter)
+p178
+aVThe country with the least social progress,
+p179
+aVI'm sorry to say, is Chad.
+p180
+aVI've never been; maybe next year.
+p181
+aV(Laughter)
+p182
+aVOr maybe the year after.
+p183
+aa(lp184
+VNow, I know what you're thinking.
+p185
+aVYou're thinking, "Aha,
+p186
+aVbut New Zealand has a higher GDP
+p187
+aVthan Chad!"
+p188
+aVIt's a good point, well made.
+p189
+aVBut let me show you
+p190
+aVtwo other countries.
+p191
+aVHere's the United States \u2014
+p192
+aVconsiderably richer than New Zealand,
+p193
+aVbut with a lower level of social progress.
+p194
+aVAnd then here's Senegal \u2014
+p195
+aVit's got a higher level of  social progress than Chad,
+p196
+aVbut the same level of GDP.
+p197
+aVSo what's going on? Well, look.
+p198
+aVLet me bring in the rest of  the countries of the world,
+p199
+aVthe 132 we've been able to measure,
+p200
+aVeach one represented by a dot.
+p201
+aVThere we go. Lots of dots.
+p202
+aVNow, obviously I can't do all of them,
+p203
+aVso a few highlights for you:
+p204
+aVThe highest ranked G7 country is Canada.
+p205
+aVMy country, the United Kingdom,
+p206
+aVis sort of middling, sort of dull,
+p207
+aVbut who cares \u2014
+p208
+aVat least we beat the French.
+p209
+aV(Laughter)
+p210
+aVAnd then looking at the  emerging economies,
+p211
+aVtop of the BRICS,  pleased to say, is Brazil.
+p212
+aV(Applause)
+p213
+aVCome on, cheer!
+p214
+aVGo, Brazil!
+p215
+aVBeating South Africa,
+p216
+aVthen Russia,
+p217
+aVthen China
+p218
+aVand then India.
+p219
+aVTucked away on the right-hand side,
+p220
+aVyou will see a dot of a  country with a lot of GDP
+p221
+aVbut not a huge amount  of social progress \u2014
+p222
+aVthat's Kuwait.
+p223
+aVJust above Brazil
+p224
+aVis a social progress superpower \u2014
+p225
+aVthat's Costa Rica.
+p226
+aVIt's got a level of social progress the same  as some Western European countries,
+p227
+aVwith a much lower GDP.
+p228
+aa(lp229
+VNow, my slide is getting  a little cluttered
+p230
+aVand I'd like to step back a bit.
+p231
+aVSo let me take away these countries,
+p232
+aVand then pop in the regression line.
+p233
+aVSo this shows the average relationship
+p234
+aVbetween GDP and social progress.
+p235
+aVThe first thing to notice,
+p236
+aVis that there's lots of noise
+p237
+aVaround the trend line.
+p238
+aVAnd what this shows,
+p239
+aVwhat this empirically demonstrates,
+p240
+aVis that GDP is not destiny.
+p241
+aVAt every level of GDP per capita,
+p242
+aVthere are opportunities for more social progress,
+p243
+aVrisks of less.
+p244
+aVThe second thing to notice
+p245
+aVis that for poor countries,
+p246
+aVthe curve is really steep.
+p247
+aVSo what this tells us is that
+p248
+aVif poor countries can get
+p249
+aVa little bit of extra GDP,
+p250
+aVand if they reinvest that
+p251
+aVin doctors, nurses, water supplies,
+p252
+aVsanitation, etc.,
+p253
+aVthere's a lot of social progress bang
+p254
+aVfor your GDP buck.
+p255
+aVAnd that's good news, and that's what  we've seen over the last 20, 30 years,
+p256
+aVwith a lot of people lifted out of poverty
+p257
+aVby economic growth and good policies
+p258
+aVin poorer countries.
+p259
+aa(lp260
+VBut go on a bit further up the curve,
+p261
+aVand then we see it flattening out.
+p262
+aVEach extra dollar of GDP
+p263
+aVis buying less and less social progress.
+p264
+aVAnd with more and more of the world's population
+p265
+aVliving on this part of the curve,
+p266
+aVit means GDP is becoming
+p267
+aVless and less useful
+p268
+aVas a guide to our development.
+p269
+aVI'll show you an example of Brazil.
+p270
+aa(lp271
+VHere's Brazil:
+p272
+aVsocial progress of about 70 out of 100,
+p273
+aVGDP per capita about  14,000 dollars a year.
+p274
+aVAnd look, Brazil's above the line.
+p275
+aVBrazil is doing a reasonably good job
+p276
+aVof turning GDP into social progress.
+p277
+aVBut where does Brazil go next?
+p278
+aVLet's say that Brazil
+p279
+aVadopts a bold economic plan
+p280
+aVto double GDP in the next decade.
+p281
+aVBut that is only half a plan.
+p282
+aVIt's less than half a plan,
+p283
+aVbecause where does Brazil want to go on social progress?
+p284
+aVBrazil, it's possible
+p285
+aVto increase your growth,
+p286
+aVincrease your GDP,
+p287
+aVwhile stagnating or going backwards
+p288
+aVon social progress.
+p289
+aVWe don't want Brazil
+p290
+aVto become like Russia.
+p291
+aVWhat you really want is for Brazil
+p292
+aVto get ever more efficient at creating  social progress from its GDP,
+p293
+aVso it becomes more like New Zealand.
+p294
+aVAnd what that means is that
+p295
+aVBrazil needs to prioritize social progress
+p296
+aVin its development plan
+p297
+aVand see that it's not just growth alone,
+p298
+aVit's growth with social progress.
+p299
+aVAnd that's what the Social  Progress Index does:
+p300
+aVIt reframes the debate about development,
+p301
+aVnot just about GDP alone,
+p302
+aVbut inclusive, sustainable growth
+p303
+aVthat brings real improvements  in people's lives.
+p304
+aVAnd it's not just about countries.
+p305
+aa(lp306
+VEarlier this year,
+p307
+aVwith our friends from the Imazon  nonprofit here in Brazil,
+p308
+aVwe launched the first subnational  Social Progress Index.
+p309
+aVWe did it for the Amazon region.
+p310
+aVIt's an area the size of  Europe, 24 million people,
+p311
+aVone of the most deprived  parts of the country.
+p312
+aVAnd here are the results,
+p313
+aVand this is broken down
+p314
+aVinto nearly 800 different municipalities.
+p315
+aVAnd with this detailed information
+p316
+aVabout the real quality of life
+p317
+aVin this part of the country,
+p318
+aVImazon and other partners
+p319
+aVfrom government,  business and civil society
+p320
+aVcan work together to construct
+p321
+aVa development plan
+p322
+aVthat will help really improve people's lives,
+p323
+aVwhile protecting that  precious global asset
+p324
+aVthat is the Amazon Rainforest.
+p325
+aVAnd this is just the beginning,
+p326
+aVYou can create a Social Progress Index
+p327
+aVfor any state, region,  city or municipality.
+p328
+aVWe all know and love TEDx;
+p329
+aVthis is Social Pogress-x.
+p330
+aVThis is a tool for anyone to come and use.
+p331
+aa(lp332
+VContrary to the way we  sometimes talk about it,
+p333
+aVGDP was not handed down from  God on tablets of stone. (Laughter)
+p334
+aVIt's a measurement tool invented in the 20th century
+p335
+aVto address the challenges of the 20th century.
+p336
+aVIn the 21st century,
+p337
+aVwe face new challenges:
+p338
+aVaging, obesity, climate change, and so on.
+p339
+aVTo face those challenges,
+p340
+aVwe need new tools of measurement,
+p341
+aVnew ways of valuing progress.
+p342
+aa(lp343
+VImagine if we could measure
+p344
+aVwhat nonprofits, charities,
+p345
+aVvolunteers, civil society organizations
+p346
+aVreally contribute to our society.
+p347
+aVImagine if businesses competed
+p348
+aVnot just on the basis of their economic contribution,
+p349
+aVbut on their contribution  to social progress.
+p350
+aVImagine if we could hold  politicians to account
+p351
+aVfor really improving people's lives.
+p352
+aVImagine if we could work together \u2014
+p353
+aVgovernment, business,  civil society, me, you \u2014
+p354
+aVand make this century the  century of social progress.
+p355
+aVThank you.
+p356
+aV(Applause)
+p357
+aasS'id'
+p358
+I2134
+sS'title'
+p359
+VWhat the Social Progress Index can reveal about your country
+p360
+s.

@@ -1,0 +1,919 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm a cancer doctor, and I walked out of my office
+p4
+aVand walked by the pharmacy in the hospital three or four years ago,
+p5
+aVand this was the cover of Fortune magazine
+p6
+aVsitting in the window of the pharmacy.
+p7
+aa(lp8
+VAnd so, as a cancer doctor, you look at this,
+p9
+aVand you get a little bit downhearted.
+p10
+aVBut when you start to read the article by Cliff,
+p11
+aVwho himself is a cancer survivor,
+p12
+aVwho was saved by a clinical trial
+p13
+aVwhere his parents drove him from New York City to upstate New York
+p14
+aVto get an experimental therapy for \u2014
+p15
+aVat the time \u2014 Hodgkin's disease, which saved his life,
+p16
+aVhe makes remarkable points here.
+p17
+aVAnd the point of the article was that we have gotten
+p18
+aVreductionist in our view of biology,
+p19
+aVin our view of cancer.
+p20
+aVFor the last 50 years, we have focused on treating
+p21
+aVthe individual gene
+p22
+aVin understanding cancer, not in controlling cancer.
+p23
+aa(lp24
+VSo, this is an astounding table.
+p25
+aVAnd this is something that sobers us in our field everyday
+p26
+aVin that, obviously, we've made remarkable impacts
+p27
+aVon cardiovascular disease,
+p28
+aVbut look at cancer. The death rate in cancer
+p29
+aVin over 50 years hasn't changed.
+p30
+aVWe've made small wins in diseases like chronic myelogenous leukemia,
+p31
+aVwhere we have a pill that can put 100 percent of people in remission,
+p32
+aVbut in general, we haven't made an impact at all in the war on cancer.
+p33
+aa(lp34
+VSo, what I'm going to tell you today,
+p35
+aVis a little bit of why I think that's the case,
+p36
+aVand then go out of my comfort zone
+p37
+aVand tell you where I think it's going,
+p38
+aVwhere a new approach \u2014 that we hope to push forward
+p39
+aVin terms of treating cancer.
+p40
+aVBecause this is wrong.
+p41
+aa(lp42
+VSo, what is cancer, first of all?
+p43
+aVWell, if one has a mass or an abnormal blood value, you go to a doctor,
+p44
+aVthey stick a needle in.
+p45
+aVThey way we make the diagnosis today is by pattern recognition:
+p46
+aVDoes it look normal? Does it look abnormal?
+p47
+aa(lp48
+VSo, that pathologist is just like looking at this plastic bottle.
+p49
+aVThis is a normal cell. This is a cancer cell.
+p50
+aVThat is the state-of-the-art today in diagnosing cancer.
+p51
+aVThere's no molecular test,
+p52
+aVthere's no sequencing of genes that was referred to yesterday,
+p53
+aVthere's no fancy looking at the chromosomes.
+p54
+aVThis is the state-of-the-art and how we do it.
+p55
+aa(lp56
+VYou know, I know very well, as a cancer doctor, I can't treat advanced cancer.
+p57
+aVSo, as an aside, I firmly believe in the field of trying to identify cancer early.
+p58
+aVIt is the only way you can start to fight cancer, is by catching it early.
+p59
+aVWe can prevent most cancers.
+p60
+aVYou know, the previous talk alluded to preventing heart disease.
+p61
+aVWe could do the same in cancer.
+p62
+aVI co-founded a company called Navigenics,
+p63
+aVwhere, if you spit into a tube \u2014
+p64
+aVand we can look look at 35 or 40 genetic markers for disease,
+p65
+aVall of which are delayable in many of the cancers \u2014
+p66
+aVyou start to identify what you could get,
+p67
+aVand then we can start to work to prevent them.
+p68
+aVBecause the problem is, when you have advanced cancer,
+p69
+aVwe can't do that much today about it, as the statistics allude to.
+p70
+aa(lp71
+VSo, the thing about cancer is that it's a disease of the aged.
+p72
+aVWhy is it a disease of the aged?
+p73
+aVBecause evolution doesn't care about us after we've had our children.
+p74
+aVSee, evolution protected us during our childbearing years
+p75
+aVand then, after age 35 or 40 or 45,
+p76
+aVit said "It doesn't matter anymore, because they've had their progeny."
+p77
+aVSo if you look at cancers, it is very rare \u2014 extremely rare \u2014
+p78
+aVto have cancer in a child, on the order of thousands of cases a year.
+p79
+aVAs one gets older? Very, very common.
+p80
+aa(lp81
+VWhy is it hard to treat?
+p82
+aVBecause it's heterogeneous,
+p83
+aVand that's the perfect substrate for evolution within the cancer.
+p84
+aVIt starts to select out for those bad, aggressive cells,
+p85
+aVwhat we call clonal selection.
+p86
+aVBut, if we start to understand
+p87
+aVthat cancer isn't just a molecular defect, it's something more,
+p88
+aVthen we'll get to new ways of treating it, as I'll show you.
+p89
+aa(lp90
+VSo, one of the fundamental problems we have in cancer
+p91
+aVis that, right now, we describe it by a number of adjectives, symptoms:
+p92
+aV"I'm tired, I'm bloated, I have pain, etc."
+p93
+aVYou then have some anatomic descriptions,
+p94
+aVyou get that CT scan: "There's a three centimeter mass in the liver."
+p95
+aVYou then have some body part descriptions:
+p96
+aV"It's in the liver, in the breast, in the prostate."
+p97
+aVAnd that's about it.
+p98
+aVSo, our dictionary for describing cancer is very, very poor.
+p99
+aVIt's basically symptoms.
+p100
+aVIt's manifestations of a disease.
+p101
+aa(lp102
+VWhat's exciting is that over the last two or three years,
+p103
+aVthe government has spent 400 million dollars,
+p104
+aVand they've allocated another billion dollars,
+p105
+aVto what we call the Cancer Genome Atlas Project.
+p106
+aVSo, it is the idea of sequencing all of the genes in the cancer,
+p107
+aVand giving us a new lexicon, a new dictionary to describe it.
+p108
+aVYou know, in the mid-1850's in France,
+p109
+aVthey started to describe cancer by body part.
+p110
+aVThat hasn't changed in over 150 years.
+p111
+aVIt is absolutely archaic that we call cancer
+p112
+aVby prostate, by breast, by muscle.
+p113
+aVIt makes no sense, if you think about it.
+p114
+aa(lp115
+VSo, obviously, the technology is here today,
+p116
+aVand, over the next several years, that will change.
+p117
+aVYou will no longer go to a breast cancer clinic.
+p118
+aVYou will go to a HER2 amplified clinic, or an EGFR activated clinic,
+p119
+aVand they will go to some of the pathogenic lesions
+p120
+aVthat were involved in causing this individual cancer.
+p121
+aVSo, hopefully, we will go from being the art of medicine
+p122
+aVmore to the science of medicine,
+p123
+aVand be able to do what they do in infectious disease,
+p124
+aVwhich is look at that organism, that bacteria,
+p125
+aVand then say, "This antibiotic makes sense,
+p126
+aVbecause you have a particular bacteria that will respond to it."
+p127
+aVWhen one is exposed to H1N1, you take Tamiflu,
+p128
+aVand you can remarkably decrease the severity of symptoms
+p129
+aVand prevent many of the manifestations of the disease.
+p130
+aVWhy? Because we know what you have, and we know how to treat it \u2014
+p131
+aValthough we can't make vaccine in this country, but that's a different story.
+p132
+aa(lp133
+VThe Cancer Genome Atlas is coming out now.
+p134
+aVThe first cancer was done, which was brain cancer.
+p135
+aVIn the next month, the end of December, you'll see ovarian cancer,
+p136
+aVand then lung cancer will come several months after.
+p137
+aVThere's also a field of proteomics that I'll talk about in a few minutes,
+p138
+aVwhich I think is going to be the next level
+p139
+aVin terms of understanding and classifying disease.
+p140
+aVBut remember, I'm not pushing genomics,
+p141
+aVproteomics, to be a reductionist.
+p142
+aVI'm doing it so we can identify what we're up against.
+p143
+aVAnd there's a very important distinction there that we'll get to.
+p144
+aa(lp145
+VIn health care today, we spend most of the dollars \u2014
+p146
+aVin terms of treating disease \u2014
+p147
+aVmost of the dollars in the last two years of a person's life.
+p148
+aVWe spend very little, if any, dollars in terms of identifying what we're up against.
+p149
+aVIf you could start to move that, to identify what you're up against,
+p150
+aVyou're going to do things a hell of a lot better.
+p151
+aVIf we could even take it one step further and prevent disease,
+p152
+aVwe can take it enormously the other direction,
+p153
+aVand obviously, that's where we need to go, going forward.
+p154
+aa(lp155
+VSo, this is the website of the National Cancer Institute.
+p156
+aVAnd I'm here to tell you, it's wrong.
+p157
+aVSo, the website of the National Cancer Institute
+p158
+aVsays that cancer is a genetic disease.
+p159
+aVThe website says, "If you look, there's an individual mutation,
+p160
+aVand maybe a second, and maybe a third,
+p161
+aVand that is cancer."
+p162
+aVBut, as a cancer doc, this is what I see.
+p163
+aVThis isn't a genetic disease.
+p164
+aVSo, there you see, it's a liver with colon cancer in it,
+p165
+aVand you see into the microscope a lymph node
+p166
+aVwhere cancer has invaded.
+p167
+aVYou see a CT scan where cancer is in the liver.
+p168
+aVCancer is an interaction of a cell
+p169
+aVthat no longer is under growth control with the environment.
+p170
+aVIt's not in the abstract; it's the interaction with the environment.
+p171
+aVIt's what we call a system.
+p172
+aa(lp173
+VThe goal of me as a cancer doctor is not to understand cancer.
+p174
+aVAnd I think that's been the fundamental problem over the last five decades,
+p175
+aVis that we have strived to understand cancer.
+p176
+aVThe goal is to control cancer.
+p177
+aVAnd that is a very different optimization scheme,
+p178
+aVa very different strategy for all of us.
+p179
+aa(lp180
+VI got up at the American Association of Cancer Research,
+p181
+aVone of the big cancer research meetings, with 20,000 people there,
+p182
+aVand I said, "We've made a mistake.
+p183
+aVWe've all made a mistake, myself included,
+p184
+aVby focusing down, by being a reductionist.
+p185
+aVWe need to take a step back."
+p186
+aVAnd, believe it or not, there were hisses in the audience.
+p187
+aVPeople got upset, but this is the only way we're going to go forward.
+p188
+aa(lp189
+VYou know, I was very fortunate to meet Danny Hillis a few years ago.
+p190
+aVWe were pushed together, and neither one of us really wanted to meet the other.
+p191
+aVI said, "Do I really want to meet a guy from Disney, who designed computers?"
+p192
+aVAnd he was saying: Does he really want to meet another doctor?
+p193
+aVBut people prevailed on us, and we got together,
+p194
+aVand it's been transformative in what I do, absolutely transformative.
+p195
+aVWe have designed, and we have worked on the modeling \u2014
+p196
+aVand much of these ideas came from Danny and from his team \u2014
+p197
+aVthe modeling of cancer in the body as complex system.
+p198
+aVAnd I'll show you some data there
+p199
+aVwhere I really think it can make a difference and a new way to approach it.
+p200
+aa(lp201
+VThe key is, when you look at these variables and you look at this data,
+p202
+aVyou have to understand the data inputs.
+p203
+aVYou know, if I measured your temperature over 30 days,
+p204
+aVand I asked, "What was the average temperature?"
+p205
+aVand it came back at 98.7, I would say, "Great."
+p206
+aVBut if during one of those days
+p207
+aVyour temperature spiked to 102 for six hours,
+p208
+aVand you took Tylenol and got better, etc.,
+p209
+aVI would totally miss it.
+p210
+aVSo, one of the problems, the fundamental problems in medicine
+p211
+aVis that you and I, and all of us,
+p212
+aVwe go to our doctor once a year.
+p213
+aVWe have discrete data elements; we don't have a time function on them.
+p214
+aa(lp215
+VEarlier it was referred to this direct life device.
+p216
+aVYou know, I've been using it for two and a half months.
+p217
+aVIt's a staggering device, not because it tells me
+p218
+aVhow many kilocalories I do every day,
+p219
+aVbut because it looks, over 24 hours, what I've done in a day.
+p220
+aVAnd I didn't realize that for three hours I'm sitting at my desk,
+p221
+aVand I'm not moving at all.
+p222
+aVAnd a lot of the functions in the data that we have as input systems here
+p223
+aVare really different than we understand them,
+p224
+aVbecause we're not measuring them dynamically.
+p225
+aa(lp226
+VAnd so, if you think of cancer as a system,
+p227
+aVthere's an input and an output and a state in the middle.
+p228
+aVSo, the states, are equivalent classes of history,
+p229
+aVand the cancer patient, the input, is the environment,
+p230
+aVthe diet, the treatment, the genetic mutations.
+p231
+aVThe output are our symptoms:
+p232
+aVDo we have pain? Is the cancer growing? Do we feel bloated, etc.?
+p233
+aVMost of that state is hidden.
+p234
+aVSo what we do in our field is we change and input,
+p235
+aVwe give aggressive chemotherapy,
+p236
+aVand we say, "Did that output get better? Did that pain improve, etc.?"
+p237
+aa(lp238
+VAnd so, the problem is that it's not just one system,
+p239
+aVit's multiple systems on multiple scales.
+p240
+aVIt's a system of systems.
+p241
+aVAnd so, when you start to look at emergent systems,
+p242
+aVyou can look at a neuron under a microscope.
+p243
+aVA neuron under the microscope is very elegant
+p244
+aVwith little things sticking out and little things over here,
+p245
+aVbut when you start to put them together in a complex system,
+p246
+aVand you start to see that it becomes a brain,
+p247
+aVand that brain can create intelligence,
+p248
+aVwhat we're talking about in the body,
+p249
+aVand cancer is starting to model it like a complex system.
+p250
+aVWell, the bad news is that these robust \u2014
+p251
+aVand robust is a key word \u2014
+p252
+aVemergent systems are very hard to understand in detail.
+p253
+aVThe good news is you can manipulate them.
+p254
+aVYou can try to control them
+p255
+aVwithout that fundamental understanding of every component.
+p256
+aa(lp257
+VOne of the most fundamental clinical trials in cancer
+p258
+aVcame out in February in the New England Journal of Medicine,
+p259
+aVwhere they took women who were pre-menopausal with breast cancer.
+p260
+aVSo, about the worst kind of breast cancer you can get.
+p261
+aVThey had gotten their chemotherapy,
+p262
+aVand then they randomized them,
+p263
+aVwhere half got placebo,
+p264
+aVand half got a drug called Zoledronic acid that builds bone.
+p265
+aVIt's used to treat osteoporosis,
+p266
+aVand they got that twice a year.
+p267
+aVThey looked and, in these 1,800 women,
+p268
+aVgiven twice a year a drug that builds bone,
+p269
+aVyou reduce the recurrence of cancer by 35 percent.
+p270
+aVReduce occurrence of cancer by a drug
+p271
+aVthat doesn't even touch the cancer.
+p272
+aVSo the notion, you change the soil, the seed doesn't grow as well.
+p273
+aVYou change that system,
+p274
+aVand you could have a marked effect on the cancer.
+p275
+aa(lp276
+VNobody has ever shown \u2014 and this will be shocking \u2014
+p277
+aVnobody has ever shown that most chemotherapy
+p278
+aVactually touches a cancer cell.
+p279
+aVIt's never been shown.
+p280
+aVThere's all these elegant work in the tissue culture dishes,
+p281
+aVthat if you give this cancer drug, you can do this effect to the cell,
+p282
+aVbut the doses in those dishes are nowhere near
+p283
+aVthe doses that happen in the body.
+p284
+aa(lp285
+VIf I give a woman with breast cancer a drug called Taxol
+p286
+aVevery three weeks, which is the standard,
+p287
+aVabout 40 percent of women with metastatic cancer
+p288
+aVhave a great response to that drug.
+p289
+aVAnd a response is 50 percent shrinkage.
+p290
+aVWell, remember that's not even an order of magnitude,
+p291
+aVbut that's a different story.
+p292
+aVThey then recur, I give them that same drug every week.
+p293
+aVAnother 30 percent will respond.
+p294
+aVThey then recur, I give them that same drug
+p295
+aVover 96 hours by continuous infusion,
+p296
+aVanother 20 or 30 percent will respond.
+p297
+aVSo, you can't tell me it's working by the same mechanism in all three size.
+p298
+aVIt's not. We have no idea the mechanism.
+p299
+aVSo the idea that chemotherapy may just be disrupting
+p300
+aVthat complex system,
+p301
+aVjust like building bone disrupted that system and reduced recurrence,
+p302
+aVchemotherapy may work by that same exact way.
+p303
+aVThe wild thing about that trial also,
+p304
+aVwas that it reduced new primaries, so new cancers, by 30 percent also.
+p305
+aa(lp306
+VSo, the problem is, yours and mine, all of our systems are changing.
+p307
+aVThey're dynamic.
+p308
+aVI mean, this is a scary slide, not to take an aside,
+p309
+aVbut it looks at obesity in the world.
+p310
+aVAnd I'm sorry if you can't read the numbers, they're kind of small.
+p311
+aVBut, if you start to look at it, that red, that dark color there,
+p312
+aVmore than 75 percent of the population
+p313
+aVof those countries are obese.
+p314
+aVLook a decade ago, look two decades ago: markedly different.
+p315
+aVSo, our systems today are dramatically different
+p316
+aVthan our systems a decade or two ago.
+p317
+aVSo the diseases we have today,
+p318
+aVwhich reflect patterns in the system over the last several decades,
+p319
+aVare going to change dramatically over the next decade or so
+p320
+aVbased on things like this.
+p321
+aa(lp322
+VSo, this picture, although it is beautiful, is a 40-gigabyte picture
+p323
+aVof the whole proteome.
+p324
+aVSo this is a drop of blood that has gone through a superconducting magnet,
+p325
+aVand we're able to get resolution
+p326
+aVwhere we can start to see all of the proteins in the body.
+p327
+aVWe can start to see that system.
+p328
+aVEach of the red dots are where a protein has actually been identified.
+p329
+aVThe power of these magnets, the power of what we can do here,
+p330
+aVis that we can see an individual neutron with this technology.
+p331
+aVSo, again, this is stuff we're doing with Danny Hillis
+p332
+aVand a group called Applied Proteomics,
+p333
+aVwhere we can start to see individual neutron differences,
+p334
+aVand we can start to look at that system like we never have before.
+p335
+aVSo, instead of a reductionist view, we're taking a step back.
+p336
+aa(lp337
+VSo this is a woman, 46 years old,
+p338
+aVwho had recurrent lung cancer.
+p339
+aVIt was in her brain, in her lungs, in her liver.
+p340
+aVShe had gotten Carboplatin Taxol, Carboplatin Taxotere,
+p341
+aVGemcitabine, Navelbine:
+p342
+aVEvery drug we have she had gotten, and that disease continued to grow.
+p343
+aVShe had three kids under the age of 12,
+p344
+aVand this is her CT scan.
+p345
+aVAnd so what this is, is we're taking a cross-section of her body here,
+p346
+aVand you can see in the middle there is her heart,
+p347
+aVand to the side of her heart on the left there is this large tumor
+p348
+aVthat will invade and will kill her, untreated, in a matter of weeks.
+p349
+aVShe goes on a pill a day that targets a pathway,
+p350
+aVand again, I'm not sure if this pathway was in the system, in the cancer,
+p351
+aVbut it targeted a pathway, and a month later, pow, that cancer's gone.
+p352
+aVSix months later it's still gone.
+p353
+aVThat cancer recurred, and she passed away three years later from lung cancer,
+p354
+aVbut she got three years from a drug
+p355
+aVwhose symptoms predominately were acne.
+p356
+aVThat's about it.
+p357
+aa(lp358
+VSo, the problem is that the clinical trial was done,
+p359
+aVand we were a part of it,
+p360
+aVand in the fundamental clinical trial \u2014
+p361
+aVthe pivotal clinical trial we call the Phase Three,
+p362
+aVwe refused to use a placebo.
+p363
+aVWould you want your mother, your brother, your sister
+p364
+aVto get a placebo if they had advanced lung cancer and had weeks to live?
+p365
+aVAnd the answer, obviously, is not.
+p366
+aVSo, it was done on this group of patients.
+p367
+aVTen percent of people in the trial had this dramatic response that was shown here,
+p368
+aVand the drug went to the FDA,
+p369
+aVand the FDA said, "Without a placebo,
+p370
+aVhow do I know patients actually benefited from the drug?"
+p371
+aVSo the morning the FDA was going to meet,
+p372
+aVthis was the editorial in the Wall Street Journal.
+p373
+aV(Laughter)
+p374
+aVAnd so, what do you know, that drug was approved.
+p375
+aa(lp376
+VThe amazing thing is another company did the right scientific trial,
+p377
+aVwhere they gave half placebo and half the drug.
+p378
+aVAnd we learned something important there.
+p379
+aVWhat's interesting is they did it in South America and Canada,
+p380
+aVwhere it's "more ethical to give placebos."
+p381
+aVThey had to give it also in the U.S. to get approval,
+p382
+aVso I think there were three U.S. patients
+p383
+aVin upstate New York who were part of the trial.
+p384
+aVBut they did that, and what they found
+p385
+aVis that 70 percent of the non-responders
+p386
+aVlived much longer and did better than people who got placebo.
+p387
+aVSo it challenged everything we knew in cancer,
+p388
+aVis that you don't need to get a response.
+p389
+aVYou don't need to shrink the disease.
+p390
+aVIf we slow the disease, we may have more of a benefit
+p391
+aVon patient survival, patient outcome, how they feel,
+p392
+aVthan if we shrink the disease.
+p393
+aa(lp394
+VThe problem is that, if I'm this doc, and I get your CT scan today
+p395
+aVand you've got a two centimeter mass in your liver,
+p396
+aVand you come back to me in three months and it's three centimeters,
+p397
+aVdid that drug help you or not?
+p398
+aVHow do I know?
+p399
+aVWould it have been 10 centimeters, or am I giving you a drug
+p400
+aVwith no benefit and significant cost?
+p401
+aVSo, it's a fundamental problem.
+p402
+aVAnd, again, that's where these new technologies can come in.
+p403
+aa(lp404
+VAnd so, the goal obviously is that you go into your doctor's office \u2014
+p405
+aVwell, the ultimate goal is that you prevent disease, right?
+p406
+aVThe ultimate goal is that you prevent any of these things from happening.
+p407
+aVThat is the most effective, cost-effective,
+p408
+aVbest way we can do things today.
+p409
+aVBut if one is unfortunate to get a disease,
+p410
+aVyou'll go into your doctor's office, he or she will take a drop of blood,
+p411
+aVand we will start to know how to treat your disease.
+p412
+aVThe way we've approached it is the field of proteomics,
+p413
+aVagain, this looking at the system.
+p414
+aVIt's taking a big picture.
+p415
+aa(lp416
+VThe problem with technologies like this is
+p417
+aVthat if one looks at proteins in the body,
+p418
+aVthere are 11 orders of magnitude difference
+p419
+aVbetween the high-abundant and the low-abundant proteins.
+p420
+aVSo, there's no technology in the world that can span 11 orders of magnitude.
+p421
+aVAnd so, a lot of what has been done with people like Danny Hillis and others
+p422
+aVis to try to bring in engineering principles, try to bring the software.
+p423
+aVWe can start to look at different components along this spectrum.
+p424
+aa(lp425
+VAnd so, earlier was talked about cross-discipline, about collaboration.
+p426
+aVAnd I think one of the exciting things that is starting to happen now
+p427
+aVis that people from those fields are coming in.
+p428
+aVYesterday, the National Cancer Institute announced a new program
+p429
+aVcalled the Physical Sciences and Oncology,
+p430
+aVwhere physicists, mathematicians, are brought in to think about cancer,
+p431
+aVpeople who never approached it before.
+p432
+aVDanny and I got 16 million dollars, they announced yesterday,
+p433
+aVto try to attach this problem.
+p434
+aVA whole new approach, instead of giving high doses of chemotherapy
+p435
+aVby different mechanisms,
+p436
+aVto try to bring technology to get a picture of what's actually happening in the body.
+p437
+aa(lp438
+VSo, just for two seconds, how these technologies work \u2014
+p439
+aVbecause I think it's important to understand it.
+p440
+aVWhat happens is every protein in your body is charged,
+p441
+aVso the proteins are sprayed in, the magnet spins them around,
+p442
+aVand then there's a detector at the end.
+p443
+aVWhen it hit that detector is dependent on the mass and the charge.
+p444
+aVAnd so we can accurately \u2014 if the magnet is big enough,
+p445
+aVand your resolution is high enough \u2014
+p446
+aVyou can actually detect all of the proteins in the body
+p447
+aVand start to get an understanding of the individual system.
+p448
+aa(lp449
+VAnd so, as a cancer doctor,
+p450
+aVinstead of having paper in my chart, in your chart, and it being this thick,
+p451
+aVthis is what data flow is starting to look like in our offices,
+p452
+aVwhere that drop of blood is creating gigabytes of data.
+p453
+aVElectronic data elements are describing every aspect of the disease.
+p454
+aVAnd certainly the goal is we can start to learn from every encounter
+p455
+aVand actually move forward, instead of just having encounter and encounter,
+p456
+aVwithout fundamental learning.
+p457
+aa(lp458
+VSo, to conclude, we need to get away from reductionist thinking.
+p459
+aVWe need to start to think differently and radically.
+p460
+aVAnd so, I implore everyone here: Think differently. Come up with new ideas.
+p461
+aVTell them to me or anyone else in our field,
+p462
+aVbecause over the last 59 years, nothing has changed.
+p463
+aVWe need a radically different approach.
+p464
+aa(lp465
+VYou know, Andy Grove stepped down as chairman of the board at Intel \u2014
+p466
+aVand Andy was one of my mentors, tough individual.
+p467
+aVWhen Andy stepped down, he said,
+p468
+aV"No technology will win. Technology itself will win."
+p469
+aVAnd I'm a firm believer, in the field of medicine and especially cancer,
+p470
+aVthat it's going to be a broad platform of technologies
+p471
+aVthat will help us move forward
+p472
+aVand hopefully help patients in the near-term.
+p473
+aa(lp474
+VThank you very much.
+p475
+aasS'id'
+p476
+I761
+sS'title'
+p477
+VA new strategy in the war on cancer
+p478
+s.

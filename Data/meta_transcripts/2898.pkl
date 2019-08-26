@@ -1,0 +1,666 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSince 2009, the world has been stuck
+p4
+aVon a single narrative around a coming global food crisis
+p5
+aVand what we need to do to avoid it.
+p6
+aVHow do we feed nine billion people by 2050?
+p7
+aVEvery conference, podcast and dialogue around global food security
+p8
+aVstarts with this question
+p9
+aVand goes on to answer it
+p10
+aVby saying we need to produce 70 percent more food.
+p11
+aa(lp12
+VThe 2050 narrative started to evolve
+p13
+aVshortly after global food prices hit all-time highs in 2008.
+p14
+aVPeople were suffering and struggling,
+p15
+aVgovernments and world leaders
+p16
+aVneeded to show us that they were paying attention
+p17
+aVand were working to solve it.
+p18
+aVThe thing is, 2050 is so far into the future
+p19
+aVthat we can't even relate to it,
+p20
+aVand more importantly,
+p21
+aVif we keep doing what we're doing,
+p22
+aVit's going to hit us a lot sooner than that.
+p23
+aa(lp24
+VI believe we need to ask a different question.
+p25
+aVThe answer to that question
+p26
+aVneeds to be framed differently.
+p27
+aVIf we can reframe the old narrative
+p28
+aVand replace it with new numbers
+p29
+aVthat tell us a more complete pictures,
+p30
+aVnumbers that everyone can understand
+p31
+aVand relate to,
+p32
+aVwe can avoid the crisis altogether.
+p33
+aa(lp34
+VI was a commodities trader in my past life
+p35
+aVand one of the things that I learned trading
+p36
+aVis that every market has a tipping point,
+p37
+aVthe point at which change occurs so rapidly
+p38
+aVthat it impacts the world
+p39
+aVand things change forever.
+p40
+aVThink of the last financial crisis,
+p41
+aVor the dot-com crash.
+p42
+aa(lp43
+VSo here's my concern.
+p44
+aVWe could have a tipping point
+p45
+aVin global food and agriculture
+p46
+aVif surging demand
+p47
+aVsurpasses the agricultural system's structural capacity to produce food.
+p48
+aVThis means at this point supply can no longer keep up with demand
+p49
+aVdespite exploding prices,
+p50
+aVunless we can commit to some type of structural change.
+p51
+aVThis time around,
+p52
+aVit won't be about stock markets and money.
+p53
+aVIt's about people.
+p54
+aVPeople could starve and governments may fall.
+p55
+aVThis question of at what point does supply struggle
+p56
+aVto keep up with surging demand
+p57
+aVis one that started off as an interest for me while I was trading
+p58
+aVand became an absolute obsession.
+p59
+aVIt went from interest to obsession
+p60
+aVwhen I realized through my research how broken the system was
+p61
+aVand how very little data was being used to make such critical decisions.
+p62
+aVThat's the point I decided to walk away from a career on Wall Street
+p63
+aVand start an entrepreneurial journey
+p64
+aVto start Gro Intelligence.
+p65
+aa(lp66
+VAt Gro, we focus on bringing this data
+p67
+aVand doing the work to make it actionable,
+p68
+aVto empower decision-makers at every level.
+p69
+aVBut doing this work,
+p70
+aVwe also realized that the world,
+p71
+aVnot just world leaders,
+p72
+aVbut businesses and citizens like every single person in this room,
+p73
+aVlacked an actionable guide
+p74
+aVon how we can avoid a coming global food security crisis.
+p75
+aVAnd so we built a model,
+p76
+aVleveraging the petabytes of data we sit on,
+p77
+aVand we solved for the tipping point.
+p78
+aa(lp79
+VNow, no one knows we've been working on this problem
+p80
+aVand this is the first time that I'm sharing what we discovered.
+p81
+aVWe discovered that the tipping point is actually a decade from now.
+p82
+aVWe discovered that the world
+p83
+aVwill be short 214 trillion calories
+p84
+aVby 2027.
+p85
+aVThe world is not in a position to fill this gap.
+p86
+aa(lp87
+VNow, you'll notice
+p88
+aVthat the way I'm framing this is different from how I started,
+p89
+aVand that's intentional, because until now
+p90
+aVthis problem has been quantified using mass:
+p91
+aVthink kilograms, tons, hectograms,
+p92
+aVwhatever your unit of choice is in mass.
+p93
+aVWhy do we talk about food in terms of weight?
+p94
+aVBecause it's easy.
+p95
+aVWe can look at a photograph and determine tonnage on a ship
+p96
+aVby using a simple pocket calculator.
+p97
+aVWe can weigh trucks, airplanes and oxcarts.
+p98
+aVBut what we care about in food is nutritional value.
+p99
+aVNot all foods are created equal,
+p100
+aVeven if they weigh the same.
+p101
+aVThis I learned firsthand
+p102
+aVwhen I moved from Ethiopia to the US for university.
+p103
+aVUpon my return back home,
+p104
+aVmy father, who was so excited to see me,
+p105
+aVgreeted me by asking why I was fat.
+p106
+aVNow, turns out that eating
+p107
+aVapproximately the same amount of food as I did in Ethiopia, but in America,
+p108
+aVhad actually lent a certain fullness to my figure.
+p109
+aVThis is why we should care about calories,
+p110
+aVnot about mass.
+p111
+aVIt is calories which sustain us.
+p112
+aa(lp113
+VSo 214 trillion calories is a very large number,
+p114
+aVand not even the most dedicated of us
+p115
+aVthink in the hundreds of trillions of calories.
+p116
+aVSo let me break this down differently.
+p117
+aVAn alternative way to think about this
+p118
+aVis to think about it in Big Macs.
+p119
+aV214 trillion calories.
+p120
+aVA single Big Mac has 563 calories.
+p121
+aVThat means the world will be short 379 billion Big Macs in 2027.
+p122
+aVThat is more Big Macs than McDonald's has ever produced.
+p123
+aa(lp124
+VSo how did we get to these numbers in the first place?
+p125
+aVThey're not made up.
+p126
+aVThis map shows you where the world was 40 years ago.
+p127
+aVIt shows you net calorie gaps in every country in the world.
+p128
+aVNow, simply put,
+p129
+aVthis is just calories consumed in that country
+p130
+aVminus calories produced in that same country.
+p131
+aVThis is not a statement on malnutrition or anything else.
+p132
+aVIt's simply saying how many calories are consumed in a single year
+p133
+aVminus how many are produced.
+p134
+aVBlue countries are net calorie exporters,
+p135
+aVor self-sufficient.
+p136
+aVThey have some in storage for a rainy day.
+p137
+aVRed countries are net calorie importers.
+p138
+aVThe deeper, the brighter the red,
+p139
+aVthe more you're importing.
+p140
+aV40 years ago, such few countries were net exporters of calories,
+p141
+aVI could count them with one hand.
+p142
+aVMost of the African continent,
+p143
+aVEurope, most of Asia,
+p144
+aVSouth America excluding Argentina,
+p145
+aVwere all net importers of calories.
+p146
+aVAnd what's surprising is that China used to actually be food self-sufficient.
+p147
+aVIndia was a big net importer of calories.
+p148
+aa(lp149
+V40 years later, this is today.
+p150
+aVYou can see the drastic transformation that's occurred in the world.
+p151
+aVBrazil has emerged as an agricultural powerhouse.
+p152
+aVEurope is dominant in global agriculture.
+p153
+aVIndia has actually flipped from red to blue.
+p154
+aVIt's become food self-sufficient.
+p155
+aVAnd China went from that light blue
+p156
+aVto the brightest red that you see on this map.
+p157
+aa(lp158
+VHow did we get here? What happened?
+p159
+aVSo this chart shows you India and Africa.
+p160
+aVBlue line is India, red line is Africa.
+p161
+aVHow is it that two regions that started off so similarly
+p162
+aVin such similar trajectories
+p163
+aVtake such different paths?
+p164
+aVIndia had a green revolution.
+p165
+aVNot a single African country had a green revolution.
+p166
+aVThe net outcome?
+p167
+aVIndia is food self-sufficient
+p168
+aVand in the past decade has actually been exporting calories.
+p169
+aVThe African continent now imports over 300 trillion calories a year.
+p170
+aVThen we add China, the green line.
+p171
+aVRemember the switch from the blue to the bright red?
+p172
+aVWhat happened and when did it happen?
+p173
+aVChina seemed to be on a very similar path to India
+p174
+aVuntil the start of the 21st century,
+p175
+aVwhere it suddenly flipped.
+p176
+aVA young and growing population
+p177
+aVcombined with significant economic growth
+p178
+aVmade its mark with a big bang
+p179
+aVand no one in the markets saw it coming.
+p180
+aVThis flip was everything to global agricultural markets.
+p181
+aVLuckily now, South America
+p182
+aVwas starting to boom at the same time as China's rise,
+p183
+aVand so therefore, supply and demand were still somewhat balanced.
+p184
+aa(lp185
+VSo the question becomes,
+p186
+aVwhere do we go from here?
+p187
+aVOddly enough,
+p188
+aVit's not a new story,
+p189
+aVexcept this time it's not just a story of China.
+p190
+aVIt's a continuation of China,
+p191
+aVan amplification of Africa
+p192
+aVand a paradigm shift in India.
+p193
+aVBy 2023,
+p194
+aVAfrica's population is forecasted to overtake that of India's and China's.
+p195
+aVBy 2023, these three regions combined
+p196
+aVwill make up over half the world's population.
+p197
+aVThis crossover point starts to present really interesting challenges
+p198
+aVfor global food security.
+p199
+aVAnd a few years later, we're hit hard with that reality.
+p200
+aa(lp201
+VWhat does the world look like in 10 years?
+p202
+aVSo far, as I mentioned, India has been food self-sufficient.
+p203
+aVMost forecasters predict that this will continue.
+p204
+aVWe disagree.
+p205
+aVIndia will soon become a net importer of calories.
+p206
+aVThis will be driven both by the fact
+p207
+aVthat demand is growing from a population growth standpoint
+p208
+aVplus economic growth.
+p209
+aVIt will be driven by both.
+p210
+aVAnd even if you have optimistic assumptions
+p211
+aVaround production growth,
+p212
+aVit will make that slight flip.
+p213
+aVThat slight flip can have huge implications.
+p214
+aa(lp215
+VNext, Africa will continue to be a net importer of calories,
+p216
+aVagain driven by population growth and economic growth.
+p217
+aVThis is again assuming optimistic production growth assumptions.
+p218
+aVThen China,
+p219
+aVwhere population is flattening out,
+p220
+aVcalorie consumption will explode
+p221
+aVbecause the types of calories consumed
+p222
+aVare also starting to be higher-calorie-content foods.
+p223
+aVAnd so therefore,
+p224
+aVthese three regions combined
+p225
+aVstart to present a really interesting challenge for the world.
+p226
+aa(lp227
+VUntil now, countries with calorie deficits
+p228
+aVhave been able to meet these deficits
+p229
+aVby importing from surplus regions.
+p230
+aVBy surplus regions, I'm talking about
+p231
+aVNorth America, South America and Europe.
+p232
+aVThis line chart over here shows you
+p233
+aVthe growth and the projected growth over the next decade of production
+p234
+aVfrom North America, South America and Europe.
+p235
+aVWhat it doesn't show you
+p236
+aVis that most of this growth is actually going to come from South America.
+p237
+aVAnd most of this growth
+p238
+aVis going to come at the huge cost of deforestation.
+p239
+aVAnd so when you look at the combined demand increase
+p240
+aVcoming from India, China and the African continent,
+p241
+aVand look at it versus the combined increase in production
+p242
+aVcoming from India, China, the African continent,
+p243
+aVNorth America, South America and Europe,
+p244
+aVyou are left with a 214-trillion-calorie deficit,
+p245
+aVone we can't produce.
+p246
+aVAnd this, by the way, is actually assuming we take all the extra calories
+p247
+aVproduced in North America, South America and Europe
+p248
+aVand export them solely to India, China and Africa.
+p249
+aa(lp250
+VWhat I just presented to you is a vision of an impossible world.
+p251
+aVWe can do something to change that.
+p252
+aVWe can change consumption patterns,
+p253
+aVwe can reduce food waste,
+p254
+aVor we can make a bold commitment
+p255
+aVto increasing yields exponentially.
+p256
+aa(lp257
+VNow, I'm not going to go into discussing
+p258
+aVchanging consumption patterns or reducing food waste,
+p259
+aVbecause those conversations have been going on for some time now.
+p260
+aVNothing has happened.
+p261
+aVNothing has happened because those arguments
+p262
+aVask the surplus regions to change their behavior
+p263
+aVon behalf of deficit regions.
+p264
+aVWaiting for others to change their behavior
+p265
+aVon your behalf, for your survival,
+p266
+aVis a terrible idea.
+p267
+aVIt's unproductive.
+p268
+aa(lp269
+VSo I'd like to suggest an alternative that comes from the red regions.
+p270
+aVChina, India, Africa.
+p271
+aVChina is constrained in terms of how much more land it actually has
+p272
+aVavailable for agriculture,
+p273
+aVand it has massive water resource availability issues.
+p274
+aVSo the answer really lies in India and in Africa.
+p275
+aVIndia has some upside in terms of potential yield increases.
+p276
+aVNow this is the gap between its current yield
+p277
+aVand the theoretical maximum yield it can achieve.
+p278
+aVIt has some unfarmed arable land remaining, but not much,
+p279
+aVIndia is quite land-constrained.
+p280
+aVNow, the African continent, on the other hand,
+p281
+aVhas vast amounts of arable land remaining
+p282
+aVand significant upside potential in yields.
+p283
+aVSomewhat simplified picture here,
+p284
+aVbut if you look at sub-Saharan African yields in corn today,
+p285
+aVthey are where North American yields were in 1940.
+p286
+aVWe don't have 70-plus years to figure this out,
+p287
+aVso it means we need to try something new
+p288
+aVand we need to try something different.
+p289
+aVThe solution starts with reforms.
+p290
+aVWe need to reform and commercialize
+p291
+aVthe agricultural industries in Africa
+p292
+aVand in India.
+p293
+aa(lp294
+VNow, by commercialization \u2014
+p295
+aVcommercialization is not about commercial farming alone.
+p296
+aVCommercialization is about leveraging data
+p297
+aVto craft better policies,
+p298
+aVto improve infrastructure,
+p299
+aVto lower the transportation costs
+p300
+aVand to completely reform banking and insurance industries.
+p301
+aVCommercialization is about taking agriculture
+p302
+aVfrom too risky an endeavor to one where fortunes can be made.
+p303
+aVCommercialization is not about just farmers.
+p304
+aVCommercialization is about the entire agricultural system.
+p305
+aVBut commercialization also means confronting the fact
+p306
+aVthat we can no longer place the burden of growth
+p307
+aVon small-scale farmers alone,
+p308
+aVand accepting that commercial farms and the introduction of commercial farms
+p309
+aVcould provide certain economies of scale
+p310
+aVthat even small-scale farmers can leverage.
+p311
+aVIt is not about small-scale farming or commercial agriculture,
+p312
+aVor big agriculture.
+p313
+aVWe can create the first successful models of the coexistence and success
+p314
+aVof small-scale farming alongside commercial agriculture.
+p315
+aVThis is because, for the first time ever,
+p316
+aVthe most critical tool for success in the industry \u2014
+p317
+aVdata and knowledge \u2014
+p318
+aVis becoming cheaper by the day.
+p319
+aVAnd very soon, it won't matter how much money you have
+p320
+aVor how big you are
+p321
+aVto make optimal decisions and maximize probability of success
+p322
+aVin reaching your intended goal.
+p323
+aVCompanies like Gro are working really hard to make this a reality.
+p324
+aa(lp325
+VSo if we can commit to this new, bold initiative,
+p326
+aVto this new, bold change,
+p327
+aVnot only can we solve the 214-trillion gap that I talked about,
+p328
+aVbut we can actually set the world on a whole new path.
+p329
+aVIndia can remain food self-sufficient
+p330
+aVand Africa can emerge as the world's next dark blue region.
+p331
+aa(lp332
+VThe new question is,
+p333
+aVhow do we produce 214 trillion calories
+p334
+aVto feed 8.3 billion people by 2027?
+p335
+aVWe have the solution.
+p336
+aVWe just need to act on it.
+p337
+aa(lp338
+VThank you.
+p339
+aa(lp340
+V(Applause)
+p341
+aasS'id'
+p342
+I2898
+sS'title'
+p343
+VA global food crisis may be less than a decade away
+p344
+s.

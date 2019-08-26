@@ -1,0 +1,133 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VOrganic chemists make molecules,
+p4
+aVvery complicated molecules,
+p5
+aVby chopping up a big molecule into small molecules
+p6
+aVand reverse engineering.
+p7
+aVAnd as a chemist,
+p8
+aVone of the things I wanted to ask my research group a couple of years ago is,
+p9
+aVcould we make a really cool universal chemistry set?
+p10
+aVIn essence, could we "app" chemistry?
+p11
+aa(lp12
+VNow what would this mean, and how would we do it?
+p13
+aVWell to start to do this,
+p14
+aVwe took a 3D printer
+p15
+aVand we started to print our beakers and our test tubes on one side
+p16
+aVand then print the molecule at the same time on the other side
+p17
+aVand combine them together in what we call reactionware.
+p18
+aVAnd so by printing the vessel and doing the chemistry at the same time,
+p19
+aVwe may start to access this universal toolkit of chemistry.
+p20
+aa(lp21
+VNow what could this mean?
+p22
+aVWell if we can embed biological and chemical networks like a search engine,
+p23
+aVso if you have a cell that's ill that you need to cure
+p24
+aVor bacteria that you want to kill,
+p25
+aVif you have this embedded in your device
+p26
+aVat the same time, and you do the chemistry,
+p27
+aVyou may be able to make drugs in a new way.
+p28
+aa(lp29
+VSo how are we doing this in the lab?
+p30
+aVWell it requires software, it requires hardware
+p31
+aVand it requires chemical inks.
+p32
+aVAnd so the really cool bit is,
+p33
+aVthe idea is that we want to have a universal set of inks
+p34
+aVthat we put out with the printer,
+p35
+aVand you download the blueprint, the organic chemistry for that molecule
+p36
+aVand you make it in the device.
+p37
+aVAnd so you can make your molecule in the printer using this software.
+p38
+aa(lp39
+VSo what could this mean?
+p40
+aVWell, ultimately, it could mean that you could print your own medicine.
+p41
+aVAnd this is what we're doing in the lab at the moment.
+p42
+aa(lp43
+VBut to take baby steps to get there,
+p44
+aVfirst of all we want to look at drug design and production,
+p45
+aVor drug discovery and manufacturing.
+p46
+aVBecause if we can manufacture it after we've discovered it,
+p47
+aVwe could deploy it anywhere.
+p48
+aVYou don't need to go to the chemist anymore.
+p49
+aVWe can print drugs at point of need.
+p50
+aVWe can download new diagnostics.
+p51
+aVSay a new super bug has emerged.
+p52
+aVYou put it in your search engine,
+p53
+aVand you create the drug to treat the threat.
+p54
+aVSo this allows you on-the-fly molecular assembly.
+p55
+aa(lp56
+VBut perhaps for me the core bit going into the future
+p57
+aVis this idea of taking your own stem cells,
+p58
+aVwith your genes and your environment,
+p59
+aVand you print your own personal medicine.
+p60
+aa(lp61
+VAnd if that doesn't seem fanciful enough,
+p62
+aVwhere do you think we're going to go?
+p63
+aVWell, you're going to have your own personal matter fabricator.
+p64
+aVBeam me up, Scotty.
+p65
+aa(lp66
+V(Applause)
+p67
+aasS'id'
+p68
+I1661
+sS'title'
+p69
+VPrint your own medicine
+p70
+s.

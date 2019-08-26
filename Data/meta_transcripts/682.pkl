@@ -1,0 +1,212 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'd like to talk to you today about the scale of the scientific effort
+p4
+aVthat goes into making the headlines you see in the paper.
+p5
+aVHeadlines that look like this when they have to do with climate change;
+p6
+aVand like this when they have to do with air quality or smog.
+p7
+aVThey're two branches of the same field of atmospheric science.
+p8
+aa(lp9
+VRecently, the headlines looked like this
+p10
+aVwhen the Intergovernmental Panel on Climate Change, or IPCC,
+p11
+aVput out their report
+p12
+aVon the state of understanding of the atmospheric system.
+p13
+aVThat report was written by 620 scientists from 40 countries.
+p14
+aVThey wrote almost 1,000 pages on the topic,
+p15
+aVand all of those pages were reviewed
+p16
+aVby another 400-plus scientists and reviewers
+p17
+aVfrom 113 countries.
+p18
+aVIt's a big community;
+p19
+aVsuch a big community, in fact,
+p20
+aVthat our annual gathering is the largest scientific meeting in the world.
+p21
+aa(lp22
+VOver 15,000 scientists go to San Francisco every year for that.
+p23
+aVEvery one of those scientists is in a research group,
+p24
+aVand every research group studies a wide variety of topics.
+p25
+aVFor us at Cambridge, it's as varied as the El Niño Oscillation,
+p26
+aVwhich affects weather and climate,
+p27
+aVto the assimilation of satellite data,
+p28
+aVto emissions from crops that produce biofuels, which is what I study.
+p29
+aa(lp30
+VAnd in each one of these research areas, of which there are even more,
+p31
+aVthere are PhD students, like me, and we study incredibly narrow topics,
+p32
+aVthings as narrow as a few processes or a few molecules.
+p33
+aVAnd one of the molecules I study is called isoprene, which is here.
+p34
+aVIt's a small organic molecule.
+p35
+aVYou've probably never heard of it.
+p36
+aVThe weight of a paper clip is approximately equal
+p37
+aVto 900 zeta-illion \u2014 10 to the 21st \u2014 molecules of isoprene.
+p38
+aa(lp39
+VBut despite its very small weight,
+p40
+aVenough of it is emitted into the atmosphere every year
+p41
+aVto equal the weight of all the people on the planet.
+p42
+aVIt's a huge amount of stuff. It's equal to the weight of methane.
+p43
+aVAnd because it's so much stuff,
+p44
+aVit's really important for the atmospheric system.
+p45
+aa(lp46
+VBecause it's important to the atmospheric system,
+p47
+aVwe go to all lengths to study this thing.
+p48
+aVWe blow it up and look at the pieces.
+p49
+aVThis is the EUPHORE Smog Chamber in Spain.
+p50
+aVAtmospheric explosions, or full combustion,
+p51
+aVtakes about 15,000 times longer than what happens in your car.
+p52
+aVBut still, we look at the pieces.
+p53
+aa(lp54
+VWe run enormous models on supercomputers; this is what I happen to do.
+p55
+aVOur models have hundreds of thousands of grid boxes
+p56
+aVcalculating hundreds of variables each, on minute timescales.
+p57
+aVIt takes weeks to perform our integrations,
+p58
+aVand we perform dozens of integrations in order to understand what's happening.
+p59
+aa(lp60
+VWe also fly all over the world looking for this thing.
+p61
+aVI recently joined a field campaign in Malaysia \u2014 there are others.
+p62
+aVWe found a global atmospheric watchtower there
+p63
+aVin the middle of the rainforest,
+p64
+aVand hung hundreds of thousands of dollars' worth of scientific equipment
+p65
+aVoff this tower,
+p66
+aVto look for isoprene and other things while we were there.
+p67
+aVThis is the tower in the middle of the rainforest from above,
+p68
+aVand the tower from below.
+p69
+aa(lp70
+VOn part of that field campaign we even brought an aircraft with us.
+p71
+aVAnd this plane, the model BAe-146, which was run by FAAM,
+p72
+aVnormally flies 120 to 130 people,
+p73
+aVso maybe you took a similar aircraft to get here today.
+p74
+aVBut we didn't just fly it.
+p75
+aVWe were flying at 100 meters above the top of the canopy
+p76
+aVto measure this molecule \u2014 incredibly dangerous stuff.
+p77
+aa(lp78
+VWe have to fly at a special incline to make the measurements;
+p79
+aVwe hire military and test pilots to do the maneuvering;
+p80
+aVwe need special flight clearance.
+p81
+aVAs you come around the banks in these valleys,
+p82
+aVthe forces can get up to two Gs;
+p83
+aVthe scientists must be completely harnessed in
+p84
+aVin order to make measurements while on board.
+p85
+aVSo as you can imagine,
+p86
+aVthe inside of the aircraft doesn't look like one you'd take on vacation.
+p87
+aVIt's a flying laboratory we took to make measurements of this molecule.
+p88
+aa(lp89
+VWe do all this to understand the chemistry of one molecule.
+p90
+aVAnd when one student like me has some sort of inclination
+p91
+aVor understanding about that molecule,
+p92
+aVthey write one scientific paper on the subject.
+p93
+aVAnd out of that field campaign we'll probably get a few dozen papers
+p94
+aVon a few dozen processes or molecules.
+p95
+aa(lp96
+VAs a body of knowledge builds up, it will form one subsection,
+p97
+aVor one sub-subsection,
+p98
+aVof an assessment like the IPCC, although we have others.
+p99
+aVAnd each one of the 11 chapters of the IPCC has six to ten subsections.
+p100
+aVSo you can imagine the scale of the effort.
+p101
+aVIn each one of the assessments we write, we always tag on a summary,
+p102
+aVand the summary is written for a non-scientific audience.
+p103
+aVAnd we hand that summary to journalists and policy makers
+p104
+aVin order to make headlines like these.
+p105
+aa(lp106
+VThank you very much.
+p107
+aa(lp108
+V(Applause)
+p109
+aasS'id'
+p110
+I682
+sS'title'
+p111
+VThe science behind a climate headline
+p112
+s.

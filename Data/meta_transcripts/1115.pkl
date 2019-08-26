@@ -1,0 +1,411 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI have had the distinct blessing in my life
+p4
+aVto have worked on a bunch of amazing projects.
+p5
+aVBut the coolest I ever worked on
+p6
+aVwas around this guy.
+p7
+aVThis guy's name is TEMPT.
+p8
+aVTEMPT was one of the foremost graffiti artists in the 80s.
+p9
+aVAnd he came up home from a run one day
+p10
+aVand said, "Dad, my legs are tingling."
+p11
+aVAnd that was the onset of ALS.
+p12
+aVSo TEMPT is now completely paralyzed.
+p13
+aVHe only has use of his eyes.
+p14
+aa(lp15
+VI was exposed to him.
+p16
+aVI have a company that does design and animation,
+p17
+aVso obviously graffiti is definitely an intricate part
+p18
+aVof what we admire and respect in the art world.
+p19
+aVAnd so we decided that we were going to sponsor
+p20
+aVTony, TEMPT, and his cause.
+p21
+aVSo I went and met with his brother and father
+p22
+aVand said, "We're going to give you this money.
+p23
+aVWhat are you going to do with it?"
+p24
+aVAnd his brother said, "I just want to be able to talk to Tony again.
+p25
+aVI just want to be able to communicate with him
+p26
+aVand him to be able to communicate with me."
+p27
+aVAnd I said, "Wait a second, isn't that \u2014 I've seen Stephen Hawking \u2014
+p28
+aVdon't all paralyzed people have the ability to communicate
+p29
+aVvia these devices?"
+p30
+aVAnd he said, "No, unless you're in the upper echelon and
+p31
+aVyou've got really amazing insurance,
+p32
+aVyou can't actually do that.
+p33
+aVThese devices aren't accessible to people."
+p34
+aVAnd I said, "Well, how do you actually communicate?"
+p35
+aVHas everyone seen the movie "The Diving Bell and the Butterfly?"
+p36
+aVThat's how they communicate \u2014
+p37
+aVso run their finger along.
+p38
+aVI said, "That's archaic. How can that be?"
+p39
+aa(lp40
+VSo I showed up with the desire to just write a check,
+p41
+aVand instead, I wrote a check
+p42
+aVthat I had no freaking idea how I was going to cash.
+p43
+aVI committed to his brother and his father right then and there \u2014
+p44
+aVI'm like, "All right, here's the deal:
+p45
+aVTony's going to speak, we're going to get him a machine,
+p46
+aVand we're going to figure out a way for him to do his art again.
+p47
+aVBecause it's a travesty that someone who still has all of that in him
+p48
+aVisn't able to communicate it."
+p49
+aa(lp50
+VSo I spoke at a conference a couple months after that.
+p51
+aVI met these guys called GRL,
+p52
+aVGraffiti Research Lab,
+p53
+aVand they have a technology
+p54
+aVthat allows them to project a light onto any surface
+p55
+aVand then, with a laser pointer, draw on it,
+p56
+aVand it just registers the negative space.
+p57
+aVSo they go around and do art installations like this.
+p58
+aVAll the things that go up there, they said there's a life cycle.
+p59
+aVFirst it starts with the sexual organs,
+p60
+aVthen it starts with cuss words,
+p61
+aVthen it was Bush slanders
+p62
+aVand then people actually got to art.
+p63
+aVBut there was always a life cycle to their presentations.
+p64
+aVSo I went home and was having dinner with my wife
+p65
+aVand was telling her about this,
+p66
+aVand we were like, "Well wait a second. If we know that this technology exists
+p67
+aVwhere you can use your eyes to control things,
+p68
+aVwhy don't we figure out a way for TEMPT to control a laser
+p69
+aVand he could do graf again? Well that would be awesome."
+p70
+aa(lp71
+VSo that started the journey.
+p72
+aVAnd about two years later, about a year later,
+p73
+aVafter a bunch of organization
+p74
+aVand a bunch of moving things around,
+p75
+aVwe'd accomplished a couple things.
+p76
+aVOne, we battered down the doors of the insurance companies,
+p77
+aVand we actually got TEMPT a machine
+p78
+aVthat let him communicate \u2014 a Stephen Hawking machine.
+p79
+aV(Applause)
+p80
+aVWhich was awesome.
+p81
+aVAnd he's seriously one of the funniest \u2014 I call him Yoda,
+p82
+aVbecause you talk to the guy, you get an email from him,
+p83
+aVand you're like, "I'm not worthy. This guy's so amazing."
+p84
+aa(lp85
+VThe other thing we did
+p86
+aVis we flew seven programmers from all over the world \u2014
+p87
+aVliterally every corner of the world \u2014
+p88
+aVinto our house.
+p89
+aVMy wife and kids and I moved to our back garage,
+p90
+aVand these hackers and programmers
+p91
+aVand conspiracy theorists and anarchists took over our house.
+p92
+aVA lot of our friends thought we were absolutely stupid to do that
+p93
+aVand that we were going to come back
+p94
+aVand all the pictures on the wall would be removed and graf on the walls.
+p95
+aVBut for over two weeks,
+p96
+aVwe programmed,
+p97
+aVwe went to the Venice boardwalk,
+p98
+aVmy kids got involved,
+p99
+aVmy dog got involved,
+p100
+aVand we created this.
+p101
+aa(lp102
+VThis is called the EyeWriter,
+p103
+aVand you can see the description.
+p104
+aVThis is a cheap pair of sunglasses
+p105
+aVthat we bought at the Venice Beach boardwalk,
+p106
+aVsome copper wire
+p107
+aVand some stuff from Home Depot and Radio Shack.
+p108
+aVWe took a PS3 camera, hacked it open,
+p109
+aVmounted it to an LED light,
+p110
+aVand now there's a device that is free \u2014
+p111
+aVyou build this yourself, we publish the code for free,
+p112
+aVyou download the software for free.
+p113
+aVAnd now we've created a device
+p114
+aVthat has absolutely no limitations.
+p115
+aVThere's no insurance company that can say "No."
+p116
+aVThere's no hospital that can say "No."
+p117
+aVAnybody who's paralyzed now has access
+p118
+aVto actually draw or communicate using only their eyes.
+p119
+aa(lp120
+V(Applause)
+p121
+aa(lp122
+VThank you.
+p123
+aVThank you guys very much. That was awesome.
+p124
+aa(lp125
+VSo at the end of the two weeks,
+p126
+aVwe went back to TEMPT's room.
+p127
+aVI love this picture, because this is someone else's room
+p128
+aVand that's his room.
+p129
+aVSo there's all this hustle and bustle going on for the big unveiling.
+p130
+aVAnd after over a year of planning,
+p131
+aVtwo weeks of programming,
+p132
+aVcarb-fest and all-night sessions,
+p133
+aVTony drew again for the first time in seven years.
+p134
+aVAnd this is an amazing picture,
+p135
+aVbecause this is his life support system,
+p136
+aVand he's looking over his life support system.
+p137
+aVWe kicked his bed so that he could see out.
+p138
+aVAnd we set up a projector
+p139
+aVon a wall out in the parking lot outside of his hospital.
+p140
+aVAnd he drew again for the first time,
+p141
+aVin front of his family and friends \u2014
+p142
+aVand you can only imagine
+p143
+aVwhat the feeling in the parking lot was.
+p144
+aVThe funny thing was, we had to break into the parking lot too,
+p145
+aVso we totally felt like we were legit in the whole graf scene too.
+p146
+aa(lp147
+V(Laughter)
+p148
+aa(lp149
+VSo at the end of this, he sent us an email,
+p150
+aVand this is what the email said:
+p151
+aV"That was the first time I've drawn anything for seven years.
+p152
+aVI feel like I had been held underwater,
+p153
+aVand someone finally reached down
+p154
+aVand pulled my head up so I could breathe."
+p155
+aVIsn't that awesome?
+p156
+aa(lp157
+V(Applause)
+p158
+aa(lp159
+VSo that's kind of our battle cry.
+p160
+aVThat's what keeps us going and keeps us developing.
+p161
+aVAnd we've got such a long way to go with this.
+p162
+aVThis is an amazing device,
+p163
+aVbut it's the equivalent of an Etch A Sketch.
+p164
+aVAnd someone who has that kind of artistic potential deserves so much more.
+p165
+aVSo we're in the process of trying to figure out
+p166
+aVhow to make it better, faster, stronger.
+p167
+aa(lp168
+VSince that time, we've had all kinds of acknowledgment.
+p169
+aVWe've won a bunch of awards.
+p170
+aVRemember, it's free; none of us are making any money on this thing.
+p171
+aVIt's all coming out of our own pockets.
+p172
+aVSo the awards were like, "Oh, this is fantastic."
+p173
+aVArmstrong Twittered about us,
+p174
+aVand then in December, Time magazine honored us
+p175
+aVas one of the top 50 inventions of 2010, which was really cool.
+p176
+aa(lp177
+V(Applause)
+p178
+aa(lp179
+VThe coolest thing about this \u2014
+p180
+aVand this is what's completing the whole circle \u2014
+p181
+aVis that in April of this year,
+p182
+aVat the Geffen MOCA in downtown Los Angeles,
+p183
+aVthere's going to be an exhibition called "Art of the Streets."
+p184
+aVAnd "Art of the Streets" is going to have
+p185
+aVpretty much the bad-asses of the street art scene \u2014
+p186
+aVBanksy, Shepard Fairey, KAWS \u2014
+p187
+aVall of these guys will be there.
+p188
+aVTEMPT's going to be in the show,
+p189
+aVwhich is pretty awesome.
+p190
+aa(lp191
+V(Applause)
+p192
+aa(lp193
+VSo basically this is my point:
+p194
+aVIf you see something that's not possible,
+p195
+aVmake it possible.
+p196
+aVEverything in this room wasn't possible \u2014
+p197
+aVthis stage, this computer, this mic, the EyeWriter \u2014
+p198
+aVwasn't possible at one point.
+p199
+aVMake it possible, everyone in this room.
+p200
+aVI'm not a programmer,
+p201
+aVnever done anything with ocular recognition technology,
+p202
+aVbut I just recognized something and associated myself with amazing people
+p203
+aVso that we could make something happen.
+p204
+aVAnd this is the question I want everyone to ask yourself
+p205
+aVevery single day
+p206
+aVwhen you come up with something you feel that needs to be done:
+p207
+aVif not now, then when? And if not me, then who?
+p208
+aa(lp209
+VThank you guys.
+p210
+aa(lp211
+V(Applause)
+p212
+aasS'id'
+p213
+I1115
+sS'title'
+p214
+VThe invention that unlocked a locked-in artist
+p215
+s.

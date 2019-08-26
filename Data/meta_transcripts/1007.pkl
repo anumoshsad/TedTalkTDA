@@ -1,0 +1,840 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWe've got a real problem with math education right now.
+p4
+aVBasically, no one's very happy.
+p5
+aVThose learning it
+p6
+aVthink it's disconnected,
+p7
+aVuninteresting and hard.
+p8
+aVThose trying to employ them
+p9
+aVthink they don't know enough.
+p10
+aVGovernments realize that it's a big deal for our economies,
+p11
+aVbut don't know how to fix it.
+p12
+aVAnd teachers are also frustrated.
+p13
+aVYet math is more important to the world
+p14
+aVthan at any point in human history.
+p15
+aVSo at one end we've got falling interest
+p16
+aVin education in math,
+p17
+aVand at the other end we've got a more mathematical world,
+p18
+aVa more quantitative world than we ever have had.
+p19
+aa(lp20
+VSo what's the problem, why has this chasm opened up,
+p21
+aVand what can we do to fix it?
+p22
+aVWell actually, I think the answer
+p23
+aVis staring us right in the face:
+p24
+aVUse computers.
+p25
+aVI believe
+p26
+aVthat correctly using computers
+p27
+aVis the silver bullet
+p28
+aVfor making math education work.
+p29
+aVSo to explain that,
+p30
+aVlet me first talk a bit about what math looks like in the real world
+p31
+aVand what it looks like in education.
+p32
+aVSee, in the real world
+p33
+aVmath isn't necessarily done by mathematicians.
+p34
+aVIt's done by geologists,
+p35
+aVengineers, biologists,
+p36
+aVall sorts of different people \u2014
+p37
+aVmodeling and simulation.
+p38
+aVIt's actually very popular.
+p39
+aVBut in education it looks very different \u2014
+p40
+aVdumbed-down problems, lots of calculating,
+p41
+aVmostly by hand.
+p42
+aVLots of things that seem simple
+p43
+aVand not difficult like in the real world,
+p44
+aVexcept if you're learning it.
+p45
+aVAnd another thing about math:
+p46
+aVmath sometimes looks like math \u2014
+p47
+aVlike in this example here \u2014
+p48
+aVand sometimes it doesn't \u2014
+p49
+aVlike "Am I drunk?"
+p50
+aVAnd then you get an answer that's quantitative in the modern world.
+p51
+aVYou wouldn't have expected that a few years back.
+p52
+aVBut now you can find out all about \u2014
+p53
+aVunfortunately, my weight is a little higher than that, but \u2014
+p54
+aVall about what happens.
+p55
+aa(lp56
+VSo let's zoom out a bit and ask,
+p57
+aVwhy are we teaching people math?
+p58
+aVWhat's the point of teaching people math?
+p59
+aVAnd in particular, why are we teaching them math in general?
+p60
+aVWhy is it such an important part of education
+p61
+aVas a sort of compulsory subject?
+p62
+aVWell, I think there are about three reasons:
+p63
+aVtechnical jobs
+p64
+aVso critical to the development of our economies,
+p65
+aVwhat I call "everyday living" \u2014
+p66
+aVto function in the world today,
+p67
+aVyou've got to be pretty quantitative,
+p68
+aVmuch more so than a few years ago:
+p69
+aVfigure out your mortgages,
+p70
+aVbeing skeptical of government statistics, those kinds of things \u2014
+p71
+aVand thirdly, what I would call something like
+p72
+aVlogical mind training, logical thinking.
+p73
+aVOver the years
+p74
+aVwe've put so much in society
+p75
+aVinto being able to process and think logically. It's part of human society.
+p76
+aVIt's very important to learn that
+p77
+aVmath is a great way to do that.
+p78
+aa(lp79
+VSo let's ask another question.
+p80
+aVWhat is math?
+p81
+aVWhat do we mean when we say we're doing math,
+p82
+aVor educating people to do math?
+p83
+aVWell, I think it's about four steps, roughly speaking,
+p84
+aVstarting with posing the right question.
+p85
+aVWhat is it that we want to ask? What is it we're trying to find out here?
+p86
+aVAnd this is the thing most screwed up in the outside world,
+p87
+aVbeyond virtually any other part of doing math.
+p88
+aVPeople ask the wrong question,
+p89
+aVand surprisingly enough, they get the wrong answer,
+p90
+aVfor that reason, if not for others.
+p91
+aVSo the next thing is take that problem
+p92
+aVand turn it from a real world problem
+p93
+aVinto a math problem.
+p94
+aVThat's stage two.
+p95
+aVOnce you've done that, then there's the computation step.
+p96
+aVTurn it from that into some answer
+p97
+aVin a mathematical form.
+p98
+aVAnd of course, math is very powerful at doing that.
+p99
+aVAnd then finally, turn it back to the real world.
+p100
+aVDid it answer the question?
+p101
+aVAnd also verify it \u2014 crucial step.
+p102
+aVNow here's the crazy thing right now.
+p103
+aVIn math education,
+p104
+aVwe're spending about perhaps 80 percent of the time
+p105
+aVteaching people to do step three by hand.
+p106
+aVYet, that's the one step computers can do
+p107
+aVbetter than any human after years of practice.
+p108
+aVInstead, we ought to be using computers
+p109
+aVto do step three
+p110
+aVand using the students to spend much more effort
+p111
+aVon learning how to do steps one, two and four \u2014
+p112
+aVconceptualizing problems, applying them,
+p113
+aVgetting the teacher to run them through how to do that.
+p114
+aa(lp115
+VSee, crucial point here:
+p116
+aVmath is not equal to calculating.
+p117
+aVMath is a much broader subject than calculating.
+p118
+aVNow it's understandable that this has all got intertwined
+p119
+aVover hundreds of years.
+p120
+aVThere was only one way to do calculating and that was by hand.
+p121
+aVBut in the last few decades
+p122
+aVthat has totally changed.
+p123
+aVWe've had the biggest transformation of any ancient subject
+p124
+aVthat I could ever imagine with computers.
+p125
+aVCalculating was typically the limiting step,
+p126
+aVand now often it isn't.
+p127
+aVSo I think in terms of the fact that math
+p128
+aVhas been liberated from calculating.
+p129
+aVBut that math liberation didn't get into education yet.
+p130
+aVSee, I think of calculating, in a sense,
+p131
+aVas the machinery of math.
+p132
+aVIt's the chore.
+p133
+aVIt's the thing you'd like to avoid if you can, like to get a machine to do.
+p134
+aVIt's a means to an end, not an end in itself,
+p135
+aVand automation allows us
+p136
+aVto have that machinery.
+p137
+aVComputers allow us to do that \u2014
+p138
+aVand this is not a small problem by any means.
+p139
+aVI estimated that, just today, across the world,
+p140
+aVwe spent about 106 average world lifetimes
+p141
+aVteaching people how to calculate by hand.
+p142
+aVThat's an amazing amount of human endeavor.
+p143
+aVSo we better be damn sure \u2014
+p144
+aVand by the way, they didn't even have fun doing it, most of them \u2014
+p145
+aVso we better be damn sure
+p146
+aVthat we know why we're doing that
+p147
+aVand it has a real purpose.
+p148
+aa(lp149
+VI think we should be assuming computers
+p150
+aVfor doing the calculating
+p151
+aVand only doing hand calculations where it really makes sense to teach people that.
+p152
+aVAnd I think there are some cases.
+p153
+aVFor example: mental arithmetic.
+p154
+aVI still do a lot of that, mainly for estimating.
+p155
+aVPeople say, "Is such and such true?"
+p156
+aVAnd I'll say, "Hmm, not sure." I'll think about it roughly.
+p157
+aVIt's still quicker to do that and more practical.
+p158
+aVSo I think practicality is one case
+p159
+aVwhere it's worth teaching people by hand.
+p160
+aVAnd then there are certain conceptual things
+p161
+aVthat can also benefit from hand calculating,
+p162
+aVbut I think they're relatively small in number.
+p163
+aVOne thing I often ask about
+p164
+aVis ancient Greek and how this relates.
+p165
+aVSee, the thing we're doing right now
+p166
+aVis we're forcing people to learn mathematics.
+p167
+aVIt's a major subject.
+p168
+aVI'm not for one minute suggesting that, if people are interested in hand calculating
+p169
+aVor in following their own interests
+p170
+aVin any subject however bizarre \u2014
+p171
+aVthey should do that.
+p172
+aVThat's absolutely the right thing,
+p173
+aVfor people to follow their self-interest.
+p174
+aVI was somewhat interested in ancient Greek,
+p175
+aVbut I don't think that we should force the entire population
+p176
+aVto learn a subject like ancient Greek.
+p177
+aVI don't think it's warranted.
+p178
+aVSo I have this distinction between what we're making people do
+p179
+aVand the subject that's sort of mainstream
+p180
+aVand the subject that, in a sense, people might follow with their own interest
+p181
+aVand perhaps even be spiked into doing that.
+p182
+aa(lp183
+VSo what are the issues people bring up with this?
+p184
+aVWell one of them is, they say, you need to get the basics first.
+p185
+aVYou shouldn't use the machine
+p186
+aVuntil you get the basics of the subject.
+p187
+aVSo my usual question is, what do you mean by "basics?"
+p188
+aVBasics of what?
+p189
+aVAre the basics of driving a car
+p190
+aVlearning how to service it, or design it for that matter?
+p191
+aVAre the basics of writing learning how to sharpen a quill?
+p192
+aVI don't think so.
+p193
+aVI think you need to separate the basics of what you're trying to do
+p194
+aVfrom how it gets done
+p195
+aVand the machinery of how it gets done
+p196
+aVand automation allows you to make that separation.
+p197
+aVA hundred years ago, it's certainly true that to drive a car
+p198
+aVyou kind of needed to know a lot about the mechanics of the car
+p199
+aVand how the ignition timing worked and all sorts of things.
+p200
+aVBut automation in cars
+p201
+aVallowed that to separate,
+p202
+aVso driving is now a quite separate subject, so to speak,
+p203
+aVfrom engineering of the car
+p204
+aVor learning how to service it.
+p205
+aVSo automation allows this separation
+p206
+aVand also allows \u2014 in the case of driving,
+p207
+aVand I believe also in the future case of maths \u2014
+p208
+aVa democratized way of doing that.
+p209
+aVIt can be spread across a much larger number of people
+p210
+aVwho can really work with that.
+p211
+aa(lp212
+VSo there's another thing that comes up with basics.
+p213
+aVPeople confuse, in my view,
+p214
+aVthe order of the invention of the tools
+p215
+aVwith the order in which they should use them for teaching.
+p216
+aVSo just because paper was invented before computers,
+p217
+aVit doesn't necessarily mean you get more to the basics of the subject
+p218
+aVby using paper instead of a computer
+p219
+aVto teach mathematics.
+p220
+aVMy daughter gave me a rather nice anecdote on this.
+p221
+aVShe enjoys making what she calls "paper laptops."
+p222
+aV(Laughter)
+p223
+aVSo I asked her one day, "You know, when I was your age,
+p224
+aVI didn't make these.
+p225
+aVWhy do you think that was?"
+p226
+aVAnd after a second or two, carefully reflecting,
+p227
+aVshe said, "No paper?"
+p228
+aV(Laughter)
+p229
+aVIf you were born after computers and paper,
+p230
+aVit doesn't really matter which order you're taught with them in,
+p231
+aVyou just want to have the best tool.
+p232
+aa(lp233
+VSo another one that comes up is "Computers dumb math down."
+p234
+aVThat somehow, if you use a computer,
+p235
+aVit's all mindless button-pushing,
+p236
+aVbut if you do it by hand,
+p237
+aVit's all intellectual.
+p238
+aVThis one kind of annoys me, I must say.
+p239
+aVDo we really believe
+p240
+aVthat the math that most people are doing in school
+p241
+aVpractically today
+p242
+aVis more than applying procedures
+p243
+aVto problems they don't really understand, for reasons they don't get?
+p244
+aVI don't think so.
+p245
+aVAnd what's worse, what they're learning there isn't even practically useful anymore.
+p246
+aVMight have been 50 years ago, but it isn't anymore.
+p247
+aVWhen they're out of education, they do it on a computer.
+p248
+aVJust to be clear, I think computers can really help with this problem,
+p249
+aVactually make it more conceptual.
+p250
+aVNow, of course, like any great tool,
+p251
+aVthey can be used completely mindlessly,
+p252
+aVlike turning everything into a multimedia show,
+p253
+aVlike the example I was shown of solving an equation by hand,
+p254
+aVwhere the computer was the teacher \u2014
+p255
+aVshow the student how to manipulate and solve it by hand.
+p256
+aVThis is just nuts.
+p257
+aVWhy are we using computers to show a student how to solve a problem by hand
+p258
+aVthat the computer should be doing anyway?
+p259
+aVAll backwards.
+p260
+aa(lp261
+VLet me show you
+p262
+aVthat you can also make problems harder to calculate.
+p263
+aVSee, normally in school,
+p264
+aVyou do things like solve quadratic equations.
+p265
+aVBut you see, when you're using a computer,
+p266
+aVyou can just substitute.
+p267
+aVYou can make it a quartic equation. Make it kind of harder, calculating-wise.
+p268
+aVSame principles applied \u2014
+p269
+aVcalculations, harder.
+p270
+aVAnd problems in the real world
+p271
+aVlook nutty and horrible like this.
+p272
+aVThey've got hair all over them.
+p273
+aVThey're not just simple, dumbed-down things that we see in school math.
+p274
+aVAnd think of the outside world.
+p275
+aVDo we really believe that engineering and biology
+p276
+aVand all of these other things
+p277
+aVthat have so benefited from computers and maths
+p278
+aVhave somehow conceptually gotten reduced by using computers?
+p279
+aVI don't think so \u2014 quite the opposite.
+p280
+aVSo the problem we've really got in math education
+p281
+aVis not that computers might dumb it down,
+p282
+aVbut that we have dumbed-down problems right now.
+p283
+aVWell, another issue people bring up
+p284
+aVis somehow that hand calculating procedures
+p285
+aVteach understanding.
+p286
+aVSo if you go through lots of examples,
+p287
+aVyou can get the answer,
+p288
+aVyou can understand how the basics of the system work better.
+p289
+aVI think there is one thing that I think very valid here,
+p290
+aVwhich is that I think understanding procedures and processes is important.
+p291
+aVBut there's a fantastic way to do that in the modern world.
+p292
+aVIt's called programming.
+p293
+aa(lp294
+VProgramming is how most procedures and processes
+p295
+aVget written down these days,
+p296
+aVand it's also a great way
+p297
+aVto engage students much more
+p298
+aVand to check they really understand.
+p299
+aVIf you really want to check you understand math
+p300
+aVthen write a program to do it.
+p301
+aVSo programming is the way I think we should be doing that.
+p302
+aVSo to be clear, what I really am suggesting here
+p303
+aVis we have a unique opportunity
+p304
+aVto make maths both more practical
+p305
+aVand more conceptual, simultaneously.
+p306
+aVI can't think of any other subject where that's recently been possible.
+p307
+aVIt's usually some kind of choice
+p308
+aVbetween the vocational and the intellectual.
+p309
+aVBut I think we can do both at the same time here.
+p310
+aVAnd we open up so many more possibilities.
+p311
+aVYou can do so many more problems.
+p312
+aVWhat I really think we gain from this
+p313
+aVis students getting intuition and experience
+p314
+aVin far greater quantities than they've ever got before.
+p315
+aVAnd experience of harder problems \u2014
+p316
+aVbeing able to play with the math, interact with it,
+p317
+aVfeel it.
+p318
+aVWe want people who can feel the math instinctively.
+p319
+aVThat's what computers allow us to do.
+p320
+aa(lp321
+VAnother thing it allows us to do is reorder the curriculum.
+p322
+aVTraditionally it's been by how difficult it is to calculate,
+p323
+aVbut now we can reorder it
+p324
+aVby how difficult it is to understand the concepts,
+p325
+aVhowever hard the calculating.
+p326
+aVSo calculus has traditionally been taught very late.
+p327
+aVWhy is this?
+p328
+aVWell, it's damn hard doing the calculations, that's the problem.
+p329
+aVBut actually many of the concepts
+p330
+aVare amenable to a much younger age group.
+p331
+aVThis was an example I built for my daughter.
+p332
+aVAnd very, very simple.
+p333
+aVWe were talking about what happens
+p334
+aVwhen you increase the number of sides of a polygon
+p335
+aVto a very large number.
+p336
+aVAnd of course, it turns into a circle.
+p337
+aVAnd by the way, she was also very insistent
+p338
+aVon being able to change the color,
+p339
+aVan important feature for this demonstration.
+p340
+aVYou can see that this is a very early step
+p341
+aVinto limits and differential calculus
+p342
+aVand what happens when you take things to an extreme \u2014
+p343
+aVand very small sides and a very large number of sides.
+p344
+aVVery simple example.
+p345
+aVThat's a view of the world
+p346
+aVthat we don't usually give people for many, many years after this.
+p347
+aVAnd yet, that's a really important practical view of the world.
+p348
+aVSo one of the roadblocks we have
+p349
+aVin moving this agenda forward
+p350
+aVis exams.
+p351
+aVIn the end, if we test everyone by hand in exams,
+p352
+aVit's kind of hard to get the curricula changed
+p353
+aVto a point where they can use computers
+p354
+aVduring the semesters.
+p355
+aa(lp356
+VAnd one of the reasons it's so important \u2014
+p357
+aVso it's very important to get computers in exams.
+p358
+aVAnd then we can ask questions, real questions,
+p359
+aVquestions like, what's the best life insurance policy to get? \u2014
+p360
+aVreal questions that people have in their everyday lives.
+p361
+aVAnd you see, this isn't some dumbed-down model here.
+p362
+aVThis is an actual model where we can be asked to optimize what happens.
+p363
+aVHow many years of protection do I need?
+p364
+aVWhat does that do to the payments
+p365
+aVand to the interest rates and so forth?
+p366
+aVNow I'm not for one minute suggesting it's the only kind of question
+p367
+aVthat should be asked in exams,
+p368
+aVbut I think it's a very important type
+p369
+aVthat right now just gets completely ignored
+p370
+aVand is critical for people's real understanding.
+p371
+aa(lp372
+VSo I believe [there is] critical reform
+p373
+aVwe have to do in computer-based math.
+p374
+aVWe have got to make sure
+p375
+aVthat we can move our economies forward,
+p376
+aVand also our societies,
+p377
+aVbased on the idea that people can really feel mathematics.
+p378
+aVThis isn't some optional extra.
+p379
+aVAnd the country that does this first
+p380
+aVwill, in my view, leapfrog others
+p381
+aVin achieving a new economy even,
+p382
+aVan improved economy,
+p383
+aVan improved outlook.
+p384
+aVIn fact, I even talk about us moving
+p385
+aVfrom what we often call now the "knowledge economy"
+p386
+aVto what we might call a "computational knowledge economy,"
+p387
+aVwhere high-level math is integral to what everyone does
+p388
+aVin the way that knowledge currently is.
+p389
+aVWe can engage so many more students with this,
+p390
+aVand they can have a better time doing it.
+p391
+aVAnd let's understand:
+p392
+aVthis is not an incremental sort of change.
+p393
+aVWe're trying to cross the chasm here
+p394
+aVbetween school math and the real-world math.
+p395
+aVAnd you know if you walk across a chasm,
+p396
+aVyou end up making it worse than if you didn't start at all \u2014
+p397
+aVbigger disaster.
+p398
+aVNo, what I'm suggesting
+p399
+aVis that we should leap off,
+p400
+aVwe should increase our velocity
+p401
+aVso it's high,
+p402
+aVand we should leap off one side and go the other \u2014
+p403
+aVof course, having calculated our differential equation very carefully.
+p404
+aa(lp405
+V(Laughter)
+p406
+aa(lp407
+VSo I want to see
+p408
+aVa completely renewed, changed math curriculum
+p409
+aVbuilt from the ground up,
+p410
+aVbased on computers being there,
+p411
+aVcomputers that are now ubiquitous almost.
+p412
+aVCalculating machines are everywhere
+p413
+aVand will be completely everywhere in a small number of years.
+p414
+aVNow I'm not even sure if we should brand the subject as math,
+p415
+aVbut what I am sure is
+p416
+aVit's the mainstream subject of the future.
+p417
+aVLet's go for it,
+p418
+aVand while we're about it,
+p419
+aVlet's have a bit of fun,
+p420
+aVfor us, for the students and for TED here.
+p421
+aa(lp422
+VThanks.
+p423
+aa(lp424
+V(Applause)
+p425
+aasS'id'
+p426
+I1007
+sS'title'
+p427
+VTeaching kids real math with computers
+p428
+s.

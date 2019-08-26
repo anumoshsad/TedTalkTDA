@@ -1,0 +1,718 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThere are times when I feel really quite ashamed
+p4
+aVto be a European.
+p5
+aVIn the last year,
+p6
+aVmore than a million people arrived in Europe in need of our help,
+p7
+aVand our response, frankly, has been pathetic.
+p8
+aa(lp9
+VThere are just so many contradictions.
+p10
+aVWe mourn the tragic death
+p11
+aVof two-year-old Alan Kurdi,
+p12
+aVand yet, since then, more than 200 children
+p13
+aVhave subsequently drowned in the Mediterranean.
+p14
+aVWe have international treaties
+p15
+aVthat recognize that refugees are a shared responsibility,
+p16
+aVand yet we accept that tiny Lebanon
+p17
+aVhosts more Syrians than the whole of Europe combined.
+p18
+aVWe lament the existence of human smugglers,
+p19
+aVand yet we make that the only viable route
+p20
+aVto seek asylum in Europe.
+p21
+aVWe have labor shortages,
+p22
+aVand yet we exclude people who fit our economic and demographic needs
+p23
+aVfrom coming to Europe.
+p24
+aVWe proclaim our liberal values in opposition to fundamentalist Islam,
+p25
+aVand yet \u2014
+p26
+aVwe have repressive policies
+p27
+aVthat detain child asylum seekers,
+p28
+aVthat separate children from their families,
+p29
+aVand that seize property from refugees.
+p30
+aa(lp31
+VWhat are we doing?
+p32
+aVHow has the situation come to this,
+p33
+aVthat we've adopted such an inhumane response to a humanitarian crisis?
+p34
+aa(lp35
+VI don't believe it's because people don't care,
+p36
+aVor at least I don't want to believe it's because people don't care.
+p37
+aVI believe it's because our politicians lack a vision,
+p38
+aVa vision for how to adapt an international refugee system
+p39
+aVcreated over 50 years ago
+p40
+aVfor a changing and globalized world.
+p41
+aVAnd so what I want to do is take a step back
+p42
+aVand ask two really fundamental questions,
+p43
+aVthe two questions we all need to ask.
+p44
+aVFirst, why is the current system not working?
+p45
+aVAnd second, what can we do to fix it?
+p46
+aa(lp47
+VSo the modern refugee regime
+p48
+aVwas created in the aftermath of the Second World War by these guys.
+p49
+aVIts basic aim is to ensure
+p50
+aVthat when a state fails, or worse, turns against its own people,
+p51
+aVpeople have somewhere to go,
+p52
+aVto live in safety and dignity until they can go home.
+p53
+aVIt was created precisely for situations like the situation we see in Syria today.
+p54
+aVThrough an international convention signed by 147 governments,
+p55
+aVthe 1951 Convention on the Status of Refugees,
+p56
+aVand an international organization, UNHCR,
+p57
+aVstates committed to reciprocally admit people onto their territory
+p58
+aVwho flee conflict and persecution.
+p59
+aa(lp60
+VBut today, that system is failing.
+p61
+aVIn theory, refugees have a right to seek asylum.
+p62
+aVIn practice, our immigration policies block the path to safety.
+p63
+aVIn theory, refugees have a right to a pathway to integration,
+p64
+aVor return to the country they've come from.
+p65
+aVBut in practice, they get stuck in almost indefinite limbo.
+p66
+aVIn theory, refugees are a shared global responsibility.
+p67
+aVIn practice, geography means that countries proximate the conflict
+p68
+aVtake the overwhelming majority of the world's refugees.
+p69
+aVThe system isn't broken because the rules are wrong.
+p70
+aVIt's that we're not applying them adequately to a changing world,
+p71
+aVand that's what we need to reconsider.
+p72
+aa(lp73
+VSo I want to explain to you a little bit about how the current system works.
+p74
+aVHow does the refugee regime actually work?
+p75
+aVBut not from a top-down institutional perspective,
+p76
+aVrather from the perspective of a refugee.
+p77
+aVSo imagine a Syrian woman.
+p78
+aVLet's call her Amira.
+p79
+aVAnd Amira to me represents many of the people I've met in the region.
+p80
+aVAmira, like around 25 percent of the world's refugees,
+p81
+aVis a woman with children,
+p82
+aVand she can't go home because she comes from this city
+p83
+aVthat you see before you, Homs,
+p84
+aVa once beautiful and historic city
+p85
+aVnow under rubble.
+p86
+aVAnd so Amira can't go back there.
+p87
+aVBut Amira also has no hope of resettlement to a third country,
+p88
+aVbecause that's a lottery ticket
+p89
+aVonly available to less than one percent of the world's refugees.
+p90
+aa(lp91
+VSo Amira and her family
+p92
+aVface an almost impossible choice.
+p93
+aVThey have three basic options.
+p94
+aVThe first option is that Amira can take her family to a camp.
+p95
+aVIn the camp, she might get assistance,
+p96
+aVbut there are very few prospects for Amira and her family.
+p97
+aVCamps are in bleak, arid locations,
+p98
+aVoften in the desert.
+p99
+aVIn the Zaatari refugee camp in Jordan,
+p100
+aVyou can hear the shells across the border in Syria at nighttime.
+p101
+aVThere's restricted economic activity.
+p102
+aVEducation is often of poor quality.
+p103
+aVAnd around the world,
+p104
+aVsome 80 percent of refugees who are in camps
+p105
+aVhave to stay for at least five years.
+p106
+aVIt's a miserable existence,
+p107
+aVand that's probably why, in reality,
+p108
+aVonly nine percent of Syrians choose that option.
+p109
+aa(lp110
+VAlternatively, Amira can head to an urban area
+p111
+aVin a neighboring country, like Amman or Beirut.
+p112
+aVThat's an option that about 75 percent of Syrian refugees have taken.
+p113
+aVBut there, there's great difficulty as well.
+p114
+aVRefugees in such urban areas don't usually have the right to work.
+p115
+aVThey don't usually get significant access to assistance.
+p116
+aVAnd so when Amira and her family have used up their basic savings,
+p117
+aVthey're left with very little and likely to face urban destitution.
+p118
+aa(lp119
+VSo there's a third alternative,
+p120
+aVand it's one that increasing numbers of Syrians are taking.
+p121
+aVAmira can seek some hope for her family
+p122
+aVby risking their lives on a dangerous and perilous journey
+p123
+aVto another country,
+p124
+aVand it's that which we're seeing in Europe today.
+p125
+aa(lp126
+VAround the world, we present refugees with an almost impossible choice
+p127
+aVbetween three options:
+p128
+aVencampment, urban destitution and dangerous journeys.
+p129
+aVFor refugees, that choice is the global refugee regime today.
+p130
+aVBut I think it's a false choice.
+p131
+aVI think we can reconsider that choice.
+p132
+aVThe reason why we limit those options
+p133
+aVis because we think
+p134
+aVthat those are the only options that are available to refugees,
+p135
+aVand they're not.
+p136
+aVPoliticians frame the issue as a zero-sum issue,
+p137
+aVthat if we benefit refugees, we're imposing costs on citizens.
+p138
+aVWe tend to have a collective assumption
+p139
+aVthat refugees are an inevitable cost or burden to society.
+p140
+aVBut they don't have to. They can contribute.
+p141
+aa(lp142
+VSo what I want to argue
+p143
+aVis there are ways in which we can expand that choice set
+p144
+aVand still benefit everyone else:
+p145
+aVthe host states and communities,
+p146
+aVour societies and refugees themselves.
+p147
+aVAnd I want to suggest four ways
+p148
+aVwe can transform the paradigm of how we think about refugees.
+p149
+aVAll four ways have one thing in common:
+p150
+aVthey're all ways in which we take the opportunities of globalization,
+p151
+aVmobility and markets,
+p152
+aVand update the way we think about the refugee issue.
+p153
+aa(lp154
+VThe first one I want to think about
+p155
+aVis the idea of enabling environments,
+p156
+aVand it starts from a very basic recognition
+p157
+aVthat refugees are human beings like everyone else,
+p158
+aVbut they're just in extraordinary circumstances.
+p159
+aVTogether with my colleagues in Oxford,
+p160
+aVwe've embarked on a research project in Uganda
+p161
+aVlooking at the economic lives of refugees.
+p162
+aVWe chose Uganda not because it's representative of all host countries.
+p163
+aVIt's not. It's exceptional.
+p164
+aVUnlike most host countries around the world,
+p165
+aVwhat Uganda has done
+p166
+aVis give refugees economic opportunity.
+p167
+aVIt gives them the right to work. It gives them freedom of movement.
+p168
+aVAnd the results of that are extraordinary
+p169
+aVboth for refugees and the host community.
+p170
+aVIn the capital city, Kampala,
+p171
+aVwe found that 21 percent of refugees own a business that employs other people,
+p172
+aVand 40 percent of those employees
+p173
+aVare nationals of the host country.
+p174
+aVIn other words, refugees are making jobs
+p175
+aVfor citizens of the host country.
+p176
+aVEven in the camps, we found extraordinary examples
+p177
+aVof vibrant, flourishing and entrepreneurial businesses.
+p178
+aa(lp179
+VFor example, in a settlement called Nakivale,
+p180
+aVwe found examples of Congolese refugees
+p181
+aVrunning digital music exchange businesses.
+p182
+aVWe found a Rwandan who runs a business that's available
+p183
+aVto allow the youth to play computer games
+p184
+aVon recycled games consoles and recycled televisions.
+p185
+aVAgainst the odds of extreme constraint,
+p186
+aVrefugees are innovating,
+p187
+aVand the gentleman you see before you is a Congolese guy called Demou-Kay.
+p188
+aVDemou-Kay arrived in the settlement with very little,
+p189
+aVbut he wanted to be a filmmaker.
+p190
+aVSo with friends and colleagues, he started a community radio station,
+p191
+aVhe rented a video camera,
+p192
+aVand he's now making films.
+p193
+aVHe made two documentary films
+p194
+aVwith and for our team,
+p195
+aVand he's making a successful business out of very little.
+p196
+aVIt's those kinds of examples
+p197
+aVthat should guide our response to refugees.
+p198
+aVRather than seeing refugees
+p199
+aVas inevitably dependent upon humanitarian assistance,
+p200
+aVwe need to provide them with opportunities for human flourishing.
+p201
+aa(lp202
+VYes, clothes, blankets, shelter, food
+p203
+aVare all important in the emergency phase,
+p204
+aVbut we need to also look beyond that.
+p205
+aVWe need to provide opportunities to connectivity, electricity,
+p206
+aVeducation, the right to work,
+p207
+aVaccess to capital and banking.
+p208
+aVAll the ways in which we take for granted
+p209
+aVthat we are plugged in to the global economy
+p210
+aVcan and should apply to refugees.
+p211
+aa(lp212
+VThe second idea I want to discuss is economic zones.
+p213
+aVUnfortunately, not every host country in the world
+p214
+aVtakes the approach Uganda has taken.
+p215
+aVMost host countries don't open up their economies to refugees
+p216
+aVin the same way.
+p217
+aVBut there are still pragmatic alternative options that we can use.
+p218
+aa(lp219
+VLast April, I traveled to Jordan with my colleague,
+p220
+aVthe development economist Paul Collier,
+p221
+aVand we brainstormed an idea while we were there
+p222
+aVwith the international community and the government,
+p223
+aVan idea to bring jobs to Syrians
+p224
+aVwhile supporting Jordan's national development strategy.
+p225
+aVThe idea is for an economic zone,
+p226
+aVone in which we could potentially integrate the employment of refugees
+p227
+aValongside the employment of Jordanian host nationals.
+p228
+aVAnd just 15 minutes away from the Zaatari refugee camp,
+p229
+aVhome to 83,000 refugees,
+p230
+aVis an existing economic zone
+p231
+aVcalled the King Hussein Bin Talal Development Area.
+p232
+aVThe government has spent over a hundred million dollars
+p233
+aVconnecting it to the electricity grid, connecting it to the road network,
+p234
+aVbut it lacked two things:
+p235
+aVaccess to labor and inward investment.
+p236
+aVSo what if refugees were able to work there
+p237
+aVrather than being stuck in camps,
+p238
+aVable to support their families and develop skills through vocational training
+p239
+aVbefore they go back to Syria?
+p240
+aVWe recognized that that could benefit Jordan,
+p241
+aVwhose development strategy requires it to make the leap
+p242
+aVas a middle income country to manufacturing.
+p243
+aVIt could benefit refugees, but it could also contribute
+p244
+aVto the postconflict reconstruction of Syria
+p245
+aVby recognizing that we need to incubate refugees
+p246
+aVas the best source of eventually rebuilding Syria.
+p247
+aa(lp248
+VWe published the idea in the journal Foreign Affairs.
+p249
+aVKing Abdullah has picked up on the idea.
+p250
+aVIt was announced at the London Syria Conference two weeks ago,
+p251
+aVand a pilot will begin in the summer.
+p252
+aa(lp253
+V(Applause)
+p254
+aa(lp255
+VThe third idea that I want to put to you
+p256
+aVis preference matching between states and refugees
+p257
+aVto lead to the kinds of happy outcomes you see here in the selfie
+p258
+aVfeaturing Angela Merkel and a Syrian refugee.
+p259
+aVWhat we rarely do is ask refugees what they want, where they want to go,
+p260
+aVbut I'd argue we can do that
+p261
+aVand still make everyone better off.
+p262
+aVThe economist Alvin Roth has developed the idea of matching markets,
+p263
+aVways in which the preference ranking of the parties shapes an eventual match.
+p264
+aVMy colleagues Will Jones and Alex Teytelboym
+p265
+aVhave explored ways in which that idea could be applied to refugees,
+p266
+aVto ask refugees to rank their preferred destinations,
+p267
+aVbut also allow states to rank the types of refugees they want
+p268
+aVon skills criteria or language criteria
+p269
+aVand allow those to match.
+p270
+aVNow, of course you'd need to build in quotas
+p271
+aVon things like diversity and vulnerability,
+p272
+aVbut it's a way of increasing the possibilities of matching.
+p273
+aVThe matching idea has been successfully used
+p274
+aVto match, for instance, students with university places,
+p275
+aVto match kidney donors with patients,
+p276
+aVand it underlies the kind of algorithms that exist on dating websites.
+p277
+aVSo why not apply that to give refugees greater choice?
+p278
+aa(lp279
+VIt could also be used at the national level,
+p280
+aVwhere one of the great challenges we face
+p281
+aVis to persuade local communities to accept refugees.
+p282
+aVAnd at the moment, in my country, for instance,
+p283
+aVwe often send engineers to rural areas and farmers to the cities,
+p284
+aVwhich makes no sense at all.
+p285
+aVSo matching markets offer a potential way to bring those preferences together
+p286
+aVand listen to the needs and demands of the populations that host
+p287
+aVand the refugees themselves.
+p288
+aa(lp289
+VThe fourth idea I want to put to you is of humanitarian visas.
+p290
+aVMuch of the tragedy and chaos we've seen in Europe
+p291
+aVwas entirely avoidable.
+p292
+aVIt stems from a fundamental contradiction in Europe's asylum policy,
+p293
+aVwhich is the following:
+p294
+aVthat in order to seek asylum in Europe,
+p295
+aVyou have to arrive spontaneously by embarking on those dangerous journeys
+p296
+aVthat I described.
+p297
+aVBut why should those journeys be necessary in an era of the budget airline
+p298
+aVand modern consular capabilities?
+p299
+aVThey're completely unnecessary journeys,
+p300
+aVand last year, they led to the deaths of over 3,000 people
+p301
+aVon Europe's borders and within European territory.
+p302
+aa(lp303
+VIf refugees were simply allowed
+p304
+aVto travel directly and seek asylum in Europe,
+p305
+aVwe would avoid that,
+p306
+aVand there's a way of doing that
+p307
+aVthrough something called a humanitarian visa,
+p308
+aVthat allows people to collect a visa at an embassy
+p309
+aVor a consulate in a neighboring country
+p310
+aVand then simply pay their own way
+p311
+aVthrough a ferry or a flight to Europe.
+p312
+aVIt costs around a thousand euros
+p313
+aVto take a smuggler from Turkey to the Greek islands.
+p314
+aVIt costs 200 euros to take a budget airline from Bodrum to Frankfurt.
+p315
+aVIf we allowed refugees to do that, it would have major advantages.
+p316
+aVIt would save lives,
+p317
+aVit would undercut the entire market for smugglers,
+p318
+aVand it would remove the chaos we see from Europe's front line
+p319
+aVin areas like the Greek islands.
+p320
+aVIt's politics that prevents us doing that rather than a rational solution.
+p321
+aa(lp322
+VAnd this is an idea that has been applied.
+p323
+aVBrazil has adopted a pioneering approach
+p324
+aVwhere over 2,000 Syrians have been able to get humanitarian visas,
+p325
+aVenter Brazil, and claim refugee status on arrival in Brazil.
+p326
+aVAnd in that scheme, every Syrian who has gone through it
+p327
+aVhas received refugee status and been recognized as a genuine refugee.
+p328
+aa(lp329
+VThere is a historical precedent for it as well.
+p330
+aVBetween 1922 and 1942,
+p331
+aVthese Nansen passports were used as travel documents
+p332
+aVto allow 450,000 Assyrians, Turks and Chechens
+p333
+aVto travel across Europe
+p334
+aVand claim refugee status elsewhere in Europe.
+p335
+aVAnd the Nansen International Refugee Office
+p336
+aVreceived the Nobel Peace Prize
+p337
+aVin recognition of this being a viable strategy.
+p338
+aa(lp339
+VSo all four of these ideas that I've presented you
+p340
+aVare ways in which we can expand Amira's choice set.
+p341
+aVThey're ways in which we can have greater choice for refugees
+p342
+aVbeyond those basic, impossible three options
+p343
+aVI explained to you
+p344
+aVand still leave others better off.
+p345
+aa(lp346
+VIn conclusion, we really need a new vision,
+p347
+aVa vision that enlarges the choices of refugees
+p348
+aVbut recognizes that they don't have to be a burden.
+p349
+aVThere's nothing inevitable about refugees being a cost.
+p350
+aVYes, they are a humanitarian responsibility,
+p351
+aVbut they're human beings with skills, talents, aspirations,
+p352
+aVwith the ability to make contributions \u2014 if we let them.
+p353
+aa(lp354
+VIn the new world,
+p355
+aVmigration is not going to go away.
+p356
+aVWhat we've seen in Europe will be with us for many years.
+p357
+aVPeople will continue to travel,
+p358
+aVthey'll continue to be displaced,
+p359
+aVand we need to find rational, realistic ways of managing this \u2014
+p360
+aVnot based on the old logics of humanitarian assistance,
+p361
+aVnot based on logics of charity,
+p362
+aVbut building on the opportunities
+p363
+aVoffered by globalization, markets and mobility.
+p364
+aVI'd urge you all to wake up and urge our politicians
+p365
+aVto wake up to this challenge.
+p366
+aa(lp367
+VThank you very much.
+p368
+aa(lp369
+V(Applause)
+p370
+aasS'id'
+p371
+I2449
+sS'title'
+p372
+VOur refugee system is failing. Here's how we can fix it
+p373
+s.

@@ -1,0 +1,697 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo in 1885, Karl Benz invented the automobile.
+p4
+aVLater that year, he took it out for the first public test drive,
+p5
+aVand \u2014 true story \u2014 crashed into a wall.
+p6
+aVFor the last 130 years,
+p7
+aVwe've been working around that least reliable part of the car, the driver.
+p8
+aVWe've made the car stronger.
+p9
+aVWe've added seat belts, we've added air bags,
+p10
+aVand in the last decade, we've actually started trying to make the car smarter
+p11
+aVto fix that bug, the driver.
+p12
+aa(lp13
+VNow, today I'm going to talk to you a little bit about the difference
+p14
+aVbetween patching around the problem with driver assistance systems
+p15
+aVand actually having fully self-driving cars
+p16
+aVand what they can do for the world.
+p17
+aVI'm also going to talk to you a little bit about our car
+p18
+aVand allow you to see how it sees the world and how it reacts and what it does,
+p19
+aVbut first I'm going to talk a little bit about the problem.
+p20
+aVAnd it's a big problem:
+p21
+aV1.2 million people are killed on the world's roads every year.
+p22
+aVIn America alone, 33,000 people are killed each year.
+p23
+aVTo put that in perspective,
+p24
+aVthat's the same as a 737 falling out of the sky every working day.
+p25
+aVIt's kind of unbelievable.
+p26
+aVCars are sold to us like this,
+p27
+aVbut really, this is what driving's like.
+p28
+aVRight? It's not sunny, it's rainy,
+p29
+aVand you want to do anything other than drive.
+p30
+aVAnd the reason why is this:
+p31
+aVTraffic is getting worse.
+p32
+aVIn America, between 1990 and 2010,
+p33
+aVthe vehicle miles traveled increased by 38 percent.
+p34
+aVWe grew by six percent of roads,
+p35
+aVso it's not in your brains.
+p36
+aVTraffic really is substantially worse than it was not very long ago.
+p37
+aa(lp38
+VAnd all of this has a very human cost.
+p39
+aVSo if you take the average commute time in America, which is about 50 minutes,
+p40
+aVyou multiply that by the 120 million workers we have,
+p41
+aVthat turns out to be about six billion minutes
+p42
+aVwasted in commuting every day.
+p43
+aVNow, that's a big number, so let's put it in perspective.
+p44
+aVYou take that six billion minutes
+p45
+aVand you divide it by the average life expectancy of a person,
+p46
+aVthat turns out to be 162 lifetimes
+p47
+aVspent every day, wasted,
+p48
+aVjust getting from A to B.
+p49
+aVIt's unbelievable.
+p50
+aVAnd then, there are those of us who don't have the privilege
+p51
+aVof sitting in traffic.
+p52
+aVSo this is Steve.
+p53
+aVHe's an incredibly capable guy,
+p54
+aVbut he just happens to be blind,
+p55
+aVand that means instead of a 30-minute drive to work in the morning,
+p56
+aVit's a two-hour ordeal of piecing together bits of public transit
+p57
+aVor asking friends and family for a ride.
+p58
+aVHe doesn't have that same freedom that you and I have to get around.
+p59
+aVWe should do something about that.
+p60
+aa(lp61
+VNow, conventional wisdom would say
+p62
+aVthat we'll just take these driver assistance systems
+p63
+aVand we'll kind of push them and incrementally improve them,
+p64
+aVand over time, they'll turn into self-driving cars.
+p65
+aVWell, I'm here to tell you that's like me saying
+p66
+aVthat if I work really hard at jumping, one day I'll be able to fly.
+p67
+aVWe actually need to do something a little different.
+p68
+aVAnd so I'm going to talk to you about three different ways
+p69
+aVthat self-driving systems are different than driver assistance systems.
+p70
+aVAnd I'm going to start with some of our own experience.
+p71
+aa(lp72
+VSo back in 2013,
+p73
+aVwe had the first test of a self-driving car
+p74
+aVwhere we let regular people use it.
+p75
+aVWell, almost regular \u2014 they were 100 Googlers,
+p76
+aVbut they weren't working on the project.
+p77
+aVAnd we gave them the car and we allowed them to use it in their daily lives.
+p78
+aVBut unlike a real self-driving car, this one had a big asterisk with it:
+p79
+aVThey had to pay attention,
+p80
+aVbecause this was an experimental vehicle.
+p81
+aVWe tested it a lot, but it could still fail.
+p82
+aVAnd so we gave them two hours of training,
+p83
+aVwe put them in the car, we let them use it,
+p84
+aVand what we heard back was something awesome,
+p85
+aVas someone trying to bring a product into the world.
+p86
+aVEvery one of them told us they loved it.
+p87
+aVIn fact, we had a Porsche driver who came in and told us on the first day,
+p88
+aV"This is completely stupid. What are we thinking?"
+p89
+aVBut at the end of it, he said, "Not only should I have it,
+p90
+aVeveryone else should have it, because people are terrible drivers."
+p91
+aVSo this was music to our ears,
+p92
+aVbut then we started to look at what the people inside the car were doing,
+p93
+aVand this was eye-opening.
+p94
+aVNow, my favorite story is this gentleman
+p95
+aVwho looks down at his phone and realizes the battery is low,
+p96
+aVso he turns around like this in the car and digs around in his backpack,
+p97
+aVpulls out his laptop,
+p98
+aVputs it on the seat,
+p99
+aVgoes in the back again,
+p100
+aVdigs around, pulls out the charging cable for his phone,
+p101
+aVfutzes around, puts it into the laptop, puts it on the phone.
+p102
+aVSure enough, the phone is charging.
+p103
+aVAll the time he's been doing 65 miles per hour down the freeway.
+p104
+aVRight? Unbelievable.
+p105
+aVSo we thought about this and we said, it's kind of obvious, right?
+p106
+aVThe better the technology gets,
+p107
+aVthe less reliable the driver is going to get.
+p108
+aVSo by just making the cars incrementally smarter,
+p109
+aVwe're probably not going to see the wins we really need.
+p110
+aa(lp111
+VLet me talk about something a little technical for a moment here.
+p112
+aVSo we're looking at this graph, and along the bottom
+p113
+aVis how often does the car apply the brakes when it shouldn't.
+p114
+aVYou can ignore most of that axis,
+p115
+aVbecause if you're driving around town, and the car starts stopping randomly,
+p116
+aVyou're never going to buy that car.
+p117
+aVAnd the vertical axis is how often the car is going to apply the brakes
+p118
+aVwhen it's supposed to to help you avoid an accident.
+p119
+aVNow, if we look at the bottom left corner here,
+p120
+aVthis is your classic car.
+p121
+aVIt doesn't apply the brakes for you, it doesn't do anything goofy,
+p122
+aVbut it also doesn't get you out of an accident.
+p123
+aVNow, if we want to bring a driver assistance system into a car,
+p124
+aVsay with collision mitigation braking,
+p125
+aVwe're going to put some package of technology on there,
+p126
+aVand that's this curve, and it's going to have some operating properties,
+p127
+aVbut it's never going to avoid all of the accidents,
+p128
+aVbecause it doesn't have that capability.
+p129
+aVBut we'll pick some place along the curve here,
+p130
+aVand maybe it avoids half of accidents that the human driver misses,
+p131
+aVand that's amazing, right?
+p132
+aVWe just reduced accidents on our roads by a factor of two.
+p133
+aVThere are now 17,000 less people dying every year in America.
+p134
+aa(lp135
+VBut if we want a self-driving car,
+p136
+aVwe need a technology curve that looks like this.
+p137
+aVWe're going to have to put more sensors in the vehicle,
+p138
+aVand we'll pick some operating point up here
+p139
+aVwhere it basically never gets into a crash.
+p140
+aVThey'll happen, but very low frequency.
+p141
+aVNow you and I could look at this and we could argue
+p142
+aVabout whether it's incremental, and I could say something like "80-20 rule,"
+p143
+aVand it's really hard to move up to that new curve.
+p144
+aVBut let's look at it from a different direction for a moment.
+p145
+aVSo let's look at how often the technology has to do the right thing.
+p146
+aVAnd so this green dot up here is a driver assistance system.
+p147
+aVIt turns out that human drivers
+p148
+aVmake mistakes that lead to traffic accidents
+p149
+aVabout once every 100,000 miles in America.
+p150
+aVIn contrast, a self-driving system is probably making decisions
+p151
+aVabout 10 times per second,
+p152
+aVso order of magnitude,
+p153
+aVthat's about 1,000 times per mile.
+p154
+aVSo if you compare the distance between these two,
+p155
+aVit's about 10 to the eighth, right?
+p156
+aVEight orders of magnitude.
+p157
+aVThat's like comparing how fast I run
+p158
+aVto the speed of light.
+p159
+aVIt doesn't matter how hard I train, I'm never actually going to get there.
+p160
+aVSo there's a pretty big gap there.
+p161
+aa(lp162
+VAnd then finally, there's how the system can handle uncertainty.
+p163
+aVSo this pedestrian here might be stepping into the road, might not be.
+p164
+aVI can't tell, nor can any of our algorithms,
+p165
+aVbut in the case of a driver assistance system,
+p166
+aVthat means it can't take action, because again,
+p167
+aVif it presses the brakes unexpectedly, that's completely unacceptable.
+p168
+aVWhereas a self-driving system can look at that pedestrian and say,
+p169
+aVI don't know what they're about to do,
+p170
+aVslow down, take a better look, and then react appropriately after that.
+p171
+aa(lp172
+VSo it can be much safer than a driver assistance system can ever be.
+p173
+aVSo that's enough about the differences between the two.
+p174
+aVLet's spend some time talking about how the car sees the world.
+p175
+aa(lp176
+VSo this is our vehicle.
+p177
+aVIt starts by understanding where it is in the world,
+p178
+aVby taking a map and its sensor data and aligning the two,
+p179
+aVand then we layer on top of that what it sees in the moment.
+p180
+aVSo here, all the purple boxes you can see are other vehicles on the road,
+p181
+aVand the red thing on the side over there is a cyclist,
+p182
+aVand up in the distance, if you look really closely,
+p183
+aVyou can see some cones.
+p184
+aVThen we know where the car is in the moment,
+p185
+aVbut we have to do better than that: we have to predict what's going to happen.
+p186
+aVSo here the pickup truck in top right is about to make a left lane change
+p187
+aVbecause the road in front of it is closed,
+p188
+aVso it needs to get out of the way.
+p189
+aVKnowing that one pickup truck is great,
+p190
+aVbut we really need to know what everybody's thinking,
+p191
+aVso it becomes quite a complicated problem.
+p192
+aVAnd then given that, we can figure out how the car should respond in the moment,
+p193
+aVso what trajectory it should follow, how quickly it should slow down or speed up.
+p194
+aVAnd then that all turns into just following a path:
+p195
+aVturning the steering wheel left or right, pressing the brake or gas.
+p196
+aVIt's really just two numbers at the end of the day.
+p197
+aVSo how hard can it really be?
+p198
+aa(lp199
+VBack when we started in 2009,
+p200
+aVthis is what our system looked like.
+p201
+aVSo you can see our car in the middle and the other boxes on the road,
+p202
+aVdriving down the highway.
+p203
+aVThe car needs to understand where it is and roughly where the other vehicles are.
+p204
+aVIt's really a geometric understanding of the world.
+p205
+aVOnce we started driving on neighborhood and city streets,
+p206
+aVthe problem becomes a whole new level of difficulty.
+p207
+aVYou see pedestrians crossing in front of us, cars crossing in front of us,
+p208
+aVgoing every which way,
+p209
+aVthe traffic lights, crosswalks.
+p210
+aVIt's an incredibly complicated problem by comparison.
+p211
+aVAnd then once you have that problem solved,
+p212
+aVthe vehicle has to be able to deal with construction.
+p213
+aVSo here are the cones on the left forcing it to drive to the right,
+p214
+aVbut not just construction in isolation, of course.
+p215
+aVIt has to deal with other people moving through that construction zone as well.
+p216
+aVAnd of course, if anyone's breaking the rules, the police are there
+p217
+aVand the car has to understand that that flashing light on the top of the car
+p218
+aVmeans that it's not just a car, it's actually a police officer.
+p219
+aVSimilarly, the orange box on the side here,
+p220
+aVit's a school bus,
+p221
+aVand we have to treat that differently as well.
+p222
+aa(lp223
+VWhen we're out on the road, other people have expectations:
+p224
+aVSo, when a cyclist puts up their arm,
+p225
+aVit means they're expecting the car to yield to them and make room for them
+p226
+aVto make a lane change.
+p227
+aVAnd when a police officer stood in the road,
+p228
+aVour vehicle should understand that this means stop,
+p229
+aVand when they signal to go, we should continue.
+p230
+aa(lp231
+VNow, the way we accomplish this is by sharing data between the vehicles.
+p232
+aVThe first, most crude model of this
+p233
+aVis when one vehicle sees a construction zone,
+p234
+aVhaving another know about it so it can be in the correct lane
+p235
+aVto avoid some of the difficulty.
+p236
+aVBut we actually have a much deeper understanding of this.
+p237
+aVWe could take all of the data that the cars have seen over time,
+p238
+aVthe hundreds of thousands of pedestrians, cyclists,
+p239
+aVand vehicles that have been out there
+p240
+aVand understand what they look like
+p241
+aVand use that to infer what other vehicles should look like
+p242
+aVand other pedestrians should look like.
+p243
+aVAnd then, even more importantly, we could take from that a model
+p244
+aVof how we expect them to move through the world.
+p245
+aVSo here the yellow box is a pedestrian crossing in front of us.
+p246
+aVHere the blue box is a cyclist and we anticipate
+p247
+aVthat they're going to nudge out and around the car to the right.
+p248
+aVHere there's a cyclist coming down the road
+p249
+aVand we know they're going to continue to drive down the shape of the road.
+p250
+aVHere somebody makes a right turn,
+p251
+aVand in a moment here, somebody's going to make a U-turn in front of us,
+p252
+aVand we can anticipate that behavior and respond safely.
+p253
+aa(lp254
+VNow, that's all well and good for things that we've seen,
+p255
+aVbut of course, you encounter lots of things that you haven't
+p256
+aVseen in the world before.
+p257
+aVAnd so just a couple of months ago,
+p258
+aVour vehicles were driving through Mountain View,
+p259
+aVand this is what we encountered.
+p260
+aVThis is a woman in an electric wheelchair
+p261
+aVchasing a duck in circles on the road. (Laughter)
+p262
+aVNow it turns out, there is nowhere in the DMV handbook
+p263
+aVthat tells you how to deal with that,
+p264
+aVbut our vehicles were able to encounter that,
+p265
+aVslow down, and drive safely.
+p266
+aVNow, we don't have to deal with just ducks.
+p267
+aVWatch this bird fly across in front of us. The car reacts to that.
+p268
+aVHere we're dealing with a cyclist
+p269
+aVthat you would never expect to see anywhere other than Mountain View.
+p270
+aVAnd of course, we have to deal with drivers,
+p271
+aVeven the very small ones.
+p272
+aVWatch to the right as someone jumps out of this truck at us.
+p273
+aVAnd now, watch the left as the car with the green box decides
+p274
+aVhe needs to make a right turn at the last possible moment.
+p275
+aVHere, as we make a lane change, the car to our left decides
+p276
+aVit wants to as well.
+p277
+aVAnd here, we watch a car blow through a red light
+p278
+aVand yield to it.
+p279
+aVAnd similarly, here, a cyclist blowing through that light as well.
+p280
+aVAnd of course, the vehicle responds safely.
+p281
+aVAnd of course, we have people who do I don't know what
+p282
+aVsometimes on the road, like this guy pulling out between two self-driving cars.
+p283
+aVYou have to ask, "What are you thinking?"
+p284
+aV(Laughter)
+p285
+aa(lp286
+VNow, I just fire-hosed you with a lot of stuff there,
+p287
+aVso I'm going to break one of these down pretty quickly.
+p288
+aVSo what we're looking at is the scene with the cyclist again,
+p289
+aVand you might notice in the bottom, we can't actually see the cyclist yet,
+p290
+aVbut the car can: it's that little blue box up there,
+p291
+aVand that comes from the laser data.
+p292
+aVAnd that's not actually really easy to understand,
+p293
+aVso what I'm going to do is I'm going to turn that laser data and look at it,
+p294
+aVand if you're really good at looking at laser data, you can see
+p295
+aVa few dots on the curve there,
+p296
+aVright there, and that blue box is that cyclist.
+p297
+aVNow as our light is red,
+p298
+aVthe cyclist's light has turned yellow already,
+p299
+aVand if you squint, you can see that in the imagery.
+p300
+aVBut the cyclist, we see, is going to proceed through the intersection.
+p301
+aVOur light has now turned green, his is solidly red,
+p302
+aVand we now anticipate that this bike is going to come all the way across.
+p303
+aVUnfortunately the other drivers next to us were not paying as much attention.
+p304
+aVThey started to pull forward, and fortunately for everyone,
+p305
+aVthis cyclists reacts, avoids,
+p306
+aVand makes it through the intersection.
+p307
+aVAnd off we go.
+p308
+aa(lp309
+VNow, as you can see, we've made some pretty exciting progress,
+p310
+aVand at this point we're pretty convinced
+p311
+aVthis technology is going to come to market.
+p312
+aVWe do three million miles of testing in our simulators every single day,
+p313
+aVso you can imagine the experience that our vehicles have.
+p314
+aVWe are looking forward to having this technology on the road,
+p315
+aVand we think the right path is to go through the self-driving
+p316
+aVrather than driver assistance approach
+p317
+aVbecause the urgency is so large.
+p318
+aVIn the time I have given this talk today,
+p319
+aV34 people have died on America's roads.
+p320
+aa(lp321
+VHow soon can we bring it out?
+p322
+aVWell, it's hard to say because it's a really complicated problem,
+p323
+aVbut these are my two boys.
+p324
+aVMy oldest son is 11, and that means in four and a half years,
+p325
+aVhe's going to be able to get his driver's license.
+p326
+aVMy team and I are committed to making sure that doesn't happen.
+p327
+aa(lp328
+VThank you.
+p329
+aa(lp330
+V(Laughter) (Applause)
+p331
+aVChris Anderson: Chris, I've got a question for you.
+p332
+aa(lp333
+VChris Urmson: Sure.
+p334
+aa(lp335
+VCA: So certainly, the mind of your cars is pretty mind-boggling.
+p336
+aVOn this debate between driver-assisted and fully driverless \u2014
+p337
+aVI mean, there's a real debate going on out there right now.
+p338
+aVSo some of the companies, for example, Tesla,
+p339
+aVare going the driver-assisted route.
+p340
+aVWhat you're saying is that that's kind of going to be a dead end
+p341
+aVbecause you can't just keep improving that route and get to fully driverless
+p342
+aVat some point, and then a driver is going to say, "This feels safe,"
+p343
+aVand climb into the back, and something ugly will happen.
+p344
+aa(lp345
+VCU: Right. No, that's exactly right, and it's not to say
+p346
+aVthat the driver assistance systems aren't going to be incredibly valuable.
+p347
+aVThey can save a lot of lives in the interim,
+p348
+aVbut to see the transformative opportunity to help someone like Steve get around,
+p349
+aVto really get to the end case in safety,
+p350
+aVto have the opportunity to change our cities
+p351
+aVand move parking out and get rid of these urban craters we call parking lots,
+p352
+aVit's the only way to go.
+p353
+aa(lp354
+VCA: We will be tracking your progress with huge interest.
+p355
+aVThanks so much, Chris. CU: Thank you. (Applause)
+p356
+aasS'id'
+p357
+I2291
+sS'title'
+p358
+VHow a driverless car sees the road
+p359
+s.

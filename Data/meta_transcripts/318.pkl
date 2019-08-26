@@ -1,0 +1,575 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VTo be new at TED \u2014 it's like being the last high-school virgin.
+p4
+aV(Laughter)
+p5
+aVYou know that all of the cool people are \u2014 they're doing it.
+p6
+aVAnd you're on the outside, you're at home.
+p7
+aVYou're like the Raspyni Brothers,
+p8
+aVwhere you've got your balls in cold water. And \u2014
+p9
+aV(Laughter) \u2014
+p10
+aVyou just play with your fingers all day. And then you get invited.
+p11
+aVAnd you're on the inside, and it's everything you hoped it would be.
+p12
+aVIt's exciting and there's music playing all of the time
+p13
+aVand then suddenly it's over. And it's only taken five minutes.
+p14
+aVAnd you want to go back and do it again.
+p15
+aVBut I really appreciate being here. And thank you, Chris,
+p16
+aVand also, thank you, Deborah Patton, for making this possible.
+p17
+aa(lp18
+VSo anyway, today we'll talk about architecture a little bit,
+p19
+aVwithin the subject of creation and optimism.
+p20
+aVAnd if you put creation and optimism together,
+p21
+aVyou've got two choices that you can talk about.
+p22
+aVYou can talk about creationism \u2014
+p23
+aVwhich I think wouldn't go down well with this audience,
+p24
+aVat least not from a view where you were a proponent of it \u2014
+p25
+aVor you can talk about optimisations, spelled the British way, with an S, instead of a Z.
+p26
+aVAnd I think that's what I'd like to talk about today.
+p27
+aVBut any kind of conversation about architecture \u2014
+p28
+aVwhich is, in fact, what you were just talking about, what was going on here,
+p29
+aVsetting up TED, small-scale architecture \u2014
+p30
+aVat the present time can't really happen without a conversation about this,
+p31
+aVthe World Trade Center, and what's been going on there, what it means to us.
+p32
+aa(lp33
+VBecause if architecture is what I believe it to be,
+p34
+aVwhich is the built form of our cultural ambitions,
+p35
+aVwhat do you do when presented with an opportunity to rectify a situation
+p36
+aVthat represents somebody else's cultural ambitions relative to us?
+p37
+aVAnd our own opportunity to make something new there?
+p38
+aVThis has been a really galvanizing issue for a long time.
+p39
+aVI think that the World Trade Center in, rather an unfortunate way,
+p40
+aVbrought architecture into focus
+p41
+aVin a way that I don't think people had thought of in a long time,
+p42
+aVand made it a subject for common conversation.
+p43
+aVI don't remember, in my 20-year career of practicing and writing about architecture,
+p44
+aVa time when five people sat me down at a table
+p45
+aVand asked me very serious questions about zoning, fire exiting,
+p46
+aVsafety concerns and whether carpet burns.
+p47
+aVThese are just not things we talked about very often.
+p48
+aVAnd yet, now, it's talked about all the time.
+p49
+aVAt the point where you can weaponize your buildings,
+p50
+aVyou have to suddenly think about architecture in a very different way.
+p51
+aVAnd so now we're going to think about architecture in a very different way,
+p52
+aVwe're going to think about it like this.
+p53
+aa(lp54
+VHow many of you saw USA Today, today? There it is. Looks like that.
+p55
+aVThere's the World Trade Center site, on the front cover.
+p56
+aVThey've made a selection.
+p57
+aVThey've chosen a project by Daniel Libeskind,
+p58
+aVthe enfant terrible of the moment of architecture.
+p59
+aVChild-prodigy piano player, he started on the squeezebox,
+p60
+aVand moved to a little more serious issue, a bigger instrument,
+p61
+aVand now to an even larger instrument,
+p62
+aVupon which to work his particular brand of deconstructivist magic,
+p63
+aVas you see here.
+p64
+aVHe was one of six people who were invited to participate in this competition,
+p65
+aVafter six previous firms struck out
+p66
+aVwith things that were so stupid and banal
+p67
+aVthat even the city of New York was forced to go,
+p68
+aV"Oh, I'm really sorry, we screwed up."
+p69
+aVRight. Can we do this again from the top,
+p70
+aVexcept use some people with a vague hint of talent,
+p71
+aVinstead of just six utter boobs like we brought in last time,
+p72
+aVreal estate hacks of the kind who usually plan our cities.
+p73
+aVLet's bring in some real architects for a change.
+p74
+aVAnd so we got this, or we had a choice of that. Oh, stop clapping.
+p75
+aa(lp76
+V(Laughter)
+p77
+aa(lp78
+VIt's too late. That is gone.
+p79
+aVThis was a scheme by a team called THINK, a New York-based team,
+p80
+aVand then there was that one, which was the Libeskind scheme.
+p81
+aVThis one, this is going to be the new World Trade Center:
+p82
+aVa giant hole in the ground with big buildings falling into it.
+p83
+aVNow, I don't know what you think, but I think this is a pretty stupid decision,
+p84
+aVbecause what you've done is just made a permanent memorial to destruction
+p85
+aVby making it look like the destruction is going to continue forever.
+p86
+aVBut that's what we're going to do.
+p87
+aVBut I want you to think about these things
+p88
+aVin terms of a kind of ongoing struggle that American architecture represents,
+p89
+aVand that these two things talk about very specifically.
+p90
+aVAnd that is the wild divergence in how we choose our architects,
+p91
+aVin trying to decide whether we want architecture
+p92
+aVfrom the kind of technocratic solution to everything \u2014
+p93
+aVthat there is a large, technical answer that can solve all problems,
+p94
+aVbe they social, be they physical, be they chemical \u2014
+p95
+aVor something that's more of a romantic solution.
+p96
+aa(lp97
+VNow, I don't mean romantic as in, this is a nice place to take someone on a date.
+p98
+aVI mean romantic in the sense of, there are things larger and grander than us.
+p99
+aVSo, in the American tradition,
+p100
+aVthe difference between the technocratic and the romantic,
+p101
+aVwould be the difference between Thomas Jefferson's
+p102
+aVCartesian grids spreading across the United States,
+p103
+aVthat gives us basically the whole shape
+p104
+aVof every western state in the United States,
+p105
+aVas a really, truly, technocratic solution, a bowing to the \u2014
+p106
+aVin Jefferson's time \u2014 current, popular philosophy of rationalism.
+p107
+aVOr the way we went to describe that later: manifest destiny.
+p108
+aVNow, which would you rather be? A grid, or manifest destiny?
+p109
+aVManifest destiny.
+p110
+aa(lp111
+V(Laughter)
+p112
+aa(lp113
+VIt's a big deal. It sounds big, it sounds important,
+p114
+aVit sounds solid. It sounds American. Ballsy, serious, male.
+p115
+aVAnd that kind of fight has gone on back and forth in architecture all the time.
+p116
+aVI mean, it goes on in our private lives, too, every single day.
+p117
+aVWe all want to go out and buy an Audi TT, don't we?
+p118
+aVEveryone here must own one, or at least they craved one
+p119
+aVthe moment they saw one.
+p120
+aVAnd then they hopped in it, turned the little electronic key,
+p121
+aVrather than the real key, zipped home on their new superhighway,
+p122
+aVand drove straight into a garage that looks like a Tudor castle.
+p123
+aa(lp124
+V(Laughter)
+p125
+aa(lp126
+VWhy? Why? Why do you want to do that?
+p127
+aVWhy do we all want to do that? I even owned a Tudor thing once myself.
+p128
+aa(lp129
+V(Laughter)
+p130
+aa(lp131
+VIt's in our nature to go ricocheting
+p132
+aVback and forth between this technocratic solution
+p133
+aVand a larger, sort of more romantic image of where we are.
+p134
+aVSo we're going to go straight into this.
+p135
+aVCan I have the lights off for a moment?
+p136
+aVI'm going to talk about two architects very, very briefly
+p137
+aVthat represent the current split, architecturally,
+p138
+aVbetween these two traditions of a technocratic
+p139
+aVor technological solution and a romantic solution.
+p140
+aVAnd these are two of the top architectural practices in the United States today.
+p141
+aVOne very young, one a little more mature.
+p142
+aVThis is the work of a firm called SHoP,
+p143
+aVand what you're seeing here, is their isometric drawings
+p144
+aVof what will be a large-scale camera obscura in a public park.
+p145
+aVDoes everybody know what a camera obscura is?
+p146
+aVYeah, it's one of those giant camera lenses
+p147
+aVthat takes a picture of the outside world \u2014
+p148
+aVit's sort of a little movie, without any moving parts \u2014
+p149
+aVand projects it on a page, and you can see the world outside you as you walk around it.
+p150
+aa(lp151
+VThis is just the outline of it, and you can see,
+p152
+aVdoes it look like a regular building? No.
+p153
+aVIt's actually non-orthogonal: it's not up and down,
+p154
+aVsquare, rectangular, anything like that,
+p155
+aVthat you'd see in a normal shape of a building.
+p156
+aVThe computer revolution, the technocratic, technological revolution,
+p157
+aVhas allowed us to jettison normal-shaped buildings,
+p158
+aVtraditionally shaped buildings, in favor of non-orthogonal buildings such as this.
+p159
+aVWhat's interesting about it is not the shape.
+p160
+aVWhat's interesting about it is how it's made. How it's made.
+p161
+aVA brand-new way to put buildings together,
+p162
+aVsomething called mass customization. No, it is not an oxymoron.
+p163
+aVWhat makes the building expensive, in the traditional sense,
+p164
+aVis making individual parts custom, that you can't do over and over again.
+p165
+aVThat's why we all live in developer houses.
+p166
+aVThey all want to save money by building the same thing 500 times.
+p167
+aVThat's because it's cheaper.
+p168
+aa(lp169
+VMass customization works by an architect feeding into a computer,
+p170
+aVa program that says, manufacture these parts.
+p171
+aVThe computer then talks to a machine \u2014
+p172
+aVa computer-operated machine, a cad-cam machine \u2014
+p173
+aVthat can make a zillion different changes, at a moment's notice,
+p174
+aVbecause the computer is just a machine.
+p175
+aVIt doesn't care. It's manufacturing the parts.
+p176
+aVIt doesn't see any excess cost. It doesn't spend any extra time.
+p177
+aVIt's not a laborer \u2014 it's simply an electronic lathe,
+p178
+aVso the parts can all be cut at the same time.
+p179
+aVMeanwhile, instead of sending someone working drawings,
+p180
+aVwhich are those huge sets of blueprints that you've seen your whole life,
+p181
+aVwhat the architect can do is send a set of assembly instructions,
+p182
+aVlike you used to get when you were a child,
+p183
+aVwhen you bought little models that said, "Bolt A to B, and C to D."
+p184
+aVAnd so what the builder will get is every single individual part
+p185
+aVthat has been custom manufactured off-site and delivered on a truck
+p186
+aVto the site, to that builder, and a set of these instruction manuals.
+p187
+aVJust simple "Bolt A to B" and they will be able to put them together.
+p188
+aVHere's the little drawing that tells them how that works \u2014
+p189
+aVand that's what will happen in the end.
+p190
+aa(lp191
+VYou're underneath it, looking up into the lens of the camera obscura.
+p192
+aVLest you think this is all fiction, lest you think this is all fantasy, or romance,
+p193
+aVthese same architects were asked to produce something
+p194
+aVfor the central courtyard of PS1, which is a museum in Brooklyn, New York,
+p195
+aVas part of their young architects summer series.
+p196
+aVAnd they said, well, it's summer, what do you do?
+p197
+aVIn the summer, you go to the beach.
+p198
+aVAnd when you go to the beach, what do you get? You get sand dunes.
+p199
+aVSo let's make architectural sand dunes and a beach cabana.
+p200
+aVSo they went out and they modeled a computer model of a sand dune.
+p201
+aVThey took photographs, they fed the photographs into their computer program,
+p202
+aVand that computer program shaped a sand dune
+p203
+aVand then took that sand dune shape and turned it into \u2014
+p204
+aVat their instructions, using standard software with slight modifications \u2014
+p205
+aVa set of instructions for pieces of wood.
+p206
+aVAnd those are the pieces of wood. Those are the instructions.
+p207
+aVThese are the pieces, and here's a little of that blown up.
+p208
+aa(lp209
+VWhat you can see is there's about six different colors,
+p210
+aVand each color represents a type of wood to be cut, a piece of wood to be cut.
+p211
+aVAll of which were delivered by flat bed, on a truck,
+p212
+aVand hand assembled in 48 hours by a team of eight people,
+p213
+aVonly one of whom had ever seen the plans before.
+p214
+aVOnly one of whom had ever seen the plans before.
+p215
+aVAnd here comes dune-scape, coming up out of the courtyard,
+p216
+aVand there it is fully built.
+p217
+aVThere are only 16 different pieces of wood,
+p218
+aVonly 16 different assembly parts here.
+p219
+aVLooks like a beautiful piano sounding board on the inside.
+p220
+aVIt has its own built-in swimming pool, very, very cool.
+p221
+aVIt's a great place for parties \u2014 it was, it was only up for six weeks.
+p222
+aVIt's got little dressing rooms and cabanas,
+p223
+aVwhere lots of interesting things went on, all summer long.
+p224
+aa(lp225
+VNow, lest you think that this is only for the light at heart, or just temporary installations,
+p226
+aVthis is the same firm working at the World Trade Center,
+p227
+aVreplacing the bridge that used to go across West Street,
+p228
+aVthat very important pedestrian connection
+p229
+aVbetween the city of New York and the redevelopment of the West Side.
+p230
+aVThey were asked to design, replace that bridge in six weeks,
+p231
+aVbuilding it, including all of the parts, manufactured.
+p232
+aVAnd they were able to do it. That was their design,
+p233
+aVusing that same computer modeling system
+p234
+aVand only five or six really different kinds of parts,
+p235
+aVa couple of struts, like this, some exterior cladding material
+p236
+aVand a very simple framing system
+p237
+aVthat was all manufactured off-site and delivered by truck.
+p238
+aVThey were able to create that.
+p239
+aVThey were able to create something wonderful.
+p240
+aVThey're now building a 16-story building on the side of New York,
+p241
+aVusing the same technology.
+p242
+aVHere we're going to walk across the bridge at night.
+p243
+aVIt's self-lit, you don't need any overhead lighting,
+p244
+aVso the neighbors don't complain about metal-halide lighting in their face.
+p245
+aVHere it is going across. And there, down the other side,
+p246
+aVand you get the same kind of grandeur.
+p247
+aa(lp248
+VNow, let me show you, quickly, the opposite, if I may.
+p249
+aVWoo, pretty, huh. This is the other side of the coin.
+p250
+aVThis is the work of David Rockwell from New York City,
+p251
+aVwhose work you can see out here today.
+p252
+aVThe current king of the romantics, who approaches his work
+p253
+aVin a very different fashion.
+p254
+aVIt's not to create a technological solution, it's to seduce you
+p255
+aVinto something that you can do, into something that will please you,
+p256
+aVsomething that will lift your spirits,
+p257
+aVsomething that will make you feel as if are in another world \u2014
+p258
+aVsuch as his Nobu restaurant in New York,
+p259
+aVwhich is supposed to take you from the clutter of New York City
+p260
+aVto the simplicity of Japan and the elegance of Japanese tradition.
+p261
+aV"When it's all said and done, it's got to look like seaweed," said the owner.
+p262
+aVOr his restaurant, Pod, in Philadelphia, Pennsylvania.
+p263
+aa(lp264
+VI want you to know the room you're looking at is stark white.
+p265
+aVEvery single surface of this restaurant is white.
+p266
+aVThe reason it has so much color is that it changes using lighting.
+p267
+aVIt's all about sensuality. It's all about transforming.
+p268
+aVWatch this \u2014 I'm not touching any buttons, ladies and gentlemen.
+p269
+aVThis is happening by itself.
+p270
+aVIt transforms through the magic of lighting.
+p271
+aVIt's all about sensuality. It's all about touch.
+p272
+aVRosa Mexicano restaurant, where he transports us to the shores of Acapulco,
+p273
+aVup on the Upper West Side,
+p274
+aVwith this wall of cliff divers who \u2014 there you go, like that.
+p275
+aVLet's see it one more time.
+p276
+aVOkay, just to make sure that you've enjoyed it.
+p277
+aVAnd finally, it's about comfort, it's about making you feel good
+p278
+aVin places that you wouldn't have felt good before.
+p279
+aVIt's about bringing nature to the inside.
+p280
+aa(lp281
+VIn the Guardian Tower of New York, converted to a W Union Square \u2014
+p282
+aVI'm sorry I'm rushing \u2014 where we had to bring in the best horticulturists in the world
+p283
+aVto make sure that the interior of this dragged the garden space
+p284
+aVof the court garden of the Union Square into the building itself.
+p285
+aVIt's about stimulation.
+p286
+aVThis is a wine-buying experience simplified by color and taste.
+p287
+aVFizzy, fresh, soft, luscious, juicy, smooth, big and sweet wines,
+p288
+aVall explained to you by color and texture on the wall.
+p289
+aVAnd finally, it's about entertainment, as in his headquarters
+p290
+aVfor the Cirque du Soleil, Orlando, Florida,
+p291
+aVwhere you're asked to enter the Greek theater,
+p292
+aVlook under the tent and join the magic world of Cirque du Soleil.
+p293
+aVAnd I think I'll probably leave it at that. Thank you very much.
+p294
+aasS'id'
+p295
+I318
+sS'title'
+p296
+VA tour of modern architecture
+p297
+s.

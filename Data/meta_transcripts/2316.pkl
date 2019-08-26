@@ -1,0 +1,619 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'd like to introduce you to an emerging area of science,
+p4
+aVone that is still speculative but hugely exciting,
+p5
+aVand certainly one that's growing very rapidly.
+p6
+aVQuantum biology asks a very simple question:
+p7
+aVDoes quantum mechanics \u2014
+p8
+aVthat weird and wonderful and powerful theory
+p9
+aVof the subatomic world of atoms and molecules
+p10
+aVthat underpins so much of modern physics and chemistry \u2014
+p11
+aValso play a role inside the living cell?
+p12
+aVIn other words: Are there processes, mechanisms, phenomena
+p13
+aVin living organisms that can only be explained
+p14
+aVwith a helping hand from quantum mechanics?
+p15
+aVNow, quantum biology isn't new;
+p16
+aVit's been around since the early 1930s.
+p17
+aVBut it's only in the last decade or so that careful experiments \u2014
+p18
+aVin biochemistry labs, using spectroscopy \u2014
+p19
+aVhave shown very clear, firm evidence that there are certain specific mechanisms
+p20
+aVthat require quantum mechanics to explain them.
+p21
+aa(lp22
+VQuantum biology brings together quantum physicists, biochemists,
+p23
+aVmolecular biologists \u2014 it's a very interdisciplinary field.
+p24
+aVI come from quantum physics, so I'm a nuclear physicist.
+p25
+aa(lp26
+VI've spent more than three decades
+p27
+aVtrying to get my head around quantum mechanics.
+p28
+aVOne of the founders of quantum mechanics, Niels Bohr,
+p29
+aVsaid, If you're not astonished by it, then you haven't understood it.
+p30
+aVSo I sort of feel happy that I'm still astonished by it.
+p31
+aVThat's a good thing.
+p32
+aVBut it means I study the very smallest structures in the universe \u2014
+p33
+aVthe building blocks of reality.
+p34
+aVIf we think about the scale of size,
+p35
+aVstart with an everyday object like the tennis ball,
+p36
+aVand just go down orders of magnitude in size \u2014
+p37
+aVfrom the eye of a needle down to a cell, down to a bacterium, down to an enzyme \u2014
+p38
+aVyou eventually reach the nano-world.
+p39
+aa(lp40
+VNow, nanotechnology may be a term you've heard of.
+p41
+aVA nanometer is a billionth of a meter.
+p42
+aVMy area is the atomic nucleus, which is the tiny dot inside an atom.
+p43
+aVIt's even smaller in scale.
+p44
+aVThis is the domain of quantum mechanics,
+p45
+aVand physicists and chemists have had a long time
+p46
+aVto try and get used to it.
+p47
+aVBiologists, on the other hand, have got off lightly, in my view.
+p48
+aVThey are very happy with their balls-and-sticks models of molecules.
+p49
+aa(lp50
+V(Laughter)
+p51
+aa(lp52
+VThe balls are the atoms, the sticks are the bonds between the atoms.
+p53
+aVAnd when they can't build them physically in the lab,
+p54
+aVnowadays, they have very powerful computers
+p55
+aVthat will simulate a huge molecule.
+p56
+aVThis is a protein made up of 100,000 atoms.
+p57
+aVIt doesn't really require much in the way of quantum mechanics to explain it.
+p58
+aVQuantum mechanics was developed in the 1920s.
+p59
+aVIt is a set of beautiful and powerful mathematical rules and ideas
+p60
+aVthat explain the world of the very small.
+p61
+aVAnd it's a world that's very different from our everyday world,
+p62
+aVmade up of trillions of atoms.
+p63
+aVIt's a world built on probability and chance.
+p64
+aVIt's a fuzzy world.
+p65
+aVIt's a world of phantoms,
+p66
+aVwhere particles can also behave like spread-out waves.
+p67
+aa(lp68
+VIf we imagine quantum mechanics or quantum physics, then,
+p69
+aVas the fundamental foundation of reality itself,
+p70
+aVthen it's not surprising that we say
+p71
+aVquantum physics underpins organic chemistry.
+p72
+aVAfter all, it gives us the rules that tell us
+p73
+aVhow the atoms fit together to make organic molecules.
+p74
+aVOrganic chemistry, scaled up in complexity,
+p75
+aVgives us molecular biology, which of course leads to life itself.
+p76
+aVSo in a way, it's sort of not surprising.
+p77
+aVIt's almost trivial.
+p78
+aVYou say, "Well, of course life ultimately must depend of quantum mechanics."
+p79
+aVBut so does everything else.
+p80
+aVSo does all inanimate matter, made up of trillions of atoms.
+p81
+aa(lp82
+VUltimately, there's a quantum level
+p83
+aVwhere we have to delve into this weirdness.
+p84
+aVBut in everyday life, we can forget about it.
+p85
+aVBecause once you put together trillions of atoms,
+p86
+aVthat quantum weirdness just dissolves away.
+p87
+aVQuantum biology isn't about this.
+p88
+aVQuantum biology isn't this obvious.
+p89
+aVOf course quantum mechanics underpins life at some molecular level.
+p90
+aVQuantum biology is about looking for the non-trivial \u2014
+p91
+aVthe counterintuitive ideas in quantum mechanics \u2014
+p92
+aVand to see if they do, indeed, play an important role
+p93
+aVin describing the processes of life.
+p94
+aa(lp95
+VHere is my perfect example of the counterintuitiveness
+p96
+aVof the quantum world.
+p97
+aVThis is the quantum skier.
+p98
+aVHe seems to be intact, he seems to be perfectly healthy,
+p99
+aVand yet, he seems to have gone around both sides of that tree at the same time.
+p100
+aVWell, if you saw tracks like that
+p101
+aVyou'd guess it was some sort of stunt, of course.
+p102
+aVBut in the quantum world, this happens all the time.
+p103
+aVParticles can multitask, they can be in two places at once.
+p104
+aVThey can do more than one thing at the same time.
+p105
+aVParticles can behave like spread-out waves.
+p106
+aVIt's almost like magic.
+p107
+aa(lp108
+VPhysicists and chemists have had nearly a century
+p109
+aVof trying to get used to this weirdness.
+p110
+aVI don't blame the biologists
+p111
+aVfor not having to or wanting to learn quantum mechanics.
+p112
+aa(lp113
+VYou see, this weirdness is very delicate;
+p114
+aVand we physicists work very hard to maintain it in our labs.
+p115
+aVWe cool our system down to near absolute zero,
+p116
+aVwe carry out our experiments in vacuums,
+p117
+aVwe try and isolate it from any external disturbance.
+p118
+aVThat's very different from the warm, messy, noisy environment of a living cell.
+p119
+aVBiology itself, if you think of molecular biology,
+p120
+aVseems to have done very well in describing all the processes of life
+p121
+aVin terms of chemistry \u2014 chemical reactions.
+p122
+aVAnd these are reductionist, deterministic chemical reactions,
+p123
+aVshowing that, essentially, life is made of the same stuff as everything else,
+p124
+aVand if we can forget about quantum mechanics in the macro world,
+p125
+aVthen we should be able to forget about it in biology, as well.
+p126
+aa(lp127
+VWell, one man begged to differ with this idea.
+p128
+aVErwin Schrödinger, of Schrödinger's Cat fame,
+p129
+aVwas an Austrian physicist.
+p130
+aVHe was one of the founders of quantum mechanics in the 1920s.
+p131
+aVIn 1944, he wrote a book called "What is Life?"
+p132
+aVIt was tremendously influential.
+p133
+aVIt influenced Francis Crick and James Watson,
+p134
+aVthe discoverers of the double-helix structure of DNA.
+p135
+aVTo paraphrase a description in the book, he says:
+p136
+aVAt the molecular level, living organisms have a certain order,
+p137
+aVa structure to them that's very different
+p138
+aVfrom the random thermodynamic jostling of atoms and molecules
+p139
+aVin inanimate matter of the same complexity.
+p140
+aa(lp141
+VIn fact, living matter seems to behave in this order, in a structure,
+p142
+aVjust like inanimate matter cooled down to near absolute zero,
+p143
+aVwhere quantum effects play a very important role.
+p144
+aVThere's something special about the structure \u2014 the order \u2014
+p145
+aVinside a living cell.
+p146
+aVSo, Schrödinger speculated that maybe quantum mechanics plays a role in life.
+p147
+aVIt's a very speculative, far-reaching idea,
+p148
+aVand it didn't really go very far.
+p149
+aa(lp150
+VBut as I mentioned at the start,
+p151
+aVin the last 10 years, there have been experiments emerging,
+p152
+aVshowing where some of these certain phenomena in biology
+p153
+aVdo seem to require quantum mechanics.
+p154
+aa(lp155
+VI want to share with you just a few of the exciting ones.
+p156
+aVThis is one of the best-known phenomena in the quantum world,
+p157
+aVquantum tunneling.
+p158
+aVThe box on the left shows the wavelike, spread-out distribution
+p159
+aVof a quantum entity \u2014 a particle, like an electron,
+p160
+aVwhich is not a little ball bouncing off a wall.
+p161
+aVIt's a wave that has a certain probability of being able to permeate
+p162
+aVthrough a solid wall, like a phantom leaping through to the other side.
+p163
+aVYou can see a faint smudge of light in the right-hand box.
+p164
+aVQuantum tunneling suggests that a particle can hit an impenetrable barrier,
+p165
+aVand yet somehow, as though by magic,
+p166
+aVdisappear from one side and reappear on the other.
+p167
+aVThe nicest way of explaining it is if you want to throw a ball over a wall,
+p168
+aVyou have to give it enough energy to get over the top of the wall.
+p169
+aVIn the quantum world, you don't have to throw it over the wall,
+p170
+aVyou can throw it at the wall, and there's a certain non-zero probability
+p171
+aVthat it'll disappear on your side, and reappear on the other.
+p172
+aa(lp173
+VThis isn't speculation, by the way.
+p174
+aVWe're happy \u2014 well, "happy" is not the right word \u2014
+p175
+aa(lp176
+V(Laughter)
+p177
+aa(lp178
+Vwe are familiar with this.
+p179
+aa(lp180
+V(Laughter)
+p181
+aa(lp182
+VQuantum tunneling takes place all the time;
+p183
+aVin fact, it's the reason our Sun shines.
+p184
+aVThe particles fuse together,
+p185
+aVand the Sun turns hydrogen into helium through quantum tunneling.
+p186
+aVBack in the 70s and 80s, it was discovered that quantum tunneling also takes place
+p187
+aVinside living cells.
+p188
+aVEnzymes, those workhorses of life, the catalysts of chemical reactions \u2014
+p189
+aVenzymes are biomolecules that speed up chemical reactions in living cells,
+p190
+aVby many, many orders of magnitude.
+p191
+aVAnd it's always been a mystery how they do this.
+p192
+aa(lp193
+VWell, it was discovered
+p194
+aVthat one of the tricks that enzymes have evolved to make use of,
+p195
+aVis by transferring subatomic particles, like electrons and indeed protons,
+p196
+aVfrom one part of a molecule to another via quantum tunneling.
+p197
+aVIt's efficient, it's fast, it can disappear \u2014
+p198
+aVa proton can disappear from one place, and reappear on the other.
+p199
+aVEnzymes help this take place.
+p200
+aa(lp201
+VThis is research that's been carried out back in the 80s,
+p202
+aVparticularly by a group in Berkeley, Judith Klinman.
+p203
+aVOther groups in the UK have now also confirmed
+p204
+aVthat enzymes really do this.
+p205
+aa(lp206
+VResearch carried out by my group \u2014
+p207
+aVso as I mentioned, I'm a nuclear physicist,
+p208
+aVbut I've realized I've got these tools of using quantum mechanics
+p209
+aVin atomic nuclei, and so can apply those tools in other areas as well.
+p210
+aVOne question we asked
+p211
+aVis whether quantum tunneling plays a role in mutations in DNA.
+p212
+aVAgain, this is not a new idea; it goes all the way back to the early 60s.
+p213
+aVThe two strands of DNA, the double-helix structure,
+p214
+aVare held together by rungs; it's like a twisted ladder.
+p215
+aVAnd those rungs of the ladder are hydrogen bonds \u2014
+p216
+aVprotons, that act as the glue between the two strands.
+p217
+aVSo if you zoom in, what they're doing is holding these large molecules \u2014
+p218
+aVnucleotides \u2014 together.
+p219
+aVZoom in a bit more.
+p220
+aVSo, this a computer simulation.
+p221
+aVThe two white balls in the middle are protons,
+p222
+aVand you can see that it's a double hydrogen bond.
+p223
+aVOne prefers to sit on one side; the other, on the other side
+p224
+aVof the two strands of the vertical lines going down, which you can't see.
+p225
+aVIt can happen that these two protons can hop over.
+p226
+aVWatch the two white balls.
+p227
+aVThey can jump over to the other side.
+p228
+aVIf the two strands of DNA then separate, leading to the process of replication,
+p229
+aVand the two protons are in the wrong positions,
+p230
+aVthis can lead to a mutation.
+p231
+aa(lp232
+VThis has been known for half a century.
+p233
+aVThe question is: How likely are they to do that,
+p234
+aVand if they do, how do they do it?
+p235
+aVDo they jump across, like the ball going over the wall?
+p236
+aVOr can they quantum-tunnel across, even if they don't have enough energy?
+p237
+aVEarly indications suggest that quantum tunneling can play a role here.
+p238
+aVWe still don't know yet how important it is;
+p239
+aVthis is still an open question.
+p240
+aVIt's speculative,
+p241
+aVbut it's one of those questions that is so important
+p242
+aVthat if quantum mechanics plays a role in mutations,
+p243
+aVsurely this must have big implications,
+p244
+aVto understand certain types of mutations,
+p245
+aVpossibly even those that lead to turning a cell cancerous.
+p246
+aa(lp247
+VAnother example of quantum mechanics in biology is quantum coherence,
+p248
+aVin one of the most important processes in biology,
+p249
+aVphotosynthesis: plants and bacteria taking sunlight,
+p250
+aVand using that energy to create biomass.
+p251
+aVQuantum coherence is the idea of quantum entities multitasking.
+p252
+aVIt's the quantum skier.
+p253
+aVIt's an object that behaves like a wave,
+p254
+aVso that it doesn't just move in one direction or the other,
+p255
+aVbut can follow multiple pathways at the same time.
+p256
+aa(lp257
+VSome years ago, the world of science was shocked
+p258
+aVwhen a paper was published showing experimental evidence
+p259
+aVthat quantum coherence takes place inside bacteria,
+p260
+aVcarrying out photosynthesis.
+p261
+aVThe idea is that the photon, the particle of light, the sunlight,
+p262
+aVthe quantum of light captured by a chlorophyll molecule,
+p263
+aVis then delivered to what's called the reaction center,
+p264
+aVwhere it can be turned into chemical energy.
+p265
+aVAnd in getting there, it doesn't just follow one route;
+p266
+aVit follows multiple pathways at once,
+p267
+aVto optimize the most efficient way of reaching the reaction center
+p268
+aVwithout dissipating as waste heat.
+p269
+aVQuantum coherence taking place inside a living cell.
+p270
+aVA remarkable idea,
+p271
+aVand yet evidence is growing almost weekly, with new papers coming out,
+p272
+aVconfirming that this does indeed take place.
+p273
+aa(lp274
+VMy third and final example is the most beautiful, wonderful idea.
+p275
+aVIt's also still very speculative, but I have to share it with you.
+p276
+aVThe European robin migrates from Scandinavia
+p277
+aVdown to the Mediterranean, every autumn,
+p278
+aVand like a lot of other marine animals and even insects,
+p279
+aVthey navigate by sensing the Earth's magnetic field.
+p280
+aVNow, the Earth's magnetic field is very, very weak;
+p281
+aVit's 100 times weaker than a fridge magnet,
+p282
+aVand yet it affects the chemistry \u2014 somehow \u2014 within a living organism.
+p283
+aVThat's not in doubt \u2014 a German couple of ornithologists,
+p284
+aVWolfgang and Roswitha Wiltschko, in the 1970s, confirmed that indeed,
+p285
+aVthe robin does find its way by somehow sensing the Earth's magnetic field,
+p286
+aVto give it directional information \u2014 a built-in compass.
+p287
+aa(lp288
+VThe puzzle, the mystery was: How does it do it?
+p289
+aVWell, the only theory in town \u2014
+p290
+aVwe don't know if it's the correct theory, but the only theory in town \u2014
+p291
+aVis that it does it via something called quantum entanglement.
+p292
+aVInside the robin's retina \u2014
+p293
+aVI kid you not \u2014 inside the robin's retina is a protein called cryptochrome,
+p294
+aVwhich is light-sensitive.
+p295
+aVWithin cryptochrome, a pair of electrons are quantum-entangled.
+p296
+aVNow, quantum entanglement is when two particles are far apart,
+p297
+aVand yet somehow remain in contact with each other.
+p298
+aVEven Einstein hated this idea;
+p299
+aVhe called it "spooky action at a distance."
+p300
+aa(lp301
+V(Laughter)
+p302
+aa(lp303
+VSo if Einstein doesn't like it, then we can all be uncomfortable with it.
+p304
+aVTwo quantum-entangled electrons within a single molecule
+p305
+aVdance a delicate dance
+p306
+aVthat is very sensitive to the direction the bird flies
+p307
+aVin the Earth's magnetic field.
+p308
+aa(lp309
+VWe don't know if it's the correct explanation,
+p310
+aVbut wow, wouldn't it be exciting if quantum mechanics helps birds navigate?
+p311
+aVQuantum biology is still in it infancy.
+p312
+aVIt's still speculative.
+p313
+aVBut I believe it's built on solid science.
+p314
+aVI also think that in the coming decade or so,
+p315
+aVwe're going to start to see that actually, it pervades life \u2014
+p316
+aVthat life has evolved tricks that utilize the quantum world.
+p317
+aVWatch this space.
+p318
+aa(lp319
+VThank you.
+p320
+aa(lp321
+V(Applause)
+p322
+aasS'id'
+p323
+I2316
+sS'title'
+p324
+VHow quantum biology might explain life\u2019s biggest questions
+p325
+s.

@@ -1,0 +1,336 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo why do we learn mathematics?
+p4
+aVEssentially, for three reasons:
+p5
+aVcalculation,
+p6
+aVapplication,
+p7
+aVand last, and unfortunately least
+p8
+aVin terms of the time we give it,
+p9
+aVinspiration.
+p10
+aa(lp11
+VMathematics is the science of patterns,
+p12
+aVand we study it to learn how to think logically,
+p13
+aVcritically and creatively,
+p14
+aVbut too much of the mathematics that we learn in school
+p15
+aVis not effectively motivated,
+p16
+aVand when our students ask,
+p17
+aV"Why are we learning this?"
+p18
+aVthen they often hear that they'll need it
+p19
+aVin an upcoming math class or on a future test.
+p20
+aVBut wouldn't it be great
+p21
+aVif every once in a while we did mathematics
+p22
+aVsimply because it was fun or beautiful
+p23
+aVor because it excited the mind?
+p24
+aVNow, I know many people have not
+p25
+aVhad the opportunity to see how this can happen,
+p26
+aVso let me give you a quick example
+p27
+aVwith my favorite collection of numbers,
+p28
+aVthe Fibonacci numbers. (Applause)
+p29
+aa(lp30
+VYeah! I already have Fibonacci fans here.
+p31
+aVThat's great.
+p32
+aa(lp33
+VNow these numbers can be appreciated
+p34
+aVin many different ways.
+p35
+aVFrom the standpoint of calculation,
+p36
+aVthey're as easy to understand
+p37
+aVas one plus one, which is two.
+p38
+aVThen one plus two is three,
+p39
+aVtwo plus three is five, three plus five is eight,
+p40
+aVand so on.
+p41
+aVIndeed, the person we call Fibonacci
+p42
+aVwas actually named Leonardo of Pisa,
+p43
+aVand these numbers appear in his book "Liber Abaci,"
+p44
+aVwhich taught the Western world
+p45
+aVthe methods of arithmetic that we use today.
+p46
+aVIn terms of applications,
+p47
+aVFibonacci numbers appear in nature
+p48
+aVsurprisingly often.
+p49
+aVThe number of petals on a flower
+p50
+aVis typically a Fibonacci number,
+p51
+aVor the number of spirals on a sunflower
+p52
+aVor a pineapple
+p53
+aVtends to be a Fibonacci number as well.
+p54
+aa(lp55
+VIn fact, there are many more applications of Fibonacci numbers,
+p56
+aVbut what I find most inspirational about them
+p57
+aVare the beautiful number patterns they display.
+p58
+aVLet me show you one of my favorites.
+p59
+aVSuppose you like to square numbers,
+p60
+aVand frankly, who doesn't? (Laughter)
+p61
+aa(lp62
+VLet's look at the squares
+p63
+aVof the first few Fibonacci numbers.
+p64
+aVSo one squared is one,
+p65
+aVtwo squared is four, three squared is nine,
+p66
+aVfive squared is 25, and so on.
+p67
+aVNow, it's no surprise
+p68
+aVthat when you add consecutive Fibonacci numbers,
+p69
+aVyou get the next Fibonacci number. Right?
+p70
+aVThat's how they're created.
+p71
+aVBut you wouldn't expect anything special
+p72
+aVto happen when you add the squares together.
+p73
+aVBut check this out.
+p74
+aVOne plus one gives us two,
+p75
+aVand one plus four gives us five.
+p76
+aVAnd four plus nine is 13,
+p77
+aVnine plus 25 is 34,
+p78
+aVand yes, the pattern continues.
+p79
+aa(lp80
+VIn fact, here's another one.
+p81
+aVSuppose you wanted to look at
+p82
+aVadding the squares of the first few Fibonacci numbers.
+p83
+aVLet's see what we get there.
+p84
+aVSo one plus one plus four is six.
+p85
+aVAdd nine to that, we get 15.
+p86
+aVAdd 25, we get 40.
+p87
+aVAdd 64, we get 104.
+p88
+aVNow look at those numbers.
+p89
+aVThose are not Fibonacci numbers,
+p90
+aVbut if you look at them closely,
+p91
+aVyou'll see the Fibonacci numbers
+p92
+aVburied inside of them.
+p93
+aa(lp94
+VDo you see it? I'll show it to you.
+p95
+aVSix is two times three, 15 is three times five,
+p96
+aV40 is five times eight,
+p97
+aVtwo, three, five, eight, who do we appreciate?
+p98
+aa(lp99
+V(Laughter)
+p100
+aa(lp101
+VFibonacci! Of course.
+p102
+aa(lp103
+VNow, as much fun as it is to discover these patterns,
+p104
+aVit's even more satisfying to understand
+p105
+aVwhy they are true.
+p106
+aVLet's look at that last equation.
+p107
+aVWhy should the squares of one, one, two, three, five and eight
+p108
+aVadd up to eight times 13?
+p109
+aVI'll show you by drawing a simple picture.
+p110
+aVWe'll start with a one-by-one square
+p111
+aVand next to that put another one-by-one square.
+p112
+aVTogether, they form a one-by-two rectangle.
+p113
+aVBeneath that, I'll put a two-by-two square,
+p114
+aVand next to that, a three-by-three square,
+p115
+aVbeneath that, a five-by-five square,
+p116
+aVand then an eight-by-eight square,
+p117
+aVcreating one giant rectangle, right?
+p118
+aa(lp119
+VNow let me ask you a simple question:
+p120
+aVwhat is the area of the rectangle?
+p121
+aVWell, on the one hand,
+p122
+aVit's the sum of the areas
+p123
+aVof the squares inside it, right?
+p124
+aVJust as we created it.
+p125
+aVIt's one squared plus one squared
+p126
+aVplus two squared plus three squared
+p127
+aVplus five squared plus eight squared. Right?
+p128
+aVThat's the area.
+p129
+aVOn the other hand, because it's a rectangle,
+p130
+aVthe area is equal to its height times its base,
+p131
+aVand the height is clearly eight,
+p132
+aVand the base is five plus eight,
+p133
+aVwhich is the next Fibonacci number, 13. Right?
+p134
+aVSo the area is also eight times 13.
+p135
+aVSince we've correctly calculated the area
+p136
+aVtwo different ways,
+p137
+aVthey have to be the same number,
+p138
+aVand that's why the squares of one, one, two, three, five and eight
+p139
+aVadd up to eight times 13.
+p140
+aa(lp141
+VNow, if we continue this process,
+p142
+aVwe'll generate rectangles of the form 13 by 21,
+p143
+aV21 by 34, and so on.
+p144
+aa(lp145
+VNow check this out.
+p146
+aVIf you divide 13 by eight,
+p147
+aVyou get 1.625.
+p148
+aVAnd if you divide the larger number by the smaller number,
+p149
+aVthen these ratios get closer and closer
+p150
+aVto about 1.618,
+p151
+aVknown to many people as the Golden Ratio,
+p152
+aVa number which has fascinated mathematicians,
+p153
+aVscientists and artists for centuries.
+p154
+aa(lp155
+VNow, I show all this to you because,
+p156
+aVlike so much of mathematics,
+p157
+aVthere's a beautiful side to it
+p158
+aVthat I fear does not get enough attention
+p159
+aVin our schools.
+p160
+aVWe spend lots of time learning about calculation,
+p161
+aVbut let's not forget about application,
+p162
+aVincluding, perhaps, the most important application of all,
+p163
+aVlearning how to think.
+p164
+aa(lp165
+VIf I could summarize this in one sentence,
+p166
+aVit would be this:
+p167
+aVMathematics is not just solving for x,
+p168
+aVit's also figuring out why.
+p169
+aa(lp170
+VThank you very much.
+p171
+aa(lp172
+V(Applause)
+p173
+aasS'id'
+p174
+I1862
+sS'title'
+p175
+VThe magic of Fibonacci numbers
+p176
+s.

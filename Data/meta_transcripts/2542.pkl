@@ -1,0 +1,457 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VTonight, I'm going to share with you my passion for science.
+p4
+aVI'm not talking about science that takes baby steps.
+p5
+aVI'm talking about science that takes enormous leaps.
+p6
+aVI'm talking Darwin, I'm talking Einstein,
+p7
+aVI'm talking revolutionary science that turns the world on its head.
+p8
+aVIn a moment, I'm going to talk about two ideas that might do this.
+p9
+aVI say "might"
+p10
+aVbecause, with revolutionary ideas, most are flat wrong,
+p11
+aVand even those that are right seldom have the impact
+p12
+aVthat we want them to have.
+p13
+aa(lp14
+VTo explain why I picked two ideas in particular,
+p15
+aVI'm going to start with a mystery.
+p16
+aV1847, Vienna, Austria.
+p17
+aVIgnaz Semmelweis was a somber, compulsively thorough doctor
+p18
+aVwho ran two maternity clinics.
+p19
+aVThey were identical except for one thing.
+p20
+aVWomen were dying of high fevers soon after giving birth
+p21
+aVthree times more often at one of the clinics than at the other.
+p22
+aVTrying to figure out what the difference was that caused this,
+p23
+aVSemmelweis looked at everything he could.
+p24
+aVSanitation? No.
+p25
+aVMedical procedures? No.
+p26
+aVAir flow? No.
+p27
+aa(lp28
+VThe puzzle went unsolved until he happened to autopsy a doctor
+p29
+aVwho died of an infected scalpel cut.
+p30
+aVThe doctor's symptoms were identical to those of the mothers who were dying.
+p31
+aVHow was that possible?
+p32
+aVHow could a male doctor get the same thing as new mothers?
+p33
+aVSemmelweis reconstructed everything the doctor had done
+p34
+aVright before he got sick,
+p35
+aVand he discovered that he'd been autopsying a corpse.
+p36
+aVHad something gotten in his wound that killed him?
+p37
+aVWith growing excitement,
+p38
+aVSemmelweis looked for any connection he could
+p39
+aVbetween dead bodies in the morgue and dead mothers in his delivery room,
+p40
+aVand he found it.
+p41
+aVIt turned out that at the hospital with the high death rate,
+p42
+aVbut not the others,
+p43
+aVdoctors delivered babies immediately after autopsying corpses in the morgue.
+p44
+aVAha! Corpses were contaminating the doctors' hands
+p45
+aVand killing his mothers.
+p46
+aVSo he ordered the doctors to sterilize their hands,
+p47
+aVand the deaths stopped.
+p48
+aVDr. Ignaz Semmelweis had discovered infectious disease.
+p49
+aa(lp50
+VBut the doctors of the day thought he was crazy,
+p51
+aVbecause they knew, and had for hundreds of years,
+p52
+aVthat odorous vapors called miasmas caused disease,
+p53
+aVnot these hypothetical particles that you couldn't see.
+p54
+aVIt took 20 years for Frenchman Louis Pasteur
+p55
+aVto prove that Semmelweis was right.
+p56
+aVPasteur was an agricultural chemist
+p57
+aVwho tried to figure out why milk and beer spoiled so often.
+p58
+aVHe found that bacteria were the culprits.
+p59
+aVHe also found that bacteria could kill people in exactly the same way
+p60
+aVthat Semmelweis's patients were dying.
+p61
+aa(lp62
+VWe now look at what I want to talk about tonight, in two ideas.
+p63
+aVWe saw it with Semmelweis, that he was a revolutionary.
+p64
+aVHe did it for two reasons.
+p65
+aVOne, he opened our eyes to a completely new world.
+p66
+aVWe'd known since the 1680s about bacteria.
+p67
+aVWe just didn't know that bacteria killed people.
+p68
+aVAnd he also demolished fond ideas that people kept close to their heart.
+p69
+aVMiasmas didn't kill people. Bacteria killed people.
+p70
+aa(lp71
+VSo this brings me to the two ideas I want to talk about tonight.
+p72
+aVOne has opened our eyes to a completely new universe,
+p73
+aVand the other attacks long-held beliefs.
+p74
+aa(lp75
+VLet's get started with Dr. Eric Betzig.
+p76
+aVHe's a physicist who has opened our eyes to an entirely new world
+p77
+aVby violating the laws of physics.
+p78
+aVBetzig is a true rebel.
+p79
+aVHe quit a job at prestigious Bell Laboratory
+p80
+aVinventing new microscopes for biology
+p81
+aVbecause he thought scientists were taking his brilliant inventions
+p82
+aVand doing lousy work with them.
+p83
+aVSo he became a househusband,
+p84
+aVbut he never lost his passion for figuring out
+p85
+aVhow to get microscopes to see finer and finer details
+p86
+aVthan had ever been seen before or ever could be seen.
+p87
+aVThis is crucial if we're ever going to understand how cells work,
+p88
+aVand how cancer works,
+p89
+aVand how something 150th the size of a head of a pin
+p90
+aVcan do all these amazing things,
+p91
+aVlike make proteins
+p92
+aVand move charges around
+p93
+aVand all of those things.
+p94
+aa(lp95
+VThere's just one problem.
+p96
+aVThere's this thing called the law of physics,
+p97
+aVand part of the law of physics is the thing called the diffraction limit.
+p98
+aVThe diffraction limit is kind of like when you go to a doctor's office,
+p99
+aVyou can only see so far down, no matter how good glasses you have.
+p100
+aa(lp101
+VThis was a so-called impossible problem.
+p102
+aVBut one of Betzig's friends figured out how to take a tiny molecule
+p103
+aVthat was smaller than the best microscope could see
+p104
+aVand get it to light up and fluoresce.
+p105
+aV"Aha!" Betzig said.
+p106
+aV"I think maybe the laws of physics are not so unbreakable after all."
+p107
+aa(lp108
+VSo he lashed together a microscope in his friend's living room.
+p109
+aVHe had no laboratory.
+p110
+aVThis revolutionary instrument got different protein molecules
+p111
+aVto light up in different colors,
+p112
+aVand with a computer, he was able to turn very, very fuzzy blurs
+p113
+aVinto very sharp dots and produce images of unprecedented and startling clarity.
+p114
+aa(lp115
+VFor this work, last year,
+p116
+aVEric Betzig won the Nobel Prize.
+p117
+aVWhy?
+p118
+aVBecause now we can see with unprecedented detail
+p119
+aVthings that we never had seen before,
+p120
+aVand now doctors can get a better handle on things like cancer.
+p121
+aa(lp122
+VBut do you think Betzig was satisfied there?
+p123
+aVNo.
+p124
+aVHe wanted movies.
+p125
+aVThe problem was
+p126
+aVthat even the genius microscopes that he invented were just too slow.
+p127
+aVSo what did he do?
+p128
+aVHe came up with a 200-year-old idea
+p129
+aVcalled moiré patterns.
+p130
+aVSo the way that works is if you take two very, very fine patterns
+p131
+aVand you move them across each other,
+p132
+aVyou will see a gross pattern
+p133
+aVthat a microscope can see
+p134
+aVthat otherwise you would not be able to see.
+p135
+aVSo he applied this technique to taking a really blurry image of a cell
+p136
+aVand moving lots of structured light patterns across it
+p137
+aVuntil this cell became crystal clear.
+p138
+aVAnd here is the result:
+p139
+aVa mysterious new world,
+p140
+aVfull of strange things zipping around
+p141
+aVdoing things that we don't know what they're doing.
+p142
+aVBut when we figure it out, we'll have a better handle on life itself.
+p143
+aa(lp144
+VFor example, those green globs that you see?
+p145
+aVThose things are called clathrins.
+p146
+aVThey're molecules that protect other molecules
+p147
+aVas they move through a cell.
+p148
+aVUnfortunately, viruses sometimes hijack those to infect cells.
+p149
+aVAlso, you see those little squiggly wormlike things moving around?
+p150
+aVThose are actin molecules.
+p151
+aVUnfortunately, viruses also climb down those things
+p152
+aVto get into the cell nucleus
+p153
+aVto replicate themselves and make you sick.
+p154
+aa(lp155
+VNow that we can look at movies
+p156
+aVof what's actually going on deep inside a cell,
+p157
+aVwe have a much better chance of curing viral diseases like AIDS.
+p158
+aa(lp159
+VSo when you look at a movie like this,
+p160
+aVit's very clear that Betzig has opened our eyes to a completely new world.
+p161
+aVBut he hasn't shattered any cherished beliefs.
+p162
+aa(lp163
+VThat leads us to Dr. Aubrey de Grey
+p164
+aVat Cambridge.
+p165
+aVDe Grey definitely has scientists squirming with an interesting idea:
+p166
+aVwe can be immortal.
+p167
+aVWe can beat aging.
+p168
+aVNow, most scientists think he's a crackpot.
+p169
+aVAny Biology 101 student knows
+p170
+aVthat aging is an inevitable consequence of living.
+p171
+aVFor example, when we eat,
+p172
+aVwe take in food and we metabolize it,
+p173
+aVand that throws off what we call free radicals.
+p174
+aVYou might have heard of those.
+p175
+aVAlso known as oxygen ions,
+p176
+aVthose bind to our DNA, cause it to mutate,
+p177
+aVand cause us to get old and lose our hair.
+p178
+aa(lp179
+V(Laughter)
+p180
+aa(lp181
+VIt's just like, no, it's exactly like
+p182
+aVoxygen binding to iron and making it rust.
+p183
+aVSo you age because you rust out.
+p184
+aa(lp185
+V(Laughter)
+p186
+aa(lp187
+VOh, and scientists also know there is something called immortality:
+p188
+aVin cancer cells.
+p189
+aVSo if you stop aging,
+p190
+aVall of you are going to turn into giant walking malignant tumors.
+p191
+aa(lp192
+VThese are cherished beliefs, but could de Grey be on to something?
+p193
+aVI think he deserves a closer look.
+p194
+aVFirst of all, I have a really hard time seeing him as a crackpot.
+p195
+aVYeah, he started off life as a computer scientist,
+p196
+aVnot a biologist,
+p197
+aVbut he earned a PhD in biology from Cambridge,
+p198
+aVand he has published some very significant work
+p199
+aVon mitochondrial DNA and a bunch of other stuff.
+p200
+aVSecondly, he started an antiaging foundation
+p201
+aVthat has identified seven different causes of aging,
+p202
+aVto me, that seem very plausible,
+p203
+aVand he is hot in pursuit of fixes for every single one of them.
+p204
+aVFor example, one of the reasons we age is that our mitochondrial DNA mutates,
+p205
+aVand we get kind of old and our cells lose energy.
+p206
+aVHe believes, and he's made a convincing case,
+p207
+aVthat using viruses we can do gene therapy,
+p208
+aVfix that DNA
+p209
+aVand rejuvenate our cells.
+p210
+aa(lp211
+VOne more thing.
+p212
+aVWe have an existent proof
+p213
+aVthat extreme longevity is possible.
+p214
+aVBristlecone pine trees live 5,000 years,
+p215
+aVand some lobsters don't age at all.
+p216
+aa(lp217
+VNow, this doesn't mean that de Grey is going to revolutionize our lifespans.
+p218
+aVI mean, after all, we're not trees, and most of us are not lobsters.
+p219
+aa(lp220
+V(Laughter)
+p221
+aa(lp222
+VBut I've got to believe that there are Darwins and Einsteins out there,
+p223
+aVand I'll tell you why.
+p224
+aVConsider this:
+p225
+aVthere are seven times more people alive today than during Darwin's time.
+p226
+aVThere are four times as many people alive today as Einstein.
+p227
+aVWhen you consider
+p228
+aVthat the proportion of scientists in the population has skyrocketed,
+p229
+aVthere are now seven million scientists.
+p230
+aVI've got to believe, and I do believe, that there's one of them out there
+p231
+aVwho is working right now in obscurity
+p232
+aVto rock our lives, and I don't know about you,
+p233
+aVbut I can't wait to be rocked.
+p234
+aa(lp235
+VThank you.
+p236
+aa(lp237
+V(Applause)
+p238
+aasS'id'
+p239
+I2542
+sS'title'
+p240
+VWhat will be the next big scientific breakthrough?
+p241
+s.

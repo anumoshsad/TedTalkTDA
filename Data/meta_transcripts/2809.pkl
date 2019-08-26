@@ -1,0 +1,648 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI remember when I first found out
+p4
+aVI was going to speak at a TED conference.
+p5
+aVI ran across the hall to one of my classrooms
+p6
+aVto inform my students.
+p7
+aa(lp8
+V"Guess what, guys?
+p9
+aVI've been asked to give a TED Talk."
+p10
+aa(lp11
+VThe reaction wasn't one I quite expected.
+p12
+aVThe whole room went silent.
+p13
+aa(lp14
+V"A TED Talk? You mean, like the one you made us watch on grit?
+p15
+aVOr the one with the scientist that did this really awesome thing with robots?"
+p16
+aVMuhammad asked.
+p17
+aa(lp18
+V"Yes, just like that."
+p19
+aa(lp20
+V"But Coach, those people are really important and smart."
+p21
+aa(lp22
+V(Laughter)
+p23
+aa(lp24
+V"I know that."
+p25
+aa(lp26
+V"But Coach, why are you speaking? You hate public speaking."
+p27
+aa(lp28
+V"I do," I admitted,
+p29
+aV"But it's important that I speak about us, that I speak about your journeys,
+p30
+aVabout my journey.
+p31
+aVPeople need to know."
+p32
+aa(lp33
+VThe students at the all-refugee school that I founded
+p34
+aVdecided to end with some words of encouragement.
+p35
+aa(lp36
+V"Cool! It better be good, Coach."
+p37
+aa(lp38
+V(Laughter)
+p39
+aa(lp40
+VThere are 65.3 million people who have been forcibly displaced
+p41
+aVfrom their homes because of war or persecution.
+p42
+aVThe largest number, 11 million, are from Syria.
+p43
+aV33,952 people flee their homes daily.
+p44
+aVThe vast majority remain in refugee camps,
+p45
+aVwhose conditions cannot be defined as humane under anyone's definition.
+p46
+aVWe are participating in the degradation of humans.
+p47
+aVNever have we had numbers this high.
+p48
+aVThis is the highest number of refugees since World War II.
+p49
+aa(lp50
+VNow, let me tell you why this issue is so important to me.
+p51
+aVI am an Arab. I am an immigrant.
+p52
+aVI am a Muslim.
+p53
+aVI've also spent the last 12 years of my life working with refugees.
+p54
+aVOh \u2014 and I'm also gay.
+p55
+aVIt makes me really popular these days.
+p56
+aa(lp57
+V(Laughter)
+p58
+aa(lp59
+VBut I am the daughter of a refugee.
+p60
+aVMy grandmother fled Syria in 1964 during the first Assad regime.
+p61
+aVShe was three months pregnant when she packed up a suitcase,
+p62
+aVpiled in her five children and drove to neighboring Jordan,
+p63
+aVnot knowing what the future held for her and her family.
+p64
+aVMy grandfather decided to stay, not believing it was that bad.
+p65
+aVHe followed her a month later, after his brothers were tortured
+p66
+aVand his factory was taken over by the government.
+p67
+aVThey rebuilt their lives starting from scratch
+p68
+aVand eventually became independently wealthy Jordanian citizens.
+p69
+aa(lp70
+VI was born in Jordan 11 years later.
+p71
+aVIt was really important to my grandmother for us to know our history
+p72
+aVand our journey.
+p73
+aVI was eight years old when she took me to visit my first refugee camp.
+p74
+aVI didn't understand why.
+p75
+aVI didn't know why it was so important to her
+p76
+aVfor us to go.
+p77
+aVI remember walking into the camp holding her hand,
+p78
+aVand her saying, "Go play with the kids,"
+p79
+aVwhile she visited with the women in the camp.
+p80
+aVI didn't want to.
+p81
+aVThese kids weren't like me.
+p82
+aVThey were poor. They lived in a camp.
+p83
+aVI refused.
+p84
+aVShe knelt down beside me and firmly said, "Go.
+p85
+aVAnd don't come back until you've played.
+p86
+aVDon't ever think people are beneath you
+p87
+aVor that you have nothing to learn from others."
+p88
+aa(lp89
+VI reluctantly went.
+p90
+aVI never wanted to disappoint my grandmother.
+p91
+aVI returned a few hours later,
+p92
+aVhaving spent some time playing soccer with the kids in the camp.
+p93
+aVWe walked out of the camp,
+p94
+aVand I was excitedly telling her what a great time I had
+p95
+aVand how fantastic the kids were.
+p96
+aa(lp97
+V"Haram!" I said in Arabic. "Poor them."
+p98
+aa(lp99
+V"Haram on us," she said, using the word's different meaning,
+p100
+aVthat we were sinning.
+p101
+aV"Don't feel sorry for them; believe in them."
+p102
+aa(lp103
+VIt wasn't until I left my country of origin for the United States
+p104
+aVthat I realized the impact of her words.
+p105
+aa(lp106
+VAfter my college graduation, I applied for and was granted political asylum,
+p107
+aVbased on being a member of a social group.
+p108
+aVSome people may not realize this,
+p109
+aVbut you can still get the death penalty in some countries for being gay.
+p110
+aVI had to give up my Jordanian citizenship.
+p111
+aVThat was the hardest decision I've ever had to make,
+p112
+aVbut I had no other choice.
+p113
+aVThe point is,
+p114
+aVwhen you find yourself choosing between home and survival,
+p115
+aVthe question "Where are you from?" becomes very loaded.
+p116
+aVA Syrian woman who I recently met at a refugee camp in Greece
+p117
+aVarticulated it best,
+p118
+aVwhen she recalled the exact moment she realized she had to flee Aleppo.
+p119
+aa(lp120
+V"I looked out the window and there was nothing.
+p121
+aVIt was all rubble.
+p122
+aVThere were no stores, no streets, no schools. Everything was gone.
+p123
+aVI had been in my apartment for months,
+p124
+aVlistening to bombs drop and watching people die.
+p125
+aVBut I always thought it would get better,
+p126
+aVthat no one could force me to leave,
+p127
+aVno one could take my home away from me.
+p128
+aVAnd I don't know why it was that morning, but when I looked outside,
+p129
+aVI realized if I didn't leave, my three young children would die.
+p130
+aVAnd so we left.
+p131
+aVWe left because we had to, not because we wanted to.
+p132
+aVThere was no choice," she said.
+p133
+aa(lp134
+VIt's kind of hard to believe that you belong
+p135
+aVwhen you don't have a home,
+p136
+aVwhen your country of origin rejects you because of fear or persecution,
+p137
+aVor the city that you grew up in is completely destroyed.
+p138
+aVI didn't feel like I had a home.
+p139
+aVI was no longer a Jordanian citizen,
+p140
+aVbut I wasn't American, either.
+p141
+aVI felt a kind of loneliness
+p142
+aVthat is still hard to put into words today.
+p143
+aa(lp144
+VAfter college, I desperately needed to find a place to call home.
+p145
+aVI bounced around from state to state
+p146
+aVand eventually ended up in North Carolina.
+p147
+aVKindhearted people who felt sorry for me
+p148
+aVoffered to pay rent
+p149
+aVor buy me a meal or a suit for my new interview.
+p150
+aVIt just made me feel more isolated and incapable.
+p151
+aVIt wasn't until I met Miss Sarah,
+p152
+aVa Southern Baptist who took me in at my lowest and gave me a job,
+p153
+aVthat I started to believe in myself.
+p154
+aVMiss Sarah owned a diner in the mountains of North Carolina.
+p155
+aVI assumed, because of my privileged upbringing
+p156
+aVand my Seven Sister education,
+p157
+aVthat she would ask me to manage the restaurant.
+p158
+aVI was wrong.
+p159
+aVI started off washing dishes,
+p160
+aVcleaning toilets and working the grill.
+p161
+aVI was humbled; I was shown the value of hard work.
+p162
+aVBut most importantly, I felt valued and embraced.
+p163
+aVI celebrated Christmas with her family,
+p164
+aVand she attempted to observe Ramadan with me.
+p165
+aa(lp166
+VI remember being very nervous about coming out to her \u2014
+p167
+aVafter all, she was a Southern Baptist.
+p168
+aVI sat on the couch next to her
+p169
+aVand I said, "Miss Sarah, you know that I'm gay."
+p170
+aVHer response is one that I will never forget.
+p171
+aa(lp172
+V"That's fine, honey. Just don't be a slut."
+p173
+aa(lp174
+V(Laughter)
+p175
+aa(lp176
+V(Applause)
+p177
+aa(lp178
+VI eventually moved to Atlanta, still trying to find my home.
+p179
+aVMy journey took a strange turn three years later,
+p180
+aVafter I met a group of refugee kids playing soccer outside.
+p181
+aVI'd made a wrong turn into this apartment complex,
+p182
+aVand I saw these kids outside playing soccer.
+p183
+aVThey were playing barefoot with a raggedy soccer ball
+p184
+aVand rocks set up as goals.
+p185
+aVI watched them for about an hour,
+p186
+aVand after that I was smiling.
+p187
+aVThe boys reminded me of home.
+p188
+aVThey reminded me of the way I grew up playing soccer
+p189
+aVin the streets of Jordan, with my brothers and cousins.
+p190
+aVI eventually joined their game.
+p191
+aVThey were a little skeptical about letting me join it,
+p192
+aVbecause according to them, girls don't know how to play.
+p193
+aVBut obviously I did.
+p194
+aa(lp195
+VI asked them if they had ever played on a team.
+p196
+aVThey said they hadn't, but that they would love to.
+p197
+aVI gradually won them over, and we formed our first team.
+p198
+aVThis group of kids would give me a crash course in refugees, poverty
+p199
+aVand humanity.
+p200
+aVThree brothers from Afghanistan \u2014 Roohullah, Noorullah and Zabiullah \u2014
+p201
+aVplayed a major role in that.
+p202
+aVI showed up late to practice one day to find the field completely deserted.
+p203
+aVI was really worried.
+p204
+aVMy team loved to practice.
+p205
+aVIt wasn't like them to miss practice.
+p206
+aVI got out of my car, and two kids ran out from behind a dumpster,
+p207
+aVwaving their hands frantically.
+p208
+aa(lp209
+V"Coach, Rooh got beat up. He got jumped.
+p210
+aVThere was blood everywhere."
+p211
+aa(lp212
+V"What do you mean? What do you mean he got beat up?"
+p213
+aa(lp214
+V"These bad kids came and beat him up, Coach.
+p215
+aVEverybody left. They were all scared."
+p216
+aa(lp217
+VWe hopped into my car and drove over to Rooh's apartment.
+p218
+aVI knocked on the door, and Noor opened it.
+p219
+aV"Where's Rooh? I need to talk to him, see if he's OK."
+p220
+aV"He's in his room, Coach. He's refusing to come out."
+p221
+aVI knocked on the door.
+p222
+aa(lp223
+V"Rooh, come on out. I need to talk to you.
+p224
+aVI need to see if you're OK or if we need to go to the hospital."
+p225
+aa(lp226
+VHe came out.
+p227
+aVHe had a big gash on his head, a split lip,
+p228
+aVand he was physically shaken.
+p229
+aVI was looking at him,
+p230
+aVand I asked the boys to call for their mom,
+p231
+aVbecause I needed to go to the hospital with him.
+p232
+aVThey called for their mom.
+p233
+aVShe came out.
+p234
+aVI had my back turned to her, and she started screaming in Farsi.
+p235
+aVThe boys fell to the ground laughing.
+p236
+aVI was very confused,
+p237
+aVbecause there was nothing funny about this.
+p238
+aVThey explained to me that she said,
+p239
+aa(lp240
+V"You told me your coach was a Muslim and a woman."
+p241
+aVFrom behind, I didn't appear to be either to her.
+p242
+aa(lp243
+V(Laughter)
+p244
+aa(lp245
+V"I am Muslim," I said, turning to her.
+p246
+aV"A\u0161hadu \u02bean l\u0101 \u02beil\u0101ha \u02beilla (A)ll\u0101h,"
+p247
+aVreciting the Muslim declaration of faith.
+p248
+aVConfused,
+p249
+aVand perhaps maybe a little bit reassured,
+p250
+aVshe realized that yes,
+p251
+aVI, this American-acting, shorts-wearing, non-veiled woman,
+p252
+aVwas indeed a Muslim.
+p253
+aa(lp254
+VTheir family had fled the Taliban.
+p255
+aVHundreds of people in their village
+p256
+aVwere murdered.
+p257
+aVTheir father was taken in by the Taliban,
+p258
+aVonly to return a few months later, a shell of the man he once was.
+p259
+aVThe family escaped to Pakistan,
+p260
+aVand the two older boys, age eight and 10 at the time,
+p261
+aVwove rugs for 10 hours a day to provide for their family.
+p262
+aVThey were so excited when they found out that they had been approved
+p263
+aVto resettle in the United States,
+p264
+aVmaking them the lucky 0.1 percent who get to do that.
+p265
+aVThey had hit the jackpot.
+p266
+aa(lp267
+VTheir story is not unique.
+p268
+aVEvery refugee family I have worked with has had some version of this.
+p269
+aVI work with kids
+p270
+aVwho have seen their mothers raped, their fathers' fingers sliced off.
+p271
+aVOne kid saw a bullet put in his grandmother's head,
+p272
+aVbecause she refused to let the rebels take him to be a child soldier.
+p273
+aVTheir journeys are haunting.
+p274
+aVBut what I get to see every day is hope, resilience, determination,
+p275
+aVa love of life
+p276
+aVand appreciation for being able to rebuild their lives.
+p277
+aa(lp278
+VI was at the boys' apartment one night,
+p279
+aVwhen the mom came home after cleaning 18 hotel rooms in one day.
+p280
+aVShe sat down, and Noor rubbed her feet,
+p281
+aVsaying that he was going to take care of her once he graduated.
+p282
+aVShe smiled from exhaustion.
+p283
+aV"God is good. Life is good. We are lucky to be here."
+p284
+aa(lp285
+VIn the last two years, we have seen an escalating anti-refugee sentiment.
+p286
+aVIt's global.
+p287
+aVThe numbers continue to grow because we do nothing to prevent it
+p288
+aVand nothing to stop it.
+p289
+aVThe issue shouldn't be stopping refugees from coming into our countries.
+p290
+aVThe issue should be not forcing them to leave their own.
+p291
+aa(lp292
+V(Applause)
+p293
+aa(lp294
+VSorry.
+p295
+aa(lp296
+V(Applause)
+p297
+aa(lp298
+VHow much more suffering,
+p299
+aVhow much more suffering must we take?
+p300
+aVHow many more people need to be forced out of their homes
+p301
+aVbefore we say, "Enough!"?
+p302
+aVA hundred million?
+p303
+aVNot only do we shame, blame and reject them
+p304
+aVfor atrocities that they had absolutely nothing to do with,
+p305
+aVwe re-traumatize them,
+p306
+aVwhen we're supposed to be welcoming them into our countries.
+p307
+aVWe strip them of their dignity and treat them like criminals.
+p308
+aa(lp309
+VI had a student in my office a couple of weeks ago.
+p310
+aVShe's originally from Iraq.
+p311
+aVShe broke down crying.
+p312
+aa(lp313
+V"Why do they hate us?"
+p314
+aa(lp315
+V"Who hates you?"
+p316
+aa(lp317
+V"Everyone; everyone hates us because we are refugees,
+p318
+aVbecause we are Muslim."
+p319
+aa(lp320
+VIn the past, I was able to reassure my students
+p321
+aVthat the majority of the world does not hate refugees.
+p322
+aVBut this time I couldn't.
+p323
+aVI couldn't explain to her why someone tried to rip off her mother's hijab
+p324
+aVwhen they were grocery shopping,
+p325
+aVor why a player on an opposing team called her a terrorist
+p326
+aVand told her to go back where she came from.
+p327
+aVI couldn't reassure her
+p328
+aVthat her father's ultimate life sacrifice
+p329
+aVby serving in the United States military as an interpreter
+p330
+aVwould make her more valued as an American citizen.
+p331
+aa(lp332
+VWe take in so few refugees worldwide.
+p333
+aVWe resettle less than 0.1 percent.
+p334
+aVThat 0.1 percent benefits us more than them.
+p335
+aVIt dumbfounds me how the word "refugee" is considered something to be dirty,
+p336
+aVsomething to be ashamed of.
+p337
+aVThey have nothing to be ashamed of.
+p338
+aa(lp339
+VWe have seen advances in every aspect of our lives \u2014
+p340
+aVexcept our humanity.
+p341
+aVThere are 65.3 million people who have been forced out of their homes
+p342
+aVbecause of war \u2014
+p343
+aVthe largest number in history.
+p344
+aVWe are the ones who should be ashamed.
+p345
+aa(lp346
+VThank you.
+p347
+aa(lp348
+V(Applause)
+p349
+aasS'id'
+p350
+I2809
+sS'title'
+p351
+VDon't feel sorry for refugees -- believe in them
+p352
+s.

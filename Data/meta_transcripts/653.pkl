@@ -1,0 +1,754 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI want to start with a game. Okay?
+p4
+aVAnd to win this game,
+p5
+aVall you have to do is see the reality that's in front of you
+p6
+aVas it really is, all right?
+p7
+aVSo we have two panels here, of colored dots.
+p8
+aVAnd one of those dots is the same in the two panels.
+p9
+aVAnd you have to tell me which one.
+p10
+aa(lp11
+VNow, I narrowed it down
+p12
+aVto the gray one, the green one, and, say, the orange one.
+p13
+aVSo by a show of hands, we'll start with the easiest one.
+p14
+aVShow of hands: how many people think it's the gray one?
+p15
+aVReally? Okay.
+p16
+aVHow many people think it's the green one?
+p17
+aVAnd how many people think it's the orange one?
+p18
+aVPretty even split.
+p19
+aa(lp20
+VLet's find out what the reality is.
+p21
+aVHere is the orange one.
+p22
+aa(lp23
+V(Laughter)
+p24
+aa(lp25
+VHere is the green one.
+p26
+aVAnd here is the gray one.
+p27
+aa(lp28
+V(Laughter)
+p29
+aa(lp30
+VSo for all of you who saw that, you're complete realists.
+p31
+aVAll right?
+p32
+aa(lp33
+V(Laughter)
+p34
+aa(lp35
+VSo this is pretty amazing, isn't it?
+p36
+aVBecause nearly every living system
+p37
+aVhas evolved the ability to detect light in one way or another.
+p38
+aVSo for us, seeing color
+p39
+aVis one of the simplest things the brain does.
+p40
+aVAnd yet, even at this most fundamental level,
+p41
+aVcontext is everything.
+p42
+aVWhat I'm going to talk about is not that context is everything,
+p43
+aVbut why context is everything.
+p44
+aVBecause it's answering that question
+p45
+aVthat tells us not only why we see what we do,
+p46
+aVbut who we are as individuals,
+p47
+aVand who we are as a society.
+p48
+aa(lp49
+VBut first, we have to ask another question,
+p50
+aVwhich is, "What is color for?"
+p51
+aVAnd instead of telling you, I'll just show you.
+p52
+aVWhat you see here is a jungle scene,
+p53
+aVand you see the surfaces according to the amount of light
+p54
+aVthat those surfaces reflect.
+p55
+aVNow, can any of you see the predator that's about to jump out at you?
+p56
+aVAnd if you haven't seen it yet, you're dead, right?
+p57
+aa(lp58
+V(Laughter)
+p59
+aa(lp60
+VCan anyone see it? Anyone? No?
+p61
+aVNow let's see the surfaces
+p62
+aVaccording to the quality of light that they reflect.
+p63
+aVAnd now you see it.
+p64
+aa(lp65
+VSo, color enables us to see
+p66
+aVthe similarities and differences between surfaces,
+p67
+aVaccording to the full spectrum of light that they reflect.
+p68
+aVBut what you've just done
+p69
+aVis in many respects mathematically impossible.
+p70
+aVWhy?
+p71
+aVBecause, as Berkeley tells us,
+p72
+aVwe have no direct access to our physical world,
+p73
+aVother than through our senses.
+p74
+aVAnd the light that falls onto our eyes
+p75
+aVis determined by multiple things in the world,
+p76
+aVnot only the color of objects,
+p77
+aVbut also the color of their illumination,
+p78
+aVand the color of the space between us and those objects.
+p79
+aVYou vary any one of those parameters,
+p80
+aVand you'll change the color of the light that falls onto your eye.
+p81
+aa(lp82
+VThis is a huge problem,
+p83
+aVbecause it means that the same image
+p84
+aVcould have an infinite number of possible real-world sources.
+p85
+aVLet me show you what I mean.
+p86
+aVImagine that this is the back of your eye, okay?
+p87
+aVAnd these are two projections from the world.
+p88
+aVThey're identical in every single way.
+p89
+aVIdentical in shape, size, spectral content.
+p90
+aVThey are the same, as far as your eye is concerned.
+p91
+aVAnd yet they come from completely different sources.
+p92
+aVThe one on the right comes from a yellow surface,
+p93
+aVin shadow, oriented facing the left,
+p94
+aVviewed through a pinkish medium.
+p95
+aVThe one on the left comes from an orange surface,
+p96
+aVunder direct light, facing to the right,
+p97
+aVviewed through sort of a bluish medium.
+p98
+aVCompletely different meanings,
+p99
+aVgiving rise to the exact same retinal information.
+p100
+aVAnd yet it's only the retinal information that we get.
+p101
+aa(lp102
+VSo how on Earth do we even see?
+p103
+aVSo if you remember anything in this next 18 minutes,
+p104
+aVremember this:
+p105
+aVthat the light that falls onto your eye,
+p106
+aVsensory information, is meaningless,
+p107
+aVbecause it could mean literally anything.
+p108
+aVAnd what's true for sensory information is true for information generally.
+p109
+aVThere's no inherent meaning in information.
+p110
+aVIt's what we do with that information that matters.
+p111
+aa(lp112
+VSo, how do we see? Well, we see by learning to see.
+p113
+aVThe brain evolved the mechanisms for finding patterns,
+p114
+aVfinding relationships in information,
+p115
+aVand associating those relationships with a behavioral meaning,
+p116
+aVa significance, by interacting with the world.
+p117
+aVWe're very aware of this
+p118
+aVin the form of more cognitive attributes, like language.
+p119
+aVI'm going to give you some letter strings,
+p120
+aVand I want you to read them out for me, if you can.
+p121
+aa(lp122
+VAudience: "Can you read this?"
+p123
+aV"You are not reading this."
+p124
+aV"What are you reading?"
+p125
+aa(lp126
+VBeau Lotto: "What are you reading?" Half the letters are missing, right?
+p127
+aVThere's no a priori reason
+p128
+aVwhy an "H" has to go between that "W" and "A."
+p129
+aVBut you put one there. Why?
+p130
+aVBecause in the statistics of your past experience,
+p131
+aVit would have been useful to do so.
+p132
+aVSo you do so again.
+p133
+aVAnd yet you don't put a letter after that first "T."
+p134
+aVWhy? Because it wouldn't have been useful in the past.
+p135
+aVSo you don't do it again.
+p136
+aa(lp137
+VSo, let me show you how quickly our brains can redefine normality,
+p138
+aVeven at the simplest thing the brain does, which is color.
+p139
+aVSo if I could have the lights down up here.
+p140
+aVI want you to first notice that those two desert scenes are physically the same.
+p141
+aVOne is simply the flipping of the other.
+p142
+aVNow I want you to look at that dot
+p143
+aVbetween the green and the red.
+p144
+aVAnd I want you to stare at that dot. Don't look anywhere else.
+p145
+aVWe're going to look at it for about 30 seconds,
+p146
+aVwhich is a bit of a killer in an 18-minute talk.
+p147
+aa(lp148
+V(Laughter)
+p149
+aa(lp150
+VBut I really want you to learn.
+p151
+aVAnd I'll tell you \u2014 don't look anywhere else \u2014
+p152
+aVI'll tell you what's happening in your head.
+p153
+aVYour brain is learning,
+p154
+aVand it's learning that the right side of its visual field
+p155
+aVis under red illumination;
+p156
+aVthe left side of its visual field is under green illumination.
+p157
+aVThat's what it's learning. Okay?
+p158
+aVNow, when I tell you, I want you to look at the dot between the two desert scenes.
+p159
+aVSo why don't you do that now?
+p160
+aa(lp161
+V(Laughter)
+p162
+aa(lp163
+VCan I have the lights up again?
+p164
+aa(lp165
+VI take it from your response they don't look the same anymore, right?
+p166
+aa(lp167
+V(Applause)
+p168
+aa(lp169
+VWhy? Because your brain is seeing that same information
+p170
+aVas if the right one is still under red light,
+p171
+aVand the left one is still under green light.
+p172
+aVThat's your new normal.
+p173
+aVOkay? So, what does this mean for context?
+p174
+aVIt means I can take two identical squares,
+p175
+aVput them in light and dark surrounds,
+p176
+aVand the one on the dark surround looks lighter than on the light surround.
+p177
+aVWhat's significant is not simply the light and dark surrounds that matter.
+p178
+aVIt's what those light and dark surrounds meant for your behavior in the past.
+p179
+aa(lp180
+VSo I'll show you what I mean.
+p181
+aVHere we have that exact same illusion.
+p182
+aVWe have two identical tiles on the left,
+p183
+aVone in a dark surround, one in a light surround.
+p184
+aVAnd the same thing over on the right.
+p185
+aVNow, I'll reveal those two scenes,
+p186
+aVbut I'm not going to change anything within those boxes,
+p187
+aVexcept their meaning.
+p188
+aVAnd see what happens to your perception.
+p189
+aa(lp190
+VNotice that on the left
+p191
+aVthe two tiles look nearly completely opposite:
+p192
+aVone very white and one very dark, right?
+p193
+aVWhereas on the right, the two tiles look nearly the same.
+p194
+aVAnd yet there is still one on a dark surround,
+p195
+aVand one on a light surround.
+p196
+aVWhy?
+p197
+aVBecause if the tile in that shadow were in fact in shadow,
+p198
+aVand reflecting the same amount of light to your eye
+p199
+aVas the one outside the shadow,
+p200
+aVit would have to be more reflective \u2014 just the laws of physics.
+p201
+aVSo you see it that way.
+p202
+aa(lp203
+VWhereas on the right, the information is consistent
+p204
+aVwith those two tiles being under the same light.
+p205
+aVIf they're under the same light reflecting the same amount of light to your eye,
+p206
+aVthen they must be equally reflective.
+p207
+aVSo you see it that way.
+p208
+aVWhich means we can bring all this information together
+p209
+aVto create some incredibly strong illusions.
+p210
+aa(lp211
+VThis is one I made a few years ago.
+p212
+aVAnd you'll notice you see a dark brown tile at the top,
+p213
+aVand a bright orange tile at the side.
+p214
+aVThat is your perceptual reality.
+p215
+aVThe physical reality is that those two tiles are the same.
+p216
+aa(lp217
+VHere you see four gray tiles on your left,
+p218
+aVseven gray tiles on the right.
+p219
+aVI'm not going to change those tiles at all,
+p220
+aVbut I'm going to reveal the rest of the scene.
+p221
+aVAnd see what happens to your perception.
+p222
+aVThe four blue tiles on the left are gray.
+p223
+aVThe seven yellow tiles on the right are also gray.
+p224
+aVThey are the same. Okay?
+p225
+aVDon't believe me? Let's watch it again.
+p226
+aa(lp227
+VWhat's true for color is also true for complex perceptions of motion.
+p228
+aVSo, here we have \u2014
+p229
+aVlet's turn this around \u2014 a diamond.
+p230
+aVAnd what I'm going to do is, I'm going to hold it here,
+p231
+aVand I'm going to spin it.
+p232
+aVAnd for all of you, you'll see it probably spinning this direction.
+p233
+aVNow I want you to keep looking at it.
+p234
+aVMove your eyes around, blink, maybe close one eye.
+p235
+aVAnd suddenly it will flip, and start spinning the opposite direction.
+p236
+aVYes? Raise your hand if you got that. Yes?
+p237
+aVKeep blinking.
+p238
+aVEvery time you blink, it will switch.
+p239
+aVSo I can ask you, which direction is it rotating?
+p240
+aVHow do you know?
+p241
+aVYour brain doesn't know, because both are equally likely.
+p242
+aVSo depending on where it looks,
+p243
+aVit flips between the two possibilities.
+p244
+aa(lp245
+VAre we the only ones that see illusions?
+p246
+aVThe answer to this question is no.
+p247
+aVEven the beautiful bumblebee,
+p248
+aVwith its mere one million brain cells,
+p249
+aVwhich is 250 times fewer cells than you have in one retina,
+p250
+aVsees illusions, does the most complicated things
+p251
+aVthat even our most sophisticated computers can't do.
+p252
+aVSo in my lab we work on bumblebees,
+p253
+aVbecause we can completely control their experience,
+p254
+aVand see how it alters the architecture of their brain.
+p255
+aVWe do this in what we call the Bee Matrix.
+p256
+aa(lp257
+VHere you have the hive.
+p258
+aVYou can see the queen bee, the large bee in the middle.
+p259
+aVThose are her daughters, the eggs.
+p260
+aVThey go back and forth between this hive and the arena, via this tube.
+p261
+aVYou'll see one of the bees come out here.
+p262
+aVYou see how she has a little number on her?
+p263
+aVThere's another one coming out, she also has a number on her.
+p264
+aVNow, they're not born that way, right?
+p265
+aVWe pull them out, put them in the fridge, and they fall asleep.
+p266
+aVThen you can superglue little numbers on them.
+p267
+aa(lp268
+V(Laughter)
+p269
+aa(lp270
+VAnd now, in this experiment they get a reward if they go to the blue flowers.
+p271
+aVThey land on the flower,
+p272
+aVstick their tongue in there, called a proboscis, and drink sugar water.
+p273
+aVShe's drinking a glass of water that's about that big to you and I,
+p274
+aVwill do that about three times, then fly.
+p275
+aVAnd sometimes they learn not to go to the blue,
+p276
+aVbut to go where the other bees go.
+p277
+aVSo they copy each other.
+p278
+aVThey can count to five. They can recognize faces.
+p279
+aVAnd here she comes down the ladder.
+p280
+aVAnd she'll come into the hive, find an empty honey pot,
+p281
+aVand throw up, and that's honey.
+p282
+aa(lp283
+V(Laughter)
+p284
+aa(lp285
+VNow remember, she's supposed to be going to the blue flowers,
+p286
+aVbut what are these bees doing in the upper right corner?
+p287
+aVIt looks like they're going to green flowers.
+p288
+aVNow, are they getting it wrong?
+p289
+aVAnd the answer to the question is no. Those are actually blue flowers.
+p290
+aVBut those are blue flowers under green light.
+p291
+aVSo they're using the relationships between the colors to solve the puzzle,
+p292
+aVwhich is exactly what we do.
+p293
+aa(lp294
+VSo, illusions are often used,
+p295
+aVespecially in art, in the words of a more contemporary artist,
+p296
+aV"to demonstrate the fragility of our senses."
+p297
+aVOkay, this is complete rubbish.
+p298
+aVThe senses aren't fragile. And if they were, we wouldn't be here.
+p299
+aVInstead, color tells us something completely different,
+p300
+aVthat the brain didn't actually evolve to see the world the way it is.
+p301
+aVWe can't.
+p302
+aVInstead, the brain evolved to see the world
+p303
+aVthe way it was useful to see in the past.
+p304
+aVAnd how we see is by continually redefining normality.
+p305
+aa(lp306
+VSo, how can we take this incredible capacity of plasticity of the brain
+p307
+aVand get people to experience their world differently?
+p308
+aVWell, one of the ways we do it in my lab and studio
+p309
+aVis we translate the light into sound,
+p310
+aVand we enable people to hear their visual world.
+p311
+aVAnd they can navigate the world using their ears.
+p312
+aa(lp313
+VHere's David on the right, and he's holding a camera.
+p314
+aVOn the left is what his camera sees.
+p315
+aVAnd you'll see there's a faint line going across that image.
+p316
+aVThat line is broken up into 32 squares.
+p317
+aVIn each square, we calculate the average color.
+p318
+aVAnd then we just simply translate that into sound.
+p319
+aVAnd now he's going to turn around,
+p320
+aVclose his eyes,
+p321
+aVand find a plate on the ground with his eyes closed.
+p322
+aa(lp323
+V(Continuous sound)
+p324
+aa(lp325
+V(Sound changes momentarily)
+p326
+aa(lp327
+V(Sound changes momentarily)
+p328
+aa(lp329
+V(Sound changes momentarily)
+p330
+aa(lp331
+V(Sound changes momentarily)
+p332
+aa(lp333
+V(Sound changes momentarily)
+p334
+aa(lp335
+VBeau Lotto: He finds it. Amazing, right?
+p336
+aVSo not only can we create a prosthetic for the visually impaired,
+p337
+aVbut we can also investigate
+p338
+aVhow people literally make sense of the world.
+p339
+aVBut we can also do something else.
+p340
+aVWe can also make music with color.
+p341
+aVSo, working with kids,
+p342
+aVthey created images,
+p343
+aVthinking about what might the images you see
+p344
+aVsound like if we could listen to them.
+p345
+aVAnd then we translated these images.
+p346
+aVAnd this is one of those images.
+p347
+aVAnd this is a six-year-old child composing a piece of music
+p348
+aVfor a 32-piece orchestra.
+p349
+aVAnd this is what it sounds like.
+p350
+aa(lp351
+V(Electronic representation of orchestral music)
+p352
+aa(lp353
+VSo, a six-year-old child. Okay?
+p354
+aa(lp355
+VNow, what does all this mean?
+p356
+aVWhat this suggests is that no one is an outside observer of nature, okay?
+p357
+aVWe're not defined by our central properties,
+p358
+aVby the bits that make us up.
+p359
+aVWe're defined by our environment and our interaction with that environment,
+p360
+aVby our ecology.
+p361
+aVAnd that ecology is necessarily relative, historical and empirical.
+p362
+aVSo, what I'd like to finish with is this over here.
+p363
+aVBecause what I've been trying to do is really celebrate uncertainty.
+p364
+aVBecause I think only through uncertainty is there potential for understanding.
+p365
+aa(lp366
+VSo, if some of you are still feeling a bit too certain,
+p367
+aVI'd like to do this one.
+p368
+aVSo, if we have the lights down.
+p369
+aVAnd what we have here \u2014
+p370
+aVCan everyone see 25 purple surfaces on your left,
+p371
+aVand 25, call it yellowish, surfaces on your right?
+p372
+aVSo now, what I want to do,
+p373
+aVI'm going to put the middle nine surfaces here
+p374
+aVunder yellow illumination,
+p375
+aVby simply putting a filter behind them.
+p376
+aVNow you can see that changes the light that's coming through there, right?
+p377
+aVBecause now the light is going through a yellowish filter
+p378
+aVand then a purplish filter.
+p379
+aVI'm going to do the opposite on the left here.
+p380
+aVI'm going to put the middle nine under a purplish light.
+p381
+aa(lp382
+VNow, some of you will have noticed that the consequence
+p383
+aVis that the light coming through those middle nine on the right,
+p384
+aVor your left, is exactly the same as the light
+p385
+aVcoming through the middle nine on your right.
+p386
+aVAgreed? Yes?
+p387
+aVOkay. So they are physically the same.
+p388
+aVLet's pull the covers off.
+p389
+aVNow remember \u2014
+p390
+aVyou know that the middle nine are exactly the same.
+p391
+aVDo they look the same?
+p392
+aVNo.
+p393
+aVThe question is, "Is that an illusion?"
+p394
+aVAnd I'll leave you with that.
+p395
+aa(lp396
+VSo, thank you very much.
+p397
+aa(lp398
+V(Laughter)
+p399
+aa(lp400
+V(Applause)
+p401
+aasS'id'
+p402
+I653
+sS'title'
+p403
+VOptical illusions show how we see
+p404
+s.

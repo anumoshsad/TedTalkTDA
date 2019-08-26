@@ -1,0 +1,199 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI was born and raised in Sierra Leone,
+p4
+aVa small and very beautiful country
+p5
+aVin West Africa,
+p6
+aVa country rich both in physical resources
+p7
+aVand creative talent.
+p8
+aa(lp9
+VHowever, Sierra Leone is infamous
+p10
+aVfor a decade-long rebel war in the '90s
+p11
+aVwhen entire villages were burnt down.
+p12
+aVAn estimated 8,000 men, women and children
+p13
+aVhad their arms and legs amputated during this time.
+p14
+aVAs my family and I ran for safety
+p15
+aVwhen I was about 12 from one of those attacks,
+p16
+aVI resolved that I would do everything I could
+p17
+aVto ensure that my own children
+p18
+aVwould not go through the  same experiences we had.
+p19
+aVThey would, in fact, be part of a Sierra Leone
+p20
+aVwhere war and amputation
+p21
+aVwere no longer a strategy for gaining power.
+p22
+aa(lp23
+VAs I watched people who I knew, loved ones,
+p24
+aVrecover from this devastation,
+p25
+aVone thing that deeply troubled me
+p26
+aVwas that many of the amputees in the country
+p27
+aVwould not use their prostheses.
+p28
+aVThe reason, I would come to find out,
+p29
+aVwas that their prosthetic sockets
+p30
+aVwere painful because they did not fit well.
+p31
+aVThe prosthetic socket is the part
+p32
+aVin which the amputee inserts their residual limb,
+p33
+aVand which connects to the prosthetic ankle.
+p34
+aVEven in the developed world,
+p35
+aVit takes a period of three weeks to often years
+p36
+aVfor a patient to get a comfortable socket, if ever.
+p37
+aVProsthetists still use conventional processes
+p38
+aVlike molding and casting
+p39
+aVto create single-material prosthetic sockets.
+p40
+aVSuch sockets often leave intolerable amounts
+p41
+aVof pressure on the limbs of the patient,
+p42
+aVleaving them with pressure sores and blisters.
+p43
+aVIt does not matter
+p44
+aVhow powerful your prosthetic ankle is.
+p45
+aVIf your prosthetic socket is uncomfortable,
+p46
+aVyou will not use your leg,
+p47
+aVand that is just simply unacceptable in our age.
+p48
+aa(lp49
+VSo one day, when I met professor Hugh Herr
+p50
+aVabout two and a half years ago,
+p51
+aVand he asked me if I knew  how to solve this problem,
+p52
+aVI said, "No, not yet,
+p53
+aVbut I would love to figure it out."
+p54
+aVAnd so, for my Ph.D. at the MIT Media Lab,
+p55
+aVI designed custom prosthetic sockets
+p56
+aVquickly and cheaply
+p57
+aVthat are more comfortable
+p58
+aVthan conventional prostheses.
+p59
+aVI used magnetic resonance imaging
+p60
+aVto capture the actual shape of the patient's anatomy,
+p61
+aVthen use finite element modeling to better predict
+p62
+aVthe internal stresses and strains
+p63
+aVon the normal forces,
+p64
+aVand then create a prosthetic socket for manufacture.
+p65
+aVWe use a 3D printer to create
+p66
+aVa multi-material prosthetic socket
+p67
+aVwhich relieves pressure where needed
+p68
+aVon the anatomy of the patient.
+p69
+aVIn short, we're using data
+p70
+aVto make novel sockets quickly and cheaply.
+p71
+aVIn a recent trial we just wrapped up
+p72
+aVat the Media Lab,
+p73
+aVone of our patients, a U.S. veteran
+p74
+aVwho has been an amputee for about 20 years
+p75
+aVand worn dozens of legs,
+p76
+aVsaid of one of our printed parts,
+p77
+aV"It's so soft, it's like walking on pillows,
+p78
+aVand it's effing sexy."
+p79
+aV(Laughter)
+p80
+aa(lp81
+VDisability in our age
+p82
+aVshould not prevent anyone
+p83
+aVfrom living meaningful lives.
+p84
+aVMy hope and desire is that the tools and processes
+p85
+aVwe develop in our research group
+p86
+aVcan be used to bring highly functional prostheses
+p87
+aVto those who need them.
+p88
+aVFor me, a place to begin healing the souls
+p89
+aVof those affected by war and disease
+p90
+aVis by creating comfortable and affordable interfaces
+p91
+aVfor their bodies.
+p92
+aVWhether it's in Sierra Leone or in Boston,
+p93
+aVI hope this not only restores
+p94
+aVbut indeed transforms their sense of human potential.
+p95
+aa(lp96
+VThank you very much.
+p97
+aa(lp98
+V(Applause)
+p99
+aasS'id'
+p100
+I1971
+sS'title'
+p101
+VThe sore problem of prosthetic limbs
+p102
+s.

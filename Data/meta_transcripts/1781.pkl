@@ -1,0 +1,219 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThroughout the history of computers
+p4
+aVwe've been striving to shorten the gap between us
+p5
+aVand digital information,
+p6
+aVthe gap between our physical world
+p7
+aVand the world in the screen
+p8
+aVwhere our imagination can go wild.
+p9
+aVAnd this gap has become shorter,
+p10
+aVshorter, and even shorter,
+p11
+aVand now this gap is shortened down
+p12
+aVto less than a millimeter,
+p13
+aVthe thickness of a touch-screen glass,
+p14
+aVand the power of computing
+p15
+aVhas become accessible to everyone.
+p16
+aVBut I wondered, what if there could be no boundary at all?
+p17
+aVI started to imagine what this would look like.
+p18
+aVFirst, I created this tool
+p19
+aVwhich penetrates into the digital space,
+p20
+aVso when you press it hard on the screen,
+p21
+aVit transfers its physical body into pixels.
+p22
+aVDesigners can materialize their ideas
+p23
+aVdirectly in 3D,
+p24
+aVand surgeons can practice on virtual organs
+p25
+aVunderneath the screen.
+p26
+aVSo with this tool, this boundary has been broken.
+p27
+aVBut our two hands still remain outside the screen.
+p28
+aVHow can you reach inside and interact
+p29
+aVwith the digital information
+p30
+aVusing the full dexterity of our hands?
+p31
+aVAt Microsoft Applied Sciences,
+p32
+aValong with my mentor Cati Boulanger,
+p33
+aVI redesigned the computer
+p34
+aVand turned a little space above the keyboard
+p35
+aVinto a digital workspace.
+p36
+aVBy combining a transparent display and depth cameras
+p37
+aVfor sensing your fingers and face,
+p38
+aVnow you can lift up your hands from the keyboard
+p39
+aVand reach inside this 3D space
+p40
+aVand grab pixels with your bare hands.
+p41
+aV(Applause)
+p42
+aVBecause windows and files have a position in the real space,
+p43
+aVselecting them is as easy as grabbing a book off your shelf.
+p44
+aVThen you can flip through this book
+p45
+aVwhile highlighting the lines, words
+p46
+aVon the virtual touch pad below each floating window.
+p47
+aVArchitects can stretch or rotate the models
+p48
+aVwith their two hands directly.
+p49
+aVSo in these examples,
+p50
+aVwe are reaching into the digital world.
+p51
+aVBut how about reversing its role
+p52
+aVand having the digital information reach us instead?
+p53
+aVI'm sure many of us have had the experience
+p54
+aVof buying and returning items online.
+p55
+aVBut now you don't have to worry about it.
+p56
+aVWhat I got here is an online augmented fitting room.
+p57
+aVThis is a view that you get from
+p58
+aVhead-mounted or see-through display
+p59
+aVwhen the system understands the geometry of your body.
+p60
+aVTaking this idea further, I started to think,
+p61
+aVinstead of just seeing these pixels in our space,
+p62
+aVhow can we make it physical
+p63
+aVso that we can touch and feel it?
+p64
+aVWhat would such a future look like?
+p65
+aVAt MIT Media Lab, along with my advisor Hiroshi Ishii
+p66
+aVand my collaborator Rehmi Post,
+p67
+aVwe created this one physical pixel.
+p68
+aVWell, in this case, this spherical magnet
+p69
+aVacts like a 3D pixel in our space,
+p70
+aVwhich means that both computers and people
+p71
+aVcan move this object to anywhere
+p72
+aVwithin this little 3D space.
+p73
+aVWhat we did was essentially canceling gravity
+p74
+aVand controlling the movement by combining
+p75
+aVmagnetic levitation and mechanical actuation
+p76
+aVand sensing technologies.
+p77
+aVAnd by digitally programming the object,
+p78
+aVwe are liberating the object from constraints
+p79
+aVof time and space, which means that now,
+p80
+aVhuman motions can be recorded and played back
+p81
+aVand left permanently in the physical world.
+p82
+aVSo choreography can be taught physically over distance
+p83
+aVand Michael Jordan's famous shooting can be replicated
+p84
+aVover and over as a physical reality.
+p85
+aVStudents can use this as a tool
+p86
+aVto learn about the complex concepts
+p87
+aVsuch as planetary motion, physics,
+p88
+aVand unlike computer screens or textbooks,
+p89
+aVthis is a real, tangible experience
+p90
+aVthat you can touch and feel, and it's very powerful.
+p91
+aVAnd what's more exciting
+p92
+aVthan just turning what's currently in the computer physical
+p93
+aVis to start imagining how programming the world
+p94
+aVwill alter even our daily physical activities.
+p95
+aV(Laughter)
+p96
+aVAs you can see, the digital information
+p97
+aVwill not just show us something
+p98
+aVbut it will start directly acting upon us
+p99
+aVas a part of our physical surroundings
+p100
+aVwithout disconnecting ourselves from our world.
+p101
+aVToday, we started by talking about the boundary,
+p102
+aVbut if we remove this boundary,
+p103
+aVthe only boundary left is our imagination.
+p104
+aVThank you.
+p105
+aV(Applause)
+p106
+aasS'id'
+p107
+I1781
+sS'title'
+p108
+VReach into the computer and grab a pixel
+p109
+s.

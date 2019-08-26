@@ -1,0 +1,805 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo I am a surgeon who studies creativity,
+p4
+aVand I have never had a patient tell me,
+p5
+aV"I really want you to be creative during surgery,"
+p6
+aVand so I guess there's a little bit of irony to it.
+p7
+aVI will say though that, after having done surgery a lot,
+p8
+aVit's similar to playing a musical instrument.
+p9
+aVAnd for me, this deep and enduring fascination with sound
+p10
+aVis what led me to both be a surgeon
+p11
+aVand to study the science of sound, particularly music.
+p12
+aVI'm going to talk over the next few minutes
+p13
+aVabout my career
+p14
+aVin terms of how I'm able to study music
+p15
+aVand try to grapple with all these questions
+p16
+aVof how the brain is able to be creative.
+p17
+aVI've done most of this work at Johns Hopkins University,
+p18
+aVand at the National Institute of Health where I was previously.
+p19
+aVI'll go over some science experiments and cover three musical experiments.
+p20
+aa(lp21
+VI will start off by playing a video for you.
+p22
+aVThis video is of Keith Jarrett, who's a well-known jazz improviser
+p23
+aVand probably the most well-known, iconic example
+p24
+aVof someone who takes improvisation to a higher level.
+p25
+aVAnd he'll improvise entire concerts off the top of his head,
+p26
+aVand he'll never play it exactly the same way again,
+p27
+aVso as a form of intense creativity,
+p28
+aVI think this is a great example.
+p29
+aVAnd so why don't we go and click the video.
+p30
+aa(lp31
+V(Music)
+p32
+aa(lp33
+V(Music ends)
+p34
+aa(lp35
+VIt's really a remarkable thing that happens there.
+p36
+aVI've always as a listener, as a fan,
+p37
+aVI listen to that, and I'm astounded.
+p38
+aVI think \u2014 how can this possibly be?
+p39
+aVHow can the brain generate that much information,
+p40
+aVthat much music, spontaneously?
+p41
+aVAnd so I set out with this concept, scientifically,
+p42
+aVthat artistic creativity, it's magical, but it's not magic,
+p43
+aVmeaning that it's a product of the brain.
+p44
+aVThere's not too many brain-dead people creating art.
+p45
+aVWith this notion that artistic creativity is in fact a neurologic product,
+p46
+aVI took this thesis that we could study it
+p47
+aVjust like we study any other complex neurologic process,
+p48
+aVand there are subquestions that I put there.
+p49
+aVIs it possible to study creativity scientifically?
+p50
+aVAnd I think that's a good question.
+p51
+aVAnd I'll tell you that most scientific studies of music,
+p52
+aVthey're very dense,
+p53
+aVand when you go through them,
+p54
+aVit's very hard to recognize the music in it.
+p55
+aVIn fact, they seem to be unmusical entirely
+p56
+aVand to miss the point of the music.
+p57
+aa(lp58
+VThis brings the second question:
+p59
+aVWhy should scientists study creativity?
+p60
+aVMaybe we're not the right people to do it.
+p61
+aa(lp62
+V(Laughter)
+p63
+aa(lp64
+VWell it may be, but I will say that, from a scientific perspective,
+p65
+aVwe talked a lot about innovation today,
+p66
+aVthe science of innovation,
+p67
+aVhow much we understand about how the brain is able to innovate
+p68
+aVis in its infancy,
+p69
+aVand truly, we know very little about how we are able to be creative.
+p70
+aVI think that we're going to see,
+p71
+aVover the next 10, 20, 30 years,
+p72
+aVa real science of creativity that's burgeoning
+p73
+aVand is going to flourish,
+p74
+aVBecause we now have new methods that can enable us
+p75
+aVto take this process like complex jazz improvisation,
+p76
+aVand study it rigorously.
+p77
+aVSo it gets down to the brain.
+p78
+aVAll of us have this remarkable brain,
+p79
+aVwhich is poorly understood, to say the least.
+p80
+aVI think that neuroscientists have more questions than answers,
+p81
+aVand I'm not going to give you answers today,
+p82
+aVjust ask a lot of questions.
+p83
+aa(lp84
+VAnd that's what I do in my lab.
+p85
+aVI ask questions about what is the brain doing to enable us to do this.
+p86
+aVThis is the main method that I use. This is functional MRI.
+p87
+aVIf you've been in an MRI scanner, it's very much the same,
+p88
+aVbut this one is outfitted in a special way to not just take pictures of your brain,
+p89
+aVbut to also take pictures of active areas of the brain.
+p90
+aVThe way that's done is by the following:
+p91
+aVThere's something called BOLD imaging,
+p92
+aVwhich is Blood Oxygen Level Dependent imaging.
+p93
+aVWhen you're in an fMRI scanner, you're in a big magnet
+p94
+aVthat's aligning your molecules in certain areas.
+p95
+aVWhen an area of the brain is active, meaning a neural area is active,
+p96
+aVit gets blood flow shunted to that area.
+p97
+aVThat blood flow causes an increase in local blood to that area
+p98
+aVwith a deoxyhemoglobin change in concentration.
+p99
+aVDeoxyhemoglobin can be detected by MRI,
+p100
+aVwhereas oxyhemoglobin can't.
+p101
+aVSo through this method of inference \u2014
+p102
+aVand we're measuring blood flow, not neural activity \u2014
+p103
+aVwe say that an area of the brain that's getting more blood
+p104
+aVwas active during a particular task, and that's the crux of how fMRI works.
+p105
+aVAnd it's been used since the '90s to study really complex processes.
+p106
+aa(lp107
+VI'm going to review a study that I did, which was jazz in an fMRI scanner.
+p108
+aVIt was done with a colleague, Alan Braun, at the NIH.
+p109
+aVThis is a short video of how we did this project.
+p110
+aa(lp111
+V(Video) Charles Limb: This is a plastic MIDI piano keyboard
+p112
+aVthat we use for the jazz experiments.
+p113
+aVAnd it's a 35-key keyboard
+p114
+aVdesigned to fit both inside the scanner,
+p115
+aVbe magnetically safe,
+p116
+aVhave minimal interference that would contribute to any artifact,
+p117
+aVand have this cushion so that it can rest on the players' legs
+p118
+aVwhile they're lying down in the scanner, playing on their back.
+p119
+aVIt works like this \u2014 this doesn't actually produce any sound.
+p120
+aVIt sends out what's called a MIDI signal \u2014
+p121
+aVor a Musical Instrument Digital Interface \u2014
+p122
+aVthrough these wires into the box and then the computer,
+p123
+aVwhich then trigger high-quality piano samples like this.
+p124
+aa(lp125
+V(Music)
+p126
+aa(lp127
+V(Music)
+p128
+aa(lp129
+V(Music ends)
+p130
+aa(lp131
+VOK, so it works.
+p132
+aVAnd so through this piano keyboard,
+p133
+aVwe have the means to take a musical process and study it.
+p134
+aVSo what do you do now that you have this cool piano keyboard?
+p135
+aVYou can't just say, "It's great we have a keyboard."
+p136
+aVWe have to come up with a scientific experiment.
+p137
+aVThe experiment really rests on the following:
+p138
+aVWhat happens in the brain during something that's memorized and over-learned,
+p139
+aVand what happens in the brain during something
+p140
+aVthat is spontaneously generated, or improvised,
+p141
+aVin a way that's matched motorically
+p142
+aVand in terms of lower-level sensory motor features?
+p143
+aa(lp144
+VI have here what we call the paradigms.
+p145
+aVThere's a scale paradigm, which is playing a scale up and down, memorized,
+p146
+aVthen there's improvising on a scale,
+p147
+aVquarter notes, metronome, right hand \u2014
+p148
+aVscientifically very safe,
+p149
+aVbut musically really boring.
+p150
+aVThen there's the bottom one, which is called the jazz paradigm.
+p151
+aVSo we brought professional jazz players to the NIH,
+p152
+aVand we had them memorize this piece of music on the lower-left,
+p153
+aVwhich is what you heard me playing \u2014
+p154
+aVand we had them improvise to the same chord changes.
+p155
+aVAnd if you can hit that lower-right sound icon,
+p156
+aVthat's an example of what was recorded in the scanner.
+p157
+aa(lp158
+V(Music)
+p159
+aa(lp160
+V(Music ends)
+p161
+aa(lp162
+VIn the end, it's not the most natural environment,
+p163
+aVbut they're able to play real music.
+p164
+aVAnd I've listened to that solo 200 times,
+p165
+aVand I still like it.
+p166
+aVAnd the musicians were comfortable in the end.
+p167
+aVWe first measured the number of notes.
+p168
+aVWere they playing more notes when they were improvising?
+p169
+aVThat was not what was going on.
+p170
+aVAnd then we looked at the brain activity.
+p171
+aVI will try to condense this for you.
+p172
+aVThese are contrast maps that are showing subtractions between what changes
+p173
+aVwhen you're improvising vs. when you're doing something memorized.
+p174
+aVIn red is an area that's active in the prefrontal cortex,
+p175
+aVthe frontal lobe of the brain,
+p176
+aVand in blue is this area that was deactivated.
+p177
+aVSo we had this focal area called the medial prefrontal cortex
+p178
+aVthat went way up in activity.
+p179
+aVWe had this broad patch of area called the lateral prefrontal cortex
+p180
+aVthat went way down in activity,
+p181
+aVI'll summarize that for you.
+p182
+aa(lp183
+VThese are multifunctional areas of the brain,
+p184
+aVthese are not the jazz areas of the brain.
+p185
+aVThey do a whole host of things
+p186
+aVthat have to do with self-reflection,
+p187
+aVintrospection, working memory etc.
+p188
+aVReally, consciousness is seated in the frontal lobe.
+p189
+aVBut we have this combination
+p190
+aVof an area that's thought to be involved in self-monitoring, turning off,
+p191
+aVand this area that's thought to be autobiographical,
+p192
+aVor self-expressive, turning on.
+p193
+aVWe think, at least in this preliminary \u2014
+p194
+aVit's one study; it's probably wrong, but it's one study \u2014
+p195
+aa(lp196
+V(Laughter)
+p197
+aa(lp198
+Vwe think that at least a reasonable hypothesis
+p199
+aVis that, to be creative,
+p200
+aVyou should have this weird dissociation in your frontal lobe.
+p201
+aVOne area turns on, and a big area shuts off,
+p202
+aVso that you're not inhibited, you're willing to make mistakes,
+p203
+aVso that you're not constantly shutting down
+p204
+aVall of these new generative impulses.
+p205
+aVNow a lot of people know that music is not always a solo activity \u2014
+p206
+aVsometimes it's done communicatively.
+p207
+aa(lp208
+VThe next question was:
+p209
+aVWhat happens when musicians are trading back and forth,
+p210
+aVsomething called "trading fours,"
+p211
+aVwhich is something they do normally in a jazz experiment.
+p212
+aVSo this is a 12-bar blues,
+p213
+aVand I've broken it down into four-bar groups,
+p214
+aVso you would know how you would trade.
+p215
+aVWe brought a musician into the scanner, same way,
+p216
+aVhad them memorize this melody
+p217
+aVthen had another musician out in the control room
+p218
+aVtrading back and forth interactively.
+p219
+aa(lp220
+VSo this is a musician, Mike Pope,
+p221
+aVone of the world's best bassists and a fantastic piano player.
+p222
+aa(lp223
+V(Music)
+p224
+aa(lp225
+VHe's now playing the piece that we just saw
+p226
+aVa little better than I wrote it.
+p227
+aa(lp228
+V(Video) CL: Mike, come on in.
+p229
+aa(lp230
+VMike Pope: May the force be with you.
+p231
+aa(lp232
+VNurse: Nothing in your pockets, Mike?
+p233
+aa(lp234
+VMP: No. Nothing's in my pockets.
+p235
+aa(lp236
+VCL: You have to have the right attitude to agree to do it.
+p237
+aa(lp238
+V(Laughter)
+p239
+aa(lp240
+VIt's kind of fun, actually.
+p241
+aa(lp242
+V(Music)
+p243
+aa(lp244
+VNow we're playing back and forth.
+p245
+aVHe's in there. You can see his legs up there.
+p246
+aa(lp247
+V(Music)
+p248
+aa(lp249
+VAnd then I'm in the control room here, playing back and forth.
+p250
+aa(lp251
+V(Music)
+p252
+aa(lp253
+V(Music ends)
+p254
+aa(lp255
+V(Video) Mike Pope: This is a pretty good representation
+p256
+aVof what it's like.
+p257
+aVAnd it's good that it's not too quick.
+p258
+aVThe fact that we do it over and over again
+p259
+aVlets you acclimate to your surroundings.
+p260
+aVSo the hardest thing for me was the kinesthetic thing,
+p261
+aVlooking at my hands through two mirrors,
+p262
+aVlaying on my back,
+p263
+aVand not able to move at all except for my hand.
+p264
+aVThat was challenging.
+p265
+aVBut again \u2014
+p266
+aVthere were moments, for sure \u2014
+p267
+aa(lp268
+V(Laughter)
+p269
+aa(lp270
+Vthere were moments of real, honest-to-God musical interplay, for sure.
+p271
+aa(lp272
+VCL: At this point, I'll take a few moments.
+p273
+aVSo what you're seeing here \u2014
+p274
+aVand I'm doing a cardinal sin in science,
+p275
+aVwhich is to show you preliminary data.
+p276
+aVThis is one subject's data.
+p277
+aVThis is, in fact, Mike Pope's data.
+p278
+aVSo what am I showing you here?
+p279
+aVWhen he was trading fours with me, improvising vs. memorized,
+p280
+aVhis language areas lit up, his Broca's area,
+p281
+aVin the inferior frontal gyrus on the left.
+p282
+aVHe had it also homologous on the right.
+p283
+aVThis is an area thought to be involved in expressive communication.
+p284
+aVThis whole notion that music is a language \u2014
+p285
+aVmaybe there's a neurologic basis to it after all,
+p286
+aVand we can see it when two musicians are having a musical conversation.
+p287
+aVSo we've done this on eight subjects now,
+p288
+aVand we're getting all the data together,
+p289
+aVhopefully we'll have something to say about it meaningfully.
+p290
+aa(lp291
+VNow when I think about improvisation and the language, what's next?
+p292
+aVRap, of course, rap \u2014 freestyle.
+p293
+aVI've always been fascinated by freestyle.
+p294
+aVAnd let's play this video.
+p295
+aa(lp296
+V(Video) Mos Def: Brown skin I be, standing five-ten I be
+p297
+aVRockin' it when I be, in your vicinity
+p298
+aVWhole-style synergy, recognize symmetry
+p299
+aVGo and try to injure me, broke 'em down chemically
+p300
+aVAin't the number 10 MC, talk about how been I be
+p301
+aVStyled it like Kennedy, late like a 10 to three
+p302
+aVWhen I say when I be, girls say bend that key cut
+p303
+aa(lp304
+VCL: So there's a lot of analogy
+p305
+aVbetween what takes place in freestyle rap and jazz.
+p306
+aVThere are a lot of correlates between the two forms of music,
+p307
+aVI think, in different time periods, in lot of ways,
+p308
+aVrap serves the same social function that jazz used to serve.
+p309
+aVSo how do you study rap scientifically?
+p310
+aVAnd my colleagues think I'm crazy, but I think it's very viable.
+p311
+aVThis is what you do:
+p312
+aVYou have a freestyle artist come and memorize a rap
+p313
+aVthat you write for them,
+p314
+aVthat they've never heard before, and then you have them freestyle.
+p315
+aVSo I told my lab members that I would rap for TED,
+p316
+aVand they said, "No, you won't."
+p317
+aVAnd then I thought \u2014
+p318
+aa(lp319
+V(Laughter)
+p320
+aa(lp321
+V(Applause)
+p322
+aa(lp323
+VBut here's the thing.
+p324
+aVWith this big screen, you can all rap with me. OK?
+p325
+aVSo what we had them do
+p326
+aVwas memorize this lower-left sound icon, please.
+p327
+aVThis is the control condition. This is what they memorized.
+p328
+aa(lp329
+VComputer: Memory, thump.
+p330
+aa(lp331
+VCL: Thump of the beat in a known repeat
+p332
+aVRhythm and rhyme, they make me complete
+p333
+aVThe climb is sublime when I'm on the mic
+p334
+aVSpittin' rhymes that hit you like a lightning strike
+p335
+aa(lp336
+VComputer: Search.
+p337
+aa(lp338
+VCL: I search for the truth in this eternal quest
+p339
+aVMy passion's not fashion, you can see how I'm dressed
+p340
+aVPsychopathic words in my head appear
+p341
+aVWhisper these lyrics only I can hear
+p342
+aa(lp343
+VComputer: Art.
+p344
+aa(lp345
+VCL: The art of discovering and that which is hovering
+p346
+aVInside the mind of those unconfined
+p347
+aVAll of these words keep pouring out like rain
+p348
+aVI need a mad scientist to check my brain
+p349
+aa(lp350
+VComputer: Stop.
+p351
+aa(lp352
+V(Applause)
+p353
+aa(lp354
+VI guarantee you that will never happen again.
+p355
+aa(lp356
+V(Laughter)
+p357
+aa(lp358
+VSo now, what's great about these free-stylers,
+p359
+aVthey will get cued different words.
+p360
+aVThey don't know what's coming,
+p361
+aVbut they'll hear something off the cuff.
+p362
+aVGo hit that right sound icon,
+p363
+aVthere will be cued three square words: like, not and head.
+p364
+aVHe doesn't know what's coming. Computer: Like.
+p365
+aa(lp366
+VFreestyler: I'm like some kind of
+p367
+aVextraterrestrial, celestial scene
+p368
+aVBack in the days, I used to sit in pyramids and meditate
+p369
+aa(lp370
+VWith two microphones \u2014 Computer: Head
+p371
+aVhovering over my head
+p372
+aVSee if I could still listen,
+p373
+aVspittin' off the sound
+p374
+aVSee what you grinning
+p375
+aVI teach the children in the back of the classroom
+p376
+aVAbout the message of apocalyptical
+p377
+aa(lp378
+VComputer: Not.
+p379
+aVNot really though, 'cause I've got to keep it simple
+p380
+aVinstrumental
+p381
+aVDetrimental playing Super Mario
+p382
+aVboxes [unclear] hip hop
+p383
+aa(lp384
+VComputer: Stop.
+p385
+aa(lp386
+VCL: It's an incredible thing that's taking place.
+p387
+aVIt's doing something neurologically remarkable.
+p388
+aVWhether or not you like the music is irrelevant.
+p389
+aVCreatively speaking, it's just a phenomenal thing.
+p390
+aVThis is a short video of how we do this in a scanner.
+p391
+aa(lp392
+V[fMRI of Hip-Hop Rap]
+p393
+aa(lp394
+V(Laughter)
+p395
+aa(lp396
+V(Video) CL: We're here with Emmanuel.
+p397
+aa(lp398
+VCL: That was recorded in the scanner, by the way.
+p399
+aa(lp400
+V(Video) CL: That's Emmanuel in the scanner.
+p401
+aVHe's just memorized a rhyme for us.
+p402
+aa(lp403
+V[Control Condition Memorized Verses]
+p404
+aa(lp405
+VEmmanuel: Top of the beat with no repeat
+p406
+aVRhythm and rhyme make me complete
+p407
+aVClimb is sublime when I'm on the mic
+p408
+aVSpittin' rhymes that'll hit you like a lightning strike
+p409
+aa(lp410
+VComputer: Search.
+p411
+aVI search for the truth in this eternal quest
+p412
+aVI'm passing on fashion; you can see how I'm dressed
+p413
+aa(lp414
+VCL: I'm going to stop that there; so what do we see in his brain?
+p415
+aVThis is four rappers' brains.
+p416
+aVAnd we do see language areas lighting up,
+p417
+aVbut then, eyes closed \u2014
+p418
+aVwhen you are freestyling vs. memorizing,
+p419
+aVyou've got major visual areas lighting up.
+p420
+aVYou've got major cerebellar activity, which is involved in motor coordination.
+p421
+aVYou have heightened brain activity when you're doing a comparable task,
+p422
+aVwhen that one task is creative and the other task is memorized.
+p423
+aVIt's very preliminary, but I think it's kind of cool.
+p424
+aa(lp425
+VTo conclude, we've got a lot of questions to ask,
+p426
+aVand like I said, we'll ask questions here, not answer them.
+p427
+aVBut we want to get at the root of what is creative genius neurologically,
+p428
+aVand I think, with these methods, we're getting close.
+p429
+aVAnd I think, hopefully in the next 10, 20 years,
+p430
+aVyou'll see real, meaningful studies
+p431
+aVthat say science has to catch up to art,
+p432
+aVand maybe we're starting now to get there.
+p433
+aa(lp434
+VThank you for your time, I appreciate it.
+p435
+aa(lp436
+V(Applause)
+p437
+aasS'id'
+p438
+I1046
+sS'title'
+p439
+VYour brain on improv
+p440
+s.

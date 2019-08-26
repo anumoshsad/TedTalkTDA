@@ -1,0 +1,405 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIt would be nice to be objective in life,
+p4
+aVin many ways.
+p5
+aVThe problem is that we have these color-tinted glasses
+p6
+aVas we look at all kinds of situations.
+p7
+aVFor example, think about something as simple as beer.
+p8
+aVIf I gave you a few beers to taste
+p9
+aVand I asked you to rate them on intensity and bitterness,
+p10
+aVdifferent beers would occupy different space.
+p11
+aVBut what if we tried to be objective about it?
+p12
+aVIn the case of beer, it would be very simple.
+p13
+aVWhat if we did a blind taste?
+p14
+aVWell, if we did the same thing, you tasted the same beer,
+p15
+aVnow in the blind taste, things would look slightly different.
+p16
+aVMost of the beers will go into one place.
+p17
+aVYou will basically not be able to distinguish them,
+p18
+aVand the exception, of course, will be Guinness.
+p19
+aV(Laughter)
+p20
+aa(lp21
+VSimilarly, we can think about physiology.
+p22
+aVWhat happens when people expect something from their physiology?
+p23
+aVFor example, we sold people pain medications.
+p24
+aVSome people, we told them the medications were expensive.
+p25
+aVSome people, we told them it was cheap.
+p26
+aVAnd the expensive pain medication worked better.
+p27
+aVIt relieved more pain from people,
+p28
+aVbecause expectations do change our physiology.
+p29
+aVAnd of course, we all know that in sports,
+p30
+aVif you are a fan of a particular team,
+p31
+aVyou can't help but see the game
+p32
+aVdevelop from the perspective of your team.
+p33
+aa(lp34
+VSo all of those are cases in which our preconceived notions
+p35
+aVand our expectations color our world.
+p36
+aVBut what happened in more important questions?
+p37
+aVWhat happened with questions that had to do with social justice?
+p38
+aVSo we wanted to think about what is the blind tasting version
+p39
+aVfor thinking about inequality?
+p40
+aVSo we started looking at inequality,
+p41
+aVand we did some large-scale surveys
+p42
+aVaround the U.S. and other countries.
+p43
+aVSo we asked two questions:
+p44
+aVDo people know what kind of level of inequality we have?
+p45
+aVAnd then, what level of inequality do we want to have?
+p46
+aVSo let's think about the first question.
+p47
+aVImagine I took all the people in the U.S.
+p48
+aVand I sorted them from the poorest on the right
+p49
+aVto the richest on the left,
+p50
+aVand then I divided them into five buckets:
+p51
+aVthe poorest 20 percent, the next 20 percent,
+p52
+aVthe next, the next, and the richest 20 percent.
+p53
+aVAnd then I asked you to tell me how much wealth do you think
+p54
+aVis concentrated in each of those buckets.
+p55
+aVSo to make it simpler, imagine I ask you to tell me,
+p56
+aVhow much wealth do you think is concentrated
+p57
+aVin the bottom two buckets,
+p58
+aVthe bottom 40 percent?
+p59
+aVTake a second. Think about it and have a number.
+p60
+aVUsually we don't think.
+p61
+aVThink for a second, have a real number in your mind.
+p62
+aVYou have it?
+p63
+aa(lp64
+VOkay, here's what lots of Americans tell us.
+p65
+aVThey think that the bottom 20 percent
+p66
+aVhas about 2.9 percent of the wealth,
+p67
+aVthe next group has 6.4,
+p68
+aVso together it's slightly more than nine.
+p69
+aVThe next group, they say, has 12 percent,
+p70
+aV20 percent,
+p71
+aVand the richest 20 percent, people think has 58 percent of the wealth.
+p72
+aVYou can see how this relates to what you thought.
+p73
+aa(lp74
+VNow, what's reality?
+p75
+aVReality is slightly different.
+p76
+aVThe bottom 20 percent has 0.1 percent of the wealth.
+p77
+aVThe next 20 percent has 0.2 percent of the wealth.
+p78
+aVTogether, it's 0.3.
+p79
+aVThe next group has 3.9,
+p80
+aV11.3,
+p81
+aVand the richest group has 84-85 percent of the wealth.
+p82
+aVSo what we actually have and what we think we have
+p83
+aVare very different.
+p84
+aa(lp85
+VWhat about what we want?
+p86
+aVHow do we even figure this out?
+p87
+aVSo to look at this,
+p88
+aVto look at what we really want,
+p89
+aVwe thought about the philosopher John Rawls.
+p90
+aVIf you remember John Rawls,
+p91
+aVhe had this notion of what's a just society.
+p92
+aVHe said a just society
+p93
+aVis a society that if you knew everything about it,
+p94
+aVyou would be willing to enter it in a random place.
+p95
+aVAnd it's a beautiful definition,
+p96
+aVbecause if you're wealthy, you might want the wealthy
+p97
+aVto have more money, the poor to have less.
+p98
+aVIf you're poor, you might want more equality.
+p99
+aVBut if you're going to go into that society
+p100
+aVin every possible situation, and you don't know,
+p101
+aVyou have to consider all the aspects.
+p102
+aVIt's a little bit like blind tasting in which you don't know
+p103
+aVwhat the outcome will be when you make a decision,
+p104
+aVand Rawls called this the "veil of ignorance."
+p105
+aa(lp106
+VSo, we took another group, a large group of Americans,
+p107
+aVand we asked them the question in the veil of ignorance.
+p108
+aVWhat are the characteristics of a country that would make you want to join it,
+p109
+aVknowing that you could end randomly at any place?
+p110
+aVAnd here is what we got.
+p111
+aVWhat did people want to give to the first group,
+p112
+aVthe bottom 20 percent?
+p113
+aVThey wanted to give them about 10 percent of the wealth.
+p114
+aVThe next group, 14 percent of the wealth,
+p115
+aV21, 22 and 32.
+p116
+aa(lp117
+VNow, nobody in our sample wanted full equality.
+p118
+aVNobody thought that socialism is a fantastic idea in our sample.
+p119
+aVBut what does it mean?
+p120
+aVIt means that we have this knowledge gap
+p121
+aVbetween what we have and what we think we have,
+p122
+aVbut we have at least as big a gap between what we think is right
+p123
+aVto what we think we have.
+p124
+aa(lp125
+VNow, we can ask these questions, by the way, not just about wealth.
+p126
+aVWe can ask it about other things as well.
+p127
+aVSo for example, we asked people from different parts of the world
+p128
+aVabout this question,
+p129
+aVpeople who are liberals and conservatives,
+p130
+aVand they gave us basically  the same answer.
+p131
+aVWe asked rich and poor, they gave us the same answer,
+p132
+aVmen and women,
+p133
+aVNPR listeners and Forbes readers.
+p134
+aVWe asked people in England, Australia, the U.S. \u2014
+p135
+aVvery similar answers.
+p136
+aVWe even asked different departments of a university.
+p137
+aVWe went to Harvard and we checked almost every department,
+p138
+aVand in fact, from Harvard Business School,
+p139
+aVwhere a few people wanted the wealthy to have more and the [poor] to have less,
+p140
+aVthe similarity was astonishing.
+p141
+aVI know some of you went to Harvard Business School.
+p142
+aa(lp143
+VWe also asked this question about something else.
+p144
+aVWe asked, what about the ratio of CEO pay to unskilled workers?
+p145
+aVSo you can see what people think is the ratio,
+p146
+aVand then we can ask the question, what do they think should be the ratio?
+p147
+aVAnd then we can ask, what is reality?
+p148
+aVWhat is reality? And you could say, well, it's not that bad, right?
+p149
+aVThe red and the yellow are not that different.
+p150
+aVBut the fact is, it's because I didn't draw them on the same scale.
+p151
+aVIt's hard to see, there's yellow and blue in there.
+p152
+aa(lp153
+VSo what about other outcomes of wealth?
+p154
+aVWealth is not just about wealth.
+p155
+aVWe asked, what about things like health?
+p156
+aVWhat about availability of prescription medication?
+p157
+aVWhat about life expectancy?
+p158
+aVWhat about life expectancy of infants?
+p159
+aVHow do we want this to be distributed?
+p160
+aVWhat about education for young people?
+p161
+aVAnd for older people?
+p162
+aVAnd across all of those things, what we learned was that people
+p163
+aVdon't like inequality of wealth,
+p164
+aVbut there's other things where inequality, which is an outcome of wealth,
+p165
+aVis even more aversive to them:
+p166
+aVfor example, inequality in health or education.
+p167
+aVWe also learned that people are particularly open
+p168
+aVto changes in equality when it comes to people
+p169
+aVwho have less agency \u2014
+p170
+aVbasically, young kids and babies,
+p171
+aVbecause we don't think of them as responsible for their situation.
+p172
+aa(lp173
+VSo what are some lessons from this?
+p174
+aVWe have two gaps:
+p175
+aVWe have a knowledge gap and we have a desirability gap
+p176
+aVAnd the knowledge gap is something that we think about,
+p177
+aVhow do we educate people?
+p178
+aVHow do we get people to think differently about inequality
+p179
+aVand the consequences of inequality in terms of health, education,
+p180
+aVjealousy, crime rate, and so on?
+p181
+aa(lp182
+VThen we have the desirability gap.
+p183
+aVHow do we get people to think differently about what we really want?
+p184
+aVYou see, the Rawls definition, the Rawls way of looking at the world,
+p185
+aVthe blind tasting approach,
+p186
+aVtakes our selfish motivation out of the picture.
+p187
+aVHow do we implement that to a higher degree
+p188
+aVon a more extensive scale?
+p189
+aa(lp190
+VAnd finally, we also have an action gap.
+p191
+aVHow do we take these things and actually do something about it?
+p192
+aVI think part of the answer is to think about people
+p193
+aVlike young kids and babies that don't have much agency,
+p194
+aVbecause people seem to be more willing to do this.
+p195
+aa(lp196
+VTo summarize, I would say, next time you go to drink beer or wine,
+p197
+aVfirst of all, think about, what is it in your experience that is real,
+p198
+aVand what is it in your experience that is a placebo effect
+p199
+aVcoming from expectations?
+p200
+aVAnd then think about what it also means for other decisions in your life,
+p201
+aVand hopefully also for policy questions
+p202
+aVthat affect all of us.
+p203
+aa(lp204
+VThanks a lot.
+p205
+aa(lp206
+V(Applause)
+p207
+aasS'id'
+p208
+I2229
+sS'title'
+p209
+VHow equal do we want the world to be? You'd be surprised
+p210
+s.

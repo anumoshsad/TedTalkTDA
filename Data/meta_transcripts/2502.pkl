@@ -1,0 +1,333 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI've got a confession.
+p4
+aVI love looking through people's garbage.
+p5
+aVNow, it's not some creepy thing.
+p6
+aVI'm usually just looking for old electronics,
+p7
+aVstuff I can take to my workshop and hack.
+p8
+aVI do have a fetish for CD-ROM drives.
+p9
+aVEach one's got three different motors,
+p10
+aVso now you can build things that move.
+p11
+aVThere's switches so you can turn things on and off.
+p12
+aVThere's even a freaking laser,
+p13
+aVso you can make a cool robot into an awesome robot.
+p14
+aa(lp15
+VNow, I've built a lot of stuff out of garbage,
+p16
+aVand some of these things have even been kind of useful.
+p17
+aVBut here's the thing,
+p18
+aVfor me, garbage is just a chance to play,
+p19
+aVto be creative and build things to amuse myself.
+p20
+aVThis is what I love doing, so I just made it part of my day job.
+p21
+aVI lead a university-based biological research lab,
+p22
+aVwhere we value curiosity and exploration above all else.
+p23
+aVWe aren't focused on any particular problem,
+p24
+aVand we're not trying to solve any particular disease.
+p25
+aVThis is just a place where people can come
+p26
+aVand ask fascinating questions and find answers.
+p27
+aVAnd I realized a long time ago
+p28
+aVthat if I challenge people to build the equipment they need
+p29
+aVout of the garbage I find,
+p30
+aVit's a great way to foster creativity.
+p31
+aVAnd what happened
+p32
+aVwas that artists and scientists from around the world
+p33
+aVstarted coming to my lab.
+p34
+aVAnd it's not just because we value unconventional ideas,
+p35
+aVit's because we test and validate them
+p36
+aVwith scientific rigor.
+p37
+aa(lp38
+VSo one day I was hacking something, I was taking it apart,
+p39
+aVand I had this sudden idea:
+p40
+aVCould I treat biology like hardware?
+p41
+aVCould I dismantle a biological system,
+p42
+aVmix and match the parts
+p43
+aVand then put it back together in some new and creative way?
+p44
+aVMy lab started working on this,
+p45
+aVand I want to show you the result.
+p46
+aa(lp47
+VCan any of you guys tell me what fruit this is?
+p48
+aa(lp49
+VAudience: Apple!
+p50
+aa(lp51
+VAndrew Pelling: That's right \u2014 it's an apple.
+p52
+aVNow, I actually want you to notice as well
+p53
+aVthat this is a lot redder than most apples.
+p54
+aVAnd that's because we grew human cells into it.
+p55
+aVWe took a totally innocent Macintosh apple,
+p56
+aVremoved all the apple cells and DNA
+p57
+aVand then implanted human cells.
+p58
+aVAnd what we're left with after removing all the apple cells
+p59
+aVis this cellulose scaffold.
+p60
+aVThis is the stuff that gives plants their shape and texture.
+p61
+aVAnd these little holes that you can see,
+p62
+aVthis is where all the apple cells used to be.
+p63
+aVSo then we come along,
+p64
+aVwe implant some mammalian cells that you can see in blue.
+p65
+aVWhat happens is, these guys start multiplying
+p66
+aVand they fill up this entire scaffold.
+p67
+aa(lp68
+VAs weird as this is,
+p69
+aVit's actually really reminiscent of how our own tissues are organized.
+p70
+aVAnd we found in our pre-clinical work
+p71
+aVthat you can implant these scaffolds into the body,
+p72
+aVand the body will send in cells and a blood supply
+p73
+aVand actually keep these things alive.
+p74
+aVThis is the point when people started asking me,
+p75
+aV"Andrew, can you make body parts out of apples?"
+p76
+aVAnd I'm like, "You've come to the right place."
+p77
+aa(lp78
+V(Laughter)
+p79
+aa(lp80
+VI actually brought this up with my wife.
+p81
+aVShe's a musical instrument maker,
+p82
+aVand she does a lot of wood carving for a living.
+p83
+aVSo I asked her,
+p84
+aV"Could you, like, literally carve some ears
+p85
+aVout of an apple for us?"
+p86
+aVAnd she did.
+p87
+aVSo I took her ears to the lab.
+p88
+aVWe then started preparing them.
+p89
+aVYeah, I know.
+p90
+aa(lp91
+V(Laughter)
+p92
+aa(lp93
+VIt's a good lab, man.
+p94
+aa(lp95
+V(Laughter)
+p96
+aa(lp97
+VAnd then we grew cells on them.
+p98
+aVAnd this is the result.
+p99
+aa(lp100
+VListen, my lab is not in the ear-manufacturing business.
+p101
+aVPeople have actually been working on this for decades.
+p102
+aVHere's the issue:
+p103
+aVcommercial scaffolds can be really expensive and problematic,
+p104
+aVbecause they're sourced from proprietary products,
+p105
+aVanimals or cadavers.
+p106
+aVWe used an apple and it cost pennies.
+p107
+aa(lp108
+VWhat's also really cool here
+p109
+aVis it's not that hard to make these things.
+p110
+aVThe equipment you need can be built from garbage,
+p111
+aVand the key processing step only requires soap and water.
+p112
+aVSo what we did was put all the instructions online as open source.
+p113
+aVAnd then we founded a mission-driven company,
+p114
+aVand we're developing kits to make it easier
+p115
+aVfor anyone with a sink and a soldering iron
+p116
+aVto make these things at home.
+p117
+aVWhat I'm really curious about is if one day,
+p118
+aVit will be possible to repair, rebuild and augment our own bodies
+p119
+aVwith stuff we make in the kitchen.
+p120
+aa(lp121
+VSpeaking of kitchens,
+p122
+aVhere's some asparagus.
+p123
+aVThey're tasty, and they make your pee smell funny.
+p124
+aa(lp125
+V(Laughter)
+p126
+aa(lp127
+VNow, I was in my kitchen, and I was noticing
+p128
+aVthat when you look down the stalks of these asparagus,
+p129
+aVwhat you can see are all these tiny little vessels.
+p130
+aVAnd when we image them in the lab,
+p131
+aVyou can see how the cellulose forms these structures.
+p132
+aVThis image reminds me of two things:
+p133
+aVour blood vessels
+p134
+aVand the structure and organization of our nerves and spinal cord.
+p135
+aa(lp136
+VSo here's the question:
+p137
+aVCan we grow axons and neurons down these channels?
+p138
+aVBecause if we can,
+p139
+aVthen maybe we can use asparagus to form new connections
+p140
+aVbetween the ends of damaged and severed nerves.
+p141
+aVOr maybe even a spinal cord.
+p142
+aVDon't get me wrong \u2014
+p143
+aVthis is exceptionally challenging
+p144
+aVand really hard work to do,
+p145
+aVand we are not the only ones working on this.
+p146
+aVBut we are the only ones using asparagus.
+p147
+aa(lp148
+V(Laughter)
+p149
+aa(lp150
+VRight now, we've got really promising pilot data.
+p151
+aVAnd we're working with tissue engineers
+p152
+aVand neurosurgeons
+p153
+aVto find out what's actually possible.
+p154
+aa(lp155
+VSo listen, all of the work I've shown you,
+p156
+aVthe stuff that I've built that's all around me on this stage
+p157
+aVand the other projects my lab is involved in
+p158
+aVare all a direct result of me playing with your garbage.
+p159
+aVPlay \u2014 play is a key part of my scientific practice.
+p160
+aVIt's how I train my mind to be unconventional and to be creative
+p161
+aVand to decide to make human apple ears.
+p162
+aa(lp163
+VSo, the next time any of you are looking at some old,
+p164
+aVbroken-down, malfunctioning, piece-of-crap technology,
+p165
+aVI want you to think of me.
+p166
+aVBecause I want it.
+p167
+aa(lp168
+V(Laughter)
+p169
+aa(lp170
+VSeriously, please find any way to get in touch with me,
+p171
+aVand let's see what we can build.
+p172
+aa(lp173
+VThank you.
+p174
+aa(lp175
+V(Applause)
+p176
+aasS'id'
+p177
+I2502
+sS'title'
+p178
+VThis scientist makes ears out of apples
+p179
+s.

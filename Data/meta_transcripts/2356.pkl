@@ -1,0 +1,365 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'd like to start by asking you all to go to your happy place, please.
+p4
+aVYes, your happy place,
+p5
+aVI know you've got one even if it's fake.
+p6
+aa(lp7
+V(Laughter)
+p8
+aa(lp9
+VOK, so, comfortable?
+p10
+aVGood.
+p11
+aa(lp12
+VNow I'd like to you to mentally answer the following questions.
+p13
+aVIs there any strip lighting in your happy place?
+p14
+aVAny plastic tables?
+p15
+aVPolyester flooring?
+p16
+aVMobile phones?
+p17
+aVNo?
+p18
+aVI think we all know that our happy place
+p19
+aVis meant to be somewhere natural, outdoors \u2014
+p20
+aVon a beach, fireside.
+p21
+aVWe'll be reading or eating or knitting.
+p22
+aVAnd we're surrounded by natural light and organic elements.
+p23
+aVNatural things make us happy.
+p24
+aVAnd happiness is a great motivator; we strive for happiness.
+p25
+aVPerhaps that's why we're always redesigning everything,
+p26
+aVin the hopes that our solutions might feel more natural.
+p27
+aVSo let's start there \u2014
+p28
+aVwith the idea that good design should feel natural.
+p29
+aa(lp30
+VYour phone is not very natural.
+p31
+aVAnd you probably think you're addicted to your phone,
+p32
+aVbut you're really not.
+p33
+aVWe're not addicted to devices,
+p34
+aVwe're addicted to the information that flows through them.
+p35
+aVI wonder how long you would be happy in your happy place
+p36
+aVwithout any information from the outside world.
+p37
+aVI'm interested in how we access that information,
+p38
+aVhow we experience it.
+p39
+aVWe're moving from a time of static information,
+p40
+aVheld in books and libraries and bus stops,
+p41
+aVthrough a period of digital information,
+p42
+aVtowards a period of fluid information,
+p43
+aVwhere your children will expect to be able to access anything, anywhere at any time,
+p44
+aVfrom quantum physics to medieval viticulture,
+p45
+aVfrom gender theory to tomorrow's weather,
+p46
+aVjust like switching on a lightbulb \u2014
+p47
+aVImagine that.
+p48
+aa(lp49
+VHumans also like simple tools.
+p50
+aVYour phone is not a very simple tool.
+p51
+aVA fork is a simple tool.
+p52
+aa(lp53
+V(Laughter)
+p54
+aa(lp55
+VAnd we don't like them made of plastic,
+p56
+aVin the same way I don't really like my phone very much \u2014
+p57
+aVit's not how I want to experience information.
+p58
+aa(lp59
+VI think there are better solutions than a world mediated by screens.
+p60
+aVI don't hate screens, but I don't feel \u2014
+p61
+aVand I don't think any of us feel that good
+p62
+aVabout how much time we spend slouched over them.
+p63
+aVFortunately,
+p64
+aVthe big tech companies seem to agree.
+p65
+aVThey're actually heavily invested in touch and speech and gesture,
+p66
+aVand also in senses \u2014
+p67
+aVthings that can turn dumb objects, like cups,
+p68
+aVand imbue them with the magic of the Internet,
+p69
+aVpotentially turning this digital cloud
+p70
+aVinto something we might touch and move.
+p71
+aa(lp72
+VThe parents in crisis over screen time
+p73
+aVneed physical digital toys teaching their kids to read,
+p74
+aVas well as family-safe app stores.
+p75
+aVAnd I think, actually, that's already really happening.
+p76
+aa(lp77
+VReality is richer than screens.
+p78
+aVFor example, I love books.
+p79
+aVFor me they are time machines \u2014 atoms and molecules bound in space,
+p80
+aVfrom the moment of their creation to the moment of my experience.
+p81
+aVBut frankly,
+p82
+aVthe content's identical on my phone.
+p83
+aVSo what makes this a richer experience than a screen?
+p84
+aVI mean, scientifically.
+p85
+aVWe need screens, of course.
+p86
+aVI'm going to show film, I need the enormous screen.
+p87
+aVBut there's more than you can do with these magic boxes.
+p88
+aVYour phone is not the Internet's door bitch.
+p89
+aa(lp90
+V(Laughter)
+p91
+aa(lp92
+VWe can build things \u2014 physical things,
+p93
+aVusing physics and pixels,
+p94
+aVthat can integrate the Internet into the world around us.
+p95
+aVAnd I'm going to show you a few examples of those.
+p96
+aa(lp97
+VA while ago, I got to work with a design agency, Berg,
+p98
+aVon an exploration of what the Internet without screens might actually look like.
+p99
+aVAnd they showed us a range ways
+p100
+aVthat light can work with simple senses and physical objects
+p101
+aVto really bring the Internet to life, to make it tangible.
+p102
+aVLike this wonderfully mechanical YouTube player.
+p103
+aVAnd this was an inspiration to me.
+p104
+aa(lp105
+VNext I worked with the Japanese agency, AQ,
+p106
+aVon a research project into mental health.
+p107
+aVWe wanted to create an object
+p108
+aVthat could capture the subjective data around mood swings
+p109
+aVthat's so essential to diagnosis.
+p110
+aVThis object captures your touch,
+p111
+aVso you might press it very hard if you're angry,
+p112
+aVor stroke it if you're calm.
+p113
+aVIt's like a digital emoji stick.
+p114
+aVAnd then you might revisit those moments later,
+p115
+aVand add context to them online.
+p116
+aVMost of all,
+p117
+aVwe wanted to create an intimate, beautiful thing
+p118
+aVthat could live in your pocket
+p119
+aVand be loved.
+p120
+aa(lp121
+VThe binoculars are actually a birthday present
+p122
+aVfor the Sydney Opera House's 40th anniversary.
+p123
+aVOur friends at Tellart in Boston brought over a pair of street binoculars,
+p124
+aVthe kind you might find on the Empire State Building,
+p125
+aVand they fitted them with 360-degree views
+p126
+aVof other iconic world heritage sights \u2014
+p127
+aa(lp128
+V(Laughter)
+p129
+aa(lp130
+Vusing Street View.
+p131
+aVAnd then we stuck them under the steps.
+p132
+aVSo, they became this very physical, simple reappropriation,
+p133
+aVor like a portal to these other icons.
+p134
+aVSo you might see Versailles or Shackleton's Hut.
+p135
+aVBasically, it's virtual reality circa 1955.
+p136
+aa(lp137
+V(Laughter)
+p138
+aa(lp139
+VIn our office we use hacky sacks to exchange URLs.
+p140
+aVThis is incredibly simple, it's like your Opal card.
+p141
+aVYou basically put a website on the little chip in here,
+p142
+aVand then you do this and ... bosh! \u2014
+p143
+aVthe website appears on your phone.
+p144
+aVIt's about 10 cents.
+p145
+aa(lp146
+VTreehugger is a project that we're working on
+p147
+aVwith Grumpy Sailor and Finch, here in Sydney.
+p148
+aVAnd I'm very excited about what might happen
+p149
+aVwhen you pull the phones apart and you put the bits into trees,
+p150
+aVand that my children might have an opportunity
+p151
+aVto visit an enchanted forest guided by a magic wand,
+p152
+aVwhere they could talk to digital fairies and ask them questions,
+p153
+aVand be asked questions in return.
+p154
+aVAs you can see,
+p155
+aVwe're at the cardboard stage with this one.
+p156
+aa(lp157
+V(Laughter)
+p158
+aa(lp159
+VBut I'm very excited
+p160
+aVby the possibility of getting kids back outside without screens,
+p161
+aVbut with all the powerful magic of the Internet at their fingertips.
+p162
+aVAnd we hope to have something like this working by the end of the year.
+p163
+aa(lp164
+VSo let's recap.
+p165
+aVHumans like natural solutions.
+p166
+aVHumans love information.
+p167
+aVHumans need simple tools.
+p168
+aVThese principles should underpin how we design for the future,
+p169
+aVnot just for the Internet.
+p170
+aVYou may feel uncomfortable about the age of information that we're moving into.
+p171
+aVYou may feel challenged, rather than simply excited.
+p172
+aVGuess what? Me too.
+p173
+aVIt's a really extraordinary period of human history.
+p174
+aa(lp175
+VWe are the people that actually build our world,
+p176
+aVthere are no artificial intelligences...
+p177
+aVyet.
+p178
+aa(lp179
+V(Laughter)
+p180
+aa(lp181
+VIt's us \u2014 designers, architects, artists, engineers.
+p182
+aVAnd if we challenge ourselves,
+p183
+aVI think that actually we can have a happy place
+p184
+aVfilled with the information we love
+p185
+aVthat feels as natural and as simple as switching on lightbulb.
+p186
+aVAnd although it may seem inevitable,
+p187
+aVthat what the public wants is watches and websites and widgets,
+p188
+aVmaybe we could give a bit of thought to cork and light and hacky sacks.
+p189
+aa(lp190
+VThank you very much.
+p191
+aa(lp192
+V(Applause)
+p193
+aasS'id'
+p194
+I2356
+sS'title'
+p195
+VAn Internet without screens might look like this
+p196
+s.

@@ -1,0 +1,864 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+V"Can you taste words?"
+p4
+aa(lp5
+VIt was a question that caught me by surprise.
+p6
+aVThis summer, I was giving a talk at a literary festival,
+p7
+aVand afterwards, as I was signing books,
+p8
+aVa teenage girl came with her friend,
+p9
+aVand this is what she asked me.
+p10
+aVI told her that some people experience an overlap in their senses
+p11
+aVso that they could hear colors
+p12
+aVor see sounds,
+p13
+aVand many writers were fascinated by this subject, myself included.
+p14
+aVBut she cut me off, a bit impatiently, and said, "Yeah, I know all of that.
+p15
+aVIt's called synesthesia. We learned it at school.
+p16
+aVBut my mom is reading your book,
+p17
+aVand she says there's lots of food and ingredients
+p18
+aVand a long dinner scene in it.
+p19
+aVShe gets hungry at every page.
+p20
+aVSo I was thinking,
+p21
+aVhow come you don't get hungry when you write?
+p22
+aVAnd I thought maybe, maybe you could taste words.
+p23
+aVDoes it make sense?"
+p24
+aa(lp25
+VAnd, actually, it did make sense,
+p26
+aVbecause ever since my childhood,
+p27
+aVeach letter in the alphabet has a different color,
+p28
+aVand colors bring me flavors.
+p29
+aVSo for instance, the color purple is quite pungent, almost perfumed,
+p30
+aVand any words that I associate with purple
+p31
+aVtaste the same way,
+p32
+aVsuch as "sunset" \u2014 a very spicy word.
+p33
+aVBut I was worried that if I tell all of this to the teenager,
+p34
+aVit might sound either too abstract
+p35
+aVor perhaps too weird,
+p36
+aVand there wasn't enough time anyhow,
+p37
+aVbecause people were waiting in the queue,
+p38
+aVso it suddenly felt like what I was trying to convey
+p39
+aVwas more complicated and detailed
+p40
+aVthan what the circumstances allowed me to say.
+p41
+aVAnd I did what I usually do in similar situations:
+p42
+aVI stammered, I shut down, and I stopped talking.
+p43
+aVI stopped talking because the truth was complicated,
+p44
+aVeven though I knew, deep within,
+p45
+aVthat one should never, ever remain silent for fear of complexity.
+p46
+aa(lp47
+VSo I want to start my talk today
+p48
+aVwith the answer that I was not able to give on that day.
+p49
+aVYes, I can taste words \u2014
+p50
+aVsometimes, that is, not always,
+p51
+aVand happy words have a different flavor than sad words.
+p52
+aVI like to explore: What does the word "creativity" taste like,
+p53
+aVor "equality,"
+p54
+aV"love," "revolution?"
+p55
+aa(lp56
+VAnd what about "motherland?"
+p57
+aVThese days, it's particularly this last word that troubles me.
+p58
+aVIt leaves a sweet taste on my tongue,
+p59
+aVlike cinnamon, a bit of rose water
+p60
+aVand golden apples.
+p61
+aVBut underneath, there's a sharp tang,
+p62
+aVlike nettles and dandelion.
+p63
+aVThe taste of my motherland, Turkey,
+p64
+aVis a mixture of sweet and bitter.
+p65
+aa(lp66
+VAnd the reason why I'm telling you this
+p67
+aVis because I think there's more and more people
+p68
+aVall around the world today
+p69
+aVwho have similarly mixed emotions
+p70
+aVabout the lands they come from.
+p71
+aVWe love our native countries, yeah?
+p72
+aVHow can we not?
+p73
+aVWe feel attached to the people, the culture, the land, the food.
+p74
+aVAnd yet at the same time,
+p75
+aVwe feel increasingly frustrated by its politics and politicians,
+p76
+aVsometimes to the point of despair or hurt or anger.
+p77
+aa(lp78
+VI want to talk about emotions
+p79
+aVand the need to boost our emotional intelligence.
+p80
+aVI think it's a pity
+p81
+aVthat mainstream political theory pays very little attention to emotions.
+p82
+aVOftentimes, analysts and experts are so busy with data and metrics
+p83
+aVthat they seem to forget those things in life
+p84
+aVthat are difficult to measure
+p85
+aVand perhaps impossible to cluster under statistical models.
+p86
+aVBut I think this is a mistake, for two main reasons.
+p87
+aVFirstly, because we are emotional beings.
+p88
+aVAs human beings, I think we all are like that.
+p89
+aVBut secondly, and this is new,
+p90
+aVwe have entered a new stage in world history
+p91
+aVin which collective sentiments guide and misguide politics
+p92
+aVmore than ever before.
+p93
+aVAnd through social media and social networking,
+p94
+aVthese sentiments are further amplified,
+p95
+aVpolarized, and they travel around the world quite fast.
+p96
+aVOurs is the age of anxiety, anger,
+p97
+aVdistrust, resentment
+p98
+aVand, I think, lots of fear.
+p99
+aVBut here's the thing:
+p100
+aVeven though there's plenty of research about economic factors,
+p101
+aVthere's relatively few studies about emotional factors.
+p102
+aa(lp103
+VWhy is it that we underestimate feelings and perceptions?
+p104
+aVI think it's going to be one of our biggest intellectual challenges,
+p105
+aVbecause our political systems are replete with emotions.
+p106
+aVIn country after country,
+p107
+aVwe have seen illiberal politicians exploiting these emotions.
+p108
+aVAnd yet within the academia and among the intelligentsia,
+p109
+aVwe are yet to take emotions seriously.
+p110
+aVI think we should.
+p111
+aVAnd just like we should focus on economic inequality worldwide,
+p112
+aVwe need to pay more attention to emotional and cognitive gaps worldwide
+p113
+aVand how to bridge these gaps,
+p114
+aVbecause they do matter.
+p115
+aa(lp116
+VYears ago, when I was still living in Istanbul,
+p117
+aVan American scholar working on women writers in the Middle East
+p118
+aVcame to see me.
+p119
+aVAnd at some point in our exchange, she said,
+p120
+aV"I understand why you're a feminist,
+p121
+aVbecause, you know, you live in Turkey."
+p122
+aVAnd I said to her,
+p123
+aV"I don't understand why you're not a feminist,
+p124
+aVbecause, you know, you live in America."
+p125
+aa(lp126
+V(Laughter)
+p127
+aa(lp128
+V(Applause)
+p129
+aVAnd she laughed.
+p130
+aVShe took it as a joke,
+p131
+aVand the moment passed.
+p132
+aa(lp133
+V(Laughter)
+p134
+aa(lp135
+VBut the way she had divided the world into two imaginary camps,
+p136
+aVinto two opposite camps \u2014
+p137
+aVit bothered me and it stayed with me.
+p138
+aVAccording to this imaginary map,
+p139
+aVsome parts of the world were liquid countries.
+p140
+aVThey were like choppy waters not yet settled.
+p141
+aVSome other parts of the world, namely the West,
+p142
+aVwere solid, safe and stable.
+p143
+aVSo it was the liquid lands that needed feminism
+p144
+aVand activism and human rights,
+p145
+aVand those of us who were unfortunate enough
+p146
+aVto come from such places
+p147
+aVhad to keep struggling for these most essential values.
+p148
+aVBut there was hope.
+p149
+aVSince history moved forward,
+p150
+aVeven the most unsteady lands would someday catch up.
+p151
+aVAnd meanwhile, the citizens of solid lands
+p152
+aVcould take comfort in the progress of history
+p153
+aVand in the triumph of the liberal order.
+p154
+aVThey could support the struggles of other people elsewhere,
+p155
+aVbut they themselves did not have to struggle
+p156
+aVfor the basics of democracy anymore,
+p157
+aVbecause they were beyond that stage.
+p158
+aa(lp159
+VI think in the year 2016,
+p160
+aVthis hierarchical geography was shattered to pieces.
+p161
+aVOur world no longer follows this dualistic pattern
+p162
+aVin the scholar's mind, if it ever did.
+p163
+aVNow we know that history does not necessarily move forward.
+p164
+aVSometimes it draws circles,
+p165
+aVeven slides backwards,
+p166
+aVand that generations can make the same mistakes
+p167
+aVthat their great-grandfathers had made.
+p168
+aVAnd now we know that there's no such thing
+p169
+aVas solid countries versus liquid countries.
+p170
+aVIn fact, we are all living in liquid times,
+p171
+aVjust like the late Zygmunt Bauman told us.
+p172
+aVAnd Bauman had another definition for our age.
+p173
+aVHe used to say we are all going to be walking on moving sands.
+p174
+aa(lp175
+VAnd if that's the case, I think,
+p176
+aVit should concern us women more than men,
+p177
+aVbecause when societies slide backwards into authoritarianism,
+p178
+aVnationalism or religious fanaticism,
+p179
+aVwomen have much more to lose.
+p180
+aVThat is why this needs to be a vital moment,
+p181
+aVnot only for global activism,
+p182
+aVbut in my opinion, for global sisterhood as well.
+p183
+aa(lp184
+V(Applause)
+p185
+aa(lp186
+VBut I want to make a little confession before I go any further.
+p187
+aVUntil recently, whenever I took part in an international conference or festival,
+p188
+aVI would be usually one of the more depressed speakers.
+p189
+aa(lp190
+V(Laughter)
+p191
+aa(lp192
+VHaving seen how our dreams of democracy and how our dreams of coexistence
+p193
+aVwere crushed in Turkey,
+p194
+aVboth gradually but also with a bewildering speed,
+p195
+aVover the years I've felt quite demoralized.
+p196
+aVAnd at these festivals there would be some other gloomy writers,
+p197
+aVand they would come from places such as Egypt, Nigeria, Pakistan,
+p198
+aVBangladesh, Philippines, China, Venezuela, Russia.
+p199
+aVAnd we would smile at each other in sympathy,
+p200
+aVthis camaraderie of the doomed.
+p201
+aa(lp202
+V(Laughter)
+p203
+aa(lp204
+VAnd you could call us WADWIC:
+p205
+aVWorried and Depressed Writers International Club.
+p206
+aa(lp207
+V(Laughter)
+p208
+aa(lp209
+VBut then things began to change,
+p210
+aVand suddenly our club became more popular,
+p211
+aVand we started to have new members.
+p212
+aVI remember \u2014
+p213
+aa(lp214
+V(Laughter)
+p215
+aa(lp216
+VI remember Greek writers and poets joined first, came on board.
+p217
+aVAnd then writers from Hungary and Poland,
+p218
+aVand then, interestingly, writers from Austria, the Netherlands, France,
+p219
+aVand then writers from the UK, where I live and where I call my home,
+p220
+aVand then writers from the USA.
+p221
+aVSuddenly, there were more of us
+p222
+aVfeeling worried about the fate of our nations
+p223
+aVand the future of the world.
+p224
+aVAnd maybe there were more of us now
+p225
+aVfeeling like strangers in our own motherlands.
+p226
+aa(lp227
+VAnd then this bizarre thing happened.
+p228
+aVThose of us who used to be very depressed for a long time,
+p229
+aVwe started to feel less depressed,
+p230
+aVwhereas the newcomers, they were so not used to feeling this way
+p231
+aVthat they were now even more depressed.
+p232
+aa(lp233
+V(Laughter)
+p234
+aa(lp235
+VSo you could see writers from Bangladesh or Turkey or Egypt
+p236
+aVtrying to console their colleagues
+p237
+aVfrom Brexit Britain or from post-election USA.
+p238
+aa(lp239
+V(Laughter)
+p240
+aa(lp241
+VBut joking aside,
+p242
+aVI think our world is full of unprecedented challenges,
+p243
+aVand this comes with an emotional backlash,
+p244
+aVbecause in the face of high-speed change,
+p245
+aVmany people wish to slow down,
+p246
+aVand when there's too much unfamiliarity,
+p247
+aVpeople long for the familiar.
+p248
+aVAnd when things get too confusing,
+p249
+aVmany people crave simplicity.
+p250
+aVThis is a very dangerous crossroads,
+p251
+aVbecause it's exactly where the demagogue enters into the picture.
+p252
+aa(lp253
+VThe demagogue understands how collective sentiments work
+p254
+aVand how he \u2014 it's usually a he \u2014 can benefit from them.
+p255
+aVHe tells us that we all belong in our tribes,
+p256
+aVand he tells us that we will be safer if we are surrounded by sameness.
+p257
+aVDemagogues come in all sizes and in all shapes.
+p258
+aVThis could be the eccentric leader of a marginal political party
+p259
+aVsomewhere in Europe,
+p260
+aVor an Islamist extremist imam preaching dogma and hatred,
+p261
+aVor it could be a white supremacist Nazi-admiring orator somewhere else.
+p262
+aVAll these figures, at first glance \u2014 they seem disconnected.
+p263
+aVBut I think they feed each other,
+p264
+aVand they need each other.
+p265
+aa(lp266
+VAnd all around the world,
+p267
+aVwhen we look at how demagogues talk and how they inspire movements,
+p268
+aVI think they have one unmistakable quality in common:
+p269
+aVthey strongly, strongly dislike plurality.
+p270
+aVThey cannot deal with multiplicity.
+p271
+aVAdorno used to say,
+p272
+aV"Intolerance of ambiguity is the sign of an authoritarian personality."
+p273
+aVBut I ask myself:
+p274
+aVWhat if that same sign,
+p275
+aVthat same intolerance of ambiguity \u2014
+p276
+aVwhat if it's the mark of our times, of the age we're living in?
+p277
+aVBecause wherever I look, I see nuances withering away.
+p278
+aVOn TV shows, we have one anti-something speaker
+p279
+aVsituated against a pro-something speaker.
+p280
+aVYeah? It's good ratings.
+p281
+aVIt's even better if they shout at each other.
+p282
+aVEven in academia, where our intellect is supposed to be nourished,
+p283
+aVyou see one atheist scholar competing with a firmly theist scholar,
+p284
+aVbut it's not a real intellectual exchange,
+p285
+aVbecause it's a clash between two certainties.
+p286
+aa(lp287
+VI think binary oppositions are everywhere.
+p288
+aVSo slowly and systematically,
+p289
+aVwe are being denied the right to be complex.
+p290
+aVIstanbul, Berlin, Nice, Paris, Brussels,
+p291
+aVDhaka, Baghdad, Barcelona:
+p292
+aVwe have seen one horrible terror attack after another.
+p293
+aVAnd when you express your sorrow, and when you react against the cruelty,
+p294
+aVyou get all kinds of reactions,
+p295
+aVmessages on social media.
+p296
+aVBut one of them is quite disturbing,
+p297
+aVonly because it's so widespread.
+p298
+aVThey say, "Why do you feel sorry for them?
+p299
+aVWhy do you feel sorry for them?
+p300
+aVWhy don't you feel sorry for civilians in Yemen
+p301
+aVor civilians in Syria?"
+p302
+aa(lp303
+VAnd I think the people who write such messages
+p304
+aVdo not understand
+p305
+aVthat we can feel sorry for and stand in solidarity with
+p306
+aVvictims of terrorism and violence in the Middle East, in Europe,
+p307
+aVin Asia, in America, wherever, everywhere,
+p308
+aVequally and simultaneously.
+p309
+aVThey don't seem to understand that we don't have to pick one pain
+p310
+aVand one place over all others.
+p311
+aVBut I think this is what tribalism does to us.
+p312
+aVIt shrinks our minds, for sure,
+p313
+aVbut it also shrinks our hearts,
+p314
+aVto such an extent that we become numb to the suffering of other people.
+p315
+aa(lp316
+VAnd the sad truth is, we weren't always like this.
+p317
+aVI had a children's book out in Turkey,
+p318
+aVand when the book was published, I did lots of events.
+p319
+aVI went to many primary schools,
+p320
+aVwhich gave me a chance to observe younger kids in Turkey.
+p321
+aVAnd it was always amazing to see how much empathy, imagination
+p322
+aVand chutzpah they have.
+p323
+aVThese children are much more inclined to become global citizens
+p324
+aVthan nationalists at that age.
+p325
+aVAnd it's wonderful to see, when you ask them,
+p326
+aVso many of them want to be poets and writers,
+p327
+aVand girls are just as confident as boys,
+p328
+aVif not even more.
+p329
+aa(lp330
+VBut then I would go to high schools,
+p331
+aVand everything has changed.
+p332
+aVNow nobody wants to be a writer anymore,
+p333
+aVnow nobody wants to be a novelist anymore,
+p334
+aVand girls have become timid,
+p335
+aVthey are cautious, guarded,
+p336
+aVreluctant to speak up in the public space,
+p337
+aVbecause we have taught them \u2014
+p338
+aVthe family, the school, the society \u2014
+p339
+aVwe have taught them to erase their individuality.
+p340
+aa(lp341
+VI think East and West,
+p342
+aVwe are losing multiplicity,
+p343
+aVboth within our societies and within ourselves.
+p344
+aVAnd coming from Turkey, I do know that the loss of diversity
+p345
+aVis a major, major loss.
+p346
+aVToday, my motherland became the world's biggest jailer
+p347
+aVfor journalists,
+p348
+aVsurpassing even China's sad record.
+p349
+aVAnd I also believe that what happened over there in Turkey
+p350
+aVcan happen anywhere.
+p351
+aVIt can even happen here.
+p352
+aVSo just like solid countries was an illusion,
+p353
+aVsingular identities is also an illusion,
+p354
+aVbecause we all have a multiplicity of voices inside.
+p355
+aVThe Iranian, the Persian poet, Hafiz,
+p356
+aVused to say, "You carry in your soul every ingredient necessary
+p357
+aVto turn your existence into joy.
+p358
+aVAll you have to do is to mix those ingredients."
+p359
+aa(lp360
+VAnd I think mix we can.
+p361
+aVI am an Istanbulite,
+p362
+aVbut I'm also attached to the Balkans,
+p363
+aVthe Aegean, the Mediterranean,
+p364
+aVthe Middle East, the Levant.
+p365
+aVI am a European by birth, by choice,
+p366
+aVthe values that I uphold.
+p367
+aVI have become a Londoner over the years.
+p368
+aVI would like to think of myself as a global soul, as a world citizen,
+p369
+aVa nomad and an itinerant storyteller.
+p370
+aVI have multiple attachments, just like all of us do.
+p371
+aVAnd multiple attachments mean multiple stories.
+p372
+aa(lp373
+VAs writers, we always chase stories, of course,
+p374
+aVbut I think we are also interested in silences,
+p375
+aVthe things we cannot talk about,
+p376
+aVpolitical taboos, cultural taboos.
+p377
+aVWe're also interested in our own silences.
+p378
+aVI have always been very vocal about and written extensively
+p379
+aVabout minority rights, women's rights,
+p380
+aVLGBT rights.
+p381
+aVBut as I was thinking about this TED Talk,
+p382
+aVI realized one thing:
+p383
+aVI have never had the courage to say in a public space
+p384
+aVthat I was bisexual myself,
+p385
+aVbecause I so feared the slander
+p386
+aVand the stigma and the ridicule
+p387
+aVand the hatred that was sure to follow.
+p388
+aVBut of course, one should never, ever, remain silent
+p389
+aVfor fear of complexity.
+p390
+aa(lp391
+V(Applause)
+p392
+aa(lp393
+VAnd although I am no stranger to anxieties,
+p394
+aVand although I am talking here about the power of emotions \u2014
+p395
+aVI do know the power of emotions \u2014
+p396
+aVI have discovered over time
+p397
+aVthat emotions are not limitless.
+p398
+aVYou know? They have a limit.
+p399
+aVThere comes a moment \u2014
+p400
+aVit's like a tipping point or a threshold \u2014
+p401
+aVwhen you get tired of feeling afraid,
+p402
+aVwhen you get tired of feeling anxious.
+p403
+aVAnd I think not only individuals,
+p404
+aVbut perhaps nations, too, have their own tipping points.
+p405
+aVSo even stronger than my emotions
+p406
+aVis my awareness
+p407
+aVthat not only gender, not only identity,
+p408
+aVbut life itself is fluid.
+p409
+aVThey want to divide us into tribes,
+p410
+aVbut we are connected across borders.
+p411
+aVThey preach certainty,
+p412
+aVbut we know that life has plenty of magic
+p413
+aVand plenty of ambiguity.
+p414
+aVAnd they like to incite dualities,
+p415
+aVbut we are far more nuanced than that.
+p416
+aa(lp417
+VSo what can we do?
+p418
+aVI think we need to go back to the basics,
+p419
+aVback to the colors of the alphabet.
+p420
+aVThe Lebanese poet Khalil Gibran used to say,
+p421
+aV"I learned silence from the talkative
+p422
+aVand tolerance from the intolerant
+p423
+aVand kindness from the unkind."
+p424
+aVI think it's a great motto for our times.
+p425
+aa(lp426
+VSo from populist demagogues, we will learn
+p427
+aVthe indispensability of democracy.
+p428
+aVAnd from isolationists, we will learn the need for global solidarity.
+p429
+aVAnd from tribalists, we will learn the beauty of cosmopolitanism
+p430
+aVand the beauty of diversity.
+p431
+aa(lp432
+VAs I finish, I want to leave you with one word, or one taste.
+p433
+aVThe word "yurt" in Turkish means "motherland."
+p434
+aVIt means "homeland."
+p435
+aVBut interestingly, the word also means
+p436
+aV"a tent used by nomadic tribes."
+p437
+aVAnd I like that combination, because it makes me think
+p438
+aVhomelands do not need to be rooted in one place.
+p439
+aVThey can be portable.
+p440
+aVWe can take them with us everywhere.
+p441
+aVAnd I think for writers, for storytellers,
+p442
+aVat the end of the day,
+p443
+aVthere is one main homeland,
+p444
+aVand it's called "Storyland."
+p445
+aVAnd the taste of that word
+p446
+aVis the taste of freedom.
+p447
+aa(lp448
+VThank you.
+p449
+aa(lp450
+V(Applause)
+p451
+aasS'id'
+p452
+I3269
+sS'title'
+p453
+VThe revolutionary power of diverse thought
+p454
+s.

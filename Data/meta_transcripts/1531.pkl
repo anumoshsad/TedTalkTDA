@@ -1,0 +1,985 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VLike many of you, I'm one of the lucky people.
+p4
+aVI was born to a family where education was pervasive.
+p5
+aVI'm a third-generation PhD, a daughter of two academics.
+p6
+aVIn my childhood, I played around in my father's university lab.
+p7
+aVSo it was taken for granted that I attend some of the best universities,
+p8
+aVwhich in turn opened the door to a world of opportunity.
+p9
+aa(lp10
+VUnfortunately, most of the people in the world are not so lucky.
+p11
+aVIn some parts of the world, for example, South Africa,
+p12
+aVeducation is just not readily accessible.
+p13
+aVIn South Africa, the educational system was constructed
+p14
+aVin the days of apartheid for the white minority.
+p15
+aVAnd as a consequence, today there is just not enough spots
+p16
+aVfor the many more people who want and deserve a high quality education.
+p17
+aVThat scarcity led to a crisis in January of this year
+p18
+aVat the University of Johannesburg.
+p19
+aVThere were a handful of positions left open
+p20
+aVfrom the standard admissions process, and the night before
+p21
+aVthey were supposed to open that for registration,
+p22
+aVthousands of people lined up outside the gate in a line a mile long,
+p23
+aVhoping to be first in line to get one of those positions.
+p24
+aVWhen the gates opened, there was a stampede,
+p25
+aVand 20 people were injured and one woman died.
+p26
+aVShe was a mother who gave her life
+p27
+aVtrying to get her son a chance at a better life.
+p28
+aa(lp29
+VBut even in parts of the world like the United States
+p30
+aVwhere education is available, it might not be within reach.
+p31
+aVThere has been much discussed in the last few years
+p32
+aVabout the rising cost of health care.
+p33
+aVWhat might not be quite as obvious to people
+p34
+aVis that during that same period the cost of higher education tuition
+p35
+aVhas been increasing at almost twice the rate,
+p36
+aVfor a total of 559 percent since 1985.
+p37
+aVThis makes education unaffordable for many people.
+p38
+aa(lp39
+VFinally, even for those who do manage to get the higher education,
+p40
+aVthe doors of opportunity might not open.
+p41
+aVOnly a little over half of recent college graduates
+p42
+aVin the United States who get a higher education
+p43
+aVactually are working in jobs that require that education.
+p44
+aVThis, of course, is not true for the students
+p45
+aVwho graduate from the top institutions,
+p46
+aVbut for many others, they do not get the value
+p47
+aVfor their time and their effort.
+p48
+aa(lp49
+VTom Friedman, in his recent New York Times article,
+p50
+aVcaptured, in the way that no one else could, the spirit behind our effort.
+p51
+aVHe said the big breakthroughs are what happen
+p52
+aVwhen what is suddenly possible meets what is desperately necessary.
+p53
+aVI've talked about what's desperately necessary.
+p54
+aVLet's talk about what's suddenly possible.
+p55
+aa(lp56
+VWhat's suddenly possible was demonstrated by
+p57
+aVthree big Stanford classes,
+p58
+aVeach of which had an enrollment of 100,000 people or more.
+p59
+aVSo to understand this, let's look at one of those classes,
+p60
+aVthe Machine Learning class offered by my colleague
+p61
+aVand cofounder Andrew Ng.
+p62
+aVAndrew teaches one of the bigger Stanford classes.
+p63
+aVIt's a Machine Learning class,
+p64
+aVand it has 400 people enrolled every time it's offered.
+p65
+aVWhen Andrew taught the Machine Learning class to the general public,
+p66
+aVit had 100,000 people registered.
+p67
+aVSo to put that number in perspective,
+p68
+aVfor Andrew to reach that same size audience
+p69
+aVby teaching a Stanford class,
+p70
+aVhe would have to do that for 250 years.
+p71
+aVOf course, he'd get really bored.
+p72
+aa(lp73
+VSo, having seen the impact of this,
+p74
+aVAndrew and I decided that we needed to really try and scale this up,
+p75
+aVto bring the best quality education to as many people as we could.
+p76
+aVSo we formed Coursera,
+p77
+aVwhose goal is to take the best courses
+p78
+aVfrom the best instructors at the best universities
+p79
+aVand provide it to everyone around the world for free.
+p80
+aVWe currently have 43 courses on the platform
+p81
+aVfrom four universities across a range of disciplines,
+p82
+aVand let me show you a little bit of an overview
+p83
+aVof what that looks like.
+p84
+aa(lp85
+V(Video) Robert Ghrist: Welcome to Calculus.
+p86
+aa(lp87
+VEzekiel Emanuel: Fifty million people are uninsured.
+p88
+aa(lp89
+VScott Page: Models help us design more effective institutions and policies.
+p90
+aVWe get unbelievable segregation.
+p91
+aa(lp92
+VScott Klemmer: So Bush imagined that in the future,
+p93
+aVyou'd wear a camera right in the center of your head.
+p94
+aa(lp95
+VMitchell Duneier: Mills wants the student of sociology to develop the quality of mind ...
+p96
+aa(lp97
+VRG: Hanging cable takes on the form of a hyperbolic cosine.
+p98
+aa(lp99
+VNick Parlante: For each pixel in the image, set the red to zero.
+p100
+aa(lp101
+VPaul Offit: ... Vaccine allowed us to eliminate polio virus.
+p102
+aa(lp103
+VDan Jurafsky: Does Lufthansa serve breakfast and San Jose? Well, that sounds funny.
+p104
+aa(lp105
+VDaphne Koller: So this is which coin you pick, and this is the two tosses.
+p106
+aa(lp107
+VAndrew Ng: So in large-scale machine learning, we'd like to come up with computational ...
+p108
+aa(lp109
+V(Applause)
+p110
+aa(lp111
+VDK: It turns out, maybe not surprisingly,
+p112
+aVthat students like getting the best content
+p113
+aVfrom the best universities for free.
+p114
+aVSince we opened the website in February,
+p115
+aVwe now have 640,000 students from 190 countries.
+p116
+aVWe have 1.5 million enrollments,
+p117
+aV6 million quizzes in the 15 classes that have launched
+p118
+aVso far have been submitted, and 14 million videos have been viewed.
+p119
+aa(lp120
+VBut it's not just about the numbers,
+p121
+aVit's also about the people.
+p122
+aVWhether it's Akash, who comes from a small town in India
+p123
+aVand would never have access in this case
+p124
+aVto a Stanford-quality course
+p125
+aVand would never be able to afford it.
+p126
+aVOr Jenny, who is a single mother of two
+p127
+aVand wants to hone her skills
+p128
+aVso that she can go back and complete her master's degree.
+p129
+aVOr Ryan, who can't go to school,
+p130
+aVbecause his immune deficient daughter
+p131
+aVcan't be risked to have germs come into the house,
+p132
+aVso he couldn't leave the house.
+p133
+aVI'm really glad to say \u2014
+p134
+aVrecently, we've been in correspondence with Ryan \u2014
+p135
+aVthat this story had a happy ending.
+p136
+aVBaby Shannon \u2014 you can see her on the left \u2014
+p137
+aVis doing much better now,
+p138
+aVand Ryan got a job by taking some of our courses.
+p139
+aa(lp140
+VSo what made these courses so different?
+p141
+aVAfter all, online course content has been available for a while.
+p142
+aVWhat made it different was that this was real course experience.
+p143
+aVIt started on a given day,
+p144
+aVand then the students would watch videos on a weekly basis
+p145
+aVand do homework assignments.
+p146
+aVAnd these would be real homework assignments
+p147
+aVfor a real grade, with a real deadline.
+p148
+aVYou can see the deadlines and the usage graph.
+p149
+aVThese are the spikes showing
+p150
+aVthat procrastination is global phenomenon.
+p151
+aa(lp152
+V(Laughter)
+p153
+aa(lp154
+VAt the end of the course,
+p155
+aVthe students got a certificate.
+p156
+aVThey could present that certificate
+p157
+aVto a prospective employer and get a better job,
+p158
+aVand we know many students who did.
+p159
+aVSome students took their certificate
+p160
+aVand presented this to an educational institution at which they were enrolled
+p161
+aVfor actual college credit.
+p162
+aVSo these students were really getting something meaningful
+p163
+aVfor their investment of time and effort.
+p164
+aa(lp165
+VLet's talk a little bit about some of the components
+p166
+aVthat go into these courses.
+p167
+aVThe first component is that when you move away
+p168
+aVfrom the constraints of a physical classroom
+p169
+aVand design content explicitly for an online format,
+p170
+aVyou can break away from, for example,
+p171
+aVthe monolithic one-hour lecture.
+p172
+aVYou can break up the material, for example,
+p173
+aVinto these short, modular units of eight to 12 minutes,
+p174
+aVeach of which represents a coherent concept.
+p175
+aVStudents can traverse this material in different ways,
+p176
+aVdepending on their background, their skills or their interests.
+p177
+aVSo, for example, some students might benefit
+p178
+aVfrom a little bit of preparatory material
+p179
+aVthat other students might already have.
+p180
+aVOther students might be interested in a particular
+p181
+aVenrichment topic that they want to pursue individually.
+p182
+aVSo this format allows us to break away
+p183
+aVfrom the one-size-fits-all model of education,
+p184
+aVand allows students to follow a much more personalized curriculum.
+p185
+aa(lp186
+VOf course, we all know as educators
+p187
+aVthat students don't learn by sitting and passively watching videos.
+p188
+aVPerhaps one of the biggest components of this effort
+p189
+aVis that we need to have students
+p190
+aVwho practice with the material
+p191
+aVin order to really understand it.
+p192
+aVThere's been a range of studies that demonstrate the importance of this.
+p193
+aVThis one that appeared in Science last year, for example,
+p194
+aVdemonstrates that even simple retrieval practice,
+p195
+aVwhere students are just supposed to repeat
+p196
+aVwhat they already learned
+p197
+aVgives considerably improved results
+p198
+aVon various achievement tests down the line
+p199
+aVthan many other educational interventions.
+p200
+aa(lp201
+VWe've tried to build in retrieval practice into the platform,
+p202
+aVas well as other forms of practice in many ways.
+p203
+aVFor example, even our videos are not just videos.
+p204
+aVEvery few minutes, the video pauses
+p205
+aVand the students get asked a question.
+p206
+aa(lp207
+V(Video) SP: ... These four things. Prospect theory, hyperbolic discounting,
+p208
+aVstatus quo bias, base rate bias. They're all well documented.
+p209
+aVSo they're all well documented deviations from rational behavior.
+p210
+aa(lp211
+VDK: So here the video pauses,
+p212
+aVand the student types in the answer into the box
+p213
+aVand submits. Obviously they weren't paying attention.
+p214
+aa(lp215
+V(Laughter)
+p216
+aa(lp217
+VSo they get to try again,
+p218
+aVand this time they got it right.
+p219
+aVThere's an optional explanation if they want.
+p220
+aVAnd now the video moves on to the next part of the lecture.
+p221
+aVThis is a kind of simple question
+p222
+aVthat I as an instructor might ask in class,
+p223
+aVbut when I ask that kind of a question in class,
+p224
+aV80 percent of the students
+p225
+aVare still scribbling the last thing I said,
+p226
+aV15 percent are zoned out on Facebook,
+p227
+aVand then there's the smarty pants in the front row
+p228
+aVwho blurts out the answer
+p229
+aVbefore anyone else has had a chance to think about it,
+p230
+aVand I as the instructor am terribly gratified
+p231
+aVthat somebody actually knew the answer.
+p232
+aVAnd so the lecture moves on before, really,
+p233
+aVmost of the students have even noticed that a question had been asked.
+p234
+aVHere, every single student
+p235
+aVhas to engage with the material.
+p236
+aa(lp237
+VAnd of course these simple retrieval questions
+p238
+aVare not the end of the story.
+p239
+aVOne needs to build in much more meaningful practice questions,
+p240
+aVand one also needs to provide the students with feedback
+p241
+aVon those questions.
+p242
+aVNow, how do you grade the work of 100,000 students
+p243
+aVif you do not have 10,000 TAs?
+p244
+aVThe answer is, you need to use technology
+p245
+aVto do it for you.
+p246
+aVNow, fortunately, technology has come a long way,
+p247
+aVand we can now grade a range of interesting types of homework.
+p248
+aVIn addition to multiple choice
+p249
+aVand the kinds of short answer questions that you saw in the video,
+p250
+aVwe can also grade math, mathematical expressions
+p251
+aVas well as mathematical derivations.
+p252
+aVWe can grade models, whether it's
+p253
+aVfinancial models in a business class
+p254
+aVor physical models in a science or engineering class
+p255
+aVand we can grade some pretty sophisticated programming assignments.
+p256
+aa(lp257
+VLet me show you one that's actually pretty simple
+p258
+aVbut fairly visual.
+p259
+aVThis is from Stanford's Computer Science 101 class,
+p260
+aVand the students are supposed to color-correct
+p261
+aVthat blurry red image.
+p262
+aVThey're typing their program into the browser,
+p263
+aVand you can see they didn't get it quite right, Lady Liberty is still seasick.
+p264
+aVAnd so, the student tries again, and now they got it right, and they're told that,
+p265
+aVand they can move on to the next assignment.
+p266
+aVThis ability to interact actively with the material
+p267
+aVand be told when you're right or wrong
+p268
+aVis really essential to student learning.
+p269
+aa(lp270
+VNow, of course we cannot yet grade
+p271
+aVthe range of work that one needs for all courses.
+p272
+aVSpecifically, what's lacking is the kind of critical thinking work
+p273
+aVthat is so essential in such disciplines
+p274
+aVas the humanities, the social sciences, business and others.
+p275
+aVSo we tried to convince, for example,
+p276
+aVsome of our humanities faculty
+p277
+aVthat multiple choice was not such a bad strategy.
+p278
+aVThat didn't go over really well.
+p279
+aa(lp280
+VSo we had to come up with a different solution.
+p281
+aVAnd the solution we ended up using is peer grading.
+p282
+aVIt turns out that previous studies show,
+p283
+aVlike this one by Saddler and Good,
+p284
+aVthat peer grading is a surprisingly effective strategy
+p285
+aVfor providing reproducible grades.
+p286
+aVIt was tried only in small classes,
+p287
+aVbut there it showed, for example,
+p288
+aVthat these student-assigned grades on the y-axis
+p289
+aVare actually very well correlated
+p290
+aVwith the teacher-assigned grade on the x-axis.
+p291
+aVWhat's even more surprising is that self-grades,
+p292
+aVwhere the students grade their own work critically \u2014
+p293
+aVso long as you incentivize them properly
+p294
+aVso they can't give themselves a perfect score \u2014
+p295
+aVare actually even better correlated with the teacher grades.
+p296
+aVAnd so this is an effective strategy
+p297
+aVthat can be used for grading at scale,
+p298
+aVand is also a useful learning strategy for the students,
+p299
+aVbecause they actually learn from the experience.
+p300
+aVSo we now have the largest peer-grading pipeline ever devised,
+p301
+aVwhere tens of thousands of students
+p302
+aVare grading each other's work,
+p303
+aVand quite successfully, I have to say.
+p304
+aa(lp305
+VBut this is not just about students
+p306
+aVsitting alone in their living room working through problems.
+p307
+aVAround each one of our courses,
+p308
+aVa community of students had formed,
+p309
+aVa global community of people
+p310
+aVaround a shared intellectual endeavor.
+p311
+aVWhat you see here is a self-generated map
+p312
+aVfrom students in our Princeton Sociology 101 course,
+p313
+aVwhere they have put themselves on a world map,
+p314
+aVand you can really see the global reach of this kind of effort.
+p315
+aa(lp316
+VStudents collaborated in these courses in a variety of different ways.
+p317
+aVFirst of all, there was a question and answer forum,
+p318
+aVwhere students would pose questions,
+p319
+aVand other students would answer those questions.
+p320
+aVAnd the really amazing thing is,
+p321
+aVbecause there were so many students,
+p322
+aVit means that even if a student posed a question
+p323
+aVat 3 o'clock in the morning,
+p324
+aVsomewhere around the world,
+p325
+aVthere would be somebody who was awake
+p326
+aVand working on the same problem.
+p327
+aVAnd so, in many of our courses,
+p328
+aVthe median response time for a question
+p329
+aVon the question and answer forum was 22 minutes.
+p330
+aVWhich is not a level of service I have ever offered to my Stanford students.
+p331
+aa(lp332
+V(Laughter)
+p333
+aa(lp334
+VAnd you can see from the student testimonials
+p335
+aVthat students actually find
+p336
+aVthat because of this large online community,
+p337
+aVthey got to interact with each other in many ways
+p338
+aVthat were deeper than they did in the context of the physical classroom.
+p339
+aVStudents also self-assembled,
+p340
+aVwithout any kind of intervention from us,
+p341
+aVinto small study groups.
+p342
+aVSome of these were physical study groups
+p343
+aValong geographical constraints
+p344
+aVand met on a weekly basis to work through problem sets.
+p345
+aVThis is the San Francisco study group,
+p346
+aVbut there were ones all over the world.
+p347
+aVOthers were virtual study groups,
+p348
+aVsometimes along language lines or along cultural lines,
+p349
+aVand on the bottom left there,
+p350
+aVyou see our multicultural universal study group
+p351
+aVwhere people explicitly wanted to connect
+p352
+aVwith people from other cultures.
+p353
+aa(lp354
+VThere are some tremendous opportunities
+p355
+aVto be had from this kind of framework.
+p356
+aVThe first is that it has the potential of giving us
+p357
+aVa completely unprecedented look
+p358
+aVinto understanding human learning.
+p359
+aVBecause the data that we can collect here is unique.
+p360
+aVYou can collect every click, every homework submission,
+p361
+aVevery forum post from tens of thousands of students.
+p362
+aVSo you can turn the study of human learning
+p363
+aVfrom the hypothesis-driven mode
+p364
+aVto the data-driven mode, a transformation that,
+p365
+aVfor example, has revolutionized biology.
+p366
+aVYou can use these data to understand fundamental questions
+p367
+aVlike, what are good learning strategies
+p368
+aVthat are effective versus ones that are not?
+p369
+aVAnd in the context of particular courses,
+p370
+aVyou can ask questions
+p371
+aVlike, what are some of the misconceptions that are more common
+p372
+aVand how do we help students fix them?
+p373
+aa(lp374
+VSo here's an example of that,
+p375
+aValso from Andrew's Machine Learning class.
+p376
+aVThis is a distribution of wrong answers
+p377
+aVto one of Andrew's assignments.
+p378
+aVThe answers happen to be pairs of numbers,
+p379
+aVso you can draw them on this two-dimensional plot.
+p380
+aVEach of the little crosses that you see is a different wrong answer.
+p381
+aVThe big cross at the top left
+p382
+aVis where 2,000 students
+p383
+aVgave the exact same wrong answer.
+p384
+aVNow, if two students in a class of 100
+p385
+aVgive the same wrong answer,
+p386
+aVyou would never notice.
+p387
+aVBut when 2,000 students give the same wrong answer,
+p388
+aVit's kind of hard to miss.
+p389
+aVSo Andrew and his students went in,
+p390
+aVlooked at some of those assignments,
+p391
+aVunderstood the root cause of the misconception,
+p392
+aVand then they produced a targeted error message
+p393
+aVthat would be provided to every student
+p394
+aVwhose answer fell into that bucket,
+p395
+aVwhich means that students who made that same mistake
+p396
+aVwould now get personalized feedback
+p397
+aVtelling them how to fix their misconception much more effectively.
+p398
+aa(lp399
+VSo this personalization is something that one can then build
+p400
+aVby having the virtue of large numbers.
+p401
+aVPersonalization is perhaps
+p402
+aVone of the biggest opportunities here as well,
+p403
+aVbecause it provides us with the potential
+p404
+aVof solving a 30-year-old problem.
+p405
+aVEducational researcher Benjamin Bloom, in 1984,
+p406
+aVposed what's called the 2 sigma problem,
+p407
+aVwhich he observed by studying three populations.
+p408
+aVThe first is the population that studied in a lecture-based classroom.
+p409
+aVThe second is a population of students that studied
+p410
+aVusing a standard lecture-based classroom,
+p411
+aVbut with a mastery-based approach,
+p412
+aVso the students couldn't move on to the next topic
+p413
+aVbefore demonstrating mastery of the previous one.
+p414
+aVAnd finally, there was a population of students
+p415
+aVthat were taught in a one-on-one instruction using a tutor.
+p416
+aVThe mastery-based population was a full standard deviation,
+p417
+aVor sigma, in achievement scores better
+p418
+aVthan the standard lecture-based class,
+p419
+aVand the individual tutoring gives you 2 sigma
+p420
+aVimprovement in performance.
+p421
+aa(lp422
+VTo understand what that means,
+p423
+aVlet's look at the lecture-based classroom,
+p424
+aVand let's pick the median performance as a threshold.
+p425
+aVSo in a lecture-based class,
+p426
+aVhalf the students are above that level and half are below.
+p427
+aVIn the individual tutoring instruction,
+p428
+aV98 percent of the students are going to be above that threshold.
+p429
+aVImagine if we could teach so that 98 percent of our students
+p430
+aVwould be above average.
+p431
+aVHence, the 2 sigma problem.
+p432
+aa(lp433
+VBecause we cannot afford, as a society,
+p434
+aVto provide every student with an individual human tutor.
+p435
+aVBut maybe we can afford to provide each student
+p436
+aVwith a computer or a smartphone.
+p437
+aVSo the question is, how can we use technology
+p438
+aVto push from the left side of the graph, from the blue curve,
+p439
+aVto the right side with the green curve?
+p440
+aVMastery is easy to achieve using a computer,
+p441
+aVbecause a computer doesn't get tired
+p442
+aVof showing you the same video five times.
+p443
+aVAnd it doesn't even get tired of grading the same work multiple times,
+p444
+aVwe've seen that in many of the examples that I've shown you.
+p445
+aVAnd even personalization
+p446
+aVis something that we're starting to see the beginnings of,
+p447
+aVwhether it's via the personalized trajectory through the curriculum
+p448
+aVor some of the personalized feedback that we've shown you.
+p449
+aVSo the goal here is to try and push,
+p450
+aVand see how far we can get towards the green curve.
+p451
+aa(lp452
+VSo, if this is so great, are universities now obsolete?
+p453
+aVWell, Mark Twain certainly thought so.
+p454
+aVHe said that, "College is a place where a professor's lecture notes
+p455
+aVgo straight to the students' lecture notes,
+p456
+aVwithout passing through the brains of either."
+p457
+aa(lp458
+V(Laughter)
+p459
+aa(lp460
+VI beg to differ with Mark Twain, though.
+p461
+aVI think what he was complaining about is not
+p462
+aVuniversities but rather the lecture-based format
+p463
+aVthat so many universities spend so much time on.
+p464
+aVSo let's go back even further, to Plutarch,
+p465
+aVwho said that, "The mind is not a vessel that needs filling,
+p466
+aVbut wood that needs igniting."
+p467
+aVAnd maybe we should spend less time at universities
+p468
+aVfilling our students' minds with content
+p469
+aVby lecturing at them, and more time igniting their creativity,
+p470
+aVtheir imagination and their problem-solving skills
+p471
+aVby actually talking with them.
+p472
+aa(lp473
+VSo how do we do that?
+p474
+aVWe do that by doing active learning in the classroom.
+p475
+aVSo there's been many studies, including this one,
+p476
+aVthat show that if you use active learning,
+p477
+aVinteracting with your students in the classroom,
+p478
+aVperformance improves on every single metric \u2014
+p479
+aVon attendance, on engagement and on learning
+p480
+aVas measured by a standardized test.
+p481
+aVYou can see, for example, that the achievement score
+p482
+aValmost doubles in this particular experiment.
+p483
+aVSo maybe this is how we should spend our time at universities.
+p484
+aa(lp485
+VSo to summarize, if we could offer a top quality education
+p486
+aVto everyone around the world for free,
+p487
+aVwhat would that do? Three things.
+p488
+aVFirst it would establish education as a fundamental human right,
+p489
+aVwhere anyone around the world
+p490
+aVwith the ability and the motivation
+p491
+aVcould get the skills that they need
+p492
+aVto make a better life for themselves,
+p493
+aVtheir families and their communities.
+p494
+aa(lp495
+VSecond, it would enable lifelong learning.
+p496
+aVIt's a shame that for so many people,
+p497
+aVlearning stops when we finish high school or when we finish college.
+p498
+aVBy having this amazing content be available,
+p499
+aVwe would be able to learn something new
+p500
+aVevery time we wanted,
+p501
+aVwhether it's just to expand our minds
+p502
+aVor it's to change our lives.
+p503
+aa(lp504
+VAnd finally, this would enable a wave of innovation,
+p505
+aVbecause amazing talent can be found anywhere.
+p506
+aVMaybe the next Albert Einstein or the next Steve Jobs
+p507
+aVis living somewhere in a remote village in Africa.
+p508
+aVAnd if we could offer that person an education,
+p509
+aVthey would be able to come up with the next big idea
+p510
+aVand make the world a better place for all of us.
+p511
+aa(lp512
+VThank you very much.
+p513
+aa(lp514
+V(Applause)
+p515
+aasS'id'
+p516
+I1531
+sS'title'
+p517
+VWhat we're learning from online education
+p518
+s.

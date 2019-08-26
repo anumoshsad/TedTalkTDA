@@ -1,0 +1,703 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI would like to talk today
+p4
+aVabout what I think is one of the greatest adventures
+p5
+aVhuman beings have embarked upon,
+p6
+aVwhich is the quest to understand the universe
+p7
+aVand our place in it.
+p8
+aVMy own interest in this subject, and my passion for it,
+p9
+aVbegan rather accidentally.
+p10
+aVI had bought a copy of this book,
+p11
+aV"The Universe and Dr. Einstein" \u2014
+p12
+aVa used paperback from a secondhand bookstore in Seattle.
+p13
+aVA few years after that, in Bangalore,
+p14
+aVI was finding it hard to fall asleep one night,
+p15
+aVand I picked up this book,
+p16
+aVthinking it would put me to sleep in 10 minutes.
+p17
+aVAnd as it happened,
+p18
+aVI read it from midnight to five in the morning in one shot.
+p19
+aVAnd I was left with this intense feeling
+p20
+aVof awe and exhilaration
+p21
+aVat the universe
+p22
+aVand our own ability to understand as much as we do.
+p23
+aVAnd that feeling hasn't left me yet.
+p24
+aa(lp25
+VThat feeling was the trigger for me
+p26
+aVto actually change my career \u2014
+p27
+aVfrom being a software engineer to become a science writer \u2014
+p28
+aVso that I could partake in the joy of science,
+p29
+aVand also the joy of communicating it to others.
+p30
+aVAnd that feeling also led me
+p31
+aVto a pilgrimage of sorts,
+p32
+aVto go literally to the ends of the earth
+p33
+aVto see telescopes, detectors,
+p34
+aVinstruments that people are building, or have built,
+p35
+aVin order to probe the cosmos
+p36
+aVin greater and greater detail.
+p37
+aVSo it took me from places like Chile \u2014
+p38
+aVthe Atacama Desert in Chile \u2014
+p39
+aVto Siberia,
+p40
+aVto underground mines
+p41
+aVin the Japanese Alps, in Northern America,
+p42
+aVall the way to Antarctica
+p43
+aVand even to the South Pole.
+p44
+aa(lp45
+VAnd today I would like to share with you
+p46
+aVsome images, some stories of these trips.
+p47
+aVI have been basically spending the last few years
+p48
+aVdocumenting the efforts
+p49
+aVof some extremely intrepid men and women
+p50
+aVwho are putting,
+p51
+aVliterally at times, their lives at stake
+p52
+aVworking in some very remote and very hostile places
+p53
+aVso that they may gather the faintest signals from the cosmos
+p54
+aVin order for us to understand this universe.
+p55
+aa(lp56
+VAnd I first begin with a pie chart \u2014
+p57
+aVand I promise this is the only pie chart
+p58
+aVin the whole presentation \u2014
+p59
+aVbut it sets up the state of our knowledge of the cosmos.
+p60
+aVAll the theories in physics that we have today
+p61
+aVproperly explain what is called normal matter \u2014
+p62
+aVthe stuff that we're all made of \u2014
+p63
+aVand that's four percent of the universe.
+p64
+aVAstronomers and cosmologists and physicists think
+p65
+aVthat there is something called dark matter in the universe,
+p66
+aVwhich makes up 23 percent of the universe,
+p67
+aVand something called dark energy,
+p68
+aVwhich permeates the fabric of space-time,
+p69
+aVthat makes up another 73 percent.
+p70
+aVSo if you look at this pie chart, 96 percent of the universe,
+p71
+aVat this point in our exploration of it,
+p72
+aVis unknown or not well understood.
+p73
+aVAnd most of the experiments, telescopes that I went to see
+p74
+aVare in some way addressing this question,
+p75
+aVthese two twin mysteries of dark matter and dark energy.
+p76
+aa(lp77
+VI will take you first to an underground mine
+p78
+aVin Northern Minnesota
+p79
+aVwhere people are looking
+p80
+aVfor something called dark matter.
+p81
+aVAnd the idea here is that they are looking for a sign
+p82
+aVof a dark matter particle hitting one of their detectors.
+p83
+aVAnd the reason why they have to go underground
+p84
+aVis that, if you did this experiment on the surface of the Earth,
+p85
+aVthe same experiment would be swamped by signals
+p86
+aVthat could be created by things like cosmic rays,
+p87
+aVambient radio activity,
+p88
+aVeven our own bodies. You might not believe it,
+p89
+aVbut even our own bodies are radioactive enough to disturb this experiment.
+p90
+aVSo they go deep inside mines
+p91
+aVto find a kind of environmental silence
+p92
+aVthat will allow them to hear
+p93
+aVthe ping of a dark matter particle hitting their detector.
+p94
+aa(lp95
+VAnd I went to see one of these experiments,
+p96
+aVand this is actually \u2014 you can barely see it,
+p97
+aVand the reason for that is it's entirely dark in there \u2014
+p98
+aVthis is a cavern that was left behind by the miners
+p99
+aVwho left this mine in 1960.
+p100
+aVAnd physicists came and started using it
+p101
+aVsometime in the 1980s.
+p102
+aVAnd the miners in the early part of the last century
+p103
+aVworked, literally, in candlelight.
+p104
+aVAnd today, you would see this inside the mine,
+p105
+aVhalf a mile underground.
+p106
+aVThis is one of the largest underground labs in the world.
+p107
+aVAnd, among other things, they're looking for dark matter.
+p108
+aa(lp109
+VThere is another way to search for dark matter,
+p110
+aVwhich is indirectly.
+p111
+aVIf dark matter exists in our universe,
+p112
+aVin our galaxy,
+p113
+aVthen these particles should be smashing together
+p114
+aVand producing other particles that we know about \u2014
+p115
+aVone of them being neutrinos.
+p116
+aVAnd neutrinos you can detect
+p117
+aVby the signature they leave
+p118
+aVwhen they hit water molecules.
+p119
+aVWhen a neutrino hits a water molecule
+p120
+aVit emits a kind of blue light,
+p121
+aVa flash of blue light,
+p122
+aVand by looking for this blue light,
+p123
+aVyou can essentially understand something about the neutrino
+p124
+aVand then, indirectly, something about the dark matter
+p125
+aVthat might have created this neutrino.
+p126
+aVBut you need very, very large volumes of water
+p127
+aVin order to do this.
+p128
+aVYou need something like tens of megatons of water \u2014
+p129
+aValmost a gigaton of water \u2014
+p130
+aVin order to have any chance of catching this neutrino.
+p131
+aVAnd where in the world would you find such water?
+p132
+aVWell the Russians have a tank in their own backyard.
+p133
+aa(lp134
+VThis is Lake Baikal.
+p135
+aVIt is the largest lake in the world. It's 800 km long.
+p136
+aVIt's about 40 to 50 km wide
+p137
+aVin most places,
+p138
+aVand one to two kilometers deep.
+p139
+aVAnd what the Russians are doing
+p140
+aVis they're building these detectors
+p141
+aVand immersing them about a kilometer beneath the surface of the lake
+p142
+aVso that they can watch for these flashes of blue light.
+p143
+aVAnd this is the scene that greeted me when I landed there.
+p144
+aVThis is Lake Baikal
+p145
+aVin the peak of the Siberian winter.
+p146
+aVThe lake is entirely frozen.
+p147
+aVAnd the line of black dots
+p148
+aVthat you see in the background,
+p149
+aVthat's the ice camp where the physicists are working.
+p150
+aVThe reason why they have to work in winter
+p151
+aVis because they don't have the money to work in summer and spring,
+p152
+aVwhich, if they did that,
+p153
+aVthey would need ships and submersibles to do their work.
+p154
+aVSo they wait until winter \u2014
+p155
+aVthe lake is completely frozen over \u2014
+p156
+aVand they use this meter-thick ice
+p157
+aVas a platform on which to establish their ice camp and do their work.
+p158
+aa(lp159
+VSo this is the Russians working on the ice
+p160
+aVin the peak of the Siberian winter.
+p161
+aVThey have to drill holes in the ice,
+p162
+aVdive down into the water \u2014 cold, cold water \u2014
+p163
+aVto get hold of the instrument, bring it up,
+p164
+aVdo any repairs and maintenance that they need to do,
+p165
+aVput it back and get out before the ice melts.
+p166
+aVBecause that phase of solid ice lasts for two months
+p167
+aVand it's full of cracks.
+p168
+aVAnd you have to imagine, there's an entire sea-like lake
+p169
+aVunderneath, moving.
+p170
+aVI still don't understand this one Russian man
+p171
+aVworking in his bare chest,
+p172
+aVbut that tells you how hard he was working.
+p173
+aVAnd these people, a handful of people,
+p174
+aVhave been working for 20 years,
+p175
+aVlooking for particles that may or may not exist.
+p176
+aVAnd they have dedicated their lives to it.
+p177
+aVAnd just to give you an idea,
+p178
+aVthey have spent 20 million over 20 years.
+p179
+aVIt's very harsh conditions.
+p180
+aVThey work on a shoestring budget.
+p181
+aVThe toilets there are literally holes in the ground
+p182
+aVcovered with a wooden shack.
+p183
+aVAnd it's that basic,
+p184
+aVbut they do this every year.
+p185
+aa(lp186
+VFrom Siberia to the Atacama Desert in Chile,
+p187
+aVto see something called The Very Large Telescope.
+p188
+aVThe Very Large Telescope
+p189
+aVis one of these things that astronomers do \u2014
+p190
+aVthey name their telescopes rather unimaginatively.
+p191
+aVI can tell you for a fact,
+p192
+aVthat the next one that they're planning is called The Extremely Large Telescope.
+p193
+aV(Laughter)
+p194
+aVAnd you wouldn't believe it,
+p195
+aVbut the one after that is going to be called The Overwhelmingly Large Telescope.
+p196
+aVBut nonetheless,
+p197
+aVit's an extraordinary piece of engineering.
+p198
+aVThese are four 8.2 meter telescopes.
+p199
+aVAnd these telescopes, among other things,
+p200
+aVthey're being used to study
+p201
+aVhow the expansion of the universe is changing with time.
+p202
+aVAnd the more you understand that,
+p203
+aVthe better you would understand
+p204
+aVwhat this dark energy that the universe is made of is all about.
+p205
+aa(lp206
+VAnd one piece of engineering that I want to leave you with
+p207
+aVas regards this telescope
+p208
+aVis the mirror.
+p209
+aVEach mirror, there are four of them,
+p210
+aVis made of a single piece of glass,
+p211
+aVa monolithic piece of high-tech ceramic,
+p212
+aVthat has been ground down and polished to such accuracy
+p213
+aVthat the only way to understand what that is
+p214
+aVis [to] imagine a city like Paris,
+p215
+aVwith all its buildings and the Eiffel Tower,
+p216
+aVif you grind down Paris to that kind of accuracy,
+p217
+aVyou would be left with bumps that are one millimeter high.
+p218
+aVAnd that's the kind of polishing that these mirrors have endured.
+p219
+aVAn extraordinary set of telescopes.
+p220
+aVHere's another view of the same.
+p221
+aVThe reason why you have to build these telescopes
+p222
+aVin places like the Atacama Desert
+p223
+aVis because of the high altitude desert.
+p224
+aVThe dry air is really good for telescopes,
+p225
+aVand also, the cloud cover is below the summit of these mountains
+p226
+aVso that the telescopes have
+p227
+aVabout 300 days of clear skies.
+p228
+aa(lp229
+VFinally, I want to take you to Antarctica.
+p230
+aVI want to spend most of my time on this part of the world.
+p231
+aVThis is cosmology's final frontier.
+p232
+aVSome of the most amazing experiments,
+p233
+aVsome of the most extreme experiments,
+p234
+aVare being done in Antarctica.
+p235
+aVI was there to view something called a long-duration balloon flight,
+p236
+aVwhich basically takes telescopes and instruments
+p237
+aVall the way to the upper atmosphere,
+p238
+aVthe upper stratosphere, 40 km up.
+p239
+aVAnd that's where they do their experiments,
+p240
+aVand then the balloon, the payload, is brought down.
+p241
+aVSo this is us landing on the Ross Ice Shelf in Antarctica.
+p242
+aVThat's an American C-17 cargo plane
+p243
+aVthat flew us from New Zealand
+p244
+aVto McMurdo in Antarctica.
+p245
+aVAnd here we are about to board our bus.
+p246
+aVAnd I don't know if you can read the lettering,
+p247
+aVbut it says, "Ivan the Terribus."
+p248
+aVAnd that's taking us to McMurdo.
+p249
+aa(lp250
+VAnd this is the scene that greets you in McMurdo.
+p251
+aVAnd you barely might be able to make out
+p252
+aVthis hut here.
+p253
+aVThis hut was built by Robert Falcon Scott and his men
+p254
+aVwhen they first came to Antarctica
+p255
+aVon their first expedition to go to the South Pole.
+p256
+aVBecause it's so cold,
+p257
+aVthe entire contents of that hut is still as they left it,
+p258
+aVwith the remnants of the last meal they cooked still there.
+p259
+aVIt's an extraordinary place.
+p260
+aVThis is McMurdo itself. About a thousand people work here in summer,
+p261
+aVand about 200 in winter
+p262
+aVwhen it's completely dark for six months.
+p263
+aa(lp264
+VI was here to see the launch
+p265
+aVof this particular type of instrument.
+p266
+aVThis is a cosmic ray experiment
+p267
+aVthat has been launched all the way to the upper-stratosphere
+p268
+aVto an altitude of 40 km.
+p269
+aVWhat I want you to imagine is this is two tons in weight.
+p270
+aVSo you're using a balloon
+p271
+aVto carry something that is two tons
+p272
+aVall the way to an altitude of 40 km.
+p273
+aVAnd the engineers, the technicians, the physicists
+p274
+aVhave all got to assemble on the Ross Ice Shelf,
+p275
+aVbecause Antarctica \u2014 I won't go into the reasons why \u2014
+p276
+aVbut it's one of the most favorable places for doing these balloon launches,
+p277
+aVexcept for the weather.
+p278
+aVThe weather, as you can imagine,
+p279
+aVthis is summer, and you're standing on 200 ft of ice.
+p280
+aVAnd there's a volcano behind,
+p281
+aVwhich has glaciers at the very top.
+p282
+aVAnd what they have to do
+p283
+aVis they have to assemble the entire balloon \u2014
+p284
+aVthe fabric, parachute and everything \u2014 on the ice
+p285
+aVand then fill it up with helium.
+p286
+aVAnd that process takes about two hours.
+p287
+aa(lp288
+VAnd the weather can change as they're putting together this whole assembly.
+p289
+aVFor instance, here they are laying down the balloon fabric behind,
+p290
+aVwhich is eventually going to be filled up with helium.
+p291
+aVThose two trucks you see at the very end
+p292
+aVcarry 12 tanks each of compressed helium.
+p293
+aVNow, in case the weather changes before the launch,
+p294
+aVthey have to actually pack everything back up into their boxes
+p295
+aVand take it out back to McMurdo Station.
+p296
+aVAnd this particular balloon,
+p297
+aVbecause it has to launch two tons of weight,
+p298
+aVis an extremely huge balloon.
+p299
+aVThe fabric alone weighs two tons.
+p300
+aVIn order to minimize the weight,
+p301
+aVit's very thin, it's as thin as a sandwich wrapper.
+p302
+aVAnd if they have to pack it back,
+p303
+aVthey have to put it into boxes
+p304
+aVand stamp on it so that it fits into the box again \u2014
+p305
+aVexcept, when they did it first,
+p306
+aVit would have been done in Texas.
+p307
+aVHere, they can't do it with the kind shoes they're wearing,
+p308
+aVso they have to take their shoes off,
+p309
+aVget barefoot into the boxes, in this cold,
+p310
+aVand do that kind of work.
+p311
+aVThat's the kind of dedication these people have.
+p312
+aa(lp313
+VHere's the balloon being filled up with helium,
+p314
+aVand you can see it's a gorgeous sight.
+p315
+aVHere's a scene
+p316
+aVthat shows you the balloon and the payload end-to-end.
+p317
+aVSo the balloon is being filled up with helium on the left-hand side,
+p318
+aVand the fabric actually runs all the way to the middle
+p319
+aVwhere there's a piece of electronics and explosives
+p320
+aVbeing connected to a parachute,
+p321
+aVand then the parachute is then connected to the payload.
+p322
+aVAnd remember, all this wiring is being done
+p323
+aVby people in extreme cold, in sub-zero temperatures.
+p324
+aVThey're wearing about 15 kg of clothing and stuff,
+p325
+aVbut they have to take their gloves off in order to do that.
+p326
+aVAnd I would like to share with you a launch.
+p327
+aa(lp328
+V(Video) Radio: Okay, release the balloon,
+p329
+aVrelease the balloon, release the balloon.
+p330
+aa(lp331
+VAnil Ananthaswamy: And I'll finally like to leave you with two images.
+p332
+aVThis is an observatory in the Himalayas, in Ladakh in India.
+p333
+aVAnd the thing I want you to look at here
+p334
+aVis the telescope on the right-hand side.
+p335
+aVAnd on the far left there
+p336
+aVis a 400 year-old Buddhist monastery.
+p337
+aVThis is a close-up of the Buddhist monastery.
+p338
+aVAnd I was struck by the juxtaposition
+p339
+aVof these two enormous disciplines that humanity has.
+p340
+aVOne is exploring the cosmos on the outside,
+p341
+aVand the other one is exploring our interior being.
+p342
+aVAnd both require silence of some sort.
+p343
+aa(lp344
+VAnd what struck me was
+p345
+aVevery place that I went to to see these telescopes,
+p346
+aVthe astronomers and cosmologists
+p347
+aVare in search of a certain kind of silence,
+p348
+aVwhether it's silence from radio pollution
+p349
+aVor light pollution or whatever.
+p350
+aVAnd it was very obvious
+p351
+aVthat, if we destroy these silent places on Earth,
+p352
+aVwe will be stuck on a planet without the ability to look outwards,
+p353
+aVbecause we will not be able to understand the signals that come from outer space.
+p354
+aa(lp355
+VThank you.
+p356
+aa(lp357
+V(Applause)
+p358
+aasS'id'
+p359
+I1129
+sS'title'
+p360
+VWhat it takes to do extreme astrophysics
+p361
+s.

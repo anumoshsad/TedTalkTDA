@@ -1,0 +1,433 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIn my early days as a graduate student,
+p4
+aVI went on a snorkeling trip off the coast of the Bahamas.
+p5
+aVI'd actually never swum in the ocean before,
+p6
+aVso it was a bit terrifying.
+p7
+aVWhat I remember the most is, as I put my head in the water
+p8
+aVand I was trying really hard to breathe through the snorkel,
+p9
+aVthis huge group of striped yellow and black fish
+p10
+aVcame straight at me ...
+p11
+aVand I just froze.
+p12
+aVAnd then, as if it had suddenly changed its mind,
+p13
+aVcame towards me and then swerved to the right
+p14
+aVand went right around me.
+p15
+aVIt was absolutely mesmerizing.
+p16
+aVMaybe many of you have had this experience.
+p17
+aVOf course, there's the color and the beauty of it,
+p18
+aVbut there was also just the sheer oneness of it,
+p19
+aVas if it wasn't hundreds of fish
+p20
+aVbut a single entity with a single collective mind
+p21
+aVthat was making decisions.
+p22
+aVWhen I look back, I think that experience really ended up determining
+p23
+aVwhat I've worked on for most of my career.
+p24
+aa(lp25
+VI'm a computer scientist,
+p26
+aVand the field that I work in is artificial intelligence.
+p27
+aVAnd a key theme in AI
+p28
+aVis being able to understand intelligence by creating our own computational systems
+p29
+aVthat display intelligence the way we see it in nature.
+p30
+aVNow, most popular views of AI, of course, come from science fiction and the movies,
+p31
+aVand I'm personally a big Star Wars fan.
+p32
+aVBut that tends to be a very human-centric view of intelligence.
+p33
+aVWhen you think of a fish school,
+p34
+aVor when I think of a flock of starlings,
+p35
+aVthat feels like a really different kind of intelligence.
+p36
+aVFor starters, any one fish is just so tiny
+p37
+aVcompared to the sheer size of the collective,
+p38
+aVso it seems that any one individual
+p39
+aVwould have a really limited and myopic view of what's going on,
+p40
+aVand intelligence isn't really about the individual
+p41
+aVbut somehow a property of the group itself.
+p42
+aa(lp43
+VSecondly, and the thing that I still find most remarkable,
+p44
+aVis that we know that there are no leaders supervising this fish school.
+p45
+aVInstead, this incredible collective mind behavior
+p46
+aVis emerging purely from the interactions of one fish and another.
+p47
+aVSomehow, there are these interactions or rules of engagement
+p48
+aVbetween neighboring fish
+p49
+aVthat make it all work out.
+p50
+aa(lp51
+VSo the question for AI then becomes,
+p52
+aVwhat are those rules of engagement that lead to this kind of intelligence,
+p53
+aVand of course, can we create our own?
+p54
+aa(lp55
+VAnd that's the primary thing that I work on with my team in my lab.
+p56
+aVWe work on it through theory,
+p57
+aVlooking at abstract rule systems
+p58
+aVand thinking about the mathematics behind it.
+p59
+aVWe also do it through biology, working closely with experimentalists.
+p60
+aVBut mostly, we do it through robotics,
+p61
+aVwhere we try to create our own collective systems
+p62
+aVthat can do the kinds of things that we see in nature,
+p63
+aVor at least try to.
+p64
+aa(lp65
+VOne of our first robotic quests along this line
+p66
+aVwas to create our very own colony of a thousand robots.
+p67
+aVSo very simple robots,
+p68
+aVbut they could be programmed to exhibit collective intelligence,
+p69
+aVand that's what we were able to do.
+p70
+aVSo this is what a single robot looks like.
+p71
+aVIt's quite small, about the size of a quarter,
+p72
+aVand you can program how it moves,
+p73
+aVbut it can also wirelessly communicate with other robots,
+p74
+aVand it can measure distances from them.
+p75
+aVAnd so now we can start to program exactly an interaction,
+p76
+aVa rule of engagement between neighbors.
+p77
+aVAnd once we have this system,
+p78
+aVwe can start to program many different kinds of rules of engagement
+p79
+aVthat you would see in nature.
+p80
+aa(lp81
+VSo for example, spontaneous synchronization,
+p82
+aVhow audiences are clapping and suddenly start all clapping together,
+p83
+aVthe fireflies flashing together.
+p84
+aVWe can program rules for pattern formation,
+p85
+aVhow cells in a tissue
+p86
+aVdetermine what role they're going to take on
+p87
+aVand set the patterns of our bodies.
+p88
+aVWe can program rules for migration,
+p89
+aVand in this way, we're really learning from nature's rules.
+p90
+aa(lp91
+VBut we can also take it a step further.
+p92
+aVWe can actually take these rules that we've learned from nature
+p93
+aVand combine them and create entirely new collective behaviors
+p94
+aVof our very own.
+p95
+aa(lp96
+VSo for example,
+p97
+aVimagine that you had two different kinds of rules.
+p98
+aVSo your first rule is a motion rule
+p99
+aVwhere a moving robot can move around other stationary robots.
+p100
+aVAnd your second rule is a pattern rule
+p101
+aVwhere a robot takes on a color based on its two nearest neighbors.
+p102
+aVSo if I start with a blob of robots in a little pattern seed,
+p103
+aVit turns out that these two rules are sufficient for the group
+p104
+aVto be able to self-assemble a simple line pattern.
+p105
+aVAnd if I have more complicated pattern rules,
+p106
+aVand I design error correction rules,
+p107
+aVwe can actually create really, really complicated self assemblies,
+p108
+aVand here's what that looks like.
+p109
+aa(lp110
+VSo here, you're going to see a thousand robots
+p111
+aVthat are working together to self-assemble the letter K.
+p112
+aVThe K is on its side.
+p113
+aVAnd the important thing is that no one is in charge.
+p114
+aVSo any single robot is only talking to a small number of robots nearby it,
+p115
+aVand it's using its motion rule to move around the half-built structure
+p116
+aVjust looking for a place to fit in based on its pattern rules.
+p117
+aVAnd even though no robot is doing anything perfectly,
+p118
+aVthe rules are such that we can get the collective to do its goal
+p119
+aVrobustly together.
+p120
+aVAnd the illusion becomes almost so perfect, you know \u2014
+p121
+aVyou just start to not even notice that they're individual robots at all,
+p122
+aVand it becomes a single entity,
+p123
+aVkind of like the school of fish.
+p124
+aa(lp125
+VSo these are robots and rules in two dimensions,
+p126
+aVbut we can also think about robots and rules in three dimensions.
+p127
+aVSo what if we could create robots that could build together?
+p128
+aVAnd here, we can take inspiration from social insects.
+p129
+aVSo if you think about mound-building termites
+p130
+aVor you think about army ants,
+p131
+aVthey create incredible, complex nest structures out of mud
+p132
+aVand even out of their own bodies.
+p133
+aVAnd like the system I showed you before,
+p134
+aVthese insects actually also have pattern rules
+p135
+aVthat help them determine what to build,
+p136
+aVbut the pattern can be made out of other insects,
+p137
+aVor it could be made out of mud.
+p138
+aVAnd we can use that same idea to create rules for robots.
+p139
+aa(lp140
+VSo here, you're going to see some simulated robots.
+p141
+aVSo the simulated robot has a motion rule,
+p142
+aVwhich is how it traverses through the structure,
+p143
+aVlooking for a place to fit in,
+p144
+aVand it has pattern rules where it looks at groups of blocks
+p145
+aVto decide whether to place a block.
+p146
+aVAnd with the right motion rules and the right pattern rules,
+p147
+aVwe can actually get the robots to build whatever we want.
+p148
+aVAnd of course, everybody wants their own tower.
+p149
+aa(lp150
+V(Laughter)
+p151
+aa(lp152
+VSo once we have these rules,
+p153
+aVwe can start to create the robot bodies that go with these rules.
+p154
+aVSo here, you see a robot that can climb over blocks,
+p155
+aVbut it can also lift and move these blocks
+p156
+aVand it can start to edit the very structure that it's on.
+p157
+aVBut with these rules,
+p158
+aVthis is really only one kind of robot body that you could imagine.
+p159
+aVYou could imagine many different kinds of robot bodies.
+p160
+aVSo if you think about robots that maybe could move sandbags
+p161
+aVand could help build levees,
+p162
+aVor we could think of robots that built out of soft materials
+p163
+aVand worked together to shore up a collapsed building \u2014
+p164
+aVso just the same kind of rules in different kinds of bodies.
+p165
+aVOr if, like my group, you are completely obsessed with army ants,
+p166
+aVthen maybe one day we can make robots that can climb over literally anything
+p167
+aVincluding other members of their tribe,
+p168
+aVand self-assemble things out of their own bodies.
+p169
+aVOnce you understand the rules,
+p170
+aVjust many different kinds of robot visions become possible.
+p171
+aa(lp172
+VAnd coming back to the snorkeling trip,
+p173
+aVwe actually understand a great deal about the rules that fish schools use.
+p174
+aVSo if we can invent the bodies to go with that,
+p175
+aVthen maybe there is a future
+p176
+aVwhere I and my group will get to snorkel with a fish school of our own creation.
+p177
+aa(lp178
+VEach of these systems that I showed you
+p179
+aVbrings us closer to having the mathematical and the conceptual tools
+p180
+aVto create our own versions of collective power,
+p181
+aVand this can enable many different kinds of future applications,
+p182
+aVwhether you think about robots that build flood barriers
+p183
+aVor you think about robotic bee colonies that could pollinate crops
+p184
+aVor underwater schools of robots that monitor coral reefs,
+p185
+aVor if we reach for the stars and we thinking about programming
+p186
+aVconstellations of satellites.
+p187
+aVIn each of these systems,
+p188
+aVbeing able to understand how to design the rules of engagement
+p189
+aVand being able to create good collective behavior
+p190
+aVbecomes a key to realizing these visions.
+p191
+aa(lp192
+VSo, so far I've talked about rules for insects and for fish
+p193
+aVand for robots,
+p194
+aVbut what about the rules that apply to our own human collective?
+p195
+aVAnd the last thought that I'd like to leave you with
+p196
+aVis that science is of course itself
+p197
+aVan incredible manifestation of collective intelligence,
+p198
+aVbut unlike the beautiful fish schools that I study,
+p199
+aVI feel we still have a much longer evolutionary path to walk.
+p200
+aVSo in addition to working on improving the science of robot collectives,
+p201
+aVI also work on creating robots and thinking about rules
+p202
+aVthat will improve our own scientific collective.
+p203
+aVThere's this saying that I love:
+p204
+aVwho does science determines what science gets done.
+p205
+aVImagine a society
+p206
+aVwhere we had rules of engagement
+p207
+aVwhere every child grew up believing that they could stand here
+p208
+aVand be a technologist of the future,
+p209
+aVor where every adult
+p210
+aVbelieved that they had the ability not just to understand but to change
+p211
+aVhow science and technology impacts their everyday lives.
+p212
+aVWhat would that society look like?
+p213
+aVI believe that we can do that.
+p214
+aVI believe that we can choose our rules,
+p215
+aVand we engineer not just robots
+p216
+aVbut we can engineer our own human collective,
+p217
+aVand if we do and when we do, it will be beautiful.
+p218
+aa(lp219
+VThank you.
+p220
+aa(lp221
+V(Applause)
+p222
+aasS'id'
+p223
+I2870
+sS'title'
+p224
+VWhat intelligent machines can learn from a school of fish
+p225
+s.

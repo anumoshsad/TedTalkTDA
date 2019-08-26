@@ -1,0 +1,844 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm almost like a crazy evangelical.
+p4
+aVI've always known that the age of design is upon us,
+p5
+aValmost like a rapture.
+p6
+aVIf the day is sunny, I think,
+p7
+aV"Oh, the gods have had a good design day."
+p8
+aVOr, I go to a show and I see a beautiful piece by an artist,
+p9
+aVparticularly beautiful, I say
+p10
+aVhe's so good because he clearly looked to design
+p11
+aVto understand what he needed to do.
+p12
+aa(lp13
+VSo I really do believe that design
+p14
+aVis the highest form of creative expression.
+p15
+aVThat's why I'm talking to you today about the age of design,
+p16
+aVand the age of design is the age in which design
+p17
+aVis still cute furniture, is still posters,
+p18
+aVis still fast cars, what you see at MoMA today.
+p19
+aVBut in truth, what I really would like to explain
+p20
+aVto the public and to the audiences of MoMA is that
+p21
+aVthe most interesting chairs are the ones
+p22
+aVthat are actually made by a robot,
+p23
+aVlike this beautiful chair by Dirk Vander Kooij,
+p24
+aVwhere a robot deposits a toothpaste-like slur
+p25
+aVof recycled refrigerator parts,
+p26
+aVas if he were a big candy, and makes a chair out of it.
+p27
+aVOr good design is digital fonts that we use all the time
+p28
+aVand that become part of our identity.
+p29
+aVI want people to understand
+p30
+aVthat design is so much more than cute chairs,
+p31
+aVthat it is first and foremost everything that is around us
+p32
+aVin our life.
+p33
+aa(lp34
+VAnd it's interesting how so much of what we're talking about
+p35
+aVtonight is not simply design but interaction design.
+p36
+aVAnd in fact, interaction design is what I've been trying
+p37
+aVto insert in the collection of the Museum of Modern Art
+p38
+aVfor a few years, starting not very timidly
+p39
+aVbut just pointedly with works, for instance,
+p40
+aVby Martin Wattenberg \u2014 the way a machine
+p41
+aVplays chess with itself, that you see here,
+p42
+aVor Lisa Strausfeld and her partners, the Sugar interface
+p43
+aVfor One Laptop Per Child,
+p44
+aVToshio Iwai's Tenori-On musical instruments,
+p45
+aVand Philip Worthington's Shadow Monsters,
+p46
+aVand John Maeda's Reactive Books,
+p47
+aVand also Jonathan Harris and Sep Kamvar's I Want You To Want Me.
+p48
+aVThese were some of the first acquisitions that really
+p49
+aVintroduced the idea of interaction design to the public.
+p50
+aa(lp51
+VBut more recently, I've been trying really to go even deeper
+p52
+aVinto interaction design with examples
+p53
+aVthat are emotionally really suggestive
+p54
+aVand that really explain interaction design at a level
+p55
+aVthat is almost undeniable.
+p56
+aVThe Wind Map, by Wattenberg and Fernanda Viégas,
+p57
+aVI don't know if you've ever seen it \u2014 it's really fantastic.
+p58
+aVIt looks at the territory of the United States
+p59
+aVas if it were a wheat field that is procured by the winds
+p60
+aVand that is really giving you a pictorial image
+p61
+aVof what's going on with the winds in the United States.
+p62
+aa(lp63
+VBut also, more recently, we started acquiring video games,
+p64
+aVand that's where all hell broke loose
+p65
+aVin a really interesting way. (Laughter)
+p66
+aVThere are still people that believe that there's a high and there's a low.
+p67
+aVAnd that's really what I find so intriguing
+p68
+aVabout the reactions that we've had to the anointment
+p69
+aVof video games in the MoMA collection.
+p70
+aVWe've \u2014 No, first of all, New York Magazine always gets it.
+p71
+aVI love them. So we are in the right quadrant.
+p72
+aVWe are in the Highbrow \u2014 that's daring, that's courageous \u2014
+p73
+aVand Brilliant, which is great.
+p74
+aVTimidly, we've been higher on the diagonal in other situations,
+p75
+aVbut it's okay. It's good. It's good. It's good. (Laughter)
+p76
+aa(lp77
+VBut here comes the art critic. Oh, that was fantastic.
+p78
+aa(lp79
+VSo the first was Jonathan Jones from The Guardian.
+p80
+aV"Sorry, MoMA, video games are not art."
+p81
+aVDid I ever say they were art? I was talking about interaction design. Excuse me.
+p82
+aV"Exhibiting Pac-Man and Tetris alongside Picasso and Van Gogh" \u2014
+p83
+aVThey're two floors away. (Laughter) \u2014
+p84
+aV"will mean game over for any real understanding of art."
+p85
+aVI'm bringing in the end of the world. You know?
+p86
+aVWe were talking about the rapture? It's coming.
+p87
+aVAnd Jonathan Jones is making it happen.
+p88
+aa(lp89
+VSo the same Guardian rebuts,
+p90
+aV"Are video games art: the debate that shouldn't be.
+p91
+aVLast week, Guardian art critic blah blah suggested
+p92
+aVthat games cannot qualify as art. But is he right?
+p93
+aVAnd does it matter?" Thank you. Does it matter?
+p94
+aa(lp95
+VYou know, it's like once again there's this whole problem
+p96
+aVof design being often misunderstood for art,
+p97
+aVor the idea that is so diffuse that designers want to
+p98
+aVaspire to, would like to be called, artists.
+p99
+aVNo. Designers aspire to be really great designers.
+p100
+aVThank you very much. And that's more than enough.
+p101
+aa(lp102
+VSo my knight in shining armor, John Maeda,
+p103
+aVwithout any prompt, came out with this big declaration
+p104
+aVon why video games belong in the MoMA.
+p105
+aVAnd that was fantastic. And I thought that was it.
+p106
+aa(lp107
+VBut then there was another wonderfully pretentious article
+p108
+aVthat came out in The New Republic, so pretentious,
+p109
+aVby Liel Leibovitz, and it said, "MoMA has mistaken video games for art." Again.
+p110
+aV"The museum is putting Pac-Man alongside Picasso." Again.
+p111
+aV"That misses the point."
+p112
+aVExcuse me. You're missing the point.
+p113
+aVAnd here, look, the above question is put bluntly:
+p114
+aV"Are video games art? No. Video games aren't art
+p115
+aVbecause they are quite thoroughly something else: code."
+p116
+aVOh, so Picasso is not art because it's oil paint. Right?
+p117
+aa(lp118
+VSo it's so fantastic to see
+p119
+aVhow these feathers that were ruffled,
+p120
+aVand these reactions, were so vehement.
+p121
+aVAnd you know what?
+p122
+aVThe International Cat Video Film Festival
+p123
+aVdidn't have that much of a reaction. (Laughter)
+p124
+aVI think this was truly fantastic.
+p125
+aVWe were talking about dancing ponies, but I was really jealous
+p126
+aVof the Walker Arts Center for putting up this festival,
+p127
+aVbecause it's very, very wonderful.
+p128
+aVAnd there's this Flaubert quote that I love:
+p129
+aV"I have always tried to live in an ivory tower,
+p130
+aVbut a tide of shit is beating at its walls,
+p131
+aVthreatening to undermine it."
+p132
+aVI consider myself the tide of shit.
+p133
+aa(lp134
+V(Laughter) (Applause)
+p135
+aa(lp136
+VYou know, we have to go through that.
+p137
+aVEven in the 1930s, my colleagues
+p138
+aVthat were trying to put together an abstract art show
+p139
+aVhad all of these works stopped by the customs officers
+p140
+aVthat decided they were not art.
+p141
+aVSo it's happened before, and it will happen in the future,
+p142
+aVbut right now I can tell you that I am so, so proud
+p143
+aVto be able to call Pac-Man part of the MoMA collection.
+p144
+aVAnd the same with, for instance, Tetris, original version, the Soviet one.
+p145
+aVAnd you know, the amount of work \u2014
+p146
+aVyeah, Alexey Pajitnov was working for the Soviet government
+p147
+aVand that's how he developed Tetris,
+p148
+aVand Alexey himself reconstructed the whole game
+p149
+aVand even gave us a simulation of the cathode ray tube
+p150
+aVthat makes it look slightly bombed.
+p151
+aVAnd it's fantastic.
+p152
+aa(lp153
+VSo behind these acquisitions is an enormous amount of work,
+p154
+aVbecause we're still the Museum of Modern Art,
+p155
+aVso even when we tackle popular culture,
+p156
+aVwe tackle it as a form of interaction design
+p157
+aVand as something that has to go into the collection at MoMA,
+p158
+aVtherefore, has to be researched.
+p159
+aVSo to get to choosing Eric Chahi's
+p160
+aVwonderful Another World, amongst others,
+p161
+aVwe put together a panel of experts,
+p162
+aVand we worked on this acquisition,
+p163
+aVand it's mostly myself and Kate Carmody and Paul Galloway.
+p164
+aVWe worked on it for a year and a half.
+p165
+aVSo many people helped us \u2014 designers of games,
+p166
+aVyou might know Jamin Warren
+p167
+aVand his collaborators at Kill Screen magazine,
+p168
+aVand you know, Kevin Slavin. You name it.
+p169
+aVWe bugged everybody, because we knew that we were ignorant.
+p170
+aVWe were not real gamers enough,
+p171
+aVso we had to really talk to them.
+p172
+aVAnd so we decided, of course, to have Sim City 2000,
+p173
+aVnot the other Sim City, that one in particular,
+p174
+aVso the criteria that we developed along the way
+p175
+aVwere really strong, and were not only criteria of selection.
+p176
+aVThey were also criteria of exhibition and of preservation.
+p177
+aVThat's what makes this acquisition more than a little game
+p178
+aVor a little joke. It's truly a way to think of how to preserve
+p179
+aVand show artifacts that will more and more
+p180
+aVbecome part of our lives in the future.
+p181
+aVWe live today, as you know very well, not in the digital,
+p182
+aVnot in the physical, but in the kind of minestrone
+p183
+aVthat our mind makes of the two.
+p184
+aa(lp185
+VAnd that's really where interaction lies,
+p186
+aVand that's the importance of interaction.
+p187
+aVAnd in order to explain interaction, we need to really
+p188
+aVbring people in and make them realize
+p189
+aVhow interaction is part of their lives.
+p190
+aVSo when I talk about it, I don't talk only about video games,
+p191
+aVwhich are in a way the purest form of interaction,
+p192
+aVunadulterated by any kind of function or finality.
+p193
+aVI also talk about the MetroCard vending machine,
+p194
+aVwhich I consider a masterpiece of interaction.
+p195
+aVI mean, that interface is beautiful.
+p196
+aVIt looks like a burly MTA guy coming out of the tunnel.
+p197
+aVYou know, with your mitt you can actually paw
+p198
+aVthe MetroCard, and I talk about how bad
+p199
+aVATM machines usually are.
+p200
+aVSo I let people understand that it's up to them
+p201
+aVto know how to judge interaction
+p202
+aVso as to know when it's good or when it's bad.
+p203
+aVSo when I show The Sims,
+p204
+aVI try to make people really feel what it meant
+p205
+aVto have an interaction with The Sims,
+p206
+aVnot only the fun but also the responsibility
+p207
+aVthat came with the Tamagotchi.
+p208
+aa(lp209
+VYou know, video games can be truly deep
+p210
+aVeven when they're completely mindless.
+p211
+aVI'm sure that all of you know Katamari Damacy.
+p212
+aVIt's about rolling a ball and picking up as many objects as you can
+p213
+aVin a finite amount of time
+p214
+aVand hopefully you'll be able to make it into a planet.
+p215
+aVI've never made it into a planet, but that's it.
+p216
+aVOr, you know, Vib-Ribbon was not distributed here in the United States.
+p217
+aVIt was a PlayStation game, but mostly for Japan.
+p218
+aVAnd it was one of the first video games
+p219
+aVin which you could choose your own music.
+p220
+aVSo you would put into the PlayStation,
+p221
+aVyou would put your own CD,
+p222
+aVand then the game would change alongside your music. So really fantastic.
+p223
+aa(lp224
+VNot to mention Eve Online.
+p225
+aVEve Online is an artificial universe, if you wish,
+p226
+aVbut one of the diplomats that was killed in Benghazi,
+p227
+aVnot Ambassador Stevens, but one of his collaborators,
+p228
+aVwas a really big shot in Eve Online,
+p229
+aVso here you have a diplomat in the real world
+p230
+aVthat spends his time in Eve Online
+p231
+aVto kind of test, maybe, all of his ideas about diplomacy
+p232
+aVand about universe-building, and to the point that
+p233
+aVthe first announcement of the bombing
+p234
+aVwas actually given on Eve Online,
+p235
+aVand after his death, several parts of the universe
+p236
+aVwere named after him.
+p237
+aVAnd I was just recently at the Eve Online fan festival
+p238
+aVin Reykjavík that was quite amazing.
+p239
+aVI mean, we're talking about an experience
+p240
+aVthat of course can seem weird to many,
+p241
+aVbut that is very educational.
+p242
+aVOf course, there are games that are even more educational.
+p243
+aa(lp244
+VDwarf Fortress is like the holy grail
+p245
+aVof this kind of massive multiplayer online game,
+p246
+aVand in fact the two Adams brothers were in Reykjavík,
+p247
+aVand they were greeted
+p248
+aVby a standing ovation by all the Eve Online fans.
+p249
+aVIt was amazing to see. And it's a beautiful game.
+p250
+aVSo you start seeing here that
+p251
+aVthe aesthetics that are so important
+p252
+aVto a museum collection like MoMA's
+p253
+aVare kept alive also by the selection of these games.
+p254
+aa(lp255
+VAnd you know, Valve \u2014 you know, Portal \u2014
+p256
+aVis an example of a video game in which
+p257
+aVyou have a certain type of violence
+p258
+aVwhich also leads me to talk about
+p259
+aVone of the biggest issues that we had to discuss
+p260
+aVwhen we acquired the video games, what to do with violence.
+p261
+aVRight? We had to make decisions.
+p262
+aVAt MoMA, interestingly, there's a lot of violence
+p263
+aVdepicted in the art part of the collection,
+p264
+aVbut when I came to MoMA 19 years ago, and as an Italian,
+p265
+aVI said, "You know what, we need a Beretta."
+p266
+aVAnd I was told, "No. No guns in the design collection."
+p267
+aVAnd I was like, "Why?"
+p268
+aVInterestingly, I learned that it's considered
+p269
+aVthat in design and in the design collection,
+p270
+aVwhat you see is what you get.
+p271
+aVSo when you see a gun, it's an instrument for killing in the design collection.
+p272
+aVIf it's in the art collection,
+p273
+aVit might be a critique of the killing instrument.
+p274
+aVSo it's very interesting.
+p275
+aVBut we are acquiring our critical dimension also in design,
+p276
+aVso maybe one day we'll be able to acquire also the guns.
+p277
+aVBut here, in this particular case, we decided,
+p278
+aVyou know, with Kate and Paul,
+p279
+aVthat we would have no gratuitous violence.
+p280
+aVSo we have Portal because you shoot walls
+p281
+aVin order to create new spaces.
+p282
+aVWe have Street Fighter II, because martial arts are good.
+p283
+aV(Laughter)
+p284
+aVBut we don't have GTA because,
+p285
+aVmaybe it's my own reflection,
+p286
+aVI've never been able to do anything but crashing cars
+p287
+aVand shooting prostitutes and pimps.
+p288
+aVSo it was not very constructive. (Laughter)
+p289
+aVSo, I'm making fun of it, but we discussed this
+p290
+aVfor so many days. You have no idea.
+p291
+aVAnd to this day, I am ambivalent,
+p292
+aVbut when you have instead games like Flow, there's no doubt.
+p293
+aVIt's like, it's about serenity and it's about sublime.
+p294
+aVIt's about experiencing what it means to be a sea creature.
+p295
+aVThen we have a few also side-scrollers \u2014 classical ones.
+p296
+aVSo it's quite a hefty collection.
+p297
+aa(lp298
+VAnd right now, we started with the first 14,
+p299
+aVbut we have several that are coming up,
+p300
+aVand the reason why we haven't acquired them yet
+p301
+aVis because you don't acquire just the game.
+p302
+aVYou acquire the relationship with the company.
+p303
+aVWhat we want, what we aspire to, is the code.
+p304
+aVIt's very hard to get, of course.
+p305
+aVBut that's what would enable us to preserve
+p306
+aVthe video games for a really long time,
+p307
+aVand that's what museums do.
+p308
+aVThey also preserve artifacts for posterity.
+p309
+aVIn absence of the code, because, you know,
+p310
+aVvideo game companies are not very forthcoming in some cases,
+p311
+aVin absence of that, we acquire the relationship with the company.
+p312
+aVWe're going to stay with them forever.
+p313
+aVThey're not going to get rid of us.
+p314
+aVAnd one day, we'll get that code. (Laughter)
+p315
+aa(lp316
+VBut I want to explain to you the criteria that we chose
+p317
+aVfor interaction design. Aesthetics are really important.
+p318
+aVAnd I'm showing you Core War here,
+p319
+aVwhich is an early game that takes advantage aesthetically
+p320
+aVof the limitations of the processor.
+p321
+aVSo the kind of interferences that you see here
+p322
+aVthat look like beautiful barriers in the game
+p323
+aVare actually a consequence of the processor's limitedness,
+p324
+aVwhich is fantastic. So aesthetics is always important.
+p325
+aa(lp326
+VAnd so is space, the spatial aspect of games.
+p327
+aVYou know, I feel that the best video games
+p328
+aVare the ones that have really savvy architects
+p329
+aVthat are behind them, and if they're not architects,
+p330
+aVbona fide trained in architecture, they have that feeling.
+p331
+aVBut the spatial evolution in video games is extremely important.
+p332
+aa(lp333
+VTime. The way we experience time in video games,
+p334
+aVas in other forms of interaction design,
+p335
+aVis really quite amazing.
+p336
+aVIt can be real time or it can be the time within the game,
+p337
+aVas is in Animal Crossing, where seasons
+p338
+aVfollow each other at their own pace.
+p339
+aa(lp340
+VSo time, space, aesthetics,
+p341
+aVand then, most important, behavior.
+p342
+aVThe real core issue of interaction design is behavior.
+p343
+aVDesigners that deal with interaction design behaviors
+p344
+aVthat go to influence the rest of our lives.
+p345
+aVThey're not just limited to our interaction with the screen.
+p346
+aVIn this case, I'm showing you Marble Madness,
+p347
+aVwhich is a beautiful game
+p348
+aVin which the controller is a big sphere that vibrates with you,
+p349
+aVso you have a sphere that's moving in this landscape,
+p350
+aVand the sphere, the controller itself, gives you a sense of the movement.
+p351
+aVIn a way, you can see how video games
+p352
+aVare the purest aspect of interaction design
+p353
+aVand are very useful to explain what interaction is.
+p354
+aa(lp355
+VWe don't want to show the video games
+p356
+aVwith the paraphernalia. No arcade nostalgia.
+p357
+aVIf anything, we want to show the code,
+p358
+aVand here you see Ben Fry's distellamap of Pac-Man,
+p359
+aVof the Pac-Man code.
+p360
+aa(lp361
+VSo the way we acquired the games is very interesting
+p362
+aVand very unorthodox. You see them here
+p363
+aVdisplayed alongside other examples of design,
+p364
+aVfurniture and other parts,
+p365
+aVbut there's no paraphernalia, no nostalagia,
+p366
+aVonly the screen and a little shelf with the controllers.
+p367
+aVThe controllers are, of course, part of the experience,
+p368
+aVso you cannot do away with it.
+p369
+aVBut interestingly, this choice was not condemned
+p370
+aVtoo vehemently by gamers.
+p371
+aVI was afraid that they would kill us,
+p372
+aVand instead they understood, especially
+p373
+aVwhen I told them that I was trying to apply the same stratagem
+p374
+aVthat Philip Johnson applied in 1934
+p375
+aVwhen he wanted to make people understand
+p376
+aVthe importance of design, and he took propeller blades
+p377
+aVand pieces of machinery and
+p378
+aVin the MoMA galleries he put them on white pedestals
+p379
+aVagainst white walls, as if they were Brancusi sculptures.
+p380
+aVHe created this strange distance, this shock,
+p381
+aVthat made people realize how gorgeous formally,
+p382
+aVand also important functionally, design pieces were.
+p383
+aVI would like to do the same with video games.
+p384
+aVBy getting rid of the sticky carpets and the cigarette butts
+p385
+aVand everything else that we might remember from our childhood,
+p386
+aVI want people to understand
+p387
+aVthat those are important forms of design.
+p388
+aVAnd in a way, the video games, the fonts and everything else
+p389
+aVlead us to make people understand
+p390
+aVa wider meaning for design.
+p391
+aa(lp392
+VOne of my dream acquisitions,
+p393
+aVwhich has been on hold for a few years
+p394
+aVbut now will come back on the front burner,
+p395
+aVis a 747.
+p396
+aVI would like to acquire it, but without owning it.
+p397
+aVI don't want it to be at MoMA and possessed by MoMA.
+p398
+aVI want it to keep flying.
+p399
+aVSo it's an acquisition where MoMA makes an arrangement
+p400
+aVwith an airline and keeps the Boeing 747 flying.
+p401
+aa(lp402
+VAnd the same with the "@" sign that we acquired a few years ago.
+p403
+aVIt was the first example of an acquisition of something
+p404
+aVthat is in the public domain.
+p405
+aVAnd what I say to people, it's almost as if
+p406
+aVa butterfly were flying by
+p407
+aVand we captured the shadow on the wall,
+p408
+aVand just we're showing the shadow.
+p409
+aVSo in a way, we're showing a manifestation
+p410
+aVof something that is truly important
+p411
+aVand that is part of our identity but that nobody can have.
+p412
+aVAnd it's too long to explain the acquisition,
+p413
+aVbut if you want to go on the MoMA blog,
+p414
+aVthere's a long post where I explain why
+p415
+aVit's such a great example of design.
+p416
+aa(lp417
+VAlong the way, I've had to burn a few chairs. You know?
+p418
+aVI've had to do away with a few concepts of design past.
+p419
+aVBut I see that people are coming along,
+p420
+aVthat the audiences, paradoxically,
+p421
+aVare much more responsive and much more understanding
+p422
+aVof this expansion of design than some of my colleagues are.
+p423
+aVDesign is truly everywhere,
+p424
+aVand design is as important as anything,
+p425
+aVand I'm so glad that, because of its diversity
+p426
+aVand because of its centrality to our lives,
+p427
+aVmany more people are coming to it
+p428
+aVas a profession, as a passion,
+p429
+aVand as, very simply, part of their own culture.
+p430
+aa(lp431
+VThank you very much.
+p432
+aa(lp433
+V(Applause)
+p434
+aasS'id'
+p435
+I1752
+sS'title'
+p436
+VWhy I brought Pac-Man to MoMA
+p437
+s.

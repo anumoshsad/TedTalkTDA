@@ -1,0 +1,234 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIf you're at all like me,
+p4
+aVthis is what you do with the sunny summer weekends in San Francisco:
+p5
+aVyou build experimental kite-powered hydrofoils
+p6
+aVcapable of more than 30 knots.
+p7
+aVAnd you realize that there is incredible power in the wind,
+p8
+aVand it can do amazing things.
+p9
+aVAnd one day, a vessel not unlike this
+p10
+aVwill probably break the world speed record.
+p11
+aa(lp12
+VBut kites aren't just toys like this.
+p13
+aVKites: I'm going to give you a brief history,
+p14
+aVand tell you about the magnificent future
+p15
+aVof every child's favorite plaything.
+p16
+aVSo, kites are more than a thousand years old,
+p17
+aVand the Chinese used them for military applications,
+p18
+aVand even for lifting men.
+p19
+aVSo they knew at that stage they could carry large weights.
+p20
+aVI'm not sure why there is a hole in this particular man.
+p21
+aa(lp22
+V(Laughter)
+p23
+aa(lp24
+VIn 1827, a fellow called George Pocock
+p25
+aVactually pioneered the use of kites for towing buggies
+p26
+aVin races against horse carriages across the English countryside.
+p27
+aVThen of course, at the dawn of aviation,
+p28
+aVall of the great inventors of the time \u2014
+p29
+aVlike Hargreaves, like Langley,
+p30
+aVeven Alexander Graham Bell, inventor of the telephone, who was flying this kite \u2014
+p31
+aVwere doing so in the pursuit of aviation.
+p32
+aa(lp33
+VThen these two fellows came along,
+p34
+aVand they were flying kites to develop the control systems
+p35
+aVthat would ultimately enable powered human flight.
+p36
+aVSo this is of course Orville and Wilbur Wright,
+p37
+aVand the Wright Flyer.
+p38
+aVAnd their experiments with kites led to this
+p39
+aVmomentous occasion, where we powered up and took off for the
+p40
+aVfirst-ever 12-second human flight.
+p41
+aVAnd that was fantastic for the future of commercial aviation.
+p42
+aa(lp43
+VBut unfortunately, it relegated kites once again to be considered children's toys.
+p44
+aVThat was until the 1970s, where we had the last energy crisis.
+p45
+aVAnd a fabulous man called Miles Loyd
+p46
+aVwho lives on the outskirts of San Francisco,
+p47
+aVwrote this seminal paper that was completely ignored
+p48
+aVin the Journal of Energy
+p49
+aVabout how to use basically an airplane on a piece of string
+p50
+aVto generate enormous amounts of electricity.
+p51
+aVThe real key observation he made is that
+p52
+aVa free-flying wing can sweep through more sky and generate more power
+p53
+aVin a unit of time than a fixed-wing turbine.
+p54
+aa(lp55
+VSo turbines grew. And they can now span up to three hundred feet at the hub height,
+p56
+aVbut they can't really go a lot higher,
+p57
+aVand more height is where the more wind is, and more power \u2014
+p58
+aVas much as twice as much.
+p59
+aa(lp60
+VSo cut to now. We still have an energy crisis,
+p61
+aVand now we have a climate crisis as well. You know,
+p62
+aVso humans generate about 12 trillion watts,
+p63
+aVor 12 terawatts, from fossil fuels.
+p64
+aVAnd Al Gore has spoken to why we need to hit one of these targets,
+p65
+aVand in reality what that means is in the next 30 to 40 years,
+p66
+aVwe have to make 10 trillion watts or more of new clean energy somehow.
+p67
+aVWind is the second-largest renewable resource after solar:
+p68
+aV3600 terawatts, more than enough to supply humanity 200 times over.
+p69
+aVThe majority of it is in the higher altitudes, above 300 feet,
+p70
+aVwhere we don't have a technology as yet to get there.
+p71
+aa(lp72
+VSo this is the dawn of the new age of kites.
+p73
+aVThis is our test site on Maui, flying across the sky.
+p74
+aVI'm now going to show you
+p75
+aVthe first autonomous generation of power
+p76
+aVby every child's favorite plaything.
+p77
+aVAs you can tell, you need to be a robot to fly this thing for thousands of hours.
+p78
+aVIt makes you a little nauseous.
+p79
+aVAnd here we're actually generating about 10 kilowatts \u2014
+p80
+aVso, enough to power probably five United States households \u2014
+p81
+aVwith a kite not much larger than this piano.
+p82
+aVAnd the real significant thing here
+p83
+aVis we're developing the control systems,
+p84
+aVas did the Wright brothers, that would enable sustained, long-duration flight.
+p85
+aVAnd it doesn't hurt to do it in a location like this either.
+p86
+aa(lp87
+VSo this is the equivalent for a kite flier of peeing in the snow \u2014
+p88
+aVthat's tracing your name in the sky.
+p89
+aa(lp90
+VAnd this is where we're actually going.
+p91
+aVSo we're beyond the 12-second steps.
+p92
+aVAnd we're working towards megawatt-scale machines
+p93
+aVthat fly at 2000 feet and generate tons of clean electricity.
+p94
+aa(lp95
+VSo you ask, how big are those machines?
+p96
+aVWell, this paper plane would be maybe a \u2014 oop!
+p97
+aVThat would be enough to power your cell phone.
+p98
+aVYour Cessna would be 230 killowatts.
+p99
+aVIf you'd loan me your Gulfstream, I'll rip its wings off and generate you a megawatt.
+p100
+aVIf you give me a 747, I'll make six megawatts,
+p101
+aVwhich is more than the largest wind turbines today.
+p102
+aVAnd the Spruce Goose would be a 15-megawatt wing.
+p103
+aa(lp104
+VSo that is audacious, you say. I agree.
+p105
+aVBut audacious is what has happened many times before in history.
+p106
+aVThis is a refrigerator factory,
+p107
+aVchurning out airplanes for World War II.
+p108
+aVPrior to World War II, they were making 1000 planes a year.
+p109
+aVBy 1945, they were making 100,000.
+p110
+aVWith this factory and 100,000 planes a year,
+p111
+aVwe could make all of America's electricity in about 10 years.
+p112
+aa(lp113
+VSo really this is a story about the audacious plans of young people
+p114
+aVwith these dreams. There are many of us.
+p115
+aVI am lucky enough to work with 30 of them.
+p116
+aVAnd I think we need to support all of the dreams
+p117
+aVof the kids out there doing these crazy things.
+p118
+aVThank you.
+p119
+aV(Applause)
+p120
+aasS'id'
+p121
+I492
+sS'title'
+p122
+VHigh-altitude wind energy from kites!
+p123
+s.

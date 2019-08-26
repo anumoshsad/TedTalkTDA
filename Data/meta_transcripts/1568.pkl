@@ -1,0 +1,432 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIt's a great time to be a molecular biologist. (Laughter)
+p4
+aVReading and writing DNA code is getting easier
+p5
+aVand cheaper.
+p6
+aVBy the end of this year, we'll be able to sequence
+p7
+aVthe three million bits of information
+p8
+aVin your genome in less than a day
+p9
+aVand for less than 1,000 euros.
+p10
+aVBiotech is probably the most powerful
+p11
+aVand the fastest-growing technology sector.
+p12
+aVIt has the power, potentially,
+p13
+aVto replace our fossil fuels,
+p14
+aVto revolutionize medicine,
+p15
+aVand to touch every aspect of our daily lives.
+p16
+aa(lp17
+VSo who gets to do it?
+p18
+aVI think we'd all be pretty comfortable with
+p19
+aVthis guy doing it.
+p20
+aVBut what about
+p21
+aVthat guy? (Laughter)
+p22
+aV(Laughter)
+p23
+aa(lp24
+VIn 2009, I first heard about DIYbio.
+p25
+aVIt's a movement that \u2014 it advocates making biotechnology
+p26
+aVaccessible to everyone,
+p27
+aVnot just scientists and people in government labs.
+p28
+aVThe idea is that if you open up the science
+p29
+aVand you allow diverse groups to participate,
+p30
+aVit could really stimulate innovation.
+p31
+aVPutting technology in the hands of the end user
+p32
+aVis usually a good idea because they've got the best idea
+p33
+aVof what their needs are.
+p34
+aVAnd here's this really sophisticated technology
+p35
+aVcoming down the road, all these associated
+p36
+aVsocial, moral, ethical questions,
+p37
+aVand we scientists are just lousy at explaining to the public
+p38
+aVjust exactly what it is we're doing in those labs.
+p39
+aVSo wouldn't it be nice
+p40
+aVif there was a place in your local neighborhood
+p41
+aVwhere you could go and learn about this stuff,
+p42
+aVdo it hands-on?
+p43
+aVI thought so.
+p44
+aa(lp45
+VSo, three years ago, I got together
+p46
+aVwith some friends of mine who had similar aspirations
+p47
+aVand we founded Genspace.
+p48
+aVIt's a nonprofit, a community biotech lab
+p49
+aVin Brooklyn, New York,
+p50
+aVand the idea was people could come,
+p51
+aVthey could take classes and putter around in the lab
+p52
+aVin a very open, friendly atmosphere.
+p53
+aa(lp54
+VNone of my previous experience prepared me
+p55
+aVfor what came next. Can you guess?
+p56
+aVThe press started calling us.
+p57
+aVAnd the more we talked about how great it was to increase
+p58
+aVscience literacy, the more they wanted to talk
+p59
+aVabout us creating the next Frankenstein,
+p60
+aVand as a result, for the next six months,
+p61
+aVwhen you Googled my name,
+p62
+aVinstead of getting my scientific papers, you got this.
+p63
+aV["Am I a biohazard?"]
+p64
+aV(Laughter)
+p65
+aVIt was pretty depressing.
+p66
+aVThe only thing that got us through that period
+p67
+aVwas that we knew that all over the world,
+p68
+aVthere were other people that were trying to do
+p69
+aVthe same thing that we were.
+p70
+aVThey were opening biohacker spaces, and some of them
+p71
+aVwere facing much greater challenges than we did,
+p72
+aVmore regulations, less resources.
+p73
+aVBut now, three years later, here's where we stand.
+p74
+aVIt's a vibrant, global community of hackerspaces,
+p75
+aVand this is just the beginning.
+p76
+aVThese are some of the biggest ones,
+p77
+aVand there are others opening every day.
+p78
+aVThere's one probably going to open up in Moscow,
+p79
+aVone in South Korea,
+p80
+aVand the cool thing is they each have their own
+p81
+aVindividual flavor
+p82
+aVthat grew out of the community they came out of.
+p83
+aa(lp84
+VLet me take you on a little tour.
+p85
+aVBiohackers work alone.
+p86
+aVWe work in groups,
+p87
+aVin big cities \u2014 (Laughter) \u2014
+p88
+aVand in small villages.
+p89
+aVWe reverse engineer lab equipment.
+p90
+aVWe genetically engineer bacteria.
+p91
+aVWe hack hardware,
+p92
+aVsoftware,
+p93
+aVwetware,
+p94
+aVand, of course, the code of life.
+p95
+aVWe like to build things.
+p96
+aVThen we like to take things apart.
+p97
+aVWe make things grow.
+p98
+aVWe make things glow.
+p99
+aVAnd we make cells dance.
+p100
+aa(lp101
+VThe spirit of these labs, it's open, it's positive,
+p102
+aVbut, you know, sometimes when people think of us,
+p103
+aVthe first thing that comes to mind is bio-safety,
+p104
+aVbio-security, all the dark side stuff.
+p105
+aVI'm not going to minimize those concerns.
+p106
+aVAny powerful technology is inherently dual use,
+p107
+aVand, you know, you get something like
+p108
+aVsynthetic biology, nanobiotechnology,
+p109
+aVit really compels you, you have to look at both
+p110
+aVthe amateur groups but also the professional groups,
+p111
+aVbecause they have better infrastructure,
+p112
+aVthey have better facilities,
+p113
+aVand they have access to pathogens.
+p114
+aa(lp115
+VSo the United Nations did just that, and they recently
+p116
+aVissued a report on this whole area,
+p117
+aVand what they concluded was the power of this technology
+p118
+aVfor positive was much greater than the risk for negative,
+p119
+aVand they even looked specifically at the DIYbio community,
+p120
+aVand they noted, not surprisingly, that the press
+p121
+aVhad a tendency to consistently overestimate our capabilities
+p122
+aVand underestimate our ethics.
+p123
+aVAs a matter of fact, DIY people from all over the world,
+p124
+aVAmerica, Europe, got together last year,
+p125
+aVand we hammered out a common code of ethics.
+p126
+aVThat's a lot more than conventional science has done.
+p127
+aa(lp128
+VNow, we follow state and local regulations.
+p129
+aVWe dispose of our waste properly, we follow
+p130
+aVsafety procedures, we don't work with pathogens.
+p131
+aVYou know, if you're working with a pathogen,
+p132
+aVyou're not part of the biohacker community,
+p133
+aVyou're part of the bioterrorist community, I'm sorry.
+p134
+aVAnd sometimes people ask me,
+p135
+aV"Well, what about an accident?"
+p136
+aVWell, working with the safe organisms that we normally
+p137
+aVwork with, the chance of an accident happening
+p138
+aVwith somebody accidentally creating, like,
+p139
+aVsome sort of superbug,
+p140
+aVthat's literally about as probable as a snowstorm
+p141
+aVin the middle of the Sahara Desert.
+p142
+aVNow, it could happen,
+p143
+aVbut I'm not going to plan my life around it.
+p144
+aa(lp145
+VI've actually chosen to take a different kind of risk.
+p146
+aVI signed up for something called the Personal Genome Project.
+p147
+aVIt's a study at Harvard where, at the end of the study,
+p148
+aVthey're going to take my entire genomic sequence,
+p149
+aVall of my medical information, and my identity,
+p150
+aVand they're going to post it online for everyone to see.
+p151
+aVThere were a lot of risks involved that they talked about
+p152
+aVduring the informed consent portion.
+p153
+aVThe one I liked the best is,
+p154
+aVsomeone could download my sequence, go back to the lab,
+p155
+aVsynthesize some fake Ellen DNA,
+p156
+aVand plant it at a crime scene. (Laughter)
+p157
+aVBut like DIYbio, the positive outcomes and
+p158
+aVthe potential for good for a study like that
+p159
+aVfar outweighs the risk.
+p160
+aa(lp161
+VNow, you might be asking yourself,
+p162
+aV"Well, you know, what would I do in a biolab?"
+p163
+aVWell, it wasn't that long ago we were asking, "Well,
+p164
+aVwhat would anyone do with a personal computer?"
+p165
+aVSo this stuff is just beginning.
+p166
+aVWe're only seeing just the tip of the DNA iceberg.
+p167
+aVLet me show you what you could do right now.
+p168
+aVA biohacker in Germany, a journalist, wanted to know
+p169
+aVwhose dog was leaving little presents on his street?
+p170
+aV(Laughter) (Applause)
+p171
+aVYep, you guessed it. He threw tennis balls
+p172
+aVto all the neighborhood dogs, analyzed the saliva,
+p173
+aVidentified the dog, and confronted the dog owner.
+p174
+aV(Laughter) (Applause)
+p175
+aVI discovered an invasive species in my own backyard.
+p176
+aVLooked like a ladybug, right?
+p177
+aVIt actually is a Japanese beetle.
+p178
+aVAnd the same kind of technology \u2014
+p179
+aVit's called DNA barcoding, it's really cool \u2014
+p180
+aVYou can use it to check if your caviar is really beluga,
+p181
+aVif that sushi is really tuna, or if that goat cheese
+p182
+aVthat you paid so much for is really goat's.
+p183
+aVIn a biohacker space, you can analyze your genome
+p184
+aVfor mutations.
+p185
+aVYou can analyze your breakfast cereal for GMO's,
+p186
+aVand you can explore your ancestry.
+p187
+aVYou can send weather balloons up into the stratosphere,
+p188
+aVcollect microbes, see what's up there.
+p189
+aVYou can make a biocensor out of yeast
+p190
+aVto detect pollutants in water.
+p191
+aVYou can make some sort of a biofuel cell.
+p192
+aVYou can do a lot of things.
+p193
+aVYou can also do an art science project. Some of these
+p194
+aVare really spectacular, and they look at social,
+p195
+aVecological problems from a completely different perspective.
+p196
+aVIt's really cool.
+p197
+aa(lp198
+VSome people ask me, well, why am I involved?
+p199
+aVI could have a perfectly good career in mainstream science.
+p200
+aVThe thing is, there's something in these labs
+p201
+aVthat they have to offer society that you can't find
+p202
+aVanywhere else.
+p203
+aVThere's something sacred about a space where
+p204
+aVyou can work on a project, and you don't have to justify
+p205
+aVto anyone that it's going to make a lot of money,
+p206
+aVthat it's going to save mankind, or even that it's feasible.
+p207
+aVIt just has to follow safety guidelines.
+p208
+aVIf you had spaces like this all over the world,
+p209
+aVit could really change the perception
+p210
+aVof who's allowed to do biotech.
+p211
+aVIt's spaces like these that spawned personal computing.
+p212
+aVWhy not personal biotech?
+p213
+aVIf everyone in this room got involved,
+p214
+aVwho knows what we could do?
+p215
+aVThis is such a new area, and as we say back in Brooklyn,
+p216
+aVyou ain't seen nothin' yet. (Laughter)
+p217
+aV(Applause)
+p218
+aasS'id'
+p219
+I1568
+sS'title'
+p220
+VBiohacking -- you can do it, too
+p221
+s.

@@ -1,0 +1,283 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThere is nothing bigger or older than the universe.
+p4
+aVThe questions I would like to talk about are:
+p5
+aVone, where did we come from?
+p6
+aVHow did the universe come into being?
+p7
+aVAre we alone in the universe?
+p8
+aVIs there alien life out there?
+p9
+aVWhat is the future of the human race?
+p10
+aa(lp11
+VUp until the 1920s,
+p12
+aVeveryone thought the universe was essentially static
+p13
+aVand unchanging in time.
+p14
+aVThen it was discovered that the universe was expanding.
+p15
+aVDistant galaxies were moving away from us.
+p16
+aVThis meant they must have been closer together in the past.
+p17
+aVIf we extrapolate back,
+p18
+aVwe find we must have all been on top of each other
+p19
+aVabout 15 billion years ago.
+p20
+aVThis was the Big Bang, the beginning of the universe.
+p21
+aa(lp22
+VBut was there anything before the Big Bang?
+p23
+aVIf not, what created the universe?
+p24
+aVWhy did the universe emerge from the Big Bang the way it did?
+p25
+aVWe used to think that the theory of the universe
+p26
+aVcould be divided into two parts.
+p27
+aVFirst, there were the laws
+p28
+aVlike Maxwell's equations and general relativity
+p29
+aVthat determined the evolution of the universe,
+p30
+aVgiven its state over all of space at one time.
+p31
+aVAnd second, there was no question of the initial state of the universe.
+p32
+aa(lp33
+VWe have made good progress on the first part,
+p34
+aVand now have the knowledge of the laws of evolution
+p35
+aVin all but the most extreme conditions.
+p36
+aVBut until recently, we have had little idea
+p37
+aVabout the initial conditions for the universe.
+p38
+aVHowever, this division into laws of evolution and initial conditions
+p39
+aVdepends on time and space being separate and distinct.
+p40
+aVUnder extreme conditions, general relativity and quantum theory
+p41
+aVallow time to behave like another dimension of space.
+p42
+aVThis removes the distinction between time and space,
+p43
+aVand means the laws of evolution can also determine the initial state.
+p44
+aVThe universe can spontaneously create itself out of nothing.
+p45
+aa(lp46
+VMoreover, we can calculate a probability that the universe
+p47
+aVwas created in different states.
+p48
+aVThese predictions are in excellent agreement
+p49
+aVwith observations by the WMAP satellite of the cosmic microwave background,
+p50
+aVwhich is an imprint of the very early universe.
+p51
+aVWe think we have solved the mystery of creation.
+p52
+aVMaybe we should patent the universe
+p53
+aVand charge everyone royalties for their existence.
+p54
+aa(lp55
+VI now turn to the second big question:
+p56
+aVare we alone, or is there other life in the universe?
+p57
+aVWe believe that life arose spontaneously on the Earth,
+p58
+aVso it must be possible for life to appear on other suitable planets,
+p59
+aVof which there seem to be a large number in the galaxy.
+p60
+aa(lp61
+VBut we don't know how life first appeared.
+p62
+aVWe have two pieces of observational evidence
+p63
+aVon the probability of life appearing.
+p64
+aVThe first is that we have fossils of algae from 3.5 billion years ago.
+p65
+aVThe Earth was formed 4.6 billion years ago
+p66
+aVand was probably too hot for about the first half billion years.
+p67
+aVSo life appeared on Earth
+p68
+aVwithin half a billion years of it being possible,
+p69
+aVwhich is short compared to the 10-billion-year lifetime
+p70
+aVof a planet of Earth type.
+p71
+aVThis suggests that the probability of life appearing is reasonably high.
+p72
+aVIf it was very low, one would have expected it
+p73
+aVto take most of the ten billion years available.
+p74
+aa(lp75
+VOn the other hand, we don't seem to have been visited by aliens.
+p76
+aVI am discounting the reports of UFOs.
+p77
+aVWhy would they appear only to cranks and weirdos?
+p78
+aVIf there is a government conspiracy to suppress the reports
+p79
+aVand keep for itself the scientific knowledge the aliens bring,
+p80
+aVit seems to have been a singularly ineffective policy so far.
+p81
+aVFurthermore, despite an extensive search by the SETI project,
+p82
+aVwe haven't heard any alien television quiz shows.
+p83
+aVThis probably indicates that there are no alien civilizations
+p84
+aVat our stage of development
+p85
+aVwithin a radius of a few hundred light years.
+p86
+aVIssuing an insurance policy
+p87
+aVagainst abduction by aliens seems a pretty safe bet.
+p88
+aa(lp89
+VThis brings me to the last of the big questions:
+p90
+aVthe future of the human race.
+p91
+aVIf we are the only intelligent beings in the galaxy,
+p92
+aVwe should make sure we survive and continue.
+p93
+aVBut we are entering an increasingly dangerous period of our history.
+p94
+aVOur population and our use of the finite resources of planet Earth
+p95
+aVare growing exponentially,
+p96
+aValong with our technical ability to change the environment for good or ill.
+p97
+aVBut our genetic code
+p98
+aVstill carries the selfish and aggressive instincts
+p99
+aVthat were of survival advantage in the past.
+p100
+aVIt will be difficult enough to avoid disaster
+p101
+aVin the next hundred years,
+p102
+aVlet alone the next thousand or million.
+p103
+aa(lp104
+VOur only chance of long-term survival
+p105
+aVis not to remain inward-looking on planet Earth,
+p106
+aVbut to spread out into space.
+p107
+aVThe answers to these big questions
+p108
+aVshow that we have made remarkable progress in the last hundred years.
+p109
+aVBut if we want to continue beyond the next hundred years,
+p110
+aVour future is in space.
+p111
+aVThat is why I am in favor of manned \u2014
+p112
+aVor should I say,  personned \u2014 space flight.
+p113
+aa(lp114
+VAll of my life I have sought to understand the universe
+p115
+aVand find answers to these questions.
+p116
+aVI have been very lucky
+p117
+aVthat my disability has not been a serious handicap.
+p118
+aVIndeed, it has probably given me more time than most people
+p119
+aVto pursue the quest for knowledge.
+p120
+aVThe ultimate goal is a complete theory of the universe,
+p121
+aVand we are making good progress.
+p122
+aVThank you for listening.
+p123
+aa(lp124
+VChris Anderson: Professor, if you had to guess either way,
+p125
+aVdo you now believe that it is more likely than not
+p126
+aVthat we are alone in the Milky Way,
+p127
+aVas a civilization of our level of intelligence or higher?
+p128
+aVThis answer took seven minutes, and really gave me an insight
+p129
+aVinto the incredible act of generosity this whole talk was for TED.
+p130
+aa(lp131
+VStephen Hawking: I think it quite likely that we are the only civilization
+p132
+aVwithin several hundred light years;
+p133
+aVotherwise we would have heard radio waves.
+p134
+aVThe alternative is that civilizations don't last very long,
+p135
+aVbut destroy themselves.
+p136
+aa(lp137
+VCA: Professor Hawking, thank you for that answer.
+p138
+aVWe will take it as a salutary warning, I think,
+p139
+aVfor the rest of our conference this week.
+p140
+aVProfessor, we really thank you for the extraordinary effort you made
+p141
+aVto share your questions with us today.
+p142
+aVThank you very much indeed.
+p143
+aa(lp144
+V(Applause)
+p145
+aasS'id'
+p146
+I242
+sS'title'
+p147
+VQuestioning the universe
+p148
+s.

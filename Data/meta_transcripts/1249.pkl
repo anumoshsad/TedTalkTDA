@@ -1,0 +1,531 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhy can't we solve these problems?
+p4
+aVWe know what they are.
+p5
+aVSomething always seems to stop us.
+p6
+aVWhy?
+p7
+aVI remember March the 15th, 2000.
+p8
+aVThe B15 iceberg broke off the Ross Ice Shelf.
+p9
+aVIn the newspaper it said
+p10
+aV"it was all part of a normal process."
+p11
+aVA little bit further on in the article
+p12
+aVit said "a loss that would normally take
+p13
+aVthe ice shelf 50-100 years to replace."
+p14
+aVThat same word, "normal,"
+p15
+aVhad two different,
+p16
+aValmost opposite meanings.
+p17
+aa(lp18
+VIf we walk into the B15 iceberg
+p19
+aVwhen we leave here today,
+p20
+aVwe're going to bump into something
+p21
+aVa thousand feet tall,
+p22
+aV76 miles long,
+p23
+aV17 miles wide,
+p24
+aVand it's going to weigh two gigatons.
+p25
+aVI'm sorry, there's nothing normal about this.
+p26
+aVAnd yet I think it's this perspective of us
+p27
+aVas humans to look at our world
+p28
+aVthrough the lens of normal
+p29
+aVis one of the forces
+p30
+aVthat stops us developing real solutions.
+p31
+aVOnly 90 days after this,
+p32
+aVarguably the greatest discovery
+p33
+aVof the last century occurred.
+p34
+aVIt was the sequencing for the first time
+p35
+aVof the human genome.
+p36
+aVThis is the code that's in every single one
+p37
+aVof our 50 trillion cells
+p38
+aVthat makes us who we are and what we are.
+p39
+aVAnd if we just take one cell's worth
+p40
+aVof this code and unwind it,
+p41
+aVit's a meter long,
+p42
+aVtwo nanometers thick.
+p43
+aVTwo nanometers is 20 atoms in thickness.
+p44
+aa(lp45
+VAnd I wondered,
+p46
+aVwhat if the answer to some of our biggest problems
+p47
+aVcould be found in the smallest of places,
+p48
+aVwhere the difference between what is
+p49
+aVvaluable and what is worthless
+p50
+aVis merely the addition or subtraction
+p51
+aVof a few atoms?
+p52
+aVAnd what
+p53
+aVif we could get exquisite control
+p54
+aVover the essence of energy,
+p55
+aVthe electron?
+p56
+aVSo I started to go around the world
+p57
+aVfinding the best and brightest scientists
+p58
+aVI could at universities
+p59
+aVwhose collective discoveries have the chance
+p60
+aVto take us there,
+p61
+aVand we formed a company to build
+p62
+aVon their extraordinary ideas.
+p63
+aa(lp64
+VSix and a half years later,
+p65
+aVa hundred and eighty researchers,
+p66
+aVthey have some amazing developments
+p67
+aVin the lab,
+p68
+aVand I will show you three of those today,
+p69
+aVsuch that we can stop burning up our planet
+p70
+aVand instead,
+p71
+aVwe can generate all the energy we need
+p72
+aVright where we are,
+p73
+aVcleanly, safely, and cheaply.
+p74
+aVThink of the space that we spend
+p75
+aVmost of our time.
+p76
+aVA tremendous amount of energy
+p77
+aVis coming at us from the sun.
+p78
+aVWe like the light that comes into the room,
+p79
+aVbut in the middle of summer,
+p80
+aVall that heat is coming into the room
+p81
+aVthat we're trying to keep cool.
+p82
+aVIn winter, exactly the opposite is happening.
+p83
+aVWe're trying to heat up
+p84
+aVthe space that we're in,
+p85
+aVand all that is trying to get out through the window.
+p86
+aa(lp87
+VWouldn't it be really great
+p88
+aVif the window could flick back the heat
+p89
+aVinto the room if we needed it
+p90
+aVor flick it away before it came in?
+p91
+aVOne of the materials that can do this
+p92
+aVis a remarkable material, carbon,
+p93
+aVthat has changed its form in this incredibly beautiful reaction
+p94
+aVwhere graphite is blasted by a vapor,
+p95
+aVand when the vaporized carbon condenses,
+p96
+aVit condenses back into a different form:
+p97
+aVchickenwire rolled up.
+p98
+aVBut this chickenwire carbon,
+p99
+aVcalled a carbon nanotube,
+p100
+aVis a hundred thousand times smaller
+p101
+aVthan the width of one of your hairs.
+p102
+aVIt's a thousand times
+p103
+aVmore conductive than copper.
+p104
+aVHow is that possible?
+p105
+aVOne of the things about working at the nanoscale
+p106
+aVis things look and act very differently.
+p107
+aVYou think of carbon as black.
+p108
+aVCarbon at the nanoscale
+p109
+aVis actually transparent
+p110
+aVand flexible.
+p111
+aVAnd when it's in this form,
+p112
+aVif I combine it with a polymer
+p113
+aVand affix it to your window
+p114
+aVwhen it's in its colored state,
+p115
+aVit will reflect away all heat and light,
+p116
+aVand when it's in its bleached state
+p117
+aVit will let all the light and heat through
+p118
+aVand any combination in between.
+p119
+aVTo change its state, by the way,
+p120
+aVtakes two volts from a millisecond pulse.
+p121
+aVAnd once you've changed its state, it stays there
+p122
+aVuntil you change its state again.
+p123
+aa(lp124
+VAs we were working on this incredible
+p125
+aVdiscovery at University of Florida,
+p126
+aVwe were told to go down the corridor
+p127
+aVto visit another scientist,
+p128
+aVand he was working
+p129
+aVon a pretty incredible thing.
+p130
+aVImagine
+p131
+aVif we didn't have to rely
+p132
+aVon artificial lighting to get around at night.
+p133
+aVWe'd have to see at night, right?
+p134
+aVThis lets you do it.
+p135
+aVIt's a nanomaterial, two nanomaterials,
+p136
+aVa detector and an imager.
+p137
+aVThe total width of it
+p138
+aVis 600 times smaller
+p139
+aVthan the width of a decimal place.
+p140
+aVAnd it takes all the infrared available at night,
+p141
+aVconverts it into an electron
+p142
+aVin the space of two small films,
+p143
+aVand is enabling you to play an image
+p144
+aVwhich you can see through.
+p145
+aVI'm going to show to TEDsters,
+p146
+aVthe first time, this operating.
+p147
+aVFirstly I'm going to show you
+p148
+aVthe transparency.
+p149
+aVTransparency is key.
+p150
+aVIt's a film that you can look through.
+p151
+aVAnd then I'm going to turn the lights out.
+p152
+aVAnd you can see, off a tiny film,
+p153
+aVincredible clarity.
+p154
+aa(lp155
+VAs we were working on this, it dawned on us:
+p156
+aVthis is taking infrared radiation, wavelengths,
+p157
+aVand converting it into electrons.
+p158
+aVWhat if we combined it
+p159
+aVwith this?
+p160
+aVSuddenly you've converted energy
+p161
+aVinto an electron on a plastic surface
+p162
+aVthat you can stick on your window.
+p163
+aVBut because it's flexible,
+p164
+aVit can be on any surface whatsoever.
+p165
+aVThe power plant of tomorrow
+p166
+aVis no power plant.
+p167
+aVWe talked about generating and using.
+p168
+aVWe want to talk about storing energy,
+p169
+aVand unfortunately
+p170
+aVthe best thing we've got going
+p171
+aVis something that was developed in France
+p172
+aVa hundred and fifty years ago,
+p173
+aVthe lead acid battery.
+p174
+aVIn terms of dollars per what's stored,
+p175
+aVit's simply the best.
+p176
+aa(lp177
+VKnowing that we're not going to put fifty of
+p178
+aVthese in our basements to store our power,
+p179
+aVwe went to a group at University of Texas at Dallas,
+p180
+aVand we gave them this diagram.
+p181
+aVIt was in actually a diner
+p182
+aVoutside of Dallas/Fort Worth Airport.
+p183
+aVWe said, "Could you build this?"
+p184
+aVAnd these scientists,
+p185
+aVinstead of laughing at us, said, "Yeah."
+p186
+aVAnd what they built was eBox.
+p187
+aVEBox is testing new nanomaterials
+p188
+aVto park an electron on the outside,
+p189
+aVhold it until you need it,
+p190
+aVand then be able to release it and pass it off.
+p191
+aVBeing able to do that means
+p192
+aVthat I can generate energy
+p193
+aVcleanly, efficiently and cheaply
+p194
+aVright where I am.
+p195
+aVIt's my energy.
+p196
+aVAnd if I don't need it, I can convert it
+p197
+aVback up on the window
+p198
+aVto energy, light, and beam it,
+p199
+aVline of site, to your place.
+p200
+aVAnd for that I do not need
+p201
+aVan electric grid between us.
+p202
+aa(lp203
+VThe grid of tomorrow is no grid,
+p204
+aVand energy, clean efficient energy,
+p205
+aVwill one day be free.
+p206
+aVIf you do this, you get the last puzzle piece,
+p207
+aVwhich is water.
+p208
+aVEach of us, every day,
+p209
+aVneed just eight glasses of this,
+p210
+aVbecause we're human.
+p211
+aVWhen we run out of water,
+p212
+aVas we are in some parts of the world
+p213
+aVand soon to be in other parts of the world,
+p214
+aVwe're going to have to get this from the sea,
+p215
+aVand that's going to require us to build desalination plants.
+p216
+aV19 trillion dollars is what we're going to have to spend.
+p217
+aVThese also require tremendous amounts of energy.
+p218
+aVIn fact, it's going to require twice the world's
+p219
+aVsupply of oil to run the pumps
+p220
+aVto generate the water.
+p221
+aVWe're simply not going to do that.
+p222
+aVBut in a world where energy is freed
+p223
+aVand transmittable
+p224
+aVeasily and cheaply, we can take any water
+p225
+aVwherever we are
+p226
+aVand turn it into whatever we need.
+p227
+aa(lp228
+VI'm glad to be working with
+p229
+aVincredibly brilliant and kind scientists,
+p230
+aVno kinder than
+p231
+aVmany of the people in the world,
+p232
+aVbut they have a magic look at the world.
+p233
+aVAnd I'm glad to see their discoveries
+p234
+aVcoming out of the lab and into the world.
+p235
+aVIt's been a long time in coming for me.
+p236
+aV18 years ago,
+p237
+aVI saw a photograph in the paper.
+p238
+aVIt was taken by Kevin Carter
+p239
+aVwho went to the Sudan
+p240
+aVto document their famine there.
+p241
+aVI've carried this photograph with me
+p242
+aVevery day since then.
+p243
+aVIt's a picture of a little girl dying of thirst.
+p244
+aVBy any standard this is wrong.
+p245
+aVIt's just wrong.
+p246
+aVWe can do better than this.
+p247
+aVWe should do better than this.
+p248
+aa(lp249
+VAnd whenever I go round
+p250
+aVto somebody who says,
+p251
+aV"You know what, you're working on something that's too difficult.
+p252
+aVIt'll never happen. You don't have enough money.
+p253
+aVYou don't have enough time.
+p254
+aVThere's something much more interesting around the corner,"
+p255
+aVI say, "Try saying that to her."
+p256
+aVThat's what I say in my mind. And I just say
+p257
+aV"thank you," and I go on to the next one.
+p258
+aVThis is why we have to solve our problems,
+p259
+aVand I know the answer as to how
+p260
+aVis to be able to get exquisite control
+p261
+aVover a building block of nature,
+p262
+aVthe stuff of life:
+p263
+aVthe simple electron.
+p264
+aa(lp265
+VThank you.
+p266
+aa(lp267
+V(Applause)
+p268
+aasS'id'
+p269
+I1249
+sS'title'
+p270
+VFreeing energy from the grid
+p271
+s.

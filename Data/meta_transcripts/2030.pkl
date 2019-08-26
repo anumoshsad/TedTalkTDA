@@ -1,0 +1,961 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI am a computer science and engineering professor here at Carnegie Mellon,
+p4
+aVand my research focuses on usable privacy and security,
+p5
+aVand so my friends like to give me examples
+p6
+aVof their frustrations with computing systems,
+p7
+aVespecially frustrations related to
+p8
+aVunusable privacy and security.
+p9
+aa(lp10
+VSo passwords are something that I hear a lot about.
+p11
+aVA lot of people are frustrated with passwords,
+p12
+aVand it's bad enough
+p13
+aVwhen you have to have one really good password
+p14
+aVthat you can remember
+p15
+aVbut nobody else is going to be able to guess.
+p16
+aVBut what do you do when you have accounts
+p17
+aVon a hundred different systems
+p18
+aVand you're supposed to have a unique password
+p19
+aVfor each of these systems?
+p20
+aVIt's tough.
+p21
+aa(lp22
+VAt Carnegie Mellon, they used to make it
+p23
+aVactually pretty easy for us
+p24
+aVto remember our passwords.
+p25
+aVThe password requirement up through 2009
+p26
+aVwas just that you had to have a password
+p27
+aVwith at least one character.
+p28
+aVPretty easy. But then they changed things,
+p29
+aVand at the end of 2009, they announced
+p30
+aVthat we were going to have a new policy,
+p31
+aVand this new policy required
+p32
+aVpasswords that were at least eight characters long,
+p33
+aVwith an uppercase letter, lowercase letter,
+p34
+aVa digit, a symbol,
+p35
+aVyou couldn't use the same character more than three times,
+p36
+aVand it wasn't allowed to be in a dictionary.
+p37
+aa(lp38
+VNow, when they implemented this new policy,
+p39
+aVa lot of people, my colleagues and friends,
+p40
+aVcame up to me and they said, "Wow,
+p41
+aVnow that's really unusable.
+p42
+aVWhy are they doing this to us,
+p43
+aVand why didn't you stop them?"
+p44
+aa(lp45
+VAnd I said, "Well, you know what?
+p46
+aVThey didn't ask me."
+p47
+aa(lp48
+VBut I got curious, and I decided to go talk
+p49
+aVto the people in charge of our computer systems
+p50
+aVand find out what led them to introduce
+p51
+aVthis new policy,
+p52
+aVand they said that the university
+p53
+aVhad joined a consortium of universities,
+p54
+aVand one of the requirements of membership
+p55
+aVwas that we had to have stronger passwords
+p56
+aVthat complied with some new requirements,
+p57
+aVand these requirements were that our passwords
+p58
+aVhad to have a lot of entropy.
+p59
+aVNow entropy is a complicated term,
+p60
+aVbut basically it measures the strength of passwords.
+p61
+aVBut the thing is, there isn't actually
+p62
+aVa standard measure of entropy.
+p63
+aVNow, the National Institute of Standards and Technology
+p64
+aVhas a set of guidelines
+p65
+aVwhich have some rules of thumb
+p66
+aVfor measuring entropy,
+p67
+aVbut they don't have anything too specific,
+p68
+aVand the reason they only have rules of thumb
+p69
+aVis it turns out they don't actually have any good data
+p70
+aVon passwords.
+p71
+aVIn fact, their report states,
+p72
+aV"Unfortunately, we do not have much data
+p73
+aVon the passwords users choose under particular rules.
+p74
+aVNIST would like to obtain more data
+p75
+aVon the passwords users actually choose,
+p76
+aVbut system administrators are understandably reluctant
+p77
+aVto reveal password data to others."
+p78
+aa(lp79
+VSo this is a problem, but our research group
+p80
+aVlooked at it as an opportunity.
+p81
+aVWe said, "Well, there's a need for good password data.
+p82
+aVMaybe we can collect some good password data
+p83
+aVand actually advance the state of the art here.
+p84
+aa(lp85
+VSo the first thing we did is,
+p86
+aVwe got a bag of candy bars
+p87
+aVand we walked around campus
+p88
+aVand talked to students, faculty and staff,
+p89
+aVand asked them for information
+p90
+aVabout their passwords.
+p91
+aVNow we didn't say, "Give us your password."
+p92
+aVNo, we just asked them about their password.
+p93
+aVHow long is it? Does it have a digit?
+p94
+aVDoes it have a symbol?
+p95
+aVAnd were you annoyed at having to create
+p96
+aVa new one last week?
+p97
+aVSo we got results from 470 students,
+p98
+aVfaculty and staff,
+p99
+aVand indeed we confirmed that the new policy
+p100
+aVwas very annoying,
+p101
+aVbut we also found that people said
+p102
+aVthey felt more secure with these new passwords.
+p103
+aVWe found that most people knew
+p104
+aVthey were not supposed to write their password down,
+p105
+aVand only 13 percent of them did,
+p106
+aVbut disturbingly, 80 percent of people
+p107
+aVsaid they were reusing their password.
+p108
+aVNow, this is actually more dangerous
+p109
+aVthan writing your password down,
+p110
+aVbecause it makes you much more susceptible to attackers.
+p111
+aVSo if you have to, write your passwords down,
+p112
+aVbut don't reuse them.
+p113
+aVWe also found some interesting things
+p114
+aVabout the symbols people use in passwords.
+p115
+aVSo CMU allows 32 possible symbols,
+p116
+aVbut as you can see, there's only a small number
+p117
+aVthat most people are using,
+p118
+aVso we're not actually getting very much strength
+p119
+aVfrom the symbols in our passwords.
+p120
+aa(lp121
+VSo this was a really interesting study,
+p122
+aVand now we had data from 470 people,
+p123
+aVbut in the scheme of things,
+p124
+aVthat's really not very much password data,
+p125
+aVand so we looked around to see
+p126
+aVwhere could we find additional password data?
+p127
+aVSo it turns out there are a lot of people
+p128
+aVgoing around stealing passwords,
+p129
+aVand they often go and post these passwords
+p130
+aVon the Internet.
+p131
+aVSo we were able to get access
+p132
+aVto some of these stolen password sets.
+p133
+aVThis is still not really ideal for research, though,
+p134
+aVbecause it's not entirely clear
+p135
+aVwhere all of these passwords came from,
+p136
+aVor exactly what policies were in effect
+p137
+aVwhen people created these passwords.
+p138
+aVSo we wanted to find some better source of data.
+p139
+aVSo we decided that one thing we could do
+p140
+aVis we could do a study and have people
+p141
+aVactually create passwords for our study.
+p142
+aVSo we used a service called Amazon Mechanical Turk,
+p143
+aVand this is a service where you can post
+p144
+aVa small job online that takes a minute,
+p145
+aVa few minutes, an hour,
+p146
+aVand pay people, a penny, ten cents, a few dollars,
+p147
+aVto do a task for you,
+p148
+aVand then you pay them through Amazon.com.
+p149
+aVSo we paid people about 50 cents
+p150
+aVto create a password following our rules
+p151
+aVand answering a survey,
+p152
+aVand then we paid them again to come back
+p153
+aVtwo days later and log in
+p154
+aVusing their password and answering another survey.
+p155
+aVSo we did this, and we collected 5,000 passwords,
+p156
+aVand we gave people a bunch of different policies
+p157
+aVto create passwords with.
+p158
+aVSo some people had a pretty easy policy,
+p159
+aVwe call it Basic8,
+p160
+aVand here the only rule was that your password
+p161
+aVhad to have at least eight characters.
+p162
+aVThen some people had a much harder policy,
+p163
+aVand this was very similar to the CMU policy,
+p164
+aVthat it had to have eight characters
+p165
+aVincluding uppercase, lowercase, digit, symbol,
+p166
+aVand pass a dictionary check.
+p167
+aVAnd one of the other policies we tried,
+p168
+aVand there were a whole bunch more,
+p169
+aVbut one of the ones we tried was called Basic16,
+p170
+aVand the only requirement here
+p171
+aVwas that your password had to have at least 16 characters.
+p172
+aa(lp173
+VAll right, so now we had 5,000 passwords,
+p174
+aVand so we had much more detailed information.
+p175
+aVAgain we see that there's only a small number
+p176
+aVof symbols that people are actually using
+p177
+aVin their passwords.
+p178
+aVWe also wanted to get an idea of how strong
+p179
+aVthe passwords were that people were creating,
+p180
+aVbut as you may recall, there isn't a good measure
+p181
+aVof password strength.
+p182
+aVSo what we decided to do was to see
+p183
+aVhow long it would take to crack these passwords
+p184
+aVusing the best cracking tools
+p185
+aVthat the bad guys are using,
+p186
+aVor that we could find information about
+p187
+aVin the research literature.
+p188
+aa(lp189
+VSo to give you an idea of how bad guys
+p190
+aVgo about cracking passwords,
+p191
+aVthey will steal a password file
+p192
+aVthat will have all of the passwords
+p193
+aVin kind of a scrambled form, called a hash,
+p194
+aVand so what they'll do is they'll make a guess
+p195
+aVas to what a password is,
+p196
+aVrun it through a hashing function,
+p197
+aVand see whether it matches
+p198
+aVthe passwords they have on their stolen password list.
+p199
+aVSo a dumb attacker will try every password in order.
+p200
+aVThey'll start with AAAAA and move on to AAAAB,
+p201
+aVand this is going to take a really long time
+p202
+aVbefore they get any passwords
+p203
+aVthat people are really likely to actually have.
+p204
+aVA smart attacker, on the other hand,
+p205
+aVdoes something much more clever.
+p206
+aVThey look at the passwords
+p207
+aVthat are known to be popular
+p208
+aVfrom these stolen password sets,
+p209
+aVand they guess those first.
+p210
+aVSo they're going to start by guessing "password,"
+p211
+aVand then they'll guess "I love you," and "monkey,"
+p212
+aVand "12345678,"
+p213
+aVbecause these are the passwords
+p214
+aVthat are most likely for people to have.
+p215
+aVIn fact, some of you probably have these passwords.
+p216
+aVSo what we found
+p217
+aVby running all of these 5,000 passwords we collected
+p218
+aVthrough these tests to see how strong they were,
+p219
+aVwe found that the long passwords
+p220
+aVwere actually pretty strong,
+p221
+aVand the complex passwords were pretty strong too.
+p222
+aVHowever, when we looked at the survey data,
+p223
+aVwe saw that people were really frustrated
+p224
+aVby the very complex passwords,
+p225
+aVand the long passwords were a lot more usable,
+p226
+aVand in some cases, they were actually
+p227
+aVeven stronger than the complex passwords.
+p228
+aVSo this suggests that,
+p229
+aVinstead of telling people that they need
+p230
+aVto put all these symbols and numbers
+p231
+aVand crazy things into their passwords,
+p232
+aVwe might be better off just telling people
+p233
+aVto have long passwords.
+p234
+aVNow here's the problem, though:
+p235
+aVSome people had long passwords
+p236
+aVthat actually weren't very strong.
+p237
+aVYou can make long passwords
+p238
+aVthat are still the sort of thing
+p239
+aVthat an attacker could easily guess.
+p240
+aVSo we need to do more than just say long passwords.
+p241
+aVThere has to be some additional requirements,
+p242
+aVand some of our ongoing research is looking at
+p243
+aVwhat additional requirements we should add
+p244
+aVto make for stronger passwords
+p245
+aVthat also are going to be easy for people
+p246
+aVto remember and type.
+p247
+aa(lp248
+VAnother approach to getting people to have
+p249
+aVstronger passwords is to use a password meter.
+p250
+aVHere are some examples.
+p251
+aVYou may have seen these on the Internet
+p252
+aVwhen you were creating passwords.
+p253
+aVWe decided to do a study to find out
+p254
+aVwhether these password meters actually work.
+p255
+aVDo they actually help people
+p256
+aVhave stronger passwords,
+p257
+aVand if so, which ones are better?
+p258
+aVSo we tested password meters that were
+p259
+aVdifferent sizes, shapes, colors,
+p260
+aVdifferent words next to them,
+p261
+aVand we even tested one that was a dancing bunny.
+p262
+aVAs you type a better password,
+p263
+aVthe bunny dances faster and faster.
+p264
+aVSo this was pretty fun.
+p265
+aa(lp266
+VWhat we found
+p267
+aVwas that password meters do work.
+p268
+aV(Laughter)
+p269
+aVMost of the password meters were actually effective,
+p270
+aVand the dancing bunny was very effective too,
+p271
+aVbut the password meters that were the most effective
+p272
+aVwere the ones that made you work harder
+p273
+aVbefore they gave you that thumbs up and said
+p274
+aVyou were doing a good job,
+p275
+aVand in fact we found that most
+p276
+aVof the password meters on the Internet today
+p277
+aVare too soft.
+p278
+aVThey tell you you're doing a good job too early,
+p279
+aVand if they would just wait a little bit
+p280
+aVbefore giving you that positive feedback,
+p281
+aVyou probably would have better passwords.
+p282
+aa(lp283
+VNow another approach to better passwords, perhaps,
+p284
+aVis to use pass phrases instead of passwords.
+p285
+aVSo this was an xkcd cartoon  from a couple of years ago,
+p286
+aVand the cartoonist suggests
+p287
+aVthat we should all use pass phrases,
+p288
+aVand if you look at the second row of this cartoon,
+p289
+aVyou can see the cartoonist is suggesting
+p290
+aVthat the pass phrase "correct horse battery staple"
+p291
+aVwould be a very strong pass phrase
+p292
+aVand something really easy to remember.
+p293
+aVHe says, in fact, you've already remembered it.
+p294
+aVAnd so we decided to do a research study
+p295
+aVto find out whether this was true or not.
+p296
+aVIn fact, everybody who I talk to,
+p297
+aVwho I mention I'm doing password research,
+p298
+aVthey point out this cartoon.
+p299
+aV"Oh, have you seen it? That xkcd.
+p300
+aVCorrect horse battery staple."
+p301
+aVSo we did the research study to see
+p302
+aVwhat would actually happen.
+p303
+aa(lp304
+VSo in our study, we used Mechanical Turk again,
+p305
+aVand we had the computer pick the random words
+p306
+aVin the pass phrase.
+p307
+aVNow the reason we did this
+p308
+aVis that humans are not very good
+p309
+aVat picking random words.
+p310
+aVIf we asked a human to do it,
+p311
+aVthey would pick things that were not very random.
+p312
+aVSo we tried a few different conditions.
+p313
+aVIn one condition, the computer picked
+p314
+aVfrom a dictionary of the very common words
+p315
+aVin the English language,
+p316
+aVand so you'd get pass phrases like
+p317
+aV"try there three come."
+p318
+aVAnd we looked at that, and we said,
+p319
+aV"Well, that doesn't really seem very memorable."
+p320
+aVSo then we tried picking words
+p321
+aVthat came from specific parts of speech,
+p322
+aVso how about noun-verb-adjective-noun.
+p323
+aVThat comes up with something that's sort of sentence-like.
+p324
+aVSo you can get a pass phrase like
+p325
+aV"plan builds sure power"
+p326
+aVor "end determines red drug."
+p327
+aVAnd these seemed a little bit more memorable,
+p328
+aVand maybe people would like those a little bit better.
+p329
+aVWe wanted to compare them with passwords,
+p330
+aVand so we had the computer pick random passwords,
+p331
+aVand these were nice and short, but as you can see,
+p332
+aVthey don't really look very memorable.
+p333
+aVAnd then we decided to try something called
+p334
+aVa pronounceable password.
+p335
+aVSo here the computer picks random syllables
+p336
+aVand puts them together
+p337
+aVso you have something sort of pronounceable,
+p338
+aVlike "tufritvi" and "vadasabi."
+p339
+aVThat one kind of rolls off your tongue.
+p340
+aVSo these were random passwords that were
+p341
+aVgenerated by our computer.
+p342
+aa(lp343
+VSo what we found in this study was that, surprisingly,
+p344
+aVpass phrases were not actually all that good.
+p345
+aVPeople were not really better at remembering
+p346
+aVthe pass phrases than these random passwords,
+p347
+aVand because the pass phrases are longer,
+p348
+aVthey took longer to type
+p349
+aVand people made more errors while typing them in.
+p350
+aVSo it's not really a clear win for pass phrases.
+p351
+aVSorry, all of you xkcd fans.
+p352
+aVOn the other hand, we did find
+p353
+aVthat pronounceable passwords
+p354
+aVworked surprisingly well,
+p355
+aVand so we actually are doing some more research
+p356
+aVto see if we can make that approach work even better.
+p357
+aVSo one of the problems
+p358
+aVwith some of the studies that we've done
+p359
+aVis that because they're all done
+p360
+aVusing Mechanical Turk,
+p361
+aVthese are not people's real passwords.
+p362
+aVThey're the passwords that they created
+p363
+aVor the computer created for them for our study.
+p364
+aVAnd we wanted to know whether people
+p365
+aVwould actually behave the same way
+p366
+aVwith their real passwords.
+p367
+aa(lp368
+VSo we talked to the information security office at Carnegie Mellon
+p369
+aVand asked them if we could have everybody's real passwords.
+p370
+aVNot surprisingly, they were a little bit reluctant
+p371
+aVto share them with us,
+p372
+aVbut we were actually able to work out
+p373
+aVa system with them
+p374
+aVwhere they put all of the real passwords
+p375
+aVfor 25,000 CMU students, faculty and staff,
+p376
+aVinto a locked computer in a locked room,
+p377
+aVnot connected to the Internet,
+p378
+aVand they ran code on it that we wrote
+p379
+aVto analyze these passwords.
+p380
+aVThey audited our code.
+p381
+aVThey ran the code.
+p382
+aVAnd so we never actually saw
+p383
+aVanybody's password.
+p384
+aa(lp385
+VWe got some interesting results,
+p386
+aVand those of you Tepper students in the back
+p387
+aVwill be very interested in this.
+p388
+aVSo we found that the passwords created
+p389
+aVby people affiliated with the school of computer science
+p390
+aVwere actually 1.8 times stronger
+p391
+aVthan those affiliated with the business school.
+p392
+aVWe have lots of other really interesting
+p393
+aVdemographic information as well.
+p394
+aVThe other interesting thing that we found
+p395
+aVis that when we compared the Carnegie Mellon passwords
+p396
+aVto the Mechanical Turk-generated passwords,
+p397
+aVthere was actually a lot of similarities,
+p398
+aVand so this helped validate our research method
+p399
+aVand show that actually, collecting passwords
+p400
+aVusing these Mechanical Turk studies
+p401
+aVis actually a valid way to study passwords.
+p402
+aVSo that was good news.
+p403
+aa(lp404
+VOkay, I want to close by talking about
+p405
+aVsome insights I gained while on sabbatical
+p406
+aVlast year in the Carnegie Mellon art school.
+p407
+aVOne of the things that I did
+p408
+aVis I made a number of quilts,
+p409
+aVand I made this quilt here.
+p410
+aVIt's called "Security Blanket."
+p411
+aV(Laughter)
+p412
+aVAnd this quilt has the 1,000
+p413
+aVmost frequent passwords stolen
+p414
+aVfrom the RockYou website.
+p415
+aVAnd the size of the passwords is proportional
+p416
+aVto how frequently they appeared
+p417
+aVin the stolen dataset.
+p418
+aVAnd what I did is I created this word cloud,
+p419
+aVand I went through all 1,000 words,
+p420
+aVand I categorized them into
+p421
+aVloose thematic categories.
+p422
+aVAnd it was, in some cases,
+p423
+aVit was kind of difficult to figure out
+p424
+aVwhat category they should be in,
+p425
+aVand then I color-coded them.
+p426
+aa(lp427
+VSo here are some examples of the difficulty.
+p428
+aVSo "justin."
+p429
+aVIs that the name of the user,
+p430
+aVtheir boyfriend, their son?
+p431
+aVMaybe they're a Justin Bieber fan.
+p432
+aVOr "princess."
+p433
+aVIs that a nickname?
+p434
+aVAre they Disney princess fans?
+p435
+aVOr maybe that's the name of their cat.
+p436
+aV"Iloveyou" appears many times
+p437
+aVin many different languages.
+p438
+aVThere's a lot of love in these passwords.
+p439
+aVIf you look carefully, you'll see there's also
+p440
+aVsome profanity,
+p441
+aVbut it was really interesting to me to see
+p442
+aVthat there's a lot more love than hate
+p443
+aVin these passwords.
+p444
+aVAnd there are animals,
+p445
+aVa lot of animals,
+p446
+aVand "monkey" is the most common animal
+p447
+aVand the 14th most popular password overall.
+p448
+aVAnd this was really curious to me,
+p449
+aVand I wondered, "Why are monkeys so popular?"
+p450
+aVAnd so in our last password study,
+p451
+aVany time we detected somebody
+p452
+aVcreating a password with the word "monkey" in it,
+p453
+aVwe asked them why they had a monkey in their password.
+p454
+aVAnd what we found out \u2014
+p455
+aVwe found 17 people so far, I think,
+p456
+aVwho have the word "monkey" \u2014
+p457
+aVWe found out about a third of them said
+p458
+aVthey have a pet named "monkey"
+p459
+aVor a friend whose nickname is "monkey,"
+p460
+aVand about a third of them said
+p461
+aVthat they just like monkeys
+p462
+aVand monkeys are really cute.
+p463
+aVAnd that guy is really cute.
+p464
+aa(lp465
+VSo it seems that at the end of the day,
+p466
+aVwhen we make passwords,
+p467
+aVwe either make something that's really easy
+p468
+aVto type, a common pattern,
+p469
+aVor things that remind us of the word password
+p470
+aVor the account that we've created the password for,
+p471
+aVor whatever.
+p472
+aVOr we think about things that make us happy,
+p473
+aVand we create our password
+p474
+aVbased on things that make us happy.
+p475
+aVAnd while this makes typing
+p476
+aVand remembering your password more fun,
+p477
+aVit also makes it a lot easier
+p478
+aVto guess your password.
+p479
+aVSo I know a lot of these TED Talks
+p480
+aVare inspirational
+p481
+aVand they make you think about nice, happy things,
+p482
+aVbut when you're creating your password,
+p483
+aVtry to think about something else.
+p484
+aa(lp485
+VThank you.
+p486
+aa(lp487
+V(Applause)
+p488
+aasS'id'
+p489
+I2030
+sS'title'
+p490
+VWhat\u2019s wrong with your pa$$w0rd?
+p491
+s.

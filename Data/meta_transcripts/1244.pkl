@@ -1,0 +1,292 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWell we all know the World Wide Web
+p4
+aVhas absolutely transformed publishing, broadcasting,
+p5
+aVcommerce and social connectivity,
+p6
+aVbut where did it all come from?
+p7
+aVAnd I'll quote three people:
+p8
+aVVannevar Bush, Doug Engelbart and Tim Berners-Lee.
+p9
+aVSo let's just run through these guys.
+p10
+aa(lp11
+VThis is Vannevar Bush.
+p12
+aVVannevar Bush was the U.S. government's chief scientific adviser during the war.
+p13
+aVAnd in 1945,
+p14
+aVhe published an article in a magazine called Atlantic Monthly.
+p15
+aVAnd the article was called "As We May Think."
+p16
+aVAnd what Vannevar Bush was saying
+p17
+aVwas the way we use information is broken.
+p18
+aVWe don't work in terms of libraries
+p19
+aVand catalog systems and so forth.
+p20
+aVThe brain works by association.
+p21
+aVWith one item in its thought, it snaps instantly to the next item.
+p22
+aVAnd the way information is structured
+p23
+aVis totally incapable of keeping up with this process.
+p24
+aa(lp25
+VAnd so he suggested a machine,
+p26
+aVand he called it the memex.
+p27
+aVAnd the memex would link information,
+p28
+aVone piece of information to a related piece of information and so forth.
+p29
+aVNow this was in 1945.
+p30
+aVA computer in those days
+p31
+aVwas something the secret services used to use for code breaking.
+p32
+aVAnd nobody knew anything about it.
+p33
+aVSo this was before the computer was invented.
+p34
+aVAnd he proposed this machine called the memex.
+p35
+aVAnd he had a platform where you linked information to other information,
+p36
+aVand then you could call it up at will.
+p37
+aa(lp38
+VSo spinning forward,
+p39
+aVone of the guys who read this article was a guy called Doug Engelbart,
+p40
+aVand he was a U.S. Air Force officer.
+p41
+aVAnd he was reading it in their library in the Far East.
+p42
+aVAnd he was so inspired by this article,
+p43
+aVit kind of directed the rest of his life.
+p44
+aVAnd by the mid-60s, he was able to put this into action
+p45
+aVwhen he worked at the Stanford Research Lab in California.
+p46
+aVHe built a system.
+p47
+aVThe system was designed to augment human intelligence, it was called.
+p48
+aVAnd in a premonition of today's world
+p49
+aVof cloud computing and softwares of service,
+p50
+aVhis system was called NLS
+p51
+aVfor oN-Line System.
+p52
+aa(lp53
+VAnd this is Doug Engelbart.
+p54
+aVHe was giving a presentation at the Fall Joint Computer Conference
+p55
+aVin 1968.
+p56
+aVWhat he showed \u2014
+p57
+aVhe sat on a stage like this, and he demonstrated this system.
+p58
+aVHe had his head mic like I've got.
+p59
+aVAnd he works this system.
+p60
+aVAnd you can see, he's working between documents
+p61
+aVand graphics and so forth.
+p62
+aVAnd he's driving it all
+p63
+aVwith this platform here,
+p64
+aVwith a five-finger keyboard
+p65
+aVand the world's first computer mouse,
+p66
+aVwhich he specially designed in order to do this system.
+p67
+aVSo this is where the mouse came from as well.
+p68
+aa(lp69
+VSo this is Doug Engelbart.
+p70
+aVThe trouble with Doug Engelbart's system
+p71
+aVwas that the computers in those days cost several million pounds.
+p72
+aVSo for a personal computer,
+p73
+aVa few million pounds was like having a personal jet plane;
+p74
+aVit wasn't really very practical.
+p75
+aa(lp76
+VBut spin on to the 80s
+p77
+aVwhen personal computers did arrive,
+p78
+aVthen there was room for this kind of system on personal computers.
+p79
+aVAnd my company, OWL
+p80
+aVbuilt a system called Guide for the Apple Macintosh.
+p81
+aVAnd we delivered the world's first hypertext system.
+p82
+aVAnd this began to get a head of steam.
+p83
+aVApple introduced a thing called HyperCard,
+p84
+aVand they made a bit of a fuss about it.
+p85
+aVThey had a 12-page supplement in the Wall Street Journal the day it launched.
+p86
+aVThe magazines started to cover it.
+p87
+aVByte magazine and Communications at the ACM
+p88
+aVhad special issues covering hypertext.
+p89
+aVWe developed a PC version of this product
+p90
+aVas well as the Macintosh version.
+p91
+aVAnd our PC version became quite mature.
+p92
+aa(lp93
+VThese are some examples of this system in action in the late 80s.
+p94
+aVYou were able to deliver documents, were able to do it over networks.
+p95
+aVWe developed a system such
+p96
+aVthat it had a markup language based on html.
+p97
+aVWe called it hml: hypertext markup language.
+p98
+aVAnd the system was capable of doing
+p99
+aVvery, very large documentation systems over computer networks.
+p100
+aa(lp101
+VSo I took this system to a trade show in Versailles near Paris
+p102
+aVin late November 1990.
+p103
+aVAnd I was approached by a nice young man called Tim Berners-Lee
+p104
+aVwho said, "Are you Ian Ritchie?" and I said, "Yeah."
+p105
+aVAnd he said, "I need to talk to you."
+p106
+aVAnd he told me about his proposed system called the World Wide Web.
+p107
+aVAnd I thought, well, that's got a pretentious name,
+p108
+aVespecially since the whole system ran on his computer in his office.
+p109
+aVBut he was completely convinced that his World Wide Web
+p110
+aVwould take over the world one day.
+p111
+aVAnd he tried to persuade me to write the browser for it,
+p112
+aVbecause his system didn't have any graphics or fonts or layout or anything;
+p113
+aVit was just plain text.
+p114
+aVI thought, well, you know, interesting,
+p115
+aVbut a guy from CERN, he's not going to do this.
+p116
+aVSo we didn't do it.
+p117
+aa(lp118
+VIn the next couple of years,
+p119
+aVthe hypertext community didn't recognize him either.
+p120
+aVIn 1992, his paper was rejected for the Hypertext Conference.
+p121
+aVIn 1993,
+p122
+aVthere was a table at the conference in Seattle,
+p123
+aVand a guy called Marc Andreessen
+p124
+aVwas demonstrating his little browser for the World Wide Web.
+p125
+aVAnd I saw it, and I thought, yep, that's it.
+p126
+aVAnd the very next year, in 1994, we had the conference here in Edinburgh,
+p127
+aVand I had no opposition in having Tim Berners-Lee as the keynote speaker.
+p128
+aa(lp129
+VSo that puts me in pretty illustrious company.
+p130
+aVThere was a guy called Dick Rowe
+p131
+aVwho was at Decca Records and turned down The Beatles.
+p132
+aVThere was a guy called Gary Kildall
+p133
+aVwho went flying his plane
+p134
+aVwhen IBM came looking for an operating system
+p135
+aVfor the IBM PC,
+p136
+aVand he wasn't there, so they went back to see Bill Gates.
+p137
+aVAnd the 12 publishers
+p138
+aVwho turned down J.K. Rowling's Harry Potter, I guess.
+p139
+aa(lp140
+VOn the other hand, there's Marc Andreessen
+p141
+aVwho wrote the world's first browser for the World Wide Web.
+p142
+aVAnd according to Fortune magazine,
+p143
+aVhe's worth 700 million dollars.
+p144
+aVBut is he happy?
+p145
+aa(lp146
+V(Laughter)
+p147
+aa(lp148
+V(Applause)
+p149
+aasS'id'
+p150
+I1244
+sS'title'
+p151
+VThe day I turned down Tim Berners-Lee
+p152
+s.

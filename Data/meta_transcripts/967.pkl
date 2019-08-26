@@ -1,0 +1,866 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWe live in in a remarkable time,
+p4
+aVthe age of genomics.
+p5
+aVYour genome is the entire sequence of your DNA.
+p6
+aVYour sequence and mine are slightly different.
+p7
+aVThat's why we look different.
+p8
+aVI've got brown eyes;
+p9
+aVyou might have blue or gray.
+p10
+aVBut it's not just skin-deep.
+p11
+aVThe headlines tell us
+p12
+aVthat genes can give us scary diseases,
+p13
+aVmaybe even shape our personality,
+p14
+aVor give us mental disorders.
+p15
+aVOur genes seem to have
+p16
+aVawesome power over our destinies.
+p17
+aVAnd yet, I would like to think
+p18
+aVthat I am more than my genes.
+p19
+aVWhat do you guys think?
+p20
+aVAre you more than your genes?
+p21
+aV(Audience: Yes.) Yes?
+p22
+aVI think some people agree with me.
+p23
+aVI think we should make a statement.
+p24
+aVI think we should say it all together.
+p25
+aVAll right: "I'm more than my genes" \u2014 all together.
+p26
+aVEverybody: I am more than my genes.
+p27
+aV(Cheering)
+p28
+aVSebastian Seung: What am I?
+p29
+aV(Laughter)
+p30
+aVI am my connectome.
+p31
+aVNow, since you guys are really great,
+p32
+aVmaybe you can humor me and say this all together too.
+p33
+aV(Laughter)
+p34
+aVRight. All together now.
+p35
+aVEverybody: I am my connectome.
+p36
+aVSS: That sounded great.
+p37
+aVYou know, you guys are so great, you don't even know what a connectome is,
+p38
+aVand you're willing to play along with me.
+p39
+aVI could just go home now.
+p40
+aa(lp41
+VWell, so far only one connectome is known,
+p42
+aVthat of this tiny worm.
+p43
+aVIts modest nervous system
+p44
+aVconsists of just 300 neurons.
+p45
+aVAnd in the 1970s and '80s,
+p46
+aVa team of scientists
+p47
+aVmapped all 7,000 connections
+p48
+aVbetween the neurons.
+p49
+aVIn this diagram, every node is a neuron,
+p50
+aVand every line is a connection.
+p51
+aVThis is the connectome
+p52
+aVof the worm C. elegans.
+p53
+aVYour connectome is far more complex than this
+p54
+aVbecause your brain
+p55
+aVcontains 100 billion neurons
+p56
+aVand 10,000 times as many connections.
+p57
+aVThere's a diagram like this for your brain,
+p58
+aVbut there's no way it would fit on this slide.
+p59
+aVYour connectome contains one million times more connections
+p60
+aVthan your genome has letters.
+p61
+aVThat's a lot of information.
+p62
+aa(lp63
+VWhat's in that information?
+p64
+aVWe don't know for sure, but there are theories.
+p65
+aVSince the 19th century, neuroscientists have speculated
+p66
+aVthat maybe your memories \u2014
+p67
+aVthe information that makes you, you \u2014
+p68
+aVmaybe your memories are stored
+p69
+aVin the connections between your brain's neurons.
+p70
+aVAnd perhaps other aspects of your personal identity \u2014
+p71
+aVmaybe your personality and your intellect \u2014
+p72
+aVmaybe they're also encoded
+p73
+aVin the connections between your neurons.
+p74
+aVAnd so now you can see why I proposed this hypothesis:
+p75
+aVI am my connectome.
+p76
+aVI didn't ask you to chant it because it's true;
+p77
+aVI just want you to remember it.
+p78
+aVAnd in fact, we don't know if this hypothesis is correct,
+p79
+aVbecause we have never had technologies
+p80
+aVpowerful enough to test it.
+p81
+aVFinding that worm connectome
+p82
+aVtook over a dozen years of tedious labor.
+p83
+aVAnd to find the connectomes of brains more like our own,
+p84
+aVwe need more sophisticated technologies, that are automated,
+p85
+aVthat will speed up the process of finding connectomes.
+p86
+aVAnd in the next few minutes, I'll tell you about some of these technologies,
+p87
+aVwhich are currently under development
+p88
+aVin my lab and the labs of my collaborators.
+p89
+aa(lp90
+VNow you've probably seen pictures of neurons before.
+p91
+aVYou can recognize them instantly
+p92
+aVby their fantastic shapes.
+p93
+aVThey extend long and delicate branches,
+p94
+aVand in short, they look like trees.
+p95
+aVBut this is just a single neuron.
+p96
+aVIn order to find connectomes,
+p97
+aVwe have to see all the neurons at the same time.
+p98
+aVSo let's meet Bobby Kasthuri,
+p99
+aVwho works in the laboratory of Jeff Lichtman
+p100
+aVat Harvard University.
+p101
+aVBobby is holding fantastically thin slices
+p102
+aVof a mouse brain.
+p103
+aVAnd we're zooming in by a factor of 100,000 times
+p104
+aVto obtain the resolution,
+p105
+aVso that we can see the branches of neurons all at the same time.
+p106
+aVExcept, you still may not really recognize them,
+p107
+aVand that's because we have to work in three dimensions.
+p108
+aa(lp109
+VIf we take many images of many slices of the brain
+p110
+aVand stack them up,
+p111
+aVwe get a three-dimensional image.
+p112
+aVAnd still, you may not see the branches.
+p113
+aVSo we start at the top,
+p114
+aVand we color in the cross-section of one branch in red,
+p115
+aVand we do that for the next slice
+p116
+aVand for the next slice.
+p117
+aVAnd we keep on doing that,
+p118
+aVslice after slice.
+p119
+aVIf we continue through the entire stack,
+p120
+aVwe can reconstruct the three-dimensional shape
+p121
+aVof a small fragment of a branch of a neuron.
+p122
+aVAnd we can do that for another neuron in green.
+p123
+aVAnd you can see that the green neuron touches the red neuron
+p124
+aVat two locations,
+p125
+aVand these are what are called synapses.
+p126
+aa(lp127
+VLet's zoom in on one synapse,
+p128
+aVand keep your eyes on the interior of the green neuron.
+p129
+aVYou should see small circles \u2014
+p130
+aVthese are called vesicles.
+p131
+aVThey contain a molecule know as a neurotransmitter.
+p132
+aVAnd so when the green neuron wants to communicate,
+p133
+aVit wants to send a message to the red neuron,
+p134
+aVit spits out neurotransmitter.
+p135
+aVAt the synapse, the two neurons
+p136
+aVare said to be connected
+p137
+aVlike two friends talking on the telephone.
+p138
+aa(lp139
+VSo you see how to find a synapse.
+p140
+aVHow can we find an entire connectome?
+p141
+aVWell, we take this three-dimensional stack of images
+p142
+aVand treat it as a gigantic three-dimensional coloring book.
+p143
+aVWe color every neuron in, in a different color,
+p144
+aVand then we look through all of the images,
+p145
+aVfind the synapses
+p146
+aVand note the colors of the two neurons involved in each synapse.
+p147
+aVIf we can do that throughout all the images,
+p148
+aVwe could find a connectome.
+p149
+aa(lp150
+VNow, at this point,
+p151
+aVyou've learned the basics of neurons and synapses.
+p152
+aVAnd so I think we're ready to tackle
+p153
+aVone of the most important questions in neuroscience:
+p154
+aVhow are the brains of men and women different?
+p155
+aV(Laughter)
+p156
+aVAccording to this self-help book,
+p157
+aVguys brains are like waffles;
+p158
+aVthey keep their lives compartmentalized in boxes.
+p159
+aVGirls' brains are like spaghetti;
+p160
+aVeverything in their life is connected to everything else.
+p161
+aV(Laughter)
+p162
+aVYou guys are laughing,
+p163
+aVbut you know, this book changed my life.
+p164
+aV(Laughter)
+p165
+aVBut seriously, what's wrong with this?
+p166
+aVYou already know enough to tell me \u2014 what's wrong with this statement?
+p167
+aVIt doesn't matter whether you're a guy or girl,
+p168
+aVeveryone's brains are like spaghetti.
+p169
+aVOr maybe really, really fine capellini with branches.
+p170
+aVJust as one strand of spaghetti
+p171
+aVcontacts many other strands on your plate,
+p172
+aVone neuron touches many other neurons
+p173
+aVthrough their entangled branches.
+p174
+aVOne neuron can be connected to so many other neurons,
+p175
+aVbecause there can be synapses
+p176
+aVat these points of contact.
+p177
+aVBy now, you might have sort of lost perspective
+p178
+aVon how large this cube of brain tissue actually is.
+p179
+aa(lp180
+VAnd so let's do a series of comparisons to show you.
+p181
+aVI assure you, this is very tiny. It's just six microns on a side.
+p182
+aVSo, here's how it stacks up against an entire neuron.
+p183
+aVAnd you can tell that, really, only the smallest fragments of branches
+p184
+aVare contained inside this cube.
+p185
+aVAnd a neuron, well, that's smaller than brain.
+p186
+aVAnd that's just a mouse brain \u2014
+p187
+aVit's a lot smaller than a human brain.
+p188
+aVSo when show my friends this,
+p189
+aVsometimes they've told me,
+p190
+aV"You know, Sebastian, you should just give up.
+p191
+aVNeuroscience is hopeless."
+p192
+aVBecause if you look at a brain with your naked eye,
+p193
+aVyou don't really see how complex it is,
+p194
+aVbut when you use a microscope,
+p195
+aVfinally the hidden complexity is revealed.
+p196
+aa(lp197
+VIn the 17th century,
+p198
+aVthe mathematician and philosopher, Blaise Pascal,
+p199
+aVwrote of his dread of the infinite,
+p200
+aVhis feeling of insignificance
+p201
+aVat contemplating the vast reaches of outer space.
+p202
+aVAnd, as a scientist,
+p203
+aVI'm not supposed to talk about my feelings \u2014
+p204
+aVtoo much information, professor.
+p205
+aV(Laughter)
+p206
+aVBut may I?
+p207
+aV(Laughter)
+p208
+aV(Applause)
+p209
+aVI feel curiosity,
+p210
+aVand I feel wonder,
+p211
+aVbut at times I have also felt despair.
+p212
+aVWhy did I choose to study
+p213
+aVthis organ that is so awesome in its complexity
+p214
+aVthat it might well be infinite?
+p215
+aVIt's absurd.
+p216
+aVHow could we even dare to think
+p217
+aVthat we might ever understand this?
+p218
+aa(lp219
+VAnd yet, I persist in this quixotic endeavor.
+p220
+aVAnd indeed, these days I harbor new hopes.
+p221
+aVSomeday,
+p222
+aVa fleet of microscopes will capture
+p223
+aVevery neuron and every synapse
+p224
+aVin a vast database of images.
+p225
+aVAnd some day, artificially intelligent supercomputers
+p226
+aVwill analyze the images without human assistance
+p227
+aVto summarize them in a connectome.
+p228
+aVI do not know, but I hope that I will live to see that day,
+p229
+aVbecause finding an entire human connectome
+p230
+aVis one of the greatest technological challenges of all time.
+p231
+aVIt will take the work of generations to succeed.
+p232
+aVAt the present time, my collaborators and I,
+p233
+aVwhat we're aiming for is much more modest \u2014
+p234
+aVjust to find partial connectomes
+p235
+aVof tiny chunks of mouse and human brain.
+p236
+aVBut even that will be enough for the first tests of this hypothesis
+p237
+aVthat I am my connectome.
+p238
+aVFor now, let me try to convince you of the plausibility of this hypothesis,
+p239
+aVthat it's actually worth taking seriously.
+p240
+aa(lp241
+VAs you grow during childhood
+p242
+aVand age during adulthood,
+p243
+aVyour personal identity changes slowly.
+p244
+aVLikewise, every connectome
+p245
+aVchanges over time.
+p246
+aVWhat kinds of changes happen?
+p247
+aVWell, neurons, like trees,
+p248
+aVcan grow new branches,
+p249
+aVand they can lose old ones.
+p250
+aVSynapses can be created,
+p251
+aVand they can be eliminated.
+p252
+aVAnd synapses can grow larger,
+p253
+aVand they can grow smaller.
+p254
+aVSecond question:
+p255
+aVwhat causes these changes?
+p256
+aVWell, it's true.
+p257
+aVTo some extent, they are programmed by your genes.
+p258
+aVBut that's not the whole story,
+p259
+aVbecause there are signals, electrical signals,
+p260
+aVthat travel along the branches of neurons
+p261
+aVand chemical signals
+p262
+aVthat jump across from branch to branch.
+p263
+aVThese signals are called neural activity.
+p264
+aVAnd there's a lot of evidence
+p265
+aVthat neural activity
+p266
+aVis encoding our thoughts, feelings and perceptions,
+p267
+aVour mental experiences.
+p268
+aVAnd there's a lot of evidence that neural activity
+p269
+aVcan cause your connections to change.
+p270
+aVAnd if you put those two facts together,
+p271
+aVit means that your experiences
+p272
+aVcan change your connectome.
+p273
+aVAnd that's why every connectome is unique,
+p274
+aVeven those of genetically identical twins.
+p275
+aVThe connectome is where nature meets nurture.
+p276
+aVAnd it might true
+p277
+aVthat just the mere act of thinking
+p278
+aVcan change your connectome \u2014
+p279
+aVan idea that you may find empowering.
+p280
+aa(lp281
+VWhat's in this picture?
+p282
+aVA cool and refreshing stream of water, you say.
+p283
+aVWhat else is in this picture?
+p284
+aVDo not forget that groove in the Earth
+p285
+aVcalled the stream bed.
+p286
+aVWithout it, the water would not know in which direction to flow.
+p287
+aVAnd with the stream,
+p288
+aVI would like to propose a metaphor
+p289
+aVfor the relationship between neural activity
+p290
+aVand connectivity.
+p291
+aVNeural activity is constantly changing.
+p292
+aVIt's like the water of the stream; it never sits still.
+p293
+aVThe connections
+p294
+aVof the brain's neural network
+p295
+aVdetermines the pathways
+p296
+aValong which neural activity flows.
+p297
+aVAnd so the connectome is like bed of the stream;
+p298
+aVbut the metaphor is richer than that,
+p299
+aVbecause it's true that the stream bed
+p300
+aVguides the flow of the water,
+p301
+aVbut over long timescales,
+p302
+aVthe water also reshapes the bed of the stream.
+p303
+aVAnd as I told you just now,
+p304
+aVneural activity can change the connectome.
+p305
+aVAnd if you'll allow me to ascend
+p306
+aVto metaphorical heights,
+p307
+aVI will remind you that neural activity
+p308
+aVis the physical basis \u2014 or so neuroscientists think \u2014
+p309
+aVof thoughts, feelings and perceptions.
+p310
+aVAnd so we might even speak of
+p311
+aVthe stream of consciousness.
+p312
+aVNeural activity is its water,
+p313
+aVand the connectome is its bed.
+p314
+aa(lp315
+VSo let's return from the heights of metaphor
+p316
+aVand return to science.
+p317
+aVSuppose our technologies for finding connectomes
+p318
+aVactually work.
+p319
+aVHow will we go about testing the hypothesis
+p320
+aV"I am my connectome?"
+p321
+aVWell, I propose a direct test.
+p322
+aVLet us attempt
+p323
+aVto read out memories from connectomes.
+p324
+aVConsider the memory
+p325
+aVof long temporal sequences of movements,
+p326
+aVlike a pianist playing a Beethoven sonata.
+p327
+aVAccording to a theory that dates back to the 19th century,
+p328
+aVsuch memories are stored
+p329
+aVas chains of synaptic connections inside your brain.
+p330
+aVBecause, if the first neurons in the chain are activated,
+p331
+aVthrough their synapses they send messages to the second neurons, which are activated,
+p332
+aVand so on down the line,
+p333
+aVlike a chain of falling dominoes.
+p334
+aVAnd this sequence of neural activation
+p335
+aVis hypothesized to be the neural basis
+p336
+aVof those sequence of movements.
+p337
+aa(lp338
+VSo one way of trying to test the theory
+p339
+aVis to look for such chains
+p340
+aVinside connectomes.
+p341
+aVBut it won't be easy, because they're not going to look like this.
+p342
+aVThey're going to be scrambled up.
+p343
+aVSo we'll have to use our computers
+p344
+aVto try to unscramble the chain.
+p345
+aVAnd if we can do that,
+p346
+aVthe sequence of the neurons we recover from that unscrambling
+p347
+aVwill be a prediction of the pattern of neural activity
+p348
+aVthat is replayed in the brain during memory recall.
+p349
+aVAnd if that were successful,
+p350
+aVthat would be the first example of reading a memory from a connectome.
+p351
+aa(lp352
+V(Laughter)
+p353
+aa(lp354
+VWhat a mess \u2014
+p355
+aVhave you ever tried to wire up a system
+p356
+aVas complex as this?
+p357
+aVI hope not.
+p358
+aVBut if you have, you know it's very easy to make a mistake.
+p359
+aVThe branches of neurons are like the wires of the brain.
+p360
+aVCan anyone guess: what's the total length of wires in your brain?
+p361
+aVI'll give you a hint. It's a big number.
+p362
+aV(Laughter)
+p363
+aVI estimate, millions of miles,
+p364
+aVall packed in your skull.
+p365
+aVAnd if you appreciate that number,
+p366
+aVyou can easily see
+p367
+aVthere is huge potential for mis-wiring of the brain.
+p368
+aVAnd indeed, the popular press loves headlines like,
+p369
+aV"Anorexic brains are wired differently,"
+p370
+aVor "Autistic brains are wired differently."
+p371
+aVThese are plausible claims,
+p372
+aVbut in truth,
+p373
+aVwe can't see the brain's wiring clearly enough
+p374
+aVto tell if these are really true.
+p375
+aVAnd so the technologies for seeing connectomes
+p376
+aVwill allow us to finally
+p377
+aVread mis-wiring of the brain,
+p378
+aVto see mental disorders in connectomes.
+p379
+aa(lp380
+VSometimes the best way to test a hypothesis
+p381
+aVis to consider its most extreme implication.
+p382
+aVPhilosophers know this game very well.
+p383
+aVIf you believe that I am my connectome,
+p384
+aVI think you must also accept the idea
+p385
+aVthat death is the destruction
+p386
+aVof your connectome.
+p387
+aVI mention this because there are prophets today
+p388
+aVwho claim that technology
+p389
+aVwill fundamentally alter the human condition
+p390
+aVand perhaps even transform the human species.
+p391
+aVOne of their most cherished dreams
+p392
+aVis to cheat death
+p393
+aVby that practice known as cryonics.
+p394
+aVIf you pay 100,000 dollars,
+p395
+aVyou can arrange to have your body frozen after death
+p396
+aVand stored in liquid nitrogen
+p397
+aVin one of these tanks in an Arizona warehouse,
+p398
+aVawaiting a future civilization
+p399
+aVthat is advanced to resurrect you.
+p400
+aa(lp401
+VShould we ridicule the modern seekers of immortality,
+p402
+aVcalling them fools?
+p403
+aVOr will they someday chuckle
+p404
+aVover our graves?
+p405
+aVI don't know \u2014
+p406
+aVI prefer to test their beliefs, scientifically.
+p407
+aVI propose that we attempt to find a connectome
+p408
+aVof a frozen brain.
+p409
+aVWe know that damage to the brain
+p410
+aVoccurs after death and during freezing.
+p411
+aVThe question is: has that damage erased the connectome?
+p412
+aVIf it has, there is no way that any future civilization
+p413
+aVwill be able to recover the memories of these frozen brains.
+p414
+aVResurrection might succeed for the body,
+p415
+aVbut not for the mind.
+p416
+aVOn the other hand, if the connectome is still intact,
+p417
+aVwe cannot ridicule the claims of cryonics so easily.
+p418
+aa(lp419
+VI've described a quest
+p420
+aVthat begins in the world of the very small,
+p421
+aVand propels us to the world of the far future.
+p422
+aVConnectomes will mark a turning point in human history.
+p423
+aVAs we evolved from our ape-like ancestors
+p424
+aVon the African savanna,
+p425
+aVwhat distinguished us was our larger brains.
+p426
+aVWe have used our brains to fashion
+p427
+aVever more amazing technologies.
+p428
+aVEventually, these technologies will become so powerful
+p429
+aVthat we will use them to know ourselves
+p430
+aVby deconstructing and reconstructing
+p431
+aVour own brains.
+p432
+aVI believe that this voyage of self-discovery
+p433
+aVis not just for scientists,
+p434
+aVbut for all of us.
+p435
+aVAnd I'm grateful for the opportunity to share this voyage with you today.
+p436
+aa(lp437
+VThank you.
+p438
+aa(lp439
+V(Applause)
+p440
+aasS'id'
+p441
+I967
+sS'title'
+p442
+VI am my connectome
+p443
+s.

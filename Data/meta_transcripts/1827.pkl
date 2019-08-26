@@ -1,0 +1,883 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThere is an ancient proverb that says
+p4
+aVit's very difficult to find a black cat in a dark room,
+p5
+aVespecially when there is no cat.
+p6
+aVI find this a particularly apt description of science
+p7
+aVand how science works \u2014
+p8
+aVbumbling around in a dark room, bumping into things,
+p9
+aVtrying to figure out what shape this might be,
+p10
+aVwhat that might be,
+p11
+aVthere are reports of a cat somewhere around,
+p12
+aVthey may not be reliable, they may be,
+p13
+aVand so forth and so on.
+p14
+aa(lp15
+VNow I know this is different than the way most people
+p16
+aVthink about science.
+p17
+aVScience, we generally are told,
+p18
+aVis a very well-ordered mechanism for
+p19
+aVunderstanding the world,
+p20
+aVfor gaining facts, for gaining data,
+p21
+aVthat it's rule-based,
+p22
+aVthat scientists use this thing called the scientific method
+p23
+aVand we've been doing this for 14 generations or so now,
+p24
+aVand the scientific method is a set of rules
+p25
+aVfor getting hard, cold facts out of the data.
+p26
+aa(lp27
+VI'd like to tell you that's not the case.
+p28
+aVSo there's the scientific method,
+p29
+aVbut what's really going on is this. (Laughter)
+p30
+aa(lp31
+V[The Scientific Method vs. Farting Around]
+p32
+aa(lp33
+VAnd it's going on kind of like that.
+p34
+aa(lp35
+V[... in the dark] (Laughter)
+p36
+aa(lp37
+VSo what is the difference, then,
+p38
+aVbetween the way I believe science is pursued
+p39
+aVand the way it seems to be perceived?
+p40
+aVSo this difference first came to me in some ways
+p41
+aVin my dual role at Columbia University,
+p42
+aVwhere I'm both a professor and run a laboratory in neuroscience
+p43
+aVwhere we try to figure out how the brain works.
+p44
+aVWe do this by studying the sense of smell,
+p45
+aVthe sense of olfaction, and in the laboratory,
+p46
+aVit's a great pleasure and fascinating work
+p47
+aVand exciting to work with graduate students and post-docs
+p48
+aVand think up cool experiments to understand how this
+p49
+aVsense of smell works and how the brain might be working,
+p50
+aVand, well, frankly, it's kind of exhilarating.
+p51
+aa(lp52
+VBut at the same time, it's my responsibility
+p53
+aVto teach a large course to undergraduates on the brain,
+p54
+aVand that's a big subject,
+p55
+aVand it takes quite a while to organize that,
+p56
+aVand it's quite challenging and it's quite interesting,
+p57
+aVbut I have to say, it's not so exhilarating.
+p58
+aVSo what was the difference?
+p59
+aVWell, the course I was and am teaching
+p60
+aVis called Cellular and Molecular Neuroscience - I. (Laughs)
+p61
+aVIt's 25 lectures full of all sorts of facts,
+p62
+aVit uses this giant book called "Principles of Neural Science"
+p63
+aVby three famous neuroscientists.
+p64
+aVThis book comes in at 1,414 pages,
+p65
+aVit weighs a hefty seven and a half pounds.
+p66
+aVJust to put that in some perspective,
+p67
+aVthat's the weight of two normal human brains.
+p68
+aa(lp69
+V(Laughter)
+p70
+aa(lp71
+VSo I began to realize, by the end of this course,
+p72
+aVthat the students maybe were getting the idea
+p73
+aVthat we must know everything there is to know about the brain.
+p74
+aVThat's clearly not true.
+p75
+aVAnd they must also have this idea, I suppose,
+p76
+aVthat what scientists do is collect data and collect facts
+p77
+aVand stick them in these big books.
+p78
+aVAnd that's not really the case either.
+p79
+aVWhen I go to a meeting, after the meeting day is over
+p80
+aVand we collect in the bar over a couple of beers with my colleagues,
+p81
+aVwe never talk about what we know.
+p82
+aVWe talk about what we don't know.
+p83
+aVWe talk about what still has to get done,
+p84
+aVwhat's so critical to get done in the lab.
+p85
+aVIndeed, this was, I think, best said by Marie Curie
+p86
+aVwho said that one never notices what has been done
+p87
+aVbut only what remains to be done.
+p88
+aVThis was in a letter to her brother after obtaining
+p89
+aVher second graduate degree, I should say.
+p90
+aa(lp91
+VI have to point out this has always been one of my favorite pictures of Marie Curie,
+p92
+aVbecause I am convinced that that glow behind her
+p93
+aVis not a photographic effect. (Laughter)
+p94
+aVThat's the real thing.
+p95
+aVIt is true that her papers are, to this day,
+p96
+aVstored in a basement room in the Bibliothèque Française
+p97
+aVin a concrete room that's lead-lined,
+p98
+aVand if you're a scholar and you want access to these notebooks,
+p99
+aVyou have to put on a full radiation hazmat suit,
+p100
+aVso it's pretty scary business.
+p101
+aa(lp102
+VNonetheless, this is what I think we were leaving out
+p103
+aVof our courses
+p104
+aVand leaving out of the interaction that we have
+p105
+aVwith the public as scientists, the what-remains-to-be-done.
+p106
+aVThis is the stuff that's exhilarating and interesting.
+p107
+aVIt is, if you will, the ignorance.
+p108
+aVThat's what was missing.
+p109
+aa(lp110
+VSo I thought, well, maybe I should teach a course
+p111
+aVon ignorance,
+p112
+aVsomething I can finally excel at, perhaps, for example.
+p113
+aVSo I did start teaching this course on ignorance,
+p114
+aVand it's been quite interesting
+p115
+aVand I'd like to tell you to go to the website.
+p116
+aVYou can find all sorts of information there. It's wide open.
+p117
+aVAnd it's been really quite an interesting time for me
+p118
+aVto meet up with other scientists who come in and talk
+p119
+aVabout what it is they don't know.
+p120
+aa(lp121
+VNow I use this word "ignorance," of course,
+p122
+aVto be at least in part intentionally provocative,
+p123
+aVbecause ignorance has a lot of bad connotations
+p124
+aVand I clearly don't mean any of those.
+p125
+aVSo I don't mean stupidity, I don't mean a callow indifference
+p126
+aVto fact or reason or data.
+p127
+aVThe ignorant are clearly unenlightened, unaware,
+p128
+aVuninformed, and present company today excepted,
+p129
+aVoften occupy elected offices, it seems to me.
+p130
+aVThat's another story, perhaps.
+p131
+aa(lp132
+VI mean a different kind of ignorance.
+p133
+aVI mean a kind of ignorance that's less pejorative,
+p134
+aVa kind of ignorance that comes from a communal gap in our knowledge,
+p135
+aVsomething that's just not there to be known
+p136
+aVor isn't known well enough yet or we can't make predictions from,
+p137
+aVthe kind of ignorance that's maybe best summed up
+p138
+aVin a statement by James Clerk Maxwell,
+p139
+aVperhaps the greatest physicist between Newton and Einstein,
+p140
+aVwho said, "Thoroughly conscious ignorance
+p141
+aVis the prelude to every real advance in science."
+p142
+aVI think it's a wonderful idea:
+p143
+aVthoroughly conscious ignorance.
+p144
+aa(lp145
+VSo that's the kind of ignorance that I want to talk about today,
+p146
+aVbut of course the first thing we have to clear up
+p147
+aVis what are we going to do with all those facts?
+p148
+aVSo it is true that science piles up at an alarming rate.
+p149
+aVWe all have this sense that science is this mountain of facts,
+p150
+aVthis accumulation model of science, as many have called it,
+p151
+aVand it seems impregnable, it seems impossible.
+p152
+aVHow can you ever know all of this?
+p153
+aVAnd indeed, the scientific literature grows at an alarming rate.
+p154
+aVIn 2006, there were 1.3 million papers published.
+p155
+aVThere's about a two-and-a-half-percent yearly growth rate,
+p156
+aVand so last year we saw over one and a half million papers being published.
+p157
+aVDivide that by the number of minutes in a year,
+p158
+aVand you wind up with three new papers per minute.
+p159
+aVSo I've been up here a little over 10 minutes,
+p160
+aVI've already lost three papers.
+p161
+aVI have to get out of here actually. I have to go read.
+p162
+aa(lp163
+VSo what do we do about this? Well, the fact is
+p164
+aVthat what scientists do about it is a kind of a controlled neglect, if you will.
+p165
+aVWe just don't worry about it, in a way.
+p166
+aVThe facts are important. You have to know a lot of stuff
+p167
+aVto be a scientist. That's true.
+p168
+aVBut knowing a lot of stuff doesn't make you a scientist.
+p169
+aVYou need to know a lot of stuff to be a lawyer
+p170
+aVor an accountant or an electrician or a carpenter.
+p171
+aVBut in science, knowing a lot of stuff is not the point.
+p172
+aVKnowing a lot of stuff is there to help you get
+p173
+aVto more ignorance.
+p174
+aVSo knowledge is a big subject, but I would say
+p175
+aVignorance is a bigger one.
+p176
+aa(lp177
+VSo this leads us to maybe think about, a little bit
+p178
+aVabout, some of the models of science that we tend to use,
+p179
+aVand I'd like to disabuse you of some of them.
+p180
+aVSo one of them, a popular one, is that scientists
+p181
+aVare patiently putting the pieces of a puzzle together
+p182
+aVto reveal some grand scheme or another.
+p183
+aVThis is clearly not true. For one, with puzzles,
+p184
+aVthe manufacturer has guaranteed that there's a solution.
+p185
+aVWe don't have any such guarantee.
+p186
+aVIndeed, there are many of us who aren't so sure about the manufacturer.
+p187
+aa(lp188
+V(Laughter)
+p189
+aa(lp190
+VSo I think the puzzle model doesn't work.
+p191
+aa(lp192
+VAnother popular model is that science is busy unraveling things
+p193
+aVthe way you unravel the peels of an onion.
+p194
+aVSo peel by peel, you take away the layers of the onion
+p195
+aVto get at some fundamental kernel of truth.
+p196
+aVI don't think that's the way it works either.
+p197
+aVAnother one, a kind of popular one, is the iceberg idea,
+p198
+aVthat we only see the tip of the iceberg but underneath
+p199
+aVis where most of the iceberg is hidden.
+p200
+aVBut all of these models are based on the idea of a large body of facts
+p201
+aVthat we can somehow or another get completed.
+p202
+aVWe can chip away at this iceberg and figure out what it is,
+p203
+aVor we could just wait for it to melt, I suppose, these days,
+p204
+aVbut one way or another we could get to the whole iceberg. Right?
+p205
+aVOr make it manageable. But I don't think that's the case.
+p206
+aVI think what really happens in science
+p207
+aVis a model more like the magic well,
+p208
+aVwhere no matter how many buckets you take out,
+p209
+aVthere's always another bucket of water to be had,
+p210
+aVor my particularly favorite one,
+p211
+aVwith the effect and everything, the ripples on a pond.
+p212
+aVSo if you think of knowledge being this ever-expanding ripple on a pond,
+p213
+aVthe important thing to realize is that our ignorance,
+p214
+aVthe circumference of this knowledge, also grows with knowledge.
+p215
+aVSo the knowledge generates ignorance.
+p216
+aVThis is really well said, I thought, by George Bernard Shaw.
+p217
+aVThis is actually part of a toast that he delivered
+p218
+aVto celebrate Einstein at a dinner celebrating Einstein's work,
+p219
+aVin which he claims that science
+p220
+aVjust creates more questions than it answers. ["Science is always wrong. It never solves a problem without creating 10 more."]
+p221
+aa(lp222
+VI find that kind of glorious, and I think he's precisely right,
+p223
+aVplus it's a kind of job security.
+p224
+aVAs it turns out, he kind of cribbed that
+p225
+aVfrom the philosopher Immanuel Kant
+p226
+aVwho a hundred years earlier had come up with this idea
+p227
+aVof question propagation, that every answer begets more questions.
+p228
+aVI love that term, "question propagation,"
+p229
+aVthis idea of questions propagating out there.
+p230
+aa(lp231
+VSo I'd say the model we want to take is not
+p232
+aVthat we start out kind of ignorant and we get some facts together
+p233
+aVand then we gain knowledge.
+p234
+aVIt's rather kind of the other way around, really.
+p235
+aVWhat do we use this knowledge for?
+p236
+aVWhat are we using this collection of facts for?
+p237
+aVWe're using it to make better ignorance,
+p238
+aVto come up with, if you will, higher-quality ignorance.
+p239
+aVBecause, you know, there's low-quality ignorance
+p240
+aVand there's high-quality ignorance. It's not all the same.
+p241
+aVScientists argue about this all the time.
+p242
+aVSometimes we call them bull sessions.
+p243
+aVSometimes we call them grant proposals.
+p244
+aVBut nonetheless, it's what the argument is about.
+p245
+aVIt's the ignorance. It's the what we don't know.
+p246
+aVIt's what makes a good question.
+p247
+aa(lp248
+VSo how do we think about these questions?
+p249
+aVI'm going to show you a graph that shows up
+p250
+aVquite a bit on happy hour posters in various science departments.
+p251
+aVThis graph asks the relationship between what you know
+p252
+aVand how much you know about it.
+p253
+aVSo what you know, you can know anywhere from nothing to everything, of course,
+p254
+aVand how much you know about it can be anywhere
+p255
+aVfrom a little to a lot.
+p256
+aVSo let's put a point on the graph. There's an undergraduate.
+p257
+aVDoesn't know much but they have a lot of interest.
+p258
+aVThey're interested in almost everything.
+p259
+aVNow you look at a master's student, a little further along in their education,
+p260
+aVand you see they know a bit more,
+p261
+aVbut it's been narrowed somewhat.
+p262
+aVAnd finally you get your Ph.D., where it turns out
+p263
+aVyou know a tremendous amount about almost nothing. (Laughter)
+p264
+aVWhat's really disturbing is the trend line that goes through that
+p265
+aVbecause, of course, when it dips below the zero axis, there,
+p266
+aVit gets into a negative area.
+p267
+aVThat's where you find people like me, I'm afraid.
+p268
+aa(lp269
+VSo the important thing here is that this can all be changed.
+p270
+aVThis whole view can be changed
+p271
+aVby just changing the label on the x-axis.
+p272
+aVSo instead of how much you know about it,
+p273
+aVwe could say, "What can you ask about it?"
+p274
+aVSo yes, you do need to know a lot of stuff as a scientist,
+p275
+aVbut the purpose of knowing a lot of stuff
+p276
+aVis not just to know a lot of stuff. That just makes you a geek, right?
+p277
+aVKnowing a lot of stuff, the purpose is
+p278
+aVto be able to ask lots of questions,
+p279
+aVto be able to frame thoughtful, interesting questions,
+p280
+aVbecause that's where the real work is.
+p281
+aa(lp282
+VLet me give you a quick idea of a couple of these sorts of questions.
+p283
+aVI'm a neuroscientist, so how would we come up
+p284
+aVwith a question in neuroscience?
+p285
+aVBecause it's not always quite so straightforward.
+p286
+aVSo, for example, we could say, well what is it that the brain does?
+p287
+aVWell, one thing the brain does, it moves us around.
+p288
+aVWe walk around on two legs.
+p289
+aVThat seems kind of simple, somehow or another.
+p290
+aVI mean, virtually everybody over 10 months of age
+p291
+aVwalks around on two legs, right?
+p292
+aVSo that maybe is not that interesting.
+p293
+aVSo instead maybe we want to choose something a little more complicated to look at.
+p294
+aVHow about the visual system?
+p295
+aVThere it is, the visual system.
+p296
+aVI mean, we love our visual systems. We do all kinds of cool stuff.
+p297
+aVIndeed, there are over 12,000 neuroscientists
+p298
+aVwho work on the visual system,
+p299
+aVfrom the retina to the visual cortex,
+p300
+aVin an attempt to understand not just the visual system
+p301
+aVbut to also understand how general principles
+p302
+aVof how the brain might work.
+p303
+aVBut now here's the thing:
+p304
+aVOur technology has actually been pretty good
+p305
+aVat replicating what the visual system does.
+p306
+aVWe have TV, we have movies,
+p307
+aVwe have animation, we have photography,
+p308
+aVwe have pattern recognition, all of these sorts of things.
+p309
+aVThey work differently than our visual systems in some cases,
+p310
+aVbut nonetheless we've been pretty good at
+p311
+aVmaking a technology work like our visual system.
+p312
+aVSomehow or another, a hundred years of robotics,
+p313
+aVyou never saw a robot walk on two legs,
+p314
+aVbecause robots don't walk on two legs
+p315
+aVbecause it's not such an easy thing to do.
+p316
+aVA hundred years of robotics,
+p317
+aVand we can't get a robot that can move more than a couple steps one way or the other.
+p318
+aVYou ask them to go up an inclined plane, and they fall over.
+p319
+aVTurn around, and they fall over. It's a serious problem.
+p320
+aVSo what is it that's the most difficult thing for a brain to do?
+p321
+aVWhat ought we to be studying?
+p322
+aVPerhaps it ought to be walking on two legs, or the motor system.
+p323
+aVI'll give you an example from my own lab,
+p324
+aVmy own particularly smelly question,
+p325
+aVsince we work on the sense of smell.
+p326
+aVBut here's a diagram of five molecules
+p327
+aVand sort of a chemical notation.
+p328
+aVThese are just plain old molecules, but if you sniff those molecules
+p329
+aVup these two little holes in the front of your face,
+p330
+aVyou will have in your mind the distinct impression of a rose.
+p331
+aVIf there's a real rose there, those molecules will be the ones,
+p332
+aVbut even if there's no rose there,
+p333
+aVyou'll have the memory of a molecule.
+p334
+aVHow do we turn molecules into perceptions?
+p335
+aVWhat's the process by which that could happen?
+p336
+aVHere's another example: two very simple molecules, again in this kind of chemical notation.
+p337
+aVIt might be easier to visualize them this way,
+p338
+aVso the gray circles are carbon atoms, the white ones
+p339
+aVare hydrogen atoms and the red ones are oxygen atoms.
+p340
+aVNow these two molecules differ by only one carbon atom
+p341
+aVand two little hydrogen atoms that ride along with it,
+p342
+aVand yet one of them, heptyl acetate,
+p343
+aVhas the distinct odor of a pear,
+p344
+aVand hexyl acetate is unmistakably banana.
+p345
+aVSo there are two really interesting questions here, it seems to me.
+p346
+aVOne is, how can a simple little molecule like that
+p347
+aVcreate a perception in your brain that's so clear
+p348
+aVas a pear or a banana?
+p349
+aVAnd secondly, how the hell can we tell the difference
+p350
+aVbetween two molecules that differ by a single carbon atom?
+p351
+aVI mean, that's remarkable to me,
+p352
+aVclearly the best chemical detector on the face of the planet.
+p353
+aVAnd you don't even think about it, do you?
+p354
+aa(lp355
+VSo this is a favorite quote of mine that takes us
+p356
+aVback to the ignorance and the idea of questions.
+p357
+aVI like to quote because I think dead people
+p358
+aVshouldn't be excluded from the conversation.
+p359
+aVAnd I also think it's important to realize that
+p360
+aVthe conversation's been going on for a while, by the way.
+p361
+aVSo Erwin Schrodinger, a great quantum physicist
+p362
+aVand, I think, philosopher, points out how you have to
+p363
+aV"abide by ignorance for an indefinite period" of time.
+p364
+aVAnd it's this abiding by ignorance
+p365
+aVthat I think we have to learn how to do.
+p366
+aVThis is a tricky thing. This is not such an easy business.
+p367
+aa(lp368
+VI guess it comes down to our education system,
+p369
+aVso I'm going to talk a little bit about ignorance and education,
+p370
+aVbecause I think that's where it really has to play out.
+p371
+aVSo for one, let's face it,
+p372
+aVin the age of Google and Wikipedia,
+p373
+aVthe business model of the university
+p374
+aVand probably secondary schools is simply going to have to change.
+p375
+aVWe just can't sell facts for a living anymore.
+p376
+aVThey're available with a click of the mouse,
+p377
+aVor if you want to, you could probably just ask the wall
+p378
+aVone of these days, wherever they're going to hide the things
+p379
+aVthat tell us all this stuff.
+p380
+aa(lp381
+VSo what do we have to do? We have to give our students
+p382
+aVa taste for the boundaries, for what's outside that circumference,
+p383
+aVfor what's outside the facts, what's just beyond the facts.
+p384
+aa(lp385
+VHow do we do that?
+p386
+aVWell, one of the problems, of course,
+p387
+aVturns out to be testing.
+p388
+aVWe currently have an educational system
+p389
+aVwhich is very efficient but is very efficient at a rather bad thing.
+p390
+aVSo in second grade, all the kids are interested in science,
+p391
+aVthe girls and the boys.
+p392
+aVThey like to take stuff apart. They have great curiosity.
+p393
+aVThey like to investigate things. They go to science museums.
+p394
+aVThey like to play around. They're in second grade.
+p395
+aVThey're interested.
+p396
+aVBut by 11th or 12th grade, fewer than 10 percent
+p397
+aVof them have any interest in science whatsoever,
+p398
+aVlet alone a desire to go into science as a career.
+p399
+aVSo we have this remarkably efficient system
+p400
+aVfor beating any interest in science out of everybody's head.
+p401
+aa(lp402
+VIs this what we want?
+p403
+aVI think this comes from what a teacher colleague of mine
+p404
+aVcalls "the bulimic method of education."
+p405
+aVYou know. You can imagine what it is.
+p406
+aVWe just jam a whole bunch of facts down their throats over here
+p407
+aVand then they puke it up on an exam over here
+p408
+aVand everybody goes home with no added intellectual heft whatsoever.
+p409
+aa(lp410
+VThis can't possibly continue to go on.
+p411
+aVSo what do we do? Well the geneticists, I have to say,
+p412
+aVhave an interesting maxim they live by.
+p413
+aVGeneticists always say, you always get what you screen for.
+p414
+aVAnd that's meant as a warning.
+p415
+aVSo we always will get what we screen for,
+p416
+aVand part of what we screen for is in our testing methods.
+p417
+aVWell, we hear a lot about testing and evaluation,
+p418
+aVand we have to think carefully when we're testing
+p419
+aVwhether we're evaluating or whether we're weeding,
+p420
+aVwhether we're weeding people out,
+p421
+aVwhether we're making some cut.
+p422
+aVEvaluation is one thing. You hear a lot about evaluation
+p423
+aVin the literature these days, in the educational literature,
+p424
+aVbut evaluation really amounts to feedback and it amounts
+p425
+aVto an opportunity for trial and error.
+p426
+aVIt amounts to a chance to work over a longer period of time
+p427
+aVwith this kind of feedback.
+p428
+aVThat's different than weeding, and usually, I have to tell you,
+p429
+aVwhen people talk about evaluation, evaluating students,
+p430
+aVevaluating teachers, evaluating schools,
+p431
+aVevaluating programs, that they're really talking about weeding.
+p432
+aVAnd that's a bad thing, because then you will get what you select for,
+p433
+aVwhich is what we've gotten so far.
+p434
+aa(lp435
+VSo I'd say what we need is a test that says, "What is x?"
+p436
+aVand the answers are "I don't know, because no one does,"
+p437
+aVor "What's the question?" Even better.
+p438
+aVOr, "You know what, I'll look it up, I'll ask someone,
+p439
+aVI'll phone someone. I'll find out."
+p440
+aVBecause that's what we want people to do,
+p441
+aVand that's how you evaluate them.
+p442
+aVAnd maybe for the advanced placement classes,
+p443
+aVit could be, "Here's the answer. What's the next question?"
+p444
+aVThat's the one I like in particular.
+p445
+aa(lp446
+VSo let me end with a quote from William Butler Yeats,
+p447
+aVwho said "Education is not about filling buckets;
+p448
+aVit is lighting fires."
+p449
+aa(lp450
+VSo I'd say, let's get out the matches.
+p451
+aVThank you.
+p452
+aa(lp453
+V(Applause)
+p454
+aa(lp455
+VThank you. (Applause)
+p456
+aasS'id'
+p457
+I1827
+sS'title'
+p458
+VThe pursuit of ignorance
+p459
+s.

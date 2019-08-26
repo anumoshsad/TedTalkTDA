@@ -1,0 +1,582 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThe first idea I'd like to suggest is that we all
+p4
+aVlove music a great deal. It means a lot to us.
+p5
+aVBut music is even more powerful if you don't just listen to it, but you make it yourself.
+p6
+aVSo, that's my first idea. And we all know about the Mozart effect \u2014
+p7
+aVthe idea that's been around for the last five to 10 years \u2014
+p8
+aVthat just by listening to music or by playing music to your baby [in utero],
+p9
+aVthat it'll raise our IQ points 10, 20, 30 percent.
+p10
+aa(lp11
+VGreat idea, but it doesn't work at all.
+p12
+aVSo, you can't just listen to music, you have to make it somehow.
+p13
+aVAnd I'd add to that, that it's not just making it,
+p14
+aVbut everybody, each of us, everybody in the world
+p15
+aVhas the power to create and be part of music in a very dynamic way,
+p16
+aVand that's one of the main parts of my work.
+p17
+aVSo, with the MIT Media Lab, for quite a while now,
+p18
+aVwe've been engaged in a field called active music.
+p19
+aVWhat are all the possible ways that we can think of
+p20
+aVto get everybody in the middle of a musical experience,
+p21
+aVnot just listening, but making music?
+p22
+aa(lp23
+VAnd we started by making instruments for some of the world's greatest performers \u2014
+p24
+aVwe call these hyperinstruments \u2014 for Yo-Yo Ma, Peter Gabriel, Prince,
+p25
+aVorchestras, rock bands. Instruments where they're all kinds of sensors
+p26
+aVbuilt right into the instrument, so the instrument knows how it's being played.
+p27
+aVAnd just by changing the interpretation and the feeling,
+p28
+aVI can turn my cello into a voice, or into a whole orchestra,
+p29
+aVor into something that nobody has ever heard before.
+p30
+aa(lp31
+VWhen we started making these, I started thinking, why can't we make
+p32
+aVwonderful instruments like that for everybody,
+p33
+aVpeople who aren't fantastic Yo-Yo Mas or Princes?
+p34
+aVSo, we've made a whole series of instruments.
+p35
+aVOne of the largest collections is called the Brain Opera.
+p36
+aVIt's a whole orchestra of about 100 instruments,
+p37
+aVall designed for anybody to play using natural skill.
+p38
+aVSo, you can play a video game, drive through a piece of music,
+p39
+aVuse your body gesture to control huge masses of sound,
+p40
+aVtouch a special surface to make melodies, use your voice to make a whole aura.
+p41
+aVAnd when we make the Brain Opera, we invite the public to come in,
+p42
+aVto try these instruments and then collaborate with us
+p43
+aVto help make each performance of the Brain Opera.
+p44
+aVWe toured that for a long time. It is now permanently in Vienna,
+p45
+aVwhere we built a museum around it.
+p46
+aa(lp47
+VAnd that led to something which you probably do know.
+p48
+aVGuitar Hero came out of our lab,
+p49
+aVand my two teenage daughters and most of the students at the MIT Media Lab
+p50
+aVare proof that if you make the right kind of interface,
+p51
+aVpeople are really interested in being in the middle of a piece of music,
+p52
+aVand playing it over and over and over again.
+p53
+aa(lp54
+VSo, the model works, but it's only the tip of the iceberg,
+p55
+aVbecause my second idea is that it's not enough just to want
+p56
+aVto make music in something like Guitar Hero.
+p57
+aVAnd music is very fun, but it's also transformative.
+p58
+aVIt's very, very important.
+p59
+aVMusic can change your life, more than almost anything.
+p60
+aVIt can change the way you communicate with others,
+p61
+aVit can change your body, it can change your mind. So, we're trying
+p62
+aVto go to the next step of how you build on top of something like Guitar Hero.
+p63
+aVWe are very involved in education. We have a long-term project
+p64
+aVcalled Toy Symphony, where we make all kinds of instruments that are also addictive,
+p65
+aVbut for little kids, so the kids will fall in love with making music,
+p66
+aVwant to spend their time doing it, and then will demand to know how it works,
+p67
+aVhow to make more, how to create. So, we make squeezy instruments,
+p68
+aVlike these Music Shapers that measure the electricity in your fingers,
+p69
+aVBeatbugs that let you tap in rhythms \u2014 they gather your rhythm,
+p70
+aVand like hot potato, you send your rhythm to your friends,
+p71
+aVwho then have to imitate or respond to what your doing \u2014
+p72
+aVand a software package called Hyperscore, which lets anybody use lines and color
+p73
+aVto make quite sophisticated music. Extremely easy to use, but once you use it,
+p74
+aVyou can go quite deep \u2014 music in any style. And then, by pressing a button,
+p75
+aVit turns into music notation so that live musicians can play your pieces.
+p76
+aa(lp77
+VWe've had good enough, really, very powerful effects with kids
+p78
+aVaround the world, and now people of all ages, using Hyperscore.
+p79
+aVSo, we've gotten more and more interested in using these kinds of creative activities
+p80
+aVin a much broader context, for all kinds of people
+p81
+aVwho don't usually have the opportunity to make music.
+p82
+aVSo, one of the growing fields that we're working on
+p83
+aVat the Media Lab right now is music, mind and health.
+p84
+aVA lot of you have probably seen Oliver Sacks' wonderful new book called
+p85
+aV"Musicophilia". It's on sale in the bookstore. It's a great book.
+p86
+aVIf you haven't seen it, it's worth reading. He's a pianist himself,
+p87
+aVand he details his whole career of looking at and observing
+p88
+aVincredibly powerful effects that music has had on peoples' lives in unusual situations.
+p89
+aa(lp90
+VSo we know, for instance, that music is almost always the last thing
+p91
+aVthat people with advanced Alzheimer's can still respond to.
+p92
+aVMaybe many of you have noticed this with loved ones,
+p93
+aVyou can find somebody who can't recognize their face in the mirror,
+p94
+aVor can't tell anyone in their family, but you can still find a shard of music
+p95
+aVthat that person will jump out of the chair and start singing. And with that
+p96
+aVyou can bring back parts of people's memories and personalities.
+p97
+aVMusic is the best way to restore speech to people who have lost it through strokes,
+p98
+aVmovement to people with Parkinson's disease.
+p99
+aVIt's very powerful for depression, schizophrenia, many, many things.
+p100
+aa(lp101
+VSo, we're working on understanding those underlying principles
+p102
+aVand then building activities which will let music really improve people's health.
+p103
+aVAnd we do this in many ways. We work with many different hospitals.
+p104
+aVOne of them is right near Boston, called Tewksbury Hospital.
+p105
+aVIt's a long-term state hospital, where several years ago
+p106
+aVwe started working with Hyperscore and patients with physical and mental disabilities.
+p107
+aVThis has become a central part of the treatment at Tewksbury hospital,
+p108
+aVso everybody there clamors to work on musical activities.
+p109
+aVIt's the activity that seems to accelerate people's treatment the most
+p110
+aVand it also brings the entire hospital together as a kind of musical community.
+p111
+aVI wanted to show you a quick video of some of this work before I go on.
+p112
+aVVideo: They're manipulating each other's rhythms.
+p113
+aVIt's a real experience, not only to learn how to play and listen to rhythms,
+p114
+aVbut to train your musical memory and playing music in a group.
+p115
+aVTo get their hands on music, to shape it themselves, change it,
+p116
+aVto experiment with it, to make their own music.
+p117
+aVSo Hyperscore lets you start from scratch very quickly.
+p118
+aVEverybody can experience music in a profound way,
+p119
+aVwe just have to make different tools.
+p120
+aa(lp121
+VThe third idea I want to share with you is that music, paradoxically,
+p122
+aVI think even more than words, is one of the very best ways we have
+p123
+aVof showing who we really are. I love giving talks, although
+p124
+aVstrangely I feel more nervous giving talks than playing music.
+p125
+aVIf I were here playing cello, or playing on a synth, or sharing my music with you,
+p126
+aVI'd be able to show things about myself that I can't tell you in words,
+p127
+aVmore personal things, perhaps deeper things.
+p128
+aa(lp129
+VI think that's true for many of us, and I want to give you two examples
+p130
+aVof how music is one of the most powerful interfaces we have,
+p131
+aVfrom ourselves to the outside world.
+p132
+aVThe first is a really crazy project that we're building right now, called
+p133
+aVDeath and the Powers. And it's a big opera,
+p134
+aVone of the larger opera projects going on in the world right now.
+p135
+aVAnd it's about a man, rich, successful, powerful, who wants to live forever.
+p136
+aVSo, he figures out a way to download himself into his environment,
+p137
+aVactually into a series of books.
+p138
+aVSo this guy wants to live forever, he downloads himself into his environment.
+p139
+aVThe main singer disappears at the beginning of the opera
+p140
+aVand the entire stage becomes the main character. It becomes his legacy.
+p141
+aa(lp142
+VAnd the opera is about what we can share, what we can pass on to others,
+p143
+aVto the people we love, and what we can't.
+p144
+aVEvery object in the opera comes alive and is a gigantic music instrument,
+p145
+aVlike this chandelier. It takes up the whole stage. It looks like a chandelier,
+p146
+aVbut it's actually a robotic music instrument.
+p147
+aVSo, as you can see in this prototype, gigantic piano strings,
+p148
+aVeach string is controlled with a little robotic element \u2014
+p149
+aVeither little bows that stroke the strings, propellers that tickle the strings,
+p150
+aVacoustic signals that vibrate the strings. We also have an army of robots on stage.
+p151
+aVThese robots are the kind of the intermediary between the main character, Simon Powers,
+p152
+aVand his family. There are a whole series of them, kind of like a Greek chorus.
+p153
+aVThey observe the action. We've designed these square robots that we're testing right now
+p154
+aVat MIT called OperaBots. These OperaBots follow my music.
+p155
+aVThey follow the characters. They're smart enough, we hope,
+p156
+aVnot to bump into each other. They go off on their own.
+p157
+aVAnd then they can also, when you snap, line up exactly the way you'd like to.
+p158
+aVEven though they're cubes, they actually have a lot of personality.
+p159
+aa(lp160
+VThe largest set piece in the opera is called The System. It's a series of books.
+p161
+aVEvery single book is robotic, so they all move, they all make sound,
+p162
+aVand when you put them all together, they turn into these walls,
+p163
+aVwhich have the gesture and the personality of Simon Powers. So he's disappeared,
+p164
+aVbut the whole physical environment becomes this person.
+p165
+aVThis is how he's chosen to represent himself.
+p166
+aVThe books also have high-packed LEDs on the spines. So it's all display.
+p167
+aVAnd here's the great baritone James Maddalena as he enters The System.
+p168
+aVThis is a sneak preview.
+p169
+aVThis premieres in Monaco \u2014 it's in September 2009. If by any chance you can't make it,
+p170
+aVanother idea with this project \u2014 here's this guy building his legacy
+p171
+aVthrough this very unusual form, through music and through the environment.
+p172
+aVBut we're also making this available both online and in public spaces,
+p173
+aVas a way of each of us to use music and images from our lives
+p174
+aVto make our own legacy or to make a legacy of someone we love.
+p175
+aVSo instead of being grand opera, this opera will turn into what we're
+p176
+aVthinking of as personal opera.
+p177
+aa(lp178
+VAnd, if you're going to make a personal opera, what about a personal instrument?
+p179
+aVEverything I've shown you so far \u2014 whether it's a hyper-cello for Yo-Yo Ma
+p180
+aVor squeezy toy for a child \u2014 the instruments stayed the same and are valuable
+p181
+aVfor a certain class of person: a virtuoso, a child.
+p182
+aVBut what if I could make an instrument that could be adapted
+p183
+aVto the way I personally behave, to the way my hands work,
+p184
+aVto what I do very skillfully, perhaps, to what I don't do so skillfully?
+p185
+aVI think that this is the future of interface, it's the future of music, the future of instruments.
+p186
+aa(lp187
+VAnd I'd like now to invite two very special people on the stage,
+p188
+aVso that I can give you an example of what personal instruments might be like.
+p189
+aVSo, can you give a hand to Adam Boulanger, Ph.D. student from
+p190
+aVthe MIT Media Lab, and Dan Ellsey. Dan,
+p191
+aVthanks to TED and to Bombardier Flexjet, Dan is here with us today
+p192
+aVall the way from Tewksbury. He's a resident at Tewksbury Hospital.
+p193
+aVThis is by far the farthest he's strayed from Tewksbury Hospital, I can tell you that,
+p194
+aVbecause he's motivated to meet with you today and show you his own music.
+p195
+aVSo, first of all, Dan, do you want to say hi to everyone and tell everyone who you are?
+p196
+aa(lp197
+VDan Ellsey: Hello. My name is Dan Ellsey. I am 34 years old and I have cerebral palsy.
+p198
+aVI have always loved music and I am excited to be able to conduct
+p199
+aVmy own music with this new software.
+p200
+aa(lp201
+VTod Machover: And we're really excited to have you here, really Dan. (Applause)
+p202
+aa(lp203
+VSo we met Dan about three years ago, three and a half years ago,
+p204
+aVwhen we started working at Tewksbury. Everybody we met there was fantastic,
+p205
+aVdid fantastic music. Dan had never made music before, and it turned out
+p206
+aVhe was really fantastic at it. He's a born composer.
+p207
+aVHe's very shy, too.
+p208
+aVSo, turned out he's a fantastic composer, and over the last few years has been
+p209
+aVa constant collaborator of ours. He has made many, many pieces.
+p210
+aVHe makes his own CDs. Actually, he is quite well known in the Boston area \u2014
+p211
+aVmentors people at the hospital and children, locally, in how to make their own music.
+p212
+aVAnd I'll let Adam tell you. So, Adam is a Ph.D. student at MIT, an expert in music
+p213
+aVtechnology and medicine. And Adam and Dan have become close collaborators.
+p214
+aVWhat Adam's been working on for this last period is not only how to have Dan
+p215
+aVbe able easily to make his own pieces,
+p216
+aVbut how he can perform his piece using this kind of personal instrument.
+p217
+aVSo, you want to say a little bit about how you guys work?
+p218
+aa(lp219
+VAdam Boulanger: Yes. So, Tod and I entered into a discussion
+p220
+aVfollowing the Tewksbury work and it was really about how Dan is an expressive
+p221
+aVperson, and he's an intelligent and creative person. And it's in his face,
+p222
+aVit's in his breathing, it's in his eyes. How come he can't perform
+p223
+aVone of his pieces of music? That's our responsibility, and it doesn't make sense.
+p224
+aa(lp225
+VSo we started developing a technology that will allow him with nuance,
+p226
+aVwith precision, with control, and despite his physical disability, to be able to do that,
+p227
+aVto be able to perform his piece of music.
+p228
+aVSo, the process and the technology \u2014
+p229
+aVbasically, first we needed an engineering solution. So, you know,
+p230
+aVwe have a FireWire camera, it looked at an infrared pointer.
+p231
+aVWe went with the type of gesture metaphor that Dan was already used to
+p232
+aVwith his speaking controller.
+p233
+aVAnd this was actually the least interesting part of the work, you know,
+p234
+aVthe design process. We needed an input; we needed continuous tracking;
+p235
+aVin the software, we look at the types of shapes he's making.
+p236
+aa(lp237
+VBut, then was the really interesting aspect of the work, following the engineering part,
+p238
+aVwhere, basically, we're coding over Dan's shoulder at the hospital
+p239
+aVextensively to figure out, you know, how does Dan move?
+p240
+aVWhat's useful to him as an expressive motion?
+p241
+aVYou know, what's his metaphor for performance?
+p242
+aVWhat types of things does he find
+p243
+aVimportant to control and convey in a piece of music?
+p244
+aVSo all the parameter fitting, and really the technology
+p245
+aVwas stretched at that point to fit just Dan.
+p246
+aVAnd, you know, I think this is a perspective shift. It's not that our technologies \u2014
+p247
+aVthey provide access, they allow us to create pieces of creative work.
+p248
+aVBut what about expression? What about that moment when an artist delivers
+p249
+aVthat piece of work? You know, do our technologies allow us to express?
+p250
+aVDo they provide structure for us to do that? And, you know, that's a personal relationship
+p251
+aVto expression that is lacking in the technological sphere. So, you know,
+p252
+aVwith Dan, we needed a new design process, a new engineering process
+p253
+aVto sort of discover his movement and his path to expression that allow him to perform.
+p254
+aVAnd so that's what we'll do today.
+p255
+aa(lp256
+VTM: So let's do it. So Dan do you want to tell everyone
+p257
+aVabout what you're going to play now?
+p258
+aa(lp259
+VDE: This is "My Eagle Song."
+p260
+aVTM: So Dan is going to play a piece of his, called "My Eagle Song".
+p261
+aVIn fact, this is the score for Dan's piece,
+p262
+aVcompletely composed by Dan in Hyperscore.
+p263
+aVSo he can use his infrared tracker to go directly into Hyperscore.
+p264
+aVHe's incredibly fast at it, too, faster than I am, in fact.
+p265
+aa(lp266
+V(Laughter)
+p267
+aa(lp268
+VTM: He's really modest, too.
+p269
+aVSo he can go in Hyperscore. You start out by making melodies and rhythms.
+p270
+aVHe can place those exactly where he wants.
+p271
+aVEach one gets a color. He goes back into the composition window,
+p272
+aVdraws the lines, places everything the way he wants to. Looking at the Hyperscore,
+p273
+aVyou can see it also, you can see where the sections are,
+p274
+aVsomething might continue for a while, change, get really crazy and then end
+p275
+aVup with a big bang at the end.
+p276
+aa(lp277
+VSo that's the way he made his piece, and as Adam says,
+p278
+aVwe then figured out the best way to have him perform his piece.
+p279
+aVIt's going to be looked at by this camera, analyze his movements,
+p280
+aVit's going to let Dan bring out all the different aspects of his music that he wants to.
+p281
+aVAnd you're also going to notice a visual on the screen.
+p282
+aVWe asked one of our students to look at what the camera is measuring.
+p283
+aVBut instead of making it very literal, showing you exactly
+p284
+aVthe camera tracing, we turned it into a graphic that shows you the basic
+p285
+aVmovement, and shows the way it's being analyzed.
+p286
+aa(lp287
+VI think it gives an understanding of how we're picking out movement from what
+p288
+aVDan's doing, but I think it will also show you, if you look at that movement,
+p289
+aVthat when Dan makes music, his motions are very purposeful, very precise,
+p290
+aVvery disciplined and they're also very beautiful.
+p291
+aVSo, in hearing this piece, as I mentioned before, the most important thing is
+p292
+aVthe music's great, and it'll show you who Dan is.
+p293
+aVSo, are we ready Adam?
+p294
+aa(lp295
+VAB: Yeah.
+p296
+aa(lp297
+VTM: OK, now Dan will play his piece "My Eagle Song" for you.
+p298
+aV(Applause)
+p299
+aa(lp300
+VTM: Bravo.
+p301
+aV(Applause)
+p302
+aasS'id'
+p303
+I246
+sS'title'
+p304
+VInventing instruments that unlock new music
+p305
+s.

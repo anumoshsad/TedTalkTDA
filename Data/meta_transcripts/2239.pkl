@@ -1,0 +1,790 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VTo be honest, by personality,
+p4
+aVI'm just not much of a crier.
+p5
+aVBut I think in my career that's been a good thing.
+p6
+aVI'm a civil rights lawyer,
+p7
+aVand I've seen some  horrible things in the world.
+p8
+aVI began my career working  police abuse cases in the United States.
+p9
+aVAnd then in 1994, I was sent to Rwanda
+p10
+aVto be the director of the U.N.'s  genocide investigation.
+p11
+aVIt turns out that tears  just aren't much help
+p12
+aVwhen you're trying  to investigate a genocide.
+p13
+aVThe things I had to see,  and feel and touch
+p14
+aVwere pretty unspeakable.
+p15
+aa(lp16
+VWhat I can tell you is this:
+p17
+aVthat the Rwandan genocide
+p18
+aVwas one of the world's greatest failures of simple compassion.
+p19
+aVThat word, compassion, actually  comes from two Latin words:
+p20
+aVcum passio, which simply mean  "to suffer with."
+p21
+aVAnd the things that I saw and experienced
+p22
+aVin Rwanda as I got up close to human suffering,
+p23
+aVit did, in moments, move me to tears.
+p24
+aVBut I just wish that I,  and the rest of the world,
+p25
+aVhad been moved earlier.
+p26
+aVAnd not just to tears,
+p27
+aVbut to actually stop the genocide.
+p28
+aa(lp29
+VNow by contrast, I've also been involved
+p30
+aVwith one of the world's greatest successes of compassion.
+p31
+aVAnd that's the fight against  global poverty.
+p32
+aVIt's a cause that probably has involved all of us here.
+p33
+aVI don't know if your first introduction
+p34
+aVmight have been choruses of "We Are the World,"
+p35
+aVor maybe the picture of a sponsored child on your refrigerator door,
+p36
+aVor maybe the birthday you donated for fresh water.
+p37
+aVI don't really remember what my first introduction to poverty was
+p38
+aVbut I do remember the most jarring.
+p39
+aa(lp40
+VIt was when I met Venus \u2014
+p41
+aVshe's a mom from Zambia.
+p42
+aVShe's got three kids and she's a widow.
+p43
+aVWhen I met her, she had walked about 12 miles
+p44
+aVin the only garments she owned,
+p45
+aVto come to the capital city and to share her story.
+p46
+aVShe sat down with me for hours,
+p47
+aVjust ushered me in to  the world of poverty.
+p48
+aVShe described what it was like  when the coals on the cooking fire
+p49
+aVfinally just went completely cold.
+p50
+aVWhen that last drop  of cooking oil finally ran out.
+p51
+aVWhen the last of the food,  despite her best efforts,
+p52
+aVran out.
+p53
+aVShe had to watch her youngest son, Peter,
+p54
+aVsuffer from malnutrition,
+p55
+aVas his legs just slowly bowed  into uselessness.
+p56
+aVAs his eyes grew cloudy and dim.
+p57
+aVAnd then as Peter finally grew cold.
+p58
+aa(lp59
+VFor over 50 years, stories like this have been moving us to compassion.
+p60
+aVWe whose kids have plenty to eat.
+p61
+aVAnd we're moved not only  to care about global poverty,
+p62
+aVbut to actually try to do our part  to stop the suffering.
+p63
+aVNow there's plenty of room for critique  that we haven't done enough,
+p64
+aVand what it is that we've done hasn't been effective enough,
+p65
+aVbut the truth is this:
+p66
+aVThe fight against global poverty is probably the broadest,
+p67
+aVlongest running manifestation of the  human phenomenon of compassion
+p68
+aVin the history of our species.
+p69
+aVAnd so I'd like to share a pretty shattering insight
+p70
+aVthat might forever change the way you think about that struggle.
+p71
+aa(lp72
+VBut first, let me begin with what you probably already know.
+p73
+aVThirty-five years ago, when I would have been graduating from high school,
+p74
+aVthey told us that 40,000 kids every day died because of poverty.
+p75
+aVThat number, today, is now  down to 17,000.
+p76
+aVWay too many, of course,
+p77
+aVbut it does mean that every year,
+p78
+aVthere's eight million kids who don't have to die from poverty.
+p79
+aVMoreover, the number of  people in our world
+p80
+aVwho are living in extreme poverty,
+p81
+aVwhich is defined as living off about a dollar and a quarter a day,
+p82
+aVthat has fallen from 50 percent,
+p83
+aVto only 15 percent.
+p84
+aVThis is massive progress,
+p85
+aVand this exceeds everybody's  expectations about what is possible.
+p86
+aVAnd I think you and I,
+p87
+aVI think, honestly, that we can  feel proud and encouraged
+p88
+aVto see the way that compassion  actually has the power
+p89
+aVto succeed in stopping  the suffering of millions.
+p90
+aa(lp91
+VBut here's the part that you  might not hear very much about.
+p92
+aVIf you move that poverty mark just up to two dollars a day,
+p93
+aVit turns out that virtually  the same two billion people
+p94
+aVwho were stuck in that harsh poverty when I was in high school,
+p95
+aVare still stuck there,
+p96
+aV35 years later.
+p97
+aa(lp98
+VSo why, why are so many billions still stuck in such harsh poverty?
+p99
+aVWell, let's think about Venus for a moment.
+p100
+aVNow for decades, my wife and I have been moved by common compassion
+p101
+aVto sponsor kids, to fund microloans,
+p102
+aVto support generous levels of foreign aid.
+p103
+aVBut until I had actually talked to Venus,
+p104
+aVI would have had no idea that  none of those approaches
+p105
+aVactually addressed why she had to watch her son die.
+p106
+aV"We were doing fine," Venus told me,
+p107
+aV"until Brutus started to cause trouble."
+p108
+aVNow, Brutus is Venus' neighbor  and "cause trouble"
+p109
+aVis what happened the day after Venus' husband died,
+p110
+aVwhen Brutus just came and threw Venus and the kids out of the house,
+p111
+aVstole all their land, and robbed their market stall.
+p112
+aVYou see, Venus was thrown  into destitution by violence.
+p113
+aa(lp114
+VAnd then it occurred to me, of course,
+p115
+aVthat none of my child sponsorships, none of the microloans,
+p116
+aVnone of the traditional  anti-poverty programs
+p117
+aVwere going to stop Brutus,
+p118
+aVbecause they weren't meant to.
+p119
+aa(lp120
+VThis became even more clear to me when I met Griselda.
+p121
+aVShe's a marvelous young girl living in a very poor community
+p122
+aVin Guatemala.
+p123
+aVAnd one of the things we've learned over the years
+p124
+aVis that perhaps the most powerful thing
+p125
+aVthat Griselda and her family can do
+p126
+aVto get Griselda and her family  out of poverty
+p127
+aVis to make sure that she goes to school.
+p128
+aVThe experts call this the Girl Effect.
+p129
+aVBut when we met Griselda,  she wasn't going to school.
+p130
+aVIn fact, she was rarely ever  leaving her home.
+p131
+aa(lp132
+VDays before we met her,
+p133
+aVwhile she was walking home from church with her family,
+p134
+aVin broad daylight,
+p135
+aVmen from her community  just snatched her off the street,
+p136
+aVand violently raped her.
+p137
+aVSee, Griselda had every opportunity to go to school,
+p138
+aVit just wasn't safe for her to get there.
+p139
+aVAnd Griselda's not the only one.
+p140
+aVAround the world, poor women and girls
+p141
+aVbetween the ages of 15 and 44,
+p142
+aVthey are \u2014 when victims of  the everyday violence
+p143
+aVof domestic abuse and sexual violence \u2014
+p144
+aVthose two forms of violence account for more death and disability
+p145
+aVthan malaria, than car accidents, than war combined.
+p146
+aVThe truth is, the poor of our world are trapped in whole systems of violence.
+p147
+aa(lp148
+VIn South Asia, for instance, I could drive past this rice mill
+p149
+aVand see this man hoisting  these 100-pound sacks
+p150
+aVof rice upon his thin back.
+p151
+aVBut I would have no idea, until later,
+p152
+aVthat he was actually a slave,
+p153
+aVheld by violence in that rice mill since I was in high school.
+p154
+aVDecades of anti-poverty programs right in his community
+p155
+aVwere never able to rescue him or any of the hundred other slaves
+p156
+aVfrom the beatings and the rapes and the torture
+p157
+aVof violence inside the rice mill.
+p158
+aVIn fact, half a century of  anti-poverty programs
+p159
+aVhave left more poor people in slavery
+p160
+aVthan in any other time in human history.
+p161
+aa(lp162
+VExperts tell us that there's about 35 million people in slavery today.
+p163
+aVThat's about the population  of the entire nation of Canada,
+p164
+aVwhere we're sitting today.
+p165
+aVThis is why, over time, I have come to call this epidemic of violence
+p166
+aVthe Locust Effect.
+p167
+aVBecause in the lives of the poor, it just descends like a plague
+p168
+aVand it destroys everything.
+p169
+aVIn fact, now when you survey very, very poor communities,
+p170
+aVresidents will tell you that their greatest fear is violence.
+p171
+aVBut notice the violence that they fear
+p172
+aVis not the violence of  genocide or the wars,
+p173
+aVit's everyday violence.
+p174
+aa(lp175
+VSo for me, as a lawyer, of course, my first reaction was to think,
+p176
+aVwell, of course we've got to change all the laws.
+p177
+aVWe've got to make all this violence against the poor illegal.
+p178
+aVBut then I found out, it already is.
+p179
+aVThe problem is not that  the poor don't get laws,
+p180
+aVit's that they don't get law enforcement.
+p181
+aVIn the developing world,
+p182
+aVbasic law enforcement systems are so broken
+p183
+aVthat recently the U.N. issued  a report that found
+p184
+aVthat "most poor people live outside the protection of the law."
+p185
+aVNow honestly, you and I have  just about no idea
+p186
+aVof what that would mean
+p187
+aVbecause we have no  first-hand experience of it.
+p188
+aVFunctioning law enforcement for us  is just a total assumption.
+p189
+aVIn fact, nothing expresses that assumption more clearly than three simple numbers:
+p190
+aV9-1-1,
+p191
+aVwhich, of course, is the number for the emergency police operator
+p192
+aVhere in Canada and in the United States,
+p193
+aVwhere the average response time  to a police 911 emergency call
+p194
+aVis about 10 minutes.
+p195
+aVSo we take this just  completely for granted.
+p196
+aa(lp197
+VBut what if there was no  law enforcement to protect you?
+p198
+aVA woman in Oregon recently experienced what this would be like.
+p199
+aVShe was home alone in her  dark house on a Saturday night,
+p200
+aVwhen a man started to tear  his way into her home.
+p201
+aVThis was her worst nightmare,
+p202
+aVbecause this man had actually put her in the hospital from an assault
+p203
+aVjust two weeks before.
+p204
+aVSo terrified, she picks up that phone and does what any of us would do:
+p205
+aVShe calls 911 \u2014
+p206
+aVbut only to learn that because  of budget cuts in her county,
+p207
+aVlaw enforcement wasn't available  on the weekends.
+p208
+aVListen.
+p209
+aVDispatcher: I don't have anybody  to send out there.
+p210
+aVWoman: OK
+p211
+aVDispatcher: Um, obviously if he comes inside the residence and assaults you,
+p212
+aVcan you ask him to go away?
+p213
+aVOr do you know if he is intoxicated or anything?
+p214
+aVWoman: I've already asked him. I've already told him I was calling you.
+p215
+aVHe's broken in before, busted down my door, assaulted me.
+p216
+aVDispatcher: Uh-huh.
+p217
+aVWoman: Um, yeah, so ...
+p218
+aVDispatcher: Is there any way you could safely leave the residence?
+p219
+aVWoman: No, I can't, because he's blocking pretty much my only way out.
+p220
+aVDispatcher: Well, the only thing I can do  is give you some advice,
+p221
+aVand call the sheriff's office tomorrow.
+p222
+aVObviously, if he comes in and unfortunately has a weapon
+p223
+aVor is trying to cause you physical harm, that's a different story.
+p224
+aVYou know, the sheriff's office doesn't work up there.
+p225
+aVI don't have anybody to send."
+p226
+aa(lp227
+VGary Haugen: Tragically, the woman  inside that house
+p228
+aVwas violently assaulted, choked and raped
+p229
+aVbecause this is what it means to live outside the rule of law.
+p230
+aVAnd this is where billions of our poorest live.
+p231
+aVWhat does that look like?
+p232
+aVIn Bolivia, for example, if a man  sexually assaults a poor child,
+p233
+aVstatistically, he's at greater risk of slipping in the shower and dying
+p234
+aVthan he is of ever going  to jail for that crime.
+p235
+aVIn South Asia, if you  enslave a poor person,
+p236
+aVyou're at greater risk of being  struck by lightning
+p237
+aVthan ever being sent  to jail for that crime.
+p238
+aVAnd so the epidemic of everyday  violence, it just rages on.
+p239
+aVAnd it devastates our efforts to try to help billions of people
+p240
+aVout of their two-dollar-a-day hell.
+p241
+aVBecause the data just doesn't lie.
+p242
+aVIt turns out that you can give  all manner of goods and services
+p243
+aVto the poor,
+p244
+aVbut if you don't restrain the hands  of the violent bullies
+p245
+aVfrom taking it all away,
+p246
+aVyou're going to be very disappointed in the long-term impact of your efforts.
+p247
+aa(lp248
+VSo you would think that the disintegration of basic law enforcement
+p249
+aVin the developing world would be a huge priority
+p250
+aVfor the global fight against poverty.
+p251
+aVBut it's not.
+p252
+aVAuditors of international assistance recently couldn't find
+p253
+aVeven one percent of aid going  to protect the poor
+p254
+aVfrom the lawless chaos  of everyday violence.
+p255
+aVAnd honestly, when we do talk about  violence against the poor,
+p256
+aVsometimes it's in the weirdest of ways.
+p257
+aVA fresh water organization tells a heart-wrenching story
+p258
+aVof girls who are raped on the way to fetching water,
+p259
+aVand then celebrates the solution of a new well
+p260
+aVthat drastically shortens their walk.
+p261
+aVEnd of story.
+p262
+aVBut not a word about the rapists who are still right there in the community.
+p263
+aVIf a young woman on one  of our college campuses
+p264
+aVwas raped on her walk to the library,
+p265
+aVwe would never celebrate the solution of moving the library closer to the dorm.
+p266
+aVAnd yet, for some reason, this is okay for poor people.
+p267
+aa(lp268
+VNow the truth is, the traditional experts
+p269
+aVin economic development and poverty alleviation,
+p270
+aVthey don't know how to fix this problem.
+p271
+aVAnd so what happens?
+p272
+aVThey don't talk about it.
+p273
+aVBut the more fundamental reason
+p274
+aVthat law enforcement for the poor in the developing world
+p275
+aVis so neglected,
+p276
+aVis because the people inside the developing world, with money,
+p277
+aVdon't need it.
+p278
+aVI was at the World Economic  Forum not long ago
+p279
+aVtalking to corporate executives who have massive businesses in the developing world
+p280
+aVand I was just asking them,
+p281
+aV"How do you guys protect all your people and property from all the violence?"
+p282
+aVAnd they looked at each other,  and they said, practically in unison,
+p283
+aV"We buy it."
+p284
+aa(lp285
+VIndeed, private security forces  in the developing world
+p286
+aVare now, four, five and seven times larger than the public police force.
+p287
+aVIn Africa, the largest employer  on the continent now is private security.
+p288
+aVBut see, the rich can pay for safety and can keep getting richer,
+p289
+aVbut the poor can't pay for it and they're left totally unprotected
+p290
+aVand they keep getting thrown to the ground.
+p291
+aa(lp292
+VThis is a massive and scandalous outrage.
+p293
+aVAnd it doesn't have to be this way.
+p294
+aVBroken law enforcement can be fixed.
+p295
+aVViolence can be stopped.
+p296
+aVAlmost all criminal justice systems,
+p297
+aVthey start out broken and corrupt,
+p298
+aVbut they can be transformed by fierce effort and commitment.
+p299
+aa(lp300
+VThe path forward is really pretty clear.
+p301
+aVNumber one: We have to start making
+p302
+aVstopping violence indispensable  to the fight against poverty.
+p303
+aVIn fact, any conversation about global poverty
+p304
+aVthat doesn't include the problem  of violence must be deemed not serious.
+p305
+aa(lp306
+VAnd secondly, we have to begin  to seriously invest resources
+p307
+aVand share expertise to support  the developing world
+p308
+aVas they fashion new,  public systems of justice,
+p309
+aVnot private security,
+p310
+aVthat give everybody a chance to be safe.
+p311
+aVThese transformations  are actually possible
+p312
+aVand they're happening today.
+p313
+aVRecently, the Gates Foundation  funded a project
+p314
+aVin the second largest city  of the Philippines,
+p315
+aVwhere local advocates and local law enforcement
+p316
+aVwere able to transform corrupt police and broken courts so drastically,
+p317
+aVthat in just four short years,
+p318
+aVthey were able to measurably reduce
+p319
+aVthe commercial sexual violence  against poor kids by 79 percent.
+p320
+aa(lp321
+VYou know, from the hindsight of history,
+p322
+aVwhat's always most inexplicable and inexcusable
+p323
+aVare the simple failures of compassion.
+p324
+aVBecause I think history convenes  a tribunal of our grandchildren
+p325
+aVand they just ask us,
+p326
+aV"Grandma, Grandpa, where were you?
+p327
+aVWhere were you, Grandpa, when  the Jews were fleeing Nazi Germany
+p328
+aVand were being rejected from our shores?
+p329
+aVWhere were you?
+p330
+aVAnd Grandma, where were you when they were marching
+p331
+aVour Japanese-American neighbors off to internment camps?
+p332
+aVAnd Grandpa, where were you  when they were beating
+p333
+aVour African-American neighbors
+p334
+aVjust because they were trying to register to vote?"
+p335
+aVLikewise, when our grandchildren ask us,
+p336
+aV"Grandma, Grandpa, where were you
+p337
+aVwhen two billion of the world's poorest were drowning in a lawless chaos
+p338
+aVof everyday violence?"
+p339
+aVI hope we can say that we had compassion, that we raised our voice,
+p340
+aVand as a generation, we were moved to make the violence stop.
+p341
+aa(lp342
+VThank you very much.
+p343
+aa(lp344
+V(Applause)
+p345
+aa(lp346
+VChris Anderson: Really powerfully argued.
+p347
+aVTalk to us a bit about some of the things
+p348
+aVthat have actually been happening to, for example, boost police training.
+p349
+aVHow hard a process is that?
+p350
+aVGH: Well, one of the glorious  things that's starting to happen now
+p351
+aVis that the collapse of these systems and the consequences are becoming obvious.
+p352
+aVThere's actually, now,  political will to do that.
+p353
+aVBut it just requires now an investment of resources and transfer of expertise.
+p354
+aVThere's a political will struggle  that's going to take place as well,
+p355
+aVbut those are winnable fights,
+p356
+aVbecause we've done some examples around the world
+p357
+aVat International Justice Mission that are very encouraging.
+p358
+aa(lp359
+VCA: So just tell us in one country, how much it costs
+p360
+aVto make a material difference  to police, for example \u2014
+p361
+aVI know that's only one piece of it.
+p362
+aVGH: In Guatemala, for instance, we've started a project there
+p363
+aVwith the local police  and court system, prosecutors,
+p364
+aVto retrain them so that they can  actually effectively bring these cases.
+p365
+aVAnd we've seen prosecutions against perpetrators of sexual violence
+p366
+aVincrease by more than 1,000 percent.
+p367
+aVThis project has been very modestly funded at about a million dollars a year,
+p368
+aVand the kind of bang  you can get for your buck
+p369
+aVin terms of leveraging a criminal justice system
+p370
+aVthat could function if it were properly trained and motivated and led,
+p371
+aVand these countries,  especially a middle class
+p372
+aVthat is seeing that there's  really no future
+p373
+aVwith this total instability and total privatization of security
+p374
+aVI think there's an opportunity, a window for change.
+p375
+aa(lp376
+VCA: But to make this happen, you have to look at each part in the chain \u2014
+p377
+aVthe police, who else?
+p378
+aVGH: So that's the thing  about law enforcement,
+p379
+aVit starts out with the police,
+p380
+aVthey're the front end of the pipeline of justice,
+p381
+aVbut they hand if off to the prosecutors,
+p382
+aVand the prosecutors  hand it off to the courts,
+p383
+aVand the survivors of violence  have to be supported by social services
+p384
+aVall the way through that.
+p385
+aVSo you have to do an approach  that pulls that all together.
+p386
+aVIn the past, there's been a little bit of training of the courts,
+p387
+aVbut they get crappy evidence  from the police,
+p388
+aVor a little police intervention  that has to do with narcotics or terrorism
+p389
+aVbut nothing to do with treating the common poor person
+p390
+aVwith excellent law enforcement,
+p391
+aVso it's about pulling that all together,
+p392
+aVand you can actually have people in very poor communities
+p393
+aVexperience law enforcement like us,
+p394
+aVwhich is imperfect in our  own experience, for sure,
+p395
+aVbut boy, is it a great thing to sense that you can call 911
+p396
+aVand maybe someone will protect you.
+p397
+aa(lp398
+VCA: Gary, I think you've done  a spectacular job
+p399
+aVof bringing this to the world's attention
+p400
+aVin your book and right here today.
+p401
+aa(lp402
+VThanks so much.
+p403
+aa(lp404
+VGary Haugen.
+p405
+aa(lp406
+V(Applause)
+p407
+aasS'id'
+p408
+I2239
+sS'title'
+p409
+VThe hidden reason for poverty the world needs to address now
+p410
+s.

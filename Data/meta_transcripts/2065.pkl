@@ -1,0 +1,482 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIn Kenya, 1984 is known
+p4
+aVas the year of the cup,
+p5
+aVor the goro goro.
+p6
+aVThe goro goro is a cup used to measure
+p7
+aVtwo kilograms of maize flower on the market,
+p8
+aVand the maize flower is used to make ugali,
+p9
+aVa polenta-like cake that is eaten together with vegetables.
+p10
+aVBoth the maize and the vegetables are grown
+p11
+aVon most Kenyan farms,
+p12
+aVwhich means that most families can feed themselves
+p13
+aVfrom their own farm.
+p14
+aVOne goro goro can feed three meals
+p15
+aVfor an average family,
+p16
+aVand in 1984, the whole harvest
+p17
+aVcould fit in one goro goro.
+p18
+aVIt was and still is one of the worst droughts
+p19
+aVin living memory.
+p20
+aVNow today, I insure farmers against droughts
+p21
+aVlike those in the year of the cup,
+p22
+aVor to be more specific, I insure the rains.
+p23
+aa(lp24
+VI come from a family of missionaries
+p25
+aVwho built hospitals in Indonesia,
+p26
+aVand my father built a psychiatric hospital
+p27
+aVin Tanzania.
+p28
+aVThis is me, age five, in front of that hospital.
+p29
+aVI don't think they thought I'd grow up
+p30
+aVto sell insurance. (Laughter)
+p31
+aVSo let me tell you how that happened.
+p32
+aa(lp33
+VIn 2008, I was working
+p34
+aVfor the Ministry of Agriculture of Rwanda,
+p35
+aVand my boss had just been promoted
+p36
+aVto become the minister.
+p37
+aVShe launched an ambitious plan
+p38
+aVto start a green revolution in her country,
+p39
+aVand before we knew it, we were importing
+p40
+aVtons of fertilizer and seed
+p41
+aVand telling farmers how to apply that fertilizer
+p42
+aVand plant.
+p43
+aVA couple of weeks later,
+p44
+aVthe International Monetary Fund visited us,
+p45
+aVand asked my minister,
+p46
+aV"Minister, it's great that you want to help farmers
+p47
+aVreach food security, but what if it doesn't rain?"
+p48
+aVMy minister answered proudly
+p49
+aVand somewhat defiantly,
+p50
+aV"I am going to pray for rain."
+p51
+aVThat ended the discussion.
+p52
+aVOn the way back to the ministry in the car,
+p53
+aVshe turned around to me and said,
+p54
+aV"Rose, you've always been interested in finance.
+p55
+aVGo find us some insurance."
+p56
+aa(lp57
+VIt's been six years since,
+p58
+aVand last year I was fortunate enough
+p59
+aVto be part of a team that insured
+p60
+aVover 185,000 farmers in Kenya and Rwanda
+p61
+aVagainst drought.
+p62
+aVThey owned an average of half an acre
+p63
+aVand paid on average two Euros in premium.
+p64
+aVIt's microinsurance.
+p65
+aa(lp66
+VNow, traditional insurance doesn't work
+p67
+aVwith two to three Euros of premium,
+p68
+aVbecause traditional insurance relies on farm visits.
+p69
+aVA farmer here in Germany would be visited
+p70
+aVfor the start of the season, halfway through,
+p71
+aVand at the end, and again if there was a loss,
+p72
+aVto estimate the damages.
+p73
+aVFor a small-scale farmer in the middle of Africa,
+p74
+aVthe maths of doing those visits
+p75
+aVsimply don't add up.
+p76
+aVSo instead, we rely on technology and data.
+p77
+aVThis satellite measures
+p78
+aVwhether there were clouds or not,
+p79
+aVbecause think about it:
+p80
+aVIf there are clouds, then you might have some rain,
+p81
+aVbut if there are no clouds,
+p82
+aVthen it's actually impossible for it to rain.
+p83
+aVThese images show the onset of the rains
+p84
+aVthis season in Kenya.
+p85
+aVYou see that around March 6,
+p86
+aVthe clouds move in and then disappear,
+p87
+aVand then around the March 11,
+p88
+aVthe clouds really move in.
+p89
+aVThat, and those clouds,
+p90
+aVwere the onset of the rains this year.
+p91
+aVThis satellite covers the whole of Africa
+p92
+aVand goes back as far as 1984,
+p93
+aVand that's important, because if you know
+p94
+aVhow many times a place has had a drought
+p95
+aVin the last 30 years,
+p96
+aVyou can make a pretty good estimate
+p97
+aVwhat the chances are of drought in the future,
+p98
+aVand that means that you can put a price tag
+p99
+aVon the risk of drought.
+p100
+aa(lp101
+VThe data alone isn't enough.
+p102
+aVWe devise agronomic algorithms
+p103
+aVwhich tell us how much rainfall a crop needs and when.
+p104
+aVFor example, for maize at planting,
+p105
+aVyou need to have two days of rain
+p106
+aVfor farmers to plant,
+p107
+aVand then it needs to rain once every two weeks
+p108
+aVfor the crop to properly germinate.
+p109
+aVAfter that, you need rain every three weeks
+p110
+aVfor the crop to form its leaves,
+p111
+aVwhereas at flowering, you need it to rain more frequently,
+p112
+aVabout once every 10 days for the crop to form its cob.
+p113
+aVAt the end of the season,
+p114
+aVyou actually don't want it to rain,
+p115
+aVbecause rains then can damage the crop.
+p116
+aa(lp117
+VDevising such a cover is difficult,
+p118
+aVbut it turned out the real challenge
+p119
+aVwas selling insurance.
+p120
+aVWe set ourselves a modest target
+p121
+aVof 500 farmers insured after our first season.
+p122
+aVAfter a couple of months' intense marketing,
+p123
+aVwe had signed up the grand total
+p124
+aVof 185 farmers.
+p125
+aVI was disappointed and confounded.
+p126
+aVEverybody kept telling me that farmers
+p127
+aVwanted insurance,
+p128
+aVbut our prime customers simply weren't buying.
+p129
+aVThey were waiting to see what would happen,
+p130
+aVdidn't trust insurance companies,
+p131
+aVor thought, "I've managed for so many years.
+p132
+aVWhy would I buy insurance now?"
+p133
+aa(lp134
+VNow many of you know microcredit,
+p135
+aVthe method of providing small loans to poor people
+p136
+aVpioneered by Muhammad Yunus,
+p137
+aVwho won the Nobel Peace Prize
+p138
+aVfor his work with the Grameen Bank.
+p139
+aVTurns out, selling microcredit
+p140
+aVisn't the same as selling insurance.
+p141
+aVFor credit, a farmer needs to earn the trust of a bank,
+p142
+aVand if it succeeds, the bank will advance him money.
+p143
+aVThat's an attractive proposition.
+p144
+aVFor insurance, the farmer needs to trust
+p145
+aVthe insurance company, and needs
+p146
+aVto advance the insurance company money.
+p147
+aVIt's a very different value proposition.
+p148
+aVAnd so the uptick of insurance has been slow,
+p149
+aVwith so far only 4.4 percent of Africans
+p150
+aVtaking up insurance in 2012,
+p151
+aVand half of that number is in one country,
+p152
+aVSouth Africa.
+p153
+aa(lp154
+VWe tried for some years
+p155
+aVselling insurance directly to farmers,
+p156
+aVwith very high marketing cost
+p157
+aVand very limited success.
+p158
+aVThen we realized that there were many organizations
+p159
+aVworking with farmers:
+p160
+aVseed companies, microfinance institutions,
+p161
+aVmobile phone companies,
+p162
+aVgovernment agencies.
+p163
+aVThey were all providing loans to farmers,
+p164
+aVand often, just before they'd finalize the loan,
+p165
+aVthe farmer would say,
+p166
+aV"But what if it doesn't rain?
+p167
+aVHow do you expect me to repay my loan?"
+p168
+aVMany of these organizations
+p169
+aVwere taking on the risk themselves,
+p170
+aVsimply hoping that that year,
+p171
+aVthe worst wouldn't happen.
+p172
+aVMost of the organizations, however,
+p173
+aVwere limiting their growth in agriculture.
+p174
+aVThey couldn't take on this kind of risk.
+p175
+aVThese organizations became our customers,
+p176
+aVand when combining credit and insurance,
+p177
+aVinteresting things can happen.
+p178
+aVLet me tell you one more story.
+p179
+aa(lp180
+VAt the start of February 2012 in western Kenya,
+p181
+aVthe rains started, and they started early,
+p182
+aVand when rains start early, farmers are encouraged,
+p183
+aVbecause it usually means that the season is going to be good.
+p184
+aVSo they took out loans and planted.
+p185
+aVFor the next three weeks,
+p186
+aVthere wasn't a single drop of rain,
+p187
+aVand the crops that had germinated so well
+p188
+aVshriveled and died.
+p189
+aVWe'd insured the loans of a microfinance institution
+p190
+aVthat had provided those loans
+p191
+aVto about 6,000 farmers in that area,
+p192
+aVand we called them up and said,
+p193
+aV"Look, we know about the drought.
+p194
+aVWe've got you.
+p195
+aVWe'll give you 200,000 Euros at the end of the season."
+p196
+aVThey said, "Wow, that's great,
+p197
+aVbut that'll be late.
+p198
+aVCould you give us the money now?
+p199
+aVThen these farmers can still replant
+p200
+aVand can get a harvest this season."
+p201
+aVSo we convinced our insurance partners,
+p202
+aVand later that April, these farmers replanted.
+p203
+aVWe took the idea of replanting to a seed company
+p204
+aVand convinced them to price the cost of insurance
+p205
+aVinto every bag of seed,
+p206
+aVand in every bag, we packed a card
+p207
+aVthat had a number on it,
+p208
+aVand when the farmers would open the card,
+p209
+aVthey'd text in that number,
+p210
+aVand that number would actually help us
+p211
+aVto locate the farmer
+p212
+aVand allocate them to a satellite pixel.
+p213
+aVA satellite would then measure the rainfall
+p214
+aVfor the next three weeks,
+p215
+aVand if it didn't rain,
+p216
+aVwe'd replace their seed.
+p217
+aa(lp218
+VOne of the first \u2014
+p219
+aV(Applause) \u2014 Hold on, I'm not there!
+p220
+aa(lp221
+VOne of the first beneficiaries of this replanting guarantee
+p222
+aVwas Bosco Mwinyi.
+p223
+aVWe visited his farm later that August,
+p224
+aVand I wish I could show you the smile on his face
+p225
+aVwhen he showed us his harvest,
+p226
+aVbecause it warmed my heart
+p227
+aVand it made me realize why selling insurance
+p228
+aVcan be a good thing.
+p229
+aVBut you know, he insisted
+p230
+aVthat we get his whole harvest in the picture,
+p231
+aVso we had to zoom out a lot.
+p232
+aVInsurance secured his harvest that season,
+p233
+aVand I believe that today,
+p234
+aVwe have all the tools to enable African farmers
+p235
+aVto take control of their own destiny.
+p236
+aVNo more years of the cup.
+p237
+aVInstead, I am looking forward to, at least somehow,
+p238
+aVthe year of the insurance,
+p239
+aVor the year of the great harvest.
+p240
+aa(lp241
+VThank you.
+p242
+aa(lp243
+V(Applause)
+p244
+aasS'id'
+p245
+I2065
+sS'title'
+p246
+VCrop insurance, an idea worth seeding
+p247
+s.

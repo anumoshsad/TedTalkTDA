@@ -1,0 +1,275 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIn the next six minutes that you will listen to me,
+p4
+aVthe world will have lost three mothers
+p5
+aVwhile delivering their babies:
+p6
+aVone, because of a severe complication;
+p7
+aVsecond, because she will be a teenager
+p8
+aVand her body will not be prepared for birth;
+p9
+aVbut the third, only because of lack of access to basic clean tools
+p10
+aVat the time of childbirth.
+p11
+aVShe will not be alone.
+p12
+aVOver one million mothers and babies die every single year
+p13
+aVin the developing world,
+p14
+aVonly because of lack of access to basic cleanliness
+p15
+aVwhile giving birth to their babies.
+p16
+aa(lp17
+VMy journey began on a hot summer afternoon
+p18
+aVin India in 2008,
+p19
+aVwhen after a day of meeting women and listening to their needs,
+p20
+aVI landed in a thatched hut with a midwife.
+p21
+aVAs a mother, I was very curious on how she delivered babies in her house.
+p22
+aVAfter a deep and engaging conversation with her
+p23
+aVon how she considered it a profound calling to do what she was doing,
+p24
+aVI asked her a parting question:
+p25
+aVDo you have the tools that you need to deliver the babies?
+p26
+aVI got to see her tool.
+p27
+aV"This is what I use to separate the mother and the baby," she said.
+p28
+aVUnsure of how to react, I held this agricultural tool in my hand in shock.
+p29
+aVI took a picture of this, hugged her and walked away.
+p30
+aVMy mind was flooded with reflections of my own infection
+p31
+aVthat I had to struggle with for a year past childbirth
+p32
+aVdespite having access to the best medical care,
+p33
+aVand memories of my conversation with my father,
+p34
+aVwho had lost his mom to childbirth,
+p35
+aVon how he thought his life would be so different
+p36
+aVif she would have been just next to him growing up.
+p37
+aa(lp38
+VAs a product developer, I started my process of research.
+p39
+aVI was very excited to find that there was a product out there
+p40
+aVcalled the Clean Birth Kit.
+p41
+aVBut I just couldn't buy one for months.
+p42
+aVThey were only assembled based on availability of funding.
+p43
+aVFinally, when I got my hands on one, I was in shock again.
+p44
+aVI would never use these tools to deliver my baby, I thought.
+p45
+aVBut to confirm my instincts, I went back to the women,
+p46
+aVsome of whom had the experience of using this product.
+p47
+aa(lp48
+VLo and behold, they had the same reaction and more.
+p49
+aVThe women said they would rather deliver on a floor
+p50
+aVthan on a plastic sheet that smeared blood all over.
+p51
+aVThey were absolutely right \u2014 it would cause more infection.
+p52
+aVThe thread provided was a highway to bacterial infection
+p53
+aVthrough the baby's umbilical cord,
+p54
+aVand the blade used was the kind that men used for shaving,
+p55
+aVand they did not want it anywhere close to them.
+p56
+aVThere was no incentive for anybody to redesign this product,
+p57
+aVbecause it was based on charity.
+p58
+aVThe women were never consulted in this process.
+p59
+aVAnd to my surprise, the need was not only in homes
+p60
+aVbut also in institutional settings with high-volume births.
+p61
+aVSituations in remote areas were even more daunting.
+p62
+aa(lp63
+VThis had to change.
+p64
+aVI made this my area of focus.
+p65
+aVI started the design process by collecting feedback,
+p66
+aVdeveloping prototypes
+p67
+aVand engaging with various stakeholders researching global protocols.
+p68
+aVWith every single prototype, we went back to the women
+p69
+aVto ensure that we had a product for them.
+p70
+aVWhat I learned through this process was that these women,
+p71
+aVdespite their extreme poverty,
+p72
+aVplaced great value on their health and well-being.
+p73
+aVThey were absolutely not poor in mind.
+p74
+aVAs with all of us, they would appreciate a well-designed product
+p75
+aVdeveloped for their needs.
+p76
+aa(lp77
+VAfter many iterations working with experts,
+p78
+aVmedical health professionals
+p79
+aVand the women themselves,
+p80
+aVI should say it was not an easy process at all,
+p81
+aVbut we had a simple and beautiful design.
+p82
+aVFor a dollar more than what the existing product was offered for,
+p83
+aVat three dollars, we were able to deliver "janma,"
+p84
+aVa clean birth kit in a purse.
+p85
+aVJanma, meaning "birth," contained a blood-absorbing sheet
+p86
+aVfor the woman to give birth on,
+p87
+aVa surgical scalpel, a cord clamp, a bar of soap, a pair of gloves
+p88
+aVand the first cloth to wipe the baby clean.
+p89
+aVAll this came packaged in a beautiful purse
+p90
+aVthat was given to the mother as a gift after all her hard work,
+p91
+aVthat she carried home with pride as a symbol of prosperity.
+p92
+aa(lp93
+VOne woman reacted to this gift.
+p94
+aVShe said, "Is this really mine? Can I keep it?"
+p95
+aVThe other one said, "Will you give me a different color
+p96
+aVwhen I have my next baby?"
+p97
+aa(lp98
+V(Laughter)
+p99
+aa(lp100
+VBetter yet, a woman expressed that this was the first purse
+p101
+aVthat she had ever owned in her life.
+p102
+aVThe kit, aside from its symbolism and its simplicity,
+p103
+aVis designed to follow globally recommended medical protocol
+p104
+aVand serves as a behavior-change tool to follow steps one after the other.
+p105
+aVIt can not only be used in homes, but also in institutional settings.
+p106
+aa(lp107
+VTo date, our kit has impacted over 600,000 mothers and babies
+p108
+aVaround the world.
+p109
+aVIt's a humbling experience to watch these numbers grow,
+p110
+aVand I cannot wait until we reach a hundred million.
+p111
+aa(lp112
+VBut women's health issues do not end here.
+p113
+aVThere are thousands of simple issues that require low-cost interventions.
+p114
+aVWe have facts to prove that if we invest in women and girls
+p115
+aVand provide them with better health and well-being,
+p116
+aVthey will deliver healthier and wealthier and prosperous communities.
+p117
+aVWe have to start by bringing simplicity and dignity to women's health issues:
+p118
+aVfrom reducing maternal mortality, to breaking taboos,
+p119
+aVto empowering women to take control of their own lives.
+p120
+aVThis is my dream.
+p121
+aVBut it is not possible to achieve it without engaging men and women alike
+p122
+aVfrom around the world \u2014
+p123
+aVyes, all of you.
+p124
+aa(lp125
+VI recently heard this lyric by Leonard Cohen:
+p126
+aV"Ring the bells that still can ring.
+p127
+aVForget your perfect offering.
+p128
+aVThere is a crack in everything.
+p129
+aVThat's how the light gets in."
+p130
+aa(lp131
+VThis is my bit of light.
+p132
+aVBut we need more light.
+p133
+aVIn fact, we need huge spotlights placed in the world of women's health
+p134
+aVif we need a better tomorrow.
+p135
+aVWe should never forget that women are at the center of a sustainable world,
+p136
+aVand we do not exist without them.
+p137
+aa(lp138
+VThank you.
+p139
+aa(lp140
+V(Applause)
+p141
+aasS'id'
+p142
+I2731
+sS'title'
+p143
+VA simple birth kit for mothers in the developing world
+p144
+s.

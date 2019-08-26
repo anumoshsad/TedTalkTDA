@@ -1,0 +1,787 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VDoes anybody know when the stethoscope was invented?
+p4
+aVAny guesses? 1816.
+p5
+aVAnd what I can say is, in 2016,
+p6
+aVdoctors aren't going to be walking around with stethoscopes.
+p7
+aVThere's a whole lot better technology coming,
+p8
+aVand that's part of the change in medicine.
+p9
+aa(lp10
+VWhat has changed our society
+p11
+aVhas been wireless devices.
+p12
+aVBut the future are digital medical wireless devices, OK?
+p13
+aa(lp14
+VSo, let me give you some examples of this
+p15
+aVto kind of make this much more concrete.
+p16
+aVThis is the first one. This is an electrocardiogram.
+p17
+aVAnd, as a cardiologist, to think that you could see in real time
+p18
+aVa patient, an individual, anywhere in the world
+p19
+aVon your smartphone,
+p20
+aVwatching your rhythm \u2014 that's incredible,
+p21
+aVand it's with us today.
+p22
+aa(lp23
+VBut that's just the beginning.
+p24
+aVYou check your email while you're sitting here.
+p25
+aVIn the future you're going to be checking all your vital signs,
+p26
+aVall your vital signs: your heart rhythm,
+p27
+aVyour blood pressure, your oxygen, your temperature, etc.
+p28
+aVThis is already available today.
+p29
+aa(lp30
+VThis is AirStrip Technologies.
+p31
+aVIt's now wired \u2014 or I should say, wireless \u2014
+p32
+aVby taking the aggregate of these signals
+p33
+aVin the hospital, in the intensive care unit,
+p34
+aVand putting it on a smartphone for physicians.
+p35
+aVIf you're an expectant parent,
+p36
+aVwhat about the ability to monitor, continuously,
+p37
+aVfetal heart rate, or intrauterine contractions,
+p38
+aVand not having to worry so much that things are
+p39
+aVfine as the pregnancy,
+p40
+aVand moving over into the time of delivery?
+p41
+aa(lp42
+VAnd then as we go further,
+p43
+aVtoday we have continuous glucose sensors.
+p44
+aVRight now, they are under the skin,
+p45
+aVbut in the future, they won't have to be implanted.
+p46
+aVAnd of course, the desired range \u2014 trying to keep glucose
+p47
+aVbetween 75 and less than 200,
+p48
+aVchecking it every five minutes in a continuous glucose sensor \u2014
+p49
+aVyou'll see how that can impact diabetes.
+p50
+aa(lp51
+VAnd what about sleep?
+p52
+aVWe're going to zoom in on that a little bit.
+p53
+aVWe're supposed to spend a third of our life in sleep.
+p54
+aVWhat if, on your phone,
+p55
+aVwhich will be available in the next few weeks,
+p56
+aVyou had every minute of your sleep displayed?
+p57
+aVAnd this is, of course, as you can see, the awake is the orange.
+p58
+aVThe REM sleep, rapid eye movement,
+p59
+aVdream state, is in light green;
+p60
+aVand light is gray, light sleep;
+p61
+aVand deep sleep, the best restorative sleep,
+p62
+aVis that dark green.
+p63
+aa(lp64
+VHow about counting every calorie?
+p65
+aVAnd this is ability, in real time, to actually take
+p66
+aVmeasurements of caloric intake
+p67
+aVas well as expenditure, through a Band-Aid.
+p68
+aa(lp69
+VNow, what I've talked about are physiologic metrics.
+p70
+aVBut what I want to get to, the next frontier,
+p71
+aVvery quickly, and why the stethoscope
+p72
+aVis on its way out,
+p73
+aVis because we can transcend listening to the valve sounds,
+p74
+aVand the breath sounds, because now,
+p75
+aVintroduced by G.E. is a handheld ultra-sound.
+p76
+aVWhy is this important? Because this is so much more sensitive.
+p77
+aVHere is an example of an abdominal ultrasound,
+p78
+aVand also a cardiac echo, which can be sent wireless,
+p79
+aVand then there's an example of fetal monitoring on your smartphone.
+p80
+aa(lp81
+VSo, we're not just talking about physiologic metrics \u2014
+p82
+aVthe key measurements of vital signs,
+p83
+aVand all those things in physiology \u2014 but also all the imaging
+p84
+aVthat one could look at in your smartphone.
+p85
+aVNow, this is an example of another obsolete technology,
+p86
+aVsoon to be buried: the Holter Monitor.
+p87
+aVTwenty-four hour recording, lots of wires.
+p88
+aVThis is now a little tiny patch.
+p89
+aVYou can put it on for two weeks
+p90
+aVand send it in the mail.
+p91
+aa(lp92
+VNow, how does this work? Well,
+p93
+aVthere is these smart Band-Aids or these sensors
+p94
+aVthat one would put on, on a shoe or on the wrist.
+p95
+aVAnd this sends a signal
+p96
+aVand it creates a body area network to a gateway.
+p97
+aVGateway could be a smartphone or it could be a dedicated gateway,
+p98
+aVas today many of these things are dedicated gateways,
+p99
+aVbecause they are not so well integrated.
+p100
+aVThat signal goes to the web, the cloud,
+p101
+aVand then it can be processed and sent anywhere:
+p102
+aVto a caregiver, to a physician,
+p103
+aVback to the patient, etc.
+p104
+aVSo, that's basically very simplistic technology
+p105
+aVof how this works.
+p106
+aa(lp107
+VNow, I have this device on.
+p108
+aVI didn't want to take my shirt off to show you, but I can tell you it's on.
+p109
+aVThis is a device that not only measures cardiac rhythm,
+p110
+aVas you saw already,
+p111
+aVbut it also goes well beyond that.
+p112
+aVThis is me now. And you can see the ECG.
+p113
+aVBelow that's the actual heart rate and the trend;
+p114
+aVto the right of that is a bioconductant.
+p115
+aVThat's the fluid status,
+p116
+aVfluid status, that's really important
+p117
+aVif you're monitoring somebody with heart failure.
+p118
+aVAnd below that's temperature,
+p119
+aVand respiration, and oxygen,
+p120
+aVand then the position activity.
+p121
+aVSo, this is really striking, because this device
+p122
+aVmeasures seven things
+p123
+aVthat are very much vital signs
+p124
+aVfor monitoring someone with heart failure. OK?
+p125
+aa(lp126
+VAnd why is this important? Well,
+p127
+aVthis is the most expensive bed.
+p128
+aVWhat if we could reduce the need for hospital beds?
+p129
+aVWell, we can. First of all, heart failure
+p130
+aVis the number one reason
+p131
+aVfor hospital admissions and readmissions in this country.
+p132
+aVThe cost of heart failure is 37 billion dollars a year,
+p133
+aVwhich is 80 percent related to hospitalization.
+p134
+aVAnd in the course of 30 days after a hospital stay
+p135
+aVfor a Medicare greater than 65 years or older,
+p136
+aVis \u2014 27 percent are readmitted in 30 days,
+p137
+aVand by six months, over 56 percent are readmitted.
+p138
+aVSo, can we improve that? Well the idea is
+p139
+aVwe take this device that I'm wearing,
+p140
+aVand we put it on 600 patients with heart failure,
+p141
+aVrandomly assigned, versus 600 patients
+p142
+aVwho don't have active monitoring,
+p143
+aVand see whether we can reduce heart failure readmissions,
+p144
+aVand that's exciting. And we'll start that trial,
+p145
+aVand you'll hear more about how we're going to do that,
+p146
+aVbut that's a type of wireless device trial
+p147
+aVthat could change medicine in the years ahead.
+p148
+aa(lp149
+VWhy now? Why has this all of a sudden become
+p150
+aVa reality, an exciting direction in the future of medicine?
+p151
+aVWhat we have is, in a way, a perfect positive storm.
+p152
+aVThis sets up consumer-driven healthcare.
+p153
+aVThat's where this is all starting.
+p154
+aVLet me just give you specifics about why this is
+p155
+aVa big movement if you're not aware of it:
+p156
+aV1.2 million Americans
+p157
+aVhave gotten a Nike shoe, which is a body-area network
+p158
+aVthat connects the shoe, the sole of the shoe to the iPhone, or an iPod.
+p159
+aVAnd this Wired Magazine cover article
+p160
+aVreally captured a lot of this; it talked a lot about the Nike shoe
+p161
+aVand how quickly that's been adopted to monitor exercise physiology
+p162
+aVand energy expenditure.
+p163
+aVHere are some things, the principles
+p164
+aVthat are guiding principles to keep in mind:
+p165
+aV"A data-driven health revolution
+p166
+aVpromises to make us all
+p167
+aVbetter, faster, and stronger. Living by numbers."
+p168
+aVAnd this one, which is really telling,
+p169
+aVthis was from July, this cover article:
+p170
+aa(lp171
+V"The personal metrics movement goes way beyond
+p172
+aVdiet and exercise. It's about tracking every facet
+p173
+aVof life, from sleep to mood to pain,
+p174
+aV24/7/365."
+p175
+aVWell, I tried this device.
+p176
+aVA lot of you have gotten that Phillips Direct Life.
+p177
+aVI didn't have one of those,
+p178
+aVbut I got the Fitbit.
+p179
+aVThat looks like this.
+p180
+aVIt's like a wireless accelerometer, pedometer.
+p181
+aVAnd I want to just give you the results of that testing,
+p182
+aVbecause I wanted to understand about the consumer movement.
+p183
+aVI hope the, by the way, the Phillips Direct Life works better \u2014
+p184
+aVI hope so.
+p185
+aVBut this monitors food, it monitors activity and tracks weight.
+p186
+aVHowever you have to put in most of this stuff.
+p187
+aVThe only thing it really tracks by itself is activity,
+p188
+aVand even then, it's not complete.
+p189
+aVSo, you exercise and it picks up the exercise.
+p190
+aVYou put in your height and weight, it calculates BMI,
+p191
+aVand of course it tells you how many calories you're expending
+p192
+aVfrom the exercise, and how many you took in,
+p193
+aVif you go in and enter all the foods.
+p194
+aa(lp195
+VBut it really wants you to enter all your activity.
+p196
+aVAnd so I went to this,
+p197
+aVand of course I was gratified that it picked up
+p198
+aVthe 42 minutes of exercise, elliptical exercise I did,
+p199
+aVbut then it wants more information.
+p200
+aVSo, it says, "You want to log sexual activity.
+p201
+aVHow long did you do it for?"
+p202
+aV(Laughter)
+p203
+aVAnd it says, "How hard was it?"
+p204
+aV(Laughter)
+p205
+aVFurthermore it says, "Start time."
+p206
+aVNow, this doesn't appear \u2014 this just doesn't work,
+p207
+aVI mean, this just doesn't work.
+p208
+aa(lp209
+VSo, now I want to move to sleep.
+p210
+aVWho would ever have thought you could have your own EEG
+p211
+aVat your home, tagged to a very nice alarm clock, by the way?
+p212
+aVThis is the headband that goes with this alarm clock.
+p213
+aVIt monitors your brainwaves continuously, when you're sleeping.
+p214
+aVSo, I did this thing for seven days
+p215
+aVgetting ready for TEDMed.
+p216
+aVThis is an important part of our life, one-third you're supposed to be sleeping.
+p217
+aa(lp218
+VOf course how many here
+p219
+aVhave any problems with sleeping?
+p220
+aVIt's usually 90 percent. So, you tell me you sleep better than expected.
+p221
+aVOkay, well this was a week of
+p222
+aVmy life in sleeping,
+p223
+aVand you get a Z.Q. score. Instead of an I.Q. score,
+p224
+aVyou get a Z.Q. score when you wake up.
+p225
+aVYou say, "Oh, OK." And a Z.Q. score
+p226
+aVis adjusted to age,
+p227
+aVand you want to get as high as you possibly can.
+p228
+aVSo this is the moment-by-moment,
+p229
+aVor minute-by-minute sleep.
+p230
+aVAnd you see that Z.Q. there was 80-odd.
+p231
+aVAnd the wake time is in orange.
+p232
+aVAnd this can be a problem, as I learned.
+p233
+aVBecause it not only helps you with quantifying
+p234
+aVyour sleep,
+p235
+aVbut also tells others you're awake.
+p236
+aVSo, when my wife came in and she
+p237
+aVcould tell you're awake.
+p238
+aV"Eric, I want to talk. I want to talk."
+p239
+aVAnd I'm trying to play possum.
+p240
+aVThis thing is very, very impressive.
+p241
+aa(lp242
+VOK. So, that's the first night.
+p243
+aVAnd this one is now 67,
+p244
+aVand that's not a good score.
+p245
+aVAnd this tells you, of course, how much you had in REM sleep,
+p246
+aVin deep sleep, and all this sort of thing.
+p247
+aVThis was really fascinating because
+p248
+aVthis gave that quantitation
+p249
+aVabout all the different phases of sleep.
+p250
+aVSo, it also then tells you how you do compared to your age group.
+p251
+aVIt's like a managed competition of sleep.
+p252
+aVAnd really interesting stuff.
+p253
+aVLook at this thing and say, "Well, I didn't think I was a very good sleeper,
+p254
+aVbut actually I did better than average in 50 to 60 year olds." OK?
+p255
+aVAnd the key thing was, what I didn't know,
+p256
+aVwas that I was a really good dreamer.
+p257
+aa(lp258
+VOK. Now let's move from sleep to diseases.
+p259
+aVEighty percent of Americans have chronic disease,
+p260
+aVor 80 percent of age greater than 65 have
+p261
+aVtwo or more chronic disease,
+p262
+aV140 million Americans
+p263
+aVhave one or more chronic disease,
+p264
+aVand 80 percent of our 1.5, whatever, trillion
+p265
+aVexpenditures are related to chronic disease.
+p266
+aVNow, diabetes is one of the big ones.
+p267
+aVAlmost 24 million people have diabetes.
+p268
+aVAnd here is the latest map. It was published
+p269
+aVjust a little more than a week ago in the New York Times,
+p270
+aVand it isn't looking good.
+p271
+aVThat is, for men, 29 percent
+p272
+aVin the country over 60 have Type II diabetes,
+p273
+aVand women, although it's less, it's terribly high.
+p274
+aa(lp275
+VBut of course we have a way to measure that now
+p276
+aVon a continuous basis,
+p277
+aVwith a sensor that detects blood glucose,
+p278
+aVand it's important because we could detect
+p279
+aVhyperglycemia that otherwise wouldn't be known,
+p280
+aVand also hypoglycemia.
+p281
+aVAnd you can see the red dots, in this particular patient's case,
+p282
+aVwere finger sticks, which would have missed both ends.
+p283
+aa(lp284
+VBut by continuous monitoring,
+p285
+aVit captures all that vital information.
+p286
+aVThe future of this though,
+p287
+aVis being able to move this to a Band-Aid type phenomenon,
+p288
+aVand that's not so far away.
+p289
+aVSo, let me just give you, very quickly,
+p290
+aV10 top targets for wireless medicine.
+p291
+aVAll these things are possible \u2014
+p292
+aVsome of them are very close,
+p293
+aVor already, as you heard,
+p294
+aVare available today, in some way or form.
+p295
+aa(lp296
+VAlzheimer's disease:
+p297
+aVthere's five million people affected, and you can check
+p298
+aVvital signs, activity, balance.
+p299
+aVAsthma: large number, we could detect things like
+p300
+aVpollen count, air quality, respiratory rate. Breast cancer,
+p301
+aVI'll show you an example of that real quickly.
+p302
+aVChronic obstructive pulmonary disease.
+p303
+aVDepression, there's a great approach to that in mood disorders.
+p304
+aVDiabetes I've just mentioned. Heart failure we already talked about. Hypertension:
+p305
+aV74 million people could have continuous blood-pressure monitoring
+p306
+aVto come up with much better management and prevention.
+p307
+aVAnd obesity we already talked about, the ways to get to that.
+p308
+aVAnd sleep disorders.
+p309
+aa(lp310
+VThis is effective around the world. The access to smartphones
+p311
+aVand cell phones today is extraordinary.
+p312
+aVAnd this article from The Economist summed it up beautifully
+p313
+aVabout the opportunities in health across the developing world:
+p314
+aV"Mobile phones made a bigger difference to the lives of more people,
+p315
+aVmore quickly, than any previous technology."
+p316
+aVAnd that's before we got going on the m-health world.
+p317
+aVAging: The problem is enormous,
+p318
+aV300,000 broken hips per year;
+p319
+aVbut the solutions are extraordinary,
+p320
+aVand they include so many different things.
+p321
+aa(lp322
+VOne of the ones I just wanted to mention:
+p323
+aVThe iShoe is another example of a sensor that
+p324
+aVimproves proprioception among the elderly
+p325
+aVto prevent falling.
+p326
+aVOne of many different techniques using wireless sensors.
+p327
+aVSo, we can change medicine across the continuum of care,
+p328
+aVacross the ages from premies or unborn children
+p329
+aVto seniors; the pharmaceutical arena changes;
+p330
+aVthe full spectrum of disease \u2014 I hope I've given you a sense of that \u2014
+p331
+aVacross the globe.
+p332
+aa(lp333
+VThere are two things that can really accelerate this whole process.
+p334
+aVOne of them \u2014 we're very fortunate \u2014 is to develop a dedicated institute
+p335
+aVand that's work that started with the work that Scripps with Qualcomm ...
+p336
+aVand then the great fortune of meeting up with Gary and Mary West,
+p337
+aVto get behind this wireless health institute.
+p338
+aVSan Diego is an extraordinary place for this.
+p339
+aVThere's over 650 wireless companies,
+p340
+aV100 of which or more are working in wireless health.
+p341
+aVIt's the number one source of commerce, and interestingly
+p342
+aVit dovetails beautifully with over 500 life science companies.
+p343
+aa(lp344
+VThe wireless institute,
+p345
+aVthe West Wireless Health Institute,
+p346
+aVis really the outgrowth of two extraordinary people
+p347
+aVwho are here this evening:
+p348
+aVGary and Mary West. And I'd like to give it up for them for getting behind this.
+p349
+aV(Applause)
+p350
+aVTheir fantastic philanthropic investment made this possible,
+p351
+aVand this is really a nonprofit education center
+p352
+aVwhich is just about to open. It looks like this,
+p353
+aVthis whole building dedicated.
+p354
+aVAnd what it's trying to do is accelerate this era:
+p355
+aVto take unmet medical needs, to work and innovate \u2014
+p356
+aVand we just appointed the chief engineer, Mehran Mehregany,
+p357
+aVit was announced on Monday \u2014
+p358
+aVthen to move up with development,
+p359
+aVclinical trial validation and then changing medical practice,
+p360
+aVthe most challenging thing of all,
+p361
+aVrequiring attention to reimbursement, healthcare policy, healthcare economics.
+p362
+aa(lp363
+VThe other big thing, besides having this fantastic
+p364
+aVinstitute to catalyze this process
+p365
+aVis guidance,
+p366
+aVand that's of course relying on the fact that medicine goes digital.
+p367
+aVIf we understand biology from genomics and omics
+p368
+aVand wireless through physiologic phenotyping, that's big.
+p369
+aVBecause what it does is allow a convergence like we've never had before.
+p370
+aVOver 80 major diseases have been cracked at the genomic level,
+p371
+aVbut this is quite extraordinary: More has been learned about
+p372
+aVthe underpinnings of disease in the last two and a half years
+p373
+aVthan in the history of man.
+p374
+aVAnd when you put that together with, for example,
+p375
+aVnow an app for the iPhone with your genotype
+p376
+aVto guide drug therapy ...
+p377
+aVbut, the future \u2014 we can now tell who's going to get Type II diabetes
+p378
+aVfrom all the common variants,
+p379
+aVand that's going to get filled in more
+p380
+aVwith low-frequency variants in the future.
+p381
+aVWe can tell who's going to get breast cancer
+p382
+aVfrom the various genes.
+p383
+aVWe can also know who's likely to get atrial fibrillation.
+p384
+aa(lp385
+VAnd finally, another example: sudden cardiac death.
+p386
+aVEach of these has a sensor.
+p387
+aVWe can give glucose a sensor for diabetes to prevent it.
+p388
+aVWe can prevent, or have the earliest detection possible,
+p389
+aVfor breast cancer with an ultrasound device
+p390
+aVgiven to the patient.
+p391
+aVAn iPatch, iRhythm, for atrial fibrillation.
+p392
+aVAnd vital-signs monitoring to prevent sudden cardiac death.
+p393
+aVWe lose 700,000 people a year in the U.S. from sudden cardiac death.
+p394
+aa(lp395
+VSo, I hope I've convinced you of this,
+p396
+aVof the impact on hospital clinic resources is profound
+p397
+aVand then the impact on diseases is equally impressive
+p398
+aVacross all these different diseases and more.
+p399
+aVIt's really taking individualized medicine to a new height
+p400
+aVand it's hyper-innovative,
+p401
+aVand I think it represents the black swan of medicine.
+p402
+aVThanks for your attention.
+p403
+aa(lp404
+V(Applause)
+p405
+aasS'id'
+p406
+I772
+sS'title'
+p407
+VThe wireless future of medicine
+p408
+s.

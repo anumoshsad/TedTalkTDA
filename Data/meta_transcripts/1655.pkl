@@ -1,0 +1,515 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VLet me tell you a story.
+p4
+aa(lp5
+VIt's my first year as a new high school science teacher,
+p6
+aVand I'm so eager.
+p7
+aVI'm so excited, I'm pouring myself into my lesson plans.
+p8
+aVBut I'm slowly coming to this horrifying realization
+p9
+aVthat my students just might not be learning anything.
+p10
+aa(lp11
+VThis happens one day:
+p12
+aVI'd just assigned my class to read this textbook chapter
+p13
+aVabout my favorite subject in all of biology:
+p14
+aVviruses and how they attack.
+p15
+aVAnd so I'm so excited to discuss this with them,
+p16
+aVand I come in and I say, "Can somebody please explain
+p17
+aVthe main ideas and why this is so cool?"
+p18
+aa(lp19
+VThere's silence.
+p20
+aVFinally, my favorite student, she looks me straight in the eye,
+p21
+aVand she says, "The reading sucked."
+p22
+aVAnd then she clarified. She said, "You know what,
+p23
+aVI don't mean that it sucks. It means that I didn't understand a word of it.
+p24
+aVIt's boring. Um, who cares, and it sucks."
+p25
+aa(lp26
+VThese sympathetic smiles
+p27
+aVspread all throughout the room now,
+p28
+aVand I realize that all of my other students are in the same boat,
+p29
+aVthat maybe they took notes or they memorized definitions from the textbook,
+p30
+aVbut not one of them really understood the main ideas.
+p31
+aVNot one of them can tell me why this stuff is so cool,
+p32
+aVwhy it's so important.
+p33
+aa(lp34
+VI'm totally clueless.
+p35
+aVI have no idea what to do next.
+p36
+aVSo the only thing I can think of is say,
+p37
+aV"Listen. Let me tell you a story.
+p38
+aVThe main characters in the story are bacteria and viruses.
+p39
+aVThese guys are blown up a couple million times.
+p40
+aVThe real bacteria and viruses are so small
+p41
+aVwe can't see them without a microscope,
+p42
+aVand you guys might know bacteria and viruses
+p43
+aVbecause they both make us sick.
+p44
+aVBut what a lot of people don't know is that viruses
+p45
+aVcan also make bacteria sick."
+p46
+aa(lp47
+VNow, the story that I start telling my kids,
+p48
+aVit starts out like a horror story.
+p49
+aVOnce upon a time there's this happy little bacterium.
+p50
+aVDon't get too attached to him.
+p51
+aVMaybe he's floating around in your stomach
+p52
+aVor in some spoiled food somewhere,
+p53
+aVand all of a sudden he starts to not feel so good.
+p54
+aVMaybe he ate something bad for lunch,
+p55
+aVand then things get really horrible,
+p56
+aVas his skin rips apart, and he sees a virus
+p57
+aVcoming out from his insides.
+p58
+aVAnd then it gets horrible
+p59
+aVwhen he bursts open and an army of viruses
+p60
+aVfloods out from his insides.
+p61
+aVIf \u2014 Ouch is right! \u2014
+p62
+aVIf you see this, and you're a bacterium,
+p63
+aVthis is like your worst nightmare.
+p64
+aVBut if you're a virus and you see this,
+p65
+aVyou cross those little legs of yours and you think,
+p66
+aV"We rock."
+p67
+aVBecause it took a lot of crafty work to infect this bacterium.
+p68
+aVHere's what had to happen.
+p69
+aVA virus grabbed onto a bacterium
+p70
+aVand it slipped its DNA into it.
+p71
+aVThe next thing is, that virus DNA made stuff
+p72
+aVthat chopped up the bacteria DNA.
+p73
+aVAnd now that we've gotten rid of the bacteria DNA,
+p74
+aVthe virus DNA takes control of the cell
+p75
+aVand it tells it to start making more viruses.
+p76
+aVBecause, you see, DNA is like a blueprint
+p77
+aVthat tells living things what to make.
+p78
+aVSo this is kind of like going into a car factory
+p79
+aVand replacing the blueprints with blueprints for killer robots.
+p80
+aVThe workers still come the next day, they do their job,
+p81
+aVbut they're following different instructions.
+p82
+aVSo replacing the bacteria DNA with virus DNA
+p83
+aVturns the bacteria into a factory for making viruses \u2014
+p84
+aVthat is, until it's so filled with viruses that it bursts.
+p85
+aVBut that's not the only way that viruses infect bacteria.
+p86
+aVSome are much more crafty.
+p87
+aVWhen a secret agent virus infects a bacterium,
+p88
+aVthey do a little espionage.
+p89
+aVHere, this cloaked, secret agent virus is slipping his DNA into the bacterial cell,
+p90
+aVbut here's the kicker: It doesn't do anything harmful \u2014 not at first.
+p91
+aVInstead, it silently slips into the bacteria's own DNA,
+p92
+aVand it just stays there like a terrorist sleeper cell,
+p93
+aVwaiting for instructions.
+p94
+aVAnd what's interesting about this is now whenever this bacteria has babies,
+p95
+aVthe babies also have the virus DNA in them.
+p96
+aVSo now we have a whole extended bacteria family,
+p97
+aVfilled with virus sleeper cells.
+p98
+aVThey're just happily living together until a signal happens
+p99
+aVand \u2014 BAM! \u2014 all of the DNA pops out.
+p100
+aVIt takes control of these cells, turns them into virus-making factories,
+p101
+aVand they all burst,
+p102
+aVa huge, extended bacteria family,
+p103
+aVall dying with viruses spilling out of their guts,
+p104
+aVthe viruses taking over the bacterium.
+p105
+aVSo now you understand how viruses can attack cells.
+p106
+aVThere are two ways: On the left is what we call the lytic way,
+p107
+aVwhere the viruses go right in and take over the cells.
+p108
+aVOn the [right] is the lysogenic way
+p109
+aVthat uses secret agent viruses.
+p110
+aa(lp111
+VSo this stuff is not that hard, right?
+p112
+aVAnd now all of you understand it.
+p113
+aVBut if you've graduated from high school,
+p114
+aVI can almost guarantee you've seen this information before.
+p115
+aVBut I bet it was presented in a way
+p116
+aVthat it didn't exactly stick in your mind.
+p117
+aa(lp118
+VSo when my students were first learning this,
+p119
+aVwhy did they hate it so much?
+p120
+aVWell, there were a couple of reasons.
+p121
+aa(lp122
+VFirst of all, I can guarantee you that their textbooks
+p123
+aVdidn't have secret agent viruses, and they didn't have horror stories.
+p124
+aVYou know, in the communication of science
+p125
+aVthere is this obsession with seriousness.
+p126
+aVIt kills me. I'm not kidding.
+p127
+aVI used to work for an educational publisher,
+p128
+aVand as a writer, I was always told never to use stories
+p129
+aVor fun, engaging language,
+p130
+aVbecause then my work might not be viewed
+p131
+aVas "serious" and "scientific."
+p132
+aVRight? I mean, because God forbid somebody have fun
+p133
+aVwhen they're learning science.
+p134
+aVSo we have this field of science that's all about slime,
+p135
+aVand color changes. Check this out.
+p136
+aVAnd then we have, of course, as any good scientist has to have,
+p137
+aVexplosions!
+p138
+aVBut if a textbook seems too much fun,
+p139
+aVit's somehow unscientific.
+p140
+aa(lp141
+VNow another problem was that
+p142
+aVthe language in their textbook was truly incomprehensible.
+p143
+aVIf we want to summarize that story that I told you earlier,
+p144
+aVwe could start by saying something like,
+p145
+aV"These viruses make copies of themselves
+p146
+aVby slipping their DNA into a bacterium."
+p147
+aVThe way this showed up in the textbook, it looked like this:
+p148
+aV"Bacteriophage replication is initiated
+p149
+aVthrough the introduction of viral nucleic acid
+p150
+aVinto a bacterium."
+p151
+aVThat's great, perfect for 13-year-olds.
+p152
+aa(lp153
+VBut here's the thing. There are plenty of people
+p154
+aVin science education who would look at this and say there's no way
+p155
+aVthat we could ever give that to students,
+p156
+aVbecause it contains some language that isn't completely accurate.
+p157
+aVFor example, I told you that viruses have DNA.
+p158
+aVWell, a very tiny fraction of them don't.
+p159
+aVThey have something called RNA instead.
+p160
+aVSo a professional science writer would circle that
+p161
+aVand say, "That has to go.
+p162
+aVWe have to change it to something much more technical."
+p163
+aVAnd after a team of professional science editors
+p164
+aVwent over this really simple explanation,
+p165
+aVthey'd find fault with almost every word I've used,
+p166
+aVand they'd have to change anything that wasn't serious enough,
+p167
+aVand they'd have to change everything
+p168
+aVthat wasn't 100 percent perfect.
+p169
+aVThen it would be accurate,
+p170
+aVbut it would be completely impossible to understand.
+p171
+aVThis is horrifying.
+p172
+aa(lp173
+VYou know, I keep talking about this idea
+p174
+aVof telling a story,
+p175
+aVand it's like science communication has taken on this idea
+p176
+aVof what I call the tyranny of precision,
+p177
+aVwhere you can't just tell a story.
+p178
+aVIt's like science has become that horrible storyteller
+p179
+aVthat we all know, who gives us all the details nobody cares about,
+p180
+aVwhere you're like, "Oh, I met my friend for lunch the other day,
+p181
+aVand she was wearing these ugly jeans.
+p182
+aVI mean, they weren't really jeans, they were more kind of, like, leggings,
+p183
+aVbut, like, I guess they're actually kind of more like jeggings,
+p184
+aVlike, but I think \u2014 " and you're just like, "Oh my God.
+p185
+aVWhat is the point?"
+p186
+aVOr even worse, science education is becoming
+p187
+aVlike that guy who always says, "Actually."
+p188
+aVRight? You want to be like, "Oh, dude,
+p189
+aVwe had to get up in the middle of the night
+p190
+aVand drive a hundred miles in total darkness."
+p191
+aVAnd that guy's like, "Actually, it was 87.3 miles."
+p192
+aVAnd you're like, "Actually, shut up!
+p193
+aVI'm just trying to tell a story."
+p194
+aa(lp195
+VBecause good storytelling is all about emotional connection.
+p196
+aVWe have to convince our audience
+p197
+aVthat what we're talking about matters.
+p198
+aVBut just as important is knowing
+p199
+aVwhich details we should leave out
+p200
+aVso that the main point still comes across.
+p201
+aVI'm reminded of what the architect Mies van der Rohe said,
+p202
+aVand I paraphrase, when he said that sometimes
+p203
+aVyou have to lie in order to tell the truth.
+p204
+aVI think this sentiment is particularly relevant
+p205
+aVto science education.
+p206
+aa(lp207
+VNow, finally,
+p208
+aVI am often so disappointed
+p209
+aVwhen people think that I'm advocating
+p210
+aVa dumbing down of science.
+p211
+aVThat's not true at all.
+p212
+aVI'm currently a Ph.D. student at MIT,
+p213
+aVand I absolutely understand the importance of detailed,
+p214
+aVspecific scientific communication between experts,
+p215
+aVbut not when we're trying to teach 13-year-olds.
+p216
+aVIf a young learner thinks that all viruses have DNA,
+p217
+aVthat's not going to ruin their chances of success in science.
+p218
+aVBut if a young learner can't understand anything in science
+p219
+aVand learns to hate it because it all sounds like this,
+p220
+aVthat will ruin their chances of success.
+p221
+aa(lp222
+VThis needs to stop,
+p223
+aVand I wish that the change could come from the institutions
+p224
+aVat the top that are perpetuating these problems,
+p225
+aVand I beg them, I beseech them to just stop it.
+p226
+aVBut I think that's unlikely.
+p227
+aVSo we are so lucky that we have resources
+p228
+aVlike the Internet, where we can circumvent these institutions
+p229
+aVfrom the bottom up.
+p230
+aVThere's a growing number of online resources
+p231
+aVthat are dedicated to just explaining science
+p232
+aVin simple, understandable ways.
+p233
+aVI dream of a Wikipedia-like website that would explain
+p234
+aVany scientific concept you can think of
+p235
+aVin simple language any middle schooler can understand.
+p236
+aVAnd I myself spend most of my free time
+p237
+aVmaking these science videos that I put on YouTube.
+p238
+aVI explain chemical equilibrium using analogies
+p239
+aVto awkward middle school dances,
+p240
+aVand I talk about fuel cells with stories
+p241
+aVabout boys and girls at a summer camp.
+p242
+aVThe feedback that I get is sometimes misspelled
+p243
+aVand it's often written in LOLcats,
+p244
+aVbut nonetheless
+p245
+aVit's so appreciative, so thankful
+p246
+aVthat I know this is the right way
+p247
+aVwe should be communicating science.
+p248
+aa(lp249
+VThere's still so much work left to be done, though,
+p250
+aVand if you're involved with science in any way
+p251
+aVI urge you to join me.
+p252
+aVPick up a camera, start to write a blog, whatever,
+p253
+aVbut leave out the seriousness, leave out the jargon.
+p254
+aVMake me laugh. Make me care.
+p255
+aVLeave out those annoying details that nobody cares about
+p256
+aVand just get to the point.
+p257
+aVHow should you start?
+p258
+aVWhy don't you say, "Listen, let me tell you a story"?
+p259
+aa(lp260
+VThank you.
+p261
+aa(lp262
+V(Applause)
+p263
+aasS'id'
+p264
+I1655
+sS'title'
+p265
+VHey science teachers -- make it fun
+p266
+s.

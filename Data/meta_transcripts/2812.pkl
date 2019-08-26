@@ -1,0 +1,647 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo, I love making tools and sharing them with people.
+p4
+aVI remember as a child,
+p5
+aVmy first tool I built was actually a microscope
+p6
+aVthat I built by stealing lenses from my brother's eyeglasses.
+p7
+aVHe wasn't that thrilled.
+p8
+aVBut, you know, maybe because of that moment,
+p9
+aV30 years later,
+p10
+aVI'm still making microscopes.
+p11
+aVAnd the reason I built these tools is for moments like this.
+p12
+aa(lp13
+V(Video) Girl: I have black things in my hair \u2014
+p14
+aa(lp15
+VManu Prakash: This is a school in the Bay Area.
+p16
+aa(lp17
+V(Video) MP: The living world far supersedes our imagination
+p18
+aVof how things actually work.
+p19
+aa(lp20
+V(Video) Boy: Oh my God!
+p21
+aa(lp22
+VMP: Right \u2014 oh my God!
+p23
+aVI hadn't realized this would be such a universal phrase.
+p24
+aa(lp25
+VOver the last two years,
+p26
+aVin my lab,
+p27
+aVwe built 50,000 Foldscopes
+p28
+aVand shipped them to 130 countries in the world,
+p29
+aVat no cost to the kids we sent them to.
+p30
+aVThis year alone,
+p31
+aVwith the support of our community,
+p32
+aVwe are planning to ship a million microscopes
+p33
+aVto kids around the world.
+p34
+aVWhat does that do?
+p35
+aVIt creates an inspiring community of people around the world,
+p36
+aVlearning and teaching each other,
+p37
+aVfrom Kenya to Kampala to Kathmandu to Kansas.
+p38
+aa(lp39
+VAnd one of the phenomenal things that I love about this
+p40
+aVis the sense of community.
+p41
+aVThere's a kid in Nicaragua
+p42
+aVteaching others how to identify mosquito species that carry dengue
+p43
+aVby looking at the larva under a microscope.
+p44
+aVThere's a pharmacologist who came up with a new way
+p45
+aVto detect fake drugs anywhere.
+p46
+aVThere is a girl who wondered:
+p47
+aV"How does glitter actually work?"
+p48
+aVand discovered the physics of crystalline formation in glitter.
+p49
+aVThere is an Argentinian doctor
+p50
+aVwho's trying to do field cervical cancer screening with this tool.
+p51
+aVAnd yours very truly found a species of flea
+p52
+aVthat was dug inside my heel in my foot one centimeter deep.
+p53
+aa(lp54
+VNow, you might think of these as anomalies.
+p55
+aVBut there is a method to this madness.
+p56
+aVI call this "frugal science" \u2014
+p57
+aVthe idea of sharing the experience of science,
+p58
+aVand not just the information.
+p59
+aVTo remind you:
+p60
+aVthere are a billion people on this planet
+p61
+aVwho live with absolutely no infrastructure:
+p62
+aVno roads,
+p63
+aVno electricity
+p64
+aVand thus, no health care.
+p65
+aVAlso, there a billion kids on this planet that live in poverty.
+p66
+aVHow are we supposed to inspire them
+p67
+aVfor the next generation of solution makers?
+p68
+aVThere are health care workers that we put on the line
+p69
+aVto fight infectious diseases,
+p70
+aVto protect us with absolutely bare-minimum tools and resources.
+p71
+aa(lp72
+VSo as a lab at Stanford,
+p73
+aVI think of this from a context of frugal science
+p74
+aVand building solutions for these communities.
+p75
+aVOften we think about being able to do diagnosis under a tree, off-grid.
+p76
+aVI'll tell you two examples today of new tools.
+p77
+aVOne of them starts in Uganda.
+p78
+aVIn 2013,
+p79
+aVon a field trip to detect schistosomiasis with Foldscopes,
+p80
+aVI made a minor observation.
+p81
+aVIn a clinic,
+p82
+aVin a far, remote area,
+p83
+aVI saw a centrifuge being used as a doorstop.
+p84
+aVI mean \u2014 quite literally, the doorstop.
+p85
+aVAnd I asked them and they said,
+p86
+aV"Oh, we don't actually have electricity,
+p87
+aVso this piece of junk is good as a doorstop."
+p88
+aVCentrifuges, for some of you who don't know,
+p89
+aVare the pinnacle tool to be able to do sample processing.
+p90
+aVYou separate components of blood or body fluids
+p91
+aVto be able to detect and identify pathogens.
+p92
+aVBut centrifuges are bulky, expensive \u2014
+p93
+aVcost around 1,000 dollars \u2014
+p94
+aVand really hard to carry out in the field.
+p95
+aVAnd of course,
+p96
+aVthey don't work without power.
+p97
+aVSound familiar?
+p98
+aVSo we started thinking about solving this problem,
+p99
+aVand I came back \u2014
+p100
+aVkept thinking about toys.
+p101
+aa(lp102
+VNow ...
+p103
+aVI have a few with me here.
+p104
+aVI first started with yo-yos ...
+p105
+aVand I'm a terrible yo-yo thrower.
+p106
+aVBecause these objects spin,
+p107
+aVwe wondered,
+p108
+aVcould we actually use the physics of these objects
+p109
+aVto be able to build centrifuges?
+p110
+aVThis was possibly the worst throw I could make.
+p111
+aVBut you might start realizing,
+p112
+aVif you start exploring the space of toys \u2014
+p113
+aVwe tried these spinning tops,
+p114
+aVand then in the lab,
+p115
+aVwe stumbled upon this wonder.
+p116
+aa(lp117
+VIt's the whirligig, or a buzzer, or a rundle.
+p118
+aVA couple of strings and a little disk,
+p119
+aVand if I push, it spins.
+p120
+aVHow many of you have played with this as a kid?
+p121
+aVThis is called a button-on-a-string.
+p122
+aVOK, maybe 50 percent of you.
+p123
+aVWhat you didn't realize \u2014
+p124
+aVthat this little object
+p125
+aVis the oldest toy in the history of mankind ...
+p126
+aV5,000 years ago.
+p127
+aVWe have found relics of this object hidden around on our planet.
+p128
+aVNow the irony is,
+p129
+aVwe actually don't understand how this little thing works.
+p130
+aVThat's when I get excited.
+p131
+aa(lp132
+VSo we got back to work,
+p133
+aVwrote down a couple of equations.
+p134
+aVIf you take the input torque that you put in,
+p135
+aVyou take the drag on this disc,
+p136
+aVand the twist drag on these strings,
+p137
+aVyou should be able to mathematically solve this.
+p138
+aVThis is not the only equation in my talk.
+p139
+aVTen pages of math later,
+p140
+aVwe could actually write down the complete analytical solution
+p141
+aVfor this dynamic system.
+p142
+aVAnd out comes what we call "Paperfuge."
+p143
+aVThat's my postdoc Saad Bhamla,
+p144
+aVwho's the co-inventor of Paperfuge.
+p145
+aVAnd to the left, you see all the centrifuges
+p146
+aVthat we're trying to replace.
+p147
+aa(lp148
+VThis little object that you see right here
+p149
+aVis a disc, a couple of strings and a handle.
+p150
+aVAnd when I spin
+p151
+aVand I push,
+p152
+aVit starts to spin.
+p153
+aVNow, when you realize,
+p154
+aVwhen you do the math,
+p155
+aVwhen we calculate the rpm for this object,
+p156
+aVmathematically, we should be able to go all the way to a million rpm.
+p157
+aVNow, there is a little twist in human anatomy,
+p158
+aVbecause the resonant frequency of this object is about 10 hertz,
+p159
+aVand if you've ever played the piano,
+p160
+aVyou can't go higher than two or three hertz.
+p161
+aVThe maximum speed we've been able to achieve with this object
+p162
+aVis not 10,000 rpm,
+p163
+aVnot 50,000 rpm \u2014
+p164
+aV120,000 rpm.
+p165
+aVThat's equal to 30,000 g-forces.
+p166
+aVIf I was to stick you right here and have it spin,
+p167
+aVyou would think about the types of forces you would experience.
+p168
+aa(lp169
+VOne of the factors of a tool like this
+p170
+aVis to be able to do diagnosis with this.
+p171
+aVSo, I'm going to do a quick demo here, where \u2014
+p172
+aVthis is a moment where I'm going to make a little finger prick,
+p173
+aVand a tiny drop of blood is going to come out.
+p174
+aVIf you don't like blood, you don't have to look at it.
+p175
+aVHere is a little lancet.
+p176
+aVThese lancets are available everywhere,
+p177
+aVcompletely passive.
+p178
+aVAnd if I've had breakfast today ...
+p179
+aVThat didn't hurt at all.
+p180
+aVOK, I take a little capillary with a drop of blood \u2014
+p181
+aVnow this drop of blood has answers,
+p182
+aVthat's why I'm interested in it.
+p183
+aVIt might actually tell me whether I have malaria right now or not.
+p184
+aVI take a little capillary,
+p185
+aVand you see it starts wicking in.
+p186
+aVI'm going to draw a little more blood.
+p187
+aVAnd that's good enough for right now.
+p188
+aVNow, I just seal this capillary by putting it in clay.
+p189
+aVAnd now that's sealed the sample.
+p190
+aa(lp191
+VWe're going to take the sample,
+p192
+aVmount it on Paperfuge.
+p193
+aVA little piece of tape to make a sealed cavity.
+p194
+aVSo now the sample is completely enclosed.
+p195
+aVAnd we are ready for a spin.
+p196
+aVI'm pushing and pulling with this object.
+p197
+aVI'm going to load this up ...
+p198
+aVAnd you see the object starts spinning.
+p199
+aVUnlike a regular centrifuge,
+p200
+aVthis is a counter-rotating centrifuge.
+p201
+aVIt goes back and forth, back and forth ...
+p202
+aVAnd now I'm charging it up,
+p203
+aVand you see it builds momentum.
+p204
+aVAnd now \u2014 I don't know if you can hear this \u2014
+p205
+aV30 seconds of this,
+p206
+aVand I should be able to separate all the blood cells with the plasma.
+p207
+aVAnd the ratio of those blood  cells to plasma \u2014
+p208
+aa(lp209
+V(Applause)
+p210
+aa(lp211
+VAlready, if you see right here,
+p212
+aVif you focus on this,
+p213
+aVyou should be able to see a separated volume
+p214
+aVof blood and plasma.
+p215
+aVAnd the ratio of that actually tells me whether I might be anemic.
+p216
+aa(lp217
+VOne of the aspects of this is, we build many types of Paperfuges.
+p218
+aVThis one allows us to identify malaria parasites
+p219
+aVby running them for a little longer,
+p220
+aVand we can identify malaria parasites that are in the blood
+p221
+aVthat we can separate out and detect with something like a centrifuge.
+p222
+aVAnother version of this allows me to separate nucleic acids
+p223
+aVto be able to do nucleic acid tests out in the field itself.
+p224
+aVHere is another version that allows me to separate bulk samples,
+p225
+aVand then, finally,
+p226
+aVsomething new that we've been working on
+p227
+aVto be able to implement the entire multiplex test on an object like this.
+p228
+aVSo where you do the sample preparation and the chemistry in the same object.
+p229
+aa(lp230
+VNow ...
+p231
+aVthis is all good,
+p232
+aVbut when you start thinking about this,
+p233
+aVyou have to share these tools with people.
+p234
+aVAnd one of the things we did is \u2014 we just got back from Madagascar;
+p235
+aVthis is what clinical trials for malaria look like \u2014
+p236
+aa(lp237
+V(Laughter)
+p238
+aa(lp239
+VYou can do this while having coffee.
+p240
+aVBut most importantly,
+p241
+aVthis is a village six hours from any road.
+p242
+aVWe are in a room with one of the senior members of the community
+p243
+aVand a health care worker.
+p244
+aVIt really is this portion of the work that excites me the most \u2014
+p245
+aVthat smile,
+p246
+aVto be able to share simple but powerful tools with people around the world.
+p247
+aVNow, I forgot to tell you this,
+p248
+aVthat all of that cost me 20 cents to make.
+p249
+aa(lp250
+VOK, in the negative time I have left,
+p251
+aVI'll tell you about the most recent \u2014
+p252
+aa(lp253
+V(Laughter)
+p254
+aa(lp255
+Vinvention from our lab.
+p256
+aVIt's called Abuzz \u2014
+p257
+aVthe idea that all of you could help us fight mosquitoes;
+p258
+aVyou could all help us track our enemies.
+p259
+aVThese are enemies because they cause malaria, Zika, chikungunya, dengue.
+p260
+aVBut the challenge is that we actually don't know where our enemies are.
+p261
+aVThe world map for where mosquitoes are is missing.
+p262
+aVSo we started thinking about this.
+p263
+aVThere are 3,500 species of mosquitoes,
+p264
+aVand they're all very similar.
+p265
+aVSome of them are so identical
+p266
+aVthat even an entomologist cannot identify them under a microscope.
+p267
+aa(lp268
+VBut they have an Achilles' heel.
+p269
+aVThis is what mosquitoes flirting with each other looks like.
+p270
+aVThat's a male chasing a female.
+p271
+aVThey're actually talking to each other with their wingbeat frequencies.
+p272
+aV(Buzzing sound)
+p273
+aVAnd thus, they have a signature.
+p274
+aVWe realized that using a regular phone,
+p275
+aVa $5-10 flip phone \u2014
+p276
+aVhow many remember what this object is?
+p277
+aa(lp278
+V(Laughter)
+p279
+aa(lp280
+VWe can record these acoustic signatures from mosquitoes.
+p281
+aVI'll tell you exactly how to do this.
+p282
+aa(lp283
+VI caught some mosquitoes outside.
+p284
+aVUnlike Bill [Gates], I'm not going to release them.
+p285
+aa(lp286
+V(Laughter)
+p287
+aa(lp288
+VBut I will tell you how to record from this.
+p289
+aVAll you do is tap them and they fly.
+p290
+aVYou can first test \u2014
+p291
+aVI can actually hear that.
+p292
+aVAnd you bring your phone, which has microphones \u2014
+p293
+aVit turns out the mics are so damn good already,
+p294
+aVeven on regular phones,
+p295
+aVthat you can pick up this near-field signature.
+p296
+aVAnd since I'm out of time,
+p297
+aVlet me just play the recording that I made a day ago.
+p298
+aa(lp299
+V(Mosquitoes buzz)
+p300
+aa(lp301
+VThis is all the charming sound that you heard before
+p302
+aVthat you all love.
+p303
+aVOne of the contexts of this
+p304
+aVis that being able to do this with a regular cell phone
+p305
+aVallows us to map mosquito species.
+p306
+aVUsing a flip phone,
+p307
+aVwe mapped one of the largest acoustic databases
+p308
+aVwith 25 to 20 species of mosquitoes that carry human pathogens.
+p309
+aVAnd from this and machine learning,
+p310
+aVanybody who uploads this data,
+p311
+aVwe can identify and tell the probability
+p312
+aVof what species of mosquitoes you're actually working with.
+p313
+aVWe call this Abuzz, and if any of you want to sign up,
+p314
+aVjust go to the website.
+p315
+aa(lp316
+VLet me close with something
+p317
+aVthat's very important and dear to my heart.
+p318
+aVOne of the challenges of today is we have terrible problems.
+p319
+aVWe have a billion people with absolutely no health care,
+p320
+aVclimate change, biodiversity loss,
+p321
+aVon and on and on.
+p322
+aVAnd we hope that science is going to provide the answer.
+p323
+aa(lp324
+VBut before you leave this theatre today,
+p325
+aVI want you to promise one thing.
+p326
+aVWe're going to make science accessible \u2014
+p327
+aVnot just to the people who can afford it,
+p328
+aVbut a billion others who can't.
+p329
+aVLet's make science and scientific literacy a human right.
+p330
+aVThe moment that you pass the tingling feeling of making a discovery
+p331
+aVto another child,
+p332
+aVyou're enabling them to be the next group of people
+p333
+aVwho will actually solve these problems.
+p334
+aa(lp335
+VThank you.
+p336
+aa(lp337
+V(Applause)
+p338
+aasS'id'
+p339
+I2812
+sS'title'
+p340
+VLifesaving scientific tools made of paper
+p341
+s.

@@ -1,0 +1,200 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm a huge believer in hands-on education.
+p4
+aVBut you have to have the right tools.
+p5
+aVIf I'm going to teach my daughter about electronics,
+p6
+aVI'm not going to give her a soldering iron.
+p7
+aVAnd similarly, she finds prototyping boards
+p8
+aVreally frustrating for her little hands.
+p9
+aVSo my wonderful student Sam and I
+p10
+aVdecided to look at the most tangible thing we could think of:
+p11
+aVPlay-Doh.
+p12
+aVAnd so we spent a summer
+p13
+aVlooking at different Play-Doh recipes.
+p14
+aVAnd these recipes probably look really familiar
+p15
+aVto any of you who have made homemade play-dough \u2014
+p16
+aVpretty standard ingredients you probably have in your kitchen.
+p17
+aVWe have two favorite recipes \u2014
+p18
+aVone that has these ingredients
+p19
+aVand a second that had sugar instead of salt.
+p20
+aVAnd they're great. We can make great little sculptures with these.
+p21
+aa(lp22
+VBut the really cool thing about them is when we put them together.
+p23
+aVYou see that really salty Play-Doh?
+p24
+aVWell, it conducts electricity.
+p25
+aVAnd this is nothing new.
+p26
+aVIt turns out that regular Play-Doh that you buy at the store conducts electricity,
+p27
+aVand high school physics teachers have used that for years.
+p28
+aVBut our homemade play-dough
+p29
+aVactually has half the resistance of commercial Play-Doh.
+p30
+aVAnd that sugar dough?
+p31
+aVWell it's 150 times more resistant to electric current
+p32
+aVthan that salt dough.
+p33
+aVSo what does that mean?
+p34
+aVWell it means if you them together you suddenly have circuits \u2014
+p35
+aVcircuits that the most creative, tiny, little hands
+p36
+aVcan build on their own.
+p37
+aa(lp38
+V(Applause)
+p39
+aa(lp40
+VAnd so I want to do a little demo for you.
+p41
+aVSo if I take this salt dough,
+p42
+aVagain, it's like the play-dough you probably made as kids,
+p43
+aVand I plug it in \u2014
+p44
+aVit's a two-lead battery pack, simple battery pack,
+p45
+aVyou can buy them at Radio Shack
+p46
+aVand pretty much anywhere else \u2014
+p47
+aVwe can actually then
+p48
+aVlight things up.
+p49
+aVBut if any of you have studied electrical engineering,
+p50
+aVwe can also create a short circuit.
+p51
+aVIf I push these together, the light turns off.
+p52
+aVRight, the current wants to run through the play-dough, not through that LED.
+p53
+aVIf I separate them again, I have some light.
+p54
+aVWell now if I take that sugar dough,
+p55
+aVthe sugar dough doesn't want to conduct electricity.
+p56
+aVIt's like a wall to the electricity.
+p57
+aVIf I place that between, now all the dough is touching,
+p58
+aVbut if I stick that light back in,
+p59
+aVI have light.
+p60
+aVIn fact, I could even add some movement to my sculptures.
+p61
+aVIf I want a spinning tail, let's grab a motor,
+p62
+aVput some play-dough on it, stick it on
+p63
+aVand we have spinning.
+p64
+aa(lp65
+V(Applause)
+p66
+aa(lp67
+VAnd once you have the basics,
+p68
+aVwe can make a slightly more complicated circuit.
+p69
+aVWe call this our sushi circuit. It's very popular with kids.
+p70
+aVI plug in again the power to it.
+p71
+aVAnd now I can start talking about parallel and series circuits.
+p72
+aVI can start plugging in lots of lights.
+p73
+aVAnd we can start talking about things like electrical load.
+p74
+aVWhat happens if I put in lots of lights
+p75
+aVand then add a motor?
+p76
+aVIt'll dim.
+p77
+aVWe can even add microprocessors
+p78
+aVand have this as an input
+p79
+aVand create squishy sound music that we've done.
+p80
+aVYou could do parallel and series circuits
+p81
+aVfor kids using this.
+p82
+aa(lp83
+VSo this is all in your home kitchen.
+p84
+aVWe've actually tried to turn it into an electrical engineering lab.
+p85
+aVWe have a website, it's all there. These are the home recipes.
+p86
+aVWe've got some videos. You can make them yourselves.
+p87
+aVAnd it's been really fun since we put them up to see where these have gone.
+p88
+aVWe've had a mom in Utah who used them with her kids,
+p89
+aVto a science researcher in the U.K.,
+p90
+aVand curriculum developers in Hawaii.
+p91
+aa(lp92
+VSo I would encourage you all to grab some Play-Doh,
+p93
+aVgrab some salt, grab some sugar and start playing.
+p94
+aVWe don't usually think of our kitchen as an electrical engineering lab
+p95
+aVor little kids as circuit designers,
+p96
+aVbut maybe we should.
+p97
+aa(lp98
+VHave fun. Thank you.
+p99
+aa(lp100
+V(Applause)
+p101
+aasS'id'
+p102
+I1111
+sS'title'
+p103
+VHands-on science with squishy circuits
+p104
+s.

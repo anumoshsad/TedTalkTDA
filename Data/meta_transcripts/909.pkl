@@ -1,0 +1,862 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThank you very much.
+p4
+aVPlease excuse me for sitting; I'm very old.
+p5
+aV(Laughter)
+p6
+aVWell, the topic I'm going to discuss
+p7
+aVis one which is, in a certain sense, very peculiar
+p8
+aVbecause it's very old.
+p9
+aVRoughness is part of human life
+p10
+aVforever and forever,
+p11
+aVand ancient authors have written about it.
+p12
+aVIt was very much uncontrollable,
+p13
+aVand in a certain sense,
+p14
+aVit seemed to be the extreme of complexity,
+p15
+aVjust a mess, a mess and a mess.
+p16
+aVThere are many different kinds of mess.
+p17
+aVNow, in fact,
+p18
+aVby a complete fluke,
+p19
+aVI got involved many years ago
+p20
+aVin a study of this form of complexity,
+p21
+aVand to my utter amazement,
+p22
+aVI found traces \u2014
+p23
+aVvery strong traces, I must say \u2014
+p24
+aVof order in that roughness.
+p25
+aVAnd so today, I would like to present to you
+p26
+aVa few examples
+p27
+aVof what this represents.
+p28
+aVI prefer the word roughness
+p29
+aVto the word irregularity
+p30
+aVbecause irregularity \u2014
+p31
+aVto someone who had Latin
+p32
+aVin my long-past youth \u2014
+p33
+aVmeans the contrary of regularity.
+p34
+aVBut it is not so.
+p35
+aVRegularity is the contrary of roughness
+p36
+aVbecause the basic aspect of the world
+p37
+aVis very rough.
+p38
+aa(lp39
+VSo let me show you a few objects.
+p40
+aVSome of them are artificial.
+p41
+aVOthers of them are very real, in a certain sense.
+p42
+aVNow this is the real. It's a cauliflower.
+p43
+aVNow why do I show a cauliflower,
+p44
+aVa very ordinary and ancient vegetable?
+p45
+aVBecause old and ancient as it may be,
+p46
+aVit's very complicated and it's very simple,
+p47
+aVboth at the same time.
+p48
+aVIf you try to weigh it \u2014 of course it's very easy to weigh it,
+p49
+aVand when you eat it, the weight matters \u2014
+p50
+aVbut suppose you try to
+p51
+aVmeasure its surface.
+p52
+aVWell, it's very interesting.
+p53
+aVIf you cut, with a sharp knife,
+p54
+aVone of the florets of a cauliflower
+p55
+aVand look at it separately,
+p56
+aVyou think of a whole cauliflower, but smaller.
+p57
+aVAnd then you cut again,
+p58
+aVagain, again, again, again, again, again, again, again,
+p59
+aVand you still get small cauliflowers.
+p60
+aVSo the experience of humanity
+p61
+aVhas always been that there are some shapes
+p62
+aVwhich have this peculiar property,
+p63
+aVthat each part is like the whole,
+p64
+aVbut smaller.
+p65
+aVNow, what did humanity do with that?
+p66
+aVVery, very little.
+p67
+aV(Laughter)
+p68
+aa(lp69
+VSo what I did actually is to
+p70
+aVstudy this problem,
+p71
+aVand I found something quite surprising.
+p72
+aVThat one can measure roughness
+p73
+aVby a number, a number,
+p74
+aV2.3, 1.2 and sometimes much more.
+p75
+aVOne day, a friend of mine,
+p76
+aVto bug me,
+p77
+aVbrought a picture and said,
+p78
+aV"What is the roughness of this curve?"
+p79
+aVI said, "Well, just short of 1.5."
+p80
+aVIt was 1.48.
+p81
+aVNow, it didn't take me any time.
+p82
+aVI've been looking at these things for so long.
+p83
+aVSo these numbers are the numbers
+p84
+aVwhich denote the roughness of these surfaces.
+p85
+aVI hasten to say that these surfaces
+p86
+aVare completely artificial.
+p87
+aVThey were done on a computer,
+p88
+aVand the only input is a number,
+p89
+aVand that number is roughness.
+p90
+aVSo on the left,
+p91
+aVI took the roughness copied from many landscapes.
+p92
+aVTo the right, I took a higher roughness.
+p93
+aVSo the eye, after a while,
+p94
+aVcan distinguish these two very well.
+p95
+aa(lp96
+VHumanity had to learn about measuring roughness.
+p97
+aVThis is very rough, and this is sort of smooth, and this perfectly smooth.
+p98
+aVVery few things are very smooth.
+p99
+aVSo then if you try to ask questions:
+p100
+aV"What's the surface of a cauliflower?"
+p101
+aVWell, you measure and measure and measure.
+p102
+aVEach time you're closer, it gets bigger,
+p103
+aVdown to very, very small distances.
+p104
+aVWhat's the length of the coastline
+p105
+aVof these lakes?
+p106
+aVThe closer you measure, the longer it is.
+p107
+aVThe concept of length of coastline,
+p108
+aVwhich seems to be so natural
+p109
+aVbecause it's given in many cases,
+p110
+aVis, in fact, complete fallacy; there's no such thing.
+p111
+aVYou must do it differently.
+p112
+aa(lp113
+VWhat good is that, to know these things?
+p114
+aVWell, surprisingly enough,
+p115
+aVit's good in many ways.
+p116
+aVTo begin with, artificial landscapes,
+p117
+aVwhich I invented sort of,
+p118
+aVare used in cinema all the time.
+p119
+aVWe see mountains in the distance.
+p120
+aVThey may be mountains, but they may be just formulae, just cranked on.
+p121
+aVNow it's very easy to do.
+p122
+aVIt used to be very time-consuming, but now it's nothing.
+p123
+aVNow look at that. That's a real lung.
+p124
+aVNow a lung is something very strange.
+p125
+aVIf you take this thing,
+p126
+aVyou know very well it weighs very little.
+p127
+aVThe volume of a lung is very small,
+p128
+aVbut what about the area of the lung?
+p129
+aVAnatomists were arguing very much about that.
+p130
+aVSome say that a normal male's lung
+p131
+aVhas an area of the inside
+p132
+aVof a basketball [court].
+p133
+aVAnd the others say, no, five basketball [courts].
+p134
+aVEnormous disagreements.
+p135
+aVWhy so? Because, in fact, the area of the lung
+p136
+aVis something very ill-defined.
+p137
+aVThe bronchi branch, branch, branch
+p138
+aVand they stop branching,
+p139
+aVnot because of any matter of principle,
+p140
+aVbut because of physical considerations:
+p141
+aVthe mucus, which is in the lung.
+p142
+aVSo what happens is that in a way
+p143
+aVyou have a much bigger lung,
+p144
+aVbut it branches and branches
+p145
+aVdown to distances about the same for a whale, for a man
+p146
+aVand for a little rodent.
+p147
+aa(lp148
+VNow, what good is it to have that?
+p149
+aVWell, surprisingly enough, amazingly enough,
+p150
+aVthe anatomists had a very poor idea
+p151
+aVof the structure of the lung until very recently.
+p152
+aVAnd I think that my mathematics,
+p153
+aVsurprisingly enough,
+p154
+aVhas been of great help
+p155
+aVto the surgeons
+p156
+aVstudying lung illnesses
+p157
+aVand also kidney illnesses,
+p158
+aVall these branching systems,
+p159
+aVfor which there was no geometry.
+p160
+aVSo I found myself, in other words,
+p161
+aVconstructing a geometry,
+p162
+aVa geometry of things which had no geometry.
+p163
+aVAnd a surprising aspect of it
+p164
+aVis that very often, the rules of this geometry
+p165
+aVare extremely short.
+p166
+aVYou have formulas that long.
+p167
+aVAnd you crank it several times.
+p168
+aVSometimes repeatedly: again, again, again,
+p169
+aVthe same repetition.
+p170
+aVAnd at the end, you get things like that.
+p171
+aa(lp172
+VThis cloud is completely,
+p173
+aV100 percent artificial.
+p174
+aVWell, 99.9.
+p175
+aVAnd the only part which is natural
+p176
+aVis a number, the roughness of the cloud,
+p177
+aVwhich is taken from nature.
+p178
+aVSomething so complicated like a cloud,
+p179
+aVso unstable, so varying,
+p180
+aVshould have a simple rule behind it.
+p181
+aVNow this simple rule
+p182
+aVis not an explanation of clouds.
+p183
+aVThe seer of clouds had to
+p184
+aVtake account of it.
+p185
+aVI don't know how much advanced
+p186
+aVthese pictures are. They're old.
+p187
+aVI was very much involved in it,
+p188
+aVbut then turned my attention to other phenomena.
+p189
+aa(lp190
+VNow, here is another thing
+p191
+aVwhich is rather interesting.
+p192
+aVOne of the shattering events
+p193
+aVin the history of mathematics,
+p194
+aVwhich is not appreciated by many people,
+p195
+aVoccurred about 130 years ago,
+p196
+aV145 years ago.
+p197
+aVMathematicians began to create
+p198
+aVshapes that didn't exist.
+p199
+aVMathematicians got into self-praise
+p200
+aVto an extent which was absolutely amazing,
+p201
+aVthat man can invent things
+p202
+aVthat nature did not know.
+p203
+aVIn particular, it could invent
+p204
+aVthings like a curve which fills the plane.
+p205
+aVA curve's a curve, a plane's a plane,
+p206
+aVand the two won't mix.
+p207
+aVWell, they do mix.
+p208
+aVA man named Peano
+p209
+aVdid define such curves,
+p210
+aVand it became an object of extraordinary interest.
+p211
+aVIt was very important, but mostly interesting
+p212
+aVbecause a kind of break,
+p213
+aVa separation between
+p214
+aVthe mathematics coming from reality, on the one hand,
+p215
+aVand new mathematics coming from pure man's mind.
+p216
+aVWell, I was very sorry to point out
+p217
+aVthat the pure man's mind
+p218
+aVhas, in fact,
+p219
+aVseen at long last
+p220
+aVwhat had been seen for a long time.
+p221
+aVAnd so here I introduce something,
+p222
+aVthe set of rivers of a plane-filling curve.
+p223
+aVAnd well,
+p224
+aVit's a story unto itself.
+p225
+aVSo it was in 1875 to 1925,
+p226
+aVan extraordinary period
+p227
+aVin which mathematics prepared itself to break out from the world.
+p228
+aVAnd the objects which were used
+p229
+aVas examples, when I was
+p230
+aVa child and a student, as examples
+p231
+aVof the break between mathematics
+p232
+aVand visible reality \u2014
+p233
+aVthose objects,
+p234
+aVI turned them completely around.
+p235
+aVI used them for describing
+p236
+aVsome of the aspects of the complexity of nature.
+p237
+aa(lp238
+VWell, a man named Hausdorff in 1919
+p239
+aVintroduced a number which was just a mathematical joke,
+p240
+aVand I found that this number
+p241
+aVwas a good measurement of roughness.
+p242
+aVWhen I first told it to my friends in mathematics
+p243
+aVthey said, "Don't be silly. It's just something [silly]."
+p244
+aVWell actually, I was not silly.
+p245
+aVThe great painter Hokusai knew it very well.
+p246
+aVThe things on the ground are algae.
+p247
+aVHe did not know the mathematics; it didn't yet exist.
+p248
+aVAnd he was Japanese who had no contact with the West.
+p249
+aVBut painting for a long time had a fractal side.
+p250
+aVI could speak of that for a long time.
+p251
+aVThe Eiffel Tower has a fractal aspect.
+p252
+aVI read the book that Mr. Eiffel wrote about his tower,
+p253
+aVand indeed it was astonishing how much he understood.
+p254
+aa(lp255
+VThis is a mess, mess, mess, Brownian loop.
+p256
+aVOne day I decided \u2014
+p257
+aVhalfway through my career,
+p258
+aVI was held by so many things in my work \u2014
+p259
+aVI decided to test myself.
+p260
+aVCould I just look at something
+p261
+aVwhich everybody had been looking at for a long time
+p262
+aVand find something dramatically new?
+p263
+aVWell, so I looked at these
+p264
+aVthings called Brownian motion \u2014 just goes around.
+p265
+aVI played with it for a while,
+p266
+aVand I made it return to the origin.
+p267
+aVThen I was telling my assistant,
+p268
+aV"I don't see anything. Can you paint it?"
+p269
+aVSo he painted it, which means
+p270
+aVhe put inside everything. He said:
+p271
+aV"Well, this thing came out ..." And I said, "Stop! Stop! Stop!
+p272
+aVI see; it's an island."
+p273
+aVAnd amazing.
+p274
+aVSo Brownian motion, which happens to have
+p275
+aVa roughness number of two, goes around.
+p276
+aVI measured it, 1.33.
+p277
+aVAgain, again, again.
+p278
+aVLong measurements, big Brownian motions,
+p279
+aV1.33.
+p280
+aVMathematical problem: how to prove it?
+p281
+aVIt took my friends 20 years.
+p282
+aVThree of them were having incomplete proofs.
+p283
+aVThey got together, and together they had the proof.
+p284
+aVSo they got the big [Fields] medal in mathematics,
+p285
+aVone of the three medals that people have received
+p286
+aVfor proving things which I've seen
+p287
+aVwithout being able to prove them.
+p288
+aa(lp289
+VNow everybody asks me at one point or another,
+p290
+aV"How did it all start?
+p291
+aVWhat got you in that strange business?"
+p292
+aVWhat got you to be,
+p293
+aVat the same time, a mechanical engineer,
+p294
+aVa geographer
+p295
+aVand a mathematician and so on, a physicist?
+p296
+aVWell actually I started, oddly enough,
+p297
+aVstudying stock market prices.
+p298
+aVAnd so here
+p299
+aVI had this theory,
+p300
+aVand I wrote books about it \u2014
+p301
+aVfinancial prices increments.
+p302
+aVTo the left you see data over a long period.
+p303
+aVTo the right, on top,
+p304
+aVyou see a theory which is very, very fashionable.
+p305
+aVIt was very easy, and you can write many books very fast about it.
+p306
+aV(Laughter)
+p307
+aVThere are thousands of books on that.
+p308
+aVNow compare that with real price increments.
+p309
+aVWhere are real price increments?
+p310
+aVWell, these other lines
+p311
+aVinclude some real price increments
+p312
+aVand some forgery which I did.
+p313
+aVSo the idea there was
+p314
+aVthat one must be able to \u2014 how do you say? \u2014
+p315
+aVmodel price variation.
+p316
+aVAnd it went really well 50 years ago.
+p317
+aVFor 50 years, people were sort of pooh-poohing me
+p318
+aVbecause they could do it much, much easier.
+p319
+aVBut I tell you, at this point, people listened to me.
+p320
+aV(Laughter)
+p321
+aVThese two curves are averages:
+p322
+aVStandard & Poor, the blue one;
+p323
+aVand the red one is Standard & Poor's
+p324
+aVfrom which the five biggest discontinuities
+p325
+aVare taken out.
+p326
+aVNow discontinuities are a nuisance,
+p327
+aVso in many studies of prices,
+p328
+aVone puts them aside.
+p329
+aV"Well, acts of God.
+p330
+aVAnd you have the little nonsense which is left.
+p331
+aVActs of God." In this picture,
+p332
+aVfive acts of God are as important as everything else.
+p333
+aVIn other words,
+p334
+aVit is not acts of God that we should put aside.
+p335
+aVThat is the meat, the problem.
+p336
+aVIf you master these, you master price,
+p337
+aVand if you don't master these, you can master
+p338
+aVthe little noise as well as you can,
+p339
+aVbut it's not important.
+p340
+aVWell, here are the curves for it.
+p341
+aa(lp342
+VNow, I get to the final thing, which is the set
+p343
+aVof which my name is attached.
+p344
+aVIn a way, it's the story of my life.
+p345
+aVMy adolescence was spent
+p346
+aVduring the German occupation of France.
+p347
+aVSince I thought that I might
+p348
+aVvanish within a day or a week,
+p349
+aVI had very big dreams.
+p350
+aVAnd after the war,
+p351
+aVI saw an uncle again.
+p352
+aVMy uncle was a very prominent mathematician, and he told me,
+p353
+aV"Look, there's a problem
+p354
+aVwhich I could not solve 25 years ago,
+p355
+aVand which nobody can solve.
+p356
+aVThis is a construction of a man named [Gaston] Julia
+p357
+aVand [Pierre] Fatou.
+p358
+aVIf you could
+p359
+aVfind something new, anything,
+p360
+aVyou will get your career made."
+p361
+aVVery simple.
+p362
+aVSo I looked,
+p363
+aVand like the thousands of people that had tried before,
+p364
+aVI found nothing.
+p365
+aa(lp366
+VBut then the computer came,
+p367
+aVand I decided to apply the computer,
+p368
+aVnot to new problems in mathematics \u2014
+p369
+aVlike this wiggle wiggle, that's a new problem \u2014
+p370
+aVbut to old problems.
+p371
+aVAnd I went from what's called
+p372
+aVreal numbers, which are points on a line,
+p373
+aVto imaginary, complex numbers,
+p374
+aVwhich are points on a plane,
+p375
+aVwhich is what one should do there,
+p376
+aVand this shape came out.
+p377
+aVThis shape is of an extraordinary complication.
+p378
+aVThe equation is hidden there,
+p379
+aVz goes into z squared, plus c.
+p380
+aVIt's so simple, so dry.
+p381
+aVIt's so uninteresting.
+p382
+aVNow you turn the crank once, twice:
+p383
+aVtwice,
+p384
+aVmarvels come out.
+p385
+aVI mean this comes out.
+p386
+aVI don't want to explain these things.
+p387
+aVThis comes out. This comes out.
+p388
+aVShapes which are of such complication,
+p389
+aVsuch harmony and such beauty.
+p390
+aVThis comes out
+p391
+aVrepeatedly, again, again, again.
+p392
+aVAnd that was one of my major discoveries,
+p393
+aVto find that these islands were the same
+p394
+aVas the whole big thing, more or less.
+p395
+aVAnd then you get these
+p396
+aVextraordinary baroque decorations all over the place.
+p397
+aVAll that from this little formula,
+p398
+aVwhich has whatever, five symbols in it.
+p399
+aVAnd then this one.
+p400
+aVThe color was added for two reasons.
+p401
+aVFirst of all, because these shapes
+p402
+aVare so complicated
+p403
+aVthat one couldn't make any sense of the numbers.
+p404
+aVAnd if you plot them, you must choose some system.
+p405
+aVAnd so my principle has been
+p406
+aVto always present the shapes
+p407
+aVwith different colorings
+p408
+aVbecause some colorings emphasize that,
+p409
+aVand others it is that or that.
+p410
+aVIt's so complicated.
+p411
+aa(lp412
+V(Laughter)
+p413
+aa(lp414
+VIn 1990, I was in Cambridge, U.K.
+p415
+aVto receive a prize from the university,
+p416
+aVand three days later,
+p417
+aVa pilot was flying over the landscape and found this thing.
+p418
+aVSo where did this come from?
+p419
+aVObviously, from extraterrestrials.
+p420
+aV(Laughter)
+p421
+aVWell, so the newspaper in Cambridge
+p422
+aVpublished an article about that "discovery"
+p423
+aVand received the next day
+p424
+aV5,000 letters from people saying,
+p425
+aV"But that's simply a Mandelbrot set very big."
+p426
+aa(lp427
+VWell, let me finish.
+p428
+aVThis shape here just came
+p429
+aVout of an exercise in pure mathematics.
+p430
+aVBottomless wonders spring from simple rules,
+p431
+aVwhich are repeated without end.
+p432
+aa(lp433
+VThank you very much.
+p434
+aa(lp435
+V(Applause)
+p436
+aasS'id'
+p437
+I909
+sS'title'
+p438
+VFractals and the art of roughness
+p439
+s.

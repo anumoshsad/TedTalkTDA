@@ -1,0 +1,352 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VHow much do you get paid?
+p4
+aVDon't answer that out loud.
+p5
+aVBut put a number in your head.
+p6
+aVNow: How much do you think the person sitting next to you gets paid?
+p7
+aVAgain, don't answer out loud.
+p8
+aa(lp9
+V(Laughter)
+p10
+aa(lp11
+VAt work, how much do you think
+p12
+aVthe person sitting in the cubicle or the desk next to you gets paid?
+p13
+aVDo you know?
+p14
+aVShould you know?
+p15
+aa(lp16
+VNotice, it's a little uncomfortable for me to even ask you those questions.
+p17
+aVBut admit it \u2014 you kind of want to know.
+p18
+aVMost of us are uncomfortable with the idea of broadcasting our salary.
+p19
+aVWe're not supposed to tell our neighbors,
+p20
+aVand we're definitely not supposed to tell our office neighbors.
+p21
+aVThe assumed reason is that if everybody knew what everybody got paid,
+p22
+aVthen all hell would break loose.
+p23
+aVThere'd be arguments, there'd be fights,
+p24
+aVthere might even be a few people who quit.
+p25
+aVBut what if secrecy is actually the reason for all that strife?
+p26
+aVAnd what would happen if we removed that secrecy?
+p27
+aVWhat if openness actually increased the sense of fairness and collaboration
+p28
+aVinside a company?
+p29
+aVWhat would happen if we had total pay transparency?
+p30
+aa(lp31
+VFor the past several years,
+p32
+aVI've been studying the corporate and entrepreneurial leaders
+p33
+aVwho question the conventional wisdom about how to run a company.
+p34
+aVAnd the question of pay keeps coming up.
+p35
+aVAnd the answers keep surprising.
+p36
+aa(lp37
+VIt turns out that pay transparency \u2014
+p38
+aVsharing salaries openly across a company \u2014
+p39
+aVmakes for a better workplace for both the employee
+p40
+aVand for the organization.
+p41
+aVWhen people don't know how their pay compares to their peers',
+p42
+aVthey're more likely to feel underpaid
+p43
+aVand maybe even discriminated against.
+p44
+aVDo you want to work at a place that tolerates the idea
+p45
+aVthat you feel underpaid or discriminated against?
+p46
+aVBut keeping salaries secret does exactly that,
+p47
+aVand it's a practice as old as it is common,
+p48
+aVdespite the fact that in the United States,
+p49
+aVthe law protects an employee's right to discuss their pay.
+p50
+aa(lp51
+VIn one famous example from decades ago,
+p52
+aVthe management of Vanity Fair magazine
+p53
+aVactually circulated a memo entitled:
+p54
+aV"Forbidding Discussion Among Employees of Salary Received."
+p55
+aV"Forbidding" discussion among employees of salary received.
+p56
+aVNow that memo didn't sit well with everybody.
+p57
+aVNew York literary figures Dorothy Parker,
+p58
+aVRobert Benchley and Robert Sherwood,
+p59
+aVall writers in the Algonquin Round Table,
+p60
+aVdecided to stand up for transparency
+p61
+aVand showed up for work the next day
+p62
+aVwith their salary written on signs hanging from their neck.
+p63
+aa(lp64
+V(Laughter)
+p65
+aa(lp66
+VImagine showing up for work
+p67
+aVwith your salary just written across your chest for all to see.
+p68
+aa(lp69
+VBut why would a company even want to discourage salary discussions?
+p70
+aVWhy do some people go along with it, while others revolt against it?
+p71
+aVIt turns out that in addition to the assumed reasons,
+p72
+aVpay secrecy is actually a way to save a lot of money.
+p73
+aVYou see, keeping salaries secret
+p74
+aVleads to what economists call "information asymmetry."
+p75
+aVThis is a situation where, in a negotiation,
+p76
+aVone party has loads more information than the other.
+p77
+aVAnd in hiring or promotion or annual raise discussions,
+p78
+aVan employer can use that secrecy to save a lot of money.
+p79
+aVImagine how much better you could negotiate for a raise
+p80
+aVif you knew everybody's salary.
+p81
+aa(lp82
+VEconomists warn that information asymmetry
+p83
+aVcan cause markets to go awry.
+p84
+aVSomeone leaves a pay stub on the copier,
+p85
+aVand suddenly everybody is shouting at each other.
+p86
+aVIn fact, they even warn
+p87
+aVthat information asymmetry can lead to a total market failure.
+p88
+aVAnd I think we're almost there.
+p89
+aVHere's why:
+p90
+aVfirst, most employees have no idea how their pay compares to their peers'.
+p91
+aVIn a 2015 survey of 70,000 employees,
+p92
+aVtwo-thirds of everyone who is paid at the market rate
+p93
+aVsaid that they felt they were underpaid.
+p94
+aVAnd of everybody who felt that they were underpaid,
+p95
+aV60 percent said that they intended to quit,
+p96
+aVregardless of where they were \u2014 underpaid, overpaid
+p97
+aVor right at the market rate.
+p98
+aVIf you were part of this survey, what would you say?
+p99
+aVAre you underpaid?
+p100
+aVWell, wait \u2014 how do you even know,
+p101
+aVbecause you're not allowed to talk about it?
+p102
+aa(lp103
+VNext, information asymmetry, pay secrecy,
+p104
+aVmakes it easier to ignore the discrimination
+p105
+aVthat's already present in the market today.
+p106
+aVIn a 2011 report from the Institute for Women's Policy Research,
+p107
+aVthe gender wage gap between men and women
+p108
+aVwas 23 percent.
+p109
+aVThis is where that 77 cents on the dollar comes from.
+p110
+aVBut in the Federal Government,
+p111
+aVwhere salaries are pinned to certain levels
+p112
+aVand everybody knows what those levels are,
+p113
+aVthe gender wage gap shrinks to 11 percent \u2014
+p114
+aVand this is before controlling for any of the factors
+p115
+aVthat economists argue over whether or not to control for.
+p116
+aa(lp117
+VIf we really want to close the gender wage gap,
+p118
+aVmaybe we should start by opening up the payroll.
+p119
+aVIf this is what total market failure looks like,
+p120
+aVthen openness remains the only way to ensure fairness.
+p121
+aa(lp122
+VNow, I realize that letting people know what you make
+p123
+aVmight feel uncomfortable,
+p124
+aVbut isn't it less uncomfortable
+p125
+aVthan always wondering if you're being discriminated against,
+p126
+aVor if your wife or your daughter or your sister is being paid unfairly?
+p127
+aVOpenness remains the best way to ensure fairness,
+p128
+aVand pay transparency does that.
+p129
+aa(lp130
+VThat's why entrepreneurial leaders and corporate leaders
+p131
+aVhave been experimenting with sharing salaries for years.
+p132
+aVLike Dane Atkinson.
+p133
+aVDane is a serial entrepreneur who started many companies
+p134
+aVin a pay secrecy condition
+p135
+aVand even used that condition to pay two equally qualified people
+p136
+aVdramatically different salaries,
+p137
+aVdepending on how well they could negotiate.
+p138
+aVAnd Dane saw the strife that happened as a result of this.
+p139
+aVSo when he started his newest company, SumAll,
+p140
+aVhe committed to salary transparency from the beginning.
+p141
+aVAnd the results have been amazing.
+p142
+aVAnd in study after study,
+p143
+aVwhen people know how they're being paid
+p144
+aVand how that pay compares to their peers',
+p145
+aVthey're more likely to work hard to improve their performance,
+p146
+aVmore likely to be engaged, and they're less likely to quit.
+p147
+aa(lp148
+VThat's why Dane's not alone.
+p149
+aVFrom technology start-ups like Buffer,
+p150
+aVto the tens of thousands of employees at Whole Foods,
+p151
+aVwhere not only is your salary available for everyone to see,
+p152
+aVbut the performance data for the store and for your department
+p153
+aVis available on the company intranet
+p154
+aVfor all to see.
+p155
+aa(lp156
+VNow, pay transparency takes a lot of forms.
+p157
+aVIt's not one size fits all.
+p158
+aVSome post their salaries for all to see.
+p159
+aVSome only keep it inside the company.
+p160
+aVSome post the formula for calculating pay,
+p161
+aVand others post the pay levels
+p162
+aVand affix everybody to that level.
+p163
+aVSo you don't have to make signs
+p164
+aVfor all of your employees to wear around the office.
+p165
+aVAnd you don't have to be the only one wearing a sign
+p166
+aVthat you made at home.
+p167
+aVBut we can all take greater steps towards pay transparency.
+p168
+aVFor those of you that have the authority
+p169
+aVto move forward towards transparency:
+p170
+aVit's time to move forward.
+p171
+aVAnd for those of you that don't have that authority:
+p172
+aVit's time to stand up for your right to.
+p173
+aa(lp174
+VSo how much do you get paid?
+p175
+aVAnd how does that compare to the people you work with?
+p176
+aVYou should know.
+p177
+aVAnd so should they.
+p178
+aa(lp179
+VThank you.
+p180
+aa(lp181
+V(Applause)
+p182
+aasS'id'
+p183
+I2585
+sS'title'
+p184
+VWhy you should know how much your coworkers get paid
+p185
+s.

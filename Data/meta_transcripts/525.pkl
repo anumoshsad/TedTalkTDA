@@ -1,0 +1,621 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThe first half of the 20th century
+p4
+aVwas an absolute disaster in human affairs,
+p5
+aVa cataclysm.
+p6
+aVWe had the First World War,
+p7
+aVthe Great Depression,
+p8
+aVthe Second World War
+p9
+aVand the rise of the communist nations.
+p10
+aVAnd each one of these forces
+p11
+aVsplit the world, tore the world apart,
+p12
+aVdivided the world.
+p13
+aVAnd they threw up walls \u2014
+p14
+aVpolitical walls, trade walls,
+p15
+aVtransportation walls,
+p16
+aVcommunication walls, iron curtains \u2014
+p17
+aVwhich divided peoples and nations.
+p18
+aa(lp19
+VIt was only in the second half of the 20th century
+p20
+aVthat we slowly began to pull ourselves
+p21
+aVout of this abyss.
+p22
+aVTrade walls began to come tumbling down.
+p23
+aVHere are some data on tariffs:
+p24
+aVstarting at 40 percent, coming down to less than 5 percent.
+p25
+aVWe globalized the world. And what does that mean?
+p26
+aVIt means that we extended cooperation
+p27
+aVacross national boundaries;
+p28
+aVwe made the world more cooperative.
+p29
+aVTransportation walls came tumbling down.
+p30
+aVYou know in 1950 the typical ship carried
+p31
+aV5,000 to 10,000 tons worth of goods.
+p32
+aVToday a container ship can carry 150,000 tons;
+p33
+aVit can be manned with a smaller crew;
+p34
+aVand unloaded faster than ever before.
+p35
+aVCommunication walls, I don't have to tell you \u2014 the Internet \u2014
+p36
+aVhave come tumbling down.
+p37
+aVAnd of course the iron curtains,
+p38
+aVpolitical walls have come tumbling down.
+p39
+aa(lp40
+VNow all of this has been tremendous for the world.
+p41
+aVTrade has increased.
+p42
+aVHere is just a little bit of data.
+p43
+aVIn 1990, exports from China to the United States:
+p44
+aV15 billion dollars.
+p45
+aVBy 2007: over 300 billion dollars.
+p46
+aVAnd perhaps most remarkably,
+p47
+aVat the beginning of the 21st century,
+p48
+aVreally for the first time in modern history,
+p49
+aVgrowth extended to almost all parts of the world.
+p50
+aVSo China, I've already mentioned,
+p51
+aVbeginning around 1978, around the time of the death of Mao,
+p52
+aVgrowth \u2014 ten percent a year.
+p53
+aVYear after year after year,
+p54
+aVabsolutely incredible.
+p55
+aVNever before in human history
+p56
+aVhave so many people been raised out of
+p57
+aVsuch great poverty as happened in China.
+p58
+aVChina is the world's greatest anti-poverty program
+p59
+aVover the last three decades.
+p60
+aVIndia, starting a little bit later,
+p61
+aVbut in 1990, begetting tremendous growth.
+p62
+aVIncomes at that time
+p63
+aVless than $1,000 per year.
+p64
+aVAnd over the next 18 years
+p65
+aVhave almost tripled.
+p66
+aVGrowth of six percent a year. Absolutely incredible.
+p67
+aVNow Africa, Sub-Saharan Africa \u2014
+p68
+aVSub-Saharan Africa
+p69
+aVhas been the area of the world
+p70
+aVmost resistant to growth.
+p71
+aVAnd we can see the tragedy of Africa
+p72
+aVin the first few bars here.
+p73
+aVGrowth was negative.
+p74
+aVPeople were actually getting poorer than their parents,
+p75
+aVand sometimes even poorer than their grandparents had been.
+p76
+aVBut at the end of the 20th century,
+p77
+aVthe beginning of the 21st century,
+p78
+aVwe saw growth in Africa.
+p79
+aVAnd I think, as you'll see, there's reasons for optimism,
+p80
+aVbecause I believe that the best is yet to come.
+p81
+aVNow why.
+p82
+aa(lp83
+VOn the cutting edge today
+p84
+aVit's new ideas which are driving growth.
+p85
+aVAnd by that I mean it's
+p86
+aVproducts for which the research and development costs
+p87
+aVare really high, and the manufacturing costs are low.
+p88
+aVMore than ever before it is these types of ideas
+p89
+aVwhich are driving growth on the cutting edge.
+p90
+aVNow ideas have this amazing property.
+p91
+aVThomas Jefferson, I think, really expressed this quite well.
+p92
+aVHe said, "He who receives an idea from me
+p93
+aVreceives instruction himself, without lessening mine.
+p94
+aVAs he who lights his candle at mine
+p95
+aVreceives light without darkening me."
+p96
+aVOr to put it slightly differently:
+p97
+aVone apple feeds one man,
+p98
+aVbut an idea can feed the world.
+p99
+aVNow this is not new. This is practically not new to TEDsters.
+p100
+aVThis is practically the model of TED.
+p101
+aVBut what is new is that the greater function of ideas
+p102
+aVis going to drive growth even more than ever before.
+p103
+aVThis provides a reason why
+p104
+aVtrade and globalization
+p105
+aVare even more important, more powerful than ever before,
+p106
+aVand are going to increase growth more than ever before.
+p107
+aa(lp108
+VAnd to explain why this is so, I have a question.
+p109
+aVSuppose that there are two diseases:
+p110
+aVone of them is rare, the other one is common,
+p111
+aVbut if they are not treated they are equally severe.
+p112
+aVIf you had to choose, which would you rather have:
+p113
+aVthe common disease or the rare disease?
+p114
+aVCommon, the common \u2014 I think that's absolutely right,
+p115
+aVand why? Because there are more drugs to treat common diseases
+p116
+aVthan there are to treat rare diseases.
+p117
+aVThe reason for this is incentives.
+p118
+aVIt costs about the same to produce a new drug
+p119
+aVwhether that drug treats 1,000 people,
+p120
+aV100,000 people, or a million people.
+p121
+aVBut the revenues are much greater if the drug treats a million people.
+p122
+aVSo the incentives are much larger
+p123
+aVto produce drugs which treat more people.
+p124
+aVTo put this differently: larger markets save lives.
+p125
+aVIn this case misery truly does love company.
+p126
+aa(lp127
+VNow think about the following:
+p128
+aVif China and India were as rich as the United States is today,
+p129
+aVthe market for cancer drugs would be eight times larger than it is now.
+p130
+aVNow we are not there yet, but it is happening.
+p131
+aVAs other countries become richer
+p132
+aVthe demand for these pharmaceuticals
+p133
+aVis going to increase tremendously.
+p134
+aVAnd that means an increase incentive to do research and development,
+p135
+aVwhich benefits everyone in the world.
+p136
+aVLarger markets increase the incentive
+p137
+aVto produce all kinds of ideas,
+p138
+aVwhether it's software, whether it's a computer chip,
+p139
+aVwhether it's a new design.
+p140
+aVFor the Hollywood people in the audience,
+p141
+aVthis even explains why action movies
+p142
+aVhave larger budgets than comedies:
+p143
+aVit's because action movies translate easier
+p144
+aVinto other languages and other cultures,
+p145
+aVso the market for those movies is larger.
+p146
+aVPeople are willing to invest more,
+p147
+aVand the budgets are larger.
+p148
+aa(lp149
+VAlright. Well if larger markets increase the incentive
+p150
+aVto produce new ideas,
+p151
+aVhow do we maximize that incentive?
+p152
+aVIt's by having one world market, by globalizing the world.
+p153
+aVThe way I like to put this is:
+p154
+aVone idea. Ideas are meant to be shared,
+p155
+aVso one idea can serve one world, one market.
+p156
+aVOne idea, one world, one market.
+p157
+aVWell how else can we create new ideas?
+p158
+aVThat's one reason.
+p159
+aVGlobalize trade.
+p160
+aVHow else can we create new ideas?
+p161
+aVWell, more idea creators.
+p162
+aVNow idea creators, they come from all walks of life.
+p163
+aVArtists and innovators \u2014 many of the people you've seen on this stage.
+p164
+aVI'm going to focus on scientists and engineers
+p165
+aVbecause I have some data on that, and I'm a data person.
+p166
+aa(lp167
+VNow, today, less than one-tenth of one percent
+p168
+aVof the world's population are scientists and engineers.
+p169
+aV(Laughter)
+p170
+aVThe United States has been an idea leader.
+p171
+aVA large fraction of those people are in the United States.
+p172
+aVBut the U.S. is losing its idea leadership.
+p173
+aVAnd for that I am very grateful.
+p174
+aVThat is a good thing.
+p175
+aVIt is fortunate that we are becoming less of an idea leader
+p176
+aVbecause for too long the United States,
+p177
+aVand a handful of other developed countries,
+p178
+aVhave shouldered the entire burden
+p179
+aVof research and development.
+p180
+aVBut consider the following:
+p181
+aVif the world as a whole were as wealthy as the United States is now
+p182
+aVthere would be more than five times as many scientists and engineers
+p183
+aVcontributing to ideas which benefit everyone,
+p184
+aVwhich are shared by everyone.
+p185
+aVI think of the great Indian mathematician, Ramanujan.
+p186
+aVHow many Ramanujans are there in India today
+p187
+aVtoiling in the fields, barely able to feed themselves,
+p188
+aVwhen they could be feeding the world?
+p189
+aVNow we're not there yet.
+p190
+aVBut it is going to happen in this century.
+p191
+aVThe real tragedy of the last century is this:
+p192
+aVif you think about the world's population
+p193
+aVas a giant computer, a massively parallel processor,
+p194
+aVthen the great tragedy has been
+p195
+aVthat billions of our processors have been off line.
+p196
+aVBut in this century China is coming on line.
+p197
+aVIndia is coming on line.
+p198
+aVAfrica is coming on line.
+p199
+aVWe will see an Einstein in Africa in this century.
+p200
+aa(lp201
+VHere is just some data. This is China.
+p202
+aV1996: less than one million
+p203
+aVnew university students in China per year;
+p204
+aV2006: over five million.
+p205
+aVNow think what this means.
+p206
+aVThis means we all benefit when another country gets rich.
+p207
+aVWe should not fear other countries becoming wealthy.
+p208
+aVThat is something that we should embrace \u2014
+p209
+aVa wealthy China, a wealthy India, a wealthy Africa.
+p210
+aVWe need a greater demand for ideas \u2014
+p211
+aVthose larger markets I was talking about earlier \u2014
+p212
+aVand a greater supply of ideas for the world.
+p213
+aVNow you can see some of the reasons why I'm optimistic.
+p214
+aVGlobalization is increasing the demand
+p215
+aVfor ideas, the incentive to create new ideas.
+p216
+aVInvestments in education are increasing the supply of new ideas.
+p217
+aa(lp218
+VIn fact if you look at world history
+p219
+aVyou can see some reasons for optimism.
+p220
+aVFrom about the beginnings of humanity
+p221
+aVto 1500: zero economic growth, nothing.
+p222
+aV1500 to 1800: maybe a little bit of economic growth,
+p223
+aVbut less in a century
+p224
+aVthan you expect to see in a year today.
+p225
+aV1900s: maybe one percent.
+p226
+aVTwentieth century: a little bit over two percent.
+p227
+aVTwenty-first century could easily be 3.3, even higher percent.
+p228
+aVEven at that rate,
+p229
+aVby 2100 average GDP per capita
+p230
+aVin the world will be $200,000.
+p231
+aVThat's not U.S. GDP per capita, which will be over a million,
+p232
+aVbut world GDP per capita \u2014 $200,000.
+p233
+aVThat's not that far.
+p234
+aVWe won't make it.
+p235
+aVBut some of our grandchildren probably will.
+p236
+aVAnd I should say,
+p237
+aVI think this is a rather modest prediction.
+p238
+aVIn Kurzweilian terms this is gloomy.
+p239
+aVIn Kurzweilian terms I'm like the Eeyore of economic growth.
+p240
+aV(Laughter)
+p241
+aa(lp242
+VAlright what about problems?
+p243
+aVWhat about a great depression?
+p244
+aVWell let's take a look. Let's take a look at the Great Depression.
+p245
+aVHere is GDP per capita
+p246
+aVfrom 1900 to 1929.
+p247
+aVNow let's imagine that you were an economist in 1929,
+p248
+aVtrying to forecast future growth for the United States,
+p249
+aVnot knowing that the economy was about to go off a cliff,
+p250
+aVnot knowing that we were about to enter
+p251
+aVthe greatest economic disaster certainly in the 20th century.
+p252
+aVWhat would you have predicted, not knowing this?
+p253
+aVIf you had based your prediction, your forecast
+p254
+aVon 1900 to 1929
+p255
+aVyou'd have predicted something like this.
+p256
+aVIf you'd been a little more optimistic \u2014
+p257
+aVsay, based upon the Roaring Twenties \u2014 you'd have said this.
+p258
+aVSo what actually happened?
+p259
+aVWe went off a cliff but we recovered.
+p260
+aVIn fact in the second half of the 20th century
+p261
+aVgrowth was even higher than anything you would have predicted
+p262
+aVbased upon the first half of the 20th century.
+p263
+aVSo growth can wash away
+p264
+aVeven what appears to be a great depression.
+p265
+aa(lp266
+VAlright. What else?
+p267
+aVOil. Oil. This was a big topic.
+p268
+aVWhen I was writing up my notes oil was $140 per barrel.
+p269
+aVSo people were asking a question. They were saying,
+p270
+aV"Is China drinking our milkshake?"
+p271
+aV(Laughter)
+p272
+aVAnd there is some truth to this,
+p273
+aVin the sense that we have something of a finite resource,
+p274
+aVand increased growth is going to push up demand for that.
+p275
+aVBut I think I don't have to tell this audience
+p276
+aVthat a higher price of oil is not necessarily a bad thing.
+p277
+aVMoreover, as everyone knows,
+p278
+aVlook \u2014 it's energy, not oil, which counts.
+p279
+aVAnd higher oil prices mean
+p280
+aVa greater incentive to invest in energy R&D.
+p281
+aVYou can see this in the data.
+p282
+aVAs oil prices go up, energy patents go up.
+p283
+aVThe world is much better equipped
+p284
+aVto overcome an increase in the price of oil
+p285
+aVtoday, than ever in the past,
+p286
+aVbecause of what I'm talking about.
+p287
+aVOne idea, one world, one market.
+p288
+aa(lp289
+VSo I'm optimistic
+p290
+aVso long as we hew to these two ideas:
+p291
+aVto keep globalizing world markets,
+p292
+aVkeep extending cooperation across national boundaries,
+p293
+aVand keep investing in education.
+p294
+aVNow the United States has a particularly important role
+p295
+aVto play in this:
+p296
+aVto keep our education system globalized,
+p297
+aVto keep our education system open to students from all over the world,
+p298
+aVbecause our education system
+p299
+aVis the candle
+p300
+aVthat other students come to light their own candles.
+p301
+aVNow remember here what Jefferson said.
+p302
+aVJefferson said, "When they come
+p303
+aVand light their candles at ours,
+p304
+aVthey gain light, and we are not darkened."
+p305
+aVBut Jefferson wasn't quite right, was he?
+p306
+aVBecause the truth is,
+p307
+aVwhen they light their candles at ours,
+p308
+aVthere is twice as much light available for everyone.
+p309
+aVSo my view is: Be optimistic.
+p310
+aVSpread the ideas. Spread the light.
+p311
+aVThank you.
+p312
+aV(Applause)
+p313
+aasS'id'
+p314
+I525
+sS'title'
+p315
+VHow ideas trump crises
+p316
+s.

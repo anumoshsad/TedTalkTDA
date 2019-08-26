@@ -1,0 +1,950 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThis is a lot of ones and zeros.
+p4
+aVIt's what we call binary information.
+p5
+aVThis is how computers talk.
+p6
+aVIt's how they store information.
+p7
+aVIt's how computers think.
+p8
+aVIt's how computers do
+p9
+aVeverything it is that computers do.
+p10
+aVI'm a cybersecurity researcher,
+p11
+aVwhich means my job is to sit down with this information
+p12
+aVand try to make sense of it,
+p13
+aVto try to understand what all the ones and zeroes mean.
+p14
+aVUnfortunately for me, we're not just talking
+p15
+aVabout the ones and zeros I have on the screen here.
+p16
+aVWe're not just talking about a few pages of ones and zeros.
+p17
+aVWe're talking about billions and billions
+p18
+aVof ones and zeros,
+p19
+aVmore than anyone could possibly comprehend.
+p20
+aa(lp21
+VNow, as exciting as that sounds,
+p22
+aVwhen I first started doing cyber \u2014
+p23
+aV(Laughter) \u2014
+p24
+aVwhen I first started doing cyber, I wasn't sure
+p25
+aVthat sifting through ones and zeros
+p26
+aVwas what I wanted to do with the rest of my life,
+p27
+aVbecause in my mind, cyber
+p28
+aVwas keeping viruses off of my grandma's computer,
+p29
+aVit was keeping people's Myspace pages from being hacked,
+p30
+aVand maybe, maybe on my most glorious day,
+p31
+aVit was keeping someone's credit card information from being stolen.
+p32
+aVThose are important things,
+p33
+aVbut that's not how I wanted to spend my life.
+p34
+aa(lp35
+VBut after 30 minutes of work
+p36
+aVas a defense contractor,
+p37
+aVI soon found out that my idea of cyber
+p38
+aVwas a little bit off.
+p39
+aVIn fact, in terms of national security,
+p40
+aVkeeping viruses off of my grandma's computer
+p41
+aVwas surprisingly low on their priority list.
+p42
+aVAnd the reason for that is cyber
+p43
+aVis so much bigger than any one of those things.
+p44
+aVCyber is an integral part of all of our lives,
+p45
+aVbecause computers are an integral part of all of our lives,
+p46
+aVeven if you don't own a computer.
+p47
+aVComputers control everything in your car,
+p48
+aVfrom your GPS to your airbags.
+p49
+aVThey control your phone.
+p50
+aVThey're the reason you can call 911
+p51
+aVand get someone on the other line.
+p52
+aVThey control our nation's entire infrastructure.
+p53
+aVThey're the reason you have electricity,
+p54
+aVheat, clean water, food.
+p55
+aVComputers control our military equipment,
+p56
+aVeverything from missile silos to satellites
+p57
+aVto nuclear defense networks.
+p58
+aVAll of these things are made possible
+p59
+aVbecause of computers,
+p60
+aVand therefore because of cyber,
+p61
+aVand when something goes wrong,
+p62
+aVcyber can make all of these things impossible.
+p63
+aa(lp64
+VBut that's where I step in.
+p65
+aVA big part of my job is defending all of these things,
+p66
+aVkeeping them working,
+p67
+aVbut once in a while, part of my job is to break one of these things,
+p68
+aVbecause cyber isn't just about defense,
+p69
+aVit's also about offense.
+p70
+aVWe're entering an age where we talk about
+p71
+aVcyberweapons.
+p72
+aVIn fact, so great is the potential for cyber offense
+p73
+aVthat cyber is considered a new domain of warfare.
+p74
+aVWarfare.
+p75
+aVIt's not necessarily a bad thing.
+p76
+aVOn the one hand, it means we have whole new front
+p77
+aVon which we need to defend ourselves,
+p78
+aVbut on the other hand,
+p79
+aVit means we have a whole new way to attack,
+p80
+aVa whole new way to stop evil people
+p81
+aVfrom doing evil things.
+p82
+aa(lp83
+VSo let's consider an example of this
+p84
+aVthat's completely theoretical.
+p85
+aVSuppose a terrorist wants to blow up a building,
+p86
+aVand he wants to do this again and again
+p87
+aVin the future.
+p88
+aVSo he doesn't want to be in that building when it explodes.
+p89
+aVHe's going to use a cell phone
+p90
+aVas a remote detonator.
+p91
+aVNow, it used to be the only way we had
+p92
+aVto stop this terrorist
+p93
+aVwas with a hail of bullets and a car chase,
+p94
+aVbut that's not necessarily true anymore.
+p95
+aVWe're entering an age where we can stop him
+p96
+aVwith the press of a button
+p97
+aVfrom 1,000 miles away,
+p98
+aVbecause whether he knew it or not,
+p99
+aVas soon as he decided to use his cell phone,
+p100
+aVhe stepped into the realm of cyber.
+p101
+aVA well-crafted cyber attack could break into his phone,
+p102
+aVdisable the overvoltage protections on his battery,
+p103
+aVdrastically overload the circuit,
+p104
+aVcause the battery to overheat, and explode.
+p105
+aVNo more phone, no more detonator,
+p106
+aVmaybe no more terrorist,
+p107
+aVall with the press of a button
+p108
+aVfrom a thousand miles away.
+p109
+aa(lp110
+VSo how does this work?
+p111
+aVIt all comes back to those ones and zeros.
+p112
+aVBinary information makes your phone work,
+p113
+aVand used correctly, it can make your phone explode.
+p114
+aVSo when you start to look at cyber from this perspective,
+p115
+aVspending your life sifting through binary information
+p116
+aVstarts to seem kind of exciting.
+p117
+aa(lp118
+VBut here's the catch: This is hard,
+p119
+aVreally, really hard,
+p120
+aVand here's why.
+p121
+aVThink about everything you have on your cell phone.
+p122
+aVYou've got the pictures you've taken.
+p123
+aVYou've got the music you listen to.
+p124
+aVYou've got your contacts list,
+p125
+aVyour email, and probably 500 apps
+p126
+aVyou've never used in your entire life,
+p127
+aVand behind all of this is the software, the code,
+p128
+aVthat controls your phone,
+p129
+aVand somewhere, buried inside of that code,
+p130
+aVis a tiny piece that controls your battery,
+p131
+aVand that's what I'm really after,
+p132
+aVbut all of this, just a bunch of ones and zeros,
+p133
+aVand it's all just mixed together.
+p134
+aVIn cyber, we call this finding a needle in a stack of needles,
+p135
+aVbecause everything pretty much looks alike.
+p136
+aVI'm looking for one key piece,
+p137
+aVbut it just blends in with everything else.
+p138
+aa(lp139
+VSo let's step back from this theoretical situation
+p140
+aVof making a terrorist's phone explode,
+p141
+aVand look at something that actually happened to me.
+p142
+aVPretty much no matter what I do,
+p143
+aVmy job always starts with sitting down
+p144
+aVwith a whole bunch of binary information,
+p145
+aVand I'm always looking for one key piece
+p146
+aVto do something specific.
+p147
+aVIn this case, I was looking for a very advanced,
+p148
+aVvery high-tech piece of code
+p149
+aVthat I knew I could hack,
+p150
+aVbut it was somewhere buried
+p151
+aVinside of a billion ones and zeroes.
+p152
+aVUnfortunately for me, I didn't know
+p153
+aVquite what I was looking for.
+p154
+aVI didn't know quite what it would look like,
+p155
+aVwhich makes finding it really, really hard.
+p156
+aVWhen I have to do that, what I have to do
+p157
+aVis basically look at various pieces
+p158
+aVof this binary information,
+p159
+aVtry to decipher each piece, and see if it might be
+p160
+aVwhat I'm after.
+p161
+aVSo after a while, I thought I had found the piece
+p162
+aVI was looking for.
+p163
+aVI thought maybe this was it.
+p164
+aVIt seemed to be about right, but I couldn't quite tell.
+p165
+aVI couldn't tell what those ones and zeros represented.
+p166
+aVSo I spent some time trying to put this together,
+p167
+aVbut wasn't having a whole lot of luck,
+p168
+aVand finally I decided,
+p169
+aVI'm going to get through this,
+p170
+aVI'm going to come in on a weekend,
+p171
+aVand I'm not going to leave
+p172
+aVuntil I figure out what this represents.
+p173
+aVSo that's what I did. I came in on a Saturday morning,
+p174
+aVand about 10 hours in, I sort of had all the pieces to the puzzle.
+p175
+aVI just didn't know how they fit together.
+p176
+aVI didn't know what these ones and zeros meant.
+p177
+aVAt the 15-hour mark,
+p178
+aVI started to get a better picture of what was there,
+p179
+aVbut I had a creeping suspicion
+p180
+aVthat what I was looking at
+p181
+aVwas not at all related to what I was looking for.
+p182
+aVBy 20 hours, the pieces started to come together
+p183
+aVvery slowly \u2014 (Laughter) \u2014
+p184
+aVand I was pretty sure I was going down
+p185
+aVthe wrong path at this point,
+p186
+aVbut I wasn't going to give up.
+p187
+aVAfter 30 hours in the lab,
+p188
+aVI figured out exactly what I was looking at,
+p189
+aVand I was right, it wasn't what I was looking for.
+p190
+aVI spent 30 hours piecing together
+p191
+aVthe ones and zeros that formed a picture of a kitten.
+p192
+aV(Laughter)
+p193
+aVI wasted 30 hours of my life searching for this kitten
+p194
+aVthat had nothing at all to do
+p195
+aVwith what I was trying to accomplish.
+p196
+aa(lp197
+VSo I was frustrated, I was exhausted.
+p198
+aVAfter 30 hours in the lab, I probably smelled horrible.
+p199
+aVBut instead of just going home
+p200
+aVand calling it quits, I took a step back
+p201
+aVand asked myself, what went wrong here?
+p202
+aVHow could I make such a stupid mistake?
+p203
+aVI'm really pretty good at this.
+p204
+aVI do this for a living.
+p205
+aVSo what happened?
+p206
+aVWell I thought, when you're looking at information at this level,
+p207
+aVit's so easy to lose track of what you're doing.
+p208
+aVIt's easy to not see the forest through the trees.
+p209
+aVIt's easy to go down the wrong rabbit hole
+p210
+aVand waste a tremendous amount of time
+p211
+aVdoing the wrong thing.
+p212
+aVBut I had this epiphany.
+p213
+aVWe were looking at the data completely incorrectly
+p214
+aVsince day one.
+p215
+aVThis is how computers think, ones and zeros.
+p216
+aVIt's not how people think,
+p217
+aVbut we've been trying to adapt our minds
+p218
+aVto think more like computers
+p219
+aVso that we can understand this information.
+p220
+aVInstead of trying to make our minds fit the problem,
+p221
+aVwe should have been making the problem
+p222
+aVfit our minds,
+p223
+aVbecause our brains have a tremendous potential
+p224
+aVfor analyzing huge amounts of information,
+p225
+aVjust not like this.
+p226
+aVSo what if we could unlock that potential
+p227
+aVjust by translating this
+p228
+aVto the right kind of information?
+p229
+aVSo with these ideas in mind,
+p230
+aVI sprinted out of my basement lab at work
+p231
+aVto my basement lab at home,
+p232
+aVwhich looked pretty much the same.
+p233
+aVThe main difference is, at work,
+p234
+aVI'm surrounded by cyber materials,
+p235
+aVand cyber seemed to be the problem in this situation.
+p236
+aVAt home, I'm surrounded by everything else I've ever learned.
+p237
+aVSo I poured through every book I could find,
+p238
+aVevery idea I'd ever encountered,
+p239
+aVto see how could we translate a problem
+p240
+aVfrom one domain to something completely different?
+p241
+aa(lp242
+VThe biggest question was,
+p243
+aVwhat do we want to translate it to?
+p244
+aVWhat do our brains do perfectly naturally
+p245
+aVthat we could exploit?
+p246
+aVMy answer was vision.
+p247
+aVWe have a tremendous capability to analyze visual information.
+p248
+aVWe can combine color gradients, depth cues,
+p249
+aVall sorts of these different signals
+p250
+aVinto one coherent picture of the world around us.
+p251
+aVThat's incredible.
+p252
+aVSo if we could find a way to translate
+p253
+aVthese binary patterns to visual signals,
+p254
+aVwe could really unlock the power of our brains
+p255
+aVto process this stuff.
+p256
+aVSo I started looking at the binary information,
+p257
+aVand I asked myself, what do I do
+p258
+aVwhen I first encounter something like this?
+p259
+aVAnd the very first thing I want to do,
+p260
+aVthe very first question I want to answer,
+p261
+aVis what is this?
+p262
+aVI don't care what it does, how it works.
+p263
+aVAll I want to know is, what is this?
+p264
+aVAnd the way I can figure that out
+p265
+aVis by looking at chunks,
+p266
+aVsequential chunks of binary information,
+p267
+aVand I look at the relationships between those chunks.
+p268
+aVWhen I gather up enough of these sequences,
+p269
+aVI begin to get an idea of exactly
+p270
+aVwhat this information must be.
+p271
+aVSo let's go back to that
+p272
+aVblow up the terrorist's phone situation.
+p273
+aVThis is what English text looks like
+p274
+aVat a binary level.
+p275
+aVThis is what your contacts list would look like
+p276
+aVif I were examining it.
+p277
+aVIt's really hard to analyze this at this level,
+p278
+aVbut if we take those same binary chunks
+p279
+aVthat I would be trying to find,
+p280
+aVand instead translate that
+p281
+aVto a visual representation,
+p282
+aVtranslate those relationships,
+p283
+aVthis is what we get.
+p284
+aVThis is what English text looks like
+p285
+aVfrom a visual abstraction perspective.
+p286
+aVAll of a sudden,
+p287
+aVit shows us all the same information
+p288
+aVthat was in the ones and zeros,
+p289
+aVbut show us it in an entirely different way,
+p290
+aVa way that we can immediately comprehend.
+p291
+aVWe can instantly see all of the patterns here.
+p292
+aVIt takes me seconds to pick out patterns here,
+p293
+aVbut hours, days, to pick them out
+p294
+aVin ones and zeros.
+p295
+aVIt takes minutes for anybody to learn
+p296
+aVwhat these patterns represent here,
+p297
+aVbut years of experience in cyber
+p298
+aVto learn what those same patterns represent
+p299
+aVin ones and zeros.
+p300
+aVSo this piece is caused by
+p301
+aVlower case letters followed by lower case letters
+p302
+aVinside of that contact list.
+p303
+aVThis is upper case by upper case,
+p304
+aVupper case by lower case, lower case by upper case.
+p305
+aVThis is caused by spaces. This is caused by carriage returns.
+p306
+aVWe can go through every little detail
+p307
+aVof the binary information in seconds,
+p308
+aVas opposed to weeks, months, at this level.
+p309
+aVThis is what an image looks like
+p310
+aVfrom your cell phone.
+p311
+aVBut this is what it looks like
+p312
+aVin a visual abstraction.
+p313
+aVThis is what your music looks like,
+p314
+aVbut here's its visual abstraction.
+p315
+aVMost importantly for me,
+p316
+aVthis is what the code on your cell phone looks like.
+p317
+aVThis is what I'm after in the end,
+p318
+aVbut this is its visual abstraction.
+p319
+aVIf I can find this, I can't make the phone explode.
+p320
+aVI could spend weeks trying to find this
+p321
+aVin ones and zeros,
+p322
+aVbut it takes me seconds to pick out
+p323
+aVa visual abstraction like this.
+p324
+aa(lp325
+VOne of those most remarkable parts about all of this
+p326
+aVis it gives us an entirely new way to understand
+p327
+aVnew information, stuff that we haven't seen before.
+p328
+aVSo I know what English looks like at a binary level,
+p329
+aVand I know what its visual abstraction looks like,
+p330
+aVbut I've never seen Russian binary in my entire life.
+p331
+aVIt would take me weeks just to figure out
+p332
+aVwhat I was looking at from raw ones and zeros,
+p333
+aVbut because our brains can instantly pick up
+p334
+aVand recognize these subtle patterns inside
+p335
+aVof these visual abstractions,
+p336
+aVwe can unconsciously apply those
+p337
+aVin new situations.
+p338
+aVSo this is what Russian looks like
+p339
+aVin a visual abstraction.
+p340
+aVBecause I know what one language looks like,
+p341
+aVI can recognize other languages
+p342
+aVeven when I'm not familiar with them.
+p343
+aVThis is what a photograph looks like,
+p344
+aVbut this is what clip art looks like.
+p345
+aVThis is what the code on your phone looks like,
+p346
+aVbut this is what the code on your computer looks like.
+p347
+aVOur brains can pick up on these patterns
+p348
+aVin ways that we never could have
+p349
+aVfrom looking at raw ones and zeros.
+p350
+aVBut we've really only scratched the surface
+p351
+aVof what we can do with this approach.
+p352
+aVWe've only begun to unlock the capabilities
+p353
+aVof our minds to process visual information.
+p354
+aVIf we take those same concepts and translate them
+p355
+aVinto three dimensions instead,
+p356
+aVwe find entirely new ways of making sense of information.
+p357
+aVIn seconds, we can pick out every pattern here.
+p358
+aVwe can see the cross associated with code.
+p359
+aVWe can see cubes associated with text.
+p360
+aVWe can even pick up the tiniest visual artifacts.
+p361
+aVThings that would take us weeks,
+p362
+aVmonths to find in ones and zeroes,
+p363
+aVare immediately apparent
+p364
+aVin some sort of visual abstraction,
+p365
+aVand as we continue to go through this
+p366
+aVand throw more and more information at it,
+p367
+aVwhat we find is that we're capable of processing
+p368
+aVbillions of ones and zeros
+p369
+aVin a matter of seconds
+p370
+aVjust by using our brain's built-in ability
+p371
+aVto analyze patterns.
+p372
+aa(lp373
+VSo this is really nice and helpful,
+p374
+aVbut all this tells me is what I'm looking at.
+p375
+aVSo at this point, based on visual patterns,
+p376
+aVI can find the code on the phone.
+p377
+aVBut that's not enough to blow up a battery.
+p378
+aVThe next thing I need to find is the code
+p379
+aVthat controls the battery, but we're back
+p380
+aVto the needle in a stack of needles problem.
+p381
+aVThat code looks pretty much like all the other code
+p382
+aVon that system.
+p383
+aa(lp384
+VSo I might not be able to find the code that controls the battery,
+p385
+aVbut there's a lot of things that are very similar to that.
+p386
+aVYou have code that controls your screen,
+p387
+aVthat controls your buttons, that controls your microphones,
+p388
+aVso even if I can't find the code for the battery,
+p389
+aVI bet I can find one of those things.
+p390
+aVSo the next step in my binary analysis process
+p391
+aVis to look at pieces of information
+p392
+aVthat are similar to each other.
+p393
+aVIt's really, really hard to do at a binary level,
+p394
+aVbut if we translate those similarities to a visual abstraction instead,
+p395
+aVI don't even have to sift through the raw data.
+p396
+aVAll I have to do is wait for the image to light up
+p397
+aVto see when I'm at similar pieces.
+p398
+aVI follow these strands of similarity like a trail of bread crumbs
+p399
+aVto find exactly what I'm looking for.
+p400
+aa(lp401
+VSo at this point in the process,
+p402
+aVI've located the code
+p403
+aVresponsible for controlling your battery,
+p404
+aVbut that's still not enough to blow up a phone.
+p405
+aVThe last piece of the puzzle
+p406
+aVis understanding how that code
+p407
+aVcontrols your battery.
+p408
+aVFor this, I need to identify
+p409
+aVvery subtle, very detailed relationships
+p410
+aVwithin that binary information,
+p411
+aVanother very hard thing to do
+p412
+aVwhen looking at ones and zeros.
+p413
+aVBut if we translate that information
+p414
+aVinto a physical representation,
+p415
+aVwe can sit back and let our visual cortex do all the hard work.
+p416
+aVIt can find all the detailed patterns,
+p417
+aVall the important pieces, for us.
+p418
+aVIt can find out exactly how the pieces of that code
+p419
+aVwork together to control that battery.
+p420
+aVAll of this can be done in a matter of hours,
+p421
+aVwhereas the same process
+p422
+aVwould have taken months in the past.
+p423
+aa(lp424
+VThis is all well and good
+p425
+aVin a theoretical blow up a terrorist's phone situation.
+p426
+aVI wanted to find out if this would really work
+p427
+aVin the work I do every day.
+p428
+aVSo I was playing around with these same concepts
+p429
+aVwith some of the data I've looked at in the past,
+p430
+aVand yet again, I was trying to find
+p431
+aVa very detailed, specific piece of code
+p432
+aVinside of a massive piece of binary information.
+p433
+aVSo I looked at it at this level,
+p434
+aVthinking I was looking at the right thing,
+p435
+aVonly to see this doesn't have
+p436
+aVthe connectivity I would have expected
+p437
+aVfor the code I was looking for.
+p438
+aVIn fact, I'm not really sure what this is,
+p439
+aVbut when I stepped back a level
+p440
+aVand looked at the similarities within the code
+p441
+aVI saw, this doesn't have similarities
+p442
+aVlike any code that exists out there.
+p443
+aVI can't even be looking at code.
+p444
+aVIn fact, from this perspective,
+p445
+aVI could tell, this isn't code.
+p446
+aVThis is an image of some sort.
+p447
+aVAnd from here, I can see,
+p448
+aVit's not just an image, this is a photograph.
+p449
+aVNow that I know it's a photograph,
+p450
+aVI've got dozens of other binary translation techniques
+p451
+aVto visualize and understand that information,
+p452
+aVso in a matter of seconds, we can take this information,
+p453
+aVshove it through a dozen other visual translation techniques
+p454
+aVin order to find out exactly what we were looking at.
+p455
+aVI saw \u2014 (Laughter) \u2014
+p456
+aVit was that darn kitten again.
+p457
+aVAll this is enabled
+p458
+aVbecause we were able to find a way
+p459
+aVto translate a very hard problem
+p460
+aVto something our brains do very naturally.
+p461
+aa(lp462
+VSo what does this mean?
+p463
+aVWell, for kittens, it means
+p464
+aVno more hiding in ones and zeros.
+p465
+aVFor me, it means no more wasted weekends.
+p466
+aVFor cyber, it means we have a radical new way
+p467
+aVto tackle the most impossible problems.
+p468
+aVIt means we have a new weapon
+p469
+aVin the evolving theater of cyber warfare,
+p470
+aVbut for all of us,
+p471
+aVit means that cyber engineers
+p472
+aVnow have the ability to become first responders
+p473
+aVin emergency situations.
+p474
+aVWhen seconds count,
+p475
+aVwe've unlocked the means to stop the bad guys.
+p476
+aa(lp477
+VThank you.
+p478
+aa(lp479
+V(Applause)
+p480
+aasS'id'
+p481
+I2035
+sS'title'
+p482
+VThe 1s and 0s behind cyber warfare
+p483
+s.

@@ -1,0 +1,523 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VToday's computers are so amazing
+p4
+aVthat we fail to notice how terrible they really are.
+p5
+aVI'd like to talk to you today about this problem,
+p6
+aVand how we can fix it with neuroscience.
+p7
+aa(lp8
+VFirst, I'd like to take you back to a frosty night in Harlem in 2011
+p9
+aVthat had a profound impact on me.
+p10
+aVI was sitting in a dive bar outside of Columbia University,
+p11
+aVwhere I studied computer science and neuroscience,
+p12
+aVand I was having this great conversation with a fellow student
+p13
+aVabout the power of holograms to one day replace computers.
+p14
+aVAnd just as we were getting to the best part of the conversation,
+p15
+aVof course, his phone lights up.
+p16
+aVAnd he pulls it towards himself, and he looks down and he starts typing.
+p17
+aVAnd then he forces his eyeballs back up to mine and he goes,
+p18
+aV"Keep going. I'm with you."
+p19
+aVBut of course his eyes were glazed over,
+p20
+aVand the moment was dead.
+p21
+aa(lp22
+VMeanwhile across the bar,
+p23
+aVI noticed another student holding his phone,
+p24
+aVthis time towards a group.
+p25
+aVHe was swiping through pictures on Instagram,
+p26
+aVand these kids were laughing hysterically.
+p27
+aVAnd that dichotomy between how crappy I was feeling
+p28
+aVand how happy they were feeling about the same technology,
+p29
+aVreally got me thinking.
+p30
+aVAnd the more I thought of it, the more I realized
+p31
+aVit was clearly not the digital information that was the bad guy here,
+p32
+aVit was simply the display position that was separating me from my friend
+p33
+aVand that was binding those kids together.
+p34
+aa(lp35
+VSee, they were connected around something,
+p36
+aVjust like our ancestors who evolved their social cognitions
+p37
+aVtelling stories around the campfire.
+p38
+aVAnd that's exactly what tools should do, I think.
+p39
+aVThey should extend our bodies.
+p40
+aVAnd I think computers today are doing quite the opposite.
+p41
+aVWhether you're sending an email to your wife
+p42
+aVor you're composing a symphony
+p43
+aVor just consoling a friend,
+p44
+aVyou're doing it in pretty much the same way.
+p45
+aVYou're hunched over these rectangles,
+p46
+aVfumbling with buttons and menus and more rectangles.
+p47
+aVAnd I think this is the wrong way,
+p48
+aVI think we can start using a much more natural machine.
+p49
+aVWe should use machines that bring our work back into the world.
+p50
+aVWe should use machines that use the principles of neuroscience
+p51
+aVto extend our senses versus going against them.
+p52
+aa(lp53
+VNow it just so happens that I have such a machine here.
+p54
+aVIt's called the Meta 2.
+p55
+aVLet's try it out.
+p56
+aVNow in front of me right now, I can see the audience,
+p57
+aVand I can see my very hands.
+p58
+aVAnd in three, two, one,
+p59
+aVwe're going to see an immersive hologram appear,
+p60
+aVa very realistic hologram appear in front of me,
+p61
+aVof our very glasses I'm wearing on my head right now.
+p62
+aVAnd of course this could be anything that we're shopping for
+p63
+aVor learning from,
+p64
+aVand I can use my hands
+p65
+aVto very nicely kind of move it around with fine control.
+p66
+aVAnd I think Iron Man would be proud.
+p67
+aVWe're going to come back to this in just a bit.
+p68
+aa(lp69
+V(Applause)
+p70
+aa(lp71
+VNow if you're anything like me, your mind is already reeling
+p72
+aVwith the possibilities of what we can do with this kind of technology,
+p73
+aVso let's look at a few.
+p74
+aa(lp75
+VMy mom is an architect,
+p76
+aVso naturally the first thing I imagined
+p77
+aVwas laying out a building in 3D space
+p78
+aVinstead of having to use these 2D floor plans.
+p79
+aVShe's actually touching graphics right now
+p80
+aVand selecting an interior decor.
+p81
+aVThis was all shot through a GoPro through our very glasses.
+p82
+aa(lp83
+VAnd this next use case is very personal to me,
+p84
+aVit's Professor Adam Gazzaley's glass brain project,
+p85
+aVcourtesy of UCSF.
+p86
+aVAs a neuroscience student,
+p87
+aVI would always fantasize
+p88
+aVabout the ability to learn and memorize these complex brain structures
+p89
+aVwith an actual machine,
+p90
+aVwhere I could touch and play with the various brain structures.
+p91
+aa(lp92
+VNow what you're seeing is called augmented reality,
+p93
+aVbut to me, it's part of a much more important story \u2014
+p94
+aVa story of how we can begin to extend our bodies with digital devices,
+p95
+aVinstead of the other way around.
+p96
+aa(lp97
+VNow ...
+p98
+aVin the next few years, humanity's going to go through a shift, I think.
+p99
+aVWe're going to start putting an entire layer of digital information
+p100
+aVon the real world.
+p101
+aVJust imagine for a moment
+p102
+aVwhat this could mean for storytellers,
+p103
+aVfor painters,
+p104
+aVfor brain surgeons,
+p105
+aVfor interior decorators
+p106
+aVand maybe for all of us here today.
+p107
+aVAnd what I think we need to do as a community,
+p108
+aVis really try and make an effort
+p109
+aVto imagine how we can create this new reality
+p110
+aVin a way that extends the human experience,
+p111
+aVinstead of gamifying our reality
+p112
+aVor cluttering it with digital information.
+p113
+aVAnd that's what I'm very passionate about.
+p114
+aa(lp115
+VNow, I want to tell you a little secret.
+p116
+aVIn about five years \u2014
+p117
+aVthis is not the smallest device \u2014
+p118
+aVin about five years,
+p119
+aVthese are all going to look like strips of glass on our eyes
+p120
+aVthat project holograms.
+p121
+aVAnd just like we don't care so much about which phone we buy
+p122
+aVin terms of the hardware \u2014 we buy it for the operating system \u2014
+p123
+aVas a neuroscientist,
+p124
+aVI always dreamt of building the iOS of the mind, if you will.
+p125
+aVAnd it's very, very important that we get this right,
+p126
+aVbecause we might be living inside of these things
+p127
+aVfor at least as long as we've lived
+p128
+aVwith the Windows graphical user interface.
+p129
+aVAnd I don't know about you,
+p130
+aVbut living inside of Windows scares me.
+p131
+aa(lp132
+V(Laughter)
+p133
+aa(lp134
+VTo isolate the single most intuitive interface out of infinity,
+p135
+aVwe use neuroscience to drive our design guidelines,
+p136
+aVinstead of letting a bunch of designers fight it out in the boardroom.
+p137
+aVAnd the principle we all revolve around
+p138
+aVis what's called the "Neural Path of Least Resistance."
+p139
+aa(lp140
+VAt every turn, we're connecting the iOS of the brain with our brain
+p141
+aVon, for the first time, our brain's terms.
+p142
+aVIn other words, we're trying to create a zero learning-curve computer.
+p143
+aVWe're building a system that you've always known how to use.
+p144
+aa(lp145
+VHere are the first three design guidelines that we employ
+p146
+aVin this brand-new form of user experience.
+p147
+aVFirst and foremost, you are the operating system.
+p148
+aVTraditional file systems are complex and abstract,
+p149
+aVand they take your brain extra steps to decode them.
+p150
+aVWe're going against the Neural Path of Least Resistance.
+p151
+aVMeanwhile, in augmented reality,
+p152
+aVyou can of course place your holographic TED panel over here,
+p153
+aVand your holographic email on the other side of the desk,
+p154
+aVand your spatial memory evolved just fine to go ahead and retrieve them.
+p155
+aVYou could put your holographic Tesla that you're shopping for \u2014
+p156
+aVor whatever model my legal team told me to put in right before the show.
+p157
+aa(lp158
+V(Laughter)
+p159
+aa(lp160
+VPerfect. And your brain knows exactly how to get it back.
+p161
+aa(lp162
+VThe second interface guideline we call "touch to see."
+p163
+aVWhat do babies do when they see something that grabs their interest?
+p164
+aVThey try and reach out and touch it.
+p165
+aVAnd that's exactly how the natural machine should work as well.
+p166
+aVTurns out the visual system gets a fundamental boost
+p167
+aVfrom a sense we call proprioception \u2014
+p168
+aVthat's the sense of our body parts in space.
+p169
+aVSo by touching our work directly, we're not only going to control it better,
+p170
+aVwe're also going to understand it much more deeply.
+p171
+aVHence, touch to see.
+p172
+aa(lp173
+VBut it's not enough to experience things ourselves.
+p174
+aVWe're inherently these social primates.
+p175
+aVAnd this leads me to our third guideline,
+p176
+aVthe holographic campfire from our first story.
+p177
+aa(lp178
+VOur mirror-neuron subsystem suggests
+p179
+aVthat we can connect with each other and with our work much better
+p180
+aVif we can see each other's faces and hands in 3D.
+p181
+aVSo if you look at the video behind me,
+p182
+aVyou can see two Meta users playing around with the same hologram,
+p183
+aVmaking eye contact, connected around this thing,
+p184
+aVinstead of being distracted by external devices.
+p185
+aa(lp186
+VLet's go ahead and try this again with neuroscience in mind.
+p187
+aVSo again, our favorite interface, the iOS of the mind.
+p188
+aVI'm going to now take a step further
+p189
+aVand go ahead and grab this pair of glasses
+p190
+aVand leave it right here by the desk.
+p191
+aVI'm now with you, I'm in the moment,
+p192
+aVwe're connecting.
+p193
+aVMy spatial memory kicks in, and I can go ahead and grab it
+p194
+aVand bring it right back here, reminding me
+p195
+aVthat I am the operating system.
+p196
+aVAnd now my proprioception is working,
+p197
+aVand I can go ahead and explode these glasses into a thousand parts
+p198
+aVand touch the very sensor that is currently scanning my hand.
+p199
+aa(lp200
+VBut it's not enough to see things alone,
+p201
+aVso in a second, my co-founder Ray is going to make a 3D call \u2014
+p202
+aVRay?
+p203
+aa(lp204
+V(Ringing)
+p205
+aa(lp206
+VHey Ray, how's it going?
+p207
+aVGuys, I can see this guy in front me in full 3D.
+p208
+aVAnd he is photo-realistic.
+p209
+aa(lp210
+V(Applause)
+p211
+aa(lp212
+VThank you.
+p213
+aa(lp214
+VMy mirror-neuron subsystem suggests that this is going to replace phones
+p215
+aVin not too long.
+p216
+aVRay, how's it going?
+p217
+aa(lp218
+VRay: Great. We're live today.
+p219
+aa(lp220
+V(Applause)
+p221
+aa(lp222
+VMG: Ray, give the crowd a gift
+p223
+aVof the holographic brain we saw from the video earlier.
+p224
+aVGuys, this is not only going to change phones,
+p225
+aVit's also going to change the way we collaborate.
+p226
+aa(lp227
+VThank you so much.
+p228
+aa(lp229
+VThanks, Ray.
+p230
+aa(lp231
+VRay: You're welcome.
+p232
+aa(lp233
+V(Applause)
+p234
+aa(lp235
+VMG: So folks, this is the message that I discovered in that bar in 2011:
+p236
+aVThe future of computers is not locked inside one of these screens.
+p237
+aVIt's right here, inside of us.
+p238
+aa(lp239
+V(Applause)
+p240
+aa(lp241
+VSo if there's one idea that I could leave you with here today,
+p242
+aVit's that the natural machine is not some figment of the future,
+p243
+aVit's right here in 2016.
+p244
+aVWhich is why all hundred of us at Meta,
+p245
+aVincluding the administrative staff,
+p246
+aVthe executives,
+p247
+aVthe designers, the engineers \u2014
+p248
+aVbefore TED2017,
+p249
+aVwe're all going to be throwing away our external monitors
+p250
+aVand replacing them with a truly and profoundly more natural machine.
+p251
+aa(lp252
+VThank you very much.
+p253
+aa(lp254
+V(Applause)
+p255
+aa(lp256
+VThank you, appreciate it.
+p257
+aVThanks, guys.
+p258
+aa(lp259
+VChris Anderson: So help me out on one thing,
+p260
+aVbecause there've been a few augmented reality demos
+p261
+aVshown over the last year or so out there.
+p262
+aVAnd there's sometimes a debate among technologists
+p263
+aVabout, are we really seeing the real thing on-screen?
+p264
+aVThere's this issue of field of view,
+p265
+aVthat somehow the technology is showing a broader view
+p266
+aVthan you would actually see wearing the glasses.
+p267
+aVWere we seeing the real deal there?
+p268
+aa(lp269
+VMG: Absolutely the real deal.
+p270
+aVNot only that,
+p271
+aVwe took extra measures to shoot it with a GoPro through the actual lens
+p272
+aVin the various videos that you've seen here.
+p273
+aVWe want to try to simulate the experience for the world
+p274
+aVthat we're actually seeing through the glasses,
+p275
+aVand not cut any corners.
+p276
+aa(lp277
+VCA: Thank you so much for showing us that.
+p278
+aa(lp279
+VMG: Thanks so much, I appreciate that.
+p280
+aasS'id'
+p281
+I2459
+sS'title'
+p282
+VA glimpse of the future through an augmented reality headset
+p283
+s.

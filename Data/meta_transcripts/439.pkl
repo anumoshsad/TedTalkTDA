@@ -1,0 +1,659 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThe future that we will create can be a future that we'll be proud of.
+p4
+aVI think about this every day; it's quite literally my job.
+p5
+aVI'm co-founder and senior columnist at Worldchanging.com.
+p6
+aVAlex Steffen and I founded Worldchanging in late 2003,
+p7
+aVand since then we and our growing global team of contributors
+p8
+aVhave documented the ever-expanding variety of solutions
+p9
+aVthat are out there, right now and on the near horizon.
+p10
+aa(lp11
+VIn a little over two years, we've written up about 4,000 items \u2014
+p12
+aVreplicable models, technological tools, emerging ideas \u2014
+p13
+aVall providing a path to a future
+p14
+aVthat's more sustainable, more equitable and more desirable.
+p15
+aVOur emphasis on solutions is quite intentional.
+p16
+aVThere are tons of places to go, online and off,
+p17
+aVif what you want to find is the latest bit of news
+p18
+aVabout just how quickly our hell-bound handbasket is moving.
+p19
+aVWe want to offer people an idea of what they can do about it.
+p20
+aVWe focus primarily on the planet's environment,
+p21
+aVbut we also address issues of global development,
+p22
+aVinternational conflict, responsible use of emerging technologies,
+p23
+aVeven the rise of the so-called Second Superpower
+p24
+aVand much, much more.
+p25
+aa(lp26
+VThe scope of solutions that we discuss is actually pretty broad,
+p27
+aVbut that reflects both the range of challenges that need to be met
+p28
+aVand the kinds of innovations that will allow us to do so.
+p29
+aVA quick sampling really can barely scratch the surface,
+p30
+aVbut to give you a sense of what we cover:
+p31
+aVtools for rapid disaster relief,
+p32
+aVsuch as this inflatable concrete shelter;
+p33
+aVinnovative uses of bioscience,
+p34
+aVsuch as a flower that changes color in the presence of landmines;
+p35
+aVultra high-efficiency designs for homes and offices;
+p36
+aVdistributed power generation using solar power, wind power,
+p37
+aVocean power, other clean energy sources;
+p38
+aVultra, ultra high-efficiency vehicles of the future;
+p39
+aVultra high-efficiency vehicles you can get right now;
+p40
+aVand better urban design,
+p41
+aVso you don't need to drive as much in the first place;
+p42
+aVbio-mimetic approaches to design that take advantage of
+p43
+aVthe efficiencies of natural models in both vehicles and buildings;
+p44
+aVdistributed computing projects
+p45
+aVthat will help us model the future of the climate.
+p46
+aVAlso, a number of the topics that we've been talking about this week
+p47
+aVat TED are things that we've addressed in the past on Worldchanging:
+p48
+aVcradle-to-cradle design, MIT's Fab Labs,
+p49
+aVthe consequences of extreme longevity,
+p50
+aVthe One Laptop per Child project, even Gapminder.
+p51
+aa(lp52
+VAs a born-in-the-mid-1960s Gen X-er,
+p53
+aVhurtling all too quickly to my fortieth birthday,
+p54
+aVI'm naturally inclined to pessimism. But working at Worldchanging
+p55
+aVhas convinced me, much to my own surprise,
+p56
+aVthat successful responses to the world's problems
+p57
+aVare nonetheless possible.
+p58
+aVMoreover, I've come to realize that focusing only on negative outcomes
+p59
+aVcan really blind you to the very possibility of success.
+p60
+aVAs Norwegian social scientist Evelin Lindner has observed,
+p61
+aV"Pessimism is a luxury of good times ...
+p62
+aVIn difficult times, pessimism is
+p63
+aVa self-fulfilling, self-inflicted death sentence."
+p64
+aVThe truth is, we can build a better world,
+p65
+aVand we can do so right now.
+p66
+aVWe have the tools: we saw a hint of that a moment ago,
+p67
+aVand we're coming up with new ones all the time.
+p68
+aVWe have the knowledge,
+p69
+aVand our understanding of the planet improves every day.
+p70
+aVMost importantly, we have the motive:
+p71
+aVwe have a world that needs fixing, and nobody's going to do it for us.
+p72
+aa(lp73
+VMany of the solutions that I and my colleagues seek out
+p74
+aVand write up every day have some important aspects in common:
+p75
+aVtransparency, collaboration, a willingness to experiment,
+p76
+aVand an appreciation of science \u2014 or, more appropriately, science!
+p77
+aV(Laughter)
+p78
+aVThe majority of models, tools and ideas on Worldchanging
+p79
+aVencompass combinations of these characteristics, so I want to give you
+p80
+aVa few concrete examples of how these principles combine
+p81
+aVin world-changing ways.
+p82
+aa(lp83
+VWe can see world-changing values in the emergence of tools
+p84
+aVto make the invisible visible \u2014 that is,
+p85
+aVto make apparent the conditions of the world around us
+p86
+aVthat would otherwise be largely imperceptible.
+p87
+aVWe know that people often change their behavior
+p88
+aVwhen they can see and understand the impact of their actions.
+p89
+aVAs a small example, many of us have experienced
+p90
+aVthe change in driving behavior that comes from having
+p91
+aVa real time display of mileage showing precisely
+p92
+aVhow one's driving habits affect the vehicle's efficiency.
+p93
+aVThe last few years have all seen the rise of innovations
+p94
+aVin how we measure and display aspects of the world
+p95
+aVthat can be too big, or too intangible, or too slippery to grasp easily.
+p96
+aVSimple technologies, like wall-mounted devices
+p97
+aVthat display how much power your household is using,
+p98
+aVand what kind of results you'll get if you turn off a few lights \u2014
+p99
+aVthese can actually have a direct positive impact
+p100
+aVon your energy footprint.
+p101
+aVCommunity tools, like text messaging, that can tell you
+p102
+aVwhen pollen counts are up or smog levels are rising
+p103
+aVor a natural disaster is unfolding,
+p104
+aVcan give you the information you need to act in a timely fashion.
+p105
+aVData-rich displays like maps of campaign contributions,
+p106
+aVor maps of the disappearing polar ice caps,
+p107
+aVallow us to better understand the context and the flow
+p108
+aVof processes that affect us all.
+p109
+aa(lp110
+VWe can see world-changing values in research projects
+p111
+aVthat seek to meet the world's medical needs
+p112
+aVthrough open access to data and collaborative action.
+p113
+aVNow, some people emphasize the risks of knowledge-enabled dangers,
+p114
+aVbut I'm convinced that the benefits of knowledge-enabled solutions
+p115
+aVare far more important.
+p116
+aVFor example, open-access journals, like the Public Library of Science,
+p117
+aVmake cutting-edge scientific research free to all \u2014
+p118
+aVeveryone in the world.
+p119
+aVAnd actually, a growing number of science publishers
+p120
+aVare adopting this model.
+p121
+aVLast year, hundreds of volunteer biology and chemistry researchers
+p122
+aVaround the world worked together
+p123
+aVto sequence the genome of the parasite responsible
+p124
+aVfor some of the developing world's worst diseases:
+p125
+aVAfrican sleeping sickness, leishmaniasis and Chagas disease.
+p126
+aVThat genome data can now be found
+p127
+aVon open-access genetic data banks around the world,
+p128
+aVand it's an enormous boon to researchers
+p129
+aVtrying to come up with treatments.
+p130
+aVBut my favorite example has to be the global response
+p131
+aVto the SARS epidemic in 2003, 2004, which relied on
+p132
+aVworldwide access to the full gene sequence of the SARS virus.
+p133
+aVThe U.S. National Research Council
+p134
+aVin its follow-up report on the outbreak specifically
+p135
+aVcited this open availability of the sequence as a key reason
+p136
+aVwhy the treatment for SARS could be developed so quickly.
+p137
+aa(lp138
+VAnd we can see world-changing values
+p139
+aVin something as humble as a cell phone.
+p140
+aVI can probably count on my fingers the number of people in this room
+p141
+aVwho do not use a mobile phone \u2014
+p142
+aVand where is Aubrey, because I know he doesn't?
+p143
+aV(Laughter)
+p144
+aVFor many of us, cell phones have really become
+p145
+aValmost an extension of ourselves,
+p146
+aVand we're really now beginning to see the social changes
+p147
+aVthat mobile phones can bring about.
+p148
+aVYou may already know some of the big-picture aspects:
+p149
+aVglobally, more camera phones were sold last year
+p150
+aVthan any other kind of camera,
+p151
+aVand a growing number of people live lives mediated through the lens,
+p152
+aVand over the network \u2014 and sometimes enter history books.
+p153
+aVIn the developing world, mobile phones have become economic drivers.
+p154
+aVA study last year showed a direct correlation
+p155
+aVbetween the growth of mobile phone use
+p156
+aVand subsequent GDP increases across Africa.
+p157
+aVIn Kenya, mobile phone minutes
+p158
+aVhave actually become an alternative currency.
+p159
+aVThe political aspects of mobile phones can't be ignored either,
+p160
+aVfrom text message swarms in Korea helping to bring down a government,
+p161
+aVto the Blairwatch Project in the UK,
+p162
+aVkeeping tabs on politicians who try to avoid the press.
+p163
+aV(Laughter)
+p164
+aa(lp165
+VAnd it's just going to get more wild.
+p166
+aVPervasive, always-on networks, high quality sound and video,
+p167
+aVeven devices made to be worn instead of carried in the pocket,
+p168
+aVwill transform how we live on a scale that few really appreciate.
+p169
+aVIt's no exaggeration to say that the mobile phone
+p170
+aVmay be among the world's most important technologies.
+p171
+aVAnd in this rapidly evolving context,
+p172
+aVit's possible to imagine a world in which the mobile phone becomes
+p173
+aVsomething far more than a medium for social interaction.
+p174
+aa(lp175
+VI've long admired the Witness project,
+p176
+aVand Peter Gabriel told us more details about it on Wednesday,
+p177
+aVin his profoundly moving presentation.
+p178
+aVAnd I'm just incredibly happy to see the news
+p179
+aVthat Witness is going to be opening up a Web portal
+p180
+aVto enable users of digital cameras and camera phones
+p181
+aVto send in their recordings over the Internet,
+p182
+aVrather than just hand-carrying the videotape.
+p183
+aVNot only does this add a new and potentially safer avenue
+p184
+aVfor documenting abuses,
+p185
+aVit opens up the program to the growing global digital generation.
+p186
+aa(lp187
+VNow, imagine a similar model for networking environmentalists.
+p188
+aVImagine a Web portal collecting recordings and evidence
+p189
+aVof what's happening to the planet:
+p190
+aVputting news and data at the fingertips of people of all kinds,
+p191
+aVfrom activists and researchers
+p192
+aVto businesspeople and political figures.
+p193
+aVIt would highlight the changes that are underway,
+p194
+aVbut would more importantly give voice
+p195
+aVto the people who are willing to work
+p196
+aVto see a new world, a better world, come about.
+p197
+aVIt would give everyday citizens
+p198
+aVa chance to play a role in the protection of the planet.
+p199
+aVIt would be, in essence, an "Earth Witness" project.
+p200
+aVNow, just to be clear, in this talk I'm using the name "Earth Witness"
+p201
+aVas part of the scenario, simply as a shorthand,
+p202
+aVfor what this imaginary project could aspire to,
+p203
+aVnot to piggyback on the wonderful work of the Witness organization.
+p204
+aVIt could just as easily be called, "Environmental Transparency Project,"
+p205
+aV"Smart Mobs for Natural Security" \u2014
+p206
+aVbut Earth Witness is a lot easier to say.
+p207
+aa(lp208
+VNow, many of the people who participate in Earth Witness
+p209
+aVwould focus on ecological problems, human-caused or otherwise,
+p210
+aVespecially environmental crimes
+p211
+aVand significant sources of greenhouse gases and emissions.
+p212
+aVThat's understandable and important.
+p213
+aVWe need better documentation of what's happening to the planet
+p214
+aVif we're ever going to have a chance of repairing the damage.
+p215
+aVBut the Earth Witness project wouldn't need to be limited to problems.
+p216
+aVIn the best Worldchanging tradition,
+p217
+aVit might also serve as a showcase for good ideas, successful projects
+p218
+aVand efforts to make a difference that deserve much more visibility.
+p219
+aVEarth Witness would show us two worlds:
+p220
+aVthe world we're leaving behind,
+p221
+aVand the world we're building for generations to come.
+p222
+aa(lp223
+VAnd what makes this scenario particularly appealing to me is
+p224
+aVwe could do it today.
+p225
+aVThe key components are already widely available.
+p226
+aVCamera phones, of course, would be fundamental to the project.
+p227
+aVAnd for a lot of us, they're as close as we have yet
+p228
+aVto always-on, widely available information tools.
+p229
+aVWe may not remember to bring our digital cameras with us
+p230
+aVwherever we go, but very few of us forget our phones.
+p231
+aVYou could even imagine a version of this scenario
+p232
+aVin which people actually build their own phones.
+p233
+aVOver the course of last year, open-source hardware hackers
+p234
+aVhave come up with multiple models
+p235
+aVfor usable, Linux-based mobile phones,
+p236
+aVand the Earth Phone could spin off from this kind of project.
+p237
+aVAt the other end of the network, there'd be
+p238
+aVa server for people to send photos and messages to,
+p239
+aVaccessible over the Web, combining a photo-sharing service,
+p240
+aVsocial networking platforms and a collaborative filtering system.
+p241
+aVNow, you Web 2.0 folks in the audience know what I'm talking about,
+p242
+aVbut for those of you for whom that last sentence
+p243
+aVwas in a crazy moon language, I mean simply this:
+p244
+aVthe online part of the Earth Witness project
+p245
+aVwould be created by the users, working together and working openly.
+p246
+aVThat's enough right there to start to build a compelling chronicle
+p247
+aVof what's now happening to our planet, but we could do more.
+p248
+aa(lp249
+VAn Earth Witness site could also serve as a collection spot
+p250
+aVfor all sorts of data about conditions around the planet
+p251
+aVpicked up by environmental sensors that attach to your cell phone.
+p252
+aVNow, you don't see these devices as add-ons for phones yet,
+p253
+aVbut students and engineers around the world
+p254
+aVhave attached atmospheric sensors to bicycles and handheld computers
+p255
+aVand cheap robots and the backs of pigeons \u2014
+p256
+aVthat being a project that's actually underway right now at U.C. Irvine,
+p257
+aVusing bird-mounted sensors
+p258
+aVas a way of measuring smog-forming pollution.
+p259
+aVIt's hardly a stretch to imagine putting the same thing
+p260
+aVon a phone carried by a person.
+p261
+aVNow, the idea of connecting a sensor to your phone is not new:
+p262
+aVphone-makers around the world offer phones that sniff for bad breath,
+p263
+aVor tell you to worry about too much sun exposure.
+p264
+aVSwedish firm Uppsala Biomedical, more seriously, makes
+p265
+aVa mobile phone add-on that can process blood tests in the field,
+p266
+aVuploading the data, displaying the results.
+p267
+aVEven the Lawrence Livermore National Labs have gotten into the act,
+p268
+aVdesigning a prototype phone
+p269
+aVthat has radiation sensors to find dirty bombs.
+p270
+aa(lp271
+VNow, there's an enormous variety of tiny, inexpensive sensors
+p272
+aVon the market, and you can easily imagine someone putting together
+p273
+aVa phone that could measure temperature, CO2 or methane levels,
+p274
+aVthe presence of some biotoxins \u2014
+p275
+aVpotentially, in a few years, maybe even H5N1 avian flu virus.
+p276
+aVYou could see that some kind of system like this
+p277
+aVwould actually be a really good fit
+p278
+aVwith Larry Brilliant's InSTEDD project.
+p279
+aVNow, all of this data could be tagged with geographic information
+p280
+aVand mashed up with online maps for easy viewing and analysis.
+p281
+aVAnd that's worth noting in particular.
+p282
+aVThe impact of open-access online maps over the last year or two
+p283
+aVhas been simply phenomenal.
+p284
+aVDevelopers around the world have come up with
+p285
+aVan amazing variety of ways to layer useful data on top of the maps,
+p286
+aVfrom bus routes and crime statistics
+p287
+aVto the global progress of avian flu.
+p288
+aVEarth Witness would take this further, linking what you see
+p289
+aVwith what thousands or millions of other people see around the world.
+p290
+aa(lp291
+VIt's kind of exciting to think about what might be accomplished
+p292
+aVif something like this ever existed.
+p293
+aVWe'd have a far better \u2014 far better knowledge
+p294
+aVof what's happening on our planet environmentally
+p295
+aVthan could be gathered with satellites
+p296
+aVand a handful of government sensor nets alone.
+p297
+aVIt would be a collaborative, bottom-up approach
+p298
+aVto environmental awareness and protection,
+p299
+aVable to respond to emerging concerns in a smart mobs kind of way \u2014
+p300
+aVand if you need greater sensor density, just have more people show up.
+p301
+aVAnd most important,
+p302
+aVyou can't ignore how important mobile phones are to global youth.
+p303
+aVThis is a system that could put the next generation
+p304
+aVat the front lines of gathering environmental data.
+p305
+aVAnd as we work to figure out ways to mitigate
+p306
+aVthe worst effects of climate disruption,
+p307
+aVevery little bit of information matters.
+p308
+aVA system like Earth Witness would be a tool for all of us
+p309
+aVto participate in the improvement of our knowledge and, ultimately,
+p310
+aVthe improvement of the planet itself.
+p311
+aa(lp312
+VNow, as I suggested at the outset,
+p313
+aVthere are thousands upon thousands of good ideas out there,
+p314
+aVso why have I spent the bulk of my time
+p315
+aVtelling you about something that doesn't exist?
+p316
+aVBecause this is what tomorrow could look like:
+p317
+aVbottom-up, technology-enabled global collaboration
+p318
+aVto handle the biggest crisis our civilization has ever faced.
+p319
+aVWe can save the planet, but we can't do it alone \u2014 we need each other.
+p320
+aVNobody's going to fix the world for us, but working together,
+p321
+aVmaking use of technological innovations and human communities alike,
+p322
+aVwe might just be able to fix it ourselves.
+p323
+aVWe have at our fingertips a cornucopia of compelling models,
+p324
+aVpowerful tools, and innovative ideas
+p325
+aVthat can make a meaningful difference in our planet's future.
+p326
+aVWe don't need to wait for a magic bullet to save us all;
+p327
+aVwe already have an arsenal of solutions just waiting to be used.
+p328
+aVThere's a staggering array of wonders out there,
+p329
+aVacross diverse disciplines, all telling us the same thing:
+p330
+aVsuccess can be ours if we're willing to try.
+p331
+aVAnd as we say at Worldchanging,
+p332
+aVanother world isn't just possible; another world is here.
+p333
+aVWe just need to open our eyes. Thank you very much.
+p334
+aasS'id'
+p335
+I439
+sS'title'
+p336
+VTools for a better world
+p337
+s.

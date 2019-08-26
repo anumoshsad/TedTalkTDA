@@ -1,0 +1,490 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSpace,
+p4
+aVwe all know what it looks like.
+p5
+aVWe've been surrounded by images of space
+p6
+aVour whole lives,
+p7
+aVfrom the speculative images
+p8
+aVof science fiction
+p9
+aVto the inspirational visions of artists
+p10
+aVto the increasingly beautiful pictures
+p11
+aVmade possible by complex technologies.
+p12
+aVBut whilst we have
+p13
+aVan overwhelmingly vivid
+p14
+aVvisual understanding of space,
+p15
+aVwe have no sense of what space sounds like.
+p16
+aa(lp17
+VAnd indeed, most people associate space with silence.
+p18
+aVBut the story of how
+p19
+aVwe came to understand the universe
+p20
+aVis just as much a story of listening
+p21
+aVas it is by looking.
+p22
+aVAnd yet despite this,
+p23
+aVhardly any of us have ever heard space.
+p24
+aVHow many of you here
+p25
+aVcould describe the sound
+p26
+aVof a single planet or star?
+p27
+aVWell in case you've ever wondered,
+p28
+aVthis is what the Sun sounds like.
+p29
+aa(lp30
+V(Static)
+p31
+aV(Crackling)
+p32
+aV(Static)
+p33
+aV(Crackling)
+p34
+aa(lp35
+VThis is the planet Jupiter.
+p36
+aa(lp37
+V(Soft crackling)
+p38
+aa(lp39
+VAnd this is the space probe Cassini
+p40
+aVpirouetting through the ice rings of Saturn.
+p41
+aa(lp42
+V(Crackling)
+p43
+aa(lp44
+VThis is a a highly condensed clump
+p45
+aVof neutral matter,
+p46
+aVspinning in the distant universe.
+p47
+aa(lp48
+V(Tapping)
+p49
+aa(lp50
+VSo my artistic practice
+p51
+aVis all about listening
+p52
+aVto the weird and wonderful noises
+p53
+aVemitted by the magnificent celestial objects
+p54
+aVthat make up our universe.
+p55
+aVAnd you may wonder,
+p56
+aVhow do we know what these sounds are?
+p57
+aVHow can we tell the difference
+p58
+aVbetween the sound of the Sun
+p59
+aVand the sound of a pulsar?
+p60
+aVWell the answer
+p61
+aVis the science of radio astronomy.
+p62
+aVRadio astronomers
+p63
+aVstudy radio waves from space
+p64
+aVusing sensitive antennas and receivers,
+p65
+aVwhich give them precise information
+p66
+aVabout what an astronomical object is
+p67
+aVand where it is in our night sky.
+p68
+aVAnd just like the signals
+p69
+aVthat we send and receive here on Earth,
+p70
+aVwe can convert these transmissions into sound
+p71
+aVusing simple analog techniques.
+p72
+aVAnd therefore, it's through listening
+p73
+aVthat we've come to uncover
+p74
+aVsome of the universe's most important secrets \u2014
+p75
+aVits scale, what it's made of
+p76
+aVand even how old it is.
+p77
+aa(lp78
+VSo today, I'm going to tell you a short story
+p79
+aVof the history of the universe through listening.
+p80
+aVIt's punctuated
+p81
+aVby three quick anecdotes,
+p82
+aVwhich show how accidental encounters
+p83
+aVwith strange noises
+p84
+aVgave us some of the most important information
+p85
+aVwe have about space.
+p86
+aVNow this story doesn't start
+p87
+aVwith vast telescopes
+p88
+aVor futuristic spacecraft,
+p89
+aVbut a rather more humble technology \u2014
+p90
+aVand in fact, the very medium
+p91
+aVwhich gave us the telecommunications revolution
+p92
+aVthat we're all part of today:
+p93
+aVthe telephone.
+p94
+aa(lp95
+VIt's 1876, it's in Boston,
+p96
+aVand this is Alexander Graham Bell
+p97
+aVwho was working with Thomas Watson
+p98
+aVon the invention of the telephone.
+p99
+aVA key part of their technical set up
+p100
+aVwas a half-mile long length of wire,
+p101
+aVwhich was thrown across the rooftops
+p102
+aVof several houses in Boston.
+p103
+aVThe line carried the telephone signals
+p104
+aVthat would later make Bell a household name.
+p105
+aVBut like any long length of charged wire,
+p106
+aVit also inadvertently became
+p107
+aVan antenna.
+p108
+aVThomas Watson
+p109
+aVspent hours listening
+p110
+aVto the strange crackles and hisses
+p111
+aVand chirps and whistles
+p112
+aVthat his accidental antenna detected.
+p113
+aVNow you have to remember,
+p114
+aVthis is 10 years before
+p115
+aVHeinrich Hertz proved the existence of radio waves \u2014
+p116
+aV15 years before Nikola Tesla's four-tuned circuit \u2014
+p117
+aVnearly 20 years before Marconi's first broadcast.
+p118
+aVSo Thomas Watson wasn't listening to us.
+p119
+aVWe didn't have the technology
+p120
+aVto transmit.
+p121
+aa(lp122
+VSo what were these strange noises?
+p123
+aVWatson was in fact listening
+p124
+aVto very low-frequency radio emissions
+p125
+aVcaused by nature.
+p126
+aVSome of the crackles and pops were lightning,
+p127
+aVbut the eerie whistles
+p128
+aVand curiously melodious chirps
+p129
+aVhad a rather more exotic origin.
+p130
+aVUsing the very first telephone,
+p131
+aVWatson was in fact
+p132
+aVdialed into the heavens.
+p133
+aVAs he correctly guessed,
+p134
+aVsome of these sounds were caused
+p135
+aVby activity on the surface of the Sun.
+p136
+aVIt was a solar wind
+p137
+aVinteracting with our ionosphere
+p138
+aVthat he was listening to \u2014
+p139
+aVa phenomena which we can see
+p140
+aVat the extreme northern and southern latitudes of our planet
+p141
+aVas the aurora.
+p142
+aVSo whilst inventing the technology
+p143
+aVthat would usher in the telecommunications revolution,
+p144
+aVWatson had discovered
+p145
+aVthat the star at the center of our solar system
+p146
+aVemitted powerful radio waves.
+p147
+aVHe had accidentally been the first person
+p148
+aVto tune in to them.
+p149
+aa(lp150
+VFast-forward 50 years,
+p151
+aVand Bell and Watson's technology
+p152
+aVhas completely transformed
+p153
+aVglobal communications.
+p154
+aVBut going from slinging some wire
+p155
+aVacross rooftops in Boston
+p156
+aVto laying thousands and thousands of miles of cable
+p157
+aVon the Atlantic Ocean seabed
+p158
+aVis no easy matter.
+p159
+aVAnd so before long,
+p160
+aVBell were looking to new technologies
+p161
+aVto optimize their revolution.
+p162
+aVRadio could carry sound without wires.
+p163
+aVBut the medium is lossy \u2014
+p164
+aVit's subject to a lot of noise and interference.
+p165
+aVSo Bell employed an engineer
+p166
+aVto study those noises,
+p167
+aVto try and find out where they came from,
+p168
+aVwith a view towards building
+p169
+aVthe perfect hardware codec, which would get rid of them
+p170
+aVso they could think about using radio
+p171
+aVfor the purposes of telephony.
+p172
+aa(lp173
+VMost of the noises
+p174
+aVthat the engineer, Karl Jansky, investigated
+p175
+aVwere fairly prosaic in origin.
+p176
+aVThey turned out to be lightning
+p177
+aVor sources of electrical power.
+p178
+aVBut there was one persistent noise
+p179
+aVthat Jansky couldn't identify,
+p180
+aVand it seemed to appear
+p181
+aVin his radio headset
+p182
+aVfour minutes earlier each day.
+p183
+aVNow any astronomer will tell you,
+p184
+aVthis is the telltale sign
+p185
+aVof something that doesn't originate from Earth.
+p186
+aVJansky had made a historic discovery,
+p187
+aVthat celestial objects could emit radio waves
+p188
+aVas well as light waves.
+p189
+aVFifty years on
+p190
+aVfrom Watson's accidental encounter with the Sun,
+p191
+aVJansky's careful listening
+p192
+aVushered in a new age of space exploration:
+p193
+aVthe radio astronomy age.
+p194
+aVOver the next few years,
+p195
+aVastronomers connected up their antennas to loudspeakers
+p196
+aVand learned about our radio sky,
+p197
+aVabout Jupiter and the Sun,
+p198
+aVby listening.
+p199
+aa(lp200
+VLet's jump ahead again.
+p201
+aVIt's 1964,
+p202
+aVand we're back at Bell Labs.
+p203
+aVAnd once again,
+p204
+aVtwo scientists have got a problem with noise.
+p205
+aVArno Penzias and Robert Wilson
+p206
+aVwere using the horn antenna
+p207
+aVat Bell's Holmdel laboratory
+p208
+aVto study the Milky Way
+p209
+aVwith extraordinary precision.
+p210
+aVThey were really listening
+p211
+aVto the galaxy in high fidelity.
+p212
+aVThere was a glitch in their soundtrack.
+p213
+aVA mysterious persistent noise
+p214
+aVwas disrupting their research.
+p215
+aVIt was in the microwave range,
+p216
+aVand it appeared to be coming
+p217
+aVfrom all directions simultaneously.
+p218
+aVNow this didn't make any sense,
+p219
+aVand like any reasonable engineer or scientist,
+p220
+aVthey assumed that the problem must be the technology itself,
+p221
+aVit must be the dish.
+p222
+aVThere were pigeons roosting in the dish.
+p223
+aVAnd so perhaps once they cleaned up the pigeon droppings,
+p224
+aVget the disk kind of operational again,
+p225
+aVnormal operations would resume.
+p226
+aa(lp227
+VBut the noise didn't disappear.
+p228
+aVThe mysterious noise
+p229
+aVthat Penzias and Wilson were listening to
+p230
+aVturned out to be the oldest and most significant sound
+p231
+aVthat anyone had ever heard.
+p232
+aVIt was cosmic radiation
+p233
+aVleft over from the very birth of the universe.
+p234
+aVThis was the first experimental evidence
+p235
+aVthat the Big Bang existed
+p236
+aVand the universe was born at a precise moment
+p237
+aVsome 14.7 billion years ago.
+p238
+aVSo our story ends
+p239
+aVat the beginning \u2014
+p240
+aVthe beginning of all things, the Big Bang.
+p241
+aVThis is the noise that Penzias and Wilson heard \u2014
+p242
+aVthe oldest sound that you're ever going to hear,
+p243
+aVthe cosmic microwave background radiation
+p244
+aVleft over from the Big Bang.
+p245
+aa(lp246
+V(Fuzz)
+p247
+aa(lp248
+VThanks.
+p249
+aa(lp250
+V(Applause)
+p251
+aasS'id'
+p252
+I1177
+sS'title'
+p253
+VA history of the universe in sound
+p254
+s.

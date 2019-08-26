@@ -1,0 +1,937 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+V(Video) Nicholas Negroponte:  Can we switch to the video disc,
+p4
+aVwhich is in play mode?
+p5
+aa(lp6
+VI'm really interested in how you put people and computers together.
+p7
+aVWe will be using the TV screens or their equivalents
+p8
+aVfor electronic books of the future.
+p9
+aV(Music, crosstalk)
+p10
+aVVery interested in touch-sensitive displays,
+p11
+aVhigh-tech, high-touch, not having to pick up your fingers to use them.
+p12
+aVThere is another way where computers
+p13
+aVtouch people: wearing, physically wearing.
+p14
+aVSuddenly on September 11th,
+p15
+aVthe world got bigger.
+p16
+aa(lp17
+VNN: Thank you. (Applause)
+p18
+aa(lp19
+VThank you.
+p20
+aa(lp21
+VWhen I was asked to do this,
+p22
+aVI was also asked to look at all 14 TED Talks
+p23
+aVthat I had given,
+p24
+aVchronologically.
+p25
+aVThe first one was actually two hours.
+p26
+aVThe second one was an hour,
+p27
+aVand then they became half hours,
+p28
+aVand all I noticed was my bald spot getting bigger.
+p29
+aV(Laughter)
+p30
+aVImagine seeing your life, 30 years of it, go by,
+p31
+aVand it was, to say the least,
+p32
+aVfor me, quite a shocking experience.
+p33
+aVSo what I'm going to do in my time
+p34
+aVis try and share with you what happened
+p35
+aVduring the 30 years,
+p36
+aVand then also make a prediction,
+p37
+aVand then tell you a little bit
+p38
+aVabout what I'm doing next.
+p39
+aVAnd I put on a slide
+p40
+aVwhere TED 1 happened in my life.
+p41
+aVAnd it's rather important
+p42
+aVbecause I had done 15 years of research before it,
+p43
+aVso I had a backlog, so it was easy.
+p44
+aVIt's not that I was Fidel Castro
+p45
+aVand I could talk for two hours,
+p46
+aVor Bucky Fuller.
+p47
+aVI had 15 years of stuff,
+p48
+aVand the Media Lab was about to start.
+p49
+aVSo that was easy.
+p50
+aa(lp51
+VBut there are a couple of things
+p52
+aVabout that period
+p53
+aVand about what happened that are
+p54
+aVreally quite important.
+p55
+aVOne is that
+p56
+aVit was a period when computers
+p57
+aVweren't yet for people.
+p58
+aVAnd the other thing that sort of happened
+p59
+aVduring that time is that
+p60
+aVwe were considered sissy computer scientists.
+p61
+aVWe weren't considered the real thing.
+p62
+aVSo what I'm going to show you is, in retrospect,
+p63
+aVa lot more interesting and a lot more accepted
+p64
+aVthan it was at the time.
+p65
+aa(lp66
+VSo I'm going to characterize the years
+p67
+aVand I'm even going to go back
+p68
+aVto some very early work of mine,
+p69
+aVand this was the kind of stuff I was doing in the '60s:
+p70
+aVvery direct manipulation,
+p71
+aVvery influenced as I studied architecture
+p72
+aVby the architect Moshe Safdie,
+p73
+aVand you can see that we even built robotic things
+p74
+aVthat could build habitat-like structures.
+p75
+aVAnd this for me was
+p76
+aVnot yet the Media Lab,
+p77
+aVbut was the beginning of what I'll call
+p78
+aVsensory computing,
+p79
+aVand I pick fingers
+p80
+aVpartly because everybody thought it was ridiculous.
+p81
+aVPapers were published
+p82
+aVabout how stupid it was to use fingers.
+p83
+aVThree reasons: One was they were low-resolution.
+p84
+aVThe other is your hand would occlude
+p85
+aVwhat you wanted to see,
+p86
+aVand the third, which was the winner,
+p87
+aVwas that your fingers would get the screen dirty,
+p88
+aVand hence, fingers would never be
+p89
+aVa device that you'd use.
+p90
+aVAnd this was a device we built in the '70s,
+p91
+aVwhich has never even been picked up.
+p92
+aVIt's not just touch sensitive,
+p93
+aVit's pressure sensitive.
+p94
+aa(lp95
+V(Video) Voice: Put a yellow circle there.
+p96
+aa(lp97
+VNN: Later work, and again this was before TED 1 \u2014
+p98
+aa(lp99
+V(Video) Voice: Move that west of the diamond.
+p100
+aVCreate a large green circle there.
+p101
+aVMan: Aw, shit.
+p102
+aa(lp103
+VNN: \u2014 was to sort of do interface concurrently,
+p104
+aVso when you talked and you pointed
+p105
+aVand you had, if you will,
+p106
+aVmultiple channels.
+p107
+aa(lp108
+VEntebbe happened.
+p109
+aV1976, Air France was hijacked,
+p110
+aVtaken to Entebbe,
+p111
+aVand the Israelis not only did an extraordinary rescue,
+p112
+aVthey did it partly because they had practiced
+p113
+aVon a physical model of the airport,
+p114
+aVbecause they had built the airport,
+p115
+aVso they built a model in the desert,
+p116
+aVand when they arrived at Entebbe,
+p117
+aVthey knew where to go because they had actually been there.
+p118
+aVThe U.S. government asked some of us, '76,
+p119
+aVif we could replicate that computationally,
+p120
+aVand of course somebody like myself says yes.
+p121
+aVImmediately, you get a contract,
+p122
+aVDepartment of Defense,
+p123
+aVand we built this truck and this rig.
+p124
+aVWe did sort of a simulation,
+p125
+aVbecause you had video discs,
+p126
+aVand again, this is '76.
+p127
+aVAnd then many years later,
+p128
+aVyou get this truck,
+p129
+aVand so you have Google Maps.
+p130
+aa(lp131
+VStill people thought,
+p132
+aVno, that was not serious computer science,
+p133
+aVand it was a man named Jerry Wiesner,
+p134
+aVwho happened to be the president of MIT,
+p135
+aVwho did think it was computer science.
+p136
+aVAnd one of the keys for anybody
+p137
+aVwho wants to start something in life:
+p138
+aVMake sure your president is part of it.
+p139
+aVSo when I was doing the Media Lab,
+p140
+aVit was like having a gorilla in the front seat.
+p141
+aVIf you were stopped for speeding
+p142
+aVand the officer looked in the window
+p143
+aVand saw who was in the passenger seat,
+p144
+aVthen, "Oh, continue on, sir."
+p145
+aVAnd so we were able,
+p146
+aVand this is a cute, actually, device, parenthetically.
+p147
+aVThis was a lenticular photograph of Jerry Wiesner
+p148
+aVwhere the only thing that changed in the photograph
+p149
+aVwere the lips.
+p150
+aVSo when you oscillated that little piece
+p151
+aVof lenticular sheet with his photograph,
+p152
+aVit would be in lip sync
+p153
+aVwith zero bandwidth.
+p154
+aVIt was a zero-bandwidth teleconferencing system
+p155
+aVat the time.
+p156
+aa(lp157
+VSo this was the Media Lab's \u2014
+p158
+aVthis is what we said we'd do,
+p159
+aVthat the world of computers, publishing,
+p160
+aVand so on would come together.
+p161
+aVAgain, not generally accepted,
+p162
+aVbut very much part of TED in the early days.
+p163
+aVAnd this is really where we were headed.
+p164
+aVAnd that created the Media Lab.
+p165
+aVOne of the things about age
+p166
+aVis that I can tell you with great confidence,
+p167
+aVI've been to the future.
+p168
+aVI've been there, actually, many times.
+p169
+aVAnd the reason I say that is,
+p170
+aVhow many times in my life have I said,
+p171
+aV"Oh, in 10 years, this will happen,"
+p172
+aVand then 10 years comes.
+p173
+aVAnd then you say, "Oh, in five years, this will happen."
+p174
+aVAnd then five years comes.
+p175
+aVSo I say this a little bit with having felt
+p176
+aVthat I'd been there a number of times,
+p177
+aVand one of the things that is most quoted
+p178
+aVthat I've ever said
+p179
+aVis that computing is not about computers,
+p180
+aVand that didn't quite get enough traction,
+p181
+aVand then it started to.
+p182
+aVIt started to because people caught on
+p183
+aVthat the medium wasn't the message.
+p184
+aVAnd the reason I show this car
+p185
+aVin actually a rather ugly slide
+p186
+aVis just again to tell you the kind of story
+p187
+aVthat characterized a little bit of my life.
+p188
+aVThis is a student of mine
+p189
+aVwho had done a Ph.D. called "Backseat Driver."
+p190
+aVIt was in the early days of GPS,
+p191
+aVthe car knew where it was,
+p192
+aVand it would give audio instructions
+p193
+aVto the driver, when to turn right,  when to turn left and so on.
+p194
+aVTurns out, there are a lot of things
+p195
+aVin those instructions that back in that period
+p196
+aVwere pretty challenging,
+p197
+aVlike what does it mean, take the next right?
+p198
+aVWell, if you're coming up on a street,
+p199
+aVthe next right's probably the one after,
+p200
+aVand there are lots of issues,
+p201
+aVand the student did a wonderful thesis,
+p202
+aVand the MIT patent office said "Don't patent it.
+p203
+aVIt'll never be accepted.
+p204
+aVThe liabilities are too large.
+p205
+aVThere will be insurance issues.
+p206
+aVDon't patent it."
+p207
+aVSo we didn't,
+p208
+aVbut it shows you how people, again, at times,
+p209
+aVdon't really look at what's happening.
+p210
+aa(lp211
+VSome work, and I'll just go through these very quickly,
+p212
+aVa lot of sensory stuff.
+p213
+aVYou might recognize a young Yo-Yo Ma
+p214
+aVand tracking his body for playing
+p215
+aVthe cello or the hypercello.
+p216
+aVThese fellows literally walked  around like that at the time.
+p217
+aVIt's now a little bit more discreet
+p218
+aVand more commonplace.
+p219
+aa(lp220
+VAnd then there are at least three heroes
+p221
+aVI want to quickly mention.
+p222
+aVMarvin Minsky, who taught me a lot
+p223
+aVabout common sense,
+p224
+aVand I will talk briefly about Muriel Cooper,
+p225
+aVwho was very important to Ricky Wurman
+p226
+aVand to TED, and in fact, when she got onstage,
+p227
+aVshe said, the first thing she said was,
+p228
+aV"I introduced Ricky to Nicky."
+p229
+aVAnd nobody calls me Nicky
+p230
+aVand nobody calls Richard Ricky,
+p231
+aVso nobody knew who she was talking about.
+p232
+aVAnd then, of course, Seymour Papert,
+p233
+aVwho is the person who said,
+p234
+aV"You can't think about thinking
+p235
+aVunless you think about thinking about something."
+p236
+aVAnd that's actually \u2014 you can unpack that later.
+p237
+aVIt's a pretty profound statement.
+p238
+aa(lp239
+VI'm showing some slides
+p240
+aVthat were from TED 2,
+p241
+aVa little silly as slides, perhaps.
+p242
+aVThen I felt television really was about displays.
+p243
+aVAgain, now we're past TED 1,
+p244
+aVbut just around the time of TED 2,
+p245
+aVand what I'd like to mention here is,
+p246
+aVeven though you could imagine
+p247
+aVintelligence in the device,
+p248
+aVI look today at some of the work
+p249
+aVbeing done about the Internet of Things,
+p250
+aVand I think it's kind of tragically pathetic,
+p251
+aVbecause what has happened is people take
+p252
+aVthe oven panel and put it on your cell phone,
+p253
+aVor the door key onto your cell phone,
+p254
+aVjust taking it and bringing it to you,
+p255
+aVand in fact that's actually what you don't want.
+p256
+aVYou want to put a chicken in the oven,
+p257
+aVand the oven says, "Aha, it's a chicken,"
+p258
+aVand it cooks the chicken.
+p259
+aV"Oh, it's cooking the chicken for Nicholas,
+p260
+aVand he likes it this way and that way."
+p261
+aVSo the intelligence, instead of being in the device,
+p262
+aVwe have started today
+p263
+aVto move it back onto the cell phone
+p264
+aVor closer to the user,
+p265
+aVnot a particularly enlightened view
+p266
+aVof the Internet of Things.
+p267
+aVTelevision, again, television what I said today,
+p268
+aVthat was back in 1990,
+p269
+aVand the television of tomorrow
+p270
+aVwould look something like that.
+p271
+aVAgain, people, but they laughed cynically,
+p272
+aVthey didn't laugh with much appreciation.
+p273
+aa(lp274
+VTelecommunications in the 1990s,
+p275
+aVGeorge Gilder decided that he would call this diagram
+p276
+aVthe Negroponte switch.
+p277
+aVI'm probably much less famous than George,
+p278
+aVso when he called it the Negroponte switch, it stuck,
+p279
+aVbut the idea of things that came in the ground
+p280
+aVwould go in the air and stuff in the air
+p281
+aVwould go into the ground
+p282
+aVhas played itself out.
+p283
+aVThat is the original slide from that year,
+p284
+aVand it has worked in lockstep obedience.
+p285
+aa(lp286
+VWe started Wired magazine.
+p287
+aVSome people, I remember we shared
+p288
+aVthe reception desk periodically,
+p289
+aVand some parent called up irate that his son
+p290
+aVhad given up Sports Illustrated
+p291
+aVto subscribe for Wired,
+p292
+aVand he said, "Are you some porno magazine or something?"
+p293
+aVand couldn't understand why his son
+p294
+aVwould be interested in Wired, at any rate.
+p295
+aa(lp296
+VI will go through this a little quicker.
+p297
+aVThis is my favorite, 1995,
+p298
+aVback page of Newsweek magazine.
+p299
+aVOkay. Read it. (Laughter)
+p300
+aa(lp301
+V["Nicholas Negroponte, director of the MIT Media Lab, predicts that we'll soon buy books and newspapers straight over the Internet. Uh, sure." \u2014Clifford Stoll, Newsweek, 1995]
+p302
+aa(lp303
+VYou must admit that gives you,
+p304
+aVat least it gives me pleasure
+p305
+aVwhen somebody says how dead wrong you are.
+p306
+aa(lp307
+V"Being Digital" came out.
+p308
+aVFor me, it gave me an opportunity
+p309
+aVto be more in the trade press
+p310
+aVand get this out to the public,
+p311
+aVand it also allowed us to build the new Media Lab,
+p312
+aVwhich if you haven't been to, visit,
+p313
+aVbecause it's a beautiful piece of architecture
+p314
+aVaside from being a wonderful place to work.
+p315
+aVSo these are the things we were saying in those TEDs.
+p316
+aa(lp317
+V[Today, multimedia is a desktop or living room experience, because the apparatus is so clunky. This will change dramatically with small, bright, thin, high-resolution displays. \u2014 1995]
+p318
+aa(lp319
+VWe came to them.
+p320
+aVI looked forward to it every year.
+p321
+aVIt was the party that Ricky Wurman never had
+p322
+aVin the sense that he invited many of his old friends,
+p323
+aVincluding myself.
+p324
+aa(lp325
+VAnd then something for me changed
+p326
+aVpretty profoundly.
+p327
+aVI became more involved with computers and learning
+p328
+aVand influenced by Seymour,
+p329
+aVbut particularly looking at learning
+p330
+aVas something that is best approximated
+p331
+aVby computer programming.
+p332
+aVWhen you write a computer program,
+p333
+aVyou've got to not just list things out
+p334
+aVand sort of take an algorithm
+p335
+aVand translate it into a set of instructions,
+p336
+aVbut when there's a bug, and all programs have bugs,
+p337
+aVyou've got to de-bug it.
+p338
+aVYou've got to go in, change it,
+p339
+aVand then re-execute,
+p340
+aVand you iterate,
+p341
+aVand that iteration is really
+p342
+aVa very, very good approximation of learning.
+p343
+aa(lp344
+VSo that led to my own work with Seymour
+p345
+aVin places like Cambodia
+p346
+aVand the starting of One Laptop per Child.
+p347
+aVEnough TED Talks on One Laptop per Child,
+p348
+aVso I'll go through it very fast,
+p349
+aVbut it did give us the chance
+p350
+aVto do something at a relatively large scale
+p351
+aVin the area of learning, development and computing.
+p352
+aVVery few people know that One Laptop per Child
+p353
+aVwas a $1 billion project,
+p354
+aVand it was, at least over the seven years I ran it,
+p355
+aVbut even more important, the World Bank
+p356
+aVcontributed zero, USAID zero.
+p357
+aVIt was mostly the countries using their own treasuries,
+p358
+aVwhich is very interesting,
+p359
+aVat least to me it was very interesting
+p360
+aVin terms of what I plan to do next.
+p361
+aVSo these are the various places it happened.
+p362
+aa(lp363
+VI then tried an experiment,
+p364
+aVand the experiment happened in Ethiopia.
+p365
+aVAnd here's the experiment.
+p366
+aVThe experiment is,
+p367
+aVcan learning happen where there are no schools.
+p368
+aVAnd we dropped off tablets
+p369
+aVwith no instructions
+p370
+aVand let the children figure it out.
+p371
+aVAnd in a short period of time,
+p372
+aVthey not only
+p373
+aVturned them on and were using 50 apps per child
+p374
+aVwithin five days,
+p375
+aVthey were singing "ABC" songs within two weeks,
+p376
+aVbut they hacked Android within six months.
+p377
+aVAnd so that seemed sufficiently interesting.
+p378
+aVThis is perhaps the best picture I have.
+p379
+aVThe kid on your right
+p380
+aVhas sort of nominated himself as teacher.
+p381
+aVLook at the kid on the left, and so on.
+p382
+aVThere are no adults involved in this at all.
+p383
+aVSo I said, well can we do this
+p384
+aVat a larger scale?
+p385
+aVAnd what is it that's missing?
+p386
+aVThe kids are giving a press conference at this point,
+p387
+aVand sort of writing in the dirt.
+p388
+aVAnd the answer is, what is missing?
+p389
+aVAnd I'm going to skip over my prediction, actually,
+p390
+aVbecause I'm running out of time,
+p391
+aVand here's the question, is what's going to happen?
+p392
+aa(lp393
+VI think the challenge
+p394
+aVis to connect the last billion people,
+p395
+aVand connecting the last billion
+p396
+aVis very different than connecting the next billion,
+p397
+aVand the reason it's different
+p398
+aVis that the next billion
+p399
+aVare sort of low-hanging fruit,
+p400
+aVbut the last billion are rural.
+p401
+aVBeing rural and being poor
+p402
+aVare very different.
+p403
+aVPoverty tends to be created by our society,
+p404
+aVand the people in that community are not poor
+p405
+aVin the same way at all.
+p406
+aVThey may be primitive,
+p407
+aVbut the way to approach it and to connect them,
+p408
+aVthe history of One Laptop per Child,
+p409
+aVand the experiment in Ethiopia,
+p410
+aVlead me to believe that we can in fact
+p411
+aVdo this in a very short period of time.
+p412
+aa(lp413
+VAnd so my plan,
+p414
+aVand unfortunately I haven't been able
+p415
+aVto get my partners at this point
+p416
+aVto let me announce them,
+p417
+aVbut is to do this with a stationary satellite.
+p418
+aVThere are many reasons
+p419
+aVthat stationary satellites aren't the best things,
+p420
+aVbut there are a lot of reasons why they are,
+p421
+aVand for two billion dollars,
+p422
+aVyou can connect a lot more than 100 million people,
+p423
+aVbut the reason I picked two,
+p424
+aVand I will leave this as my last slide,
+p425
+aVis two billion dollars
+p426
+aVis what we were spending
+p427
+aVin Afghanistan
+p428
+aVevery week.
+p429
+aVSo surely if we can connect
+p430
+aVAfrica and the last billion people
+p431
+aVfor numbers like that,
+p432
+aVwe should be doing it.
+p433
+aa(lp434
+VThank you very much.
+p435
+aa(lp436
+V(Applause)
+p437
+aa(lp438
+VChris Anderson: Stay up there. Stay up there.
+p439
+aa(lp440
+VNN: You're going to give me extra time?
+p441
+aa(lp442
+VCA: No. That was wickedly clever, wickedly clever.
+p443
+aVYou gamed it beautifully.
+p444
+aVNicholas, what is your prediction?
+p445
+aV(Laughter)
+p446
+aa(lp447
+VNN: Thank you for asking.
+p448
+aVI'll tell you what my prediction is,
+p449
+aVand my prediction, and this is a prediction,
+p450
+aVbecause it'll be 30 years. I won't be here.
+p451
+aVBut one of the things about learning how to read,
+p452
+aVwe have been doing a lot of consuming
+p453
+aVof information going through our eyes,
+p454
+aVand so that may be a very inefficient channel.
+p455
+aVSo my prediction is that we are  going to ingest information
+p456
+aVYou're going to swallow a pill and know English.
+p457
+aVYou're going to swallow a pill and know Shakespeare.
+p458
+aVAnd the way to do it is through the bloodstream.
+p459
+aVSo once it's in your bloodstream,
+p460
+aVit basically goes through it and gets into the brain,
+p461
+aVand when it knows that it's in the brain
+p462
+aVin the different pieces,
+p463
+aVit deposits it in the right places.
+p464
+aVSo it's ingesting.
+p465
+aa(lp466
+VCA: Have you been hanging out with Ray Kurzweil by any chance?
+p467
+aa(lp468
+VNN: No, but I've been hanging around with Ed Boyden
+p469
+aVand hanging around with one of the speakers
+p470
+aVwho is here, Hugh Herr,
+p471
+aVand there are a number of people.
+p472
+aVThis isn't quite as far-fetched,
+p473
+aVso 30 years from now.
+p474
+aa(lp475
+VCA: We will check it out.
+p476
+aVWe're going to be back and we're going to play this clip 30 years from now,
+p477
+aVand then all eat the red pill.
+p478
+aa(lp479
+VWell thank you for that.
+p480
+aa(lp481
+VNicholas Negroponte.
+p482
+aa(lp483
+VNN: Thank you.
+p484
+aa(lp485
+V(Applause)
+p486
+aasS'id'
+p487
+I2043
+sS'title'
+p488
+VA 30-year history of the future
+p489
+s.

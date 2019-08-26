@@ -1,0 +1,590 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIf you want to buy high-quality, low-price cocaine,
+p4
+aVthere really is only one place to go,
+p5
+aVand that is the dark net anonymous markets.
+p6
+aa(lp7
+VNow, you can't get to these sites
+p8
+aVwith a normal browser \u2014 Chrome or Firefox \u2014
+p9
+aVbecause they're on this hidden part of the Internet,
+p10
+aVknown as Tor hidden services,
+p11
+aVwhere URLs are a string of meaningless numbers and letters that end in .onion,
+p12
+aVand which you access with a special browser
+p13
+aVcalled the Tor browser.
+p14
+aa(lp15
+VNow, the Tor browser was originally a U.S. Naval intelligence project.
+p16
+aVIt then became open source,
+p17
+aVand it allows anybody to browse the net
+p18
+aVwithout giving away their location.
+p19
+aVAnd it does this by encrypting your IP address
+p20
+aVand then routing it via several other computers around the world
+p21
+aVthat use the same software.
+p22
+aVYou can use it on the normal Internet,
+p23
+aVbut it's also your key to the dark net.
+p24
+aVAnd because of this fiendishly clever encryption system,
+p25
+aVthe 20 or 30 \u2014 we don't know exactly \u2014 thousand sites that operate there
+p26
+aVare incredibly difficult to shut down.
+p27
+aVIt is a censorship-free world visited by anonymous users.
+p28
+aa(lp29
+VLittle wonder, then, that it's a natural place to go
+p30
+aVfor anybody with something to hide,
+p31
+aVand that something, of course, need not be illegal.
+p32
+aVOn the dark net, you will find
+p33
+aVwhistle-blower sites, The New Yorker.
+p34
+aVYou will find political activism blogs.
+p35
+aVYou will find libraries of pirated books.
+p36
+aVBut you'll also find the drugs markets,
+p37
+aVillegal pornography, commercial hacking services,
+p38
+aVand much more besides.
+p39
+aVNow, the dark net is one of the most interesting, exciting places
+p40
+aVanywhere on the net.
+p41
+aVAnd the reason is, because although innovation, of course,
+p42
+aVtakes place in big businesses,
+p43
+aVtakes place in world-class universities,
+p44
+aVit also takes place in the fringes,
+p45
+aVbecause those on the fringes \u2014 the pariahs, the outcasts \u2014
+p46
+aVthey're often the most creative, because they have to be.
+p47
+aVIn this part of the Internet,
+p48
+aVyou will not find a single lolcat,
+p49
+aVa single pop-up advert anywhere.
+p50
+aVAnd that's one of the reasons why I think
+p51
+aVmany of you here will be on the dark net fairly soon.
+p52
+aa(lp53
+V(Laughter)
+p54
+aa(lp55
+VNot that I'm suggesting anyone in this audience would use it
+p56
+aVto go and procure high-quality narcotics.
+p57
+aVBut let's say for a moment that you were.
+p58
+aa(lp59
+V(Laughter)
+p60
+aa(lp61
+VBear with me.
+p62
+aVThe first thing you will notice on signing up to one of these sites
+p63
+aVis how familiar it looks.
+p64
+aVEvery single product \u2014
+p65
+aVthousands of products \u2014
+p66
+aVhas a glossy, high-res image,
+p67
+aVa detailed product description, a price.
+p68
+aVThere's a "Proceed to checkout" icon.
+p69
+aVThere is even, most beautifully of all,
+p70
+aVa "Report this item" button.
+p71
+aa(lp72
+V(Laughter)
+p73
+aa(lp74
+VIncredible.
+p75
+aa(lp76
+VYou browse through the site, you make your choice,
+p77
+aVyou pay with the crypto-currency bitcoin,
+p78
+aVyou enter an address \u2014  preferably not your home address \u2014
+p79
+aVand you wait for your product to arrive in the post,
+p80
+aVwhich it nearly always does.
+p81
+aVAnd the reason it does is not because of the clever encryption.
+p82
+aVThat's important.
+p83
+aVSomething far simpler than that.
+p84
+aVIt's the user reviews.
+p85
+aa(lp86
+V(Laughter)
+p87
+aa(lp88
+VYou see, every single vendor on these sites
+p89
+aVuses a pseudonym, naturally enough,
+p90
+aVbut they keep the same pseudonym to build up a reputation.
+p91
+aVAnd because it's easy for the buyer to change allegiance whenever they want,
+p92
+aVthe only way of trusting a vendor
+p93
+aVis if they have a good history of positive feedback
+p94
+aVfrom other users of the site.
+p95
+aa(lp96
+VAnd this introduction of competition and choice
+p97
+aVdoes exactly what the economists would predict.
+p98
+aVPrices tend to go down, product quality tends to go up,
+p99
+aVand the vendors are attentive,
+p100
+aVthey're polite, they're consumer-centric,
+p101
+aVoffering you all manner of special deals, one-offs,
+p102
+aVbuy-one-get-one-frees, free delivery,
+p103
+aVto keep you happy.
+p104
+aa(lp105
+VI spoke to Drugsheaven.
+p106
+aVDrugsheaven was offering excellent and consistent marijuana
+p107
+aVat a reasonable price.
+p108
+aVHe had a very generous refund policy,
+p109
+aVdetailed T's and C's,
+p110
+aVand good shipping times.
+p111
+aa(lp112
+V"Dear Drugsheaven," I wrote,
+p113
+aVvia the internal emailing system that's also encrypted, of course.
+p114
+aV"I'm new here. Do you mind if I buy just one gram of marijuana?"
+p115
+aa(lp116
+VA couple of hours later, I get a reply.
+p117
+aVThey always reply.
+p118
+aa(lp119
+V"Hi there, thanks for your email.
+p120
+aVStarting small is a wise thing to do. I would, too, if I were you."
+p121
+aa(lp122
+V(Laughter)
+p123
+aa(lp124
+V"So no problem if you'd like to start with just one gram.
+p125
+aVI do hope we can do business together.
+p126
+aVBest wishes, Drugsheaven."
+p127
+aa(lp128
+V(Laughter)
+p129
+aa(lp130
+VI don't know why he had a posh English accent, but I assume he did.
+p131
+aa(lp132
+VNow, this kind of consumer-centric attitude
+p133
+aVis the reason why, when I reviewed 120,000 pieces of feedback
+p134
+aVthat had been left on one of these sites over a three-month period,
+p135
+aV95 percent of them were five out of five.
+p136
+aVThe customer, you see, is king.
+p137
+aVBut what does that mean?
+p138
+aVWell, on the one hand,
+p139
+aVthat means there are more drugs, more available, more easily,
+p140
+aVto more people.
+p141
+aVAnd by my reckoning, that is not a good thing.
+p142
+aVBut, on the other hand, if you are going to take drugs,
+p143
+aVyou have a reasonably good way
+p144
+aVof guaranteeing a certain level of purity and quality,
+p145
+aVwhich is incredibly important if you're taking drugs.
+p146
+aVAnd you can do so from the comfort of your own home,
+p147
+aVwithout the risks associated with buying on the streets.
+p148
+aa(lp149
+VNow, as I said,
+p150
+aVyou've got to be creative and innovative to survive in this marketplace.
+p151
+aVAnd the 20 or so sites that are currently in operation \u2014
+p152
+aVby the way, they don't always work, they're not always perfect;
+p153
+aVthe site that I showed you was shut down 18 months ago,
+p154
+aVbut not before it had turned over a billion dollars' worth of trade.
+p155
+aVBut these markets,
+p156
+aVbecause of the difficult conditions in which they are operating,
+p157
+aVthe inhospitable conditions,
+p158
+aVare always innovating, always thinking of ways of getting smarter,
+p159
+aVmore decentralized, harder to censor,
+p160
+aVand more customer-friendly.
+p161
+aa(lp162
+VLet's take the payment system.
+p163
+aVYou don't pay with your credit card,
+p164
+aVof course \u2014 that would lead directly back to you.
+p165
+aVSo you use the crypto-currency bitcoin,
+p166
+aVwhich is easily exchanged for real-world currencies
+p167
+aVand gives quite a high degree of anonymity to its users.
+p168
+aa(lp169
+VBut at the beginning of these sites, people noticed a flaw.
+p170
+aVSome of the unscrupulous dealers were running away with peoples' bitcoin
+p171
+aVbefore they'd mailed the drugs out.
+p172
+aVThe community came up with a solution, called multi-signature escrow payments.
+p173
+aVSo on purchasing my item,
+p174
+aVI would send my bitcoin
+p175
+aVto a neutral, secure third digital wallet.
+p176
+aVThe vendor, who would see that I'd sent it,
+p177
+aVwould be confident that they could then send the product to me,
+p178
+aVand then when I received it,
+p179
+aVat least two of the three people engaged in the transaction \u2014
+p180
+aVvendor, buyer, site administrator \u2014
+p181
+aVwould have to sign the transaction off
+p182
+aVwith a unique digital signature,
+p183
+aVand then the money would be transferred.
+p184
+aa(lp185
+VBrilliant!
+p186
+aVElegant.
+p187
+aVIt works.
+p188
+aa(lp189
+VBut then they realized there was a problem with bitcoin,
+p190
+aVbecause every bitcoin transaction
+p191
+aVis actually recorded publicly in a public ledger.
+p192
+aVSo if you're clever, you can try and work out who's behind them.
+p193
+aVSo they came up with a tumbling service.
+p194
+aVHundreds of people send their bitcoin into one address,
+p195
+aVthey're tumbled and jumbled up,
+p196
+aVand then the right amount is sent on to the right recipients,
+p197
+aVbut they're different bitcoins:
+p198
+aVmicro-laundering systems.
+p199
+aa(lp200
+V(Laughter)
+p201
+aa(lp202
+VIt's incredible.
+p203
+aa(lp204
+VInterested in what drugs are trending right now on the dark net markets?
+p205
+aVCheck Grams, the search engine.
+p206
+aVYou can even buy some advertising space.
+p207
+aa(lp208
+V(Laughter)
+p209
+aa(lp210
+VAre you an ethical consumer worried about what the drugs industry is doing?
+p211
+aVYeah.
+p212
+aVOne vendor will offer you fair trade organic cocaine.
+p213
+aa(lp214
+V(Laughter)
+p215
+aa(lp216
+VThat's not being sourced from Colombian druglords,
+p217
+aVbut Guatemalan farmers.
+p218
+aVThey even promised to reinvest 20 percent of any profits
+p219
+aVinto local education programs.
+p220
+aa(lp221
+V(Laughter)
+p222
+aa(lp223
+VThere's even a mystery shopper.
+p224
+aa(lp225
+VNow, whatever you think about the morality of these sites \u2014
+p226
+aVand I submit that it's not actually an easy question \u2014
+p227
+aVthe creation of functioning, competitive, anonymous markets,
+p228
+aVwhere nobody knows who anybody else is,
+p229
+aVconstantly at risk of being shut down by the authorities,
+p230
+aVis a staggering achievement,
+p231
+aVa phenomenal achievement.
+p232
+aVAnd it's that kind of innovation
+p233
+aVthat's why those on the fringes
+p234
+aVare often the harbingers of what is to come.
+p235
+aa(lp236
+VIt's easy to forget
+p237
+aVthat because of its short life,
+p238
+aVthe Internet has actually changed many times
+p239
+aVover the last 30 years or so.
+p240
+aVIt started in the '70s as a military project,
+p241
+aVmorphed in the 1980s to an academic network,
+p242
+aVco-opted by commercial companies in the '90s,
+p243
+aVand then invaded by all of us via social media in the noughties,
+p244
+aVbut I think it's going to change again.
+p245
+aVAnd I think things like the dark net markets \u2014
+p246
+aVcreative, secure, difficult to censor \u2014
+p247
+aVI think that's the future.
+p248
+aa(lp249
+VAnd the reason it's the future
+p250
+aVis because we're all worried about our privacy.
+p251
+aVSurveys consistently show concerns about privacy.
+p252
+aVThe more time we spend online, the more we worry about them,
+p253
+aVand those surveys show our worries are growing.
+p254
+aVWe're worried about what happens to our data.
+p255
+aVWe're worried about who might be watching us.
+p256
+aa(lp257
+VSince the revelations from Edward Snowden,
+p258
+aVthere's been a huge increase in the number of people
+p259
+aVusing various privacy-enhancing tools.
+p260
+aVThere are now between two and three million daily users
+p261
+aVof the Tor browser,
+p262
+aVthe majority of which use is perfectly legitimate,
+p263
+aVsometimes even mundane.
+p264
+aVAnd there are hundreds of activists around the world
+p265
+aVworking on techniques and tools to keep you private online \u2014
+p266
+aVdefault encrypted messaging services.
+p267
+aVEthereum, which is a project which tries to link up
+p268
+aVthe connected but unused hard drives of millions of computers around the world,
+p269
+aVto create a sort of distributed Internet that no one really controls.
+p270
+aVNow, we've had distributed computing before, of course.
+p271
+aVWe use it for everything from Skype to the search for extraterrestrial life.
+p272
+aVBut you add distributed computing and powerful encryption \u2014
+p273
+aVthat's very, very hard to censor and control.
+p274
+aVAnother called MaidSafe works on similar principles.
+p275
+aVAnother called Twister, and so on and so on.
+p276
+aa(lp277
+VAnd here's the thing \u2014
+p278
+aVthe more of us join,
+p279
+aVthe more interesting those sites become,
+p280
+aVand then the more of us join, and so on.
+p281
+aVAnd I think that's what's going to happen.
+p282
+aa(lp283
+VIn fact, it's already happening.
+p284
+aVThe dark net is no longer a den for dealers
+p285
+aVand a hideout for whistle-blowers.
+p286
+aVIt's already going mainstream.
+p287
+aVJust recently, the musician Aphex Twin released his album as a dark net site.
+p288
+aVFacebook has started a dark net site.
+p289
+aVA group of London architects have opened a dark net site
+p290
+aVfor people worried about regeneration projects.
+p291
+aVYes, the dark net is going mainstream,
+p292
+aVand I predict that fairly soon, every social media company,
+p293
+aVevery major news outlet,
+p294
+aVand therefore most of you in this audience,
+p295
+aVwill be using the dark net, too.
+p296
+aa(lp297
+VSo the Internet is about to get more interesting,
+p298
+aVmore exciting, more innovative,
+p299
+aVmore terrible,
+p300
+aVmore destructive.
+p301
+aVThat's good news if you care about liberty.
+p302
+aVIt's good news if you care about freedom.
+p303
+aVIt's good news if you care about democracy.
+p304
+aVIt's also good news
+p305
+aVif you want to browse for illegal pornography
+p306
+aVand if you want to buy and sell drugs
+p307
+aVwith impunity.
+p308
+aVNeither entirely dark, nor entirely light.
+p309
+aVIt's not one side or the other that's going to win out, but both.
+p310
+aa(lp311
+VThank you very much, indeed.
+p312
+aa(lp313
+V(Applause)
+p314
+aasS'id'
+p315
+I2322
+sS'title'
+p316
+VHow the mysterious dark net is going mainstream
+p317
+s.

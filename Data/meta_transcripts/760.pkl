@@ -1,0 +1,741 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThe problem I want to talk with you about is really the problem of:
+p4
+aVHow does one supply health care in a world in which cost is everything?
+p5
+aVHow do you do that?
+p6
+aVAnd the basic paradigm we want to suggest to you,
+p7
+aVI want to suggest to you,
+p8
+aVis one in which you say that in order to treat disease,
+p9
+aVyou have to first know what you're treating, that's diagnostics,
+p10
+aVand then you have to do something.
+p11
+aa(lp12
+VThe program we're involved in is something we call "Diagnostics for All,"
+p13
+aVor "zero-cost diagnostics."
+p14
+aVHow do you provide medically relevant information
+p15
+aVat as close as possible to zero cost?
+p16
+aVHow do you do it?
+p17
+aVLet me just give you two examples.
+p18
+aVThe rigors of military medicine are not so dissimilar from the third world:
+p19
+aVpoor resources, a rigorous environment \u2014 a series of problems \u2014
+p20
+aVlight weight and things of this kind.
+p21
+aVAnd also they're not so different from the home health care
+p22
+aVand diagnostic system world.
+p23
+aa(lp24
+VSo, the technology I want to talk about is for the third world,
+p25
+aVfor the developing world,
+p26
+aVbut it has, I think, much broader application,
+p27
+aVbecause information is so important in the health care system.
+p28
+aVSo you see two examples here.
+p29
+aVOne is a lab that is actually a fairly high-end laboratory in Africa.
+p30
+aVThe second is basically an entrepreneur who is set up and doing who-knows-what
+p31
+aVat a table in a market.
+p32
+aVI don't know what kind of health care is delivered there.
+p33
+aVBut it's not really what is probably most efficient.
+p34
+aa(lp35
+VWhat is our approach?
+p36
+aVThe way in which one typically approaches a problem of lowering cost,
+p37
+aVstarting from the perspective of the United States,
+p38
+aVis to take our solution,
+p39
+aVand then try to cut cost out of it.
+p40
+aVNo matter how you do that,
+p41
+aVyou're not going to start with a $100,000 instrument
+p42
+aVand bring it down to no cost.
+p43
+aVIt isn't going to work.
+p44
+aa(lp45
+VSo the approach we took was the other way around, to ask:
+p46
+aVWhat is the cheapest possible stuff
+p47
+aVthat you could make a diagnostic system out of,
+p48
+aVand get useful information and add function?
+p49
+aVAnd what we've chosen is paper.
+p50
+aVWhat you see here is a prototypic device.
+p51
+aVIt's about a centimeter on the side.
+p52
+aVIt's about the size of a fingernail.
+p53
+aVThe lines around the edges are a polymer.
+p54
+aVIt's made of paper.
+p55
+aVAnd paper, of course, wicks fluid, as you know, paper, cloth \u2014
+p56
+aVdrop wine on the tablecloth,
+p57
+aVand the wine wicks all over everything.
+p58
+aVPut it on your shirt, it ruins the shirt.
+p59
+aVThat's what a hydrophilic surface does.
+p60
+aa(lp61
+VSo in this device, the idea is that you drip the bottom end of it
+p62
+aVin a drop of, in this case, urine.
+p63
+aVThe fluid wicks its way into those chambers at the top.
+p64
+aVThe brown color indicates the amount of glucose in the urine,
+p65
+aVthe blue color indicates the amount of protein in the urine.
+p66
+aVAnd the combination of those two is a first-order shot
+p67
+aVat a number of useful things that you want.
+p68
+aVSo, this is an example of a device made from a simple piece of paper.
+p69
+aa(lp70
+VNow, how simple can you make the production?
+p71
+aVWhy do we choose paper?
+p72
+aVThere's an example of the same thing on a finger,
+p73
+aVshowing you basically what it looks like.
+p74
+aVOne reason for using paper is that it's everywhere.
+p75
+aVWe have made these kinds of devices using napkins and toilet paper
+p76
+aVand wraps, and all kinds of stuff.
+p77
+aa(lp78
+VSo the production capability is there.
+p79
+aVThe second is, you can put lots and lots of tests in a very small place.
+p80
+aVI'll show you in a moment that the stack of paper there
+p81
+aVwould probably hold something like 100,000 tests,
+p82
+aVsomething of that kind.
+p83
+aa(lp84
+VAnd then finally, a point you don't think of so much
+p85
+aVin developed world medicine:
+p86
+aVit eliminates sharps.
+p87
+aVAnd what sharps means is needles, things that stick.
+p88
+aVIf you've taken a sample of someone's blood
+p89
+aVand the someone might have hepatitis C,
+p90
+aVyou don't want to make a mistake and stick it in you.
+p91
+aVYou don't want to do that.
+p92
+aVSo how do you dispose of that?
+p93
+aVIt's a problem everywhere, and here, you simply burn it.
+p94
+aVSo it's a sort of a practical approach to starting on things.
+p95
+aa(lp96
+VNow, you say, "If paper is a good idea,
+p97
+aVother people have surely thought of it."
+p98
+aVAnd the answer is, of course, yes.
+p99
+aVThose half of you, roughly, who are women,
+p100
+aVat some point may have had a pregnancy test.
+p101
+aVAnd the most common of these is in a device
+p102
+aVthat looks like the thing on the left.
+p103
+aVIt's something called a lateral-flow immunoassay.
+p104
+aVIn that particular test,
+p105
+aVurine, either containing a hormone called hCG,
+p106
+aVdoes or does not flow across a piece of paper.
+p107
+aVAnd there are two bars; one bar indicates that the test is working,
+p108
+aVand if the second bar shows up, you're pregnant.
+p109
+aa(lp110
+VThis is a terrific kind of test in a binary world,
+p111
+aVand the nice thing about pregnancy is either you are pregnant
+p112
+aVor you're not pregnant;
+p113
+aVyou're not partially pregnant or thinking about being pregnant
+p114
+aVor something of that sort.
+p115
+aVSo it works very well there, but it doesn't work very well
+p116
+aVwhen you need more quantitative information.
+p117
+aa(lp118
+VThere are also dipsticks,
+p119
+aVbut if you look at the dipsticks,
+p120
+aVthey're for another kind of urine analysis.
+p121
+aVThere are an awful lot of colors and things like that.
+p122
+aVWhat do you actually do about that in a difficult circumstance?
+p123
+aVSo the approach we started with is to ask:
+p124
+aVIs it really practical to make things of this sort?
+p125
+aVAnd that problem is now, in a purely engineering way, solved.
+p126
+aVAnd the procedure that we have is simply to start with paper.
+p127
+aVYou run it through a new kind of printer called a wax printer.
+p128
+aVThe wax printer does what looks like printing.
+p129
+aVIt is printing.
+p130
+aVYou put that on, you warm it a little bit,
+p131
+aVthe wax prints through, so it absorbs into the paper,
+p132
+aVand you end up with the device you want.
+p133
+aa(lp134
+VThe printers cost 800 bucks now.
+p135
+aVWe estimate that if you were to run them 24 hours a day,
+p136
+aVthey'd make about 10 million tests a year.
+p137
+aVSo it's a solved problem. That particular problem is solved.
+p138
+aVAnd there is an example of the kind of thing that you see.
+p139
+aVThat's on a piece of 8 by 12 paper.
+p140
+aVThat takes about two seconds to make.
+p141
+aVAnd so I regard that as done.
+p142
+aVThere's a very important issue here,
+p143
+aVwhich is that because it's a printer, a color printer, it prints colors.
+p144
+aVThat's what color printers do.
+p145
+aVI'll show you in a moment, that's actually quite useful.
+p146
+aa(lp147
+VNow, the next question that you would like to ask is:
+p148
+aVWhat would you like to measure? What would you like to analyze?
+p149
+aVAnd the thing you'd most like to analyze, we're a fair distance from.
+p150
+aVIt's what's called "fever of undiagnosed origin."
+p151
+aVSomeone comes into the clinic, they have a fever, they feel bad.
+p152
+aVWhat do they have?
+p153
+aVDo they have TB? Do they have AIDS? Do they have a common cold?
+p154
+aVThe triage problem.
+p155
+aVThat's a hard problem for reasons I won't go through.
+p156
+aVThere are an awful lot of things that you'd like to distinguish among.
+p157
+aVBut then there are a series of things \u2014
+p158
+aVAIDS, hepatitis, malaria, TB, others \u2014
+p159
+aVand simpler ones, such as guidance of treatment.
+p160
+aa(lp161
+VNow, even that's more complicated than you think.
+p162
+aVA friend of mine works in transcultural psychiatry,
+p163
+aVand he is interested in the question
+p164
+aVof why people do and don't take their meds.
+p165
+aVSo Dapsone, or something like that, you have to take for a while.
+p166
+aVHe has a wonderful story of talking to a villager in India
+p167
+aVand saying,
+p168
+aV"Have you taken your Dapsone?" "Yes."
+p169
+aV"Have you taken it every day?" "Yes."
+p170
+aV"Have you taken if for a month?" "Yes."
+p171
+aVWhat the guy actually meant
+p172
+aVwas that he'd fed a 30-day dose of Dapsone to his dog that morning.
+p173
+aa(lp174
+V(Laughter)
+p175
+aa(lp176
+VAnd he was telling the truth, because in a different culture,
+p177
+aVthe dog is a surrogate for you;
+p178
+aV"today," "this month," "since the rainy season" \u2014
+p179
+aVthere are lots of opportunities for misunderstanding.
+p180
+aa(lp181
+V(Laughter)
+p182
+aa(lp183
+VAnd so an issue here is to, in some cases, figure out
+p184
+aVhow to deal with matters that seem uninteresting, like compliance.
+p185
+aa(lp186
+VNow, take a look at what a typical test looks like.
+p187
+aVPrick a finger, you get some blood \u2014 about 50 microliters.
+p188
+aVThat's about all you're going to get,
+p189
+aVbecause you can't use the usual sort of systems.
+p190
+aVYou can't manipulate it very well;
+p191
+aVI'll show something about that in a moment.
+p192
+aVSo you take the drop of blood, no further manipulations,
+p193
+aVyou put it on a little device,
+p194
+aVthe device filters out the blood cells, lets the serum go through,
+p195
+aVand you get a series of colors down in the bottom there.
+p196
+aVAnd the colors indicate "disease" or "normal."
+p197
+aVBut even that's complicated,
+p198
+aVbecause to me, colors might indicate "normal,"
+p199
+aVbut after all, we're all suffering from probably an excess of education.
+p200
+aa(lp201
+VWhat do you do about something which requires quantitative analysis?
+p202
+aVAnd so the solution that we and many other people
+p203
+aVare thinking about there,
+p204
+aVand at this point, there is a dramatic flourish,
+p205
+aVand out comes the universal solution to everything these days,
+p206
+aVwhich is a cell phone \u2014
+p207
+aVin this particular case, a camera phone.
+p208
+aVThey're everywhere \u2014 six billion a month in India.
+p209
+aVAnd the idea is that what one does is to take the device,
+p210
+aVyou dip it, you develop the color,
+p211
+aVyou take a picture, the picture goes to a central laboratory.
+p212
+aVYou don't have to send out a doctor,
+p213
+aVyou send out somebody who can just take the sample,
+p214
+aVand in the clinic either a doctor, or ideally, a computer in this case,
+p215
+aVdoes the analysis.
+p216
+aVTurns out to work actually quite well,
+p217
+aVparticularly when your color printer has printed the color bars
+p218
+aVthat indicate how things work.
+p219
+aa(lp220
+VSo my view of the health care worker of the future
+p221
+aVis not a doctor, but an 18-year-old,
+p222
+aVotherwise unemployed, who has two things:
+p223
+aVa backpack full of these tests and a lancet
+p224
+aVto occasionally take a blood sample,
+p225
+aVand an AK-47.
+p226
+aVAnd these are the things that get him through his day.
+p227
+aa(lp228
+V(Laughter)
+p229
+aa(lp230
+VThere's another very interesting connection here,
+p231
+aVand that is, that what one wants to do is pass through useful information
+p232
+aVover what is generally a pretty awful telephone system.
+p233
+aVIt turns out there's an enormous amount of information
+p234
+aValready available on that subject, which is the Mars Rover problem.
+p235
+aVHow do you get back an accurate view of the color on Mars
+p236
+aVif you have a really terrible bandwidth to do it with?
+p237
+aVAnd the answer is not complicated,
+p238
+aVbut it's one which I don't want to go through here,
+p239
+aVother than to say that the communication systems for doing this
+p240
+aVare really pretty well understood.
+p241
+aa(lp242
+VAlso, a fact which you may not know
+p243
+aVis that the compute capability of this thing is not so different
+p244
+aVfrom the compute capability of your desktop computer.
+p245
+aVThis is a fantastic device which is only beginning to be tapped.
+p246
+aVI don't know whether the idea of one computer, one child
+p247
+aVmakes any sense.
+p248
+aVHere's the computer of the future,
+p249
+aVbecause this screen is already there and they're ubiquitous.
+p250
+aa(lp251
+VAll right, let me show you just a little bit about advanced devices.
+p252
+aVAnd we'll start by posing a little problem.
+p253
+aVWhat you see here is another centimeter-sized device,
+p254
+aVand the different colors are different colors of dye.
+p255
+aVAnd you notice something
+p256
+aVwhich might strike you as a little bit interesting,
+p257
+aVwhich is, the yellow seems to disappear,
+p258
+aVget through the blue, and then get through the red.
+p259
+aVHow does that happen?
+p260
+aVHow do you make something flow through something?
+p261
+aVAnd, of course the answer is, "You don't."
+p262
+aVYou make it flow under and over.
+p263
+aa(lp264
+VBut now the question is:
+p265
+aVHow do you make it flow under and over in a piece of paper?
+p266
+aVThe answer is that what you do \u2014
+p267
+aVand the details are not terribly important here \u2014
+p268
+aVis to make something more elaborate:
+p269
+aVYou take several different layers of paper,
+p270
+aVeach one containing its own little fluid system,
+p271
+aVand you separate them by pieces of, literally, double-sided carpet tape,
+p272
+aVthe stuff you use to stick the carpets onto the floor.
+p273
+aVAnd the fluid will flow from one layer into the next.
+p274
+aVIt distributes itself, flows through further holes,
+p275
+aVdistributes itself.
+p276
+aa(lp277
+VAnd what you see, at the lower right-hand side there,
+p278
+aVis a sample in which a single sample of blood has been put on the top,
+p279
+aVand it has gone through and distributed itself
+p280
+aVinto these 16 holes on the bottom,
+p281
+aVin a piece of paper \u2014 basically, it looks like a chip,
+p282
+aVtwo pieces of paper thick.
+p283
+aVAnd in this particular case,
+p284
+aVwe were just interested in the replicability of that.
+p285
+aVBut that is, in principle, the way you solve
+p286
+aVthe "fever of unexplained origin" problem,
+p287
+aVbecause each one of those spots then becomes a test
+p288
+aVfor a particular set of markers of disease,
+p289
+aVand this will work in due course.
+p290
+aa(lp291
+VHere is an example of a slightly more complicated device.
+p292
+aVThere's the chip.
+p293
+aVYou dip in a corner.
+p294
+aVThe fluid goes into the center.
+p295
+aVIt distributes itself out into these various wells or holes
+p296
+aVand turns color,
+p297
+aVall done with paper and carpet tape.
+p298
+aVSo it's, I think, as low-cost
+p299
+aVas we're likely to be able to come up and make things.
+p300
+aa(lp301
+VNow, I have two last little stories to tell you
+p302
+aVin finishing off this business.
+p303
+aVThis is one:
+p304
+aVOne of the things you occasionally need to do
+p305
+aVis separate blood cells from serum.
+p306
+aVAnd the question was,
+p307
+aVhere we do it by taking a sample,
+p308
+aVwe put it in a centrifuge, we spin it,
+p309
+aVand you get blood cells out.
+p310
+aVTerrific.
+p311
+aVWhat happens if you don't have electricity, a centrifuge, and whatever?
+p312
+aVAnd we thought for a while of how you might do this,
+p313
+aVand the way, in fact, you do it, is what's shown here.
+p314
+aVYou get an eggbeater, which is everywhere, and you saw off a blade,
+p315
+aVand then you take tubing, and you stick it on that.
+p316
+aVYou put the blood in, somebody sits there and spins it.
+p317
+aVIt works really, really well.
+p318
+aa(lp319
+VAnd we sat down, we did the physics of eggbeaters
+p320
+aVand self-aligning tubes and all the rest of that kind of thing,
+p321
+aVand sent it off to a journal.
+p322
+aVWe were very proud of this,
+p323
+aVparticularly the title, which was "Eggbeater as Centrifuge."
+p324
+aa(lp325
+V(Laughter)
+p326
+aa(lp327
+VAnd we sent it off,
+p328
+aVand by return mail, it came back.
+p329
+aVI called up the editor and I said,
+p330
+aV"What's going on? How is this possible?"
+p331
+aVThe editor said, with enormous disdain,
+p332
+aV"I read this.
+p333
+aVAnd we're not going to publish it, because we only publish science."
+p334
+aa(lp335
+V(Laughter)
+p336
+aa(lp337
+VAnd it's an important issue,
+p338
+aVbecause it means that we have to, as a society,
+p339
+aVthink about what we value.
+p340
+aVAnd if it's just papers and Phys. Rev. letters,
+p341
+aVwe've got a problem.
+p342
+aa(lp343
+VHere is another example of something which is \u2014
+p344
+aVthis is a little spectrophotometer.
+p345
+aVIt measures the absorption of light in a sample.
+p346
+aVThe neat thing about this is,
+p347
+aVyou have a light source that flickers on and off at about 1,000 hertz,
+p348
+aVanother light source that detects that light at 1,000 hertz,
+p349
+aVand so you can run this system in broad daylight.
+p350
+aVIt performs about equivalently
+p351
+aVto a system that's on the order of 100,000 dollars.
+p352
+aVIt costs 50 dollars.
+p353
+aVWe can probably make it for 50 cents if we put our mind to it.
+p354
+aVWhy doesn't somebody do it?
+p355
+aVThe answer is:
+p356
+aVHow do you make a profit in a capitalist system, doing that?
+p357
+aVInteresting problem.
+p358
+aa(lp359
+VSo, let me finish by saying that we've thought about this
+p360
+aVas a kind of engineering problem.
+p361
+aVAnd we've asked: What is the scientific unifying idea here?
+p362
+aVAnd we've decided we should think about this
+p363
+aVnot so much in terms of cost, but in terms of simplicity.
+p364
+aVSimplicity is a neat word.
+p365
+aVYou've got to think about what simplicity means.
+p366
+aVI know what it is,
+p367
+aVbut I don't actually know what it means.
+p368
+aa(lp369
+VSo I actually was interested enough in this
+p370
+aVto put together several groups of people.
+p371
+aVThe most recent involved a couple of people at MIT,
+p372
+aVone of them being an exceptionally bright kid
+p373
+aVwho is one of the very few people I would think of
+p374
+aVwho's an authentic genius.
+p375
+aVWe all struggled for an entire day to think about simplicity.
+p376
+aVAnd I want to give you the answer of this deep scientific thought.
+p377
+aa(lp378
+V[What is simplicity?
+p379
+aV"It's impossible to f..k it up"]
+p380
+aa(lp381
+V(Laughter)
+p382
+aa(lp383
+VSo, in a sense, you get what you pay for.
+p384
+aa(lp385
+VThank you very much.
+p386
+aa(lp387
+V(Applause)
+p388
+aasS'id'
+p389
+I760
+sS'title'
+p390
+VA lab the size of a postage stamp
+p391
+s.

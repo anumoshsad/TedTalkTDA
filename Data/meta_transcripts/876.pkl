@@ -1,0 +1,850 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWe live in difficult and challenging
+p4
+aVeconomic times, of course.
+p5
+aVAnd one of the first victims
+p6
+aVof difficult economic times,
+p7
+aVI think, is public spending of any kind,
+p8
+aVbut certainly in the firing line at the moment
+p9
+aVis public spending for science,
+p10
+aVand particularly curiosity-led science
+p11
+aVand exploration.
+p12
+aVSo I want to try and convince you in about 15 minutes
+p13
+aVthat that's a ridiculous
+p14
+aVand ludicrous thing to do.
+p15
+aa(lp16
+VBut I think to set the scene,
+p17
+aVI want to show \u2014 the next slide is not my attempt
+p18
+aVto show the worst TED slide in the history of TED,
+p19
+aVbut it is a bit of a mess.
+p20
+aV(Laughter)
+p21
+aVBut actually, it's not my fault; it's from the Guardian newspaper.
+p22
+aVAnd it's actually a beautiful demonstration
+p23
+aVof how much science costs.
+p24
+aVBecause, if I'm going to make the case
+p25
+aVfor continuing to spend on curiosity-driven science and exploration,
+p26
+aVI should tell you how much it costs.
+p27
+aVSo this is a game called "spot the science budgets."
+p28
+aVThis is the U.K. government spend.
+p29
+aVYou see there, it's about 620 billion a year.
+p30
+aa(lp31
+VThe science budget is actually \u2014
+p32
+aVif you look to your left, there's a purple set of blobs
+p33
+aVand then yellow set of blobs.
+p34
+aVAnd it's one of the yellow set of blobs
+p35
+aVaround the big yellow blob.
+p36
+aVIt's about 3.3 billion pounds per year
+p37
+aVout of 620 billion.
+p38
+aVThat funds everything in the U.K.
+p39
+aVfrom medical research, space exploration,
+p40
+aVwhere I work, at CERN in Geneva, particle physics,
+p41
+aVengineering, even arts and humanities,
+p42
+aVfunded from the science budget,
+p43
+aVwhich is that 3.3 billion, that little, tiny yellow blob
+p44
+aVaround the orange blob at the top left of the screen.
+p45
+aVSo that's what we're arguing about.
+p46
+aVThat percentage, by the way, is about the same
+p47
+aVin the U.S. and Germany and France.
+p48
+aVR&D in total in the economy,
+p49
+aVpublicly funded, is about
+p50
+aV0.6 percent of GDP.
+p51
+aVSo that's what we're arguing about.
+p52
+aa(lp53
+VThe first thing I want to say,
+p54
+aVand this is straight from "Wonders of the Solar System,"
+p55
+aVis that our exploration of the solar system and the universe
+p56
+aVhas shown us that it is indescribably beautiful.
+p57
+aVThis is a picture that actually was sent back
+p58
+aVby the Cassini space probe around Saturn,
+p59
+aVafter we'd finished filming "Wonders of the Solar System."
+p60
+aVSo it isn't in the series.
+p61
+aVIt's of the moon Enceladus.
+p62
+aVSo that big sweeping, white
+p63
+aVsphere in the corner is Saturn,
+p64
+aVwhich is actually in the background of the picture.
+p65
+aVAnd that crescent there is the moon Enceladus,
+p66
+aVwhich is about as big as the British Isles.
+p67
+aVIt's about 500 kilometers in diameter.
+p68
+aVSo, tiny moon.
+p69
+aVWhat's fascinating and beautiful ...
+p70
+aVthis an unprocessed picture, by the way, I should say,
+p71
+aVit's black and white, straight from Saturnian orbit.
+p72
+aa(lp73
+VWhat's beautiful is, you can probably see on the limb there
+p74
+aVsome faint, sort of,
+p75
+aVwisps of almost smoke
+p76
+aVrising up from the limb.
+p77
+aVThis is how we visualize that in "Wonders of the Solar System."
+p78
+aVIt's a beautiful graphic.
+p79
+aVWhat we found out were that those faint wisps
+p80
+aVare actually fountains of ice
+p81
+aVrising up from the surface of this tiny moon.
+p82
+aVThat's fascinating and beautiful in itself,
+p83
+aVbut we think that the mechanism
+p84
+aVfor powering those fountains
+p85
+aVrequires there to be lakes of liquid water
+p86
+aVbeneath the surface of this moon.
+p87
+aVAnd what's important about that
+p88
+aVis that, on our planet, on Earth,
+p89
+aVwherever we find liquid water,
+p90
+aVwe find life.
+p91
+aVSo, to find strong evidence
+p92
+aVof liquid, pools of liquid, beneath the surface of a moon
+p93
+aV750 million miles away from the Earth
+p94
+aVis really quite astounding.
+p95
+aVSo what we're saying, essentially,
+p96
+aVis maybe that's a habitat for life in the solar system.
+p97
+aVWell, let me just say, that was a graphic. I just want to show this picture.
+p98
+aVThat's one more picture of Enceladus.
+p99
+aVThis is when Cassini flew beneath Enceladus.
+p100
+aVSo it made a very low pass,
+p101
+aVjust a few hundred kilometers above the surface.
+p102
+aVAnd so this, again, a real picture of the ice fountains rising up into space,
+p103
+aVabsolutely beautiful.
+p104
+aa(lp105
+VBut that's not the prime candidate for life in the solar system.
+p106
+aVThat's probably this place,
+p107
+aVwhich is a moon of Jupiter, Europa.
+p108
+aVAnd again, we had to fly to the Jovian system
+p109
+aVto get any sense that this moon, as most moons,
+p110
+aVwas anything other than a dead ball of rock.
+p111
+aVIt's actually an ice moon.
+p112
+aVSo what you're looking at is the surface of the moon Europa,
+p113
+aVwhich is a thick sheet of ice, probably a hundred kilometers thick.
+p114
+aVBut by measuring the way that
+p115
+aVEuropa interacts
+p116
+aVwith the magnetic field of Jupiter,
+p117
+aVand looking at how those cracks in the ice
+p118
+aVthat you can see there on that graphic move around,
+p119
+aVwe've inferred very strongly
+p120
+aVthat there's an ocean of liquid surrounding
+p121
+aVthe entire surface of Europa.
+p122
+aVSo below the ice, there's an ocean of liquid around the whole moon.
+p123
+aVIt could be hundreds of kilometers deep, we think.
+p124
+aVWe think it's saltwater, and that would mean that
+p125
+aVthere's more water on that moon of Jupiter
+p126
+aVthan there is in all the oceans of the Earth combined.
+p127
+aVSo that place, a little moon around Jupiter,
+p128
+aVis probably the prime candidate
+p129
+aVfor finding life on a moon
+p130
+aVor a body outside the Earth, that we know of.
+p131
+aVTremendous and beautiful discovery.
+p132
+aa(lp133
+VOur exploration of the solar system
+p134
+aVhas taught us that the solar system is beautiful.
+p135
+aVIt may also have pointed the way to answering
+p136
+aVone of the most profound questions that you can possibly ask,
+p137
+aVwhich is: "Are we alone in the universe?"
+p138
+aVIs there any other use to exploration and science,
+p139
+aVother than just a sense of wonder?
+p140
+aVWell, there is.
+p141
+aVThis is a very famous picture
+p142
+aVtaken, actually, on my first Christmas Eve,
+p143
+aVDecember 24th, 1968,
+p144
+aVwhen I was about eight months old.
+p145
+aVIt was taken by Apollo 8
+p146
+aVas it went around the back of the moon.
+p147
+aVEarthrise from Apollo 8.
+p148
+aVA famous picture; many people have said that it's the picture
+p149
+aVthat saved 1968,
+p150
+aVwhich was a turbulent year \u2014
+p151
+aVthe student riots in Paris,
+p152
+aVthe height of the Vietnam War.
+p153
+aVThe reason many people think that about this picture,
+p154
+aVand Al Gore has said it many times, actually, on the stage at TED,
+p155
+aVis that this picture, arguably, was
+p156
+aVthe beginning of the environmental movement.
+p157
+aVBecause, for the first time,
+p158
+aVwe saw our world,
+p159
+aVnot as a solid, immovable,
+p160
+aVkind of indestructible place,
+p161
+aVbut as a very small, fragile-looking world
+p162
+aVjust hanging against the blackness of space.
+p163
+aa(lp164
+VWhat's also not often said
+p165
+aVabout the space exploration, about the Apollo program,
+p166
+aVis the economic contribution it made.
+p167
+aVI mean while you can make arguments that it was wonderful
+p168
+aVand a tremendous achievement
+p169
+aVand delivered pictures like this,
+p170
+aVit cost a lot, didn't it?
+p171
+aVWell, actually, many studies have been done
+p172
+aVabout the economic effectiveness,
+p173
+aVthe economic impact of Apollo.
+p174
+aVThe biggest one was in 1975 by Chase Econometrics.
+p175
+aVAnd it showed that for every $1 spent on Apollo,
+p176
+aV14 came back into the U.S. economy.
+p177
+aVSo the Apollo program paid for itself
+p178
+aVin inspiration,
+p179
+aVin engineering, achievement
+p180
+aVand, I think, in inspiring young scientists and engineers
+p181
+aV14 times over.
+p182
+aVSo exploration can pay for itself.
+p183
+aa(lp184
+VWhat about scientific discovery?
+p185
+aVWhat about driving innovation?
+p186
+aVWell, this looks like a picture of virtually nothing.
+p187
+aVWhat it is, is a picture of the spectrum
+p188
+aVof hydrogen.
+p189
+aVSee, back in the 1880s, 1890s,
+p190
+aVmany scientists, many observers,
+p191
+aVlooked at the light given off from atoms.
+p192
+aVAnd they saw strange pictures like this.
+p193
+aVWhat you're seeing when you put it through a prism
+p194
+aVis that you heat hydrogen up and it doesn't just glow
+p195
+aVlike a white light,
+p196
+aVit just emits light at particular colors,
+p197
+aVa red one, a light blue one, some dark blue ones.
+p198
+aVNow that led to an understanding of atomic structure
+p199
+aVbecause the way that's explained
+p200
+aVis atoms are a single nucleus
+p201
+aVwith electrons going around them.
+p202
+aVAnd the electrons can only be in particular places.
+p203
+aVAnd when they jump up to the next place they can be,
+p204
+aVand fall back down again,
+p205
+aVthey emit light at particular colors.
+p206
+aa(lp207
+VAnd so the fact that atoms, when you heat them up,
+p208
+aVonly emit light at very specific colors,
+p209
+aVwas one of the key drivers
+p210
+aVthat led to the development of the quantum theory,
+p211
+aVthe theory of the structure of atoms.
+p212
+aVI just wanted to show this picture because this is remarkable.
+p213
+aVThis is actually a picture of the spectrum of the Sun.
+p214
+aVAnd now, this is a picture of atoms in the Sun's atmosphere
+p215
+aVabsorbing light.
+p216
+aVAnd again, they only absorb light at particular colors
+p217
+aVwhen electrons jump up and fall down,
+p218
+aVjump up and fall down.
+p219
+aVBut look at the number of black lines in that spectrum.
+p220
+aVAnd the element helium
+p221
+aVwas discovered just by staring at the light from the Sun
+p222
+aVbecause some of those black lines were found
+p223
+aVthat corresponded to no known element.
+p224
+aVAnd that's why helium's called helium.
+p225
+aVIt's called "helios" \u2014 helios from the Sun.
+p226
+aa(lp227
+VNow, that sounds esoteric,
+p228
+aVand indeed it was an esoteric pursuit,
+p229
+aVbut the quantum theory quickly led
+p230
+aVto an understanding of the behaviors of electrons in materials
+p231
+aVlike silicon, for example.
+p232
+aVThe way that silicon behaves,
+p233
+aVthe fact that you can build transistors,
+p234
+aVis a purely quantum phenomenon.
+p235
+aVSo without that curiosity-driven
+p236
+aVunderstanding of the structure of atoms,
+p237
+aVwhich led to this rather esoteric theory, quantum mechanics,
+p238
+aVthen we wouldn't have transistors, we wouldn't have silicon chips,
+p239
+aVwe wouldn't have pretty much the basis
+p240
+aVof our modern economy.
+p241
+aa(lp242
+VThere's one more, I think, wonderful twist to that tale.
+p243
+aVIn "Wonders of the Solar System,"
+p244
+aVwe kept emphasizing the laws of physics are universal.
+p245
+aVIt's one of the most incredible things about the physics
+p246
+aVand the understanding of nature that you get on Earth,
+p247
+aVis you can transport it, not only to the planets,
+p248
+aVbut to the most distant stars and galaxies.
+p249
+aVAnd one of the astonishing predictions
+p250
+aVof quantum mechanics,
+p251
+aVjust by looking at the structure of atoms \u2014
+p252
+aVthe same theory that describes transistors \u2014
+p253
+aVis that there can be no stars in the universe
+p254
+aVthat have reached the end of their life
+p255
+aVthat are bigger than, quite specifically, 1.4 times the mass of the Sun.
+p256
+aVThat's a limit imposed on the mass of stars.
+p257
+aVYou can work it out on a piece of paper in a laboratory,
+p258
+aVget a telescope, swing it to the sky,
+p259
+aVand you find that there are no dead stars
+p260
+aVbigger than 1.4 times the mass of the Sun.
+p261
+aVThat's quite an incredible prediction.
+p262
+aa(lp263
+VWhat happens when you have a star that's right on the edge of that mass?
+p264
+aVWell, this is a picture of it.
+p265
+aVThis is the picture of a galaxy, a common "our garden" galaxy
+p266
+aVwith, what, 100 billion
+p267
+aVstars like our Sun in it.
+p268
+aVIt's just one of billions of galaxies in the universe.
+p269
+aVThere are a billion stars in the galactic core,
+p270
+aVwhich is why it's shining out so brightly.
+p271
+aVThis is about 50 million light years away,
+p272
+aVso one of our neighboring galaxies.
+p273
+aVBut that bright star there
+p274
+aVis actually one of the stars in the galaxy.
+p275
+aVSo that star is also
+p276
+aV50 million light years away.
+p277
+aVIt's part of that galaxy, and it's shining as brightly
+p278
+aVas the center of the galaxy
+p279
+aVwith a billion suns in it.
+p280
+aVThat's a Type Ia supernova explosion.
+p281
+aVNow that's an incredible phenomena,
+p282
+aVbecause it's a star that sits there.
+p283
+aVIt's called a carbon-oxygen dwarf.
+p284
+aVIt sits there about, say, 1.3 times the mass of the Sun.
+p285
+aVAnd it has a binary companion that goes around it,
+p286
+aVso a big star, a big ball of gas.
+p287
+aVAnd what it does is it sucks gas
+p288
+aVoff its companion star,
+p289
+aVuntil it gets to this limit called the Chandrasekhar limit,
+p290
+aVand then it explodes.
+p291
+aVAnd it explodes, and it shines as brightly
+p292
+aVas a billion suns for about two weeks,
+p293
+aVand releases, not only energy,
+p294
+aVbut a huge amount of chemical elements into the universe.
+p295
+aVIn fact, that one is a carbon-oxygen dwarf.
+p296
+aa(lp297
+VNow, there was no carbon and oxygen
+p298
+aVin the universe at the Big Bang.
+p299
+aVAnd there was no carbon and oxygen in the universe
+p300
+aVthroughout the first generation of stars.
+p301
+aVIt was made in stars like that,
+p302
+aVlocked away and then returned to the universe
+p303
+aVin explosions like that
+p304
+aVin order to recondense into planets,
+p305
+aVstars, new solar systems
+p306
+aVand, indeed, people like us.
+p307
+aVI think that's a remarkable demonstration of the power
+p308
+aVand beauty and universality of the laws of physics,
+p309
+aVbecause we understand that process,
+p310
+aVbecause we understand
+p311
+aVthe structure of atoms here on Earth.
+p312
+aa(lp313
+VThis is a beautiful quote that I found \u2014
+p314
+aVwe're talking about serendipity there \u2014 from Alexander Fleming:
+p315
+aV"When I woke up just after dawn
+p316
+aVon September 28, 1928,
+p317
+aVI certainly didn't plan to revolutionize all medicine
+p318
+aVby discovering the world's first antibiotic."
+p319
+aVNow, the explorers of the world of the atom
+p320
+aVdid not intend to invent the transistor.
+p321
+aVAnd they certainly didn't intend to
+p322
+aVdescribe the mechanics of supernova explosions,
+p323
+aVwhich eventually told us where
+p324
+aVthe building blocks of life
+p325
+aVwere synthesized in the universe.
+p326
+aVSo, I think science can be \u2014
+p327
+aVserendipity is important.
+p328
+aVIt can be beautiful. It can reveal quite astonishing things.
+p329
+aVIt can also, I think, finally
+p330
+aVreveal the most profound
+p331
+aVideas to us
+p332
+aVabout our place in the universe
+p333
+aVand really the value of our home planet.
+p334
+aa(lp335
+VThis is a spectacular picture of our home planet.
+p336
+aVNow, it doesn't look like our home planet.
+p337
+aVIt looks like Saturn because, of course, it is.
+p338
+aVIt was taken by the Cassini space probe.
+p339
+aVBut it's a famous picture, not because of
+p340
+aVthe beauty and majesty of Saturn's rings,
+p341
+aVbut actually because of a tiny, faint blob
+p342
+aVjust hanging underneath one of the rings.
+p343
+aVAnd if I blow it up there, you see it.
+p344
+aVIt looks like a moon,
+p345
+aVbut in fact, it's a picture of Earth.
+p346
+aVIt was a picture of Earth captured in that frame of Saturn.
+p347
+aVThat's our planet from 750 million miles away.
+p348
+aVI think the Earth has got a strange property
+p349
+aVthat the farther away you get from it,
+p350
+aVthe more beautiful it seems.
+p351
+aa(lp352
+VBut that is not the most distant or most famous picture of our planet.
+p353
+aVIt was taken by this thing, which is called the Voyager spacecraft.
+p354
+aVAnd that's a picture of me in front of it for scale.
+p355
+aVThe Voyager is a tiny machine.
+p356
+aVIt's currently 10 billion miles away from Earth,
+p357
+aVtransmitting with that dish, with the power of 20 watts,
+p358
+aVand we're still in contact with it.
+p359
+aVBut it visited Jupiter, Saturn,
+p360
+aVUranus and Neptune.
+p361
+aVAnd after it visited all four of those planets,
+p362
+aVCarl Sagan, who's one of my great heroes,
+p363
+aVhad the wonderful idea
+p364
+aVof turning Voyager around
+p365
+aVand taking a picture of every planet it had visited.
+p366
+aVAnd it took this picture of Earth.
+p367
+aVNow it's very hard to see the Earth there, it's called the "Pale Blue Dot" picture,
+p368
+aVbut Earth is suspended in that red shaft of light.
+p369
+aVThat's Earth from four billion miles away.
+p370
+aa(lp371
+VAnd I'd like to read you what
+p372
+aVSagan wrote about it, just to finish,
+p373
+aVbecause I cannot say words as beautiful as this
+p374
+aVto describe what he saw
+p375
+aVin that picture that he had taken.
+p376
+aVHe said, "Consider again that dot.
+p377
+aVThat's here. That's home. That's us.
+p378
+aVOn it, everyone you love,
+p379
+aVeveryone you know, everyone you've ever heard of,
+p380
+aVevery human being who ever was
+p381
+aVlived out their lives.
+p382
+aVThe aggregates of joy and suffering
+p383
+aVthousands of confident religions,
+p384
+aVideologies and economic doctrines,
+p385
+aVevery hunter and forager, every hero and coward,
+p386
+aVevery creator and destroyer of civilization,
+p387
+aVevery king and peasant, every young couple in love,
+p388
+aVevery mother and father, hopeful child,
+p389
+aVinventor and explorer,
+p390
+aVevery teacher of morals, every corrupt politician,
+p391
+aVevery superstar, every supreme leader,
+p392
+aVevery saint and sinner in the history of our species,
+p393
+aVlived there, on a mote of dust,
+p394
+aVsuspended in a sunbeam.
+p395
+aVIt's been said that astronomy's a humbling
+p396
+aVand character-building experience.
+p397
+aVThere is perhaps no better demonstration
+p398
+aVof the folly of human conceits
+p399
+aVthan this distant image of our tiny world.
+p400
+aVTo me, it underscores our responsibility
+p401
+aVto deal more kindly with one another
+p402
+aVand to preserve and cherish the pale blue dot,
+p403
+aVthe only home we've ever known."
+p404
+aa(lp405
+VBeautiful words about
+p406
+aVthe power of science and exploration.
+p407
+aVThe argument has always been made, and it will always be made,
+p408
+aVthat we know enough about the universe.
+p409
+aVYou could have made it in the 1920s; you wouldn't have had penicillin.
+p410
+aVYou could have made it in the 1890s; you wouldn't have the transistor.
+p411
+aVAnd it's made today in these difficult economic times.
+p412
+aVSurely, we know enough.
+p413
+aVWe don't need to discover anything else about our universe.
+p414
+aa(lp415
+VLet me leave the last words to someone
+p416
+aVwho's rapidly becoming a hero of mine,
+p417
+aVHumphrey Davy, who did his science at the turn of the 19th century.
+p418
+aVHe was clearly under assault all the time.
+p419
+aV"We know enough at the turn of the 19th century.
+p420
+aVJust exploit it; just build things."
+p421
+aVHe said this, he said, "Nothing is more fatal
+p422
+aVto the progress of the human mind
+p423
+aVthan to presume that our views of science
+p424
+aVare ultimate,
+p425
+aVthat our triumphs are complete,
+p426
+aVthat there are no mysteries in nature,
+p427
+aVand that there are no new worlds to conquer."
+p428
+aa(lp429
+VThank you.
+p430
+aa(lp431
+V(Applause)
+p432
+aasS'id'
+p433
+I876
+sS'title'
+p434
+VWhy we need the explorers
+p435
+s.

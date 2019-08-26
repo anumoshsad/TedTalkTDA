@@ -1,0 +1,172 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThis is a work in process,
+p4
+aVbased on some comments that were made at TED two years ago
+p5
+aVabout the need for the storage of vaccine.
+p6
+aa(lp7
+V(Video): [On this planet
+p8
+aV1.6 billion people
+p9
+aVdon't have access to electricity
+p10
+aVrefrigeration
+p11
+aVor stored fuels
+p12
+aVthis is a problem
+p13
+aVit impacts:
+p14
+aVthe spread of disease
+p15
+aVthe storage of food and medicine
+p16
+aVand the quality of life.
+p17
+aVSo here's the plan ... inexpensive refrigeration
+p18
+aVthat doesn't use electricity, propane, gas, kerosene or consumables
+p19
+aVtime for some thermodynamics
+p20
+aVAnd the story of the Intermittent Absorption Refrigerator]
+p21
+aa(lp22
+VAdam Grosser: So 29 years ago, I had this thermo teacher
+p23
+aVwho talked about absorption and refrigeration, one of those things
+p24
+aVthat stuck in my head, a lot like the Stirling engine:
+p25
+aVit was cool, but you didn't know what to do with it.
+p26
+aVIt was invented in 1858, by this guy Ferdinand Carré,
+p27
+aVbut he couldn't actually build anything with it
+p28
+aVbecause of the tools at the time.
+p29
+aa(lp30
+VThis crazy Canadian named Powel Crosley commercialized this thing
+p31
+aVcalled the IcyBall, in 1928.
+p32
+aVIt was a really neat idea, and I'll get to why it didn't work,
+p33
+aVbut here's how it works.
+p34
+aVThere's two spheres and they're separated in distance.
+p35
+aVOne has a working fluid, water and ammonia,
+p36
+aVand the other is a condenser.
+p37
+aVYou heat up one side, the hot side.
+p38
+aVThe ammonia evaporates and it recondenses in the other side.
+p39
+aVYou let it cool to room temperature,
+p40
+aVand then, as the ammonia reevaporates and combines with the water
+p41
+aVback on the erstwhile hot side,
+p42
+aVit creates a powerful cooling effect.
+p43
+aVSo it was a great idea that didn't work at all.
+p44
+aVThey blew up.
+p45
+aa(lp46
+V(Laughter)
+p47
+aa(lp48
+VBecause you're using ammonia, you get hugely high pressures
+p49
+aVif you heated them wrong;
+p50
+aVit topped 400 psi.
+p51
+aVThe ammonia was toxic, it sprayed everywhere.
+p52
+aVBut it was kind of an interesting thought.
+p53
+aa(lp54
+VSo the great thing about 2006,
+p55
+aVthere's a lot of really great computational work you can do.
+p56
+aVSo we got the whole thermodynamics department at Stanford involved \u2014
+p57
+aVa lot of computational fluid dynamics.
+p58
+aVWe proved that most of the ammonia refrigeration tables are wrong.
+p59
+aVWe found some nontoxic refrigerants
+p60
+aVthat worked at very low vapor pressures.
+p61
+aVWe brought in a team from the UK \u2014
+p62
+aVa lot of great refrigeration people, it turns out, in the UK \u2014
+p63
+aVand built a test rig, and proved that, in fact,
+p64
+aVwe could make a low-pressure, nontoxic refrigerator.
+p65
+aa(lp66
+VSo this is the way it works.
+p67
+aVYou put it on a cooking fire.
+p68
+aVMost people have cooking fires in the world,
+p69
+aVwhether it's camel dung or wood.
+p70
+aVIt heats up for about 30 minutes, cools for an hour.
+p71
+aVYou put it into a container and it will refrigerate for 24 hours.
+p72
+aVIt looks like this.
+p73
+aVThis is the fifth prototype, it's not quite done.
+p74
+aVIt weighs about eight pounds, and this is the way it works.
+p75
+aVYou put it into a 15-liter vessel, about three gallons,
+p76
+aVand it'll cool it down to just above freezing \u2014
+p77
+aVthree degrees above freezing \u2014
+p78
+aVfor 24 hours in a 30 degree C environment.
+p79
+aVIt's really cheap.
+p80
+aVWe think we can build these in high volumes for about 25 dollars,
+p81
+aVin low volumes for about 40 dollars.
+p82
+aVAnd we think we can make refrigeration something that everybody can have.
+p83
+aa(lp84
+VThank you.
+p85
+aa(lp86
+V(Applause)
+p87
+aasS'id'
+p88
+I285
+sS'title'
+p89
+VA mobile fridge for vaccines
+p90
+s.

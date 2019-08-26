@@ -1,0 +1,309 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VCan I get a show of hands \u2014
+p4
+aVhow many of you in this room have been on a plane in this past year?
+p5
+aVThat's pretty good.
+p6
+aVWell, it turns out that you share that experience
+p7
+aVwith more than three billion people every year.
+p8
+aVAnd when we put so many people in all these metal tubes
+p9
+aVthat fly all over the world,
+p10
+aVsometimes, things like this can happen
+p11
+aVand you get a disease epidemic.
+p12
+aa(lp13
+VI first actually got into this topic
+p14
+aVwhen I heard about the Ebola outbreak last year.
+p15
+aVAnd it turns out that,
+p16
+aValthough Ebola spreads through these more range-limited,
+p17
+aVlarge-droplet routes,
+p18
+aVthere's all these other sorts of diseases
+p19
+aVthat can be spread in the airplane cabin.
+p20
+aVThe worst part is, when we take a look at some of the numbers,
+p21
+aVit's pretty scary.
+p22
+aVSo with H1N1,
+p23
+aVthere was this guy that decided to go on the plane
+p24
+aVand in the matter of a single flight
+p25
+aVactually spread the disease to 17 other people.
+p26
+aVAnd then there was this other guy with SARS,
+p27
+aVwho managed to go on a three-hour flight
+p28
+aVand spread the disease to 22 other people.
+p29
+aVThat's not exactly my idea of a great superpower.
+p30
+aa(lp31
+VWhen we take a look at this, what we also find
+p32
+aVis that it's very difficult to pre-screen for these diseases.
+p33
+aVSo when someone actually goes on a plane,
+p34
+aVthey could be sick
+p35
+aVand they could actually be in this latency period
+p36
+aVin which they could actually have the disease
+p37
+aVbut not exhibit any symptoms,
+p38
+aVand they could, in turn, spread the disease
+p39
+aVto many other people in the cabin.
+p40
+aa(lp41
+VHow that actually works is that right now
+p42
+aVwe've got air coming in from the top of the cabin
+p43
+aVand from the side of the cabin, as you see in blue.
+p44
+aVAnd then also, that air goes out through these very efficient filters
+p45
+aVthat eliminate 99.97 percent of pathogens near the outlets.
+p46
+aVWhat happens right now, though,
+p47
+aVis that we have this mixing airflow pattern.
+p48
+aVSo if someone were to actually sneeze,
+p49
+aVthat air would get swirled around multiple times
+p50
+aVbefore it even has a chance to go out through the filter.
+p51
+aVSo I thought: clearly, this is a pretty serious problem.
+p52
+aa(lp53
+VI didn't have the money to go out and buy a plane,
+p54
+aVso I decided to build a computer instead.
+p55
+aVIt actually turns out that with computational fluid dynamics,
+p56
+aVwhat we're able to do is create these simulations
+p57
+aVthat give us higher resolutions
+p58
+aVthan actually physically going in and taking readings in the plane.
+p59
+aVAnd so how, essentially, this works is you would start out
+p60
+aVwith these 2D drawings \u2014
+p61
+aVthese are floating around in technical papers around the Internet.
+p62
+aVI take that and then I put it into this 3D-modeling software,
+p63
+aVreally building that 3D model.
+p64
+aVAnd then I divide that model that I just built into these tiny pieces,
+p65
+aVessentially meshing it so that the computer can better understand it.
+p66
+aVAnd then I tell the computer where the air goes in and out of the cabin,
+p67
+aVthrow in a bunch of physics
+p68
+aVand basically sit there and wait until the computer calculates the simulation.
+p69
+aa(lp70
+VSo what we get, actually, with the conventional cabin is this:
+p71
+aVyou'll notice the middle person sneezing,
+p72
+aVand we go "Splat!" \u2014 it goes right into people's faces.
+p73
+aVIt's pretty disgusting.
+p74
+aVFrom the front, you'll notice those two passengers
+p75
+aVsitting next to the central passenger
+p76
+aVnot exactly having a great time.
+p77
+aVAnd when we take a look at that from the side,
+p78
+aVyou'll also notice those pathogens spreading across the length of the cabin.
+p79
+aa(lp80
+VThe first thing I thought was, "This is no good."
+p81
+aVSo I actually conducted more than 32 different simulations
+p82
+aVand ultimately, I came up with this solution right here.
+p83
+aVThis is what I call a \u2014 patent pending \u2014 Global Inlet Director.
+p84
+aVWith this, we're able to reduce pathogen transmission
+p85
+aVby about 55 times,
+p86
+aVand increase fresh-air inhalation by about 190 percent.
+p87
+aa(lp88
+VSo how this actually works
+p89
+aVis we would install this piece of composite material
+p90
+aVinto these existing spots that are already in the plane.
+p91
+aVSo it's very cost-effective to install
+p92
+aVand we can do this directly overnight.
+p93
+aVAll we have to do is put a couple of screws in there and you're good to go.
+p94
+aVAnd the results that we get are absolutely amazing.
+p95
+aVInstead of having those problematic swirling airflow patterns,
+p96
+aVwe can create these walls of air
+p97
+aVthat come down in-between the passengers
+p98
+aVto create personalized breathing zones.
+p99
+aa(lp100
+VSo you'll notice the middle passenger here is sneezing again,
+p101
+aVbut this time, we're able to effectively push that down
+p102
+aVto the filters for elimination.
+p103
+aVAnd same thing from the side,
+p104
+aVyou'll notice we're able to directly push those pathogens down.
+p105
+aVSo if you take a look again now at the same scenario
+p106
+aVbut with this innovation installed,
+p107
+aVyou'll notice the middle passenger sneezes,
+p108
+aVand this time, we're pushing that straight down into the outlet
+p109
+aVbefore it gets a chance to infect any other people.
+p110
+aVSo you'll notice the two passengers sitting next to the middle guy
+p111
+aVare breathing virtually no pathogens at all.
+p112
+aVTake a look at that from the side as well,
+p113
+aVyou see a very efficient system.
+p114
+aa(lp115
+VAnd in short, with this system, we win.
+p116
+aVWhen we take a look at what this means,
+p117
+aVwhat we see is that this not only works if the middle passenger sneezes,
+p118
+aVbut also if the window-seat passenger sneezes
+p119
+aVor if the aisle-seat passenger sneezes.
+p120
+aa(lp121
+VAnd so with this solution, what does this mean for the world?
+p122
+aVWell, when we take a look at this
+p123
+aVfrom the computer simulation into real life,
+p124
+aVwe can see with this 3D model that I built over here,
+p125
+aVessentially using 3D printing,
+p126
+aVwe can see those same airflow patterns coming down,
+p127
+aVright to the passengers.
+p128
+aVIn the past, the SARS epidemic actually cost the world
+p129
+aVabout 40 billion dollars.
+p130
+aVAnd in the future,
+p131
+aVa big disease outbreak could actually cost the world
+p132
+aVin excess of three trillion dollars.
+p133
+aVSo before, it used to be that you had to take an airplane out of service
+p134
+aVfor one to two months,
+p135
+aVspend tens of thousands of man hours and several million dollars
+p136
+aVto try to change something.
+p137
+aVBut now, we're able to install something essentially overnight
+p138
+aVand see results right away.
+p139
+aa(lp140
+VSo it's really now a matter of taking this through to certification,
+p141
+aVflight testing,
+p142
+aVand going through all of these regulatory approvals processes.
+p143
+aVBut it just really goes to show that sometimes the best solutions
+p144
+aVare the simplest solutions.
+p145
+aVAnd two years ago, even,
+p146
+aVthis project would not have happened,
+p147
+aVjust because the technology then wouldn't have supported it.
+p148
+aVBut now with advanced computing
+p149
+aVand how developed our Internet is,
+p150
+aVit's really the golden era for innovation.
+p151
+aa(lp152
+VAnd so the question I ask all of you today is: why wait?
+p153
+aVTogether, we can build the future today.
+p154
+aa(lp155
+VThanks.
+p156
+aa(lp157
+V(Applause)
+p158
+aasS'id'
+p159
+I2391
+sS'title'
+p160
+VHow germs travel on planes -- and how we can stop them
+p161
+s.

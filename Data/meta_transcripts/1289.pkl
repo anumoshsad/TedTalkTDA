@@ -1,0 +1,801 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VMy subject today is learning.
+p4
+aVAnd in that spirit, I want to spring on you all a pop quiz.
+p5
+aVReady?
+p6
+aVWhen does learning begin?
+p7
+aVNow as you ponder that question,
+p8
+aVmaybe you're thinking about the first day of preschool
+p9
+aVor kindergarten,
+p10
+aVthe first time that kids are in a classroom with a teacher.
+p11
+aVOr maybe you've called to mind the toddler phase
+p12
+aVwhen children are learning how to walk and talk
+p13
+aVand use a fork.
+p14
+aVMaybe you've encountered the Zero-to-Three movement,
+p15
+aVwhich asserts that the most important years for learning
+p16
+aVare the earliest ones.
+p17
+aVAnd so your answer to my question would be:
+p18
+aVLearning begins at birth.
+p19
+aa(lp20
+VWell today I want to present to you
+p21
+aVan idea that may be surprising
+p22
+aVand may even seem implausible,
+p23
+aVbut which is supported by the latest evidence
+p24
+aVfrom psychology and biology.
+p25
+aVAnd that is that some of the most important learning we ever do
+p26
+aVhappens before we're born,
+p27
+aVwhile we're still in the womb.
+p28
+aVNow I'm a science reporter.
+p29
+aVI write books and magazine articles.
+p30
+aVAnd I'm also a mother.
+p31
+aVAnd those two roles came together for me
+p32
+aVin a book that I wrote called "Origins."
+p33
+aV"Origins" is a report from the front lines
+p34
+aVof an exciting new field
+p35
+aVcalled fetal origins.
+p36
+aVFetal origins is a scientific discipline
+p37
+aVthat emerged just about two decades ago,
+p38
+aVand it's based on the theory
+p39
+aVthat our health and well-being throughout our lives
+p40
+aVis crucially affected
+p41
+aVby the nine months we spend in the womb.
+p42
+aVNow this theory was of more than just intellectual interest to me.
+p43
+aVI was myself pregnant
+p44
+aVwhile I was doing the research for the book.
+p45
+aVAnd one of the most fascinating insights
+p46
+aVI took from this work
+p47
+aVis that we're all learning about the world
+p48
+aVeven before we enter it.
+p49
+aa(lp50
+VWhen we hold our babies for the first time,
+p51
+aVwe might imagine that they're clean slates,
+p52
+aVunmarked by life,
+p53
+aVwhen in fact, they've already been shaped by us
+p54
+aVand by the particular world we live in.
+p55
+aVToday I want to share with you some of the amazing things
+p56
+aVthat scientists are discovering
+p57
+aVabout what fetuses learn
+p58
+aVwhile they're still in their mothers' bellies.
+p59
+aa(lp60
+VFirst of all,
+p61
+aVthey learn the sound of their mothers' voices.
+p62
+aVBecause sounds from the outside world
+p63
+aVhave to travel through the mother's abdominal tissue
+p64
+aVand through the amniotic fluid that surrounds the fetus,
+p65
+aVthe voices fetuses hear,
+p66
+aVstarting around the fourth month of gestation,
+p67
+aVare muted and muffled.
+p68
+aVOne researcher says
+p69
+aVthat they probably sound a lot like the the voice of Charlie Brown's teacher
+p70
+aVin the old "Peanuts" cartoon.
+p71
+aVBut the pregnant woman's own voice
+p72
+aVreverberates through her body,
+p73
+aVreaching the fetus much more readily.
+p74
+aVAnd because the fetus is with her all the time,
+p75
+aVit hears her voice a lot.
+p76
+aVOnce the baby's born, it recognizes her voice
+p77
+aVand it prefers listening to her voice
+p78
+aVover anyone else's.
+p79
+aa(lp80
+VHow can we know this?
+p81
+aVNewborn babies can't do much,
+p82
+aVbut one thing they're really good at is sucking.
+p83
+aVResearchers take advantage of this fact
+p84
+aVby rigging up two rubber nipples,
+p85
+aVso that if a baby sucks on one,
+p86
+aVit hears a recording of its mother's voice
+p87
+aVon a pair of headphones,
+p88
+aVand if it sucks on the other nipple,
+p89
+aVit hears a recording of a female stranger's voice.
+p90
+aVBabies quickly show their preference
+p91
+aVby choosing the first one.
+p92
+aVScientists also take advantage of the fact
+p93
+aVthat babies will slow down their sucking
+p94
+aVwhen something interests them
+p95
+aVand resume their fast sucking
+p96
+aVwhen they get bored.
+p97
+aVThis is how researchers discovered
+p98
+aVthat, after women repeatedly read aloud
+p99
+aVa section of Dr. Seuss' "The Cat in the Hat" while they were pregnant,
+p100
+aVtheir newborn babies recognized that passage
+p101
+aVwhen they hear it outside the womb.
+p102
+aVMy favorite experiment of this kind
+p103
+aVis the one that showed that the babies
+p104
+aVof women who watched a certain soap opera
+p105
+aVevery day during pregnancy
+p106
+aVrecognized the theme song of that show
+p107
+aVonce they were born.
+p108
+aVSo fetuses are even learning
+p109
+aVabout the particular language that's spoken
+p110
+aVin the world that they'll be born into.
+p111
+aa(lp112
+VA study published last year
+p113
+aVfound that from birth, from the moment of birth,
+p114
+aVbabies cry in the accent
+p115
+aVof their mother's native language.
+p116
+aVFrench babies cry on a rising note
+p117
+aVwhile German babies end on a falling note,
+p118
+aVimitating the melodic contours
+p119
+aVof those languages.
+p120
+aVNow why would this kind of fetal learning
+p121
+aVbe useful?
+p122
+aVIt may have evolved to aid the baby's survival.
+p123
+aVFrom the moment of birth,
+p124
+aVthe baby responds most to the voice
+p125
+aVof the person who is most likely to care for it \u2014
+p126
+aVits mother.
+p127
+aVIt even makes its cries
+p128
+aVsound like the mother's language,
+p129
+aVwhich may further endear the baby to the mother,
+p130
+aVand which may give the baby a head start
+p131
+aVin the critical task
+p132
+aVof learning how to understand and speak
+p133
+aVits native language.
+p134
+aa(lp135
+VBut it's not just sounds
+p136
+aVthat fetuses are learning about in utero.
+p137
+aVIt's also tastes and smells.
+p138
+aVBy seven months of gestation,
+p139
+aVthe fetus' taste buds are fully developed,
+p140
+aVand its olfactory receptors, which allow it to smell,
+p141
+aVare functioning.
+p142
+aVThe flavors of the food a pregnant woman eats
+p143
+aVfind their way into the amniotic fluid,
+p144
+aVwhich is continuously swallowed
+p145
+aVby the fetus.
+p146
+aVBabies seem to remember and prefer these tastes
+p147
+aVonce they're out in the world.
+p148
+aVIn one experiment, a group of pregnant women
+p149
+aVwas asked to drink a lot of carrot juice
+p150
+aVduring their third trimester of pregnancy,
+p151
+aVwhile another group of pregnant women
+p152
+aVdrank only water.
+p153
+aVSix months later, the women's infants
+p154
+aVwere offered cereal mixed with carrot juice,
+p155
+aVand their facial expressions were observed while they ate it.
+p156
+aVThe offspring of the carrot juice drinking women
+p157
+aVate more carrot-flavored cereal,
+p158
+aVand from the looks of it,
+p159
+aVthey seemed to enjoy it more.
+p160
+aa(lp161
+VA sort of French version of this experiment
+p162
+aVwas carried out in Dijon, France
+p163
+aVwhere researchers found
+p164
+aVthat mothers who consumed food and drink
+p165
+aVflavored with licorice-flavored anise during pregnancy
+p166
+aVshowed a preference for anise
+p167
+aVon their first day of life,
+p168
+aVand again, when they were tested later,
+p169
+aVon their fourth day of life.
+p170
+aVBabies whose mothers did not eat anise during pregnancy
+p171
+aVshowed a reaction that translated roughly as "yuck."
+p172
+aVWhat this means
+p173
+aVis that fetuses are effectively being taught by their mothers
+p174
+aVabout what is safe and good to eat.
+p175
+aVFetuses are also being taught
+p176
+aVabout the particular culture that they'll be joining
+p177
+aVthrough one of culture's most powerful expressions,
+p178
+aVwhich is food.
+p179
+aVThey're being introduced to the characteristic flavors and spices
+p180
+aVof their culture's cuisine
+p181
+aVeven before birth.
+p182
+aa(lp183
+VNow it turns out that fetuses are learning even bigger lessons.
+p184
+aVBut before I get to that,
+p185
+aVI want to address something that you may be wondering about.
+p186
+aVThe notion of fetal learning
+p187
+aVmay conjure up for you attempts to enrich the fetus \u2014
+p188
+aVlike playing Mozart through headphones
+p189
+aVplaced on a pregnant belly.
+p190
+aVBut actually, the nine-month-long process
+p191
+aVof molding and shaping that goes on in the womb
+p192
+aVis a lot more visceral and consequential than that.
+p193
+aVMuch of what a pregnant woman encounters in her daily life \u2014
+p194
+aVthe air she breathes,
+p195
+aVthe food and drink she consumes,
+p196
+aVthe chemicals she's exposed to,
+p197
+aVeven the emotions she feels \u2014
+p198
+aVare shared in some fashion with her fetus.
+p199
+aVThey make up a mix of influences
+p200
+aVas individual and idiosyncratic
+p201
+aVas the woman herself.
+p202
+aVThe fetus incorporates these offerings
+p203
+aVinto its own body,
+p204
+aVmakes them part of its flesh and blood.
+p205
+aVAnd often it does something more.
+p206
+aVIt treats these maternal contributions
+p207
+aVas information,
+p208
+aVas what I like to call biological postcards
+p209
+aVfrom the world outside.
+p210
+aa(lp211
+VSo what a fetus is learning about in utero
+p212
+aVis not Mozart's "Magic Flute"
+p213
+aVbut answers to questions much more critical to its survival.
+p214
+aVWill it be born into a world of abundance
+p215
+aVor scarcity?
+p216
+aVWill it be safe and protected,
+p217
+aVor will it face constant dangers and threats?
+p218
+aVWill it live a long, fruitful life
+p219
+aVor a short, harried one?
+p220
+aVThe pregnant woman's diet and stress level in particular
+p221
+aVprovide important clues to prevailing conditions
+p222
+aVlike a finger lifted to the wind.
+p223
+aVThe resulting tuning and tweaking
+p224
+aVof a fetus' brain and other organs
+p225
+aVare part of what give us humans
+p226
+aVour enormous flexibility,
+p227
+aVour ability to thrive
+p228
+aVin a huge variety of environments,
+p229
+aVfrom the country to the city,
+p230
+aVfrom the tundra to the desert.
+p231
+aa(lp232
+VTo conclude, I want to tell you two stories
+p233
+aVabout how mothers teach their children about the world
+p234
+aVeven before they're born.
+p235
+aVIn the autumn of 1944,
+p236
+aVthe darkest days of World War II,
+p237
+aVGerman troops blockaded Western Holland,
+p238
+aVturning away all shipments of food.
+p239
+aVThe opening of the Nazi's siege
+p240
+aVwas followed by one of the harshest winters in decades \u2014
+p241
+aVso cold the water in the canals froze solid.
+p242
+aVSoon food became scarce,
+p243
+aVwith many Dutch surviving on just 500 calories a day \u2014
+p244
+aVa quarter of what they consumed before the war.
+p245
+aVAs weeks of deprivation stretched into months,
+p246
+aVsome resorted to eating tulip bulbs.
+p247
+aVBy the beginning of May,
+p248
+aVthe nation's carefully rationed food reserve
+p249
+aVwas completely exhausted.
+p250
+aVThe specter of mass starvation loomed.
+p251
+aVAnd then on May 5th, 1945,
+p252
+aVthe siege came to a sudden end
+p253
+aVwhen Holland was liberated
+p254
+aVby the Allies.
+p255
+aa(lp256
+VThe "Hunger Winter," as it came to be known,
+p257
+aVkilled some 10,000 people
+p258
+aVand weakened thousands more.
+p259
+aVBut there was another population that was affected \u2014
+p260
+aVthe 40,000 fetuses
+p261
+aVin utero during the siege.
+p262
+aVSome of the effects of malnutrition during pregnancy
+p263
+aVwere immediately apparent
+p264
+aVin higher rates of stillbirths,
+p265
+aVbirth defects, low birth weights
+p266
+aVand infant mortality.
+p267
+aVBut others wouldn't be discovered for many years.
+p268
+aVDecades after the "Hunger Winter,"
+p269
+aVresearchers documented
+p270
+aVthat people whose mothers were pregnant during the siege
+p271
+aVhave more obesity, more diabetes
+p272
+aVand more heart disease in later life
+p273
+aVthan individuals who were gestated under normal conditions.
+p274
+aVThese individuals' prenatal experience of starvation
+p275
+aVseems to have changed their bodies
+p276
+aVin myriad ways.
+p277
+aVThey have higher blood pressure,
+p278
+aVpoorer cholesterol profiles
+p279
+aVand reduced glucose tolerance \u2014
+p280
+aVa precursor of diabetes.
+p281
+aa(lp282
+VWhy would undernutrition in the womb
+p283
+aVresult in disease later?
+p284
+aVOne explanation
+p285
+aVis that fetuses are making the best of a bad situation.
+p286
+aVWhen food is scarce,
+p287
+aVthey divert nutrients towards the really critical organ, the brain,
+p288
+aVand away from other organs
+p289
+aVlike the heart and liver.
+p290
+aVThis keeps the fetus alive in the short-term,
+p291
+aVbut the bill comes due later on in life
+p292
+aVwhen those other organs, deprived early on,
+p293
+aVbecome more susceptible to disease.
+p294
+aa(lp295
+VBut that may not be all that's going on.
+p296
+aVIt seems that fetuses are taking cues
+p297
+aVfrom the intrauterine environment
+p298
+aVand tailoring their physiology accordingly.
+p299
+aVThey're preparing themselves
+p300
+aVfor the kind of world they will encounter
+p301
+aVon the other side of the womb.
+p302
+aVThe fetus adjusts its metabolism
+p303
+aVand other physiological processes
+p304
+aVin anticipation of the environment that awaits it.
+p305
+aVAnd the basis of the fetus' prediction
+p306
+aVis what its mother eats.
+p307
+aVThe meals a pregnant woman consumes
+p308
+aVconstitute a kind of story,
+p309
+aVa fairy tale of abundance
+p310
+aVor a grim chronicle of deprivation.
+p311
+aVThis story imparts information
+p312
+aVthat the fetus uses
+p313
+aVto organize its body and its systems \u2014
+p314
+aVan adaptation to prevailing circumstances
+p315
+aVthat facilitates its future survival.
+p316
+aVFaced with severely limited resources,
+p317
+aVa smaller-sized child with reduced energy requirements
+p318
+aVwill, in fact, have a better chance
+p319
+aVof living to adulthood.
+p320
+aa(lp321
+VThe real trouble comes
+p322
+aVwhen pregnant women are, in a sense, unreliable narrators,
+p323
+aVwhen fetuses are led
+p324
+aVto expect a world of scarcity
+p325
+aVand are born instead into a world of plenty.
+p326
+aVThis is what happened to the children of the Dutch "Hunger Winter."
+p327
+aVAnd their higher rates of obesity,
+p328
+aVdiabetes and heart disease
+p329
+aVare the result.
+p330
+aVBodies that were built to hang onto every calorie
+p331
+aVfound themselves swimming in the superfluous calories
+p332
+aVof the post-war Western diet.
+p333
+aVThe world they had learned about while in utero
+p334
+aVwas not the same
+p335
+aVas the world into which they were born.
+p336
+aa(lp337
+VHere's another story.
+p338
+aVAt 8:46 a.m. on September 11th, 2001,
+p339
+aVthere were tens of thousands of people
+p340
+aVin the vicinity of the World Trade Center
+p341
+aVin New York \u2014
+p342
+aVcommuters spilling off trains,
+p343
+aVwaitresses setting tables for the morning rush,
+p344
+aVbrokers already working the phones on Wall Street.
+p345
+aV1,700 of these people were pregnant women.
+p346
+aVWhen the planes struck and the towers collapsed,
+p347
+aVmany of these women experienced the same horrors
+p348
+aVinflicted on other survivors of the disaster \u2014
+p349
+aVthe overwhelming chaos and confusion,
+p350
+aVthe rolling clouds
+p351
+aVof potentially toxic dust and debris,
+p352
+aVthe heart-pounding fear for their lives.
+p353
+aa(lp354
+VAbout a year after 9/11,
+p355
+aVresearchers examined a group of women
+p356
+aVwho were pregnant
+p357
+aVwhen they were exposed to the World Trade Center attack.
+p358
+aVIn the babies of those women
+p359
+aVwho developed post-traumatic stress syndrome, or PTSD,
+p360
+aVfollowing their ordeal,
+p361
+aVresearchers discovered a biological marker
+p362
+aVof susceptibility to PTSD \u2014
+p363
+aVan effect that was most pronounced
+p364
+aVin infants whose mothers experienced the catastrophe
+p365
+aVin their third trimester.
+p366
+aVIn other words,
+p367
+aVthe mothers with post-traumatic stress syndrome
+p368
+aVhad passed on a vulnerability to the condition
+p369
+aVto their children while they were still in utero.
+p370
+aa(lp371
+VNow consider this:
+p372
+aVpost-traumatic stress syndrome
+p373
+aVappears to be a reaction to stress gone very wrong,
+p374
+aVcausing its victims tremendous unnecessary suffering.
+p375
+aVBut there's another way of thinking about PTSD.
+p376
+aVWhat looks like pathology to us
+p377
+aVmay actually be a useful adaptation
+p378
+aVin some circumstances.
+p379
+aVIn a particularly dangerous environment,
+p380
+aVthe characteristic manifestations of PTSD \u2014
+p381
+aVa hyper-awareness of one's surroundings,
+p382
+aVa quick-trigger response to danger \u2014
+p383
+aVcould save someone's life.
+p384
+aVThe notion that the prenatal transmission of PTSD risk is adaptive
+p385
+aVis still speculative,
+p386
+aVbut I find it rather poignant.
+p387
+aVIt would mean that, even before birth,
+p388
+aVmothers are warning their children
+p389
+aVthat it's a wild world out there,
+p390
+aVtelling them, "Be careful."
+p391
+aa(lp392
+VLet me be clear.
+p393
+aVFetal origins research is not about blaming women
+p394
+aVfor what happens during pregnancy.
+p395
+aVIt's about discovering how best to promote
+p396
+aVthe health and well-being of the next generation.
+p397
+aVThat important effort must include a focus
+p398
+aVon what fetuses learn
+p399
+aVduring the nine months they spend in the womb.
+p400
+aVLearning is one of life's most essential activities,
+p401
+aVand it begins much earlier
+p402
+aVthan we ever imagined.
+p403
+aa(lp404
+VThank you.
+p405
+aa(lp406
+V(Applause)
+p407
+aasS'id'
+p408
+I1289
+sS'title'
+p409
+VWhat we learn before we're born
+p410
+s.

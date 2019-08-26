@@ -1,0 +1,636 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWe have a global health challenge
+p4
+aVin our hands today,
+p5
+aVand that is that the way we currently
+p6
+aVdiscover and develop new drugs
+p7
+aVis too costly, takes far too long,
+p8
+aVand it fails more often than it succeeds.
+p9
+aVIt really just isn't working, and that means
+p10
+aVthat patients that badly need new therapies
+p11
+aVare not getting them,
+p12
+aVand diseases are going untreated.
+p13
+aVWe seem to be spending more and more money.
+p14
+aVSo for every billion dollars we spend in R&D,
+p15
+aVwe're getting less drugs approved into the market.
+p16
+aVMore money, less drugs. Hmm.
+p17
+aa(lp18
+VSo what's going on here?
+p19
+aVWell, there's a multitude of factors at play,
+p20
+aVbut I think one of the key factors
+p21
+aVis that the tools that we currently have
+p22
+aVavailable to test whether a drug is going to work,
+p23
+aVwhether it has efficacy,
+p24
+aVor whether it's going to be safe
+p25
+aVbefore we get it into human clinical trials,
+p26
+aVare failing us. They're not predicting
+p27
+aVwhat's going to happen in humans.
+p28
+aVAnd we have two main tools available
+p29
+aVat our disposal.
+p30
+aVThey are cells in dishes and animal testing.
+p31
+aa(lp32
+VNow let's talk about the first one, cells in dishes.
+p33
+aVSo, cells are happily functioning in our bodies.
+p34
+aVWe take them and rip them out
+p35
+aVof their native environment, throw them in one of these dishes,
+p36
+aVand expect them to work.
+p37
+aVGuess what. They don't.
+p38
+aVThey don't like that environment
+p39
+aVbecause it's nothing like
+p40
+aVwhat they have in the body.
+p41
+aa(lp42
+VWhat about animal testing?
+p43
+aVWell, animals do and can provide
+p44
+aVextremely useful information.
+p45
+aVThey teach us about what happens
+p46
+aVin the complex organism.
+p47
+aVWe learn more about the biology itself.
+p48
+aVHowever, more often than not,
+p49
+aVanimal models fail to predict what will happen in humans
+p50
+aVwhen they're treated with a particular drug.
+p51
+aa(lp52
+VSo we need better tools.
+p53
+aVWe need human cells,
+p54
+aVbut we need to find a way to keep them happy
+p55
+aVoutside the body.
+p56
+aa(lp57
+VOur bodies are dynamic environments.
+p58
+aVWe're in constant motion.
+p59
+aVOur cells experience that.
+p60
+aVThey're in dynamic environments in our body.
+p61
+aVThey're under constant mechanical forces.
+p62
+aVSo if we want to make cells happy
+p63
+aVoutside our bodies,
+p64
+aVwe need to become cell architects.
+p65
+aVWe need to design, build and engineer
+p66
+aVa home away from home for the cells.
+p67
+aa(lp68
+VAnd at the Wyss Institute,
+p69
+aVwe've done just that.
+p70
+aVWe call it an organ-on-a-chip.
+p71
+aVAnd I have one right here.
+p72
+aVIt's beautiful, isn't it? But it's pretty incredible.
+p73
+aVRight here in my hand is a breathing, living
+p74
+aVhuman lung on a chip.
+p75
+aa(lp76
+VAnd it's not just beautiful.
+p77
+aVIt can do a tremendous amount of things.
+p78
+aVWe have living cells in that little chip,
+p79
+aVcells that are in a dynamic environment
+p80
+aVinteracting with different cell types.
+p81
+aVThere's been many people
+p82
+aVtrying to grow cells in the lab.
+p83
+aVThey've tried many different approaches.
+p84
+aVThey've even tried to grow little mini-organs in the lab.
+p85
+aVWe're not trying to do that here.
+p86
+aVWe're simply trying to recreate
+p87
+aVin this tiny chip
+p88
+aVthe smallest functional unit
+p89
+aVthat represents the biochemistry,
+p90
+aVthe function and the mechanical strain
+p91
+aVthat the cells experience in our bodies.
+p92
+aVSo how does it work? Let me show you.
+p93
+aVWe use techniques from the computer chip
+p94
+aVmanufacturing industry
+p95
+aVto make these structures at a scale
+p96
+aVrelevant to both the cells and their environment.
+p97
+aVWe have three fluidic channels.
+p98
+aVIn the center, we have a porous, flexible membrane
+p99
+aVon which we can add human cells
+p100
+aVfrom, say, our lungs,
+p101
+aVand then underneath, they had capillary cells,
+p102
+aVthe cells in our blood vessels.
+p103
+aVAnd we can then apply mechanical forces to the chip
+p104
+aVthat stretch and contract the membrane,
+p105
+aVso the cells experience the same mechanical forces
+p106
+aVthat they did when we breathe.
+p107
+aVAnd they experience them how they did in the body.
+p108
+aVThere's air flowing through the top channel,
+p109
+aVand then we flow a liquid that contains nutrients
+p110
+aVthrough the blood channel.
+p111
+aVNow the chip is really beautiful,
+p112
+aVbut what can we do with it?
+p113
+aVWe can get incredible functionality
+p114
+aVinside these little chips.
+p115
+aVLet me show you.
+p116
+aVWe could, for example, mimic infection,
+p117
+aVwhere we add bacterial cells into the lung.
+p118
+aVthen we can add human white blood cells.
+p119
+aVWhite blood cells are our body's defense
+p120
+aVagainst bacterial invaders,
+p121
+aVand when they sense this inflammation due to infection,
+p122
+aVthey will enter from the blood into the lung
+p123
+aVand engulf the bacteria.
+p124
+aVWell now you're going to see this happening
+p125
+aVlive in an actual human lung on a chip.
+p126
+aVWe've labeled the white blood cells so you can see them flowing through,
+p127
+aVand when they detect that infection,
+p128
+aVthey begin to stick.
+p129
+aVThey stick, and then they try to go into the lung
+p130
+aVside from blood channel.
+p131
+aVAnd you can see here, we can actually visualize
+p132
+aVa single white blood cell.
+p133
+aVIt sticks, it wiggles its way through
+p134
+aVbetween the cell layers, through the pore,
+p135
+aVcomes out on the other side of the membrane,
+p136
+aVand right there, it's going to engulf the bacteria
+p137
+aVlabeled in green.
+p138
+aVIn that tiny chip, you just witnessed
+p139
+aVone of the most fundamental responses
+p140
+aVour body has to an infection.
+p141
+aVIt's the way we respond to \u2014 an immune response.
+p142
+aVIt's pretty exciting.
+p143
+aa(lp144
+VNow I want to share this picture with you,
+p145
+aVnot just because it's so beautiful,
+p146
+aVbut because it tells us an enormous amount of information
+p147
+aVabout what the cells are doing within the chips.
+p148
+aVIt tells us that these cells
+p149
+aVfrom the small airways in our lungs,
+p150
+aVactually have these hairlike structures
+p151
+aVthat you would expect to see in the lung.
+p152
+aVThese structures are called cilia,
+p153
+aVand they actually move the mucus out of the lung.
+p154
+aVYeah. Mucus. Yuck.
+p155
+aVBut mucus is actually very important.
+p156
+aVMucus traps particulates, viruses,
+p157
+aVpotential allergens,
+p158
+aVand these little cilia move
+p159
+aVand clear the mucus out.
+p160
+aVWhen they get damaged, say,
+p161
+aVby cigarette smoke for example,
+p162
+aVthey don't work properly, and they can't clear that mucus out.
+p163
+aVAnd that can lead to diseases such as bronchitis.
+p164
+aVCilia and the clearance of mucus
+p165
+aVare also involved in awful diseases like cystic fibrosis.
+p166
+aVBut now, with the functionality that we get in these chips,
+p167
+aVwe can begin to look
+p168
+aVfor potential new treatments.
+p169
+aa(lp170
+VWe didn't stop with the lung on a chip.
+p171
+aVWe have a gut on a chip.
+p172
+aVYou can see one right here.
+p173
+aVAnd we've put intestinal human cells
+p174
+aVin a gut on a chip,
+p175
+aVand they're under constant peristaltic motion,
+p176
+aVthis trickling flow through the cells,
+p177
+aVand we can mimic many of the functions
+p178
+aVthat you actually would expect to see
+p179
+aVin the human intestine.
+p180
+aVNow we can begin to create models of diseases
+p181
+aVsuch as irritable bowel syndrome.
+p182
+aVThis is a disease that affects
+p183
+aVa large number of individuals.
+p184
+aVIt's really debilitating,
+p185
+aVand there aren't really many good treatments for it.
+p186
+aa(lp187
+VNow we have a whole pipeline
+p188
+aVof different organ chips
+p189
+aVthat we are currently working on in our labs.
+p190
+aVNow, the true power of this technology, however,
+p191
+aVreally comes from the fact
+p192
+aVthat we can fluidically link them.
+p193
+aVThere's fluid flowing across these cells,
+p194
+aVso we can begin to interconnect
+p195
+aVmultiple different chips together
+p196
+aVto form what we call a virtual human on a chip.
+p197
+aVNow we're really getting excited.
+p198
+aVWe're not going to ever recreate  a whole human in these chips,
+p199
+aVbut what our goal is is to be able to recreate
+p200
+aVsufficient functionality
+p201
+aVso that we can make better predictions
+p202
+aVof what's going to happen in humans.
+p203
+aVFor example, now we can begin to explore
+p204
+aVwhat happens when we put a drug like an aerosol drug.
+p205
+aVThose of you like me who have asthma, when you take your inhaler,
+p206
+aVwe can explore how that drug comes into your lungs,
+p207
+aVhow it enters the body,
+p208
+aVhow it might affect, say, your heart.
+p209
+aVDoes it change the beating of your heart?
+p210
+aVDoes it have a toxicity?
+p211
+aVDoes it get cleared by the liver?
+p212
+aVIs it metabolized in the liver?
+p213
+aVIs it excreted in your kidneys?
+p214
+aVWe can begin to study the dynamic
+p215
+aVresponse of the body to a drug.
+p216
+aa(lp217
+VThis could really revolutionize
+p218
+aVand be a game changer
+p219
+aVfor not only the pharmaceutical industry,
+p220
+aVbut a whole host of different industries,
+p221
+aVincluding the cosmetics industry.
+p222
+aVWe can potentially use the skin on a chip
+p223
+aVthat we're currently developing in the lab
+p224
+aVto test whether the ingredients in those products
+p225
+aVthat you're using are actually  safe to put on your skin
+p226
+aVwithout the need for animal testing.
+p227
+aVWe could test the safety
+p228
+aVof chemicals that we are exposed to
+p229
+aVon a daily basis in our environment,
+p230
+aVsuch as chemicals in regular household cleaners.
+p231
+aVWe could also use the organs on chips
+p232
+aVfor applications in bioterrorism
+p233
+aVor radiation exposure.
+p234
+aVWe could use them to learn more about
+p235
+aVdiseases such as ebola
+p236
+aVor other deadly diseases such as SARS.
+p237
+aa(lp238
+VOrgans on chips could also change
+p239
+aVthe way we do clinical trials in the future.
+p240
+aVRight now, the average participant
+p241
+aVin a clinical trial is that: average.
+p242
+aVTends to be middle aged, tends to be female.
+p243
+aVYou won't find many clinical trials
+p244
+aVin which children are involved,
+p245
+aVyet every day, we give children medications,
+p246
+aVand the only safety data we have on that drug
+p247
+aVis one that we obtained from adults.
+p248
+aVChildren are not adults.
+p249
+aVThey may not respond in the same way adults do.
+p250
+aVThere are other things like genetic differences
+p251
+aVin populations
+p252
+aVthat may lead to at-risk populations
+p253
+aVthat are at risk of having an adverse drug reaction.
+p254
+aVNow imagine if we could take cells from all those different populations,
+p255
+aVput them on chips,
+p256
+aVand create populations on a chip.
+p257
+aVThis could really change the way
+p258
+aVwe do clinical trials.
+p259
+aVAnd this is the team and the people that are doing this.
+p260
+aVWe have engineers, we have cell biologists,
+p261
+aVwe have clinicians, all working together.
+p262
+aVWe're really seeing something quite incredible
+p263
+aVat the Wyss Institute.
+p264
+aVIt's really a convergence of disciplines,
+p265
+aVwhere biology is influencing the way we design,
+p266
+aVthe way we engineer, the way we build.
+p267
+aVIt's pretty exciting.
+p268
+aa(lp269
+VWe're establishing important industry collaborations
+p270
+aVsuch as the one we have with a company
+p271
+aVthat has expertise in large-scale digital manufacturing.
+p272
+aVThey're going to help us make,
+p273
+aVinstead of one of these,
+p274
+aVmillions of these chips,
+p275
+aVso that we can get them into the hands
+p276
+aVof as many researchers as possible.
+p277
+aVAnd this is key to the potential of that technology.
+p278
+aa(lp279
+VNow let me show you our instrument.
+p280
+aVThis is an instrument that our engineers
+p281
+aVare actually prototyping right now in the lab,
+p282
+aVand this instrument is going to give us
+p283
+aVthe engineering controls that we're going to require
+p284
+aVin order to link 10 or more organ chips together.
+p285
+aVIt does something else that's very important.
+p286
+aVIt creates an easy user interface.
+p287
+aVSo a cell biologist like me can come in,
+p288
+aVtake a chip, put it in a cartridge
+p289
+aVlike the prototype you see there,
+p290
+aVput the cartridge into the machine
+p291
+aVjust like you would a C.D.,
+p292
+aVand away you go.
+p293
+aVPlug and play. Easy.
+p294
+aa(lp295
+VNow, let's imagine a little bit
+p296
+aVwhat the future might look like
+p297
+aVif I could take your stem cells
+p298
+aVand put them on a chip,
+p299
+aVor your stem cells and put them on a chip.
+p300
+aVIt would be a personalized chip just for you.
+p301
+aa(lp302
+VNow all of us in here are individuals,
+p303
+aVand those individual differences mean
+p304
+aVthat we could react very differently
+p305
+aVand sometimes in unpredictable ways to drugs.
+p306
+aVI myself, a couple of years back, had a really bad headache,
+p307
+aVjust couldn't shake it, thought,  "Well, I'll try something different."
+p308
+aVI took some Advil. Fifteen minutes later,
+p309
+aVI was on my way to the emergency room
+p310
+aVwith a full-blown asthma attack.
+p311
+aVNow, obviously it wasn't fatal,
+p312
+aVbut unfortunately, some of these
+p313
+aVadverse drug reactions can be fatal.
+p314
+aa(lp315
+VSo how do we prevent them?
+p316
+aVWell, we could imagine one day
+p317
+aVhaving Geraldine on a chip,
+p318
+aVhaving Danielle on a chip,
+p319
+aVhaving you on a chip.
+p320
+aa(lp321
+VPersonalized medicine. Thank you.
+p322
+aa(lp323
+V(Applause)
+p324
+aasS'id'
+p325
+I1882
+sS'title'
+p326
+VBody parts on a chip
+p327
+s.

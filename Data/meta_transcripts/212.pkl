@@ -1,0 +1,512 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm going to talk about two stories today.
+p4
+aVOne is how we need to use market-based pricing to affect demand
+p5
+aVand use wireless technologies to dramatically reduce our emissions
+p6
+aVin the transportation sector.
+p7
+aVAnd the other is that there is an incredible opportunity
+p8
+aVif we choose the right wireless technologies;
+p9
+aVhow we can generate a new engine for economic growth
+p10
+aVand dramatically reduce C02 in the other sectors.
+p11
+aa(lp12
+VI'm really scared.
+p13
+aVWe need to reduce C02 emissions in ten to fifteen years by 80 percent
+p14
+aVin order to avert catastrophic effects.
+p15
+aVAnd I am astounded that I'm standing here to tell you that.
+p16
+aVWhat are catastrophic effects? A three degree centigrade climate change rise
+p17
+aVthat will result in 50 percent species extinction.
+p18
+aVIt's not a movie. This is real life.
+p19
+aVAnd I'm really worried, because when people talk about cars
+p20
+aV\u2014 which I know something about \u2014
+p21
+aVthe press and politicians and people in this room are all thinking,
+p22
+aV"Let's use fuel-efficient cars."
+p23
+aVIf we started today, 10 years from now, at the end of this window of opportunity,
+p24
+aVthose fuel-efficient cars will reduce our fossil fuel needs by four percent.
+p25
+aVThat is not enough.
+p26
+aa(lp27
+VBut now I'll talk about some more pleasant things.
+p28
+aVHere are some ways that we can make some dramatic changes.
+p29
+aVSo, Zipcar is a company that I founded seven years ago,
+p30
+aVbut it's an example of something called car sharing.
+p31
+aVWhat Zipcar does is we park cars throughout dense urban areas
+p32
+aVfor members to reserve, by the hour and by the day, instead of using their own car.
+p33
+aVHow does it feel to be a person using a Zipcar?
+p34
+aVIt means that I pay only for what I need.
+p35
+aVAll those hours when a car is sitting idle, I'm not paying for it.
+p36
+aVIt means that I can choose a car exactly for that particular trip.
+p37
+aVSo, here's a woman that reserved MiniMia, and she had her day.
+p38
+aVI can take a BMW when I'm seeing clients.
+p39
+aVI can drive my Toyota Element when I'm going to go on that surfing trip.
+p40
+aa(lp41
+VAnd the other remarkable thing is it's, I think, the highest status of car ownership.
+p42
+aVNot only do I have a fleet of cars available to me in seven cities around the world
+p43
+aVthat I can have at my beck and call,
+p44
+aVbut heaven forbid I would ever maintain
+p45
+aVor deal with the repair or have anything to do with it.
+p46
+aVIt's like the car that you always wanted that your mom said that you couldn't have.
+p47
+aVI get all the good stuff and none of the bad.
+p48
+aa(lp49
+VSo, what is the social result of this?
+p50
+aVThe social result is that today's Zipcar has 100,000 members
+p51
+aVdriving 3,000 cars parked in 3,000 parking spaces.
+p52
+aVInstead of driving 12,000 miles a year, which is what the average city dweller does,
+p53
+aVthey drive 500 miles a year. Are they happy?
+p54
+aVThe company has been doubling in size ever since I founded it, or greater.
+p55
+aVPeople adore the company. And it's better,
+p56
+aVyou know? They like it.
+p57
+aVSo, how is it that people went from the 12,000 miles a year to 500 miles?
+p58
+aVIt's because they said, "It's eight to 10 dollars an hour and 65 dollars a day.
+p59
+aVIf I'm going to go buy some ice cream,
+p60
+aVdo I really want to spend eight dollars to go buy the ice cream? Or maybe I'll do without.
+p61
+aVMaybe I would have bought the ice cream when I did some other errand."
+p62
+aVSo, people really respond very quickly to it, to prices.
+p63
+aa(lp64
+VAnd the last point I want to make is Zipcar would never be possible without technology.
+p65
+aVIt required that it was completely trivial: that it takes 30 seconds
+p66
+aVto reserve a car, go get it, drive it.
+p67
+aVAnd for me, as a service provider,
+p68
+aVI would never be able to provide you a car for an hour
+p69
+aVif the transaction cost was anything.
+p70
+aVSo, without these wireless technologies, this, as a concept, could never happen.
+p71
+aa(lp72
+VSo, here's another example. This company is GoLoco \u2014
+p73
+aVI'm launching it in about three weeks \u2014
+p74
+aVand I hope to do for ridesharing what I did for car sharing.
+p75
+aVThis will apply to people across all of America.
+p76
+aVToday, 75 percent of the trips are single-occupancy vehicles,
+p77
+aVyet 12 percent of trips to work are currently carpool.
+p78
+aVAnd I think that we can apply social networks and online payment systems
+p79
+aVto completely change how people feel about ridesharing
+p80
+aVand make that trip much more efficient.
+p81
+aa(lp82
+VAnd so when I think about the future,
+p83
+aVpeople will be thinking that sharing the ride with someone
+p84
+aVis this incredibly great social event out of their day.
+p85
+aVYou know, how did you get to TED? You went with other TEDsters.
+p86
+aVHow fabulous. Why would you ever want to go by yourself in your own car?
+p87
+aVHow did you go food shopping? You went with your neighbor, what a great social time.
+p88
+aVYou know it's going to really transform how we feel about travel,
+p89
+aVand it will also, I think, enhance our freedom of mobility.
+p90
+aVWhere can I go today and who can I do it with?
+p91
+aVThose are the types of things that you will look at and feel.
+p92
+aa(lp93
+VAnd the social benefits:
+p94
+aVthe rate of single-occupancy vehicles is, I told you, 75 percent;
+p95
+aVI think we can get that down to 50 percent.
+p96
+aVThe demand for parking, of course, is down, congestion and the CO2 emissions.
+p97
+aVOne last piece about this, of course, is that it's enabled by wireless technologies.
+p98
+aVAnd it's the cost of driving that's making people want to be able to do this.
+p99
+aVThe average American spends 19 percent of their income on their car,
+p100
+aVand there's a pressure for them to reduce that cost, yet they have no outlet today.
+p101
+aa(lp102
+VSo, the last example of this is congestion pricing, very famously done in London.
+p103
+aVIt's when you charge a premium for people to drive on congested roads.
+p104
+aVIn London, the day they turned the congestion pricing on,
+p105
+aVthere was a 25 percent decrease in congestion overnight,
+p106
+aVand that's persisted for the four years in which they've been doing congestion pricing.
+p107
+aVAnd again, do people like the outcome?
+p108
+aVKen Livingstone was reelected.
+p109
+aVSo again, we can see that price plays an enormous role in people's willingness
+p110
+aVto reduce their driving behavior.
+p111
+aVWe've tripled the miles that we drive since 1970 and doubled them since 1982.
+p112
+aVThere's a huge slack in that system;
+p113
+aVwith the right pricing we can undo that.
+p114
+aa(lp115
+VCongestion pricing is being discussed in every major city around the world
+p116
+aVand is, again, wirelessly enabled.
+p117
+aVYou weren't going to put tollbooths around the city of London
+p118
+aVand open and shut those gates.
+p119
+aVAnd what congestion pricing is is that it's a technology trial and a psychological trial
+p120
+aVfor something called road pricing.
+p121
+aVAnd road pricing is where we're all going to have to go,
+p122
+aVbecause today we pay for our maintenance
+p123
+aVand wear and tear on our cars with gas taxes.
+p124
+aVAnd as we get our cars more fuel-efficient,
+p125
+aVthat's going to be reducing the amount of revenue that you get off of those gas taxes,
+p126
+aVso we need to charge people by the mile that they drive.
+p127
+aVWhatever happens with congestion pricing and those technologies
+p128
+aVwill be happening with road pricing.
+p129
+aa(lp130
+VWhy do we travel too much?
+p131
+aVCar travel is underpriced and therefore we over-consumed.
+p132
+aVWe need to put this better market feedback.
+p133
+aVAnd if we have it, you'll decide how many miles to drive,
+p134
+aVwhat mode of travel, where to live and work.
+p135
+aVAnd wireless technologies make this real-time loop possible.
+p136
+aa(lp137
+VSo, I want to move now to the second part of my story,
+p138
+aVwhich is: when are we going to start doing
+p139
+aVthis congestion pricing? Road pricing is coming.
+p140
+aVWhen are we going to do it? Are we going to wait
+p141
+aV10 to 15 years for this to happen
+p142
+aVor are we going to finally have this political will to make it happen in the next two years?
+p143
+aVBecause I'm going to say, that is going to be the tool that's going to turn our usage overnight.
+p144
+aa(lp145
+VAnd what kind of wireless technology are we going to use?
+p146
+aVThis is my big vision.
+p147
+aVThere is a tool that can help us bridge the digital divide,
+p148
+aVrespond to emergencies, get traffic moving,
+p149
+aVprovide a new engine for economic growth
+p150
+aVand dramatically reduce CO2 emissions in every sector.
+p151
+aVAnd this is a moment from "The Graduate." Do you remember this moment?
+p152
+aVYou guys are going to be the handsome young guy
+p153
+aVand I'm going to be the wise businessman.
+p154
+aV"I want to say one word to you, just one word."
+p155
+aV"Yes, sir?" "Are you listening?" "Yes I am."
+p156
+aV"Ad-hoc peer-to-peer self-configuring wireless networks."
+p157
+aV(Laughter)
+p158
+aVThese are also called mesh networks.
+p159
+aVAnd in a mesh, every device contributes to and expands the network,
+p160
+aVand I think you might have heard a little bit about it before.
+p161
+aa(lp162
+VI'm going to give you some examples.
+p163
+aVYou'll be hearing later today from Alan Kay.
+p164
+aVThese laptops, when a child opens them up,
+p165
+aVthey communicate with every single child in the classroom,
+p166
+aVwithin that school, within that village.
+p167
+aVAnd what is the cost of that communication system?
+p168
+aVZero dollars a month.
+p169
+aVHere's another example: in New Orleans,
+p170
+aVvideo cameras were mesh-enabled
+p171
+aVso that they could monitor crime in the downtown French Quarter.
+p172
+aVWhen the hurricane happened,
+p173
+aVthe only communication system standing was the mesh network.
+p174
+aVVolunteers flew in, added a whole bunch of devices,
+p175
+aVand for the next 12 months,
+p176
+aVmesh networks were the only wireless that was happening in New Orleans.
+p177
+aa(lp178
+VAnother example is in Portsmouth, U.K.
+p179
+aVThey mesh-enabled 300 buses and they speak to these smart terminals.
+p180
+aVYou can look at the terminal
+p181
+aVand be able to see precisely where your bus is on the street
+p182
+aVand when it's coming, and you can buy your tickets in real time.
+p183
+aVAgain, all mesh-enabled. Monthly communication cost: zero.
+p184
+aVSo, the beauty of mesh networks:
+p185
+aVyou can have these very low-cost devices.
+p186
+aVZero ongoing communication costs. Highly scalable;
+p187
+aVyou can just keep adding them, and as in Katrina,
+p188
+aVyou can keep subtracting them \u2014 as long as there's some, we can still communicate.
+p189
+aVThey're resilient; their redundancy is built into this fabulous decentralized design.
+p190
+aa(lp191
+VWhat are the incredible weaknesses?
+p192
+aVThere isn't anybody in Washington lobbying to make it happen \u2014
+p193
+aVor in those municipalities, to build out their cities with these wireless networks \u2014
+p194
+aVbecause there's zero ongoing communications cost.
+p195
+aVSo, the examples that I gave you are these islands of mesh networks,
+p196
+aVand networks are interesting only as they are big.
+p197
+aa(lp198
+VHow do we create a big network?
+p199
+aVAre you guys ready again \u2014 "The Graduate"?
+p200
+aVThis time you will still play the handsome young thing, but I'll be the sexy woman.
+p201
+aVThese are the next two lines in the movie.
+p202
+aV"Where did you do it?" "In his car."
+p203
+aVSo you know, when you stick this idea ... (Laughter)
+p204
+aVwhere would we expect me, Robin Chase, to be thinking
+p205
+aVis imagine if we put a mesh-network device
+p206
+aVin every single car across America.
+p207
+aVWe could have a coast-to-coast, free wireless communication system.
+p208
+aVI guess I just want you to think about that.
+p209
+aa(lp210
+VAnd why is this going to happen? Because we're going to do congestion pricing,
+p211
+aVwe are going to do road tolls,
+p212
+aVgas taxes are going to become road pricing.
+p213
+aVThese things are going to happen.
+p214
+aVWhat's the wireless technology we're going to use?
+p215
+aVMaybe we should use a good one. When are we going to do it?
+p216
+aVMaybe we shouldn't wait for the 10 or 15 years for this to happen.
+p217
+aVWe should pull it forward.
+p218
+aa(lp219
+VSo, I'd like us to launch the wireless Internet interstate wireless mesh system,
+p220
+aVand require that this network be accessible to everyone, with open standards.
+p221
+aVRight now in the transportation sector, we're creating these wireless devices \u2014
+p222
+aVI guess you guys might have Fast Pass here or Easy Lane \u2014
+p223
+aVthat are single-purpose devices in these closed networks.
+p224
+aVWhat is the point?
+p225
+aVWe're transferring just a few little data bits
+p226
+aVwhen we're doing road controlling, road pricing.
+p227
+aVWe have this incredible excess capacity.
+p228
+aVSo, we can provide the lowest-cost means of going wireless coast-to-coast,
+p229
+aVwe can have resilient nationwide communication systems,
+p230
+aVwe have a new tool for creating efficiencies in all sectors.
+p231
+aVImagine what happens when the cost of getting information
+p232
+aVfrom anywhere to anywhere is close to zero.
+p233
+aVWhat you can do with that tool: we can create an economic engine.
+p234
+aVInformation should be free, and access to information should be free,
+p235
+aVand we should be charging people for carbon.
+p236
+aa(lp237
+VI think this is a more powerful tool than the Interstate Highway Act,
+p238
+aVand I think this is as important and world changing
+p239
+aVto our economy as electrification.
+p240
+aVAnd if I had my druthers,
+p241
+aVwe would have an open-source version in addition to open standards.
+p242
+aVAnd this open-source version means that
+p243
+aVit could be \u2014 if we did a brilliant job of it \u2014
+p244
+aVit could be used around the world very quickly.
+p245
+aVSo, going back to one of my earlier thoughts.
+p246
+aVImagine if every one of these buses in Lagos was part of the mesh network.
+p247
+aVWhen I went this morning to Larry Brilliant's TEDTalk prize
+p248
+aV\u2014 his fabulous networks \u2014
+p249
+aVimagine if there was an open-source
+p250
+aVmesh communications device that can be put into those networks,
+p251
+aVto make all that happen.
+p252
+aVAnd we can be doing it if we could just get over the fact that
+p253
+aVthis little slice of things is going to be for free.
+p254
+aVWe could make billions of dollars on top of it,
+p255
+aVbut this one particular slice of communications needs to be open source.
+p256
+aa(lp257
+VSo, let's take control of this nightmare:
+p258
+aVimplement a gas tax immediately;
+p259
+aVtransition across the nation to road-tolling with this wireless mesh;
+p260
+aVrequire that the mesh be open to all, with open standards;
+p261
+aVand, of course, use mesh networks.
+p262
+aVThank you. (Applause)
+p263
+aasS'id'
+p264
+I212
+sS'title'
+p265
+VThe idea behind Zipcar (and what comes next)
+p266
+s.

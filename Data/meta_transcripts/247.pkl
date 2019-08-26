@@ -1,0 +1,521 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VOne of the problems of writing, and working, and looking at the Internet
+p4
+aVis that it's very hard to separate fashion from deep change.
+p5
+aVAnd so, to start helping that, I want to take us back to 1835.
+p6
+aVIn 1835, James Gordon Bennett founded the first mass-circulation newspaper
+p7
+aVin New York City.
+p8
+aVAnd it cost about 500 dollars to start it,
+p9
+aVwhich was about the equivalent of 10,000 dollars of today.
+p10
+aVBy 15 years later, by 1850, doing the same thing
+p11
+aV\u2014 starting what was experienced as a mass\u2014circulation daily paper
+p12
+aV\u2014 would come to cost two and a half million dollars.
+p13
+aV10,000, two and a half million, 15 years.
+p14
+aVThat's the critical change that is being inverted by the Net.
+p15
+aVAnd that's what I want to talk about today,
+p16
+aVand how that relates to the emergence of social production.
+p17
+aa(lp18
+VStarting with newspapers, what we saw was high cost as an initial requirement
+p19
+aVfor making information, knowledge and culture, which led to a stark bifurcation
+p20
+aVbetween producers \u2014 who had to be able to raise financial capital,
+p21
+aVjust like any other industrial organization \u2014
+p22
+aVand passive consumers that could choose from a certain set of
+p23
+aVthings that this industrial model could produce.
+p24
+aVNow, the term "information society," "information economy,"
+p25
+aVfor a very long time has been used as the thing that comes after
+p26
+aVthe industrial revolution. But in fact, for purposes of understanding what's happening
+p27
+aVtoday, that's wrong. Because for 150 years, we've had an information economy.
+p28
+aVIt's just been industrial,
+p29
+aVwhich means those who were producing had to have a way of raising money
+p30
+aVto pay those two and a half million dollars, and later, more for the telegraph,
+p31
+aVand the radio transmitter, and the television, and eventually the mainframe.
+p32
+aVAnd that meant they were market based, or they were government owned,
+p33
+aVdepending on what kind of system they were in. And this characterized and anchored
+p34
+aVthe way information and knowledge were produced for the next 150 years.
+p35
+aa(lp36
+VNow, let me tell you a different story. Around June 2002,
+p37
+aVthe world of supercomputers had a bombshell.
+p38
+aVThe Japanese had, for the first time, created the fastest supercomputer \u2014
+p39
+aVthe NEC Earth Simulator \u2014 taking the primary from the U.S.,
+p40
+aVand about two years later \u2014 this, by the way, is measuring the trillion floating-point
+p41
+aVoperations per second that the computer's capable of running \u2014
+p42
+aVsigh of relief: IBM [Blue Gene] has just edged ahead of the NEC Earth Simulator.
+p43
+aVAll of this completely ignores the fact that throughout this period,
+p44
+aVthere's another supercomputer running in the world \u2014 SETI@home.
+p45
+aVFour and a half million users around the world, contributing their
+p46
+aVleftover computer cycles, whenever their computer isn't working,
+p47
+aVby running a screen saver, and together sharing their resources to create
+p48
+aVa massive supercomputer that NASA harnesses to analyze the data
+p49
+aVcoming from radio telescopes.
+p50
+aa(lp51
+VWhat this picture suggests to us is that we've got a radical change in the way
+p52
+aVinformation production and exchange is capitalized. Not that it's become
+p53
+aVless capital intensive \u2014 that there's less money that's required
+p54
+aV\u2014 but that the ownership of this capital, the way the capitalization happens,
+p55
+aVis radically distributed. Each of us, in these advanced economies,
+p56
+aVhas one of these, or something rather like it \u2014 a computer.
+p57
+aVThey're not radically different from routers inside the middle of the network.
+p58
+aVAnd computation, storage and communications capacity are in the hands of
+p59
+aVpractically every connected person \u2014 and these are the basic physical
+p60
+aVcapital means necessary for producing information, knowledge and culture,
+p61
+aVin the hands of something like 600 million to a billion people around the planet.
+p62
+aa(lp63
+VWhat this means is that for the first time since the industrial revolution,
+p64
+aVthe most important means, the most important components of the core
+p65
+aVeconomic activities \u2014 remember, we are in an information economy
+p66
+aV\u2014 of the most advanced economies, and there more than anywhere else,
+p67
+aVare in the hands of the population at large. This is completely different than what we've
+p68
+aVseen since the industrial revolution. So we've got communications and computation
+p69
+aVcapacity in the hands of the entire population,
+p70
+aVand we've got human creativity, human wisdom, human experience
+p71
+aV\u2014 the other major experience, the other major input \u2014
+p72
+aVwhich unlike simple labor \u2014 stand here turning this lever all day long \u2014
+p73
+aVis not something that's the same or fungible among people.
+p74
+aVAny one of you who has taken someone else's job, or tried to give yours
+p75
+aVto someone else, no matter how detailed the manual, you cannot transmit
+p76
+aVwhat you know, what you will intuit under a certain set of circumstances.
+p77
+aVIn that we're unique, and each of us holds this critical input
+p78
+aVinto production as we hold this machine.
+p79
+aa(lp80
+VWhat's the effect of this? So, the story that most people know
+p81
+aVis the story of free or open source software.
+p82
+aVThis is market share of Apache Web server
+p83
+aV\u2014 one of the critical applications in Web-based communications.
+p84
+aVIn 1995, two groups of people said,
+p85
+aV"Wow, this is really important, the Web! We need a much better Web server!"
+p86
+aVOne was a motley collection of volunteers who just decided,
+p87
+aVyou know, we really need this, we should write one,
+p88
+aVand what are we going to do with what \u2014
+p89
+aVwell, we're gonna share it! And other people will be able to develop it.
+p90
+aVThe other was Microsoft.
+p91
+aa(lp92
+VNow, if I told you that 10 years later, the motley crew of people, who didn't control
+p93
+aVanything that they produced, acquired 20 percent of the market
+p94
+aVand was the red line, it would be amazing! Right?
+p95
+aVThink of it in minivans. A group of automobile
+p96
+aVengineers on their weekends are competing with Toyota. Right?
+p97
+aVBut, in fact, of course, the story is it's the 70 percent,
+p98
+aVincluding the major e-commerce site \u2014 70 percent of a critical application
+p99
+aVon which Web-based communications and applications work is produced in this form, in
+p100
+aVdirect competition with Microsoft. Not in a side issue \u2014
+p101
+aVin a central strategic decision to try to capture a component of the Net.
+p102
+aVSoftware has done this in a way that's been very visible, because
+p103
+aVit's measurable. But the thing to see is that this actually happens throughout the Web.
+p104
+aa(lp105
+VSo, NASA, at some point, did an experiment where they took images of Mars
+p106
+aVthat they were mapping, and they said, instead of having three or four
+p107
+aVfully trained Ph.D.s doing this all the time, let's break it up into small components,
+p108
+aVput it up on the Web, and see if people, using a very simple interface,
+p109
+aVwill actually spend five minutes here,
+p110
+aV10 minutes there, clicking. After six months,
+p111
+aV85,000 people used this to generate mapping at a
+p112
+aVfaster rate than the images were coming in, which was, quote,
+p113
+aV"practically indistinguishable from the markings of a fully-trained Ph.D.,"
+p114
+aVonce you showed it to a number of people and computed the average.
+p115
+aa(lp116
+VNow, if you have a little girl, and she goes and writes to
+p117
+aV\u2014 well, not so little, medium little \u2014 tries to do research on Barbie.
+p118
+aVAnd she'll come to Encarta, one of the main online encyclopedias.
+p119
+aVThis is what you'll find out about Barbie. This is it, there's nothing more to the definition,
+p120
+aVincluding, "manufacturers" \u2014 plural \u2014 "now more commonly produce
+p121
+aVethnically diverse dolls, like this black Barbie." Which is vastly better
+p122
+aVthan what you'll find in the encyclopedia.com,
+p123
+aVwhich is Barbie, Klaus. (Laughter)
+p124
+aVOn the other hand, if they go to Wikipedia, they'll find a genuine article
+p125
+aV\u2014 and I won't talk a lot about Wikipedia, because Jimmy Wales is here \u2014
+p126
+aVbut roughly equivalent to what you would find in the Britannica, differently written,
+p127
+aVincluding the controversies over body image and commercialization,
+p128
+aVthe claims about the way in which she's a good role model, etc.
+p129
+aa(lp130
+VAnother portion is not only how content is produced, but how relevance is produced.
+p131
+aVThe claim to fame of Yahoo! was, we hire people to look \u2014 originally, not anymore
+p132
+aV\u2014 we hire people to look at websites and tell you \u2014
+p133
+aVif they're in the index, they're good. This, on the other hand, is what 60,000
+p134
+aVpassionate volunteers produce in the Open Directory Project,
+p135
+aVeach one willing to spend an hour or two on something they really care about,
+p136
+aVto say, this is good. So, this is the Open Directory Project, with 60,000 volunteers,
+p137
+aVeach one spending a little bit of time, as opposed to a few hundred
+p138
+aVfully paid employees. No one owns it, no one owns the output,
+p139
+aVit's free for anyone to use and it's the output of people acting out of social
+p140
+aVand psychological motivations to do something interesting.
+p141
+aa(lp142
+VThis is not only outside of businesses. When you think of what is the critical innovation
+p143
+aVof Google, the critical innovation is outsourcing the one most important thing \u2014
+p144
+aVthe decision about what's relevant \u2014 to the community of the Web as a whole,
+p145
+aVdoing whatever they want to do: so, page rank.
+p146
+aVThe critical innovation here is instead of our engineers, or our people saying
+p147
+aVwhich is the most relevant, we're going to go out and count what you,
+p148
+aVpeople out there on the Web, for whatever reason \u2014 vanity, pleasure \u2014
+p149
+aVproduced links, and tied to each other. We're going to count those, and count them up.
+p150
+aVAnd again, here, you see Barbie.com, but also, very quickly,
+p151
+aVAdiosbarbie.com, the body image for every size. A contested cultural object,
+p152
+aVwhich you won't find anywhere soon on Overture, which is the classic
+p153
+aVmarket-based mechanism: whoever pays the most is highest on the list.
+p154
+aa(lp155
+VSo, all of that is in the creation of content, of relevance, basic human expression.
+p156
+aVBut remember, the computers were also physical. Just physical materials
+p157
+aV\u2014 our PCs \u2014 we share them together. We also see this in wireless.
+p158
+aVIt used to be wireless was one person owned the license, they transmitted in an
+p159
+aVarea, and it had to be decided whether they would be licensed or based on property.
+p160
+aVWhat we're seeing now is that computers and radios are becoming so sophisticated
+p161
+aVthat we're developing algorithms to let people own machines, like Wi-Fi devices,
+p162
+aVand overlay them with a sharing protocol that would allow a community like this
+p163
+aVto build its own wireless broadband network simply from the simple principle:
+p164
+aVWhen I'm listening, when I'm not using, I can help you transfer your messages;
+p165
+aVand when you're not using, you'll help me transfer yours.
+p166
+aVAnd this is not an idealized version. These are working models that at least in some
+p167
+aVplaces in the United States are being implemented, at least for public security.
+p168
+aa(lp169
+VIf in 1999 I told you, let's build a data storage and retrieval system.
+p170
+aVIt's got to store terabytes. It's got to be available 24 hours a day,
+p171
+aVseven days a week. It's got to be available from anywhere in the world.
+p172
+aVIt has to support over 100 million users at any given moment. It's got to
+p173
+aVbe robust to attack, including closing the main index, injecting malicious files,
+p174
+aVarmed seizure of some major nodes. You'd say that would take years.
+p175
+aVIt would take millions. But of course, what I'm describing is P2P file sharing.
+p176
+aVRight? We always think of it as stealing music, but fundamentally,
+p177
+aVit's a distributed data storage and retrieval system, where people,
+p178
+aVfor very obvious reasons, are willing to share their bandwidth and their
+p179
+aVstorage to create something.
+p180
+aa(lp181
+VSo, essentially what we're seeing is the emergence of a fourth transactional
+p182
+aVframework. It used to be that there were two primary dimensions along which
+p183
+aVyou could divide things. They could be market based, or non-market based;
+p184
+aVthey could be decentralized, or centralized.
+p185
+aVThe price system was a market-based and decentralized system.
+p186
+aVIf things worked better because you actually had somebody organizing them,
+p187
+aVyou had firms, if you wanted to be in the market \u2014 or you had governments
+p188
+aVor sometimes larger non-profits in the non-market.
+p189
+aVIt was too expensive to have decentralized social production,
+p190
+aVto have decentralized action in society. That was not about society itself.
+p191
+aVThat was, in fact, economic.
+p192
+aa(lp193
+VBut what we're seeing now is the emergence of this fourth system
+p194
+aVof social sharing and exchange.
+p195
+aVNot that it's the first time that we do nice things to each other, or for each other,
+p196
+aVas social beings. We do it all the time.
+p197
+aVIt's that it's the first time that it's having major economic impact.
+p198
+aVWhat characterizes them is decentralized authority.
+p199
+aVYou don't have to ask permission, as you do in a property-based system.
+p200
+aVMay I do this? It's open for anyone to create and innovate and share,
+p201
+aVif they want to, by themselves or with others,
+p202
+aVbecause property is one mechanism of coordination.
+p203
+aVBut it's not the only one.
+p204
+aa(lp205
+VInstead, what we see are social frameworks for all of the critical things that we use
+p206
+aVproperty and contract in the market: information flows to decide what are
+p207
+aVinteresting problems; who's available and good for something;
+p208
+aVmotivation structures \u2014 remember, money isn't always the best motivator.
+p209
+aVIf you leave a $50 check after dinner with friends,
+p210
+aVyou don't increase the probability of being invited back.
+p211
+aVAnd if dinner isn't entirely obvious, think of sex. (Laughter)
+p212
+aa(lp213
+VIt also requires certain new organizational approaches.
+p214
+aVAnd in particular, what we've seen is task organization.
+p215
+aVYou have to hire people who know what they're doing.
+p216
+aVYou have to hire them to spend a lot of time.
+p217
+aVNow, take the same problem,
+p218
+aVchunk it into little modules, and motivations become trivial.
+p219
+aVFive minutes, instead of watching TV?
+p220
+aVFive minutes I'll spend just because it's interesting. Just because it's fun.
+p221
+aVJust because it gives me a certain sense of meaning, or, in places that are more
+p222
+aVinvolved, like Wikipedia, gives me a certain set of social relations.
+p223
+aa(lp224
+VSo, a new social phenomenon is emerging.
+p225
+aVIt's creating, and it's most visible when we see it as a new form of competition.
+p226
+aVPeer-to-peer networks assaulting the recording industry;
+p227
+aVfree and open source software taking market share from Microsoft;
+p228
+aVSkype potentially threatening traditional telecoms;
+p229
+aVWikipedia competing with online encyclopedias.
+p230
+aVBut it's also a new source of opportunities for businesses.
+p231
+aVAs you see a new set of social relations and behaviors emerging,
+p232
+aVyou have new opportunities. Some of them are toolmakers.
+p233
+aVInstead of building well-behaved appliances
+p234
+aV\u2014 things that you know what they'll do in advance \u2014
+p235
+aVyou begin to build more open tools. There's a new set of values,
+p236
+aVa new set of things people value.
+p237
+aVYou build platforms for self-expression and collaboration.
+p238
+aVLike Wikipedia, like the Open Directory Project,
+p239
+aVyou're beginning to build platforms, and you see that as a model.
+p240
+aVAnd you see surfers, people who see this happening, and in some sense
+p241
+aVbuild it into a supply chain, which is a very curious one. Right?
+p242
+aa(lp243
+VYou have a belief: stuff will flow out of connected human beings.
+p244
+aVThat'll give me something I can use, and I'm going to contract with someone.
+p245
+aVI will deliver something based on what happens. It's very scary
+p246
+aV\u2014 that's what Google does, essentially.
+p247
+aVThat's what IBM does in software services, and they've done reasonably well.
+p248
+aa(lp249
+VSo, social production is a real fact, not a fad.
+p250
+aVIt is the critical long-term shift caused by the Internet.
+p251
+aVSocial relations and exchange become significantly more important than they ever
+p252
+aVwere as an economic phenomenon. In some contexts, it's even more efficient
+p253
+aVbecause of the quality of the information, the ability to find the best person,
+p254
+aVthe lower transaction costs. It's sustainable and growing fast.
+p255
+aa(lp256
+VBut \u2014 and this is the dark lining \u2014 it is threatened by
+p257
+aV\u2014 in the same way that it threatens \u2014 the incumbent industrial systems.
+p258
+aVSo next time you open the paper, and you see an intellectual property decision,
+p259
+aVa telecoms decision, it's not about something small and technical.
+p260
+aVIt is about the future of the freedom to be as social beings with each other,
+p261
+aVand the way information, knowledge and culture will be produced.
+p262
+aVBecause it is in this context that we see a battle over how easy or hard it will be
+p263
+aVfor the industrial information economy to simply go on as it goes,
+p264
+aVor for the new model of production to begin to develop alongside that industrial model,
+p265
+aVand change the way we begin to see the world and report what it is that we see.
+p266
+aVThank you.
+p267
+aasS'id'
+p268
+I247
+sS'title'
+p269
+VThe new open-source economics
+p270
+s.

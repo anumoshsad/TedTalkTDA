@@ -1,0 +1,430 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VPeople are living longer and societies are getting grayer.
+p4
+aVYou hear about it all the time.
+p5
+aVYou read about it in your newspapers.
+p6
+aVYou hear about it on your television sets.
+p7
+aVSometimes, I'm concerned
+p8
+aVthat we hear about it so much that we've come to accept longer lives
+p9
+aVwith a kind of a complacency, even ease.
+p10
+aVBut make no mistake, longer lives can \u2014
+p11
+aVand, I believe, will improve quality of life at all ages.
+p12
+aa(lp13
+VNow to put this in perspective, let me just zoom out for a minute.
+p14
+aVMore years were added to average life expectancy in the 20th century
+p15
+aVthan all years added across all prior millennia
+p16
+aVof human evolution combined.
+p17
+aVIn the blink of an eye,
+p18
+aVwe nearly doubled the length of time that we're living.
+p19
+aVSo if you ever feel like you don't have this aging thing quite pegged,
+p20
+aVdon't kick yourself.
+p21
+aVIt's brand new.
+p22
+aa(lp23
+VAnd because fertility rates fell across that very same period
+p24
+aVthat life expectancy was going up,
+p25
+aVthat pyramid that has always represented the distribution of age in the population,
+p26
+aVwith many young ones at the bottom winnowed to a tiny peak of older people
+p27
+aVwho make it and survive to old age,
+p28
+aVis being reshaped into a rectangle.
+p29
+aa(lp30
+VAnd now, if you're the kind of person
+p31
+aVwho can get chills from population statistics,
+p32
+aa(lp33
+V(Laughter)
+p34
+aa(lp35
+Vthese are the ones that should do it.
+p36
+aVBecause what that means
+p37
+aVis that for the first time in the history of the species,
+p38
+aVthe majority of babies born in the developed world
+p39
+aVare having the opportunity to grow old.
+p40
+aa(lp41
+VHow did this happen?
+p42
+aVWell, we're no genetically hardier than our ancestors were 10,000 years ago.
+p43
+aVThis increase in life expectancy is the remarkable product of culture \u2014
+p44
+aVthe crucible that holds science and technology
+p45
+aVand wide-scale changes in behavior that improve health and well-being.
+p46
+aVThrough cultural changes, our ancestors largely eliminated early death
+p47
+aVso that people can now live out their full lives.
+p48
+aa(lp49
+VNow there are problems associated with aging \u2014
+p50
+aVdiseases, poverty, loss of social status.
+p51
+aVIt's hardly time to rest on our laurels.
+p52
+aVBut the more we learn about aging,
+p53
+aVthe clearer it becomes that a sweeping downward course
+p54
+aVis grossly inaccurate.
+p55
+aVAging brings some rather remarkable improvements \u2014
+p56
+aVincreased knowledge, expertise \u2014
+p57
+aVand emotional aspects of life improve.
+p58
+aVThat's right, older people are happy.
+p59
+aVThey're happier than middle-aged people, and younger people, certainly.
+p60
+aa(lp61
+V(Laughter)
+p62
+aa(lp63
+VStudy after study is coming to the same conclusion.
+p64
+aa(lp65
+VThe CDC recently conducted a survey
+p66
+aVwhere they asked respondents simply to tell them
+p67
+aVwhether they experienced significant psychological distress
+p68
+aVin the previous week.
+p69
+aVAnd fewer older people answered affirmatively to that question
+p70
+aVthan middle-aged people, and younger people as well.
+p71
+aVAnd a recent Gallup poll asked participants
+p72
+aVhow much stress and worry and anger they had experienced the previous day.
+p73
+aVAnd stress, worry, anger
+p74
+aVall decrease with age.
+p75
+aa(lp76
+VNow social scientists call this the paradox of aging.
+p77
+aVI mean, after all, aging is not a piece of cake.
+p78
+aVSo we've asked all sorts of questions to see if we could undo this finding.
+p79
+aVWe've asked whether it may be that the current generations of older people
+p80
+aVare and always have been the greatest generations.
+p81
+aVThat is that younger people today may not typically experience
+p82
+aVthese improvements as they grow older.
+p83
+aVWe've asked,
+p84
+aVwell, maybe older people are just trying to put a positive spin
+p85
+aVon an otherwise depressing existence.
+p86
+aa(lp87
+V(Laughter)
+p88
+aa(lp89
+VBut the more we've tried to disavow this finding,
+p90
+aVthe more evidence we find to support it.
+p91
+aa(lp92
+VYears ago, my colleagues and I embarked on a study
+p93
+aVwhere we followed the same group of people over a 10-year period.
+p94
+aVOriginally, the sample was aged 18 to 94.
+p95
+aVAnd we studied whether and how their emotional experiences changed
+p96
+aVas they grew older.
+p97
+aVOur participants would carry electronic pagers
+p98
+aVfor a week at a time,
+p99
+aVand we'd page them throughout the day and evenings at random times.
+p100
+aVAnd every time we paged them,
+p101
+aVwe'd ask them to answer several questions \u2014
+p102
+aV"On a one to seven scale, how happy are you right now?"
+p103
+aV"How sad are you right now?"
+p104
+aV"How frustrated are you right now?" \u2014
+p105
+aVso that we could get a sense of the kinds of emotions and feelings they were having
+p106
+aVin their day-to-day lives.
+p107
+aa(lp108
+VAnd using this intense study of individuals,
+p109
+aVwe find that it's not one particular generation
+p110
+aVthat's doing better than the others,
+p111
+aVbut the same individuals over time
+p112
+aVcome to report relatively greater positive experience.
+p113
+aVNow you see this slight downturn at very advanced ages.
+p114
+aVAnd there is a slight downturn.
+p115
+aVBut at no point does it return to the levels we see in early adulthood.
+p116
+aa(lp117
+VNow it's really too simplistic to say that older people are "happy."
+p118
+aVIn our study, they are more positive.
+p119
+aVBut they're also more likely than younger people
+p120
+aVto experience mixed emotions \u2014
+p121
+aVsadness at the same time you experience happiness;
+p122
+aVyou know, that tear in the eye when you're smiling at a friend.
+p123
+aVAnd other research has shown that older people seem to engage with sadness
+p124
+aVmore comfortably.
+p125
+aVThey're more accepting of sadness than younger people are.
+p126
+aVAnd we suspect that this may help to explain
+p127
+aVwhy older people are better than younger people
+p128
+aVat solving hotly charged emotional conflicts and debates.
+p129
+aVOlder people can view injustice with compassion,
+p130
+aVbut not despair.
+p131
+aa(lp132
+VAnd all things being equal,
+p133
+aVolder people direct their cognitive resources, like attention and memory,
+p134
+aVto positive information more than negative.
+p135
+aVIf we show older, middle-aged, younger people images,
+p136
+aVlike the ones you see on the screen,
+p137
+aVand we later ask them to recall all the images that they can,
+p138
+aVolder people, but not younger people,
+p139
+aVremember more positive images than negative images.
+p140
+aVWe've asked older and younger people to view faces in laboratory studies,
+p141
+aVsome frowning, some smiling.
+p142
+aVOlder people look toward the smiling faces and away from the frowning, angry faces.
+p143
+aVIn day-to-day life, this translates into greater enjoyment and satisfaction.
+p144
+aa(lp145
+VBut as social scientists, we continue to ask about possible alternatives.
+p146
+aVWe've said, well, maybe older people report more positive emotions
+p147
+aVbecause they're cognitively impaired.
+p148
+aa(lp149
+V(Laughter)
+p150
+aa(lp151
+VWe've said, could it be
+p152
+aVthat positive emotions are simply easier to process than negative emotions,
+p153
+aVand so you switch to the positive emotions?
+p154
+aVMaybe our neural centers in our brain
+p155
+aVare degraded such that we're unable to process negative emotions anymore.
+p156
+aVBut that's not the case.
+p157
+aVThe most mentally sharp older adults
+p158
+aVare the ones who show this positivity effect the most.
+p159
+aVAnd under conditions where it really matters,
+p160
+aVolder people do process the negative information
+p161
+aVjust as well as the positive information.
+p162
+aa(lp163
+VSo how can this be?
+p164
+aVWell, in our research,
+p165
+aVwe've found that these changes are grounded fundamentally
+p166
+aVin the uniquely human ability to monitor time \u2014
+p167
+aVnot just clock time and calendar time, but lifetime.
+p168
+aVAnd if there's a paradox of aging,
+p169
+aVit's that recognizing that we won't live forever
+p170
+aVchanges our perspective on life in positive ways.
+p171
+aVWhen time horizons are long and nebulous, as they typically are in youth,
+p172
+aVpeople are constantly preparing,
+p173
+aVtrying to soak up all the information they possibly can,
+p174
+aVtaking risks, exploring.
+p175
+aVWe might spend time with people we don't even like
+p176
+aVbecause it's somehow interesting.
+p177
+aVWe might learn something unexpected.
+p178
+aa(lp179
+V(Laughter)
+p180
+aa(lp181
+VWe go on blind dates.
+p182
+aa(lp183
+V(Laughter)
+p184
+aa(lp185
+VYou know, after all,
+p186
+aVif it doesn't work out, there's always tomorrow.
+p187
+aVPeople over 50 don't go on blind dates.
+p188
+aa(lp189
+V(Laughter)
+p190
+aa(lp191
+VAs we age, our time horizons grow shorter and our goals change.
+p192
+aVWhen we recognize that we don't have all the time in the world,
+p193
+aVwe see our priorities most clearly.
+p194
+aVWe take less notice of trivial matters.
+p195
+aVWe savor life.
+p196
+aVWe're more appreciative,
+p197
+aVmore open to reconciliation.
+p198
+aVWe invest in more emotionally important parts of life,
+p199
+aVand life gets better,
+p200
+aVso we're happier day-to-day.
+p201
+aVBut that same shift in perspective
+p202
+aVleads us to have less tolerance than ever for injustice.
+p203
+aa(lp204
+VBy 2015,
+p205
+aVthere will be more people in the United States
+p206
+aVover the age of 60 than under 15.
+p207
+aVWhat will happen to societies that are top-heavy with older people?
+p208
+aVThe numbers won't determine the outcome.
+p209
+aVCulture will.
+p210
+aVIf we invest in science and technology
+p211
+aVand find solutions for the real problems that older people face
+p212
+aVand we capitalize on the very real strengths of older people,
+p213
+aVthen added years of life can dramatically improve quality of life at all ages.
+p214
+aVSocieties with millions of talented, emotionally stable citizens
+p215
+aVwho are healthier and better educated than any generations before them,
+p216
+aVarmed with knowledge about the practical matters of life
+p217
+aVand motivated to solve the big issues
+p218
+aVcan be better societies than we have ever known.
+p219
+aa(lp220
+VMy father, who is 92, likes to say,
+p221
+aV"Let's stop talking only about how to save the old folks
+p222
+aVand start talking about how to get them to save us all."
+p223
+aa(lp224
+VThank you.
+p225
+aa(lp226
+V(Applause)
+p227
+aasS'id'
+p228
+I1424
+sS'title'
+p229
+VOlder people are happier
+p230
+s.

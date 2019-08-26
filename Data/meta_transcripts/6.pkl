@@ -1,0 +1,746 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VAt the break, I was asked by several people
+p4
+aVabout my comments about the aging debate.
+p5
+aVAnd this will be my only comment on it.
+p6
+aVAnd that is, I understand
+p7
+aVthat optimists greatly outlive pessimists.
+p8
+aV(Laughter)
+p9
+aa(lp10
+VWhat I'm going to tell you about in my 18 minutes is
+p11
+aVhow we're about to switch from reading the genetic code
+p12
+aVto the first stages of beginning
+p13
+aVto write the code ourselves.
+p14
+aVIt's only 10 years ago this month
+p15
+aVwhen we published the first sequence
+p16
+aVof a free-living organism,
+p17
+aVthat of haemophilus influenzae.
+p18
+aVThat took a genome project
+p19
+aVfrom 13 years down to four months.
+p20
+aVWe can now do that same genome project
+p21
+aVin the order of
+p22
+aVtwo to eight hours.
+p23
+aVSo in the last decade, a large number of genomes have been added:
+p24
+aVmost human pathogens,
+p25
+aVa couple of plants,
+p26
+aVseveral insects and several mammals,
+p27
+aVincluding the human genome.
+p28
+aVGenomics at this stage of the thinking
+p29
+aVfrom a little over 10 years ago
+p30
+aVwas, by the end of this year, we might have
+p31
+aVbetween three and five genomes sequenced;
+p32
+aVit's on the order of several hundred.
+p33
+aVWe just got a grant from the Gordon and Betty Moore Foundation
+p34
+aVto sequence 130 genomes this year,
+p35
+aVas a side project from environmental organisms.
+p36
+aVSo the rate of reading the genetic code has changed.
+p37
+aa(lp38
+VBut as we look, what's out there,
+p39
+aVwe've barely scratched the surface
+p40
+aVon what is available on this planet.
+p41
+aVMost people don't realize it, because they're invisible,
+p42
+aVbut microbes make up about a half of the Earth's biomass,
+p43
+aVwhereas all animals only make up about
+p44
+aVone one-thousandth of all the biomass.
+p45
+aVAnd maybe it's something that people in Oxford don't do very often,
+p46
+aVbut if you ever make it to the sea,
+p47
+aVand you swallow a mouthful of seawater,
+p48
+aVkeep in mind that each milliliter
+p49
+aVhas about a million bacteria
+p50
+aVand on the order of 10 million viruses.
+p51
+aa(lp52
+VLess than 5,000 microbial species
+p53
+aVhave been characterized as of two years ago,
+p54
+aVand so we decided to do something about it.
+p55
+aVAnd we started the Sorcerer II Expedition,
+p56
+aVwhere we were, as with great oceanographic expeditions,
+p57
+aVtrying to sample the ocean every 200 miles.
+p58
+aVWe started in Bermuda for our test project,
+p59
+aVthen moved up to Halifax,
+p60
+aVworking down the U.S. East Coast,
+p61
+aVthe Caribbean Sea, the Panama Canal,
+p62
+aVthrough to the Galapagos, then across the Pacific,
+p63
+aVand we're in the process now of working our way
+p64
+aVacross the Indian Ocean.
+p65
+aVIt's very tough duty; we're doing this on a sailing vessel,
+p66
+aVin part to help excite young people
+p67
+aVabout going into science.
+p68
+aVThe experiments are incredibly simple.
+p69
+aVWe just take seawater and we filter it,
+p70
+aVand we collect different size organisms on different filters,
+p71
+aVand then take their DNA back to our lab in Rockville,
+p72
+aVwhere we can sequence a hundred million letters
+p73
+aVof the genetic code every 24 hours.
+p74
+aVAnd with doing this,
+p75
+aVwe've made some amazing discoveries.
+p76
+aa(lp77
+VFor example, it was thought that the visual pigments
+p78
+aVthat are in our eyes \u2014 there was only one or two organisms
+p79
+aVin the environment that had these same pigments.
+p80
+aVIt turns out, almost every species
+p81
+aVin the upper parts of the ocean
+p82
+aVin warm parts of the world
+p83
+aVhave these same photoreceptors,
+p84
+aVand use sunlight as the source of their energy
+p85
+aVand communication.
+p86
+aVFrom one site, from one barrel of seawater,
+p87
+aVwe discovered 1.3 million new genes
+p88
+aVand as many as 50,000 new species.
+p89
+aa(lp90
+VWe've extended this to the air
+p91
+aVnow with a grant from the Sloan Foundation.
+p92
+aVWe're measuring how many viruses and bacteria
+p93
+aVall of us are breathing in and out every day,
+p94
+aVparticularly on airplanes
+p95
+aVor closed auditoriums.
+p96
+aV(Laughter)
+p97
+aVWe filter through some simple apparatuses;
+p98
+aVwe collect on the order of a billion microbes from just a day
+p99
+aVfiltering on top of a building in New York City.
+p100
+aVAnd we're in the process of sequencing all that
+p101
+aVat the present time.
+p102
+aa(lp103
+VJust on the data collection side,
+p104
+aVjust where we are through the Galapagos,
+p105
+aVwe're finding that almost every 200 miles,
+p106
+aVwe see tremendous diversity
+p107
+aVin the samples in the ocean.
+p108
+aVSome of these make logical sense,
+p109
+aVin terms of different temperature gradients.
+p110
+aVSo this is a satellite photograph
+p111
+aVbased on temperatures \u2014 red being warm,
+p112
+aVblue being cold \u2014
+p113
+aVand we found there's a tremendous difference between
+p114
+aVthe warm water samples and the cold water samples,
+p115
+aVin terms of abundant species.
+p116
+aVThe other thing that surprised us quite a bit
+p117
+aVis these photoreceptors detect different wavelengths of light,
+p118
+aVand we can predict that based on their amino acid sequence.
+p119
+aVAnd these vary tremendously from region to region.
+p120
+aVMaybe not surprisingly,
+p121
+aVin the deep ocean, where it's mostly blue,
+p122
+aVthe photoreceptors tend to see blue light.
+p123
+aVWhen there's a lot of chlorophyll around,
+p124
+aVthey see a lot of green light.
+p125
+aVBut they vary even more,
+p126
+aVpossibly moving towards infrared and ultraviolet
+p127
+aVin the extremes.
+p128
+aa(lp129
+VJust to try and get an assessment
+p130
+aVof what our gene repertoire was,
+p131
+aVwe assembled all the data \u2014
+p132
+aVincluding all of ours thus far from the expedition,
+p133
+aVwhich represents more than half of all the gene data on the planet \u2014
+p134
+aVand it totaled around 29 million genes.
+p135
+aVAnd we tried to put these into gene families
+p136
+aVto see what these discoveries are:
+p137
+aVAre we just discovering new members of known families,
+p138
+aVor are we discovering new families?
+p139
+aVAnd it turns out we have about 50,000
+p140
+aVmajor gene families,
+p141
+aVbut every new sample we take in the environment
+p142
+aVadds in a linear fashion to these new families.
+p143
+aVSo we're at the earliest stages of discovery
+p144
+aVabout basic genes,
+p145
+aVcomponents and life on this planet.
+p146
+aa(lp147
+VWhen we look at the so-called evolutionary tree,
+p148
+aVwe're up on the upper right-hand corner with the animals.
+p149
+aVOf those roughly 29 million genes,
+p150
+aVwe only have around 24,000
+p151
+aVin our genome.
+p152
+aVAnd if you take all animals together,
+p153
+aVwe probably share less than 30,000
+p154
+aVand probably maybe a dozen
+p155
+aVor more thousand different gene families.
+p156
+aVI view that these genes are now
+p157
+aVnot only the design components of evolution.
+p158
+aVAnd we think in a gene-centric view \u2014
+p159
+aVmaybe going back to Richard Dawkins' ideas \u2014
+p160
+aVthan in a genome-centric view,
+p161
+aVwhich are different constructs of these gene components.
+p162
+aa(lp163
+VSynthetic DNA, the ability to synthesize DNA,
+p164
+aVhas changed at sort of the same pace
+p165
+aVthat DNA sequencing has
+p166
+aVover the last decade or two,
+p167
+aVand is getting very rapid and very cheap.
+p168
+aVOur first thought about synthetic genomics came
+p169
+aVwhen we sequenced the second genome back in 1995,
+p170
+aVand that from mycoplasma genitalium.
+p171
+aVAnd we have really nice T-shirts that say,
+p172
+aVyou know, "I heart my genitalium."
+p173
+aVThis is actually just a microorganism.
+p174
+aVBut it has roughly 500 genes.
+p175
+aVHaemophilus had 1,800 genes.
+p176
+aVAnd we simply asked the question,
+p177
+aVif one species needs 800, another 500,
+p178
+aVis there a smaller set of genes
+p179
+aVthat might comprise a minimal operating system?
+p180
+aa(lp181
+VSo we started doing transposon mutagenesis.
+p182
+aVTransposons are just small pieces of DNA
+p183
+aVthat randomly insert in the genetic code.
+p184
+aVAnd if they insert in the middle of the gene, they disrupt its function.
+p185
+aVSo we made a map of all the genes
+p186
+aVthat could take transposon insertions
+p187
+aVand we called those "non-essential genes."
+p188
+aVBut it turns out the environment is very critical for this,
+p189
+aVand you can only
+p190
+aVdefine an essential or non-essential gene
+p191
+aVbased on exactly what's in the environment.
+p192
+aVWe also tried to take a more directly intellectual approach
+p193
+aVwith the genomes of 13 related organisms,
+p194
+aVand we tried to compare all of those, to see what they had in common.
+p195
+aVAnd we got these overlapping circles. And we found only 173 genes
+p196
+aVcommon to all 13 organisms.
+p197
+aVThe pool expanded a little bit if we ignored
+p198
+aVone intracellular parasite;
+p199
+aVit expanded even more
+p200
+aVwhen we looked at core sets of genes
+p201
+aVof around 310 or so.
+p202
+aVSo we think that we can expand
+p203
+aVor contract genomes, depending on your point of view here,
+p204
+aVto maybe 300 to 400 genes
+p205
+aVfrom the minimal of 500.
+p206
+aa(lp207
+VThe only way to prove these ideas
+p208
+aVwas to construct an artificial chromosome with those genes in them,
+p209
+aVand we had to do this in a cassette-based fashion.
+p210
+aVWe found that synthesizing accurate DNA
+p211
+aVin large pieces was extremely difficult.
+p212
+aVHam Smith and Clyde Hutchison, my colleagues on this,
+p213
+aVdeveloped an exciting new method
+p214
+aVthat allowed us to synthesize a 5,000-base pair virus
+p215
+aVin only a two-week period
+p216
+aVthat was 100 percent accurate,
+p217
+aVin terms of its sequence and its biology.
+p218
+aVIt was a quite exciting experiment \u2014 when we just took the synthetic piece of DNA,
+p219
+aVinjected it in the bacteria and all of a sudden,
+p220
+aVthat DNA started driving the production of the virus particles
+p221
+aVthat turned around and then killed the bacteria.
+p222
+aVThis was not the first synthetic virus \u2014
+p223
+aVa polio virus had been made a year before \u2014
+p224
+aVbut it was only one ten-thousandth as active
+p225
+aVand it took three years to do.
+p226
+aVThis is a cartoon of the structure of phi X 174.
+p227
+aVThis is a case where the software now builds its own hardware,
+p228
+aVand that's the notions that we have with biology.
+p229
+aa(lp230
+VPeople immediately jump to concerns about biological warfare,
+p231
+aVand I had recent testimony before a Senate committee,
+p232
+aVand a special committee the U.S. government has set up
+p233
+aVto review this area.
+p234
+aVAnd I think it's important to keep reality in mind,
+p235
+aVversus what happens with people's imaginations.
+p236
+aVBasically, any virus that's been sequenced today \u2014
+p237
+aVthat genome can be made.
+p238
+aVAnd people immediately freak out about things about Ebola or smallpox,
+p239
+aVbut the DNA from this organism is not infective.
+p240
+aVSo even if somebody made the smallpox genome,
+p241
+aVthat DNA itself would not cause infections.
+p242
+aVThe real concern that security departments have
+p243
+aVis designer viruses.
+p244
+aVAnd there's only two countries, the U.S. and the former Soviet Union,
+p245
+aVthat had major efforts
+p246
+aVon trying to create biological warfare agents.
+p247
+aVIf that research is truly discontinued,
+p248
+aVthere should be very little activity
+p249
+aVon the know-how to make designer viruses in the future.
+p250
+aa(lp251
+VI think single-cell organisms are possible within two years.
+p252
+aVAnd possibly eukaryotic cells,
+p253
+aVthose that we have,
+p254
+aVare possible within a decade.
+p255
+aVSo we're now making several dozen different constructs,
+p256
+aVbecause we can vary the cassettes and the genes
+p257
+aVthat go into this artificial chromosome.
+p258
+aVThe key is, how do you put all of the others?
+p259
+aVWe start with these fragments,
+p260
+aVand then we have a homologous recombination system
+p261
+aVthat reassembles those into a chromosome.
+p262
+aa(lp263
+VThis is derived from an organism, deinococcus radiodurans,
+p264
+aVthat can take three million rads of radiation and not be killed.
+p265
+aVIt reassembles its genome after this radiation burst
+p266
+aVin about 12 to 24 hours,
+p267
+aVafter its chromosomes are literally blown apart.
+p268
+aVThis organism is ubiquitous on the planet,
+p269
+aVand exists perhaps now
+p270
+aVin outer space due to all our travel there.
+p271
+aVThis is a glass beaker after
+p272
+aVabout half a million rads of radiation.
+p273
+aVThe glass started to burn and crack,
+p274
+aVwhile the microbes sitting in the bottom
+p275
+aVjust got happier and happier.
+p276
+aVHere's an actual picture of what happens:
+p277
+aVthe top of this shows the genome
+p278
+aVafter 1.7 million rads of radiation.
+p279
+aVThe chromosome is literally blown apart.
+p280
+aVAnd here's that same DNA automatically reassembled
+p281
+aV24 hours later.
+p282
+aVIt's truly stunning that these organisms can do that,
+p283
+aVand we probably have thousands,
+p284
+aVif not tens of thousands, of different species
+p285
+aVon this planet that are capable of doing that.
+p286
+aVAfter these genomes are synthesized,
+p287
+aVthe first step is just transplanting them
+p288
+aVinto a cell without a genome.
+p289
+aa(lp290
+VSo we think synthetic cells are going to have tremendous potential,
+p291
+aVnot only for understanding the basis of biology
+p292
+aVbut for hopefully environmental and society issues.
+p293
+aVFor example, from the third organism we sequenced,
+p294
+aVMethanococcus jannaschii \u2014 it lives in boiling water temperatures;
+p295
+aVits energy source is hydrogen
+p296
+aVand all its carbon comes from CO2 it captures back from the environment.
+p297
+aVSo we know lots of different pathways,
+p298
+aVthousands of different organisms now
+p299
+aVthat live off of CO2,
+p300
+aVand can capture that back.
+p301
+aVSo instead of using carbon from oil
+p302
+aVfor synthetic processes,
+p303
+aVwe have the chance of using carbon
+p304
+aVand capturing it back from the atmosphere,
+p305
+aVconverting that into biopolymers
+p306
+aVor other products.
+p307
+aVWe have one organism that lives off of carbon monoxide,
+p308
+aVand we use as a reducing power
+p309
+aVto split water to produce hydrogen and oxygen.
+p310
+aVAlso, there's numerous pathways
+p311
+aVthat can be engineered metabolizing methane.
+p312
+aVAnd DuPont has a major program with Statoil in Norway
+p313
+aVto capture and convert the methane
+p314
+aVfrom the gas fields there into useful products.
+p315
+aa(lp316
+VWithin a short while, I think there's going to be a new field
+p317
+aVcalled "Combinatorial Genomics,"
+p318
+aVbecause with these new synthesis capabilities,
+p319
+aVthese vast gene array repertoires
+p320
+aVand the homologous recombination,
+p321
+aVwe think we can design a robot to make
+p322
+aVmaybe a million different chromosomes a day.
+p323
+aVAnd therefore, as with all biology,
+p324
+aVyou get selection through screening,
+p325
+aVwhether you're screening for hydrogen production,
+p326
+aVor chemical production, or just viability.
+p327
+aVTo understand the role of these genes
+p328
+aVis going to be well within reach.
+p329
+aa(lp330
+VWe're trying to modify photosynthesis
+p331
+aVto produce hydrogen directly from sunlight.
+p332
+aVPhotosynthesis is modulated by oxygen,
+p333
+aVand we have an oxygen-insensitive hydrogenase
+p334
+aVthat we think will totally change this process.
+p335
+aVWe're also combining cellulases,
+p336
+aVthe enzymes that break down complex sugars into simple sugars
+p337
+aVand fermentation in the same cell
+p338
+aVfor producing ethanol.
+p339
+aVPharmaceutical production is already under way
+p340
+aVin major laboratories
+p341
+aVusing microbes.
+p342
+aVThe chemistry from compounds in the environment
+p343
+aVis orders of magnitude more complex
+p344
+aVthan our best chemists can produce.
+p345
+aVI think future engineered species
+p346
+aVcould be the source of food,
+p347
+aVhopefully a source of energy,
+p348
+aVenvironmental remediation
+p349
+aVand perhaps
+p350
+aVreplacing the petrochemical industry.
+p351
+aa(lp352
+VLet me just close with ethical and policy studies.
+p353
+aVWe delayed the start of our experiments in 1999
+p354
+aVuntil we completed a year-and-a-half bioethical review
+p355
+aVas to whether we should try and make an artificial species.
+p356
+aVEvery major religion participated in this.
+p357
+aVIt was actually a very strange study,
+p358
+aVbecause the various religious leaders were using their scriptures as law books,
+p359
+aVand they couldn't find anything in them prohibiting making life,
+p360
+aVso it must be OK. The only ultimate concerns
+p361
+aVwere biological warfare aspects of this,
+p362
+aVbut gave us the go ahead to start these experiments
+p363
+aVfor the reasons we were doing them.
+p364
+aa(lp365
+VRight now the Sloan Foundation has just funded
+p366
+aVa multi-institutional study on this,
+p367
+aVto work out what the risk and benefits to society are,
+p368
+aVand the rules that scientific teams such as my own
+p369
+aVshould be using in this area,
+p370
+aVand we're trying to set good examples as we go forward.
+p371
+aVThese are complex issues.
+p372
+aVExcept for the threat of bio-terrorism,
+p373
+aVthey're very simple issues in terms of,
+p374
+aVcan we design things to produce clean energy,
+p375
+aVperhaps revolutionizing
+p376
+aVwhat developing countries can do
+p377
+aVand provide through various simple processes.
+p378
+aVThank you very much.
+p379
+aasS'id'
+p380
+I6
+sS'title'
+p381
+VSampling the ocean's DNA
+p382
+s.

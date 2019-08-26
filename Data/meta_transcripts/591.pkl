@@ -1,0 +1,305 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VLast year at TED we aimed to try to clarify
+p4
+aVthe overwhelming complexity
+p5
+aVand richness that we experience at the conference
+p6
+aVin a project called Big Viz.
+p7
+aVAnd the Big Viz is a collection of 650 sketches
+p8
+aVthat were made by two visual artists.
+p9
+aVDavid Sibbet from The Grove,
+p10
+aVand Kevin Richards, from Autodesk,
+p11
+aVmade 650 sketches that strive to capture
+p12
+aVthe essence of each presenter's ideas.
+p13
+aVAnd the consensus was: it really worked.
+p14
+aVThese sketches brought to life the key ideas,
+p15
+aVthe portraits, the magic moments
+p16
+aVthat we all experienced last year.
+p17
+aa(lp18
+VThis year we were thinking, "Why does it work?"
+p19
+aVWhat is it about animation,
+p20
+aVgraphics, illustrations, that create meaning?
+p21
+aVAnd this is an important question to ask and answer
+p22
+aVbecause the more we understand how the brain creates meaning,
+p23
+aVthe better we can communicate,
+p24
+aVand, I also think, the better we can think and collaborate together.
+p25
+aVSo this year we're going to visualize how
+p26
+aVthe brain visualizes.
+p27
+aa(lp28
+VCognitive psychologists now tell us that the brain
+p29
+aVdoesn't actually see the world as it is,
+p30
+aVbut instead, creates a series of mental models
+p31
+aVthrough a collection of "Ah-ha moments,"
+p32
+aVor moments of discovery, through various processes.
+p33
+aa(lp34
+VThe processing, of course, begins with the eyes.
+p35
+aVLight enters, hits the back of the retina, and is circulated,
+p36
+aVmost of which is streamed to the very back of the brain,
+p37
+aVat the primary visual cortex.
+p38
+aVAnd primary visual cortex sees just simple geometry,
+p39
+aVjust the simplest of shapes.
+p40
+aVBut it also acts like a kind of relay station
+p41
+aVthat re-radiates and redirects information
+p42
+aVto many other parts of the brain.
+p43
+aVAs many as 30 other parts that selectively make more sense,
+p44
+aVcreate more meaning through the kind of "Ah-ha" experiences.
+p45
+aVWe're only going to talk about three of them.
+p46
+aa(lp47
+VSo the first one is called the ventral stream.
+p48
+aVIt's on this side of the brain.
+p49
+aVAnd this is the part of the brain that will recognize what something is.
+p50
+aVIt's the "what" detector.
+p51
+aVLook at a hand. Look at a remote control. Chair. Book.
+p52
+aVSo that's the part of the brain that is activated
+p53
+aVwhen you give a word to something.
+p54
+aa(lp55
+VA second part of the brain is called the dorsal stream.
+p56
+aVAnd what it does is locates the object
+p57
+aVin physical body space.
+p58
+aVSo if you look around the stage here
+p59
+aVyou'll create a kind of mental map of the stage.
+p60
+aVAnd if you closed your eyes you'd be able to mentally navigate it.
+p61
+aVYou'd be activating the dorsal stream if you did that.
+p62
+aa(lp63
+VThe third part that I'd like to talk about
+p64
+aVis the limbic system.
+p65
+aVAnd this is deep inside of the brain. It's very old, evolutionarily.
+p66
+aVAnd it's the part that feels.
+p67
+aVIt's the kind of gut center, where you see an image
+p68
+aVand you go, "Oh! I have a strong
+p69
+aVor emotional reaction to whatever I'm seeing."
+p70
+aa(lp71
+VSo the combination of these processing centers
+p72
+aVhelp us make meaning in very different ways.
+p73
+aVSo what can we learn about this? How can we apply this insight?
+p74
+aVWell, again, the schematic view
+p75
+aVis that the eye visually interrogates what we look at.
+p76
+aVThe brain processes this in parallel, the figments of information
+p77
+aVasking a whole bunch of questions
+p78
+aVto create a unified mental model.
+p79
+aa(lp80
+VSo, for example, when you look at this image
+p81
+aVa good graphic invites the eye to dart around,
+p82
+aVto selectively create a visual logic.
+p83
+aVSo the act of engaging, and looking at the image creates the meaning.
+p84
+aVIt's the selective logic.
+p85
+aVNow we've augmented this and spatialized this information.
+p86
+aVMany of you may remember the magic wall that we built
+p87
+aVin conjunction with Perceptive Pixel
+p88
+aVwhere we quite literally create an infinite wall.
+p89
+aVAnd so we can compare and contrast the big ideas.
+p90
+aVSo the act of engaging and creating interactive imagery
+p91
+aVenriches meaning.
+p92
+aVIt activates a different part of the brain.
+p93
+aVAnd then the limbic system
+p94
+aVis activated when we see motion, when we see color,
+p95
+aVand there are primary shapes and pattern detectors
+p96
+aVthat we've heard about before.
+p97
+aa(lp98
+VSo the point of this is what?
+p99
+aVWe make meaning by seeing,
+p100
+aVby an act of visual interrogation.
+p101
+aVThe lessons for us are three-fold.
+p102
+aVFirst, use images to clarify what we're trying to communicate.
+p103
+aVSecondly make those images interactive
+p104
+aVso that we engage much more fully.
+p105
+aVAnd the third is to augment memory
+p106
+aVby creating a visual persistence.
+p107
+aVThese are techniques that can be used to be \u2014
+p108
+aVthat can be applied in a wide range of problem solving.
+p109
+aa(lp110
+VSo the low-tech version looks like this.
+p111
+aVAnd, by the way, this is the way in which
+p112
+aVwe develop and formulate
+p113
+aVstrategy within Autodesk,
+p114
+aVin some of our organizations and some of our divisions.
+p115
+aVWhat we literally do is have the teams
+p116
+aVdraw out the entire strategic plan
+p117
+aVon one giant wall.
+p118
+aVAnd it's very powerful because everyone gets to see everything else.
+p119
+aVThere's always a room, always a place
+p120
+aVto be able to make sense of all of the components
+p121
+aVin the strategic plan.
+p122
+aa(lp123
+VThis is a time-lapse view of it.
+p124
+aVYou can ask the question, "Who's the boss?"
+p125
+aVYou'll be able to figure that out. (Laughter)
+p126
+aVSo the act of collectively and collaboratively
+p127
+aVbuilding the image
+p128
+aVtransforms the collaboration.
+p129
+aVNo Powerpoint is used in two days.
+p130
+aVBut instead the entire team
+p131
+aVcreates a shared mental model
+p132
+aVthat they can all agree on and move forward on.
+p133
+aa(lp134
+VAnd this can be enhanced and augmented with
+p135
+aVsome emerging digital technology.
+p136
+aVAnd this is our great unveiling for today.
+p137
+aVAnd this is an emerging set of technologies
+p138
+aVthat use large-screen displays
+p139
+aVwith intelligent calculation in the background
+p140
+aVto make the invisible visible.
+p141
+aVHere what we can do is look at sustainability, quite literally.
+p142
+aVSo a team can actually look at
+p143
+aVall the key components that heat the structure
+p144
+aVand make choices and then see the end result
+p145
+aVthat is visualized on this screen.
+p146
+aa(lp147
+VSo making images meaningful has three components.
+p148
+aVThe first again, is making ideas clear by visualizing them.
+p149
+aVSecondly, making them interactive.
+p150
+aVAnd then thirdly, making them persistent.
+p151
+aVAnd I believe that these three principles
+p152
+aVcan be applied to solving some of the very tough problems
+p153
+aVthat we face in the world today. Thanks so much.
+p154
+aa(lp155
+V(Applause)
+p156
+aasS'id'
+p157
+I591
+sS'title'
+p158
+V3 ways the brain creates meaning
+p159
+s.

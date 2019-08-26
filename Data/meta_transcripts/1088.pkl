@@ -1,0 +1,789 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThere's actually a major health crisis today
+p4
+aVin terms of the shortage of organs.
+p5
+aVThe fact is that we're living longer.
+p6
+aVMedicine has done a much better job
+p7
+aVof making us live longer,
+p8
+aVand the problem is, as we age,
+p9
+aVour organs tend to fail more,
+p10
+aVand so currently
+p11
+aVthere are not enough organs to go around.
+p12
+aVIn fact, in the last 10 years,
+p13
+aVthe number of patients requiring an organ has doubled,
+p14
+aVwhile in the same time,
+p15
+aVthe actual number of transplants has barely gone up.
+p16
+aVSo this is now a public health crisis.
+p17
+aa(lp18
+VSo that's where this field comes in
+p19
+aVthat we call the field of regenerative medicine.
+p20
+aVIt really involves many different areas.
+p21
+aVYou can use, actually, scaffolds,
+p22
+aVbiomaterials \u2014
+p23
+aVthey're like the piece of your blouse or your shirt \u2014
+p24
+aVbut specific materials you can actually implant in patients
+p25
+aVand they will do well and help you regenerate.
+p26
+aVOr we can use cells alone,
+p27
+aVeither your very own cells
+p28
+aVor different stem cell populations.
+p29
+aVOr we can use both.
+p30
+aVWe can use, actually, biomaterials
+p31
+aVand the cells together.
+p32
+aVAnd that's where the field is today.
+p33
+aa(lp34
+VBut it's actually not a new field.
+p35
+aVInterestingly, this is a book
+p36
+aVthat was published back in 1938.
+p37
+aVIt's titled "The Culture of Organs."
+p38
+aVThe first author, Alexis Carrel, a Nobel Prize winner.
+p39
+aVHe actually devised some of the same technologies
+p40
+aVused today for suturing blood vessels,
+p41
+aVand some of the blood vessel grafts we use today
+p42
+aVwere actually designed by Alexis.
+p43
+aVBut I want you to note his co-author:
+p44
+aVCharles Lindbergh.
+p45
+aVThat's the same Charles Lindbergh
+p46
+aVwho actually spent the rest of his life
+p47
+aVworking with Alexis
+p48
+aVat the Rockefeller Institute in New York
+p49
+aVin the area of the culture of organs.
+p50
+aa(lp51
+VSo if the field's been around for so long,
+p52
+aVwhy so few clinical advances?
+p53
+aVAnd that really has to do to many different challenges.
+p54
+aVBut if I were to point to three challenges,
+p55
+aVthe first one is actually the design of materials
+p56
+aVthat could go in your body
+p57
+aVand do well over time.
+p58
+aVAnd many advances now,
+p59
+aVwe can do that fairly readily.
+p60
+aVThe second challenge was cells.
+p61
+aVWe could not get enough of your cells to grow outside of your body.
+p62
+aVOver the last 20 years, we've basically tackled that.
+p63
+aVMany scientists can now grow many different types of cells.
+p64
+aVPlus we have stem cells.
+p65
+aVBut even now, 2011,
+p66
+aVthere's still certain cells that we just can't grow from the patient.
+p67
+aVLiver cells, nerve cells, pancreatic cells \u2014
+p68
+aVwe still can't grow them even today.
+p69
+aVAnd the third challenge is vascularity,
+p70
+aVthe actual supply of blood
+p71
+aVto allow those organs or tissues to survive
+p72
+aVonce we regenerate them.
+p73
+aa(lp74
+VSo we can actually use biomaterials now.
+p75
+aVThis is actually a biomaterial.
+p76
+aVWe can weave them, knit them, or we can make them like you see here.
+p77
+aVThis is actually like a cotton candy machine.
+p78
+aVYou saw the spray going in.
+p79
+aVThat was like the fibers of the cotton candy
+p80
+aVcreating this structure, this tubularized structure,
+p81
+aVwhich is a biomaterial
+p82
+aVthat we can then use
+p83
+aVto help your body regenerate
+p84
+aVusing your very own cells to do so.
+p85
+aVAnd that's exactly what we did here.
+p86
+aa(lp87
+VThis is actually a patient
+p88
+aVwho [was] presented with a deceased organ,
+p89
+aVand we then created one of these smart biomaterials,
+p90
+aVand then we then used that smart biomaterial
+p91
+aVto replace and repair
+p92
+aVthat patient's structure.
+p93
+aVWhat we did was we actually
+p94
+aVused the biomaterial as a bridge
+p95
+aVso that the cells in the organ
+p96
+aVcould walk on that bridge, if you will,
+p97
+aVand help to bridge the gap
+p98
+aVto regenerate that tissue.
+p99
+aVAnd you see that patient now six months after
+p100
+aVwith an X-ray showing you the regenerated tissue,
+p101
+aVwhich is fully regenerated
+p102
+aVwhen you analyze it under the microscope.
+p103
+aVWe can also use cells alone.
+p104
+aVThese are actually cells that we obtained.
+p105
+aVThese are stem cells that we create from specific sources,
+p106
+aVand we can drive them to become heart cells,
+p107
+aVand they start beating in culture.
+p108
+aVSo they know what to do.
+p109
+aVThe cells genetically know what to do,
+p110
+aVand they start beating together.
+p111
+aVNow today, many clinical trials
+p112
+aVare using different kinds of stem cells
+p113
+aVfor heart disease.
+p114
+aVSo that's actually now in patients.
+p115
+aa(lp116
+VOr if we're going to use larger structures
+p117
+aVto replace larger structures,
+p118
+aVwe can then use the patient's own cells,
+p119
+aVor some cell population,
+p120
+aVand the biomaterials,
+p121
+aVthe scaffolds, together.
+p122
+aVSo the concept here:
+p123
+aVso if you do have a deceased or injured organ,
+p124
+aVwe take a very small piece of that tissue,
+p125
+aVless than half the size of a postage stamp.
+p126
+aVWe then tease the cells apart,
+p127
+aVwe grow the cells outside the body.
+p128
+aVWe then take a scaffold, a biomaterial \u2014
+p129
+aVagain, looks very much like a piece of your blouse or your shirt \u2014
+p130
+aVwe then shape that material,
+p131
+aVand we then use those cells to coat that material
+p132
+aVone layer at a time \u2014
+p133
+aVvery much like baking a layer cake, if you will.
+p134
+aVWe then place it in an oven-like device,
+p135
+aVand we're able to create that structure
+p136
+aVand bring it out.
+p137
+aVThis is actually a heart valve
+p138
+aVthat we've engineered,
+p139
+aVand you can see here, we have the structure of the heart valve
+p140
+aVand we've seeded that with cells,
+p141
+aVand then we exercise it.
+p142
+aVSo you see the leaflets opening and closing \u2014
+p143
+aVof this heart valve
+p144
+aVthat's currently being used experimentally
+p145
+aVto try to get it to further studies.
+p146
+aa(lp147
+VAnother technology
+p148
+aVthat we have used in patients
+p149
+aVactually involves bladders.
+p150
+aVWe actually take a very small piece of the bladder from the patient \u2014
+p151
+aVless than half the size of a postage stamp.
+p152
+aVWe then grow the cells outside the body,
+p153
+aVtake the scaffold, coat the scaffold with the cells \u2014
+p154
+aVthe patient's own cells, two different cell types.
+p155
+aVWe then put it in this oven-like device.
+p156
+aVIt has the same conditions as the human body \u2014
+p157
+aV37 degrees centigrade, 95 percent oxygen.
+p158
+aVA few weeks later, you have your engineered organ
+p159
+aVthat we're able to implant back into the patient.
+p160
+aVFor these specific patients, we actually just suture these materials.
+p161
+aVWe use three-dimensional imagining analysis,
+p162
+aVbut we actually created these biomaterials by hand.
+p163
+aa(lp164
+VBut we now have better ways
+p165
+aVto create these structures with the cells.
+p166
+aVWe use now some type of technologies,
+p167
+aVwhere for solid organs, for example,
+p168
+aVlike the liver,
+p169
+aVwhat we do is we take discard livers.
+p170
+aVAs you know, a lot of organs are actually discarded, not used.
+p171
+aVSo we can take these liver structures,
+p172
+aVwhich are not going to be used,
+p173
+aVand we then put them in a washing machine-like structure
+p174
+aVthat will allow the cells to be washed away.
+p175
+aVTwo weeks later,
+p176
+aVyou have something that looks like a liver.
+p177
+aVYou can hold it like a liver,
+p178
+aVbut it has no cells; it's just a skeleton of the liver.
+p179
+aVAnd we then can re-perfuse the liver with cells,
+p180
+aVpreserving the blood vessel tree.
+p181
+aVSo we actually perfuse first the blood vessel tree
+p182
+aVwith the patient's own blood vessel cells,
+p183
+aVand we then infiltrate the parenchyma with the liver cells.
+p184
+aVAnd we now have been able just to show
+p185
+aVthe creation of human liver tissue
+p186
+aVjust this past month
+p187
+aVusing this technology.
+p188
+aa(lp189
+VAnother technology that we've used
+p190
+aVis actually that of printing.
+p191
+aVThis is actually a desktop inkjet printer,
+p192
+aVbut instead of using ink,
+p193
+aVwe're using cells.
+p194
+aVAnd you can actually see here the printhead
+p195
+aVgoing through and printing this structure,
+p196
+aVand it takes about 40 minutes to print this structure.
+p197
+aVAnd there's a 3D elevator
+p198
+aVthat then actually goes down one layer at a time
+p199
+aVeach time the printhead goes through.
+p200
+aVAnd then finally you're able to get that structure out.
+p201
+aVYou can pop that structure out of the printer and implant it.
+p202
+aVAnd this is actually a piece of bone
+p203
+aVthat I'm going to show you in this slide
+p204
+aVthat was actually created with this desktop printer
+p205
+aVand implanted as you see here.
+p206
+aVThat was all new bone that was implanted
+p207
+aVusing these techniques.
+p208
+aa(lp209
+VAnother more advanced technology we're looking at right now,
+p210
+aVour next generation of technologies,
+p211
+aVare more sophisticated printers.
+p212
+aVThis particular printer we're designing now
+p213
+aVis actually one where we print right on the patient.
+p214
+aVSo what you see here \u2014
+p215
+aVI know it sounds funny,
+p216
+aVbut that's the way it works.
+p217
+aVBecause in reality, what you want to do
+p218
+aVis you actually want to have the patient on the bed with the wound,
+p219
+aVand you have a scanner,
+p220
+aVbasically like a flatbed scanner.
+p221
+aVThat's what you see here on the right side.
+p222
+aVYou see a scanner technology
+p223
+aVthat first scans the wound on the patient
+p224
+aVand then it comes back with the printheads
+p225
+aVactually printing the layers that you require
+p226
+aVon the patients themselves.
+p227
+aa(lp228
+VThis is how it actually works.
+p229
+aVHere's the scanner going through,
+p230
+aVscanning the wound.
+p231
+aVOnce it's scanned,
+p232
+aVit sends information in the correct layers of cells
+p233
+aVwhere they need to be.
+p234
+aVAnd now you're going to see here
+p235
+aVa demo of this actually being done
+p236
+aVin a representative wound.
+p237
+aVAnd we actually do this with a gel so that you can lift the gel material.
+p238
+aVSo once those cells are on the patient
+p239
+aVthey will stick where they need to be.
+p240
+aVAnd this is actually new technology
+p241
+aVstill under development.
+p242
+aa(lp243
+VWe're also working on more sophisticated printers.
+p244
+aVBecause in reality, our biggest challenge
+p245
+aVare the solid organs.
+p246
+aVI don't know if you realize this,
+p247
+aVbut 90 percent of the patients on the transplant list
+p248
+aVare actually waiting for a kidney.
+p249
+aVPatients are dying every day
+p250
+aVbecause we don't have enough of those organs to go around.
+p251
+aVSo this is more challenging \u2014
+p252
+aVlarge organ, vascular,
+p253
+aVa lot of blood vessel supply,
+p254
+aVa lot of cells present.
+p255
+aVSo the strategy here is \u2014
+p256
+aVthis is actually a CT scan, an X-ray \u2014
+p257
+aVand we go layer by layer,
+p258
+aVusing computerized morphometric imaging analysis
+p259
+aVand 3D reconstruction
+p260
+aVto get right down to those patient's own kidneys.
+p261
+aVWe then are able to actually image those,
+p262
+aVdo 360 degree rotation
+p263
+aVto analyze the kidney
+p264
+aVin its full volumetric characteristics,
+p265
+aVand we then are able
+p266
+aVto actually take this information
+p267
+aVand then scan this
+p268
+aVin a printing computerized form.
+p269
+aVSo we go layer by layer through the organ,
+p270
+aVanalyzing each layer as we go through the organ,
+p271
+aVand we then are able to send that information, as you see here,
+p272
+aVthrough the computer
+p273
+aVand actually design the organ
+p274
+aVfor the patient.
+p275
+aVThis actually shows the actual printer.
+p276
+aVAnd this actually shows that printing.
+p277
+aa(lp278
+VIn fact, we actually have the printer right here.
+p279
+aVSo while we've been talking today,
+p280
+aVyou can actually see the printer
+p281
+aVback here in the back stage.
+p282
+aVThat's actually the actual printer right now,
+p283
+aVand that's been printing this kidney structure
+p284
+aVthat you see here.
+p285
+aVIt takes about seven hours to print a kidney,
+p286
+aVso this is about three hours into it now.
+p287
+aVAnd Dr. Kang's going to walk onstage right now,
+p288
+aVand we're actually going to show you one of these kidneys
+p289
+aVthat we printed a little bit earlier today.
+p290
+aVPut a pair of gloves here.
+p291
+aVThank you.
+p292
+aVGo backwards.
+p293
+aVSo, these gloves are a little bit small on me, but here it is.
+p294
+aVYou can actually see that kidney
+p295
+aVas it was printed earlier today.
+p296
+aa(lp297
+V(Applause)
+p298
+aa(lp299
+VHas a little bit of consistency to it.
+p300
+aVThis is Dr. Kang who's been working with us on this project,
+p301
+aVand part of our team.
+p302
+aVThank you, Dr. Kang. I appreciate it.
+p303
+aa(lp304
+V(Applause)
+p305
+aa(lp306
+VSo this is actually a new generation.
+p307
+aVThis is actually the printer that you see here onstage.
+p308
+aVAnd this is actually a new technology we're working on now.
+p309
+aVIn reality, we now have a long history of doing this.
+p310
+aVI'm going to share with you a clip
+p311
+aVin terms of technology we have had in patients now for a while.
+p312
+aa(lp313
+VAnd this is actually a very brief clip \u2014
+p314
+aVonly about 30 seconds \u2014
+p315
+aVof a patient who actually received an organ.
+p316
+aa(lp317
+V(Video) Luke Massella: I was really sick. I could barely get out of bed.
+p318
+aVI was missing school. It was pretty much miserable.
+p319
+aVI couldn't go out
+p320
+aVand play basketball at recess
+p321
+aVwithout feeling like I was going to pass out
+p322
+aVwhen I got back inside.
+p323
+aVI felt so sick.
+p324
+aVI was facing basically a lifetime of dialysis,
+p325
+aVand I don't even like to think about what my life would be like
+p326
+aVif I was on that.
+p327
+aVSo after the surgery,
+p328
+aVlife got a lot better for me.
+p329
+aVI was able to do more things.
+p330
+aVI was able to wrestle in high school.
+p331
+aVI became the captain of the team, and that was great.
+p332
+aVI was able to be a normal kid with my friends.
+p333
+aVAnd because they used my own cells to build this bladder,
+p334
+aVit's going to be with me.
+p335
+aVI've got it for life, so I'm all set.
+p336
+aa(lp337
+V(Applause)
+p338
+aa(lp339
+VJuan Enriquez: These experiments sometimes work,
+p340
+aVand it's very cool when they do.
+p341
+aVLuke, come up please.
+p342
+aa(lp343
+V(Applause)
+p344
+aa(lp345
+VSo Luke, before last night,
+p346
+aVwhen's the last time you saw Tony?
+p347
+aa(lp348
+VLM: Ten years ago, when I had my surgery \u2014
+p349
+aVand it's really great to see him.
+p350
+aa(lp351
+V(Laughter)
+p352
+aa(lp353
+V(Applause)
+p354
+aa(lp355
+VJE: And tell us a little bit about what you're doing.
+p356
+aa(lp357
+VLM: Well right now I'm in college at the University of Connecticut.
+p358
+aVI'm a sophomore and studying communications, TV and mass media,
+p359
+aVand basically trying to live life like a normal kid,
+p360
+aVwhich I always wanted growing up.
+p361
+aVBut it was hard to do that when I was born with spina bifida
+p362
+aVand my kidneys and bladder weren't working.
+p363
+aVI went through about 16 surgeries,
+p364
+aVand it seemed impossible to do that
+p365
+aVwhen I was in kidney failure when I was 10.
+p366
+aVAnd this surgery came along
+p367
+aVand basically made me who I am today
+p368
+aVand saved my life.
+p369
+aa(lp370
+V(Applause)
+p371
+aa(lp372
+VJE: And Tony's done hundreds of these?
+p373
+aa(lp374
+VLM: What I know from, he's working really hard in his lab
+p375
+aVand coming up with crazy stuff.
+p376
+aVI know I was one of the first 10 people to have this surgery.
+p377
+aVAnd when I was 10, I didn't realize how amazing it was.
+p378
+aVI was a little kid, and I was like,
+p379
+aV"Yeah. I'll have that. I'll have that surgery."
+p380
+aV(Laughter)
+p381
+aVAll I wanted to do was to get better,
+p382
+aVand I didn't realize how amazing it really was until now that I'm older
+p383
+aVand I see the amazing things that he's doing.
+p384
+aa(lp385
+VJE: When you got this call out of the blue \u2014
+p386
+aVTony's really shy,
+p387
+aVand it took a lot of convincing
+p388
+aVto get somebody as modest as Tony
+p389
+aVto allow us to bring Luke.
+p390
+aVSo Luke, you go to your communications professors \u2014
+p391
+aVyou're majoring in communications \u2014
+p392
+aVand you ask them for permission to come to TED,
+p393
+aVwhich might have a little bit to do with communications,
+p394
+aVand what was their reaction?
+p395
+aa(lp396
+VLM: Most of my professors were all for it,
+p397
+aVand they said, "Bring pictures
+p398
+aVand show me the clips online," and "I'm happy for you."
+p399
+aVThere were a couple that were a little stubborn,
+p400
+aVbut I had to talk to them.
+p401
+aVI pulled them aside.
+p402
+aa(lp403
+VJE: Well, it's an honor and a privilege to meet you.
+p404
+aVThank you so much. (LM: Thank you so much.)
+p405
+aa(lp406
+VJE: Thank you, Tony.
+p407
+aa(lp408
+V(Applause)
+p409
+aasS'id'
+p410
+I1088
+sS'title'
+p411
+VPrinting a human kidney
+p412
+s.

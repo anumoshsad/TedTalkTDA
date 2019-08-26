@@ -1,0 +1,814 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThe future of life, where the unraveling of our biology \u2014
+p4
+aVand bring up the lights a little bit. I don't have any slides.
+p5
+aVI'm just going to talk \u2014
+p6
+aVabout where that's likely to carry us.
+p7
+aa(lp8
+VAnd you know, I saw all the visions
+p9
+aVof the first couple of sessions.
+p10
+aVIt almost made me feel a little bit guilty about having an uplifting talk
+p11
+aVabout the future.
+p12
+aVIt felt wrong to do that in some way.
+p13
+aVAnd yet, I don't really think it is
+p14
+aVbecause when it comes down to it,
+p15
+aVit's this larger trajectory that is really what is going to remain \u2014
+p16
+aVwhat people in the future are going to remember about this period.
+p17
+aa(lp18
+VI want to talk to you a little bit about
+p19
+aVwhy the visions of Jeremy Rivkins,
+p20
+aVwho would like to ban these sorts of technologies,
+p21
+aVor of the Bill Joys who would like to relinquish them,
+p22
+aVare actually \u2014 to follow those paths would be such a tragedy for us.
+p23
+aVI'm focusing on biology,
+p24
+aVthe biological sciences.
+p25
+aVThe reason I'm doing that is because those are going to be
+p26
+aVthe areas that are the most significant to us.
+p27
+aVThe reason for that is really very simple.
+p28
+aVIt's because we're flesh and blood.
+p29
+aVWe're biological creatures.
+p30
+aVAnd what we can do with our biology
+p31
+aVis going to shape our future
+p32
+aVand that of our children and that of their children \u2014
+p33
+aVwhether we gain control over aging,
+p34
+aVwhether we learn to protect ourselves from Alzheimer's,
+p35
+aVand heart disease, and cancer.
+p36
+aa(lp37
+VI think that Shakespeare really put it very nicely.
+p38
+aVAnd I'm actually going to use his words in the same order that he did.
+p39
+aV(Laughter)
+p40
+aVHe said, "And so from hour to hour
+p41
+aVwe ripe and ripe.
+p42
+aVAnd then from hour to hour we rot and rot.
+p43
+aVAnd thereby hangs a tale."
+p44
+aVLife is short, you know.
+p45
+aVAnd we need to think about planning a little bit.
+p46
+aVWe're all going to eventually, even in the developed world,
+p47
+aVgoing to have to lose everything that we love.
+p48
+aVWhen you're beginning to rot a little bit,
+p49
+aVall of the videos crammed into your head,
+p50
+aVall of the extensions that extend your various powers,
+p51
+aVare going to being to seem a little secondary.
+p52
+aVAnd you know, I'm getting a little bit gray \u2014 so is Ray Kurzweil,
+p53
+aVso is Eric Drexler.
+p54
+aa(lp55
+VThis is where it's really central to our lives.
+p56
+aVNow I know there's been a whole lot of hype
+p57
+aVabout our power to control biology.
+p58
+aVYou just have to look at the Human Genome Project.
+p59
+aVIt wasn't two years ago
+p60
+aVthat everybody was talking about \u2014
+p61
+aVwe've found the Holy Grail of biology.
+p62
+aVWe're deciphering the code of codes.
+p63
+aVWe're reading the book of life.
+p64
+aVIt's a little bit reminiscent of 1969 when Neil Armstrong walked on the moon,
+p65
+aVand everybody was about to race out toward the stars.
+p66
+aVAnd we've all seen "2001: A Space Odyssey."
+p67
+aVYou know it's 2003, and there is no HAL.
+p68
+aVAnd there is no odyssey to our own moon, much less the moons of Jupiter.
+p69
+aVAnd we're still picking up pieces of the Challenger.
+p70
+aVSo it's not surprising that some people would wonder
+p71
+aVwhether maybe 30 or 40 years from now,
+p72
+aVwe'll look back at this instant in time,
+p73
+aVand all of the sort of talk about
+p74
+aVthe Human Genome Project,
+p75
+aVand what all this is going to mean to us \u2014
+p76
+aVwell, it will really mean precious little.
+p77
+aVAnd I just want to say that that is absolutely not going to be the case.
+p78
+aVBecause when we talk about our genetics and our biology,
+p79
+aVand modifying and altering and adjusting these things,
+p80
+aVwe're talking about changing ourselves.
+p81
+aVAnd this is very critical stuff.
+p82
+aa(lp83
+VIf you have any doubts about how technology affects our lives,
+p84
+aVyou just have to go to any major city.
+p85
+aVThis is not the stomping ground
+p86
+aVof our Pleistocene ancestors.
+p87
+aVWhat's happening is we're taking this technology \u2014
+p88
+aVit's becoming more precise, more potent \u2014
+p89
+aVand we're turning it back upon ourselves.
+p90
+aVBefore it's all done
+p91
+aVwe are going to alter ourselves
+p92
+aVevery bit as much as we have changed the world around us.
+p93
+aVIt's going to happen a lot sooner
+p94
+aVthan people imagine.
+p95
+aVOn the way there it's going to
+p96
+aVcompletely revolutionize medicine and health care; that's obvious.
+p97
+aVIt's going to change the way we have children.
+p98
+aVIt's going to change the way we manage
+p99
+aVand alter our emotions.
+p100
+aVIt's going to probably change the human lifespan.
+p101
+aVIt will really make us question
+p102
+aVwhat it is to be a human being.
+p103
+aa(lp104
+VThe larger context of this is that are
+p105
+aVtwo unprecedented revolutions that are going on today.
+p106
+aVThe first of them is the obvious one,
+p107
+aVthe silicon revolution,
+p108
+aVwhich you all are very, very familiar with.
+p109
+aVIt's changing our lives in so many ways,
+p110
+aVand it will continue to do that.
+p111
+aVWhat the essence of that is, is that we're taking
+p112
+aVthe sand at our feet, the inert silicon at our feet,
+p113
+aVand we're breathing a level of complexity into it
+p114
+aVthat rivals that of life itself,
+p115
+aVand may even surpass it.
+p116
+aVAs an outgrowth of that, as a child of that revolution,
+p117
+aVis the revolution in biology.
+p118
+aa(lp119
+VThe genomics revolution,
+p120
+aVproteomics, metabolomics, all of these "omics"
+p121
+aVthat sound so terrific on grants and on business plans.
+p122
+aVWhat we're doing is we are
+p123
+aVseizing control of our evolutionary future.
+p124
+aVI mean we're essentially using technology
+p125
+aVto just jam evolution into fast-forward.
+p126
+aVIt's not at all clear where it's going to take us.
+p127
+aVBut in five to ten years we're going to start see
+p128
+aVsome very profound changes.
+p129
+aVThe most immediate changes that we'll see
+p130
+aVare things like in medicine.
+p131
+aVThere is going to be a big shift towards preventative medicine
+p132
+aVas we start to be able to identify
+p133
+aVall of the risk factors that we have as individuals.
+p134
+aVBut who is going to pay for all this?
+p135
+aVAnd how are we going to understand all this complex information?
+p136
+aVThat is going to be the IT challenge
+p137
+aVof the next generation, is communicating all this information.
+p138
+aa(lp139
+VThere's pharmacogenomics, the combination of pharmacology
+p140
+aVand genetics:
+p141
+aVtailoring drugs to our individual constitutions
+p142
+aVthat Juan talked about a little bit earlier.
+p143
+aVThat's going to have amazing impacts.
+p144
+aVAnd it's going to be used for diet as well,
+p145
+aVand nutritional supplements and such.
+p146
+aVBut it's going to have a big impact because
+p147
+aVwe're going to have niche drugs.
+p148
+aVAnd we aren't going to be able to support
+p149
+aVthe kinds of expenses that we have to create blockbuster drugs today.
+p150
+aVThe approval process is going to fall apart, actually.
+p151
+aVIt's too slow.
+p152
+aVIt's too risk-averse.
+p153
+aVAnd it is really not suited for the future
+p154
+aVthat we're moving into.
+p155
+aa(lp156
+VAnother thing is that we're just going to have to deal with this knowledge.
+p157
+aVIt's really wonderful when we hear,
+p158
+aV"Oh, 99.9 percent of the letters in the code are the same.
+p159
+aVWe're all identical to each other. Isn't it wonderful?"
+p160
+aVAnd look around you and know
+p161
+aVthat what we really care about is
+p162
+aVthat little bit of difference.
+p163
+aVWe look the same to a visitor from another planet, maybe,
+p164
+aVbut not to each other
+p165
+aVbecause we compete with each other all time.
+p166
+aVAnd we're going to have to come to grips with the fact
+p167
+aVthat there are differences between us as individuals that we will know about,
+p168
+aVand between subpopulations of humans as well.
+p169
+aVTo deny that that's the case is not a very good start on that.
+p170
+aa(lp171
+VA generation or so away
+p172
+aVthere are going to be even more profound things that are going to happen.
+p173
+aVThat's when we're going to begin to use this knowledge to modify ourselves.
+p174
+aVNow I don't mean extra gills or something \u2014
+p175
+aVsomething we care about, like aging.
+p176
+aVWhat if we could unravel aging and understand it \u2014
+p177
+aVbegin to retard the process or even reverse it?
+p178
+aVIt would change absolutely everything.
+p179
+aVAnd it's obvious to anyone,
+p180
+aVthat if we can do this, we absolutely will do this,
+p181
+aVwhatever the consequences are.
+p182
+aa(lp183
+VThe second is modifying our emotions.
+p184
+aVI mean Ritalin, Viagra,
+p185
+aVthings of that sort, Prozac.
+p186
+aVYou know, this is just clumsy little baby steps.
+p187
+aVWhat if you could take a little
+p188
+aVconcoction of pharmaceuticals
+p189
+aVthat would make you feel really contented,
+p190
+aVjust happy to be you.
+p191
+aVAre you going to be able to resist that if it doesn't have any overt side effects?
+p192
+aVProbably not.
+p193
+aVAnd if you don't, who are you going to be?
+p194
+aVWhy do you do what you do?
+p195
+aVWe're sort of circumventing evolutionary programs that guide our behavior.
+p196
+aVIt's going to be very challenging to deal with.
+p197
+aa(lp198
+VThe third area is reproduction.
+p199
+aVThe idea that we're going to chose our children's genes,
+p200
+aVas we begin to understand what genes say about who we are.
+p201
+aVThat's the focus of my book "Redesigning Humans,"
+p202
+aVwhere I talk about the kinds of choices we'll make,
+p203
+aVand the challenges it's going to present to society.
+p204
+aVThere are three obvious ways of doing this.
+p205
+aVThe first is cloning.
+p206
+aVIt didn't happen.
+p207
+aVIt's a total media circus.
+p208
+aVIt will happen in five to 10 years.
+p209
+aVAnd when it does it's not going to be that big a deal.
+p210
+aVThe birth of a delayed identical twin
+p211
+aVis not going to shake western civilization.
+p212
+aa(lp213
+VBut there are more important things that are already occurring:
+p214
+aVembryo screening.
+p215
+aVYou take a six to eight cell embryo,
+p216
+aVyou tease out one of the cells, you run a genetic test on that cell,
+p217
+aVand depending on the results of that test
+p218
+aVyou either implant that embryo or you discard it.
+p219
+aVIt's already done to avoid rare diseases today.
+p220
+aVAnd pretty soon it's going to be possible
+p221
+aVto avoid virtually all genetic diseases in that way.
+p222
+aVAs that becomes possible
+p223
+aVthis is going to move from something that is used by those who
+p224
+aVhave infertility problems and are already doing in vitro fertilization,
+p225
+aVto the wealthy who want to protect their children,
+p226
+aVto just about everybody else.
+p227
+aVAnd in that process that's going to morph
+p228
+aVfrom being just for diseases,
+p229
+aVto being for lesser vulnerabilities,
+p230
+aVlike risk of manic depression or something,
+p231
+aVto picking personalities,
+p232
+aVtemperaments, traits, these sorts of things.
+p233
+aVOf course there is going to be genetic engineering.
+p234
+aVDirectly going in \u2014 it's a little bit further away, but not that far away \u2014
+p235
+aVgoing in and altering the genes in the first cell in an embryo.
+p236
+aVThe way I suspect it will happen
+p237
+aVis using artificial chromosomes
+p238
+aVand extra chromosomes, so we go from 46
+p239
+aVto 47 or 48.
+p240
+aVAnd one that is not heritable
+p241
+aVbecause who would want to pass on to their children
+p242
+aVthe archaic enhancement modules
+p243
+aVthat they got 25 years earlier from their parents?
+p244
+aVIt's a joke; of course they wouldn't want to do that.
+p245
+aVThey'll want the new release.
+p246
+aa(lp247
+VThose kinds of loose analogies with
+p248
+aV(Laughter)
+p249
+aVcomputers, and with programming,
+p250
+aVare actually much deeper than that.
+p251
+aVThey are really going to come to operate in this realm.
+p252
+aVNow not everything that can be done should be done.
+p253
+aVAnd it won't be done.
+p254
+aVBut when something is feasible in thousands of
+p255
+aVlaboratories all over the world,
+p256
+aVwhich is going to be the case with these technologies,
+p257
+aVwhen there are large numbers of people who see them as beneficial,
+p258
+aVwhich is already the case,
+p259
+aVand when they're almost impossible to police,
+p260
+aVit's not a question of if this is going to happen,
+p261
+aVit's when and where and how it's going to happen.
+p262
+aa(lp263
+VHumanity is going to go down this path.
+p264
+aVAnd it's going to do so for two reasons.
+p265
+aVThe first is that all these technologies
+p266
+aVare just a spin-off of mainstream medical research
+p267
+aVthat everybody wants to see happen.
+p268
+aVIt is being funded very very \u2014
+p269
+aVin a big way.
+p270
+aVThe second is, we're human.
+p271
+aVThat's what we do.
+p272
+aVWe try and use our technology to
+p273
+aVimprove our lives in one way or another.
+p274
+aVTo imagine that we're not going to use these technologies
+p275
+aVwhen they become available,
+p276
+aVis as much a denial of who we are
+p277
+aVas to imagine
+p278
+aVthat we'll use these technologies and not fret
+p279
+aVand worry about it a great deal.
+p280
+aVThe lines are going to blur. And they already are
+p281
+aVbetween therapy and enhancement,
+p282
+aVbetween treatment and prevention,
+p283
+aVbetween need and desire.
+p284
+aVThat's really the central one, I believe.
+p285
+aa(lp286
+VPeople can try and ban these things.
+p287
+aVThey undoubtedly will. They have.
+p288
+aVBut ultimately all this is going to do
+p289
+aVis just shift development elsewhere.
+p290
+aVIt's going to drive these things from view.
+p291
+aVIt's going to reserve the technology for the wealthy
+p292
+aVbecause they are in the best position
+p293
+aVto circumvent any of these sorts of laws.
+p294
+aVAnd it's going to deny us
+p295
+aVthe information that we need to make wise decisions
+p296
+aVabout how to use these technologies.
+p297
+aVSo, sure, we need to debate these things.
+p298
+aVAnd I think it's wonderful that we do.
+p299
+aVBut we shouldn't kid ourselves
+p300
+aVand think that we're going to reach a consensus about these things.
+p301
+aVThat is simply not going to happen.
+p302
+aVThey touch us too deeply.
+p303
+aVAnd they depend too much upon history, upon philosophy,
+p304
+aVupon religion, upon culture, upon politics.
+p305
+aVSome people are going to see this
+p306
+aVas an abomination,
+p307
+aVas the worst thing, as just awful.
+p308
+aVOther people are going to say, "This is great.
+p309
+aVThis is the flowering of human endeavor."
+p310
+aa(lp311
+VThe one thing though that is really dangerous
+p312
+aVabout these sorts of technologies,
+p313
+aVis that it's easy to become seduced by them.
+p314
+aVAnd to focus too much on all
+p315
+aVthe high-technology possibilities that exist.
+p316
+aVAnd to lose touch
+p317
+aVwith the basic rhythms of our biology and our health.
+p318
+aVThere are too many people that think that high-technology medicine
+p319
+aVis going to keep them, save them,
+p320
+aVfrom overeating,
+p321
+aVfrom eating a lot of fast foods,
+p322
+aVfrom not getting any exercise.
+p323
+aVIt's not going to happen.
+p324
+aa(lp325
+VIn the midst of all this amazing technology,
+p326
+aVand all these things that are occurring, it's really interesting
+p327
+aVbecause there is sort of a counter-revolution that is going on:
+p328
+aVa resurgence of interest in remedies from the past,
+p329
+aVin nutraceuticals, in all of these sorts of things
+p330
+aVthat some people, in the pharmaceutical industry particularly,
+p331
+aVlike to brand as non-science.
+p332
+aVBut this whole effort is generated,
+p333
+aVis driven, by IT as well
+p334
+aVbecause that is how we're gathering all this information,
+p335
+aVand linking it, and integrating it together.
+p336
+aVThere is a lot in this rich biota that is going to serve us well.
+p337
+aVAnd that's where about half of our drugs come.
+p338
+aVSo we shouldn't dismiss this
+p339
+aVbecause it's an enormous opportunity to use
+p340
+aVthese sorts of results,
+p341
+aVor these random loose trials from the last thousand years
+p342
+aVabout what has impacts on our health.
+p343
+aVAnd to use our advanced technologies
+p344
+aVto pull out what is beneficial from this
+p345
+aVsea of noise, basically.
+p346
+aa(lp347
+VIn fact this isn't just abstract.
+p348
+aVI just formed a biotechnology company
+p349
+aVthat is using
+p350
+aVthis sort of an approach to develop
+p351
+aVtherapeutics for Alzheimer's and other diseases of aging,
+p352
+aVand we're making some real progress.
+p353
+aVSo here we are.
+p354
+aVIt's the beginning of a new millennium.
+p355
+aVIf you look forward,
+p356
+aVI mean future humans,
+p357
+aVfar before the end of this millennium,
+p358
+aVin a few hundred years, they are going to look back at this moment.
+p359
+aVAnd from the beginning of today's sessions
+p360
+aVyou'd think that they're going to see this as this horrible
+p361
+aVdifficult, painful period
+p362
+aVthat we struggled through.
+p363
+aVAnd I don't think that's what's going to happen.
+p364
+aVThey're going to do like everybody does. They are going to forget about all that stuff.
+p365
+aVAnd they are actually going to romanticize this moment in time.
+p366
+aVThey are going to think about it
+p367
+aVas this glorious instant
+p368
+aVwhen we laid down
+p369
+aVthe very foundations of their lives,
+p370
+aVof their society, of their future.
+p371
+aVYou know it's a little bit like a birth.
+p372
+aVWhere there is this bloody, awful mess happens.
+p373
+aVAnd then what comes out of it? New life.
+p374
+aVActually as was pointed out earlier,
+p375
+aVwe forget about all the struggle there was in getting there.
+p376
+aa(lp377
+VSo to me,
+p378
+aVit's clear that one of the foundations of that future
+p379
+aVis going to be the reworking of our biology.
+p380
+aVIt's going to come gradually at first. It's going to pick up speed.
+p381
+aVWe're going to make lots of errors.
+p382
+aVThat's the way these things work.
+p383
+aVTo me it's an incredible privilege
+p384
+aVto be alive now
+p385
+aVand to be able to witness this thing.
+p386
+aVIt is something that is a unique instant
+p387
+aVin the history of all of life.
+p388
+aVIt will always be remembered.
+p389
+aVAnd what's extraordinary is that
+p390
+aVwe're not just observing this,
+p391
+aVwe are the architects of this.
+p392
+aVI think that we should be proud of it.
+p393
+aVWhat is so difficult and challenging
+p394
+aVis that we are also the objects of these changes.
+p395
+aVIt's our health, it's our lives, it's our future, it's our children.
+p396
+aVAnd that is why they are so very troubling to so many people
+p397
+aVwho would pull back in fear.
+p398
+aVI think that our choice
+p399
+aVin the choice of life,
+p400
+aVis not whether we're going to go down this path.
+p401
+aVWe are, definitely.
+p402
+aVIt's how we hold it in our hearts.
+p403
+aVIt's how we look at it.
+p404
+aVI think Thucydides really spoke to us very clearly
+p405
+aVin 430 B.C. He put it nicely.
+p406
+aVAgain, I'll use the words in the same order he did.
+p407
+aV"The bravest are surely those
+p408
+aVwho have the clearest vision of what is before them,
+p409
+aVboth glory and danger alike.
+p410
+aVAnd yet notwithstanding, they go out and they meet it."
+p411
+aa(lp412
+VThank you.
+p413
+aV(Applause)
+p414
+aasS'id'
+p415
+I515
+sS'title'
+p416
+VTo upgrade is human
+p417
+s.

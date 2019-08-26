@@ -1,0 +1,519 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIn the mid-'90s,
+p4
+aVthe CDC and Kaiser Permanente
+p5
+aVdiscovered an exposure that dramatically increased the risk
+p6
+aVfor seven out of 10 of the leading causes of death in the United States.
+p7
+aVIn high doses, it affects brain development,
+p8
+aVthe immune system, hormonal systems,
+p9
+aVand even the way our DNA is read and transcribed.
+p10
+aVFolks who are exposed in very high doses
+p11
+aVhave triple the lifetime risk of heart disease and lung cancer
+p12
+aVand a 20-year difference in life expectancy.
+p13
+aVAnd yet, doctors today are not trained in routine screening or treatment.
+p14
+aVNow, the exposure I'm talking about is not a pesticide or a packaging chemical.
+p15
+aVIt's childhood trauma.
+p16
+aa(lp17
+VOkay. What kind of trauma am I talking about here?
+p18
+aVI'm not talking about failing a test or losing a basketball game.
+p19
+aVI am talking about threats that are so severe or pervasive
+p20
+aVthat they literally get under our skin and change our physiology:
+p21
+aVthings like abuse or neglect,
+p22
+aVor growing up with a parent  who struggles with mental illness
+p23
+aVor substance dependence.
+p24
+aa(lp25
+VNow, for a long time,
+p26
+aVI viewed these things in the way  I was trained to view them,
+p27
+aVeither as a social problem \u2014 refer to social services \u2014
+p28
+aVor as a mental health problem \u2014 refer to mental health services.
+p29
+aVAnd then something happened to make me rethink my entire approach.
+p30
+aVWhen I finished my residency,
+p31
+aVI wanted to go someplace where I felt really needed,
+p32
+aVsomeplace where I could make a difference.
+p33
+aVSo I came to work for California Pacific Medical Center,
+p34
+aVone of the best private hospitals in Northern California,
+p35
+aVand together, we opened a clinic in Bayview-Hunters Point,
+p36
+aVone of the poorest, most underserved neighborhoods in San Francisco.
+p37
+aVNow, prior to that point,
+p38
+aVthere had been only one pediatrician in all of Bayview
+p39
+aVto serve more than 10,000 children,
+p40
+aVso we hung a shingle, and we were able to provide top-quality care
+p41
+aVregardless of ability to pay.
+p42
+aVIt was so cool. We targeted the typical health disparities:
+p43
+aVaccess to care, immunization rates, asthma hospitalization rates,
+p44
+aVand we hit all of our numbers.
+p45
+aVWe felt very proud of ourselves.
+p46
+aa(lp47
+VBut then I started noticing a disturbing trend.
+p48
+aVA lot of kids were being referred to me for ADHD,
+p49
+aVor Attention Deficit Hyperactivity Disorder,
+p50
+aVbut when I actually did a thorough history and physical,
+p51
+aVwhat I found was that for most of my patients,
+p52
+aVI couldn't make a diagnosis of ADHD.
+p53
+aVMost of the kids I was seeing had experienced such severe trauma
+p54
+aVthat it felt like something else was going on.
+p55
+aVSomehow I was missing something important.
+p56
+aa(lp57
+VNow, before I did my residency, I did a master's degree in public health,
+p58
+aVand one of the things that they teach you in public health school
+p59
+aVis that if you're a doctor
+p60
+aVand you see 100 kids that all drink from the same well,
+p61
+aVand 98 of them develop diarrhea,
+p62
+aVyou can go ahead and write that prescription
+p63
+aVfor dose after dose after dose of antibiotics,
+p64
+aVor you can walk over and say, "What the hell is in this well?"
+p65
+aVSo I began reading everything that I could get my hands on
+p66
+aVabout how exposure to adversity
+p67
+aVaffects the developing brains and bodies of children.
+p68
+aa(lp69
+VAnd then one day, my colleague walked into my office,
+p70
+aVand he said, "Dr. Burke, have you seen this?"
+p71
+aVIn his hand was a copy of a research study
+p72
+aVcalled the Adverse Childhood Experiences Study.
+p73
+aVThat day changed my clinical practice and ultimately my career.
+p74
+aa(lp75
+VThe Adverse Childhood Experiences Study
+p76
+aVis something that everybody needs to know about.
+p77
+aVIt was done by Dr. Vince Felitti at Kaiser and Dr. Bob Anda at the CDC,
+p78
+aVand together, they asked 17,500 adults about their history of exposure
+p79
+aVto what they called "adverse  childhood experiences," or ACEs.
+p80
+aVThose include physical, emotional, or sexual abuse;
+p81
+aVphysical or emotional neglect;
+p82
+aVparental mental illness, substance dependence, incarceration;
+p83
+aVparental separation or divorce;
+p84
+aVor domestic violence.
+p85
+aVFor every yes, you would get a point on your ACE score.
+p86
+aVAnd then what they did
+p87
+aVwas they correlated these ACE scores against health outcomes.
+p88
+aVWhat they found was striking.
+p89
+aVTwo things:
+p90
+aVNumber one, ACEs are incredibly common.
+p91
+aVSixty-seven percent of the population had at least one ACE,
+p92
+aVand 12.6 percent, one in eight, had four or more ACEs.
+p93
+aVThe second thing that they found
+p94
+aVwas that there was a dose-response relationship
+p95
+aVbetween ACEs and health outcomes:
+p96
+aVthe higher your ACE score, the worse your health outcomes.
+p97
+aVFor a person with an ACE score of four or more,
+p98
+aVtheir relative risk of chronic obstructive pulmonary disease
+p99
+aVwas two and a half times that of someone with an ACE score of zero.
+p100
+aVFor hepatitis, it was also two and a half times.
+p101
+aVFor depression, it was four and a half times.
+p102
+aVFor suicidality, it was 12 times.
+p103
+aVA person with an ACE score of seven or more
+p104
+aVhad triple the lifetime risk of lung cancer
+p105
+aVand three and a half times the risk of ischemic heart disease,
+p106
+aVthe number one killer in the United States of America.
+p107
+aa(lp108
+VWell, of course this makes sense.
+p109
+aVSome people looked at this data and they said, "Come on.
+p110
+aVYou have a rough childhood, you're more likely to drink and smoke
+p111
+aVand do all these things that are going to ruin your health.
+p112
+aVThis isn't science. This is just bad behavior."
+p113
+aa(lp114
+VIt turns out this is exactly where the science comes in.
+p115
+aVWe now understand better than we ever have before
+p116
+aVhow exposure to early adversity
+p117
+aVaffects the developing brains and bodies of children.
+p118
+aVIt affects areas like the nucleus accumbens,
+p119
+aVthe pleasure and reward center of the brain
+p120
+aVthat is implicated in substance dependence.
+p121
+aVIt inhibits the prefrontal cortex,
+p122
+aVwhich is necessary for impulse control and executive function,
+p123
+aVa critical area for learning.
+p124
+aVAnd on MRI scans,
+p125
+aVwe see measurable differences in the amygdala,
+p126
+aVthe brain's fear response center.
+p127
+aVSo there are real neurologic reasons
+p128
+aVwhy folks exposed to high doses of adversity
+p129
+aVare more likely to engage in high-risk behavior,
+p130
+aVand that's important to know.
+p131
+aa(lp132
+VBut it turns out that even if you don't engage in any high-risk behavior,
+p133
+aVyou're still more likely to develop heart disease or cancer.
+p134
+aVThe reason for this has to do with the hypothalamic\u2013pituitary\u2013adrenal axis,
+p135
+aVthe brain's and body's stress response system
+p136
+aVthat governs our fight-or-flight response.
+p137
+aVHow does it work?
+p138
+aVWell, imagine you're walking in the forest and you see a bear.
+p139
+aVImmediately, your hypothalamus sends a signal to your pituitary,
+p140
+aVwhich sends a signal  to your adrenal gland that says,
+p141
+aV"Release stress hormones! Adrenaline! Cortisol!"
+p142
+aVAnd so your heart starts to pound,
+p143
+aVYour pupils dilate, your airways open up,
+p144
+aVand you are ready to either fight that bear or run from the bear.
+p145
+aVAnd that is wonderful
+p146
+aVif you're in a forest and there's a bear.
+p147
+aV(Laughter)
+p148
+aVBut the problem is what happens when the bear comes home every night,
+p149
+aVand this system is activated over and over and over again,
+p150
+aVand it goes from being adaptive, or life-saving,
+p151
+aVto maladaptive, or health-damaging.
+p152
+aVChildren are especially sensitive to this repeated stress activation,
+p153
+aVbecause their brains and bodies are just developing.
+p154
+aVHigh doses of adversity not only affect brain structure and function,
+p155
+aVthey affect the developing immune system,
+p156
+aVdeveloping hormonal systems,
+p157
+aVand even the way our DNA is read and transcribed.
+p158
+aa(lp159
+VSo for me, this information threw my old training out the window,
+p160
+aVbecause when we understand the mechanism of a disease,
+p161
+aVwhen we know not only which pathways are disrupted, but how,
+p162
+aVthen as doctors, it is our job to use this science
+p163
+aVfor prevention and treatment.
+p164
+aVThat's what we do.
+p165
+aa(lp166
+VSo in San Francisco, we created the Center for Youth Wellness
+p167
+aVto prevent, screen and heal the impacts of ACEs and toxic stress.
+p168
+aVWe started simply with routine screening of every one of our kids
+p169
+aVat their regular physical,
+p170
+aVbecause I know that if my patient  has an ACE score of 4,
+p171
+aVshe's two and a half times as likely to develop hepatitis or COPD,
+p172
+aVshe's four and half times as likely to become depressed,
+p173
+aVand she's 12 times as likely to attempt to take her own life
+p174
+aVas my patient with zero ACEs.
+p175
+aVI know that when she's in my exam room.
+p176
+aVFor our patients who do screen positive,
+p177
+aVwe have a multidisciplinary treatment team that works to reduce the dose of adversity
+p178
+aVand treat symptoms using best practices, including home visits, care coordination,
+p179
+aVmental health care, nutrition,
+p180
+aVholistic interventions, and yes, medication when necessary.
+p181
+aVBut we also educate parents about the impacts of ACEs and toxic stress
+p182
+aVthe same way you would for covering electrical outlets, or lead poisoning,
+p183
+aVand we tailor the care of our asthmatics and our diabetics
+p184
+aVin a way that recognizes that they may need more aggressive treatment,
+p185
+aVgiven the changes to their hormonal and immune systems.
+p186
+aa(lp187
+VSo the other thing that happens when you understand this science
+p188
+aVis that you want to shout it from the rooftops,
+p189
+aVbecause this isn't just an issue for kids in Bayview.
+p190
+aVI figured the minute that everybody else heard about this,
+p191
+aVit would be routine screening, multi-disciplinary treatment teams,
+p192
+aVand it would be a race to the most effective clinical treatment protocols.
+p193
+aVYeah. That did not happen.
+p194
+aVAnd that was a huge learning for me.
+p195
+aVWhat I had thought of as simply best clinical practice
+p196
+aVI now understand to be a movement.
+p197
+aVIn the words of Dr. Robert Block,
+p198
+aVthe former President of the American Academy of Pediatrics,
+p199
+aV"Adverse childhood experiences
+p200
+aVare the single greatest unaddressed public health threat
+p201
+aVfacing our nation today."
+p202
+aVAnd for a lot of people, that's a terrifying prospect.
+p203
+aVThe scope and scale of the problem seems so large that it feels overwhelming
+p204
+aVto think about how we might approach it.
+p205
+aVBut for me, that's actually where the hopes lies,
+p206
+aVbecause when we have the right framework,
+p207
+aVwhen we recognize this to be a public health crisis,
+p208
+aVthen we can begin to use the right  tool kit to come up with solutions.
+p209
+aVFrom tobacco to lead poisoning  to HIV/AIDS,
+p210
+aVthe United States actually has quite a strong track record
+p211
+aVwith addressing public health problems,
+p212
+aVbut replicating those successes with ACEs and toxic stress
+p213
+aVis going to take determination and commitment,
+p214
+aVand when I look at what our nation's response has been so far,
+p215
+aVI wonder,
+p216
+aVwhy haven't we taken this more seriously?
+p217
+aa(lp218
+VYou know, at first I thought that we marginalized the issue
+p219
+aVbecause it doesn't apply to us.
+p220
+aVThat's an issue for those kids in those neighborhoods.
+p221
+aVWhich is weird, because the data doesn't bear that out.
+p222
+aVThe original ACEs study was done in a population
+p223
+aVthat was 70 percent Caucasian,
+p224
+aV70 percent college-educated.
+p225
+aVBut then, the more I talked to folks,
+p226
+aVI'm beginning to think that maybe I had it completely backwards.
+p227
+aVIf I were to ask how many people in this room
+p228
+aVgrew up with a family member who suffered from mental illness,
+p229
+aVI bet a few hands would go up.
+p230
+aVAnd then if I were to ask how many folks had a parent who maybe drank too much,
+p231
+aVor who really believed that if you spare the rod, you spoil the child,
+p232
+aVI bet a few more hands would go up.
+p233
+aVEven in this room, this is an issue that touches many of us,
+p234
+aVand I am beginning to believe that we marginalize the issue
+p235
+aVbecause it does apply to us.
+p236
+aVMaybe it's easier to see in other zip codes
+p237
+aVbecause we don't want to look at it.
+p238
+aVWe'd rather be sick.
+p239
+aa(lp240
+VFortunately, scientific advances and, frankly, economic realities
+p241
+aVmake that option less viable every day.
+p242
+aVThe science is clear:
+p243
+aVEarly adversity dramatically affects health across a lifetime.
+p244
+aVToday, we are beginning to understand how to interrupt the progression
+p245
+aVfrom early adversity to disease and early death,
+p246
+aVand 30 years from now,
+p247
+aVthe child who has a high ACE score
+p248
+aVand whose behavioral symptoms go unrecognized,
+p249
+aVwhose asthma management is not connected,
+p250
+aVand who goes on to develop high blood pressure
+p251
+aVand early heart disease or cancer
+p252
+aVwill be just as anomalous as a six-month mortality from HIV/AIDS.
+p253
+aVPeople will look at that situation and say, "What the heck happened there?"
+p254
+aVThis is treatable.
+p255
+aVThis is beatable.
+p256
+aVThe single most important thing that we need today
+p257
+aVis the courage to look this problem in the face
+p258
+aVand say, this is real and this is all of us.
+p259
+aVI believe that we are the movement.
+p260
+aa(lp261
+VThank you.
+p262
+aa(lp263
+V(Applause)
+p264
+aasS'id'
+p265
+I2194
+sS'title'
+p266
+VHow childhood trauma affects health across a lifetime
+p267
+s.

@@ -1,0 +1,375 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhen my father and I started a company
+p4
+aVto 3D print human tissues and organs,
+p5
+aVsome people initially thought we were a little crazy.
+p6
+aVBut since then, much progress has been made,
+p7
+aVboth in our lab and other labs around the world.
+p8
+aVAnd given this, we started getting questions like,
+p9
+aV"If you can grow human body parts,
+p10
+aVcan you also grow animal products like meat and leather?"
+p11
+aa(lp12
+VWhen someone first suggested this to me,
+p13
+aVquite frankly I thought they were a little crazy,
+p14
+aVbut what I soon came to realize
+p15
+aVwas that this is not so crazy after all.
+p16
+aVWhat's crazy is what we do today.
+p17
+aVI'm convinced that in 30 years,
+p18
+aVwhen we look back on today
+p19
+aVand on how we raise and slaughter billions of animals
+p20
+aVto make our hamburgers and our handbags,
+p21
+aVwe'll see this as being wasteful
+p22
+aVand indeed crazy.
+p23
+aVDid you know that today we maintain
+p24
+aVa global herd of 60 billion animals
+p25
+aVto provide our meat, dairy, eggs and leather goods?
+p26
+aVAnd over the next few decades,
+p27
+aVas the world's population expands to 10 billion,
+p28
+aVthis will need to nearly double
+p29
+aVto 100 billion animals.
+p30
+aa(lp31
+VBut maintaining this herd
+p32
+aVtakes a major toll on our planet.
+p33
+aVAnimals are not just raw materials.
+p34
+aVThey're living beings,
+p35
+aVand already our livestock
+p36
+aVis one of the largest users of land,
+p37
+aVfresh water,
+p38
+aVand one of the biggest producers of greenhouse gases
+p39
+aVwhich drive climate change.
+p40
+aVOn top of this,
+p41
+aVwhen you get so many animals so close together,
+p42
+aVit creates a breeding ground for disease
+p43
+aVand opportunities for harm and abuse.
+p44
+aVClearly, we cannot continue on this path
+p45
+aVwhich puts the environment, public health,
+p46
+aVand food security at risk.
+p47
+aa(lp48
+VThere is another way, because essentially,
+p49
+aVanimal products are just collections of tissues,
+p50
+aVand right now we breed and raise
+p51
+aVhighly complex animals
+p52
+aVonly to create products
+p53
+aVthat are made of relatively simple tissues.
+p54
+aVWhat if, instead of starting with a complex
+p55
+aVand sentient animal,
+p56
+aVwe started with what the tissues are made of,
+p57
+aVthe basic unit of life,
+p58
+aVthe cell?
+p59
+aa(lp60
+VThis is biofabrication, where cells themselves
+p61
+aVcan be used to grow biological products
+p62
+aVlike tissues and organs.
+p63
+aVAlready in medicine,
+p64
+aVbiofabrication techniques have been used
+p65
+aVto grow sophisticated body parts,
+p66
+aVlike ears, windpipes, skin, blood vessels and bone,
+p67
+aVthat have been successfully implanted into patients.
+p68
+aVAnd beyond medicine, biofabrication can be
+p69
+aVa humane, sustainable and scalable new industry.
+p70
+aa(lp71
+VAnd we should begin by reimagining leather.
+p72
+aVI emphasize leather because it is so widely used.
+p73
+aVIt is beautiful, and it has long been a part of our history.
+p74
+aVGrowing leather is also technically simpler
+p75
+aVthan growing other animal products like meat.
+p76
+aVIt mainly uses one cell type,
+p77
+aVand it is largely two-dimensional.
+p78
+aVIt is also less polarizing for consumers and regulators.
+p79
+aVUntil biofabrication is better understood,
+p80
+aVit is clear that, initially at least,
+p81
+aVmore people would be willing to wear novel materials
+p82
+aVthan would be willing to eat novel foods,
+p83
+aVno matter how delicious.
+p84
+aVIn this sense, leather is a gateway material,
+p85
+aVa beginning for the mainstream biofabrication industry.
+p86
+aVIf we can succeed here,
+p87
+aVit brings our other consumer bioproducts like meat
+p88
+aVcloser on the horizon.
+p89
+aa(lp90
+VNow how do we do it?
+p91
+aVTo grow leather, we begin by taking cells
+p92
+aVfrom an animal, through a simple biopsy.
+p93
+aVThe animal could be a cow,
+p94
+aVlamb, or even something more exotic.
+p95
+aVThis process does no harm,
+p96
+aVand Daisy the cow can live a happy life.
+p97
+aVWe then isolate the skin cells
+p98
+aVand multiply them in a cell culture medium.
+p99
+aVThis takes millions of cells
+p100
+aVand expands them into billions.
+p101
+aVAnd we then coax these cells to produce collagen,
+p102
+aVas they would naturally.
+p103
+aVThis collagen is the stuff between cells.
+p104
+aVIt's natural connective tissue.
+p105
+aVIt's the extracellular matrix,
+p106
+aVbut in leather, it's the main building block.
+p107
+aVAnd what we next do is we take the cells and their collagen
+p108
+aVand we spread them out to form sheets,
+p109
+aVand then we layer these thin sheets on top of one another,
+p110
+aVlike phyllo pastry, to form thicker sheets,
+p111
+aVwhich we then let mature.
+p112
+aVAnd finally, we take this multilayered skin
+p113
+aVand through a shorter and much less chemical tanning process,
+p114
+aVwe create leather.
+p115
+aVAnd so I'm very excited to show you,
+p116
+aVfor the first time,
+p117
+aVthe first batch of our cultured leather,
+p118
+aVfresh from the lab.
+p119
+aVThis is real, genuine leather,
+p120
+aVwithout the animal sacrifice.
+p121
+aVIt can have all the characteristics of leather
+p122
+aVbecause it is made of the same cells,
+p123
+aVand better yet,
+p124
+aVthere is no hair to remove,
+p125
+aVno scars or insect's bites,
+p126
+aVand no waste.
+p127
+aVThis leather can be grown in the shape of a wallet,
+p128
+aVa handbag or a car seat.
+p129
+aVIt is not limited to the irregular shape of a cow
+p130
+aVor an alligator.
+p131
+aa(lp132
+VAnd because we make this material,
+p133
+aVwe grow this leather from the ground up,
+p134
+aVwe can control its properties in very interesting ways.
+p135
+aVThis piece of leather
+p136
+aVis a mere seven tissue layers thick,
+p137
+aVand as you can see, it is nearly transparent.
+p138
+aVAnd this leather is 21 layers thick and quite opaque.
+p139
+aVYou don't have that kind of fine control
+p140
+aVwith conventional leather.
+p141
+aVAnd we can tune this leather for other desirable qualities,
+p142
+aVlike softness, breathability,
+p143
+aVdurability, elasticity and even things like pattern.
+p144
+aVWe can mimic nature,
+p145
+aVbut in some ways also improve upon it.
+p146
+aVThis type of leather can do what today's leather does,
+p147
+aVbut with imagination, probably much more.
+p148
+aa(lp149
+VWhat could the future of animal products look like?
+p150
+aVIt need not look like this,
+p151
+aVwhich is actually the state of the art today.
+p152
+aVRather, it could be much more like this.
+p153
+aVAlready, we have been manufacturing with cell cultures
+p154
+aVfor thousands of years, beginning with products
+p155
+aVlike wine, beer and yogurt.
+p156
+aVAnd speaking of food, our cultured food has evolved,
+p157
+aVand today we prepare cultured food
+p158
+aVin beautiful, sterile facilities like this.
+p159
+aVA brewery is essentially a bioreactor.
+p160
+aVIt is where cell culture takes place.
+p161
+aVImagine that in this facility,
+p162
+aVinstead of brewing beer,
+p163
+aVwe were brewing leather
+p164
+aVor meat.
+p165
+aVImagine touring this facility,
+p166
+aVlearning about how the leather or meat is cultured,
+p167
+aVseeing the process from beginning to end,
+p168
+aVand even trying some.
+p169
+aVIt's clean, open and educational,
+p170
+aVand this is in contrast to the hidden,
+p171
+aVguarded and remote factories
+p172
+aVwhere leather and meat is produced today.
+p173
+aVPerhaps biofabrication
+p174
+aVis a natural evolution of manufacturing for mankind.
+p175
+aVIt's environmentally responsible,
+p176
+aVefficient and humane.
+p177
+aVIt allows us to be creative.
+p178
+aVWe can design new materials, new products,
+p179
+aVand new facilities.
+p180
+aVWe need to move past just killing animals
+p181
+aVas a resource
+p182
+aVto something more civilized and evolved.
+p183
+aVPerhaps we are ready for something
+p184
+aVliterally and figuratively more cultured.
+p185
+aa(lp186
+VThank you.
+p187
+aa(lp188
+V(Applause)
+p189
+aasS'id'
+p190
+I1824
+sS'title'
+p191
+VLeather and meat without killing animals
+p192
+s.

@@ -1,0 +1,859 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThis is the first of two rather extraordinary photographs
+p4
+aVI'm going to show you today.
+p5
+aVIt was taken 18 years ago.
+p6
+aVI was 19 years old at the time.
+p7
+aVI had just returned
+p8
+aVfrom one of the deepest dives I'd ever made at that time \u2014
+p9
+aVa little over 200 feet.
+p10
+aVAnd I had caught this little fish.
+p11
+aVIt turns out that particular one was the first of its kind
+p12
+aVever taken alive.
+p13
+aVI'm not just an ichthyologist, I'm a bona fide fish nerd.
+p14
+aVAnd to a fish nerd, this is some pretty exciting stuff.
+p15
+aVMore exciting was the fact that the person who took this photo
+p16
+aVis a guy named Jack Randall,
+p17
+aVthe greatest living ichthyologist on earth \u2014
+p18
+aVthe Grand Poobah of fish nerds, if you will.
+p19
+aVAnd so, it was really exciting to me to have this moment in time.
+p20
+aVIt set the course for the rest of my life.
+p21
+aa(lp22
+VBut really, the most significant, most profound thing about this picture
+p23
+aVis it was taken two days before I was completely paralyzed
+p24
+aVfrom the neck down.
+p25
+aVI made a really stupid kind of mistake
+p26
+aVthat most 19-year-old males do when they think they're immortal,
+p27
+aVand I got a bad case of the bends and was paralyzed,
+p28
+aVand had to be flown back for treatment.
+p29
+aVI learned two really important things that day.
+p30
+aVThe first thing I learned \u2014 well, I'm mortal. That's a really big one.
+p31
+aVAnd the second thing I learned was that I knew, with profound certainty,
+p32
+aVthat this is exactly what I was going to do for the rest of my life.
+p33
+aVI had to focus all my energies
+p34
+aVtowards going to find new species of things
+p35
+aVdown on deep coral reefs.
+p36
+aa(lp37
+VWhen you think of a coral reef, this is what most people think of:
+p38
+aVthese big, hard, elaborate corals,
+p39
+aVlots of bright, colorful fishes and things.
+p40
+aVBut this is really just the tip of the iceberg.
+p41
+aVIf you look at this diagram of a coral reef,
+p42
+aVwe know a lot about that part up near the top.
+p43
+aVThe reason we know so much about it
+p44
+aVis scuba divers can very easily go down there and access it.
+p45
+aa(lp46
+VThere is a problem with scuba, though,
+p47
+aVin that it imposes some limitations on how deep you can go.
+p48
+aVIt turns out that depth is about 200 feet.
+p49
+aVI'll get into why that is in just a minute,
+p50
+aVbut the point is, scuba divers generally stay less than 100 feet deep,
+p51
+aVand very rarely go much below this, at least, not with any kind of sanity.
+p52
+aVSo to go deeper, most biologists have turned to submersibles.
+p53
+aVNow, submersibles are great, wonderful things,
+p54
+aVbut if you're going to spend 30,000 dollars a day to use one of these things
+p55
+aVand it's capable of going 2,000 feet,
+p56
+aVyou're not going to go farting around up here in a couple of hundred feet,
+p57
+aVyou're going to go way down deep.
+p58
+aVSo the bottom line is, almost all research using submersibles
+p59
+aVhas taken place well below 500 feet.
+p60
+aa(lp61
+VNow, it's pretty obvious at this point
+p62
+aVthere's a zone here in the middle.
+p63
+aVThat's the zone
+p64
+aVthat centers around my own personal pursuit of happiness.
+p65
+aVI want to find out what's in this zone; we know almost nothing about it.
+p66
+aVScuba divers can't get there, submarines go right on past it.
+p67
+aa(lp68
+VIt took me a year to learn to walk again after my diving accident in Palau.
+p69
+aVDuring that year,
+p70
+aVI spent a lot of time learning about the physics and physiology of diving
+p71
+aVand how to overcome these limitations.
+p72
+aVI'm just going to show you a basic idea.
+p73
+aVWe're all breathing air right now.
+p74
+aVAir is a mixture of oxygen and nitrogen,
+p75
+aV20 percent oxygen, 80 percent nitrogen.
+p76
+aVIt's in our lungs.
+p77
+aVAnd there's a phenomenon called Henry's law,
+p78
+aVthat says gases will dissolve into a fluid
+p79
+aVin proportion to the partial pressures you're exposing them to.
+p80
+aVSo, basically the gas dissolves into our body.
+p81
+aVThe oxygen is bound by metabolism, we use it for energy.
+p82
+aVThe nitrogen sort of floats around in our blood and tissues.
+p83
+aVThat's fine, it's how we're designed.
+p84
+aVThe problem happens when you go underwater.
+p85
+aa(lp86
+VThe deeper you go underwater, the higher the pressure is.
+p87
+aVIf you were to go down to a depth of about 130 feet,
+p88
+aVwhich is the recommended limit for most scuba divers,
+p89
+aVyou'd get this pressure effect.
+p90
+aVThe effect of that pressure is you have an increased density of gas molecules
+p91
+aVin every breath you take.
+p92
+aVOver time, those gas molecules dissolve into your blood and tissues
+p93
+aVand start to fill you up.
+p94
+aa(lp95
+VNow, if you were to go down to, say, 300 feet,
+p96
+aVyou don't have five times as many gas molecules in your lungs,
+p97
+aVyou've got 10 times as many gas molecules in your lungs.
+p98
+aVAnd, sure enough, they dissolve into your blood and tissues as well.
+p99
+aVAnd if you were to go down to where there's 15 times as much \u2014
+p100
+aVthe deeper you go, the more exacerbating the problem becomes.
+p101
+aVThe limitation of diving with air is all those dots in your body,
+p102
+aVall the nitrogen and all the oxygen.
+p103
+aa(lp104
+VThere are three basic limitations of scuba diving.
+p105
+aVThe first limitation is the oxygen \u2014
+p106
+aVoxygen toxicity.
+p107
+aVNow, we all know the song: "Love is like oxygen.
+p108
+aVYou get too much, you get too high. Not enough, and you're gonna die."
+p109
+aVWell, in the context of diving, you get too much, you die also.
+p110
+aVYou die because oxygen toxicity can cause a seizure.
+p111
+aVIt makes you convulse underwater \u2014 not a good thing to happen underwater.
+p112
+aVIt happens because there's too much concentration of oxygen in your body.
+p113
+aa(lp114
+VThe nitrogen has two problems.
+p115
+aVOne of them is what Jacques Cousteau called "rapture of the deep."
+p116
+aVIt's nitrogen narcosis.
+p117
+aVIt makes you loopy; the deeper you go, the loopier you get.
+p118
+aVYou don't want to drive drunk, you don't want to dive drunk.
+p119
+aVSo that's a real big problem.
+p120
+aVAnd of course, the third problem
+p121
+aVis the one I found out the hard way in Palau,
+p122
+aVwhich is the bends.
+p123
+aa(lp124
+VOne thing I forgot to mention
+p125
+aVis that to obviate the problem of nitrogen narcosis \u2014
+p126
+aVall of those blue dots in our body \u2014
+p127
+aVyou remove the nitrogen and replace it with helium.
+p128
+aVHelium's a gas; there're a lot of reasons why helium's good,
+p129
+aVit's a tiny molecule, it's inert, it doesn't give you narcosis.
+p130
+aVSo that's the basic concept we use.
+p131
+aVBut the theory's relatively easy.
+p132
+aVThe tricky part is the implementation.
+p133
+aa(lp134
+VSo this is how I began about 15 years ago.
+p135
+aVI'll admit, it wasn't exactly the smartest of starts,
+p136
+aVbut you've got to start somewhere.
+p137
+aa(lp138
+V(Laughter)
+p139
+aa(lp140
+VAt the time, I wasn't the only one who didn't know what I was doing.
+p141
+aVAlmost nobody did.
+p142
+aVThis rig was actually used for a dive of 300 feet.
+p143
+aVBut over time we got better at it,
+p144
+aVand we came up with this really sophisticated-looking rig
+p145
+aVwith four scuba tanks, five regulators and all the right gas mixtures,
+p146
+aVall that good stuff.
+p147
+aVIt was fine and dandy, it allowed us to go down and find new species.
+p148
+aa(lp149
+VThis picture was taken at 300 feet, catching new species of fish.
+p150
+aVThe problem was it didn't allow us much time.
+p151
+aVFor all its bulk and size, it only gave us about 15 minutes at most
+p152
+aVdown at those sorts of depths.
+p153
+aVWe needed more time. There had to be a better way.
+p154
+aVAnd indeed, there is a better way.
+p155
+aa(lp156
+VIn 1994, I was fortunate enough to get access
+p157
+aVto these prototype closed-circuit rebreathers.
+p158
+aVClosed-circuit rebreather: what makes it different from scuba,
+p159
+aVand why is it better?
+p160
+aVWell, there are three main advantages to a rebreather.
+p161
+aVOne, they're quiet, they don't make any noise.
+p162
+aVTwo, they allow you to stay underwater longer.
+p163
+aVThree, they allow you to go deeper.
+p164
+aVHow is it that they do that?
+p165
+aVIn order to really understand how they do that,
+p166
+aVyou have to look underneath the hood and see what's going on.
+p167
+aa(lp168
+VThere are three basic systems to a closed-circuit rebreather.
+p169
+aVThe most fundamental is called the breathing loop.
+p170
+aVIt's a breathing loop because you breathe off of it;
+p171
+aVit's a closed loop, and you breathe the same gas around and around.
+p172
+aVThere's a mouthpiece that you put in your mouth,
+p173
+aVand there's a counter lung, or in this case, two counter lungs.
+p174
+aVThe counter lungs aren't high tech, they're simply flexible bags.
+p175
+aVThey allow you to mechanically breathe, mechanically ventilate.
+p176
+aVWhen you exhale, it goes in the exhale counter lung;
+p177
+aVwhen you inhale, it comes from the inhale counter lung.
+p178
+aVIt's just pure mechanics, allowing you to cycle air through this breathing loop.
+p179
+aa(lp180
+VThe other component on a breathing loop is the carbon-dioxide-absorbent canister.
+p181
+aVNow, as we breathe, we produce carbon dioxide,
+p182
+aVand that carbon dioxide needs to be scrubbed out of the system.
+p183
+aVThere's a chemical filter in there
+p184
+aVthat pulls the carbon dioxide out of the breathing gas,
+p185
+aVso that when it comes back to us, it's safe to breathe again.
+p186
+aVThat's the breathing loop in a nutshell.
+p187
+aa(lp188
+VThe second main component of a closed-circuit rebreather
+p189
+aVis the gas system.
+p190
+aVThe primary purpose of the gas system is to provide oxygen,
+p191
+aVto replenish the oxygen that your body consumes.
+p192
+aVSo the main tank, the main critical thing,
+p193
+aVis this oxygen gas supply cylinder we have here.
+p194
+aVBut if we only had an oxygen gas supply cylinder,
+p195
+aVwe wouldn't be able to go very deep,
+p196
+aVbecause we'd run into oxygen toxicity very quickly.
+p197
+aVSo we need another gas, something to dilute the oxygen with.
+p198
+aVAnd that, fittingly enough, is called the diluent gas supply.
+p199
+aVIn our applications, we generally put air inside this diluent gas supply,
+p200
+aVbecause it's a very cheap and easy source of nitrogen.
+p201
+aa(lp202
+VSo that's where we get our nitrogen from.
+p203
+aVBut if we want to go deeper, of course, we need another gas supply,
+p204
+aVand helium is what we really need to go deep.
+p205
+aVUsually we'll have a slightly larger cylinder,
+p206
+aVmounted exterior on the rebreather, like this.
+p207
+aVThat's what we use to inject, as we start to do our deep dives.
+p208
+aVWe also have a second oxygen cylinder, solely as a backup;
+p209
+aVif there's a problem with our first oxygen supply,
+p210
+aVwe can continue to breathe.
+p211
+aVThe way you manage all these different gases and different gas supplies
+p212
+aVis this really high-tech, sophisticated gas block up on the front here,
+p213
+aVwhere it's easy to reach.
+p214
+aVIt's got the valves and knobs and things you need
+p215
+aVto inject the right gases at the right time.
+p216
+aa(lp217
+VNormally, you don't have to do that,
+p218
+aVbecause all of it's done automatically
+p219
+aVwith the electronics, the third system of a rebreather.
+p220
+aVThe most critical part of a rebreather are the oxygen sensors.
+p221
+aVYou need three, so if one goes bad, you know which one it is.
+p222
+aVYou need voting logic.
+p223
+aVYou also have three microprocessors.
+p224
+aVAny one of those computers can run the entire system,
+p225
+aVso if you have to lose two of them,
+p226
+aVthere's back-up power supplies.
+p227
+aVAnd there are multiple displays, to get the information to the diver.
+p228
+aVThis is the high-tech gadgetry that allows us to do what we do
+p229
+aVon these deep dives.
+p230
+aVI can talk about it all day \u2014 just ask my wife \u2014
+p231
+aVbut I want to move on to something much more interesting.
+p232
+aa(lp233
+VI'm going to take you on a deep dive,
+p234
+aVand show you what it's like to do one.
+p235
+aVWe start up on the boat,
+p236
+aVFor all this high-tech, expensive equipment,
+p237
+aVthis is still the best way to get in the water,
+p238
+aVjust flop over the side of the boat.
+p239
+aa(lp240
+VNow, as I showed you in the earlier diagram,
+p241
+aVthese reefs that we dive on start out near the surface
+p242
+aVand they go almost vertically, completely straight down.
+p243
+aVSo we drop in the water and go over the edge of this cliff,
+p244
+aVand then we start dropping, dropping, dropping.
+p245
+aVPeople ask if it takes a long time to get there.
+p246
+aVNo; it only takes a couple minutes to get down to three or four hundred feet,
+p247
+aVwhich is what we're aiming for.
+p248
+aVIt's like skydiving in slow motion. It's really very interesting.
+p249
+aVYou ever see "The Abyss,"
+p250
+aVwhere Ed Harris is sinking down along the side of the wall?
+p251
+aVThat's what it feels like. Amazing.
+p252
+aa(lp253
+VAnd down there, you find that the water is very clear, extremely clear,
+p254
+aVbecause there's hardly any plankton.
+p255
+aVWhen you turn on your light and look around the caves,
+p256
+aVyou're confronted with a tremendous amount of diversity,
+p257
+aVmuch more than anyone used to believe.
+p258
+aVNow, not all of it is new species \u2014
+p259
+aVthat fish you see with the white stripe, that's a known species.
+p260
+aVBut if you look carefully into the cracks and crevices,
+p261
+aVyou'll see little things scurrying all over the place.
+p262
+aVThere's a just unbelievable diversity.
+p263
+aa(lp264
+VIt's not just fish, either.
+p265
+aVThese are crinoids, sponges, black corals. There're some more fishes.
+p266
+aVThose fishes that you see now are new species.
+p267
+aVThey're still new species,
+p268
+aVbecause I had a video camera instead of my net,
+p269
+aVso they're still waiting down there for someone to go find them.
+p270
+aVBut this is what it looks like.
+p271
+aVAnd this kind of habitat just goes on and on and on for miles.
+p272
+aVThis is Papua, New Guinea.
+p273
+aa(lp274
+VNow little fishes and invertebrates aren't the only things we see down there.
+p275
+aVWe also see sharks,
+p276
+aVmuch more regularly than I would have expected to.
+p277
+aVWe're not quite sure why.
+p278
+aVWhat I want you to do now is imagine yourself 400 feet underwater,
+p279
+aVwith all this high-tech gear on your back,
+p280
+aVyou're in a remote reef off Papua, New Guinea,
+p281
+aVthousands of miles from the nearest recompression chamber,
+p282
+aVand you're completely surrounded by sharks.
+p283
+aa(lp284
+V(Video) Diver 1: (In squeaky voice) Look at those ...
+p285
+aa(lp286
+VDiver 2: Uh, oh ...
+p287
+aVUh, oh!
+p288
+aa(lp289
+VAudience: (Laughter)
+p290
+aa(lp291
+V(Video) Diver 1: I think we have their attention ...
+p292
+aa(lp293
+VRichard Pyle: When you start talking like Donald Duck,
+p294
+aVthere's no situation in the world that can seem tense.
+p295
+aa(lp296
+V(Laughter)
+p297
+aa(lp298
+VSo we're down there \u2014 this is at 400 feet.
+p299
+aVThat's looking straight up, by the way, to give a sense of how far the surface is.
+p300
+aVAnd if you're a biologist and know about sharks,
+p301
+aVand you want to assess, how much jeopardy am I really in here,
+p302
+aVthere's one question that sort of jumps to the forefront of your mind immediately,
+p303
+aVwhich is \u2014
+p304
+aa(lp305
+V(Video) Diver 1: What kind of sharks?
+p306
+aa(lp307
+VDiver 2: Silvertip sharks.
+p308
+aa(lp309
+VDiver 1: Oh.
+p310
+aa(lp311
+VRP: There are actually three species of sharks here.
+p312
+aVThe silvertips are the ones with the white edges on the fins,
+p313
+aVand there're also gray reef sharks and hammerheads off in the distance.
+p314
+aVAnd yes, it's a little nerve-racking.
+p315
+aa(lp316
+V(Video) Diver 2: Hoo!
+p317
+aVThat little guy is frisky!
+p318
+aa(lp319
+VAudience: (Laughter)
+p320
+aa(lp321
+VNow, you've seen video like this on TV a lot, and it's very intimidating.
+p322
+aVI think it gives the wrong impression about sharks;
+p323
+aVthey're actually not very dangerous animals.
+p324
+aVThat's why we weren't worried much and were joking around.
+p325
+aVMore people are killed by pigs, by lightning strikes,
+p326
+aVmore people are killed at soccer games in England.
+p327
+aVThere's a lot of other ways you can die.
+p328
+aVAnd I'm not making that stuff up.
+p329
+aVCoconuts! You can get killed by a coconut more likely than killed by a shark.
+p330
+aVSo sharks aren't quite as dangerous as most people make them out to be.
+p331
+aa(lp332
+VNow, I don't know if any of you get US News and World Report \u2014
+p333
+aVI got the recent issue.
+p334
+aVThere's a cover story about the great explorers of our time.
+p335
+aVThe last article is entitled, "No New Frontiers."
+p336
+aVIt questions whether or not there really are any new frontiers out there,
+p337
+aVwhether there are any true, hardcore discoveries that can still be made.
+p338
+aVMy favorite line from the article:
+p339
+aV[... 'discovery' can mean finding a guppy with an extra spine in its dorsal fin."]
+p340
+aVI have to laugh; they don't call us fish nerds for nothing.
+p341
+aVWe actually do get excited about finding a new dorsal spine in a guppy.
+p342
+aVBut it's much more than that.
+p343
+aVI want to show you a few of the guppies we've found over the years.
+p344
+aa(lp345
+VThis one \u2014 you can see how ugly it is.
+p346
+aa(lp347
+V(Laughter)
+p348
+aa(lp349
+VEven if you ignore the scientific value of this thing,
+p350
+aVlook at the monetary value of this thing.
+p351
+aVA couple of these were sold through the aquarium trade to Japan,
+p352
+aVwhere they sold for 15,000 dollars apiece.
+p353
+aVThat's half a million dollars a pound.
+p354
+aa(lp355
+VHere's another new angelfish we discovered.
+p356
+aVThis one we first discovered back in the air days \u2014 the bad old air days,
+p357
+aVwhen we were doing these kind of dives with air.
+p358
+aVWe were at 360 feet.
+p359
+aVI remember coming up from one of these deep dives and I had this fog,
+p360
+aVand the narcosis takes a little while to fade away, sort of like sobering up.
+p361
+aVI had this vague recollection of seeing this yellow fish with a black spot,
+p362
+aVand thought, "Damn, I should have caught one \u2014
+p363
+aVI think that's a new species."
+p364
+aVEventually, I looked in my bucket.
+p365
+aVSure enough, I had caught one, I just completely forgot.
+p366
+aVSo this one, we decided to give the name Centropyge narcosis to.
+p367
+aVThat's its official scientific name,
+p368
+aVin reference to its deep-dwelling habits.
+p369
+aa(lp370
+VThis is another neat one.
+p371
+aVWhen we first found it,
+p372
+aVwe weren't even sure what family it belonged to,
+p373
+aVso we just called it the Dr. Seuss fish,
+p374
+aVsince it looked like something from one of those books.
+p375
+aa(lp376
+VNow, this one's pretty cool.
+p377
+aVIf you go to Papua, New Guinea and go down 300 feet,
+p378
+aVyou'll see these big mounds.
+p379
+aVThis may be hard to see, but they're a couple meters in diameter.
+p380
+aVIf you look closely, you'll see there's a little white and gray fish
+p381
+aVthat hangs out near them.
+p382
+aVIt turns out this little white fish builds these giant mounds,
+p383
+aVone pebble at a time.
+p384
+aVIt's extraordinary to find something like this.
+p385
+aVIt's not just new species, it's new behaviors, new ecology,
+p386
+aVall kind of new things.
+p387
+aa(lp388
+VWhat I'm going to show you now, quickly,
+p389
+aVis a sampling of the new species we've discovered.
+p390
+aVWhat's extraordinary is not just the number of species we're finding \u2014
+p391
+aVthough as you can see, that's pretty amazing;
+p392
+aVthis is only half of what we've found \u2014
+p393
+aVwhat's extraordinary is how quickly we find them.
+p394
+aVWe're up to seven new species per hour of time we spend at that depth.
+p395
+aVIf you go to an Amazon jungle and fog a tree, you may get a lot of bugs,
+p396
+aVbut for fishes, there's nowhere in the world
+p397
+aVyou can get seven new species per hour of time.
+p398
+aa(lp399
+VNow, we've done some back-of-the-envelope calculations,
+p400
+aVand we're predicting there are probably about 2,000 to 2,500 new species
+p401
+aVin the Indo-Pacific alone.
+p402
+aVThere are only five to six thousand known species,
+p403
+aVso a very large percentage of what is out there isn't really known.
+p404
+aVWe thought we had a handle on all the reef fish diversity \u2014 evidently not.
+p405
+aa(lp406
+VI'm going to just close on a very somber note.
+p407
+aVAt the beginning, I said I'd show you two extraordinary photographs.
+p408
+aVThis is the second extraordinary photograph I'm going to show you.
+p409
+aVThis one was taken at the exact moment I was down there filming those sharks.
+p410
+aVThis was taken exactly 300 feet above my head.
+p411
+aVThe reason this photograph is extraordinary
+p412
+aVis because it captures a moment
+p413
+aVin the very last minute of a person's life.
+p414
+aVLess than 60 seconds after this picture was taken, this guy was dead.
+p415
+aVWhen we recovered his body, we figured out what had gone wrong.
+p416
+aVHe had made a very simple mistake;
+p417
+aVhe turned the wrong valve when he filled his cylinder.
+p418
+aVhe had 80 percent oxygen in his tank when he should have had 40.
+p419
+aVHe had an oxygen toxicity seizure and he drowned.
+p420
+aa(lp421
+VThe reason I show this \u2014 not to put a downer on everything \u2014
+p422
+aVbut I just want to use it to key off my philosophy of life in general,
+p423
+aVwhich is that we all have two goals.
+p424
+aVThe first goal we share with every other living thing on this planet,
+p425
+aVwhich is to survive.
+p426
+aVI call it perpetuation: the survival of the species and survival of ourselves,
+p427
+aVAnd those are both about perpetuating the genome.
+p428
+aa(lp429
+VThe second goal, for those of us who have mastered the first goal \u2014
+p430
+aVcall it spiritual fulfillment, call it financial success,
+p431
+aVyou can call it any number of different things.
+p432
+aVI call it seeking joy, this pursuit of happiness.
+p433
+aVSo, I guess my theme on this is this guy lived his life to the fullest,
+p434
+aVhe absolutely did.
+p435
+aVYou have to balance those two goals.
+p436
+aVIf you live your whole life in fear \u2014
+p437
+aVI mean, life is a sexually transmitted disease with 100 percent mortality.
+p438
+aVSo you can't live your life in fear.
+p439
+aa(lp440
+V(Laughter)
+p441
+aa(lp442
+VI thought that was an old one!
+p443
+aa(lp444
+V(Applause)
+p445
+aa(lp446
+VBut at the same time, you don't want to get so focused on rule number two,
+p447
+aVgoal number two,
+p448
+aVthat you neglect goal number one.
+p449
+aVBecause once you're dead, you really can't enjoy anything after that.
+p450
+aVSo I wish you all the best of luck in maintaining that balance
+p451
+aVin your future endeavors.
+p452
+aa(lp453
+VThanks.
+p454
+aasS'id'
+p455
+I471
+sS'title'
+p456
+VA dive into the reef's Twilight Zone
+p457
+s.

@@ -1,0 +1,838 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThe universe
+p4
+aVis really big.
+p5
+aVWe live in a galaxy, the Milky Way Galaxy.
+p6
+aVThere are about a hundred billion stars in the Milky Way Galaxy.
+p7
+aVAnd if you take a camera
+p8
+aVand you point it at a random part of the sky,
+p9
+aVand you just keep the shutter open,
+p10
+aVas long as your camera is attached to the Hubble Space Telescope,
+p11
+aVit will see something like this.
+p12
+aVEvery one of these little blobs
+p13
+aVis a galaxy roughly the size of our Milky Way \u2014
+p14
+aVa hundred billion stars in each of those blobs.
+p15
+aVThere are approximately a hundred billion galaxies
+p16
+aVin the observable universe.
+p17
+aV100 billion is the only number you need to know.
+p18
+aVThe age of the universe, between now and the Big Bang,
+p19
+aVis a hundred billion in dog years.
+p20
+aV(Laughter)
+p21
+aVWhich tells you something about our place in the universe.
+p22
+aa(lp23
+VOne thing you can do with a picture like this is simply admire it.
+p24
+aVIt's extremely beautiful.
+p25
+aVI've often wondered, what is the evolutionary pressure
+p26
+aVthat made our ancestors in the Veldt adapt and evolve
+p27
+aVto really enjoy pictures of galaxies
+p28
+aVwhen they didn't have any.
+p29
+aVBut we would also like to understand it.
+p30
+aVAs a cosmologist, I want to ask, why is the universe like this?
+p31
+aVOne big clue we have is that the universe is changing with time.
+p32
+aVIf you looked at one of these galaxies and measured its velocity,
+p33
+aVit would be moving away from you.
+p34
+aVAnd if you look at a galaxy even farther away,
+p35
+aVit would be moving away faster.
+p36
+aVSo we say the universe is expanding.
+p37
+aa(lp38
+VWhat that means, of course, is that, in the past,
+p39
+aVthings were closer together.
+p40
+aVIn the past, the universe was more dense,
+p41
+aVand it was also hotter.
+p42
+aVIf you squeeze things together, the temperature goes up.
+p43
+aVThat kind of makes sense to us.
+p44
+aVThe thing that doesn't make sense to us as much
+p45
+aVis that the universe, at early times, near the Big Bang,
+p46
+aVwas also very, very smooth.
+p47
+aVYou might think that that's not a surprise.
+p48
+aVThe air in this room is very smooth.
+p49
+aVYou might say, "Well, maybe things just smoothed themselves out."
+p50
+aVBut the conditions near the Big Bang are very, very different
+p51
+aVthan the conditions of the air in this room.
+p52
+aVIn particular, things were a lot denser.
+p53
+aVThe gravitational pull of things
+p54
+aVwas a lot stronger near the Big Bang.
+p55
+aa(lp56
+VWhat you have to think about
+p57
+aVis we have a universe with a hundred billion galaxies,
+p58
+aVa hundred billion stars each.
+p59
+aVAt early times, those hundred billion galaxies
+p60
+aVwere squeezed into a region about this big \u2014
+p61
+aVliterally \u2014 at early times.
+p62
+aVAnd you have to imagine doing that squeezing
+p63
+aVwithout any imperfections,
+p64
+aVwithout any little spots
+p65
+aVwhere there were a few more atoms than somewhere else.
+p66
+aVBecause if there had been, they would have collapsed under the gravitational pull
+p67
+aVinto a huge black hole.
+p68
+aVKeeping the universe very, very smooth at early times
+p69
+aVis not easy; it's a delicate arrangement.
+p70
+aVIt's a clue
+p71
+aVthat the early universe is not chosen randomly.
+p72
+aVThere is something that made it that way.
+p73
+aVWe would like to know what.
+p74
+aa(lp75
+VSo part of our understanding of this was given to us by Ludwig Boltzmann,
+p76
+aVan Austrian physicist in the 19th century.
+p77
+aVAnd Boltzmann's contribution was that he helped us understand entropy.
+p78
+aVYou've heard of entropy.
+p79
+aVIt's the randomness, the disorder, the chaoticness of some systems.
+p80
+aVBoltzmann gave us a formula \u2014
+p81
+aVengraved on his tombstone now \u2014
+p82
+aVthat really quantifies what entropy is.
+p83
+aVAnd it's basically just saying
+p84
+aVthat entropy is the number of ways
+p85
+aVwe can rearrange the constituents of a system so that you don't notice,
+p86
+aVso that macroscopically it looks the same.
+p87
+aVIf you have the air in this room,
+p88
+aVyou don't notice each individual atom.
+p89
+aVA low entropy configuration
+p90
+aVis one in which there's only a few arrangements that look that way.
+p91
+aVA high entropy arrangement
+p92
+aVis one that there are many arrangements that look that way.
+p93
+aVThis is a crucially important insight
+p94
+aVbecause it helps us explain
+p95
+aVthe second law of thermodynamics \u2014
+p96
+aVthe law that says that entropy increases in the universe,
+p97
+aVor in some isolated bit of the universe.
+p98
+aa(lp99
+VThe reason why entropy increases
+p100
+aVis simply because there are many more ways
+p101
+aVto be high entropy than to be low entropy.
+p102
+aVThat's a wonderful insight,
+p103
+aVbut it leaves something out.
+p104
+aVThis insight that entropy increases, by the way,
+p105
+aVis what's behind what we call the arrow of time,
+p106
+aVthe difference between the past and the future.
+p107
+aVEvery difference that there is
+p108
+aVbetween the past and the future
+p109
+aVis because entropy is increasing \u2014
+p110
+aVthe fact that you can remember the past, but not the future.
+p111
+aVThe fact that you are born, and then you live, and then you die,
+p112
+aValways in that order,
+p113
+aVthat's because entropy is increasing.
+p114
+aVBoltzmann explained that if you start with low entropy,
+p115
+aVit's very natural for it to increase
+p116
+aVbecause there's more ways to be high entropy.
+p117
+aVWhat he didn't explain
+p118
+aVwas why the entropy was ever low in the first place.
+p119
+aa(lp120
+VThe fact that the entropy of the universe was low
+p121
+aVwas a reflection of the fact
+p122
+aVthat the early universe was very, very smooth.
+p123
+aVWe'd like to understand that.
+p124
+aVThat's our job as cosmologists.
+p125
+aVUnfortunately, it's actually not a problem
+p126
+aVthat we've been giving enough attention to.
+p127
+aVIt's not one of the first things people would say,
+p128
+aVif you asked a modern cosmologist,
+p129
+aV"What are the problems we're trying to address?"
+p130
+aVOne of the people who did understand that this was a problem
+p131
+aVwas Richard Feynman.
+p132
+aV50 years ago, he gave a series of a bunch of different lectures.
+p133
+aVHe gave the popular lectures
+p134
+aVthat became "The Character of Physical Law."
+p135
+aVHe gave lectures to Caltech undergrads
+p136
+aVthat became "The Feynman Lectures on Physics."
+p137
+aVHe gave lectures to Caltech graduate students
+p138
+aVthat became "The Feynman Lectures on Gravitation."
+p139
+aVIn every one of these books, every one of these sets of lectures,
+p140
+aVhe emphasized this puzzle:
+p141
+aVWhy did the early universe have such a small entropy?
+p142
+aa(lp143
+VSo he says \u2014 I'm not going to do the accent \u2014
+p144
+aVhe says, "For some reason, the universe, at one time,
+p145
+aVhad a very low entropy for its energy content,
+p146
+aVand since then the entropy has increased.
+p147
+aVThe arrow of time cannot be completely understood
+p148
+aVuntil the mystery of the beginnings of the history of the universe
+p149
+aVare reduced still further
+p150
+aVfrom speculation to understanding."
+p151
+aVSo that's our job.
+p152
+aVWe want to know \u2014 this is 50 years ago, "Surely," you're thinking,
+p153
+aV"we've figured it out by now."
+p154
+aVIt's not true that we've figured it out by now.
+p155
+aa(lp156
+VThe reason the problem has gotten worse,
+p157
+aVrather than better,
+p158
+aVis because in 1998
+p159
+aVwe learned something crucial about the universe that we didn't know before.
+p160
+aVWe learned that it's accelerating.
+p161
+aVThe universe is not only expanding.
+p162
+aVIf you look at the galaxy, it's moving away.
+p163
+aVIf you come back a billion years later and look at it again,
+p164
+aVit will be moving away faster.
+p165
+aVIndividual galaxies are speeding away from us faster and faster
+p166
+aVso we say the universe is accelerating.
+p167
+aVUnlike the low entropy of the early universe,
+p168
+aVeven though we don't know the answer for this,
+p169
+aVwe at least have a good theory that can explain it,
+p170
+aVif that theory is right,
+p171
+aVand that's the theory of dark energy.
+p172
+aVIt's just the idea that empty space itself has energy.
+p173
+aa(lp174
+VIn every little cubic centimeter of space,
+p175
+aVwhether or not there's stuff,
+p176
+aVwhether or not there's particles, matter, radiation or whatever,
+p177
+aVthere's still energy, even in the space itself.
+p178
+aVAnd this energy, according to Einstein,
+p179
+aVexerts a push on the universe.
+p180
+aVIt is a perpetual impulse
+p181
+aVthat pushes galaxies apart from each other.
+p182
+aVBecause dark energy, unlike matter or radiation,
+p183
+aVdoes not dilute away as the universe expands.
+p184
+aVThe amount of energy in each cubic centimeter
+p185
+aVremains the same,
+p186
+aVeven as the universe gets bigger and bigger.
+p187
+aVThis has crucial implications
+p188
+aVfor what the universe is going to do in the future.
+p189
+aVFor one thing, the universe will expand forever.
+p190
+aa(lp191
+VBack when I was your age,
+p192
+aVwe didn't know what the universe was going to do.
+p193
+aVSome people thought that the universe would recollapse in the future.
+p194
+aVEinstein was fond of this idea.
+p195
+aVBut if there's dark energy, and the dark energy does not go away,
+p196
+aVthe universe is just going to keep expanding forever and ever and ever.
+p197
+aV14 billion years in the past,
+p198
+aV100 billion dog years,
+p199
+aVbut an infinite number of years into the future.
+p200
+aVMeanwhile, for all intents and purposes,
+p201
+aVspace looks finite to us.
+p202
+aVSpace may be finite or infinite,
+p203
+aVbut because the universe is accelerating,
+p204
+aVthere are parts of it we cannot see
+p205
+aVand never will see.
+p206
+aVThere's a finite region of space that we have access to,
+p207
+aVsurrounded by a horizon.
+p208
+aVSo even though time goes on forever,
+p209
+aVspace is limited to us.
+p210
+aVFinally, empty space has a temperature.
+p211
+aa(lp212
+VIn the 1970s, Stephen Hawking told us
+p213
+aVthat a black hole, even though you think it's black,
+p214
+aVit actually emits radiation
+p215
+aVwhen you take into account quantum mechanics.
+p216
+aVThe curvature of space-time around the black hole
+p217
+aVbrings to life the quantum mechanical fluctuation,
+p218
+aVand the black hole radiates.
+p219
+aVA precisely similar calculation by Hawking and Gary Gibbons
+p220
+aVshowed that if you have dark energy in empty space,
+p221
+aVthen the whole universe radiates.
+p222
+aVThe energy of empty space
+p223
+aVbrings to life quantum fluctuations.
+p224
+aVAnd so even though the universe will last forever,
+p225
+aVand ordinary matter and radiation will dilute away,
+p226
+aVthere will always be some radiation,
+p227
+aVsome thermal fluctuations,
+p228
+aVeven in empty space.
+p229
+aVSo what this means
+p230
+aVis that the universe is like a box of gas
+p231
+aVthat lasts forever.
+p232
+aVWell what is the implication of that?
+p233
+aa(lp234
+VThat implication was studied by Boltzmann back in the 19th century.
+p235
+aVHe said, well, entropy increases
+p236
+aVbecause there are many, many more ways
+p237
+aVfor the universe to be high entropy, rather than low entropy.
+p238
+aVBut that's a probabilistic statement.
+p239
+aVIt will probably increase,
+p240
+aVand the probability is enormously huge.
+p241
+aVIt's not something you have to worry about \u2014
+p242
+aVthe air in this room all gathering over one part of the room and suffocating us.
+p243
+aVIt's very, very unlikely.
+p244
+aVExcept if they locked the doors
+p245
+aVand kept us here literally forever,
+p246
+aVthat would happen.
+p247
+aVEverything that is allowed,
+p248
+aVevery configuration that is allowed to be obtained by the molecules in this room,
+p249
+aVwould eventually be obtained.
+p250
+aa(lp251
+VSo Boltzmann says, look, you could start with a universe
+p252
+aVthat was in thermal equilibrium.
+p253
+aVHe didn't know about the Big Bang. He didn't know about the expansion of the universe.
+p254
+aVHe thought that space and time were explained by Isaac Newton \u2014
+p255
+aVthey were absolute; they just stuck there forever.
+p256
+aVSo his idea of a natural universe
+p257
+aVwas one in which the air molecules were just spread out evenly everywhere \u2014
+p258
+aVthe everything molecules.
+p259
+aVBut if you're Boltzmann, you know that if you wait long enough,
+p260
+aVthe random fluctuations of those molecules
+p261
+aVwill occasionally bring them
+p262
+aVinto lower entropy configurations.
+p263
+aVAnd then, of course, in the natural course of things,
+p264
+aVthey will expand back.
+p265
+aVSo it's not that entropy must always increase \u2014
+p266
+aVyou can get fluctuations into lower entropy,
+p267
+aVmore organized situations.
+p268
+aa(lp269
+VWell if that's true,
+p270
+aVBoltzmann then goes onto invent
+p271
+aVtwo very modern-sounding ideas \u2014
+p272
+aVthe multiverse and the anthropic principle.
+p273
+aVHe says, the problem with thermal equilibrium
+p274
+aVis that we can't live there.
+p275
+aVRemember, life itself depends on the arrow of time.
+p276
+aVWe would not be able to process information,
+p277
+aVmetabolize, walk and talk,
+p278
+aVif we lived in thermal equilibrium.
+p279
+aVSo if you imagine a very, very big universe,
+p280
+aVan infinitely big universe,
+p281
+aVwith randomly bumping into each other particles,
+p282
+aVthere will occasionally be small fluctuations in the lower entropy states,
+p283
+aVand then they relax back.
+p284
+aVBut there will also be large fluctuations.
+p285
+aVOccasionally, you will make a planet
+p286
+aVor a star or a galaxy
+p287
+aVor a hundred billion galaxies.
+p288
+aVSo Boltzmann says,
+p289
+aVwe will only live in the part of the multiverse,
+p290
+aVin the part of this infinitely big set of fluctuating particles,
+p291
+aVwhere life is possible.
+p292
+aVThat's the region where entropy is low.
+p293
+aVMaybe our universe is just one of those things
+p294
+aVthat happens from time to time.
+p295
+aa(lp296
+VNow your homework assignment
+p297
+aVis to really think about this, to contemplate what it means.
+p298
+aVCarl Sagan once famously said
+p299
+aVthat "in order to make an apple pie,
+p300
+aVyou must first invent the universe."
+p301
+aVBut he was not right.
+p302
+aVIn Boltzmann's scenario, if you want to make an apple pie,
+p303
+aVyou just wait for the random motion of atoms
+p304
+aVto make you an apple pie.
+p305
+aVThat will happen much more frequently
+p306
+aVthan the random motions of atoms
+p307
+aVmaking you an apple orchard
+p308
+aVand some sugar and an oven,
+p309
+aVand then making you an apple pie.
+p310
+aVSo this scenario makes predictions.
+p311
+aVAnd the predictions are
+p312
+aVthat the fluctuations that make us are minimal.
+p313
+aVEven if you imagine that this room we are in now
+p314
+aVexists and is real and here we are,
+p315
+aVand we have, not only our memories,
+p316
+aVbut our impression that outside there's something
+p317
+aVcalled Caltech and the United States and the Milky Way Galaxy,
+p318
+aVit's much easier for all those impressions to randomly fluctuate into your brain
+p319
+aVthan for them actually to randomly fluctuate
+p320
+aVinto Caltech, the United States and the galaxy.
+p321
+aa(lp322
+VThe good news is that,
+p323
+aVtherefore, this scenario does not work; it is not right.
+p324
+aVThis scenario predicts that we should be a minimal fluctuation.
+p325
+aVEven if you left our galaxy out,
+p326
+aVyou would not get a hundred billion other galaxies.
+p327
+aVAnd Feynman also understood this.
+p328
+aVFeynman says, "From the hypothesis that the world is a fluctuation,
+p329
+aVall the predictions are that
+p330
+aVif we look at a part of the world we've never seen before,
+p331
+aVwe will find it mixed up, and not like the piece we've just looked at \u2014
+p332
+aVhigh entropy.
+p333
+aVIf our order were due to a fluctuation,
+p334
+aVwe would not expect order anywhere but where we have just noticed it.
+p335
+aVWe therefore conclude the universe is not a fluctuation."
+p336
+aVSo that's good. The question is then what is the right answer?
+p337
+aVIf the universe is not a fluctuation,
+p338
+aVwhy did the early universe have a low entropy?
+p339
+aVAnd I would love to tell you the answer, but I'm running out of time.
+p340
+aa(lp341
+V(Laughter)
+p342
+aa(lp343
+VHere is the universe that we tell you about,
+p344
+aVversus the universe that really exists.
+p345
+aVI just showed you this picture.
+p346
+aVThe universe is expanding for the last 10 billion years or so.
+p347
+aVIt's cooling off.
+p348
+aVBut we now know enough about the future of the universe
+p349
+aVto say a lot more.
+p350
+aVIf the dark energy remains around,
+p351
+aVthe stars around us will use up their nuclear fuel, they will stop burning.
+p352
+aVThey will fall into black holes.
+p353
+aVWe will live in a universe
+p354
+aVwith nothing in it but black holes.
+p355
+aVThat universe will last 10 to the 100 years \u2014
+p356
+aVa lot longer than our little universe has lived.
+p357
+aVThe future is much longer than the past.
+p358
+aVBut even black holes don't last forever.
+p359
+aVThey will evaporate,
+p360
+aVand we will be left with nothing but empty space.
+p361
+aVThat empty space lasts essentially forever.
+p362
+aVHowever, you notice, since empty space gives off radiation,
+p363
+aVthere's actually thermal fluctuations,
+p364
+aVand it cycles around
+p365
+aVall the different possible combinations
+p366
+aVof the degrees of freedom that exist in empty space.
+p367
+aVSo even though the universe lasts forever,
+p368
+aVthere's only a finite number of things
+p369
+aVthat can possibly happen in the universe.
+p370
+aVThey all happen over a period of time
+p371
+aVequal to 10 to the 10 to the 120 years.
+p372
+aa(lp373
+VSo here's two questions for you.
+p374
+aVNumber one: If the universe lasts for 10 to the 10 to the 120 years,
+p375
+aVwhy are we born
+p376
+aVin the first 14 billion years of it,
+p377
+aVin the warm, comfortable afterglow of the Big Bang?
+p378
+aVWhy aren't we in empty space?
+p379
+aVYou might say, "Well there's nothing there to be living,"
+p380
+aVbut that's not right.
+p381
+aVYou could be a random fluctuation out of the nothingness.
+p382
+aVWhy aren't you?
+p383
+aVMore homework assignment for you.
+p384
+aa(lp385
+VSo like I said, I don't actually know the answer.
+p386
+aVI'm going to give you my favorite scenario.
+p387
+aVEither it's just like that. There is no explanation.
+p388
+aVThis is a brute fact about the universe
+p389
+aVthat you should learn to accept and stop asking questions.
+p390
+aVOr maybe the Big Bang
+p391
+aVis not the beginning of the universe.
+p392
+aVAn egg, an unbroken egg, is a low entropy configuration,
+p393
+aVand yet, when we open our refrigerator,
+p394
+aVwe do not go, "Hah, how surprising to find
+p395
+aVthis low entropy configuration in our refrigerator."
+p396
+aVThat's because an egg is not a closed system;
+p397
+aVit comes out of a chicken.
+p398
+aVMaybe the universe comes out of a universal chicken.
+p399
+aVMaybe there is something that naturally,
+p400
+aVthrough the growth of the laws of physics,
+p401
+aVgives rise to universe like ours
+p402
+aVin low entropy configurations.
+p403
+aVIf that's true, it would happen more than once;
+p404
+aVwe would be part of a much bigger multiverse.
+p405
+aVThat's my favorite scenario.
+p406
+aa(lp407
+VSo the organizers asked me to end with a bold speculation.
+p408
+aVMy bold speculation
+p409
+aVis that I will be absolutely vindicated by history.
+p410
+aVAnd 50 years from now,
+p411
+aVall of my current wild ideas will be accepted as truths
+p412
+aVby the scientific and external communities.
+p413
+aVWe will all believe that our little universe
+p414
+aVis just a small part of a much larger multiverse.
+p415
+aVAnd even better, we will understand what happened at the Big Bang
+p416
+aVin terms of a theory
+p417
+aVthat we will be able to compare to observations.
+p418
+aVThis is a prediction. I might be wrong.
+p419
+aVBut we've been thinking as a human race
+p420
+aVabout what the universe was like,
+p421
+aVwhy it came to be in the way it did for many, many years.
+p422
+aVIt's exciting to think we may finally know the answer someday.
+p423
+aa(lp424
+VThank you.
+p425
+aa(lp426
+V(Applause)
+p427
+aasS'id'
+p428
+I1139
+sS'title'
+p429
+VDistant time and the hint of a multiverse
+p430
+s.

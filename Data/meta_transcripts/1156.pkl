@@ -1,0 +1,24 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+V(Music)
+p4
+aa(lp5
+V(Applause)
+p6
+aa(lp7
+V(Music)
+p8
+aa(lp9
+V(Applause)
+p10
+aasS'id'
+p11
+I1156
+sS'title'
+p12
+VOn violin and cello, "Passacaglia"
+p13
+s.

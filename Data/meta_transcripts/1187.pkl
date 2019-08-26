@@ -1,0 +1,217 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VGood morning everybody.
+p4
+aa(lp5
+VI work with really amazing,
+p6
+aVlittle, itty-bitty creatures called cells.
+p7
+aVAnd let me tell you what it's like
+p8
+aVto grow these cells in the lab.
+p9
+aVI work in a lab where we take cells out of their native environment.
+p10
+aVWe plate them into dishes
+p11
+aVthat we sometimes call petri dishes.
+p12
+aVAnd we feed them \u2014 sterilely of course \u2014
+p13
+aVwith what we call cell culture media \u2014 which is like their food \u2014
+p14
+aVand we grow them in incubators.
+p15
+aa(lp16
+VWhy do I do this?
+p17
+aVWe observe the cells in a plate,
+p18
+aVand they're just on the surface.
+p19
+aVBut what we're really trying to do in my lab
+p20
+aVis to engineer tissues out of them.
+p21
+aVWhat does that even mean?
+p22
+aVWell it means growing an actual heart,
+p23
+aVlet's say,
+p24
+aVor grow a piece of bone
+p25
+aVthat can be put into the body.
+p26
+aVNot only that, but they can also be used for disease models.
+p27
+aVAnd for this purpose, traditional cell culture techniques
+p28
+aVjust really aren't enough.
+p29
+aVThe cells are kind of homesick;
+p30
+aVthe dish doesn't feel like their home.
+p31
+aVAnd so we need to do better at copying their natural environment
+p32
+aVto get them to thrive.
+p33
+aVWe call this the biomimetic paradigm \u2014
+p34
+aVcopying nature in the lab.
+p35
+aa(lp36
+VLet's take the example of the heart,
+p37
+aVthe topic of a lot of my research.
+p38
+aVWhat makes the heart unique?
+p39
+aVWell, the heart beats,
+p40
+aVrhythmically, tirelessly, faithfully.
+p41
+aVWe copy this in the lab
+p42
+aVby outfitting cell culture systems with electrodes.
+p43
+aVThese electrodes act like mini pacemakers
+p44
+aVto get the cells to contract in the lab.
+p45
+aVWhat else do we know about the heart?
+p46
+aVWell, heart cells are pretty greedy.
+p47
+aVNature feeds the heart cells in your body
+p48
+aVwith a very, very dense blood supply.
+p49
+aVIn the lab, we micro-pattern channels
+p50
+aVin the biomaterials
+p51
+aVon which we grow the cells,
+p52
+aVand this allows us to flow the cell culture media, the cells' food,
+p53
+aVthrough the scaffolds where we're growing the cells \u2014
+p54
+aVa lot like what you might expect
+p55
+aVfrom a capillary bed in the heart.
+p56
+aa(lp57
+VSo this brings me to lesson number one:
+p58
+aVlife can do a lot with very little.
+p59
+aVLet's take the example of electrical stimulation.
+p60
+aVLet's see how powerful just one of these essentials can be.
+p61
+aVOn the left, we see a tiny piece of beating heart tissue
+p62
+aVthat I engineered from rat cells in the lab.
+p63
+aVIt's about the size of a mini marshmallow.
+p64
+aVAnd after one week, it's beating.
+p65
+aVYou can see it in the upper left-hand corner.
+p66
+aVBut don't worry if you can't see it so well.
+p67
+aVIt's amazing that these cells beat at all.
+p68
+aVBut what's really amazing
+p69
+aVis that the cells, when we electrically stimulate them,
+p70
+aVlike with a pacemaker,
+p71
+aVthat they beat so much more.
+p72
+aa(lp73
+VBut that brings me to lesson number two:
+p74
+aVcells do all the work.
+p75
+aVIn a sense, tissue engineers have a bit of an identity crisis here,
+p76
+aVbecause structural engineers
+p77
+aVbuild bridges and big things,
+p78
+aVcomputer engineers, computers,
+p79
+aVbut what we are doing
+p80
+aVis actually building enabling technologies for the cells themselves.
+p81
+aVWhat does this mean for us?
+p82
+aVLet's do something really simple.
+p83
+aVLet's remind ourselves
+p84
+aVthat cells are not an abstract concept.
+p85
+aVLet's remember that our cells sustain our lives
+p86
+aVin a very real way.
+p87
+aV"We are what we eat," could easily be described
+p88
+aVas, "We are what our cells eat."
+p89
+aVAnd in the case of the flora in our gut,
+p90
+aVthese cells may not even be human.
+p91
+aVBut it's also worth noting
+p92
+aVthat cells also mediate our experience of life.
+p93
+aVBehind every sound, sight, touch, taste and smell
+p94
+aVis a corresponding set of cells
+p95
+aVthat receive this information
+p96
+aVand interpret it for us.
+p97
+aVIt begs the question:
+p98
+aVshall we expand our sense of environmental stewardship
+p99
+aVto include the ecosystem of our own bodies?
+p100
+aa(lp101
+VI invite you to talk about this with me further,
+p102
+aVand in the meantime, I wish you luck.
+p103
+aVMay none of your non-cancer cells
+p104
+aVbecome endangered species.
+p105
+aa(lp106
+VThank you.
+p107
+aa(lp108
+V(Applause)
+p109
+aasS'id'
+p110
+I1187
+sS'title'
+p111
+VCaring for engineered tissue
+p112
+s.

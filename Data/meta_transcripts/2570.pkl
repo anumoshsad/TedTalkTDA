@@ -1,0 +1,572 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VImagine that you're a pig farmer.
+p4
+aVYou live on a small farm in the Philippines.
+p5
+aVYour animals are your family's sole source of income \u2014
+p6
+aVas long as they're healthy.
+p7
+aVYou know that any day,
+p8
+aVone of your pigs can catch the flu,
+p9
+aVthe swine flu.
+p10
+aVLiving in tight quarters, one pig coughing and sneezing
+p11
+aVmay soon lead to the next pig coughing and sneezing,
+p12
+aVuntil an outbreak of swine flu has taken over your farm.
+p13
+aVIf it's a bad enough virus,
+p14
+aVthe health of your herd may be gone in the blink of an eye.
+p15
+aVIf you called in a veterinarian,
+p16
+aVhe or she would visit your farm and take samples
+p17
+aVfrom your pigs' noses and mouths.
+p18
+aVBut then they would have to drive back into the city
+p19
+aVto test those samples in their central lab.
+p20
+aVTwo weeks later, you'd hear back the results.
+p21
+aVTwo weeks may be just enough time for infection to spread
+p22
+aVand take away your way of life.
+p23
+aa(lp24
+VBut it doesn't have to be that way.
+p25
+aVToday, farmers can take those samples themselves.
+p26
+aVThey can jump right into the pen and swab their pigs' noses and mouths
+p27
+aVwith a little filter paper,
+p28
+aVplace that little filter paper in a tiny tube,
+p29
+aVand mix it with some chemicals that will extract genetic material
+p30
+aVfrom their pigs' noses and mouths.
+p31
+aVAnd without leaving their farms,
+p32
+aVthey take a drop of that genetic material
+p33
+aVand put it into a little analyzer smaller than a shoebox,
+p34
+aVprogram it to detect DNA or RNA from the swine flu virus,
+p35
+aVand within one hour get back the results, visualize the results.
+p36
+aVThis reality is possible
+p37
+aVbecause today we're living in the era of personal DNA technology.
+p38
+aVEvery one of us can actually test DNA ourselves.
+p39
+aa(lp40
+VDNA is the fundamental molecule the carries genetic instructions
+p41
+aVthat help build the living world.
+p42
+aVHumans have DNA.
+p43
+aVPigs have DNA.
+p44
+aVEven bacteria and some viruses have DNA too.
+p45
+aVThe genetic instructions encoded in DNA inform how our bodies develop,
+p46
+aVgrow, function.
+p47
+aVAnd in many cases, that same information can trigger disease.
+p48
+aVYour genetic information
+p49
+aVis strung into a long and twisted molecule, the DNA double helix,
+p50
+aVthat has over three billion letters,
+p51
+aVbeginning to end.
+p52
+aVBut the lines that carry meaningful information
+p53
+aVare usually very short \u2014
+p54
+aVa few dozen to several thousand letters long.
+p55
+aVSo when we're looking to answer a question based on DNA,
+p56
+aVwe actually don't need to read
+p57
+aVall those three billion letters, typically.
+p58
+aVThat would be like getting hungry at night
+p59
+aVand having to flip through the whole phone book
+p60
+aVfrom cover to cover,
+p61
+aVpausing at every line,
+p62
+aVjust to find the nearest pizza joint.
+p63
+aa(lp64
+V(Laughter)
+p65
+aa(lp66
+VLuckily, three decades ago,
+p67
+aVhumans started to invent tools
+p68
+aVthat can find any specific line of genetic information.
+p69
+aVThese DNA machines are wonderful.
+p70
+aVThey can find any line in DNA.
+p71
+aVBut once they find it,
+p72
+aVthat DNA is still tiny, and surrounded by so much other DNA,
+p73
+aVthat what these machines then do is copy the target gene,
+p74
+aVand one copy piles on top of another,
+p75
+aVmillions and millions and millions of copies,
+p76
+aVuntil that gene stands out against the rest;
+p77
+aVuntil we can visualize it,
+p78
+aVinterpret it, read it, understand it,
+p79
+aVuntil we can answer:
+p80
+aVDoes my pig have the flu?
+p81
+aVOr other questions buried in our own DNA:
+p82
+aVAm I at risk of cancer?
+p83
+aVAm I of Irish descent?
+p84
+aVIs that child my son?
+p85
+aa(lp86
+V(Laughter)
+p87
+aa(lp88
+VThis ability to make copies of DNA, as simple as it sounds,
+p89
+aVhas transformed our world.
+p90
+aVScientists use it every day to detect and address disease,
+p91
+aVto create innovative medicines,
+p92
+aVto modify foods,
+p93
+aVto assess whether our food is safe to eat
+p94
+aVor whether it's contaminated with deadly bacteria.
+p95
+aVEven judges use the output of these machines in court
+p96
+aVto decide whether someone is innocent or guilty based on DNA evidence.
+p97
+aVThe inventor of this DNA-copying technique
+p98
+aVwas awarded the Nobel Prize in Chemistry in 1993.
+p99
+aVBut for 30 years,
+p100
+aVthe power of genetic analysis has been confined to the ivory tower,
+p101
+aVor bigwig PhD scientist work.
+p102
+aVWell, several companies around the world
+p103
+aVare working on making this same technology accessible
+p104
+aVto everyday people like the pig farmer,
+p105
+aVlike you.
+p106
+aa(lp107
+VI cofounded one of these companies.
+p108
+aVThree years ago,
+p109
+aVtogether with a fellow biologist and friend of mine,
+p110
+aVZeke Alvarez Saavedra,
+p111
+aVwe decided to make personal DNA machines
+p112
+aVthat anyone could use.
+p113
+aVOur goal was to bring DNA science to more people in new places.
+p114
+aVWe started working in our basements.
+p115
+aVWe had a simple question:
+p116
+aVWhat could the world look like
+p117
+aVif everyone could analyze DNA?
+p118
+aVWe were curious,
+p119
+aVas curious as you would have been if I had shown you this picture in 1980.
+p120
+aa(lp121
+V(Laughter)
+p122
+aa(lp123
+VYou would have thought, "Wow!
+p124
+aVI can now call my Aunt Glenda from the car
+p125
+aVand wish her a happy birthday.
+p126
+aVI can call anyone, anytime.
+p127
+aVThis is the future!"
+p128
+aVLittle did you know,
+p129
+aVyou would tap on that phone to make dinner reservations
+p130
+aVfor you and Aunt Glenda to celebrate together.
+p131
+aVWith another tap, you'd be ordering her gift.
+p132
+aVAnd yet one more tap,
+p133
+aVand you'd be "liking" Auntie Glenda on Facebook.
+p134
+aVAnd all of this, while sitting on the toilet.
+p135
+aa(lp136
+V(Laughter)
+p137
+aa(lp138
+VIt is notoriously hard to predict where new technology might take us.
+p139
+aVAnd the same is true for personal DNA technology today.
+p140
+aa(lp141
+VFor example, I could never have imagined
+p142
+aVthat a truffle farmer, of all people,
+p143
+aVwould use personal DNA machines.
+p144
+aVDr. Paul Thomas grows truffles for a living.
+p145
+aVWe see him pictured here,
+p146
+aVholding the first UK-cultivated truffle in his hands, on one of his farms.
+p147
+aVTruffles are this delicacy
+p148
+aVthat stems from a fungus growing on the roots of living trees.
+p149
+aVAnd it's a rare fungus.
+p150
+aVSome species may fetch 3,000, 7,000, or more dollars per kilogram.
+p151
+aVI learned from Paul
+p152
+aVthat the stakes for a truffle farmer can be really high.
+p153
+aVWhen he sources new truffles to grow on his farms,
+p154
+aVhe's exposed to the threat of knockoffs \u2014
+p155
+aVtruffles that look and feel like the real thing,
+p156
+aVbut they're of lower quality.
+p157
+aVBut even to a trained eye like Paul's,
+p158
+aVeven when looked at under a microscope,
+p159
+aVthese truffles can pass for authentic.
+p160
+aVSo in order to grow the highest quality truffles,
+p161
+aVthe ones that chefs all over the world will fight over,
+p162
+aVPaul has to use DNA analysis.
+p163
+aVIsn't that mind-blowing?
+p164
+aVI bet you will never look at that black truffle risotto again
+p165
+aVwithout thinking of its genes.
+p166
+aa(lp167
+V(Laughter)
+p168
+aa(lp169
+VBut personal DNA machines can also save human lives.
+p170
+aVProfessor Ian Goodfellow is a virologist at the University of Cambridge.
+p171
+aVLast year he traveled to Sierra Leone.
+p172
+aVWhen the Ebola outbreak broke out in Western Africa,
+p173
+aVhe quickly realized that doctors there lacked the basic tools
+p174
+aVto detect and combat disease.
+p175
+aVResults could take up to a week to come back \u2014
+p176
+aVthat's way too long for the patients and the families who are suffering.
+p177
+aVIan decided to move his lab into Makeni, Sierra Leone.
+p178
+aVHere we see Ian Goodfellow
+p179
+aVmoving over 10 tons of equipment into a pop-up tent
+p180
+aVthat he would equip to detect and diagnose the virus
+p181
+aVand sequence it within 24 hours.
+p182
+aVBut here's a surprise:
+p183
+aVthe same equipment that Ian could use at his lab in the UK
+p184
+aVto sequence and diagnose Ebola,
+p185
+aVjust wouldn't work under these conditions.
+p186
+aVWe're talking 35 Celsius heat and over 90 percent humidity here.
+p187
+aVBut instead, Ian could use personal DNA machines
+p188
+aVsmall enough to be placed in front of the air-conditioning unit
+p189
+aVto keep sequencing the virus
+p190
+aVand keep saving lives.
+p191
+aa(lp192
+VThis may seem like an extreme place for DNA analysis,
+p193
+aVbut let's move on to an even more extreme environment:
+p194
+aVouter space.
+p195
+aVLet's talk about DNA analysis in space.
+p196
+aVWhen astronauts live aboard the International Space Station,
+p197
+aVthey're orbiting the planet 250 miles high.
+p198
+aVThey're traveling at 17,000 miles per hour.
+p199
+aVPicture that \u2014
+p200
+aVyou're seeing 15 sunsets and sunrises every day.
+p201
+aVYou're also living in microgravity,
+p202
+aVfloating.
+p203
+aVAnd under these conditions, our bodies can do funky things.
+p204
+aVOne of these things is that our immune systems get suppressed,
+p205
+aVmaking astronauts more prone to infection.
+p206
+aa(lp207
+VA 16-year-old girl,
+p208
+aVa high school student from New York, Anna-Sophia Boguraev,
+p209
+aVwondered whether changes to the DNA of astronauts
+p210
+aVcould be related to this immune suppression,
+p211
+aVand through a science competition called "Genes In Space,"
+p212
+aVAnna-Sophia designed an experiment to test this hypothesis
+p213
+aVusing a personal DNA machine aboard the International Space Station.
+p214
+aVHere we see Anna-Sophia on April 8, 2016, in Cape Canaveral,
+p215
+aVwatching her experiment launch to the International Space Station.
+p216
+aVThat cloud of smoke is the rocket
+p217
+aVthat brought Anna-Sophia's experiment to the International Space Station,
+p218
+aVwhere, three days later,
+p219
+aVastronaut Tim Peake carried out her experiment \u2014
+p220
+aVin microgravity.
+p221
+aVPersonal DNA machines are now aboard the International Space Station,
+p222
+aVwhere they can help monitor living conditions
+p223
+aVand protect the lives of astronauts.
+p224
+aa(lp225
+VA 16-year-old designing a DNA experiment
+p226
+aVto protect the lives of astronauts
+p227
+aVmay seem like a rarity, the mark of a child genius.
+p228
+aVWell, to me, it signals something bigger:
+p229
+aVthat DNA technology is finally within the reach of every one of you.
+p230
+aa(lp231
+VA few years ago,
+p232
+aVa college student armed with a personal computer
+p233
+aVcould code an app,
+p234
+aVan app that is now a social network with more than one billion users.
+p235
+aVCould we be moving into a world
+p236
+aVof one personal DNA machine in every home?
+p237
+aa(lp238
+VI know families who are already living in this reality.
+p239
+aVThe Daniels family, for example,
+p240
+aVset up a DNA lab in the basement of their suburban Chicago home.
+p241
+aVThis is not a family made of PhD scientists.
+p242
+aVThis is a family like any other.
+p243
+aVThey just like to spend time together doing fun, creative things.
+p244
+aVBy day, Brian is an executive at a private equity firm.
+p245
+aVAt night and on weekends, he experiments with DNA
+p246
+aValongside his kids, ages seven and nine,
+p247
+aVas a way to explore the living world.
+p248
+aVLast time I called them,
+p249
+aVthey were checking out homegrown produce from the backyard garden.
+p250
+aVThey were testing tomatoes that they had picked,
+p251
+aVtaking the flesh of their skin, putting it in a test tube,
+p252
+aVmixing it with chemicals to extract DNA
+p253
+aVand then using their home DNA copier
+p254
+aVto test those tomatoes for genetically engineered traits.
+p255
+aa(lp256
+VFor the Daniels family,
+p257
+aVthe personal DNA machine is like the chemistry set
+p258
+aVfor the 21st century.
+p259
+aVMost of us may not yet be diagnosing genetic conditions
+p260
+aVin our kitchen sinks
+p261
+aVor doing at-home paternity testing.
+p262
+aa(lp263
+V(Laughter)
+p264
+aa(lp265
+VBut we've definitely reached a point in history
+p266
+aVwhere every one of you could actually get hands-on with DNA
+p267
+aVin your kitchen.
+p268
+aVYou could copy, paste and analyze DNA
+p269
+aVand extract meaningful information from it.
+p270
+aVAnd it's at times like this that profound transformation
+p271
+aVis bound to happen;
+p272
+aVmoments when a transformative, powerful technology
+p273
+aVthat was before limited to a select few in the ivory tower,
+p274
+aVfinally becomes within the reach of every one of us,
+p275
+aVfrom farmers to schoolchildren.
+p276
+aVThink about the moment
+p277
+aVwhen phones stopped being plugged into the wall by cords,
+p278
+aVor when computers left the mainframe
+p279
+aVand entered your home or your office.
+p280
+aa(lp281
+VThe ripples of the personal DNA revolution
+p282
+aVmay be hard to predict,
+p283
+aVbut one thing is certain:
+p284
+aVrevolutions don't go backwards,
+p285
+aVand DNA technology is already spreading faster than our imagination.
+p286
+aa(lp287
+VSo if you're curious,
+p288
+aVget up close and personal with DNA \u2014 today.
+p289
+aVIt is in our DNA to be curious.
+p290
+aa(lp291
+V(Laughter)
+p292
+aa(lp293
+VThank you.
+p294
+aa(lp295
+V(Applause)
+p296
+aasS'id'
+p297
+I2570
+sS'title'
+p298
+VThe era of personal DNA testing is here
+p299
+s.

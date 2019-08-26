@@ -1,0 +1,1064 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VDo you worry about what is going to kill you?
+p4
+aVHeart disease, cancer,
+p5
+aVa car accident?
+p6
+aVMost of us worry about things we can't control,
+p7
+aVlike war, terrorism,
+p8
+aVthe tragic earthquake that just occurred in Haiti.
+p9
+aVBut what really threatens humanity?
+p10
+aVA few years ago, Professor Vaclav Smil
+p11
+aVtried to calculate the probability
+p12
+aVof sudden disasters
+p13
+aVlarge enough to change history.
+p14
+aVHe called these,
+p15
+aV"massively fatal discontinuities,"
+p16
+aVmeaning that they could kill
+p17
+aVup to 100 million people
+p18
+aVin the next 50 years.
+p19
+aVHe looked at the odds of another world war,
+p20
+aVof a massive volcanic eruption,
+p21
+aVeven of an asteroid hitting the Earth.
+p22
+aVBut he placed the likelihood of one such event
+p23
+aVabove all others
+p24
+aVat close to 100 percent,
+p25
+aVand that is a severe flu pandemic.
+p26
+aVNow, you might think of flu
+p27
+aVas just a really bad cold,
+p28
+aVbut it can be a death sentence.
+p29
+aVEvery year, 36,000 people in the United States
+p30
+aVdie of seasonal flu.
+p31
+aVIn the developing world, the data is much sketchier
+p32
+aVbut the death toll is almost
+p33
+aVcertainly higher.
+p34
+aVYou know, the problem is if
+p35
+aVthis virus occasionally mutates
+p36
+aVso dramatically,
+p37
+aVit essentially is a new virus
+p38
+aVand then we get a pandemic.
+p39
+aa(lp40
+VIn 1918, a new virus appeared
+p41
+aVthat killed some 50 to 100 million people.
+p42
+aVIt spread like wildfire
+p43
+aVand some died within hours of developing symptoms.
+p44
+aVAre we safer today?
+p45
+aVWell, we seem to have dodged
+p46
+aVthe deadly pandemic this year
+p47
+aVthat most of us feared,
+p48
+aVbut this threat could reappear at any time.
+p49
+aVThe good news is that
+p50
+aVwe're at a moment in time
+p51
+aVwhen science, technology, globalization is converging
+p52
+aVto create an unprecedented possibility:
+p53
+aVthe possibility to make history
+p54
+aVby preventing infectious diseases
+p55
+aVthat still account for one-fifth of all deaths
+p56
+aVand countless misery on Earth.
+p57
+aVWe can do this.
+p58
+aVWe're already preventing millions of deaths
+p59
+aVwith existing vaccines,
+p60
+aVand if we get these to more people,
+p61
+aVwe can certainly save more lives.
+p62
+aVBut with new or better vaccines
+p63
+aVfor malaria, TB, HIV,
+p64
+aVpneumonia, diarrhea, flu,
+p65
+aVwe could end suffering
+p66
+aVthat has been on the Earth since the beginning of time.
+p67
+aa(lp68
+VSo, I'm here to trumpet vaccines for you.
+p69
+aVBut first, I have to explain why they're important
+p70
+aVbecause vaccines, the power of them,
+p71
+aVis really like a whisper.
+p72
+aVWhen they work, they can make history,
+p73
+aVbut after a while
+p74
+aVyou can barely hear them.
+p75
+aVNow, some of us are old enough
+p76
+aVto have a small, circular scar on our arms
+p77
+aVfrom an inoculation we received as children.
+p78
+aVBut when was the last time you worried about smallpox,
+p79
+aVa disease that killed half a billion people last century
+p80
+aVand no longer is with us?
+p81
+aVOr polio? How many of you remember the iron lung?
+p82
+aVWe don't see scenes like this anymore
+p83
+aVbecause of vaccines.
+p84
+aa(lp85
+VNow, it's interesting
+p86
+aVbecause there are 30-odd diseases
+p87
+aVthat can be treated with vaccines now,
+p88
+aVbut we're still threatened by things like HIV and flu.
+p89
+aVWhy is that?
+p90
+aVWell, here's the dirty little secret.
+p91
+aVUntil recently, we haven't had to know
+p92
+aVexactly how a vaccine worked.
+p93
+aVWe knew they worked through old-fashioned trial and error.
+p94
+aVYou took a pathogen, you modified it,
+p95
+aVyou injected it into a person or an animal
+p96
+aVand you saw what happened.
+p97
+aVThis worked well for most pathogens,
+p98
+aVsomewhat well for crafty bugs like flu,
+p99
+aVbut not at all for HIV,
+p100
+aVfor which humans have no natural immunity.
+p101
+aa(lp102
+VSo let's explore how vaccines work.
+p103
+aVThey basically create a cache
+p104
+aVof weapons for your immune system
+p105
+aVwhich you can deploy when needed.
+p106
+aVNow, when you get a viral infection,
+p107
+aVwhat normally happens is it takes days or weeks
+p108
+aVfor your body to fight back
+p109
+aVat full strength,
+p110
+aVand that might be too late.
+p111
+aVWhen you're pre-immunized,
+p112
+aVwhat happens is you have forces in your body
+p113
+aVpre-trained to recognize
+p114
+aVand defeat specific foes.
+p115
+aVSo that's really how vaccines work.
+p116
+aVNow, let's take a look at a video
+p117
+aVthat we're debuting at TED, for the first time,
+p118
+aVon how an effective HIV vaccine might work.
+p119
+aa(lp120
+V(Music)
+p121
+aa(lp122
+VNarrator: A vaccine trains the body in advance
+p123
+aVhow to recognize and neutralize
+p124
+aVa specific invader.
+p125
+aVAfter HIV penetrates the body's mucosal barriers,
+p126
+aVit infects immune cells to replicate.
+p127
+aVThe invader draws the attention
+p128
+aVof the immune system's front-line troops.
+p129
+aVDendritic cells, or macrophages,
+p130
+aVcapture the virus and display pieces of it.
+p131
+aVMemory cells generated by the HIV vaccine
+p132
+aVare activated when they learn
+p133
+aVHIV is present from the front-line troops.
+p134
+aVThese memory cells immediately deploy
+p135
+aVthe exact weapons needed.
+p136
+aVMemory B cells turn into plasma cells,
+p137
+aVwhich produce wave after wave
+p138
+aVof the specific antibodies
+p139
+aVthat latch onto HIV
+p140
+aVto prevent it from infecting cells,
+p141
+aVwhile squadrons of killer T cells
+p142
+aVseek out and destroy cells
+p143
+aVthat are already HIV infected.
+p144
+aVThe virus is defeated.
+p145
+aVWithout a vaccine,
+p146
+aVthese responses would have taken more than a week.
+p147
+aVBy that time, the battle against HIV
+p148
+aVwould already have been lost.
+p149
+aa(lp150
+VSeth Berkley: Really cool video, isn't it?
+p151
+aVThe antibodies you just saw in this video,
+p152
+aVin action, are the ones that make most vaccines work.
+p153
+aVSo the real question then is:
+p154
+aVHow do we ensure that your body makes
+p155
+aVthe exact ones that we need to protect
+p156
+aVagainst flu and HIV?
+p157
+aVThe principal challenge for both of these viruses
+p158
+aVis that they're always changing.
+p159
+aVSo let's take a look at the flu virus.
+p160
+aVIn this rendering of the flu virus,
+p161
+aVthese different colored spikes are what it uses to infect you.
+p162
+aVAnd also, what the antibodies use is a handle
+p163
+aVto essentially grab and neutralize the virus.
+p164
+aVWhen these mutate, they change their shape,
+p165
+aVand the antibodies don't know what they're looking at anymore.
+p166
+aVSo that's why every year
+p167
+aVyou can catch a slightly different strain of flu.
+p168
+aVIt's also why in the spring,
+p169
+aVwe have to make a best guess
+p170
+aVat which three strains are going to prevail the next year,
+p171
+aVput those into a single vaccine
+p172
+aVand rush those into production for the fall.
+p173
+aa(lp174
+VEven worse,
+p175
+aVthe most common influenza \u2014 influenza A \u2014
+p176
+aValso infects animals
+p177
+aVthat live in close proximity to humans,
+p178
+aVand they can recombine
+p179
+aVin those particular animals.
+p180
+aVIn addition, wild aquatic birds
+p181
+aVcarry all known strains
+p182
+aVof influenza.
+p183
+aVSo, you've got this situation:
+p184
+aVIn 2003,
+p185
+aVwe had an H5N1 virus
+p186
+aVthat jumped from birds into humans
+p187
+aVin a few isolated cases
+p188
+aVwith an apparent mortality rate of 70 percent.
+p189
+aVNow luckily, that particular virus,
+p190
+aValthough very scary at the time,
+p191
+aVdid not transmit from person to person
+p192
+aVvery easily.
+p193
+aVThis year's H1N1 threat
+p194
+aVwas actually a human, avian, swine mixture
+p195
+aVthat arose in Mexico.
+p196
+aVIt was easily transmitted,
+p197
+aVbut, luckily, was pretty mild.
+p198
+aVAnd so, in a sense,
+p199
+aVour luck is holding out,
+p200
+aVbut you know, another wild bird could fly over at anytime.
+p201
+aa(lp202
+VNow let's take a look at HIV.
+p203
+aVAs variable as flu is,
+p204
+aVHIV makes flu
+p205
+aVlook like the Rock of Gibraltar.
+p206
+aVThe virus that causes AIDS
+p207
+aVis the trickiest pathogen
+p208
+aVscientists have ever confronted.
+p209
+aVIt mutates furiously,
+p210
+aVit has decoys to evade the immune system,
+p211
+aVit attacks the very cells that are trying to fight it
+p212
+aVand it quickly hides itself
+p213
+aVin your genome.
+p214
+aVHere's a slide looking at
+p215
+aVthe genetic variation of flu
+p216
+aVand comparing that to HIV,
+p217
+aVa much wilder target.
+p218
+aVIn the video a moment ago,
+p219
+aVyou saw fleets of new viruses launching from infected cells.
+p220
+aVNow realize that in a recently infected person,
+p221
+aVthere are millions of these ships;
+p222
+aVeach one is just slightly different.
+p223
+aVFinding a weapon that recognizes
+p224
+aVand sinks all of them
+p225
+aVmakes the job that much harder.
+p226
+aa(lp227
+VNow, in the 27 years since HIV
+p228
+aVwas identified as the cause of AIDS,
+p229
+aVwe've developed more drugs to treat HIV
+p230
+aVthan all other viruses put together.
+p231
+aVThese drugs aren't cures,
+p232
+aVbut they represent a huge triumph of science
+p233
+aVbecause they take away the automatic death sentence
+p234
+aVfrom a diagnosis of HIV,
+p235
+aVat least for those who can access them.
+p236
+aVThe vaccine effort though is really quite different.
+p237
+aVLarge companies moved away from it
+p238
+aVbecause they thought the science was so difficult
+p239
+aVand vaccines were seen as poor business.
+p240
+aVMany thought that it was just impossible to make an AIDS vaccine,
+p241
+aVbut today, evidence tells us otherwise.
+p242
+aa(lp243
+VIn September,
+p244
+aVwe had surprising but exciting findings
+p245
+aVfrom a clinical trial that took place in Thailand.
+p246
+aVFor the first time, we saw an AIDS vaccine work in humans \u2014
+p247
+aValbeit, quite modestly \u2014
+p248
+aVand that particular vaccine was made
+p249
+aValmost a decade ago.
+p250
+aVNewer concepts and early testing now
+p251
+aVshow even greater promise in the best of our animal models.
+p252
+aVBut in the past few months, researchers have also isolated
+p253
+aVseveral new broadly neutralizing antibodies
+p254
+aVfrom the blood of an HIV infected individual.
+p255
+aVNow, what does this mean?
+p256
+aVWe saw earlier that HIV
+p257
+aVis highly variable,
+p258
+aVthat a broad neutralizing antibody
+p259
+aVlatches on and disables
+p260
+aVmultiple variations of the virus.
+p261
+aVIf you take these and you put them
+p262
+aVin the best of our monkey models,
+p263
+aVthey provide full protection from infection.
+p264
+aVIn addition, these researchers found
+p265
+aVa new site on HIV
+p266
+aVwhere the antibodies can grab onto,
+p267
+aVand what's so special about this spot
+p268
+aVis that it changes very little
+p269
+aVas the virus mutates.
+p270
+aVIt's like, as many times
+p271
+aVas the virus changes its clothes,
+p272
+aVit's still wearing the same socks,
+p273
+aVand now our job is to make sure
+p274
+aVwe get the body to really hate those socks.
+p275
+aa(lp276
+VSo what we've got is a situation.
+p277
+aVThe Thai results tell us
+p278
+aVwe can make an AIDS vaccine,
+p279
+aVand the antibody findings
+p280
+aVtell us how we might do that.
+p281
+aVThis strategy, working backwards
+p282
+aVfrom an antibody to create a vaccine candidate,
+p283
+aVhas never been done before in vaccine research.
+p284
+aVIt's called retro-vaccinology,
+p285
+aVand its implications extend
+p286
+aVway beyond that of just HIV.
+p287
+aVSo think of it this way.
+p288
+aVWe've got these new antibodies we've identified,
+p289
+aVand we know that they latch onto many, many variations of the virus.
+p290
+aVWe know that they have to latch onto a specific part,
+p291
+aVso if we can figure out the precise structure of that part,
+p292
+aVpresent that through a vaccine,
+p293
+aVwhat we hope is we can prompt
+p294
+aVyour immune system to make these matching antibodies.
+p295
+aVAnd that would create
+p296
+aVa universal HIV vaccine.
+p297
+aVNow, it sounds easier than it is
+p298
+aVbecause the structure actually looks more like
+p299
+aVthis blue antibody diagram
+p300
+aVattached to its yellow binding site,
+p301
+aVand as you can imagine, these three-dimensional structures
+p302
+aVare much harder to work on.
+p303
+aVAnd if you guys have ideas to help us solve this,
+p304
+aVwe'd love to hear about it.
+p305
+aa(lp306
+VBut, you know, the research that has occurred from HIV now
+p307
+aVhas really helped with innovation with other diseases.
+p308
+aVSo for instance, a biotechnology company
+p309
+aVhas now found broadly neutralizing
+p310
+aVantibodies to influenza,
+p311
+aVas well as a new antibody target on the flu virus.
+p312
+aVThey're currently making a cocktail \u2014
+p313
+aVan antibody cocktail \u2014 that can be used to treat
+p314
+aVsevere, overwhelming cases of flu.
+p315
+aVIn the longer term, what they can do
+p316
+aVis use these tools of retro-vaccinology
+p317
+aVto make a preventive flu vaccine.
+p318
+aVNow, retro-vaccinology is just one technique
+p319
+aVwithin the ambit of so-called rational vaccine design.
+p320
+aa(lp321
+VLet me give you another example.
+p322
+aVWe talked about before the H and N spikes
+p323
+aVon the surface of the flu virus.
+p324
+aVNotice these other, smaller protuberances.
+p325
+aVThese are largely hidden from the immune system.
+p326
+aVNow it turns out that these spots
+p327
+aValso don't change much when the virus mutates.
+p328
+aVIf you can cripple these with specific antibodies,
+p329
+aVyou could cripple all versions of the flu.
+p330
+aVSo far, animal tests indicate
+p331
+aVthat such a vaccine could prevent severe disease,
+p332
+aValthough you might get a mild case.
+p333
+aVSo if this works in humans, what we're talking about
+p334
+aVis a universal flu vaccine,
+p335
+aVone that doesn't need to change every year
+p336
+aVand would remove the threat of death.
+p337
+aVWe really could think of flu, then,
+p338
+aVas just a bad cold.
+p339
+aa(lp340
+VOf course, the best vaccine imaginable
+p341
+aVis only valuable to the extent
+p342
+aVwe get it to everyone who needs it.
+p343
+aVSo to do that, we have to combine
+p344
+aVsmart vaccine design with smart production methods
+p345
+aVand, of course, smart delivery methods.
+p346
+aVSo I want you to think back a few months ago.
+p347
+aVIn June, the World Health Organization
+p348
+aVdeclared the first global
+p349
+aVflu pandemic in 41 years.
+p350
+aVThe U.S. government promised
+p351
+aV150 million doses of vaccine
+p352
+aVby October 15th for the flu peak.
+p353
+aVVaccines were promised to developing countries.
+p354
+aVHundreds of millions of dollars were spent
+p355
+aVand flowed to accelerating vaccine manufacturing.
+p356
+aVSo what happened?
+p357
+aa(lp358
+VWell, we first figured out
+p359
+aVhow to make flu vaccines, how to produce them,
+p360
+aVin the early 1940s.
+p361
+aVIt was a slow, cumbersome process
+p362
+aVthat depended on chicken eggs,
+p363
+aVmillions of living chicken eggs.
+p364
+aVViruses only grow in living things,
+p365
+aVand so it turned out that, for flu,
+p366
+aVchicken eggs worked really well.
+p367
+aVFor most strains, you could get one to two doses
+p368
+aVof vaccine per egg.
+p369
+aVLuckily for us,
+p370
+aVwe live in an era of breathtaking
+p371
+aVbiomedical advances.
+p372
+aVSo today, we get our flu vaccines from ...
+p373
+aVchicken eggs,
+p374
+aV(Laughter)
+p375
+aVhundreds of millions of chicken eggs.
+p376
+aVAlmost nothing has changed.
+p377
+aVThe system is reliable
+p378
+aVbut the problem is you never know how well
+p379
+aVa strain is going to grow.
+p380
+aVThis year's swine flu strain
+p381
+aVgrew very poorly in early production:
+p382
+aVbasically .6 doses per egg.
+p383
+aVSo, here's an alarming thought.
+p384
+aVWhat if that wild bird flies by again?
+p385
+aVYou could see an avian strain
+p386
+aVthat would infect the poultry flocks,
+p387
+aVand then we would have no eggs for our vaccines.
+p388
+aVSo, Dan [Barber], if you want
+p389
+aVbillions of chicken pellets
+p390
+aVfor your fish farm,
+p391
+aVI know where to get them.
+p392
+aVSo right now, the world can produce
+p393
+aVabout 350 million doses
+p394
+aVof flu vaccine for the three strains,
+p395
+aVand we can up that to about 1.2 billion doses
+p396
+aVif we want to target a single variant
+p397
+aVlike swine flu.
+p398
+aVBut this assumes that our factories are humming
+p399
+aVbecause, in 2004,
+p400
+aVthe U.S. supply was cut in half
+p401
+aVby contamination at one single plant.
+p402
+aVAnd the process still takes
+p403
+aVmore than half a year.
+p404
+aa(lp405
+VSo are we better prepared
+p406
+aVthan we were in 1918?
+p407
+aVWell, with the new technologies emerging now,
+p408
+aVI hope we can say definitively, "Yes."
+p409
+aVImagine we could produce enough flu vaccine
+p410
+aVfor everyone in the entire world
+p411
+aVfor less than half of what we're currently spending
+p412
+aVnow in the United States.
+p413
+aVWith a range of new technologies, we could.
+p414
+aVHere's an example:
+p415
+aVA company I'm engaged with has found
+p416
+aVa specific piece of the H spike of flu
+p417
+aVthat sparks the immune system.
+p418
+aVIf you lop this off and attach it
+p419
+aVto the tail of a different bacterium,
+p420
+aVwhich creates a vigorous immune response,
+p421
+aVthey've created a very powerful flu fighter.
+p422
+aVThis vaccine is so small
+p423
+aVit can be grown in a common bacteria, E. coli.
+p424
+aVNow, as you know, bacteria reproduce quickly \u2014
+p425
+aVit's like making yogurt \u2014
+p426
+aVand so we could produce enough swine origin flu
+p427
+aVfor the entire world in a few factories, in a few weeks,
+p428
+aVwith no eggs,
+p429
+aVfor a fraction of the cost of current methods.
+p430
+aa(lp431
+V(Applause)
+p432
+aa(lp433
+VSo here's a comparison of several of these new vaccine technologies.
+p434
+aVAnd, aside from the radically increased production
+p435
+aVand huge cost savings \u2014
+p436
+aVfor example, the E. coli method I just talked about \u2014
+p437
+aVlook at the time saved: this would be lives saved.
+p438
+aVThe developing world,
+p439
+aVmostly left out of the current response,
+p440
+aVsees the potential of these alternate technologies
+p441
+aVand they're leapfrogging the West.
+p442
+aVIndia, Mexico and others are already
+p443
+aVmaking experimental flu vaccines,
+p444
+aVand they may be the first place
+p445
+aVwe see these vaccines in use.
+p446
+aVBecause these technologies are so efficient
+p447
+aVand relatively cheap,
+p448
+aVbillions of people can have access to lifesaving vaccines
+p449
+aVif we can figure out how to deliver them.
+p450
+aa(lp451
+VNow think of where this leads us.
+p452
+aVNew infectious diseases
+p453
+aVappear or reappear
+p454
+aVevery few years.
+p455
+aVSome day, perhaps soon,
+p456
+aVwe'll have a virus that is going to threaten all of us.
+p457
+aVWill we be quick enough to react
+p458
+aVbefore millions die?
+p459
+aVLuckily, this year's flu was relatively mild.
+p460
+aVI say, "luckily" in part
+p461
+aVbecause virtually no one in the developing world
+p462
+aVwas vaccinated.
+p463
+aVSo if we have the political and financial foresight
+p464
+aVto sustain our investments,
+p465
+aVwe will master these and new tools of vaccinology,
+p466
+aVand with these tools we can produce
+p467
+aVenough vaccine for everyone at low cost
+p468
+aVand ensure healthy productive lives.
+p469
+aVNo longer must flu have to kill half a million people a year.
+p470
+aVNo longer does AIDS
+p471
+aVneed to kill two million a year.
+p472
+aVNo longer do the poor and vulnerable
+p473
+aVneed to be threatened by infectious diseases,
+p474
+aVor indeed, anybody.
+p475
+aVInstead of having Vaclav Smil's
+p476
+aV"massively fatal discontinuity" of life,
+p477
+aVwe can ensure
+p478
+aVthe continuity of life.
+p479
+aVWhat the world needs now are these new vaccines,
+p480
+aVand we can make it happen.
+p481
+aa(lp482
+VThank you very much.
+p483
+aa(lp484
+V(Applause)
+p485
+aa(lp486
+VChris Anderson: Thank you.
+p487
+aV(Applause)
+p488
+aVThank you.
+p489
+aVSo, the science is changing.
+p490
+aVIn your mind, Seth \u2014 I mean, you must dream about this \u2014
+p491
+aVwhat is the kind of time scale
+p492
+aVon, let's start with HIV,
+p493
+aVfor a game-changing vaccine that's actually out there and usable?
+p494
+aa(lp495
+VSB: The game change can come at any time,
+p496
+aVbecause the problem we have now is
+p497
+aVwe've shown we can get a vaccine to work in humans;
+p498
+aVwe just need a better one.
+p499
+aVAnd with these types of antibodies, we know humans can make them.
+p500
+aVSo, if we can figure out how to do that,
+p501
+aVthen we have the vaccine,
+p502
+aVand what's interesting is there already is
+p503
+aVsome evidence that we're beginning to crack that problem.
+p504
+aVSo, the challenge is full speed ahead.
+p505
+aa(lp506
+VCA: In your gut, do you think it's probably going to be at least another five years?
+p507
+aa(lp508
+VSB: You know, everybody says it's 10 years,
+p509
+aVbut it's been 10 years every 10 years.
+p510
+aVSo I hate to put a timeline
+p511
+aVon scientific innovation,
+p512
+aVbut the investments that have occurred are now paying dividends.
+p513
+aa(lp514
+VCA: And that's the same with universal flu vaccine, the same kind of thing?
+p515
+aa(lp516
+VSB: I think flu is different. I think what happened with flu is
+p517
+aVwe've got a bunch \u2014 I just showed some of this \u2014
+p518
+aVa bunch of really cool and useful technologies that are ready to go now.
+p519
+aVThey look good. The problem has been that,
+p520
+aVwhat we did is we invested in traditional technologies
+p521
+aVbecause that's what we were comfortable with.
+p522
+aVYou also can use adjuvants, which are chemicals you mix.
+p523
+aVThat's what Europe is doing, so we could have diluted out
+p524
+aVour supply of flu and made more available,
+p525
+aVbut, going back to what Michael Specter said,
+p526
+aVthe anti-vaccine crowd didn't really want that to happen.
+p527
+aa(lp528
+VCA: And malaria's even further behind?
+p529
+aa(lp530
+VSB: No, malaria, there is a candidate
+p531
+aVthat actually showed efficacy in an earlier trial
+p532
+aVand is currently in phase three trials now.
+p533
+aVIt probably isn't the perfect vaccine, but it's moving along.
+p534
+aa(lp535
+VCA: Seth, most of us do work where every month,
+p536
+aVwe produce something;
+p537
+aVwe get that kind of gratification.
+p538
+aVYou've been slaving away at this for more than a decade,
+p539
+aVand I salute you and your colleagues for what you do.
+p540
+aVThe world needs people like you. Thank you.
+p541
+aa(lp542
+VSB: Thank you.
+p543
+aa(lp544
+V(Applause)
+p545
+aasS'id'
+p546
+I869
+sS'title'
+p547
+VHIV and flu -- the vaccine strategy
+p548
+s.

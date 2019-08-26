@@ -1,0 +1,209 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+V(Music)
+p4
+aa(lp5
+VThese bees are in my backyard in Berkeley, California.
+p6
+aVUntil last year, I'd never kept bees before,
+p7
+aVbut National Geographic asked me to photograph a story about them,
+p8
+aVand I decided, to be able to take compelling images,
+p9
+aVI should start keeping bees myself.
+p10
+aVAnd as you may know,
+p11
+aVbees pollinate one third of our food crops,
+p12
+aVand lately they've been having a really hard time.
+p13
+aVSo as a photographer, I wanted to explore what this problem really looks like.
+p14
+aVSo I'm going to show you what I found over the last year.
+p15
+aa(lp16
+VThis furry little creature
+p17
+aVis a fresh young bee halfway emerged from its brood cell,
+p18
+aVand bees right now are dealing with several different problems,
+p19
+aVincluding pesticides, diseases, and habitat loss,
+p20
+aVbut the single greatest threat is a parasitic mite from Asia,
+p21
+aVVarroa destructor.
+p22
+aVAnd this pinhead-sized mite crawls onto young bees
+p23
+aVand sucks their blood.
+p24
+aVThis eventually destroys a hive
+p25
+aVbecause it weakens the immune system of the bees,
+p26
+aVand it makes them more vulnerable to stress and disease.
+p27
+aa(lp28
+VNow, bees are the most sensitive
+p29
+aVwhen they're developing inside their brood cells,
+p30
+aVand I wanted to know what that process really looks like,
+p31
+aVso I teamed up with a bee lab at U.C. Davis
+p32
+aVand figured out how to raise bees in front of a camera.
+p33
+aVI'm going to show you the first 21 days of a bee's life
+p34
+aVcondensed into 60 seconds.
+p35
+aa(lp36
+VThis is a bee egg as it hatches into a larva,
+p37
+aVand those newly hatched larvae swim around their cells
+p38
+aVfeeding on this white goo that nurse bees secrete for them.
+p39
+aVThen, their head and their legs slowly differentiate
+p40
+aVas they transform into pupae.
+p41
+aVHere's that same pupation process,
+p42
+aVand you can actually see the mites running around in the cells.
+p43
+aVThen the tissue in their body reorganizes
+p44
+aVand the pigment slowly develops in their eyes.
+p45
+aVThe last step of the process is their skin shrivels up
+p46
+aVand they sprout hair.
+p47
+aV(Music)
+p48
+aa(lp49
+VSo \u2014 (Applause)
+p50
+aa(lp51
+VAs you can see halfway through that video,
+p52
+aVthe mites were running around on the baby bees,
+p53
+aVand the way that beekeepers typically manage these mites
+p54
+aVis they treat their hives with chemicals.
+p55
+aVIn the long run, that's bad news,
+p56
+aVso researchers are working on finding alternatives
+p57
+aVto control these mites.
+p58
+aa(lp59
+VThis is one of those alternatives.
+p60
+aVIt's an experimental breeding program at the USDA Bee Lab in Baton Rouge,
+p61
+aVand this queen and her attendant bees are part of that program.
+p62
+aa(lp63
+VNow, the researchers figured out
+p64
+aVthat some of the bees have a natural ability to fight mites,
+p65
+aVso they set out to breed a line of mite-resistant bees.
+p66
+aVThis is what it takes to breed bees in a lab.
+p67
+aVThe virgin queen is sedated
+p68
+aVand then artificially inseminated using this precision instrument.
+p69
+aVNow, this procedure allows the researchers
+p70
+aVto control exactly which bees are being crossed,
+p71
+aVbut there's a tradeoff in having this much control.
+p72
+aVThey succeeded in breeding mite-resistant bees,
+p73
+aVbut in that process, those bees started to lose traits
+p74
+aVlike their gentleness and their ability to store honey,
+p75
+aVso to overcome that problem,
+p76
+aVthese researchers are now collaborating with commercial beekeepers.
+p77
+aVThis is Bret Adee opening one of his 72,000 beehives.
+p78
+aVHe and his brother run the largest beekeeping operation in the world,
+p79
+aVand the USDA is integrating their mite-resistant bees into his operation
+p80
+aVwith the hope that over time,
+p81
+aVthey'll be able to select the bees that are not only mite-resistant
+p82
+aVbut also retain all of these qualities that make them useful to us.
+p83
+aa(lp84
+VAnd to say it like that
+p85
+aVmakes it sound like we're manipulating and exploiting bees,
+p86
+aVand the truth is, we've been doing that for thousands of years.
+p87
+aVWe took this wild creature and put it inside of a box,
+p88
+aVpractically domesticating it,
+p89
+aVand originally that was so that we could harvest their honey,
+p90
+aVbut over time we started losing our native pollinators,
+p91
+aVour wild pollinators,
+p92
+aVand there are many places now where those wild pollinators
+p93
+aVcan no longer meet the pollination demands of our agriculture,
+p94
+aVso these managed bees have become an integral part of our food system.
+p95
+aa(lp96
+VSo when people talk about saving bees,
+p97
+aVmy interpretation of that
+p98
+aVis we need to save our relationship to bees,
+p99
+aVand in order to design new solutions,
+p100
+aVwe have to understand the basic biology of bees
+p101
+aVand understand the effects of stressors that we sometimes cannot see.
+p102
+aVIn other words, we have to understand bees up close.
+p103
+aa(lp104
+VThank you.
+p105
+aa(lp106
+V(Applause)
+p107
+aasS'id'
+p108
+I2249
+sS'title'
+p109
+VThe first 21 days of a bee's life
+p110
+s.

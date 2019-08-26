@@ -1,0 +1,740 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWe invent.
+p4
+aVMy company invents
+p5
+aVall kinds of new technology
+p6
+aVin lots of different areas.
+p7
+aVAnd we do that for a couple of reasons.
+p8
+aVWe invent for fun \u2014
+p9
+aVinvention is a lot of fun to do \u2014
+p10
+aVand we also invent for profit.
+p11
+aVThe two are related because
+p12
+aVthe profit actually takes long enough that if it isn't fun,
+p13
+aVyou wouldn't have the time to do it.
+p14
+aVSo we do this
+p15
+aVfun and profit-oriented inventing
+p16
+aVfor most of what we do,
+p17
+aVbut we also have a program where we invent for humanity \u2014
+p18
+aVwhere we take some of our best inventors,
+p19
+aVand we say, "Are there problems
+p20
+aVwhere we have a good idea for solving a problem the world has?" \u2014
+p21
+aVand to solve it in the way we try to solve problems,
+p22
+aVwhich is with dramatic, crazy,
+p23
+aVout-of-the-box solutions.
+p24
+aVBill Gates is one of those smartest guys of ours
+p25
+aVthat work on these problems
+p26
+aVand he also funds this work, so thank you.
+p27
+aVSo I'm going to briefly discuss
+p28
+aVa couple of problems that we have
+p29
+aVand a couple of problems where
+p30
+aVwe've got some solutions underway.
+p31
+aa(lp32
+VVaccination is one of the
+p33
+aVkey techniques in public health,
+p34
+aVa fantastic thing.
+p35
+aVBut in the developing world a lot of vaccines
+p36
+aVspoil before they're administered,
+p37
+aVand that's because they need to be kept cold.
+p38
+aVAlmost all vaccines need to be kept at refrigerator temperatures.
+p39
+aVThey go bad very quickly if you don't,
+p40
+aVand if you don't have stable power grid, this doesn't happen,
+p41
+aVso kids die.
+p42
+aVIt's not just the loss of the vaccine that matters;
+p43
+aVit's the fact that those kids don't get vaccinated.
+p44
+aVThis is one of the ways that
+p45
+aVvaccines are carried:
+p46
+aVThese are Styrofoam chests. These are being carried by people,
+p47
+aVbut they're also put on the backs of pickup trucks.
+p48
+aVWe've got a different solution.
+p49
+aVNow, one of these Styrofoam chests
+p50
+aVwill last for about four hours with ice in it.
+p51
+aa(lp52
+VAnd we thought, well, that's not really good enough.
+p53
+aVSo we made this thing.
+p54
+aVThis lasts six months with no power;
+p55
+aVabsolutely zero power,
+p56
+aVbecause it loses less
+p57
+aVthan a half a watt.
+p58
+aVNow, this is our second generations prototype.
+p59
+aVThe third generation prototype is, right now,
+p60
+aVin Uganda being tested.
+p61
+aVNow, the reason we were able to come up with this
+p62
+aVis two key ideas:
+p63
+aVOne is that this is similar to a cryogenic Dewar,
+p64
+aVsomething you'd keep liquid nitrogen or liquid helium in.
+p65
+aVThey have incredible insulation,
+p66
+aVso let's put some incredible insulation here.
+p67
+aVThe other idea is kind of interesting,
+p68
+aVwhich is, you can't reach inside anymore.
+p69
+aVBecause if you open it up and reach inside,
+p70
+aVyou'd let the heat in, the game would be over.
+p71
+aVSo the inside of this thing actually looks like a Coke machine.
+p72
+aVIt vends out little individual vials.
+p73
+aVSo a simple idea,
+p74
+aVwhich we hope is going to change the way vaccines are distributed
+p75
+aVin Africa and around the world.
+p76
+aa(lp77
+VWe'll move on to malaria.
+p78
+aVMalaria is one of the great public health problems.
+p79
+aVEsther Duflo talked a little bit about this.
+p80
+aVTwo hundred million people a year.
+p81
+aVEvery 43 seconds a child in Africa dies;
+p82
+aV27 will die during my talk.
+p83
+aVAnd there's no way for us here in this country
+p84
+aVto grasp really what that means to the people involved.
+p85
+aVAnother comment of Esther's
+p86
+aVwas that we react when there's
+p87
+aVa tragedy like Haiti,
+p88
+aVbut that tragedy is ongoing.
+p89
+aVSo what can we do about it?
+p90
+aVWell, there are a lot of things people have tried
+p91
+aVfor many years for solving malaria.
+p92
+aVYou can spray; the problem is there are environmental issues.
+p93
+aVYou can try to treat people and create awareness.
+p94
+aVThat's great, except the places that have malaria really bad,
+p95
+aVthey don't have health care systems.
+p96
+aVA vaccine would be a terrific thing,
+p97
+aVonly they don't work yet.
+p98
+aVPeople have tried for a long time. There are a couple of interesting candidates.
+p99
+aVIt's a very difficult thing to make a vaccine for.
+p100
+aVYou can distribute bed nets,
+p101
+aVand bed nets are very effective if you use them.
+p102
+aVYou don't always use them for that. People fish with them.
+p103
+aVThey don't always get to everyone.
+p104
+aVAnd bed nets
+p105
+aVhave an effect on the epidemic,
+p106
+aVbut you're never going to make it extinct with bed nets.
+p107
+aa(lp108
+VNow, malaria is
+p109
+aVan incredibly complicated disease.
+p110
+aVWe could spend hours going over this.
+p111
+aVIt's got this sort of soap opera-like lifestyle;
+p112
+aVthey have sex, they burrow into your liver,
+p113
+aVthey tunnel into your blood cells ...
+p114
+aVit's an incredibly complicated disease,
+p115
+aVbut that's actually one of the things we find interesting about it
+p116
+aVand why we work on malaria:
+p117
+aVThere's a lot of potential ways in.
+p118
+aVOne of those ways might be better diagnosis.
+p119
+aVSo we hope this year
+p120
+aVto prototype each of these devices.
+p121
+aVOne does an automatic malaria diagnosis
+p122
+aVin the same way that a diabetic's glucose meter works:
+p123
+aVYou take a drop of blood,
+p124
+aVyou put it in there and it automatically tells you.
+p125
+aVToday, you need to do a complicated laboratory procedure,
+p126
+aVcreate a bunch of microscope slides
+p127
+aVand have a trained person examine it.
+p128
+aa(lp129
+VThe other thing is, you know,
+p130
+aVit would be even better if you didn't have to draw the blood.
+p131
+aVAnd if you look through the eye,
+p132
+aVor you look at the vessels on the white of the eye,
+p133
+aVin fact, you may be able to do this
+p134
+aVdirectly, without drawing any blood at all,
+p135
+aVor through your nail beds.
+p136
+aVBecause if you actually look through your fingernails, you can see blood vessels,
+p137
+aVand once you see blood vessels, we think we can see the malaria.
+p138
+aVWe can see it because of this molecule
+p139
+aVcalled hemozoin.
+p140
+aVIt's produced by the malaria parasite
+p141
+aVand it's a very interesting crystalline substance.
+p142
+aVInteresting, anyway, if you're a solid-state physicist.
+p143
+aVThere's a lot of cool stuff we can do with it.
+p144
+aa(lp145
+VThis is our femtosecond laser lab.
+p146
+aVSo this creates pulses of light
+p147
+aVthat last a femtosecond.
+p148
+aVThat's really, really, really short.
+p149
+aVThis is a pulse of light that's
+p150
+aVonly about one wavelength of light long,
+p151
+aVso it's a whole bunch of photons
+p152
+aVall coming and hitting simultaneously.
+p153
+aVIt creates a very high peak power
+p154
+aVand it lets you do all kinds of interesting things;
+p155
+aVin particular, it lets you find hemozoin.
+p156
+aVSo here's an image of red blood cells,
+p157
+aVand now we can actually map
+p158
+aVwhere the hemozoin and where the malaria parasites are
+p159
+aVinside those red blood cells.
+p160
+aVAnd using both this technique
+p161
+aVand other optical techniques,
+p162
+aVwe think we can make those diagnostics.
+p163
+aVWe also have another hemozoin-oriented
+p164
+aVtherapy for malaria:
+p165
+aVa way, in acute cases, to actually
+p166
+aVtake the malaria parasite and filter it out of the blood system.
+p167
+aVSort of like doing dialysis,
+p168
+aVbut for relieving the parasite load.
+p169
+aa(lp170
+VThis is our thousand-core supercomputer.
+p171
+aVWe're kind of software guys,
+p172
+aVand so nearly any problem that you pose,
+p173
+aVwe like to try to solve with some software.
+p174
+aVOne of the problems that you have if you're trying to eradicate malaria
+p175
+aVor reduce it
+p176
+aVis you don't know what's the most effective thing to do.
+p177
+aVOkay, we heard about bed nets earlier.
+p178
+aVYou spend a certain amount per bed net.
+p179
+aVOr you could spray.
+p180
+aVYou can give drug administration.
+p181
+aVThere's all these different interventions
+p182
+aVbut they have different kinds of effectiveness.
+p183
+aVHow can you tell?
+p184
+aVSo we've created, using our supercomputer,
+p185
+aVthe world's best computer model of malaria,
+p186
+aVwhich we'll show you now.
+p187
+aa(lp188
+VWe picked Madagascar.
+p189
+aVWe have every road,
+p190
+aVevery village,
+p191
+aVevery, almost, square inch of Madagascar.
+p192
+aVWe have all of the precipitation data
+p193
+aVand the temperature data.
+p194
+aVThat's very important because the humidity and precipitation
+p195
+aVtell you whether you've got
+p196
+aVstanding pools of water for the mosquitoes to breed.
+p197
+aVSo that sets the stage on which you do this.
+p198
+aVYou then have to introduce the mosquitoes,
+p199
+aVand you have to model that
+p200
+aVand how they come and go.
+p201
+aVUltimately, it gives you this.
+p202
+aVThis is malaria spreading
+p203
+aVacross Madagascar.
+p204
+aVAnd this is this latter part of the rainy season.
+p205
+aVWe're going to the dry season now.
+p206
+aVIt nearly goes away in the dry season,
+p207
+aVbecause there's no place for the mosquitoes to breed.
+p208
+aVAnd then, of course, the next year it comes roaring back.
+p209
+aVBy doing these kinds of simulations,
+p210
+aVwe want to eradicate or control malaria
+p211
+aVthousands of times in software
+p212
+aVbefore we actually have to do it in real life;
+p213
+aVto be able to simulate both the economic trade-offs \u2014
+p214
+aVhow many bed nets versus how much spraying? \u2014
+p215
+aVor the social trade-offs \u2014
+p216
+aVwhat happens if unrest breaks out?
+p217
+aa(lp218
+VWe also try to study our foe.
+p219
+aVThis is a high-speed camera view
+p220
+aVof a mosquito.
+p221
+aVAnd, in a moment,
+p222
+aVwe're going to see a view of the airflow.
+p223
+aVHere, we're trying to visualize the airflow
+p224
+aVaround the wings of the mosquito
+p225
+aVwith little particles we're illuminating with a laser.
+p226
+aVBy understanding how mosquitoes fly,
+p227
+aVwe hope to understand how to make them not fly.
+p228
+aVNow, one of the ways you can make them not fly
+p229
+aVis with DDT.
+p230
+aVThis is a real ad.
+p231
+aVThis is one of those things you just can't make up.
+p232
+aVOnce upon a time, this was the primary technique,
+p233
+aVand, in fact, many countries got rid of malaria through DDT.
+p234
+aVThe United States did.
+p235
+aVIn 1935, there were 150,000 cases a year
+p236
+aVof malaria in the United States,
+p237
+aVbut DDT and a massive public health effort
+p238
+aVmanaged to squelch it.
+p239
+aa(lp240
+VSo we thought,
+p241
+aV"Well, we've done all these things that are focused on the Plasmodium,
+p242
+aVthe parasite involved.
+p243
+aVWhat can we do to the mosquito?
+p244
+aVWell, let's try to kill it with consumer electronics."
+p245
+aVNow, that sounds silly,
+p246
+aVbut each of these devices
+p247
+aVhas something interesting in it that maybe you could use.
+p248
+aVYour Blu-ray player has
+p249
+aVa very cheap blue laser.
+p250
+aVYour laser printer has a mirror galvanometer
+p251
+aVthat's used to steer a laser beam very accurately;
+p252
+aVthat's what makes those little dots on the page.
+p253
+aVAnd, of course, there's signal processing
+p254
+aVand digital cameras.
+p255
+aVSo what if we could put all that together
+p256
+aVto shoot them out of the sky with lasers?
+p257
+aa(lp258
+V(Laughter)
+p259
+aa(lp260
+V(Applause)
+p261
+aa(lp262
+VNow, in our company, this is what we call
+p263
+aV"the pinky-suck moment."
+p264
+aa(lp265
+V(Laughter)
+p266
+aa(lp267
+VWhat if we could do that?
+p268
+aVNow, just suspend disbelief for a moment,
+p269
+aVand let's think of what could happen
+p270
+aVif we could do that.
+p271
+aVWell, we could protect very high-value targets like clinics.
+p272
+aVClinics are full of people that have malaria.
+p273
+aVThey're sick, and so they're less able to defend themselves from the mosquitoes.
+p274
+aVYou really want to protect them.
+p275
+aVOf course, if you do that,
+p276
+aVyou could also protect your backyard.
+p277
+aVAnd farmers could protect their crops
+p278
+aVthat they want to sell to Whole Foods
+p279
+aVbecause our photons
+p280
+aVare 100 percent organic. (Laughter)
+p281
+aVThey're completely natural.
+p282
+aa(lp283
+VNow, it actually gets better than this.
+p284
+aVYou could, if you're really smart,
+p285
+aVyou could shine a nonlethal laser on the bug
+p286
+aVbefore you zap it,
+p287
+aVand you could listen to the wing beat frequency
+p288
+aVand you could measure the size.
+p289
+aVAnd then you could decide:
+p290
+aV"Is this an insect I want to kill,
+p291
+aVor an insect I don't want to kill?"
+p292
+aVMoore's law made computing cheap;
+p293
+aVso cheap we can weigh
+p294
+aVthe life of an individual insect
+p295
+aVand decide thumbs up
+p296
+aVor thumbs down. (Laughter)
+p297
+aVNow, it turns out we only kill the female mosquitoes.
+p298
+aVThey're the only ones that are dangerous.
+p299
+aVMosquitoes only drink blood
+p300
+aVto lay eggs.
+p301
+aVMosquitoes actually live ... their day-to-day nutrition
+p302
+aVcomes from nectar, from flowers \u2014
+p303
+aVin fact, in the lab, we feed ours raisins \u2014
+p304
+aVbut the female needs the blood meal.
+p305
+aVSo, this sounds really crazy, right?
+p306
+aVWould you like to see it?
+p307
+aa(lp308
+VAudience: Yeah!
+p309
+aa(lp310
+VNathan Myhrvold: Okay, so our legal department prepared a disclaimer,
+p311
+aVand here it is.
+p312
+aV(Laughter)
+p313
+aVNow, after thinking about this a little bit
+p314
+aVwe thought, you know, it probably would be simpler
+p315
+aVto do this with a nonlethal laser.
+p316
+aVSo, Eric Johanson, who built the device,
+p317
+aVactually, with parts from eBay;
+p318
+aVand Pablos Holman over here,
+p319
+aVhe's got mosquitoes in the tank.
+p320
+aVWe have the device over here.
+p321
+aVAnd we're going to show you,
+p322
+aVinstead of the kill laser,
+p323
+aVwhich will be a very brief, instantaneous pulse,
+p324
+aVwe're going to have a green laser pointer
+p325
+aVthat's going to stay on the mosquito for, actually, quite a long period of time;
+p326
+aVotherwise, you can't see it very well.
+p327
+aVTake it away Eric.
+p328
+aa(lp329
+VEric Johanson: What we have here
+p330
+aVis a tank on the other side of the stage.
+p331
+aVAnd we have ... this computer screen
+p332
+aVcan actually see the mosquitoes as they fly around.
+p333
+aVAnd Pablos, if he stirs up our mosquitoes a little bit
+p334
+aVwe can see them flying around.
+p335
+aVNow, that's a fairly straightforward image processing routine,
+p336
+aVand let me show you how it works.
+p337
+aVHere you can see that the insects are being tracked
+p338
+aVas they're flying around,
+p339
+aVwhich is kind of fun.
+p340
+aVNext we can actually light them up with a laser. (Laughter)
+p341
+aVNow, this is a low powered laser,
+p342
+aVand we can actually pick up a wing-beat frequency.
+p343
+aVSo you may be able to hear some mosquitoes flying around.
+p344
+aa(lp345
+VNM: That's a mosquito wing beat you're hearing.
+p346
+aa(lp347
+VEJ: Finally, let's see what this looks like.
+p348
+aVThere you can see mosquitoes as they fly around, being lit up.
+p349
+aVThis is slowed way down
+p350
+aVso that you have an opportunity to see what's happening.
+p351
+aVHere we have it running at high-speed mode.
+p352
+aVSo this system that was built for TED is here to illustrate
+p353
+aVthat it is technically possible to actually deploy a system like this,
+p354
+aVand we're looking very hard at how to make it
+p355
+aVhighly cost-effective to use in places like Africa and other parts of the world.
+p356
+aa(lp357
+V(Applause)
+p358
+aa(lp359
+VNM: So it wouldn't be any fun to show you that
+p360
+aVwithout showing you what actually happens when we hit 'em.
+p361
+aV(Laughter)
+p362
+aV(Laughter)
+p363
+aVThis is very satisfying.
+p364
+aV(Laughter)
+p365
+aVThis is one of the first ones we did.
+p366
+aVThe energy's a little bit high here.
+p367
+aV(Laughter)
+p368
+aVWe'll loop around here in just a second, and you'll see another one.
+p369
+aVHere's another one. Bang.
+p370
+aVAn interesting thing is, we kill them all the time;
+p371
+aVwe've never actually gotten the wings to shut off in midair.
+p372
+aVThe wing motor is very resilient.
+p373
+aVI mean, here we're blowing wings off
+p374
+aVbut the wing motor keeps all the way down.
+p375
+aa(lp376
+VSo, that's what I have. Thanks very much.
+p377
+aa(lp378
+V(Applause)
+p379
+aasS'id'
+p380
+I853
+sS'title'
+p381
+VCould this laser zap malaria?
+p382
+s.

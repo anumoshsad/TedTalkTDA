@@ -1,0 +1,668 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VOur mission is to build
+p4
+aVa detailed, realistic
+p5
+aVcomputer model of the human brain.
+p6
+aVAnd we've done, in the past four years,
+p7
+aVa proof of concept
+p8
+aVon a small part of the rodent brain,
+p9
+aVand with this proof of concept we are now scaling the project up
+p10
+aVto reach the human brain.
+p11
+aa(lp12
+VWhy are we doing this?
+p13
+aVThere are three important reasons.
+p14
+aVThe first is, it's essential for us to understand the human brain
+p15
+aVif we do want to get along in society,
+p16
+aVand I think that it is a key step in evolution.
+p17
+aVThe second reason is,
+p18
+aVwe cannot keep doing animal experimentation forever,
+p19
+aVand we have to embody all our data and all our knowledge
+p20
+aVinto a working model.
+p21
+aVIt's like a Noah's Ark. It's like an archive.
+p22
+aVAnd the third reason is that there are two billion people on the planet
+p23
+aVthat are affected by mental disorder,
+p24
+aVand the drugs that are used today
+p25
+aVare largely empirical.
+p26
+aVI think that we can come up with very concrete solutions on
+p27
+aVhow to treat disorders.
+p28
+aa(lp29
+VNow, even at this stage,
+p30
+aVwe can use the brain model
+p31
+aVto explore some fundamental questions
+p32
+aVabout how the brain works.
+p33
+aVAnd here, at TED, for the first time,
+p34
+aVI'd like to share with you how we're addressing
+p35
+aVone theory \u2014 there are many theories \u2014
+p36
+aVone theory of how the brain works.
+p37
+aVSo, this theory is that the brain
+p38
+aVcreates, builds, a version of the universe,
+p39
+aVand projects this version of the universe,
+p40
+aVlike a bubble, all around us.
+p41
+aa(lp42
+VNow, this is of course a topic of philosophical debate for centuries.
+p43
+aVBut, for the first time, we can actually address this,
+p44
+aVwith brain simulation,
+p45
+aVand ask very systematic and rigorous questions,
+p46
+aVwhether this theory could possibly be true.
+p47
+aVThe reason why the moon is huge on the horizon
+p48
+aVis simply because our perceptual bubble
+p49
+aVdoes not stretch out 380,000 kilometers.
+p50
+aVIt runs out of space.
+p51
+aVAnd so what we do is we compare the buildings
+p52
+aVwithin our perceptual bubble,
+p53
+aVand we make a decision.
+p54
+aVWe make a decision it's that big,
+p55
+aVeven though it's not that big.
+p56
+aa(lp57
+VAnd what that illustrates
+p58
+aVis that decisions are the key things
+p59
+aVthat support our perceptual bubble. It keeps it alive.
+p60
+aVWithout decisions you cannot see, you cannot think,
+p61
+aVyou cannot feel.
+p62
+aVAnd you may think that anesthetics work
+p63
+aVby sending you into some deep sleep,
+p64
+aVor by blocking your receptors so that you don't feel pain,
+p65
+aVbut in fact most anesthetics don't work that way.
+p66
+aVWhat they do is they introduce a noise
+p67
+aVinto the brain so that the neurons cannot understand each other.
+p68
+aVThey are confused,
+p69
+aVand you cannot make a decision.
+p70
+aVSo, while you're trying to make up your mind
+p71
+aVwhat the doctor, the surgeon, is doing
+p72
+aVwhile he's hacking away at your body, he's long gone.
+p73
+aVHe's at home having tea.
+p74
+aV(Laughter)
+p75
+aa(lp76
+VSo, when you walk up to a door and you open it,
+p77
+aVwhat you compulsively have to do to perceive
+p78
+aVis to make decisions,
+p79
+aVthousands of decisions about the size of the room,
+p80
+aVthe walls, the height, the objects in this room.
+p81
+aV99 percent of what you see
+p82
+aVis not what comes in through the eyes.
+p83
+aVIt is what you infer about that room.
+p84
+aVSo I can say, with some certainty,
+p85
+aV"I think, therefore I am."
+p86
+aVBut I cannot say, "You think, therefore you are,"
+p87
+aVbecause "you" are within my perceptual bubble.
+p88
+aa(lp89
+VNow, we can speculate and philosophize this,
+p90
+aVbut we don't actually have to for the next hundred years.
+p91
+aVWe can ask a very concrete question.
+p92
+aV"Can the brain build such a perception?"
+p93
+aVIs it capable of doing it?
+p94
+aVDoes it have the substance to do it?
+p95
+aVAnd that's what I'm going to describe to you today.
+p96
+aa(lp97
+VSo, it took the universe 11 billion years to build the brain.
+p98
+aVIt had to improve it a little bit.
+p99
+aVIt had to add to the frontal part, so that you would have instincts,
+p100
+aVbecause they had to cope on land.
+p101
+aVBut the real big step was the neocortex.
+p102
+aVIt's a new brain. You needed it.
+p103
+aVThe mammals needed it
+p104
+aVbecause they had to cope with parenthood,
+p105
+aVsocial interactions,
+p106
+aVcomplex cognitive functions.
+p107
+aa(lp108
+VSo, you can think of the neocortex
+p109
+aVactually as the ultimate solution today,
+p110
+aVof the universe as we know it.
+p111
+aVIt's the pinnacle, it's the final product
+p112
+aVthat the universe has produced.
+p113
+aVIt was so successful in evolution
+p114
+aVthat from mouse to man it expanded
+p115
+aVabout a thousandfold in terms of the numbers of neurons,
+p116
+aVto produce this almost frightening
+p117
+aVorgan, structure.
+p118
+aVAnd it has not stopped its evolutionary path.
+p119
+aVIn fact, the neocortex in the human brain
+p120
+aVis evolving at an enormous speed.
+p121
+aa(lp122
+VIf you zoom into the surface of the neocortex,
+p123
+aVyou discover that it's made up of little modules,
+p124
+aVG5 processors, like in a computer.
+p125
+aVBut there are about a million of them.
+p126
+aVThey were so successful in evolution
+p127
+aVthat what we did was to duplicate them
+p128
+aVover and over and add more and more of them to the brain
+p129
+aVuntil we ran out of space in the skull.
+p130
+aVAnd the brain started to fold in on itself,
+p131
+aVand that's why the neocortex is so highly convoluted.
+p132
+aVWe're just packing in columns,
+p133
+aVso that we'd have more neocortical columns
+p134
+aVto perform more complex functions.
+p135
+aa(lp136
+VSo you can think of the neocortex actually as
+p137
+aVa massive grand piano,
+p138
+aVa million-key grand piano.
+p139
+aVEach of these neocortical columns
+p140
+aVwould produce a note.
+p141
+aVYou stimulate it; it produces a symphony.
+p142
+aVBut it's not just a symphony of perception.
+p143
+aVIt's a symphony of your universe, your reality.
+p144
+aVNow, of course it takes years to learn how
+p145
+aVto master a grand piano with a million keys.
+p146
+aVThat's why you have to send your kids to good schools,
+p147
+aVhopefully eventually to Oxford.
+p148
+aVBut it's not only education.
+p149
+aVIt's also genetics.
+p150
+aVYou may be born lucky,
+p151
+aVwhere you know how to master your neocortical column,
+p152
+aVand you can play a fantastic symphony.
+p153
+aa(lp154
+VIn fact, there is a new theory of autism
+p155
+aVcalled the "intense world" theory,
+p156
+aVwhich suggests that the neocortical columns are super-columns.
+p157
+aVThey are highly reactive, and they are super-plastic,
+p158
+aVand so the autists are probably capable of
+p159
+aVbuilding and learning a symphony
+p160
+aVwhich is unthinkable for us.
+p161
+aVBut you can also understand
+p162
+aVthat if you have a disease
+p163
+aVwithin one of these columns,
+p164
+aVthe note is going to be off.
+p165
+aVThe perception, the symphony that you create
+p166
+aVis going to be corrupted,
+p167
+aVand you will have symptoms of disease.
+p168
+aa(lp169
+VSo, the Holy Grail for neuroscience
+p170
+aVis really to understand the design of the neocoritical column \u2014
+p171
+aVand it's not just for neuroscience;
+p172
+aVit's perhaps to understand perception, to understand reality,
+p173
+aVand perhaps to even also understand physical reality.
+p174
+aVSo, what we did was, for the past 15 years,
+p175
+aVwas to dissect out the neocortex, systematically.
+p176
+aVIt's a bit like going and cataloging a piece of the rainforest.
+p177
+aVHow many trees does it have?
+p178
+aVWhat shapes are the trees?
+p179
+aVHow many of each type of tree do you have? Where are they positioned?
+p180
+aa(lp181
+VBut it's a bit more than cataloging because you actually have to
+p182
+aVdescribe and discover all the rules of communication,
+p183
+aVthe rules of connectivity,
+p184
+aVbecause the neurons don't just like to connect with any neuron.
+p185
+aVThey choose very carefully who they connect with.
+p186
+aVIt's also more than cataloging
+p187
+aVbecause you actually have to build three-dimensional
+p188
+aVdigital models of them.
+p189
+aVAnd we did that for tens of thousands of neurons,
+p190
+aVbuilt digital models of all the different types
+p191
+aVof neurons we came across.
+p192
+aVAnd once you have that, you can actually
+p193
+aVbegin to build the neocortical column.
+p194
+aa(lp195
+VAnd here we're coiling them up.
+p196
+aVBut as you do this, what you see
+p197
+aVis that the branches intersect
+p198
+aVactually in millions of locations,
+p199
+aVand at each of these intersections
+p200
+aVthey can form a synapse.
+p201
+aVAnd a synapse is a chemical location
+p202
+aVwhere they communicate with each other.
+p203
+aVAnd these synapses together
+p204
+aVform the network
+p205
+aVor the circuit of the brain.
+p206
+aVNow, the circuit, you could also think of as
+p207
+aVthe fabric of the brain.
+p208
+aVAnd when you think of the fabric of the brain,
+p209
+aVthe structure, how is it built? What is the pattern of the carpet?
+p210
+aVYou realize that this poses
+p211
+aVa fundamental challenge to any theory of the brain,
+p212
+aVand especially to a theory that says
+p213
+aVthat there is some reality that emerges
+p214
+aVout of this carpet, out of this particular carpet
+p215
+aVwith a particular pattern.
+p216
+aa(lp217
+VThe reason is because the most important design secret of the brain
+p218
+aVis diversity.
+p219
+aVEvery neuron is different.
+p220
+aVIt's the same in the forest. Every pine tree is different.
+p221
+aVYou may have many different types of trees,
+p222
+aVbut every pine tree is different. And in the brain it's the same.
+p223
+aVSo there is no neuron in my brain that is the same as another,
+p224
+aVand there is no neuron in my brain that is the same as in yours.
+p225
+aVAnd your neurons are not going to be oriented and positioned
+p226
+aVin exactly the same way.
+p227
+aVAnd you may have more or less neurons.
+p228
+aVSo it's very unlikely
+p229
+aVthat you got the same fabric, the same circuitry.
+p230
+aa(lp231
+VSo, how could we possibly create a reality
+p232
+aVthat we can even understand each other?
+p233
+aVWell, we don't have to speculate.
+p234
+aVWe can look at all 10 million synapses now.
+p235
+aVWe can look at the fabric. And we can change neurons.
+p236
+aVWe can use different neurons with different variations.
+p237
+aVWe can position them in different places,
+p238
+aVorient them in different places.
+p239
+aVWe can use less or more of them.
+p240
+aVAnd when we do that
+p241
+aVwhat we discovered is that the circuitry does change.
+p242
+aVBut the pattern of how the circuitry is designed does not.
+p243
+aVSo, the fabric of the brain,
+p244
+aVeven though your brain may be smaller, bigger,
+p245
+aVit may have different types of neurons,
+p246
+aVdifferent morphologies of neurons,
+p247
+aVwe actually do share
+p248
+aVthe same fabric.
+p249
+aVAnd we think this is species-specific,
+p250
+aVwhich means that that could explain
+p251
+aVwhy we can't communicate across species.
+p252
+aa(lp253
+VSo, let's switch it on. But to do it, what you have to do
+p254
+aVis you have to make this come alive.
+p255
+aVWe make it come alive
+p256
+aVwith equations, a lot of mathematics.
+p257
+aVAnd, in fact, the equations that make neurons into electrical generators
+p258
+aVwere discovered by two Cambridge Nobel Laureates.
+p259
+aVSo, we have the mathematics to make neurons come alive.
+p260
+aVWe also have the mathematics to describe
+p261
+aVhow neurons collect information,
+p262
+aVand how they create a little lightning bolt
+p263
+aVto communicate with each other.
+p264
+aVAnd when they get to the synapse,
+p265
+aVwhat they do is they effectively,
+p266
+aVliterally, shock the synapse.
+p267
+aVIt's like electrical shock
+p268
+aVthat releases the chemicals from these synapses.
+p269
+aa(lp270
+VAnd we've got the mathematics to describe this process.
+p271
+aVSo we can describe the communication between the neurons.
+p272
+aVThere literally are only a handful
+p273
+aVof equations that you need to simulate
+p274
+aVthe activity of the neocortex.
+p275
+aVBut what you do need is a very big computer.
+p276
+aVAnd in fact you need one laptop
+p277
+aVto do all the calculations just for one neuron.
+p278
+aVSo you need 10,000 laptops.
+p279
+aVSo where do you go? You go to IBM,
+p280
+aVand you get a supercomputer, because they know how to take
+p281
+aV10,000 laptops and put it into the size of a refrigerator.
+p282
+aVSo now we have this Blue Gene supercomputer.
+p283
+aVWe can load up all the neurons,
+p284
+aVeach one on to its processor,
+p285
+aVand fire it up, and see what happens.
+p286
+aVTake the magic carpet for a ride.
+p287
+aa(lp288
+VHere we activate it. And this gives the first glimpse
+p289
+aVof what is happening in your brain
+p290
+aVwhen there is a stimulation.
+p291
+aVIt's the first view.
+p292
+aVNow, when you look at that the first time, you think,
+p293
+aV"My god. How is reality coming out of that?"
+p294
+aVBut, in fact, you can start,
+p295
+aVeven though we haven't trained this neocortical column
+p296
+aVto create a specific reality.
+p297
+aVBut we can ask, "Where is the rose?"
+p298
+aVWe can ask, "Where is it inside,
+p299
+aVif we stimulate it with a picture?"
+p300
+aVWhere is it inside the neocortex?
+p301
+aVUltimately it's got to be there if we stimulated it with it.
+p302
+aa(lp303
+VSo, the way that we can look at that
+p304
+aVis to ignore the neurons, ignore the synapses,
+p305
+aVand look just at the raw electrical activity.
+p306
+aVBecause that is what it's creating.
+p307
+aVIt's creating electrical patterns.
+p308
+aVSo when we did this,
+p309
+aVwe indeed, for the first time,
+p310
+aVsaw these ghost-like structures:
+p311
+aVelectrical objects appearing
+p312
+aVwithin the neocortical column.
+p313
+aVAnd it's these electrical objects
+p314
+aVthat are holding all the information about
+p315
+aVwhatever stimulated it.
+p316
+aVAnd then when we zoomed into this,
+p317
+aVit's like a veritable universe.
+p318
+aa(lp319
+VSo the next step
+p320
+aVis just to take these brain coordinates
+p321
+aVand to project them into perceptual space.
+p322
+aVAnd if you do that,
+p323
+aVyou will be able to step inside
+p324
+aVthe reality that is created
+p325
+aVby this machine,
+p326
+aVby this piece of the brain.
+p327
+aVSo, in summary,
+p328
+aVI think that the universe may have \u2014
+p329
+aVit's possible \u2014
+p330
+aVevolved a brain to see itself,
+p331
+aVwhich may be a first step in becoming aware of itself.
+p332
+aVThere is a lot more to do to test these theories,
+p333
+aVand to test any other theories.
+p334
+aVBut I hope that you are at least partly convinced
+p335
+aVthat it is not impossible to build a brain.
+p336
+aVWe can do it within 10 years,
+p337
+aVand if we do succeed,
+p338
+aVwe will send to TED, in 10 years,
+p339
+aVa hologram to talk to you. Thank you.
+p340
+aV(Applause)
+p341
+aasS'id'
+p342
+I659
+sS'title'
+p343
+VA brain in a supercomputer
+p344
+s.

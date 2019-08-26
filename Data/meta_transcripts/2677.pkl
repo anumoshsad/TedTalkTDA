@@ -1,0 +1,454 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo many of you have probably seen the movie "The Martian."
+p4
+aVBut for those of you who did not, it's a movie about an astronaut
+p5
+aVwho is stranded on Mars, and his efforts to stay alive
+p6
+aVuntil the Earth can send a rescue mission to bring him back to Earth.
+p7
+aVGladly, they do re-establish communication
+p8
+aVwith the character, astronaut Watney, at some point
+p9
+aVso that he's not as alone on Mars until he can be rescued.
+p10
+aVSo while you're watching the movie, or even if you haven't,
+p11
+aVwhen you think about Mars,
+p12
+aVyou're probably thinking about how far away it is and how distant.
+p13
+aa(lp14
+VAnd, what might not have occurred to you is,
+p15
+aVwhat are the logistics really like of working on another planet \u2014
+p16
+aVof living on two planets
+p17
+aVwhen there are people on the Earth and there are rovers or people on Mars?
+p18
+aVSo think about when you have friends, families and co-workers
+p19
+aVin California, on the West Coast or in other parts of the world.
+p20
+aVWhen you're trying to communicate with them,
+p21
+aVone of the things you probably first think about is:
+p22
+aVwait, what time is it in California?
+p23
+aVWill I wake them up? Is it OK to call?
+p24
+aVSo even if you're interacting with colleagues who are in Europe,
+p25
+aVyou're immediately thinking about:
+p26
+aVWhat does it take to coordinate communication when people are far away?
+p27
+aVSo we don't have people on Mars right now, but we do have rovers.
+p28
+aVAnd actually right now, on Curiosity, it is 6:10 in the morning.
+p29
+aVSo, 6:10 in the morning on Mars.
+p30
+aVWe have four rovers on Mars.
+p31
+aVThe United States has put four rovers on Mars since the mid-1990s,
+p32
+aVand I have been privileged enough to work on three of them.
+p33
+aVSo, I am a spacecraft engineer, a spacecraft operations engineer,
+p34
+aVat NASA's Jet Propulsion Laboratory in Los Angeles, California.
+p35
+aVAnd these rovers are our robotic emissaries.
+p36
+aVSo, they are our eyes and our ears, and they see the planet for us
+p37
+aVuntil we can send people.
+p38
+aVSo we learn how to operate on other planets through these rovers.
+p39
+aVSo before we send people, we send robots.
+p40
+aVSo the reason there's a time difference on Mars right now,
+p41
+aVfrom the time that we're at
+p42
+aVis because the Martian day is longer than the Earth day.
+p43
+aVOur Earth day is 24 hours,
+p44
+aVbecause that's how long it takes the Earth to rotate,
+p45
+aVhow long it takes to go around once.
+p46
+aVSo our day is 24 hours.
+p47
+aVIt takes Mars 24 hours and approximately 40 minutes to rotate once.
+p48
+aVSo that means that the Martian day is 40 minutes longer than the Earth day.
+p49
+aVSo teams of people who are operating the rovers on Mars, like this one,
+p50
+aVwhat we are doing is we are living on Earth, but working on Mars.
+p51
+aVSo we have to think as if we are actually on Mars with the rover.
+p52
+aVOur job, the job of this team, of which I'm a part of,
+p53
+aVis to send commands to the rover to tell it what to do the next day.
+p54
+aVTo tell it to drive or drill or tell her whatever she's supposed to do.
+p55
+aVSo while she's sleeping \u2014 and the rover does sleep at night
+p56
+aVbecause she needs to recharge her batteries
+p57
+aVand she needs to weather the cold Martian night.
+p58
+aVAnd so she sleeps.
+p59
+aVSo while she sleeps, we work on her program for the next day.
+p60
+aVSo I work the Martian night shift.
+p61
+aV(Laughter)
+p62
+aVSo in order to come to work on the Earth at the same time every day on Mars \u2014
+p63
+aVlike, let's say I need to be at work at 5:00 p.m.,
+p64
+aVthis team needs to be at work at 5:00 p.m. Mars time every day,
+p65
+aVthen we have to come to work on the Earth 40 minutes later every day,
+p66
+aVin order to stay in sync with Mars.
+p67
+aVThat's like moving a time zone every day.
+p68
+aVSo one day you come in at 8:00, the next day 40 minutes later at 8:40,
+p69
+aVthe next day 40 minutes later at 9:20,
+p70
+aVthe next day at 10:00.
+p71
+aVSo you keep moving 40 minutes every day,
+p72
+aVuntil soon you're coming to work in the middle of the night \u2014
+p73
+aVthe middle of the Earth night.
+p74
+aVRight? So you can imagine how confusing that is.
+p75
+aVHence, the Mars watch.
+p76
+aV(Laughter)
+p77
+aVThis weights in this watch have been mechanically adjusted
+p78
+aVso that it runs more slowly.
+p79
+aVRight? And we didn't start out \u2014
+p80
+aVI got this watch in 2004
+p81
+aVwhen Spirit and Opportunity, the rovers back then.
+p82
+aVWe didn't start out thinking
+p83
+aVthat we were going to need Mars watches.
+p84
+aVRight? We thought, OK, we'll just have the time on our computers
+p85
+aVand on the mission control screens, and that would be enough.
+p86
+aVYeah, not so much.
+p87
+aVBecause we weren't just working on Mars time,
+p88
+aVwe were actually living on Mars time.
+p89
+aVAnd we got just instantaneously confused about what time it was.
+p90
+aVSo you really needed something on your wrist to tell you:
+p91
+aVWhat time is it on the Earth? What time is it on Mars?
+p92
+aVAnd it wasn't just the time on Mars that was confusing;
+p93
+aVwe also needed to be able to talk to each other about it.
+p94
+aVSo a "sol" is a Martian day \u2014 again, 24 hours and 40 minutes.
+p95
+aVSo when we're talking about something that's happening on the Earth,
+p96
+aVwe will say, today.
+p97
+aVSo, for Mars, we say, "tosol."
+p98
+aV(Laughter)
+p99
+aVYesterday became "yestersol" for Mars.
+p100
+aVAgain, we didn't start out thinking, "Oh, let's invent a language."
+p101
+aVIt was just very confusing.
+p102
+aVI remember somebody walked up to me and said,
+p103
+aV"I would like to do this activity on the vehicle tomorrow, on the rover."
+p104
+aVAnd I said, "Tomorrow, tomorrow, or Mars, tomorrow?"
+p105
+aVWe started this terminology because we needed a way to talk to each other.
+p106
+aV(Laughter)
+p107
+aVTomorrow became "nextersol" or "solorrow."
+p108
+aVBecause people have different preferences for the words they use.
+p109
+aVSome of you might say "soda" and some of you might say "pop."
+p110
+aVSo we have people who say "nextersol" or "solorrow."
+p111
+aVAnd then something that I noticed after a few years of working on these missions,
+p112
+aVwas that the people who work on the rovers, we say "tosol."
+p113
+aVThe people who work on the landed missions that don't rove around,
+p114
+aVthey say "tosoul."
+p115
+aVSo I could actually tell what mission you worked on from your Martian accent.
+p116
+aV(Laughter)
+p117
+aVSo we have the watches and the language, and you're detecting a theme here, right?
+p118
+aVSo that we don't get confused.
+p119
+aVBut even the Earth daylight could confuse us.
+p120
+aVIf you think that right now, you've come to work
+p121
+aVand it's the middle of the Martian night
+p122
+aVand there's light streaming in from the windows
+p123
+aVthat's going to be confusing as well.
+p124
+aVSo you can see from this image of the control room
+p125
+aVthat all of the blinds are down.
+p126
+aVSo that there's no light to distract us.
+p127
+aVThe blinds went down all over the building about a week before landing,
+p128
+aVand they didn't go up until we went off Mars time.
+p129
+aVSo this also works for the house, for at home.
+p130
+aVI've been on Mars time three times, and my husband is like,
+p131
+aVOK, we're getting ready for Mars time.
+p132
+aVAnd so he'll put foil all over the windows and dark curtains and shades
+p133
+aVbecause it also affects your families.
+p134
+aVAnd so here I was living in kind of this darkened environment, but so was he.
+p135
+aVAnd he'd gotten used to it.
+p136
+aVBut then I would get these plaintive emails from him when he was at work.
+p137
+aVShould I come home? Are you awake?
+p138
+aVWhat time is it on Mars?
+p139
+aVAnd I decided, OK, so he needs a Mars watch.
+p140
+aV(Laughter)
+p141
+aVBut of course, it's 2016, so there's an app for that.
+p142
+aV(Laughter)
+p143
+aVSo now instead of the watches, we can also use our phones.
+p144
+aVBut the impact on families was just across the board;
+p145
+aVit wasn't just those of us who were working on the rovers
+p146
+aVbut our families as well.
+p147
+aVThis is David Oh, one of our flight directors,
+p148
+aVand he's at the beach in Los Angeles with his family at 1:00 in the morning.
+p149
+aV(Laughter)
+p150
+aVSo because we landed in August
+p151
+aVand his kids didn't have to go back to school until September,
+p152
+aVthey actually went on to Mars time with him for one month.
+p153
+aVThey got up 40 minutes later every day.
+p154
+aVAnd they were on dad's work schedule.
+p155
+aVSo they lived on Mars time for a month and had these great adventures,
+p156
+aVlike going bowling in the middle of the night
+p157
+aVor going to the beach.
+p158
+aVAnd one of the things that we all discovered
+p159
+aVis you can get anywhere in Los Angeles
+p160
+aVat 3:00 in the morning when there's no traffic.
+p161
+aa(lp162
+V(Laughter)
+p163
+aa(lp164
+VSo we would get off work,
+p165
+aVand we didn't want to go home and bother our families,
+p166
+aVand we were hungry, so instead of going locally to eat something,
+p167
+aVwe'd go, "Wait, there's this great all-night deli in Long Beach,
+p168
+aVand we can get there in 10 minutes!"
+p169
+aVSo we would drive down \u2014 it was like the 60s, no traffic.
+p170
+aVWe would drive down there, and the restaurant owners would go,
+p171
+aV"Who are you people?
+p172
+aVAnd why are you at my restaurant at 3:00 in the morning?"
+p173
+aVSo they came to realize that there were these packs of Martians,
+p174
+aVroaming the LA freeways, in the middle of the night \u2014
+p175
+aVin the middle of the Earth night.
+p176
+aVAnd we did actually start calling ourselves Martians.
+p177
+aVSo those of us who were on Mars time would refer to ourselves as Martians,
+p178
+aVand everyone else as Earthlings.
+p179
+aa(lp180
+V(Laughter)
+p181
+aa(lp182
+VAnd that's because when you're moving a time-zone every day,
+p183
+aVyou start to really feel separated from everyone else.
+p184
+aVYou're literally in your own world.
+p185
+aVSo I have this button on that says, "I survived Mars time. Sol 0-90."
+p186
+aVAnd there's a picture of it up on the screen.
+p187
+aVSo the reason we got these buttons is because we work on Mars time
+p188
+aVin order to be as efficient as possible with the rover on Mars,
+p189
+aVto make the best use of our time.
+p190
+aVBut we don't stay on Mars time for more than three to four months.
+p191
+aVEventually, we'll move to a modified Mars time, which is what we're working now.
+p192
+aVAnd that's because it's hard on your bodies, it's hard on your families.
+p193
+aVIn fact, there were sleep researchers who actually were studying us
+p194
+aVbecause it was so unusual for humans to try to extend their day.
+p195
+aVAnd they had about 30 of us
+p196
+aVthat they would do sleep deprivation experiments on.
+p197
+aVSo I would come in and take the test and I fell asleep in each one.
+p198
+aVAnd that was because, again, this eventually becomes hard on your body.
+p199
+aVEven though it was a blast.
+p200
+aVIt was a huge bonding experience with the other members on the team,
+p201
+aVbut it is difficult to sustain.
+p202
+aVSo these rover missions are our first steps out into the solar system.
+p203
+aVWe are learning how to live on more than one planet.
+p204
+aVWe are changing our perspective to become multi-planetary.
+p205
+aVSo the next time you see a Star Wars movie,
+p206
+aVand there are people going from the Dagobah system to Tatooine,
+p207
+aVthink about what it really means to have people spread out so far.
+p208
+aVWhat it means in terms of the distances between them,
+p209
+aVhow they will start to feel separate from each other
+p210
+aVand just the logistics of the time.
+p211
+aVWe have not sent people to Mars yet, but we hope to.
+p212
+aVAnd between companies like SpaceX and NASA
+p213
+aVand all of the international space agencies of the world,
+p214
+aVwe hope to do that in the next few decades.
+p215
+aVSo soon we will have people on Mars, and we truly will be multi-planetary.
+p216
+aVAnd the young boy or the young girl
+p217
+aVwho will be going to Mars could be in this audience or listening today.
+p218
+aVI have wanted to work at JPL on these missions since I was 14 years old
+p219
+aVand I am privileged to be a part of it.
+p220
+aVAnd this is a remarkable time in the space program,
+p221
+aVand we are all in this journey together.
+p222
+aVSo the next time you think you don't have enough time in your day,
+p223
+aVjust remember, it's all a matter of your Earthly perspective.
+p224
+aVThank you.
+p225
+aV(Applause)
+p226
+aasS'id'
+p227
+I2677
+sS'title'
+p228
+VWhat time is it on Mars?
+p229
+s.

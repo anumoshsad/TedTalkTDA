@@ -1,0 +1,885 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI want to share with you something my father taught me:
+p4
+aVno condition is permanent.
+p5
+aVIt's a lesson he shared with me again and again,
+p6
+aVand I learned it to be true the hard way.
+p7
+aa(lp8
+VHere I am in my fourth-grade class.
+p9
+aVThis is my yearbook picture taken in my class in school
+p10
+aVin Monrovia, Liberia.
+p11
+aVMy parents migrated from India to West Africa in the 1970s,
+p12
+aVand I had the privilege of growing up there.
+p13
+aVI was nine years old,
+p14
+aVI loved kicking around a soccer ball,
+p15
+aVand I was a total math and science geek.
+p16
+aVI was living the kind of life that, really, any child would dream of.
+p17
+aVBut no condition is permanent.
+p18
+aa(lp19
+VOn Christmas Eve in 1989,
+p20
+aVcivil war erupted in Liberia.
+p21
+aVThe war started in the rural countryside,
+p22
+aVand within months, rebel armies had marched towards our hometown.
+p23
+aVMy school shut down,
+p24
+aVand when the rebel armies captured the only international airport,
+p25
+aVpeople started panicking and fleeing.
+p26
+aVMy mom came knocking one morning and said, "Raj, pack your things \u2014
+p27
+aVwe have to go."
+p28
+aVWe were rushed to the center of town,
+p29
+aVand there on a tarmac, we were split into two lines.
+p30
+aVI stood with my family in one line,
+p31
+aVand we were stuffed into the cargo hatch
+p32
+aVof a rescue plane.
+p33
+aVAnd there on a bench, I was sitting with my heart racing.
+p34
+aVAs I looked out the open hatch,
+p35
+aVI saw hundreds of Liberians in another line,
+p36
+aVchildren strapped to their backs.
+p37
+aVWhen they tried to jump in with us,
+p38
+aVI watched soldiers restrain them.
+p39
+aVThey were not allowed to flee.
+p40
+aa(lp41
+VWe were the lucky ones.
+p42
+aVWe lost what we had,
+p43
+aVbut we resettled in America,
+p44
+aVand as immigrants, we benefitted from the community of supporters
+p45
+aVthat rallied around us.
+p46
+aVThey took my family into their home,
+p47
+aVthey mentored me.
+p48
+aVAnd they helped my dad start a clothing shop.
+p49
+aVI'd visit my father on weekends as a teenager
+p50
+aVto help him sell sneakers and jeans.
+p51
+aVAnd every time business would get bad,
+p52
+aVhe'd remind me of that mantra:
+p53
+aVno condition is permanent.
+p54
+aVThat mantra and my parents' persistence and that community of supporters
+p55
+aVmade it possible for me to go through college
+p56
+aVand eventually to medical school.
+p57
+aVI'd once had my hopes crushed in a war,
+p58
+aVbut because of them,
+p59
+aVI had a chance to pursue my dream to become a doctor.
+p60
+aVMy condition had changed.
+p61
+aa(lp62
+VIt had been 15 years since I escaped that airfield,
+p63
+aVbut the memory of those two lines had not escaped my mind.
+p64
+aVI was a medical student in my mid-20s,
+p65
+aVand I wanted to go back
+p66
+aVto see if I could serve the people we'd left behind.
+p67
+aVBut when I got back,
+p68
+aVwhat I found was utter destruction.
+p69
+aVThe war had left us with just 51 doctors
+p70
+aVto serve a country of four million people.
+p71
+aVIt would be like the city of San Francisco having just 10 doctors.
+p72
+aVSo if you got sick in the city where those few doctors remain,
+p73
+aVyou might stand a chance.
+p74
+aVBut if you got sick in the remote, rural rainforest communities,
+p75
+aVwhere you could be days from the nearest clinic \u2014
+p76
+aVI was seeing my patients die from conditions no one should die from,
+p77
+aVall because they were getting to me too late.
+p78
+aVImagine you have a two-year-old who wakes up one morning with a fever,
+p79
+aVand you realize she could have malaria,
+p80
+aVand you know the only way to get her the medicine she needs
+p81
+aVwould be to take her to the riverbed,
+p82
+aVget in a canoe, paddle to the other side
+p83
+aVand then walk for up to two days through the forest
+p84
+aVjust to reach the nearest clinic.
+p85
+aa(lp86
+VOne billion people live in the world's most remote communities,
+p87
+aVand despite the advances we've made in modern medicine and technology,
+p88
+aVour innovations are not reaching the last mile.
+p89
+aVThese communities have been left behind,
+p90
+aVbecause they've been thought too hard to reach
+p91
+aVand too difficult to serve.
+p92
+aVIllness is universal;
+p93
+aVaccess to care is not.
+p94
+aVAnd realizing this lit a fire in my soul.
+p95
+aVNo one should die because they live too far from a doctor or clinic.
+p96
+aVNo condition should be permanent.
+p97
+aVAnd help in this case didn't come from the outside,
+p98
+aVit actually came from within.
+p99
+aVIt came from the communities themselves.
+p100
+aa(lp101
+VMeet Musu.
+p102
+aVWay out in rural Liberia,
+p103
+aVwhere most girls have not had a chance to finish primary school,
+p104
+aVMusu had been persistent.
+p105
+aVAt the age of 18, she completed high school,
+p106
+aVand she came back to her community.
+p107
+aVShe saw that none of the children were getting treatment
+p108
+aVfor the diseases they needed treatment for \u2014
+p109
+aVdeadly diseases, like malaria and pneumonia.
+p110
+aVSo she signed up to be a volunteer.
+p111
+aVThere are millions of volunteers like Musu in rural parts around our world,
+p112
+aVand we got to thinking \u2014
+p113
+aVcommunity members like Musu could actually help us solve a puzzle.
+p114
+aa(lp115
+VOur health care system is structured in such a way
+p116
+aVthat the work of diagnosing disease and prescribing medicines
+p117
+aVis limited to a team of nurses and doctors like me.
+p118
+aVBut nurses and doctors are concentrated in cities,
+p119
+aVso rural communities like Musu's have been left behind.
+p120
+aa(lp121
+VSo we started asking some questions:
+p122
+aVWhat if we could reorganize the medical care system?
+p123
+aVWhat if we could have community members like Musu
+p124
+aVbe a part or even be the center of our medical team?
+p125
+aVWhat if Musu could help us bring health care from clinics in cities
+p126
+aVto the doorsteps of her neighbors?
+p127
+aVMusu was 48 when I met her.
+p128
+aVAnd despite her amazing talent and grit,
+p129
+aVshe hadn't had a paying job in 30 years.
+p130
+aVSo what if technology could support her?
+p131
+aVWhat if we could invest in her with real training,
+p132
+aVequip her with real medicines,
+p133
+aVand have her have a real job?
+p134
+aa(lp135
+VWell, in 2007, I was trying to answer these questions,
+p136
+aVand my wife and I were getting married that year.
+p137
+aVWe asked our relatives to forgo the wedding registry gifts
+p138
+aVand instead donate some money
+p139
+aVso we could have some start-up money to launch a nonprofit.
+p140
+aVI promise you, I'm a lot more romantic than that.
+p141
+aa(lp142
+V(Laughter)
+p143
+aa(lp144
+VWe ended up raising $6,000,
+p145
+aVteamed up with some Liberians and Americans
+p146
+aVand launched a nonprofit called Last Mile Health.
+p147
+aVOur goal is to bring a health worker within reach of everyone, everywhere.
+p148
+aVWe designed a three-step process \u2014
+p149
+aVtrain, equip and pay \u2014
+p150
+aVto invest more deeply in volunteers like Musu
+p151
+aVto become paraprofessionals,
+p152
+aVto become community health workers.
+p153
+aa(lp154
+VFirst we trained Musu to prevent, diagnose and treat
+p155
+aVthe top 10 diseases afflicting families in her village.
+p156
+aVA nurse supervisor visited her every month to coach her.
+p157
+aVWe equipped her with modern medical technology,
+p158
+aVlike this $1 malaria rapid test,
+p159
+aVand put it in a backpack full of medicines like this
+p160
+aVto treat infections like pneumonia,
+p161
+aVand crucially,
+p162
+aVa smartphone, to help her track and report on epidemics.
+p163
+aVLast, we recognized the dignity in Musu's work.
+p164
+aVWith the Liberian government, we created a contract,
+p165
+aVpaid her
+p166
+aVand gave her the chance to have a real job.
+p167
+aVAnd she's amazing.
+p168
+aa(lp169
+VMusu has learned over 30 medical skills,
+p170
+aVfrom screening children for malnutrition,
+p171
+aVto assessing the cause of a child's cough with a smartphone,
+p172
+aVto supporting people with HIV
+p173
+aVand providing follow-up care to patients who've lost their limbs.
+p174
+aVWorking as part of our team,
+p175
+aVworking as paraprofessionals,
+p176
+aVcommunity health workers can help ensure
+p177
+aVthat a lot of what your family doctor would do
+p178
+aVreaches the places that most family doctors could never go.
+p179
+aa(lp180
+VOne of my favorite things to do is to care for patients
+p181
+aVwith community health workers.
+p182
+aVSo last year I was visiting A.B.,
+p183
+aVand like Musu, A.B. had had a chance to go to school.
+p184
+aVHe was in middle school, in the eighth grade,
+p185
+aVwhen his parents died.
+p186
+aVHe became an orphan and had to drop out.
+p187
+aVLast year, we hired and trained A.B. as a community health worker.
+p188
+aVAnd while he was making door to door house calls,
+p189
+aVhe met this young boy named Prince,
+p190
+aVwhose mother had had trouble breastfeeding him,
+p191
+aVand by the age of six months, Prince had started to waste away.
+p192
+aVA.B. had just been taught how to use this color-coded measuring tape
+p193
+aVthat wraps around the upper arm of a child to diagnose malnutrition.
+p194
+aVA.B. noticed that Prince was in the red zone,
+p195
+aVwhich meant he had to be hospitalized.
+p196
+aa(lp197
+VSo A.B. took Prince and his mother to the river,
+p198
+aVgot in a canoe
+p199
+aVand paddled for four hours to get to the hospital.
+p200
+aVLater, after Prince was discharged,
+p201
+aVA.B. taught mom how to feed baby a food supplement.
+p202
+aVA few months ago,
+p203
+aVA.B. took me to visit Prince, and he's a chubby little guy.
+p204
+aa(lp205
+V(Laughter)
+p206
+aa(lp207
+VHe's meeting his milestones, he's pulled himself up to a stand,
+p208
+aVand is even starting to say a few words.
+p209
+aVI'm so inspired by these community health workers.
+p210
+aVI often ask them why they do what they do,
+p211
+aVand when I asked A.B.,
+p212
+aVhe said, "Doc, since I dropped out of school, this is the first time
+p213
+aVI'm having a chance to hold a pen to write.
+p214
+aVMy brain is getting fresh."
+p215
+aa(lp216
+VThe stories of A.B. and Musu have taught me something fundamental
+p217
+aVabout being human.
+p218
+aVOur will to serve others
+p219
+aVcan actually help us transform our own conditions.
+p220
+aVI was so moved by how powerful the will to serve our neighbors can be
+p221
+aVa few years ago,
+p222
+aVwhen we faced a global catastrophe.
+p223
+aa(lp224
+VIn December 2013,
+p225
+aVsomething happened in the rainforests across the border from us in Guinea.
+p226
+aVA toddler named Emile fell sick with vomiting, fever and diarrhea.
+p227
+aVHe lived in an area where the roads were sparse
+p228
+aVand there had been massive shortages of health workers.
+p229
+aVEmile died,
+p230
+aVand a few weeks later his sister died,
+p231
+aVand a few weeks later his mother died.
+p232
+aVAnd this disease would spread from one community to another.
+p233
+aVAnd it wasn't until three months later
+p234
+aVthat the world recognized this as Ebola.
+p235
+aVWhen every minute counted, we had already lost months,
+p236
+aVand by then the virus had spread like wildfire all across West Africa,
+p237
+aVand eventually to other parts of the world.
+p238
+aVBusinesses shut down, airlines started canceling routes.
+p239
+aa(lp240
+VAt the height of the crisis,
+p241
+aVwhen we were told that 1.4 million people could be infected,
+p242
+aVwhen we were told that most of them would die,
+p243
+aVwhen we had nearly lost all hope,
+p244
+aVI remember standing with a group of health workers
+p245
+aVin the rainforest where an outbreak had just happened.
+p246
+aVWe were helping train and equip them to put on the masks,
+p247
+aVthe gloves and the gowns that they needed
+p248
+aVto keep themselves safe from the virus
+p249
+aVwhile they were serving their patients.
+p250
+aVI remember the fear in their eyes.
+p251
+aVAnd I remember staying up at night, terrified if I'd made the right call
+p252
+aVto keep them in the field.
+p253
+aa(lp254
+VWhen Ebola threatened to bring humanity to its knees,
+p255
+aVLiberia's community health workers didn't surrender to fear.
+p256
+aVThey did what they had always done:
+p257
+aVthey answered the call to serve their neighbors.
+p258
+aVCommunity members across Liberia learned the symptoms of Ebola,
+p259
+aVteamed up with nurses and doctors to go door-to-door to find the sick
+p260
+aVand get them into care.
+p261
+aVThey tracked thousands of people who had been exposed to the virus
+p262
+aVand helped break the chain of transmission.
+p263
+aVSome ten thousand community health workers risked their own lives
+p264
+aVto help hunt down this virus and stop it in its tracks.
+p265
+aa(lp266
+V(Applause)
+p267
+aa(lp268
+VToday, Ebola has come under control in West Africa,
+p269
+aVand we've learned a few things.
+p270
+aVWe've learned that blind spots in rural health care
+p271
+aVcan lead to hot spots of disease,
+p272
+aVand that places all of us at greater risk.
+p273
+aVWe've learned that the most efficient emergency system
+p274
+aVis actually an everyday system,
+p275
+aVand that system has to reach all communities,
+p276
+aVincluding rural communities like Emile's.
+p277
+aVAnd most of all,
+p278
+aVwe've learned from the courage of Liberia's community health workers
+p279
+aVthat we as people are not defined by the conditions we face,
+p280
+aVno matter how hopeless they seem.
+p281
+aVWe're defined by how we respond to them.
+p282
+aa(lp283
+VFor the past 15 years,
+p284
+aVI've seen the power of this idea
+p285
+aVto transform everyday citizens into community health workers \u2014
+p286
+aVinto everyday heroes.
+p287
+aVAnd I've seen it play out everywhere,
+p288
+aVfrom the forest communities of West Africa,
+p289
+aVto the rural fishing villages of Alaska.
+p290
+aVIt's true,
+p291
+aVthese community health workers aren't doing neurosurgery,
+p292
+aVbut they're making it possible
+p293
+aVto bring health care within reach of everyone everywhere.
+p294
+aa(lp295
+VSo now what?
+p296
+aVWell, we know that there are still millions of people dying
+p297
+aVfrom preventable causes
+p298
+aVin rural communities around the world.
+p299
+aVAnd we know that the great majority of these deaths are happening
+p300
+aVin these 75 blue-shaded countries.
+p301
+aVWhat we also know
+p302
+aVis that if we trained an army of community health workers
+p303
+aVto learn even just 30 lifesaving skills,
+p304
+aVwe could save the lives of nearly 30 million people by 2030.
+p305
+aVThirty services could save 30 million lives by 2030.
+p306
+aVThat's not just a blueprint \u2014
+p307
+aVwe're proving this can be done.
+p308
+aa(lp309
+VIn Liberia,
+p310
+aVthe Liberian government is training thousands of workers like A.B. and Musu
+p311
+aVafter Ebola,
+p312
+aVto bring health care to every child and family in the country.
+p313
+aVAnd we've been honored to work with them,
+p314
+aVand are now teaming up with a number of organizations
+p315
+aVthat are working across other countries
+p316
+aVto try to help them do the same thing.
+p317
+aVIf we could help these countries scale,
+p318
+aVwe could save millions of lives,
+p319
+aVand at the same time,
+p320
+aVwe could create millions of jobs.
+p321
+aa(lp322
+VWe simply can't do that, though, without technology.
+p323
+aVPeople are worried that technology is going to steal our jobs,
+p324
+aVbut when it comes to community health workers,
+p325
+aVtechnology has actually been vital for creating jobs.
+p326
+aVWithout technology \u2014 without this smartphone,
+p327
+aVwithout this rapid test \u2014
+p328
+aVit would have been impossible for us to be able to employ A.B. and Musu.
+p329
+aVAnd I think it's time for technology to help us train,
+p330
+aVto help us train people faster and better than ever before.
+p331
+aa(lp332
+VAs a doctor,
+p333
+aVI use technology to stay up-to-date and keep certified.
+p334
+aVI use smartphones, I use apps, I use online courses.
+p335
+aVBut when A.B. wants to learn,
+p336
+aVhe's got to jump back in that canoe
+p337
+aVand get to the training center.
+p338
+aVAnd when Musu shows up for training,
+p339
+aVher instructors are stuck using flip charts and markers.
+p340
+aVWhy shouldn't they have the same access to learn as I do?
+p341
+aVIf we truly want community health workers to master those lifesaving skills
+p342
+aVand even more,
+p343
+aVwe've got to change this old-school model of education.
+p344
+aVTech can truly be a game changer here.
+p345
+aVI've been in awe of the digital education revolution
+p346
+aVthat the likes of Khan Academy and edX have been leading.
+p347
+aVAnd I've been thinking that it's time;
+p348
+aVit's time for a collision
+p349
+aVbetween the digital education revolution
+p350
+aVand the community health revolution.
+p351
+aa(lp352
+VAnd so, this brings me to my TED Prize wish.
+p353
+aVI wish \u2014
+p354
+aVI wish that you would help us recruit
+p355
+aVthe largest army of community health workers the world has ever known
+p356
+aVby creating the Community Health Academy,
+p357
+aVa global platform to train, connect and empower.
+p358
+aa(lp359
+V(Applause)
+p360
+aa(lp361
+VThank you.
+p362
+aa(lp363
+V(Applause)
+p364
+aa(lp365
+VThank you.
+p366
+aa(lp367
+VHere's the idea:
+p368
+aVwe'll create and curate
+p369
+aVthe best in digital education resources.
+p370
+aVWe will bring those to community health workers around the world,
+p371
+aVincluding A.B. and Musu.
+p372
+aVThey'll get video lessons on giving kids vaccines
+p373
+aVand have online courses on spotting the next outbreak,
+p374
+aVso they're not stuck using flip charts.
+p375
+aVWe'll help these countries accredit these workers,
+p376
+aVso that they're not stuck remaining an under-recognized, undervalued group,
+p377
+aVbut become a renowned, empowered profession,
+p378
+aVjust like nurses and doctors.
+p379
+aa(lp380
+VAnd we'll create a network of companies and entrepreneurs
+p381
+aVwho've created innovations that can save lives
+p382
+aVand help them connect to workers like Musu,
+p383
+aVso she can help better serve her community.
+p384
+aVAnd we'll work tirelessly to persuade governments
+p385
+aVto make community health workers a cornerstone of their health care plans.
+p386
+aVWe plan to test and prototype the academy in Liberia
+p387
+aVand a few other partner countries,
+p388
+aVand then we plan to take it global,
+p389
+aVincluding to rural North America.
+p390
+aVWith the power of this platform,
+p391
+aVwe believe countries can be more persuaded
+p392
+aVthat a health care revolution really is possible.
+p393
+aa(lp394
+VMy dream is that this academy will contribute to the training
+p395
+aVof hundreds of thousands of community members
+p396
+aVto help bring health care to their neighbors \u2014
+p397
+aVthe hundreds of millions of them
+p398
+aVthat live in the world's most remote communities,
+p399
+aVfrom the forest communities of West Africa,
+p400
+aVto the fishing villages of rural Alaska;
+p401
+aVfrom the hilltops of Appalachia, to the mountains of Afghanistan.
+p402
+aVIf this vision is aligned with yours,
+p403
+aVhead to communityhealthacademy.org,
+p404
+aVand join this revolution.
+p405
+aVLet us know if you or your organization or someone you know could help us
+p406
+aVas we try to build this academy over the next year.
+p407
+aa(lp408
+VNow, as I look out into this room,
+p409
+aVI realize that our journeys are not self-made;
+p410
+aVthey're shaped by others.
+p411
+aVAnd there have been so many here that have been part of this cause.
+p412
+aVWe're so honored to be part of this community,
+p413
+aVand a community that's willing to take on a cause
+p414
+aVas audacious as this one,
+p415
+aVso I wanted to offer, as I end,
+p416
+aVa reflection.
+p417
+aa(lp418
+VI think a lot more about what my father taught me.
+p419
+aVThese days, I too have become a dad.
+p420
+aVI have two sons,
+p421
+aVand my wife and I just learned that she's pregnant with our third child.
+p422
+aa(lp423
+V(Applause)
+p424
+aa(lp425
+VThank you.
+p426
+aa(lp427
+V(Applause)
+p428
+aa(lp429
+VI was recently caring for a woman in Liberia
+p430
+aVwho, like my wife, was in her third pregnancy.
+p431
+aVBut unlike my wife,
+p432
+aVhad had no prenatal care with her first two babies.
+p433
+aVShe lived in an isolated community in the forest that had gone for 100 years
+p434
+aVwithout any health care
+p435
+aVuntil ...
+p436
+aVuntil last year when a nurse trained her neighbors
+p437
+aVto become community health workers.
+p438
+aa(lp439
+VSo here I was,
+p440
+aVseeing this patient who was in her second trimester,
+p441
+aVand I pulled out the ultrasound to check on the baby,
+p442
+aVand she started telling us stories about her first two kids,
+p443
+aVand I had the ultrasound probe on her belly,
+p444
+aVand she just stopped mid-sentence.
+p445
+aVShe turned to me and she said,
+p446
+aV"Doc, what's that sound?"
+p447
+aVIt was the first time she'd ever heard her baby's heartbeat.
+p448
+aVAnd her eyes lit up in the same way my wife's eyes and my own eyes lit up
+p449
+aVwhen we heard our baby's heartbeat.
+p450
+aa(lp451
+VFor all of human history,
+p452
+aVillness has been universal and access to care has not.
+p453
+aVBut as a wise man once told me:
+p454
+aVno condition is permanent.
+p455
+aVIt's time.
+p456
+aVIt's time for us to go as far as it takes
+p457
+aVto change this condition together.
+p458
+aa(lp459
+VThank you.
+p460
+aa(lp461
+V(Applause)
+p462
+aasS'id'
+p463
+I2789
+sS'title'
+p464
+VNo one should die because they live too far from a doctor
+p465
+s.

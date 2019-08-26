@@ -1,0 +1,359 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VHere are some images of clusters of galaxies.
+p4
+aVThey're exactly what they sound like.
+p5
+aVThey are these huge collections of galaxies,
+p6
+aVbound together by their mutual gravity.
+p7
+aVSo most of the points that you see on the screen
+p8
+aVare not individual stars,
+p9
+aVbut collections of stars, or galaxies.
+p10
+aa(lp11
+VNow, by showing you some of these images,
+p12
+aVI hope that you will quickly see that
+p13
+aVgalaxy clusters are these beautiful objects,
+p14
+aVbut more than that,
+p15
+aVI think galaxy clusters are mysterious,
+p16
+aVthey are surprising,
+p17
+aVand they're useful.
+p18
+aVUseful as the universe's most massive laboratories.
+p19
+aVAnd as laboratories, to describe galaxy clusters
+p20
+aVis to describe the experiments
+p21
+aVthat you can do with them.
+p22
+aa(lp23
+VAnd I think there are four major types,
+p24
+aVand the first type that I want to describe
+p25
+aVis probing the very big.
+p26
+aVSo, how big?
+p27
+aVWell, here is an image of a particular galaxy cluster.
+p28
+aVIt is so massive that the light passing through it
+p29
+aVis being bent, it's being distorted
+p30
+aVby the extreme gravity of this cluster.
+p31
+aVAnd, in fact, if you look very carefully
+p32
+aVyou'll be able to see rings around this cluster.
+p33
+aVNow, to give you a number,
+p34
+aVthis particular galaxy cluster
+p35
+aVhas a mass of over one million billion suns.
+p36
+aVIt's just mind-boggling how  massive these systems can get.
+p37
+aVBut more than their mass,
+p38
+aVthey have this additional feature.
+p39
+aVThey are essentially isolated systems,
+p40
+aVso if we like, we can think of them
+p41
+aVas a scaled-down version of the entire universe.
+p42
+aVAnd many of the questions that we might have
+p43
+aVabout the universe at large scales,
+p44
+aVsuch as, how does gravity work?
+p45
+aVmight be answered by studying these systems.
+p46
+aa(lp47
+VSo that was very big.
+p48
+aVThe second things is very hot.
+p49
+aVOkay, if I take an image of a galaxy cluster,
+p50
+aVand I subtract away all of the starlight,
+p51
+aVwhat I'm left with is this big, blue blob.
+p52
+aVThis is in false color.
+p53
+aVIt's actually X-ray light that we're seeing.
+p54
+aVAnd the question is, if it's not galaxies,
+p55
+aVwhat is emitting this light?
+p56
+aVThe answer is hot gas,
+p57
+aVmillion-degree gas \u2014
+p58
+aVin fact, it's plasma.
+p59
+aVAnd the reason why it's so hot
+p60
+aVgoes back to the previous slide.
+p61
+aVThe extreme gravity of these systems
+p62
+aVis accelerating particles of gas to great speeds,
+p63
+aVand great speeds means great temperatures.
+p64
+aVSo this is the main idea,
+p65
+aVbut science is a rough draft.
+p66
+aVThere are many basic properties about this plasma
+p67
+aVthat still confuse us,
+p68
+aVstill puzzle us,
+p69
+aVand still push our understanding
+p70
+aVof the physics of the very hot.
+p71
+aa(lp72
+VThird thing: probing the very small.
+p73
+aVNow, to explain this, I need to tell you
+p74
+aVa very disturbing fact.
+p75
+aVMost of the universe's matter
+p76
+aVis not made up of atoms.
+p77
+aVYou were lied to.
+p78
+aVMost of it is made up of something  very, very mysterious,
+p79
+aVwhich we call dark matter.
+p80
+aVDark matter is something that  doesn't like to interact very much,
+p81
+aVexcept through gravity,
+p82
+aVand of course we would like to learn more about it.
+p83
+aVIf you're a particle physicist,
+p84
+aVyou want to know what happens  when we smash things together.
+p85
+aVAnd dark matter is no exception.
+p86
+aa(lp87
+VWell, how do we do this?
+p88
+aVTo answer that question,
+p89
+aVI'm going to have to ask another one,
+p90
+aVwhich is, what happens when galaxy clusters collide?
+p91
+aVHere is an image.
+p92
+aVSince galaxy clusters are representative
+p93
+aVslices of the universe, scaled-down versions.
+p94
+aVThey are mostly made up of dark matter,
+p95
+aVand that's what you see in this bluish purple.
+p96
+aVThe red represents the hot gas,
+p97
+aVand, of course, you can see many galaxies.
+p98
+aVWhat's happened is a particle accelerator
+p99
+aVat a huge, huge scale.
+p100
+aVAnd this is very important,
+p101
+aVbecause what it means is that very, very small
+p102
+aVeffects that might be difficult to detect in the lab,
+p103
+aVmight be compounded and compounded
+p104
+aVinto something that we could  possibly observe in nature.
+p105
+aVSo, it's very funny.
+p106
+aVThe reason why galaxy clusters
+p107
+aVcan teach us about dark matter,
+p108
+aVthe reason why galaxy clusters
+p109
+aVcan teach us about the physics of the very small,
+p110
+aVis precisely because they are so very big.
+p111
+aa(lp112
+VFourth thing: the physics of the very strange.
+p113
+aVCertainly what I've said so far is crazy.
+p114
+aVOkay, if there's anything stranger
+p115
+aVI think it has to be dark energy.
+p116
+aVIf I throw a ball into the air,
+p117
+aVI expect it to go up.
+p118
+aVWhat I don't expect is that it go up
+p119
+aVat an ever-increasing rate.
+p120
+aVSimilarly, cosmologists understand why
+p121
+aVthe universe is expanding.
+p122
+aVThey don't understand why it's expanding
+p123
+aVat an ever-increasing rate.
+p124
+aVThey give the cause of this
+p125
+aVaccelerated expansion a name,
+p126
+aVand they call it dark energy.
+p127
+aVAnd, again, we want to learn more about it.
+p128
+aa(lp129
+VSo, one particular question that we have is,
+p130
+aVhow does dark energy affect the universe
+p131
+aVat the largest scales?
+p132
+aVDepending on how strong it is,
+p133
+aVmaybe structure forms faster or slower.
+p134
+aVWell, the problem with the large-scale structure
+p135
+aVof the universe is that it's horribly complicated.
+p136
+aVHere is a computer simulation.
+p137
+aVAnd we need a way to simplify it.
+p138
+aVWell, I like to think about this using an analogy.
+p139
+aVIf I want to understand the sinking of the Titanic,
+p140
+aVthe most important thing to do
+p141
+aVis not to model the little positions
+p142
+aVof every single little piece of the boat that broke off.
+p143
+aVThe most important thing to do is
+p144
+aVto track the two biggest parts.
+p145
+aVSimilarly, I can learn a lot about the universe
+p146
+aVat the largest scales
+p147
+aVby tracking its biggest pieces
+p148
+aVand those biggest pieces are clusters of galaxies.
+p149
+aa(lp150
+VSo, as I come to a close,
+p151
+aVyou might feel slightly cheated.
+p152
+aVI mean, I began by talking about
+p153
+aVhow galaxy clusters are useful,
+p154
+aVand I've given some reasons,
+p155
+aVbut what is their use really?
+p156
+aVWell, to answer this,
+p157
+aVI want to give you a quote by Henry Ford
+p158
+aVwhen he was asked about cars.
+p159
+aVHe had this to say:
+p160
+aV"If I had asked people what they wanted,
+p161
+aVthey would have said faster horses."
+p162
+aVToday, we as a society are faced
+p163
+aVwith many, many difficult problems.
+p164
+aVAnd the solutions to these  problems are not obvious.
+p165
+aVThey are not faster horses.
+p166
+aVThey will require an enormous amount of
+p167
+aVscientific ingenuity.
+p168
+aa(lp169
+VSo, yes, we need to focus,
+p170
+aVyes, we need to concentrate,
+p171
+aVbut we also need to remember that
+p172
+aVinnovation, ingenuity, inspiration \u2014
+p173
+aVthese things come
+p174
+aVwhen we broaden our field of vision
+p175
+aVwhen we step back
+p176
+aVwhen we zoom out.
+p177
+aVAnd I can't think of a better way to do this than
+p178
+aVby studying the universe around us. Thanks.
+p179
+aa(lp180
+V(Applause)
+p181
+aasS'id'
+p182
+I1936
+sS'title'
+p183
+VWhat we can learn from galaxies far, far away
+p184
+s.

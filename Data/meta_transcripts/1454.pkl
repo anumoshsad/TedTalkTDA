@@ -1,0 +1,317 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VRecently I visited Beloit, Wisconsin.
+p4
+aVAnd I was there to honor a great 20th century explorer,
+p5
+aVRoy Chapman Andrews.
+p6
+aVDuring his time at the American Museum of Natural History,
+p7
+aVAndrews led a range of expeditions to uncharted regions,
+p8
+aVlike here in the Gobi Desert.
+p9
+aVHe was quite a figure.
+p10
+aVHe was later, it's said, the basis of the Indiana Jones character.
+p11
+aa(lp12
+VAnd when I was in Beloit, Wisconsin,
+p13
+aVI gave a public lecture to a group of middle school students.
+p14
+aVAnd I'm here to tell you,
+p15
+aVif there's anything more intimidating than talking here at TED,
+p16
+aVit'll be trying to hold the attention
+p17
+aVof a group of a thousand 12-year-olds for a 45-minute lecture.
+p18
+aVDon't try that one.
+p19
+aa(lp20
+VAt the end of the lecture they asked a number of questions,
+p21
+aVbut there was one that's really stuck with me since then.
+p22
+aVThere was a young girl who stood up,
+p23
+aVand she asked the question:
+p24
+aV"Where should we explore?"
+p25
+aa(lp26
+VI think there's a sense that many of us have
+p27
+aVthat the great age of exploration on Earth is over,
+p28
+aVthat for the next generation
+p29
+aVthey're going to have to go to outer space or the deepest oceans
+p30
+aVin order to find something significant to explore.
+p31
+aVBut is that really the case?
+p32
+aVIs there really nowhere significant for us to explore
+p33
+aVleft here on Earth?
+p34
+aa(lp35
+VIt sort of made me think back
+p36
+aVto one of my favorite explorers in the history of biology.
+p37
+aVThis is an explorer of the unseen world, Martinus Beijerinck.
+p38
+aVSo Beijerinck set out to discover the cause
+p39
+aVof tobacco mosaic disease.
+p40
+aVWhat he did is he took the infected juice from tobacco plants
+p41
+aVand he would filter it through smaller and smaller filters.
+p42
+aVAnd he reached the point
+p43
+aVwhere he felt that there must be something out there
+p44
+aVthat was smaller than the smallest forms of life that were ever known \u2014
+p45
+aVbacteria, at the time.
+p46
+aVHe came up with a name for his mystery agent.
+p47
+aVHe called it the virus \u2014
+p48
+aVLatin for "poison."
+p49
+aVAnd in uncovering viruses,
+p50
+aVBeijerinck really opened this entirely new world for us.
+p51
+aa(lp52
+VWe now know that viruses make up the majority
+p53
+aVof the genetic information on our planet,
+p54
+aVmore than the genetic information
+p55
+aVof all other forms of life combined.
+p56
+aVAnd obviously there's been tremendous practical applications
+p57
+aVassociated with this world \u2014
+p58
+aVthings like the eradication of smallpox,
+p59
+aVthe advent of a vaccine against cervical cancer,
+p60
+aVwhich we now know is mostly caused by human papillomavirus.
+p61
+aa(lp62
+VAnd Beijerinck's discovery,
+p63
+aVthis was not something that occurred 500 years ago.
+p64
+aVIt was a little over 100 years ago
+p65
+aVthat Beijerinck discovered viruses.
+p66
+aVSo basically we had automobiles,
+p67
+aVbut we were unaware of the forms of life
+p68
+aVthat make up most of the genetic information on our planet.
+p69
+aa(lp70
+VWe now have these amazing tools
+p71
+aVto allow us to explore the unseen world \u2014
+p72
+aVthings like deep sequencing,
+p73
+aVwhich allow us to do much more than just skim the surface
+p74
+aVand look at individual genomes from a particular species,
+p75
+aVbut to look at entire metagenomes,
+p76
+aVthe communities of teeming microorganisms in, on and around us
+p77
+aVand to document all of the genetic information in these species.
+p78
+aVWe can apply these techniques
+p79
+aVto things from soil to skin and everything in between.
+p80
+aa(lp81
+VIn my organization we now do this on a regular basis
+p82
+aVto identify the causes of outbreaks
+p83
+aVthat are unclear exactly what causes them.
+p84
+aa(lp85
+VAnd just to give you a sense of how this works,
+p86
+aVimagine that we took a nasal swab from every single one of you.
+p87
+aVAnd this is something we commonly do
+p88
+aVto look for respiratory viruses like influenza.
+p89
+aVThe first thing we would see
+p90
+aVis a tremendous amount of genetic information.
+p91
+aVAnd if we started looking into that genetic information,
+p92
+aVwe'd see a number of usual suspects out there \u2014
+p93
+aVof course, a lot of human genetic information,
+p94
+aVbut also bacterial and viral information,
+p95
+aVmostly from things that are completely harmless within your nose.
+p96
+aVBut we'd also see something very, very surprising.
+p97
+aVAs we started to look at this information,
+p98
+aVwe would see that about 20 percent of the genetic information in your nose
+p99
+aVdoesn't match anything that we've ever seen before \u2014
+p100
+aVno plant, animal, fungus, virus or bacteria.
+p101
+aVBasically we have no clue what this is.
+p102
+aa(lp103
+VAnd for the small group of us who actually study this kind of data,
+p104
+aVa few of us have actually begun to call this information
+p105
+aVbiological dark matter.
+p106
+aVWe know it's not anything that we've seen before;
+p107
+aVit's sort of the equivalent of an uncharted continent
+p108
+aVright within our own genetic information.
+p109
+aVAnd there's a lot of it.
+p110
+aVIf you think 20 percent of genetic information in your nose is a lot
+p111
+aVof biological dark matter,
+p112
+aVif we looked at your gut,
+p113
+aVup to 40 or 50 percent of that information is biological dark matter.
+p114
+aVAnd even in the relatively sterile blood,
+p115
+aVaround one to two percent of this information is dark matter \u2014
+p116
+aVcan't be classified, can't be typed or matched with anything we've seen before.
+p117
+aa(lp118
+VAt first we thought that perhaps this was artifact.
+p119
+aVThese deep sequencing tools are relatively new.
+p120
+aVBut as they become more and more accurate,
+p121
+aVwe've determined that this information is a form of life,
+p122
+aVor at least some of it is a form of life.
+p123
+aVAnd while the hypotheses for explaining the existence of biological dark matter
+p124
+aVare really only in their infancy,
+p125
+aVthere's a very, very exciting possibility that exists:
+p126
+aVthat buried in this life, in this genetic information,
+p127
+aVare signatures of as of yet unidentified life.
+p128
+aVThat as we explore these strings of A's, T's, C's and G's,
+p129
+aVwe may uncover a completely new class of life
+p130
+aVthat, like Beijerinck, will fundamentally change
+p131
+aVthe way that we think about the nature of biology.
+p132
+aVThat perhaps will allow us to identify the cause of a cancer that afflicts us
+p133
+aVor identify the source of an outbreak that we aren't familiar with
+p134
+aVor perhaps create a new tool in molecular biology.
+p135
+aa(lp136
+VI'm pleased to announce that,
+p137
+aValong with colleagues at Stanford and Caltech and UCSF,
+p138
+aVwe're currently starting an initiative
+p139
+aVto explore biological dark matter for the existence of new forms of life.
+p140
+aa(lp141
+VA little over a hundred years ago,
+p142
+aVpeople were unaware of viruses,
+p143
+aVthe forms of life that make up most of the genetic information on our planet.
+p144
+aVA hundred years from now, people may marvel
+p145
+aVthat we were perhaps completely unaware of a new class of life
+p146
+aVthat literally was right under our noses.
+p147
+aa(lp148
+VIt's true, we may have charted all the continents on the planet
+p149
+aVand we may have discovered all the mammals that are out there,
+p150
+aVbut that doesn't mean that there's nothing left to explore on Earth.
+p151
+aVBeijerinck and his kind
+p152
+aVprovide an important lesson for the next generation of explorers \u2014
+p153
+aVpeople like that young girl from Beloit, Wisconsin.
+p154
+aVAnd I think if we phrase that lesson, it's something like this:
+p155
+aVDon't assume that what we currently think is out there is the full story.
+p156
+aVGo after the dark matter in whatever field you choose to explore.
+p157
+aVThere are unknowns all around us
+p158
+aVand they're just waiting to be discovered.
+p159
+aa(lp160
+VThank you.
+p161
+aa(lp162
+V(Applause)
+p163
+aasS'id'
+p164
+I1454
+sS'title'
+p165
+VWhat's left to explore?
+p166
+s.

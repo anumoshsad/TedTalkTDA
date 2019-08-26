@@ -1,0 +1,702 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VChris Anderson: So Robert spent the last few years
+p4
+aVthink about how weird human behavior is,
+p5
+aVand how inadequate most of our language trying to explain it is.
+p6
+aVAnd it's very exciting to hear him explain some of the thinking behind it
+p7
+aVin public for the first time.
+p8
+aVOver to you now, Robert Sapolsky.
+p9
+aa(lp10
+V(Applause)
+p11
+aa(lp12
+VRobert Sapolsky: Thank you.
+p13
+aVThe fantasy always runs something like this.
+p14
+aVI've overpowered his elite guard,
+p15
+aVburst into his secret bunker
+p16
+aVwith my machine gun ready.
+p17
+aVHe lunges for his Luger.
+p18
+aVI knock it out of his hand.
+p19
+aVHe lunges for his cyanide pill.
+p20
+aVI knock that out of his hand.
+p21
+aVHe snarls,
+p22
+aVcomes at me with otherworldly strength.
+p23
+aVWe grapple, we fight,
+p24
+aVI manage to pin him down
+p25
+aVand put on handcuffs.
+p26
+aV"Adolf Hitler," I say,
+p27
+aV"I arrest you for crimes against humanity."
+p28
+aa(lp29
+VHere's where the Medal of Honor version of the fantasy ends
+p30
+aVand the imagery darkens.
+p31
+aVWhat would I do if I had Hitler?
+p32
+aVIt's not hard to imagine once I allow myself.
+p33
+aVSever his spine at the neck.
+p34
+aVTake out his eyes with a blunt instrument.
+p35
+aVPuncture his eardrums. Cut out his tongue.
+p36
+aVLeave him alive on a respirator,
+p37
+aVtube-fed, not able to speak or move or see or hear, just to feel,
+p38
+aVand then inject him with something cancerous
+p39
+aVthat's going to fester and pustulate
+p40
+aVuntil every cell in his body is screaming in agony,
+p41
+aVuntil every second feels like an eternity in hell.
+p42
+aVThat's what I would do to Hitler.
+p43
+aa(lp44
+VI've had this fantasy since I was a kid,
+p45
+aVstill do sometimes,
+p46
+aVand when I do, my heart speeds up \u2014
+p47
+aVall these plans for the most evil, wicked soul in history.
+p48
+aVBut there's a problem,
+p49
+aVwhich is I don't actually believe in souls or evil,
+p50
+aVand I think wicked belongs in a musical.
+p51
+aVBut there's some people I would like to see killed,
+p52
+aVbut I'm against the death penalty.
+p53
+aVBut I like schlocky violent movies,
+p54
+aVbut I'm for strict gun control.
+p55
+aVBut then there was a time I was at a laser tag place,
+p56
+aVand I had such a good time hiding in a corner shooting at people.
+p57
+aVIn other words, I'm your basic confused human when it comes to violence.
+p58
+aa(lp59
+VNow, as a species, we obviously have problems with violence.
+p60
+aVWe use shower heads to deliver poison gas,
+p61
+aVletters with anthrax, airplanes as weapons,
+p62
+aVmass rape as a military strategy.
+p63
+aVWe're a miserably violent species.
+p64
+aVBut there's a complication,
+p65
+aVwhich is we don't hate violence,
+p66
+aVwe hate the wrong kind.
+p67
+aVAnd when it's the right kind,
+p68
+aVwe cheer it on, we hand out medals,
+p69
+aVwe vote for, we mate with our champions of it.
+p70
+aVWhen it's the right kind of violence,
+p71
+aVwe love it.
+p72
+aVAnd there's another complication,
+p73
+aVwhich is, in addition to us being this miserably violent species,
+p74
+aVwe're also this extraordinarily altruistic, compassionate one.
+p75
+aa(lp76
+VSo how do you make sense of the biology of our best behaviors,
+p77
+aVour worst ones and all of those ambiguously in between?
+p78
+aa(lp79
+VNow, for starters,
+p80
+aVwhat's totally boring is understanding the motoric aspects of the behavior.
+p81
+aVYour brain tells your spine, tells your muscles
+p82
+aVto do something or other,
+p83
+aVand hooray, you've behaved.
+p84
+aVWhat's hard is understanding the meaning of the behavior,
+p85
+aVbecause in some settings, pulling a trigger is an appalling act;
+p86
+aVin others, it's heroically self-sacrificial.
+p87
+aVIn some settings, putting your hand one someone else's
+p88
+aVis deeply compassionate.
+p89
+aVIn others, it's a deep betrayal.
+p90
+aVThe challenge is to understand
+p91
+aVthe biology of the context of our behaviors,
+p92
+aVand that's real tough.
+p93
+aa(lp94
+VOne thing that's clear, though, is you're not going to get anywhere
+p95
+aVif you think there's going to be the brain region or the hormone
+p96
+aVor the gene or the childhood experience
+p97
+aVor the evolutionary mechanism that explains everything.
+p98
+aVInstead, every bit of behavior has multiple levels of causality.
+p99
+aa(lp100
+VLet's look at an example.
+p101
+aVYou have a gun.
+p102
+aVThere's a crisis going on:
+p103
+aVrioting, violence, people running around.
+p104
+aVA stranger is running at you in an agitated state \u2014
+p105
+aVyou can't quite tell if the expression is frightened, threatening, angry \u2014
+p106
+aVholding something that kind of looks like a handgun.
+p107
+aVYou're not sure.
+p108
+aVThe stranger comes running at you
+p109
+aVand you pull the trigger.
+p110
+aVAnd it turns out that thing in this person's hand
+p111
+aVwas a cell phone.
+p112
+aa(lp113
+VSo we asked this biological question:
+p114
+aVwhat was going on that caused this behavior?
+p115
+aVWhat caused this behavior?
+p116
+aVAnd this is a multitude of questions.
+p117
+aa(lp118
+VWe start.
+p119
+aVWhat was going on in your brain one second before you pulled that trigger?
+p120
+aVAnd this brings us into the realm of a brain region called the amygdala.
+p121
+aVThe amygdala, which is central to violence, central to fear,
+p122
+aVinitiates volleys of cascades
+p123
+aVthat produce pulling of a trigger.
+p124
+aVWhat was the level of activity in your amygdala one second before?
+p125
+aa(lp126
+VBut to understand that, we have to step back a little bit.
+p127
+aVWhat was going on in the environment seconds to minutes before
+p128
+aVthat impacted the amygdala?
+p129
+aVNow, obviously, the sights, the sounds of the rioting,
+p130
+aVthat was pertinent.
+p131
+aVBut in addition,
+p132
+aVyou're more likely to mistake a cell phone for a handgun
+p133
+aVif that stranger was male
+p134
+aVand large and of a different race.
+p135
+aVFurthermore, if you're in pain,
+p136
+aVif you're hungry, if you're exhausted,
+p137
+aVyour frontal cortex is not going to work as well,
+p138
+aVpart of the brain whose job it is to get to the amygdala in time
+p139
+aVsaying, "Are you really sure that's a gun there?"
+p140
+aa(lp141
+VBut we need to step further back.
+p142
+aVNow we have to look at hours to days before,
+p143
+aVand with this, we have entered the realm of hormones.
+p144
+aVFor example, testosterone,
+p145
+aVwhere regardless of your sex,
+p146
+aVif you have elevated testosterone levels in your blood,
+p147
+aVyou're more likely to think a face with a neutral expression
+p148
+aVis instead looking threatening.
+p149
+aVElevated testosterone levels, elevated levels of stress hormones,
+p150
+aVand your amygdala is going to be more active
+p151
+aVand your frontal cortex will be more sluggish.
+p152
+aa(lp153
+VPushing back further, weeks to months before,
+p154
+aVwhere's the relevance there?
+p155
+aVThis is the realm of neural plasticity,
+p156
+aVthe fact that your brain can change in response to experience,
+p157
+aVand if your previous months have been filled with stress and trauma,
+p158
+aVyour amygdala will have enlarged.
+p159
+aVThe neurons will have become more excitable,
+p160
+aVyour frontal cortex would have atrophied,
+p161
+aVall relevant to what happens in that one second.
+p162
+aa(lp163
+VBut we push back even more, back years,
+p164
+aVback, for example, to your adolescence.
+p165
+aVNow, the central fact of the adolescent brain
+p166
+aVis all of it is going full blast
+p167
+aVexcept the frontal cortex,
+p168
+aVwhich is still half-baked.
+p169
+aVIt doesn't fully mature until you're around 25.
+p170
+aVAnd thus, adolescence and early adulthood
+p171
+aVare the years where environment and experience sculpt your frontal cortex
+p172
+aVinto the version you're going to have as an adult in that critical moment.
+p173
+aa(lp174
+VBut pushing back even further,
+p175
+aVeven further back to childhood and fetal life
+p176
+aVand all the different versions that that could come in.
+p177
+aVNow, obviously, that's the time that your brain is being constructed,
+p178
+aVand that's important,
+p179
+aVbut in addition, experience during those times
+p180
+aVproduce what are called epigenetic changes,
+p181
+aVpermanent, in some cases,
+p182
+aVpermanently activating certain genes, turning off others.
+p183
+aVAnd as an example of this,
+p184
+aVif as a fetus you were exposed to a lot of stress hormones through your mother,
+p185
+aVepigenetics is going to produce your amygdala in adulthood
+p186
+aVas a more excitable form,
+p187
+aVand you're going to have elevated stress hormone levels.
+p188
+aa(lp189
+VBut pushing even further back,
+p190
+aVback to when you were just a fetus,
+p191
+aVback to when all you were was a collection of genes.
+p192
+aVNow, genes are really important to all of this,
+p193
+aVbut critically, genes don't determine anything,
+p194
+aVbecause genes work differently in different environments.
+p195
+aVKey example here:
+p196
+aVthere's a variant of a gene called MAO-A,
+p197
+aVand if you have that variant,
+p198
+aVyou are far more likely to commit antisocial violence
+p199
+aVif, and only if, you were abused as a child.
+p200
+aVGenes and environment interact,
+p201
+aVand what's happening in that one second before you pull that trigger
+p202
+aVreflects your lifetime of those gene-environment interactions.
+p203
+aa(lp204
+VNow, remarkably enough, we've got to push even further back now,
+p205
+aVback centuries.
+p206
+aVWhat were your ancestors up to.
+p207
+aVAnd if, for example, they were nomadic pastoralists,
+p208
+aVthey were pastoralists,
+p209
+aVpeople living in deserts or grasslands
+p210
+aVwith their herds of camels, cows, goats,
+p211
+aVodds are they would have invented what's called a culture of honor
+p212
+aVfilled with warrior classes,
+p213
+aVretributive violence, clan vendettas,
+p214
+aVand amazingly, centuries later,
+p215
+aVthat would still be influencing the values with which you were raised.
+p216
+aa(lp217
+VBut we've got to push even further back,
+p218
+aVback millions of years,
+p219
+aVbecause if we're talking about genes,
+p220
+aVimplicitly we're now talking about the evolution of genes.
+p221
+aVAnd what you see is, for example,
+p222
+aVpatterns across different primate species.
+p223
+aVSome of them have evolved for extremely low levels of aggression,
+p224
+aVothers have evolved in the opposite direction,
+p225
+aVand floating there in between by every measure are humans,
+p226
+aVonce again this confused, barely defined species
+p227
+aVthat has all these potentials to go one way or the other.
+p228
+aa(lp229
+VSo what has this gotten us to?
+p230
+aVBasically, what we're seeing here is,
+p231
+aVif you want to understand a behavior,
+p232
+aVwhether it's an appalling one, a wondrous one,
+p233
+aVor confusedly in between,
+p234
+aVif you want to understand that,
+p235
+aVyou've got take into account what happened a second before
+p236
+aVto a million years before,
+p237
+aVeverything in between.
+p238
+aa(lp239
+VSo what can we conclude at this point?
+p240
+aVOfficially, it's complicated.
+p241
+aVWow, that's really helpful.
+p242
+aVIt's complicated,
+p243
+aVand you'd better be real careful, real cautious
+p244
+aVbefore you conclude you know what causes a behavior,
+p245
+aVespecially if it's a behavior you're judging harshly.
+p246
+aa(lp247
+VNow, to me, the single most important point about all of this
+p248
+aVis one having to do with change.
+p249
+aVEvery bit of biology I have mentioned here can change in different circumstances.
+p250
+aVFor example, ecosystems change.
+p251
+aVThousands of years ago, the Sahara was a lush grassland.
+p252
+aVCultures change.
+p253
+aVIn the 17th century, the most terrifying people in Europe were the Swedes,
+p254
+aVrampaging all over the place.
+p255
+aVThis is what the Swedish military does now.
+p256
+aVThey haven't had a war in 200 years.
+p257
+aVMost importantly,
+p258
+aVbrains change.
+p259
+aVNeurons grow new processes.
+p260
+aVCircuits disconnect.
+p261
+aVEverything in the brain changes,
+p262
+aVand out of this come extraordinary examples of human change.
+p263
+aa(lp264
+VFirst one:
+p265
+aVthis is a man named John Newton,
+p266
+aVa British theologian
+p267
+aVwho played a central role in the abolition of slavery from the British Empire
+p268
+aVin the early 1800s.
+p269
+aVAnd amazingly, this man spent decades as a younger man
+p270
+aVas the captain of a slave ship,
+p271
+aVand then as an investor in slavery,
+p272
+aVgrowing rich from this.
+p273
+aVAnd then something changed.
+p274
+aVSomething changed in him,
+p275
+aVsomething that Newton himself celebrated in the thing that he's most famous for,
+p276
+aVa hymn that he wrote:
+p277
+aV"Amazing Grace."
+p278
+aa(lp279
+VThis is a man named Zenji Abe on the morning of December 6, 1941,
+p280
+aVabout to lead a squadron of Japanese bombers to attack Pearl Harbor.
+p281
+aVAnd this is the same man 50 years later to the day
+p282
+aVhugging a man who survived the attack on the ground.
+p283
+aVAnd as an old man,
+p284
+aVZenji Abe came to a collection of Pearl Harbor survivors
+p285
+aVat a ceremony there
+p286
+aVand in halting English apologized for what he had done as a young man.
+p287
+aa(lp288
+VNow, it doesn't always require decades.
+p289
+aVSometimes, extraordinary change could happen in just hours.
+p290
+aVConsider the World War I Christmas truce of 1914.
+p291
+aVThe powers that be had negotiated a brief truce
+p292
+aVso that soldiers could go out,
+p293
+aVcollect bodies from no-man's-land in between the trench lines.
+p294
+aVAnd soon British and German soldiers
+p295
+aVwere doing that,
+p296
+aVand then helping each other carry bodies,
+p297
+aVand then helping each other dig graves in the frozen ground,
+p298
+aVand then praying together,
+p299
+aVand then having Christmas together and exchanging gifts,
+p300
+aVand by the next day, they were playing soccer together
+p301
+aVand exchanging addresses so they could meet after the war.
+p302
+aVThat truce kept going until the officers had to arrive
+p303
+aVand said, "We will shoot you
+p304
+aVunless you go back to trying to kill each other."
+p305
+aVAnd all it took here was hours
+p306
+aVfor these men to develop a completely new category of "us,"
+p307
+aVall of us in the trenches here
+p308
+aVon both sides, dying for no damn reason,
+p309
+aVand who is a "them," those faceless powers behind the lines
+p310
+aVwho were using them as pawns.
+p311
+aa(lp312
+VAnd sometimes, change can occur in seconds.
+p313
+aVProbably the most horrifying event in the Vietnam War
+p314
+aVwas the My Lai Massacre.
+p315
+aVA brigade of American soldiers
+p316
+aVwent into an undefended village full of civilians
+p317
+aVand killed between 350 and 500 of them,
+p318
+aVmass-raped women and children,
+p319
+aVmutilated bodies.
+p320
+aVIt was appalling.
+p321
+aVIt was appalling because it occurred, because the government denied it,
+p322
+aVbecause the US government eventually did nothing more than a slap on the wrist,
+p323
+aVand appalling because it almost certainly was not a singular event.
+p324
+aVThis man, Hugh Thompson, this is the man who stopped the My Lai Massacre.
+p325
+aVHe was piloting a helicopter gunship,
+p326
+aVlanded there, got out
+p327
+aVand saw American soldiers shooting babies,
+p328
+aVshooting old women,
+p329
+aVfigured out what was going on,
+p330
+aVand he then took his helicopter
+p331
+aVand did something that undid his lifetime of conditioning
+p332
+aVas to who is an "us" and who is a "them."
+p333
+aVHe landed his helicopter
+p334
+aVin between some surviving villagers and American soldiers
+p335
+aVand he trained his machine guns on his fellow Americans,
+p336
+aVand said, "If you don't stop the killing, I will mow you down."
+p337
+aa(lp338
+VNow, these people are no more special than any of us.
+p339
+aVSame neurons, same neurochemicals,
+p340
+aVsame biology.
+p341
+aVWhat we're left with here is this inevitable cliche:
+p342
+aV"Those who don't study history are destined to repeat it."
+p343
+aVWhat we have here is the opposite of it.
+p344
+aVThose who don't study the history of extraordinary human change,
+p345
+aVthose who don't study the biology of what can transform us
+p346
+aVfrom our worst to our best behaviors,
+p347
+aVthose who don't do this are destined not to be able
+p348
+aVto repeat these incandescent, magnificent moments.
+p349
+aa(lp350
+VSo thank you.
+p351
+aa(lp352
+V(Applause)
+p353
+aa(lp354
+VCA: Talks that really give you a new mental model about something,
+p355
+aVthose are some of my favorite TED Talks,
+p356
+aVand we just got one.
+p357
+aVRobert, thank you so much for that. Good luck with the book.
+p358
+aVThat was amazing,
+p359
+aVand we're going to try and get you to come here in person one year.
+p360
+aVThank you so much.
+p361
+aa(lp362
+VRS: Thank you. Thank you all.
+p363
+aasS'id'
+p364
+I2779
+sS'title'
+p365
+VThe biology of our best and worst selves
+p366
+s.

@@ -1,0 +1,755 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+V(Sings)
+p4
+aVWater
+p5
+aVBoy
+p6
+aa(lp7
+V(Guitar strum)
+p8
+aa(lp9
+Vwhere are you hidin'?
+p10
+aa(lp11
+V(Guitar strum)
+p12
+aa(lp13
+VIf you don't come right here,
+p14
+aVI'm gonna tell
+p15
+aVyour pa on you.
+p16
+aa(lp17
+V(Guitar strum)
+p18
+aa(lp19
+VThere ain't no hammer \u2014
+p20
+aa(lp21
+V(Guitar strum)
+p22
+aa(lp23
+Vthat's on this mountain
+p24
+aa(lp25
+V(Guitar strum)
+p26
+aa(lp27
+VThat ring like mine, boy \u2014
+p28
+aa(lp29
+V(Guitar strum)
+p30
+aa(lp31
+Vthat ring like mine.
+p32
+aa(lp33
+V(Guitar strum)
+p34
+aa(lp35
+VI'm gonna bust this rock, boy \u2014
+p36
+aa(lp37
+V(Guitar strum)
+p38
+aa(lp39
+Vfrom here to Macon.
+p40
+aa(lp41
+V(Guitar strum)
+p42
+aa(lp43
+VAll the way to the jail, boy \u2014
+p44
+aa(lp45
+V(Guitar strum)
+p46
+aa(lp47
+Vall the way to the jail.
+p48
+aa(lp49
+V(Guitar strum)
+p50
+aa(lp51
+VYou jack of diamonds \u2014
+p52
+aa(lp53
+V(Music)
+p54
+aa(lp55
+Vyou jack of diamonds
+p56
+aVI know you of old boy,
+p57
+aVI know you of old.
+p58
+aVYou done robbed my pocket,
+p59
+aVyou done robbed my pocket
+p60
+aVof silver and gold, boy,
+p61
+aVof silver and gold.
+p62
+aa(lp63
+VWater Boy,
+p64
+aVwhere are you hidin'?
+p65
+aVIf you don't come right here,
+p66
+aVI'm gonna tell your pa on you.
+p67
+aVThere ain't no hammer
+p68
+aVthat's on this mountain
+p69
+aVthat ring like mine, boy,
+p70
+aVthat ring like mine.
+p71
+aa(lp72
+VI'm gonna bust this rock, boy,
+p73
+aVfrom here to Macon.
+p74
+aVAll the way to the jail, boy,
+p75
+aVall the way to the jail.
+p76
+aa(lp77
+VWater
+p78
+aVBoy
+p79
+aa(lp80
+V(Guitar strum)
+p81
+aa(lp82
+Vwhere are you hidin'?
+p83
+aa(lp84
+V(Guitar strum)
+p85
+aa(lp86
+VIf you don't come right here,
+p87
+aVif you don't come right here,
+p88
+aVif you don't come right here,
+p89
+aVI'm gonna tell
+p90
+aVyour pa
+p91
+aVon you.
+p92
+aa(lp93
+V(Guitar strum)
+p94
+aa(lp95
+V(Applause)
+p96
+aa(lp97
+VThank you.
+p98
+aa(lp99
+VThat was a song based on numerous work songs,
+p100
+aVand it was arranged by Odetta,
+p101
+aVa hero of mine.
+p102
+aVAnd this next song, well,
+p103
+aVI do a lot of historical music,
+p104
+aVstarting with the Carolina Chocolate Drops
+p105
+aVand continuing on in my solo endeavors.
+p106
+aVAnd I believe that knowing your history as a musician
+p107
+aVis super important \u2014
+p108
+aVit's important as a person,
+p109
+aVit's important as a country,
+p110
+aVit's important as a people.
+p111
+aa(lp112
+VSo I read a lot about where the music comes from
+p113
+aVand where this country comes from.
+p114
+aVI've been reading a lot about the Civil War
+p115
+aVand about slavery.
+p116
+aVAnd it's really tough.
+p117
+aVYou know?
+p118
+aVIt's really tough reading.
+p119
+aVAnd so as an artist, what I do with all that emotion,
+p120
+aVreading these people's stories,
+p121
+aVnot just, "Oh, slavery was terrible."
+p122
+aVYes, it was.
+p123
+aVBut it's reading individual narratives of how it was for these people.
+p124
+aVYou know?
+p125
+aVThen it's like, "Yeah, that could've been me."
+p126
+aVAnd it is people now. You know?
+p127
+aVSo what you do with all that emotion
+p128
+aVis you've got to do something with it.
+p129
+aVAs an artist, I write.
+p130
+aVSo I wrote a song based on some of those narratives that I read,
+p131
+aVand it's called, "Come Love Come."
+p132
+aVWe're going to do it for you now.
+p133
+aa(lp134
+V(Claps)
+p135
+aa(lp136
+V(Sings) Come love come,
+p137
+aVthe road lies low,
+p138
+aVthe way is long and hard, I know.
+p139
+aVCome love come,
+p140
+aVthe road lies free,
+p141
+aVI'll wait for you in Tennessee.
+p142
+aa(lp143
+V(Music)
+p144
+aa(lp145
+V(Sings) When I was four,
+p146
+aVmy loving mam was cornered by the boss's man.
+p147
+aVShe turned her head and got struck down,
+p148
+aVthey buried her in the cold, cold ground.
+p149
+aa(lp150
+VCome love come,
+p151
+aVthe road lies low,
+p152
+aVthe way is long and hard, I know.
+p153
+aVCome love come,
+p154
+aVthe road lies free,
+p155
+aVI'll wait for you in Tennessee.
+p156
+aa(lp157
+V(Music)
+p158
+aa(lp159
+VWhen I was 12,
+p160
+aVmy father dear
+p161
+aVwas strong of arm and free of fear
+p162
+aVuntil the day he raised his hand,
+p163
+aVthen he was sold to Alabama.
+p164
+aa(lp165
+VCome love come,
+p166
+aVthe road lies low,
+p167
+aVthe way is long and hard, I know.
+p168
+aVCome love come,
+p169
+aVthe road lies free,
+p170
+aVI'll wait for you in Tennessee.
+p171
+aa(lp172
+V(Music)
+p173
+aa(lp174
+VWhen I was 16, found my bloom
+p175
+aVand found my man,
+p176
+aVwe jumped the broom.
+p177
+aVWe pledged each other the rest of our lives
+p178
+aVand on Saturday nights we were man and wife.
+p179
+aa(lp180
+VCome love come,
+p181
+aVthe road lies low,
+p182
+aVthe way is long and hard, I know.
+p183
+aVCome love come,
+p184
+aVthe road lies free,
+p185
+aVI'll wait for you in Tennessee.
+p186
+aa(lp187
+V(Music)
+p188
+aa(lp189
+VWhen I was 18,
+p190
+aVbugles called
+p191
+aVand boys in blue came o'er the wall.
+p192
+aVI took my chance and followed free,
+p193
+aVthey led the way to Tennessee.
+p194
+aa(lp195
+VCome love come,
+p196
+aVthe road lies low,
+p197
+aVthe way is long and hard, I know.
+p198
+aVCome love come,
+p199
+aVthe road lies free,
+p200
+aVI'll wait for you in Tennessee.
+p201
+aa(lp202
+V(Music)
+p203
+aa(lp204
+VNow here I sit in a tiny shack
+p205
+aVwith 13 others at my back.
+p206
+aVI've sent you word,
+p207
+aVso all I can do
+p208
+aVis wait and wait and wait and wait
+p209
+aVand wait
+p210
+aVand wait for you.
+p211
+aa(lp212
+VCome love come,
+p213
+aVthe road lies low,
+p214
+aVthe way is long and hard, I know.
+p215
+aVCome love come,
+p216
+aVthe road lies free,
+p217
+aVI'll wait for you in Tennessee.
+p218
+aa(lp219
+VCome love come,
+p220
+aVthe road lies low,
+p221
+aVthe way is long and hard, I know.
+p222
+aVCome love come,
+p223
+aVthe road lies free,
+p224
+aVI'll wait for you in Tennessee.
+p225
+aa(lp226
+VOh,
+p227
+aVoh,
+p228
+aVoh.
+p229
+aVWhoa ... oh I'll wait for you.
+p230
+aa(lp231
+VI'll wait for you.
+p232
+aVI'll wait for you
+p233
+aVI'll wait for you.
+p234
+aa(lp235
+V(Applause)
+p236
+aa(lp237
+VThank you.
+p238
+aa(lp239
+VSo, with the dark you have to have the light.
+p240
+aVAnd in the African-American community,
+p241
+aVit's been the work of many hundreds of years
+p242
+aVto find a way to lift ourselves up.
+p243
+aVSo I'm going to end with a couple of tunes from Sister Rosetta Tharpe,
+p244
+aVone of the more influential American music figures
+p245
+aVthat most of you probably never heard of.
+p246
+aVIf you have, I'm so happy.
+p247
+aVShe's one of the innovators of rock 'n' roll guitar,
+p248
+aVand one of the first crossover artists from gospel to secular.
+p249
+aVShe's an incredibly important figure,
+p250
+aVand I'm going to talk about her whenever I can.
+p251
+aVSo these are a couple of her tunes.
+p252
+aVAnd don't worry \u2014 you're going to get your chance to sing.
+p253
+aa(lp254
+V(Music)
+p255
+aa(lp256
+V(Sings) Look down, look down
+p257
+aVthat lonesome road
+p258
+aVbefore you travel on.
+p259
+aa(lp260
+VLook up, look up
+p261
+aVand greet your maker,
+p262
+aVfor Gabriel blows his horn.
+p263
+aa(lp264
+VWeary totin' such a load,
+p265
+aVgoin' down that lonesome road.
+p266
+aVLook down that lonesome road,
+p267
+aVbefore you travel on.
+p268
+aa(lp269
+VLook down, look down
+p270
+aVthat lonesome road
+p271
+aVbefore you travel on.
+p272
+aa(lp273
+VLook up, look up
+p274
+aVand greet your maker,
+p275
+aVfor Gabriel blows his horn.
+p276
+aa(lp277
+VWeary totin' such a load,
+p278
+aVgoin' down that lonesome road.
+p279
+aa(lp280
+VLook down, look down, look down, look down
+p281
+aVthat lonesome road
+p282
+aVbefore you travel on.
+p283
+aa(lp284
+VUp above my head
+p285
+aVup above my head
+p286
+aVI hear music in the air
+p287
+aVmusic in the air.
+p288
+aa(lp289
+VUp above my head
+p290
+aVup above my head
+p291
+aVI hear music in the air
+p292
+aVI hear music in the air.
+p293
+aa(lp294
+VUp above my head
+p295
+aVup above my head
+p296
+aVI hear music in the air
+p297
+aVmusic in the air
+p298
+aa(lp299
+Vand I really do believe
+p300
+aVI really do believe
+p301
+aVthere's a Heaven somewhere.
+p302
+aa(lp303
+VUp above my head
+p304
+aVup above my head
+p305
+aVI hear singin' in the air
+p306
+aVsingin' in the air.
+p307
+aa(lp308
+VUp above my head
+p309
+aVup above my head
+p310
+aVI hear singin' in the air
+p311
+aVI hear singin' in the air.
+p312
+aa(lp313
+VUp above my head
+p314
+aVup above my head
+p315
+aVI hear singin' in the air
+p316
+aVsingin' in the air
+p317
+aVand I really do believe
+p318
+aVI really do believe
+p319
+aVthere's a Heaven somewhere.
+p320
+aa(lp321
+V(Speaks) All right now, guitar man!
+p322
+aa(lp323
+V(Guitar music)
+p324
+aa(lp325
+VThat's Hubby Jenkins, y'all.
+p326
+aa(lp327
+V(Sings) Up above my head
+p328
+aVup above my head
+p329
+aVI hear shoutin' in the air
+p330
+aVshoutin' in the air.
+p331
+aa(lp332
+VUp above my head
+p333
+aVup above my head
+p334
+aVI hear shoutin' in the air
+p335
+aVI hear shoutin' in the air.
+p336
+aa(lp337
+VUp above my head
+p338
+aVup above my head
+p339
+aVI hear shoutin' in the air, that's right,
+p340
+aVand I really do believe I really do believe
+p341
+aVthere's a heaven somewhere.
+p342
+aa(lp343
+V(Speaks) All right now, give me some of that bass.
+p344
+aa(lp345
+V(Bass solo)
+p346
+aa(lp347
+VYeah!
+p348
+aVWoo!
+p349
+aa(lp350
+VJason Sypher on the bass.
+p351
+aa(lp352
+VJamie Dick on those drums.
+p353
+aa(lp354
+VAll right now,
+p355
+aVI'm running out of time.
+p356
+aVSo it's time for y'all to sing.
+p357
+aVThis is the call-and-response.
+p358
+aVI call, you respond.
+p359
+aVThere are so many songs like this, y'all know how it goes, don't you?
+p360
+aVYou're going to sing along?
+p361
+aVI said, are you going to sing along?
+p362
+aa(lp363
+VAudience members: Yes!
+p364
+aa(lp365
+VRhiannon Giddens: Here we go!
+p366
+aa(lp367
+V(Sings) Up above my head
+p368
+aa(lp369
+VAM: up above my head
+p370
+aa(lp371
+VRG: music in the air
+p372
+aa(lp373
+VAM: music in the air.
+p374
+aa(lp375
+VRG: up above my head
+p376
+aa(lp377
+VAM: up above my head
+p378
+aa(lp379
+VRG: music in the air
+p380
+aa(lp381
+VAM: music in the air
+p382
+aa(lp383
+VRG: up above my head
+p384
+aa(lp385
+VAM: up above my head
+p386
+aa(lp387
+VRG: music in the air
+p388
+aa(lp389
+VAM: music in the air
+p390
+aa(lp391
+VRG: and I really do believe I really do believe
+p392
+aVthere's a heaven somewhere.
+p393
+aa(lp394
+VOne more time!
+p395
+aa(lp396
+VUp above my head
+p397
+aa(lp398
+VAM: up above my head
+p399
+aa(lp400
+VRG: I hear music in the air
+p401
+aa(lp402
+VAM: music in the air.
+p403
+aa(lp404
+VRG: Up above my head
+p405
+aa(lp406
+VAM: up above my head
+p407
+aa(lp408
+VRG: I hear music in the air
+p409
+aa(lp410
+VAM: music in the air.
+p411
+aa(lp412
+VRG: Up above my head
+p413
+aa(lp414
+VAM: up above my head
+p415
+aa(lp416
+VRG: I hear music in the air
+p417
+aa(lp418
+VAM: music in the air
+p419
+aa(lp420
+VRG: and I really do believe I really do believe
+p421
+aVthere's a heaven somewhere.
+p422
+aVI said I really do believe I really do believe
+p423
+aVthere's a heaven somewhere.
+p424
+aa(lp425
+VHeaven somewhere.
+p426
+aa(lp427
+V(Holds note)
+p428
+aa(lp429
+V(Applause and cheers)
+p430
+aa(lp431
+V(Music ends)
+p432
+aa(lp433
+V(Applause)
+p434
+aasS'id'
+p435
+I2795
+sS'title'
+p436
+VSongs that bring history to life
+p437
+s.

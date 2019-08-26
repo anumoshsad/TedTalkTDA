@@ -1,0 +1,688 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VToday I'm here, actually, to pose you a question.
+p4
+aVWhat is life?
+p5
+aVIt has been really puzzling me for more than 25 years,
+p6
+aVand will probably continue doing so for the next 25 years.
+p7
+aVThis is the thesis I did when I was still in undergraduate school.
+p8
+aVWhile my colleagues still treated computers as big calculators,
+p9
+aVI started to teach computers to learn.
+p10
+aVI built digital lady beetles
+p11
+aVand tried to learn from real lady beetles, just to do one thing:
+p12
+aVsearch for food.
+p13
+aVAnd after very simple neural network \u2014
+p14
+aVgenetic algorithms and so on \u2014
+p15
+aVlook at the pattern.
+p16
+aVThey're almost identical to real life.
+p17
+aVA very striking learning experience for a twenty-year-old.
+p18
+aa(lp19
+VLife is a learning program.
+p20
+aVWhen you look at all of this wonderful world,
+p21
+aVevery species has its own learning program.
+p22
+aVThe learning program is genome,
+p23
+aVand the code of that program is DNA.
+p24
+aVThe different genomes of each species represent different survival strategies.
+p25
+aVThey represent hundreds of millions of years of evolution.
+p26
+aVThe interaction between every species' ancestor
+p27
+aVand the environment.
+p28
+aa(lp29
+VI was really fascinated about the world,
+p30
+aVabout the DNA,
+p31
+aVabout, you know, the language of life,
+p32
+aVthe program of learning.
+p33
+aVSo I decided to co-found the institute to read them.
+p34
+aVI read many of them.
+p35
+aVWe probably read more than half of the prior animal genomes in the world.
+p36
+aVI mean, up to date.
+p37
+aa(lp38
+VWe did learn a lot.
+p39
+aVWe did sequence, also, one species many, many times ...
+p40
+aVhuman genome.
+p41
+aVWe sequenced the first Asian.
+p42
+aVI sequenced it myself many, many times,
+p43
+aVjust to take advantage of that platform.
+p44
+aVLook at all those repeating base pairs:
+p45
+aVATCG.
+p46
+aVYou don't understand anything there.
+p47
+aVBut look at that one base pair.
+p48
+aVThose five letters, the AGGAA.
+p49
+aVThese five SNPs represent a very specific haplotype
+p50
+aVin the Tibetan population
+p51
+aVaround the gene called EPAS1.
+p52
+aVThat gene has been proved \u2014
+p53
+aVit's highly selective \u2014
+p54
+aVit's the most significant signature of positive selection of Tibetans
+p55
+aVfor the higher altitude adaptation.
+p56
+aVYou know what?
+p57
+aVThese five SNPs were the result of integration of Denisovans,
+p58
+aVor Denisovan-like individuals into humans.
+p59
+aa(lp60
+VThis is the reason why we need to read those genomes.
+p61
+aVTo understand history,
+p62
+aVto understand what kind of learning process
+p63
+aVthe genome has been through for the millions of years.
+p64
+aVBy reading a genome, it can give you a lot of information \u2014
+p65
+aVtells you the bugs in the genome \u2014
+p66
+aVI mean, birth defects, monogenetic disorders.
+p67
+aVReading a drop of blood
+p68
+aVcould tell you why you got a fever,
+p69
+aVor it tells you which medicine and dosage needs to be used
+p70
+aVwhen you're sick, especially for cancer.
+p71
+aa(lp72
+VA lot of things could be studied, but look at that:
+p73
+aV30 years ago, we were still poor in China.
+p74
+aVOnly .67 percent of the Chinese adult population had diabetes.
+p75
+aVLook at now: 11 percent.
+p76
+aVGenetics cannot change over 30 years \u2014
+p77
+aVonly one generation.
+p78
+aVIt must be something different.
+p79
+aVDiet?
+p80
+aVThe environment?
+p81
+aVLifestyle?
+p82
+aVEven identical twins could develop totally differently.
+p83
+aVIt could be one becomes very obese, the other is not.
+p84
+aVOne develops a cancer and the other does not.
+p85
+aVNot mentioning living in a very stressed environment.
+p86
+aa(lp87
+VI moved to Shenzhen 10 years ago ...
+p88
+aVfor some reason, people may know.
+p89
+aVIf the gene's under stress,
+p90
+aVit behaves totally differently.
+p91
+aVLife is a journey.
+p92
+aVA gene is just a starting point,
+p93
+aVnot the end.
+p94
+aVYou have this statistical risk of certain diseases when you are born.
+p95
+aVBut every day you make different choices,
+p96
+aVand those choices will increase or decrease the risk of certain diseases.
+p97
+aVBut do you know where you are on the curve?
+p98
+aVWhat's the past curve look like?
+p99
+aVWhat kind of decisions are you facing every day?
+p100
+aVAnd what kind of decision is the right one
+p101
+aVto make your own right curve over your life journey?
+p102
+aVWhat's that?
+p103
+aa(lp104
+VThe only thing you cannot change,
+p105
+aVyou cannot reverse back,
+p106
+aVis time.
+p107
+aVProbably not yet; maybe in the future.
+p108
+aa(lp109
+V(Laughter)
+p110
+aa(lp111
+VWell, you cannot change the decision you've made,
+p112
+aVbut can we do something there?
+p113
+aVCan we actually try to run multiple options on me,
+p114
+aVand try to predict right on the consequence,
+p115
+aVand be able to make the right choice?
+p116
+aVAfter all,
+p117
+aVwe are our choices.
+p118
+aa(lp119
+VThese lady beetles came to me afterwards.
+p120
+aV25 years ago, I made the digital lady beetles
+p121
+aVto try to simulate real lady beetles.
+p122
+aVCan I make a digital me ...
+p123
+aVto simulate me?
+p124
+aVI understand the neural network could become
+p125
+aVmuch more sophisticated and complicated there.
+p126
+aVCan I make that one,
+p127
+aVand try to run multiple options on that digital me \u2014
+p128
+aVto compute that?
+p129
+aVThen I could live in different universes,
+p130
+aVin parallel, at the same time.
+p131
+aVThen I would choose whatever is good for me.
+p132
+aa(lp133
+VI probably have the most comprehensive digital me on the planet.
+p134
+aVI've spent a lot of dollars on me, on myself.
+p135
+aVAnd the digital me told me I have a genetic risk of gout
+p136
+aVby all of those things there.
+p137
+aVYou need different technology to do that.
+p138
+aVYou need the proteins, genes,
+p139
+aVyou need metabolized antibodies,
+p140
+aVyou need to screen all your body
+p141
+aVabout the bacterias and viruses covering you, or in you.
+p142
+aVYou need to have all the smart devices there \u2014
+p143
+aVsmart cars, smart house, smart tables,
+p144
+aVsmart watch, smart phone to track all of your activities there.
+p145
+aVThe environment is important \u2014
+p146
+aVeverything's important \u2014
+p147
+aVand don't forget the smart toilet.
+p148
+aa(lp149
+V(Laughter)
+p150
+aa(lp151
+VIt's such a waste, right?
+p152
+aVEvery day, so much invaluable information just has been flushed into the water.
+p153
+aVAnd you need them.
+p154
+aVYou need to measure all of them.
+p155
+aVYou need to be able to measure everything around you
+p156
+aVand compute them.
+p157
+aa(lp158
+VAnd the digital me told me I have a genetic defect.
+p159
+aVI have a very high risk of gout.
+p160
+aVI don't feel anything now,
+p161
+aVI'm still healthy.
+p162
+aVBut look at my uric acid level.
+p163
+aVIt's double the normal range.
+p164
+aVAnd the digital me searched all the medicine books,
+p165
+aVand it tells me, "OK, you could drink burdock tea" \u2014
+p166
+aVI cannot even pronounce it right \u2014
+p167
+aa(lp168
+V(Laughter)
+p169
+aa(lp170
+VThat is from old Chinese wisdom.
+p171
+aVAnd I drank that tea for three months.
+p172
+aVMy uric acid has now gone back to normal.
+p173
+aVI mean, it worked for me.
+p174
+aa(lp175
+VAll those thousands of years of wisdom worked for me.
+p176
+aVI was lucky.
+p177
+aVBut I'm probably not lucky for you.
+p178
+aVAll of this existing knowledge in the world
+p179
+aVcannot possibly be efficient enough or personalized enough for yourself.
+p180
+aVThe only way to make that digital me work ...
+p181
+aVis to learn from yourself.
+p182
+aVYou have to ask a lot of questions about yourself:
+p183
+aV"What if?" \u2014
+p184
+aa(lp185
+VI'm being jet-lagged now here.
+p186
+aVYou don't probably see it, but I do.
+p187
+aVWhat if I eat less?
+p188
+aVWhen I took metformin, supposedly to live longer?
+p189
+aVWhat if I climb Mt. Everest?
+p190
+aVIt's not that easy.
+p191
+aVOr run a marathon?
+p192
+aVWhat if I drink a bottle of mao-tai,
+p193
+aVwhich is a Chinese liquor,
+p194
+aVand I get really drunk?
+p195
+aVI was doing a video rehearsal last time with the folks here,
+p196
+aVwhen I was drunk,
+p197
+aVand I totally delivered a different speech.
+p198
+aa(lp199
+V(Laughter)
+p200
+aa(lp201
+VWhat if I work less, right?
+p202
+aVI have been less stressed, right?
+p203
+aVSo that probably never happened to me,
+p204
+aVI was really stressed every day,
+p205
+aVbut I hope I could be less stressed.
+p206
+aVThese early studies told us,
+p207
+aVeven with the same banana,
+p208
+aVwe have totally different glucose-level reactions
+p209
+aVover different individuals.
+p210
+aa(lp211
+VHow about me?
+p212
+aVWhat is the right breakfast for me?
+p213
+aVI need to do two weeks of controlled experiments,
+p214
+aVof testing all kinds of different food ingredients on me,
+p215
+aVand check my body's reaction.
+p216
+aVAnd I don't know the precise nutrition for me,
+p217
+aVfor myself.
+p218
+aa(lp219
+VThen I wanted to search all the Chinese old wisdom
+p220
+aVabout how I can live longer, and healthier.
+p221
+aVI did it.
+p222
+aVSome of them are really unachievable.
+p223
+aVI did this once last October,
+p224
+aVby not eating for seven days.
+p225
+aVI did a fast for seven days with six partners of mine.
+p226
+aVLook at those people.
+p227
+aVOne smile.
+p228
+aVYou know why he smiled?
+p229
+aVHe cheated.
+p230
+aa(lp231
+V(Laughter)
+p232
+aa(lp233
+VHe drank one cup of coffee at night,
+p234
+aVand we caught it from the data.
+p235
+aa(lp236
+V(Laughter)
+p237
+aa(lp238
+VWe measured everything from the data.
+p239
+aa(lp240
+VWe were able to track them,
+p241
+aVand we could really see \u2014
+p242
+aVfor example, my immune system,
+p243
+aVjust to give you a little hint there.
+p244
+aVMy immune system changed dramatically over 24 hours there.
+p245
+aVAnd my antibody regulates my proteins
+p246
+aVfor that dramatic change.
+p247
+aVAnd everybody was doing that.
+p248
+aVEven if we're essentially totally different at the very beginning.
+p249
+aVAnd that probably will be an interesting treatment in the future
+p250
+aVfor cancer and things like that.
+p251
+aa(lp252
+VIt becomes very, very interesting.
+p253
+aVBut something you probably don't want to try,
+p254
+aVlike drinking fecal water from a healthier individual,
+p255
+aVwhich will make you feel healthier.
+p256
+aVThis is from old Chinese wisdom.
+p257
+aVLook at that, right?
+p258
+aVLike 1,700 years ago,
+p259
+aVit's already there, in the book.
+p260
+aVBut I still hate the smell.
+p261
+aa(lp262
+V(Laughter)
+p263
+aa(lp264
+VI want to find out the true way to do it,
+p265
+aVmaybe find a combination of cocktails of bacterias and drink it,
+p266
+aVit probably will make me better.
+p267
+aVSo I'm trying to do that.
+p268
+aa(lp269
+VEven though I'm trying this hard,
+p270
+aVit's so difficult to test out all possible conditions.
+p271
+aVIt's not possible to do all kinds of experiments at all ...
+p272
+aVbut we do have seven billion learning programs on this planet.
+p273
+aVSeven billion.
+p274
+aVAnd every program is running in different conditions
+p275
+aVand doing different experiments.
+p276
+aVCan we all measure them?
+p277
+aa(lp278
+VSeven years ago, I wrote an essay in "Science"
+p279
+aVto celebrate the human genome's 10-year anniversary.
+p280
+aVI said, "Sequence yourself,
+p281
+aVfor one and for all."
+p282
+aVBut now I'm going to say,
+p283
+aV"Digitalize yourself for one and for all."
+p284
+aVWhen we make this digital me into a digital we,
+p285
+aVwhen we try to form an internet of life,
+p286
+aVwhen people can learn from each other,
+p287
+aVwhen people can learn from their experience,
+p288
+aVtheir data,
+p289
+aVwhen people can really form a digital me by themselves
+p290
+aVand we learn from it,
+p291
+aVthe digital we will be totally different with a digital me.
+p292
+aa(lp293
+VBut it can only come from the digital me.
+p294
+aVAnd this is what I try to propose here.
+p295
+aVJoin me \u2014
+p296
+aVbecome we,
+p297
+aVand everybody should build up their own digital me,
+p298
+aVbecause only by that will you learn more about you,
+p299
+aVabout me,
+p300
+aVabout us ...
+p301
+aVabout the question I just posed at the very beginning:
+p302
+aV"What is life?"
+p303
+aa(lp304
+VThank you.
+p305
+aa(lp306
+V(Applause)
+p307
+aa(lp308
+VChris Anderson: One quick question for you.
+p309
+aVI mean, the work is amazing.
+p310
+aVI suspect one question people have is,
+p311
+aVas we look forward to these amazing technical possibilities
+p312
+aVof personalized medicine,
+p313
+aVin the near-term it feels like they're only going to be affordable
+p314
+aVfor a few people, right?
+p315
+aVIt costs many dollars to do all the sequencing and so forth.
+p316
+aVIs this going to lead to a kind of,
+p317
+aVyou know, increasing inequality?
+p318
+aVOr do you have this vision that the knowledge that you get
+p319
+aVfrom the pioneers
+p320
+aVcan actually be pretty quickly disseminated
+p321
+aVto help a broader set of recipients?
+p322
+aa(lp323
+VJun Wang: Well, good question.
+p324
+aVI'll tell you that seven years ago, when I co-founded BGI,
+p325
+aVand served as the CEO of the company there,
+p326
+aVthe only goal there for me to do
+p327
+aVwas to drive the sequencing cost down.
+p328
+aVIt started from 100 million dollars per human genome.
+p329
+aVNow, it's a couple hundred dollars for a human genome.
+p330
+aVThe only reason to do it is to get more people to benefit from it.
+p331
+aVSo for the digital me, it's the same thing.
+p332
+aVNow, you probably need,
+p333
+aVyou know, one million dollars to digitize a person.
+p334
+aVI think it has to be 100 dollars.
+p335
+aVIt has to be free for many of those people that urgently need that.
+p336
+aa(lp337
+VSo this is our goal.
+p338
+aVAnd it seems that with all this merging of the technology,
+p339
+aVI'm thinking that in the very near future,
+p340
+aVlet's say three to five years,
+p341
+aVit will come to reality.
+p342
+aVAnd this is the whole idea of why I founded iCarbonX,
+p343
+aVmy second company.
+p344
+aVIt's really trying to get the cost down
+p345
+aVto a level where every individual could have the benefit.
+p346
+aa(lp347
+VCA: All right, so the dream is not elite health services for few,
+p348
+aVit's to really try
+p349
+aVand actually make overall health care much more cost effective \u2014
+p350
+aa(lp351
+VJW: But we started from some early adopters,
+p352
+aVpeople believing ideas and so on,
+p353
+aVbut eventually, it will become everybody's benefit.
+p354
+aa(lp355
+VCA: Well, Jun, I think it's got to be true to say
+p356
+aVyou're one of the most amazing scientific minds on the planet,
+p357
+aVand it's an honor to have you.
+p358
+aa(lp359
+VJW: Thank you.
+p360
+aa(lp361
+V(Applause)
+p362
+aasS'id'
+p363
+I2871
+sS'title'
+p364
+VHow digital DNA could help you make better health choices
+p365
+s.

@@ -1,0 +1,1609 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VChris Anderson: We had Edward Snowden here
+p4
+aVa couple days ago,
+p5
+aVand this is response time.
+p6
+aVAnd several of you have written to me
+p7
+aVwith questions to ask our guest here from the NSA.
+p8
+aVSo Richard Ledgett is the 15th deputy director
+p9
+aVof the National Security Agency,
+p10
+aVand he's a senior civilian officer there,
+p11
+aVacts as its chief operating officer,
+p12
+aVguiding strategies, setting internal policies,
+p13
+aVand serving as the principal advisor to the director.
+p14
+aVAnd all being well,
+p15
+aVwelcome, Rick Ledgett, to TED.
+p16
+aV(Applause)
+p17
+aa(lp18
+VRichard Ledgett: I'm really thankful for the opportunity to talk to folks here.
+p19
+aVI look forward to the conversation,
+p20
+aVso thanks for arranging for that.
+p21
+aa(lp22
+VCA: Thank you, Rick.
+p23
+aVWe appreciate you joining us.
+p24
+aVIt's certainly quite a strong statement
+p25
+aVthat the NSA is willing to reach out
+p26
+aVand show a more open face here.
+p27
+aVYou saw, I think,
+p28
+aVthe talk and interview that Edward Snowden
+p29
+aVgave here a couple days ago.
+p30
+aVWhat did you make of it?
+p31
+aVRL: So I think it was interesting.
+p32
+aVWe didn't realize that he  was going to show up there,
+p33
+aVso kudos to you guys for arranging
+p34
+aVa nice surprise like that.
+p35
+aVI think that, like a lot of the things
+p36
+aVthat have come out since Mr. Snowden
+p37
+aVstarted disclosing classified information,
+p38
+aVthere were some kernels of truth in there,
+p39
+aVbut a lot of extrapolations and half-truths in there,
+p40
+aVand I'm interested in helping to address those.
+p41
+aVI think this is a really important conversation
+p42
+aVthat we're having in the United States
+p43
+aVand internationally,
+p44
+aVand I think it is important and of import,
+p45
+aVand so given that, we need to have that be
+p46
+aVa fact-based conversation,
+p47
+aVand we want to help make that happen.
+p48
+aa(lp49
+VCA: So the question that a lot  of people have here is,
+p50
+aVwhat do you make of Snowden's motivations
+p51
+aVfor doing what he did,
+p52
+aVand did he have an alternative way that he could have gone?
+p53
+aa(lp54
+VRL: He absolutely did
+p55
+aVhave alternative ways that he could have gone,
+p56
+aVand I actually think that characterizing him
+p57
+aVas a whistleblower
+p58
+aVactually hurts legitimate whistleblowing activities.
+p59
+aVSo what if somebody who works in the NSA \u2014
+p60
+aVand there are over 35,000 people who do.
+p61
+aVThey're all great citizens.
+p62
+aVThey're just like your husbands, fathers, sisters,
+p63
+aVbrothers, neighbors, nephews, friends and relatives,
+p64
+aVall of whom are interested in doing the right thing
+p65
+aVfor their country
+p66
+aVand for our allies internationally,
+p67
+aVand so there are a variety of venues to address
+p68
+aVif folks have a concern.
+p69
+aVFirst off, there's their supervisor,
+p70
+aVand up through the supervisory chain
+p71
+aVwithin their organization.
+p72
+aVIf folks aren't comfortable with that,
+p73
+aVthere are a number of inspectors general.
+p74
+aVIn the case of Mr. Snowden, he had the option
+p75
+aVof the NSA inspector general,
+p76
+aVthe Navy inspector general,
+p77
+aVthe Pacific Command inspector general,
+p78
+aVthe Department of Defense inspector general,
+p79
+aVand the intelligence community inspector general,
+p80
+aVany of whom would have both kept his concerns in classified channels
+p81
+aVand been happy to address them.
+p82
+aV(CA and RL speaking at once)
+p83
+aVHe had the option to go to congressional committees,
+p84
+aVand there are mechanisms to do that that are in place,
+p85
+aVand so he didn't do any of those things.
+p86
+aa(lp87
+VCA: Now, you had said that
+p88
+aVEd Snowden had other avenues
+p89
+aVfor raising his concerns.
+p90
+aVThe comeback on that is a couple of things:
+p91
+aVone, that he certainly believes that as a contractor,
+p92
+aVthe avenues that would have been available to him as an employee weren't available,
+p93
+aVtwo, there's a track record of other whistleblowers,
+p94
+aVlike [Thomas Andrews Drake] being treated
+p95
+aVpretty harshly, by some views,
+p96
+aVand thirdly, what he was taking on
+p97
+aVwas not one specific flaw that he'd discovered,
+p98
+aVbut programs that had been approved
+p99
+aVby all three branches of government.
+p100
+aVI mean, in that circumstance,
+p101
+aVcouldn't you argue that what he did
+p102
+aVwas reasonable?
+p103
+aa(lp104
+VRL: No, I don't agree with that.
+p105
+aVI think that the \u2014
+p106
+aVsorry, I'm getting feedback
+p107
+aVthrough the microphone there \u2014
+p108
+aVthe actions that he took were inappropriate
+p109
+aVbecause of the fact that  he put people's lives at risk,
+p110
+aVbasically, in the long run,
+p111
+aVand I know there's been a lot of talk
+p112
+aVin public by Mr. Snowden and some of the journalists
+p113
+aVthat say that the things that have been disclosed
+p114
+aVhave not put national security and people at risk,
+p115
+aVand that is categorically not true.
+p116
+aVThey actually do.
+p117
+aVI think there's also an amazing arrogance
+p118
+aVto the idea that he knows better than
+p119
+aVthe framers of the Constitution
+p120
+aVin how the government should  be designed and work
+p121
+aVfor separation of powers
+p122
+aVand the fact that the executive  and the legislative branch
+p123
+aVhave to work together and they have checks and balances on each other,
+p124
+aVand then the judicial branch,
+p125
+aVwhich oversees the entire process.
+p126
+aVI think that's extremely arrogant on his part.
+p127
+aa(lp128
+VCA: Can you give a specific example
+p129
+aVof how he put people's lives at risk?
+p130
+aa(lp131
+VRL: Yeah, sure.
+p132
+aVSo the things that he's disclosed,
+p133
+aVthe capabilities,
+p134
+aVand the NSA is a capabilities-based organization,
+p135
+aVso when we have foreign intelligence targets,
+p136
+aVlegitimate things of interest \u2014
+p137
+aVlike, terrorists is the iconic example,
+p138
+aVbut it includes things like human traffickers,
+p139
+aVdrug traffickers,
+p140
+aVpeople who are trying to build advanced weaponry, nuclear weapons,
+p141
+aVand build delivery systems for those,
+p142
+aVand nation-states who might be executing aggression against their immediate neighbors,
+p143
+aVwhich you may have some visibility
+p144
+aVinto some of that that's going on right now,
+p145
+aVthe capabilities are applied
+p146
+aVin very discrete and measured and controlled ways.
+p147
+aVSo the unconstrained disclosure  of those capabilities
+p148
+aVmeans that as adversaries see them
+p149
+aVand recognize, "Hey, I might be vulnerable to this,"
+p150
+aVthey move away from that,
+p151
+aVand we have seen targets in terrorism,
+p152
+aVin the nation-state area,
+p153
+aVin smugglers of various types, and other folks
+p154
+aVwho have, because of the disclosures,
+p155
+aVmoved away from our ability
+p156
+aVto have insight into what they're doing.
+p157
+aVThe net effect of that is that our people
+p158
+aVwho are overseas in dangerous places,
+p159
+aVwhether they're diplomats or military,
+p160
+aVand our allies who are in similar situations,
+p161
+aVare at greater risk because we don't see
+p162
+aVthe threats that are coming their way.
+p163
+aa(lp164
+VCA: So that's a general response saying that
+p165
+aVbecause of his revelations,
+p166
+aVaccess that you had to certain types of information
+p167
+aVhas been shut down, has been closed down.
+p168
+aVBut the concern is that the nature of that access
+p169
+aVwas not necessarily legitimate in the first place.
+p170
+aVI mean, describe to us this Bullrun program
+p171
+aVwhere it's alleged that the NSA
+p172
+aVspecifically weakened security
+p173
+aVin order to get the type of  access that you've spoken of.
+p174
+aa(lp175
+VRL: So there are, when our
+p176
+aVlegitimate foreign intelligence targets of the type that I described before,
+p177
+aVuse the global telecommunications system
+p178
+aVas their communications methodology,
+p179
+aVand they do, because it's a great system,
+p180
+aVit's the most complex system ever devised by man,
+p181
+aVand it is a wonder,
+p182
+aVand lots of folks in the room there
+p183
+aVare responsible for the creation
+p184
+aVand enhancement of that,
+p185
+aVand it's just a wonderful thing.
+p186
+aVBut it's also used by people who are
+p187
+aVworking against us and our allies.
+p188
+aVAnd so if I'm going to pursue them,
+p189
+aVI need to have the capability
+p190
+aVto go after them,
+p191
+aVand again, the controls are in
+p192
+aVhow I apply that capability,
+p193
+aVnot that I have the capability itself.
+p194
+aVOtherwise, if we could make it so that
+p195
+aVall the bad guys used one corner of the Internet,
+p196
+aVwe could have a domain, badguy.com.
+p197
+aVThat would be awesome,
+p198
+aVand we could just concentrate all our efforts there.
+p199
+aVThat's not how it works.
+p200
+aVThey're trying to hide
+p201
+aVfrom the government's ability
+p202
+aVto isolate and interdict their actions,
+p203
+aVand so we have to swim in that same space.
+p204
+aVBut I will tell you this.
+p205
+aVSo NSA has two missions.
+p206
+aVOne is the Signals Intelligence mission
+p207
+aVthat we've unfortunately read so much about in the press.
+p208
+aVThe other one is the Information Assurance mission,
+p209
+aVwhich is to protect the national security systems of the United States,
+p210
+aVand by that, that's things like
+p211
+aVthe communications that the president uses,
+p212
+aVthe communications that control our nuclear weapons,
+p213
+aVthe communications that our military uses around the world,
+p214
+aVand the communications that we use with our allies,
+p215
+aVand that some of our allies themselves use.
+p216
+aVAnd so we make recommendations on standards to use,
+p217
+aVand we use those same standards,
+p218
+aVand so we are invested
+p219
+aVin making sure that those communications
+p220
+aVare secure for their intended purposes.
+p221
+aa(lp222
+VCA: But it sounds like what you're saying is that
+p223
+aVwhen it comes to the Internet at large,
+p224
+aVany strategy is fair game
+p225
+aVif it improves America's safety.
+p226
+aVAnd I think this is partly where there is such
+p227
+aVa divide of opinion,
+p228
+aVthat there's a lot of people in this room
+p229
+aVand around the world
+p230
+aVwho think very differently about the Internet.
+p231
+aVThey think of it as a momentous
+p232
+aVinvention of humanity,
+p233
+aVkind of on a par with the Gutenberg press, for example.
+p234
+aVIt's the bringer of knowledge to all.
+p235
+aVIt's the connector of all.
+p236
+aVAnd it's viewed in those sort of idealistic terms.
+p237
+aVAnd from that lens,
+p238
+aVwhat the NSA has done is equivalent to
+p239
+aVthe authorities back in Germany
+p240
+aVinserting some device into every printing press
+p241
+aVthat would reveal which books people bought
+p242
+aVand what they read.
+p243
+aVCan you understand that from that viewpoint,
+p244
+aVit feels outrageous?
+p245
+aa(lp246
+VRL: I do understand that, and I actually share the view of the utility of the Internet,
+p247
+aVand I would argue it's bigger than the Internet.
+p248
+aVIt is a global telecommunications system.
+p249
+aVThe Internet is a big chunk of  that, but there is a lot more.
+p250
+aVAnd I think that people have legitimate concerns
+p251
+aVabout the balance between transparency and secrecy.
+p252
+aVThat's sort of been couched as a balance
+p253
+aVbetween privacy and national security.
+p254
+aVI don't think that's the right framing.
+p255
+aVI think it really is transparency and secrecy.
+p256
+aVAnd so that's the national and international conversation that we're having,
+p257
+aVand we want to participate in that, and want
+p258
+aVpeople to participate in it in an informed way.
+p259
+aVSo there are things,
+p260
+aVlet me talk there a little bit more,
+p261
+aVthere are things that we need to be transparent about:
+p262
+aVour authorities, our processes,
+p263
+aVour oversight, who we are.
+p264
+aVWe, NSA, have not done a good job of that,
+p265
+aVand I think that's part of the reason
+p266
+aVthat this has been so revelational
+p267
+aVand so sensational in the media.
+p268
+aVNobody knew who we were. We were the No Such Agency, the Never Say Anything.
+p269
+aVThere's takeoffs of our logo
+p270
+aVof an eagle with headphones on around it.
+p271
+aVAnd so that's the public characterization.
+p272
+aVAnd so we need to be more transparent about those things.
+p273
+aVWhat we don't need to be transparent about,
+p274
+aVbecause it's bad for the U.S.,
+p275
+aVit's bad for all those other countries that we work with
+p276
+aVand that we help provide information
+p277
+aVthat helps them secure themselves
+p278
+aVand their people,
+p279
+aVit's bad to expose operations and capabilities
+p280
+aVin a way that allows the people that we're all working against,
+p281
+aVthe generally recognized bad guys,
+p282
+aVto counter those.
+p283
+aa(lp284
+VCA: But isn't it also bad to deal
+p285
+aVa kind of body blow to the American companies
+p286
+aVthat have essentially given the world
+p287
+aVmost of the Internet services that matter?
+p288
+aVRL: It is. It's really the companies are
+p289
+aVin a tough position, as are we,
+p290
+aVbecause the companies,
+p291
+aVwe compel them to provide information,
+p292
+aVjust like every other nation in the world does.
+p293
+aVEvery industrialized nation in the world
+p294
+aVhas a lawful intercept program
+p295
+aVwhere they are requiring companies
+p296
+aVto provide them with information
+p297
+aVthat they need for their security,
+p298
+aVand the companies that are involved
+p299
+aVhave complied with those programs
+p300
+aVin the same way that they have to do
+p301
+aVwhen they're operating in Russia or the U.K.
+p302
+aVor China or India or France,
+p303
+aVany country that you choose to name.
+p304
+aVAnd so the fact that these revelations
+p305
+aVhave been broadly characterized as
+p306
+aV"you can't trust company A because
+p307
+aVyour privacy is suspect with them"
+p308
+aVis actually only accurate in the sense that
+p309
+aVit's accurate with every other company in the world
+p310
+aVthat deals with any of those countries in the world.
+p311
+aVAnd so it's being picked up by people
+p312
+aVas a marketing advantage,
+p313
+aVand it's being marketed that  way by several countries,
+p314
+aVincluding some of our allied countries,
+p315
+aVwhere they are saying,
+p316
+aV"Hey, you can't trust the U.S.,
+p317
+aVbut you can trust our telecom company,
+p318
+aVbecause we're safe."
+p319
+aVAnd they're actually using that to counter
+p320
+aVthe very large technological edge
+p321
+aVthat U.S. companies have
+p322
+aVin areas like the cloud and Internet-based technologies.
+p323
+aa(lp324
+VCA: You're sitting there with the American flag,
+p325
+aVand the American Constitution guarantees
+p326
+aVfreedom from unreasonable search and seizure.
+p327
+aVHow do you characterize
+p328
+aVthe American citizen's right to privacy?
+p329
+aVIs there such a right?
+p330
+aa(lp331
+VRL: Yeah, of course there is.
+p332
+aVAnd we devote an inordinate amount of time and pressure,
+p333
+aVinordinate and appropriate, actually I should say,
+p334
+aVamount of time and effort in order to ensure
+p335
+aVthat we protect that privacy.
+p336
+aVand beyond that, the privacy of citizens
+p337
+aVaround the world, it's not just Americans.
+p338
+aVSeveral things come into play here.
+p339
+aVFirst, we're all in the same network.
+p340
+aVMy communications,
+p341
+aVI'm a user of a particular Internet email service
+p342
+aVthat is the number one email service of choice
+p343
+aVby terrorists around the world, number one.
+p344
+aVSo I'm there right beside them in email space
+p345
+aVin the Internet.
+p346
+aVAnd so we need to be able to pick that apart
+p347
+aVand find the information that's relevant.
+p348
+aVIn doing so, we're going to necessarily encounter
+p349
+aVAmericans and innocent foreign citizens
+p350
+aVwho are just going about their business,
+p351
+aVand so we have procedures in place that shreds that out,
+p352
+aVthat says, when you find that,
+p353
+aVnot if you find it, when you find it, because you're certain to find it,
+p354
+aVhere's how you protect that.
+p355
+aVThese are called minimization procedures.
+p356
+aVThey're approved by the attorney general
+p357
+aVand constitutionally based.
+p358
+aVAnd so we protect those.
+p359
+aVAnd then, for people, citizens of the world
+p360
+aVwho are going about their lawful business
+p361
+aVon a day-to-day basis,
+p362
+aVthe president on his January 17 speech,
+p363
+aVlaid out some additional protections
+p364
+aVthat we are providing to them.
+p365
+aVSo I think absolutely,
+p366
+aVfolks do have a right to privacy,
+p367
+aVand that we work very hard to make sure
+p368
+aVthat that right to privacy is protected.
+p369
+aa(lp370
+VCA: What about foreigners using
+p371
+aVAmerican companies' Internet services?
+p372
+aVDo they have any privacy rights?
+p373
+aa(lp374
+VRL: They do. They do, in the sense of,
+p375
+aVthe only way that we are able to compel
+p376
+aVone of those companies to provide us information
+p377
+aVis when it falls into one of three categories:
+p378
+aVWe can identify that this particular person,
+p379
+aVidentified by a selector of some kind,
+p380
+aVis associated with counterterrorist
+p381
+aVor proliferation or other foreign intelligence target.
+p382
+aa(lp383
+VCA: Much has been made of the fact that
+p384
+aVa lot of the information that you've obtained
+p385
+aVthrough these programs is essentially metadata.
+p386
+aVIt's not necessarily the actual words
+p387
+aVthat someone has written in an email
+p388
+aVor given on a phone call.
+p389
+aVIt's who they wrote to and when, and so forth.
+p390
+aVBut it's been argued,
+p391
+aVand someone here in the audience has talked
+p392
+aVto a former NSA analyst who said
+p393
+aVmetadata is actually much more invasive
+p394
+aVthan the core data,
+p395
+aVbecause in the core data
+p396
+aVyou present yourself as you want to be presented.
+p397
+aVWith metadata, who knows what the conclusions are
+p398
+aVthat are drawn?
+p399
+aVIs there anything to that?
+p400
+aa(lp401
+VRL: I don't really understand that argument.
+p402
+aVI think that metadata's important for a couple of reasons.
+p403
+aVMetadata is the information that lets you
+p404
+aVfind connections that people are trying to hide.
+p405
+aVSo when a terrorist is corresponding
+p406
+aVwith somebody else who's not known to us
+p407
+aVbut is engaged in doing or supporting terrorist activity,
+p408
+aVor someone who's violating international sanctions
+p409
+aVby providing nuclear weapons-related material
+p410
+aVto a country like Iran or North Korea,
+p411
+aVis trying to hide that activity because it's illicit activity.
+p412
+aVWhat metadata lets you do is connect that.
+p413
+aVThe alternative to that
+p414
+aVis one that's much less efficient
+p415
+aVand much more invasive of privacy,
+p416
+aVwhich is gigantic amounts of content collection.
+p417
+aVSo metadata, in that sense,
+p418
+aVactually is privacy-enhancing.
+p419
+aVAnd we don't, contrary to some of the stuff
+p420
+aVthat's been printed,
+p421
+aVwe don't sit there and grind out
+p422
+aVmetadata profiles of average people.
+p423
+aVIf you're not connected
+p424
+aVto one of those valid intelligence targets,
+p425
+aVyou are not of interest to us.
+p426
+aa(lp427
+VCA: So in terms of the threats
+p428
+aVthat face America overall,
+p429
+aVwhere would you place terrorism?
+p430
+aa(lp431
+VRL: I think terrorism is still number one.
+p432
+aVI think that we have never been in a time
+p433
+aVwhere there are more places
+p434
+aVwhere things are going badly
+p435
+aVand forming the petri dish in which terrorists
+p436
+aVtake advantage of the lack of governance.
+p437
+aVAn old boss of mine, Tom Fargo, Admiral Fargo,
+p438
+aVused to describe it as arcs of instability.
+p439
+aVAnd so you have a lot of those arcs of instability
+p440
+aVin the world right now,
+p441
+aVin places like Syria, where there's a civil war
+p442
+aVgoing on and you have massive numbers,
+p443
+aVthousands and thousands of foreign fighters
+p444
+aVwho are coming into Syria
+p445
+aVto learn how to be terrorists
+p446
+aVand practice that activity,
+p447
+aVand lots of those people are Westerners
+p448
+aVwho hold passports to European countries
+p449
+aVor in some cases the United States,
+p450
+aVand so they are basically learning how
+p451
+aVto do jihad and have expressed intent
+p452
+aVto go out and do that later on
+p453
+aVin their home countries.
+p454
+aVYou've got places like Iraq,
+p455
+aVwhich is suffering from a high level of sectarian violence,
+p456
+aVagain a breeding ground for terrorism.
+p457
+aVAnd you have the activity in the Horn of Africa
+p458
+aVand the Sahel area of Africa.
+p459
+aVAgain, lots of weak governance
+p460
+aVwhich forms a breeding ground for terrorist activity.
+p461
+aVSo I think it's very serious. I think it's number one.
+p462
+aVI think number two is cyber threat.
+p463
+aVI think cyber is a threat in three ways:
+p464
+aVOne way, and probably the most common way
+p465
+aVthat people have heard about it,
+p466
+aVis due to the theft of intellectual property,
+p467
+aVso basically, foreign countries going in,
+p468
+aVstealing companies' secrets,
+p469
+aVand then providing that information
+p470
+aVto state-owned enterprises
+p471
+aVor companies connected to the government
+p472
+aVto help them leapfrog technology
+p473
+aVor to gain business intelligence
+p474
+aVthat's then used to win contracts overseas.
+p475
+aVThat is a hugely costly set of activities that's going on right now.
+p476
+aVSeveral nation-states are doing it.
+p477
+aVSecond is the denial-of-service attacks.
+p478
+aVYou're probably aware that there have been
+p479
+aVa spate of those directed against
+p480
+aVthe U.S. financial sector since 2012.
+p481
+aVAgain, that's a nation-state who is executing those attacks,
+p482
+aVand they're doing that
+p483
+aVas a semi-anonymous way of reprisal.
+p484
+aVAnd the last one is destructive attacks,
+p485
+aVand those are the ones that concern me the most.
+p486
+aVThose are on the rise.
+p487
+aVYou have the attack against Saudi Aramco in 2012,
+p488
+aVAugust of 2012.
+p489
+aVIt took down about 35,000 of their computers
+p490
+aVwith a Wiper-style virus.
+p491
+aVYou had a follow-on a week later
+p492
+aVto a Qatari company.
+p493
+aVYou had March of 2013,
+p494
+aVyou had a South Korean attack
+p495
+aVthat was attributed in the press to North Korea
+p496
+aVthat took out thousands of computers.
+p497
+aVThose are on the rise,
+p498
+aVand we see people expressing interest
+p499
+aVin those capabilities
+p500
+aVand a desire to employ them.
+p501
+aa(lp502
+VCA: Okay, so a couple of things here,
+p503
+aVbecause this is really the core of this, almost.
+p504
+aVI mean, first of all,
+p505
+aVa lot of people who look at risk
+p506
+aVand look at the numbers
+p507
+aVdon't understand this belief that terrorism
+p508
+aVis still the number one threat.
+p509
+aVApart from September 11,
+p510
+aVI think the numbers are that in the last 30 or 40 years
+p511
+aVabout 500 Americans have died from terrorism,
+p512
+aVmostly from homegrown terrorists.
+p513
+aVThe chance in the last few years
+p514
+aVof being killed by terrorism
+p515
+aVis far less than the chance of being killed by lightning.
+p516
+aVI guess you would say that a single nuclear incident
+p517
+aVor bioterrorism act or something like that
+p518
+aVwould change those numbers.
+p519
+aVWould that be the point of view?
+p520
+aa(lp521
+VRL: Well, I'd say two things.
+p522
+aVOne is, the reason that there hasn't been
+p523
+aVa major attack in the United States since 9/11,
+p524
+aVthat is not an accident.
+p525
+aVThat's a lot of hard work that we have done,
+p526
+aVthat other folks
+p527
+aVin the intelligence community have done,
+p528
+aVthat the military has done,
+p529
+aVand that our allies around the globe have done.
+p530
+aVYou've heard the numbers about
+p531
+aVthe tip of the iceberg in terms
+p532
+aVof numbers of terrorist attacks that NSA programs
+p533
+aVcontributed to stopping was 54,
+p534
+aV25 of those in Europe,
+p535
+aVand of those 25,
+p536
+aV18 of them occurred in three countries,
+p537
+aVsome of which are our allies,
+p538
+aVand some of which are beating the heck out of us
+p539
+aVover the NSA programs, by the way.
+p540
+aVSo that's not an accident that those things happen.
+p541
+aVThat's hard work. That's us finding intelligence
+p542
+aVon terrorist activities
+p543
+aVand interdicting them through one way or another,
+p544
+aVthrough law enforcement,
+p545
+aVthrough cooperative activities with other countries
+p546
+aVand sometimes through military action.
+p547
+aVThe other thing I would say is that
+p548
+aVyour idea of nuclear or chem-bio-threat
+p549
+aVis not at all far-fetched
+p550
+aVand in fact there are a number of groups
+p551
+aVwho have for several years expressed interest
+p552
+aVand desire in obtaining those capabilities
+p553
+aVand work towards that.
+p554
+aa(lp555
+VCA: It's also been said that,
+p556
+aVof those 54 alleged incidents,
+p557
+aVthat as few as zero of them
+p558
+aVwere actually anything to do
+p559
+aVwith these controversial programs
+p560
+aVthat Mr. Snowden revealed,
+p561
+aVthat it was basically through other forms of intelligence,
+p562
+aVthat you're looking for a needle in a haystack,
+p563
+aVand the effects of these programs,
+p564
+aVthese controversial programs,
+p565
+aVis just to add hay to the stack,
+p566
+aVnot to really find the needle.
+p567
+aVThe needle was found by other methods.
+p568
+aVIsn't there something to that?
+p569
+aa(lp570
+VRL: No, there's actually two programs
+p571
+aVthat are typically implicated in that discussion.
+p572
+aVOne is the section 215 program,
+p573
+aVthe U.S. telephony metadata program,
+p574
+aVand the other one is
+p575
+aVpopularly called the PRISM program,
+p576
+aVand it's actually section 702  of the FISA Amendment Act.
+p577
+aVBut the 215 program
+p578
+aVis only relevant to threats
+p579
+aVthat are directed against the United States,
+p580
+aVand there have been a dozen threats
+p581
+aVwhere that was implicated.
+p582
+aVNow what you'll see people say publicly
+p583
+aVis there is no "but for" case,
+p584
+aVand so there is no case where, but for that,
+p585
+aVthe threat would have happened.
+p586
+aVBut that actually indicates a lack of understanding
+p587
+aVof how terrorist investigations actually work.
+p588
+aVYou think about on television,
+p589
+aVyou watch a murder mystery.
+p590
+aVWhat do you start with? You start with a body,
+p591
+aVand then they work their way from there to solve the crime.
+p592
+aVWe're actually starting well before that,
+p593
+aVhopefully before there are any bodies,
+p594
+aVand we're trying to build the case for
+p595
+aVwho the people are, what they're trying to do,
+p596
+aVand that involves massive amounts of information.
+p597
+aVThink of it is as mosaic,
+p598
+aVand it's hard to say that any one piece of a mosaic
+p599
+aVwas necessary to building the mosaic,
+p600
+aVbut to build the complete picture,
+p601
+aVyou need to have all the pieces of information.
+p602
+aVOn the other, the non-U.S.-related threats out of those 54,
+p603
+aVthe other 42 of them,
+p604
+aVthe PRISM program was hugely relevant to that,
+p605
+aVand in fact was material in contributing
+p606
+aVto stopping those attacks.
+p607
+aa(lp608
+VCA: Snowden said two days ago
+p609
+aVthat terrorism has always been
+p610
+aVwhat is called in the intelligence world
+p611
+aV"a cover for action,"
+p612
+aVthat it's something that,
+p613
+aVbecause it invokes such a powerful
+p614
+aVemotional response in people,
+p615
+aVit allows the initiation of these programs
+p616
+aVto achieve powers that an organization like yours
+p617
+aVcouldn't otherwise have.
+p618
+aVIs there any internal debate about that?
+p619
+aa(lp620
+VRL: Yeah.
+p621
+aVI mean, we debate these things all the time,
+p622
+aVand there is discussion that goes on
+p623
+aVin the executive branch
+p624
+aVand within NSA itself
+p625
+aVand the intelligence community about
+p626
+aVwhat's right, what's proportionate,
+p627
+aVwhat's the correct thing to do.
+p628
+aVAnd it's important to note that the programs
+p629
+aVthat we're talking about
+p630
+aVwere all authorized by two different presidents,
+p631
+aVtwo different political parties,
+p632
+aVby Congress twice,
+p633
+aVand by federal judges 16 different times,
+p634
+aVand so this is not NSA running off
+p635
+aVand doing its own thing.
+p636
+aVThis is a legitimate activity
+p637
+aVof the United States foreign government
+p638
+aVthat was agreed to by all the branches
+p639
+aVof the United States government,
+p640
+aVand President Madison would have been proud.
+p641
+aa(lp642
+VCA: And yet, when congressmen discovered
+p643
+aVwhat was actually being done  with that authorization,
+p644
+aVmany of them were completely shocked.
+p645
+aVOr do you think that is not a legitimate reaction,
+p646
+aVthat it's only because it's now come out publicly,
+p647
+aVthat they really knew exactly what you were doing
+p648
+aVwith the powers they had granted you?
+p649
+aa(lp650
+VRL: Congress is a big body.
+p651
+aVThere's 535 of them,
+p652
+aVand they change out frequently,
+p653
+aVin the case of the House, every two years,
+p654
+aVand I think that the NSA provided
+p655
+aVall the relevant information to our oversight committees,
+p656
+aVand then the dissemination of that information
+p657
+aVby the oversight committees throughout Congress
+p658
+aVis something that they manage.
+p659
+aVI think I would say that Congress members
+p660
+aVhad the opportunity to make themselves aware,
+p661
+aVand in fact a significant number of them,
+p662
+aVthe ones who are assigned oversight responsibility,
+p663
+aVdid have the ability to do that.
+p664
+aVAnd you've actually had the chairs of those committees say that in public.
+p665
+aVCA: Now, you mentioned the  threat of cyberattacks,
+p666
+aVand I don't think anyone in this room would disagree
+p667
+aVthat that is a huge concern,
+p668
+aVbut do you accept that there's a tradeoff
+p669
+aVbetween offensive and defensive strategies,
+p670
+aVand that it's possible that the very measures taken
+p671
+aVto, "weaken encryption,"
+p672
+aVand allow yourself to find the bad guys,
+p673
+aVmight also open the door to forms of cyberattack?
+p674
+aa(lp675
+VRL: So I think two things.
+p676
+aVOne is, you said weaken encryption. I didn't.
+p677
+aVAnd the other one is that
+p678
+aVthe NSA has both of those missions,
+p679
+aVand we are heavily biased towards defense,
+p680
+aVand, actually, the vulnerabilities that we find
+p681
+aVin the overwhelming majority of cases,
+p682
+aVwe disclose to the people who are responsible
+p683
+aVfor manufacturing or developing those products.
+p684
+aVWe have a great track record of that,
+p685
+aVand we're actually working on a proposal right now
+p686
+aVto be transparent and to publish transparency reports
+p687
+aVin the same way that the Internet companies
+p688
+aVare being allowed to publish transparency reports for them.
+p689
+aVWe want to be more transparent about that.
+p690
+aVSo again, we eat our own dog food.
+p691
+aVWe use the standards, we use the products
+p692
+aVthat we recommend,
+p693
+aVand so it's in our interest
+p694
+aVto keep our communications protected
+p695
+aVin the same way that other people's need to be.
+p696
+aa(lp697
+VCA: Edward Snowden,
+p698
+aVwhen, after his talk, was wandering the halls here
+p699
+aVin the bot,
+p700
+aVand I heard him say to a couple of people,
+p701
+aVthey asked him about what he thought
+p702
+aVof the NSA overall,
+p703
+aVand he was very complimentary about the people
+p704
+aVwho work with you,
+p705
+aVsaid that it's a really
+p706
+aVimpassioned group of employees
+p707
+aVwho are seeking to do the right thing,
+p708
+aVand that the problems have come from
+p709
+aVjust some badly conceived policies.
+p710
+aVHe came over certainly very reasonably and calmly.
+p711
+aVHe didn't come over like a crazy man.
+p712
+aVWould you accept that at least,
+p713
+aVeven if you disagree with how he did it,
+p714
+aVthat he has opened a debate that matters?
+p715
+aa(lp716
+VRL: So I think that the discussion
+p717
+aVis an important one to have.
+p718
+aVI do not like the way that he did it.
+p719
+aVI think there were a number of other ways
+p720
+aVthat he could have done that
+p721
+aVthat would have not endangered our people
+p722
+aVand the people of other nations
+p723
+aVthrough losing visibility
+p724
+aVinto what our adversaries are doing.
+p725
+aVBut I do think it's an important conversation.
+p726
+aa(lp727
+VCA: It's been reported that there's
+p728
+aValmost a difference of opinion
+p729
+aVwith you and your colleagues
+p730
+aVover any scenario in which
+p731
+aVhe might be offered an amnesty deal.
+p732
+aVI think your boss, General Keith Alexander,
+p733
+aVhas said that that would be a terrible example
+p734
+aVfor others;
+p735
+aVyou can't negotiate with someone
+p736
+aVwho's broken the law in that way.
+p737
+aVBut you've been quoted as saying that,
+p738
+aVif Snowden could prove that he was surrendering
+p739
+aVall undisclosed documents,
+p740
+aVthat a deal maybe should be considered.
+p741
+aVDo you still think that?
+p742
+aa(lp743
+VRL: Yeah, so actually,
+p744
+aVthis is my favorite thing about that "60 Minutes" interview
+p745
+aVwas all the misquotes that came from that.
+p746
+aVWhat I actually said, in  response to a question about,
+p747
+aVwould you entertain any discussions
+p748
+aVof mitigating action against Snowden,
+p749
+aVI said, yeah, it's worth a conversation.
+p750
+aVThis is something that the attorney general
+p751
+aVof the United States and the president also
+p752
+aVactually have both talked about this,
+p753
+aVand I defer to the attorney general,
+p754
+aVbecause this is his lane.
+p755
+aVBut there is a strong tradition
+p756
+aVin American jurisprudence
+p757
+aVof having discussions with people
+p758
+aVwho have been charged with crimes in order to,
+p759
+aVif it benefits the government,
+p760
+aVto get something out of that,
+p761
+aVthat there's always room for that kind of discussion.
+p762
+aVSo I'm not presupposing any outcome,
+p763
+aVbut there is always room for discussion.
+p764
+aa(lp765
+VCA: To a lay person it seems like
+p766
+aVhe has certain things to offer the U.S.,
+p767
+aVthe government, you, others,
+p768
+aVin terms of putting things right
+p769
+aVand helping figure out a smarter policy,
+p770
+aVa smarter way forward for the future.
+p771
+aVDo you see, has that kind of possibility
+p772
+aVbeen entertained at all?
+p773
+aVRL: So that's out of my lane.
+p774
+aVThat's not an NSA thing.
+p775
+aVThat would be a Department of Justice
+p776
+aVsort of discussion.
+p777
+aVI'll defer to them.
+p778
+aa(lp779
+VCA: Rick, when Ed Snowden ended his talk,
+p780
+aVI offered him the chance to share an idea worth spreading.
+p781
+aVWhat would be your idea worth spreading
+p782
+aVfor this group?
+p783
+aa(lp784
+VRL: So I think, learn the facts.
+p785
+aVThis is a really important conversation,
+p786
+aVand it impacts, it's not just NSA,
+p787
+aVit's not just the government,
+p788
+aVit's you, it's the Internet companies.
+p789
+aVThe issue of privacy and personal data
+p790
+aVis much bigger than just the government,
+p791
+aVand so learn the facts.
+p792
+aVDon't rely on headlines,
+p793
+aVdon't rely on sound bites,
+p794
+aVdon't rely on one-sided conversations.
+p795
+aVSo that's the idea, I think, worth spreading.
+p796
+aVWe have a sign, a badge tab,
+p797
+aVwe wear badges at work with lanyards,
+p798
+aVand if I could make a plug,
+p799
+aVmy badge lanyard at work says, "Dallas Cowboys."
+p800
+aVGo Dallas.
+p801
+aVI've just alienated half the audience, I know.
+p802
+aVSo the lanyard that our people
+p803
+aVwho work in the organization
+p804
+aVthat does our crypto-analytic work
+p805
+aVhave a tab that says, "Look at the data."
+p806
+aVSo that's the idea worth spreading.
+p807
+aVLook at the data.
+p808
+aa(lp809
+VCA: Rick, it took a certain amount of courage,
+p810
+aVI think, actually, to come and speak openly
+p811
+aVto this group.
+p812
+aVIt's not something the NSA has done a lot of in the past,
+p813
+aVand plus the technology has been challenging.
+p814
+aVWe truly appreciate you doing that
+p815
+aVand sharing in this very important conversation.
+p816
+aVThank you so much.
+p817
+aa(lp818
+VRL: Thanks, Chris.
+p819
+aa(lp820
+V(Applause)
+p821
+aasS'id'
+p822
+I1952
+sS'title'
+p823
+VThe NSA responds to Edward Snowden's TED Talk
+p824
+s.

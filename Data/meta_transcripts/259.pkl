@@ -1,0 +1,829 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhat I'd like to do is just drag us all down into the gutter,
+p4
+aVand actually all the way down into the sewer
+p5
+aVbecause I want to talk about diarrhea.
+p6
+aVAnd in particular, I want to talk about
+p7
+aVthe design of diarrhea.
+p8
+aVAnd when evolutionary biologists talk about design,
+p9
+aVthey really mean design by natural selection.
+p10
+aVAnd that brings me to the title of the talk,
+p11
+aV"Using Evolution to Design Disease Organisms Intelligently."
+p12
+aVAnd I also have a little bit of a sort of smartass subtitle to this.
+p13
+aVBut I'm not just doing this to be cute.
+p14
+aVI really think that this subtitle explains
+p15
+aVwhat somebody like me, who's sort of a Darwin wannabe,
+p16
+aVhow they actually look at one's role in
+p17
+aVsort of coming into this field of health sciences and medicine.
+p18
+aVIt's really not a very friendly field for evolutionary biologists.
+p19
+aVYou actually see a great potential,
+p20
+aVbut you see a lot of people who are sort of defending their turf,
+p21
+aVand may actually be very resistant, when one tries
+p22
+aVto introduce ideas.
+p23
+aa(lp24
+VSo, all of the talk today is going to deal with two general questions.
+p25
+aVOne is that, why are some disease organisms more harmful?
+p26
+aVAnd a very closely related question, which is,
+p27
+aVhow can we take control of this situation once we understand
+p28
+aVthe answer to the first question?
+p29
+aVHow can we make the harmful organisms more mild?
+p30
+aVAnd I'm going to be talking, to begin with, as I said,
+p31
+aVabout diarrheal disease organisms.
+p32
+aVAnd the focus when I'm talking about the diarrheal organisms,
+p33
+aVas well as the focus when I'm talking about any organisms
+p34
+aVthat cause acute infectious disease,
+p35
+aVis to think about the problem from a germ's point of view,
+p36
+aVgerm's-eye view.
+p37
+aVAnd in particular, to think about a fundamental idea
+p38
+aVwhich I think makes sense out of a tremendous amount of variation
+p39
+aVin the harmfulness of disease organisms.
+p40
+aVAnd that idea is that from the germ's-eye point of view,
+p41
+aVdisease organisms have to get from one host to another,
+p42
+aVand often they have to rely on the well-being of the host
+p43
+aVto move them to another host.
+p44
+aa(lp45
+VBut not always.
+p46
+aVSometimes, you get disease organisms
+p47
+aVthat don't rely on host mobility at all for transmission.
+p48
+aVAnd when you have that, then evolutionary theory tells us
+p49
+aVthat natural selection will favor the more exploitative,
+p50
+aVmore predator-like organisms.
+p51
+aVSo, natural selection will favor organisms
+p52
+aVthat are more likely to cause damage.
+p53
+aVIf instead transmission to another host requires host mobility,
+p54
+aVthen we expect that the winners of the competition
+p55
+aVwill be the milder organisms.
+p56
+aVSo, if the pathogen doesn't need the host to be healthy and active,
+p57
+aVand actual selection favors pathogens
+p58
+aVthat take advantage of those hosts,
+p59
+aVthe winners in the competition are those that exploit the hosts
+p60
+aVfor their own reproductive success.
+p61
+aVBut if the host needs to be mobile in order to transmit the pathogen,
+p62
+aVthen it's the benign ones that tend to be the winners.
+p63
+aa(lp64
+VSo, I'm going to begin by applying this idea to diarrheal diseases.
+p65
+aVDiarrheal disease organisms get transmitted in basically three ways.
+p66
+aVThey can be transmitted from person-to-person contact,
+p67
+aVperson-to-food-then-to-person contact,
+p68
+aVwhen somebody eats contaminated food,
+p69
+aVor they can be transmitted through the water.
+p70
+aVAnd when they're transmitted through the water,
+p71
+aVunlike the first two modes of transmission,
+p72
+aVthese pathogens don't rely on a healthy host for transmission.
+p73
+aVA person can be sick in bed and still infect tens, even hundreds
+p74
+aVof other individuals.
+p75
+aVTo sort of illustrate that, this diagram emphasizes that
+p76
+aVif you've got a sick person in bed,
+p77
+aVsomebody's going to be taking out the contaminated materials.
+p78
+aVThey're going to wash those contaminated materials,
+p79
+aVand then the water may move into sources of drinking water.
+p80
+aVPeople will come in to those places where you've got
+p81
+aVcontaminated drinking water,
+p82
+aVbring things back to the family,
+p83
+aVmay drink right at that point.
+p84
+aVThe whole point is that a person who can't move
+p85
+aVcan still infect many other individuals.
+p86
+aa(lp87
+VAnd so, the theory tells us that
+p88
+aVwhen diarrheal disease organisms are transported by water,
+p89
+aVwe expect them to be more predator-like, more harmful.
+p90
+aVAnd you can test these ideas.
+p91
+aVSo, one way you can test is just look at all diarrheal bacteria,
+p92
+aVand see whether or not the ones that tend to be
+p93
+aVmore transmitted by water, tend to be more harmful.
+p94
+aVAnd the answer is \u2014 yep, they are.
+p95
+aVNow I put those names in there just for the bacteria buffs,
+p96
+aVbut the main point here is that \u2014
+p97
+aV(Laughter)
+p98
+aVthere's a lot of them here, I can tell \u2014
+p99
+aVthe main point here is that those data points
+p100
+aVall show a very strong, positive association between
+p101
+aVthe degree to which a disease organism is transmitted by water,
+p102
+aVand how harmful they are,
+p103
+aVhow much death they cause per untreated infection.
+p104
+aVSo this suggests we're on the right track.
+p105
+aVBut this, to me, suggests that we really need
+p106
+aVto ask some additional questions.
+p107
+aa(lp108
+VRemember the second question that I raised at the outset was,
+p109
+aVhow can we use this knowledge
+p110
+aVto make disease organisms evolve to be mild?
+p111
+aVNow, this suggests that if you could just block waterborne transmission,
+p112
+aVyou could cause disease organisms to shift from
+p113
+aVthe right-hand side of that graph to the left-hand side of the graph.
+p114
+aVBut it doesn't tell you how long.
+p115
+aVI mean, if this would require thousands of years,
+p116
+aVthen it's worthless in terms of controlling of these pathogens.
+p117
+aVBut if it could occur in just a few years,
+p118
+aVthen it might be a very important way to control
+p119
+aVsome of the nasty problems that we haven't been able to control.
+p120
+aVIn other words, this suggests that we could
+p121
+aVdomesticate these organisms.
+p122
+aVWe could make them evolve to be not so harmful to us.
+p123
+aa(lp124
+VAnd so, as I was thinking about this, I focused on this organism,
+p125
+aVwhich is the El Tor biotype of the organism called Vibrio cholerae.
+p126
+aVAnd that is the species of organism that is responsible
+p127
+aVfor causing cholera.
+p128
+aVAnd the reason I thought this is a really great organism to look at
+p129
+aVis that we understand why it's so harmful.
+p130
+aVIt's harmful because it produces a toxin,
+p131
+aVand that toxin is released when the organism
+p132
+aVgets into our intestinal tract.
+p133
+aVIt causes fluid to flow from the cells that line our intestine
+p134
+aVinto the lumen, the internal chamber of our intestine,
+p135
+aVand then that fluid goes the only way it can, which is out the other end.
+p136
+aVAnd it flushes out thousands of different other competitors
+p137
+aVthat would otherwise make life difficult for the Vibrios.
+p138
+aa(lp139
+VSo what happens, if you've got an organism,
+p140
+aVit produces a lot of toxin.
+p141
+aVAfter a few days of infection you end up having \u2014
+p142
+aVthe fecal material really isn't so disgusting as we might imagine.
+p143
+aVIt's sort of cloudy water.
+p144
+aVAnd if you took a drop of that water,
+p145
+aVyou might find a million diarrheal organisms.
+p146
+aVIf the organism produced a lot of toxin,
+p147
+aVyou might find 10 million, or 100 million.
+p148
+aVIf it didn't produce a lot of this toxin,
+p149
+aVthen you might find a smaller number.
+p150
+aVSo the task is to try to figure out
+p151
+aVhow to determine whether or not you could get an organism like this
+p152
+aVto evolve towards mildness by blocking waterborne transmission,
+p153
+aVthereby allowing the organism only to be transmitted
+p154
+aVby person-to-person contact,
+p155
+aVor person-food-person contact \u2014
+p156
+aVboth of which would really require that people be
+p157
+aVmobile and fairly healthy for transmission.
+p158
+aa(lp159
+VNow, I can think of some possible experiments.
+p160
+aVOne would be to take a lot of different strains of this organism \u2014
+p161
+aVsome that produce a lot of toxins, some that produce a little \u2014
+p162
+aVand take those strains and spew them out in different countries.
+p163
+aVSome countries that might have clean water supplies,
+p164
+aVso that you can't get waterborne transmission:
+p165
+aVyou expect the organism to evolve to mildness there.
+p166
+aVOther countries, in which you've got a lot of waterborne transmission,
+p167
+aVthere you expect these organisms to evolve
+p168
+aVtowards a high level of harmfulness, right?
+p169
+aVThere's a little ethical problem in this experiment.
+p170
+aVI was hoping to hear a few gasps at least.
+p171
+aVThat makes me worry a little bit.
+p172
+aa(lp173
+V(Laughter)
+p174
+aa(lp175
+VBut anyhow, the laughter makes me feel a little bit better.
+p176
+aVAnd this ethical problem's a big problem.
+p177
+aVJust to emphasize this, this is what we're really talking about.
+p178
+aVHere's a girl who's almost dead.
+p179
+aVShe got rehydration therapy, she perked up,
+p180
+aVwithin a few days she was looking like a completely different person.
+p181
+aVSo, we don't want to run an experiment like that.
+p182
+aVBut interestingly, just that thing happened in 1991.
+p183
+aVIn 1991, this cholera organism got into Lima, Peru,
+p184
+aVand within two months it had spread to the neighboring areas.
+p185
+aVNow, I don't know how that happened,
+p186
+aVand I didn't have anything to do with it, I promise you.
+p187
+aVI don't think anybody knows,
+p188
+aVbut I'm not averse to, once that's happened,
+p189
+aVto see whether or not the prediction that we would make,
+p190
+aVthat I did make before, actually holds up.
+p191
+aVDid the organism evolve to mildness in a place like Chile,
+p192
+aVwhich has some of the most well protected water supplies
+p193
+aVin Latin America?
+p194
+aVAnd did it evolve to be more harmful in a place like Ecuador,
+p195
+aVwhich has some of the least well protected?
+p196
+aVAnd Peru's got something sort of in between.
+p197
+aa(lp198
+VAnd so, with funding from the Bosack-Kruger Foundation,
+p199
+aVI got a lot of strains from these different countries
+p200
+aVand we measured their toxin production in the lab.
+p201
+aVAnd we found that in Chile \u2014 within two months of the invasion of Peru
+p202
+aVyou had strains entering Chile \u2014
+p203
+aVand when you look at those strains,
+p204
+aVin the very far left-hand side of this graph,
+p205
+aVyou see a lot of variation in the toxin production.
+p206
+aVEach dot corresponds to an islet from a different person \u2014
+p207
+aVa lot of variation on which natural selection can act.
+p208
+aVBut the interesting point is, if you look over the 1990s,
+p209
+aVwithin a few years the organisms evolved to be more mild.
+p210
+aVThey evolved to produce less toxin.
+p211
+aVAnd to just give you a sense of how important this might be,
+p212
+aVif we look in 1995, we find that there's only one case of cholera,
+p213
+aVon average, reported from Chile every two years.
+p214
+aa(lp215
+VSo, it's controlled.
+p216
+aVThat's how much we have in America,
+p217
+aVcholera that's acquired endemically,
+p218
+aVand we don't think we've got a problem here.
+p219
+aVThey didn't \u2014 they solved the problem in Chile.
+p220
+aVBut, before we get too confident, we'd better look at some of those other countries,
+p221
+aVand make sure that this organism doesn't just always evolve toward mildness.
+p222
+aVWell, in Peru it didn't.
+p223
+aVAnd in Ecuador \u2014 remember, this is the place where it has
+p224
+aVthe highest potential waterborne transmission \u2014
+p225
+aVit looked like it got more harmful.
+p226
+aVIn every case there's a lot of variation,
+p227
+aVbut something about the environment the people are living in,
+p228
+aVand I think the only realistic explanation is that it's
+p229
+aVthe degree of waterborne transmission,
+p230
+aVfavored the harmful strains in one place, and mild strains in another.
+p231
+aa(lp232
+VSo, this is very encouraging,
+p233
+aVit suggests that something that we might want to do anyhow,
+p234
+aVif we had enough money, could actually give us a much bigger bang for the buck.
+p235
+aVIt would make these organisms evolve to mildness,
+p236
+aVso that even though people might be getting infected,
+p237
+aVthey'd be infected with mild strains.
+p238
+aVIt wouldn't be causing severe disease.
+p239
+aVBut there's another really interesting aspect of this,
+p240
+aVand this is that if you could control the evolution of virulence,
+p241
+aVevolution of harmfulness,
+p242
+aVthen you should be able to control antibiotic resistance.
+p243
+aVAnd the idea is very simple.
+p244
+aVIf you've got a harmful organism,
+p245
+aVa high proportion of the people are going to be symptomatic,
+p246
+aVa high proportion of the people are going to be going to get antibiotics.
+p247
+aVYou've got a lot of pressure favoring antibiotic resistance,
+p248
+aVso you get increased virulence leading to
+p249
+aVthe evolution of increased antibiotic resistance.
+p250
+aVAnd once you get increased antibiotic resistance,
+p251
+aVthe antibiotics aren't knocking out the harmful strains anymore.
+p252
+aVSo, you've got a higher level of virulence.
+p253
+aa(lp254
+VSo, you get this vicious cycle.
+p255
+aVThe goal is to turn this around.
+p256
+aVIf you could cause an evolutionary decrease in virulence
+p257
+aVby cleaning up the water supply,
+p258
+aVyou should be able to get an evolutionary decrease
+p259
+aVin antibiotic resistance.
+p260
+aVSo, we can go to the same countries and look and see.
+p261
+aVDid Chile avoid the problem of antibiotic resistance,
+p262
+aVwhereas did Ecuador actually have the beginnings of the problem?
+p263
+aVIf we look in the beginning of the 1990s,
+p264
+aVwe see, again, a lot of variation.
+p265
+aVIn this case, on the Y-axis, we've just got a measure of antibiotic sensitivity \u2014
+p266
+aVand I won't go into that.
+p267
+aVBut we've got a lot of variation in antibiotic sensitivity in Chile,
+p268
+aVPeru and Ecuador, and no trend across the years.
+p269
+aVBut if we look at the end of the 1990s, just half a decade later,
+p270
+aVwe see that in Ecuador they started having a resistance problem.
+p271
+aVAntibiotic sensitivity was going down.
+p272
+aVAnd in Chile, you still had antibiotic sensitivity.
+p273
+aa(lp274
+VSo, it looks like Chile dodged two bullets.
+p275
+aVThey got the organism to evolve to mildness,
+p276
+aVand they got no development of antibiotic resistance.
+p277
+aVNow, these ideas should apply across the board,
+p278
+aVas long as you can figure out why some organisms evolved to virulence.
+p279
+aVAnd I want to give you just one more example,
+p280
+aVbecause we've talked a little bit about malaria.
+p281
+aVAnd the example I want to deal with is,
+p282
+aVor the idea I want to deal with, the question is,
+p283
+aVwhat can we do to try to get the malarial organism to evolve to mildness?
+p284
+aVNow, malaria's transmitted by a mosquito,
+p285
+aVand normally if you're infected with malaria, and you're feeling sick,
+p286
+aVit makes it even easier for the mosquito to bite you.
+p287
+aa(lp288
+VAnd you can show, just by looking at data from literature,
+p289
+aVthat vector-borne diseases are more harmful
+p290
+aVthan non-vector-borne diseases.
+p291
+aVBut I think there's a really fascinating example
+p292
+aVof what one can do experimentally to try to actually demonstrate this.
+p293
+aVIn the case of waterborne transmission,
+p294
+aVwe'd like to clean up the water supplies,
+p295
+aVsee whether or not we can get those organisms to evolve towards mildness.
+p296
+aVIn the case of malaria, what we'd like to do is mosquito-proof houses.
+p297
+aVAnd the logic's a little more subtle here.
+p298
+aVIf you mosquito-proof houses,
+p299
+aVwhen people get sick, they're sitting in bed \u2014
+p300
+aVor in mosquito-proof hospitals, they're sitting in a hospital bed \u2014
+p301
+aVand the mosquitoes can't get to them.
+p302
+aa(lp303
+VSo, if you're a harmful variant
+p304
+aVin a place where you've got mosquito-proof housing, then you're a loser.
+p305
+aVThe only pathogens that get transmitted
+p306
+aVare the ones that are infecting people that feel healthy enough
+p307
+aVto walk outside and get mosquito bites.
+p308
+aVSo, if you were to mosquito proof houses,
+p309
+aVyou should be able to get these organisms to evolve to mildness.
+p310
+aVAnd there's a really wonderful experiment that was done
+p311
+aVthat suggests that we really should go ahead and do this.
+p312
+aVAnd that experiment was done in Northern Alabama.
+p313
+aVJust to give you a little perspective on this,
+p314
+aVI've given you a star at the intellectual center of the United States,
+p315
+aVwhich is right there in Louisville, Kentucky.
+p316
+aVAnd this really cool experiment was done
+p317
+aVabout 200 miles south of there, in Northern Alabama,
+p318
+aVby the Tennessee Valley Authority.
+p319
+aVThey had dammed up the Tennessee River.
+p320
+aVThey'd caused the water to back up,
+p321
+aVthey needed electric, hydroelectric power.
+p322
+aVAnd when you get stagnant water, you get mosquitoes.
+p323
+aVThey found in the late '30s \u2014 10 years after they'd made these dams \u2014
+p324
+aVthat the people in Northern Alabama were infected with malaria,
+p325
+aVabout a third to half of them were infected with malaria.
+p326
+aa(lp327
+VThis shows you the positions of some of these dams.
+p328
+aVOK, so the Tennessee Valley Authority was in a little bit of a bind.
+p329
+aVThere wasn't DDT, there wasn't chloroquines: what do they do?
+p330
+aVWell, they decided to mosquito proof every house in Northern Alabama.
+p331
+aVSo they did. They divided Northern Alabama into 11 zones,
+p332
+aVand within three years, about 100 dollars per house,
+p333
+aVthey mosquito proofed every house.
+p334
+aVAnd these are the data.
+p335
+aVEvery row across here represents one of those 11 zones.
+p336
+aVAnd the asterisks represent the time at which
+p337
+aVthe mosquito proofing was complete.
+p338
+aVAnd so what you can see is that
+p339
+aVjust the mosquito-proofed housing, and nothing else,
+p340
+aVcaused the eradication of malaria.
+p341
+aVAnd this was, incidentally, published in 1949,
+p342
+aVin the leading textbook of malaria, called "Boyd's Malariology."
+p343
+aVBut almost no malaria experts even know it exists.
+p344
+aVThis is important,
+p345
+aVbecause it tells us that if you have moderate biting densities,
+p346
+aVyou can eradicate malaria by mosquito proofing houses.
+p347
+aa(lp348
+VNow, I would suggest that you could do this in a lot of places.
+p349
+aVLike, you know, just as you get into the malaria zone,
+p350
+aVsub-Saharan Africa.
+p351
+aVBut as you move to really intense biting rate areas, like Nigeria,
+p352
+aVyou're certainly not going to eradicate.
+p353
+aVBut that's when you should be favoring evolution towards mildness.
+p354
+aVSo to me, it's an experiment that's waiting to happen,
+p355
+aVand if it confirms the prediction, then
+p356
+aVwe should have a very powerful tool.
+p357
+aVIn a way, much more powerful than the kind of tools we're looking at,
+p358
+aVbecause most of what's being done today is
+p359
+aVto rely on things like anti-malarial drugs.
+p360
+aVAnd we know that, although it's great to make those
+p361
+aVanti-malarial drugs available at really low cost and high frequency,
+p362
+aVwe know that when you make them highly available
+p363
+aVyou're going to get resistance to those drugs.
+p364
+aVAnd so it's a short-term solution.
+p365
+aVThis is a long-term solution.
+p366
+aa(lp367
+VWhat I'm suggesting here is that we could get evolution
+p368
+aVworking in the direction we want it to go,
+p369
+aVrather than always having to battle evolution as a problem
+p370
+aVthat stymies our efforts to control the pathogen,
+p371
+aVfor example with anti-malarial drugs.
+p372
+aVSo, this table I've given just to emphasize
+p373
+aVthat I've only talked about two examples.
+p374
+aVBut as I said earlier, this kind of logic applies across the board
+p375
+aVfor infectious diseases, and it ought to.
+p376
+aVBecause when we're dealing with infectious diseases, we're dealing with living systems.
+p377
+aVWe're dealing with living systems;
+p378
+aVwe're dealing with systems that evolve.
+p379
+aVAnd so if you do something with those systems,
+p380
+aVthey're going to evolve one way or another.
+p381
+aVAnd all I'm saying is that we need to figure out how they'll evolve,
+p382
+aVso that \u2014 we need to adjust our interventions
+p383
+aVto get the most bang for the intervention buck,
+p384
+aVso that we can get these organisms to evolve in the direction we want them to go.
+p385
+aa(lp386
+VSo, I don't really have time to talk about those things,
+p387
+aVbut I did want to put them up there,
+p388
+aVjust to give you a sense that there really are solutions
+p389
+aVto controlling the evolution of harmfulness
+p390
+aVof some of the nasty pathogens that we're confronted with.
+p391
+aVAnd this links up with a lot of the other ideas that have been talked about.
+p392
+aVSo, for example, earlier today there was discussion of,
+p393
+aVhow do you really lower sexual transmission of HIV?
+p394
+aVWhat this emphasizes is that we need to figure out how it will work.
+p395
+aVWill it maybe get lowered if we alter the economy of the area?
+p396
+aVIt may get lowered if we intervene in ways that
+p397
+aVencourage people to stay more faithful to partners, and so on.
+p398
+aa(lp399
+VBut the key thing is to figure out how to lower it,
+p400
+aVbecause if we lower it, we'll get an evolutionary change in the virus.
+p401
+aVAnd the data really do support this:
+p402
+aVthat you actually do get the virus evolving towards mildness.
+p403
+aVAnd that will just add to the effectiveness of our control efforts.
+p404
+aVSo the other thing I really like about this,
+p405
+aVbesides the fact that it brings a whole new dimension
+p406
+aVinto the study of control of disease,
+p407
+aVis that often the kinds of interventions that you want,
+p408
+aVthat it indicates should be done,
+p409
+aVare the kinds of interventions that people want anyhow.
+p410
+aVBut people just haven't been able to justify the cost.
+p411
+aa(lp412
+VSo, this is the kind of thing I'm talking about.
+p413
+aVIf we know that we're going to get extra bang for the buck from providing clean water,
+p414
+aVthen I think that we can say,
+p415
+aVlet's push the effort into that aspect of the control,
+p416
+aVso that we can actually solve the problem,
+p417
+aVeven though, if you just look at the frequency of infection,
+p418
+aVyou would suggest that you can't solve the problem well enough
+p419
+aVjust by cleaning up water supply.
+p420
+aVAnyhow, I'll end that there, and thank you very much.
+p421
+aa(lp422
+V(Applause)
+p423
+aasS'id'
+p424
+I259
+sS'title'
+p425
+VCan we domesticate germs?
+p426
+s.

@@ -1,0 +1,553 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VFor the last 20 years I've been designing puzzles.
+p4
+aVAnd I'm here today to give you
+p5
+aVa little tour, starting from the very first puzzle I designed,
+p6
+aVthrough what I'm doing now.
+p7
+aVI've designed puzzles for books, printed things.
+p8
+aVI'm the puzzle columnist for Discover Magazine.
+p9
+aVI've been doing that for about 10 years.
+p10
+aVI have a monthly puzzle calendar.
+p11
+aVI do toys. The bulk of my work is in computer games.
+p12
+aVI did puzzles for "Bejeweled."
+p13
+aV(Applause)
+p14
+aVI didn't invent "Bejeweled." I can't take credit for that.
+p15
+aa(lp16
+VSo, very first puzzle,
+p17
+aVsixth grade, my teacher said,
+p18
+aV"Oh, let's see, that guy, he likes to make stuff.
+p19
+aVI'll have him cut out letters out of construction paper
+p20
+aVfor the board."
+p21
+aVI thought this was a great assignment.
+p22
+aVAnd so here is what I came up with. I start fiddling with it.
+p23
+aVI came up with this letter. This is a letter of the alphabet
+p24
+aVthat's been folded just once.
+p25
+aVThe question is, which letter is it if I unfold it?
+p26
+aVOne hint: It's not "L."
+p27
+aV(Laughter)
+p28
+aVIt could be an "L," of course.
+p29
+aVSo, what else could it be?
+p30
+aVYeah, a lot of you got it.
+p31
+aVOh yeah. So, clever thing.
+p32
+aa(lp33
+VNow, that was my first puzzle. I got hooked.
+p34
+aVI created something new, I was very excited
+p35
+aVbecause, you know, I'd made crossword puzzles,
+p36
+aVbut that's sort of like filling in somebody else's matrix.
+p37
+aVThis was something really original. I got hooked.
+p38
+aVI read Martin Gardner's columns in Scientific American.
+p39
+aVWent on, and eventually decided to devote myself, full time, to that.
+p40
+aa(lp41
+VNow, I should pause and say, what do I mean by puzzle?
+p42
+aVA puzzle is a problem that is fun to solve
+p43
+aVand has a right answer.
+p44
+aV"Fun to solve," as opposed to everyday problems,
+p45
+aVwhich, frankly, are not very well-designed puzzles.
+p46
+aVYou know, they might have a solution.
+p47
+aVIt might take a long time. Nobody wrote down the rules clearly.
+p48
+aVWho designed this?
+p49
+aVIt's like, you know, life is not a very well-written story
+p50
+aVso we have to hire writers to make movies.
+p51
+aa(lp52
+VWell, I take everyday problems, and I make puzzles out of them.
+p53
+aVAnd "right answer," of course there might be more than one right answer;
+p54
+aVmany puzzles have more than one.
+p55
+aVBut as opposed to a couple other forms of play,
+p56
+aVtoys and games \u2014
+p57
+aVby toy I mean, something you play with that doesn't have a particular goal.
+p58
+aVYou can create one out of Legos.
+p59
+aVYou know, you can do anything you want.
+p60
+aVOr competitive games like chess where,
+p61
+aVwell, you're not trying to solve ... You can make a chess puzzle,
+p62
+aVbut the goal really is to beat another player.
+p63
+aa(lp64
+VI consider that puzzles are an art form.
+p65
+aVThey're very ancient. It goes back as long as there is written history.
+p66
+aVIt's a very small form, like a joke,
+p67
+aVa poem, a magic trick or a song, very compact form.
+p68
+aVAt worst, they're throwaways, they're for amusement.
+p69
+aVBut at best they can reach for something more
+p70
+aVand create a memorable impression.
+p71
+aVThe progression of my career that you'll see
+p72
+aVis looking for creating puzzles that have a memorable impact.
+p73
+aa(lp74
+VSo, one thing I found early on, when I started doing computer games,
+p75
+aVis that I could create puzzles that will alter your perception.
+p76
+aVI'll show you how. Here is a famous one.
+p77
+aVSo, it's two profiles in black, or a white vase in the middle.
+p78
+aVThis is called a figure-ground illusion.
+p79
+aVThe artist M.C. Escher exploited that
+p80
+aVin some of his wonderful prints.
+p81
+aVHere we have "Day and Night."
+p82
+aVHere is what I did with figure and ground.
+p83
+aVSo, here we have "figure" in black.
+p84
+aVHere we have "figure" in white.
+p85
+aVAnd it's all part of the same design.
+p86
+aVThe background to one is the other.
+p87
+aVOriginally I tried to do the words "figure" and "ground."
+p88
+aVBut I couldn't do that, I realized. I changed the problem.
+p89
+aVIt's all "figure."
+p90
+aV(Laughter)
+p91
+aa(lp92
+VA few other things. Here is my name.
+p93
+aVAnd that turns into the title of my first book, "Inversions."
+p94
+aVThese sorts of designs now go by the word "ambigram."
+p95
+aVI'll show you just a couple others. Here we have
+p96
+aVthe numbers one through 10, the digits zero through nine, actually.
+p97
+aVEach letter here is one of these digits.
+p98
+aVNot strictly an ambigram in the conventional sense.
+p99
+aVI like pushing on what an ambigram can mean.
+p100
+aa(lp101
+VHere's the word "mirror." No, it's not the same upside-down.
+p102
+aVIt's the same this way.
+p103
+aVAnd a marvelous fellow from the Media Lab
+p104
+aVwho just got appointed head of RISD, is John Maeda.
+p105
+aVAnd so I did this for him. It's sort of a visual canon.
+p106
+aV(Laughter)
+p107
+aVAnd recently in Magic magazine
+p108
+aVI've done a number of ambigrams on magician's names.
+p109
+aVSo here we have Penn and Teller, same upside-down.
+p110
+aVThis appears in my puzzle calendar.
+p111
+aVOkay, let's go back to the slides.
+p112
+aVThank you very much.
+p113
+aa(lp114
+VNow, those are fun to look at.
+p115
+aVNow how would you do it interactively?
+p116
+aVFor a while I was an interface designer.
+p117
+aVAnd so I think a lot about interaction.
+p118
+aVWell, let's first of all simplify the vases illusion,
+p119
+aVmake the thing on the right.
+p120
+aVNow, if you could pick up the black vase,
+p121
+aVit would look like the figure on top.
+p122
+aVIf you could pick up the white area,
+p123
+aVit would look like the figure on the bottom.
+p124
+aVWell, you can't do that physically,
+p125
+aVbut on a computer you can do it. Let's switch over to the P.C.
+p126
+aa(lp127
+VAnd here it is, figure-ground.
+p128
+aVThe goal here is to take the pieces on the left
+p129
+aVand make them so they look like the shape on the right.
+p130
+aVAnd this follows the rules I just said:
+p131
+aVany black area that is surrounded by white can be picked up.
+p132
+aVBut that is also true of any white area.
+p133
+aVSo, here we got the white area in the middle,
+p134
+aVand you can pick it up.
+p135
+aVI'll just go one step further.
+p136
+aVSo, here is \u2014
+p137
+aVhere is a couple pieces. Move them together,
+p138
+aVand now this is an active piece.
+p139
+aVYou can really get inside somebody's perception
+p140
+aVand have them experience something.
+p141
+aVIt's like the old maxim of
+p142
+aV"you can tell somebody something
+p143
+aVand show them, but if they do it they really learn it."
+p144
+aa(lp145
+VHere is another thing you can do.
+p146
+aVThere is a game called Rush Hour.
+p147
+aVThis is one of the true masterpieces in puzzle design
+p148
+aVbesides Rubik's cube.
+p149
+aVSo, here we have a crowded parking lot
+p150
+aVwith cars all over the place.
+p151
+aVThe goal is to get the red car out. It's a sliding block puzzle.
+p152
+aVIt's made by the company Think Fun.
+p153
+aVIt's done very well. I love this puzzle.
+p154
+aa(lp155
+VWell, let's play one. Here. So, here is a very simple puzzle.
+p156
+aVWell, that's too simple, let's add another piece.
+p157
+aVOkay, so how would you solve this one?
+p158
+aVWell, move the blue one out of the way.
+p159
+aVHere, let's make it a little harder. Still pretty easy.
+p160
+aVNow we'll make it harder, a little harder.
+p161
+aVNow, this one is a little bit trickier.
+p162
+aVYou know? What do you do here?
+p163
+aVThe first move is going to be what?
+p164
+aVYou're going to move the blue one up in order to get the lavender one to the right.
+p165
+aVAnd you can make puzzles like this one that aren't solvable at all.
+p166
+aVThose four are locked in a pinwheel; you can't get them apart.
+p167
+aa(lp168
+VI wanted to make a sequel.
+p169
+aVI didn't come up with the original idea. But this is another way
+p170
+aVI work as an inventor is to create a sequel.
+p171
+aVI came up with this. This is Railroad Rush Hour.
+p172
+aVIt's the same basic game except I introduced a new piece,
+p173
+aVa square piece that can move both horizontally and vertically.
+p174
+aVIn the other game the cars can only move forward and back.
+p175
+aVCreated a whole bunch of levels for it.
+p176
+aVNow I'm making it available to schools.
+p177
+aVAnd it includes exercises that show you
+p178
+aVnot just how to solve these puzzles,
+p179
+aVbut how to extract the principles that will let you solve
+p180
+aVmathematical puzzles or problems in science, other areas.
+p181
+aa(lp182
+VSo, I'm really interested in you learning how to make your own puzzles
+p183
+aVas well as just me creating them.
+p184
+aVGarry Trudeau calls himself an investigative cartoonist.
+p185
+aVYou know, he does a lot of research before he writes a cartoon.
+p186
+aVIn Discover Magazine, I'm an investigative puzzle maker.
+p187
+aVI got interested in gene sequencing.
+p188
+aVAnd I said, "Well, how on Earth can you come up with a sequence
+p189
+aVof the base pairs in DNA?"
+p190
+aVCut up the DNA, you sequence individual pieces,
+p191
+aVand then you look for overlaps,
+p192
+aVand you basically match them at the edges. And I said,
+p193
+aV"This is kind of like a jigsaw puzzle, except the pieces overlap."
+p194
+aa(lp195
+VSo, here is what I created for Discover Magazine.
+p196
+aVAnd it has to be solvable in a magazine.
+p197
+aVYou know, you can't cut out the pieces and move them around.
+p198
+aVSo, here is the nine pieces. And you're supposed to put them into this grid.
+p199
+aVAnd you have to choose pieces that overlap on the edge.
+p200
+aVThere is only one solution. It's not that hard.
+p201
+aVBut it takes some persistence.
+p202
+aVAnd when you're done, it makes this design,
+p203
+aVwhich, if you squint, is the word "helix."
+p204
+aVSo, that's the form of the puzzle coming out of the content,
+p205
+aVrather than the other way around.
+p206
+aa(lp207
+VHere is a couple more. Here is a physics-based puzzle.
+p208
+aVWhich way will these fall?
+p209
+aVOne of these weighs 50 pounds, 30 pounds and 10 pounds.
+p210
+aVAnd depending on which one weighs which amount,
+p211
+aVthey'll fall different directions.
+p212
+aVAnd here is a puzzle based on color mixing.
+p213
+aVI separated this image into cyan, magenta, yellow, black,
+p214
+aVthe basic printing colors, and then mixed up the separations,
+p215
+aVand you get these peculiar pictures.
+p216
+aVWhich separations were mixed up to make those pictures?
+p217
+aVGets you thinking about color.
+p218
+aa(lp219
+VFinally, what I'm doing now. So, ShuffleBrain.com,
+p220
+aVwebsite you can go visit, I joined up with my wife, Amy-Jo Kim.
+p221
+aVShe could easily be up here giving a talk about her work.
+p222
+aVSo, we're making smart games for social media.
+p223
+aVI'll explain what that means. We're looking at three trends.
+p224
+aVThis is what's going on in the games industry right now.
+p225
+aVFirst of all, you know, for a long time
+p226
+aVcomputer games meant things like "Doom,"
+p227
+aVwhere you're going around shooting things, very violent games, very fast,
+p228
+aVaimed at teenage boys. Right? That's who plays computer games.
+p229
+aa(lp230
+VWell, guess what? That's changing.
+p231
+aV"Bejeweled" is a big hit. It was the game that really broke open
+p232
+aVwhat's called casual games.
+p233
+aVAnd the main players are over 35, and are female.
+p234
+aVThen recently "Rock Band" has been a big hit.
+p235
+aVAnd it's a game you play with other people.
+p236
+aVIt's very physical. It looks nothing like a traditional game.
+p237
+aVThis is what's becoming the dominant form of electronic gaming.
+p238
+aa(lp239
+VNow, within that there is some interesting things happening.
+p240
+aVThere is also a trend towards games that are good for you.
+p241
+aVWhy? Well, we aging Boomers,
+p242
+aVBaby Boomers, we're eating our healthy food,
+p243
+aVwe're exercising. What about our minds?
+p244
+aVOh no, our parents are getting Alzheimer's. We better do something.
+p245
+aVTurns out doing crossword puzzles can stave off some of the effects of Alzheimer's.
+p246
+aVSo, we got games like "Brain Age" coming out for the Nintendo DS, huge hit.
+p247
+aVA lot of people do Sudoku. In fact some doctors prescribe it.
+p248
+aa(lp249
+VAnd then there is social media, and what's happening on the Internet.
+p250
+aVEverybody now considers themselves a creator,
+p251
+aVand not just a viewer.
+p252
+aVAnd what does this add up to?
+p253
+aVHere is what we see coming.
+p254
+aVIt's games that fit into a healthy lifestyle.
+p255
+aVThey're part of your life. They're not necessarily a separate thing.
+p256
+aVAnd they are both, something that is good for you, and they're fun.
+p257
+aVI'm a puzzle guy. My wife is an expert in social media.
+p258
+aVAnd we decided to combine our skills.
+p259
+aa(lp260
+VOur first game is called "Photo Grab." The game takes about a minute and 20 seconds.
+p261
+aVThis is your first time playing my game. Okay.
+p262
+aVLet's see how well we can do. There are three images.
+p263
+aVAnd we have 24 seconds each.
+p264
+aVWhere is that?
+p265
+aVI'll play as fast as I can.
+p266
+aVBut if you can see it, shout out the answer.
+p267
+aVYou get more \u2014 Down, okay, yeah where is that?
+p268
+aVOh, yeah. There, okay. J-O and \u2014
+p269
+aVI guess that's that part. We got the bow. That bow helps.
+p270
+aVThat's his hair. You get a lot of figure-ground problems.
+p271
+aVYeah, that one is easy. Okay. So, ahhh! Okay on to the next one.
+p272
+aVOkay, so that's the lens.
+p273
+aVAnybody?
+p274
+aVLooks like a black shape. So, where is that?
+p275
+aVThat's the corner of the whole thing.
+p276
+aVYeah, I've played this image before,
+p277
+aVbut even when I make up my own puzzles \u2014
+p278
+aVand you can put your own images in here.
+p279
+aVAnd we have people all over the world doing that now.
+p280
+aa(lp281
+VThere we are. Visit ShuffleBrain.com
+p282
+aVif you want to try it yourself. Thank you.
+p283
+aV(Applause)
+p284
+aasS'id'
+p285
+I705
+sS'title'
+p286
+VThe art of puzzles
+p287
+s.

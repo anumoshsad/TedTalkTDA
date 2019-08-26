@@ -1,0 +1,515 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VOK, first, some introductions.
+p4
+aVMy mom, Jennie, took this picture.
+p5
+aVThat's my dad, Frank, in the middle.
+p6
+aVAnd on his left, my sisters:
+p7
+aVMary Catherine, Judith Ann, Theresa Marie.
+p8
+aVJohn Patrick's sitting on his lap and Kevin Michael's on his right.
+p9
+aVAnd in the pale-blue windbreaker,
+p10
+aVSusan Diane. Me.
+p11
+aVI loved growing up in a big family.
+p12
+aVAnd one of my favorite things was picking names.
+p13
+aVBut by the time child number seven came along,
+p14
+aVwe had nearly run out of middle names.
+p15
+aVIt was a long deliberation
+p16
+aVbefore we finally settled on Jennifer Bridget.
+p17
+aVEvery parent in this audience
+p18
+aVknows the joy and excitement
+p19
+aVof picking a new baby's name.
+p20
+aVAnd I was excited and thrilled
+p21
+aVto help my mom in that special ceremonial moment.
+p22
+aa(lp23
+VBut it's not like that everywhere.
+p24
+aVI travel a lot and I see a lot.
+p25
+aVBut it took me by surprise to learn
+p26
+aVin an area of Ethiopia,
+p27
+aVparents delay picking the names for their new babies
+p28
+aVby a month or more.
+p29
+aVWhy delay?
+p30
+aVWhy not take advantage of this special ceremonial time?
+p31
+aVWell, they delay because they're afraid.
+p32
+aVThey're afraid their baby will die.
+p33
+aVAnd this loss might be a little more bearable without a name.
+p34
+aVA face without a name might help them feel
+p35
+aVjust a little less attached.
+p36
+aa(lp37
+VSo here we are in one part of the world \u2014
+p38
+aVa time of joy, excitement, dreaming of the future of that child \u2014
+p39
+aVwhile in another world,
+p40
+aVparents are filled with dread,
+p41
+aVnot daring to dream of a future for their child
+p42
+aVbeyond a few precious weeks.
+p43
+aVHow can that be?
+p44
+aVHow can it be that 2.6 million babies
+p45
+aVdie around the world
+p46
+aVbefore they're even one month old?
+p47
+aV2.6 million.
+p48
+aVThat's the population of Vancouver.
+p49
+aVAnd the shocking thing is:
+p50
+aVWhy?
+p51
+aVIn too many cases, we simply don't know.
+p52
+aa(lp53
+VNow, I remember recently seeing an updated pie chart.
+p54
+aVAnd the pie chart was labeled,
+p55
+aV"Causes of death in children under five worldwide."
+p56
+aVAnd there was a pretty big section of that pie chart, about 40 percent \u2014
+p57
+aV40 percent was labeled "neonatal."
+p58
+aVNow, "neonatal" is not a cause of death.
+p59
+aVNeonatal is simply an adjective,
+p60
+aVan adjective that means that the child is less than one month old.
+p61
+aVFor me, "neonatal" said: "We have no idea."
+p62
+aa(lp63
+VNow, I'm a scientist. I'm a doctor.
+p64
+aVI want to fix things.
+p65
+aVBut you can't fix what you can't define.
+p66
+aVSo our first step in restoring the dreams of those parents
+p67
+aVis to answer the question:
+p68
+aVWhy are babies dying?
+p69
+aa(lp70
+VSo today, I want to talk about a new approach,
+p71
+aVan approach that I feel
+p72
+aVwill not only help us know why babies are dying,
+p73
+aVbut is beginning to completely transform
+p74
+aVthe whole field of global health.
+p75
+aVIt's called "Precision Public Health."
+p76
+aa(lp77
+VFor me, precision medicine comes from a very special place.
+p78
+aVI trained as a cancer doctor, an oncologist.
+p79
+aVI got into it because I wanted to help people feel better.
+p80
+aVBut too often my treatments made them feel worse.
+p81
+aVI still remember young women being driven to my clinic
+p82
+aVby their moms \u2014
+p83
+aVadults, who had to be helped into my exam room by their mothers.
+p84
+aVThey were so weak
+p85
+aVfrom the treatment I had given them.
+p86
+aVBut at the time, in those front lines in the war on cancer,
+p87
+aVwe had few tools.
+p88
+aVAnd the tools we did have couldn't differentiate
+p89
+aVbetween the cancer cells that we wanted to hit hard
+p90
+aVand those healthy cells that we wanted to preserve.
+p91
+aVAnd so the side effects that you're all very familiar with \u2014
+p92
+aVhair loss, being sick to your stomach,
+p93
+aVhaving a suppressed immune system, so infection was a constant threat \u2014
+p94
+aVwere always surrounding us.
+p95
+aa(lp96
+VAnd then I moved to the biotechnology industry.
+p97
+aVAnd I got to work on a new approach for breast cancer patients
+p98
+aVthat could do a better job of telling the healthy cells
+p99
+aVfrom the unhealthy or cancer cells.
+p100
+aVIt's a drug called Herceptin.
+p101
+aVAnd what Herceptin allowed us to do
+p102
+aVis to precisely target HER2-positive breast cancer,
+p103
+aVat the time, the scariest form of breast cancer.
+p104
+aVAnd that precision let us hit hard the cancer cells,
+p105
+aVwhile sparing and being more gentle on the normal cells.
+p106
+aVA huge breakthrough.
+p107
+aVIt felt like a miracle,
+p108
+aVso much so that today,
+p109
+aVwe're harnessing all those tools \u2014
+p110
+aVbig data, consumer monitoring, gene sequencing and more \u2014
+p111
+aVto tackle a broad variety of diseases.
+p112
+aVThat's allowing us to target individuals
+p113
+aVwith the right remedies at the right time.
+p114
+aa(lp115
+VPrecision medicine revolutionized cancer therapy.
+p116
+aVEverything changed.
+p117
+aVAnd I want everything to change again.
+p118
+aVSo I've been asking myself:
+p119
+aVWhy should we limit
+p120
+aVthis smarter, more precise, better way to tackle diseases
+p121
+aVto the rich world?
+p122
+aVNow, don't misunderstand me \u2014
+p123
+aVI'm not talking about bringing expensive medicines like Herceptin
+p124
+aVto the developing world,
+p125
+aValthough I'd actually kind of like that.
+p126
+aVWhat I am talking about
+p127
+aVis moving from this precise targeting for individuals
+p128
+aVto tackle public health problems
+p129
+aVin populations.
+p130
+aa(lp131
+VNow, OK, I know probably you're thinking, "She's crazy.
+p132
+aVYou can't do that. That's too ambitious."
+p133
+aVBut here's the thing:
+p134
+aVwe're already doing this in a limited way,
+p135
+aVand it's already starting to make a big difference.
+p136
+aa(lp137
+VSo here's what's happening.
+p138
+aVNow, I told you I trained as a cancer doctor.
+p139
+aVBut like many, many doctors who trained in San Francisco in the '80s,
+p140
+aVI also trained as an AIDS doctor.
+p141
+aVIt was a terrible time.
+p142
+aVAIDS was a death sentence.
+p143
+aVAll my patients died.
+p144
+aVNow, things are better,
+p145
+aVbut HIV/AIDS remains a terrible global challenge.
+p146
+aVWorldwide, about 17 million women are living with HIV.
+p147
+aVWe know that when these women become pregnant,
+p148
+aVthey can transfer the virus to their baby.
+p149
+aVWe also know in the absence of therapy,
+p150
+aVhalf those babies will not survive until the age of two.
+p151
+aVBut we know that antiretroviral therapy can virtually guarantee
+p152
+aVthat she will not transmit the virus to the baby.
+p153
+aVSo what do we do?
+p154
+aa(lp155
+VWell, a one-size-fits-all approach, kind of like that blast of chemo,
+p156
+aVwould mean we test and treat every pregnant woman in the world.
+p157
+aVThat would do the job.
+p158
+aVBut it's just not practical.
+p159
+aVSo instead, we target those areas where HIV rates are the highest.
+p160
+aVWe know in certain countries in sub-Saharan Africa
+p161
+aVwe can test and treat pregnant women where rates are highest.
+p162
+aVThis precision approach to a public health problem
+p163
+aVhas cut by nearly half
+p164
+aVHIV transmission from mothers to baby
+p165
+aVin the last five years.
+p166
+aa(lp167
+V(Applause)
+p168
+aa(lp169
+VScreening pregnant women in certain areas in the developing world
+p170
+aVis a powerful example
+p171
+aVof how precision public health can change things on a big scale.
+p172
+aa(lp173
+VSo ...
+p174
+aVHow do we do that?
+p175
+aVWe can do that because we know.
+p176
+aVWe know who to target,
+p177
+aVwhat to target,
+p178
+aVwhere to target and how to target.
+p179
+aVAnd that, for me, are the important  elements of precision public health:
+p180
+aVwho, what, where and how.
+p181
+aa(lp182
+VBut let's go back to the 2.6 million babies
+p183
+aVwho die before they're one month old.
+p184
+aVHere's the problem: we just don't know.
+p185
+aVIt may seem unbelievable,
+p186
+aVbut the way we figure out the causes of infant mortality
+p187
+aVin those countries with the highest infant mortality
+p188
+aVis a conversation with mom.
+p189
+aVA health worker asks a mom who has just lost her child,
+p190
+aV"Was the baby vomiting? Did they have a fever?"
+p191
+aVAnd that conversation may take place
+p192
+aVas long as three months after the baby has died.
+p193
+aVNow, put yourself in the shoes of that mom.
+p194
+aVIt's a heartbreaking, excruciating conversation.
+p195
+aVAnd even worse \u2014 it's not that helpful,
+p196
+aVbecause we might know there was a fever or vomiting,
+p197
+aVbut we don't know why.
+p198
+aVSo in the absence of knowing that knowledge,
+p199
+aVwe cannot prevent that mom, that family,
+p200
+aVor other families in that community
+p201
+aVfrom suffering the same tragedy.
+p202
+aa(lp203
+VBut what if we applied a precision public health approach?
+p204
+aVLet's say, for example,
+p205
+aVwe find out in certain areas of Africa
+p206
+aVthat babies are dying because of a bacterial infection
+p207
+aVtransferred from the mother to the baby,
+p208
+aVknown as Group B streptococcus.
+p209
+aVIn the absence of treatment, mom has a seven times higher chance
+p210
+aVthat her next baby will die.
+p211
+aVOnce we define the problem, we can prevent that death
+p212
+aVwith something as cheap and safe as penicillin.
+p213
+aVWe can do that because then we'll know.
+p214
+aVAnd that's the point:
+p215
+aVonce we know, we can bring the right interventions
+p216
+aVto the right population in the right places
+p217
+aVto save lives.
+p218
+aa(lp219
+VWith this approach, and with these interventions
+p220
+aVand others like them,
+p221
+aVI have no doubt
+p222
+aVthat a precision public health approach
+p223
+aVcan help our world achieve our 15-year goal.
+p224
+aVAnd that would translate into a million babies' lives saved
+p225
+aVevery single year.
+p226
+aVOne million babies every single year.
+p227
+aa(lp228
+VAnd why would we stop there?
+p229
+aVA much more powerful approach to public health \u2014
+p230
+aVimagine what might be possible.
+p231
+aVWhy couldn't we more effectively tackle malnutrition?
+p232
+aVWhy wouldn't we prevent cervical cancer in women?
+p233
+aVAnd why not eradicate malaria?
+p234
+aa(lp235
+V(Applause)
+p236
+aa(lp237
+VYes, clap for that!
+p238
+aa(lp239
+V(Applause)
+p240
+aa(lp241
+VSo, you know, I live in two different worlds,
+p242
+aVone world populated by scientists,
+p243
+aVand another world populated by public health professionals.
+p244
+aVThe promise of precision public health
+p245
+aVis to bring these two worlds together.
+p246
+aVBut you know, we all live in two worlds:
+p247
+aVthe rich world and the poor world.
+p248
+aVAnd what I'm most excited about about precision public health
+p249
+aVis bridging these two worlds.
+p250
+aVEvery day in the rich world,
+p251
+aVwe're bringing incredible talent and tools \u2014
+p252
+aVeverything at our disposal \u2014
+p253
+aVto precisely target diseases in ways I never imagined
+p254
+aVwould be possible.
+p255
+aVSurely, we can tap into that kind of talent and tools
+p256
+aVto stop babies dying in the poor world.
+p257
+aVIf we did,
+p258
+aVthen every parent would have the confidence
+p259
+aVto name their child the moment that child is born,
+p260
+aVdaring to dream that that child's life will be measured in decades,
+p261
+aVnot days.
+p262
+aa(lp263
+VThank you.
+p264
+aa(lp265
+V(Applause)
+p266
+aasS'id'
+p267
+I2514
+sS'title'
+p268
+VA smarter, more precise way to think about public health
+p269
+s.

@@ -1,0 +1,491 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VGuys, we have an issue.
+p4
+aa(lp5
+V(Laughter)
+p6
+aa(lp7
+VGrowth is fading away, and it's a big deal.
+p8
+aVOur global economy stops growing.
+p9
+aVAnd it's not new.
+p10
+aVGrowth has actually declined for the last 50 years.
+p11
+aVIf we continue like this, we need to learn
+p12
+aVhow to live in a world with no growth in the next decade.
+p13
+aVThis is scary because when the economy doesn't grow,
+p14
+aVour children don't get better lives.
+p15
+aVWhat's even scarier is that when the pie does not grow,
+p16
+aVeach of us get a smaller piece.
+p17
+aVWe're then ready to fight for a bigger one.
+p18
+aVThis creates tensions and serious conflicts.
+p19
+aVGrowth matters a lot.
+p20
+aa(lp21
+VIf we look at the history of growth,
+p22
+aVtimes of big growth have always been fueled
+p23
+aVby big manufacturing revolutions.
+p24
+aVIt happened three times, every 50-60 years.
+p25
+aVThe steam engine in the middle of the 19th century,
+p26
+aVthe mass-production model in the beginning of the 20th century \u2014
+p27
+aVthanks, Mr. Ford.
+p28
+aVAnd the first automation wave in the 1970s.
+p29
+aa(lp30
+VWhy did these manufacturing revolutions
+p31
+aVcreate huge growth in our economies?
+p32
+aVBecause they have injected huge productivity improvement.
+p33
+aVIt's rather simple:
+p34
+aVin order to grow, you need to be producing more,
+p35
+aVputting more into our economy.
+p36
+aVThis means either more labor or more capital or more productivity.
+p37
+aVEach time, productivity has been the growth lever.
+p38
+aa(lp39
+VI'm here today to tell you
+p40
+aVthat we are on the verge of another huge change,
+p41
+aVand that this change, surprisingly enough,
+p42
+aVis going to come from manufacturing, again.
+p43
+aVIt will get us out of our growth slump
+p44
+aVand it will change radically the way globalization has been shaped
+p45
+aVover the last decade.
+p46
+aVI'm here to tell you about the amazing fourth manufacturing revolution
+p47
+aVthat is currently underway.
+p48
+aa(lp49
+VIt's not as if we've done nothing with manufacturing
+p50
+aVsince the last revolution.
+p51
+aVActually, we've made some pretty lame attempts
+p52
+aVto try to revitalize it.
+p53
+aVBut none of them have been the big overhaul
+p54
+aVwe really need to get us growing again.
+p55
+aVFor example, we've tried to relocate our factories offshore
+p56
+aVin order to reduce cost and take advantage of cheap labor.
+p57
+aVNot only did this not inspire productivity,
+p58
+aVbut it only saved money for a short period of time,
+p59
+aVbecause cheap labor didn't stay cheap for long.
+p60
+aVThen, we've tried to make our factories larger
+p61
+aVand we specialized them by product.
+p62
+aVThe idea was that we can make a lot of one product
+p63
+aVand stockpile it to be sold with demand.
+p64
+aa(lp65
+VThis did help productivity for a while.
+p66
+aVBut it introduced a lot of rigidities in our supply chain.
+p67
+aVLet's take fashion retail.
+p68
+aVTraditional clothing companies
+p69
+aVhave built offshore, global, rigid supply chains.
+p70
+aVWhen fast-fashion competitors like Zara
+p71
+aVstarted replenishing their stocks faster
+p72
+aVfrom two collections a year to one collection a month,
+p73
+aVnone of them have been able to keep up with the pace.
+p74
+aVMost of them are in great difficulties today.
+p75
+aa(lp76
+VYet, with all of their shortcomings,
+p77
+aVthose are the factories we know today.
+p78
+aVWhen you open the doors,
+p79
+aVthey look the same as they did 50 years ago.
+p80
+aVWe've just changed the location, the size, the way they operate.
+p81
+aVCan you name anything else that looks the same
+p82
+aVas it did 50 years ago?
+p83
+aVIt's crazy.
+p84
+aVWe've made all the tweaks to the model that we could,
+p85
+aVand now we hit its limits.
+p86
+aa(lp87
+VAfter all of our attempts to fix the manufacturing model failed,
+p88
+aVwe thought growth could come from elsewhere.
+p89
+aVWe turned to the tech sector \u2014
+p90
+aVthere's been quite a lot of innovations there.
+p91
+aVJust to name one: the Internet.
+p92
+aVWe hoped it could produce growth.
+p93
+aVAnd indeed, it changed our lives.
+p94
+aVIt made big waves in the media, the service, the entertainment spaces.
+p95
+aVBut it hasn't done much for productivity.
+p96
+aVActually, what's surprising is that productivity is on the decline
+p97
+aVdespite all of those innovation efforts.
+p98
+aVImagine that \u2014 sitting at work, scrolling through Facebook,
+p99
+aVwatching videos on YouTube has made us less productive.
+p100
+aVWeird.
+p101
+aa(lp102
+V(Laughter)
+p103
+aa(lp104
+VThis is why we are not growing.
+p105
+aVWe failed at reinventing the manufacturing space,
+p106
+aVand large technological innovations have played away from it.
+p107
+aVBut what if we could combine those forces?
+p108
+aVWhat if the existing manufacturing and large technological innovation
+p109
+aVcame together to create the next big manufacturing reinvention.
+p110
+aa(lp111
+VBingo!
+p112
+aVThis is the fourth manufacturing revolution,
+p113
+aVand it's happening right now.
+p114
+aVMajor technologies are entering the manufacturing space,
+p115
+aVbig time.
+p116
+aVThey will boost industrial productivity by more than a third.
+p117
+aVThis is massive, and it will do a lot in creating growth.
+p118
+aVLet me tell you about some of them.
+p119
+aa(lp120
+VHave you already met advanced manufacturing robots?
+p121
+aVThey are the size of humans,
+p122
+aVthey actually collaborate with them,
+p123
+aVand they can be programmed
+p124
+aVin order to perform complex, non-repetitive tasks.
+p125
+aVToday in our factories, only 8 percent of the tasks are automated.
+p126
+aVThe less complex, the more repetitive ones.
+p127
+aVIt will be 25 percent in 10 years.
+p128
+aVIt means that by 2025,
+p129
+aVadvanced robots will complement workers
+p130
+aVto be, together, 20 percent more productive,
+p131
+aVto manufacture 20 percent more outputs,
+p132
+aVto achieve 20 percent additional growth.
+p133
+aa(lp134
+VThis isn't some fancy, futuristic idea.
+p135
+aVThese robots are working for us right now.
+p136
+aVLast year in the US, they helped Amazon prepare and ship all the products
+p137
+aVrequired for Cyber Monday,
+p138
+aVthe annual peak of online retail.
+p139
+aVLast year in the US,
+p140
+aVit was the biggest online shopping day of the year and of history.
+p141
+aVConsumers spent 3 billion dollars on electronics that day.
+p142
+aVThat's real economic growth.
+p143
+aa(lp144
+VThen there's additive manufacturing, 3D printing.
+p145
+aV3D printing has already improved plastic manufacturing
+p146
+aVand it's now making its way through metal.
+p147
+aVThose are not small industries.
+p148
+aVPlastic and metals represent 25 percent
+p149
+aVof global manufacturing production.
+p150
+aa(lp151
+VLet's take a real example.
+p152
+aVIn the aerospace industry,
+p153
+aVfuel nozzles are some of the most complex parts to manufacture,
+p154
+aVfor one reason:
+p155
+aVthey are made up of 20 different parts
+p156
+aVthat need to be separately produced
+p157
+aVand then painstakingly assembled.
+p158
+aVAerospace companies are now using 3D printing,
+p159
+aVwhich allows them to turn those 20 different parts
+p160
+aVinto just one.
+p161
+aVThe results?
+p162
+aV40 percent more productivity,
+p163
+aV40 percent more output produced, 40 percent more growth
+p164
+aVfor this specific industry.
+p165
+aa(lp166
+VBut actually, the most exciting part of this new manufacturing revolution
+p167
+aVgoes much beyond productivity.
+p168
+aVIt's about producing better, smarter products.
+p169
+aVIt's about scale customization.
+p170
+aVImagine a world where you can buy the exact products you want
+p171
+aVwith the functionalities you need,
+p172
+aVwith the design you want,
+p173
+aVwith the same cost and lead time
+p174
+aVas a product that's been mass produced,
+p175
+aVlike your car, or your clothes or your cell phone.
+p176
+aVThe new manufacturing revolution makes it possible.
+p177
+aa(lp178
+VAdvanced robots can be programmed
+p179
+aVin order to perform any product configuration
+p180
+aVwithout any setup time or ramp up.
+p181
+aV3D printers instantaneously produce any customized design.
+p182
+aVWe are now able to produce a batch of one product, your product,
+p183
+aVat the same cost and lead time as a batch of many.
+p184
+aVThose are only a few examples of the manufacturing revolution at play.
+p185
+aa(lp186
+VNot only will manufacturing become more productive,
+p187
+aVit will also become more flexible,
+p188
+aVand those were exactly the elements of growth that we are missing.
+p189
+aVBut actually, there are even some bigger implications
+p190
+aVfor all of us when manufacturing will find its way back into the limelight.
+p191
+aVIt will create a huge macroeconomic shift.
+p192
+aa(lp193
+VFirst, our factories will be relocated into our home markets.
+p194
+aVIn the world of scale customization,
+p195
+aVconsumer proximity is the new norm.
+p196
+aa(lp197
+VThen, our factories will be smaller, agile.
+p198
+aVScale does not matter anymore, flexibility does.
+p199
+aVThey will be operating on a multi-product, made-to-order basis.
+p200
+aVThe change will be drastic.
+p201
+aa(lp202
+VGlobalization will enter a new era.
+p203
+aVThe East-to-West trade flows
+p204
+aVwill be replaced by regional trade flows.
+p205
+aVEast for East, West for West.
+p206
+aVWhen you think about that,
+p207
+aVthe old model was pretty much insane.
+p208
+aVPiling up stocks, making products travel the whole world
+p209
+aVbefore they reach their end consumers.
+p210
+aVThe new model, producing just next to the consumer market,
+p211
+aVwill be much cleaner, much better for our environment.
+p212
+aVIn mature economies, manufacturing will be back home,
+p213
+aVcreating more employment,
+p214
+aVmore productivity and more growth.
+p215
+aVGood news, isn't it?
+p216
+aa(lp217
+VBut here's the thing with growth \u2014
+p218
+aVit does not come automatically.
+p219
+aVMature economies will have to seize it.
+p220
+aVWe'll have to massively re-train our workforce.
+p221
+aVIn most countries, like in my country, France,
+p222
+aVwe've told our children that manufacturing had no future.
+p223
+aVThat it was something happening far away.
+p224
+aVWe need to reverse that
+p225
+aVand teach manufacturing again at university.
+p226
+aVOnly the countries that will boldly transform
+p227
+aVwill be able to seize this growth.
+p228
+aa(lp229
+VIt's also a chance for developing economies.
+p230
+aVOf course China and other emerging economies
+p231
+aVwon't be the factory of the world anymore.
+p232
+aVActually, it was not a sustainable model in the long term,
+p233
+aVas those countries are becoming richer.
+p234
+aVLast year, it was already as expensive to produce in Brazil
+p235
+aVas to produce in France.
+p236
+aVBy 2018, manufacturing costs in China will be on par with the US.
+p237
+aa(lp238
+VThe new manufacturing revolution
+p239
+aVwill accelerate the transition of those emerging economies
+p240
+aVtowards a model driven by domestic consumption.
+p241
+aVAnd this is good,
+p242
+aVbecause this is where growth will be created.
+p243
+aVIn the next five years,
+p244
+aVthe next billion consumers in China will inject more growth in our economies
+p245
+aVthan the top five European markets together.
+p246
+aa(lp247
+VThis fourth manufacturing revolution is a chance for all of us.
+p248
+aVIf we play it right,
+p249
+aVwe'll see sustainable growth in all of our economies.
+p250
+aVThis means more wealth distributed to all of us
+p251
+aVand a better future for our children.
+p252
+aa(lp253
+VThank you.
+p254
+aa(lp255
+V(Applause)
+p256
+aasS'id'
+p257
+I2563
+sS'title'
+p258
+VThe next manufacturing revolution is here
+p259
+s.

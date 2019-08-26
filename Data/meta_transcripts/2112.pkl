@@ -1,0 +1,570 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VTechnology has brought us so much:
+p4
+aVthe moon landing, the Internet,
+p5
+aVthe ability to sequence the human genome.
+p6
+aVBut it also taps into a lot of our deepest fears,
+p7
+aVand about 30 years ago,
+p8
+aVthe culture critic Neil Postman wrote a book
+p9
+aVcalled "Amusing Ourselves to Death,"
+p10
+aVwhich lays this out really brilliantly.
+p11
+aVAnd here's what he said,
+p12
+aVcomparing the dystopian visions
+p13
+aVof George Orwell and Aldous Huxley.
+p14
+aVHe said, Orwell feared we would become
+p15
+aVa captive culture.
+p16
+aVHuxley feared we would become a trivial culture.
+p17
+aVOrwell feared the truth would be
+p18
+aVconcealed from us,
+p19
+aVand Huxley feared we would be drowned
+p20
+aVin a sea of irrelevance.
+p21
+aVIn a nutshell, it's a choice between
+p22
+aVBig Brother watching you
+p23
+aVand you watching Big Brother.
+p24
+aV(Laughter)
+p25
+aa(lp26
+VBut it doesn't have to be this way.
+p27
+aVWe are not passive consumers of data and technology.
+p28
+aVWe shape the role it plays in our lives
+p29
+aVand the way we make meaning from it,
+p30
+aVbut to do that,
+p31
+aVwe have to pay as much attention to how we think
+p32
+aVas how we code.
+p33
+aVWe have to ask questions, and hard questions,
+p34
+aVto move past counting things
+p35
+aVto understanding them.
+p36
+aVWe're constantly bombarded with stories
+p37
+aVabout how much data there is in the world,
+p38
+aVbut when it comes to big data
+p39
+aVand the challenges of interpreting it,
+p40
+aVsize isn't everything.
+p41
+aVThere's also the speed at which it moves,
+p42
+aVand the many varieties of data types,
+p43
+aVand here are just a few examples:
+p44
+aVimages,
+p45
+aVtext,
+p46
+aVvideo,
+p47
+aVaudio.
+p48
+aVAnd what unites this disparate types of data
+p49
+aVis that they're created by people
+p50
+aVand they require context.
+p51
+aa(lp52
+VNow, there's a group of data scientists
+p53
+aVout of the University of Illinois-Chicago,
+p54
+aVand they're called the Health Media Collaboratory,
+p55
+aVand they've been working with the Centers for Disease Control
+p56
+aVto better understand
+p57
+aVhow people talk about quitting smoking,
+p58
+aVhow they talk about electronic cigarettes,
+p59
+aVand what they can do collectively
+p60
+aVto help them quit.
+p61
+aVThe interesting thing is, if you want to understand
+p62
+aVhow people talk about smoking,
+p63
+aVfirst you have to understand
+p64
+aVwhat they mean when they say "smoking."
+p65
+aVAnd on Twitter, there are four main categories:
+p66
+aVnumber one, smoking cigarettes;
+p67
+aVnumber two, smoking marijuana;
+p68
+aVnumber three, smoking ribs;
+p69
+aVand number four, smoking hot women.
+p70
+aV(Laughter)
+p71
+aa(lp72
+VSo then you have to think about, well,
+p73
+aVhow do people talk about electronic cigarettes?
+p74
+aVAnd there are so many different ways
+p75
+aVthat people do this, and you can see from the slide
+p76
+aVit's a complex kind of a query.
+p77
+aVAnd what it reminds us is that
+p78
+aVlanguage is created by people,
+p79
+aVand people are messy and we're complex
+p80
+aVand we use metaphors and slang and jargon
+p81
+aVand we do this 24/7 in many, many languages,
+p82
+aVand then as soon as we figure it out, we change it up.
+p83
+aa(lp84
+VSo did these ads that the CDC put on,
+p85
+aVthese television ads that featured a woman
+p86
+aVwith a hole in her throat and that were very graphic
+p87
+aVand very disturbing,
+p88
+aVdid they actually have an impact
+p89
+aVon whether people quit?
+p90
+aVAnd the Health Media Collaboratory respected the limits of their data,
+p91
+aVbut they were able to conclude
+p92
+aVthat those advertisements \u2014 and you may have seen them \u2014
+p93
+aVthat they had the effect of jolting people
+p94
+aVinto a thought process
+p95
+aVthat may have an impact on future behavior.
+p96
+aVAnd what I admire and  appreciate about this project,
+p97
+aVaside from the fact, including the fact
+p98
+aVthat it's based on real human need,
+p99
+aVis that it's a fantastic example of courage
+p100
+aVin the face of a sea of irrelevance.
+p101
+aa(lp102
+VAnd so it's not just big data that causes
+p103
+aVchallenges of interpretation, because let's face it,
+p104
+aVwe human beings have a very rich history
+p105
+aVof taking any amount of data, no matter how small,
+p106
+aVand screwing it up.
+p107
+aVSo many years ago, you may remember
+p108
+aVthat former President Ronald Reagan
+p109
+aVwas very criticized for making a statement
+p110
+aVthat facts are stupid things.
+p111
+aVAnd it was a slip of the tongue, let's be fair.
+p112
+aVHe actually meant to quote John Adams' defense
+p113
+aVof British soldiers in the Boston Massacre trials
+p114
+aVthat facts are stubborn things.
+p115
+aVBut I actually think there's
+p116
+aVa bit of accidental wisdom in what he said,
+p117
+aVbecause facts are stubborn things,
+p118
+aVbut sometimes they're stupid, too.
+p119
+aa(lp120
+VI want to tell you a personal story
+p121
+aVabout why this matters a lot to me.
+p122
+aVI need to take a breath.
+p123
+aVMy son Isaac, when he was two,
+p124
+aVwas diagnosed with autism,
+p125
+aVand he was this happy, hilarious,
+p126
+aVloving, affectionate little guy,
+p127
+aVbut the metrics on his developmental evaluations,
+p128
+aVwhich looked at things like  the number of words \u2014
+p129
+aVat that point, none \u2014
+p130
+aVcommunicative gestures and minimal eye contact,
+p131
+aVput his developmental level
+p132
+aVat that of a nine-month-old baby.
+p133
+aVAnd the diagnosis was factually correct,
+p134
+aVbut it didn't tell the whole story.
+p135
+aVAnd about a year and a half later,
+p136
+aVwhen he was almost four,
+p137
+aVI found him in front of the computer one day
+p138
+aVrunning a Google image search on women,
+p139
+aVspelled "w-i-m-e-n."
+p140
+aVAnd I did what any obsessed parent would do,
+p141
+aVwhich is immediately started  hitting the "back" button
+p142
+aVto see what else he'd been searching for.
+p143
+aVAnd they were, in order: men,
+p144
+aVschool, bus and computer.
+p145
+aVAnd I was stunned,
+p146
+aVbecause we didn't know that he could spell,
+p147
+aVmuch less read, and so I asked him,
+p148
+aV"Isaac, how did you do this?"
+p149
+aVAnd he looked at me very seriously and said,
+p150
+aV"Typed in the box."
+p151
+aa(lp152
+VHe was teaching himself to communicate,
+p153
+aVbut we were looking in the wrong place,
+p154
+aVand this is what happens when assessments
+p155
+aVand analytics overvalue one metric \u2014
+p156
+aVin this case, verbal communication \u2014
+p157
+aVand undervalue others, such as creative problem-solving.
+p158
+aVCommunication was hard for Isaac,
+p159
+aVand so he found a workaround
+p160
+aVto find out what he needed to know.
+p161
+aVAnd when you think about it, it makes a lot of sense,
+p162
+aVbecause forming a question
+p163
+aVis a really complex process,
+p164
+aVbut he could get himself a lot of the way there
+p165
+aVby putting a word in a search box.
+p166
+aa(lp167
+VAnd so this little moment
+p168
+aVhad a really profound impact on me
+p169
+aVand our family
+p170
+aVbecause it helped us change our frame of reference
+p171
+aVfor what was going on with him,
+p172
+aVand worry a little bit less and appreciate
+p173
+aVhis resourcefulness more.
+p174
+aa(lp175
+VFacts are stupid things.
+p176
+aVAnd they're vulnerable to misuse,
+p177
+aVwillful or otherwise.
+p178
+aVI have a friend, Emily Willingham, who's a scientist,
+p179
+aVand she wrote a piece for Forbes not long ago
+p180
+aVentitled "The 10 Weirdest Things
+p181
+aVEver Linked to Autism."
+p182
+aVIt's quite a list.
+p183
+aVThe Internet, blamed for everything, right?
+p184
+aVAnd of course mothers, because.
+p185
+aVAnd actually, wait, there's more,
+p186
+aVthere's a whole bunch in  the "mother" category here.
+p187
+aVAnd you can see it's a pretty  rich and interesting list.
+p188
+aVI'm a big fan of
+p189
+aVbeing pregnant near freeways, personally.
+p190
+aVThe final one is interesting,
+p191
+aVbecause the term "refrigerator mother"
+p192
+aVwas actually the original hypothesis
+p193
+aVfor the cause of autism,
+p194
+aVand that meant somebody  who was cold and unloving.
+p195
+aa(lp196
+VAnd at this point, you might be thinking,
+p197
+aV"Okay, Susan, we get it,
+p198
+aVyou can take data, you can  make it mean anything."
+p199
+aVAnd this is true, it's absolutely true,
+p200
+aVbut the challenge is that
+p201
+aVwe have this opportunity
+p202
+aVto try to make meaning out of it ourselves,
+p203
+aVbecause frankly, data doesn't  create meaning. We do.
+p204
+aVSo as businesspeople, as consumers,
+p205
+aVas patients, as citizens,
+p206
+aVwe have a responsibility, I think,
+p207
+aVto spend more time
+p208
+aVfocusing on our critical thinking skills.
+p209
+aVWhy?
+p210
+aVBecause at this point in our history, as we've heard
+p211
+aVmany times over,
+p212
+aVwe can process exabytes of data
+p213
+aVat lightning speed,
+p214
+aVand we have the potential to make bad decisions
+p215
+aVfar more quickly, efficiently,
+p216
+aVand with far greater impact than we did in the past.
+p217
+aVGreat, right?
+p218
+aVAnd so what we need to do instead
+p219
+aVis spend a little bit more time
+p220
+aVon things like the humanities
+p221
+aVand sociology, and the social sciences,
+p222
+aVrhetoric, philosophy, ethics,
+p223
+aVbecause they give us context that is so important
+p224
+aVfor big data, and because
+p225
+aVthey help us become better critical thinkers.
+p226
+aVBecause after all, if I can spot
+p227
+aVa problem in an argument, it doesn't much matter
+p228
+aVwhether it's expressed in words or in numbers.
+p229
+aVAnd this means
+p230
+aVteaching ourselves to find  those confirmation biases
+p231
+aVand false correlations
+p232
+aVand being able to spot a naked emotional appeal
+p233
+aVfrom 30 yards,
+p234
+aVbecause something that happens after something
+p235
+aVdoesn't mean it happened  because of it, necessarily,
+p236
+aVand if you'll let me geek out on you for a second,
+p237
+aVthe Romans called this  "post hoc ergo propter hoc,"
+p238
+aVafter which therefore because of which.
+p239
+aa(lp240
+VAnd it means questioning disciplines like demographics.
+p241
+aVWhy? Because they're based on assumptions
+p242
+aVabout who we all are based on our gender
+p243
+aVand our age and where we live
+p244
+aVas opposed to data on what  we actually think and do.
+p245
+aVAnd since we have this data,
+p246
+aVwe need to treat it with appropriate privacy controls
+p247
+aVand consumer opt-in,
+p248
+aVand beyond that, we need to be clear
+p249
+aVabout our hypotheses,
+p250
+aVthe methodologies that we use,
+p251
+aVand our confidence in the result.
+p252
+aVAs my high school algebra teacher used to say,
+p253
+aVshow your math,
+p254
+aVbecause if I don't know what steps you took,
+p255
+aVI don't know what steps you didn't take,
+p256
+aVand if I don't know what questions you asked,
+p257
+aVI don't know what questions you didn't ask.
+p258
+aVAnd it means asking ourselves, really,
+p259
+aVthe hardest question of all:
+p260
+aVDid the data really show us this,
+p261
+aVor does the result make us feel
+p262
+aVmore successful and more comfortable?
+p263
+aa(lp264
+VSo the Health Media Collaboratory,
+p265
+aVat the end of their project, they were able
+p266
+aVto find that 87 percent of tweets
+p267
+aVabout those very graphic and disturbing
+p268
+aVanti-smoking ads expressed fear,
+p269
+aVbut did they conclude
+p270
+aVthat they actually made people stop smoking?
+p271
+aVNo. It's science, not magic.
+p272
+aa(lp273
+VSo if we are to unlock
+p274
+aVthe power of data,
+p275
+aVwe don't have to go blindly into
+p276
+aVOrwell's vision of a totalitarian future,
+p277
+aVor Huxley's vision of a trivial one,
+p278
+aVor some horrible cocktail of both.
+p279
+aVWhat we have to do
+p280
+aVis treat critical thinking with respect
+p281
+aVand be inspired by examples
+p282
+aVlike the Health Media Collaboratory,
+p283
+aVand as they say in the superhero movies,
+p284
+aVlet's use our powers for good.
+p285
+aa(lp286
+VThank you.
+p287
+aa(lp288
+V(Applause)
+p289
+aasS'id'
+p290
+I2112
+sS'title'
+p291
+VWhat do we do with all this big data? 
+p292
+s.

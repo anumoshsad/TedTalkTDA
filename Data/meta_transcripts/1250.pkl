@@ -1,0 +1,467 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VGood afternoon.
+p4
+aVIf you have followed
+p5
+aVdiplomatic news in the past weeks,
+p6
+aVyou may have heard of a kind of crisis
+p7
+aVbetween China and the U.S.
+p8
+aVregarding cyberattacks
+p9
+aVagainst the American company Google.
+p10
+aVMany things have been said about this.
+p11
+aVSome people have called a cyberwar
+p12
+aVwhat may actually be
+p13
+aVjust a spy operation \u2014
+p14
+aVand obviously, a quite mishandled one.
+p15
+aVHowever, this episode reveals
+p16
+aVthe growing anxiety in the Western world
+p17
+aVregarding these emerging cyber weapons.
+p18
+aa(lp19
+VIt so happens that these weapons are dangerous.
+p20
+aVThey're of a new nature:
+p21
+aVthey could lead the world
+p22
+aVinto a digital conflict
+p23
+aVthat could turn into an armed struggle.
+p24
+aVThese virtual weapons can also destroy the physical world.
+p25
+aVIn 1982, in the middle of the Cold War
+p26
+aVin Soviet Siberia,
+p27
+aVa pipeline exploded with a burst of 3 kilotons,
+p28
+aVthe equivalent of a fourth of the Hiroshima bomb.
+p29
+aVNow we know today \u2014 this was revealed
+p30
+aVby Thomas Reed,
+p31
+aVRonald Reagan's former U.S. Air Force Secretary \u2014
+p32
+aVthis explosion was actually the result
+p33
+aVof a CIA sabotage operation,
+p34
+aVin which they had managed
+p35
+aVto infiltrate the IT management systems
+p36
+aVof that pipeline.
+p37
+aa(lp38
+VMore recently, the U.S. government revealed
+p39
+aVthat in September 2008, more than 3 million people
+p40
+aVin the state of Espirito Santo in Brazil
+p41
+aVwere plunged into darkness,
+p42
+aVvictims of a blackmail operation from cyber pirates.
+p43
+aVEven more worrying for the Americans,
+p44
+aVin December 2008 the holiest of holies,
+p45
+aVthe IT systems of CENTCOM,
+p46
+aVthe central command
+p47
+aVmanaging the wars in Iraq and Afghanistan,
+p48
+aVmay have been infiltrated by hackers
+p49
+aVwho used these:
+p50
+aVplain but infected USB keys.
+p51
+aVAnd with these keys, they may have been able
+p52
+aVto get inside CENTCOM's systems,
+p53
+aVto see and hear everything,
+p54
+aVand maybe even infect some of them.
+p55
+aVAs a result, the Americans take the threat very seriously.
+p56
+aVI'll quote General James Cartwright,
+p57
+aVVice Chairman of the Joint Chiefs of Staff,
+p58
+aVwho says in a report to Congress
+p59
+aVthat cyberattacks could be as powerful as
+p60
+aVweapons of mass destruction.
+p61
+aVMoreover, the Americans have decided
+p62
+aVto spend over 30 billion dollars
+p63
+aVin the next five years
+p64
+aVto build up their cyberwar capabilities.
+p65
+aa(lp66
+VAnd across the world today, we see
+p67
+aVa sort of cyber arms race,
+p68
+aVwith cyberwar units
+p69
+aVbuilt up by countries like North Korea
+p70
+aVor even Iran.
+p71
+aVYet, what you'll never hear
+p72
+aVfrom spokespeople
+p73
+aVfrom the Pentagon or the French Department of Defence
+p74
+aVis that the question isn't really
+p75
+aVwho's the enemy, but actually
+p76
+aVthe very nature of cyber weapons.
+p77
+aVAnd to understand why, we must look at how,
+p78
+aVthrough the ages, military technologies
+p79
+aVhave maintained or destroyed
+p80
+aVworld peace.
+p81
+aVFor example,
+p82
+aVif we'd had TEDxParis
+p83
+aV350 years ago,
+p84
+aVwe would have talked about the military innovation of the day \u2014
+p85
+aVthe massive Vauban-style fortifications \u2014
+p86
+aVand we could have predicted
+p87
+aVa period of stability in the world or in Europe.
+p88
+aVwhich was indeed the case in Europe
+p89
+aVbetween 1650 and 1750.
+p90
+aa(lp91
+VSimilarly, if we'd had this talk
+p92
+aV30 or 40 years ago, we would have seen
+p93
+aVhow the rise of nuclear weapons,
+p94
+aVand the threat of mutually assured destruction they imply,
+p95
+aVprevents a direct fight between the two superpowers.
+p96
+aVHowever, if we'd had this talk 60 years ago,
+p97
+aVwe would have seen how the emergence
+p98
+aVof new aircraft and tank technologies,
+p99
+aVwhich give the advantage to the attacker,
+p100
+aVmake the Blitzkrieg doctrine very credible
+p101
+aVand thus create the possibility of war in Europe.
+p102
+aVSo military technologies
+p103
+aVcan influence the course of the world,
+p104
+aVcan make or break world peace \u2014
+p105
+aVand there lies the issue with cyber weapons.
+p106
+aa(lp107
+VThe first issue:
+p108
+aVImagine a potential enemy announcing
+p109
+aVthey're building a cyberwar unit,
+p110
+aVbut only for their country's defense.
+p111
+aVOkay, but what distinguishes it
+p112
+aVfrom an offensive unit?
+p113
+aVIt gets even more complicated
+p114
+aVwhen the doctrines of use become ambiguous.
+p115
+aVJust 3 years ago, both the U.S. and France
+p116
+aVwere saying they were investing militarily in cyberspace,
+p117
+aVstrictly to defend their IT systems.
+p118
+aVBut today both countries say
+p119
+aVthe best defense is to attack.
+p120
+aVAnd so, they're joining China,
+p121
+aVwhose doctrine of use for 15 years has been
+p122
+aVboth defensive and offensive.
+p123
+aa(lp124
+VThe second issue:
+p125
+aVYour country could be under cyberattack
+p126
+aVwith entire regions plunged into total darkness,
+p127
+aVand you may not even know
+p128
+aVwho's attacking you.
+p129
+aVCyber weapons have this peculiar feature:
+p130
+aVthey can be used
+p131
+aVwithout leaving traces.
+p132
+aVThis gives a tremendous advantage to the attacker,
+p133
+aVbecause the defender
+p134
+aVdoesn't know who to fight back against.
+p135
+aVAnd if the defender retaliates against the wrong adversary,
+p136
+aVthey risk making one more enemy
+p137
+aVand ending up diplomatically isolated.
+p138
+aVThis issue isn't just theoretical.
+p139
+aa(lp140
+VIn May 2007, Estonia was the victim of cyberattacks,
+p141
+aVthat damaged its communication
+p142
+aVand banking systems.
+p143
+aVEstonia accused Russia.
+p144
+aVBut NATO, though it defends Estonia,
+p145
+aVreacted very prudently. Why?
+p146
+aVBecause NATO couldn't be 100% sure
+p147
+aVthat the Kremlin was indeed behind these attacks.
+p148
+aVSo to sum up, on the one hand,
+p149
+aVwhen a possible enemy announces
+p150
+aVthey're building a cyberwar unit,
+p151
+aVyou don't know whether it's for attack
+p152
+aVor defense.
+p153
+aVOn the other hand,
+p154
+aVwe know that these weapons give an advantage to attacking.
+p155
+aa(lp156
+VIn a major article published in 1978,
+p157
+aVProfessor Robert Jervis of Columbia University in New York
+p158
+aVdescribed a model to understand
+p159
+aVhow conflicts could arise.
+p160
+aVIn this context,
+p161
+aVwhen you don't know if the potential enemy
+p162
+aVis preparing for defense or attack,
+p163
+aVand if the weapons give an advantage to attacking,
+p164
+aVthen this environment is
+p165
+aVmost likely to spark a conflict.
+p166
+aVThis is the environment that's being created
+p167
+aVby cyber weapons today,
+p168
+aVand historically it was the environment in Europe
+p169
+aVat the onset of World War I.
+p170
+aVSo cyber weapons
+p171
+aVare dangerous by nature,
+p172
+aVbut in addition, they're emerging
+p173
+aVin a much more unstable environment.
+p174
+aa(lp175
+VIf you remember the Cold War,
+p176
+aVit was a very hard game,
+p177
+aVbut a stable one played only by two players,
+p178
+aVwhich allowed for some coordination between the two superpowers.
+p179
+aVToday we're moving to a multipolar world
+p180
+aVin which coordination is much more complicated,
+p181
+aVas we have seen at Copenhagen.
+p182
+aVAnd this coordination may become even trickier
+p183
+aVwith the introduction of cyber weapons.
+p184
+aVWhy? Because no nation
+p185
+aVknows for sure whether its neighbor
+p186
+aVis about to attack.
+p187
+aVSo nations may live under the threat
+p188
+aVof what Nobel Prize winner Thomas Schelling
+p189
+aVcalled the "reciprocal fear of surprise attack,"
+p190
+aVas I don't know if my neighbor
+p191
+aVis about to attack me or not \u2014
+p192
+aVI may never know \u2014
+p193
+aVso I might take the upper hand
+p194
+aVand attack first.
+p195
+aa(lp196
+VJust last week,
+p197
+aVin a New York Times article dated January 26, 2010,
+p198
+aVit was revealed for the first time that
+p199
+aVofficials at the National Security Agency
+p200
+aVwere considering the possibility of preemptive attacks
+p201
+aVin cases where the U.S. was about
+p202
+aVto be cyberattacked.
+p203
+aVAnd these preemptive attacks
+p204
+aVmight not just remain
+p205
+aVin cyberspace.
+p206
+aVIn May 2009, General Kevin Chilton,
+p207
+aVcommander of the U.S. nuclear forces,
+p208
+aVstated that in the event of cyberattacks against the U.S.,
+p209
+aVall options would be on the table.
+p210
+aa(lp211
+VCyber weapons do not replace
+p212
+aVconventional or nuclear weapons \u2014
+p213
+aVthey just add a new layer to the existing system of terror.
+p214
+aVBut in doing so, they also add their own risk
+p215
+aVof triggering a conflict \u2014
+p216
+aVas we've just seen, a very important risk \u2014
+p217
+aVand a risk we may have to confront
+p218
+aVwith a collective security solution
+p219
+aVwhich includes all of us:
+p220
+aVEuropean allies, NATO members,
+p221
+aVour American friends and allies,
+p222
+aVour other Western allies,
+p223
+aVand maybe, by forcing their hand a little,
+p224
+aVour Russian and Chinese partners.
+p225
+aa(lp226
+VThe information technologies
+p227
+aVJoël de Rosnay was talking about,
+p228
+aVwhich were historically born from military research,
+p229
+aVare today on the verge of developing
+p230
+aVan offensive capability of destruction,
+p231
+aVwhich could tomorrow, if we're not careful,
+p232
+aVcompletely destroy world peace.
+p233
+aa(lp234
+VThank you.
+p235
+aa(lp236
+V(Applause)
+p237
+aasS'id'
+p238
+I1250
+sS'title'
+p239
+VHow cyberattacks threaten real-world peace
+p240
+s.

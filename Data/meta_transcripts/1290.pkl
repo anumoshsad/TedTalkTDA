@@ -1,0 +1,375 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+V(Music)
+p4
+aa(lp5
+VGood afternoon.
+p6
+aa(lp7
+VAs you're all aware, we face difficult economic times.
+p8
+aVI come to you with a modest proposal
+p9
+aVfor easing the financial burden.
+p10
+aa(lp11
+VThis idea came to me while talking to
+p12
+aVa physicist friend of mine at MIT.
+p13
+aVHe was struggling to explain something to me:
+p14
+aVa beautiful experiment that uses lasers to cool down matter.
+p15
+aVNow he confused me from the very start,
+p16
+aVbecause light doesn't cool things down.
+p17
+aVIt makes it hotter. It's happening right now.
+p18
+aVThe reason that you can see me standing here is because
+p19
+aVthis room is filled with more than 100 quintillion photons,
+p20
+aVand they're moving randomly through the space, near the speed of light.
+p21
+aVAll of them are different colors,
+p22
+aVthey're rippling with different frequencies,
+p23
+aVand they're bouncing off every surface, including me,
+p24
+aVand some of those are flying directly into your eyes,
+p25
+aVand that's why your brain is forming an image of me standing here.
+p26
+aa(lp27
+VNow a laser is different.
+p28
+aVIt also uses photons, but they're all synchronized,
+p29
+aVand if you focus them into a beam,
+p30
+aVwhat you have is an incredibly useful tool.
+p31
+aVThe control of a laser is so precise
+p32
+aVthat you can perform surgery inside of an eye,
+p33
+aVyou can use it to store massive amounts of data,
+p34
+aVand you can use it for this beautiful experiment
+p35
+aVthat my friend was struggling to explain.
+p36
+aVFirst you trap atoms in a special bottle.
+p37
+aVIt uses electromagnetic fields to isolate the atoms
+p38
+aVfrom the noise of the environment.
+p39
+aVAnd the atoms themselves are quite violent,
+p40
+aVbut if you fire lasers that are precisely tuned to the right frequency,
+p41
+aVan atom will briefly absorb those photons
+p42
+aVand tend to slow down.
+p43
+aVLittle by little it gets colder
+p44
+aVuntil eventually it approaches absolute zero.
+p45
+aa(lp46
+VNow if you use the right kind of atoms and you get them cold enough,
+p47
+aVsomething truly bizarre happens.
+p48
+aVIt's no longer a solid, a liquid or a gas.
+p49
+aVIt enters a new state of matter called a superfluid.
+p50
+aVThe atoms lose their individual identity,
+p51
+aVand the rules from the quantum world take over,
+p52
+aVand that's what gives superfluids such spooky properties.
+p53
+aVFor example, if you shine light through a superfluid,
+p54
+aVit is able to slow photons down
+p55
+aVto 60 kilometers per hour.
+p56
+aVAnother spooky property is that it flows
+p57
+aVwith absolutely no viscosity or friction,
+p58
+aVso if you were to take the lid off that bottle,
+p59
+aVit won't stay inside.
+p60
+aVA thin film will creep up the inside wall,
+p61
+aVflow over the top and right out the outside.
+p62
+aVNow of course, the moment that it does hit the outside environment,
+p63
+aVand its temperature rises by even a fraction of a degree,
+p64
+aVit immediately turns back into normal matter.
+p65
+aVSuperfluids are one of the most fragile things we've ever discovered.
+p66
+aVAnd this is the great pleasure of science:
+p67
+aVthe defeat of our intuition through experimentation.
+p68
+aa(lp69
+VBut the experiment is not the end of the story,
+p70
+aVbecause you still have to transmit that knowledge to other people.
+p71
+aVI have a Ph.D in molecular biology.
+p72
+aVI still barely understand what most scientists are talking about.
+p73
+aVSo as my friend was trying to explain that experiment,
+p74
+aVit seemed like the more he said,
+p75
+aVthe less I understood.
+p76
+aVBecause if you're trying to give someone the big picture
+p77
+aVof a complex idea, to really capture its essence,
+p78
+aVthe fewer words you use, the better.
+p79
+aVIn fact, the ideal may be to use no words at all.
+p80
+aVI remember thinking, my friend could have explained
+p81
+aVthat entire experiment with a dance.
+p82
+aVOf course, there never seem to be any dancers around when you need them.
+p83
+aa(lp84
+VNow, the idea is not as crazy as it sounds.
+p85
+aVI started a contest four years ago called Dance Your Ph.D.
+p86
+aVInstead of explaining their research with words,
+p87
+aVscientists have to explain it with dance.
+p88
+aVNow surprisingly, it seems to work.
+p89
+aVDance really can make science easier to understand.
+p90
+aVBut don't take my word for it.
+p91
+aVGo on the Internet and search for "Dance Your Ph.D."
+p92
+aVThere are hundreds of dancing scientists waiting for you.
+p93
+aa(lp94
+VThe most surprising thing that I've learned while running this contest
+p95
+aVis that some scientists are now working directly with dancers on their research.
+p96
+aVFor example, at the University of Minnesota,
+p97
+aVthere's a biomedical engineer named David Odde,
+p98
+aVand he works with dancers to study how cells move.
+p99
+aVThey do it by changing their shape.
+p100
+aVWhen a chemical signal washes up on one side,
+p101
+aVit triggers the cell to expand its shape on that side,
+p102
+aVbecause the cell is constantly touching and tugging at the environment.
+p103
+aVSo that allows cells to ooze along in the right directions.
+p104
+aVBut what seems so slow and graceful from the outside
+p105
+aVis really more like chaos inside,
+p106
+aVbecause cells control their shape with a skeleton of rigid protein fibers,
+p107
+aVand those fibers are constantly falling apart.
+p108
+aVBut just as quickly as they explode,
+p109
+aVmore proteins attach to the ends and grow them longer,
+p110
+aVso it's constantly changing
+p111
+aVjust to remain exactly the same.
+p112
+aVNow, David builds mathematical models of this and then he tests those in the lab,
+p113
+aVbut before he does that, he works with dancers
+p114
+aVto figure out what kinds of models to build in the first place.
+p115
+aVIt's basically efficient brainstorming,
+p116
+aVand when I visited David to learn about his research,
+p117
+aVhe used dancers to explain it to me
+p118
+aVrather than the usual method: PowerPoint.
+p119
+aa(lp120
+VAnd this brings me to my modest proposal.
+p121
+aVI think that bad PowerPoint presentations
+p122
+aVare a serious threat to the global economy.
+p123
+aa(lp124
+V(Laughter) (Applause)
+p125
+aa(lp126
+VNow it does depend on how you measure it, of course,
+p127
+aVbut one estimate has put the drain at 250 million dollars per day.
+p128
+aVNow that assumes half-hour presentations
+p129
+aVfor an average audience of four people
+p130
+aVwith salaries of 35,000 dollars,
+p131
+aVand it conservatively assumes that
+p132
+aVabout a quarter of the presentations are a complete waste of time,
+p133
+aVand given that there are some apparently
+p134
+aV30 million PowerPoint presentations created every day,
+p135
+aVthat would indeed add up to an annual waste
+p136
+aVof 100 billion dollars.
+p137
+aVOf course, that's just the time we're losing
+p138
+aVsitting through presentations.
+p139
+aVThere are other costs, because PowerPoint is a tool,
+p140
+aVand like any tool, it can and will be abused.
+p141
+aVTo borrow a concept from my country's CIA,
+p142
+aVit helps you to soften up your audience.
+p143
+aVIt distracts them with pretty pictures, irrelevant data.
+p144
+aVIt allows you to create the illusion of competence,
+p145
+aVthe illusion of simplicity,
+p146
+aVand most destructively, the illusion of understanding.
+p147
+aa(lp148
+VSo now my country is 15 trillion dollars in debt.
+p149
+aVOur leaders are working tirelessly to try and find ways to save money.
+p150
+aVOne idea is to drastically reduce public support for the arts.
+p151
+aVFor example, our National Endowment for the Arts,
+p152
+aVwith its $150 million budget,
+p153
+aVslashing that program would immediately reduce the national debt
+p154
+aVby about one one-thousandth of a percent.
+p155
+aVOne certainly can't argue with those numbers.
+p156
+aVHowever, once we eliminate public funding for the arts,
+p157
+aVthere will be some drawbacks.
+p158
+aVThe artists on the street will swell the ranks of the unemployed.
+p159
+aVMany will turn to drug abuse and prostitution,
+p160
+aVand that will inevitably lower property values in urban neighborhoods.
+p161
+aVAll of this could wipe out the savings we're hoping to make in the first place.
+p162
+aa(lp163
+VI shall now, therefore, humbly propose my own thoughts,
+p164
+aVwhich I hope will not be liable to the least objection.
+p165
+aVOnce we eliminate public funding for the artists,
+p166
+aVlet's put them back to work
+p167
+aVby using them instead of PowerPoint.
+p168
+aVAs a test case, I propose we start with American dancers.
+p169
+aVAfter all, they are the most perishable of their kind,
+p170
+aVprone to injury and very slow to heal
+p171
+aVdue to our health care system.
+p172
+aVRather than dancing our Ph.Ds,
+p173
+aVwe should use dance to explain all of our complex problems.
+p174
+aVImagine our politicians using dance
+p175
+aVto explain why we must invade a foreign country
+p176
+aVor bail out an investment bank.
+p177
+aVIt's sure to help.
+p178
+aa(lp179
+VOf course someday, in the deep future,
+p180
+aVa technology of persuasion
+p181
+aVeven more powerful than PowerPoint may be invented,
+p182
+aVrendering dancers unnecessary as tools of rhetoric.
+p183
+aVHowever, I trust that by that day,
+p184
+aVwe shall have passed this present financial calamity.
+p185
+aVPerhaps by then we will be able to afford the luxury
+p186
+aVof just sitting in an audience
+p187
+aVwith no other purpose
+p188
+aVthan to witness the human form in motion.
+p189
+aV(Music)
+p190
+aV(Applause)
+p191
+aasS'id'
+p192
+I1290
+sS'title'
+p193
+VDance vs. powerpoint, a modest proposal
+p194
+s.

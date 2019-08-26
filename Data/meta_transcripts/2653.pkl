@@ -1,0 +1,508 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VGrowing up in Kenya,
+p4
+aVI knew I always wanted to study biochemistry.
+p5
+aVSee, I had seen the impact of the high prevalence of diseases like malaria,
+p6
+aVand I wanted to make medicines that would cure the sick.
+p7
+aVSo I worked really hard,
+p8
+aVgot a scholarship to the United States, where I became a cancer researcher,
+p9
+aVand I loved it.
+p10
+aVFor someone who wants to cure diseases,
+p11
+aVthere is no higher calling.
+p12
+aa(lp13
+VTen years later, I returned to Kenya to do just that.
+p14
+aVA freshly minted PhD,
+p15
+aVready to take on this horrific illness,
+p16
+aVwhich in Kenya was almost certainly a death sentence.
+p17
+aVBut instead of landing a job in a pharmaceutical company
+p18
+aVor a hospital,
+p19
+aVI found myself drawn to a different kind of lab,
+p20
+aVworking with a different kind of patient \u2014
+p21
+aVa patient whose illness was so serious
+p22
+aVit impacted every single person in my country;
+p23
+aVa patient who needed to get healthy fast.
+p24
+aVThat patient was my government.
+p25
+aa(lp26
+V(Laughter)
+p27
+aa(lp28
+VSee, many of us will agree that lots of governments are unhealthy today.
+p29
+aa(lp30
+V(Laughter)
+p31
+aa(lp32
+V(Applause)
+p33
+aa(lp34
+VAnd Kenya was no exception.
+p35
+aVWhen I returned to Kenya in 2014,
+p36
+aVthere was 17 percent youth unemployment.
+p37
+aVAnd Nairobi, the major business hub,
+p38
+aVwas rated 177th on the quality of living index.
+p39
+aVIt was bad.
+p40
+aa(lp41
+VNow, an economy is only as healthy as the entities that make it up.
+p42
+aVSo when government \u2014
+p43
+aVone of its most vital entities \u2014
+p44
+aVis weak or unhealthy,
+p45
+aVeveryone and everything suffers.
+p46
+aVSometimes you might put a Band-Aid in place
+p47
+aVto try and temporarily stop the pain.
+p48
+aVMaybe some of you here have participated
+p49
+aVin a Band-Aid operation to an African country \u2014
+p50
+aVsetting up alternative schools, building hospitals, digging wells \u2014
+p51
+aVbecause governments there either weren't or couldn't provide
+p52
+aVthe services to their citizens.
+p53
+aa(lp54
+VWe all know this is a temporary solution.
+p55
+aVThere are just some things Band-Aids can't fix,
+p56
+aVlike providing an environment where businesses feel secure
+p57
+aVthat they'll have an equal opportunity
+p58
+aVto be able to run and start their businesses successfully.
+p59
+aVOr there are systems in place
+p60
+aVthat would protect the private property that they create.
+p61
+aVI would argue,
+p62
+aVonly government is capable of creating these necessary conditions
+p63
+aVfor economies to thrive.
+p64
+aa(lp65
+VEconomies thrive when business are able to quickly and easily set up shop.
+p66
+aVBusiness owners create new sources of income for themselves,
+p67
+aVnew jobs get added into the economy
+p68
+aVand then more taxes are paid to fund public projects.
+p69
+aVNew business is good for everyone.
+p70
+aVAnd it's such an important measure of economic growth,
+p71
+aVthe World Bank has a ranking called the "Ease of Doing Business Ranking,"
+p72
+aVwhich measures how easy or difficult it is to start a business
+p73
+aVin any given country.
+p74
+aVAnd as you can imagine,
+p75
+aVstarting or running a business in a country with an ailing government \u2014
+p76
+aValmost impossible.
+p77
+aa(lp78
+VThe President of Kenya knew this, which is why in 2014,
+p79
+aVhe came to our lab and asked us to partner with him
+p80
+aVto be able to help Kenya to jump-start business growth.
+p81
+aVHe set an ambitious goal:
+p82
+aVhe wanted Kenya to be ranked top 50 in this World Bank ranking.
+p83
+aVIn 2014 when he came,
+p84
+aVKenya was ranked 136 out of 189 countries.
+p85
+aVWe had our work cut out for us.
+p86
+aa(lp87
+VFortunately, he came to the right place.
+p88
+aVWe're not just a Band-Aid kind of team.
+p89
+aVWe're a group of computer scientists, mathematicians, engineers
+p90
+aVand a cancer researcher,
+p91
+aVwho understood that in order to cure the sickness
+p92
+aVof a system as big as government,
+p93
+aVwe needed to examine the whole body,
+p94
+aVand then we needed to drill down all the way from the organs,
+p95
+aVinto the tissues,
+p96
+aVall the way to single cells,
+p97
+aVso that we could properly make a diagnosis.
+p98
+aa(lp99
+VSo with our marching orders from the President himself,
+p100
+aVwe embarked on the purest of the scientific method:
+p101
+aVcollecting data \u2014
+p102
+aVall the data we could get our hands on \u2014
+p103
+aVmaking hypotheses,
+p104
+aVcreating solutions,
+p105
+aVone after the other.
+p106
+aa(lp107
+VSo we met with hundreds of individuals who worked at government agencies,
+p108
+aVfrom the tax agency, the lands office, utilities company,
+p109
+aVthe agency that's responsible for registering companies,
+p110
+aVand with each of them, we observed them as they served customers,
+p111
+aVwe documented their processes \u2014 most of them were manual.
+p112
+aVWe also just went back and looked at a lot of their previous paperwork
+p113
+aVto try and really understand;
+p114
+aVto try and diagnose what bodily malfunctions had occurred
+p115
+aVthat lead to that 136th spot on the World Bank list.
+p116
+aa(lp117
+VWhat did we find?
+p118
+aVWell, in Kenya it was taking 72 days
+p119
+aVfor a business owner to register their property,
+p120
+aVcompared to just one day in New Zealand,
+p121
+aVwhich was ranked second on the World Bank list.
+p122
+aVIt took 158 days to get a new electric connection.
+p123
+aVIn Korea it took 18 days.
+p124
+aVIf you wanted to get a construction permit
+p125
+aVso you could put up a building,
+p126
+aVin Kenya, it was going to take you 125 days.
+p127
+aVIn Singapore, which is ranked first, that would only take you 26 days.
+p128
+aVGod forbid you had to go to court
+p129
+aVto get help in being able to settle a dispute to enforce a contract,
+p130
+aVbecause that process alone would take you 465 days.
+p131
+aVAnd if that wasn't bad enough,
+p132
+aVyou would lose 40 percent of your claim in just fees \u2014
+p133
+aVlegal fees, enforcement fees, court fees.
+p134
+aa(lp135
+VNow, I know what you're thinking:
+p136
+aVfor there to exist such inefficiencies in an African country,
+p137
+aVthere must be corruption.
+p138
+aVThe very cells that run the show must be corrupt to the bone.
+p139
+aVI thought so, too, actually.
+p140
+aVWhen we started out,
+p141
+aVI thought I was going to find so much corruption,
+p142
+aVI was literally going to either die or get killed in the process.
+p143
+aa(lp144
+V(Laughter)
+p145
+aa(lp146
+VBut when we dug deeper,
+p147
+aVwe didn't find corruption in the classic sense:
+p148
+aVslimy gangsters lurking in the darkness,
+p149
+aVwaiting to grease the palms of their friends.
+p150
+aVWhat we found was an overwhelming sense of helplessness.
+p151
+aVOur government was sick,
+p152
+aVbecause government employees felt helpless.
+p153
+aVThey felt that they were not empowered to drive change.
+p154
+aVAnd when people feel stuck and helpless,
+p155
+aVthey stop seeing their role in a bigger system.
+p156
+aVThey start to think the work they do doesn't matter in driving change.
+p157
+aVAnd when that happens,
+p158
+aVthings slow down,
+p159
+aVfall through the cracks
+p160
+aVand inefficiencies flourish.
+p161
+aa(lp162
+VNow imagine with me,
+p163
+aVif you had a process you had to go through \u2014
+p164
+aVhad no other alternative \u2014
+p165
+aVand this process was inefficient, complex
+p166
+aVand very, very slow.
+p167
+aVWhat would you do?
+p168
+aVI think you might start by trying to find somebody to outsource it to,
+p169
+aVso that they can just take care of that for you.
+p170
+aVIf that doesn't work,
+p171
+aVmaybe you'd consider paying somebody
+p172
+aVto just "unofficially" take care of it on your behalf \u2014
+p173
+aVespecially if you thought nobody was going to catch you.
+p174
+aVNot out of malice or greed,
+p175
+aVjust trying to make sure that you get something to work for you
+p176
+aVso you can move on.
+p177
+aVUnfortunately, that is the beginning of corruption.
+p178
+aVAnd if left to thrive and grow,
+p179
+aVit seeps into the whole system,
+p180
+aVand before you know it,
+p181
+aVthe whole body is sick.
+p182
+aa(lp183
+VKnowing this,
+p184
+aVwe had to start by making sure
+p185
+aVthat every single stakeholder we worked with had a shared vision
+p186
+aVfor what we wanted to do.
+p187
+aVSo we met with everyone,
+p188
+aVfrom the clerk whose sole job is to remove staples
+p189
+aVfrom application packets,
+p190
+aVto the legal drafters at the attorney general's office,
+p191
+aVto the clerks who are responsible for serving business owners
+p192
+aVwhen they came to access government services.
+p193
+aVAnd with them,
+p194
+aVwe made sure that they understood
+p195
+aVhow their day-to-day actions were impacting our ability as a country
+p196
+aVto create new jobs and to attract investments.
+p197
+aVNo one's role was too small; everyone's role was vital.
+p198
+aa(lp199
+VNow, guess what we started to see?
+p200
+aVA coalition of government employees
+p201
+aVwho are excited and ready to drive change,
+p202
+aVbegan to grow and form.
+p203
+aVAnd together we started to implement changes
+p204
+aVthat impacted the service delivery of our country.
+p205
+aa(lp206
+VThe result?
+p207
+aVIn just two years,
+p208
+aVKenya's ranking moved from 136 to 92.
+p209
+aa(lp210
+V(Applause)
+p211
+aa(lp212
+VAnd in recognition of the significant reforms we've been able to implement
+p213
+aVin such a short time,
+p214
+aVKenya was recognized
+p215
+aVto be among the top three global reformers in the world
+p216
+aVtwo years in a row.
+p217
+aa(lp218
+V(Applause)
+p219
+aa(lp220
+VAre we fully healthy?
+p221
+aVNo.
+p222
+aVWe have some serious work still to do.
+p223
+aVI like to think about these two years like a weight-loss program.
+p224
+aa(lp225
+V(Laughter)
+p226
+aa(lp227
+VIt's that time after months of hard, grueling work at the gym,
+p228
+aVand then you get your first time to weigh yourself,
+p229
+aVand you've lost 20 pounds.
+p230
+aVYou're feeling unstoppable.
+p231
+aa(lp232
+VNow, some of you may think this doesn't apply to you.
+p233
+aVYou're not from Kenya.
+p234
+aVYou don't intend to be an entrepreneur.
+p235
+aVBut think with me for just a moment.
+p236
+aVWhen is the last time you accessed a government service?
+p237
+aVMaybe applied for your driver's license,
+p238
+aVtried to do your taxes on your own.
+p239
+aVIt's easy in this political and global economy
+p240
+aVto want to give up when we think about transforming government.
+p241
+aVWe can easily resign to the fact or to the thinking
+p242
+aVthat government is too inefficient,
+p243
+aVtoo corrupt,
+p244
+aVunfixable.
+p245
+aVWe might even rarely get some key government responsibilities
+p246
+aVto other sectors,
+p247
+aVto Band-Aid solutions,
+p248
+aVor to just give up and feel helpless.
+p249
+aVBut just because a system is sick doesn't mean it's dying.
+p250
+aVWe cannot afford to give up
+p251
+aVwhen it comes to the challenges of fixing our governments.
+p252
+aa(lp253
+VIn the end,
+p254
+aVwhat really makes a government healthy is when healthy cells \u2014
+p255
+aVthat's you and I \u2014
+p256
+aVget to the ground,
+p257
+aVroll up our sleeves,
+p258
+aVrefuse to be helpless
+p259
+aVand believe that sometimes,
+p260
+aVall it takes is for us to create some space
+p261
+aVfor healthy cells to grow and thrive.
+p262
+aa(lp263
+VThank you.
+p264
+aa(lp265
+V(Applause)
+p266
+aasS'id'
+p267
+I2653
+sS'title'
+p268
+VA few ways to fix a government
+p269
+s.

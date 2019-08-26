@@ -1,0 +1,474 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhat is it about flying cars?
+p4
+aVWe've wanted to do this for about a hundred years.
+p5
+aVAnd there are historic attempts
+p6
+aVthat have had some level of technical success.
+p7
+aVBut we haven't yet gotten to the point
+p8
+aVwhere on your way here this morning
+p9
+aVyou see something that really, truly seamlessly integrates
+p10
+aVthe two-dimensional world that we're comfortable in
+p11
+aVwith the three-dimensional sky above us \u2014
+p12
+aVthat, I don't know about you, but I really enjoy spending time in.
+p13
+aa(lp14
+VWe looked at the historical attempts that had been out there
+p15
+aVand realized that, despite the fact
+p16
+aVthat we have a lot of modern innovations
+p17
+aVto draw on today
+p18
+aVthat weren't available previously \u2014
+p19
+aVwe have modern composite materials,
+p20
+aVwe have aircraft engines that get good fuel economy
+p21
+aVand have better power-to-rate ratios than have ever been available,
+p22
+aVwe have glass cockpit avionics
+p23
+aVthat bring the information you need to fly
+p24
+aVdirectly to you in the cockpit \u2014
+p25
+aVbut without fundamentally addressing the problem from a different perspective,
+p26
+aVwe realized that we were going to be getting
+p27
+aVthe same result that people had been getting
+p28
+aVfor the last hundred years,
+p29
+aVwhich isn't where we want to be right now.
+p30
+aVSo instead of trying to make a car that can fly,
+p31
+aVwe decided to try to make a plane that could drive.
+p32
+aa(lp33
+VAnd the result is the Terrafugia Transition.
+p34
+aVIt's a two-seat, single-engine airplane
+p35
+aVthat works just like any other small airplane.
+p36
+aVYou take off and land at a local airport.
+p37
+aVThen once you're on the ground,
+p38
+aVyou fold up the wings, drive it home,
+p39
+aVpark it in your garage.
+p40
+aVAnd it works.
+p41
+aVAfter two years of an innovative design and construction process,
+p42
+aVthe proof of concept made its public debut
+p43
+aVin 2008.
+p44
+aa(lp45
+VNow like with anything
+p46
+aVthat's really different from the status quo,
+p47
+aVit didn't always go so well testing that aircraft.
+p48
+aVAnd we discovered that it's a very good thing
+p49
+aVthat, when you go home with something that's been broken,
+p50
+aVyou've actually learned a lot more
+p51
+aVthan when you managed to tick off all of your test objectives
+p52
+aVthe first time through.
+p53
+aVStill, we very much wanted to see
+p54
+aVthe aircraft that we'd all helped build
+p55
+aVin the air, off the ground,
+p56
+aVlike it was supposed to be.
+p57
+aVAnd on our third high-speed testing deployment
+p58
+aVon a bitter cold morning in upstate New York,
+p59
+aVwe got to do that for the first time.
+p60
+aVThe picture behind me was snapped by the copilot in our chase aircraft
+p61
+aVjust moments after the wheels got off the ground for the first time.
+p62
+aVAnd we were all very flattered to see that image
+p63
+aVbecome a symbol of accomplishing something
+p64
+aVthat people had thought was impossible
+p65
+aVreally the world over.
+p66
+aa(lp67
+VThe flight testing that followed that
+p68
+aVwas as basic and low-risk as we could make it,
+p69
+aVbut it still accomplished what we needed to
+p70
+aVto take the program to the next step
+p71
+aVand to gain the credibility that we needed
+p72
+aVwithin our eventual market, the general aviation community,
+p73
+aVand with the regulators
+p74
+aVthat govern the use of design of aircraft, particularly in the States.
+p75
+aVThe FAA, about a year ago,
+p76
+aVgave us an exemption for the Transition
+p77
+aVto allow us to have an additional 110 lbs.
+p78
+aVwithin the light sport aircraft category.
+p79
+aVNow that doesn't sound like a lot, but it's very important,
+p80
+aVbecause being able to deliver the Transition as a light sport aircraft
+p81
+aVmakes it simpler for us to certify it,
+p82
+aVbut it also makes it much easier
+p83
+aVfor you to learn how to fly it.
+p84
+aVA sport pilot can be certificated
+p85
+aVin as little as 20 hours of flight time.
+p86
+aVAnd at 110 lbs.,
+p87
+aVthat's very important for solving the other side of the equation \u2014
+p88
+aVdriving.
+p89
+aa(lp90
+VIt turns out that driving,
+p91
+aVwith its associated design implementation and regulatory hurdles,
+p92
+aVis actually a harder problem to solve than flying.
+p93
+aVFor those of us that spend most of our lives on the ground,
+p94
+aVthis may be counter-intuitive,
+p95
+aVbut driving has potholes, cobblestones,
+p96
+aVpedestrians, other drivers
+p97
+aVand a rather long and detailed list
+p98
+aVof federal motor vehicle safety standards to contend with.
+p99
+aVFortunately, necessity remains the mother of invention,
+p100
+aVand a lot of the design work
+p101
+aVthat we're the most proud of with the aircraft
+p102
+aVcame out of solving the unique problems
+p103
+aVof operating it on the ground \u2014
+p104
+aVeverything from a continuously-variable transmission
+p105
+aVand liquid-based cooling system
+p106
+aVthat allows us to use an aircraft engine
+p107
+aVin stop-and-go traffic,
+p108
+aVto a custom-designed gearbox
+p109
+aVthat powers either the propeller when you're flying or the wheels on the ground,
+p110
+aVto the automated wing-folding mechanism that we'll see in a moment,
+p111
+aVto crash safety features.
+p112
+aVWe have a carbon fiber safety cage
+p113
+aVthat protects the occupants
+p114
+aVfor less than 10 percent of the weight of a traditional steel chassis in a car.
+p115
+aa(lp116
+VNow this also, as good as it is, wasn't quite enough.
+p117
+aVThe regulations for vehicles on the road
+p118
+aVweren't written with an airplane in mind.
+p119
+aVSo we did need a little bit of support
+p120
+aVfrom the National Highway Traffic Safety Administration.
+p121
+aVNow you may have seen in the news recently,
+p122
+aVthey came through with us at the end of last month
+p123
+aVwith a few special exemptions
+p124
+aVthat will allow the Transition to be sold
+p125
+aVin the same category as SUVs and light trucks.
+p126
+aVAs a multi-purpose passenger vehicle,
+p127
+aVit is now officially "designed for occasional off-road use."
+p128
+aa(lp129
+V(Laughter)
+p130
+aa(lp131
+VNow let's see it in action.
+p132
+aVYou can see there the wings folded up just along the side of the plane.
+p133
+aVYou're not powering the propeller, you're powering the wheels.
+p134
+aVAnd it is under seven feet tall,
+p135
+aVso it will fit in a standard construction garage.
+p136
+aVAnd that's the automated wing-folding mechanism.
+p137
+aVThat's real time.
+p138
+aVYou just push a few buttons in the cockpit, and the wings come out.
+p139
+aVOnce they're fully deployed,
+p140
+aVthere's a mechanical lock that goes into place,
+p141
+aVagain, from inside the cockpit.
+p142
+aVAnd they're now fully capable of handling
+p143
+aVany of the loads you would see in flight \u2014
+p144
+aVjust like putting down your convertible top.
+p145
+aVAnd you're all thinking what your neighbors would think of seeing that.
+p146
+aa(lp147
+V(Video) Test Pilot: Until the vehicle flies,
+p148
+aV75 percent of your risk is that first flight.
+p149
+aa(lp150
+VRadio: It actually flew. Yes.
+p151
+aa(lp152
+VRadio 2: That was gorgeous.
+p153
+aa(lp154
+VRadio: What did you think of that?
+p155
+aVThat was beautiful from up here, I tell you.
+p156
+aa(lp157
+VAMD: See, we're all exceedingly excited about that little bunny hop.
+p158
+aVAnd our test pilot gave us
+p159
+aVthe best feedback you can get from a test pilot after a first flight,
+p160
+aVwhich was that it was "remarkably unremarkable."
+p161
+aVHe would go onto tell us
+p162
+aVthat the Transition had been the easiest airplane to land
+p163
+aVthat he'd flown in his entire 30-year career as a test pilot.
+p164
+aVSo despite making something
+p165
+aVthat is seemingly revolutionary,
+p166
+aVwe really focused on doing
+p167
+aVas little new as possible.
+p168
+aVWe leverage a lot of technology from the state-of-the-art in general aviation
+p169
+aVand from automotive racing.
+p170
+aVWhen we do have to do something truly out-of-the-box,
+p171
+aVwe use an incremental design, build, test, redesign cycle
+p172
+aVthat lets us reduce risk in baby steps.
+p173
+aa(lp174
+VNow since we started Terrafugia about 6 years ago,
+p175
+aVwe've had a lot of those baby steps.
+p176
+aVWe've gone from being three of us
+p177
+aVworking in the basement at MIT while we were still in graduate school
+p178
+aVto about two-dozen of us
+p179
+aVworking in an initial production facility outside of Boston.
+p180
+aVWe've had to overcome challenges
+p181
+aVlike keeping the weight below the light sport limit that I talked about,
+p182
+aVfiguring out how to politely respond
+p183
+aVwhen a regulator tells you,
+p184
+aV"But that won't fit through a toll booth with the wings extended \u2014
+p185
+aV(Laughter)
+p186
+aVto all of the other associated durability and engineering issues
+p187
+aVthat we talked about on the ground.
+p188
+aVStill, if everything goes to our satisfaction
+p189
+aVwith the testing and construction
+p190
+aVof the two production prototypes
+p191
+aVthat we're working on right now,
+p192
+aVthose first deliveries
+p193
+aVto the, about a hundred, people who have reserved an airplane at this point
+p194
+aVshould begin at the end of next year.
+p195
+aa(lp196
+VThe Transition will cost in line with other small airplanes.
+p197
+aVAnd I'm certainly not out to replace your Chevy,
+p198
+aVbut I do think that the Transition should be your next airplane.
+p199
+aVHere's why.
+p200
+aVWhile nearly all of the commercial air travel in the world
+p201
+aVgoes through a relatively small number of large hub airports,
+p202
+aVthere is a huge underutilized resource out there.
+p203
+aVThere are thousands of local airstrips
+p204
+aVthat don't see nearly as many aircraft operations a day as they could.
+p205
+aVOn average, there's one within 20 to 30 miles
+p206
+aVof wherever you are in the United States.
+p207
+aVThe Transition gives you
+p208
+aVa safer, more convenient and more fun way
+p209
+aVof using this resource.
+p210
+aa(lp211
+VFor those of you who aren't yet pilots,
+p212
+aVthere's four main reasons why those of us who are
+p213
+aVdon't fly as much as we'd like to:
+p214
+aVthe weather, primarily,
+p215
+aVcost, long door-to-door travel time
+p216
+aVand mobility at your destination.
+p217
+aVNow, bad weather comes in,
+p218
+aVjust land, fold up the wings, drive home.
+p219
+aVDoesn't matter if it rains a little, you have a windshield wiper.
+p220
+aVInstead of paying to keep your airplane in a hanger,
+p221
+aVpark it in your garage.
+p222
+aVAnd the unleaded automotive fuel that we use
+p223
+aVis both cheaper and better for the environment
+p224
+aVthan traditional avgas.
+p225
+aVDoor-to-door travel time is reduced,
+p226
+aVbecause now, instead of lugging bags, finding a parking space,
+p227
+aVtaking off your shoes or pulling your airplane out of the hanger,
+p228
+aVyou're now just spending that time getting to where you want to go.
+p229
+aVAnd mobility to your destination is clearly solved.
+p230
+aVJust fold up the wings and keep going.
+p231
+aa(lp232
+VThe Transition simultaneously expands our horizons
+p233
+aVwhile making the world a smaller, more accessible place.
+p234
+aVIt also continues to be a fabulous adventure.
+p235
+aVI hope you'll each take a moment
+p236
+aVto think about how you could use something like this
+p237
+aVto give yourself more access to your own world,
+p238
+aVand to make your own travel more convenient and more fun.
+p239
+aa(lp240
+VThank you for giving me the opportunity to share it with you.
+p241
+aa(lp242
+V(Applause)
+p243
+aasS'id'
+p244
+I1260
+sS'title'
+p245
+VA plane you can drive
+p246
+s.

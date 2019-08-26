@@ -1,0 +1,613 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThere's a lot of exciting things happening in the design world
+p4
+aVand at IDEO this past year,
+p5
+aVand I'm pleased to get a chance to share some of those with you.
+p6
+aa(lp7
+VI didn't attend the first TED back in 1984
+p8
+aVbut I've been to a lot of them since that time.
+p9
+aVI thought it [would] kind of be interesting to think back to that time
+p10
+aVwhen Richard got the whole thing started. Thank you very much, Richard;
+p11
+aVit's been a big, enjoyable part of my life, coming here.
+p12
+aa(lp13
+VAnd so thinking back, I was thinking
+p14
+aVthose of us in Silicon Valley were really focused on products or objects \u2014
+p15
+aVcertainly technological objects.
+p16
+aVAnd so it was great fun in those days, and some of those of you
+p17
+aVwho are in the audience were my clients.
+p18
+aVWe'd come in with some prototype underneath a black cloth
+p19
+aVand we'd put it on the conference table,
+p20
+aVand we'd pull off the black cloth and everybody would "ooh" and "ah."
+p21
+aVThat was a really good time.
+p22
+aa(lp23
+VAnd so we'll continue to focus on products, as we always have.
+p24
+aVAnd if you were here last year,
+p25
+aVI probably wrestled you to the floor and tried to show you my new EyeModule 2,
+p26
+aVwhich was a camera that plugged into the Handspring.
+p27
+aVAnd I took a lot of pictures last year;
+p28
+aVvery few people knew what I was up to, but I took a lot of pictures.
+p29
+aVThis year \u2014 maybe you could show the slides \u2014
+p30
+aVthis year we're carrying this Treo, which we had a lot to do with
+p31
+aVand helped Handspring design it.
+p32
+aVAlso, though we designed it a few years ago \u2014
+p33
+aVit's just become ubiquitous in the last year or so \u2014
+p34
+aVthis Heartstream defibrillator which is saving lives.
+p35
+aVMaybe you've seen them in the airports? They seem to be everywhere now.
+p36
+aVLots of lives are being saved by those.
+p37
+aVAnd, we're just about to announce the Zinio Reader product
+p38
+aVthat I believe will make magazines even more enjoyable to read.
+p39
+aVSo, we really will continue to focus on products.
+p40
+aa(lp41
+VBut something's happened in the last 18 years since Richard started TED,
+p42
+aVand that's that people like us \u2014
+p43
+aVI know people in other places have caught onto this for a long time,
+p44
+aVbut for us, we've really just started ... we've kind of
+p45
+aVclimbed Maslow's hierarchy a little bit \u2014
+p46
+aVand so we're now focused more and more on human-centered design,
+p47
+aVhuman-centeredness in an approach to design.
+p48
+aVThat really involves designing behaviors and personality into products.
+p49
+aVAnd I think you're starting to see that,
+p50
+aVand it's making our job even more enjoyable.
+p51
+aa(lp52
+VInterestingly enough, we used to primarily build 3-D models \u2014
+p53
+aVyou know, you've seen some today \u2014 and 3-D renderings.
+p54
+aVThen we'd go and we'd show those as communicating our ideas.
+p55
+aVBut firms like ours are having to move to a point where
+p56
+aVwe get those objects that we're designing and get them in motion,
+p57
+aVshowing how they'll be used.
+p58
+aVAnd so in order to do that we've been forming
+p59
+aVinternal video-production groups
+p60
+aVin order to make these kind of experience prototypes
+p61
+aVthat show just what we mean about the man-machine relationship.
+p62
+aVAnd it's a much better way to see.
+p63
+aVIt's kind of like architects who show people in their houses,
+p64
+aVas opposed to them being empty.
+p65
+aa(lp66
+VSo I thought that I would show you a few videos
+p67
+aVto show off this new, broader definition
+p68
+aVof design in products and services and environments.
+p69
+aVI have a few of them \u2014 they're no more than a minute
+p70
+aVor a minute-and-a-half apiece \u2014
+p71
+aVbut I thought you might be interested in seeing some of our
+p72
+aVwork over the last year, and how it responds in video.
+p73
+aa(lp74
+VSo, Prada New York: we were asked by Rem Koolhaas
+p75
+aVand OMA to help us conceive the technology
+p76
+aVthat's in their retail store in New York.
+p77
+aVHe wanted a new kind of store \u2014 a new one \u2014
+p78
+aVa store that had a cultural role as well as a retail one.
+p79
+aVAnd that meant actually designing custom technology
+p80
+aVas opposed to just buying things off the shelf and putting them to use.
+p81
+aa(lp82
+VSo, there're lots of things. Everything has RF tags:
+p83
+aVthere's RF tags on the user, on the cards,
+p84
+aVthere's the staff devices that are all around the store.
+p85
+aVYou pick them up, and once you see something that you're interested in,
+p86
+aVthe staff person can scan them in
+p87
+aVand then they can be shown on any screen throughout the store.
+p88
+aVYou can look at color, and sizes, and how it appeared on the runway, or whatever.
+p89
+aVAnd so then the object \u2014 the merchandise that you're interested in \u2014
+p90
+aVcan be scanned. It's taken into the dressing room,
+p91
+aVand in the dressing room there are scanners
+p92
+aVso that we know exactly what clothing you have in the dressing room.
+p93
+aVWe can put that up on a touch screen
+p94
+aVand you can play with that, and get more information
+p95
+aVabout the clothing that you're interested in as you're trying it on.
+p96
+aVIt's been used a lot of places, but I particularly like the use here
+p97
+aVof liquid crystal displays in the changing room.
+p98
+aa(lp99
+VThe last time I went to see this store,
+p100
+aVthere was a huge buzz about people standing outside and wondering,
+p101
+aV"Am I going to actually get to see the people changing clothes here?"
+p102
+aVBut if you push the button, of course, the whole wall goes dark.
+p103
+aVSo you can try to get approval, or not, for whatever you're wearing.
+p104
+aVAnd then one of my favorite features of the technology
+p105
+aVis the magic mirror, where you put on the clothes.
+p106
+aVThere's a big display in the mirror, and you can turn around \u2014
+p107
+aVbut there's a three second delay.
+p108
+aVSo you can see what you look like from the back or all the way around, as you look.
+p109
+aV(Applause)
+p110
+aa(lp111
+VAbout a year and a half ago we were asked to design
+p112
+aVan installation in the museum \u2014
+p113
+aVthis is a new wing of the Science Museum in London,
+p114
+aVand it's primarily about digital and biomedical issues.
+p115
+aVAnd a group at Itch, which is now part of IDEO,
+p116
+aVdesigned this interactive wall that's about four stories tall.
+p117
+aVI don't know if anybody's seen this \u2014
+p118
+aVit's pretty spectacular in the room.
+p119
+aa(lp120
+VAnyway, it's based on the London subway system.
+p121
+aVAnd so you can see that
+p122
+aVthe goal is to bring some of the feedback
+p123
+aVthat the people who had gone to the museum were giving,
+p124
+aVand get it up on the wall so everybody could see. Just for everybody to see.
+p125
+aVSo you enter your information. Then, like the London tube system,
+p126
+aVthe little trains go around with what you're thinking about.
+p127
+aVAnd then when you get to a station, it's expanded so that you can actually read it.
+p128
+aa(lp129
+VThen when you exit the IMAX theatre on the fourth floor \u2014
+p130
+aVmostly teenagers coming out of there \u2014
+p131
+aVthere's this big open space that has these tables in it
+p132
+aVthat have interactive games which are quite fun,
+p133
+aValso designed by Durrell [Bishop] and Andrew [Hirniak] of Itch.
+p134
+aVAnd the topics include things that the museum is about:
+p135
+aVmale fertility, choosing the sex of your baby
+p136
+aVor what a driverless car might be like.
+p137
+aVThere's lots of room, so people can come up
+p138
+aVand understand what it is before they get involved.
+p139
+aa(lp140
+VAnd also, it's not shown in the video, but these are very beautiful.
+p141
+aVThey go to the top of the wall and when they reach all the way to the top,
+p142
+aVafter they've bounced around, they disperse into bits
+p143
+aVand go off into the atmosphere.
+p144
+aa(lp145
+VThe next video is not done by us.
+p146
+aVThis is CBS Sunday Morning that aired about two weeks ago.
+p147
+aVScott Adams ran into us
+p148
+aVand asked us if we wouldn't help to design
+p149
+aVthe ultimate cubicle for Dilbert,
+p150
+aVwhich sounded like a fun thing and so we couldn't pass it up.
+p151
+aVHe's always been interested in technology in the future.
+p152
+aa(lp153
+V(Video: Scott Adams: I realized that at some point I might be
+p154
+aVthe world's expert on what's wrong with cubicles.
+p155
+aVSo we thought, well, wouldn't it be fun to get together
+p156
+aVwith some of the smartest design guys in the world
+p157
+aVand try to figure out if we could make the cubicle better?
+p158
+aa(lp159
+VNarrator: Though they work in a wide-open office space
+p160
+aVspectacularly set under San Francisco's Oakland Bay Bridge,
+p161
+aVthe team built their own little cubicles
+p162
+aVto fully experience the problems.
+p163
+aa(lp164
+VWoman: A one-way mirror. I can look out; you can look at yourself.
+p165
+aa(lp166
+VNarrator: They took pictures.
+p167
+aa(lp168
+VWoman: You feel so trapped, when someone kind of leans over
+p169
+aVand you're sort of held captive there for a minute.
+p170
+aa(lp171
+VSA: So far it's chaos, but a lot of people are doing stuff, so that's good.
+p172
+aVWe'll see what happens.
+p173
+aa(lp174
+VNarrator: The first group builds a cubicle in which the walls are screens
+p175
+aVfor the computer and for family photos.
+p176
+aVIn the second group's scenario, the walls are alive
+p177
+aVand actually give Dilbert a group hug.
+p178
+aV(Laughter)
+p179
+aVBehind the humor is the idea of making the cubicle more human.)
+p180
+aa(lp181
+VDavid Kelley: So here's the final thing, complete with orange lighting
+p182
+aVthat follows the sun across \u2014 that follows the tracks of the sun \u2014 across the sky.
+p183
+aVSo you feel that in your cubicle.
+p184
+aVAnd my favorite feature, which is a flower in a vase
+p185
+aVthat wilts when you leave in disappointment,
+p186
+aVand then when you come back, it comes up to greet you, happy to see you.
+p187
+aa(lp188
+V(SA: The storage is built right into the wall.)
+p189
+aa(lp190
+VDK: You know, it has homey touches like a built-in fish tank in the walls,
+p191
+aVor something to be aggressive with to release tension.
+p192
+aa(lp193
+V(SA: Customizable for the boss of your choice.)
+p194
+aa(lp195
+VDK: And of course: a hammock for your afternoon nap
+p196
+aVthat stretches across your cubicle.
+p197
+aa(lp198
+V(SA: Life would be sweet in a cubicle like this.)
+p199
+aa(lp200
+VDK: This next project, we were asked to design a pavilion to celebrate
+p201
+aVthe recycling of the water on the Millennium Dome in London.
+p202
+aVThe dome has an incredible amount of water that washes off of it,
+p203
+aVas well as wastewater.
+p204
+aVSo this building actually celebrates the water
+p205
+aVas it comes out of the recycling plant and goes into the reed bed
+p206
+aVso that it can be filtered for the final time.
+p207
+aa(lp208
+VThe pavilion's design goal was to be kind of quiet and peaceful.
+p209
+aVIn contrast to if you went inside the dome, where it's
+p210
+aVkind of wild and crazy and everybody's
+p211
+aVlearning all kinds of things, or fooling around, or whatever they're doing.
+p212
+aVBut it was intended to be quite quiet.
+p213
+aVAnd then you would wander around and gather information,
+p214
+aVin a straightforward fashion, about the recycling process
+p215
+aVand what's being done, and how they're going to reuse the water
+p216
+aVonce it comes through the plant.
+p217
+aVAnd then, if you saw,
+p218
+aVthe panels actually rotate. So you can get the information
+p219
+aVon the front side, but as they rotate, you can see the actual
+p220
+aVrecycling plant behind, with all the machines as they actually process the water.
+p221
+aVYou can see: there's the plant.
+p222
+aVThese are all very low-budget videos, like quick prototypes.
+p223
+aa(lp224
+VAnd we're announcing a new product here tonight,
+p225
+aVwhich is the first time this has ever been shown in public.
+p226
+aVIt's called Spyfish, and it's a company called H2Eye,
+p227
+aVstarted by Nigel Jagger in London.
+p228
+aVAnd it's a company that's trying to bring the experience \u2014 many people have boats,
+p229
+aVor enjoy being on boats, but a very small percentage of people
+p230
+aVactually have the capability or the interest in going under the water
+p231
+aVand actually seeing what's there,
+p232
+aVand enjoying what scuba divers do.
+p233
+aVThis product, it has two cameras.
+p234
+aVYou throw it over the side of your boat
+p235
+aVand you basically scuba dive without getting wet.
+p236
+aa(lp237
+VFor us \u2014 there's the object \u2014 for us, it was two projects. One, to design the interface
+p238
+aVso that the interface doesn't get in your way.
+p239
+aVYou could have that kind of immersive experience of being underwater \u2014
+p240
+aVof feeling like you're underwater \u2014 seeing what's going on.
+p241
+aVAnd the other one was to design the object
+p242
+aVand make sure that it was a consumer product and not a research tool.
+p243
+aVAnd so we spent a lot of time \u2014 this has been going on for about
+p244
+aVseven or eight years, this project \u2014
+p245
+aVand [we're] just ready to start building them.
+p246
+aa(lp247
+V(Narrator: The Spyfish is a revolutionary subaquatic video camera.
+p248
+aVIt can dive to 500 feet, to where sunlight does not penetrate,
+p249
+aVand is equipped with powerful lights.
+p250
+aVIt becomes your eyes and ears as you venture into the deep.
+p251
+aVThe battery-powered Spyfish sends the live video-feed through a slender cable.)
+p252
+aa(lp253
+VDK: This slender cable was a huge technological advancement
+p254
+aVand it allowed the whole thing to be the size that it is.
+p255
+aa(lp256
+V(Narrator: And this central box connects the whole system together.
+p257
+aVManeuvering the Spyfish is simple with the wireless remote control.
+p258
+aVYou watch the video with superimposed graphics
+p259
+aVthat indicate your depth and compass heading.
+p260
+aVThe fluid graphics and ambient sounds combine
+p261
+aVto help you completely lose yourself underwater.)
+p262
+aV(Applause)
+p263
+aa(lp264
+VDK: And the last thing I'll talk about is ApproTEC,
+p265
+aVwhich is a project that I'm very excited about.
+p266
+aVApproTEC is a company started by Dr. Martin Fisher,
+p267
+aVwho's a good friend of mine. He's a Ph.D. from Stanford.
+p268
+aVHe found himself in Kenya on a Fulbright
+p269
+aVand he had a very interesting insight, which is that
+p270
+aVhe said, "There must be entrepreneurs in Kenya;
+p271
+aVthere must be entrepreneurs everywhere."
+p272
+aVAnd he noticed that for weddings and funerals there
+p273
+aVthey could find enough money to put something together.
+p274
+aVSo he decided to start manufacturing products in Kenya
+p275
+aVwith Kenyan manufacturers \u2014 designed by people like us, but taken there.
+p276
+aVAnd to this date \u2014 he's been gone for only a few years \u2014
+p277
+aVhe's started 19,000 companies.
+p278
+aVHe's made 30,000 new jobs.
+p279
+aVAnd just the sales of the products \u2014 this is a non-profit \u2014
+p280
+aVthe sales of these products is now .6% of the GDP of Kenya.
+p281
+aVThis is one guy doing this. This is a pretty spectacular thing.
+p282
+aa(lp283
+VSo we're in the process of helping them design
+p284
+aVdeep-well, low-cost manual pumps
+p285
+aVin order for these people who have a quarter acre of land
+p286
+aVto be able to grow crops in the off-season.
+p287
+aVWhat they do now is: they can grow crops in the rainy season
+p288
+aVbut they can't grow them in the off-season.
+p289
+aVAnd so by doing that, the woman that you saw in the first thing \u2014
+p290
+aVshe's a school teacher \u2014 always wanted to send her kids to college
+p291
+aVand she's going to be able to do it because of these things.
+p292
+aVSo with seed-squeezers, and pumps, and hay-balers and
+p293
+aVvery straightforward things that we're designing \u2014
+p294
+aVmy students are doing this as class projects
+p295
+aVand IDEO has donated their time to do this kind of work \u2014
+p296
+aVit's really amazing to see his success, Martin's.
+p297
+aa(lp298
+VWe also were thinking about the experience of Richard,
+p299
+aVand so \u2014
+p300
+aV(Laughter)
+p301
+aV\u2014 we designed this hat, because I knew I'd be the last one in the day
+p302
+aVand I needed to deal with him. So I just have one more thing to say.
+p303
+aV(Laughter)
+p304
+aVCan you read it?
+p305
+aV(Laughter)
+p306
+aVWell, it's always kind of funny when he comes up and hovers.
+p307
+aVYou know, you don't want to be rude to him and you don't want to feel guilty,
+p308
+aVand so I thought this would do it, where I just sit here.
+p309
+aV(Laughter)
+p310
+aV(Applause)
+p311
+aa(lp312
+VSo we saw a lot of interesting things being designed today in this session,
+p313
+aVand from all the different presenters.
+p314
+aVAnd in my own practice, from product to ApproTEC,
+p315
+aVit's really exciting that we're taking a more human-centered approach to design,
+p316
+aVthat we're including behaviors and personalities in the things we do,
+p317
+aVand I think this is great.
+p318
+aVDesigners are more trusted and more integrated
+p319
+aVinto the business strategy of companies,
+p320
+aVand I have to say, for one, I feel very lucky at the progress that design
+p321
+aVhas made since the first TED. Thanks a lot.
+p322
+aasS'id'
+p323
+I122
+sS'title'
+p324
+VHuman-centered design
+p325
+s.

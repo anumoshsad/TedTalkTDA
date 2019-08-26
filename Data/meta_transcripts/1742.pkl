@@ -1,0 +1,345 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+V"Don't talk to strangers."
+p4
+aa(lp5
+VYou have heard that phrase uttered
+p6
+aVby your friends, family, schools and the media for decades.
+p7
+aVIt's a norm. It's a social norm.
+p8
+aVBut it's a special kind of social norm,
+p9
+aVbecause it's a social norm that wants to tell us
+p10
+aVwho we can relate to and who we shouldn't relate to.
+p11
+aV"Don't talk to strangers" says,
+p12
+aV"Stay from anyone who's not familiar to you.
+p13
+aVStick with the people you know.
+p14
+aVStick with people like you."
+p15
+aa(lp16
+VHow appealing is that?
+p17
+aVIt's not really what we do, is it, when we're at our best?
+p18
+aVWhen we're at our best, we reach out to people
+p19
+aVwho are not like us,
+p20
+aVbecause when we do that, we learn from people
+p21
+aVwho are not like us.
+p22
+aa(lp23
+VMy phrase for this value of being with "not like us"
+p24
+aVis "strangeness,"
+p25
+aVand my point is that in today's digitally intensive world,
+p26
+aVstrangers are quite frankly not the point.
+p27
+aVThe point that we should be worried about is,
+p28
+aVhow much strangeness are we getting?
+p29
+aa(lp30
+VWhy strangeness? Because our social relations
+p31
+aVare increasingly mediated by data,
+p32
+aVand data turns our social relations into digital relations,
+p33
+aVand that means that our digital relations
+p34
+aVnow depend extraordinarily on technology
+p35
+aVto bring to them a sense of robustness,
+p36
+aVa sense of discovery,
+p37
+aVa sense of surprise and unpredictability.
+p38
+aVWhy not strangers?
+p39
+aVBecause strangers are part of a world
+p40
+aVof really rigid boundaries.
+p41
+aVThey belong to a world of people I know
+p42
+aVversus people I don't know,
+p43
+aVand in the context of my digital relations,
+p44
+aVI'm already doing things with people I don't know.
+p45
+aVThe question isn't whether or not I know you.
+p46
+aVThe question is, what can I do with you?
+p47
+aVWhat can I learn with you?
+p48
+aVWhat can we do together that benefits us both?
+p49
+aa(lp50
+VI spend a lot of time thinking about
+p51
+aVhow the social landscape is changing,
+p52
+aVhow new technologies create new constraints
+p53
+aVand new opportunities for people.
+p54
+aVThe most important changes facing us today
+p55
+aVhave to do with data and what data is doing
+p56
+aVto shape the kinds of digital relations
+p57
+aVthat will be possible for us in the future.
+p58
+aVThe economies of the future depend on that.
+p59
+aVOur social lives in the future depend on that.
+p60
+aVThe threat to worry about isn't strangers.
+p61
+aVThe threat to worry about is whether or not
+p62
+aVwe're getting our fair share of strangeness.
+p63
+aa(lp64
+VNow, 20th-century psychologists and sociologists
+p65
+aVwere thinking about strangers,
+p66
+aVbut they weren't thinking so dynamically about human relations,
+p67
+aVand they were thinking about strangers
+p68
+aVin the context of influencing practices.
+p69
+aVStanley Milgram from the '60s and '70s,
+p70
+aVthe creator of the small-world experiments,
+p71
+aVwhich became later popularized as six degrees of separation,
+p72
+aVmade the point that any two arbitrarily selected people
+p73
+aVwere likely connected from between five to seven intermediary steps.
+p74
+aVHis point was that strangers are out there.
+p75
+aVWe can reach them. There are paths
+p76
+aVthat enable us to reach them.
+p77
+aVMark Granovetter, Stanford sociologist, in 1973
+p78
+aVin his seminal essay "The Strength of Weak Ties,"
+p79
+aVmade the point that these weak ties
+p80
+aVthat are a part of our networks, these strangers,
+p81
+aVare actually more effective at diffusing information to us
+p82
+aVthan are our strong ties, the people closest to us.
+p83
+aVHe makes an additional indictment of our strong ties
+p84
+aVwhen he says that these people who are so close to us,
+p85
+aVthese strong ties in our lives,
+p86
+aVactually have a homogenizing effect on us.
+p87
+aVThey produce sameness.
+p88
+aa(lp89
+VMy colleagues and I at Intel have spent the last few years
+p90
+aVlooking at the ways in which digital platforms
+p91
+aVare reshaping our everyday lives,
+p92
+aVwhat kinds of new routines are possible.
+p93
+aVWe've been looking specifically at the kinds
+p94
+aVof digital platforms that have enabled us
+p95
+aVto take our possessions, those things that used to be
+p96
+aVvery restricted to us and to our friends in our houses,
+p97
+aVand to make them available to people we don't know.
+p98
+aVWhether it's our clothes, whether it's our cars,
+p99
+aVwhether it's our bikes, whether it's our books or music,
+p100
+aVwe are able to take our possessions now
+p101
+aVand make them available to people we've never met.
+p102
+aVAnd we concluded a very important insight,
+p103
+aVwhich was that as people's relationships
+p104
+aVto the things in their lives change,
+p105
+aVso do their relations with other people.
+p106
+aVAnd yet recommendation system
+p107
+aVafter recommendation system continues to miss the boat.
+p108
+aVIt continues to try to predict what I need
+p109
+aVbased on some past characterization of who I am,
+p110
+aVof what I've already done.
+p111
+aVSecurity technology after security technology
+p112
+aVcontinues to design data protection
+p113
+aVin terms of threats and attacks,
+p114
+aVkeeping me locked into really rigid kinds of relations.
+p115
+aa(lp116
+VCategories like "friends" and "family"
+p117
+aVand "contacts" and "colleagues"
+p118
+aVdon't tell me anything about my actual relations.
+p119
+aVA more effective way to think about my relations
+p120
+aVmight be in terms of closeness and distance,
+p121
+aVwhere at any given point in time, with any single person,
+p122
+aVI am both close and distant from that individual,
+p123
+aVall as a function of what I need to do right now.
+p124
+aVPeople aren't close or distant.
+p125
+aVPeople are always a combination of the two,
+p126
+aVand that combination is constantly changing.
+p127
+aa(lp128
+VWhat if technologies could intervene
+p129
+aVto disrupt the balance of certain kinds of relationships?
+p130
+aVWhat if technologies could intervene
+p131
+aVto help me find the person that I need right now?
+p132
+aVStrangeness is that calibration
+p133
+aVof closeness and distance
+p134
+aVthat enables me to find the people that I need right now,
+p135
+aVthat enables me to find the sources of intimacy,
+p136
+aVof discovery, and of inspiration that I need right now.
+p137
+aVStrangeness is not about meeting strangers.
+p138
+aVIt simply makes the point that we need
+p139
+aVto disrupt our zones of familiarity.
+p140
+aVSo jogging those zones of familiarity is one way to think about strangeness,
+p141
+aVand it's a problem faced not just by individuals today,
+p142
+aVbut also by organizations,
+p143
+aVorganizations that are trying to embrace massively new opportunities.
+p144
+aVWhether you're a political party
+p145
+aVinsisting to your detriment on a very rigid notion
+p146
+aVof who belongs and who does not,
+p147
+aVwhether you're the government
+p148
+aVprotecting social institutions like marriage
+p149
+aVand restricting access of those institutions to the few,
+p150
+aVwhether you're a teenager in her bedroom
+p151
+aVwho's trying to jostle her relations with her parents,
+p152
+aVstrangeness is a way to think about how we pave the way
+p153
+aVto new kinds of relations.
+p154
+aVWe have to change the norms.
+p155
+aVWe have to change the norms in order to enable
+p156
+aVnew kinds of technologies
+p157
+aVas a basis for new kinds of businesses.
+p158
+aa(lp159
+VWhat interesting questions lie ahead for us
+p160
+aVin this world of no strangers?
+p161
+aVHow might we think differently about our relations with people?
+p162
+aVHow might we think differently about our relations
+p163
+aVwith distributed groups of people?
+p164
+aVHow might we think differently about our relations with technologies,
+p165
+aVthings that effectively become social participants
+p166
+aVin their own right?
+p167
+aVThe range of digital relations is extraordinary.
+p168
+aVIn the context of this broad range of digital relations,
+p169
+aVsafely seeking strangeness might very well be
+p170
+aVa new basis for that innovation.
+p171
+aa(lp172
+VThank you.
+p173
+aa(lp174
+V(Applause)
+p175
+aasS'id'
+p176
+I1742
+sS'title'
+p177
+VWhy we need strangeness
+p178
+s.

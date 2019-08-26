@@ -1,0 +1,871 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm here today representing a team of artists and technologists and filmmakers
+p4
+aVthat worked together on a remarkable film project for the last four years.
+p5
+aVAnd along the way they created a breakthrough in computer visualization.
+p6
+aa(lp7
+VSo I want to show you a clip of the film now.
+p8
+aVHopefully it won't stutter.
+p9
+aVAnd if we did our jobs well, you won't know that we were even involved.
+p10
+aa(lp11
+VVoice (Video): I don't know how it's possible ...
+p12
+aVbut you seem to have more hair.
+p13
+aa(lp14
+VBrad Pitt: What if I told you that I wasn't getting older ...
+p15
+aVbut I was getting younger than everybody else?
+p16
+aa(lp17
+VI was born with some form of disease.
+p18
+aa(lp19
+VVoice: What kind of disease?
+p20
+aa(lp21
+VBP: I was born old.
+p22
+aa(lp23
+VMan: I'm sorry.
+p24
+aa(lp25
+VBP: No need to be. There's nothing wrong with old age.
+p26
+aa(lp27
+VGirl: Are you sick?
+p28
+aa(lp29
+VBP: I heard momma and Tizzy whisper,
+p30
+aVand they said I was gonna die soon.
+p31
+aVBut ... maybe not.
+p32
+aa(lp33
+VGirl: You're different than anybody I've ever met.
+p34
+aa(lp35
+VBB: There were many changes ...
+p36
+aVsome you could see, some you couldn't.
+p37
+aVHair started growing in all sorts of places,
+p38
+aValong with other things.
+p39
+aVI felt pretty good, considering.
+p40
+aa(lp41
+VEd Ulbrich: That was a clip from "The Curious Case of Benjamin Button."
+p42
+aVMany of you, maybe you've seen it or you've heard of the story,
+p43
+aVbut what you might not know
+p44
+aVis that for nearly the first hour of the film,
+p45
+aVthe main character, Benjamin Button, who's played by Brad Pitt,
+p46
+aVis completely computer-generated from the neck up.
+p47
+aVNow, there's no use of prosthetic makeup
+p48
+aVor photography of Brad superimposed over another actor's body.
+p49
+aVWe've created a completely digital human head.
+p50
+aa(lp51
+VSo I'd like to start with a little bit of history on the project.
+p52
+aVThis is based on an F. Scott Fitzgerald short story.
+p53
+aVIt's about a man who's born old and lives his life in reverse.
+p54
+aVNow, this movie has floated around Hollywood
+p55
+aVfor well over half a century,
+p56
+aVand we first got involved with the project in the early '90s,
+p57
+aVwith Ron Howard as the director.
+p58
+aVWe took a lot of meetings and we seriously considered it.
+p59
+aVBut at the time we had to throw in the towel.
+p60
+aVIt was deemed impossible.
+p61
+aVIt was beyond the technology of the day to depict a man aging backwards.
+p62
+aVThe human form, in particular the human head,
+p63
+aVhas been considered the Holy Grail of our industry.
+p64
+aa(lp65
+VThe project came back to us about a decade later,
+p66
+aVand this time with a director named David Fincher.
+p67
+aVNow, Fincher is an interesting guy.
+p68
+aVDavid is fearless of technology,
+p69
+aVand he is absolutely tenacious.
+p70
+aVAnd David won't take "no."
+p71
+aVAnd David believed, like we do in the visual effects industry,
+p72
+aVthat anything is possible
+p73
+aVas long as you have enough time, resources and, of course, money.
+p74
+aVAnd so David had an interesting take on the film,
+p75
+aVand he threw a challenge at us.
+p76
+aVHe wanted the main character of the film to be played
+p77
+aVfrom the cradle to the grave by one actor.
+p78
+aVIt happened to be this guy.
+p79
+aa(lp80
+VWe went through a process of elimination and a process of discovery
+p81
+aVwith David, and we ruled out, of course, swapping actors.
+p82
+aVThat was one idea: that we would have different actors,
+p83
+aVand we would hand off from actor to actor.
+p84
+aa(lp85
+VWe even ruled out the idea of using makeup.
+p86
+aVWe realized that prosthetic makeup just wouldn't hold up,
+p87
+aVparticularly in close-up.
+p88
+aVAnd makeup is an additive process. You have to build the face up.
+p89
+aVAnd David wanted to carve deeply into Brad's face
+p90
+aVto bring the aging to this character.
+p91
+aVHe needed to be a very sympathetic character.
+p92
+aVSo we decided to cast a series of little people
+p93
+aVthat would play the different bodies of Benjamin
+p94
+aVat the different increments of his life
+p95
+aVand that we would in fact create a computer-generated version of Brad's head,
+p96
+aVaged to appear as Benjamin,
+p97
+aVand attach that to the body of the real actor.
+p98
+aVSounded great.
+p99
+aa(lp100
+VOf course, this was the Holy Grail of our industry,
+p101
+aVand the fact that this guy is a global icon didn't help either,
+p102
+aVbecause I'm sure if any of you ever stand in line at the grocery store,
+p103
+aVyou know \u2014 we see his face constantly.
+p104
+aVSo there really was no tolerable margin of error.
+p105
+aVThere were two studios involved: Warner Brothers and Paramount.
+p106
+aVAnd they both believed this would make an amazing film, of course,
+p107
+aVbut it was a very high-risk proposition.
+p108
+aVThere was lots of money and reputations at stake.
+p109
+aVBut we believed that we had a very solid methodology
+p110
+aVthat might work ...
+p111
+aa(lp112
+VBut despite our verbal assurances,
+p113
+aVthey wanted some proof.
+p114
+aVAnd so, in 2004, they commissioned us to do a screen test of Benjamin.
+p115
+aVAnd we did it in about five weeks.
+p116
+aVBut we used lots of cheats and shortcuts.
+p117
+aVWe basically put something together to get through the meeting.
+p118
+aVI'll roll that for you now. This was the first test for Benjamin Button.
+p119
+aVAnd in here, you can see, that's a computer-generated head \u2014
+p120
+aVpretty good \u2014 attached to the body of an actor.
+p121
+aVAnd it worked. And it gave the studio great relief.
+p122
+aVAfter many years of starts and stops on this project,
+p123
+aVand making that tough decision,
+p124
+aVthey finally decided to greenlight the movie.
+p125
+aVAnd I can remember, actually, when I got the phone call to congratulate us,
+p126
+aVto say the movie was a go,
+p127
+aVI actually threw up.
+p128
+aV(Laughter)
+p129
+aVYou know, this is some tough stuff.
+p130
+aa(lp131
+VSo we started to have early team meetings,
+p132
+aVand we got everybody together,
+p133
+aVand it was really more like therapy in the beginning,
+p134
+aVconvincing each other and reassuring each other that we could actually undertake this.
+p135
+aVWe had to hold up an hour of a movie with a character.
+p136
+aVAnd it's not a special effects film; it has to be a man.
+p137
+aVWe really felt like we were in a \u2014 kind of a 12-step program.
+p138
+aVAnd of course, the first step is: admit you've got a problem. (Laughter)
+p139
+aVSo we had a big problem:
+p140
+aVwe didn't know how we were going to do this.
+p141
+aVBut we did know one thing.
+p142
+aVBeing from the visual effects industry,
+p143
+aVwe, with David, believed that we now had enough time,
+p144
+aVenough resources, and, God, we hoped we had enough money.
+p145
+aVAnd we had enough passion to will the processes and technology into existence.
+p146
+aa(lp147
+VSo, when you're faced with something like that,
+p148
+aVof course you've got to break it down.
+p149
+aVYou take the big problem and you break it down into smaller pieces
+p150
+aVand you start to attack that.
+p151
+aVSo we had three main areas that we had to focus on.
+p152
+aVWe needed to make Brad look a lot older \u2014
+p153
+aVneeded to age him 45 years or so.
+p154
+aVAnd we also needed to make sure that we could take Brad's idiosyncrasies,
+p155
+aVhis little tics, the little subtleties that make him who he is
+p156
+aVand have that translate through our process
+p157
+aVso that it appears in Benjamin on the screen.
+p158
+aa(lp159
+VAnd we also needed to create a character
+p160
+aVthat could hold up under, really, all conditions.
+p161
+aVHe needed to be able to walk in broad daylight,
+p162
+aVat nighttime, under candlelight,
+p163
+aVhe had to hold an extreme close-up,
+p164
+aVhe had to deliver dialogue,
+p165
+aVhe had to be able to run, he had to be able to sweat,
+p166
+aVhe had to be able to take a bath, to cry,
+p167
+aVhe even had to throw up.
+p168
+aVNot all at the same time \u2014
+p169
+aVbut he had to, you know, do all of those things.
+p170
+aa(lp171
+VAnd the work had to hold up for almost the first hour of the movie.
+p172
+aVWe did about 325 shots.
+p173
+aVSo we needed a system that would allow Benjamin
+p174
+aVto do everything a human being can do.
+p175
+aVAnd we realized that there was a giant chasm
+p176
+aVbetween the state of the art of technology in 2004
+p177
+aVand where we needed it to be.
+p178
+aa(lp179
+VSo we focused on motion capture.
+p180
+aVI'm sure many of you have seen motion capture.
+p181
+aVThe state of the art at the time
+p182
+aVwas something called marker-based motion capture.
+p183
+aVI'll give you an example here.
+p184
+aVIt's basically the idea of, you wear a leotard,
+p185
+aVand they put some reflective markers on your body,
+p186
+aVand instead of using cameras,
+p187
+aVthere're infrared sensors around a volume,
+p188
+aVand those infrared sensors track the three-dimensional position
+p189
+aVof those markers in real time.
+p190
+aVAnd then animators can take the data of the motion of those markers
+p191
+aVand apply them to a computer-generated character.
+p192
+aVYou can see the computer characters on the right
+p193
+aVare having the same complex motion as the dancers.
+p194
+aa(lp195
+VBut we also looked at numbers of other films at the time
+p196
+aVthat were using facial marker tracking,
+p197
+aVand that's the idea of putting markers on the human face
+p198
+aVand doing the same process.
+p199
+aVAnd as you can see, it gives you a pretty crappy performance.
+p200
+aVThat's not terribly compelling.
+p201
+aVAnd what we realized
+p202
+aVwas that what we needed
+p203
+aVwas the information that was going on between the markers.
+p204
+aVWe needed the subtleties of the skin.
+p205
+aVWe needed to see skin moving over muscle moving over bone.
+p206
+aVWe needed creases and dimples and wrinkles and all of those things.
+p207
+aa(lp208
+VOur first revelation was to completely abort and walk away from
+p209
+aVthe technology of the day, the status quo, the state of the art.
+p210
+aVSo we aborted using motion capture.
+p211
+aVAnd we were now well out of our comfort zone,
+p212
+aVand in uncharted territory.
+p213
+aVSo we were left with this idea
+p214
+aVthat we ended up calling "technology stew."
+p215
+aVWe started to look out in other fields.
+p216
+aVThe idea was that we were going to find
+p217
+aVnuggets or gems of technology
+p218
+aVthat come from other industries like medical imaging,
+p219
+aVthe video game space,
+p220
+aVand re-appropriate them.
+p221
+aVAnd we had to create kind of a sauce.
+p222
+aVAnd the sauce was code in software
+p223
+aVthat we'd written to allow these disparate pieces of technology
+p224
+aVto come together and work as one.
+p225
+aa(lp226
+VInitially, we came across some remarkable research
+p227
+aVdone by a gentleman named Dr. Paul Ekman in the early '70s.
+p228
+aVHe believed that he could, in fact,
+p229
+aVcatalog the human face.
+p230
+aVAnd he came up with this idea of Facial Action Coding System, or FACS.
+p231
+aVHe believed that there were 70 basic poses
+p232
+aVor shapes of the human face,
+p233
+aVand that those basic poses or shapes of the face
+p234
+aVcan be combined to create infinite possibilities
+p235
+aVof everything the human face is capable of doing.
+p236
+aVAnd of course, these transcend age, race, culture, gender.
+p237
+aVSo this became the foundation of our research as we went forward.
+p238
+aa(lp239
+VAnd then we came across some remarkable technology
+p240
+aVcalled Contour.
+p241
+aVAnd here you can see a subject having phosphorus makeup
+p242
+aVstippled on her face.
+p243
+aVAnd now what we're looking at is really creating a surface capture
+p244
+aVas opposed to a marker capture.
+p245
+aVThe subject stands in front of a computer array of cameras,
+p246
+aVand those cameras can, frame-by-frame,
+p247
+aVreconstruct the geometry of exactly what the subject's doing at the moment.
+p248
+aVSo, effectively, you get 3D data in real time of the subject.
+p249
+aVAnd if you look in a comparison,
+p250
+aVon the left, we see what volumetric data gives us
+p251
+aVand on the right you see what markers give us.
+p252
+aVSo, clearly, we were in a substantially better place for this.
+p253
+aVBut these were the early days of this technology,
+p254
+aVand it wasn't really proven yet.
+p255
+aVWe measure complexity and fidelity of data
+p256
+aVin terms of polygonal count.
+p257
+aVAnd so, on the left, we were seeing 100,000 polygons.
+p258
+aVWe could go up into the millions of polygons.
+p259
+aVIt seemed to be infinite.
+p260
+aa(lp261
+VThis was when we had our "Aha!"
+p262
+aVThis was the breakthrough.
+p263
+aVThis is when we're like, "OK, we're going to be OK,
+p264
+aVThis is actually going to work."
+p265
+aVAnd the "Aha!" was, what if we could take Brad Pitt,
+p266
+aVand we could put Brad in this device,
+p267
+aVand use this Contour process,
+p268
+aVand we could stipple on this phosphorescent makeup
+p269
+aVand put him under the black lights,
+p270
+aVand we could, in fact, scan him in real time
+p271
+aVperforming Ekman's FACS poses.
+p272
+aVRight? So, effectively,
+p273
+aVwe ended up with a 3D database
+p274
+aVof everything Brad Pitt's face is capable of doing.
+p275
+aV(Laughter)
+p276
+aa(lp277
+VFrom there, we actually carved up those faces
+p278
+aVinto smaller pieces and components of his face.
+p279
+aVSo we ended up with literally thousands and thousands and thousands of shapes,
+p280
+aVa complete database of all possibilities
+p281
+aVthat his face is capable of doing.
+p282
+aa(lp283
+VNow, that's great, except we had him at age 44.
+p284
+aVWe need to put another 40 years on him at this point.
+p285
+aVWe brought in Rick Baker,
+p286
+aVand Rick is one of the great makeup and special effects gurus
+p287
+aVof our industry.
+p288
+aVAnd we also brought in a gentleman named Kazu Tsuji,
+p289
+aVand Kazu Tsuji is one of the great photorealist sculptors of our time.
+p290
+aVAnd we commissioned them to make a maquette,
+p291
+aVor a bust, of Benjamin.
+p292
+aVSo, in the spirit of "The Great Unveiling" \u2014 I had to do this \u2014
+p293
+aVI had to unveil something.
+p294
+aVSo this is Ben 80.
+p295
+aVWe created three of these:
+p296
+aVthere's Ben 80, there's Ben 70, there's Ben 60.
+p297
+aVAnd this really became the template for moving forward.
+p298
+aa(lp299
+VNow, this was made from a life cast of Brad.
+p300
+aVSo, in fact, anatomically, it is correct.
+p301
+aVThe eyes, the jaw, the teeth:
+p302
+aVeverything is in perfect alignment with what the real guy has.
+p303
+aVWe have these maquettes scanned into the computer
+p304
+aVat very high resolution \u2014
+p305
+aVenormous polygonal count.
+p306
+aVAnd so now we had three age increments of Benjamin
+p307
+aVin the computer.
+p308
+aa(lp309
+VBut we needed to get a database of him doing more than that.
+p310
+aVWe went through this process, then, called retargeting.
+p311
+aVThis is Brad doing one of the Ekman FACS poses.
+p312
+aVAnd here's the resulting data that comes from that,
+p313
+aVthe model that comes from that.
+p314
+aVRetargeting is the process of transposing that data
+p315
+aVonto another model.
+p316
+aVAnd because the life cast, or the bust \u2014 the maquette \u2014 of Benjamin
+p317
+aVwas made from Brad,
+p318
+aVwe could transpose the data of Brad at 44
+p319
+aVonto Brad at 87.
+p320
+aVSo now, we had a 3D database of everything Brad Pitt's face can do
+p321
+aVat age 87, in his 70s and in his 60s.
+p322
+aa(lp323
+VNext we had to go into the shooting process.
+p324
+aVSo while all that's going on,
+p325
+aVwe're down in New Orleans and locations around the world.
+p326
+aVAnd we shot our body actors,
+p327
+aVand we shot them wearing blue hoods.
+p328
+aVSo these are the gentleman who played Benjamin.
+p329
+aVAnd the blue hoods helped us with two things:
+p330
+aVone, we could easily erase their heads;
+p331
+aVand we also put tracking markers on their heads
+p332
+aVso we could recreate the camera motion
+p333
+aVand the lens optics from the set.
+p334
+aa(lp335
+VBut now we needed to get Brad's performance to drive our virtual Benjamin.
+p336
+aVAnd so we edited the footage that was shot on location
+p337
+aVwith the rest of the cast and the body actors
+p338
+aVand about six months later
+p339
+aVwe brought Brad onto a sound stage in Los Angeles
+p340
+aVand he watched on the screen.
+p341
+aVHis job, then, was to become Benjamin.
+p342
+aVAnd so we looped the scenes.
+p343
+aVHe watched again and again.
+p344
+aVWe encouraged him to improvise.
+p345
+aVAnd he took Benjamin into interesting and unusual places
+p346
+aVthat we didn't think he was going to go.
+p347
+aVWe shot him with four HD cameras
+p348
+aVso we'd get multiple views of him
+p349
+aVand then David would choose the take of Brad being Benjamin
+p350
+aVthat he thought best matched the footage
+p351
+aVwith the rest of the cast.
+p352
+aa(lp353
+VFrom there we went into a process called image analysis.
+p354
+aVAnd so here, you can see again, the chosen take.
+p355
+aVAnd you are seeing, now, that data being transposed on to Ben 87.
+p356
+aVAnd so, what's interesting about this is
+p357
+aVwe used something called image analysis,
+p358
+aVwhich is taking timings from different components of Benjamin's face.
+p359
+aVAnd so we could choose, say, his left eyebrow.
+p360
+aVAnd the software would tell us that, well,
+p361
+aVin frame 14 the left eyebrow begins to move from here to here,
+p362
+aVand it concludes moving in frame 32.
+p363
+aVAnd so we could choose numbers of positions on the face
+p364
+aVto pull that data from.
+p365
+aa(lp366
+VAnd then, the sauce I talked about with our technology stew \u2014
+p367
+aVthat secret sauce was, effectively, software that allowed us to
+p368
+aVmatch the performance footage of Brad
+p369
+aVin live action with our database of aged Benjamin,
+p370
+aVthe FACS shapes that we had.
+p371
+aVOn a frame-by-frame basis,
+p372
+aVwe could actually reconstruct a 3D head
+p373
+aVthat exactly matched the performance of Brad.
+p374
+aa(lp375
+VSo this was how the finished shot appeared in the film.
+p376
+aVAnd here you can see the body actor.
+p377
+aVAnd then this is what we called the "dead head," no reference to Jerry Garcia.
+p378
+aa(lp379
+VAnd then here's the reconstructed performance
+p380
+aVnow with the timings of the performance.
+p381
+aVAnd then, again, the final shot.
+p382
+aVIt was a long process.
+p383
+aV(Applause)
+p384
+aa(lp385
+VThe next section here, I'm going to just blast through this,
+p386
+aVbecause we could do a whole TEDTalk on the next several slides.
+p387
+aa(lp388
+VWe had to create a lighting system.
+p389
+aVSo really, a big part of our processes was creating a lighting environment
+p390
+aVfor every single location that Benjamin had to appear
+p391
+aVso that we could put Ben's head into any scene
+p392
+aVand it would exactly match the lighting that's on the other actors
+p393
+aVin the real world.
+p394
+aa(lp395
+VWe also had to create an eye system.
+p396
+aVWe found the old adage, you know,
+p397
+aV"The eyes are the window to the soul,"
+p398
+aVabsolutely true.
+p399
+aVSo the key here was to keep everybody looking in Ben's eyes.
+p400
+aVAnd if you could feel the warmth, and feel the humanity,
+p401
+aVand feel his intent coming through the eyes,
+p402
+aVthen we would succeed.
+p403
+aVSo we had one person focused on the eye system
+p404
+aVfor almost two full years.
+p405
+aa(lp406
+VWe also had to create a mouth system.
+p407
+aVWe worked from dental molds of Brad.
+p408
+aVWe had to age the teeth over time.
+p409
+aa(lp410
+VWe also had to create an articulating tongue that allowed him to enunciate his words.
+p411
+aVThere was a whole system written in software to articulate the tongue.
+p412
+aVWe had one person devoted to the tongue for about nine months.
+p413
+aVHe was very popular.
+p414
+aa(lp415
+VSkin displacement: another big deal.
+p416
+aVThe skin had to be absolutely accurate.
+p417
+aVHe's also in an old age home, he's in a nursing home
+p418
+aVaround other old people,
+p419
+aVso he had to look exactly the same as the others.
+p420
+aVSo, lots of work on skin deformation,
+p421
+aVyou can see in some of these cases it works,
+p422
+aVin some cases it looks bad.
+p423
+aVThis is a very, very, very early test in our process.
+p424
+aVSo, effectively we created a digital puppet
+p425
+aVthat Brad Pitt could operate with his own face.
+p426
+aVThere were no animators necessary to come in and interpret behavior
+p427
+aVor enhance his performance.
+p428
+aa(lp429
+VThere was something that we encountered, though,
+p430
+aVthat we ended up calling "the digital Botox effect."
+p431
+aVSo, as things went through this process,
+p432
+aVFincher would always say, "It sandblasts the edges off of the performance."
+p433
+aVAnd thing our process and the technology couldn't do,
+p434
+aVis they couldn't understand intent,
+p435
+aVthe intent of the actor.
+p436
+aVSo it sees a smile as a smile.
+p437
+aVIt doesn't recognize an ironic smile, or a happy smile,
+p438
+aVor a frustrated smile.
+p439
+aVSo it did take humans to kind of push it one way or another.
+p440
+aa(lp441
+VBut we ended up calling the entire process
+p442
+aVand all the technology "emotion capture,"
+p443
+aVas opposed to just motion capture.
+p444
+aVTake another look.
+p445
+aa(lp446
+VBrad Pitt: Well, I heard momma and Tizzy whisper,
+p447
+aVand they said I was gonna die soon,
+p448
+aVbut ... maybe not.
+p449
+aa(lp450
+VEU: That's how to create a digital human in 18 minutes.
+p451
+aV(Applause)
+p452
+aa(lp453
+VA couple of quick factoids;
+p454
+aVit really took 155 people over two years,
+p455
+aVand we didn't even talk about 60 hairstyles and an all-digital haircut.
+p456
+aVBut, that is Benjamin. Thank you.
+p457
+aasS'id'
+p458
+I469
+sS'title'
+p459
+VHow Benjamin Button got his face
+p460
+s.

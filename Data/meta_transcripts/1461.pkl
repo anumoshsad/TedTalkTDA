@@ -1,0 +1,709 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThe great texts of the ancient world
+p4
+aVdon't survive to us in their original form.
+p5
+aVThey survive because medieval scribes copied them
+p6
+aVand copied them and copied them.
+p7
+aVAnd so it is with Archimedes,
+p8
+aVthe great Greek mathematician.
+p9
+aa(lp10
+VEverything we know about Archimedes as a mathematician
+p11
+aVwe know about because of just three books,
+p12
+aVand they're called A, B and C.
+p13
+aVAnd A was lost by an Italian humanist in 1564.
+p14
+aVAnd B was last heard of in the Pope's Library
+p15
+aVabout a hundred miles north of Rome in Viterbo in 1311.
+p16
+aVNow Codex C was only discovered in 1906,
+p17
+aVand it landed on my desk in Baltimore
+p18
+aVon the 19th of January, 1999.
+p19
+aVAnd this is Codex C here.
+p20
+aa(lp21
+VNow Codex C is actually buried in this book.
+p22
+aVIt's buried treasure.
+p23
+aVBecause this book is actually a prayer book.
+p24
+aVIt was finished by a guy called Johannes Myrones
+p25
+aVon the 14th of April, 1229.
+p26
+aVAnd to make his prayer book he used parchment.
+p27
+aVBut he didn't use new parchment,
+p28
+aVhe used parchment recycled from earlier manuscripts,
+p29
+aVand there were seven of them.
+p30
+aVAnd Archimedes Codex C was just one of those seven.
+p31
+aVHe took apart the Archimedes manuscript and the other seven manuscripts.
+p32
+aVHe erased all of their texts,
+p33
+aVand then he cut the sheets down in the middle,
+p34
+aVhe shuffled them up,
+p35
+aVand he rotated them 90 degrees,
+p36
+aVand he wrote prayers on top of these books.
+p37
+aVAnd essentially these seven manuscripts
+p38
+aVdisappeared for 700 years, and we have a prayer book.
+p39
+aa(lp40
+VThe prayer book was discovered by this guy,
+p41
+aVJohan Ludvig Heiberg, in 1906.
+p42
+aVAnd with just a magnifying glass,
+p43
+aVhe transcribed as much of the text as he could.
+p44
+aVAnd the thing is that he found two texts in this manuscript
+p45
+aVthat were unique texts.
+p46
+aVThey weren't in A and B at all;
+p47
+aVthey were completely new texts by Archimedes,
+p48
+aVand they were called "The Method" and "The Stomachion."
+p49
+aVAnd it became a world famous manuscript.
+p50
+aa(lp51
+VNow it should be clear by now
+p52
+aVthat this book is in bad condition.
+p53
+aVIt got in worse condition in the 20th century
+p54
+aVafter Heiberg saw it.
+p55
+aVForgeries were painted over it,
+p56
+aVand it suffered very badly from mold.
+p57
+aVThis book is the definition of a write-off.
+p58
+aVIt's the sort of book
+p59
+aVthat you thought would be in an institution.
+p60
+aVBut it's not in an institution,
+p61
+aVit was bought by a private owner in 1998.
+p62
+aa(lp63
+VWhy did he buy this book?
+p64
+aVBecause he wanted to make that which was fragile safe.
+p65
+aVHe wanted to make that which was unique ubiquitous.
+p66
+aVHe wanted to make that which was expensive free.
+p67
+aVAnd he wanted to do this as a matter of principle.
+p68
+aVBecause not many people are really going to read Archimedes in ancient Greek,
+p69
+aVbut they should have the chance to do it.
+p70
+aa(lp71
+VSo he gathered around himself the friends of Archimedes,
+p72
+aVand he promised to pay for all the work.
+p73
+aVAnd it was an expensive job,
+p74
+aVbut actually it wouldn't be as much as you think
+p75
+aVbecause these people, they didn't come from money,
+p76
+aVthey came from Archimedes.
+p77
+aVAnd they came from all sorts of different backgrounds.
+p78
+aVThey came from particle physics,
+p79
+aVthey came from classical philology,
+p80
+aVthey came from book conservation,
+p81
+aVthey came from ancient mathematics,
+p82
+aVthey came from data management,
+p83
+aVthey came from scientific imaging and program management.
+p84
+aVAnd they got together to work on this manuscript.
+p85
+aa(lp86
+VThe first problem was a conservation problem.
+p87
+aVAnd this is the sort of thing that we had to deal with:
+p88
+aVThere was glue on the spine of the book.
+p89
+aVAnd if you look at this photograph carefully,
+p90
+aVthe bottom half of this is rather brown.
+p91
+aVAnd that glue is hide glue.
+p92
+aVNow if you're a conservator,
+p93
+aVyou can take off this glue reasonably easily.
+p94
+aVThe top half is Elmer's wood glue.
+p95
+aVIt's polyvinyl acetate emulsion
+p96
+aVthat doesn't dissolve in water once it's dry.
+p97
+aVAnd it's much tougher than the parchment that it was written on.
+p98
+aVAnd so before we could start imaging Archimedes,
+p99
+aVwe had to take this book apart.
+p100
+aVSo it took four years to take apart.
+p101
+aVAnd this is a rare action shot, ladies and gentlemen.
+p102
+aa(lp103
+V(Laughter)
+p104
+aa(lp105
+VAnother thing is that we had to get rid of all the wax,
+p106
+aVbecause this was used in the liturgical services
+p107
+aVof the Greek Orthodox Church
+p108
+aVand they'd used candle wax.
+p109
+aVAnd the candle wax was dirty,
+p110
+aVand we couldn't image through the wax.
+p111
+aVSo very carefully we had to mechanically scrape off all the wax.
+p112
+aa(lp113
+VIt's hard to tell you exactly
+p114
+aVhow bad this condition of this book is,
+p115
+aVbut it came out in little bits very often.
+p116
+aVAnd normally in a book, you wouldn't worry about the little bits,
+p117
+aVbut these little bits might contain unique Archimedes text.
+p118
+aVSo, tiny fragments
+p119
+aVwe actually managed to put back in the right place.
+p120
+aa(lp121
+VThen, having done that, we started to image the manuscript.
+p122
+aVAnd we imaged the manuscript
+p123
+aVin 14 different wavebands of light.
+p124
+aVBecause if you look at something in different wavebands of light,
+p125
+aVyou see different things.
+p126
+aVAnd here is an image of a page
+p127
+aVimaged in 14 different wavebands of light.
+p128
+aa(lp129
+VBut none of them worked.
+p130
+aVSo what we did was we processed the images together,
+p131
+aVand we put two images into one blank screen.
+p132
+aVAnd here are two different images of the Archimedes manuscript.
+p133
+aVAnd the image on the left
+p134
+aVis the normal red image.
+p135
+aVAnd the image on the right is an ultraviolet image.
+p136
+aVAnd in the image on the right
+p137
+aVyou might be able to see some of the Archimedes writing.
+p138
+aVIf you merge them together into one digital canvas,
+p139
+aVthe parchment is bright in both images
+p140
+aVand it comes out bright.
+p141
+aVThe prayer book is dark in both images
+p142
+aVand it comes out dark.
+p143
+aVThe Archimedes text is dark in one image and bright in another.
+p144
+aVAnd it'll come out dark but red,
+p145
+aVand then you can start to read it rather clearly.
+p146
+aVAnd that's what it looks like.
+p147
+aa(lp148
+VNow that's a before and after image,
+p149
+aVbut you don't read the image on the screen like that.
+p150
+aVYou zoom in and you zoom in
+p151
+aVand you zoom in and you zoom in,
+p152
+aVand you can just read it now.
+p153
+aa(lp154
+V(Applause)
+p155
+aa(lp156
+VIf you process the same two images in a different way,
+p157
+aVyou can actually get rid of the prayer book text.
+p158
+aVAnd this is terribly important,
+p159
+aVbecause the diagrams in the manuscript
+p160
+aVare the unique source for the diagrams
+p161
+aVthat Archimedes drew in the sand in the fourth century B.C.
+p162
+aVAnd there we are, I can give them to you.
+p163
+aa(lp164
+VWith this kind of imaging \u2014
+p165
+aVthis kind of infrared, ultraviolet, invisible light imaging \u2014
+p166
+aVwe were never going to image through the gold ground forgeries.
+p167
+aVHow were we going to do that?
+p168
+aVWell we took the manuscript,
+p169
+aVand we decided to image it in X-ray fluorescence imaging.
+p170
+aVSo an X-ray comes in in the diagram on the left
+p171
+aVand it knocks out an electron from the inner shell of an atom.
+p172
+aVAnd that electron disappears.
+p173
+aVAnd as it disappears, an electron from a shell farther out
+p174
+aVjumps in and takes its place.
+p175
+aVAnd when it takes its place,
+p176
+aVit sheds electromagnetic radiation.
+p177
+aVIt sheds an X-ray.
+p178
+aVAnd this X-ray is specific in its wavelength
+p179
+aVto the atom that it hits.
+p180
+aa(lp181
+VAnd what we wanted to get
+p182
+aVwas the iron.
+p183
+aVBecause the ink was written in iron.
+p184
+aVAnd if we can map
+p185
+aVwhere this X-ray that comes out, where it comes from,
+p186
+aVwe can map all the iron on the page,
+p187
+aVthen theoretically we can read the image.
+p188
+aa(lp189
+VThe thing is that you need a very powerful light source to do this.
+p190
+aVSo we took it to the Stanford Synchrotron Radiation Laboratory
+p191
+aVin California,
+p192
+aVwhich is a particle accelerator.
+p193
+aVElectrons go around one way,
+p194
+aVpositrons go around the other.
+p195
+aVThey meet in the middle,
+p196
+aVand they create subatomic particles
+p197
+aVlike the charm quark and the tau lepton.
+p198
+aVNow we weren't actually going to put Archimedes in that beam.
+p199
+aVBut as the electrons go round at the speed of light,
+p200
+aVthey shed X-rays.
+p201
+aVAnd this is the most powerful light source in the solar system.
+p202
+aVThis is called synchrotron radiation,
+p203
+aVand it's normally used to look at things
+p204
+aVlike proteins and that sort of thing.
+p205
+aVBut we wanted it to look at atoms, at iron atoms,
+p206
+aVso that we could read the page from before and after.
+p207
+aVAnd lo and behold, we found that we could do it.
+p208
+aVIt took about 17 minutes to do a single page.
+p209
+aa(lp210
+VSo what did we discover?
+p211
+aVWell one of the unique texts in Archimedes
+p212
+aVis called "The Stomachion."
+p213
+aVAnd this didn't exist in Codices A and B.
+p214
+aVAnd we knew that it involved this square.
+p215
+aVAnd this is a perfect square,
+p216
+aVand it's divided into 14 bits.
+p217
+aVBut no one knew what Archimedes was doing with these 14 bits.
+p218
+aVAnd now we think we know.
+p219
+aVHe was trying to work out
+p220
+aVhow many ways you can recombine those 14 bits
+p221
+aVand still make a perfect square.
+p222
+aVAnyone want to guess the answer?
+p223
+aVIt's 17,152 divided into 536 families.
+p224
+aVAnd the important point about this
+p225
+aVis that it's the earliest study in combinatorics in mathematics.
+p226
+aVAnd combinatorics is a wonderful and interesting branch of mathematics.
+p227
+aa(lp228
+VThe really astonishing thing though about this manuscript
+p229
+aVis that we looked at the other manuscripts
+p230
+aVthat the palimpsester had made,
+p231
+aVthe scribe had made his book out of,
+p232
+aVand one of them was a manuscript containing text by Hyperides.
+p233
+aVNow Hyperides was an Athenian orator from the fourth century B.C.
+p234
+aVHe was an exact contemporary of Demosthenes.
+p235
+aVAnd in 338 B.C. he and Demosthenes together
+p236
+aVdecided that they wanted to stand up
+p237
+aVto the military might of Philip of Macedon.
+p238
+aVSo Athens and Thebes went out to fight Philip of Macedon.
+p239
+aVThis was a bad idea,
+p240
+aVbecause Philip of Macedon had a son called Alexander the Great,
+p241
+aVand they lost the battle of Chaeronea.
+p242
+aa(lp243
+VAlexander the Great went on to conquer the known world;
+p244
+aVHyperides found himself on trial for treason.
+p245
+aVAnd this is the speech that he gave when he was on trial \u2014
+p246
+aVand it's a great speech:
+p247
+aV"Best of all," he says, "is to win.
+p248
+aVBut if you can't win,
+p249
+aVthen you should fight for a noble cause,
+p250
+aVbecause then you'll be remembered.
+p251
+aVConsider the Spartans.
+p252
+aVThey won enumerable victories,
+p253
+aVbut no one remembers what they are
+p254
+aVbecause they were all fought for selfish ends.
+p255
+aVThe one battle that the Spartans fought that everybody remembers
+p256
+aVis the the battle of Thermopylae
+p257
+aVwhere they were butchered to a man,
+p258
+aVbut fought for the freedom of Greece."
+p259
+aVIt was such a great speech
+p260
+aVthat the Athenian law courts let him off.
+p261
+aVHe lived for another 10 years,
+p262
+aVthen the Macedonian faction caught up with him.
+p263
+aVThey cut out his tongue in mockery of his oratory,
+p264
+aVand no one knows what they did with his body.
+p265
+aVSo this is the discovery of a lost voice from antiquity,
+p266
+aVspeaking to us, not from the grave,
+p267
+aVbecause his grave doesn't exist,
+p268
+aVbut from the Athenian law courts.
+p269
+aa(lp270
+VNow I should say at this point
+p271
+aVthat normally when you're looking
+p272
+aVat medieval manuscripts that have been scraped off,
+p273
+aVyou don't find unique texts.
+p274
+aVAnd to find two in one manuscript is really something.
+p275
+aVTo find three is completely weird.
+p276
+aVAnd we found three.
+p277
+aa(lp278
+VAristotle's "Categories"
+p279
+aVis one of the foundational texts of Western philosophy.
+p280
+aVAnd we found a third century A.D. commentary on it,
+p281
+aVpossibly by Galen and probably by Porphyry.
+p282
+aa(lp283
+VNow all this data that we collected,
+p284
+aVall the images, all the raw images,
+p285
+aVall the transcriptions that we made and that sort of thing
+p286
+aVhave been put online under a Creative Commons license
+p287
+aVfor anyone to use for any commercial purpose.
+p288
+aa(lp289
+V(Applause)
+p290
+aa(lp291
+VWhy did the owner of the manuscript do this?
+p292
+aVHe did this because he understands data as well as books.
+p293
+aVNow the thing to do with books,
+p294
+aVif you want to ensure their long-term utility,
+p295
+aVis to hide them away in closets
+p296
+aVand let very few people look at them.
+p297
+aVThe thing to do with data, if you want it to survive,
+p298
+aVis to let it out and have everybody have it
+p299
+aVwith as little control on that data as possible.
+p300
+aVAnd that's what he did.
+p301
+aa(lp302
+VAnd institutions can learn from this.
+p303
+aVBecause institutions at the moment
+p304
+aVconfine their data with copyright restrictions and that sort of thing.
+p305
+aVAnd if you want to look at medieval manuscripts on the Web,
+p306
+aVat the moment you have to go to the National Library of Y's site
+p307
+aVor the University Library of X's site,
+p308
+aVwhich is about the most boring way
+p309
+aVin which you can deal with digital data.
+p310
+aVWhat you want to do is to aggregate it all together.
+p311
+aa(lp312
+VBecause the Web of the ancient manuscripts of the future
+p313
+aVisn't going to be built by institutions.
+p314
+aVIt's going to be built by users,
+p315
+aVby people who get this data together,
+p316
+aVby people who want to aggregate all sorts of maps
+p317
+aVfrom wherever they come from,
+p318
+aVall sorts of medieval romances
+p319
+aVfrom wherever they come from,
+p320
+aVpeople who just want to curate their own glorious selection
+p321
+aVof beautiful things.
+p322
+aVAnd that is the future of the Web.
+p323
+aVAnd it's an attractive and beautiful future,
+p324
+aVif only we can make it happen.
+p325
+aa(lp326
+VNow we at the Walters Art Museum have followed this example,
+p327
+aVand we have put up all our manuscripts on the Web
+p328
+aVfor people to enjoy \u2014
+p329
+aVall the raw data, all the descriptions, all the metadata.
+p330
+aVunder a Creative Commons license.
+p331
+aVNow the Walters Art Museum is a small museum
+p332
+aVand it has beautiful manuscripts,
+p333
+aVbut the data is fantastic.
+p334
+aVAnd the result of this
+p335
+aVis that if you do a Google search on images right now
+p336
+aVand you type in "Illuminated manuscript Koran" for example,
+p337
+aV24 of the 28 images you'll find come from my institution.
+p338
+aa(lp339
+V(Applause)
+p340
+aa(lp341
+VNow, let's think about this for a minute.
+p342
+aVWhat's in it for the institution?
+p343
+aVThere are all sorts of things that are in it for the institution.
+p344
+aVYou can talk about the Humanities and that sort of thing,
+p345
+aVbut let's talk about selfish things.
+p346
+aVBecause what's really in it for the institution is this:
+p347
+aVNow why do people go to the Louvre?
+p348
+aVThey go to see the Mona Lisa.
+p349
+aVWhy do they go to see the Mona Lisa?
+p350
+aVBecause they already know what she looks like.
+p351
+aVAnd they know what she looks like
+p352
+aVbecause they've seen pictures of her absolutely everywhere.
+p353
+aa(lp354
+VNow, there is no need
+p355
+aVfor these restrictions at all.
+p356
+aVAnd I think that institutions should stand up
+p357
+aVand release all their data under unrestricted licenses,
+p358
+aVand it would be a great benefit to everybody.
+p359
+aVWhy don't we just let everybody have access to this data
+p360
+aVand curate their own collection
+p361
+aVof ancient knowledge and wonderful and beautiful things
+p362
+aVand increase the beauty and the cultural significance
+p363
+aVof the Internet.
+p364
+aa(lp365
+VThank you very much indeed.
+p366
+aa(lp367
+V(Applause)
+p368
+aasS'id'
+p369
+I1461
+sS'title'
+p370
+VRevealing the lost codex of Archimedes
+p371
+s.

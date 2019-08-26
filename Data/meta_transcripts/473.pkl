@@ -1,0 +1,368 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VFour years ago, on the TED stage,
+p4
+aVI announced a company I was working with at the time
+p5
+aVcalled Odeo.
+p6
+aVAnd because of that announcement,
+p7
+aVwe got a big article in The New York Times,
+p8
+aVwhich led to more press, which led to more attention,
+p9
+aVand me deciding to become CEO of that company \u2014
+p10
+aVwhereas I was just an adviser \u2014
+p11
+aVand raising a round of venture capital
+p12
+aVand ramping up hiring.
+p13
+aa(lp14
+VOne of the guys I hired was an engineer named Jack Dorsey,
+p15
+aVand a year later, when we were trying to decide which way to go with Odeo,
+p16
+aVJack presented an idea he'd been tinkering around with for a number of years
+p17
+aVthat was based around sending simple status updates to friends.
+p18
+aVWe were also playing with SMS at the time at Odeo,
+p19
+aVso we kind of put two and two together,
+p20
+aVand in early 2006 we launched Twitter as a side project at Odeo.
+p21
+aa(lp22
+VNow, it's hard to justify doing a side project
+p23
+aVat a startup, where focus is so critical,
+p24
+aVbut I had actually launched Blogger as a side project
+p25
+aVto my previous company,
+p26
+aVthinking it was just a little thing we'd do on the side,
+p27
+aVand it ended up taking over not only the company,
+p28
+aVbut my life for the next five or six years.
+p29
+aVSo I learned to follow hunches
+p30
+aVeven though you can't necessarily justify them
+p31
+aVor know where they're going to go.
+p32
+aVAnd that's kind of what's happened with Twitter, time after time.
+p33
+aa(lp34
+VSo, for those of you unfamiliar,
+p35
+aVTwitter is based around a very simple, seemingly trivial concept.
+p36
+aVYou say what you're doing in 140 characters or less,
+p37
+aVand people who are interested in you get those updates.
+p38
+aVIf they're really interested,
+p39
+aVthey get the update as a text message on their cell phone.
+p40
+aVSo, for instance, I may Twitter right now
+p41
+aVthat I'm giving a talk at TED.
+p42
+aVAnd in my case, when I hit send,
+p43
+aVup to 60,000 people will receive that message in a matter of seconds.
+p44
+aVNow, the fundamental idea is that Twitter
+p45
+aVlets people share moments of their lives
+p46
+aVwhenever they want,
+p47
+aVbe they momentous occasions
+p48
+aVor mundane ones.
+p49
+aVIt is by sharing these moments as they're happening
+p50
+aVthat lets people feel more connected and in touch,
+p51
+aVdespite distance, and in real time.
+p52
+aVThis is the primary use we saw of Twitter from the beginning,
+p53
+aVand what got us excited.
+p54
+aa(lp55
+VWhat we didn't anticipate was the many, many other uses
+p56
+aVthat would evolve from this very simple system.
+p57
+aVOne of the things we realized
+p58
+aVwas how important Twitter could be during real-time events.
+p59
+aVWhen the wildfires broke out in San Diego,
+p60
+aVin October of 2007,
+p61
+aVpeople turned to Twitter to report what was happening
+p62
+aVand to find information from neighbors
+p63
+aVabout what was happening around them.
+p64
+aa(lp65
+VBut it wasn't just individuals.
+p66
+aVThe L.A. Times actually turned to Twitter to dispense information as well,
+p67
+aVand put a Twitter feed on the front page,
+p68
+aVand the L.A. Fire Department and Red Cross
+p69
+aVused it to dispense news and updates as well.
+p70
+aVAt this event, dozens of people here are Twittering
+p71
+aVand thousands of people around the world are following along
+p72
+aVbecause they want to know what it feels like to be here
+p73
+aVand what's happening.
+p74
+aa(lp75
+VAmong the other interesting things that have cropped up
+p76
+aa(lp77
+Vare many things from businesses,
+p78
+aa(lp79
+Vfrom marketing and communications and predictable things,
+p80
+aVto an insanely popular Korean-barbecue taco truck
+p81
+aVthat drives around L.A. and Twitters where it stops,
+p82
+aVcausing a line to form around the block.
+p83
+aa(lp84
+VPoliticians have recently begun Twittering.
+p85
+aVIn fact, there are 47 members of Congress
+p86
+aVwho currently have Twitter accounts.
+p87
+aVAnd they're tweeting, in some cases,
+p88
+aVfrom behind closed-door sessions with the President.
+p89
+aVIn this case, this guy's not liking what he's hearing.
+p90
+aVThe President himself is our most popular Twitter user,
+p91
+aValthough his tweets have dropped off as of late,
+p92
+aVwhile Senator McCain's have picked up.
+p93
+aVAs have this guy's.
+p94
+aa(lp95
+VTwitter was originally designed as a broadcast medium:
+p96
+aVyou send one message and it goes out to everybody,
+p97
+aVand you receive the messages you're interested in.
+p98
+aVOne of the many ways that users shaped the evolution of Twitter
+p99
+aVwas by inventing a way to reply to a specific person
+p100
+aVor a specific message.
+p101
+aVSo, this syntax, the "@username" that Shaquille O'Neal's using here
+p102
+aVto reply to one of his fans,
+p103
+aVwas completely invented by users,
+p104
+aVand we didn't build it into the system until it already became popular
+p105
+aVand then we made it easier.
+p106
+aVThis is one of the many ways that users have shaped the system.
+p107
+aa(lp108
+VAnother is via the API.
+p109
+aVWe built an application-programming interface,
+p110
+aVwhich basically means that programmers can write software that interacts with Twitter.
+p111
+aVWe currently know about over 2,000 pieces of software
+p112
+aVthat can send Twitter updates \u2014
+p113
+aVinterfaces for Mac, Windows, your iPhone, your BlackBerry \u2014
+p114
+aVas well as things like
+p115
+aVa device that lets an unborn baby Twitter when it kicks
+p116
+aVor a plant Twitter when it needs water.
+p117
+aa(lp118
+VProbably the most important third-party development
+p119
+aVcame from a little company in Virginia called Summize.
+p120
+aVSummize built a Twitter search engine.
+p121
+aVAnd they tapped into the fact
+p122
+aVthat, if you have millions of people around the world
+p123
+aVtalking about what they're doing and what's around them,
+p124
+aVyou have an incredible resource to find out about any topic or event
+p125
+aVwhile it's going on.
+p126
+aVThis really changed how we perceived Twitter.
+p127
+aVFor instance, here's what people are saying about TED.
+p128
+aVThis is another way that our mind was shifted,
+p129
+aVand Twitter wasn't what we thought it was.
+p130
+aVWe liked this so much we actually bought the company
+p131
+aVand are folding it into the main product.
+p132
+aVThis not only lets you view Twitters in different ways,
+p133
+aVbut it introduces new use cases as well.
+p134
+aVOne of my favorites is what happened a few months ago
+p135
+aVwhen there was a gas shortage in Atlanta.
+p136
+aVSome users figured out
+p137
+aVthat they would Twitter when they found gas \u2014
+p138
+aVwhere it was, and how much it cost \u2014
+p139
+aVand then appended the keyword "#atlgas"
+p140
+aVwhich let other people search for that and find gas themselves.
+p141
+aa(lp142
+VAnd this trend of people using this communication network
+p143
+aVto help each other out
+p144
+aVgoes far beyond the original idea of just keeping up with family and friends.
+p145
+aVIt's happened more and more lately,
+p146
+aVwhether it's raising money for homeless people
+p147
+aVor to dig wells in Africa
+p148
+aVor for a family in crisis.
+p149
+aVPeople have raised tens of thousands of dollars over Twitter
+p150
+aVin a matter of days on several occasions.
+p151
+aVIt seems like when you give people easier ways to share information,
+p152
+aVmore good things happen.
+p153
+aa(lp154
+VI have no idea what will happen next with Twitter.
+p155
+aVI've learned to follow the hunch,
+p156
+aVbut never assume where it will go.
+p157
+aVThanks.
+p158
+aa(lp159
+V(Applause)
+p160
+aa(lp161
+VChris Anderson: We're not quite done yet.
+p162
+aVSo, look, if we could have this screen live.
+p163
+aVThis is actually the most terrifying thing that any speaker can do
+p164
+aVafter they've been to an event.
+p165
+aVIt's totally intimidating.
+p166
+aa(lp167
+VSo, this would be the Twitter search screen.
+p168
+aVSo we're going to just type a couple of random words into Twitter.
+p169
+aVFor example: "Evan Williams."
+p170
+aV"Evan Williams, give people more good ways to share information and follow your hunch at TED."
+p171
+aV"Currently listening to Evan Williams." "Currently listening to Evan Williams." "Evan Williams \u2014"
+p172
+aVOh.
+p173
+aV"Evan Williams is just dying on stage here at TED.
+p174
+aVWorst talk ever!" (Laughter)
+p175
+aa(lp176
+VEvan Williams: Nice. Thanks.
+p177
+aa(lp178
+VCA: Just kidding.
+p179
+aa(lp180
+VBut, literally in the eight minutes he was talking,
+p181
+aVthere are about fifty tweets that already came on the talk.
+p182
+aVSo he'll see every aspect of the reaction:
+p183
+aVthe fact that Barack Obama is the biggest Twitterer,
+p184
+aVthe fact that it came out of TED.
+p185
+aVI don't think there's any other way of getting instant feedback that way.
+p186
+aa(lp187
+VYou have build something very fascinating,
+p188
+aVand it looks like its best times are still ahead of it.
+p189
+aVSo, thank you very much, Evan. EW: Thank you.
+p190
+aVCA: That was very interesting.
+p191
+aasS'id'
+p192
+I473
+sS'title'
+p193
+VThe voices of Twitter users
+p194
+s.

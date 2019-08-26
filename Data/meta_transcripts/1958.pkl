@@ -1,0 +1,433 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VMy job at Twitter
+p4
+aVis to ensure user trust,
+p5
+aVprotect user rights and keep users safe,
+p6
+aVboth from each other
+p7
+aVand, at times, from themselves.
+p8
+aVLet's talk about what scale looks like at Twitter.
+p9
+aVBack in January 2009,
+p10
+aVwe saw more than two million new tweets each day
+p11
+aVon the platform.
+p12
+aVJanuary 2014, more than 500 million.
+p13
+aVWe were seeing two million tweets
+p14
+aVin less than six minutes.
+p15
+aVThat's a 24,900-percent increase.
+p16
+aa(lp17
+VNow, the vast majority of activity on Twitter
+p18
+aVputs no one in harm's way.
+p19
+aVThere's no risk involved.
+p20
+aVMy job is to root out and prevent activity that might.
+p21
+aVSounds straightforward, right?
+p22
+aVYou might even think it'd be easy,
+p23
+aVgiven that I just said the vast majority
+p24
+aVof activity on Twitter puts no one in harm's way.
+p25
+aVWhy spend so much time
+p26
+aVsearching for potential calamities
+p27
+aVin innocuous activities?
+p28
+aVGiven the scale that Twitter is at,
+p29
+aVa one-in-a-million chance happens
+p30
+aV500 times a day.
+p31
+aVIt's the same for other companies
+p32
+aVdealing at this sort of scale.
+p33
+aVFor us, edge cases,
+p34
+aVthose rare situations that are unlikely to occur,
+p35
+aVare more like norms.
+p36
+aVSay 99.999 percent of tweets
+p37
+aVpose no risk to anyone.
+p38
+aVThere's no threat involved.
+p39
+aVMaybe people are documenting travel landmarks
+p40
+aVlike Australia's Heart Reef,
+p41
+aVor tweeting about a concert they're attending,
+p42
+aVor sharing pictures of cute baby animals.
+p43
+aVAfter you take out that 99.999 percent,
+p44
+aVthat tiny percentage of tweets remaining
+p45
+aVworks out to roughly
+p46
+aV150,000 per month.
+p47
+aVThe sheer scale of what we're dealing with
+p48
+aVmakes for a challenge.
+p49
+aa(lp50
+VYou know what else makes my role
+p51
+aVparticularly challenging?
+p52
+aVPeople do weird things.
+p53
+aV(Laughter)
+p54
+aVAnd I have to figure out what they're doing,
+p55
+aVwhy, and whether or not there's risk involved,
+p56
+aVoften without much in terms of context
+p57
+aVor background.
+p58
+aVI'm going to show you some examples
+p59
+aVthat I've run into during my time at Twitter \u2014
+p60
+aVthese are all real examples \u2014
+p61
+aVof situations that at first seemed cut and dried,
+p62
+aVbut the truth of the matter was something
+p63
+aValtogether different.
+p64
+aVThe details have been changed
+p65
+aVto protect the innocent
+p66
+aVand sometimes the guilty.
+p67
+aVWe'll start off easy.
+p68
+aa(lp69
+V["Yo bitch"]
+p70
+aa(lp71
+VIf you saw a Tweet that only said this,
+p72
+aVyou might think to yourself,
+p73
+aV"That looks like abuse."
+p74
+aVAfter all, why would you want to receive the message,
+p75
+aV"Yo, bitch."
+p76
+aVNow, I try to stay relatively hip
+p77
+aVto the latest trends and memes,
+p78
+aVso I knew that "yo, bitch"
+p79
+aVwas also often a common greeting between friends,
+p80
+aVas well as being a popular "Breaking Bad" reference.
+p81
+aVI will admit that I did not expect
+p82
+aVto encounter a fourth use case.
+p83
+aVIt turns out it is also used on Twitter
+p84
+aVwhen people are role-playing as dogs.
+p85
+aV(Laughter)
+p86
+aVAnd in fact, in that case,
+p87
+aVit's not only not abusive,
+p88
+aVit's technically just an accurate greeting.
+p89
+aV(Laughter)
+p90
+aa(lp91
+VSo okay, determining whether or not
+p92
+aVsomething is abusive without context,
+p93
+aVdefinitely hard.
+p94
+aa(lp95
+VLet's look at spam.
+p96
+aVHere's an example of an account engaged
+p97
+aVin classic spammer behavior,
+p98
+aVsending the exact same message
+p99
+aVto thousands of people.
+p100
+aVWhile this is a mockup I put together using my account,
+p101
+aVwe see accounts doing this all the time.
+p102
+aVSeems pretty straightforward.
+p103
+aVWe should just automatically suspend accounts
+p104
+aVengaging in this kind of behavior.
+p105
+aVTurns out there's some exceptions to that rule.
+p106
+aVTurns out that that message could also be a notification
+p107
+aVyou signed up for that the International Space Station is passing overhead
+p108
+aVbecause you wanted to go outside
+p109
+aVand see if you could see it.
+p110
+aVYou're not going to get that chance
+p111
+aVif we mistakenly suspend the account
+p112
+aVthinking it's spam.
+p113
+aa(lp114
+VOkay. Let's make the stakes higher.
+p115
+aVBack to my account,
+p116
+aVagain exhibiting classic behavior.
+p117
+aVThis time it's sending the same message and link.
+p118
+aVThis is often indicative of  something called phishing,
+p119
+aVsomebody trying to steal another person's account information
+p120
+aVby directing them to another website.
+p121
+aVThat's pretty clearly not a good thing.
+p122
+aVWe want to, and do, suspend accounts
+p123
+aVengaging in that kind of behavior.
+p124
+aVSo why are the stakes higher for this?
+p125
+aVWell, this could also be a bystander at a rally
+p126
+aVwho managed to record a video
+p127
+aVof a police officer beating a non-violent protester
+p128
+aVwho's trying to let the world know what's happening.
+p129
+aVWe don't want to gamble
+p130
+aVon potentially silencing that crucial speech
+p131
+aVby classifying it as spam and suspending it.
+p132
+aVThat means we evaluate hundreds of parameters
+p133
+aVwhen looking at account behaviors,
+p134
+aVand even then, we can still get it wrong
+p135
+aVand have to reevaluate.
+p136
+aa(lp137
+VNow, given the sorts of challenges I'm up against,
+p138
+aVit's crucial that I not only predict
+p139
+aVbut also design protections for the unexpected.
+p140
+aVAnd that's not just an issue for me,
+p141
+aVor for Twitter, it's an issue for you.
+p142
+aVIt's an issue for anybody who's building or creating
+p143
+aVsomething that you think is going to be amazing
+p144
+aVand will let people do awesome things.
+p145
+aVSo what do I do?
+p146
+aVI pause and I think,
+p147
+aVhow could all of this
+p148
+aVgo horribly wrong?
+p149
+aVI visualize catastrophe.
+p150
+aVAnd that's hard. There's a sort of
+p151
+aVinherent cognitive dissonance in doing that,
+p152
+aVlike when you're writing your wedding vows
+p153
+aVat the same time as your prenuptial agreement.
+p154
+aV(Laughter)
+p155
+aVBut you still have to do it,
+p156
+aVparticularly if you're marrying  500 million tweets per day.
+p157
+aVWhat do I mean by "visualize catastrophe?"
+p158
+aVI try to think of how something as
+p159
+aVbenign and innocuous as a picture of a cat
+p160
+aVcould lead to death,
+p161
+aVand what to do to prevent that.
+p162
+aVWhich happens to be my next example.
+p163
+aVThis is my cat, Eli.
+p164
+aVWe wanted to give users the ability
+p165
+aVto add photos to their tweets.
+p166
+aVA picture is worth a thousand words.
+p167
+aVYou only get 140 characters.
+p168
+aVYou add a photo to your tweet,
+p169
+aVlook at how much more content you've got now.
+p170
+aVThere's all sorts of great things you can do
+p171
+aVby adding a photo to a tweet.
+p172
+aVMy job isn't to think of those.
+p173
+aVIt's to think of what could go wrong.
+p174
+aa(lp175
+VHow could this picture
+p176
+aVlead to my death?
+p177
+aVWell, here's one possibility.
+p178
+aVThere's more in that picture than just a cat.
+p179
+aVThere's geodata.
+p180
+aVWhen you take a picture with your smartphone
+p181
+aVor digital camera,
+p182
+aVthere's a lot of additional information
+p183
+aVsaved along in that image.
+p184
+aVIn fact, this image also contains
+p185
+aVthe equivalent of this,
+p186
+aVmore specifically, this.
+p187
+aVSure, it's not likely that someone's going to try
+p188
+aVto track me down and do me harm
+p189
+aVbased upon image data associated
+p190
+aVwith a picture I took of my cat,
+p191
+aVbut I start by assuming the worst will happen.
+p192
+aVThat's why, when we launched photos on Twitter,
+p193
+aVwe made the decision to strip that geodata out.
+p194
+aV(Applause)
+p195
+aVIf I start by assuming the worst
+p196
+aVand work backwards,
+p197
+aVI can make sure that the protections we build
+p198
+aVwork for both expected
+p199
+aVand unexpected use cases.
+p200
+aa(lp201
+VGiven that I spend my days and nights
+p202
+aVimagining the worst that could happen,
+p203
+aVit wouldn't be surprising if  my worldview was gloomy.
+p204
+aV(Laughter)
+p205
+aVIt's not.
+p206
+aVThe vast majority of interactions I see \u2014
+p207
+aVand I see a lot, believe me \u2014 are positive,
+p208
+aVpeople reaching out to help
+p209
+aVor to connect or share information with each other.
+p210
+aVIt's just that for those of us dealing with scale,
+p211
+aVfor those of us tasked with keeping people safe,
+p212
+aVwe have to assume the worst will happen,
+p213
+aVbecause for us, a one-in-a-million chance
+p214
+aVis pretty good odds.
+p215
+aa(lp216
+VThank you.
+p217
+aa(lp218
+V(Applause)
+p219
+aasS'id'
+p220
+I1958
+sS'title'
+p221
+VProtecting Twitter users (sometimes from themselves)
+p222
+s.

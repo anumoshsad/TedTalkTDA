@@ -1,0 +1,387 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo wouldn't it be amazing if our phones
+p4
+aVcould see the world in the same way that we do,
+p5
+aVas we're walking around being able
+p6
+aVto point a phone at anything,
+p7
+aVand then have it actually recognize images and objects
+p8
+aVlike the human brain, and then be able to pull in information
+p9
+aVfrom an almost infinite library of knowledge
+p10
+aVand experiences and ideas.
+p11
+aa(lp12
+VWell, traditionally that was seen as science fiction,
+p13
+aVbut now we've moved to a world
+p14
+aVwhere actually this has become possible.
+p15
+aa(lp16
+VSo the best way of explaining it is to just show it.
+p17
+aVWhat you can see over here is Tamara,
+p18
+aVwho is holding my phone that's now plugged in.
+p19
+aVSo let me start with this.
+p20
+aVWhat we have here is a painting
+p21
+aVof the great poet Rabbie Burns,
+p22
+aVand it's just a normal image,
+p23
+aVbut if we now switch inputs over to the phone,
+p24
+aVrunning our technology, you can see
+p25
+aVeffectively what Tamara's seeing on the screen,
+p26
+aVand when she points at this image,
+p27
+aVsomething magical happens.
+p28
+aa(lp29
+V(Laughter) (Bagpipes)
+p30
+aV(Bagpipes) (Applause)
+p31
+aV(Bagpipes)
+p32
+aVVoice: Now simmer blinks on flowery braes ...
+p33
+aa(lp34
+VMatt Mills: Now, what's great about this is,
+p35
+aVthere's no trickery here.
+p36
+aVThere's nothing done to this image.
+p37
+aVAnd what's great about this is the technology's
+p38
+aVactually allowing the phone to start to see and understand
+p39
+aVmuch like how the human brain does.
+p40
+aVNot only that, but as I move the object around,
+p41
+aVit's going to track it and overlay that content seamlessly.
+p42
+aVAgain, the thing that's incredible about this is
+p43
+aVthis is how advanced these devices have become.
+p44
+aVAll the processing to do that was actually done
+p45
+aVon the device itself.
+p46
+aa(lp47
+VNow, this has applications everywhere,
+p48
+aVwhether in things like art in museums, like you just saw,
+p49
+aVor in the world of, say, advertising, or print journalism.
+p50
+aa(lp51
+VSo a newspaper becomes out of date as soon as it's printed.
+p52
+aVAnd here is this morning's newspaper,
+p53
+aVand we have some Wimbledon news, which is great.
+p54
+aVNow what we can do is point at the front of the newspaper
+p55
+aVand immediately get the bulletin.
+p56
+aa(lp57
+VVoice: ... To the grass, and it's very important that you adapt
+p58
+aVand you, you have to be flexible, you have to be willing
+p59
+aVto change direction at a split second,
+p60
+aVand she does all that. She's won this title.
+p61
+aa(lp62
+VMM: And that linking of the digital content
+p63
+aVto something that's physical is what we call an aura, and
+p64
+aVI'll be using that term a little bit as we go through the talk.
+p65
+aa(lp66
+VSo, what's great about this is it isn't just a faster,
+p67
+aVmore convenient way to get information in the real world,
+p68
+aVbut there are times when actually using this medium
+p69
+aVallows you to be able to display information in a way
+p70
+aVthat was never before possible.
+p71
+aa(lp72
+VSo what I have here is a wireless router.
+p73
+aVMy American colleagues have told me I've got to call it a router,
+p74
+aVso that everyone here understands \u2014 (Laughter) \u2014
+p75
+aVbut nonetheless, here is the device.
+p76
+aVSo now what I can do is, rather than getting the instructions
+p77
+aVfor the device online, I can simply point at it,
+p78
+aVthe device is recognized, and then \u2014
+p79
+aa(lp80
+VVoice: Begin by plugging in the grey ADSL cable.
+p81
+aVThen connect the power. Finally, the yellow ethernet cable.
+p82
+aVCongratulations. You have now completed setup.
+p83
+aa(lp84
+V(Laughter) MM: Awesome. Thank you.
+p85
+aa(lp86
+V(Applause)
+p87
+aa(lp88
+VThe incredible work that made that possible was done
+p89
+aVhere in the U.K. by scientists at Cambridge,
+p90
+aVand they work in our offices,
+p91
+aVand I've got a lovely picture of them here.
+p92
+aVThey couldn't all be on stage, but we're going to
+p93
+aVbring their aura to the stage, so here they are.
+p94
+aVThey're not very animated. (Laughter)
+p95
+aVThis was the fourth take, I'm told. (Laughter)
+p96
+aa(lp97
+VOkay. So, as we're talking about Cambridge,
+p98
+aVlet's now move on to technical advancements,
+p99
+aVbecause since we started putting this technology
+p100
+aVon mobile phones less than 12 months ago,
+p101
+aVthe speed and the processing in these devices
+p102
+aVhas grown at a really phenomenal rate,
+p103
+aVand that means that I can now take cinema-quality
+p104
+aV3D models and place them in the world around me,
+p105
+aVso I have one over here.
+p106
+aVTamara, would you like to jump in?
+p107
+aa(lp108
+V(Music)
+p109
+aV(Dinosaur roaring) (Laughter)
+p110
+aVMM: I should leap in.
+p111
+aV(Music) (Dinosaur roaring)
+p112
+aV(Applause)
+p113
+aa(lp114
+VSo then, after the fun, comes the more emotional side
+p115
+aVof what we do, because effectively, this technology
+p116
+aVallows you to see the world through someone's eyes,
+p117
+aVand for that person to be able to take a moment in time
+p118
+aVand effectively store it and tag it to something physical
+p119
+aVthat exists in the real world.
+p120
+aVWhat's great about this is, the tools to do this are free.
+p121
+aVThey're open, they're available to everyone within our application,
+p122
+aVand educators have really got on board with the classrooms.
+p123
+aVSo we have teachers who've tagged up textbooks,
+p124
+aVteachers who've tagged up school classrooms,
+p125
+aVand a great example of this is a school in the U.K.
+p126
+aVI have a picture here from a video, and we're now going to play it.
+p127
+aa(lp128
+VTeacher: See what happens. (Children talking) Keep going.
+p129
+aa(lp130
+VChild: TV. (Children react)
+p131
+aa(lp132
+VChild: Oh my God.
+p133
+aa(lp134
+VTeacher: Now move it either side. See what happens.
+p135
+aVMove away from it and come back to it.
+p136
+aa(lp137
+VChild: Oh, that is so cool.
+p138
+aa(lp139
+VTeacher: And then, have you got it again?
+p140
+aa(lp141
+VChild: Oh my God! How did you do that?
+p142
+aa(lp143
+VSecond child: It's magic.
+p144
+aa(lp145
+V(Laughter) MM: (Laughs) So, it's not magic.
+p146
+aVIt's available for everyone to do,
+p147
+aVand actually I'm going to show you how easy it is to do
+p148
+aVby doing one right now.
+p149
+aa(lp150
+VSo, as sort of \u2014 I'm told it's called a stadium wave,
+p151
+aVso we're going to start from this side of the room
+p152
+aVon the count of three, and go over to here.
+p153
+aVTamara, are you recording?
+p154
+aVOkay, so are you all ready?
+p155
+aVOne, two, three. Go!
+p156
+aa(lp157
+VAudience: Whooooooo!
+p158
+aa(lp159
+VMM: Fellows are really good at that. (Laughs) (Laughter)
+p160
+aa(lp161
+VOkay. Now we're going to switch back
+p162
+aVinto the Aurasma application,
+p163
+aVand what Tamara's going to do is tag that video that we just
+p164
+aVtook onto my badge, so that I can remember it forever.
+p165
+aa(lp166
+VNow, we have lots of people who are doing this already,
+p167
+aVand we've talked a little bit about the educational side.
+p168
+aVOn the emotional side, we have people who've
+p169
+aVdone things like send postcards and Christmas cards
+p170
+aVback to their family with little messages on them.
+p171
+aVWe have people who have, for example,
+p172
+aVtaken the inside of the engine bay of an old car
+p173
+aVand tagged up different components within an engine,
+p174
+aVso that if you're stuck and you want to find out more,
+p175
+aVyou can point and discover the information.
+p176
+aa(lp177
+VWe're all very, very familiar with the Internet.
+p178
+aVIn the last 20 years, it's really
+p179
+aVchanged the way that we live and work,
+p180
+aVand the way that we see the world, and what's great is,
+p181
+aVwe sort of think this is the next paradigm shift,
+p182
+aVbecause now we can literally take the content
+p183
+aVthat we share, we discover, and that we enjoy
+p184
+aVand make it a part of the world around us.
+p185
+aVIt's completely free to download this application.
+p186
+aVIf you have a good Wi-Fi connection or 3G,
+p187
+aVthis process is very, very quick.
+p188
+aa(lp189
+VOh, there we are. We can save it now.
+p190
+aVIt's just going to do a tiny bit of processing
+p191
+aVto convert that image that we just took
+p192
+aVinto a sort of digital fingerprint,
+p193
+aVand the great thing is, if you're a professional user,
+p194
+aV\u2014 so, a newspaper \u2014 the tools are pretty much identical
+p195
+aVto what we've just used to create this demonstration.
+p196
+aVThe only difference is that you've got the ability
+p197
+aVto add in links and slightly more content. Are you now ready?
+p198
+aa(lp199
+VTamara Roukaerts: We're ready to go.
+p200
+aa(lp201
+VMM: Okay. So, I'm told we're ready, which means
+p202
+aVwe can now point at the image, and there you all are.
+p203
+aa(lp204
+VMM on video: One, two, three. Go!
+p205
+aa(lp206
+VMM: Well done. We've been Aurasma. Thank you.
+p207
+aa(lp208
+V(Applause)
+p209
+aasS'id'
+p210
+I1515
+sS'title'
+p211
+VImage recognition that triggers augmented reality
+p212
+s.

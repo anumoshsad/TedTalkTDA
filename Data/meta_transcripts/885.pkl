@@ -1,0 +1,294 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo, if you're in the audience today,
+p4
+aVor maybe you're watching this talk in some other time or place,
+p5
+aVyou are a participant in the digital rights ecosystem.
+p6
+aVWhether you're an artist, a technologist,
+p7
+aVa lawyer or a fan,
+p8
+aVthe handling of copyright directly impacts your life.
+p9
+aVRights management is no longer
+p10
+aVsimply a question of ownership,
+p11
+aVit's a complex web of relationships
+p12
+aVand a critical part of our cultural landscape.
+p13
+aVYouTube cares deeply about the rights of content owners,
+p14
+aVbut in order to give them choices about what they can do
+p15
+aVwith copies, mashups and more,
+p16
+aVwe need to first identify
+p17
+aVwhen copyrighted material is uploaded to our site.
+p18
+aa(lp19
+VLet's look at a specific video so you can see how it works.
+p20
+aVTwo years ago, recording artist Chris Brown
+p21
+aVreleased the official video of his single "Forever."
+p22
+aVA fan saw it on TV,
+p23
+aVrecorded it with her camera phone,
+p24
+aVand uploaded it to YouTube.
+p25
+aVBecause Sony Music had registered Chris Brown's video
+p26
+aVin our Content ID system,
+p27
+aVwithin seconds of attempting to upload the video,
+p28
+aVthe copy was detected,
+p29
+aVgiving Sony the choice of what to do next.
+p30
+aa(lp31
+VBut how do we know that the user's video was a copy?
+p32
+aVWell, it starts with content owners
+p33
+aVdelivering assets into our database,
+p34
+aValong with a usage policy
+p35
+aVthat tells us what to do when we find a match.
+p36
+aVWe compare each upload
+p37
+aVagainst all of the reference files in our database.
+p38
+aVThis heat map is going to show you
+p39
+aVhow the brain of the system works.
+p40
+aVHere we can see the original reference file
+p41
+aVbeing compared to the user generated content.
+p42
+aVThe system compares every moment
+p43
+aVof one to the other to see if there's a match.
+p44
+aVThis means that we can identify a match
+p45
+aVeven if the copy used is just a portion of the original file,
+p46
+aVplays it in slow motion
+p47
+aVand has degraded audio and video quality.
+p48
+aVAnd we do this every time
+p49
+aVthat a video is uploaded to YouTube.
+p50
+aVAnd that's over 20 hours of video every minute.
+p51
+aVWhen we find a match,
+p52
+aVwe apply the policy that the rights owner has set down.
+p53
+aa(lp54
+VAnd the scale and the speed of this system
+p55
+aVis truly breathtaking.
+p56
+aVWe're not just talking about a few videos,
+p57
+aVwe're talking about over
+p58
+aV100 years of video every day,
+p59
+aVbetween new uploads and the legacy scans
+p60
+aVwe regularly do across all of the content on the site.
+p61
+aVWhen we compare those hundred years of video,
+p62
+aVwe're comparing it against millions
+p63
+aVof reference files in our database.
+p64
+aVIt would be like 36,000 people
+p65
+aVstaring at 36,000 monitors
+p66
+aVeach and every day, without so much as a coffee break.
+p67
+aa(lp68
+VNow, what do we do when we find a match?
+p69
+aVWell, most rights owners, instead of blocking,
+p70
+aVwill allow the copy to be published.
+p71
+aVAnd then they benefit through the exposure,
+p72
+aVadvertising and linked sales.
+p73
+aVRemember Chris Brown's video "Forever"?
+p74
+aVWell, it had its day in the sun and then it dropped off the charts,
+p75
+aVand that looked like the end of the story,
+p76
+aVbut sometime last year, a young couple got married.
+p77
+aVThis is their wedding video.
+p78
+aVYou may have seen it.
+p79
+aa(lp80
+V(Music)
+p81
+aa(lp82
+VWhat's amazing about this is,
+p83
+aVif the processional of the wedding was this much fun,
+p84
+aVcan you imagine how much fun the reception must have been?
+p85
+aVI mean, who are these people?
+p86
+aVI totally want to go to that wedding.
+p87
+aa(lp88
+VSo their little wedding video went on
+p89
+aVto get over 40 million views.
+p90
+aVAnd instead of Sony blocking,
+p91
+aVthey allowed the upload to occur.
+p92
+aVAnd they put advertising against it
+p93
+aVand linked from it to iTunes.
+p94
+aVAnd the song, 18 months old,
+p95
+aVwent back to number four on the iTunes charts.
+p96
+aVSo Sony is generating revenue from both of these.
+p97
+aVAnd Jill and Kevin, the happy couple,
+p98
+aVthey came back from their honeymoon
+p99
+aVand found that their video had gone crazy viral.
+p100
+aVAnd they've ended up on a bunch of talk shows,
+p101
+aVand they've used it as an opportunity to make a difference.
+p102
+aVThe video's inspired over 26,000 dollars in donations
+p103
+aVto end domestic violence.
+p104
+aVThe "JK Wedding [Entrance] Dance" became so popular
+p105
+aVthat NBC parodied it on the season finale of "The Office,"
+p106
+aVwhich just goes to show,
+p107
+aVit's truly an ecosystem of culture.
+p108
+aVBecause it's not just amateurs borrowing from big studios,
+p109
+aVbut sometimes big studios borrowing back.
+p110
+aa(lp111
+VBy empowering choice, we can create a culture of opportunity.
+p112
+aVAnd all it took to change things around
+p113
+aVwas to allow for choice through rights identification.
+p114
+aVSo why has no one ever solved this problem before?
+p115
+aVIt's because it's a big problem,
+p116
+aVand it's complicated and messy.
+p117
+aVIt's not uncommon for a single video
+p118
+aVto have multiple rights owners.
+p119
+aVThere's musical labels.
+p120
+aVThere's multiple music publishers.
+p121
+aVAnd each of these can vary by country.
+p122
+aVThere's lots of cases
+p123
+aVwhere we have more than one work mashed together.
+p124
+aVSo we have to manage many claims
+p125
+aVto the same video.
+p126
+aa(lp127
+VYouTube's Content ID system addresses all of these cases.
+p128
+aVBut the system only works through
+p129
+aVthe participation of rights owners.
+p130
+aVIf you have content that others are uploading to YouTube,
+p131
+aVyou should register in the Content ID system,
+p132
+aVand then you'll have the choice
+p133
+aVabout how your content is used.
+p134
+aVAnd think carefully about the policies that you attach to that content.
+p135
+aVBy simply blocking all reuse,
+p136
+aVyou'll miss out on new art forms,
+p137
+aVnew audiences,
+p138
+aVnew distribution channels
+p139
+aVand new revenue streams.
+p140
+aa(lp141
+VBut it's not just about dollars and impressions.
+p142
+aVJust look at all the joy
+p143
+aVthat was spread through progressive rights management
+p144
+aVand new technology.
+p145
+aVAnd I think we can all agree that joy is definitely an idea worth spreading.
+p146
+aa(lp147
+VThank you.
+p148
+aV(Applause)
+p149
+aasS'id'
+p150
+I885
+sS'title'
+p151
+VHow YouTube thinks about copyright
+p152
+s.

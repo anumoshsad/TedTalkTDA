@@ -1,0 +1,595 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhen I go to parties,
+p4
+aVit doesn't usually take very long
+p5
+aVfor people to find out
+p6
+aVthat I'm a scientist and I study sex.
+p7
+aVAnd then I get asked questions.
+p8
+aVAnd the questions usually have a very particular format.
+p9
+aVThey start with the phrase,
+p10
+aV"A friend told me,"
+p11
+aVand then they end with the phrase,
+p12
+aV"Is this true?"
+p13
+aVAnd most of the time
+p14
+aVI'm glad to say that I can answer them,
+p15
+aVbut sometimes I have to say,
+p16
+aV"I'm really sorry,
+p17
+aVbut I don't know
+p18
+aVbecause I'm not that kind of a doctor."
+p19
+aa(lp20
+VThat is, I'm not a clinician,
+p21
+aVI'm a comparative biologist who studies anatomy.
+p22
+aVAnd my job is to look at lots of different species of animals
+p23
+aVand try to figure out how their tissues and organs work
+p24
+aVwhen everything's going right,
+p25
+aVrather than trying to figure out
+p26
+aVhow to fix things when they go wrong,
+p27
+aVlike so many of you.
+p28
+aVAnd what I do is I look for similarities and differences
+p29
+aVin the solutions that they've evolved
+p30
+aVfor fundamental biological problems.
+p31
+aa(lp32
+VSo today I'm here to argue
+p33
+aVthat this is not at all
+p34
+aVan esoteric Ivory Tower activity
+p35
+aVthat we find at our universities,
+p36
+aVbut that broad study
+p37
+aVacross species, tissue types and organ systems
+p38
+aVcan produce insights
+p39
+aVthat have direct implications for human health.
+p40
+aVAnd this is true both of my recent project
+p41
+aVon sex differences in the brain,
+p42
+aVand my more mature work
+p43
+aVon the anatomy and function of penises.
+p44
+aVAnd now you know why I'm fun at parties.
+p45
+aa(lp46
+V(Laughter)
+p47
+aa(lp48
+VSo today I'm going to give you an example
+p49
+aVdrawn from my penis study
+p50
+aVto show you how knowledge
+p51
+aVdrawn from studies of one organ system
+p52
+aVprovided insights into a very different one.
+p53
+aVNow I'm sure as everyone in the audience already knows \u2014
+p54
+aVI did have to explain it to my nine-year-old late last week \u2014
+p55
+aVpenises are structures that transfer sperm
+p56
+aVfrom one individual to another.
+p57
+aVAnd the slide behind me
+p58
+aVbarely scratches the surface
+p59
+aVof how widespread they are in animals.
+p60
+aVThere's an enormous amount of anatomical variation.
+p61
+aVYou find muscular tubes, modified legs, modified fins,
+p62
+aVas well as the mammalian fleshy, inflatable cylinder
+p63
+aVthat we're all familiar with \u2014
+p64
+aVor at least half of you are.
+p65
+aa(lp66
+V(Laughter)
+p67
+aa(lp68
+VAnd I think we see this tremendous variation
+p69
+aVbecause it's a really effective solution
+p70
+aVto a very basic biological problem,
+p71
+aVand that is getting sperm in a position
+p72
+aVto meet up with eggs and form zygotes.
+p73
+aVNow the penis isn't actually required for internal fertiliztion,
+p74
+aVbut when internal fertilization evolves,
+p75
+aVpenises often follow.
+p76
+aa(lp77
+VAnd the question I get when I start talking about this most often is,
+p78
+aV"What made you interested in this subject?"
+p79
+aVAnd the answer is skeletons.
+p80
+aVYou wouldn't think that skeletons and penises
+p81
+aVhave very much to do with one another.
+p82
+aVAnd that's because we tend to think of skeletons
+p83
+aVas stiff lever systems
+p84
+aVthat produce speed or power.
+p85
+aVAnd my first forays into biological research,
+p86
+aVdoing dinosaur paleontology as an undergraduate,
+p87
+aVwere really squarely in that realm.
+p88
+aa(lp89
+VBut when I went to graduate school to study biomechanics,
+p90
+aVI really wanted to find a dissertation project
+p91
+aVthat would expand our knowledge of skeletal function.
+p92
+aVI tried a bunch of different stuff.
+p93
+aVA lot of it didn't pan out.
+p94
+aVBut then one day I started thinking
+p95
+aVabout the mammalian penis.
+p96
+aVAnd it's really an odd sort of structure.
+p97
+aVBefore it can be used for internal fertilization,
+p98
+aVits mechanical behavior has to change
+p99
+aVin a really dramatic fashion.
+p100
+aVMost of the time it's a flexible organ.
+p101
+aVIt's easy to bend.
+p102
+aVBut before it's brought into use
+p103
+aVduring copulation
+p104
+aVit has to become rigid,
+p105
+aVit has to become difficult to bend.
+p106
+aVAnd moreover, it has to work.
+p107
+aVA reproductive system that fails to function
+p108
+aVproduces an individual that has no offspring,
+p109
+aVand that individual is then kicked out of the gene pool.
+p110
+aa(lp111
+VAnd so I thought, "Here's a problem
+p112
+aVthat just cries out for a skeletal system \u2014
+p113
+aVnot one like this one,
+p114
+aVbut one like this one \u2014
+p115
+aVbecause, functionally,
+p116
+aVa skeleton is any system
+p117
+aVthat supports tissue and transmits forces.
+p118
+aVAnd I already knew that animals like this earthworm,
+p119
+aVindeed most animals,
+p120
+aVdon't support their tissues
+p121
+aVby draping them over bones.
+p122
+aVInstead they're more like reinforced water balloons.
+p123
+aVThey use a skeleton that we call a hydrostatic skeleton.
+p124
+aVAnd a hydrostatic skeleton
+p125
+aVuses two elements.
+p126
+aVThe skeletal support comes from an interaction
+p127
+aVbetween a pressurized fluid
+p128
+aVand a surrounding wall of tissue
+p129
+aVthat's held in tension and reinforced with fibrous proteins.
+p130
+aVAnd the interaction is crucial.
+p131
+aVWithout both elements you have no support.
+p132
+aVIf you have fluid
+p133
+aVwith no wall to surround it
+p134
+aVand keep pressure up,
+p135
+aVyou have a puddle.
+p136
+aVAnd if you have just the wall
+p137
+aVwith no fluid inside of it to put the wall in tension,
+p138
+aVyou've got a little wet rag.
+p139
+aa(lp140
+VWhen you look at a penis in cross section,
+p141
+aVit has a lot of the hallmarks
+p142
+aVof a hydrostatic skeleton.
+p143
+aVIt has a central space
+p144
+aVof spongy erectile tissue
+p145
+aVthat fills with fluid \u2014 in this case blood \u2014
+p146
+aVsurrounded by a wall of tissue
+p147
+aVthat's rich in a stiff structural protein called collagen.
+p148
+aa(lp149
+VBut at the time when I started this project,
+p150
+aVthe best explanation I could find for penal erection
+p151
+aVwas that the wall surrounded these spongy tissues,
+p152
+aVand the spongy tissues filled with blood
+p153
+aVand pressure rose and voila! it became erect.
+p154
+aa(lp155
+VAnd that explained to me expansion \u2014
+p156
+aVmade sense: more fluid, you get tissues that expand \u2014
+p157
+aVbut it didn't actually explain erection.
+p158
+aVBecause there was no mechanism in this explanation
+p159
+aVfor making this structure hard to bend.
+p160
+aVAnd no one had systematically looked at the wall tissue.
+p161
+aVSo I thought, wall tissue's important in skeletons.
+p162
+aVIt has to be part of the explanation.
+p163
+aa(lp164
+VAnd this was the point
+p165
+aVat which my graduate adviser said,
+p166
+aV"Whoa! Hold on. Slow down."
+p167
+aVBecause after about six months of me talking about this,
+p168
+aVI think he finally figured out
+p169
+aVthat I was really serious about the penis thing.
+p170
+aa(lp171
+V(Laughter)
+p172
+aa(lp173
+VSo he sat me down, and he warned me.
+p174
+aVHe was like, "Be careful going down this path.
+p175
+aVI'm not sure this project's going to pan out."
+p176
+aVBecause he was afraid I was walking into a trap.
+p177
+aVI was taking on a socially embarrassing question
+p178
+aVwith an answer that he thought
+p179
+aVmight not be particularly interesting.
+p180
+aVAnd that was because
+p181
+aVevery hydrostatic skeleton
+p182
+aVthat we had found in nature up to that point
+p183
+aVhad the same basic elements.
+p184
+aVIt had the central fluid,
+p185
+aVit had the surrounding wall,
+p186
+aVand the reinforcing fibers in the wall
+p187
+aVwere arranged in crossed helices
+p188
+aVaround the long axis of the skeleton.
+p189
+aa(lp190
+VSo the image behind me
+p191
+aVshows a piece of tissue
+p192
+aVin one of these cross helical skeletons
+p193
+aVcut so that you're looking at the surface of the wall.
+p194
+aVThe arrow shows you the long axis.
+p195
+aVAnd you can see two layers of fibers,
+p196
+aVone in blue and one in yellow,
+p197
+aVarranged in left-handed and right-handed angles.
+p198
+aVAnd if you weren't just looking at a little section of the fibers,
+p199
+aVthose fibers would be going in helices
+p200
+aVaround the long axis of the skeleton \u2014
+p201
+aVsomething like a Chinese finger trap,
+p202
+aVwhere you stick your fingers in and they get stuck.
+p203
+aa(lp204
+VAnd these skeletons have a particular set of behaviors,
+p205
+aVwhich I'm going to demonstrate in a film.
+p206
+aVIt's a model skeleton
+p207
+aVthat I made out of a piece of cloth
+p208
+aVthat I wrapped around an inflated balloon.
+p209
+aVThe cloth's cut on the bias.
+p210
+aVSo you can see that the fibers wrap in helices,
+p211
+aVand those fibers can reorient as the skeleton moves,
+p212
+aVwhich means the skeleton's flexible.
+p213
+aVIt lengthens, shortens and bends really easily
+p214
+aVin response to internal or external forces.
+p215
+aa(lp216
+VNow my adviser's concern
+p217
+aVwas what if the penile wall tissue
+p218
+aVis just the same as any other hydrostatic skeleton.
+p219
+aVWhat are you going to contribute?
+p220
+aVWhat new thing are you contributing
+p221
+aVto our knowledge of biology?
+p222
+aVAnd I thought, "Yeah, he does have a really good point here."
+p223
+aVSo I spent a long, long time thinking about it.
+p224
+aVAnd one thing kept bothering me,
+p225
+aVand that's, when they're functioning,
+p226
+aVpenises don't wiggle.
+p227
+aV(Laughter)
+p228
+aVSo something interesting had to be going on.
+p229
+aa(lp230
+VSo I went ahead, collected wall tissue,
+p231
+aVprepared it so it was erect,
+p232
+aVsectioned it, put it on slides
+p233
+aVand then stuck it under the microscope to have a look,
+p234
+aVfully expecting to see crossed helices of collagen of some variety.
+p235
+aVBut instead I saw this.
+p236
+aVThere's an outer layer and an inner layer.
+p237
+aVThe arrow shows you the long axis of the skeleton.
+p238
+aa(lp239
+VI was really surprised at this.
+p240
+aVEveryone I showed it
+p241
+aVwas really surprised at this.
+p242
+aVWhy was everyone surprised at this?
+p243
+aVThat's because we knew theoretically
+p244
+aVthat there was another way
+p245
+aVof arranging fibers in a hydrostatic skeleton,
+p246
+aVand that was with fibers at zero degrees
+p247
+aVand 90 degrees to the long axis of the structure.
+p248
+aVThe thing is, no one had ever seen it before in nature.
+p249
+aVAnd now I was looking at one.
+p250
+aa(lp251
+VThose fibers in that particular orientation
+p252
+aVgive the skeleton a very, very different behavior.
+p253
+aVI'm going to show a model
+p254
+aVmade out of exactly the same materials.
+p255
+aVSo it'll be made of the same cotton cloth,
+p256
+aVsame balloon, same internal pressure.
+p257
+aVBut the only difference
+p258
+aVis that the fibers are arranged differently.
+p259
+aVAnd you'll see that, unlike the cross helical model,
+p260
+aVthis model resists extension and contraction
+p261
+aVand resists bending.
+p262
+aa(lp263
+VNow what that tells us
+p264
+aVis that wall tissues are doing so much more
+p265
+aVthan just covering the vascular tissues.
+p266
+aVThey're an integral part of the penile skeleton.
+p267
+aVIf the wall around the erectile tissue wasn't there,
+p268
+aVif it wasn't reinforced in this way,
+p269
+aVthe shape would change,
+p270
+aVbut the inflated penis would not resist bending,
+p271
+aVand erection simply wouldn't work.
+p272
+aa(lp273
+VIt's an observation with obvious medical applications
+p274
+aVin humans as well,
+p275
+aVbut it's also relevant in a broad sense, I think,
+p276
+aVto the design of prosthetics, soft robots,
+p277
+aVbasically anything
+p278
+aVwhere changes of shape and stiffness are important.
+p279
+aa(lp280
+VSo to sum up:
+p281
+aVTwenty years ago,
+p282
+aVI had a college adviser tell me,
+p283
+aVwhen I went to the college and said,
+p284
+aV"I'm kind of interested in anatomy,"
+p285
+aVthey said, "Anatomy's a dead science."
+p286
+aVHe couldn't have been more wrong.
+p287
+aVI really believe that we still have a lot to learn
+p288
+aVabout the normal structure and function of our bodies.
+p289
+aVNot just about its genetics and molecular biology,
+p290
+aVbut up here in the meat end of the scale.
+p291
+aVWe've got limits on our time.
+p292
+aVWe often focus on one disease,
+p293
+aVone model, one problem,
+p294
+aVbut my experience suggests
+p295
+aVthat we should take the time
+p296
+aVto apply ideas broadly between systems
+p297
+aVand just see where it takes us.
+p298
+aVAfter all, if ideas about invertebrate skeletons
+p299
+aVcan give us insights
+p300
+aVabout mammalian reproductive systems,
+p301
+aVthere could be lots of other wild and productive connections
+p302
+aVlurking out there just waiting to be found.
+p303
+aa(lp304
+VThank you.
+p305
+aa(lp306
+V(Applause)
+p307
+aasS'id'
+p308
+I1468
+sS'title'
+p309
+VWhat we didn't know about penis anatomy
+p310
+s.

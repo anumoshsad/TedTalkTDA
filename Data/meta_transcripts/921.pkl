@@ -1,0 +1,509 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VUp until now, our communication with machines
+p4
+aVhas always been limited
+p5
+aVto conscious and direct forms.
+p6
+aVWhether it's something simple
+p7
+aVlike turning on the lights with a switch,
+p8
+aVor even as complex as programming robotics,
+p9
+aVwe have always had to give a command to a machine,
+p10
+aVor even a series of commands,
+p11
+aVin order for it to do something for us.
+p12
+aVCommunication between people, on the other hand,
+p13
+aVis far more complex and a lot more interesting
+p14
+aVbecause we take into account
+p15
+aVso much more than what is explicitly expressed.
+p16
+aVWe observe facial expressions, body language,
+p17
+aVand we can intuit feelings and emotions
+p18
+aVfrom our dialogue with one another.
+p19
+aVThis actually forms a large part
+p20
+aVof our decision-making process.
+p21
+aVOur vision is to introduce
+p22
+aVthis whole new realm of human interaction
+p23
+aVinto human-computer interaction
+p24
+aVso that computers can understand
+p25
+aVnot only what you direct it to do,
+p26
+aVbut it can also respond
+p27
+aVto your facial expressions
+p28
+aVand emotional experiences.
+p29
+aVAnd what better way to do this
+p30
+aVthan by interpreting the signals
+p31
+aVnaturally produced by our brain,
+p32
+aVour center for control and experience.
+p33
+aa(lp34
+VWell, it sounds like a pretty good idea,
+p35
+aVbut this task, as Bruno mentioned,
+p36
+aVisn't an easy one for two main reasons:
+p37
+aVFirst, the detection algorithms.
+p38
+aVOur brain is made up of
+p39
+aVbillions of active neurons,
+p40
+aVaround 170,000 km
+p41
+aVof combined axon length.
+p42
+aVWhen these neurons interact,
+p43
+aVthe chemical reaction emits an electrical impulse,
+p44
+aVwhich can be measured.
+p45
+aVThe majority of our functional brain
+p46
+aVis distributed over
+p47
+aVthe outer surface layer of the brain,
+p48
+aVand to increase the area that's available for mental capacity,
+p49
+aVthe brain surface is highly folded.
+p50
+aVNow this cortical folding
+p51
+aVpresents a significant challenge
+p52
+aVfor interpreting surface electrical impulses.
+p53
+aVEach individual's cortex
+p54
+aVis folded differently,
+p55
+aVvery much like a fingerprint.
+p56
+aVSo even though a signal
+p57
+aVmay come from the same functional part of the brain,
+p58
+aVby the time the structure has been folded,
+p59
+aVits physical location
+p60
+aVis very different between individuals,
+p61
+aVeven identical twins.
+p62
+aVThere is no longer any consistency
+p63
+aVin the surface signals.
+p64
+aa(lp65
+VOur breakthrough was to create an algorithm
+p66
+aVthat unfolds the cortex,
+p67
+aVso that we can map the signals
+p68
+aVcloser to its source,
+p69
+aVand therefore making it capable of working across a mass population.
+p70
+aVThe second challenge
+p71
+aVis the actual device for observing brainwaves.
+p72
+aVEEG measurements typically involve
+p73
+aVa hairnet with an array of sensors,
+p74
+aVlike the one that you can see here in the photo.
+p75
+aVA technician will put the electrodes
+p76
+aVonto the scalp
+p77
+aVusing a conductive gel or paste
+p78
+aVand usually after a procedure of preparing the scalp
+p79
+aVby light abrasion.
+p80
+aVNow this is quite time consuming
+p81
+aVand isn't the most comfortable process.
+p82
+aVAnd on top of that, these systems
+p83
+aVactually cost in the tens of thousands of dollars.
+p84
+aa(lp85
+VSo with that, I'd like to invite onstage
+p86
+aVEvan Grant, who is one of last year's speakers,
+p87
+aVwho's kindly agreed
+p88
+aVto help me to demonstrate
+p89
+aVwhat we've been able to develop.
+p90
+aa(lp91
+V(Applause)
+p92
+aa(lp93
+VSo the device that you see
+p94
+aVis a 14-channel, high-fidelity
+p95
+aVEEG acquisition system.
+p96
+aVIt doesn't require any scalp preparation,
+p97
+aVno conductive gel or paste.
+p98
+aVIt only takes a few minutes to put on
+p99
+aVand for the signals to settle.
+p100
+aVIt's also wireless,
+p101
+aVso it gives you the freedom to move around.
+p102
+aVAnd compared to the tens of thousands of dollars
+p103
+aVfor a traditional EEG system,
+p104
+aVthis headset only costs
+p105
+aVa few hundred dollars.
+p106
+aVNow on to the detection algorithms.
+p107
+aVSo facial expressions \u2014
+p108
+aVas I mentioned before in emotional experiences \u2014
+p109
+aVare actually designed to work out of the box
+p110
+aVwith some sensitivity adjustments
+p111
+aVavailable for personalization.
+p112
+aVBut with the limited time we have available,
+p113
+aVI'd like to show you the cognitive suite,
+p114
+aVwhich is the ability for you
+p115
+aVto basically move virtual objects with your mind.
+p116
+aa(lp117
+VNow, Evan is new to this system,
+p118
+aVso what we have to do first
+p119
+aVis create a new profile for him.
+p120
+aVHe's obviously not Joanne \u2014 so we'll "add user."
+p121
+aVEvan. Okay.
+p122
+aVSo the first thing we need to do with the cognitive suite
+p123
+aVis to start with training
+p124
+aVa neutral signal.
+p125
+aVWith neutral, there's nothing in particular
+p126
+aVthat Evan needs to do.
+p127
+aVHe just hangs out. He's relaxed.
+p128
+aVAnd the idea is to establish a baseline
+p129
+aVor normal state for his brain,
+p130
+aVbecause every brain is different.
+p131
+aVIt takes eight seconds to do this,
+p132
+aVand now that that's done,
+p133
+aVwe can choose a movement-based action.
+p134
+aVSo Evan, choose something
+p135
+aVthat you can visualize clearly in your mind.
+p136
+aa(lp137
+VEvan Grant: Let's do "pull."
+p138
+aa(lp139
+VTan Le: Okay, so let's choose "pull."
+p140
+aVSo the idea here now
+p141
+aVis that Evan needs to
+p142
+aVimagine the object coming forward
+p143
+aVinto the screen,
+p144
+aVand there's a progress bar that will scroll across the screen
+p145
+aVwhile he's doing that.
+p146
+aVThe first time, nothing will happen,
+p147
+aVbecause the system has no idea how he thinks about "pull."
+p148
+aVBut maintain that thought
+p149
+aVfor the entire duration of the eight seconds.
+p150
+aVSo: one, two, three, go.
+p151
+aVOkay.
+p152
+aVSo once we accept this,
+p153
+aVthe cube is live.
+p154
+aVSo let's see if Evan
+p155
+aVcan actually try and imagine pulling.
+p156
+aVAh, good job!
+p157
+aV(Applause)
+p158
+aVThat's really amazing.
+p159
+aa(lp160
+V(Applause)
+p161
+aa(lp162
+VSo we have a little bit of time available,
+p163
+aVso I'm going to ask Evan
+p164
+aVto do a really difficult task.
+p165
+aVAnd this one is difficult
+p166
+aVbecause it's all about being able to visualize something
+p167
+aVthat doesn't exist in our physical world.
+p168
+aVThis is "disappear."
+p169
+aVSo what you want to do \u2014 at least with movement-based actions,
+p170
+aVwe do that all the time, so you can visualize it.
+p171
+aVBut with "disappear," there's really no analogies \u2014
+p172
+aVso Evan, what you want to do here
+p173
+aVis to imagine the cube slowly fading out, okay.
+p174
+aVSame sort of drill. So: one, two, three, go.
+p175
+aVOkay. Let's try that.
+p176
+aVOh, my goodness. He's just too good.
+p177
+aVLet's try that again.
+p178
+aa(lp179
+VEG: Losing concentration.
+p180
+aa(lp181
+V(Laughter)
+p182
+aa(lp183
+VTL: But we can see that it actually works,
+p184
+aVeven though you can only hold it
+p185
+aVfor a little bit of time.
+p186
+aVAs I said, it's a very difficult process
+p187
+aVto imagine this.
+p188
+aVAnd the great thing about it is that
+p189
+aVwe've only given the software one instance
+p190
+aVof how he thinks about "disappear."
+p191
+aVAs there is a machine learning algorithm in this \u2014
+p192
+aa(lp193
+V(Applause)
+p194
+aa(lp195
+VThank you.
+p196
+aVGood job. Good job.
+p197
+aa(lp198
+V(Applause)
+p199
+aa(lp200
+VThank you, Evan, you're a wonderful, wonderful
+p201
+aVexample of the technology.
+p202
+aa(lp203
+VSo, as you can see, before,
+p204
+aVthere is a leveling system built into this software
+p205
+aVso that as Evan, or any user,
+p206
+aVbecomes more familiar with the system,
+p207
+aVthey can continue to add more and more detections,
+p208
+aVso that the system begins to differentiate
+p209
+aVbetween different distinct thoughts.
+p210
+aVAnd once you've trained up the detections,
+p211
+aVthese thoughts can be assigned or mapped
+p212
+aVto any computing platform,
+p213
+aVapplication or device.
+p214
+aa(lp215
+VSo I'd like to show you a few examples,
+p216
+aVbecause there are many possible applications
+p217
+aVfor this new interface.
+p218
+aVIn games and virtual worlds, for example,
+p219
+aVyour facial expressions
+p220
+aVcan naturally and intuitively be used
+p221
+aVto control an avatar or virtual character.
+p222
+aVObviously, you can experience the fantasy of magic
+p223
+aVand control the world with your mind.
+p224
+aVAnd also, colors, lighting,
+p225
+aVsound and effects
+p226
+aVcan dynamically respond to your emotional state
+p227
+aVto heighten the experience that you're having, in real time.
+p228
+aVAnd moving on to some applications
+p229
+aVdeveloped by developers and researchers around the world,
+p230
+aVwith robots and simple machines, for example \u2014
+p231
+aVin this case, flying a toy helicopter
+p232
+aVsimply by thinking "lift" with your mind.
+p233
+aa(lp234
+VThe technology can also be applied
+p235
+aVto real world applications \u2014
+p236
+aVin this example, a smart home.
+p237
+aVYou know, from the user interface of the control system
+p238
+aVto opening curtains
+p239
+aVor closing curtains.
+p240
+aVAnd of course, also to the lighting \u2014
+p241
+aVturning them on
+p242
+aVor off.
+p243
+aVAnd finally,
+p244
+aVto real life-changing applications,
+p245
+aVsuch as being able to control an electric wheelchair.
+p246
+aVIn this example,
+p247
+aVfacial expressions are mapped to the movement commands.
+p248
+aa(lp249
+VMan: Now blink right to go right.
+p250
+aVNow blink left to turn back left.
+p251
+aVNow smile to go straight.
+p252
+aa(lp253
+VTL: We really \u2014 Thank you.
+p254
+aa(lp255
+V(Applause)
+p256
+aa(lp257
+VWe are really only scratching the surface of what is possible today,
+p258
+aVand with the community's input,
+p259
+aVand also with the involvement of developers
+p260
+aVand researchers from around the world,
+p261
+aVwe hope that you can help us to shape
+p262
+aVwhere the technology goes from here. Thank you so much.
+p263
+aasS'id'
+p264
+I921
+sS'title'
+p265
+VA headset that reads your brainwaves
+p266
+s.

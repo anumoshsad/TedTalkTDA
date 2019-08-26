@@ -1,0 +1,545 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo earlier this year,
+p4
+aVI was informed that I would be doing a TED Talk.
+p5
+aVSo I was excited, then I panicked,
+p6
+aVthen I was excited, then I panicked,
+p7
+aVand in between the excitement and the panicking,
+p8
+aVI started to do my research,
+p9
+aVand my research primarily consisted of Googling how to give a great TED Talk.
+p10
+aa(lp11
+V(Laughter)
+p12
+aa(lp13
+VAnd interspersed with that,
+p14
+aVI was Googling Chimamanda Ngozi Adichie.
+p15
+aVHow many of you know who that is?
+p16
+aa(lp17
+V(Cheers)
+p18
+aa(lp19
+VSo I was Googling her because I always Google her
+p20
+aVbecause I'm just a fan,
+p21
+aVbut also because she always has important and interesting things to say.
+p22
+aVAnd the combination of those searches
+p23
+aVkept leading me to her talk
+p24
+aVon the dangers of a single story,
+p25
+aVon what happens when we have a solitary lens
+p26
+aVthrough which to understand certain groups of people,
+p27
+aVand it is the perfect talk.
+p28
+aVIt's the talk that I would have given if I had been famous first.
+p29
+aa(lp30
+V(Laughter)
+p31
+aa(lp32
+VYou know, and you know, like, she's African and I'm African,
+p33
+aVand she's a feminist and I'm a feminist,
+p34
+aVand she's a storyteller and I'm a storyteller,
+p35
+aVso I really felt like it's my talk.
+p36
+aa(lp37
+V(Laughter)
+p38
+aa(lp39
+VSo I decided that I was going to learn how to code,
+p40
+aVand then I was going to hack the internet
+p41
+aVand I would take down all the copies of that talk that existed,
+p42
+aVand then I would memorize it,
+p43
+aVand then I would come here and deliver it as if it was my own speech.
+p44
+aVSo that plan was going really well, except the coding part,
+p45
+aVand then one morning a few months ago,
+p46
+aVI woke up
+p47
+aVto the news that the wife of a certain presidential candidate
+p48
+aVhad given a speech that \u2014
+p49
+aa(lp50
+V(Laughter)
+p51
+aa(lp52
+V(Applause)
+p53
+aa(lp54
+Vthat sounded eerily like a speech given by one of my other faves,
+p55
+aVMichelle Obama.
+p56
+aa(lp57
+V(Cheers)
+p58
+aa(lp59
+VAnd so I decided that I should probably write my own TED Talk,
+p60
+aVand so that is what I am here to do.
+p61
+aVI'm here to talk about my own observations about storytelling.
+p62
+aVI want to talk to you about the power of stories, of course,
+p63
+aVbut I also want to talk about their limitations,
+p64
+aVparticularly for those of us who are interested in social justice.
+p65
+aa(lp66
+VSo since Adichie gave that talk seven years ago,
+p67
+aVthere has been a boom in storytelling.
+p68
+aVStories are everywhere,
+p69
+aVand if there was a danger in the telling of one tired old tale,
+p70
+aVthen I think there has got to be lots to celebrate about the flourishing
+p71
+aVof so many stories and so many voices.
+p72
+aVStories are the antidote to bias.
+p73
+aVIn fact, today, if you are middle class and connected via the internet,
+p74
+aVyou can download stories at the touch of a button
+p75
+aVor the swipe of a screen.
+p76
+aVYou can listen to a podcast
+p77
+aVabout what it's like to grow up Dalit in Kolkata.
+p78
+aVYou can hear an indigenous man in Australia
+p79
+aVtalk about the trials and triumphs of raising his children in dignity
+p80
+aVand in pride.
+p81
+aVStories make us fall in love.
+p82
+aVThey heal rifts and they bridge divides.
+p83
+aVStories can even make it easier for us
+p84
+aVto talk about the deaths of people in our societies
+p85
+aVwho don't matter, because they make us care.
+p86
+aVRight?
+p87
+aa(lp88
+VI'm not so sure,
+p89
+aVand I actually work for a place called the Centre for Stories.
+p90
+aVAnd my job is to help to tell stories
+p91
+aVthat challenge mainstream narratives about what it means to be black
+p92
+aVor a Muslim or a refugee or any of those other categories
+p93
+aVthat we talk about all the time.
+p94
+aVBut I come to this work
+p95
+aVafter a long history as a social justice activist,
+p96
+aVand so I'm really interested in the ways
+p97
+aVthat people talk about nonfiction storytelling
+p98
+aVas though it's about more than entertainment,
+p99
+aVas though it's about being a catalyst for social action.
+p100
+aVIt's not uncommon to hear people say
+p101
+aVthat stories make the world a better place.
+p102
+aVIncreasingly, though, I worry that even the most poignant stories,
+p103
+aVparticularly the stories about people who no one seems to care about,
+p104
+aVcan often get in the way of action towards social justice.
+p105
+aVNow, this is not because storytellers mean any harm.
+p106
+aVQuite the contrary.
+p107
+aVStorytellers are often do-gooders like me and, I suspect, yourselves.
+p108
+aVAnd the audiences of storytellers
+p109
+aVare often deeply compassionate and empathetic people.
+p110
+aVStill, good intentions can have unintended consequences,
+p111
+aVand so I want to propose that stories are not as magical as they seem.
+p112
+aVSo three \u2014 because it's always got to be three \u2014
+p113
+aVthree reasons why I think
+p114
+aVthat stories don't necessarily make the world a better place.
+p115
+aa(lp116
+VFirstly, stories can create an illusion of solidarity.
+p117
+aVThere is nothing like that feel-good factor you get
+p118
+aVfrom listening to a fantastic story
+p119
+aVwhere you feel like you climbed that mountain, right,
+p120
+aVor that you befriended that death row inmate.
+p121
+aVBut you didn't.
+p122
+aVYou haven't done anything.
+p123
+aVListening is an important
+p124
+aVbut insufficient step towards social action.
+p125
+aa(lp126
+VSecondly, I think often we are drawn
+p127
+aVtowards characters and protagonists
+p128
+aVwho are likable and human.
+p129
+aVAnd this makes sense, of course, right?
+p130
+aVBecause if you like someone, then you care about them.
+p131
+aVBut the inverse is also true.
+p132
+aVIf you don't like someone,
+p133
+aVthen you don't care about them.
+p134
+aVAnd if you don't care about them,
+p135
+aVyou don't have to see yourself as having a moral obligation
+p136
+aVto think about the circumstances that shaped their lives.
+p137
+aa(lp138
+VI learned this lesson when I was 14 years old.
+p139
+aVI learned that actually, you don't have to like someone
+p140
+aVto recognize their wisdom,
+p141
+aVand you certainly don't have to like someone
+p142
+aVto take a stand by their side.
+p143
+aVSo my bike was stolen
+p144
+aVwhile I was riding it \u2014
+p145
+aa(lp146
+V(Laughter)
+p147
+aa(lp148
+Vwhich is possible if you're riding slowly enough, which I was.
+p149
+aa(lp150
+V(Laughter)
+p151
+aa(lp152
+VSo one minute I'm cutting across this field
+p153
+aVin the Nairobi neighborhood where I grew up,
+p154
+aVand it's like a very bumpy path,
+p155
+aVand so when you're riding a bike,
+p156
+aVyou don't want to be like, you know \u2014
+p157
+aa(lp158
+V(Laughter)
+p159
+aa(lp160
+VAnd so I'm going like this, slowly pedaling,
+p161
+aVand all of a sudden, I'm on the floor.
+p162
+aVI'm on the ground, and I look up,
+p163
+aVand there's this kid peddling away in the getaway vehicle,
+p164
+aVwhich is my bike,
+p165
+aVand he's about 11 or 12 years old, and I'm on the floor,
+p166
+aVand I'm crying because I saved a lot of money for that bike,
+p167
+aVand I'm crying and I stand up and I start screaming.
+p168
+aVInstinct steps in, and I start screaming, "Mwizi, mwizi!"
+p169
+aVwhich means "thief" in Swahili.
+p170
+aVAnd out of the woodworks, all of these people come out
+p171
+aVand they start to give chase.
+p172
+aVThis is Africa, so mob justice in action.
+p173
+aVRight?
+p174
+aVAnd I round the corner, and they've captured him,
+p175
+aVthey've caught him.
+p176
+aVThe suspect has been apprehended,
+p177
+aVand they make him give me my bike back,
+p178
+aVand they also make him apologize.
+p179
+aVAgain, you know, typical African justice, right?
+p180
+aVAnd so they make him say sorry.
+p181
+aVAnd so we stand there facing each other,
+p182
+aVand he looks at me, and he says sorry,
+p183
+aVbut he looks at me with this unbridled fury.
+p184
+aVHe is very, very angry.
+p185
+aVAnd it is the first time that I have been confronted with someone
+p186
+aVwho doesn't like me simply because of what I represent.
+p187
+aVHe looks at me with this look as if to say,
+p188
+aV"You, with your shiny skin and your bike, you're angry at me?"
+p189
+aa(lp190
+VSo it was a hard lesson that he didn't like me,
+p191
+aVbut you know what, he was right.
+p192
+aVI was a middle-class kid living in a poor country.
+p193
+aVI had a bike, and he barely had food.
+p194
+aVSometimes, it's the messages that we don't want to hear,
+p195
+aVthe ones that make us want to crawl out of ourselves,
+p196
+aVthat we need to hear the most.
+p197
+aVFor every lovable storyteller who steals your heart,
+p198
+aVthere are hundreds more whose voices are slurred and ragged,
+p199
+aVwho don't get to stand up on a stage dressed in fine clothes like this.
+p200
+aVThere are a million angry-boy-on-a-bike stories
+p201
+aVand we can't afford to ignore them
+p202
+aVsimply because we don't like their protagonists
+p203
+aVor because that's not the kid that we would bring home with us
+p204
+aVfrom the orphanage.
+p205
+aa(lp206
+VThe third reason that I think
+p207
+aVthat stories don't necessarily make the world a better place
+p208
+aVis that too often we are so invested in the personal narrative
+p209
+aVthat we forget to look at the bigger picture.
+p210
+aVAnd so we applaud someone
+p211
+aVwhen they tell us about their feelings of shame,
+p212
+aVbut we don't necessarily link that to oppression.
+p213
+aVWe nod understandingly when someone says they felt small,
+p214
+aVbut we don't link that to discrimination.
+p215
+aVThe most important stories, especially for social justice,
+p216
+aVare those that do both,
+p217
+aVthat are both personal and allow us to explore and understand the political.
+p218
+aa(lp219
+VBut it's not just about the stories we like
+p220
+aVversus the stories we choose to ignore.
+p221
+aVIncreasingly, we are living in a society where there are larger forces at play,
+p222
+aVwhere stories are actually for many people beginning to replace the news.
+p223
+aVYeah?
+p224
+aVWe live in a time where we are witnessing the decline of facts,
+p225
+aVwhen emotions rule
+p226
+aVand analysis, it's kind of boring, right?
+p227
+aVWhere we value what we feel more than what we actually know.
+p228
+aVA recent report by the Pew Center on trends in America
+p229
+aVindicates that only 10 percent of young adults under the age of 30
+p230
+aV"place a lot of trust in the media."
+p231
+aVNow, this is significant.
+p232
+aVIt means that storytellers are gaining trust
+p233
+aVat precisely the same moment
+p234
+aVthat many in the media are losing the confidence in the public.
+p235
+aVThis is not a good thing,
+p236
+aVbecause while stories are important
+p237
+aVand they help us to have insights in many ways,
+p238
+aVwe need the media.
+p239
+aVFrom my years as a social justice activist,
+p240
+aVI know very well that we need credible facts from media institutions
+p241
+aVcombined with the powerful voices of storytellers.
+p242
+aVThat's what pushes the needle forward in terms of social justice.
+p243
+aa(lp244
+VIn the final analysis, of course,
+p245
+aVit is justice
+p246
+aVthat makes the world a better place,
+p247
+aVnot stories. Right?
+p248
+aVAnd so if it is justice that we are after,
+p249
+aVthen I think we mustn't focus on the media or on storytellers.
+p250
+aVWe must focus on audiences,
+p251
+aVon anyone who has ever turned on a radio
+p252
+aVor listened to a podcast,
+p253
+aVand that means all of us.
+p254
+aa(lp255
+VSo a few concluding thoughts
+p256
+aVon what audiences can do to make the world a better place.
+p257
+aVSo firstly, the world would be a better place, I think,
+p258
+aVif audiences were more curious and more skeptical
+p259
+aVand asked more questions about the social context
+p260
+aVthat created those stories that they love so much.
+p261
+aVSecondly, the world would be a better place
+p262
+aVif audiences recognized that storytelling is intellectual work.
+p263
+aVAnd I think it would be important for audiences
+p264
+aVto demand more buttons on their favorite websites,
+p265
+aVbuttons for example that say,
+p266
+aV"If you liked this story,
+p267
+aVclick here to support a cause your storyteller believes in."
+p268
+aVOr "click here to contribute to your storyteller's next big idea."
+p269
+aVOften, we are committed to the platforms,
+p270
+aVbut not necessarily to the storytellers themselves.
+p271
+aVAnd then lastly, I think that audiences can make the world a better place
+p272
+aVby switching off their phones,
+p273
+aVby stepping away from their screens
+p274
+aVand stepping out into the real world beyond what feels safe.
+p275
+aa(lp276
+VAlice Walker has said,
+p277
+aV"Look closely at the present you are constructing.
+p278
+aVIt should look like the future you are dreaming."
+p279
+aVStorytellers can help us to dream,
+p280
+aVbut it's up to all of us to have a plan for justice.
+p281
+aa(lp282
+VThank you.
+p283
+aa(lp284
+V(Applause)
+p285
+aasS'id'
+p286
+I2665
+sS'title'
+p287
+VIf a story moves you, act on it
+p288
+s.

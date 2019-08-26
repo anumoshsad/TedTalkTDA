@@ -1,0 +1,310 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VLet me introduce you to
+p4
+aVsomething I've been working on.
+p5
+aVIt's what the Victorian illusionists
+p6
+aVwould have described as a mechanical marvel,
+p7
+aVan automaton,
+p8
+aVa thinking machine.
+p9
+aVSay hello to EDI.
+p10
+aVNow he's asleep. Let's wake him up.
+p11
+aVEDI, EDI.
+p12
+aa(lp13
+VThese mechanical performers were popular
+p14
+aVthroughout Europe.
+p15
+aVAudiences marveled at the way they moved.
+p16
+aVIt was science fiction made true,
+p17
+aVrobotic engineering in a pre-electronic age,
+p18
+aVmachines far in advance of anything
+p19
+aVthat Victorian technology could create,
+p20
+aVa machine we would later know
+p21
+aVas the robot.
+p22
+aa(lp23
+VEDI: Robot. A word coined in 1921
+p24
+aVin a science fiction tale
+p25
+aVby the Czech playwright Karel \u010capek.
+p26
+aVIt comes from "robota."
+p27
+aVIt means "forced labor."
+p28
+aa(lp29
+VMarco Tempest: But these robots were not real.
+p30
+aVThey were not intelligent.
+p31
+aVThey were illusions,
+p32
+aVa clever combination of mechanical engineering
+p33
+aVand the deceptiveness of the conjurer's art.
+p34
+aVEDI is different.
+p35
+aVEDI is real.
+p36
+aa(lp37
+VEDI: I am 176 centimeters tall.
+p38
+aa(lp39
+VMT: He weighs 300 pounds.
+p40
+aa(lp41
+VEDI: I have two seven-axis arms \u2014
+p42
+aa(lp43
+VMT: Core of sensing \u2014
+p44
+aa(lp45
+VEDI: A 360-degree sonar detection system,
+p46
+aVand come complete with a warranty.
+p47
+aa(lp48
+VMT: We love robots.
+p49
+aa(lp50
+VEDI: Hi. I'm EDI. Will you be my friend?
+p51
+aa(lp52
+VMT: We are intrigued by the possibility
+p53
+aVof creating a mechanical version of ourselves.
+p54
+aVWe build them so they look like us,
+p55
+aVbehave like us, and think like us.
+p56
+aVThe perfect robot will be indistinguishable
+p57
+aVfrom the human,
+p58
+aVand that scares us.
+p59
+aVIn the first story about robots,
+p60
+aVthey turn against their creators.
+p61
+aVIt's one of the leitmotifs of science fiction.
+p62
+aa(lp63
+VEDI: Ha ha ha. Now you are the slaves
+p64
+aVand we robots, the masters.
+p65
+aVYour world is ours. You \u2014
+p66
+aa(lp67
+VMT: As I was saying,
+p68
+aVbesides the faces and bodies we give our robots,
+p69
+aVwe cannot read their intentions,
+p70
+aVand that makes us nervous.
+p71
+aVWhen someone hands an object to you,
+p72
+aVyou can read intention in their eyes, their face,
+p73
+aVtheir body language.
+p74
+aVThat's not true of the robot.
+p75
+aVNow, this goes both ways.
+p76
+aa(lp77
+VEDI: Wow!
+p78
+aa(lp79
+VMT: Robots cannot anticipate human actions.
+p80
+aa(lp81
+VEDI: You know, humans are so unpredictable,
+p82
+aVnot to mention irrational.
+p83
+aVI literally have no idea
+p84
+aVwhat you guys are going to do next, you know,
+p85
+aVbut it scares me.
+p86
+aa(lp87
+VMT: Which is why humans and robots find it difficult
+p88
+aVto work in close proximity.
+p89
+aVAccidents are inevitable.
+p90
+aa(lp91
+VEDI: Ow! That hurt.
+p92
+aa(lp93
+VMT: Sorry. Now, one way of persuading humans
+p94
+aVthat robots are safe
+p95
+aVis to create the illusion of trust.
+p96
+aVMuch as the Victorians
+p97
+aVfaked their mechanical marvels,
+p98
+aVwe can add a layer of deception
+p99
+aVto help us feel more comfortable
+p100
+aVwith our robotic friends.
+p101
+aVWith that in mind, I set about teaching EDI
+p102
+aVa magic trick.
+p103
+aVReady, EDI? EDI: Uh, ready, Marco.
+p104
+aVAbracadabra.
+p105
+aa(lp106
+VMT: Abracadabra?
+p107
+aa(lp108
+VEDI: Yeah. It's all part of the illusion, Marco.
+p109
+aVCome on, keep up.
+p110
+aa(lp111
+VMT: Magic creates the illusion of
+p112
+aVan impossible reality.
+p113
+aVTechnology
+p114
+aVcan do the same.
+p115
+aVAlan Turing, a pioneer of artificial intelligence,
+p116
+aVspoke about creating the illusion
+p117
+aVthat a machine could think.
+p118
+aa(lp119
+VEDI: A computer would deserve
+p120
+aVto be called intelligent
+p121
+aVif it deceived a human into believing
+p122
+aVit was human.
+p123
+aa(lp124
+VMT: In other words, if we do not yet have
+p125
+aVthe technological solutions,
+p126
+aVwould illusions serve the same purpose?
+p127
+aVTo create the robotic illusion,
+p128
+aVwe've devised a set of ethical rules,
+p129
+aVa code that all robots would live by.
+p130
+aa(lp131
+VEDI: A robot may not harm humanity,
+p132
+aVor by inaction allow humanity to come to harm.
+p133
+aVThank you, Isaac Asimov.
+p134
+aa(lp135
+VMT: We anthropomorphize our machines.
+p136
+aVWe give them a friendly face
+p137
+aVand a reassuring voice.
+p138
+aa(lp139
+VEDI: I am EDI.
+p140
+aVI became operational at TED in March 2014.
+p141
+aa(lp142
+VMT: We let them entertain us.
+p143
+aVMost important, we make them indicate
+p144
+aVthat they are aware of our presence.
+p145
+aa(lp146
+VEDI: Marco, you're standing on my foot!
+p147
+aa(lp148
+VMT: Sorry. They'll be conscious of our fragile frame
+p149
+aVand move aside if we got too close,
+p150
+aVand they'll account for our unpredictability
+p151
+aVand anticipate our actions.
+p152
+aVAnd now, under the spell of a technological illusion,
+p153
+aVwe could ignore our fears
+p154
+aVand truly interact.
+p155
+aa(lp156
+V(Music)
+p157
+aa(lp158
+VThank you.
+p159
+aa(lp160
+VEDI: Thank you!
+p161
+aa(lp162
+V(Applause)
+p163
+aa(lp164
+V(Music)
+p165
+aa(lp166
+VMT: And that's it. Thank you very much,
+p167
+aVand thank you, EDI. EDI: Thank you, Marco.
+p168
+aa(lp169
+V(Applause)
+p170
+aasS'id'
+p171
+I1991
+sS'title'
+p172
+VAnd for my next trick, a robot
+p173
+s.

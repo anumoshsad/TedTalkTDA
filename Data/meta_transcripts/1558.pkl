@@ -1,0 +1,728 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo when the White House was built
+p4
+aVin the early 19th century, it was an open house.
+p5
+aVNeighbors came and went. Under President Adams,
+p6
+aVa local dentist happened by.
+p7
+aVHe wanted to shake the President's hand.
+p8
+aVThe President dismissed the Secretary of State,
+p9
+aVwhom he was conferring with, and asked the dentist
+p10
+aVif he would remove a tooth.
+p11
+aVLater, in the 1850s, under President Pierce,
+p12
+aVhe was known to have remarked
+p13
+aV\u2014 probably the only thing he's known for \u2014
+p14
+aVwhen a neighbor passed by and said, "I'd love to see
+p15
+aVthe beautiful house," and Pierce said to him,
+p16
+aV"Why my dear sir, of course you may come in.
+p17
+aVThis isn't my house. It is the people's house."
+p18
+aa(lp19
+VWell, when I got to the White House in the beginning
+p20
+aVof 2009, at the start of the Obama Administration,
+p21
+aVthe White House was anything but open.
+p22
+aVBomb blast curtains covered my windows.
+p23
+aVWe were running Windows 2000.
+p24
+aVSocial media were blocked at the firewall.
+p25
+aVWe didn't have a blog, let alone a dozen twitter accounts
+p26
+aVlike we have today.
+p27
+aVI came in to become the head of Open Government,
+p28
+aVto take the values and the practices of transparency,
+p29
+aVparticipation and collaboration, and instill them
+p30
+aVinto the way that we work, to open up government,
+p31
+aVto work with people.
+p32
+aa(lp33
+VNow one of the things that we know
+p34
+aVis that companies are very good at getting people to work
+p35
+aVtogether in teams and in networks to make
+p36
+aVvery complex products, like cars and computers,
+p37
+aVand the more complex the products are a society creates,
+p38
+aVthe more successful the society is over time.
+p39
+aVCompanies make goods, but governments,
+p40
+aVthey make public goods. They work on the cure for cancer
+p41
+aVand educating our children and making roads,
+p42
+aVbut we don't have institutions that are particularly good
+p43
+aVat this kind of complexity. We don't have institutions
+p44
+aVthat are good at bringing our talents to bear,
+p45
+aVat working with us in this kind of open and collaborative way.
+p46
+aa(lp47
+VSo when we wanted to create our Open Government policy,
+p48
+aVwhat did we do? We wanted, naturally, to ask public sector
+p49
+aVemployees how we should open up government.
+p50
+aVTurns out that had never been done before.
+p51
+aVWe wanted to ask members of the public to help us
+p52
+aVcome up with a policy, not after the fact, commenting
+p53
+aVon a rule after it's written, the way is typically the case,
+p54
+aVbut in advance. There was no legal precedent,
+p55
+aVno cultural precedent, no technical way of doing this.
+p56
+aVIn fact, many people told us it was illegal.
+p57
+aa(lp58
+VHere's the crux of the obstacle.
+p59
+aVGovernments exist to channel the flow of two things,
+p60
+aVreally, values and expertise to and from government
+p61
+aVand to and from citizens to the end of making decisions.
+p62
+aVBut the way that our institutions are designed,
+p63
+aVin our rather 18th-century, centralized model,
+p64
+aVis to channel the flow of values through voting,
+p65
+aVonce every four years, once every two years, at best,
+p66
+aVonce a year. This is a rather anemic and thin way, in this
+p67
+aVera of social media, for us to actually express our values.
+p68
+aVToday we have technology that lets us express ourselves
+p69
+aVa great deal, perhaps a little too much.
+p70
+aa(lp71
+VThen in the 19th century, we layer on
+p72
+aVthe concept of bureaucracy and the administrative state
+p73
+aVto help us govern complex and large societies.
+p74
+aVBut we've centralized these bureaucracies.
+p75
+aVWe've entrenched them. And we know that
+p76
+aVthe smartest person always works for someone else.
+p77
+aVWe need to only look around this room to know that
+p78
+aVexpertise and intelligence is widely distributed in society,
+p79
+aVand not limited simply to our institutions.
+p80
+aa(lp81
+VScientists have been studying in recent years
+p82
+aVthe phenomenon that they often describe as flow,
+p83
+aVthat the design of our systems, whether natural or social,
+p84
+aVchannel the flow of whatever runs through them.
+p85
+aVSo a river is designed to channel the flow of water,
+p86
+aVand the lightning bolt that comes out of a cloud channels
+p87
+aVthe flow of electricity, and a leaf is designed to channel
+p88
+aVthe flow of nutrients to the tree,
+p89
+aVsometimes even having to route around an obstacle,
+p90
+aVbut to get that nutrition flowing.
+p91
+aVThe same can be said for our social systems, for our
+p92
+aVsystems of government, where, at the very least,
+p93
+aVflow offers us a helpful metaphor for understanding
+p94
+aVwhat the problem is, what's really broken,
+p95
+aVand the urgent need that we have, that we all feel today,
+p96
+aVto redesign the flow of our institutions.
+p97
+aa(lp98
+VWe live in a Cambrian era of big data, of social networks,
+p99
+aVand we have this opportunity to redesign these institutions
+p100
+aVthat are actually quite recent.
+p101
+aVThink about it: What other business do you know,
+p102
+aVwhat other sector of the economy, and especially one
+p103
+aVas big as the public sector, that doesn't seek to reinvent
+p104
+aVits business model on a regular basis?
+p105
+aVSure, we invest plenty in innovation. We invest
+p106
+aVin broadband and science education and science grants,
+p107
+aVbut we invest far too little in reinventing and redesigning
+p108
+aVthe institutions that we have.
+p109
+aa(lp110
+VNow, it's very easy to complain, of course, about
+p111
+aVpartisan politics and entrenched bureaucracy, and we love
+p112
+aVto complain about government. It's a perennial pastime,
+p113
+aVespecially around election time, but
+p114
+aVthe world is complex. We soon will have 10 billion people,
+p115
+aVmany of whom will lack basic resources.
+p116
+aVSo complain as we might, what actually can replace
+p117
+aVwhat we have today?
+p118
+aVWhat comes the day after the Arab Spring?
+p119
+aa(lp120
+VWell, one attractive alternative that obviously presents itself
+p121
+aVto us is that of networks. Right? Networks
+p122
+aVlike Facebook and Twitter. They're lean. They're mean.
+p123
+aVYou've got 3,000 employees at Facebook
+p124
+aVgoverning 900 million inhabitants.
+p125
+aVWe might even call them citizens, because they've recently
+p126
+aVrisen up to fight against legislative incursion,
+p127
+aVand the citizens of these networks work together
+p128
+aVto serve each other in great ways.
+p129
+aVBut private communities, private, corporate,
+p130
+aVprivatizing communities, are not bottom-up democracies.
+p131
+aVThey cannot replace government.
+p132
+aVFriending someone on Facebook is not complex enough
+p133
+aVto do the hard work of you and I collaborating
+p134
+aVwith each other and doing the hard work of governance.
+p135
+aVBut social media do teach us something.
+p136
+aVWhy is Twitter so successful? Because it opens up its platform.
+p137
+aVIt opens up the API to allow hundreds of thousands
+p138
+aVof new applications to be built on top of it, so that we can
+p139
+aVread and process information in new and exciting ways.
+p140
+aVWe need to think about how to open up the API
+p141
+aVof government, and the way that we're going to do that,
+p142
+aVthe next great superpower is going to be the one
+p143
+aVwho can successfully combine the hierarchy of institution \u2014
+p144
+aVbecause we have to maintain those public values,
+p145
+aVwe have to coordinate the flow \u2014 but with the diversity
+p146
+aVand the pulsating life and the chaos and the excitement
+p147
+aVof networks, all of us working together to build
+p148
+aVthese new innovations on top of our institutions,
+p149
+aVto engage in the practice of governance.
+p150
+aa(lp151
+VWe have a precedent for this. Good old Henry II here,
+p152
+aVin the 12th century, invented the jury.
+p153
+aVPowerful, practical, palpable model for handing power
+p154
+aVfrom government to citizens.
+p155
+aVToday we have the opportunity, and we have
+p156
+aVthe imperative, to create thousands of new ways
+p157
+aVof interconnecting between networks and institutions,
+p158
+aVthousands of new kinds of juries: the citizen jury,
+p159
+aVthe Carrotmob, the hackathon, we are just beginning
+p160
+aVto invent the models by which we can cocreate
+p161
+aVthe process of governance.
+p162
+aa(lp163
+VNow, we don't fully have a picture of what this will look like
+p164
+aVyet, but we're seeing pockets of evolution
+p165
+aVemerging all around us \u2014 maybe not even evolution,
+p166
+aVI'd even start to call it a revolution \u2014 in the way that we govern.
+p167
+aVSome of it's very high-tech,
+p168
+aVand some of it is extremely low-tech,
+p169
+aVsuch as the project that MKSS is running in Rajasthan,
+p170
+aVIndia, where they take the spending data of the state
+p171
+aVand paint it on 100,000 village walls,
+p172
+aVand then invite the villagers to come and comment
+p173
+aVwho is on the government payroll, who's actually died,
+p174
+aVwhat are the bridges that have been built to nowhere,
+p175
+aVand to work together through civic engagement to save
+p176
+aVreal money and participate and have access to that budget.
+p177
+aa(lp178
+VBut it's not just about policing government.
+p179
+aVIt's also about creating government.
+p180
+aVSpacehive in the U.K. is engaging in crowd-funding,
+p181
+aVgetting you and me to raise the money to build
+p182
+aVthe goalposts and the park benches that will actually
+p183
+aVallow us to deliver better services in our communities.
+p184
+aVNo one is better at this activity of actually getting us
+p185
+aVto engage in delivering services,
+p186
+aVsometimes where none exist, than Ushahidi.
+p187
+aVCreated after the post-election riots in Kenya in 2008,
+p188
+aVthis crisis-mapping website and community is actually able
+p189
+aVto crowdsource and target the delivery of
+p190
+aVbetter rescue services to people trapped under the rubble,
+p191
+aVwhether it's after the earthquakes in Haiti,
+p192
+aVor more recently in Italy.
+p193
+aVAnd the Red Cross too is training volunteers and Twitter
+p194
+aVis certifying them, not simply to supplement existing
+p195
+aVgovernment institutions, but in many cases, to replace them.
+p196
+aa(lp197
+VNow what we're seeing lots of examples of, obviously,
+p198
+aVis the opening up of government data,
+p199
+aVnot enough examples of this yet, but we're starting
+p200
+aVto see this practice of people creating and generating
+p201
+aVinnovative applications on top of government data.
+p202
+aVThere's so many examples I could have picked, and I
+p203
+aVselected this one of Jon Bon Jovi. Some of you
+p204
+aVmay or may not know that he runs a soup kitchen
+p205
+aVin New Jersey, where he caters to and serves the homeless
+p206
+aVand particularly homeless veterans.
+p207
+aVIn February, he approached the White House, and said,
+p208
+aV"I would like to fund a prize to create scalable national
+p209
+aVapplications, apps, that will help not only the homeless
+p210
+aVbut those who deliver services [to] them to do so better."
+p211
+aVFebruary 2012 to June of 2012,
+p212
+aVthe finalists are announced in the competition.
+p213
+aVCan you imagine, in the bureaucratic world of yesteryear,
+p214
+aVgetting anything done in a four-month period of time?
+p215
+aVYou can barely fill out the forms in that amount of time,
+p216
+aVlet alone generate real, palpable innovations
+p217
+aVthat improve people's lives.
+p218
+aa(lp219
+VAnd I want to be clear to mention that this open government
+p220
+aVrevolution is not about privatizing government,
+p221
+aVbecause in many cases what it can do when we have
+p222
+aVthe will to do so is to deliver more progressive
+p223
+aVand better policy than the regulations and the legislative
+p224
+aVand litigation-oriented strategies
+p225
+aVby which we make policy today.
+p226
+aVIn the State of Texas, they regulate 515 professions,
+p227
+aVfrom well-driller to florist.
+p228
+aVNow, you can carry a gun into a church in Dallas,
+p229
+aVbut do not make a flower arrangement without a license,
+p230
+aVbecause that will land you in jail.
+p231
+aVSo what is Texas doing? They're asking you and me,
+p232
+aVusing online policy wikis, to help not simply get rid of
+p233
+aVburdensome regulations that impede entrepreneurship,
+p234
+aVbut to replace those regulations with more innovative
+p235
+aValternatives, sometimes using transparency in the creation
+p236
+aVof new iPhone apps that will allows us
+p237
+aVboth to protect consumers and the public
+p238
+aVand to encourage economic development.
+p239
+aa(lp240
+VThat is a nice sideline of open government.
+p241
+aVIt's not only the benefits that we've talked about with regard
+p242
+aVto development. It's the economic benefits and the
+p243
+aVjob creation that's coming from this open innovation work.
+p244
+aVSberbank, the largest and oldest bank in Russia,
+p245
+aVlargely owned by the Russian government,
+p246
+aVhas started practicing crowdsourcing, engaging
+p247
+aVits employees and citizens in the public in developing innovations.
+p248
+aVLast year they saved a billion dollars, 30 billion rubles,
+p249
+aVfrom open innovation, and they're pushing radically
+p250
+aVthe extension of crowdsourcing, not only from banking,
+p251
+aVbut into the public sector.
+p252
+aVAnd we see lots of examples of these innovators using
+p253
+aVopen government data, not simply to make apps,
+p254
+aVbut then to make companies and to hire people
+p255
+aVto build them working with the government.
+p256
+aa(lp257
+VSo a lot of these innovations are local.
+p258
+aVIn San Ramon, California, they published an iPhone app
+p259
+aVin which they allow you or me to say we are certified
+p260
+aVCPR-trained, and then when someone has a heart attack,
+p261
+aVa notification goes out so that you
+p262
+aVcan rush over to the person over here and deliver CPR.
+p263
+aVThe victim who receives bystander CPR
+p264
+aVis more than twice as likely to survive.
+p265
+aV"There is a hero in all of us," is their slogan.
+p266
+aa(lp267
+VBut it's not limited to the local.
+p268
+aVBritish Columbia, Canada, is publishing a catalogue
+p269
+aVof all the ways that its residents and citizens can engage
+p270
+aVwith the state in the cocreation of governance.
+p271
+aa(lp272
+VLet me be very clear,
+p273
+aVand perhaps controversial,
+p274
+aVthat open government is not
+p275
+aVabout transparent government.
+p276
+aVSimply throwing data over the transom doesn't change
+p277
+aVhow government works.
+p278
+aVIt doesn't get anybody to do anything with that data
+p279
+aVto change lives, to solve problems, and it doesn't change
+p280
+aVgovernment.
+p281
+aVWhat it does is it creates an adversarial relationship
+p282
+aVbetween civil society and government
+p283
+aVover the control and ownership of information.
+p284
+aVAnd transparency, by itself, is not reducing the flow
+p285
+aVof money into politics, and arguably,
+p286
+aVit's not even producing accountability as well as it might
+p287
+aVif we took the next step of combining participation and
+p288
+aVcollaboration with transparency to transform how we work.
+p289
+aa(lp290
+VWe're going to see this evolution really in two phases,
+p291
+aVI think. The first phase of the open government revolution
+p292
+aVis delivering better information from the crowd
+p293
+aVinto the center.
+p294
+aVStarting in 2005, and this is how this open government
+p295
+aVwork in the U.S. really got started,
+p296
+aVI was teaching a patent law class to my students and
+p297
+aVexplaining to them how a single person in the bureaucracy
+p298
+aVhas the power to make a decision
+p299
+aVabout which patent application becomes the next patent,
+p300
+aVand therefore monopolizes for 20 years the rights
+p301
+aVover an entire field of inventive activity.
+p302
+aVWell, what did we do? We said, we can make a website,
+p303
+aVwe can make an expert network, a social network,
+p304
+aVthat would connect the network to the institution
+p305
+aVto allow scientists and technologists to get
+p306
+aVbetter information to the patent office
+p307
+aVto aid in making those decisions.
+p308
+aVWe piloted the work in the U.S. and the U.K. and Japan
+p309
+aVand Australia, and now I'm pleased to report
+p310
+aVthat the United States Patent Office will be rolling out
+p311
+aVuniversal, complete, and total openness,
+p312
+aVso that all patent applications will now be open
+p313
+aVfor citizen participation, beginning this year.
+p314
+aa(lp315
+VThe second phase of this evolution \u2014 Yeah. (Applause)
+p316
+aVThey deserve a hand. (Applause)
+p317
+aa(lp318
+VThe first phase is in getting better information in.
+p319
+aVThe second phase is in getting decision-making power out.
+p320
+aVParticipatory budgeting has long been practiced
+p321
+aVin Porto Alegre, Brazil.
+p322
+aVThey're just starting it in the 49th Ward in Chicago.
+p323
+aVRussia is using wikis to get citizens writing law together,
+p324
+aVas is Lithuania. When we start to see
+p325
+aVpower over the core functions of government
+p326
+aV\u2014 spending, legislation, decision-making \u2014
+p327
+aVthen we're well on our way to an open government revolution.
+p328
+aa(lp329
+VThere are many things that we can do to get us there.
+p330
+aVObviously opening up the data is one,
+p331
+aVbut the important thing is to create lots more \u2014
+p332
+aVcreate and curate \u2014 lots more participatory opportunities.
+p333
+aVHackathons and mashathons and working with data
+p334
+aVto build apps is an intelligible way for people to engage
+p335
+aVand participate, like the jury is,
+p336
+aVbut we're going to need lots more things like it.
+p337
+aVAnd that's why we need to start with our youngest people.
+p338
+aVWe've heard talk here at TED about people
+p339
+aVbiohacking and hacking their plants with Arduino,
+p340
+aVand Mozilla is doing work around the world in getting
+p341
+aVyoung people to build websites and make videos.
+p342
+aVWhen we start by teaching young people that we live,
+p343
+aVnot in a passive society, a read-only society,
+p344
+aVbut in a writable society, where we have the power
+p345
+aVto change our communities, to change our institutions,
+p346
+aVthat's when we begin to really put ourselves on the pathway
+p347
+aVtowards this open government innovation,
+p348
+aVtowards this open government movement,
+p349
+aVtowards this open government revolution.
+p350
+aa(lp351
+VSo let me close by saying that I think the important thing
+p352
+aVfor us to do is to talk about and demand this revolution.
+p353
+aVWe don't have words, really, to describe it yet.
+p354
+aVWords like equality and fairness and the traditional
+p355
+aVelections, democracy, these are not really great terms yet.
+p356
+aVThey're not fun enough. They're not exciting enough
+p357
+aVto get us engaged in this tremendous opportunity
+p358
+aVthat awaits us. But I would argue that if we want to see
+p359
+aVthe kinds of innovations, the hopeful and exciting
+p360
+aVinnovations that we hear talked about here at TED,
+p361
+aVin clean energy, in clean education,
+p362
+aVin development, if we want to see those adopted
+p363
+aVand we want to see those scaled,
+p364
+aVwe want to see them become the governance of tomorrow,
+p365
+aVthen we must all participate,
+p366
+aVthen we must get involved.
+p367
+aVWe must open up our institutions, and like the leaf,
+p368
+aVwe must let the nutrients flow throughout our body politic,
+p369
+aVthroughout our culture, to create open institutions
+p370
+aVto create a stronger democracy, a better tomorrow.
+p371
+aVThank you. (Applause)
+p372
+aasS'id'
+p373
+I1558
+sS'title'
+p374
+VDemand a more open-source government
+p375
+s.

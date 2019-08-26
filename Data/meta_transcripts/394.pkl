@@ -1,0 +1,466 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo, about three years ago I was in London,
+p4
+aVand somebody called Howard Burton came to me and said,
+p5
+aVI represent a group of people,
+p6
+aVand we want to start an institute in theoretical physics.
+p7
+aVWe have about 120 million dollars, and we want to do it well.
+p8
+aVWe want to be in the forefront fields,
+p9
+aVand we want to do it differently.
+p10
+aVWe want to get out of this thing
+p11
+aVwhere the young people have all the ideas, and the old people have all the power
+p12
+aVand decide what science gets done.
+p13
+aVIt took me about 25 seconds to decide that that was a good idea.
+p14
+aa(lp15
+VThree years later, we have the Perimeter Institute for Theoretical Physics
+p16
+aVin Waterloo, Ontario. It\u2019s the most exciting job I\u2019ve ever had.
+p17
+aVAnd it\u2019s the first time I\u2019ve had a job where I\u2019m afraid to go away
+p18
+aVbecause of everything that\u2019s going to happen in this week when I\u2019m here.
+p19
+aV(Laughter)
+p20
+aVBut in any case, what I\u2019m going to do in my little bit of time
+p21
+aVis take you on a quick tour of some of the things
+p22
+aVthat we talk about and we think about.
+p23
+aVSo, we think a lot about what really makes science work?
+p24
+aVThe first thing that anybody who knows science,
+p25
+aVand has been around science,
+p26
+aVis that the stuff you learn in school as a scientific method
+p27
+aVis wrong. There is no method.
+p28
+aVOn the other hand, somehow we manage to reason together
+p29
+aVas a community, from incomplete evidence
+p30
+aVto conclusions that we all agree about.
+p31
+aVAnd this is, by the way, something that a democratic society also has to do.
+p32
+aa(lp33
+VSo how does it work?
+p34
+aVWell, my belief is that it works
+p35
+aVbecause scientists are a community bound together by an ethics.
+p36
+aVAnd here are some of the ethical principles.
+p37
+aVI\u2019m not going to read them all to you because I\u2019m not in teacher mode.
+p38
+aVI\u2019m in entertain, amaze mode.
+p39
+aV(Laughter)
+p40
+aa(lp41
+VBut one of the principles is that everybody
+p42
+aVwho is part of the community gets to fight and argue
+p43
+aVas hard as they can for what they believe.
+p44
+aVBut we\u2019re all disciplined by the understanding
+p45
+aVthat the only people who are going to decide, you know,
+p46
+aVwhether I\u2019m right or somebody else is right,
+p47
+aVare the people in our community in the next generation,
+p48
+aVin 30 and 50 years.
+p49
+aVSo it\u2019s this combination of respect
+p50
+aVfor the tradition and community we\u2019re in,
+p51
+aVand rebellion that the community requires to get anywhere,
+p52
+aVthat makes science work.
+p53
+aVAnd being in this process of being in a community
+p54
+aVthat reasons from shared evidence to conclusions,
+p55
+aVI believe, teaches us about democracy.
+p56
+aVNot only is there a relationship between the ethics of science
+p57
+aVand the ethics of being a citizen in democracy,
+p58
+aVbut there has been, historically, a relationship
+p59
+aVbetween how people think about space and time, and what the cosmos is,
+p60
+aVand how people think about the society that they live in.
+p61
+aa(lp62
+VAnd I want to talk about three stages in that evolution.
+p63
+aVThe first science of cosmology that was anything like science
+p64
+aVwas Aristotelian science, and that was hierarchical.
+p65
+aVThe earth is in the center, then there are these crystal spheres,
+p66
+aVthe sun, the moon, the planets and finally the celestial sphere,
+p67
+aVwhere the stars are. And everything in this universe has a place.
+p68
+aVAnd Aristotle\u2019s law of motion was that everything
+p69
+aVgoes to its natural place, which was of course,
+p70
+aVthe rule of the society that Aristotle lived in,
+p71
+aVand more importantly, the medieval society that, through Christianity,
+p72
+aVembraced Aristotle and blessed it.
+p73
+aVAnd the idea is that everything is defined.
+p74
+aVWhere something is, is defined with respect to this last sphere,
+p75
+aVthe celestial sphere, outside of which is this eternal,
+p76
+aVperfect realm, where lives God,
+p77
+aVwho is the ultimate judge of everything.
+p78
+aa(lp79
+VSo that is both Aristotelian cosmology,
+p80
+aVand in a certain sense, medieval society.
+p81
+aVNow, in the 17th century there was a revolution in thinking about
+p82
+aVspace and time and motion and so forth of Newton.
+p83
+aVAnd at the same time there was a revolution in social thought
+p84
+aVof John Locke and his collaborators.
+p85
+aVAnd they were very closely associated.
+p86
+aVIn fact, Newton and Locke were friends.
+p87
+aVTheir way of thinking about space and time and motion on the one hand,
+p88
+aVand a society on the other hand, were closely related.
+p89
+aa(lp90
+VAnd let me show you.
+p91
+aVIn a Newtonian universe, there\u2019s no center \u2014 thank you.
+p92
+aVThere are particles and they move around
+p93
+aVwith respect to a fixed, absolute framework of space and time.
+p94
+aVIt\u2019s meaningful to say absolutely where something is in space,
+p95
+aVbecause that\u2019s defined, not with respect to say, where other things are,
+p96
+aVbut with respect to this absolute notion of space,
+p97
+aVwhich for Newton was God.
+p98
+aa(lp99
+VNow, similarly, in Locke\u2019s society there are individuals
+p100
+aVwho have certain rights, properties in a formal sense,
+p101
+aVand those are defined with respect to some absolute,
+p102
+aVabstract notions of rights and justice, and so forth,
+p103
+aVwhich are independent of what else has happened in the society.
+p104
+aVOf who else there is, of the history and so forth.
+p105
+aVThere is also an omniscient observer
+p106
+aVwho knows everything, who is God,
+p107
+aVwho is in a certain sense outside the universe,
+p108
+aVbecause he has no role in anything that happens,
+p109
+aVbut is in a certain sense everywhere,
+p110
+aVbecause space is just the way that God knows
+p111
+aVwhere everything is, according to Newton, OK?
+p112
+aa(lp113
+VSo this is the foundations of what\u2019s called, traditionally,
+p114
+aVliberal political theory and Newtonian physics.
+p115
+aVNow, in the 20th century we had a revolution
+p116
+aVthat was initiated at the beginning of the 20th century,
+p117
+aVand which is still going on.
+p118
+aVIt was begun with the invention
+p119
+aVof relativity theory and quantum theory.
+p120
+aVAnd merging them together to make the final quantum theory
+p121
+aVof space and time and gravity, is the culmination of that,
+p122
+aVsomething that\u2019s going on right now.
+p123
+aVAnd in this universe there\u2019s nothing fixed and absolute. Zilch, OK.
+p124
+aVThis universe is described by being a network of relationships.
+p125
+aa(lp126
+VSpace is just one aspect, so there\u2019s no meaning to say
+p127
+aVabsolutely where something is.
+p128
+aVThere\u2019s only where it is relative to everything else that is.
+p129
+aVAnd this network of relations is ever-evolving.
+p130
+aVSo we call it a relational universe.
+p131
+aVAll properties of things are about these kinds of relationships.
+p132
+aVAnd also, if you\u2019re embedded in such a network of relationships,
+p133
+aVyour view of the world has to do with what information
+p134
+aVcomes to you through the network of relations.
+p135
+aVAnd there\u2019s no place for an omniscient observer
+p136
+aVor an outside intelligence knowing everything and making everything.
+p137
+aVSo this is general relativity, this is quantum theory.
+p138
+aVThis is also, if you talk to legal scholars,
+p139
+aVthe foundations of new ideas in legal thought.
+p140
+aVThey\u2019re thinking about the same things.
+p141
+aVAnd not only that, they make the analogy
+p142
+aVto relativity theory and cosmology often.
+p143
+aVSo there\u2019s an interesting discussion going on there.
+p144
+aVThis last view of cosmology is called the relational view.
+p145
+aa(lp146
+VSo the main slogan here is that there\u2019s nothing outside the universe,
+p147
+aVwhich means that there\u2019s no place
+p148
+aVto put an explanation for something outside.
+p149
+aVSo in such a relational universe,
+p150
+aVif you come upon something that\u2019s ordered and structured,
+p151
+aVlike this device here, or that device there,
+p152
+aVor something beautiful, like all the living things,
+p153
+aVall of you guys in the room \u2014
+p154
+aV"guys" in physics, by the way, is a generic term: men and women.
+p155
+aV(Laughter)
+p156
+aa(lp157
+VThen you want to know, you\u2019re a person,
+p158
+aVyou want to know how is it made.
+p159
+aVAnd in a relational universe the only possible explanation was, somehow it made itself.
+p160
+aVThere must be mechanisms of self-organization
+p161
+aVinside the universe that make things.
+p162
+aVBecause there\u2019s no place to put a maker outside,
+p163
+aVas there was in the Aristotelian and the Newtonian universe.
+p164
+aVSo in a relational universe we must have processes of self-organization.
+p165
+aa(lp166
+VNow, Darwin taught us that there are processes of self-organization
+p167
+aVthat suffice to explain all of us and everything we see.
+p168
+aVSo it works. But not only that,
+p169
+aVif you think about how natural selection works,
+p170
+aVthen it turns out that natural selection
+p171
+aVwould only make sense in such a relational universe.
+p172
+aVThat is, natural selection works on properties,
+p173
+aVlike fitness, which are about relationships
+p174
+aVof some species to some other species.
+p175
+aVDarwin wouldn\u2019t make sense in an Aristotelian universe,
+p176
+aVand wouldn\u2019t really make sense in a Newtonian universe.
+p177
+aa(lp178
+VSo a theory of biology based on natural selection
+p179
+aVrequires a relational notion of
+p180
+aVwhat are the properties of biological systems.
+p181
+aVAnd if you push that all the way down, really,
+p182
+aVit makes the best sense in a relational universe
+p183
+aVwhere all properties are relational.
+p184
+aVNow, not only that, but Einstein taught us
+p185
+aVthat gravity is the result of the world being relational.
+p186
+aVIf it wasn\u2019t for gravity, there wouldn\u2019t be life,
+p187
+aVbecause gravity causes stars to form and live for a very long time,
+p188
+aVkeeping pieces of the world, like the surface of the Earth,
+p189
+aVout of thermal equilibrium for billions of years so life can evolve.
+p190
+aa(lp191
+VIn the 20th century,
+p192
+aVwe saw the independent development of two big themes in science.
+p193
+aVIn the biological sciences, they explored
+p194
+aVthe implications of the notion that order and complexity
+p195
+aVand structure arise in a self-organized way.
+p196
+aVThat was the triumph of Neo-Darwinism and so forth.
+p197
+aVAnd slowly, that idea is leaking out to the cognitive sciences,
+p198
+aVthe human sciences, economics, et cetera.
+p199
+aVAt the same time, we physicists
+p200
+aVhave been busy trying to make sense of
+p201
+aVand build on and integrate the discoveries
+p202
+aVof quantum theory and relativity.
+p203
+aa(lp204
+VAnd what we\u2019ve been working out is the implications, really,
+p205
+aVof the idea that the universe is made up of relations.
+p206
+aV21st-century science is going to be driven
+p207
+aVby the integration of these two ideas:
+p208
+aVthe triumph of relational ways of thinking
+p209
+aVabout the world, on the one hand,
+p210
+aVand self-organization or Darwinian ways of thinking about the world,
+p211
+aVon the other hand.
+p212
+aVAnd also, is that in the 21st century
+p213
+aVour thinking about space and time and cosmology,
+p214
+aVand our thinking about society are both going to continue to evolve.
+p215
+aVAnd what they\u2019re evolving towards is the union
+p216
+aVof these two big ideas, Darwinism and relationalism.
+p217
+aa(lp218
+VNow, if you think about democracy from this perspective,
+p219
+aVa new pluralistic notion of democracy would be one that recognizes
+p220
+aVthat there are many different interests, many different agendas,
+p221
+aVmany different individuals, many different points of view.
+p222
+aVEach one is incomplete, because you\u2019re embedded
+p223
+aVin a network of relationships.
+p224
+aVAny actor in a democracy is embedded
+p225
+aVin a network of relationships.
+p226
+aVAnd you understand some things better than other things,
+p227
+aVand because of that there\u2019s a continual jostling
+p228
+aVand give and take, which is politics.
+p229
+aVAnd politics is, in the ideal sense,
+p230
+aVthe way in which we continually address
+p231
+aVour network of relations in order to achieve
+p232
+aVa better life and a better society.
+p233
+aa(lp234
+VAnd I also think that science will never go away and \u2014
+p235
+aVI\u2019m finishing on this line.
+p236
+aV(Laughter)
+p237
+aVIn fact, I\u2019m finished. Science will never go away.
+p238
+aasS'id'
+p239
+I394
+sS'title'
+p240
+VScience and democracy
+p241
+s.

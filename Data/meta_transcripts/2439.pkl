@@ -1,0 +1,465 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+V1.3 billion years ago,
+p4
+aVin a distant, distant galaxy,
+p5
+aVtwo black holes locked into a spiral,
+p6
+aVfalling inexorably towards each other
+p7
+aVand collided,
+p8
+aVconverting three Suns' worth of stuff
+p9
+aVinto pure energy in a tenth of a second.
+p10
+aVFor that brief moment in time,
+p11
+aVthe glow was brighter than all the stars
+p12
+aVin all the galaxies
+p13
+aVin all of the known Universe.
+p14
+aVIt was a very
+p15
+aVbig
+p16
+aVbang.
+p17
+aa(lp18
+VBut they didn't release their energy in light.
+p19
+aVI mean, you know, they're black holes.
+p20
+aVAll that energy was pumped into the fabric of space and time itself,
+p21
+aVmaking the Universe explode in gravitational waves.
+p22
+aa(lp23
+VLet me give you a sense of the timescale at work here.
+p24
+aV1.3 billion years ago,
+p25
+aVEarth had just managed to evolve multicellular life.
+p26
+aVSince then, Earth has made and evolved
+p27
+aVcorals, fish, plants, dinosaurs, people and even \u2014 God save us \u2014 the Internet.
+p28
+aVAnd about 25 years ago,
+p29
+aVa particularly audacious set of people \u2014
+p30
+aVRai Weiss at MIT, Kip Thorne and Ronald Drever at Caltech \u2014
+p31
+aVdecided that it would be really neat
+p32
+aVto build a giant laser detector
+p33
+aVwith which to search for the gravitational waves
+p34
+aVfrom things like colliding black holes.
+p35
+aa(lp36
+VNow, most people thought they were nuts.
+p37
+aVBut enough people realized that they were brilliant nuts
+p38
+aVthat the US National Science Foundation decided to fund their crazy idea.
+p39
+aVSo after decades of development,
+p40
+aVconstruction and imagination
+p41
+aVand a breathtaking amount of hard work,
+p42
+aVthey built their detector, called LIGO:
+p43
+aVThe Laser Interferometer Gravitational-Wave Observatory.
+p44
+aa(lp45
+VFor the last several years,
+p46
+aVLIGO's been undergoing a huge expansion in its accuracy,
+p47
+aVa tremendous improvement in its detection ability.
+p48
+aVIt's now called Advanced LIGO as a result.
+p49
+aa(lp50
+VIn early September of 2015,
+p51
+aVLIGO turned on for a final test run
+p52
+aVwhile they sorted out a few lingering details.
+p53
+aVAnd on September 14 of 2015,
+p54
+aVjust days after the detector had gone live,
+p55
+aVthe gravitational waves from those colliding black holes
+p56
+aVpassed through the Earth.
+p57
+aVAnd they passed through you and me.
+p58
+aVAnd they passed through the detector.
+p59
+aa(lp60
+V(Audio) Scott Hughes: There's two moments in my life
+p61
+aVmore emotionally intense than that.
+p62
+aVOne is the birth of my daughter.
+p63
+aVThe other is when I had to say goodbye to my father when he was terminally ill.
+p64
+aVYou know, it was the payoff of my career, basically.
+p65
+aVEverything I'd been working on \u2014 it's no longer science fiction! (Laughs)
+p66
+aa(lp67
+VAllan Adams: So that's my very good friend and collaborator, Scott Hughes,
+p68
+aVa theoretical physicist at MIT,
+p69
+aVwho has been studying gravitational waves from black holes
+p70
+aVand the signals that they could impart on observatories like LIGO,
+p71
+aVfor the past 23 years.
+p72
+aa(lp73
+VSo let me take a moment to tell you what I mean by a gravitational wave.
+p74
+aVA gravitational wave is a ripple
+p75
+aVin the shape of space and time.
+p76
+aVAs the wave passes by,
+p77
+aVit stretches space and everything in it
+p78
+aVin one direction,
+p79
+aVand compresses it in the other.
+p80
+aVThis has led to countless instructors of general relativity
+p81
+aVdoing a really silly dance to demonstrate in their classes on general relativity.
+p82
+aV"It stretches and expands, it stretches and expands."
+p83
+aa(lp84
+VSo the trouble with gravitational waves
+p85
+aVis that they're very weak; they're preposterously weak.
+p86
+aVFor example, the waves that hit us on September 14 \u2014
+p87
+aVand yes, every single one of you stretched and compressed
+p88
+aVunder the action of that wave \u2014
+p89
+aVwhen the waves hit, they stretched the average person
+p90
+aVby one part in 10 to the 21.
+p91
+aVThat's a decimal place, 20 zeroes,
+p92
+aVand a one.
+p93
+aVThat's why everyone thought the LIGO people were nuts.
+p94
+aVEven with a laser detector five kilometers long \u2014 and that's already crazy \u2014
+p95
+aVthey would have to measure the length of those detectors
+p96
+aVto less than one thousandth of the radius of the nucleus
+p97
+aVof an atom.
+p98
+aVAnd that's preposterous.
+p99
+aa(lp100
+VSo towards the end of his classic text on gravity,
+p101
+aVLIGO co-founder Kip Thorne
+p102
+aVdescribed the hunt for gravitational waves as follows:
+p103
+aVHe said, "The technical difficulties to be surmounted
+p104
+aVin constructing such detectors
+p105
+aVare enormous.
+p106
+aVBut physicists are ingenious,
+p107
+aVand with the support of a broad lay public,
+p108
+aVall obstacles will surely be overcome."
+p109
+aVThorne published that in 1973,
+p110
+aV42 years before he succeeded.
+p111
+aa(lp112
+VNow, coming back to LIGO,
+p113
+aVScott likes to say that LIGO acts like an ear
+p114
+aVmore than it does like an eye.
+p115
+aVI want to explain what that means.
+p116
+aVVisible light has a wavelength, a size,
+p117
+aVthat's much smaller than the things around you,
+p118
+aVthe features on people's faces,
+p119
+aVthe size of your cell phone.
+p120
+aVAnd that's really useful,
+p121
+aVbecause it lets you make an image or a map of the things around you,
+p122
+aVby looking at the light coming from different spots
+p123
+aVin the scene about you.
+p124
+aa(lp125
+VSound is different.
+p126
+aVAudible sound has a wavelength that can be up to 50 feet long.
+p127
+aVAnd that makes it really difficult \u2014
+p128
+aVin fact, in practical purposes, impossible \u2014 to make an image
+p129
+aVof something you really care about.
+p130
+aVYour child's face.
+p131
+aVInstead, we use sound to listen for features like pitch
+p132
+aVand tone and rhythm and volume
+p133
+aVto infer a story behind the sounds.
+p134
+aVThat's Alice talking.
+p135
+aVThat's Bob interrupting.
+p136
+aVSilly Bob.
+p137
+aa(lp138
+VSo, the same is true of gravitational waves.
+p139
+aVWe can't use them to make simple images of things out in the Universe.
+p140
+aVBut by listening to changes
+p141
+aVin the amplitude and frequency of those waves,
+p142
+aVwe can hear the story that those waves are telling.
+p143
+aVAnd at least for LIGO,
+p144
+aVthe frequencies that it can hear are in the audio band.
+p145
+aVSo if we convert the wave patterns into pressure waves and air, into sound,
+p146
+aVwe can literally hear the Universe speaking to us.
+p147
+aVFor example, listening to gravity, just in this way,
+p148
+aVcan tell us a lot about the collision of two black holes,
+p149
+aVsomething my colleague Scott has spent an awful lot of time thinking about.
+p150
+aa(lp151
+V(Audio) SH: If the two black holes are non-spinning,
+p152
+aVyou get a very simple chirp: whoop!
+p153
+aVIf the two bodies are spinning very rapidly, I have that same chirp,
+p154
+aVbut with a modulation on top of it,
+p155
+aVso it kind of goes: whir, whir, whir!
+p156
+aVIt's sort of the vocabulary of spin imprinted on this waveform.
+p157
+aa(lp158
+VAA: So on September 14, 2015,
+p159
+aVa date that's definitely going to live in my memory,
+p160
+aVLIGO heard this:
+p161
+aa(lp162
+V[Whirring sound]
+p163
+aa(lp164
+VSo if you know how to listen, that is the sound of \u2014
+p165
+aa(lp166
+V(Audio) SH: ... two black holes, each of about 30 solar masses,
+p167
+aVthat were whirling around at a rate
+p168
+aVcomparable to what goes on in your blender.
+p169
+aa(lp170
+VAA: It's worth pausing here to think about what that means.
+p171
+aVTwo black holes, the densest thing in the Universe,
+p172
+aVone with a mass of 29 Suns
+p173
+aVand one with a mass of 36 Suns,
+p174
+aVwhirling around each other 100 times per second
+p175
+aVbefore they collide.
+p176
+aVJust imagine the power of that.
+p177
+aVIt's fantastic.
+p178
+aVAnd we know it because we heard it.
+p179
+aa(lp180
+VThat's the lasting importance of LIGO.
+p181
+aVIt's an entirely new way to observe the Universe
+p182
+aVthat we've never had before.
+p183
+aVIt's a way that lets us hear the Universe
+p184
+aVand hear the invisible.
+p185
+aa(lp186
+VAnd there's a lot out there that we can't see \u2014
+p187
+aVin practice or even in principle.
+p188
+aVSo supernova, for example:
+p189
+aVI would love to know why very massive stars explode in supernovae.
+p190
+aVThey're very useful;
+p191
+aVwe've learned a lot about the Universe from them.
+p192
+aVThe problem is, all the interesting physics happens in the core,
+p193
+aVand the core is hidden behind thousands of kilometers
+p194
+aVof iron and carbon and silicon.
+p195
+aVWe'll never see through it, it's opaque to light.
+p196
+aVGravitational waves go through iron as if it were glass \u2014
+p197
+aVtotally transparent.
+p198
+aVThe Big Bang: I would love to be able to explore
+p199
+aVthe first few moments of the Universe,
+p200
+aVbut we'll never see them,
+p201
+aVbecause the Big Bang itself is obscured by its own afterglow.
+p202
+aVWith gravitational waves,
+p203
+aVwe should be able to see all the way back to the beginning.
+p204
+aVPerhaps most importantly,
+p205
+aVI'm positive that there are things out there
+p206
+aVthat we've never seen
+p207
+aVthat we may never be able to see
+p208
+aVand that we haven't even imagined \u2014
+p209
+aVthings that we'll only discover by listening.
+p210
+aa(lp211
+VAnd in fact, even in that very first event,
+p212
+aVLIGO found things that we didn't expect.
+p213
+aVHere's my colleague and one of the key members of the LIGO collaboration,
+p214
+aVMatt Evans, my colleague at MIT, addressing exactly that:
+p215
+aa(lp216
+V(Audio) Matt Evans: The kinds of stars which produce the black holes
+p217
+aVthat we observed here
+p218
+aVare the dinosaurs of the Universe.
+p219
+aVThey're these massive things that are old, from prehistoric times,
+p220
+aVand the black holes are kind of like the dinosaur bones
+p221
+aVwith which we do this archeology.
+p222
+aVSo it lets us really get a whole nother angle
+p223
+aVon what's out there in the Universe
+p224
+aVand how the stars came to be, and in the end, of course,
+p225
+aVhow we came to be out of this whole mess.
+p226
+aa(lp227
+VAA: Our challenge now
+p228
+aVis to be as audacious as possible.
+p229
+aVThanks to LIGO, we know how to build exquisite detectors
+p230
+aVthat can listen to the Universe,
+p231
+aVto the rustle and the chirp of the cosmos.
+p232
+aVOur job is to dream up and build new observatories \u2014
+p233
+aVa whole new generation of observatories \u2014
+p234
+aVon the ground, in space.
+p235
+aVI mean, what could be more glorious than listening to the Big Bang itself?
+p236
+aVOur job now is to dream big.
+p237
+aVDream with us.
+p238
+aa(lp239
+VThank you.
+p240
+aa(lp241
+V(Applause)
+p242
+aasS'id'
+p243
+I2439
+sS'title'
+p244
+VWhat the discovery of gravitational waves means
+p245
+s.

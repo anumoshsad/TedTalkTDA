@@ -1,0 +1,252 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhen I was a child growing up in Maine,
+p4
+aVone of my favorite things to do
+p5
+aVwas to look for sand dollars on the seashores of Maine,
+p6
+aVbecause my parents told me it would bring me luck.
+p7
+aVBut you know, these shells, they're hard to find.
+p8
+aVThey're covered in sand, they're difficult to see.
+p9
+aVHowever, over time, I got used to looking for them.
+p10
+aVI started seeing shapes
+p11
+aVand patterns that helped me to collect them.
+p12
+aa(lp13
+VThis grew into a passion for finding things,
+p14
+aVa love for the past and archaeology.
+p15
+aVAnd eventually, when I started studying Egyptology,
+p16
+aVI realized that seeing with my naked eyes alone wasn't enough.
+p17
+aVBecause all of the sudden, in Egypt,
+p18
+aVmy beach had grown from a tiny beach in Maine
+p19
+aVto one eight hundred miles long,
+p20
+aVnext to the Nile.
+p21
+aVAnd my sand dollars had grown to the size of cities.
+p22
+aVThis is really what brought me to using satellite imagery.
+p23
+aVFor trying to map the past, I knew that I had to see differently.
+p24
+aa(lp25
+VSo I want to show you an example of how we see differently
+p26
+aVusing the infrared.
+p27
+aVThis is a site located in the eastern Egyptian delta
+p28
+aVcalled Mendes.
+p29
+aVAnd the site visibly appears brown,
+p30
+aVbut when we use the infrared
+p31
+aVand we process it, all of the sudden,
+p32
+aVusing false color,
+p33
+aVthe site appears as bright pink.
+p34
+aVWhat you are seeing
+p35
+aVare the actual chemical changes to the landscape
+p36
+aVcaused by the building materials and activities
+p37
+aVof the ancient Egyptians.
+p38
+aa(lp39
+VWhat I want to share with you today
+p40
+aVis how we've used satellite data
+p41
+aVto find an ancient Egyptian city,
+p42
+aVcalled Itjtawy,
+p43
+aVmissing for thousands of years.
+p44
+aVItjtawy was ancient Egypt's capital
+p45
+aVfor over four hundred years,
+p46
+aVat a period of time called the Middle Kingdom,
+p47
+aVabout four thousand years ago.
+p48
+aVThe site is located in the Faiyum of Egypt,
+p49
+aVand the site is really important,
+p50
+aVbecause in the Middle Kingdom there was this great renaissance
+p51
+aVfor ancient Egyptian art, architecture and religion.
+p52
+aVEgyptologists have always known the site of Itjtawy
+p53
+aVwas located somewhere near the pyramids of the two kings who built it,
+p54
+aVindicated within the red circles here,
+p55
+aVbut somewhere within this massive flood plain.
+p56
+aVThis area is huge \u2014
+p57
+aVit's four miles by three miles in size.
+p58
+aVThe Nile used to flow right next to the city of Itjtawy,
+p59
+aVand as it shifted and changed and moved over time to the east,
+p60
+aVit covered over the city.
+p61
+aa(lp62
+VSo, how do you find a buried city
+p63
+aVin a vast landscape?
+p64
+aVFinding it randomly would be the equivalent
+p65
+aVof locating a needle in a haystack,
+p66
+aVblindfolded, wearing baseball mitts.
+p67
+aa(lp68
+V(Laughter)
+p69
+aa(lp70
+VSo what we did is we used NASA topography data
+p71
+aVto map out the landscape, very subtle changes.
+p72
+aVWe started to be able to see where the Nile used to flow.
+p73
+aVBut you can see in more detail, and even more interesting,
+p74
+aVthis very slight raised area
+p75
+aVseen within the circle up here
+p76
+aVwhich we thought could possibly be the location of the city of Itjtawy.
+p77
+aa(lp78
+VSo we collaborated with Egyptian scientists
+p79
+aVto do coring work, which you see here.
+p80
+aVWhen I say coring, it's like ice coring,
+p81
+aVbut instead of layers of climate change,
+p82
+aVyou're looking for layers of human occupation.
+p83
+aVAnd, five meters down,
+p84
+aVunderneath a thick layer of mud,
+p85
+aVwe found a dense layer of pottery.
+p86
+aVWhat this shows is that at this possible location of Itjtawy,
+p87
+aVfive meters down,
+p88
+aVwe have a layer of occupation for several hundred years,
+p89
+aVdating to the Middle Kingdom,
+p90
+aVdating to the exact period of time we think Itjtawy is.
+p91
+aVWe also found work stone \u2014
+p92
+aVcarnelian, quartz and agate
+p93
+aVthat shows that there was a jeweler's workshop here.
+p94
+aVThese might not look like much,
+p95
+aVbut when you think about the most common stones
+p96
+aVused in jewelry from the Middle Kingdom,
+p97
+aVthese are the stones that were used.
+p98
+aa(lp99
+VSo, we have a dense layer of occupation
+p100
+aVdating to the Middle Kingdom at this site.
+p101
+aVWe also have evidence of an elite jeweler's workshop,
+p102
+aVshowing that whatever was there was a very important city.
+p103
+aVNo Itjtawy was here yet,
+p104
+aVbut we're going to be returning to the site
+p105
+aVin the near future to map it out.
+p106
+aVAnd even more importantly,
+p107
+aVwe have funding to train young Egyptians in the use of satellite technology
+p108
+aVso they can be the ones making great discoveries as well.
+p109
+aa(lp110
+VSo I wanted to end with my favorite quote from the Middle Kingdom \u2014
+p111
+aVit was probably written at the city of Itjtawy
+p112
+aVfour thousand years ago.
+p113
+aV"Sharing knowledge is the greatest of all callings.
+p114
+aVThere's nothing like it in the land."
+p115
+aVSo as it turns out, TED was not founded in 1984 AD.
+p116
+aa(lp117
+V(Laughter)
+p118
+aa(lp119
+VMaking ideas actually started in 1984 BC
+p120
+aVat a not-lost-for-long city, found from above.
+p121
+aVIt certainly puts finding seashells by the seashore in perspective.
+p122
+aa(lp123
+VThank you very much.
+p124
+aa(lp125
+V(Applause)
+p126
+aa(lp127
+VThank you.
+p128
+aa(lp129
+V(Applause)
+p130
+aasS'id'
+p131
+I1477
+sS'title'
+p132
+VArchaeology from space
+p133
+s.

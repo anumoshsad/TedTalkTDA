@@ -1,0 +1,540 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo I grew up in Orlando, Florida.
+p4
+aVI was the son of an aerospace engineer.
+p5
+aVI lived and breathed the Apollo program.
+p6
+aVWe either saw the launches from our backyard
+p7
+aVor we saw it by driving in the hour over to the Cape.
+p8
+aVI was impressed by, obviously, space and everything about it,
+p9
+aVbut I was most impressed by the engineering that went into it.
+p10
+aa(lp11
+VBehind me you see an amazing view,
+p12
+aVa picture that was taken from the International Space Station,
+p13
+aVand it shows a portion of our planet
+p14
+aVthat's rarely seen and rarely studied
+p15
+aVand almost never explored.
+p16
+aVThat place is called the stratosphere.
+p17
+aa(lp18
+VIf you start on the planet and you go up and up and up,
+p19
+aVit gets colder and colder and colder,
+p20
+aVuntil you reach the beginning of the stratosphere,
+p21
+aVand then an amazing thing happens.
+p22
+aVIt gets colder at a much slower rate, and then it starts warming up,
+p23
+aVand then it gets warmer and warmer
+p24
+aVuntil the point where you can almost survive without any protection,
+p25
+aVabout zero degrees,
+p26
+aVand then you end up getting colder and colder,
+p27
+aVand that's the top of the stratosphere.
+p28
+aVIt is one of the least accessible places on our planet.
+p29
+aVMost often, when it's visited,
+p30
+aVit's by astronauts who are blazing up at it
+p31
+aVat probably several times the speed of sound,
+p32
+aVand they get a few seconds on the way up,
+p33
+aVand then they get this blazing ball of fire coming back in,
+p34
+aVon the way back in.
+p35
+aa(lp36
+VBut the question I asked is, is it possible to linger in the stratosphere?
+p37
+aVIs it possible to experience the stratosphere?
+p38
+aVIs it possible to explore the stratosphere?
+p39
+aa(lp40
+VI studied this using my favorite search engine
+p41
+aVfor quite a while, about a year,
+p42
+aVand then I made a scary phone call.
+p43
+aVIt was a reference from a friend of mine to call Taber MacCallum
+p44
+aVfrom Paragon Space Development Corporation,
+p45
+aVand I asked him the question:
+p46
+aVis it possible to build
+p47
+aVa system to go into the stratosphere?
+p48
+aVAnd he said it was.
+p49
+aVAnd after a period of about three years, we proceeded to do just that.
+p50
+aVAnd on October 24 of last year,
+p51
+aVin this suit,
+p52
+aVI started on the ground,
+p53
+aVI went up in a balloon to 135,890 feet \u2014
+p54
+aVbut who's counting?
+p55
+aa(lp56
+V(Laughter)
+p57
+aa(lp58
+VCame back to Earth at speeds of up to 822 miles an hour.
+p59
+aVIt was a four-minute and 27-second descent.
+p60
+aVAnd when I got to 10,000 feet, I opened a parachute and I landed.
+p61
+aa(lp62
+V(Applause)
+p63
+aa(lp64
+VBut this is really a science talk, and it's really an engineering talk,
+p65
+aVand what was amazing to me about that experience
+p66
+aVis that Taber said, yes, I think we can build a stratospheric suit,
+p67
+aVand more than that, come down tomorrow
+p68
+aVand let's talk to the team that formed the core of the group
+p69
+aVthat actually built it.
+p70
+aVAnd they did something which I think is important,
+p71
+aVwhich is they took the analogy of scuba diving.
+p72
+aVSo in scuba diving,
+p73
+aVyou have a self-contained system.
+p74
+aVYou have everything that you could ever need.
+p75
+aVYou have a scuba tank.
+p76
+aVYou have a wetsuit.
+p77
+aVYou have visibility.
+p78
+aVAnd that scuba is exactly this system,
+p79
+aVand we're going to launch it into the stratosphere.
+p80
+aa(lp81
+VThree years later, this is what we have.
+p82
+aVWe've got an amazing suit that was made by ILC Dover.
+p83
+aVILC Dover was the company that made all of the Apollo suits
+p84
+aVand all of the extravehicular activity suits.
+p85
+aVThey had never sold a suit commercially,
+p86
+aVonly to the government,
+p87
+aVbut they sold one to me, which I am very grateful for.
+p88
+aVUp here we have a parachute. This was all about safety.
+p89
+aVEveryone on the team knew
+p90
+aVthat I have a wife and two small children \u2014
+p91
+aV10 and 15 \u2014
+p92
+aVand I wanted to come back safely.
+p93
+aVSo there's a main parachute and a reserve parachute,
+p94
+aVand if I do nothing,
+p95
+aVthe reserve parachute is going to open because of an automatic opening device.
+p96
+aVThe suit itself can protect me from the cold.
+p97
+aVThis area in the front here has thermal protection.
+p98
+aVIt will actually heat water that will wrap around my body.
+p99
+aVIt has two redundant oxygen tanks.
+p100
+aVEven if I was to get a quarter-inch hole in this suit,
+p101
+aVwhich is extremely unlikely,
+p102
+aVthis system would still protect me from the low pressure of space.
+p103
+aa(lp104
+VThe main advantage of this system is weight and complexity.
+p105
+aVSo the system weighs about 500 pounds,
+p106
+aVand if you compare it to the other attempt recently to go up in the stratosphere,
+p107
+aVthey used a capsule.
+p108
+aVAnd to do a capsule, there's an amazing amount of complexity that goes into it,
+p109
+aVand it weighed about 3,000 pounds,
+p110
+aVand to raise 3,000 pounds to an altitude of 135,000 feet,
+p111
+aVwhich was my target altitude,
+p112
+aVit would have taken a balloon that was 45 to 50 million cubic feet.
+p113
+aVBecause I only weighed 500 pounds in this system,
+p114
+aVwe could do it with a balloon that was five times smaller than that,
+p115
+aVand that allowed us to use a launch system that was dramatically simpler
+p116
+aVthan what needs to be done for a much larger balloon.
+p117
+aa(lp118
+VSo with that, I want to take you to Roswell, New Mexico, on October 24.
+p119
+aVWe had an amazing team that got up in the middle of the night.
+p120
+aVAnd here's the suit.
+p121
+aVAgain, this is using the front loader that you'll see in a second,
+p122
+aVand I want to play you a video of the actual launch.
+p123
+aVRoswell's a great place to launch balloons,
+p124
+aVbut it's a fantastic place to land under a parachute,
+p125
+aVespecially when you're going to land 70 miles away from the place you started.
+p126
+aVThat's a helium truck in the background.
+p127
+aVIt's darkness.
+p128
+aVI've already spent about an hour and a half pre-breathing.
+p129
+aVAnd then here you see the suit going on.
+p130
+aVIt takes about an hour to get the suit on.
+p131
+aVAstronauts get this really nice air-conditioned van
+p132
+aVto go to the launch pad, but I got a front loader.
+p133
+aa(lp134
+V(Laughter)
+p135
+aa(lp136
+VYou can see the top. You can see the balloon up there.
+p137
+aVThat's where the helium is.
+p138
+aVThis is Dave clearing the airspace with the FAA for 15 miles.
+p139
+aVAnd there we go.
+p140
+aa(lp141
+V(Laughter)
+p142
+aa(lp143
+VThat's me waving with my left hand.
+p144
+aVThe reason I'm waving with my left hand
+p145
+aVis because on the right hand is the emergency cutaway.
+p146
+aa(lp147
+V(Laughter)
+p148
+aa(lp149
+VMy team forbade me from using my right hand.
+p150
+aVSo the trip up is beautiful. It's kind of like Google Earth in reverse.
+p151
+aa(lp152
+V(Laughter)
+p153
+aa(lp154
+VIt took two hours and seven minutes to go up,
+p155
+aVand it was the most peaceful two hours and seven minutes.
+p156
+aVI was mostly trying to relax.
+p157
+aVMy heart rate was very low
+p158
+aVand I was trying not to use very much oxygen.
+p159
+aVYou can see how the fields in the background
+p160
+aVare relatively big at this point,
+p161
+aVand you can see me going up and up.
+p162
+aa(lp163
+VIt's interesting here, because if you look,
+p164
+aVI'm right over the airport, and I'm probably at 50,000 feet,
+p165
+aVbut immediately I'm about to go into a stratospheric wind
+p166
+aVof over 120 miles an hour.
+p167
+aVThis is my flight director telling me that I had just gone higher
+p168
+aVthan anybody else had ever gone in a balloon,
+p169
+aVand I was about 4,000 feet from release.
+p170
+aVThis is what it looks like.
+p171
+aVYou can see the darkness of space, the curvature of the Earth,
+p172
+aVthe fragile planet below.
+p173
+aVI'm practicing my emergency procedures mentally right now.
+p174
+aVIf anything goes wrong, I want to be ready.
+p175
+aVAnd the main thing that I want to do here
+p176
+aVis to have a release and fall and stay completely stable.
+p177
+aa(lp178
+V(Video) Ground control. Everyone ready?
+p179
+aVFive. Four. Three. Two. One.
+p180
+aa(lp181
+VAlan Eustace: There's the balloon going by, fully inflated at this point.
+p182
+aVAnd there you can see a drogue parachute, which I'll demonstrate in just a second,
+p183
+aVbecause that's really important.
+p184
+aVThere's the balloon going by a second time.
+p185
+aVRight now, I'm about at the speed of sound.
+p186
+aVThere's nothing for me to tell it's the speed of sound,
+p187
+aVand very soon I will actually be as fast as I ever get,
+p188
+aV822 miles an hour.
+p189
+aa(lp190
+V(Video) Ground control: We lost the data.
+p191
+aa(lp192
+VAE: So now I'm down low right now
+p193
+aVand you can basically see the parachute come out right there.
+p194
+aVAt this point, I'm very happy that there's a parachute out.
+p195
+aVI thought I was the only one happy,
+p196
+aVbut it turns out mission control was really happy as well.
+p197
+aVThe really nice thing about this is the moment I opened \u2014
+p198
+aVI had a close of friend of mine, Blikkies, my parachute guy.
+p199
+aVHe flew in another airplane, and he actually jumped out
+p200
+aVand landed right next to me.
+p201
+aVHe was my wingman on the descent.
+p202
+aVThis is my landing, but it's probably more properly called a crash.
+p203
+aa(lp204
+V(Laughter)
+p205
+aa(lp206
+VI hate to admit it, but this wasn't even close to my worst landing.
+p207
+aa(lp208
+V(Laughter)
+p209
+aa(lp210
+V(Applause)
+p211
+aa(lp212
+V(Video) Man: How are you doing?
+p213
+aa(lp214
+VAE: Hi there!
+p215
+aVYay.
+p216
+aa(lp217
+V(Laughter)
+p218
+aa(lp219
+VSo I want to tell you one thing
+p220
+aVthat you might not have seen in that video,
+p221
+aVbut one of the most critical parts of the entire thing was the release
+p222
+aVand what happens right after you release.
+p223
+aVAnd what we tried to do was use something called a drogue parachute,
+p224
+aVand a drogue parachute was there to stabilize me.
+p225
+aVAnd I'll show you one of those right now.
+p226
+aVIf any of you have ever gone tandem skydiving,
+p227
+aVyou probably used one of these.
+p228
+aVBut the problem with one of these things
+p229
+aVis right when you release, you're in zero gravity.
+p230
+aVSo it's very easy for this to just turn right around you.
+p231
+aVAnd before you know it, you can be tangled up or spinning,
+p232
+aVor you can release this drogue late,
+p233
+aVin which case what happens is you're going down at 800 miles an hour,
+p234
+aVand this thing is going to destroy itself
+p235
+aVand not be very useful.
+p236
+aVBut the guys at United Parachute Technologies came up with this idea,
+p237
+aVand it was a roll that looks like that,
+p238
+aVbut watch what happens when I pull it out.
+p239
+aVIt's forming a pipe.
+p240
+aVThis pipe is so solid
+p241
+aVthat you can take this drogue parachute and wrap it around,
+p242
+aVand there's no way it will ever tangle with you.
+p243
+aVAnd that prevented a very serious potential problem.
+p244
+aa(lp245
+VSo nothing is possible without an amazing team of people.
+p246
+aVThe core of this was about 20 people
+p247
+aVthat worked on this for the three years,
+p248
+aVand they were incredible.
+p249
+aVPeople asked me what the best part of this whole thing was,
+p250
+aVand it was a chance to work with the best experts
+p251
+aVin meteorology and ballooning and parachute technology
+p252
+aVand environmental systems and high altitude medicine.
+p253
+aVIt was fantastic. It's an engineer's dream to work with that group of people.
+p254
+aVAnd I also at the same time wanted to thank my friends at Google,
+p255
+aVboth for supporting me during this effort
+p256
+aVand also covering for me in the times that I was away.
+p257
+aVBut there's one other group I wanted to thank, and that's my family.
+p258
+aVYay.
+p259
+aa(lp260
+V(Applause)
+p261
+aa(lp262
+VI would constantly give them speeches about the safety of technology,
+p263
+aVand they weren't hearing any of it.
+p264
+aVIt was super hard on them,
+p265
+aVand the only reason that my wife put up with it
+p266
+aVwas because I came back incredibly happy after each of the 250 tests,
+p267
+aVand she didn't want to take that away from me.
+p268
+aVSo I want to close with a story.
+p269
+aVMy daughter Katelyn, my 15-year-old, she and I were in the car,
+p270
+aVand we were driving down the road, and she was sitting there,
+p271
+aVand she had this idea, and she goes, "Dad, I've got this idea."
+p272
+aVAnd so I listened to her idea and I said, "Katelyn, that's impossible."
+p273
+aVAnd she looks at me
+p274
+aVand she goes, "Dad, after what you just did,
+p275
+aVhow can you call anything impossible?"
+p276
+aVAnd I laughed, and I said, "OK, it's not impossible,
+p277
+aVit's just very, very hard."
+p278
+aVAnd then I paused for a second, and I said, "Katelyn,
+p279
+aVit may not be impossible, it may not even be very, very hard,
+p280
+aVit's just that I don't know how to do it."
+p281
+aa(lp282
+VThank you.
+p283
+aa(lp284
+V(Applause)
+p285
+aasS'id'
+p286
+I2259
+sS'title'
+p287
+VI leapt from the stratosphere. Here's how I did it
+p288
+s.

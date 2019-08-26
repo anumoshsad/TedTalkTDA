@@ -1,0 +1,444 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhat I'm going to show you are the astonishing molecular machines
+p4
+aVthat create the living fabric of your body.
+p5
+aVNow molecules are really, really tiny.
+p6
+aVAnd by tiny, I mean really.
+p7
+aVThey're smaller than a wavelength of light,
+p8
+aVso we have no way to directly observe them.
+p9
+aVBut through science, we do have a fairly good idea
+p10
+aVof what's going on down at the molecular scale.
+p11
+aVSo what we can do is actually tell you about the molecules,
+p12
+aVbut we don't really have a direct way of showing you the molecules.
+p13
+aa(lp14
+VOne way around this is to draw pictures.
+p15
+aVAnd this idea is actually nothing new.
+p16
+aVScientists have always created pictures
+p17
+aVas part of their thinking and discovery process.
+p18
+aVThey draw pictures of what they're observing with their eyes,
+p19
+aVthrough technology like telescopes and microscopes,
+p20
+aVand also what they're thinking about in their minds.
+p21
+aVI picked two well-known examples,
+p22
+aVbecause they're very well-known for expressing science through art.
+p23
+aa(lp24
+VAnd I start with Galileo, who used the world's first telescope
+p25
+aVto look at the Moon.
+p26
+aVAnd he transformed our understanding of the Moon.
+p27
+aVThe perception in the 17th century
+p28
+aVwas the Moon was a perfect heavenly sphere.
+p29
+aVBut what Galileo saw was a rocky, barren world,
+p30
+aVwhich he expressed through his watercolor painting.
+p31
+aa(lp32
+VAnother scientist with very big ideas,
+p33
+aVthe superstar of biology is Charles Darwin.
+p34
+aVAnd with this famous entry in his notebook,
+p35
+aVhe begins in the top left-hand corner with, "I think,"
+p36
+aVand then sketches out the first tree of life,
+p37
+aVwhich is his perception of how all the species,
+p38
+aVall living things on Earth are connected through evolutionary history \u2014
+p39
+aVthe origin of species through natural selection
+p40
+aVand divergence from an ancestral population.
+p41
+aa(lp42
+VEven as a scientist,
+p43
+aVI used to go to lectures by molecular biologists
+p44
+aVand find them completely incomprehensible,
+p45
+aVwith all the fancy technical language and jargon
+p46
+aVthat they would use in describing their work,
+p47
+aVuntil I encountered the artworks of David Goodsell,
+p48
+aVwho is a molecular biologist at the Scripps Institute.
+p49
+aVAnd his pictures \u2014 everything's accurate and it's all to scale.
+p50
+aVAnd his work illuminated for me
+p51
+aVwhat the molecular world inside us is like.
+p52
+aa(lp53
+VSo this is a transection through blood.
+p54
+aVIn the top left-hand corner, you've got this yellow-green area.
+p55
+aVThe yellow-green area is the fluid of blood, which is mostly water,
+p56
+aVbut it's also antibodies, sugars, hormones, that kind of thing.
+p57
+aVAnd the red region is a slice into a red blood cell.
+p58
+aVAnd those red molecules are hemoglobin.
+p59
+aVThey are actually red; that's what gives blood its color.
+p60
+aVAnd hemoglobin acts as a molecular sponge
+p61
+aVto soak up the oxygen in your lungs
+p62
+aVand then carry it to other parts of the body.
+p63
+aa(lp64
+VI was very much inspired by this image many years ago,
+p65
+aVand I wondered whether we could use computer graphics
+p66
+aVto represent the molecular world.
+p67
+aVWhat would it look like?
+p68
+aVAnd that's how I really began.
+p69
+aVSo let's begin.
+p70
+aa(lp71
+VThis is DNA in its classic double helix form.
+p72
+aVAnd it's from X-ray crystallography, so it's an accurate model of DNA.
+p73
+aVIf we unwind the double helix and unzip the two strands,
+p74
+aVyou see these things that look like teeth.
+p75
+aVThose are the letters of genetic code,
+p76
+aVthe 25,000 genes you've got written in your DNA.
+p77
+aVThis is what they typically talk about \u2014 the genetic code \u2014
+p78
+aVthis is what they're talking about.
+p79
+aVBut I want to talk about a different aspect of DNA science,
+p80
+aVand that is the physical nature of DNA.
+p81
+aVIt's these two strands that run in opposite directions
+p82
+aVfor reasons I can't go into right now.
+p83
+aVBut they physically run in opposite directions,
+p84
+aVwhich creates a number of complications for your living cells,
+p85
+aVas you're about to see,
+p86
+aVmost particularly when DNA is being copied.
+p87
+aa(lp88
+VAnd so what I'm about to show you
+p89
+aVis an accurate representation of the actual DNA replication machine
+p90
+aVthat's occurring right now inside your body,
+p91
+aVat least 2002 biology.
+p92
+aVSo DNA's entering the production line from the left-hand side,
+p93
+aVand it hits this collection, these miniature biochemical machines,
+p94
+aVthat are pulling apart the DNA strand and making an exact copy.
+p95
+aVSo DNA comes in and hits this blue, doughnut-shaped structure
+p96
+aVand it's ripped apart into its two strands.
+p97
+aVOne strand can be copied directly,
+p98
+aVand you can see these things spooling off to the bottom there.
+p99
+aVBut things aren't so simple for the other strand
+p100
+aVbecause it must be copied backwards.
+p101
+aVSo it's thrown out repeatedly in these loops
+p102
+aVand copied one section at a time, creating two new DNA molecules.
+p103
+aa(lp104
+VNow you have billions of this machine right now working away inside you,
+p105
+aVcopying your DNA with exquisite fidelity.
+p106
+aVIt's an accurate representation,
+p107
+aVand it's pretty much at the correct speed for what is occurring inside you.
+p108
+aVI've left out error correction and a bunch of other things.
+p109
+aa(lp110
+V(Laughter)
+p111
+aa(lp112
+VThis was work from a number of years ago\u2014
+p113
+aVThank you.
+p114
+aa(lp115
+V(Applause)
+p116
+aa(lp117
+VThis is work from a number of years ago,
+p118
+aVbut what I'll show you next is updated science,
+p119
+aVit's updated technology.
+p120
+aVSo again, we begin with DNA.
+p121
+aVAnd it's jiggling and wiggling there
+p122
+aVbecause of the surrounding soup of molecules,
+p123
+aVwhich I've stripped away so you can see something.
+p124
+aVDNA is about two nanometers across, which is really quite tiny.
+p125
+aVBut in each one of your cells,
+p126
+aVeach strand of DNA is about 30 to 40 million nanometers long.
+p127
+aVSo to keep the DNA organized and regulate access to the genetic code,
+p128
+aVit's wrapped around these purple proteins \u2014
+p129
+aVor I've labeled them purple here.
+p130
+aVIt's packaged up and bundled up.
+p131
+aVAll this field of view is a single strand of DNA.
+p132
+aVThis huge package of DNA is called a chromosome.
+p133
+aVAnd we'll come back to chromosomes in a minute.
+p134
+aa(lp135
+VWe're pulling out, we're zooming out,
+p136
+aVout through a nuclear pore,
+p137
+aVwhich is the gateway to this compartment that holds all the DNA,
+p138
+aVcalled the nucleus.
+p139
+aVAll of this field of view is about a semester's worth of biology,
+p140
+aVand I've got seven minutes,
+p141
+aVSo we're not going to be able to do that today?
+p142
+aVNo, I'm being told, "No."
+p143
+aa(lp144
+VThis is the way a living cell looks down a light microscope.
+p145
+aVAnd it's been filmed under time-lapse, which is why you can see it moving.
+p146
+aVThe nuclear envelope breaks down.
+p147
+aVThese sausage-shaped things are the chromosomes,
+p148
+aVand we'll focus on them.
+p149
+aVThey go through this very striking motion that is focused on these little red spots.
+p150
+aVWhen the cell feels it's ready to go, it rips apart the chromosome.
+p151
+aVOne set of DNA goes to one side,
+p152
+aVthe other side gets the other set of DNA \u2014
+p153
+aVidentical copies of DNA.
+p154
+aVAnd then the cell splits down the middle.
+p155
+aVAnd again, you have billions of cells undergoing this process
+p156
+aVright now inside of you.
+p157
+aa(lp158
+VNow we're going to rewind and just focus on the chromosomes,
+p159
+aVand look at its structure and describe it.
+p160
+aVSo again, here we are at that equator moment.
+p161
+aVThe chromosomes line up.
+p162
+aVAnd if we isolate just one chromosome,
+p163
+aVwe're going to pull it out and have a look at its structure.
+p164
+aVSo this is one of the biggest molecular structures that you have,
+p165
+aVat least as far as we've discovered so far inside of us.
+p166
+aVSo this is a single chromosome.
+p167
+aVAnd you have two strands of DNA in each chromosome.
+p168
+aVOne is bundled up into one sausage.
+p169
+aVThe other strand is bundled up into the other sausage.
+p170
+aa(lp171
+VThese things that look like whiskers that are sticking out from either side
+p172
+aVare the dynamic scaffolding of the cell.
+p173
+aVThey're called microtubules, that name's not important.
+p174
+aVBut we're going to focus on the region labeled red here \u2014
+p175
+aVand it's the interface between the dynamic scaffolding
+p176
+aVand the chromosomes.
+p177
+aVIt is obviously central to the movement of the chromosomes.
+p178
+aVWe have no idea, really, as to how it's achieving that movement.
+p179
+aa(lp180
+VWe've been studying this thing they call the kinetochore
+p181
+aVfor over a hundred years with intense study,
+p182
+aVand we're still just beginning to discover what it's about.
+p183
+aVIt is made up of about 200 different types of proteins,
+p184
+aVthousands of proteins in total.
+p185
+aVIt is a signal broadcasting system.
+p186
+aVIt broadcasts through chemical signals,
+p187
+aVtelling the rest of the cell when it's ready,
+p188
+aVwhen it feels that everything is aligned and ready to go
+p189
+aVfor the separation of the chromosomes.
+p190
+aVIt is able to couple onto the growing and shrinking microtubules.
+p191
+aa(lp192
+VIt's involved with the growing of the microtubules,
+p193
+aVand it's able to transiently couple onto them.
+p194
+aVIt's also an attention-sensing system.
+p195
+aVIt's able to feel when the cell is ready,
+p196
+aVwhen the chromosome is correctly positioned.
+p197
+aVIt's turning green here because it feels that everything is just right.
+p198
+aVAnd you'll see, there's this one little last bit
+p199
+aVthat's still remaining red.
+p200
+aVAnd it's walked away down the microtubules.
+p201
+aVThat is the signal broadcasting system sending out the stop signal.
+p202
+aVAnd it's walked away \u2014 I mean, it's that mechanical.
+p203
+aVIt's molecular clockwork.
+p204
+aa(lp205
+VThis is how you work at the molecular scale.
+p206
+aVSo with a little bit of molecular eye candy,
+p207
+aa(lp208
+V(Laughter)
+p209
+aa(lp210
+Vwe've got kinesins, the orange ones.
+p211
+aVThey're little molecular courier molecules walking one way.
+p212
+aVAnd here are the dynein, they're carrying that broadcasting system.
+p213
+aVAnd they've got their long legs
+p214
+aVso they can step around obstacles and so on.
+p215
+aVSo again, this is all derived accurately from the science.
+p216
+aVThe problem is we can't show it to you any other way.
+p217
+aa(lp218
+VExploring at the frontier of science, at the frontier of human understanding,
+p219
+aVis mind-blowing.
+p220
+aVDiscovering this stuff
+p221
+aVis certainly a pleasurable incentive to work in science.
+p222
+aVBut most medical researchers \u2014
+p223
+aVdiscovering the stuff is simply steps along the path to the big goals,
+p224
+aVwhich are to eradicate disease, to eliminate the suffering
+p225
+aVand the misery that disease causes
+p226
+aVand to lift people out of poverty.
+p227
+aa(lp228
+VThank you.
+p229
+aa(lp230
+V(Applause)
+p231
+aasS'id'
+p232
+I1322
+sS'title'
+p233
+VAnimations of unseeable biology
+p234
+s.

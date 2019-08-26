@@ -1,0 +1,631 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm going to talk about a failure of intuition
+p4
+aVthat many of us suffer from.
+p5
+aVIt's really a failure to detect a certain kind of danger.
+p6
+aVI'm going to describe a scenario
+p7
+aVthat I think is both terrifying
+p8
+aVand likely to occur,
+p9
+aVand that's not a good combination,
+p10
+aVas it turns out.
+p11
+aVAnd yet rather than be scared, most of you will feel
+p12
+aVthat what I'm talking about is kind of cool.
+p13
+aa(lp14
+VI'm going to describe how the gains we make
+p15
+aVin artificial intelligence
+p16
+aVcould ultimately destroy us.
+p17
+aVAnd in fact, I think it's very difficult to see how they won't destroy us
+p18
+aVor inspire us to destroy ourselves.
+p19
+aVAnd yet if you're anything like me,
+p20
+aVyou'll find that it's fun to think about these things.
+p21
+aVAnd that response is part of the problem.
+p22
+aVOK? That response should worry you.
+p23
+aVAnd if I were to convince you in this talk
+p24
+aVthat we were likely to suffer a global famine,
+p25
+aVeither because of climate change or some other catastrophe,
+p26
+aVand that your grandchildren, or their grandchildren,
+p27
+aVare very likely to live like this,
+p28
+aVyou wouldn't think,
+p29
+aV"Interesting.
+p30
+aVI like this TED Talk."
+p31
+aa(lp32
+VFamine isn't fun.
+p33
+aVDeath by science fiction, on the other hand, is fun,
+p34
+aVand one of the things that worries me most about the development of AI at this point
+p35
+aVis that we seem unable to marshal an appropriate emotional response
+p36
+aVto the dangers that lie ahead.
+p37
+aVI am unable to marshal this response, and I'm giving this talk.
+p38
+aa(lp39
+VIt's as though we stand before two doors.
+p40
+aVBehind door number one,
+p41
+aVwe stop making progress in building intelligent machines.
+p42
+aVOur computer hardware and software just stops getting better for some reason.
+p43
+aVNow take a moment to consider why this might happen.
+p44
+aVI mean, given how valuable intelligence and automation are,
+p45
+aVwe will continue to improve our technology if we are at all able to.
+p46
+aVWhat could stop us from doing this?
+p47
+aVA full-scale nuclear war?
+p48
+aVA global pandemic?
+p49
+aVAn asteroid impact?
+p50
+aVJustin Bieber becoming president of the United States?
+p51
+aa(lp52
+V(Laughter)
+p53
+aa(lp54
+VThe point is, something would have to destroy civilization as we know it.
+p55
+aVYou have to imagine how bad it would have to be
+p56
+aVto prevent us from making improvements in our technology
+p57
+aVpermanently,
+p58
+aVgeneration after generation.
+p59
+aVAlmost by definition, this is the worst thing
+p60
+aVthat's ever happened in human history.
+p61
+aa(lp62
+VSo the only alternative,
+p63
+aVand this is what lies behind door number two,
+p64
+aVis that we continue to improve our intelligent machines
+p65
+aVyear after year after year.
+p66
+aVAt a certain point, we will build machines that are smarter than we are,
+p67
+aVand once we have machines that are smarter than we are,
+p68
+aVthey will begin to improve themselves.
+p69
+aVAnd then we risk what the mathematician IJ Good called
+p70
+aVan "intelligence explosion,"
+p71
+aVthat the process could get away from us.
+p72
+aa(lp73
+VNow, this is often caricatured, as I have here,
+p74
+aVas a fear that armies of malicious robots
+p75
+aVwill attack us.
+p76
+aVBut that isn't the most likely scenario.
+p77
+aVIt's not that our machines will become spontaneously malevolent.
+p78
+aVThe concern is really that we will build machines
+p79
+aVthat are so much more competent than we are
+p80
+aVthat the slightest divergence between their goals and our own
+p81
+aVcould destroy us.
+p82
+aa(lp83
+VJust think about how we relate to ants.
+p84
+aVWe don't hate them.
+p85
+aVWe don't go out of our way to harm them.
+p86
+aVIn fact, sometimes we take pains not to harm them.
+p87
+aVWe step over them on the sidewalk.
+p88
+aVBut whenever their presence
+p89
+aVseriously conflicts with one of our goals,
+p90
+aVlet's say when constructing a building like this one,
+p91
+aVwe annihilate them without a qualm.
+p92
+aVThe concern is that we will one day build machines
+p93
+aVthat, whether they're conscious or not,
+p94
+aVcould treat us with similar disregard.
+p95
+aa(lp96
+VNow, I suspect this seems far-fetched to many of you.
+p97
+aVI bet there are those of you who doubt that superintelligent AI is possible,
+p98
+aVmuch less inevitable.
+p99
+aVBut then you must find something wrong with one of the following assumptions.
+p100
+aVAnd there are only three of them.
+p101
+aa(lp102
+VIntelligence is a matter of information processing in physical systems.
+p103
+aVActually, this is a little bit more than an assumption.
+p104
+aVWe have already built narrow intelligence into our machines,
+p105
+aVand many of these machines perform
+p106
+aVat a level of superhuman intelligence already.
+p107
+aVAnd we know that mere matter
+p108
+aVcan give rise to what is called "general intelligence,"
+p109
+aVan ability to think flexibly across multiple domains,
+p110
+aVbecause our brains have managed it. Right?
+p111
+aVI mean, there's just atoms in here,
+p112
+aVand as long as we continue to build systems of atoms
+p113
+aVthat display more and more intelligent behavior,
+p114
+aVwe will eventually, unless we are interrupted,
+p115
+aVwe will eventually build general intelligence
+p116
+aVinto our machines.
+p117
+aa(lp118
+VIt's crucial to realize that the rate of progress doesn't matter,
+p119
+aVbecause any progress is enough to get us into the end zone.
+p120
+aVWe don't need Moore's law to continue. We don't need exponential progress.
+p121
+aVWe just need to keep going.
+p122
+aa(lp123
+VThe second assumption is that we will keep going.
+p124
+aVWe will continue to improve our intelligent machines.
+p125
+aVAnd given the value of intelligence \u2014
+p126
+aVI mean, intelligence is either the source of everything we value
+p127
+aVor we need it to safeguard everything we value.
+p128
+aVIt is our most valuable resource.
+p129
+aVSo we want to do this.
+p130
+aVWe have problems that we desperately need to solve.
+p131
+aVWe want to cure diseases like Alzheimer's and cancer.
+p132
+aVWe want to understand economic systems. We want to improve our climate science.
+p133
+aVSo we will do this, if we can.
+p134
+aVThe train is already out of the station, and there's no brake to pull.
+p135
+aa(lp136
+VFinally, we don't stand on a peak of intelligence,
+p137
+aVor anywhere near it, likely.
+p138
+aVAnd this really is the crucial insight.
+p139
+aVThis is what makes our situation so precarious,
+p140
+aVand this is what makes our intuitions about risk so unreliable.
+p141
+aa(lp142
+VNow, just consider the smartest person who has ever lived.
+p143
+aVOn almost everyone's shortlist here is John von Neumann.
+p144
+aVI mean, the impression that von Neumann made on the people around him,
+p145
+aVand this included the greatest mathematicians and physicists of his time,
+p146
+aVis fairly well-documented.
+p147
+aVIf only half the stories about him are half true,
+p148
+aVthere's no question
+p149
+aVhe's one of the smartest people who has ever lived.
+p150
+aVSo consider the spectrum of intelligence.
+p151
+aVHere we have John von Neumann.
+p152
+aVAnd then we have you and me.
+p153
+aVAnd then we have a chicken.
+p154
+aa(lp155
+V(Laughter)
+p156
+aa(lp157
+VSorry, a chicken.
+p158
+aa(lp159
+V(Laughter)
+p160
+aa(lp161
+VThere's no reason for me to make this talk more depressing than it needs to be.
+p162
+aa(lp163
+V(Laughter)
+p164
+aa(lp165
+VIt seems overwhelmingly likely, however, that the spectrum of intelligence
+p166
+aVextends much further than we currently conceive,
+p167
+aVand if we build machines that are more intelligent than we are,
+p168
+aVthey will very likely explore this spectrum
+p169
+aVin ways that we can't imagine,
+p170
+aVand exceed us in ways that we can't imagine.
+p171
+aa(lp172
+VAnd it's important to recognize that this is true by virtue of speed alone.
+p173
+aVRight? So imagine if we just built a superintelligent AI
+p174
+aVthat was no smarter than your average team of researchers
+p175
+aVat Stanford or MIT.
+p176
+aVWell, electronic circuits function about a million times faster
+p177
+aVthan biochemical ones,
+p178
+aVso this machine should think about a million times faster
+p179
+aVthan the minds that built it.
+p180
+aVSo you set it running for a week,
+p181
+aVand it will perform 20,000 years of human-level intellectual work,
+p182
+aVweek after week after week.
+p183
+aVHow could we even understand, much less constrain,
+p184
+aVa mind making this sort of progress?
+p185
+aa(lp186
+VThe other thing that's worrying, frankly,
+p187
+aVis that, imagine the best case scenario.
+p188
+aVSo imagine we hit upon a design of superintelligent AI
+p189
+aVthat has no safety concerns.
+p190
+aVWe have the perfect design the first time around.
+p191
+aVIt's as though we've been handed an oracle
+p192
+aVthat behaves exactly as intended.
+p193
+aVWell, this machine would be the perfect labor-saving device.
+p194
+aVIt can design the machine that can build the machine
+p195
+aVthat can do any physical work,
+p196
+aVpowered by sunlight,
+p197
+aVmore or less for the cost of raw materials.
+p198
+aVSo we're talking about the end of human drudgery.
+p199
+aVWe're also talking about the end of most intellectual work.
+p200
+aa(lp201
+VSo what would apes like ourselves do in this circumstance?
+p202
+aVWell, we'd be free to play Frisbee and give each other massages.
+p203
+aVAdd some LSD and some questionable wardrobe choices,
+p204
+aVand the whole world could be like Burning Man.
+p205
+aa(lp206
+V(Laughter)
+p207
+aa(lp208
+VNow, that might sound pretty good,
+p209
+aVbut ask yourself what would happen
+p210
+aVunder our current economic and political order?
+p211
+aVIt seems likely that we would witness
+p212
+aVa level of wealth inequality and unemployment
+p213
+aVthat we have never seen before.
+p214
+aVAbsent a willingness to immediately put this new wealth
+p215
+aVto the service of all humanity,
+p216
+aVa few trillionaires could grace the covers of our business magazines
+p217
+aVwhile the rest of the world would be free to starve.
+p218
+aa(lp219
+VAnd what would the Russians or the Chinese do
+p220
+aVif they heard that some company in Silicon Valley
+p221
+aVwas about to deploy a superintelligent AI?
+p222
+aVThis machine would be capable of waging war,
+p223
+aVwhether terrestrial or cyber,
+p224
+aVwith unprecedented power.
+p225
+aVThis is a winner-take-all scenario.
+p226
+aVTo be six months ahead of the competition here
+p227
+aVis to be 500,000 years ahead,
+p228
+aVat a minimum.
+p229
+aVSo it seems that even mere rumors of this kind of breakthrough
+p230
+aVcould cause our species to go berserk.
+p231
+aa(lp232
+VNow, one of the most frightening things,
+p233
+aVin my view, at this moment,
+p234
+aVare the kinds of things that AI researchers say
+p235
+aVwhen they want to be reassuring.
+p236
+aVAnd the most common reason we're told not to worry is time.
+p237
+aVThis is all a long way off, don't you know.
+p238
+aVThis is probably 50 or 100 years away.
+p239
+aVOne researcher has said,
+p240
+aV"Worrying about AI safety
+p241
+aVis like worrying about overpopulation on Mars."
+p242
+aVThis is the Silicon Valley version
+p243
+aVof "don't worry your pretty little head about it."
+p244
+aa(lp245
+V(Laughter)
+p246
+aa(lp247
+VNo one seems to notice
+p248
+aVthat referencing the time horizon
+p249
+aVis a total non sequitur.
+p250
+aVIf intelligence is just a matter of information processing,
+p251
+aVand we continue to improve our machines,
+p252
+aVwe will produce some form of superintelligence.
+p253
+aVAnd we have no idea how long it will take us
+p254
+aVto create the conditions to do that safely.
+p255
+aVLet me say that again.
+p256
+aVWe have no idea how long it will take us
+p257
+aVto create the conditions to do that safely.
+p258
+aa(lp259
+VAnd if you haven't noticed, 50 years is not what it used to be.
+p260
+aVThis is 50 years in months.
+p261
+aVThis is how long we've had the iPhone.
+p262
+aVThis is how long "The Simpsons" has been on television.
+p263
+aVFifty years is not that much time
+p264
+aVto meet one of the greatest challenges our species will ever face.
+p265
+aVOnce again, we seem to be failing to have an appropriate emotional response
+p266
+aVto what we have every reason to believe is coming.
+p267
+aa(lp268
+VThe computer scientist Stuart Russell has a nice analogy here.
+p269
+aVHe said, imagine that we received a message from an alien civilization,
+p270
+aVwhich read:
+p271
+aV"People of Earth,
+p272
+aVwe will arrive on your planet in 50 years.
+p273
+aVGet ready."
+p274
+aVAnd now we're just counting down the months until the mothership lands?
+p275
+aVWe would feel a little more urgency than we do.
+p276
+aa(lp277
+VAnother reason we're told not to worry
+p278
+aVis that these machines can't help but share our values
+p279
+aVbecause they will be literally extensions of ourselves.
+p280
+aVThey'll be grafted onto our brains,
+p281
+aVand we'll essentially become their limbic systems.
+p282
+aVNow take a moment to consider
+p283
+aVthat the safest and only prudent path forward,
+p284
+aVrecommended,
+p285
+aVis to implant this technology directly into our brains.
+p286
+aVNow, this may in fact be the safest and only prudent path forward,
+p287
+aVbut usually one's safety concerns about a technology
+p288
+aVhave to be pretty much worked out before you stick it inside your head.
+p289
+aa(lp290
+V(Laughter)
+p291
+aa(lp292
+VThe deeper problem is that building superintelligent AI on its own
+p293
+aVseems likely to be easier
+p294
+aVthan building superintelligent AI
+p295
+aVand having the completed neuroscience
+p296
+aVthat allows us to seamlessly integrate our minds with it.
+p297
+aVAnd given that the companies and governments doing this work
+p298
+aVare likely to perceive themselves as being in a race against all others,
+p299
+aVgiven that to win this race is to win the world,
+p300
+aVprovided you don't destroy it in the next moment,
+p301
+aVthen it seems likely that whatever is easier to do
+p302
+aVwill get done first.
+p303
+aa(lp304
+VNow, unfortunately, I don't have a solution to this problem,
+p305
+aVapart from recommending that more of us think about it.
+p306
+aVI think we need something like a Manhattan Project
+p307
+aVon the topic of artificial intelligence.
+p308
+aVNot to build it, because I think we'll inevitably do that,
+p309
+aVbut to understand how to avoid an arms race
+p310
+aVand to build it in a way that is aligned with our interests.
+p311
+aVWhen you're talking about superintelligent AI
+p312
+aVthat can make changes to itself,
+p313
+aVit seems that we only have one chance to get the initial conditions right,
+p314
+aVand even then we will need to absorb
+p315
+aVthe economic and political consequences of getting them right.
+p316
+aa(lp317
+VBut the moment we admit
+p318
+aVthat information processing is the source of intelligence,
+p319
+aVthat some appropriate computational system is what the basis of intelligence is,
+p320
+aVand we admit that we will improve these systems continuously,
+p321
+aVand we admit that the horizon of cognition very likely far exceeds
+p322
+aVwhat we currently know,
+p323
+aVthen we have to admit
+p324
+aVthat we are in the process of building some sort of god.
+p325
+aVNow would be a good time
+p326
+aVto make sure it's a god we can live with.
+p327
+aa(lp328
+VThank you very much.
+p329
+aa(lp330
+V(Applause)
+p331
+aasS'id'
+p332
+I2592
+sS'title'
+p333
+VCan we build AI without losing control over it?
+p334
+s.

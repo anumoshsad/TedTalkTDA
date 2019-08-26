@@ -1,0 +1,201 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo it turns out that mathematics is a very powerful language.
+p4
+aVIt has generated considerable insight in physics,
+p5
+aVin biology and economics,
+p6
+aVbut not that much in the humanities and in history.
+p7
+aVI think there's a belief that it's just impossible,
+p8
+aVthat you cannot quantify the doings of mankind,
+p9
+aVthat you cannot measure history.
+p10
+aVBut I don't think that's right.
+p11
+aVI want to show you a couple of examples why.
+p12
+aa(lp13
+VSo my collaborator Erez and I were considering the following fact:
+p14
+aVthat two kings separated by centuries
+p15
+aVwill speak a very different language.
+p16
+aVThat's a powerful historical force.
+p17
+aVSo the king of England, Alfred the Great,
+p18
+aVwill use a vocabulary and grammar
+p19
+aVthat is quite different from the king of hip hop, Jay-Z.
+p20
+aV(Laughter)
+p21
+aVNow it's just the way it is.
+p22
+aVLanguage changes over time, and it's a powerful force.
+p23
+aa(lp24
+VSo Erez and I wanted to know more about that.
+p25
+aVSo we paid attention to a particular grammatical rule, past-tense conjugation.
+p26
+aVSo you just add "ed" to a verb at the end to signify the past.
+p27
+aV"Today I walk. Yesterday I walked."
+p28
+aVBut some verbs are irregular.
+p29
+aV"Yesterday I thought."
+p30
+aVNow what's interesting about that
+p31
+aVis irregular verbs between Alfred and Jay-Z have become more regular.
+p32
+aVLike the verb "to wed" that you see here has become regular.
+p33
+aa(lp34
+VSo Erez and I followed the fate of over 100 irregular verbs
+p35
+aVthrough 12 centuries of English language,
+p36
+aVand we saw that there's actually a very simple mathematical pattern
+p37
+aVthat captures this complex historical change,
+p38
+aVnamely, if a verb is 100 times more frequent than another,
+p39
+aVit regularizes 10 times slower.
+p40
+aVThat's a piece of history, but it comes in a mathematical wrapping.
+p41
+aa(lp42
+VNow in some cases math can even help explain,
+p43
+aVor propose explanations for, historical forces.
+p44
+aVSo here Steve Pinker and I
+p45
+aVwere considering the magnitude of wars during the last two centuries.
+p46
+aVThere's actually a well-known regularity to them
+p47
+aVwhere the number of wars that are 100 times deadlier
+p48
+aVis 10 times smaller.
+p49
+aVSo there are 30 wars that are about as deadly as the Six Days War,
+p50
+aVbut there's only four wars that are 100 times deadlier \u2014
+p51
+aVlike World War I.
+p52
+aVSo what kind of historical mechanism can produce that?
+p53
+aVWhat's the origin of this?
+p54
+aa(lp55
+VSo Steve and I, through mathematical analysis,
+p56
+aVpropose that there's actually a very simple phenomenon at the root of this,
+p57
+aVwhich lies in our brains.
+p58
+aVThis is a very well-known feature
+p59
+aVin which we perceive quantities in relative ways \u2014
+p60
+aVquantities like the intensity of light or the loudness of a sound.
+p61
+aVFor instance, committing 10,000 soldiers to the next battle sounds like a lot.
+p62
+aVIt's relatively enormous if you've already committed 1,000 soldiers previously.
+p63
+aVBut it doesn't sound so much,
+p64
+aVit's not relatively enough, it won't make a difference
+p65
+aVif you've already committed 100,000 soldiers previously.
+p66
+aVSo you see that because of the way we perceive quantities,
+p67
+aVas the war drags on,
+p68
+aVthe number of soldiers committed to it and the casualties
+p69
+aVwill increase not linearly \u2014
+p70
+aVlike 10,000, 11,000, 12,000 \u2014
+p71
+aVbut exponentially \u2014 10,000, later 20,000, later 40,000.
+p72
+aVAnd so that explains this pattern that we've seen before.
+p73
+aa(lp74
+VSo here mathematics is able to link a well-known feature of the individual mind
+p75
+aVwith a long-term historical pattern
+p76
+aVthat unfolds over centuries and across continents.
+p77
+aa(lp78
+VSo these types of examples, today there are just a few of them,
+p79
+aVbut I think in the next decade they will become commonplace.
+p80
+aVThe reason for that is that the historical record
+p81
+aVis becoming digitized at a very fast pace.
+p82
+aVSo there's about 130 million books
+p83
+aVthat have been written since the dawn of time.
+p84
+aVCompanies like Google have digitized many of them \u2014
+p85
+aVabove 20 million actually.
+p86
+aVAnd when the stuff of history is available in digital form,
+p87
+aVit makes it possible for a mathematical analysis
+p88
+aVto very quickly and very conveniently
+p89
+aVreview trends in our history and our culture.
+p90
+aa(lp91
+VSo I think in the next decade,
+p92
+aVthe sciences and the humanities will come closer together
+p93
+aVto be able to answer deep questions about mankind.
+p94
+aVAnd I think that mathematics will be a very powerful language to do that.
+p95
+aVIt will be able to reveal new trends in our history,
+p96
+aVsometimes to explain them,
+p97
+aVand maybe even in the future to predict what's going to happen.
+p98
+aa(lp99
+VThank you very much.
+p100
+aa(lp101
+V(Applause)
+p102
+aasS'id'
+p103
+I1448
+sS'title'
+p104
+VThe mathematics of history
+p105
+s.

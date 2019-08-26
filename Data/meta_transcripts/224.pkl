@@ -1,0 +1,242 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VRoy Gould: Less than a year from now,
+p4
+aVthe world is going to celebrate the International Year of Astronomy,
+p5
+aVwhich marks the 400th anniversary
+p6
+aVof Galileo's first glimpse of the night sky through a telescope.
+p7
+aVIn a few months, the world is also going to celebrate
+p8
+aVthe launch of a new invention from Microsoft Research,
+p9
+aVwhich I think is going to have as profound an impact
+p10
+aVon the way we view the universe as Galileo did four centuries ago.
+p11
+aVIt's called the WorldWide Telescope,
+p12
+aVand I want to thank TED and Microsoft for allowing me to bring it to your attention.
+p13
+aVAnd I want to urge you, when you get a chance,
+p14
+aVto give it a closer look at the TED Lab downstairs.
+p15
+aa(lp16
+VThe WorldWide Telescope takes the best images
+p17
+aVfrom the world's greatest telescopes on Earth and in space,
+p18
+aVand has woven them seamlessly
+p19
+aVto produce a holistic view of the universe.
+p20
+aVIt's going to change the way we do astronomy,
+p21
+aVit's going to change the way we teach astronomy
+p22
+aVand I think most importantly
+p23
+aVit's going to change the way we see ourselves in the universe.
+p24
+aa(lp25
+VIf we were having this TED meeting in our grandparents' day,
+p26
+aVthat might not be so big a claim.
+p27
+aVIn 1920, for example, you weren't allowed to drink;
+p28
+aVif you were a woman, you weren't allowed to vote;
+p29
+aVand if you looked up at the stars and the Milky Way on a summer night,
+p30
+aVwhat you saw was thought to be the entire universe.
+p31
+aVIn fact, the head of Harvard's observatory back then
+p32
+aVgave a great debate in which he argued
+p33
+aVthat the Milky Way Galaxy was the entire universe.
+p34
+aa(lp35
+VHarvard was wrong, big time. (Laughter)
+p36
+aVOf course, we know today that galaxies extend far beyond our own galaxy.
+p37
+aVWe can see all the way out to the edge of the observable universe,
+p38
+aVall the way back in time,
+p39
+aValmost to the moment of the Big Bang itself.
+p40
+aVWe can see across the entire spectrum of light,
+p41
+aVrevealing worlds that had previously been invisible.
+p42
+aVWe see these magnificent star nurseries,
+p43
+aVwhere nature has somehow arranged for just the right numbers
+p44
+aVand just the right sizes of stars to be born for life to arise.
+p45
+aVWe see alien worlds, we see alien solar systems \u2014
+p46
+aV300 now, and still counting \u2014
+p47
+aVand they're not like us.
+p48
+aVWe see black holes at the heart of our galaxy,
+p49
+aVin the Milky Way, and elsewhere in the universe,
+p50
+aVwhere time itself seems to stand still.
+p51
+aVBut until now, our view of the universe has been disconnected and fragmented,
+p52
+aVand I think that many of the marvelous stories that nature has to tell us
+p53
+aVhave fallen through the cracks. And that's changing.
+p54
+aa(lp55
+VI want to just briefly mention three reasons
+p56
+aVwhy my colleagues and I, in astronomy and in education,
+p57
+aVare so excited about the WorldWide Telescope
+p58
+aVand why we think it's truly transformative.
+p59
+aVFirst, it enables you to experience the universe:
+p60
+aVthe WorldWide Telescope, for me, is a kind of magic carpet
+p61
+aVthat lets you navigate through the universe where you want to go.
+p62
+aVSecond: you can tour the universe with astronomers as your guides.
+p63
+aVAnd I'm not talking here about just experts who are telling you what you're seeing,
+p64
+aVbut really people who are passionate about the various nooks and crannies of the universe,
+p65
+aVwho can share their enthusiasm
+p66
+aVand can make the universe a welcoming place.
+p67
+aVAnd third, you can create your own tours \u2014
+p68
+aVyou can share them with friends, you can create them with friends \u2014
+p69
+aVand that's the part that I think I'm most excited about
+p70
+aVbecause I think that at heart, we are all storytellers.
+p71
+aVAnd in telling stories,
+p72
+aVeach of us is going to understand the universe in our own way.
+p73
+aVWe're going to have a personal universe.
+p74
+aVI think we're going to see a community of storytellers evolve and emerge.
+p75
+aa(lp76
+VBefore I introduce the person responsible for the WorldWide Telescope,
+p77
+aVI just want to leave you with this brief thought:
+p78
+aVwhen I ask people, "How does the night sky make you feel?"
+p79
+aVthey often say, "Oh, tiny. I feel tiny and insignificant."
+p80
+aVWell, our gaze fills the universe.
+p81
+aVAnd thanks to the creators of the WorldWide Telescope,
+p82
+aVwe can now start to have a dialogue with the universe.
+p83
+aVI think the WorldWide Telescope will convince you
+p84
+aVthat we may be tiny, but we are truly, wonderfully significant.
+p85
+aVThank you.
+p86
+aV(Applause)
+p87
+aa(lp88
+VI can't tell you what a privilege it is
+p89
+aVto introduce Curtis Wong from Microsoft. (Applause)
+p90
+aa(lp91
+VCurtis Wong: Thank you, Roy.
+p92
+aVSo, what you're seeing here is a wonderful presentation,
+p93
+aVbut it's one of the tours.
+p94
+aVAnd actually this tour is one that was created earlier.
+p95
+aVAnd the tours are all totally interactive,
+p96
+aVso that if I were to go somewhere ...
+p97
+aVyou may be watching a tour and you can pause anywhere along the way,
+p98
+aVpull up other information \u2014
+p99
+aVthere are lots of Web and information sources
+p100
+aVabout places you might want to go \u2014
+p101
+aVyou can zoom in, you can pull back out.
+p102
+aVThe whole resources are there available for you.
+p103
+aa(lp104
+VSo, Microsoft \u2014 this is a project that \u2014 WorldWide Telescope is dedicated to Jim Gray,
+p105
+aVwho's our colleague, and a lot of his work that he did
+p106
+aVis really what makes this project possible.
+p107
+aVIt's a labor of love for us and our small team,
+p108
+aVand we really hope it will inspire kids to explore and learn about the universe.
+p109
+aVSo basically, kids of all ages, like us.
+p110
+aa(lp111
+VAnd so WorldWide Telescope will be available this spring.
+p112
+aVIt'll be a free download \u2014 thank you, Craig Mundie \u2014
+p113
+aVand it'll be available at the website WorldWideTelescope.org,
+p114
+aVwhich is something new.
+p115
+aVAnd so, what you've seen today
+p116
+aVis less than a fraction of one percent of what is in here,
+p117
+aVand in the TED Lab, we have a tour
+p118
+aVthat was created by a six-year-old named Benjamin
+p119
+aVthat will knock your socks off. (Laughter)
+p120
+aVSo we'll see you there. Thank you.
+p121
+aV(Applause)
+p122
+aasS'id'
+p123
+I224
+sS'title'
+p124
+VA preview of the WorldWide Telescope
+p125
+s.

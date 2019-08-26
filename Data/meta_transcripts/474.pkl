@@ -1,0 +1,530 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VBack in 1992, I started working for a company
+p4
+aVcalled Interval Research,
+p5
+aVwhich was just then being founded
+p6
+aVby David Lidell and Paul Allen
+p7
+aVas a for-profit research enterprise in Silicon Valley.
+p8
+aa(lp9
+VI met with David
+p10
+aVto talk about what I might do in his company.
+p11
+aVI was just coming out of a failed virtual reality business
+p12
+aVand supporting myself by being on the speaking circuit
+p13
+aVand writing books \u2014
+p14
+aVafter twenty years or so in the computer game industry
+p15
+aVhaving ideas that people didn't think they could sell.
+p16
+aa(lp17
+VAnd David and I discovered
+p18
+aVthat we had a question in common,
+p19
+aVthat we really wanted the answer to,
+p20
+aVand that was,
+p21
+aV"Why hasn't anybody built any computer games for little girls?"
+p22
+aVWhy is that?
+p23
+aVIt can't just be a giant sexist conspiracy.
+p24
+aVThese people aren't that smart.
+p25
+aVThere's six billion dollars on the table.
+p26
+aVThey would go for it if they could figure out how.
+p27
+aa(lp28
+VSo, what is the deal here?
+p29
+aVAnd as we thought about our goals \u2014
+p30
+aVI should say that Interval is really a humanistic institution,
+p31
+aVin the classical sense
+p32
+aVthat humanism, at its best,
+p33
+aVfinds a way to combine clear-eyed empirical research
+p34
+aVwith a set of core values
+p35
+aVthat fundamentally love and respect people.
+p36
+aVThe basic idea of humanism
+p37
+aVis the improvable quality of life;
+p38
+aVthat we can do good things,
+p39
+aVthat there are things worth doing
+p40
+aVbecause they're good things to do,
+p41
+aVand that clear-eyed empiricism
+p42
+aVcan help us figure out how to do them.
+p43
+aa(lp44
+VSo, contrary to popular belief,
+p45
+aVthere is not a conflict of interest between empiricism and values.
+p46
+aVAnd Interval Research is kind of the living example
+p47
+aVof how that can be true.
+p48
+aVSo David and I decided to go find out,
+p49
+aVthrough the best research we could muster,
+p50
+aVwhat it would take to get a little girl
+p51
+aVto put her hands on a computer,
+p52
+aVto achieve the level of comfort and ease with the technology
+p53
+aVthat little boys have because they play video games.
+p54
+aa(lp55
+VWe spent two and a half years conducting research;
+p56
+aVwe spent another year and a half in advance development.
+p57
+aVThen we formed a spin-off company.
+p58
+aVIn the research phase of the project at Interval,
+p59
+aVwe partnered with a company called Cheskin Research,
+p60
+aVand these people \u2014 Davis Masten and Christopher Ireland \u2014
+p61
+aVchanged my mind entirely about what market research was
+p62
+aVand what it could be.
+p63
+aVThey taught me how to look and see,
+p64
+aVand they did not do the incredibly stupid thing
+p65
+aVof saying to a child,
+p66
+aV"Of all these things we already make you,
+p67
+aVwhich do you like best?" \u2014
+p68
+aVwhich gives you zero answers that are usable.
+p69
+aa(lp70
+VSo, what we did for the first two and a half years
+p71
+aVwas four things:
+p72
+aVWe did an extensive review of the literature
+p73
+aVin related fields, like cognitive psychology,
+p74
+aVspatial cognition, gender studies,
+p75
+aVplay theory, sociology, primatology.
+p76
+aVThank you Frans de Waal, wherever you are,
+p77
+aVI love you and I'd give anything to meet you.
+p78
+aa(lp79
+VAfter we had done that with a pretty large team of people
+p80
+aVand discovered what we thought the salient issues were
+p81
+aVwith girls and boys and playing \u2014
+p82
+aVbecause, after all, that's really what this is about \u2014
+p83
+aVwe moved to the second phase of our work,
+p84
+aVwhere we interviewed adult experts
+p85
+aVin academia, some of the people
+p86
+aVwho'd produced the literature that we found relevant.
+p87
+aVAlso, we did focus groups with people who were on the ground with kids every day,
+p88
+aVlike playground supervisors. We talked to them,
+p89
+aVconfirmed some hypotheses and identified some serious questions
+p90
+aVabout gender difference and play.
+p91
+aa(lp92
+VThen we did what I consider to be the heart of the work:
+p93
+aVinterviewed 1,100 children, boys and girls,
+p94
+aVages seven to 12, all over the United States \u2014
+p95
+aVexcept for Silicon Valley, Boston and Austin
+p96
+aVbecause we knew that their little families would have millions of computers in them
+p97
+aVand they wouldn't be a representative sample.
+p98
+aa(lp99
+VAnd at the end of those remarkable conversations
+p100
+aVwith kids and their best friends across the United States,
+p101
+aVafter two years, we pulled together some survey data from another 10,000 children,
+p102
+aVdrew up a set up of what we thought were the key findings of our research,
+p103
+aVand spent another year transforming them into design heuristics,
+p104
+aVfor designing computer-based products \u2014
+p105
+aVand, in fact, any kind of products \u2014 for little girls, ages eight to 12.
+p106
+aVAnd we spent that time designing interactive prototypes for computer software
+p107
+aVand testing them with little girls.
+p108
+aVIn 1996, in November, we formed the company Purple Moon
+p109
+aVwhich was a spinoff of Interval Research,
+p110
+aVand our chief investors were Interval Research, Vulcan Northwest,
+p111
+aVInstitutional Venture Partners and Allen and Company.
+p112
+aa(lp113
+VWe launched a website on September 2nd
+p114
+aVthat has now served 25 million pages,
+p115
+aVand has 42,000 registered young girl users.
+p116
+aVThey visit an average of one and a half times a day,
+p117
+aVspend an average of 35 minutes a visit,
+p118
+aVand look at 50 pages a visit.
+p119
+aVSo we feel that we've formed a successful online community with girls.
+p120
+aa(lp121
+VWe launched two titles in October \u2014
+p122
+aV"Rockett's New School" \u2014 the first of a series
+p123
+aVof products \u2014 is about a character called Rockett beginning her first day of school
+p124
+aVin eighth grade at a brand new place, with a blank slate,
+p125
+aVwhich allows girls to play with the question of, "What will I be like when I'm older?"
+p126
+aV"What's it going to be like to be in high school or junior high school?
+p127
+aVWho are my friends?";
+p128
+aVto exercise the love of social complexity
+p129
+aVand the narrative intelligence that drives most of their play behavior;
+p130
+aVand which embeds in it values about noticing that we have lots of choices
+p131
+aVin our lives and the ways that we conduct ourselves.
+p132
+aa(lp133
+VThe other title that we launched is called "Secret Paths in the Forest,"
+p134
+aVwhich addresses the more fantasy-oriented, inner lives of girls.
+p135
+aVThese two titles both showed up in the top 50 entertainment titles in PC Data \u2014
+p136
+aVentertainment titles in PC Data
+p137
+aVin December, right up there with "John Madden Football,"
+p138
+aVwhich thrills me to death.
+p139
+aVSo, we're real,
+p140
+aVand we've touched several hundreds of thousands of little girls.
+p141
+aVWe've made half-a-billion impressions
+p142
+aVwith marketing and PR for this brand, Purple Moon.
+p143
+aVNinety-six percent of them, roughly, have been positive;
+p144
+aVfour percent of them have been "other."
+p145
+aVI want to talk about the other,
+p146
+aVbecause the politics of this enterprise, in a way,
+p147
+aVhave been the most fascinating part of it, for me.
+p148
+aa(lp149
+VThere are really two kinds of negative reviews that we've received.
+p150
+aVOne kind of reviewer is a male gamer
+p151
+aVwho thinks he knows what games ought to be,
+p152
+aVand won't show the product to little girls.
+p153
+aVThe other kind of reviewer is a certain flavor of feminist
+p154
+aVwho thinks they know what little girls ought to be.
+p155
+aVAnd so it's funny to me that these interesting, odd bedfellows
+p156
+aVhave one thing in common:
+p157
+aVthey don't listen to little girls.
+p158
+aVThey haven't looked at children
+p159
+aVand they're certainly not demonstrating any love for them.
+p160
+aVI'd like to play you some voices of little girls
+p161
+aVfrom the two-and-a-half years of research that we did \u2014
+p162
+aVactually, some of the voices are more recent.
+p163
+aVAnd these voices will be accompanied by photographs
+p164
+aVthat they took for us of their lives,
+p165
+aVof the things that they value and care about.
+p166
+aVThese are pictures the girls themselves never saw, but they gave to us
+p167
+aVThis is the stuff those reviewers don't know about and aren't listening to
+p168
+aVand this is the kind of research I recommend to those
+p169
+aVwho want to do humanistic work.
+p170
+aa(lp171
+VGirl 1: Yeah, my character is usually a tomboy.
+p172
+aVHers is more into boys.
+p173
+aa(lp174
+VGirl 2: Uh, yeah.
+p175
+aa(lp176
+VGirl 1: We have \u2014 in the very beginning of the whole game, always we do this:
+p177
+aVwe each have a piece of paper; we write down our name, our age \u2014
+p178
+aVare we rich, very rich, not rich, poor, medium, wealthy,
+p179
+aVboyfriends, dogs, pets \u2014 what else \u2014 sisters, brothers, and all those.
+p180
+aa(lp181
+VGirl 2: Divorced \u2014 parents divorced, maybe.
+p182
+aa(lp183
+VGirl 3: This is my pretend [unclear] one.
+p184
+aa(lp185
+VGirl 4: We make a school newspaper on the computer.
+p186
+aa(lp187
+VGirl 5: For a girl's game also usually they'll have really pretty scenery
+p188
+aVwith clouds and flowers.
+p189
+aVGirl 6: Like, if you were a girl and you were really adventurous and a real big tomboy,
+p190
+aVyou would think that girls' games were kinda sissy.
+p191
+aa(lp192
+VGirl 7: I run track, I played soccer,
+p193
+aVI play basketball, and I love a lot of things to do.
+p194
+aVAnd sometimes I feel like I can't really enjoy myself unless it's like a vacation,
+p195
+aVlike when I get Mondays and all those days off.
+p196
+aa(lp197
+VGirl 8: Well, sometimes there is a lot of stuff going on
+p198
+aVbecause I have music lessons and I'm on swim team \u2014
+p199
+aVall this different stuff that I have to do,
+p200
+aVand sometimes it gets overwhelming.
+p201
+aVGirl 9: My friend Justine
+p202
+aVkinda took my friend Kelly, and now they're being mean to me.
+p203
+aa(lp204
+VGirl 10: Well, sometimes it gets annoying when your brothers and sisters,
+p205
+aVor brother or sister, when they copy you and you get your idea first
+p206
+aVand they take your idea and they do it themselves.
+p207
+aa(lp208
+VGirl 11: Because my older sister, she gets everything
+p209
+aVand, like, when I ask my mom for something, she'll say, "No" \u2014 all the time.
+p210
+aVBut she gives my sister everything.
+p211
+aa(lp212
+VBrenda Laurel: I want to show you, real quickly, just a minute
+p213
+aVof "Rockett's Tricky Decision," which went gold two days ago.
+p214
+aVLet's hope it's really stable.
+p215
+aVThis is the second day in Rockett's life.
+p216
+aVThe reason I'm showing you this
+p217
+aVis I'm hoping that the scene that I'm going to show you will look familiar
+p218
+aVand sound familiar, now that you've listened to some girls' voices.
+p219
+aVAnd you can see how we've tried to incorporate the issues that matter to them
+p220
+aVin the game that we've created.
+p221
+aa(lp222
+VMiko: Hey Rockett! C'mere!
+p223
+aa(lp224
+VRockett: Hi Miko! What's going on?
+p225
+aa(lp226
+VMiko: Did you hear about Nakilia's big Halloween party this weekend?
+p227
+aVShe asked me to make sure you knew about it.
+p228
+aVNakilia invited Reuben too, but \u2014
+p229
+aa(lp230
+VRockett: But what? Isn't he coming?
+p231
+aa(lp232
+VMiko: I don't think so.
+p233
+aVI mean, I heard his band is playing at another party the same night.
+p234
+aa(lp235
+VRockett: Really? What other party?
+p236
+aa(lp237
+VGirl: Max's party is going to be so cool, Whitney.
+p238
+aVHe's invited all the best people.
+p239
+aa(lp240
+VBL: I'm going to fast-forward to the decision point
+p241
+aVbecause I know I don't have a lot of time.
+p242
+aVAfter this awful event occurs, Rocket gets to decide how she feels about it.
+p243
+aa(lp244
+VRockett: Who'd want to show up at that party anyway?
+p245
+aVI could get invited to that party any day if I wanted to.
+p246
+aVGee, I doubt I'll make Max's best people list.
+p247
+aa(lp248
+VBL: OK, so we're going to emotionally navigate.
+p249
+aVIf we were playing the game, that's what we'd do.
+p250
+aVIf at any time during the game we want to learn more about the characters,
+p251
+aVwe can go into this hidden hallway,
+p252
+aVand I'll quickly just show you the interface.
+p253
+aVWe can, for example, go find Miko's locker
+p254
+aVand get some more information about her.
+p255
+aVOops, I turned the wrong way.
+p256
+aVBut you get the general idea of the product.
+p257
+aa(lp258
+VI wanted to show you the ways, innocuous as they seem,
+p259
+aVin which we're incorporating what we've learned about girls \u2014
+p260
+aVtheir desires to experience greater emotional flexibility,
+p261
+aVand to play around with the social complexity of their lives.
+p262
+aVI want to make the point that what we're giving girls, I think, through this effort,
+p263
+aVis a kind of validation,
+p264
+aVa sense of being seen.
+p265
+aVAnd a sense of the choices that are available in their lives.
+p266
+aVWe love them.
+p267
+aVWe see them.
+p268
+aVWe're not trying to tell them who they ought to be.
+p269
+aVBut we're really, really happy about who they are.
+p270
+aVIt turns out they're really great.
+p271
+aa(lp272
+VI want to close by showing you a videotape
+p273
+aVthat's a version of a future game in the Rockett series
+p274
+aVthat our graphic artists and design people put together,
+p275
+aVthat we feel would please that four percent of reviewers.
+p276
+aV"Rockett 28!"
+p277
+aa(lp278
+VRockett: It's like I'm just waking up, you know?
+p279
+aa(lp280
+VBL: Thanks.
+p281
+aasS'id'
+p282
+I474
+sS'title'
+p283
+VWhy not make video games for girls?
+p284
+s.

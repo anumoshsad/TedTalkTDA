@@ -1,0 +1,578 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhat do you do if you had to figure out the information
+p4
+aVbehind 11.5 million documents,
+p5
+aVverify it and make sense of it?
+p6
+aVThat was a challenge
+p7
+aVthat a group of journalists had to face late last year.
+p8
+aVAn anonymous person calling himself John Doe
+p9
+aVhad somehow managed to copy nearly 40 years of records
+p10
+aVof the Panamanian law firm Mossack Fonseca.
+p11
+aVThis is one of many firms around the world
+p12
+aVthat specialize in setting up accounts in offshore tax havens
+p13
+aVlike the British Virgin Islands,
+p14
+aVfor rich and powerful people who like to keep secrets.
+p15
+aa(lp16
+VJohn Doe had managed to copy every spreadsheet from this firm,
+p17
+aVevery client file,
+p18
+aVevery email,
+p19
+aVfrom 1977 to the present day.
+p20
+aVIt represented the biggest cache
+p21
+aVof inside information into the tax haven system
+p22
+aVthat anyone had ever seen.
+p23
+aVBut it also presented a gigantic challenge to investigative journalism.
+p24
+aVThink about it: 11.5 million documents,
+p25
+aVcontaining the secrets of people from more than 200 different countries.
+p26
+aVWhere do you start with such a vast resource?
+p27
+aVWhere do you even begin to tell a story
+p28
+aVthat can trail off into every corner of the globe,
+p29
+aVand that can affect almost any person in any language,
+p30
+aVsometimes in ways they don't even know yet.
+p31
+aa(lp32
+VJohn Doe had given the information to two journalists
+p33
+aVat the German newspaper Süddeutsche Zeitung.
+p34
+aVHe said he was motivated by \u2014 and I quote \u2014
+p35
+aV"The scale of the injustice that the documents would reveal."
+p36
+aVBut one user alone can never make sense
+p37
+aVof such a vast amount of information.
+p38
+aVSo the Süddeutsche Zeitung reached out
+p39
+aVto my organization in Washington, DC,
+p40
+aVThe International Consortium of Investigative Journalists.
+p41
+aVWe decided to do something that was the very opposite
+p42
+aVof everything we'd been taught to do as journalists:
+p43
+aVshare.
+p44
+aa(lp45
+V(Laughter)
+p46
+aa(lp47
+VBy nature, investigative reporters are lone wolves.
+p48
+aVWe fiercely guard our secrets,
+p49
+aVat times even from our editors,
+p50
+aVbecause we know that the moment we tell them what we have,
+p51
+aVthey'll want that story right away.
+p52
+aVAnd to be frank,
+p53
+aVwhen you get a good story,
+p54
+aVyou like to keep the glory to yourself.
+p55
+aa(lp56
+VBut there's no doubt that we live in a shrinking world,
+p57
+aVand that the media has largely been slow to wake up to this.
+p58
+aVThe issues we report on are more and more transnational.
+p59
+aVGiant corporations operate on a global level.
+p60
+aVEnvironmental and health crises are global.
+p61
+aVSo, too, are financial flows and financial crises.
+p62
+aVSo it seems staggering that journalism has been so late
+p63
+aVto cover stories in a truly global way.
+p64
+aVAnd it also seems staggering that journalism has been so slow
+p65
+aVto wake up to the possibilities that technology brings,
+p66
+aVrather than being frightened of it.
+p67
+aVThe reason journalists are scared of technology is this:
+p68
+aVthe profession's largest institutions are going through tough times
+p69
+aVbecause of the changing way that people are consuming news.
+p70
+aVThe advertising business models that have sustained reporting are broken.
+p71
+aVAnd this has plunged journalism into crisis,
+p72
+aVforcing those institutions to reexamine how they function.
+p73
+aa(lp74
+VBut where there is crisis,
+p75
+aVthere is also opportunity.
+p76
+aVThe first challenge presented
+p77
+aVby what would eventually become known as the Panama Papers
+p78
+aVwas to make the documents searchable and readable.
+p79
+aVThere were nearly five million emails,
+p80
+aVtwo million PDFs that needed to be scanned and indexed,
+p81
+aVand millions more files and other kinds of documents.
+p82
+aVThey all needed to be housed in a safe and secure location
+p83
+aVin the cloud.
+p84
+aVWe next invited reporters to have a look at the documents.
+p85
+aVIn all, reporters from more than 100 media organizations
+p86
+aVin 76 countries \u2014
+p87
+aVfrom the BBC in Britain
+p88
+aVto Le Monde newspaper in France
+p89
+aVto the Asahi Shimbun in Japan.
+p90
+aV"Native eyes on native names," we called it, the idea being,
+p91
+aVwho best to tell you who was important to Nigeria
+p92
+aVthan a Nigerian journalist?
+p93
+aVWho best in Canada than a Canadian?
+p94
+aVThere were only two rules for everyone who was invited:
+p95
+aVwe all agreed to share everything that we found with everybody else,
+p96
+aVand we all agreed to publish together on the same day.
+p97
+aa(lp98
+VWe chose our media partners based on trust
+p99
+aVthat had been built up through previous smaller collaborations
+p100
+aVand also from leads that jumped out from the documents.
+p101
+aVOver the next few months,
+p102
+aVmy small nonprofit organization of less than 20 people
+p103
+aVwas joined by more than 350 other reporters from 25 language groups.
+p104
+aVThe biggest information leak in history
+p105
+aVhad now spawned the biggest journalism collaboration in history:
+p106
+aV376 sets of native eyes doing what journalists normally never do,
+p107
+aVworking shoulder to shoulder,
+p108
+aVsharing information,
+p109
+aVbut telling no one.
+p110
+aVFor it became clear at this point
+p111
+aVthat in order to make the biggest kind of noise,
+p112
+aVwe first needed the biggest kind of silence.
+p113
+aa(lp114
+VTo manage the project over the many months it would take,
+p115
+aVwe built a secure virtual newsroom.
+p116
+aVWe used encrypted communication systems,
+p117
+aVand we built a specially designed search engine.
+p118
+aVInside the virtual newsroom,
+p119
+aVthe reporters could gather around the themes
+p120
+aVthat were emerging from the documents.
+p121
+aVThose interested in blood diamonds or exotic art, for instance,
+p122
+aVcould share information about how the offshore world was being used
+p123
+aVto hide the trade in both of those commodities.
+p124
+aVThose interested in sport could share information
+p125
+aVabout how famous sports stars were putting their image rights
+p126
+aVinto offshore companies,
+p127
+aVthereby likely avoiding taxes
+p128
+aVin the countries where they plied their trade.
+p129
+aa(lp130
+VBut perhaps most exciting of all
+p131
+aVwere the number of world leaders and elect politicians
+p132
+aVthat were emerging from the documents \u2014
+p133
+aVfigures like Petro Poroshenko in Ukraine,
+p134
+aVclose associates of Vladimir Putin in Russia
+p135
+aVand the British Prime Minister, David Cameron, who is linked
+p136
+aVthrough his late father, Ian Cameron.
+p137
+aa(lp138
+VBuried in the documents were secret offshore entities,
+p139
+aVsuch as Wintris Inc.,
+p140
+aVa company in the British Virgin Islands
+p141
+aVthat had actually belonged to the sitting Icelandic prime minister.
+p142
+aVI like to refer to Johannes Kristjansson,
+p143
+aVthe Icelandic reporter we invited to join the project,
+p144
+aVas the loneliest man in the world.
+p145
+aVFor nine months, he refused paid work
+p146
+aVand lived off the earnings of his wife.
+p147
+aVHe pasted tarps over the windows of his home
+p148
+aVto prevent prying eyes during the long Icelandic winter.
+p149
+aVAnd he soon ran out of excuses to explain his many absences,
+p150
+aVas he worked red-eyed,
+p151
+aVnight after night,
+p152
+aVmonth after month.
+p153
+aVIn all that time, he sat on information
+p154
+aVthat would eventually bring down the leader of his country.
+p155
+aa(lp156
+VNow, when you're an investigative reporter and you make an amazing discovery,
+p157
+aVsuch as your prime minster can be linked to a secret offshore company,
+p158
+aVthat that company has a financial interest in Icelandic banks \u2014
+p159
+aVthe very issue he's been elected on \u2014
+p160
+aVwell, your instinct is to scream out very loud.
+p161
+aVInstead, as one of the few people that he could speak to,
+p162
+aVJohannes and I shared a kind of gallows humor.
+p163
+aV"Wintris is coming," he used to say.
+p164
+aa(lp165
+V(Laughter)
+p166
+aa(lp167
+V(Applause)
+p168
+aa(lp169
+VWe were big fans of "Game of Thrones."
+p170
+aa(lp171
+VWhen reporters like Johannes wanted to scream,
+p172
+aVthey did so inside the virtual newsroom,
+p173
+aVand then they turned those screams into stories
+p174
+aVby going outside the documents to court records,
+p175
+aVofficial company registers,
+p176
+aVand by eventually putting questions to those that we intended to name.
+p177
+aVPanama Papers actually allowed the reporters to look at the world
+p178
+aVthrough a different lens from everybody else.
+p179
+aa(lp180
+VAs we were researching the story,
+p181
+aVunconnected to us,
+p182
+aVa major political bribery scandal happened in Brazil.
+p183
+aVA new leader was elected in Argentina.
+p184
+aVThe FBI began to indict officials at FIFA,
+p185
+aVthe organization that controls the world of professional soccer.
+p186
+aVThe Panama Papers actually had unique insights
+p187
+aVinto each one of these unfolding events.
+p188
+aVSo you can imagine the pressure and the ego dramas
+p189
+aVthat could have ruined what we were trying to do.
+p190
+aVAny of one of these journalists,
+p191
+aVthey could have broken the pact.
+p192
+aVBut they didn't.
+p193
+aVAnd on April 3 this year,
+p194
+aVat exactly 8pm German time,
+p195
+aVwe published simultaneously in 76 countries.
+p196
+aa(lp197
+V(Applause)
+p198
+aa(lp199
+VThe Panama Papers quickly became one of the biggest stories of the year.
+p200
+aVThis is the scene in Iceland the day after we published.
+p201
+aVIt was the first of many protests.
+p202
+aVThe Icelandic prime minister had to resign.
+p203
+aVIt was a first of many resignations.
+p204
+aVWe spotlighted many famous people such as Lionel Messi,
+p205
+aVthe most famous soccer player in the world.
+p206
+aVAnd there were some unintended consequences.
+p207
+aVThese alleged members of a Mexican drug cartel were arrested
+p208
+aVafter we published details about their hideout.
+p209
+aVThey'd been using the address
+p210
+aVto register their offshore company.
+p211
+aa(lp212
+V(Laughter)
+p213
+aa(lp214
+VThere's a kind of irony in what we've been able to do.
+p215
+aVThe technology \u2014 the Internet \u2014 that has broken the business model
+p216
+aVis allowing us to reinvent journalism itself.
+p217
+aVAnd this dynamic is producing
+p218
+aVunprecedented levels of transparency and impact.
+p219
+aVWe showed how a group of journalists can effect change across the world
+p220
+aVby applying new methods and old-fashioned journalism techniques
+p221
+aVto vast amounts of leaked information.
+p222
+aVWe put all-important context around what was given to us by John Doe.
+p223
+aVAnd by sharing resources,
+p224
+aVwe were able to dig deep \u2014
+p225
+aVmuch deeper and longer than most media organizations allow these days,
+p226
+aVbecause of financial concerns.
+p227
+aa(lp228
+VNow, it was a big risk,
+p229
+aVand it wouldn't work for every story,
+p230
+aVbut we showed with the Panama Papers
+p231
+aVthat you can write about any country from just about anywhere,
+p232
+aVand then choose your preferred battleground to defend your work.
+p233
+aVTry obtaining a court injunction
+p234
+aVthat would prevent the telling of a story in 76 different countries.
+p235
+aVTry stopping the inevitable.
+p236
+aa(lp237
+VShortly after we published, I got a three-word text from Johannes:
+p238
+aV"Wintris has arrived."
+p239
+aa(lp240
+V(Laughter)
+p241
+aa(lp242
+VIt had arrived and so, too, perhaps has a new era for journalism.
+p243
+aa(lp244
+VThank you.
+p245
+aa(lp246
+V(Applause)
+p247
+aa(lp248
+VBruno Giussani: Gerard, thank you.
+p249
+aa(lp250
+VI guess you're going to send that applause to the 350 journalists
+p251
+aVwho worked with you, right?
+p252
+aa(lp253
+VNow, a couple of questions I would like to ask.
+p254
+aVThe first one is,
+p255
+aVyou'd been working in secrecy for over a year
+p256
+aVwith 350-something colleagues from all over the world \u2014
+p257
+aVwas there ever a moment when you thought
+p258
+aVthat the leak may be leaked,
+p259
+aVthat the collaboration may just be broken
+p260
+aVby somebody publishing a story?
+p261
+aVOr somebody not in the group releasing some information
+p262
+aVthat they got to know?
+p263
+aa(lp264
+VGerard Ryle: We had a series of crises along the way,
+p265
+aVincluding when something major was happening in the world,
+p266
+aVthe journalists from that country wanted to publish right away.
+p267
+aVWe had to calm them down.
+p268
+aVProbably the biggest crisis we had was a week before publication.
+p269
+aVWe'd sent a series of questions to the associates of Vladimir Putin,
+p270
+aVbut instead of responding,
+p271
+aVthe Kremlin actually held a press conference and denounced us,
+p272
+aVand denounced the whole thing as being, I guess, a plot from the West.
+p273
+aVAt that point, Putin thought it was just about him.
+p274
+aVAnd, of course, a lot of editors around the world
+p275
+aVwere very nervous about this.
+p276
+aVThey thought the story was going to get out.
+p277
+aVYou can imagine the amount of time they'd spent,
+p278
+aVthe amount of resources, money spent on this.
+p279
+aVSo I had to basically spend the last week calming everyone down,
+p280
+aVa bit like a general, where you're holding your troops back:
+p281
+aV"Calm, remain calm."
+p282
+aVAnd then eventually, of course, they all did.
+p283
+aa(lp284
+VBG: And then a couple weeks ago or so,
+p285
+aVyou released a lot of the documents as an open database
+p286
+aVfor everybody to search via keyword, essentially.
+p287
+aa(lp288
+VGR: We very much believe
+p289
+aVthat the basic information about the offshore world
+p290
+aVshould be made public.
+p291
+aVNow, we didn't publish the underlying documents
+p292
+aVof the journalists we're working with.
+p293
+aVBut the basic information such as the name of a person,
+p294
+aVwhat their offshore company was and the name of that company,
+p295
+aVis now all available online.
+p296
+aVIn fact, the biggest resource of its kind basically is out there now
+p297
+aa(lp298
+VBG: Gerard, thank you for the work you do.
+p299
+aa(lp300
+VGR: Thank you.
+p301
+aa(lp302
+V(Applause)
+p303
+aasS'id'
+p304
+I2553
+sS'title'
+p305
+VHow the Panama Papers journalists broke the biggest leak in history
+p306
+s.

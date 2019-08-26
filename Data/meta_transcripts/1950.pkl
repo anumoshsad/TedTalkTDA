@@ -1,0 +1,1656 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VChris Anderson: The rights of citizens,
+p4
+aVthe future of the Internet.
+p5
+aVSo I would like to welcome to the TED stage
+p6
+aVthe man behind those revelations,
+p7
+aVEd Snowden.
+p8
+aV(Applause)
+p9
+aVEd is in a remote location somewhere in Russia
+p10
+aVcontrolling this bot from his laptop,
+p11
+aVso he can see what the bot can see.
+p12
+aVEd, welcome to the TED stage.
+p13
+aVWhat can you see, as a matter of fact?
+p14
+aa(lp15
+VEdward Snowden: Ha, I can see everyone.
+p16
+aVThis is amazing.
+p17
+aV(Laughter)
+p18
+aa(lp19
+VCA: Ed, some questions for you.
+p20
+aVYou've been called many things
+p21
+aVin the last few months.
+p22
+aVYou've been called a whistleblower, a traitor,
+p23
+aVa hero.
+p24
+aVWhat words would you describe yourself with?
+p25
+aa(lp26
+VES: You know, everybody who is involved
+p27
+aVwith this debate
+p28
+aVhas been struggling over me and my personality
+p29
+aVand how to describe me.
+p30
+aVBut when I think about it,
+p31
+aVthis isn't the question that we should be struggling with.
+p32
+aVWho I am really doesn't matter at all.
+p33
+aVIf I'm the worst person in the world,
+p34
+aVyou can hate me and move on.
+p35
+aVWhat really matters here are the issues.
+p36
+aVWhat really matters here is the kind of government we want,
+p37
+aVthe kind of Internet we want,
+p38
+aVthe kind of relationship between people
+p39
+aVand societies.
+p40
+aVAnd that's what I'm hoping the debate will move towards,
+p41
+aVand we've seen that increasing over time.
+p42
+aVIf I had to describe myself,
+p43
+aVI wouldn't use words like "hero."
+p44
+aVI wouldn't use "patriot," and I wouldn't use "traitor."
+p45
+aVI'd say I'm an American and I'm a citizen,
+p46
+aVjust like everyone else.
+p47
+aa(lp48
+VCA: So just to give some context
+p49
+aVfor those who don't know the whole story \u2014
+p50
+aV(Applause) \u2014
+p51
+aVthis time a year ago, you were stationed in Hawaii
+p52
+aVworking as a consultant to the NSA.
+p53
+aVAs a sysadmin, you had access
+p54
+aVto their systems,
+p55
+aVand you began revealing certain classified documents
+p56
+aVto some handpicked journalists
+p57
+aVleading the way to June's revelations.
+p58
+aVNow, what propelled you to do this?
+p59
+aVES: You know,
+p60
+aVwhen I was sitting in Hawaii,
+p61
+aVand the years before, when I was working in the intelligence community,
+p62
+aVI saw a lot of things that had disturbed me.
+p63
+aVWe do a lot of good things in the intelligence community,
+p64
+aVthings that need to be done,
+p65
+aVand things that help everyone.
+p66
+aVBut there are also things that go too far.
+p67
+aVThere are things that shouldn't be done,
+p68
+aVand decisions that were being made in secret
+p69
+aVwithout the public's awareness,
+p70
+aVwithout the public's consent,
+p71
+aVand without even our representatives in government
+p72
+aVhaving knowledge of these programs.
+p73
+aVWhen I really came to struggle with these issues,
+p74
+aVI thought to myself,
+p75
+aVhow can I do this in the most responsible way,
+p76
+aVthat maximizes the public benefit
+p77
+aVwhile minimizing the risks?
+p78
+aVAnd out of all the solutions that I could come up with,
+p79
+aVout of going to Congress,
+p80
+aVwhen there were no laws,
+p81
+aVthere were no legal protections
+p82
+aVfor a private employee,
+p83
+aVa contractor in intelligence like myself,
+p84
+aVthere was a risk that I would be buried along with the information
+p85
+aVand the public would never find out.
+p86
+aVBut the First Amendment of the United States Constitution
+p87
+aVguarantees us a free press for a reason,
+p88
+aVand that's to enable an adversarial press,
+p89
+aVto challenge the government,
+p90
+aVbut also to work together with the government,
+p91
+aVto have a dialogue and debate about how we can
+p92
+aVinform the public about matters of vital importance
+p93
+aVwithout putting our national security at risk.
+p94
+aVAnd by working with journalists,
+p95
+aVby giving all of my information
+p96
+aVback to the American people,
+p97
+aVrather than trusting myself to make
+p98
+aVthe decisions about publication,
+p99
+aVwe've had a robust debate
+p100
+aVwith a deep investment by the government
+p101
+aVthat I think has resulted in a benefit for everyone.
+p102
+aVAnd the risks that have been threatened,
+p103
+aVthe risks that have been played up
+p104
+aVby the government
+p105
+aVhave never materialized.
+p106
+aVWe've never seen any evidence
+p107
+aVof even a single instance of specific harm,
+p108
+aVand because of that,
+p109
+aVI'm comfortable with the decisions that I made.
+p110
+aa(lp111
+VCA: So let me show the audience
+p112
+aVa couple of examples of what you revealed.
+p113
+aVIf we could have a slide up, and Ed,
+p114
+aVI don't know whether you can see,
+p115
+aVthe slides are here.
+p116
+aVThis is a slide of the PRISM program,
+p117
+aVand maybe you could tell the audience
+p118
+aVwhat that was that was revealed.
+p119
+aa(lp120
+VES: The best way to understand PRISM,
+p121
+aVbecause there's been a little bit of controversy,
+p122
+aVis to first talk about what PRISM isn't.
+p123
+aVMuch of the debate in the U.S. has been about metadata.
+p124
+aVThey've said it's just metadata, it's just metadata,
+p125
+aVand they're talking about a specific legal authority
+p126
+aVcalled Section 215 of the Patriot Act.
+p127
+aVThat allows sort of a warrantless wiretapping,
+p128
+aVmass surveillance of the entire country's
+p129
+aVphone records, things like that \u2014
+p130
+aVwho you're talking to,
+p131
+aVwhen you're talking to them,
+p132
+aVwhere you traveled.
+p133
+aVThese are all metadata events.
+p134
+aVPRISM is about content.
+p135
+aVIt's a program through which the government could
+p136
+aVcompel corporate America,
+p137
+aVit could deputize corporate America
+p138
+aVto do its dirty work for the NSA.
+p139
+aVAnd even though some of these companies did resist,
+p140
+aVeven though some of them \u2014
+p141
+aVI believe Yahoo was one of them \u2014
+p142
+aVchallenged them in court, they all lost,
+p143
+aVbecause it was never tried by an open court.
+p144
+aVThey were only tried by a secret court.
+p145
+aVAnd something that we've seen,
+p146
+aVsomething about the PRISM program that's very concerning to me is,
+p147
+aVthere's been a talking point in the U.S. government
+p148
+aVwhere they've said 15 federal judges
+p149
+aVhave reviewed these programs and found them to be lawful,
+p150
+aVbut what they don't tell you
+p151
+aVis those are secret judges
+p152
+aVin a secret court
+p153
+aVbased on secret interpretations of law
+p154
+aVthat's considered 34,000 warrant requests
+p155
+aVover 33 years,
+p156
+aVand in 33 years only rejected
+p157
+aV11 government requests.
+p158
+aVThese aren't the people that we want deciding
+p159
+aVwhat the role of corporate America
+p160
+aVin a free and open Internet should be.
+p161
+aa(lp162
+VCA: Now, this slide that we're showing here
+p163
+aVshows the dates in which
+p164
+aVdifferent technology companies, Internet companies,
+p165
+aVare alleged to have joined the program,
+p166
+aVand where data collection began from them.
+p167
+aVNow, they have denied collaborating with the NSA.
+p168
+aVHow was that data collected by the NSA?
+p169
+aa(lp170
+VES: Right. So the NSA's own slides
+p171
+aVrefer to it as direct access.
+p172
+aVWhat that means to an actual NSA analyst,
+p173
+aVsomeone like me who was working as an intelligence analyst
+p174
+aVtargeting, Chinese cyber-hackers,
+p175
+aVthings like that, in Hawaii,
+p176
+aVis the provenance of that data
+p177
+aVis directly from their servers.
+p178
+aVIt doesn't mean
+p179
+aVthat there's a group of company representatives
+p180
+aVsitting in a smoky room with the NSA
+p181
+aVpalling around and making back-room deals
+p182
+aVabout how they're going to give this stuff away.
+p183
+aVNow each company handles it different ways.
+p184
+aVSome are responsible.
+p185
+aVSome are somewhat less responsible.
+p186
+aVBut the bottom line is, when we talk about
+p187
+aVhow this information is given,
+p188
+aVit's coming from the companies themselves.
+p189
+aVIt's not stolen from the lines.
+p190
+aVBut there's an important thing to remember here:
+p191
+aVeven though companies pushed back,
+p192
+aVeven though companies demanded,
+p193
+aVhey, let's do this through a warrant process,
+p194
+aVlet's do this
+p195
+aVwhere we actually have some sort of legal review,
+p196
+aVsome sort of basis for handing over
+p197
+aVthese users' data,
+p198
+aVwe saw stories in the Washington Post last year
+p199
+aVthat weren't as well reported as the PRISM story
+p200
+aVthat said the NSA broke in
+p201
+aVto the data center communications
+p202
+aVbetween Google to itself
+p203
+aVand Yahoo to itself.
+p204
+aVSo even these companies that are cooperating
+p205
+aVin at least a compelled but hopefully lawful manner
+p206
+aVwith the NSA,
+p207
+aVthe NSA isn't satisfied with that,
+p208
+aVand because of that, we need our companies
+p209
+aVto work very hard
+p210
+aVto guarantee that they're going to represent
+p211
+aVthe interests of the user, and also advocate
+p212
+aVfor the rights of the users.
+p213
+aVAnd I think over the last year,
+p214
+aVwe've seen the companies that are named
+p215
+aVon the PRISM slides
+p216
+aVtake great strides to do that,
+p217
+aVand I encourage them to continue.
+p218
+aa(lp219
+VCA: What more should they do?
+p220
+aa(lp221
+VES: The biggest thing that an Internet company
+p222
+aVin America can do today, right now,
+p223
+aVwithout consulting with lawyers,
+p224
+aVto protect the rights of users worldwide,
+p225
+aVis to enable SSL web encryption
+p226
+aVon every page you visit.
+p227
+aVThe reason this matters is today,
+p228
+aVif you go to look at a copy of "1984" on Amazon.com,
+p229
+aVthe NSA can see a record of that,
+p230
+aVthe Russian intelligence service can see a record of that,
+p231
+aVthe Chinese service can see a record of that,
+p232
+aVthe French service, the German service,
+p233
+aVthe services of Andorra.
+p234
+aVThey can all see it because it's unencrypted.
+p235
+aVThe world's library is Amazon.com,
+p236
+aVbut not only do they not support encryption by default,
+p237
+aVyou cannot choose to use encryption
+p238
+aVwhen browsing through books.
+p239
+aVThis is something that we need to change,
+p240
+aVnot just for Amazon, I don't mean to single them out,
+p241
+aVbut they're a great example.
+p242
+aVAll companies need to move
+p243
+aVto an encrypted browsing habit by default
+p244
+aVfor all users who haven't taken any action
+p245
+aVor picked any special methods on their own.
+p246
+aVThat'll increase the privacy and the rights
+p247
+aVthat people enjoy worldwide.
+p248
+aa(lp249
+VCA: Ed, come with me to this part of the stage.
+p250
+aVI want to show you the next slide here. (Applause)
+p251
+aVThis is a program called Boundless Informant.
+p252
+aVWhat is that?
+p253
+aa(lp254
+VES: So, I've got to give credit to the NSA
+p255
+aVfor using appropriate names on this.
+p256
+aVThis is one of my favorite NSA cryptonyms.
+p257
+aVBoundless Informant
+p258
+aVis a program that the NSA hid from Congress.
+p259
+aVThe NSA was previously asked by Congress,
+p260
+aVwas there any ability that they had
+p261
+aVto even give a rough ballpark estimate
+p262
+aVof the amount of American communications
+p263
+aVthat were being intercepted.
+p264
+aVThey said no. They said, we don't track those stats,
+p265
+aVand we can't track those stats.
+p266
+aVWe can't tell you how many communications
+p267
+aVwe're intercepting around the world,
+p268
+aVbecause to tell you that would be
+p269
+aVto invade your privacy.
+p270
+aVNow, I really appreciate that sentiment from them,
+p271
+aVbut the reality, when you look at this slide is,
+p272
+aVnot only do they have the capability,
+p273
+aVthe capability already exists.
+p274
+aVIt's already in place.
+p275
+aVThe NSA has its own internal data format
+p276
+aVthat tracks both ends of a communication,
+p277
+aVand if it says,
+p278
+aVthis communication came from America,
+p279
+aVthey can tell Congress how many of those communications
+p280
+aVthey have today, right now.
+p281
+aVAnd what Boundless Informant tells us
+p282
+aVis more communications are being intercepted
+p283
+aVin America about Americans
+p284
+aVthan there are in Russia about Russians.
+p285
+aVI'm not sure that's what an intelligence agency
+p286
+aVshould be aiming for.
+p287
+aa(lp288
+VCA: Ed, there was a story broken in the Washington Post,
+p289
+aVagain from your data.
+p290
+aVThe headline says,
+p291
+aV"NSA broke privacy rules
+p292
+aVthousands of times per year."
+p293
+aVTell us about that.
+p294
+aa(lp295
+VES: We also heard in Congressional testimony last year,
+p296
+aVit was an amazing thing for someone like me
+p297
+aVwho came from the NSA
+p298
+aVand who's seen the actual internal documents,
+p299
+aVknows what's in them,
+p300
+aVto see officials testifying under oath
+p301
+aVthat there had been no abuses,
+p302
+aVthat there had been no violations of the NSA's rules,
+p303
+aVwhen we knew this story was coming.
+p304
+aVBut what's especially interesting about this,
+p305
+aVabout the fact that the NSA has violated
+p306
+aVtheir own rules, their own laws
+p307
+aVthousands of times in a single year,
+p308
+aVincluding one event by itself,
+p309
+aVone event out of those 2,776,
+p310
+aVthat affected more than 3,000 people.
+p311
+aVIn another event, they intercepted
+p312
+aVall the calls in Washington, D.C., by accident.
+p313
+aVWhat's amazing about this,
+p314
+aVthis report, that didn't get that much attention,
+p315
+aVis the fact that not only were there 2,776 abuses,
+p316
+aVthe chairman of the Senate Intelligence Committee,
+p317
+aVDianne Feinstein, had not seen this report
+p318
+aVuntil the Washington Post contacted her
+p319
+aVasking for comment on the report.
+p320
+aVAnd she then requested a copy from the NSA
+p321
+aVand received it,
+p322
+aVbut had never seen this before that.
+p323
+aVWhat does that say about the state of oversight
+p324
+aVin American intelligence
+p325
+aVwhen the chairman of the Senate Intelligence Committee
+p326
+aVhas no idea that the rules are being broken
+p327
+aVthousands of times every year?
+p328
+aa(lp329
+VCA: Ed, one response to this whole debate is this:
+p330
+aVWhy should we care about
+p331
+aVall this surveillance, honestly?
+p332
+aVI mean, look, if you've done nothing wrong,
+p333
+aVyou've got nothing to worry about.
+p334
+aVWhat's wrong with that point of view?
+p335
+aVES: Well, so the first thing is,
+p336
+aVyou're giving up your rights.
+p337
+aVYou're saying hey, you know,
+p338
+aVI don't think I'm going to need them,
+p339
+aVso I'm just going to trust that, you know,
+p340
+aVlet's get rid of them, it doesn't really matter,
+p341
+aVthese guys are going to do the right thing.
+p342
+aVYour rights matter
+p343
+aVbecause you never know when you're going to need them.
+p344
+aVBeyond that, it's a part of our cultural identity,
+p345
+aVnot just in America,
+p346
+aVbut in Western societies
+p347
+aVand in democratic societies around the world.
+p348
+aVPeople should be able to pick up the phone
+p349
+aVand to call their family,
+p350
+aVpeople should be able to send a text message
+p351
+aVto their loved ones,
+p352
+aVpeople should be able to buy a book online,
+p353
+aVthey should be able to travel by train,
+p354
+aVthey should be able to buy an airline ticket
+p355
+aVwithout wondering about how these events
+p356
+aVare going to look to an agent of the government,
+p357
+aVpossibly not even your government
+p358
+aVyears in the future,
+p359
+aVhow they're going to be misinterpreted
+p360
+aVand what they're going to think your intentions were.
+p361
+aVWe have a right to privacy.
+p362
+aVWe require warrants to be based on probable cause
+p363
+aVor some kind of individualized suspicion
+p364
+aVbecause we recognize that trusting anybody,
+p365
+aVany government authority,
+p366
+aVwith the entirety of human communications
+p367
+aVin secret and without oversight
+p368
+aVis simply too great a temptation to be ignored.
+p369
+aa(lp370
+VCA: Some people are furious at what you've done.
+p371
+aVI heard a quote recently from Dick Cheney
+p372
+aVwho said that Julian Assange was a flea bite,
+p373
+aVEdward Snowden is the lion that bit the head off the dog.
+p374
+aVHe thinks you've committed
+p375
+aVone of the worst acts of betrayal
+p376
+aVin American history.
+p377
+aVWhat would you say to people who think that?
+p378
+aa(lp379
+VES: Dick Cheney's really something else.
+p380
+aV(Laughter) (Applause)
+p381
+aVThank you. (Laughter)
+p382
+aVI think it's amazing, because at the time
+p383
+aVJulian Assange was doing some of his greatest work,
+p384
+aVDick Cheney was saying
+p385
+aVhe was going to end governments worldwide,
+p386
+aVthe skies were going to ignite
+p387
+aVand the seas were going to boil off,
+p388
+aVand now he's saying it's a flea bite.
+p389
+aVSo we should be suspicious about the same sort of
+p390
+aVoverblown claims of damage to national security
+p391
+aVfrom these kind of officials.
+p392
+aVBut let's assume that these people really believe this.
+p393
+aVI would argue that they have kind of
+p394
+aVa narrow conception of national security.
+p395
+aVThe prerogatives of people like Dick Cheney
+p396
+aVdo not keep the nation safe.
+p397
+aVThe public interest is not always the same
+p398
+aVas the national interest.
+p399
+aVGoing to war with people who are not our enemy
+p400
+aVin places that are not a threat
+p401
+aVdoesn't make us safe,
+p402
+aVand that applies whether it's in Iraq
+p403
+aVor on the Internet.
+p404
+aVThe Internet is not the enemy.
+p405
+aVOur economy is not the enemy.
+p406
+aVAmerican businesses, Chinese businesses,
+p407
+aVand any other company out there
+p408
+aVis a part of our society.
+p409
+aVIt's a part of our interconnected world.
+p410
+aVThere are ties of fraternity that bond us together,
+p411
+aVand if we destroy these bonds
+p412
+aVby undermining the standards, the security,
+p413
+aVthe manner of behavior,
+p414
+aVthat nations and citizens all around the world
+p415
+aVexpect us to abide by.
+p416
+aa(lp417
+VCA: But it's alleged that you've stolen
+p418
+aV1.7 million documents.
+p419
+aVIt seems only a few hundred of them
+p420
+aVhave been shared with journalists so far.
+p421
+aVAre there more revelations to come?
+p422
+aa(lp423
+VES: There are absolutely more revelations to come.
+p424
+aVI don't think there's any question
+p425
+aVthat some of the most important reporting
+p426
+aVto be done is yet to come.
+p427
+aa(lp428
+VCA: Come here, because I want to ask you
+p429
+aVabout this particular revelation.
+p430
+aVCome and take a look at this.
+p431
+aVI mean, this is a story which I think for a lot of the techies in this room
+p432
+aVis the single most shocking thing
+p433
+aVthat they have heard in the last few months.
+p434
+aVIt's about a program called "Bullrun."
+p435
+aVCan you explain what that is?
+p436
+aa(lp437
+VES: So Bullrun, and this is again
+p438
+aVwhere we've got to thank the NSA for their candor,
+p439
+aVthis is a program named after a Civil War battle.
+p440
+aVThe British counterpart is called Edgehill,
+p441
+aVwhich is a U.K. civil war battle.
+p442
+aVAnd the reason that I believe they're named this way
+p443
+aVis because they target our own infrastructure.
+p444
+aVThey're programs through which the NSA
+p445
+aVintentionally misleads corporate partners.
+p446
+aVThey tell corporate partners that these
+p447
+aVare safe standards.
+p448
+aVThey say hey, we need to work with you
+p449
+aVto secure your systems,
+p450
+aVbut in reality, they're giving bad advice
+p451
+aVto these companies that makes them
+p452
+aVdegrade the security of their services.
+p453
+aVThey're building in backdoors that not only
+p454
+aVthe NSA can exploit,
+p455
+aVbut anyone else who has time and money
+p456
+aVto research and find it
+p457
+aVcan then use to let themselves in
+p458
+aVto the world's communications.
+p459
+aVAnd this is really dangerous,
+p460
+aVbecause if we lose a single standard,
+p461
+aVif we lose the trust of something like SSL,
+p462
+aVwhich was specifically targeted
+p463
+aVby the Bullrun program,
+p464
+aVwe will live a less safe world overall.
+p465
+aVWe won't be able to access our banks
+p466
+aVand we won't be able to access commerce
+p467
+aVwithout worrying about people monitoring those communications
+p468
+aVor subverting them for their own ends.
+p469
+aa(lp470
+VCA: And do those same decisions also potentially
+p471
+aVopen America up to cyberattacks
+p472
+aVfrom other sources?
+p473
+aa(lp474
+VES: Absolutely.
+p475
+aVOne of the problems,
+p476
+aVone of the dangerous legacies
+p477
+aVthat we've seen in the post-9/11 era,
+p478
+aVis that the NSA has traditionally worn two hats.
+p479
+aVThey've been in charge of offensive operations,
+p480
+aVthat is hacking,
+p481
+aVbut they've also been in charge of defensive operations,
+p482
+aVand traditionally they've always prioritized
+p483
+aVdefense over offense
+p484
+aVbased on the principle
+p485
+aVthat American secrets are simply worth more.
+p486
+aVIf we hack a Chinese business
+p487
+aVand steal their secrets,
+p488
+aVif we hack a government office in Berlin
+p489
+aVand steal their secrets,
+p490
+aVthat has less value to the American people
+p491
+aVthan making sure that the Chinese
+p492
+aVcan't get access to our secrets.
+p493
+aVSo by reducing the security of our communications,
+p494
+aVthey're not only putting the world at risk,
+p495
+aVthey're putting America at risk in a fundamental way,
+p496
+aVbecause intellectual property is the basis,
+p497
+aVthe foundation of our economy,
+p498
+aVand if we put that at risk through weak security,
+p499
+aVwe're going to be paying for it for years.
+p500
+aa(lp501
+VCA: But they've made a calculation
+p502
+aVthat it was worth doing this
+p503
+aVas part of America's defense against terrorism.
+p504
+aVSurely that makes it a price worth paying.
+p505
+aa(lp506
+VES: Well, when you look at the results
+p507
+aVof these programs in stopping terrorism,
+p508
+aVyou will see that that's unfounded,
+p509
+aVand you don't have to take my word for it,
+p510
+aVbecause we've had the first open court,
+p511
+aVthe first federal court that's reviewed this,
+p512
+aVoutside the secrecy arrangement,
+p513
+aVcalled these programs Orwellian
+p514
+aVand likely unconstitutional.
+p515
+aVCongress, who has access
+p516
+aVto be briefed on these things,
+p517
+aVand now has the desire to be,
+p518
+aVhas produced bills to reform it,
+p519
+aVand two independent White House panels
+p520
+aVwho reviewed all of the classified evidence
+p521
+aVsaid these programs have never stopped
+p522
+aVa single terrorist attack
+p523
+aVthat was imminent in the United States.
+p524
+aVSo is it really terrorism that we're stopping?
+p525
+aVDo these programs have any value at all?
+p526
+aVI say no, and all three branches
+p527
+aVof the American government say no as well.
+p528
+aa(lp529
+VCA: I mean, do you think there's a deeper motivation
+p530
+aVfor them than the war against terrorism?
+p531
+aa(lp532
+VES: I'm sorry, I couldn't hear you, say again?
+p533
+aa(lp534
+VCA: Sorry. Do you think there's a deeper motivation
+p535
+aVfor them other than the war against terrorism?
+p536
+aa(lp537
+VES: Yeah. The bottom line is that terrorism
+p538
+aVhas always been what we in the intelligence world
+p539
+aVwould call a cover for action.
+p540
+aVTerrorism is something that provokes
+p541
+aVan emotional response that allows people
+p542
+aVto rationalize authorizing powers and programs
+p543
+aVthat they wouldn't give otherwise.
+p544
+aVThe Bullrun and Edgehill-type programs,
+p545
+aVthe NSA asked for these authorities
+p546
+aVback in the 1990s.
+p547
+aVThey asked the FBI to go to Congress and make the case.
+p548
+aVThe FBI went to Congress and did make the case.
+p549
+aVBut Congress and the American people said no.
+p550
+aVThey said, it's not worth the risk to our economy.
+p551
+aVThey said it's worth too much damage
+p552
+aVto our society to justify the gains.
+p553
+aVBut what we saw is, in the post-9/11 era,
+p554
+aVthey used secrecy and they used the justification of terrorism
+p555
+aVto start these programs in secret
+p556
+aVwithout asking Congress,
+p557
+aVwithout asking the American people,
+p558
+aVand it's that kind of government behind closed doors
+p559
+aVthat we need to guard ourselves against,
+p560
+aVbecause it makes us less safe,
+p561
+aVand it offers no value.
+p562
+aa(lp563
+VCA: Okay, come with me here for a sec,
+p564
+aVbecause I've got a more personal question for you.
+p565
+aVSpeaking of terror,
+p566
+aVmost people would find the situation you're in right now
+p567
+aVin Russia pretty terrifying.
+p568
+aVYou obviously heard what happened,
+p569
+aVwhat the treatment that Bradley Manning got,
+p570
+aVChelsea Manning as now is,
+p571
+aVand there was a story in Buzzfeed saying that
+p572
+aVthere are people in the intelligence community
+p573
+aVwho want you dead.
+p574
+aVHow are you coping with this?
+p575
+aVHow are you coping with the fear?
+p576
+aa(lp577
+VES: It's no mystery
+p578
+aVthat there are governments out there that want to see me dead.
+p579
+aVI've made clear again and again and again
+p580
+aVthat I go to sleep every morning
+p581
+aVthinking about what I can do for the American people.
+p582
+aVI don't want to harm my government.
+p583
+aVI want to help my government,
+p584
+aVbut the fact that they are willing to
+p585
+aVcompletely ignore due process,
+p586
+aVthey're willing to declare guilt
+p587
+aVwithout ever seeing a trial,
+p588
+aVthese are things that we need to work against
+p589
+aVas a society, and say hey, this is not appropriate.
+p590
+aVWe shouldn't be threatening dissidents.
+p591
+aVWe shouldn't be criminalizing journalism.
+p592
+aVAnd whatever part I can do to see that end,
+p593
+aVI'm happy to do despite the risks.
+p594
+aa(lp595
+VCA: So I'd actually like to get some feedback
+p596
+aVfrom the audience here,
+p597
+aVbecause I know there's widely differing reactions
+p598
+aVto Edward Snowden.
+p599
+aVSuppose you had the following two choices, right?
+p600
+aVYou could view what he did
+p601
+aVas fundamentally a reckless act
+p602
+aVthat has endangered America
+p603
+aVor you could view it as fundamentally a heroic act
+p604
+aVthat will work towards America and the world's
+p605
+aVlong-term good?
+p606
+aVThose are the two choices I'll give you.
+p607
+aVI'm curious to see who's willing to vote with
+p608
+aVthe first of those,
+p609
+aVthat this was a reckless act?
+p610
+aVThere are some hands going up.
+p611
+aVSome hands going up.
+p612
+aVIt's hard to put your hand up
+p613
+aVwhen the man is standing right here,
+p614
+aVbut I see them.
+p615
+aa(lp616
+VES: I can see you. (Laughter)
+p617
+aa(lp618
+VCA: And who goes with the second choice,
+p619
+aVthe fundamentally heroic act?
+p620
+aa(lp621
+V(Applause) (Cheers)
+p622
+aa(lp623
+VAnd I think it's true to say that there are a lot of people
+p624
+aVwho didn't show a hand and I think
+p625
+aVare still thinking this through,
+p626
+aVbecause it seems to me that the debate around you
+p627
+aVdoesn't split along traditional political lines.
+p628
+aVIt's not left or right, it's not really about
+p629
+aVpro-government, libertarian, or not just that.
+p630
+aVPart of it is almost a generational issue.
+p631
+aVYou're part of a generation that grew up
+p632
+aVwith the Internet, and it seems as if
+p633
+aVyou become offended at almost a visceral level
+p634
+aVwhen you see something done
+p635
+aVthat you think will harm the Internet.
+p636
+aVIs there some truth to that?
+p637
+aa(lp638
+VES: It is. I think it's very true.
+p639
+aVThis is not a left or right issue.
+p640
+aVOur basic freedoms, and when I say our,
+p641
+aVI don't just mean Americans,
+p642
+aVI mean people around the world,
+p643
+aVit's not a partisan issue.
+p644
+aVThese are things that all people believe,
+p645
+aVand it's up to all of us to protect them,
+p646
+aVand to people who have seen and enjoyed
+p647
+aVa free and open Internet,
+p648
+aVit's up to us to preserve that liberty
+p649
+aVfor the next generation to enjoy,
+p650
+aVand if we don't change things,
+p651
+aVif we don't stand up to make the changes
+p652
+aVwe need to do to keep the Internet safe,
+p653
+aVnot just for us but for everyone,
+p654
+aVwe're going to lose that,
+p655
+aVand that would be a tremendous loss,
+p656
+aVnot just for us, but for the world.
+p657
+aa(lp658
+VCA: Well, I have heard similar language recently
+p659
+aVfrom the founder of the world wide web,
+p660
+aVwho I actually think is with us, Sir Tim Berners-Lee.
+p661
+aVTim, actually, would you like to come up and say,
+p662
+aVdo we have a microphone for Tim?
+p663
+aa(lp664
+V(Applause)
+p665
+aa(lp666
+VTim, good to see you. Come up there.
+p667
+aVWhich camp are you in, by the way,
+p668
+aVtraitor, hero? I have a theory on this, but \u2014
+p669
+aa(lp670
+VTim Berners-Lee: I've given much longer
+p671
+aVanswers to that question, but hero,
+p672
+aVif I have to make the choice between the two.
+p673
+aa(lp674
+VCA: And Ed, I think you've read
+p675
+aVthe proposal that Sir Tim has talked about
+p676
+aVabout a new Magna Carta to take back the Internet.
+p677
+aVIs that something that makes sense?
+p678
+aVES: Absolutely. I mean, my generation, I grew up
+p679
+aVnot just thinking about the Internet,
+p680
+aVbut I grew up in the Internet,
+p681
+aVand although I never expected to have the chance
+p682
+aVto defend it in such a direct and practical manner
+p683
+aVand to embody it in this unusual,
+p684
+aValmost avatar manner,
+p685
+aVI think there's something poetic about the fact that
+p686
+aVone of the sons of the Internet
+p687
+aVhas actually become close to the Internet
+p688
+aVas a result of their political expression.
+p689
+aVAnd I believe that a Magna Carta for the Internet
+p690
+aVis exactly what we need.
+p691
+aVWe need to encode our values
+p692
+aVnot just in writing but in the structure of the Internet,
+p693
+aVand it's something that I hope,
+p694
+aVI invite everyone in the audience,
+p695
+aVnot just here in Vancouver but around the world,
+p696
+aVto join and participate in.
+p697
+aa(lp698
+VCA: Do you have a question for Ed?
+p699
+aa(lp700
+VTBL: Well, two questions,
+p701
+aVa general question \u2014
+p702
+aa(lp703
+VCA: Ed, can you still hear us?
+p704
+aa(lp705
+VES: Yes, I can hear you. CA: Oh, he's back.
+p706
+aa(lp707
+VTBL: The wiretap on your line
+p708
+aVgot a little interfered with for a moment.
+p709
+aV(Laughter)
+p710
+aa(lp711
+VES: It's a little bit of an NSA problem.
+p712
+aa(lp713
+VTBL: So, from the 25 years,
+p714
+aVstepping back and thinking,
+p715
+aVwhat would you think would be
+p716
+aVthe best that we could achieve
+p717
+aVfrom all the discussions that we have
+p718
+aVabout the web we want?
+p719
+aa(lp720
+VES: When we think about
+p721
+aVin terms of how far we can go,
+p722
+aVI think that's a question that's really only limited
+p723
+aVby what we're willing to put into it.
+p724
+aVI think the Internet that we've enjoyed in the past
+p725
+aVhas been exactly what we as not just a nation
+p726
+aVbut as a people around the world need,
+p727
+aVand by cooperating, by engaging not just
+p728
+aVthe technical parts of society,
+p729
+aVbut as you said, the users,
+p730
+aVthe people around the world who contribute
+p731
+aVthrough the Internet, through social media,
+p732
+aVwho just check the weather,
+p733
+aVwho rely on it every day as a part of their life,
+p734
+aVto champion that.
+p735
+aVWe'll get not just the Internet we've had,
+p736
+aVbut a better Internet, a better now,
+p737
+aVsomething that we can use to build a future
+p738
+aVthat'll be better not just than what we hoped for
+p739
+aVbut anything that we could have imagined.
+p740
+aa(lp741
+VCA: It's 30 years ago that TED was founded, 1984.
+p742
+aVA lot of the conversation since then has been
+p743
+aValong the lines that
+p744
+aVactually George Orwell got it wrong.
+p745
+aVIt's not Big Brother watching us.
+p746
+aVWe, through the power of the web,
+p747
+aVand transparency, are now watching Big Brother.
+p748
+aVYour revelations kind of drove a stake
+p749
+aVthrough the heart of that rather optimistic view,
+p750
+aVbut you still believe there's a way of doing something
+p751
+aVabout that.
+p752
+aVAnd you do too.
+p753
+aa(lp754
+VES: Right, so there is an argument to be made
+p755
+aVthat the powers of Big Brother have increased enormously.
+p756
+aVThere was a recent legal article at Yale
+p757
+aVthat established something called the Bankston-Soltani Principle,
+p758
+aVwhich is that our expectation of privacy is violated
+p759
+aVwhen the capabilities of government surveillance
+p760
+aVhave become cheaper by an order of magnitude,
+p761
+aVand each time that occurs, we need to revisit
+p762
+aVand rebalance our privacy rights.
+p763
+aVNow, that hasn't happened since
+p764
+aVthe government's surveillance powers
+p765
+aVhave increased by several orders of magnitude,
+p766
+aVand that's why we're in the problem that we're in today,
+p767
+aVbut there is still hope,
+p768
+aVbecause the power of individuals
+p769
+aVhave also been increased by technology.
+p770
+aVI am living proof
+p771
+aVthat an individual can go head to head
+p772
+aVagainst the most powerful adversaries
+p773
+aVand the most powerful intelligence agencies
+p774
+aVaround the world and win,
+p775
+aVand I think that's something
+p776
+aVthat we need to take hope from,
+p777
+aVand we need to build on
+p778
+aVto make it accessible not just to technical experts
+p779
+aVbut to ordinary citizens around the world.
+p780
+aVJournalism is not a crime,
+p781
+aVcommunication is not a crime,
+p782
+aVand we should not be monitored in our everyday activities.
+p783
+aa(lp784
+VCA: I'm not quite sure how you shake the hand of a bot,
+p785
+aVbut I imagine it's, this is the hand right here. TBL: That'll come very soon.
+p786
+aVES: Nice to meet you,
+p787
+aVand I hope my beam looks as nice
+p788
+aVas my view of you guys does.
+p789
+aa(lp790
+VCA: Thank you, Tim.
+p791
+aa(lp792
+V(Applause)
+p793
+aa(lp794
+VI mean, The New York Times recently called for an amnesty for you.
+p795
+aVWould you welcome the chance to come back to America?
+p796
+aa(lp797
+VES: Absolutely. There's really no question,
+p798
+aVthe principles that have been the foundation
+p799
+aVof this project
+p800
+aVhave been the public interest
+p801
+aVand the principles that underly
+p802
+aVthe journalistic establishment in the United States
+p803
+aVand around the world,
+p804
+aVand I think if the press is now saying,
+p805
+aVwe support this,
+p806
+aVthis is something that needed to happen,
+p807
+aVthat's a powerful argument, but it's not the final argument,
+p808
+aVand I think that's something that public should decide.
+p809
+aVBut at the same time,
+p810
+aVthe government has hinted that they want
+p811
+aVsome kind of deal,
+p812
+aVthat they want me to compromise
+p813
+aVthe journalists with which I've been working,
+p814
+aVto come back,
+p815
+aVand I want to make it very clear
+p816
+aVthat I did not do this to be safe.
+p817
+aVI did this to do what was right,
+p818
+aVand I'm not going to stop my work
+p819
+aVin the public interest
+p820
+aVjust to benefit myself.
+p821
+aV(Applause)
+p822
+aa(lp823
+VCA: In the meantime,
+p824
+aVcourtesy of the Internet and this technology,
+p825
+aVyou're here, back in North America,
+p826
+aVnot quite the U.S., Canada, in this form.
+p827
+aVI'm curious, how does that feel?
+p828
+aa(lp829
+VES: Canada is different than what I expected.
+p830
+aVIt's a lot warmer.
+p831
+aV(Laughter)
+p832
+aa(lp833
+VCA: At TED, the mission is "ideas worth spreading."
+p834
+aVIf you could encapsulate it in a single idea,
+p835
+aVwhat is your idea worth spreading
+p836
+aVright now at this moment?
+p837
+aVES: I would say the last year has been a reminder
+p838
+aVthat democracy may die behind closed doors,
+p839
+aVbut we as individuals are born
+p840
+aVbehind those same closed doors,
+p841
+aVand we don't have to give up
+p842
+aVour privacy to have good government.
+p843
+aVWe don't have to give up our liberty
+p844
+aVto have security.
+p845
+aVAnd I think by working together
+p846
+aVwe can have both open government
+p847
+aVand private lives,
+p848
+aVand I look forward to working with everyone
+p849
+aVaround the world to see that happen.
+p850
+aa(lp851
+VThank you very much.
+p852
+aa(lp853
+VCA: Ed, thank you.
+p854
+aa(lp855
+V(Applause)
+p856
+aasS'id'
+p857
+I1950
+sS'title'
+p858
+VHere's how we take back the Internet
+p859
+s.

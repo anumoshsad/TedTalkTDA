@@ -1,0 +1,245 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+V(Hammer)
+p4
+aa(lp5
+V(Laughter)
+p6
+aa(lp7
+V(Microwave beeps) (Laughter)
+p8
+aa(lp9
+VYou probably all agree with me
+p10
+aVthat this is a very nice road.
+p11
+aVIt's made of asphalt,
+p12
+aVand asphalt is a very nice material to drive on,
+p13
+aVbut not always, especially not on these days as today,
+p14
+aVwhen it's raining a lot.
+p15
+aVThen you can have a lot of splash water in the asphalt.
+p16
+aVAnd especially if you then ride with your bicycle,
+p17
+aVand pass these cars, then that's not very nice.
+p18
+aVAlso, asphalt can create a lot of noise.
+p19
+aVIt's a noisy material,
+p20
+aVand if we produce roads like in the Netherlands,
+p21
+aVvery close to cities, then we would like a silent road.
+p22
+aa(lp23
+VThe solution for that is to make roads
+p24
+aVout of porous asphalt.
+p25
+aVPorous asphalt, a material that we use now
+p26
+aVin most of the highways in the Netherlands,
+p27
+aVit has pores and water can just rain through it,
+p28
+aVso all the rainwater will flow away to the sides,
+p29
+aVand you have a road that's easy to drive on,
+p30
+aVso no splash water anymore.
+p31
+aVAlso the noise will disappear in these pores.
+p32
+aVBecause it's very hollow, all the noise will disappear,
+p33
+aVso it's a very silent road.
+p34
+aa(lp35
+VIt also has disadvantages, of course,
+p36
+aVand the disadvantage of this road is that raveling can occur.
+p37
+aVWhat is raveling? You see that in this road
+p38
+aVthat the stones at the surface come off.
+p39
+aVFirst you get one stone, then several more,
+p40
+aVand more and more and more and more,
+p41
+aVand then they \u2014 well, I will not do that. (Laughter)
+p42
+aVBut they can damage your windshield,
+p43
+aVso you're not happy with that.
+p44
+aVAnd finally, this raveling can also lead to more and more damage.
+p45
+aVSometimes you can create potholes with that.
+p46
+aVHa. He's ready.
+p47
+aa(lp48
+VPotholes, of course, that can become a problem,
+p49
+aVbut we have a solution.
+p50
+aVHere you see actually how the damage appears in this material.
+p51
+aVIt's a porous asphalt, like I said, so you have only
+p52
+aVa small amount of binder between the stones.
+p53
+aVDue to weathering, due to U.V. light, due to oxidation,
+p54
+aVthis binder, this bitumen,
+p55
+aVthe glue between the aggregates is going to shrink,
+p56
+aVand if it shrinks, it gets micro-cracks,
+p57
+aVand it delaminates from the aggregates.
+p58
+aVThen if you drive over the road, you take out the aggregates \u2014
+p59
+aVwhat we just saw here.
+p60
+aVTo solve this problem, we thought of self-healing materials.
+p61
+aVIf we can make this material self-healing,
+p62
+aVthen probably we have a solution.
+p63
+aVSo what we can do is use steel wool just to clean pans,
+p64
+aVand the steel wool we can cut in very small pieces,
+p65
+aVand these very small pieces we can mix to the bitumen.
+p66
+aVSo then you have asphalt
+p67
+aVwith very small pieces of steel wool in it.
+p68
+aVThen you need a machine, like you see here,
+p69
+aVthat you can use for cooking \u2014 an induction machine.
+p70
+aVInduction can heat, especially steel; it's very good at that.
+p71
+aVThen what you do is you heat up the steel,
+p72
+aVyou melt the bitumen,
+p73
+aVand the bitumen will flow into these micro-cracks,
+p74
+aVand the stones are again fixed to the surface.
+p75
+aa(lp76
+VToday I use a microwave because I cannot take
+p77
+aVthe big induction machine here onstage.
+p78
+aVSo a microwave is a similar system.
+p79
+aVSo I put the specimen in, which I'm now going to take out
+p80
+aVto see what happened.
+p81
+aVSo this is the specimen coming out now.
+p82
+aa(lp83
+VSo I said we have such an industrial machine in the lab
+p84
+aVto heat up the specimens.
+p85
+aVWe tested a lot of specimens there,
+p86
+aVand then the government, they actually saw our results,
+p87
+aVand they thought, "Well, that's very interesting. We have to try that."
+p88
+aVSo they donated to us a piece of highway,
+p89
+aV400 meters of the A58, where we had to make
+p90
+aVa test track to test this material.
+p91
+aVSo that's what we did here. You see where we were making the test road,
+p92
+aVand then of course this road will last several years
+p93
+aVwithout any damage. That's what we know from practice.
+p94
+aVSo we took a lot of samples from this road
+p95
+aVand we tested them in the lab.
+p96
+aVSo we did aging on the samples,
+p97
+aVdid a lot of loading on it, healed them with our induction machine,
+p98
+aVand healed them and tested them again.
+p99
+aVSeveral times we can repeat that.
+p100
+aVSo actually, the conclusion from this research is that
+p101
+aVif we go on the road every four years
+p102
+aVwith our healing machine \u2014 this is the big version
+p103
+aVwe have made to go on the real road \u2014
+p104
+aVif we go on the road every four years
+p105
+aVwe can double the surface life of this road,
+p106
+aVwhich of course saves a lot of money.
+p107
+aa(lp108
+VWell, to conclude, I can say
+p109
+aVthat we made a material
+p110
+aVusing steel fibers, the addition of steel fibers,
+p111
+aVusing induction energy to really
+p112
+aVincrease the surface life of the road,
+p113
+aVdouble the surface life you can even do,
+p114
+aVso it will really save a lot of money with very simple tricks.
+p115
+aa(lp116
+VAnd now you're of course curious if it also worked.
+p117
+aVSo we still have the specimen here. It's quite warm.
+p118
+aVActually, it still has to cool down first
+p119
+aVbefore I can show you that the healing works.
+p120
+aVBut I will do a trial.
+p121
+aVLet's see. Yeah, it worked.
+p122
+aVThank you.
+p123
+aV(Applause)
+p124
+aasS'id'
+p125
+I1665
+sS'title'
+p126
+VA "self-healing" asphalt
+p127
+s.

@@ -1,0 +1,565 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm going to start with a little story.
+p4
+aVSo, I grew up in this neighborhood. When I was 15 years old,
+p5
+aVI went from being what I think was a strapping young athlete,
+p6
+aVover four months, slowly wasting away until
+p7
+aVI was basically a famine victim
+p8
+aVwith an unquenchable thirst.
+p9
+aVI had basically digested away my body.
+p10
+aVAnd this all came to a head when I was on a backpacking trip,
+p11
+aVmy first one ever actually, on Old Rag Mountain
+p12
+aVin West Virginia, and was putting my face into puddles
+p13
+aVof water and drinking like a dog.
+p14
+aa(lp15
+VThat night, I was taken into the emergency room
+p16
+aVand diagnosed as a type 1 diabetic in full-blown ketoacidosis.
+p17
+aVAnd I recovered, thanks to the miracles of modern medicine,
+p18
+aVinsulin and other things, and gained all my weight back and more.
+p19
+aa(lp20
+VAnd something festered inside me after this happened.
+p21
+aVWhat I thought about was, what caused the diabetes?
+p22
+aVYou see, diabetes is an autoimmune disease
+p23
+aVwhere your body fights itself, and at the time people thought
+p24
+aVthat somehow maybe exposure to a pathogen
+p25
+aVhad triggered my immune system to fight the pathogen
+p26
+aVand then kill the cells that make insulin.
+p27
+aVAnd this is what I thought for a long period of time,
+p28
+aVand that's in fact what medicine and people have focused on quite a bit,
+p29
+aVthe microbes that do bad things.
+p30
+aVAnd that's where I need my assistant here now.
+p31
+aVYou may recognize her.
+p32
+aa(lp33
+VSo, I went yesterday, I apologize, I skipped a few of the talks,
+p34
+aVand I went over to the National Academy of Sciences building,
+p35
+aVand they sell toys, giant microbes.
+p36
+aVAnd here we go!
+p37
+aVSo you have caught flesh-eating disease if you caught that one.
+p38
+aVI gotta get back out my baseball ability here.
+p39
+aa(lp40
+V(Laughter)
+p41
+aa(lp42
+VSo, unfortunately or not surprisingly, most of the microbes
+p43
+aVthey sell at the National Academy building are pathogens.
+p44
+aVEverybody focuses on the things that kill us,
+p45
+aVand that's what I was focusing on.
+p46
+aVAnd it turns out that we are covered in a cloud of microbes,
+p47
+aVand those microbes actually do us good much of the time,
+p48
+aVrather than killing us.
+p49
+aVAnd so, we've known about this for some period of time.
+p50
+aVPeople have used microscopes to look at the microbes that cover us,
+p51
+aVI know you're not paying attention to me, but ...
+p52
+aa(lp53
+V(Laughter)
+p54
+aa(lp55
+VThe microbes that cover us.
+p56
+aVAnd if you look at them in the microscope,
+p57
+aVyou can see that we actually have 10 times as many cells
+p58
+aVof microbes on us as we have human cells.
+p59
+aVThere's more mass in the microbes than the mass of our brain.
+p60
+aa(lp61
+VWe are literally a teeming ecosystem of microorganisms.
+p62
+aVAnd unfortunately, if you want to learn about the microorganisms,
+p63
+aVjust looking at them in a microscope is not sufficient.
+p64
+aVAnd so we just heard about the DNA sequencing.
+p65
+aVIt turns out that one of the best ways to look at microbes
+p66
+aVand to understand them is to look at their DNA.
+p67
+aVAnd that's what I've been doing for 20 years,
+p68
+aVusing DNA sequencing, collecting samples from various places,
+p69
+aVincluding the human body, reading the DNA sequence
+p70
+aVand then using that DNA sequencing to tell us about
+p71
+aVthe microbes that are in a particular place.
+p72
+aa(lp73
+VAnd what's amazing, when you use this technology,
+p74
+aVfor example, looking at humans, we're not just covered
+p75
+aVin a sea of microbes.
+p76
+aVThere are thousands upon thousands of different kinds of microbes on us.
+p77
+aVWe have millions of genes of microbes in our human
+p78
+aVmicrobiome covering us.
+p79
+aVAnd so this microbial diversity differs between people,
+p80
+aVand what people have been thinking about in the last 10,
+p81
+aVmaybe 15 years is, maybe these microbes,
+p82
+aVthis microbial cloud in and on us,
+p83
+aVand the variation between us, may be responsible
+p84
+aVfor some of the health and illness differences between us.
+p85
+aa(lp86
+VAnd that comes back to the diabetes story I was telling you.
+p87
+aVIt turns out that people now think that one of the triggers
+p88
+aVfor type 1 diabetes is not fighting a pathogen,
+p89
+aVbut is in fact trying to \u2014 miscommunicating with the microbes
+p90
+aVthat live in and on you.
+p91
+aVAnd somehow maybe the microbial community that's
+p92
+aVin and on me got off, and then this triggered some sort
+p93
+aVof immune response and led to me killing the cells
+p94
+aVthat make insulin in my body.
+p95
+aa(lp96
+VAnd so what I want to tell you about for a few minutes is,
+p97
+aVwhat people have learned using DNA sequencing techniques
+p98
+aVin particular, to study the microbial cloud
+p99
+aVthat lives in and on us.
+p100
+aVAnd I want to tell you a story about a personal project.
+p101
+aVMy first personal experience with studying the microbes
+p102
+aVon the human body actually came from a talk that I gave,
+p103
+aVright around the corner from here at Georgetown.
+p104
+aa(lp105
+VI gave a talk, and a family friend who happened to be
+p106
+aVthe Dean of Georgetown Medical School was at the talk,
+p107
+aVand came up to me afterwards saying, they were doing
+p108
+aVa study of ileal transplants in people.
+p109
+aVAnd they wanted to look at the microbes after the transplants.
+p110
+aa(lp111
+VAnd so I started a collaboration with this person,
+p112
+aVMichael Zasloff and Thomas Fishbein, to look at the microbes
+p113
+aVthat colonized these ilea after they were transplanted into a recipient.
+p114
+aVAnd I can tell you all the details about the microbial study
+p115
+aVthat we did there, but the reason I want to tell you this story
+p116
+aVis something really striking that they did at the beginning
+p117
+aVof this project.
+p118
+aVThey take the donor ileum, which is filled with microbes from a donor
+p119
+aVand they have a recipient who might have a problem
+p120
+aVwith their microbial community, say Crohn's disease,
+p121
+aVand they sterilized the donor ileum.
+p122
+aVCleaned out all the microbes, and then put it in the recipient.
+p123
+aVThey did this because this was common practice
+p124
+aVin medicine, even though it was obvious
+p125
+aVthat this was not a good idea.
+p126
+aa(lp127
+VAnd fortunately, in the course of this project,
+p128
+aVthe transplant surgeons and the other people
+p129
+aVdecided, forget common practice. We have to switch.
+p130
+aVSo they actually switched to leaving some of the microbial
+p131
+aVcommunity in the ileum. They leave the microbes with the donor,
+p132
+aVand theoretically that might help the people who are
+p133
+aVreceiving this ileal transplant.
+p134
+aa(lp135
+VAnd so, people \u2014 this is a study that I did now.
+p136
+aVIn the last few years there's been a great expansion
+p137
+aVin using DNA technology to study the microbes in and on people.
+p138
+aVThere's something called the Human Microbiome Project
+p139
+aVthat's going on in the United States,
+p140
+aVand MetaHIT going on in Europe, and a lot of other projects.
+p141
+aa(lp142
+VAnd when people have done a variety of studies,
+p143
+aVthey have learned things such as, when a baby is
+p144
+aVborn, during vaginal delivery you get colonized by the
+p145
+aVmicrobes from your mother.
+p146
+aVThere are risk factors associated with cesarean sections,
+p147
+aVsome of those risk factors may be due to mis-colonization
+p148
+aVwhen you carve a baby out of its mother
+p149
+aVrather than being delivered through the birth canal.
+p150
+aVAnd a variety of other studies have shown that the
+p151
+aVmicrobial community that lives in and on us
+p152
+aVhelps in development of the immune system,
+p153
+aVhelps in fighting off pathogens, helps in our metabolism,
+p154
+aVand determining our metabolic rate, probably
+p155
+aVdetermines our odor, and may even shape our behavior
+p156
+aVin a variety of ways.
+p157
+aa(lp158
+VAnd so, these studies have documented or suggested
+p159
+aVout of a variety of important functions for the microbial community,
+p160
+aVthis cloud, the non-pathogens that live in and on us.
+p161
+aVAnd one area that I think is very interesting,
+p162
+aVwhich many of you may have now that we've thrown
+p163
+aVmicrobes into the crowd, is something that I would call "germophobia."
+p164
+aVSo people are really into cleanliness, right?
+p165
+aVWe have antibiotics in our kitchen counters,
+p166
+aVpeople are washing every part of them all of the time,
+p167
+aVwe pump antibiotics into our food, into our communities,
+p168
+aVwe take antibiotics excessively.
+p169
+aa(lp170
+VAnd killing pathogens is a good thing if you're sick,
+p171
+aVbut we should understand that when we pump chemicals
+p172
+aVand antibiotics into our world, that we're also killing
+p173
+aVthe cloud of microbes that live in and on us.
+p174
+aVAnd excessive use of antibiotics, in particular in children,
+p175
+aVhas been shown to be associated with, again, risk factors
+p176
+aVfor obesity, for autoimmune diseases, for a variety
+p177
+aVof problems that are probably due to disruption
+p178
+aVof the microbial community.
+p179
+aa(lp180
+VSo the microbial community can go wrong
+p181
+aVwhether we want it to or not,
+p182
+aVor we can kill it with antibiotics,
+p183
+aVbut what can we do to restore it?
+p184
+aVI'm sure many people here have heard about probiotics.
+p185
+aVProbiotics are one thing that you can try and do to restore
+p186
+aVthe microbial community that is in and on you.
+p187
+aVAnd they definitely have been shown to be effective in some cases.
+p188
+aVThere's a project going on at UC Davis where people are using
+p189
+aVprobiotics to try and treat, prevent,
+p190
+aVnecrotizing enterocolitis in premature infants.
+p191
+aVPremature infants have real problems with their microbial community.
+p192
+aVAnd it may be that probiotics can help prevent
+p193
+aVthe development of this horrible necrotizing enterocolitis
+p194
+aVin these premature infants.
+p195
+aa(lp196
+VBut probiotics are sort of a very, very simple solution.
+p197
+aVMost of the pills that you can take or the yogurts that you can eat
+p198
+aVhave one or two species in them, maybe five species in them,
+p199
+aVand the human community is thousands upon thousands of species.
+p200
+aVSo what can we do to restore our microbial community
+p201
+aVwhen we have thousands and thousands of species on us?
+p202
+aa(lp203
+VWell, one thing that animals seem to do is,
+p204
+aVthey eat poo \u2014 coprophagia.
+p205
+aVAnd it turns out that many veterinarians,
+p206
+aVold school veterinarians in particular,
+p207
+aVhave been doing something called "poo tea,"
+p208
+aVnot booty, but poo tea, to treat colic and other
+p209
+aVailments in horses and cows and things like that,
+p210
+aVwhere you make tea from the poo from a healthy
+p211
+aVindividual animal and you feed it to a sick animal.
+p212
+aVAlthough, unless you have a fistulated cow with a big hole in its side,
+p213
+aVand you can put your hand into its rumen,
+p214
+aVit's hard to imagine that the delivery of microbes
+p215
+aVdirectly into the mouth and through the entire
+p216
+aVtop of the digestive tract is the best delivery system,
+p217
+aVso you may have heard in people they are now doing
+p218
+aVfecal transplants, where rather than delivering
+p219
+aVa couple of probiotic microbes through the mouth,
+p220
+aVthey are delivering a community of probiotics,
+p221
+aVa community of microbes from a healthy donor,
+p222
+aVthrough the other end.
+p223
+aa(lp224
+VAnd this has turned out to be very effective in fighting
+p225
+aVcertain intransigent infectious diseases
+p226
+aVlike Clostridium difficile infections that can stay
+p227
+aVwith people for years and years and years.
+p228
+aVTransplants of the feces, of the microbes from the feces,
+p229
+aVfrom a healthy donor has actually been shown to cure
+p230
+aVsystemic C. dif infections in some people.
+p231
+aa(lp232
+VNow what these transplants, these fecal transplants, or
+p233
+aVthe poo tea suggest to me, and many other people
+p234
+aVhave come up with this same idea, is that
+p235
+aVthe microbial community in and on us, it's an organ.
+p236
+aVWe should view it as a functioning organ, part of ourselves.
+p237
+aVWe should treat it carefully and with respect,
+p238
+aVand we do not want to mess with it, say by C-sections
+p239
+aVor by antibiotics or excessive cleanliness,
+p240
+aVwithout some real good justification.
+p241
+aa(lp242
+VAnd what the DNA sequencing technologies are allowing people to do now
+p243
+aVis do detailed studies of, say, 100 patients who have Crohn's disease
+p244
+aVand 100 people who don't have Crohn's disease.
+p245
+aVOr 100 people who took antibiotics when they were little,
+p246
+aVand 100 people who did not take antibiotics.
+p247
+aVAnd we can now start to compare the community of microbes
+p248
+aVand their genes and see if there are differences.
+p249
+aVAnd eventually we may be able to understand if they're not
+p250
+aVjust correlative differences, but causative.
+p251
+aVStudies in model systems like mouse and other animals
+p252
+aVare also helping do this, but people are now using
+p253
+aVthese technologies because they've gotten very cheap,
+p254
+aVto study the microbes in and on a variety of people.
+p255
+aa(lp256
+VSo, in wrapping up, what I want to tell you about is,
+p257
+aVI didn't tell you a part of the story of coming down with diabetes.
+p258
+aVIt turns out that my father was an M.D.,
+p259
+aVactually studied hormones. I told him many times
+p260
+aVthat I was tired, thirsty, not feeling very good.
+p261
+aVAnd he shrugged it off, I think he either thought
+p262
+aVI was just complaining a lot, or it was the typical
+p263
+aVM.D. "nothing can be wrong with my children."
+p264
+aVWe even went to the International Society of Endocrinology
+p265
+aVmeeting as family in Quebec.
+p266
+aVAnd I was getting up every five minutes to pee,
+p267
+aVand drinking everybody's water at the table,
+p268
+aVand I think they all thought I was a druggie.
+p269
+aa(lp270
+V(Laughter)
+p271
+aa(lp272
+VBut the reason I'm telling you this is that
+p273
+aVthe medical community, my father as an example,
+p274
+aVsometimes doesn't see what's right in front of their eyes.
+p275
+aVThe microbial cloud, it is right in front of us.
+p276
+aVWe can't see it most of the time. It's invisible.
+p277
+aVThey're microbes. They're tiny.
+p278
+aVBut we can see them through their DNA,
+p279
+aVwe can see them through the effects that they have on people.
+p280
+aa(lp281
+VAnd what we need now
+p282
+aVis to start thinking about this microbial community in the context
+p283
+aVof everything in human medicine.
+p284
+aVIt doesn't mean that it affects every part of us,
+p285
+aVbut it might.
+p286
+aVWhat we need is a full field guide to the microbes
+p287
+aVthat live in and on people, so that we can understand
+p288
+aVwhat they're doing to our lives.
+p289
+aVWe are them. They are us.
+p290
+aa(lp291
+VThank you.
+p292
+aa(lp293
+V(Applause)
+p294
+aasS'id'
+p295
+I1503
+sS'title'
+p296
+VMeet your microbes
+p297
+s.

@@ -1,0 +1,725 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWe really need to put the best we have to offer within reach of our children.
+p4
+aVIf we don't do that, we're going to get the generation we deserve.
+p5
+aVThey're going to learn from whatever it is they have around them.
+p6
+aa(lp7
+VAnd we, as now the elite, parents, librarians, professionals, whatever it is,
+p8
+aVa bunch of our activities are, in fact, in trying to get the best we have to offer
+p9
+aVwithin reach of those around us, or as broadly as we can.
+p10
+aVI'm going to start and end this talk with a couple things that are carved in stone.
+p11
+aVOne is what's on the Boston Public Library.
+p12
+aVCarved above their door is, "Free to All."
+p13
+aVIt's kind of an inspiring statement,
+p14
+aVand I'll go back at the end of this.
+p15
+aVI'm a librarian, and what I'm trying to do is bring all of the works of knowledge
+p16
+aVto as many people as want to read it.
+p17
+aVAnd the idea of using technology is perfect for us.
+p18
+aVI think we have the opportunity to one-up the Greeks.
+p19
+aVIt's not easy to one-up the Greeks. But with the industriousness of the Egyptians,
+p20
+aVthey were able to build the Library of Alexandria \u2014
+p21
+aVthe idea of a copy of every book of all the peoples of the world.
+p22
+aVThe problem was you actually had to go to Alexandria to go to it.
+p23
+aVOn the other hand, if you did, then great things happened.
+p24
+aVI think we can one-up the Greeks and achieve something.
+p25
+aVAnd I'm going to try to argue only one point today:
+p26
+aVthat universal access to all knowledge is within our grasp.
+p27
+aVSo if I'm successful, then you'll actually come away thinking,
+p28
+aVyeah, we could actually achieve the great vision of everything ever published,
+p29
+aVeverything that was ever meant for distribution,
+p30
+aVavailable to anybody in the world that's ever wanted to have access to it.
+p31
+aa(lp32
+VYes, there's issues about how money should be distributed,
+p33
+aVand that's still being refigured out.
+p34
+aVBut I'd say there's plenty of money, and there's plenty of demand,
+p35
+aVso we can actually achieve that.
+p36
+aVBut I'm going to go over the technological, social
+p37
+aVand sort of where are we as a whole, trying to get to that particular vision.
+p38
+aVAnd the way I'm going to try to do this is do it like the Amazon.com website,
+p39
+aVthe books, music, video and just go step \u2014 media type by media type,
+p40
+aVjust go and say, all right, how're we doing on this?
+p41
+aa(lp42
+VSo if we start with books, you know, sort of where are we?
+p43
+aVWell, first you have to, as an engineer, scope the problem. How big is it?
+p44
+aVIf you wanted to put all of the published works online
+p45
+aVso that anybody could have it available, well, how big a problem is it?
+p46
+aVWell, we don't really know, but the largest print library in the world
+p47
+aVis the Library of Congress. It's 26 million volumes, 26 million volumes.
+p48
+aVIt is, by far and away, the largest print library in the world.
+p49
+aVAnd a book, if you had a book, is about a megabyte,
+p50
+aVso \u2014 you know, if you had it in Microsoft Word.
+p51
+aVSo a megabyte, 26 million megabytes is 26 terabytes \u2014
+p52
+aVit goes mega-, giga-, tera-. 26 terabytes.
+p53
+aV26 terabytes fits in a computer system that's about this big,
+p54
+aVon spinning Linux drives, and it costs about 60,000 dollars.
+p55
+aVSo for the cost of a house \u2014 or around here, a garage \u2014
+p56
+aVyou can put, you can have spinning all of the words in the Library of Congress.
+p57
+aVThat's pretty neat.
+p58
+aa(lp59
+VThen the question is, what do you get?
+p60
+aVYou know, is it worth trying to get there?
+p61
+aVDo you actually want it online?
+p62
+aVSome of the first things that people do is they make book readers
+p63
+aVthat allow you to search inside the books, and that's kind of fun.
+p64
+aVAnd you can download these things, and look around them in new and different ways.
+p65
+aVAnd you can get at them remotely, if you happen to have a laptop.
+p66
+aVThere's starting to be some of these sort of page turn-y interfaces
+p67
+aVthat look a whole lot like books in certain ways,
+p68
+aVand you can search them, make little tabs, and it's kind of cute \u2014
+p69
+aVstill very book-like \u2014 on your laptop.
+p70
+aVBut I don't know, reading things on a laptop \u2014
+p71
+aVwhenever I pull up my laptop, it always feels like work.
+p72
+aVI think that's one of the reasons why the Kindle is so great.
+p73
+aVI don't have to feel like I'm at work to read a Kindle.
+p74
+aVIt's starting to be a little bit more specified.
+p75
+aVBut I have to say that there's older technologies that I tend to like.
+p76
+aVI like the physical book.
+p77
+aVAnd I think we can go and use our technology to go and digitize things,
+p78
+aVput them on the Net, and then download,
+p79
+aVprint them and bind them, and end up with books again.
+p80
+aa(lp81
+VAnd we sort of said, well, how hard is this?
+p82
+aVAnd it turns out to not be very hard.
+p83
+aVWe actually went off to make a bookmobile.
+p84
+aVAnd a bookmobile \u2014 the size of a van with a satellite dish,
+p85
+aVa printer, binder and cutter, and kids make their own books.
+p86
+aVIt costs about three dollars to download, print and bind a normal, old book.
+p87
+aVAnd they actually come out kind of nice looking.
+p88
+aVYou can actually get really good-looking books
+p89
+aVfor on the order of one penny per page, sort of the parts cost for doing this.
+p90
+aa(lp91
+VSo the idea of \u2014 this technology actually may end up
+p92
+aVputting books back in people's hands again.
+p93
+aVThere are some other bookmobiles running around.
+p94
+aVThis is Eric Eldred making books at Walden Pond \u2014 Thoreau's works.
+p95
+aVThis is just before he got kicked out by the Parks Services,
+p96
+aVfor competing with the bookstore there.
+p97
+aVIn India, they've got another couple bookmobiles running around.
+p98
+aVAnd this is the opening day at the Library of Alexandria,
+p99
+aVthe new Library of Alexandria, in Egypt.
+p100
+aVIt was quite popularly attended.
+p101
+aVAnd kids starting to make their own books,
+p102
+aVand a happy kid with the first book that he's ever owned.
+p103
+aVSo the idea of being able to use this technology
+p104
+aVto end up with paper where I can handle sort of sounds a little retro,
+p105
+aVbut I think it still has its place.
+p106
+aVAnd being from the Silicon Valley, sort of utopian
+p107
+aVsort of world,
+p108
+aVwe thought, if we can make this technology work in rural Uganda,
+p109
+aVwe might have something.
+p110
+aVSo we actually got some funding from the World Bank to try it out.
+p111
+aVAnd we found in about 30 days we could go and take a couple folks from Silicon Valley,
+p112
+aVfly them to Uganda, buy a car, set up the first Internet connection
+p113
+aVat the National Library of Uganda, figure out what they wanted,
+p114
+aVand get a program going making books in rural Uganda.
+p115
+aVAnd it actually \u2014 so technologically, it works.
+p116
+aa(lp117
+VWhat we found out of this is we didn't have the right books.
+p118
+aVSo the books were in the library. We could get it to people, if they're digitized,
+p119
+aVbut we didn't know how to quite get them digitized.
+p120
+aVEverybody thought the answer is, send things to India and China.
+p121
+aVAnd so we've tried that, and I'll go over that in a moment.
+p122
+aVThere are some newer technologies for delivering
+p123
+aVthat have happened that are actually quite exciting as well.
+p124
+aVOne is a print-on-demand machine that looks like a Rube Goldberg machine.
+p125
+aVWe have one of these things now. It's completely cool.
+p126
+aVIt's all conveyor belt, and it makes a book.
+p127
+aVAnd it's called the "Espresso Book Machine,"
+p128
+aVand in about 10 minutes, you can press a button and make a book.
+p129
+aa(lp130
+VSomething else I'm quite excited about in this particular domain,
+p131
+aVbeyond these sort of kiosk-y things where you can get books on demand,
+p132
+aVis some of these new little screens that are coming out.
+p133
+aVAnd one of my favorites in this is the $100 laptop.
+p134
+aVAnd I don't mean to steal any thunder here,
+p135
+aVbut we've gone and used one of these things to be an e-book reader.
+p136
+aVSo here's one of the beta units and you can \u2014
+p137
+aVit actually turns out to be a really good-looking e-book reader.
+p138
+aVAnd we have a quick hack that we did to try to put one of our books on it,
+p139
+aVand it turns out that 200 dots per inch
+p140
+aVmeans that you can put scanned books on them that look really good.
+p141
+aVAt 200 dots per inch, it's kind of the equivalent of a 300 dot print laser printer.
+p142
+aVWe're in good enough shape.
+p143
+aVYou actually can go and read scanned books quite easily.
+p144
+aa(lp145
+VSo the idea of electronic books is starting to come about.
+p146
+aVBut how do you go about doing all this scanning?
+p147
+aVSo we thought, okay, well, let's try out this send books to India thing.
+p148
+aVAnd there was a project with, funded by the National Science Foundation \u2014
+p149
+aVsent a bunch of scanners, and the American libraries were supposed to send books.
+p150
+aVWell, they didn't. They didn't want to send their books.
+p151
+aVSo we bought 100,000 books and sent them to India.
+p152
+aVAnd then we learned why you don't want to send books to India.
+p153
+aVThe lesson we learned out of this is, scan your own books.
+p154
+aVIf you really care about books, you're going to scan them better,
+p155
+aVespecially if they're valuable books.
+p156
+aVIf they're new books and you can just, you know, butcher them,
+p157
+aVbecause you could just buy another one,
+p158
+aVthat's not such a big deal in terms of doing high-quality scanning.
+p159
+aVBut do things that you love.
+p160
+aVBut the Indians have been scanning a lot of their own books \u2014
+p161
+aVabout 300,000 now \u2014 doing very well.
+p162
+aVThe Chinese did over a million, and the Egyptians are about 30,000.
+p163
+aa(lp164
+VBut we sent \u2014 thought, OK, if we're going to need to do this, let's do it in-library.
+p165
+aVHow do we go and do this, and how do we get it down
+p166
+aVso that it's a cost point that we could afford?
+p167
+aVAnd we sort of picked the price point of 10 cents a page.
+p168
+aVIf it's basically the cost of xeroxing to basically digitize, OCR, package it up,
+p169
+aVmake it so that you could download, print and bind it \u2014 the whole shebang \u2014
+p170
+aVwe would have achieved something.
+p171
+aVSo we started out trying to figure out. How do we get to 10 cents?
+p172
+aVAnd we tried these robot things, and they worked pretty well \u2014
+p173
+aVsort of these auto-page-turning things.
+p174
+aVIf we can have Mars Rovers, you'd think you could turn pages.
+p175
+aVBut it actually turns out to be pretty hard to turn pages, and the volume isn't there.
+p176
+aVSo anyway \u2014 so we ended up making our own book scanner,
+p177
+aVand with two digital, high-grade, professional digital cameras,
+p178
+aVcontrolled museum lighting, so even if it's a black and white book,
+p179
+aVyou can go and get the proper intonation.
+p180
+aVSo you basically do a beautiful, respectful job.
+p181
+aVThis is not a fax, this is \u2014 the idea is to do a beautiful job
+p182
+aVas you're going through these libraries.
+p183
+aVAnd we've been able to achieve 10 cents a page if we run things in volume.
+p184
+aVThis is what it looks like at the University of Toronto.
+p185
+aVAnd actually, it turns out to, you know, pay a living wage.
+p186
+aVPeople seem to love it.
+p187
+aVYes, it's a little boring, but some people kind of get into the Zen of it.
+p188
+aV(Laughter)
+p189
+aVAnd especially if it's kind of interesting books that you care about,
+p190
+aVin languages that you can read.
+p191
+aVWe actually have been able to do a pretty good job of this, at getting 10 cents a page.
+p192
+aVSo 10 cents a page, 300 pages in your average book, 30 dollars a book.
+p193
+aVThe Library of Congress, if you did the whole darn thing \u2014
+p194
+aV26 million books \u2014 is about 750 million dollars, right?
+p195
+aVBut a million books, I think, actually would be a pretty good start,
+p196
+aVand that would cost 30 million dollars. That's not that big a bill.
+p197
+aa(lp198
+VAnd what we've been able to do is get into libraries.
+p199
+aVWe've now got eight of these scanning centers in three countries,
+p200
+aVand libraries are up for having their books scanned.
+p201
+aVThe Getty here is moving their books to the UCLA,
+p202
+aVwhich is where we have one these scanning centers,
+p203
+aVand scanning their out-of-copyright books, which is fabulous.
+p204
+aVSo we're starting to get the institutional responsibility.
+p205
+aVThe thing we're missing is the 10 cents.
+p206
+aVIf we can get the 10 cents, all the rest of it flows.
+p207
+aVWe've scanned about 200,000 books.
+p208
+aVNow we're scanning about 15,000 books a month,
+p209
+aVand it's starting to gear up another factor of two from there.
+p210
+aa(lp211
+VSo all in all, that's going very well.
+p212
+aVAnd we're starting to move out of the just out-of-copyright
+p213
+aVinto the out-of-print world.
+p214
+aVSo I think of \u2014 we're kind of going from the out-of-copyright, library stuff,
+p215
+aVand Amazon.com is coming from the in-print world.
+p216
+aVAnd I think we'll meet in the middle some place,
+p217
+aVand have the classic thing that you have,
+p218
+aVwhich is a publishing system and a library system working in parallel.
+p219
+aVAnd so we're starting up a program to do out-of-print works, but loaning them.
+p220
+aVExactly what loaning means, I'm not quite sure.
+p221
+aVBut anyway, loaning out-of-print works from the Boston Public Library,
+p222
+aVthe Woods Hole Oceanographic Institute and a few other libraries
+p223
+aVthat are starting to participate in this program,
+p224
+aVto try out this model of where does a library stop
+p225
+aVand where does the bookstore take over.
+p226
+aVSo all in all, it's possible to do this in large scale.
+p227
+aVWe're also going back over microfilm and getting that online.
+p228
+aVSo, we can do 10 cents a page, we're going 15,000 books a month
+p229
+aVand we've got about 250,000 books online,
+p230
+aVcounting all the other projects that are starting to add in.
+p231
+aVSo what I wanted to argue is, books are within our grasp.
+p232
+aVThe idea of taking on the whole ball of wax is not that big a deal.
+p233
+aVYes, it costs tens of millions, low hundreds of millions,
+p234
+aVbut one time shot and we've got basically the history of printed literature online.
+p235
+aVAnd then, there's business model issues
+p236
+aVabout how to try to effectively market it and get it to people.
+p237
+aVBut it is within our grasp, technologically and law-wise,
+p238
+aVat least for the out of print and out of copyright,
+p239
+aVwe suggest, to be able to get the whole darn thing online.
+p240
+aa(lp241
+VNow let's go for audio, and I'm going to go through these.
+p242
+aVSo how much is there?
+p243
+aVWell, as best we can tell, there are about two to three million disks
+p244
+aVhaving been published \u2014 so 78s, long-playing records and CDs \u2014
+p245
+aVor at least that's the largest archives of published materials
+p246
+aVwe've been able to sort of point at.
+p247
+aVIt costs about 10 dollars a piece to go and take a disk
+p248
+aVand put it online, if you're doing things in volume.
+p249
+aVBut we've found that the rights issues are really quite thorny.
+p250
+aVThis is a fairly heavily litigated area,
+p251
+aVso we've found that there are niches in the music world
+p252
+aVthat aren't served terribly well by the classic commercial publishing system.
+p253
+aVAnd we've been starting to make these available by going
+p254
+aVand offering shelf space on the Net.
+p255
+aVIn the United States, it doesn't cost you to give something away. Right?
+p256
+aVIf you give something to a charity or to the public,
+p257
+aVyou get a pat on the back and a tax donation \u2014
+p258
+aVexcept on the Net, where you can go broke.
+p259
+aVIf you put up a video of your garage band, and it starts getting heavily accessed,
+p260
+aVyou can lose your guitars or your house.
+p261
+aa(lp262
+VThis doesn't make any sense.
+p263
+aVSo we've offered unlimited storage, unlimited bandwidth, forever, for free,
+p264
+aVto anybody that has something to share that belongs in a library.
+p265
+aVAnd we've been getting a lot of takers. One is the rock 'n' rollers.
+p266
+aVThe rock 'n' rollers had a tradition of sharing,
+p267
+aVas long as nobody made any money. You could \u2014
+p268
+aVconcert recordings, it's not the commercial recordings,
+p269
+aVbut concert recordings, started by the Grateful Dead.
+p270
+aVAnd we get about two or three bands a day signing up.
+p271
+aVThey give permission, and we get about 40 or 50 concerts a day.
+p272
+aVWe have about 40,000 concerts, everything the Grateful Dead ever did,
+p273
+aVup on the Net, so that people can see it and listen to this material.
+p274
+aVSo audio is possible to put up, but the rights issues are really pretty thorny.
+p275
+aVWe've got a lot of collections now \u2014
+p276
+aVa couple hundred thousand items \u2014 and it's growing over time.
+p277
+aa(lp278
+VMoving images: if you think of theatrical releases,
+p279
+aVthere are not that many of them.
+p280
+aVAs best we can tell, there are about 150,000 to 200,000 movies ever
+p281
+aVthat are really meant for a large-scale theatrical distribution. It's just not that many.
+p282
+aVBut half of those were Indian.
+p283
+aVBut anyway, it's doable,
+p284
+aVbut we've only found about a thousand of these things that \u2014
+p285
+aVto be out of copyright.
+p286
+aVSo we've digitized those and made those available.
+p287
+aVBut we've found that there's lots of other types of movies
+p288
+aVthat haven't really seen the light of day \u2014 archival films.
+p289
+aVWe've found, also, a lot of political films, a lot of amateur films,
+p290
+aVall sorts of things that are basically needing a home, a permanent home.
+p291
+aVSo we've been starting to make these available and it's grown to be very popular.
+p292
+aVWe're not quite a YouTube.
+p293
+aVWe tended towards longer-term things
+p294
+aVand also things that people can reuse and make into new movies,
+p295
+aVwhich has just been great fun.
+p296
+aa(lp297
+VTelevision comes quite a bit larger.
+p298
+aVWe started recording 20 channels of television 24 hours a day.
+p299
+aVIt's sort of the biggest TiVo box you've ever seen.
+p300
+aVIt's about a petabyte, so far, of worldwide television \u2014
+p301
+aVRussian, Chinese, Japanese, Iraqi, Al Jazeera, BBC, CNN, ABC, CBS, NBC \u2014
+p302
+aV24 hours a day.
+p303
+aVWe only put one week up,
+p304
+aVwhich is mostly for cost reasons, which is the 9/11,
+p305
+aVsort of from 9/11/2001. For one week, what did the world see?
+p306
+aVCNN was saying that Palestinians were dancing in the streets.
+p307
+aVWere they? Let's look at the Palestinian television and find out.
+p308
+aVHow can we have critical thinking without being able to quote
+p309
+aVand being able to compare what happened in the past?
+p310
+aVAnd television is dreadfully unrecorded and unquotable,
+p311
+aVexcept by Jon Stewart, who does a fabulous job.
+p312
+aVSo anyway, television is, I would suggest, within our grasp.
+p313
+aVSo 15 dollars per video hour, and also about 100 dollars to 150 dollars per celluloid hour,
+p314
+aVwe're able to go and get materials online very inexpensively
+p315
+aVand have them up on the Net.
+p316
+aVAnd we've got, now, a lot of these materials.
+p317
+aVSo we've got about 100,000 pieces up there.
+p318
+aVSo books, music, video, software. There's only 50,000 titles of it.
+p319
+aVMostly the issues there are legal issues and breaking copy protections.
+p320
+aVBut we've worked through some of those,
+p321
+aVbut we've still got real problems in Washington.
+p322
+aa(lp323
+VWell, we're best known as the World Wide Web.
+p324
+aVWe've been archiving the World Wide Web since 1996.
+p325
+aVWe take a snapshot of every website and all of the pages on it, every two months.
+p326
+aVAnd actually, it's really been pioneered by Alexa Internet,
+p327
+aVwhich donates this collection to the Internet Archive.
+p328
+aVAnd it's been growing along for the last 11 years, and it's a fantastic resource.
+p329
+aVAnd we've made a Wayback Machine
+p330
+aVthat you can then go and see old websites kind of the way they were.
+p331
+aVIf you go and search on something \u2014 this is Google.com,
+p332
+aVthe different versions of it that we have,
+p333
+aVthis is what it looks like when it was an alpha release,
+p334
+aVand this is what it looked like at Stanford.
+p335
+aVSo anyway, you've got basically an idea of where things came from.
+p336
+aVMostly, people want to see their old stuff out of this.
+p337
+aVIf there's one thing that we want to learn from the Library of Alexandria version one,
+p338
+aVwhich is probably best known for burning,
+p339
+aVis, don't just have one copy.
+p340
+aVSo we've started to \u2014 we've made another copy of all of this
+p341
+aVand we actually put it back in the Library of Alexandria.
+p342
+aVSo this is a picture of the Internet Archive at the Library of Alexandria.
+p343
+aVAnd we now have also another copy building up in Amsterdam.
+p344
+aVSo, we should put it in the San Andreas Fault Line in San Francisco,
+p345
+aVflood zone in Amsterdam and in the Middle East. Right, so anyway ...
+p346
+aVso we're hedging our bets here.
+p347
+aVIf we go and put it in a couple more places, I think we'll be in good shape.
+p348
+aa(lp349
+VThere's a political and social question out of this.
+p350
+aVIs all of this, as we go digital, is it going to be public or private?
+p351
+aVThere's some large companies that have seen this vision,
+p352
+aVthat are doing large-scale digitization,
+p353
+aVbut they're locking up the public domain.
+p354
+aVThe question is, is that the world that we really want to live in?
+p355
+aVWhat's the role of the public versus the private as things go forward?
+p356
+aVHow do we go and have a world where we both have libraries
+p357
+aVand publishing in the future, just as we basically benefited as we were growing up?
+p358
+aVSo universal access to all knowledge \u2014
+p359
+aVI think it can be one of the greatest achievements of humankind,
+p360
+aVlike the man on the moon, or the Gutenberg Bible, or the Library of Alexandria.
+p361
+aVIt could be something that we're remembered for,
+p362
+aVfor millennia, for having achieved.
+p363
+aVAnd as I said before, I'll end with something
+p364
+aVthat's carved above the door of the Carnegie Library.
+p365
+aVCarnegie \u2014 one of the great capitalists of this country \u2014
+p366
+aVcarved above his legacy, "Free to the People."
+p367
+aVThank you very much.
+p368
+aasS'id'
+p369
+I346
+sS'title'
+p370
+VA free digital library
+p371
+s.

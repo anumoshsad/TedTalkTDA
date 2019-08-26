@@ -1,0 +1,234 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VPlanetary systems outside our own
+p4
+aVare like distant cities whose lights we can see twinkling,
+p5
+aVbut whose streets we can't walk.
+p6
+aVBy studying those twinkling lights though,
+p7
+aVwe can learn about how stars and planets interact
+p8
+aVto form their own ecosystem
+p9
+aVand make habitats that are amenable to life.
+p10
+aa(lp11
+VIn this image of the Tokyo skyline,
+p12
+aVI've hidden data
+p13
+aVfrom the newest planet-hunting space telescope on the block,
+p14
+aVthe Kepler Mission.
+p15
+aVCan you see it?
+p16
+aVThere we go.
+p17
+aVThis is just a tiny part of the sky the Kepler stares at,
+p18
+aVwhere it searches for planets
+p19
+aVby measuring the light from over 150,000 stars,
+p20
+aVall at once, every half hour,
+p21
+aVand very precisely.
+p22
+aa(lp23
+VAnd what we're looking for
+p24
+aVis the tiny dimming of light
+p25
+aVthat is caused by a planet passing in front of one of these stars
+p26
+aVand blocking some of that starlight from getting to us.
+p27
+aVIn just over two years of operations,
+p28
+aVwe've found over 1,200
+p29
+aVpotential new planetary systems around other stars.
+p30
+aVTo give you some perspective,
+p31
+aVin the previous two decades of searching,
+p32
+aVwe had only known about 400
+p33
+aVprior to Kepler.
+p34
+aa(lp35
+VWhen we see these little dips in the light,
+p36
+aVwe can determine a number of things.
+p37
+aVFor one thing, we can determine that there's a planet there,
+p38
+aVbut also how big that planet is
+p39
+aVand how far it is away from its parent star.
+p40
+aVThat distance is really important
+p41
+aVbecause it tells us
+p42
+aVhow much light the planet receives overall.
+p43
+aVAnd that distance and knowing that amount of light is important
+p44
+aVbecause it's a little like you or I sitting around a campfire:
+p45
+aVYou want to be close enough to the campfire so that you're warm,
+p46
+aVbut not so close
+p47
+aVthat you're too toasty and you get burned.
+p48
+aa(lp49
+VHowever, there's more to know about your parent star
+p50
+aVthan just how much light you receive overall.
+p51
+aVAnd I'll tell you why.
+p52
+aVThis is our star. This is our Sun.
+p53
+aVIt's shown here in visible light.
+p54
+aVThat's the light that you can see with your own human eyes.
+p55
+aVYou'll notice that it looks pretty much
+p56
+aVlike the iconic yellow ball \u2014
+p57
+aVthat Sun that we all draw when we're children.
+p58
+aVBut you'll notice something else,
+p59
+aVand that's that the face of the Sun
+p60
+aVhas freckles.
+p61
+aVThese freckles are called sunspots,
+p62
+aVand they are just one of the manifestations
+p63
+aVof the Sun's magnetic field.
+p64
+aVThey also cause the light from the star to vary.
+p65
+aVAnd we can measure this
+p66
+aVvery, very precisely with Kepler and trace their effects.
+p67
+aa(lp68
+VHowever, these are just the tip of the iceberg.
+p69
+aVIf we had UV eyes or X-ray eyes,
+p70
+aVwe would really see
+p71
+aVthe dynamic and dramatic effects
+p72
+aVof our Sun's magnetic activity \u2014
+p73
+aVthe kind of thing that happens on other stars as well.
+p74
+aVJust think, even when it's cloudy outside,
+p75
+aVthese kind of events are happening
+p76
+aVin the sky above you all the time.
+p77
+aVSo when we want to learn whether a planet is habitable,
+p78
+aVwhether it might be amenable to life,
+p79
+aVwe want to know not only how much total light it receives
+p80
+aVand how warm it is,
+p81
+aVbut we want to know about its space weather \u2014
+p82
+aVthis high-energy radiation,
+p83
+aVthe UV and the X-rays
+p84
+aVthat are created by its star
+p85
+aVand that bathe it in this bath of high-energy radiation.
+p86
+aa(lp87
+VAnd so, we can't really look
+p88
+aVat planets around other stars
+p89
+aVin the same kind of detail
+p90
+aVthat we can look at planets in our own solar system.
+p91
+aVI'm showing here Venus, Earth and Mars \u2014
+p92
+aVthree planets in our own solar system that are roughly the same size,
+p93
+aVbut only one of which
+p94
+aVis really a good place to live.
+p95
+aVBut what we can do in the meantime
+p96
+aVis measure the light from our stars
+p97
+aVand learn about this relationship
+p98
+aVbetween the planets and their parent stars
+p99
+aVto suss out clues
+p100
+aVabout which planets might be good places
+p101
+aVto look for life in the universe.
+p102
+aa(lp103
+VKepler won't find a planet
+p104
+aVaround every single star it looks at.
+p105
+aVBut really, every measurement it makes
+p106
+aVis precious,
+p107
+aVbecause it's teaching us about the relationship
+p108
+aVbetween stars and planets,
+p109
+aVand how it's really the starlight
+p110
+aVthat sets the stage
+p111
+aVfor the formation of life in the universe.
+p112
+aVWhile it's Kepler the telescope, the instrument that stares,
+p113
+aVit's we, life, who are searching.
+p114
+aa(lp115
+VThank you.
+p116
+aa(lp117
+V(Applause)
+p118
+aasS'id'
+p119
+I1210
+sS'title'
+p120
+VFinding planets around other stars
+p121
+s.

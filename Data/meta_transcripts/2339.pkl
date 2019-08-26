@@ -1,0 +1,550 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VOver our lifetimes,
+p4
+aVwe've all contributed to climate change.
+p5
+aVActions, choices and behaviors
+p6
+aVwill have led to an increase in greenhouse gas emissions.
+p7
+aVAnd I think that that's quite a powerful thought.
+p8
+aVBut it does have the potential to make us feel guilty
+p9
+aVwhen we think about decisions we might have made
+p10
+aVaround where to travel to,
+p11
+aVhow often and how,
+p12
+aVabout the energy that we choose to use
+p13
+aVin our homes or in our workplaces,
+p14
+aVor quite simply the lifestyles that we lead and enjoy.
+p15
+aVBut we can also turn that thought on its head,
+p16
+aVand think that if we've had such a profound
+p17
+aVbut a negative impact on our climate already,
+p18
+aVthen we have an opportunity to influence the amount of future climate change
+p19
+aVthat we will need to adapt to.
+p20
+aa(lp21
+VSo we have a choice.
+p22
+aVWe can either choose to start to take climate change seriously,
+p23
+aVand significantly cut and mitigate our greenhouse gas emissions,
+p24
+aVand then we will have to adapt to less of the climate change impacts in future.
+p25
+aVAlternatively, we can continue to really ignore the climate change problem.
+p26
+aVBut if we do that, we are also choosing
+p27
+aVto adapt to very much more powerful climate impacts in future.
+p28
+aVAnd not only that.
+p29
+aVAs people who live in countries with high per capita emissions,
+p30
+aVwe're making that choice on behalf of others as well.
+p31
+aVBut the choice that we don't have
+p32
+aVis a no climate change future.
+p33
+aa(lp34
+VOver the last two decades,
+p35
+aVour government negotiators and policymakers have been coming together
+p36
+aVto discuss climate change,
+p37
+aVand they've been focused on avoiding a two-degree centigrade warming
+p38
+aVabove pre-industrial levels.
+p39
+aVThat's the temperature that's associated with dangerous impacts
+p40
+aVacross a range of different indicators,
+p41
+aVto humans and to the environment.
+p42
+aVSo two degrees centigrade constitutes dangerous climate change.
+p43
+aa(lp44
+VBut dangerous climate change can be subjective.
+p45
+aVSo if we think about an extreme weather event
+p46
+aVthat might happen in some part of the world,
+p47
+aVand if that happens in a part of the world where there is good infrastructure,
+p48
+aVwhere there are people that are well-insured and so on,
+p49
+aVthen that impact can be disruptive.
+p50
+aVIt can cause upset, it could cause cost.
+p51
+aVIt could even cause some deaths.
+p52
+aVBut if that exact same weather event happens in a part of the world
+p53
+aVwhere there is poor infrastructure,
+p54
+aVor where people are not well-insured,
+p55
+aVor they're not having good support networks,
+p56
+aVthen that same climate change impact could be devastating.
+p57
+aVIt could cause a significant loss of home,
+p58
+aVbut it could also cause significant amounts of death.
+p59
+aa(lp60
+VSo this is a graph of the CO2 emissions at the left-hand side
+p61
+aVfrom fossil fuel and industry,
+p62
+aVand time from before the Industrial Revolution
+p63
+aVout towards the present day.
+p64
+aVAnd what's immediately striking about this
+p65
+aVis that emissions have been growing exponentially.
+p66
+aVIf we focus in on a shorter period of time from 1950,
+p67
+aVwe have established in 1988
+p68
+aVthe Intergovernmental Panel on Climate Change,
+p69
+aVthe Rio Earth Summit in 1992,
+p70
+aVthen rolling on a few years, in 2009 we had the Copenhagen Accord,
+p71
+aVwhere it established avoiding a two-degree temperature rise
+p72
+aVin keeping with the science and on the basis of equity.
+p73
+aVAnd then in 2012, we had the Rio+20 event.
+p74
+aVAnd all the way through, during all of these meetings
+p75
+aVand many others as well,
+p76
+aVemissions have continued to rise.
+p77
+aVAnd if we focus on our historical emission trend in recent years,
+p78
+aVand we put that together with our understanding
+p79
+aVof the direction of travel in our global economy,
+p80
+aVthen we are much more on track
+p81
+aVfor a four-degree centigrade global warming
+p82
+aVthan we are for the two-degree centigrade.
+p83
+aa(lp84
+VNow, let's just pause for a moment
+p85
+aVand think about this four-degree global average temperature.
+p86
+aVMost of our planet is actually made up of the sea.
+p87
+aVNow, because the sea has a greater thermal inertia than the land,
+p88
+aVthe average temperatures over land are actually going to be higher
+p89
+aVthan they are over the sea.
+p90
+aVThe second thing is that we as human beings don't experience
+p91
+aVglobal average temperatures.
+p92
+aVWe experience hot days, cold days,
+p93
+aVrainy days, especially if you live in Manchester like me.
+p94
+aa(lp95
+VSo now put yourself in a city center.
+p96
+aVImagine somewhere in the world:
+p97
+aVMumbai, Beijing, New York, London.
+p98
+aVIt's the hottest day that you've ever experienced.
+p99
+aVThere's sun beating down,
+p100
+aVthere's concrete and glass all around you.
+p101
+aVNow imagine that same day \u2014
+p102
+aVbut it's six, eight, maybe 10 to 12 degrees warmer
+p103
+aVon that day during that heat wave.
+p104
+aVThat's the kind of thing we're going to experience
+p105
+aVunder a four-degree global average temperature scenario.
+p106
+aa(lp107
+VAnd the problem with these extremes,
+p108
+aVand not just the temperature extremes,
+p109
+aVbut also the extremes in terms of storms and other climate impacts,
+p110
+aVis our infrastructure is just not set up to deal with these sorts of events.
+p111
+aVSo our roads and our rail networks
+p112
+aVhave been designed to last for a long time
+p113
+aVand withstand only certain amounts of impacts
+p114
+aVin different parts of the world.
+p115
+aVAnd this is going to be extremely challenged.
+p116
+aVOur power stations are expected to be cooled by water
+p117
+aVto a certain temperature to remain effective and resilient.
+p118
+aVAnd our buildings are designed to be comfortable
+p119
+aVwithin a particular temperature range.
+p120
+aVAnd this is all going to be significantly challenged
+p121
+aVunder a four-degree-type scenario.
+p122
+aVOur infrastructure has not been designed to cope with this.
+p123
+aa(lp124
+VSo if we go back, also thinking about four degrees,
+p125
+aVit's not just the direct impacts,
+p126
+aVbut also some indirect impacts.
+p127
+aVSo if we take food security, for example.
+p128
+aVMaize and wheat yields
+p129
+aVin some parts of the world
+p130
+aVare expected to be up to 40 percent lower
+p131
+aVunder a four-degree scenario,
+p132
+aVrice up to 30 percent lower.
+p133
+aVThis will be absolutely devastating for global food security.
+p134
+aVSo all in all, the kinds of impacts anticipated
+p135
+aVunder this four-degree centigrade scenario
+p136
+aVare going to be incompatible with global organized living.
+p137
+aa(lp138
+VSo back to our trajectories and our graphs of four degrees and two degrees.
+p139
+aVIs it reasonable still to focus on the two-degree path?
+p140
+aVThere are quite a lot of my colleagues and other scientists
+p141
+aVwho would say that it's now too late to avoid a two-degree warming.
+p142
+aVBut I would just like to draw on my own research
+p143
+aVon energy systems, on food systems,
+p144
+aVaviation and also shipping,
+p145
+aVjust to say that I think there is still a small fighting chance
+p146
+aVof avoiding this two-degree dangerous climate change.
+p147
+aVBut we really need to get to grips with the numbers
+p148
+aVto work out how to do it.
+p149
+aa(lp150
+VSo if you focus in on this trajectory and these graphs,
+p151
+aVthe yellow circle there highlights that the departure
+p152
+aVfrom the red four-degree pathway
+p153
+aVto the two-degree green pathway is immediate.
+p154
+aVAnd that's because of cumulative emissions,
+p155
+aVor the carbon budget.
+p156
+aVSo in other words, because of the lights and the projectors
+p157
+aVthat are on in this room right now,
+p158
+aVthe CO2 that is going into our atmosphere
+p159
+aVas a result of that electricity consumption
+p160
+aVlasts a very long time.
+p161
+aVSome of it will be in our atmosphere for a century, maybe much longer.
+p162
+aVIt will accumulate, and greenhouse gases tend to be cumulative.
+p163
+aVAnd that tells us something about these trajectories.
+p164
+aVFirst of all, it tells us that it's the area under these curves that matter,
+p165
+aVnot where we reach at a particular date in future.
+p166
+aVAnd that's important, because it doesn't matter
+p167
+aVif we come up with some amazing whiz-bang technology
+p168
+aVto sort out our energy problem on the last day of 2049,
+p169
+aVjust in the nick of time to sort things out.
+p170
+aVBecause in the meantime, emissions will have accumulated.
+p171
+aVSo if we continue on this red, four-degree centigrade scenario pathway,
+p172
+aVthe longer we continue on it,
+p173
+aVthat will need to be made up for in later years
+p174
+aVto keep the same carbon budget, to keep the same area under the curve,
+p175
+aVwhich means that that trajectory, the red one there, becomes steeper.
+p176
+aVSo in other words, if we don't reduce emissions in the short to medium term,
+p177
+aVthen we'll have to make more significant year-on-year emission reductions.
+p178
+aVWe also know that we have to decarbonize our energy system.
+p179
+aVBut if we don't start to cut emissions in the short to medium term,
+p180
+aVthen we will have to do that even sooner.
+p181
+aVSo this poses really big challenges for us.
+p182
+aa(lp183
+VThe other thing it does is tells us something about energy policy.
+p184
+aVIf you live in a part of the world where per capita emissions are already high,
+p185
+aVit points us towards reducing energy demand.
+p186
+aVAnd that's because with all the will in the world,
+p187
+aVthe large-scale engineering infrastructure
+p188
+aVthat we need to roll out rapidly
+p189
+aVto decarbonize the supply side of our energy system
+p190
+aVis just simply not going to happen in time.
+p191
+aVSo it doesn't matter whether we choose nuclear power
+p192
+aVor carbon capture and storage,
+p193
+aVupscale our biofuel production,
+p194
+aVor go for a much bigger roll-out of wind turbines and wave turbines.
+p195
+aVAll of that will take time.
+p196
+aVSo because it's the area under the curve that matters,
+p197
+aVwe need to focus on energy efficiency,
+p198
+aVbut also on energy conservation \u2014 in other words, using less energy.
+p199
+aVAnd if we do that, that also means
+p200
+aVthat as we continue to roll out the supply-side technology,
+p201
+aVwe will have less of a job to do if we've actually managed
+p202
+aVto reduce our energy consumption,
+p203
+aVbecause we will then need less infrastructure on the supply side.
+p204
+aa(lp205
+VAnother issue that we really need to grapple with
+p206
+aVis the issue of well-being and equity.
+p207
+aVThere are many parts of the world where the standard of living needs to rise.
+p208
+aVBbut with energy systems currently reliant on fossil fuel,
+p209
+aVas those economies grow so will emissions.
+p210
+aVAnd now, if we're all constrained by the same amount of carbon budget,
+p211
+aVthat means that if some parts of the world's emissions are needing to rise,
+p212
+aVthen other parts of the world's emissions need to reduce.
+p213
+aa(lp214
+VSo that poses very significant challenges for wealthy nations.
+p215
+aVBecause according to our research,
+p216
+aVif you're in a country where per capita emissions are really high \u2014
+p217
+aVso North America, Europe, Australia \u2014
+p218
+aVemissions reductions of the order of 10 percent per year,
+p219
+aVand starting immediately, will be required for a good chance
+p220
+aVof avoiding the two-degree target.
+p221
+aVLet me just put that into context.
+p222
+aVThe economist Nicholas Stern
+p223
+aVsaid that emission reductions of more than one percent per year
+p224
+aVhad only ever been associated with economic recession or upheaval.
+p225
+aVSo this poses huge challenges for the issue of economic growth,
+p226
+aVbecause if we have our high carbon infrastructure in place,
+p227
+aVit means that if our economies grow,
+p228
+aVthen so do our emissions.
+p229
+aVSo I'd just like to take a quote from a paper
+p230
+aVby myself and Kevin Anderson back in 2011
+p231
+aVwhere we said that to avoid the two-degree framing of dangerous climate change,
+p232
+aVeconomic growth needs to be exchanged at least temporarily
+p233
+aVfor a period of planned austerity in wealthy nations.
+p234
+aa(lp235
+VThis is a really difficult message to take,
+p236
+aVbecause what it suggests is that we really need to do things differently.
+p237
+aVThis is not about just incremental change.
+p238
+aVThis is about doing things differently, about whole system change,
+p239
+aVand sometimes it's about doing less things.
+p240
+aVAnd this applies to all of us,
+p241
+aVwhatever sphere of influence we have.
+p242
+aVSo it could be from writing to our local politician
+p243
+aVto talking to our boss at work or being the boss at work,
+p244
+aVor talking with our friends and family, or, quite simply, changing our lifestyles.
+p245
+aVBecause we really need to make significant change.
+p246
+aVAt the moment, we're choosing a four-degree scenario.
+p247
+aVIf we really want to avoid the two-degree scenario,
+p248
+aVthere really is no time like the present to act.
+p249
+aa(lp250
+VThank you.
+p251
+aa(lp252
+V(Applause)
+p253
+aa(lp254
+VBruno Giussani: Alice, basically what you're saying,
+p255
+aVthe talk is, unless wealthy nations start cutting 10 percent per year
+p256
+aVthe emissions now, this year, not in 2020 or '25,
+p257
+aVwe are going to go straight to the four-plus-degree scenario.
+p258
+aVI am wondering what's your take on the cut by 70 percent for 2070.
+p259
+aa(lp260
+VAlice Bows-Larkin: Yeah, it's just nowhere near enough to avoid two degrees.
+p261
+aVOne of the things that often \u2014
+p262
+aVwhen there are these modeling studies that look at what we need to do,
+p263
+aVis they tend to hugely overestimate how quickly other countries in the world
+p264
+aVcan start to reduce emissions.
+p265
+aVSo they make kind of heroic assumptions about that.
+p266
+aVThe more we do that, because it's the cumulative emissions,
+p267
+aVthe short-term stuff that really matters.
+p268
+aVSo it does make a huge difference.
+p269
+aVIf a big country like China, for example,
+p270
+aVcontinues to grow even for just a few extra years,
+p271
+aVthat will make a big difference to when we need to decarbonize.
+p272
+aVSo I don't think we can even say when it will be,
+p273
+aVbecause it all depends on what we have to do in the short term.
+p274
+aVBut I think we've just got huge scope, and we don't pull those levers
+p275
+aVthat allow us to reduce the energy demand, which is a shame.
+p276
+aa(lp277
+VBG: Alice, thank you for coming to TED and sharing this data.
+p278
+aa(lp279
+VABL: Thank you.
+p280
+aa(lp281
+V(Applause)
+p282
+aasS'id'
+p283
+I2339
+sS'title'
+p284
+VClimate change is happening. Here's how we adapt
+p285
+s.

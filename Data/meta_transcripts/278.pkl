@@ -1,0 +1,777 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VLast year, I told you the story, in seven minutes, of Project Orion,
+p4
+aVwhich was this very implausible technology
+p5
+aVthat technically could have worked,
+p6
+aVbut it had this one-year political window where it could have happened.
+p7
+aVSo it didn't happen. It was a dream that did not happen.
+p8
+aVThis year I'm going to tell you the story of the birth of digital computing.
+p9
+aVThis was a perfect introduction.
+p10
+aVAnd it's a story that did work. It did happen,
+p11
+aVand the machines are all around us.
+p12
+aVAnd it was a technology that was inevitable.
+p13
+aVIf the people I'm going to tell you the story about,
+p14
+aVif they hadn't done it, somebody else would have.
+p15
+aVSo, it was sort of the right idea at the right time.
+p16
+aa(lp17
+VThis is Barricelli's universe. This is the universe we live in now.
+p18
+aVIt's the universe in which these machines
+p19
+aVare now doing all these things, including changing biology.
+p20
+aVI'm starting the story with the first atomic bomb at Trinity,
+p21
+aVwhich was the Manhattan Project. It was a little bit like TED:
+p22
+aVit brought a whole lot of very smart people together.
+p23
+aVAnd three of the smartest people were
+p24
+aVStan Ulam, Richard Feynman and John von Neumann.
+p25
+aVAnd it was Von Neumann who said, after the bomb,
+p26
+aVhe was working on something much more important than bombs:
+p27
+aVhe's thinking about computers.
+p28
+aVSo, he wasn't only thinking about them; he built one. This is the machine he built.
+p29
+aa(lp30
+V(Laughter)
+p31
+aa(lp32
+VHe built this machine,
+p33
+aVand we had a beautiful demonstration of how this thing really works,
+p34
+aVwith these little bits. And it's an idea that goes way back.
+p35
+aVThe first person to really explain that
+p36
+aVwas Thomas Hobbes, who, in 1651,
+p37
+aVexplained how arithmetic and logic are the same thing,
+p38
+aVand if you want to do artificial thinking and artificial logic,
+p39
+aVyou can do it all with arithmetic.
+p40
+aVHe said you needed addition and subtraction.
+p41
+aVLeibniz, who came a little bit later \u2014 this is 1679 \u2014
+p42
+aVshowed that you didn't even need subtraction.
+p43
+aVYou could do the whole thing with addition.
+p44
+aVHere, we have all the binary arithmetic and logic
+p45
+aVthat drove the computer revolution.
+p46
+aVAnd Leibniz was the first person to really talk about building such a machine.
+p47
+aVHe talked about doing it with marbles,
+p48
+aVhaving gates and what we now call shift registers,
+p49
+aVwhere you shift the gates, drop the marbles down the tracks.
+p50
+aVAnd that's what all these machines are doing,
+p51
+aVexcept, instead of doing it with marbles,
+p52
+aVthey're doing it with electrons.
+p53
+aa(lp54
+VAnd then we jump to Von Neumann, 1945,
+p55
+aVwhen he sort of reinvents the whole same thing.
+p56
+aVAnd 1945, after the war, the electronics existed
+p57
+aVto actually try and build such a machine.
+p58
+aVSo June 1945 \u2014 actually, the bomb hasn't even been dropped yet \u2014
+p59
+aVand Von Neumann is putting together all the theory to actually build this thing,
+p60
+aVwhich also goes back to Turing,
+p61
+aVwho, before that, gave the idea that you could do all this
+p62
+aVwith a very brainless, little, finite state machine,
+p63
+aVjust reading a tape in and reading a tape out.
+p64
+aVThe other sort of genesis of what Von Neumann did
+p65
+aVwas the difficulty of how you would predict the weather.
+p66
+aVLewis Richardson saw how you could do this with a cellular array of people,
+p67
+aVgiving them each a little chunk, and putting it together.
+p68
+aVHere, we have an electrical model illustrating a mind having a will,
+p69
+aVbut capable of only two ideas.
+p70
+aa(lp71
+V(Laughter)
+p72
+aa(lp73
+VAnd that's really the simplest computer.
+p74
+aVIt's basically why you need the qubit,
+p75
+aVbecause it only has two ideas.
+p76
+aa(lp77
+VAnd you put lots of those together,
+p78
+aVyou get the essentials of the modern computer:
+p79
+aVthe arithmetic unit, the central control, the memory,
+p80
+aVthe recording medium, the input and the output.
+p81
+aVBut, there's one catch. This is the fatal \u2014 you know,
+p82
+aVwe saw it in starting these programs up.
+p83
+aVThe instructions which govern this operation
+p84
+aVmust be given in absolutely exhaustive detail.
+p85
+aVSo, the programming has to be perfect, or it won't work.
+p86
+aa(lp87
+VIf you look at the origins of this,
+p88
+aVthe classic history sort of takes it all back to the ENIAC here.
+p89
+aVBut actually, the machine I'm going to tell you about,
+p90
+aVthe Institute for Advanced Study machine, which is way up there,
+p91
+aVreally should be down there. So, I'm trying to revise history,
+p92
+aVand give some of these guys more credit than they've had.
+p93
+aVSuch a computer would open up universes,
+p94
+aVwhich are, at the present, outside the range of any instruments.
+p95
+aVSo it opens up a whole new world, and these people saw it.
+p96
+aVThe guy who was supposed to build this machine
+p97
+aVwas the guy in the middle, Vladimir Zworykin, from RCA.
+p98
+aVRCA, in probably one of the lousiest business decisions
+p99
+aVof all time, decided not to go into computers.
+p100
+aVBut the first meetings, November 1945, were at RCA's offices.
+p101
+aVRCA started this whole thing off, and said, you know,
+p102
+aVtelevisions are the future, not computers.
+p103
+aa(lp104
+VThe essentials were all there \u2014
+p105
+aVall the things that make these machines run.
+p106
+aVVon Neumann, and a logician, and a mathematician from the army
+p107
+aVput this together. Then, they needed a place to build it.
+p108
+aVWhen RCA said no, that's when they decided to build it in Princeton,
+p109
+aVwhere Freeman works at the Institute.
+p110
+aVThat's where I grew up as a kid.
+p111
+aVThat's me, that's my sister Esther, who's talked to you before,
+p112
+aVso we both go back to the birth of this thing.
+p113
+aVThat's Freeman, a long time ago,
+p114
+aVand that was me.
+p115
+aVAnd this is Von Neumann and Morgenstern,
+p116
+aVwho wrote the "Theory of Games."
+p117
+aVAll these forces came together there, in Princeton.
+p118
+aVOppenheimer, who had built the bomb.
+p119
+aVThe machine was actually used mainly for doing bomb calculations.
+p120
+aVAnd Julian Bigelow, who took
+p121
+aVZworkykin's place as the engineer, to actually figure out, using electronics,
+p122
+aVhow you would build this thing. The whole gang of people who came to work on this,
+p123
+aVand women in front, who actually did most of the coding, were the first programmers.
+p124
+aVThese were the prototype geeks, the nerds.
+p125
+aVThey didn't fit in at the Institute.
+p126
+aVThis is a letter from the director, concerned about \u2014
+p127
+aV"especially unfair on the matter of sugar."
+p128
+aa(lp129
+V(Laughter)
+p130
+aa(lp131
+VYou can read the text.
+p132
+aa(lp133
+V(Laughter)
+p134
+aa(lp135
+VThis is hackers getting in trouble for the first time.
+p136
+aa(lp137
+V(Laughter).
+p138
+aa(lp139
+VThese were not theoretical physicists.
+p140
+aVThey were real soldering-gun type guys, and they actually built this thing.
+p141
+aa(lp142
+VAnd we take it for granted now, that each of these machines
+p143
+aVhas billions of transistors, doing billions of cycles per second without failing.
+p144
+aVThey were using vacuum tubes, very narrow, sloppy techniques
+p145
+aVto get actually binary behavior out of these radio vacuum tubes.
+p146
+aVThey actually used 6J6, the common radio tube,
+p147
+aVbecause they found they were more reliable than the more expensive tubes.
+p148
+aVAnd what they did at the Institute was publish every step of the way.
+p149
+aVReports were issued, so that this machine was cloned
+p150
+aVat 15 other places around the world.
+p151
+aVAnd it really was. It was the original microprocessor.
+p152
+aVAll the computers now are copies of that machine.
+p153
+aVThe memory was in cathode ray tubes \u2014
+p154
+aVa whole bunch of spots on the face of the tube \u2014
+p155
+aVvery, very sensitive to electromagnetic disturbances.
+p156
+aVSo, there's 40 of these tubes,
+p157
+aVlike a V-40 engine running the memory.
+p158
+aa(lp159
+V(Laughter)
+p160
+aa(lp161
+VThe input and the output was by teletype tape at first.
+p162
+aVThis is a wire drive, using bicycle wheels.
+p163
+aVThis is the archetype of the hard disk that's in your machine now.
+p164
+aVThen they switched to a magnetic drum.
+p165
+aVThis is modifying IBM equipment,
+p166
+aVwhich is the origins of the whole data-processing industry, later at IBM.
+p167
+aVAnd this is the beginning of computer graphics.
+p168
+aVThe "Graph'g-Beam Turn On." This next slide,
+p169
+aVthat's the \u2014 as far as I know \u2014 the first digital bitmap display, 1954.
+p170
+aa(lp171
+VSo, Von Neumann was already off in a theoretical cloud,
+p172
+aVdoing abstract sorts of studies of how you could build
+p173
+aVreliable machines out of unreliable components.
+p174
+aVThose guys drinking all the tea with sugar in it
+p175
+aVwere writing in their logbooks, trying to get this thing to work, with all
+p176
+aVthese 2,600 vacuum tubes that failed half the time.
+p177
+aVAnd that's what I've been doing, this last six months, is going through the logs.
+p178
+aV"Running time: two minutes. Input, output: 90 minutes."
+p179
+aVThis includes a large amount of human error.
+p180
+aVSo they are always trying to figure out, what's machine error? What's human error?
+p181
+aVWhat's code, what's hardware?
+p182
+aa(lp183
+VThat's an engineer gazing at tube number 36,
+p184
+aVtrying to figure out why the memory's not in focus.
+p185
+aVHe had to focus the memory \u2014 seems OK.
+p186
+aVSo, he had to focus each tube just to get the memory up and running,
+p187
+aVlet alone having, you know, software problems.
+p188
+aa(lp189
+V"No use, went home." (Laughter)
+p190
+aa(lp191
+V"Impossible to follow the damn thing, where's a directory?"
+p192
+aa(lp193
+VSo, already, they're complaining about the manuals:
+p194
+aV"before closing down in disgust ... "
+p195
+aa(lp196
+V"The General Arithmetic: Operating Logs."
+p197
+aVBurning lots of midnight oil.
+p198
+aa(lp199
+V"MANIAC," which became the acronym for the machine,
+p200
+aVMathematical and Numerical Integrator and Calculator, "lost its memory."
+p201
+aa(lp202
+V"MANIAC regained its memory, when the power went off." "Machine or human?"
+p203
+aa(lp204
+V"Aha!" So, they figured out it's a code problem.
+p205
+aa(lp206
+V"Found trouble in code, I hope."
+p207
+aa(lp208
+V"Code error, machine not guilty."
+p209
+aa(lp210
+V"Damn it, I can be just as stubborn as this thing."
+p211
+aa(lp212
+V(Laughter)
+p213
+aa(lp214
+V"And the dawn came." So they ran all night.
+p215
+aVTwenty-four hours a day, this thing was running, mainly running bomb calculations.
+p216
+aa(lp217
+V"Everything up to this point is wasted time." "What's the use? Good night."
+p218
+aa(lp219
+V"Master control off. The hell with it. Way off." (Laughter)
+p220
+aa(lp221
+V"Something's wrong with the air conditioner \u2014
+p222
+aVsmell of burning V-belts in the air."
+p223
+aa(lp224
+V"A short \u2014 do not turn the machine on."
+p225
+aa(lp226
+V"IBM machine putting a tar-like substance on the cards. The tar is from the roof."
+p227
+aVSo they really were working under tough conditions.
+p228
+aa(lp229
+V(Laughter)
+p230
+aa(lp231
+VHere, "A mouse has climbed into the blower
+p232
+aVbehind the regulator rack, set blower to vibrating. Result: no more mouse."
+p233
+aa(lp234
+V(Laughter)
+p235
+aa(lp236
+V"Here lies mouse. Born: ?. Died: 4:50 a.m., May 1953."
+p237
+aa(lp238
+V(Laughter)
+p239
+aa(lp240
+VThere's an inside joke someone has penciled in:
+p241
+aV"Here lies Marston Mouse."
+p242
+aVIf you're a mathematician, you get that,
+p243
+aVbecause Marston was a mathematician who
+p244
+aVobjected to the computer being there.
+p245
+aa(lp246
+V"Picked a lightning bug off the drum." "Running at two kilocycles."
+p247
+aVThat's two thousand cycles per second \u2014
+p248
+aV"yes, I'm chicken" \u2014 so two kilocycles was slow speed.
+p249
+aVThe high speed was 16 kilocycles.
+p250
+aVI don't know if you remember a Mac that was 16 Megahertz,
+p251
+aVthat's slow speed.
+p252
+aa(lp253
+V"I have now duplicated both results.
+p254
+aVHow will I know which is right, assuming one result is correct?
+p255
+aVThis now is the third different output.
+p256
+aVI know when I'm licked."
+p257
+aa(lp258
+V(Laughter)
+p259
+aa(lp260
+V"We've duplicated errors before."
+p261
+aa(lp262
+V"Machine run, fine. Code isn't."
+p263
+aa(lp264
+V"Only happens when the machine is running."
+p265
+aa(lp266
+VAnd sometimes things are okay.
+p267
+aV"Machine a thing of beauty, and a joy forever." "Perfect running."
+p268
+aa(lp269
+V"Parting thought: when there's bigger and better errors, we'll have them."
+p270
+aa(lp271
+VSo, nobody was supposed to know they were actually designing bombs.
+p272
+aVThey're designing hydrogen bombs. But someone in the logbook,
+p273
+aVlate one night, finally drew a bomb.
+p274
+aVSo, that was the result. It was Mike,
+p275
+aVthe first thermonuclear bomb, in 1952.
+p276
+aVThat was designed on that machine,
+p277
+aVin the woods behind the Institute.
+p278
+aa(lp279
+VSo Von Neumann invited a whole gang of weirdos
+p280
+aVfrom all over the world to work on all these problems.
+p281
+aVBarricelli, he came to do what we now call, really, artificial life,
+p282
+aVtrying to see if, in this artificial universe \u2014
+p283
+aVhe was a viral-geneticist, way, way, way ahead of his time.
+p284
+aVHe's still ahead of some of the stuff that's being done now.
+p285
+aVTrying to start an artificial genetic system running in the computer.
+p286
+aVBegan \u2014 his universe started March 3, '53.
+p287
+aVSo it's almost exactly \u2014 it's 50 years ago next Tuesday, I guess.
+p288
+aVAnd he saw everything in terms of \u2014
+p289
+aVhe could read the binary code straight off the machine.
+p290
+aVHe had a wonderful rapport.
+p291
+aVOther people couldn't get the machine running. It always worked for him.
+p292
+aVEven errors were duplicated.
+p293
+aa(lp294
+V(Laughter)
+p295
+aa(lp296
+V"Dr. Barricelli claims machine is wrong, code is right."
+p297
+aa(lp298
+VSo he designed this universe, and ran it.
+p299
+aVWhen the bomb people went home, he was allowed in there.
+p300
+aVHe would run that thing all night long, running these things,
+p301
+aVif anybody remembers Stephen Wolfram,
+p302
+aVwho reinvented this stuff.
+p303
+aVAnd he published it. It wasn't locked up and disappeared.
+p304
+aVIt was published in the literature.
+p305
+aV"If it's that easy to create living organisms, why not create a few yourself?"
+p306
+aVSo, he decided to give it a try,
+p307
+aVto start this artificial biology going in the machines.
+p308
+aVAnd he found all these, sort of \u2014
+p309
+aVit was like a naturalist coming in
+p310
+aVand looking at this tiny, 5,000-byte universe,
+p311
+aVand seeing all these things happening
+p312
+aVthat we see in the outside world, in biology.
+p313
+aVThis is some of the generations of his universe.
+p314
+aVBut they're just going to stay numbers;
+p315
+aVthey're not going to become organisms.
+p316
+aVThey have to have something.
+p317
+aVYou have a genotype and you have to have a phenotype.
+p318
+aVThey have to go out and do something. And he started doing that,
+p319
+aVstarted giving these little numerical organisms things they could play with \u2014
+p320
+aVplaying chess with other machines and so on.
+p321
+aVAnd they did start to evolve.
+p322
+aVAnd he went around the country after that.
+p323
+aVEvery time there was a new, fast machine, he started using it,
+p324
+aVand saw exactly what's happening now.
+p325
+aVThat the programs, instead of being turned off \u2014 when you quit the program,
+p326
+aVyou'd keep running
+p327
+aVand, basically, all the sorts of things like Windows is doing,
+p328
+aVrunning as a multi-cellular organism on many machines,
+p329
+aVhe envisioned all that happening.
+p330
+aVAnd he saw that evolution itself was an intelligent process.
+p331
+aVIt wasn't any sort of creator intelligence,
+p332
+aVbut the thing itself was a giant parallel computation
+p333
+aVthat would have some intelligence.
+p334
+aVAnd he went out of his way to say
+p335
+aVthat he was not saying this was lifelike,
+p336
+aVor a new kind of life.
+p337
+aVIt just was another version of the same thing happening.
+p338
+aVAnd there's really no difference between what he was doing in the computer
+p339
+aVand what nature did billions of years ago.
+p340
+aVAnd could you do it again now?
+p341
+aa(lp342
+VSo, when I went into these archives looking at this stuff, lo and behold,
+p343
+aVthe archivist came up one day, saying,
+p344
+aV"I think we found another box that had been thrown out."
+p345
+aVAnd it was his universe on punch cards.
+p346
+aVSo there it is, 50 years later, sitting there \u2014 sort of suspended animation.
+p347
+aVThat's the instructions for running \u2014
+p348
+aVthis is actually the source code
+p349
+aVfor one of those universes,
+p350
+aVwith a note from the engineers
+p351
+aVsaying they're having some problems.
+p352
+aV"There must be something about this code that you haven't explained yet."
+p353
+aVAnd I think that's really the truth. We still don't understand
+p354
+aVhow these very simple instructions can lead to increasing complexity.
+p355
+aVWhat's the dividing line between
+p356
+aVwhen that is lifelike and when it really is alive?
+p357
+aVThese cards, now, thanks to me showing up, are being saved.
+p358
+aVAnd the question is, should we run them or not?
+p359
+aVYou know, could we get them running?
+p360
+aVDo you want to let it loose on the Internet?
+p361
+aVThese machines would think they \u2014
+p362
+aVthese organisms, if they came back to life now \u2014
+p363
+aVwhether they've died and gone to heaven, there's a universe.
+p364
+aVMy laptop is 10 thousand million times
+p365
+aVthe size of the universe that they lived in when Barricelli quit the project.
+p366
+aa(lp367
+VHe was thinking far ahead, to
+p368
+aVhow this would really grow into a new kind of life.
+p369
+aVAnd that's what's happening!
+p370
+aVWhen Juan Enriquez told us about
+p371
+aVthese 12 trillion bits being transferred back and forth,
+p372
+aVof all this genomics data going to the proteomics lab,
+p373
+aVthat's what Barricelli imagined:
+p374
+aVthat this digital code in these machines
+p375
+aVis actually starting to code \u2014
+p376
+aVit already is coding from nucleic acids.
+p377
+aVWe've been doing that since, you know, since we started PCR
+p378
+aVand synthesizing small strings of DNA.
+p379
+aVAnd real soon, we're actually going to be synthesizing the proteins,
+p380
+aVand, like Steve showed us, that just opens an entirely new world.
+p381
+aa(lp382
+VIt's a world that Von Neumann himself envisioned.
+p383
+aVThis was published after he died: his sort of unfinished notes
+p384
+aVon self-reproducing machines,
+p385
+aVwhat it takes to get the machines sort of jump-started
+p386
+aVto where they begin to reproduce.
+p387
+aVIt took really three people:
+p388
+aVBarricelli had the concept of the code as a living thing;
+p389
+aVVon Neumann saw how you could build the machines \u2014
+p390
+aVthat now, last count, four million
+p391
+aVof these Von Neumann machines is built every 24 hours;
+p392
+aVand Julian Bigelow, who died 10 days ago \u2014
+p393
+aVthis is John Markoff's obituary for him \u2014
+p394
+aVhe was the important missing link,
+p395
+aVthe engineer who came in
+p396
+aVand knew how to put those vacuum tubes together and make it work.
+p397
+aVAnd all our computers have, inside them,
+p398
+aVthe copies of the architecture that he had to just design
+p399
+aVone day, sort of on pencil and paper.
+p400
+aVAnd we owe a tremendous credit to that.
+p401
+aVAnd he explained, in a very generous way,
+p402
+aVthe spirit that brought all these different people to
+p403
+aVthe Institute for Advanced Study in the '40s to do this project,
+p404
+aVand make it freely available with no patents, no restrictions,
+p405
+aVno intellectual property disputes to the rest of the world.
+p406
+aa(lp407
+VThat's the last entry in the logbook
+p408
+aVwhen the machine was shut down, July 1958.
+p409
+aVAnd it's Julian Bigelow who was running it until midnight
+p410
+aVwhen the machine was officially turned off.
+p411
+aVAnd that's the end.
+p412
+aa(lp413
+VThank you very much.
+p414
+aa(lp415
+V(Applause)
+p416
+aasS'id'
+p417
+I278
+sS'title'
+p418
+VThe birth of the computer
+p419
+s.

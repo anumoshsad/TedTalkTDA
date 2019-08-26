@@ -1,0 +1,359 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VHi. This is my mobile phone.
+p4
+aVA mobile phone can change your life,
+p5
+aVand a mobile phone gives you individual freedom.
+p6
+aVWith a mobile phone,
+p7
+aVyou can shoot a crime against humanity in Syria.
+p8
+aVWith a mobile phone,
+p9
+aVyou can tweet a message
+p10
+aVand start a protest in Egypt.
+p11
+aVAnd with a mobile phone,
+p12
+aVyou can record a song, load it up to
+p13
+aVSoundCloud and become famous.
+p14
+aVAll this is possible with your mobile phone.
+p15
+aa(lp16
+VI'm a child of 1984,
+p17
+aVand I live in the city of Berlin.
+p18
+aVLet's go back to that time, to this city.
+p19
+aVHere you can see
+p20
+aVhow hundreds of thousands of people
+p21
+aVstood up and protested for change.
+p22
+aVThis is autumn 1989,
+p23
+aVand imagine that all those people standing up
+p24
+aVand protesting for change had a
+p25
+aVmobile phone in their pocket.
+p26
+aa(lp27
+VWho in the room has a mobile phone with you?
+p28
+aVHold it up.
+p29
+aVHold your phones up, hold your phones up!
+p30
+aVHold it up. An Android, a Blackberry, wow.
+p31
+aVThat's a lot. Almost everybody today has a mobile phone.
+p32
+aa(lp33
+VBut today I will talk about me and my mobile phone,
+p34
+aVand how it changed my life.
+p35
+aVAnd I will talk about this.
+p36
+aVThese are 35,830 lines of information.
+p37
+aVRaw data.
+p38
+aVAnd why are these informations there?
+p39
+aVBecause in the summer of 2006,
+p40
+aVthe E.U. Commission tabled a directive.
+p41
+aa(lp42
+VThis directive [is] called Data Retention Directive.
+p43
+aVThis directive says that each phone company in Europe,
+p44
+aVeach Internet service company all over Europe,
+p45
+aVhas to store a wide range of information about the users.
+p46
+aVWho calls whom? Who sends whom an email?
+p47
+aVWho sends whom a text message?
+p48
+aVAnd if you use your mobile phone, where you are.
+p49
+aVAll this information is stored for at least six months,
+p50
+aVup to two years by your phone company
+p51
+aVor your Internet service provider.
+p52
+aa(lp53
+VAnd all over Europe, people stood up and said,
+p54
+aV"We don't want this."
+p55
+aVThey said, we don't want this data retention.
+p56
+aVWe want self-determination in the digital age,
+p57
+aVand we don't want that phone companies and Internet companies
+p58
+aVhave to store all this information about us.
+p59
+aVThey were lawyers, journalists, priests,
+p60
+aVthey all said: "We don't want this."
+p61
+aa(lp62
+VAnd here you can see, like 10 thousands of people
+p63
+aVwent out on the streets of Berlin and said,
+p64
+aV"Freedom, not fear."
+p65
+aVAnd some even said, this would be Stasi 2.0.
+p66
+aVStasi was the secret police in East Germany.
+p67
+aa(lp68
+VAnd I also ask myself, does it really work?
+p69
+aVCan they really store all this information about us?
+p70
+aVEvery time I use my mobile phone?
+p71
+aVSo I asked my phone company, Deutsche Telekom,
+p72
+aVwhich was at that time the largest phone company in Germany,
+p73
+aVand I asked them, please,
+p74
+aVsend me all the information you have stored about me.
+p75
+aVAnd I asked them once, and I asked them again,
+p76
+aVand I got no real answer. It was only blah blah answers.
+p77
+aa(lp78
+VBut then I said, I want to have this information,
+p79
+aVbecause this is my life you are protocoling.
+p80
+aVSo I decided to start a lawsuit against them,
+p81
+aVbecause I wanted to have this information.
+p82
+aVBut Deutsche Telekom said, no,
+p83
+aVwe will not give you this information.
+p84
+aVSo at the end, I had a settlement with them.
+p85
+aVI'll put down the lawsuit
+p86
+aVand they will send me all the information I ask for.
+p87
+aVBecause in the mean time,
+p88
+aVthe German Constitutional Court ruled
+p89
+aVthat the implementation of this E.U. directive
+p90
+aVinto German law was unconstitutional.
+p91
+aa(lp92
+VSo I got this ugly brown envelope
+p93
+aVwith a C.D. inside.
+p94
+aVAnd on the C.D., this was on.
+p95
+aVThirty-five thousand eight hundred thirty lines of information.
+p96
+aVAt first I saw it, and I said, okay,
+p97
+aVit's a huge file. Okay.
+p98
+aVBut then after a while I realized,
+p99
+aVthis is my life.
+p100
+aVThis is six months of my life,
+p101
+aVinto this file.
+p102
+aa(lp103
+VSo I was a little bit skeptical, what should I do with it?
+p104
+aVBecause you can see where I am,
+p105
+aVwhere I sleep at night,
+p106
+aVwhat I am doing.
+p107
+aVBut then I said, I want to go out with this information.
+p108
+aVI want to make them public.
+p109
+aVBecause I want to show the people what does data retention mean.
+p110
+aa(lp111
+VSo together with Zeit Online and Open Data City, I did this.
+p112
+aVThis is a visualization of six months of my life.
+p113
+aVYou can zoom in and zoom out,
+p114
+aVyou can wind back and fast forward.
+p115
+aVYou can see every step I take.
+p116
+aVAnd you can even see
+p117
+aVhow I go from Frankfurt by train
+p118
+aVto Cologne, and how often I call in between.
+p119
+aa(lp120
+VAll this is possible with this information.
+p121
+aVThat's a little bit scary.
+p122
+aVBut it is not only about me.
+p123
+aVIt's about all of us.
+p124
+aVFirst, it's only like, I call my wife and she calls me,
+p125
+aVand we talk to each other a couple of times.
+p126
+aVAnd then there are some friends calling me,
+p127
+aVand they call each other.
+p128
+aVAnd after a while you are calling you,
+p129
+aVand you are calling you, and you have this great
+p130
+aVcommunication network.
+p131
+aa(lp132
+VBut you can see how your people are communicating with each other,
+p133
+aVwhat times they call each other, when they go to bed.
+p134
+aVYou can see all of this.
+p135
+aVYou can see the hubs, like who are the leaders in the group.
+p136
+aVIf you have access to this information,
+p137
+aVyou can see what your society is doing.
+p138
+aVIf you have access to this information,
+p139
+aVyou can control your society.
+p140
+aa(lp141
+VThis is a blueprint for countries like China and Iran.
+p142
+aVThis is a blueprint how to survey your society,
+p143
+aVbecause you know who talks to whom,
+p144
+aVwho sends whom an email, all this is possible
+p145
+aVif you have access to this information.
+p146
+aVAnd this information is stored for at least six months
+p147
+aVin Europe, up to two years.
+p148
+aa(lp149
+VLike I said at the beginning,
+p150
+aVimagine that all those people on the streets of Berlin
+p151
+aVin autumn of 1989
+p152
+aVhad a mobile phone in their pocket.
+p153
+aVAnd the Stasi would have known who took part at this protest,
+p154
+aVand if the Stasi would have known
+p155
+aVwho are the leaders behind it,
+p156
+aVthis may never have happened.
+p157
+aVThe fall of the Berlin Wall would maybe not [have been] there.
+p158
+aVAnd in the aftermath, also not the fall of the Iron Curtain.
+p159
+aVBecause today, state agencies and companies
+p160
+aVwant to store as much information as they can get about us,
+p161
+aVonline and offline.
+p162
+aVThey want to have the possibility to track our lives,
+p163
+aVand they want to store them for all time.
+p164
+aa(lp165
+VBut self-determination and living in the digital age
+p166
+aVis no contradiction.
+p167
+aVBut you have to fight for your self-determination today.
+p168
+aVYou have to fight for it every day.
+p169
+aVSo, when you go home,
+p170
+aVtell your friends
+p171
+aVthat privacy is a value of the 21st century,
+p172
+aVand it's not outdated.
+p173
+aVWhen you go home, tell your representative
+p174
+aVonly because companies and state agencies have the possibility
+p175
+aVto store certain information, they don't have to do it.
+p176
+aVAnd if you don't believe me,
+p177
+aVask your phone company what information they store about you.
+p178
+aa(lp179
+VSo, in the future, every time you use your mobile phone,
+p180
+aVlet it be a reminder to you
+p181
+aVthat you have to fight for self-determination in the digital age.
+p182
+aVThank you.
+p183
+aa(lp184
+V(Applause)
+p185
+aasS'id'
+p186
+I1518
+sS'title'
+p187
+VYour phone company is watching
+p188
+s.

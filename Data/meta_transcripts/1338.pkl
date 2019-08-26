@@ -1,0 +1,606 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThe maxim, "Know thyself" has been around since the ancient Greeks.
+p4
+aVSome attribute this golden world knowledge to Plato, others to Pythagoras.
+p5
+aVBut the truth is it doesn't really matter which sage said it first,
+p6
+aVbecause it's still sage advice, even today.
+p7
+aV"Know thyself."
+p8
+aVIt's pithy almost to the point of being meaningless,
+p9
+aVbut it rings familiar and true, doesn't it?
+p10
+aV"Know thyself."
+p11
+aVI understand this timeless dictum as a statement about the problems,
+p12
+aVor more exactly, the confusions, of consciousness.
+p13
+aVI've always been fascinated with knowing the self.
+p14
+aVThis fascination led me to submerge myself in art,
+p15
+aVstudy neuroscience, and later, to become a psychotherapist.
+p16
+aa(lp17
+VToday I combine all my passions as the CEO of InteraXon,
+p18
+aVa thought-controlled computing company.
+p19
+aVMy goal, quite simply, is to help people become more in tune with themselves.
+p20
+aVI take it from this little dictum, "Know thyself."
+p21
+aVIf you think about it,
+p22
+aVthis imperative is kind of the defining characteristic of our species, isn't it?
+p23
+aVI mean, it's self-awareness
+p24
+aVthat separates Homo sapiens from earlier instances of our mankind.
+p25
+aa(lp26
+VToday we're often too busy
+p27
+aVtending to our iPhones and iPods to really stop and get to know ourselves.
+p28
+aVUnder the deluge of minute-to-minute text conversations,
+p29
+aVe-mails, relentless exchange of media channels
+p30
+aVand passwords and apps and reminders and Tweets and tags,
+p31
+aVwe lose sight of what all this fuss is supposed to be about in the first place:
+p32
+aVOurselves.
+p33
+aVMuch of the time we're transfixed
+p34
+aVby all of the ways we can reflect ourselves out into the world.
+p35
+aVAnd we can barely find the time to reflect deeply back in on our own selves.
+p36
+aVWe've cluttered ourselves up with all this.
+p37
+aVAnd we feel like we have to get far, far away to a secluded retreat,
+p38
+aVleaving it all behind.
+p39
+aa(lp40
+VSo we go far away to the top of a mountain,
+p41
+aVassuming that perching ourselves on a piece
+p42
+aVis bound to give us the respite we need to sort the clutter, the chaotic everyday,
+p43
+aVand find ourselves again.
+p44
+aVBut on that mountain where we gain that beautiful peace of mind,
+p45
+aVwhat are we really achieving?
+p46
+aVIt's really only a successful escape.
+p47
+aVThink of the term we use, "Retreat."
+p48
+aVThis is the term that armies use when they've lost a battle.
+p49
+aVIt means we've got to get out of here.
+p50
+aVIs this how we feel about the pressures of our world,
+p51
+aVthat in order to get inside ourselves,
+p52
+aVyou have to run for the hills?
+p53
+aVAnd the problem with escaping your day-to-day life
+p54
+aVis that you have to come home, eventually.
+p55
+aVSo when you think about it,
+p56
+aVwe're almost like a tourist visiting ourselves over there.
+p57
+aVAnd eventually, that vacation's got to come to an end.
+p58
+aa(lp59
+VSo my question to you is,
+p60
+aVcan we find ways to know ourselves without the escape?
+p61
+aVCan we redefine our relationship with the technologized world
+p62
+aVin order to have the heightened sense of self-awareness that we seek?
+p63
+aVCan we live here and now in our wired web
+p64
+aVand still follow those ancient instructions, "Know thyself?"
+p65
+aVI say the answer is yes.
+p66
+aVAnd I'm here today to share a new way
+p67
+aVthat we're working with technology to this end,
+p68
+aVto get familiar with our inner self like never before \u2014
+p69
+aVhumanizing technology and furthering that age-old quest of ours
+p70
+aVto more fully know the self.
+p71
+aVIt's called thought-controlled computing.
+p72
+aa(lp73
+VYou may or may not have noticed
+p74
+aVthat I'm wearing a tiny electrode on my forehead.
+p75
+aVThis is actually a brainwave sensor
+p76
+aVthat's reading the electrical activity of my brain
+p77
+aVas I give this talk.
+p78
+aVThese brainwaves are being analyzed and we can see them as a graph.
+p79
+aVLet me show you what it looks like.
+p80
+aVThat blue line there is my brainwave.
+p81
+aVIt's the direct signal being recorded from my head, rendered in real time.
+p82
+aVThe green and red bars show that same signal displayed by frequency,
+p83
+aVwith lower frequencies here
+p84
+aVand higher frequencies up here.
+p85
+aVYou're actually looking inside my head as I speak.
+p86
+aVThese graphs are compelling, they're undulating,
+p87
+aVbut from a human's perspective, they're actually not very useful.
+p88
+aVThat's why we've spent a lot of time
+p89
+aVthinking about how to make this data meaningful to the people who use it.
+p90
+aa(lp91
+VFor instance,
+p92
+aVwhat if I could use this data to find out how relaxed I am at any moment?
+p93
+aVOr what if I can take that information
+p94
+aVand put it into an organic shape up on the screen?
+p95
+aVThe shape on the right over here
+p96
+aVhas become an indicator of what's going on in my head.
+p97
+aVThe more relaxed I am,
+p98
+aVthe more the energy's going to fall through it.
+p99
+aVI may also be interested in knowing how focused I am,
+p100
+aVso I can put my level of attention into the circuit board on the other side.
+p101
+aVAnd the more focused my brain is,
+p102
+aVthe more the circuit board is going to surge with energy.
+p103
+aa(lp104
+VOrdinarily, I would have no way of knowing how focused or relaxed I was
+p105
+aVin any tangible way.
+p106
+aVAs we know, our feelings about how we're feeling
+p107
+aVare notoriously unreliable.
+p108
+aVWe've all had stress creep up on us without even noticing it
+p109
+aVuntil we lost it on someone who didn't deserve it,
+p110
+aVand then we realize that we probably should have checked in with ourselves
+p111
+aVa little earlier.
+p112
+aVThis new awareness opens up vast possibilities
+p113
+aVfor applications that help improve our lives and ourselves.
+p114
+aVWe're trying to create technology that uses the insights
+p115
+aVto make our work more efficient, our breaks more relaxing
+p116
+aVand our connections deeper and more fulfilling than ever.
+p117
+aVI'm going to share some of these visions with you in a bit,
+p118
+aVbut first I want to take a look at how we got here.
+p119
+aVBy the way, feel free to check in on my head at any time.
+p120
+aa(lp121
+V(Laughter)
+p122
+aa(lp123
+VMy team at InteraXon and I
+p124
+aVhave been developing thought-controlled application for almost a decade now.
+p125
+aVIn the first phase of development,
+p126
+aVwe were really enthused by all the things we could control with our mind.
+p127
+aVWe were making things activate, light up and work just by thinking.
+p128
+aVWe were transcending the space between the mind and the device.
+p129
+aVWe brought to life a vast array of prototypes and products
+p130
+aVthat you could control with your mind,
+p131
+aVlike thought-controlled home appliances
+p132
+aVor slot-car games or video games or a levitating chair.
+p133
+aVWe created technology and applications that engaged people's imaginations,
+p134
+aVand it was really exciting.
+p135
+aa(lp136
+VAnd then we were asked to do something really big for the Olympics.
+p137
+aVWe were invited to create a massive installation
+p138
+aVat the Vancouver 2010 winter Olympics,
+p139
+aVwere used in Vancouver,
+p140
+aVgot to control the lighting on the CN Tower,
+p141
+aVthe Canadian Parliament buildings and Niagara Falls
+p142
+aVfrom all the way across the country using their minds.
+p143
+aVOver 17 days at the Olympics, 7,000 visitors from all over the world
+p144
+aVactually got to individually control the light
+p145
+aVfrom the CN Tower, parliament and Niagara in real time
+p146
+aVwith their minds from across the country, 3,000 km away.
+p147
+aVSo controlling stuff with your mind is pretty cool.
+p148
+aa(lp149
+VBut we're always interested in multitiered levels of human interaction.
+p150
+aVAnd so we began looking into inventing thought-controlled applications
+p151
+aVin a more complex frame than just control.
+p152
+aVAnd that was responsiveness.
+p153
+aVWe realized that we had a system
+p154
+aVthat allowed technology to know something about you.
+p155
+aVAnd it could join into the relationship with you.
+p156
+aVWe created the responsive room
+p157
+aVwhere the lights, music and blinds adjusted to your state.
+p158
+aVThey followed these little shifts in your mental activity.
+p159
+aVSo as you settled into relaxation at the end of a hard day,
+p160
+aVon the couch in our office,
+p161
+aVthe music would mellow with you.
+p162
+aVWhen you read, the desk lamp would get brighter.
+p163
+aVIf you nod off, the system would know, dimming to darkness as you do.
+p164
+aa(lp165
+VWe then realized that if technology could know something about you
+p166
+aVand use it to help you,
+p167
+aVthere's an even more valuable application than that.
+p168
+aVThat you could know something about yourself.
+p169
+aVWe could know sides of ourselves that were all but invisible
+p170
+aVand come to see things that were previously hidden.
+p171
+aVLet me show you an example of what I'm talking about here.
+p172
+aa(lp173
+VHere's an application that I created for the iPad.
+p174
+aVSo the goal of the original game Zen Bound is to wrap a rope around a wooden form.
+p175
+aVSo you use it with your headset.
+p176
+aVThe headset connects wirelessly to an iPad or a smartphone.
+p177
+aVIn that headset, you have fabric sensors on your forehead and above the ear.
+p178
+aVIn the original Zen Bound game,
+p179
+aVyou play it by scrolling your fingers over the pad.
+p180
+aVIn the game that we created, of course,
+p181
+aVyou control the wooden form that's on the screen there with your mind.
+p182
+aVAs you focus on the wooden form,
+p183
+aVit rotates.
+p184
+aVThe more you focus, the faster the rotation.
+p185
+aVThis is for real.
+p186
+aVThis is not a fake.
+p187
+aVWhat's really interesting to me though
+p188
+aVis at the end of the game, you get stats and feedback about how you did.
+p189
+aVYou have graphs and charts that tell you how your brain was doing \u2014
+p190
+aVnot just how much rope you used or what your high score is,
+p191
+aVbut what was going on inside of your mind.
+p192
+aVAnd this is valuable feedback
+p193
+aVthat we can use to understand what's going on inside of ourselves.
+p194
+aa(lp195
+VI like to call this "intra-active."
+p196
+aVNormally, we think about technology as interactive.
+p197
+aVThis technology is intra-active.
+p198
+aVIt understands what's inside of you
+p199
+aVand builds a sort of responsive relationship
+p200
+aVbetween you and your technology
+p201
+aVso that you can use this information to move you forward.
+p202
+aVSo you can use this information to understand you in a responsive loop.
+p203
+aVAt InteraXon \u2014
+p204
+aVintra-active technology is one of our really defining mandates.
+p205
+aVIt's how we understand the world inside and reflect it outside
+p206
+aVinto this tight loop.
+p207
+aa(lp208
+VFor example, thought-controlled computing
+p209
+aVcan teach children with ADD how to improve their focus.
+p210
+aVWith ADD, children have a low proportion of beta waves for focus states
+p211
+aVand a high proportion of theta states.
+p212
+aVSo you can create applications that reward focused brain states.
+p213
+aVSo you can imagine kids playing video games with their brain waves
+p214
+aVand improving their ADD symptoms as they do it.
+p215
+aVThis can be as effective as Ritalin.
+p216
+aVPerhaps even more importantly,
+p217
+aVthought-controlled computing can give children with ADD
+p218
+aVinsights into their own fluctuating mental states,
+p219
+aVso they can better understand themselves and their learning needs.
+p220
+aVThe way these children will be able to use their new awareness to improve themselves
+p221
+aVwill upend many of the damaging and widespread social stigmas
+p222
+aVthat people who are diagnosed as different are challenged with.
+p223
+aa(lp224
+VWe can peer inside our heads
+p225
+aVand interact with what was once locked away from us,
+p226
+aVwhat once mystified and separated us.
+p227
+aVBrainwave technology can understand us, anticipate our emotions
+p228
+aVand find the best solutions for our needs.
+p229
+aVImagine this collected awareness of the individual
+p230
+aVcomputed and reflected across an entire lifespan.
+p231
+aVImagine the insights that you can gain from this kind of second sight.
+p232
+aVIt would be like plugging into your own personal Google.
+p233
+aa(lp234
+VOn the subject of Google,
+p235
+aVtoday you can search and tag images
+p236
+aVbased on the thoughts and feelings you had while you watched them.
+p237
+aVYou can tag pictures of baby animals as happy,
+p238
+aVor whatever baby animals are to you,
+p239
+aVand then you can search that database, navigating with your feelings,
+p240
+aVrather than the keywords that just hint at them.
+p241
+aVOr you could tag Facebook photos
+p242
+aVwith the emotions that you had associated with those memories
+p243
+aVand then instantly prioritize the streams that catch your attention,
+p244
+aVjust like this.
+p245
+aVHumanizing technology is about taking what's already natural
+p246
+aVabout the human-tech experience
+p247
+aVand building technology seamlessly in tandem with it.
+p248
+aVAs it aligns with our human behaviors,
+p249
+aVit can allow us to make better sense of what we do
+p250
+aVand, more importantly, why.
+p251
+aVCreating a big picture out of all the important little details
+p252
+aVthat make up who we are.
+p253
+aa(lp254
+VWith humanized technology we can monitor the quality of your sleep cycles.
+p255
+aVWhen our productivity starts to slacken, we can go back to that data
+p256
+aVand see how we can make more effective balance between work and play.
+p257
+aVDo you know what causes fatigue in you or what brings out your energetic self,
+p258
+aVwhat triggers cause you to be depressed
+p259
+aVor what fun things are going to bring you out of that funk?
+p260
+aVImagine if you had access to data
+p261
+aVthat allowed you to rank on a scale of overall happiness
+p262
+aVwhich people in your life made you the happiest,
+p263
+aVor what activities brought you joy.
+p264
+aVWould you make more time for those people? Would you prioritize?
+p265
+aVWould you get a divorce?
+p266
+aa(lp267
+V(Laughter)
+p268
+aa(lp269
+VWhat thought-controlled computing can allow you to do
+p270
+aVis build colorful layered pictures of our lives.
+p271
+aVAnd with this, we can get the skinny on our psychological happenings
+p272
+aVand build a story of our behaviors over time.
+p273
+aVWe can begin to see the underlying narratives that propel us forward
+p274
+aVand tell us about what's going on.
+p275
+aVAnd from this, we can learn how to change the plot, the outcome
+p276
+aVand the character of our personal stories.
+p277
+aa(lp278
+VTwo millennia ago, those Greeks had some powerful insights.
+p279
+aVThey knew that a fundamental piece falls into place
+p280
+aVwhen you start to live out their little phrase,
+p281
+aVwhen you come into contact with yourself.
+p282
+aVThey understood the power of human narrative
+p283
+aVand the value that we place on humans as changing, evolving and growing.
+p284
+aVBut they understood something more fundamental \u2014
+p285
+aVthe sheer joy in discovery,
+p286
+aVthe delight and fascination that we get from the world
+p287
+aVand being ourselves in it;
+p288
+aVthe richness that we get from seeing, feeling and knowing the lives that we are.
+p289
+aa(lp290
+VMy mom's an artist,
+p291
+aVand as a child, I'd often see her bring things to life with the stroke of a brush.
+p292
+aVOne moment, it was all white space, pure possibility.
+p293
+aVThe next, it was alive with her colorful ideas and expressions.
+p294
+aVAs I sat easel-side, watching her transform canvas after canvas,
+p295
+aVI learned that you could create your own world.
+p296
+aVI learned that our own inner worlds \u2014
+p297
+aVour ideas, emotions and imaginations \u2014
+p298
+aVwere, in fact, not bound by our brains and bodies.
+p299
+aVIf you could think it, if you could discover it,
+p300
+aVyou could bring it to life.
+p301
+aa(lp302
+VTo me, thought-controlled computing
+p303
+aVis as simple and powerful as a paintbrush \u2014
+p304
+aVone more tool to unlock and enliven the hidden worlds within us.
+p305
+aVI look forward to the day that I can sit beside you, easel-side,
+p306
+aVwatching the world that we can create with our new toolboxes
+p307
+aVand the discoveries that we can make about ourselves.
+p308
+aa(lp309
+VThank you.
+p310
+aa(lp311
+V(Applause)
+p312
+aasS'id'
+p313
+I1338
+sS'title'
+p314
+VKnow thyself, with a brain scanner
+p315
+s.

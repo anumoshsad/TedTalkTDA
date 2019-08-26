@@ -1,0 +1,614 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI am a neuroscientist
+p4
+aVwith a mixed background in physics and medicine.
+p5
+aVMy lab at the Swiss Federal Institute of Technology
+p6
+aVfocuses on spinal cord injury,
+p7
+aVwhich affects more than 50,000 people
+p8
+aVaround the world every year,
+p9
+aVwith dramatic consequences for affected individuals,
+p10
+aVwhose life literally shatters
+p11
+aVin a matter of a handful of seconds.
+p12
+aa(lp13
+VAnd for me, the Man of Steel,
+p14
+aVChristopher Reeve,
+p15
+aVhas best raised the awareness
+p16
+aVon the distress of spinal cord injured people.
+p17
+aVAnd this is how I started my own personal journey
+p18
+aVin this field of research,
+p19
+aVworking with the Christopher and Dana Reeve Foundation.
+p20
+aa(lp21
+VI still remember this decisive moment.
+p22
+aVIt was just at the end of a regular day of work
+p23
+aVwith the foundation.
+p24
+aVChris addressed us, the scientists and experts,
+p25
+aV"You have to be more pragmatic.
+p26
+aVWhen leaving your laboratory tomorrow,
+p27
+aVI want you to stop by the rehabilitation center
+p28
+aVto watch injured people
+p29
+aVfighting to take a step,
+p30
+aVstruggling to maintain their trunk.
+p31
+aVAnd when you go home,
+p32
+aVthink of what you are going to change in your research
+p33
+aVon the following day to make their lives better."
+p34
+aa(lp35
+VThese words, they stuck with me.
+p36
+aVThis was more than 10 years ago,
+p37
+aVbut ever since, my laboratory has followed
+p38
+aVthe pragmatic approach to recovery
+p39
+aVafter spinal cord injury.
+p40
+aVAnd my first step in this direction
+p41
+aVwas to develop a new model of spinal cord injury
+p42
+aVthat would more closely mimic some of the key features of human injury
+p43
+aVwhile offering well-controlled experimental conditions.
+p44
+aVAnd for this purpose, we placed two hemisections
+p45
+aVon opposite sides of the body.
+p46
+aVThey completely interrupt the communication
+p47
+aVbetween the brain and the spinal cord,
+p48
+aVthus leading to complete and permanent paralysis
+p49
+aVof the leg.
+p50
+aVBut, as observed, after most injuries in humans,
+p51
+aVthere is this intervening gap of intact neural tissue
+p52
+aVthrough which recovery can occur.
+p53
+aVBut how to make it happen?
+p54
+aa(lp55
+VWell, the classical approach
+p56
+aVconsists of applying intervention
+p57
+aVthat would promote the growth of the severed fiber
+p58
+aVto the original target.
+p59
+aVAnd while this certainly remained the key for a cure,
+p60
+aVthis seemed extraordinarily complicated to me.
+p61
+aVTo reach clinical fruition rapidly,
+p62
+aVit was obvious:
+p63
+aVI had to think about the problem differently.
+p64
+aa(lp65
+VIt turned out that more than 100 years of research
+p66
+aVon spinal cord physiology,
+p67
+aVstarting with the Nobel Prize Sherrington,
+p68
+aVhad shown that
+p69
+aVthe spinal cord, below most injuries,
+p70
+aVcontained all the necessary and sufficient neural networks
+p71
+aVto coordinate locomotion,
+p72
+aVbut because input from the brain is interrupted,
+p73
+aVthey are in a nonfunctional state, like kind of dormant.
+p74
+aVMy idea: We awaken this network.
+p75
+aa(lp76
+VAnd at the time, I was a post-doctoral fellow in Los Angeles,
+p77
+aVafter completing my Ph.D. in France,
+p78
+aVwhere independent thinking
+p79
+aVis not necessarily promoted.
+p80
+aV(Laughter)
+p81
+aVI was afraid to talk to my new boss,
+p82
+aVbut decided to muster up my courage.
+p83
+aVI knocked at the door of my wonderful advisor,
+p84
+aVReggie Edgerton, to share my new idea.
+p85
+aa(lp86
+VHe listened to me carefully,
+p87
+aVand responded with a grin.
+p88
+aV"Why don't you try?"
+p89
+aa(lp90
+VAnd I promise to you,
+p91
+aVthis was such an important moment in my career,
+p92
+aVwhen I realized that the great leader
+p93
+aVbelieved in young people and new ideas.
+p94
+aa(lp95
+VAnd this was the idea:
+p96
+aVI'm going to use a simplistic metaphor
+p97
+aVto explain to you this complicated concept.
+p98
+aVImagine that the locomotor system is a car.
+p99
+aVThe engine is the spinal cord.
+p100
+aVThe transmission is interrupted. The engine is turned off.
+p101
+aVHow could we re-engage the engine?
+p102
+aVFirst, we have to provide the fuel;
+p103
+aVsecond, press the accelerator pedal;
+p104
+aVthird, steer the car.
+p105
+aVIt turned out that there are known neural pathways
+p106
+aVcoming from the brain that play this very function
+p107
+aVduring locomotion.
+p108
+aVMy idea: Replace this missing input
+p109
+aVto provide the spinal cord
+p110
+aVwith the kind of intervention
+p111
+aVthat the brain would deliver naturally in order to walk.
+p112
+aa(lp113
+VFor this, I leveraged 20 years of past research in neuroscience,
+p114
+aVfirst to replace the missing fuel
+p115
+aVwith pharmacological agents
+p116
+aVthat prepare the neurons in the spinal cord to fire,
+p117
+aVand second, to mimic the accelerator pedal
+p118
+aVwith electrical stimulation.
+p119
+aVSo here imagine an electrode
+p120
+aVimplanted on the back of the spinal cord
+p121
+aVto deliver painless stimulation.
+p122
+aVIt took many years, but eventually we developed
+p123
+aVan electrochemical neuroprosthesis
+p124
+aVthat transformed the neural network
+p125
+aVin the spinal cord from dormant to a highly functional state.
+p126
+aVImmediately, the paralyzed rat can stand.
+p127
+aVAs soon as the treadmill belt starts moving,
+p128
+aVthe animal shows coordinated movement of the leg,
+p129
+aVbut without the brain.
+p130
+aVHere what I call "the spinal brain"
+p131
+aVcognitively processes sensory information
+p132
+aVarising from the moving leg
+p133
+aVand makes decisions as to how to activate the muscle
+p134
+aVin order to stand, to walk, to run,
+p135
+aVand even here, while sprinting,
+p136
+aVinstantly stand
+p137
+aVif the treadmill stops moving.
+p138
+aa(lp139
+VThis was amazing.
+p140
+aVI was completely fascinated by this locomotion
+p141
+aVwithout the brain,
+p142
+aVbut at the same time so frustrated.
+p143
+aVThis locomotion was completely involuntary.
+p144
+aVThe animal had virtually no control over the legs.
+p145
+aVClearly, the steering system was missing.
+p146
+aVAnd it then became obvious from me
+p147
+aVthat we had to move away
+p148
+aVfrom the classical rehabilitation paradigm,
+p149
+aVstepping on a treadmill,
+p150
+aVand develop conditions that would encourage
+p151
+aVthe brain to begin voluntary control over the leg.
+p152
+aa(lp153
+VWith this in mind, we developed a completely new
+p154
+aVrobotic system to support the rat
+p155
+aVin any direction of space.
+p156
+aVImagine, this is really cool.
+p157
+aVSo imagine the little 200-gram rat
+p158
+aVattached at the extremity of this 200-kilo robot,
+p159
+aVbut the rat does not feel the robot.
+p160
+aVThe robot is transparent,
+p161
+aVjust like you would hold a young child
+p162
+aVduring the first insecure steps.
+p163
+aa(lp164
+VLet me summarize: The rat received
+p165
+aVa paralyzing lesion of the spinal cord.
+p166
+aVThe electrochemical neuroprosthesis enabled
+p167
+aVa highly functional state of the spinal locomotor networks.
+p168
+aVThe robot provided the safe environment
+p169
+aVto allow the rat to attempt anything
+p170
+aVto engage the paralyzed legs.
+p171
+aVAnd for motivation, we used what I think
+p172
+aVis the most powerful pharmacology of Switzerland:
+p173
+aVfine Swiss chocolate.
+p174
+aa(lp175
+V(Laughter)
+p176
+aa(lp177
+VActually, the first results were very, very,
+p178
+aVvery disappointing.
+p179
+aVHere is my best physical therapist
+p180
+aVcompletely failing to encourage the rat
+p181
+aVto take a single step,
+p182
+aVwhereas the same rat, five minutes earlier,
+p183
+aVwalked beautifully on the treadmill.
+p184
+aVWe were so frustrated.
+p185
+aa(lp186
+VBut you know, one of the most essential qualities
+p187
+aVof a scientist is perseverance.
+p188
+aVWe insisted. We refined our paradigm,
+p189
+aVand after several months of training,
+p190
+aVthe otherwise paralyzed rat could stand,
+p191
+aVand whenever she decided,
+p192
+aVinitiated full weight-bearing locomotion
+p193
+aVto sprint towards the rewards.
+p194
+aVThis is the first recovery ever observed
+p195
+aVof voluntary leg movement
+p196
+aVafter an experimental lesion of the spinal cord
+p197
+aVleading to complete and permanent paralysis.
+p198
+aa(lp199
+VIn fact \u2014
+p200
+aa(lp201
+V(Applause)
+p202
+aa(lp203
+VThank you.
+p204
+aa(lp205
+VIn fact, not only could the rat initiate
+p206
+aVand sustain locomotion on the ground,
+p207
+aVthey could even adjust leg movement,
+p208
+aVfor example, to resist gravity
+p209
+aVin order to climb a staircase.
+p210
+aVI can promise you this was
+p211
+aVsuch an emotional moment in my laboratory.
+p212
+aVIt took us 10 years of hard work
+p213
+aVto reach this goal.
+p214
+aa(lp215
+VBut the remaining question was, how?
+p216
+aVI mean, how is it possible?
+p217
+aVAnd here, what we found
+p218
+aVwas completely unexpected.
+p219
+aVThis novel training paradigm
+p220
+aVencouraged the brain to create new connections,
+p221
+aVsome relay circuits
+p222
+aVthat relay information from the brain
+p223
+aVpast the injury and restore cortical control
+p224
+aVover the locomotor networks below the injury.
+p225
+aVAnd here, you can see one such example,
+p226
+aVwhere we label the fibers coming from the brain in red.
+p227
+aVThis blue neuron is connected with the locomotor center,
+p228
+aVand what this constellation
+p229
+aVof synaptic contacts means
+p230
+aVis that the brain is reconnected with the locomotor center
+p231
+aVwith only one relay neuron.
+p232
+aVBut the remodeling was not restricted
+p233
+aVto the lesion area.
+p234
+aVIt occurred throughout the central nervous system,
+p235
+aVincluding in the brain stem,
+p236
+aVwhere we observed up to 300-percent increase
+p237
+aVin the density of fibers coming from the brain.
+p238
+aVWe did not aim to repair the spinal cord,
+p239
+aVyet we were able to promote
+p240
+aVone of the more extensive remodeling
+p241
+aVof axonal projections ever observed
+p242
+aVin the central nervous system of adult mammal
+p243
+aVafter an injury.
+p244
+aa(lp245
+VAnd there is a very important message
+p246
+aVhidden behind this discovery.
+p247
+aVThey are the result of a young team
+p248
+aVof very talented people:
+p249
+aVphysical therapists, neurobiologists, neurosurgeons,
+p250
+aVengineers of all kinds,
+p251
+aVwho have achieved together
+p252
+aVwhat would have been impossible by single individuals.
+p253
+aVThis is truly a trans-disciplinary team.
+p254
+aVThey are working so close to each other
+p255
+aVthat there is horizontal transfer of DNA.
+p256
+aVWe are creating the next generation
+p257
+aVof M.D.'s and engineers
+p258
+aVcapable of translating discoveries all the way
+p259
+aVfrom bench to bedside.
+p260
+aVAnd me?
+p261
+aVI am only the maestro who orchestrated this beautiful symphony.
+p262
+aa(lp263
+VNow, I am sure you are all wondering, aren't you,
+p264
+aVwill this help injured people?
+p265
+aVMe too, every day.
+p266
+aVThe truth is that we don't know enough yet.
+p267
+aVThis is certainly not a cure for spinal cord injury,
+p268
+aVbut I begin to believe that this may lead
+p269
+aVto an intervention to improve recovery
+p270
+aVand people's quality of life.
+p271
+aa(lp272
+VI would like you all
+p273
+aVto take a moment and dream with me.
+p274
+aVImagine a person just suffered a spinal cord injury.
+p275
+aVAfter a few weeks of recovery,
+p276
+aVwe will implant a programmable pump
+p277
+aVto deliver a personalized pharmacological cocktail
+p278
+aVdirectly to the spinal cord.
+p279
+aVAt the same time, we will implant an electrode array,
+p280
+aVa sort of second skin
+p281
+aVcovering the area of the spinal cord controlling leg movement,
+p282
+aVand this array is attached to an electrical pulse generator
+p283
+aVthat delivers stimulations that are tailored
+p284
+aVto the person's needs.
+p285
+aVThis defines a personalized electrochemical neuroprosthesis
+p286
+aVthat will enable locomotion
+p287
+aVduring training with a newly designed supporting system.
+p288
+aVAnd my hope is that after several months of training,
+p289
+aVthere may be enough remodeling of residual connection
+p290
+aVto allow locomotion without the robot,
+p291
+aVmaybe even without pharmacology or stimulation.
+p292
+aVMy hope here is to be able to create
+p293
+aVthe personalized condition
+p294
+aVto boost the plasticity of the brain
+p295
+aVand the spinal cord.
+p296
+aVAnd this is a radically new concept
+p297
+aVthat may apply to other neurological disorders,
+p298
+aVwhat I termed "personalized neuroprosthetics,"
+p299
+aVwhere by sensing and stimulating neural interfaces,
+p300
+aVI implanted throughout the nervous system,
+p301
+aVin the brain, in the spinal cord,
+p302
+aVeven in peripheral nerves,
+p303
+aVbased on patient-specific impairments.
+p304
+aVBut not to replace the lost function, no \u2014
+p305
+aVto help the brain help itself.
+p306
+aa(lp307
+VAnd I hope this enticed your imagination,
+p308
+aVbecause I can promise to you
+p309
+aVthis is not a matter of whether this revolution will occur,
+p310
+aVbut when.
+p311
+aVAnd remember, we are only as great
+p312
+aVas our imagination, as big as our dream.
+p313
+aa(lp314
+VThank you.
+p315
+aa(lp316
+V(Applause)
+p317
+aasS'id'
+p318
+I1860
+sS'title'
+p319
+VThe paralyzed rat that walked
+p320
+s.

@@ -1,0 +1,695 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhat technology can we really apply to reducing global poverty?
+p4
+aVAnd what I found was quite surprising.
+p5
+aVWe started looking at things like death rates in the 20th century,
+p6
+aVand how they'd been improved, and very simple things turned out.
+p7
+aVYou'd think maybe antibiotics made more difference than clean water,
+p8
+aVbut it's actually the opposite.
+p9
+aVAnd so very simple things \u2014 off-the-shelf technologies
+p10
+aVthat we could easily find on the then-early Web \u2014
+p11
+aVwould clearly make a huge difference to that problem.
+p12
+aa(lp13
+VBut I also, in looking at more powerful technologies
+p14
+aVand nanotechnology and genetic engineering and other new emerging
+p15
+aVkind of digital technologies, became very concerned
+p16
+aVabout the potential for abuse.
+p17
+aVIf you think about it, in history, a long, long time ago
+p18
+aVwe dealt with the problem of an individual abusing another individual.
+p19
+aVWe came up with something \u2014 the Ten Commandments: Thou shalt not kill.
+p20
+aVThat's a, kind of a one-on-one thing.
+p21
+aVWe organized into cities. We had many people.
+p22
+aVAnd to keep the many from tyrannizing the one,
+p23
+aVwe came up with concepts like individual liberty.
+p24
+aVAnd then, to have to deal with large groups,
+p25
+aVsay, at the nation-state level,
+p26
+aVand we had to have mutual non-aggression,
+p27
+aVor through a series of conflicts, we eventually came to
+p28
+aVa rough international bargain to largely keep the peace.
+p29
+aa(lp30
+VBut now we have a new situation, really what people call
+p31
+aVan asymmetric situation, where technology is so powerful
+p32
+aVthat it extends beyond a nation-state.
+p33
+aVIt's not the nation-states that have potential access
+p34
+aVto mass destruction, but individuals.
+p35
+aVAnd this is a consequence of the fact that these new technologies tend to be digital.
+p36
+aVWe saw genome sequences.
+p37
+aVYou can download the gene sequences
+p38
+aVof pathogens off the Internet if you want to,
+p39
+aVand clearly someone recently \u2014 I saw in a science magazine \u2014
+p40
+aVthey said, well, the 1918 flu is too dangerous to FedEx around.
+p41
+aVIf people want to use it in their labs for working on research,
+p42
+aVjust reconstruct it yourself,
+p43
+aVbecause, you know, it might break in FedEx.
+p44
+aVSo that this is possible to do this is not deniable.
+p45
+aa(lp46
+VSo individuals in small groups super-empowered by access to these
+p47
+aVkinds of self-replicating technologies, whether it be biological
+p48
+aVor other, are clearly a danger in our world.
+p49
+aVAnd the danger is that they can cause roughly what's a pandemic.
+p50
+aVAnd we really don't have experience with pandemics,
+p51
+aVand we're also not very good as a society at acting
+p52
+aVto things we don't have direct and sort of gut-level experience with.
+p53
+aVSo it's not in our nature to pre-act.
+p54
+aVAnd in this case, piling on more technology doesn't solve the problem,
+p55
+aVbecause it only super-empowers people more.
+p56
+aa(lp57
+VSo the solution has to be, as people like Russell and Einstein
+p58
+aVand others imagine in a conversation that existed
+p59
+aVin a much stronger form, I think, early in the 20th century,
+p60
+aVthat the solution had to be not just the head but the heart.
+p61
+aVYou know, public policy and moral progress.
+p62
+aVThe bargain that gives us civilization is a bargain to not use power.
+p63
+aVWe get our individual rights by society protecting us from others
+p64
+aVnot doing everything they can do but largely doing only what is legal.
+p65
+aVAnd so to limit the danger of these new things, we have to limit,
+p66
+aVultimately, the ability of individuals
+p67
+aVto have access, essentially, to pandemic power.
+p68
+aVWe also have to have sensible defense, because no limitation
+p69
+aVis going to prevent a crazy person from doing something.
+p70
+aVAnd you know, and the troubling thing is that
+p71
+aVit's much easier to do something bad than to defend
+p72
+aVagainst all possible bad things,
+p73
+aVso the offensive uses really have an asymmetric advantage.
+p74
+aa(lp75
+VSo these are the kind of thoughts I was thinking in 1999 and 2000,
+p76
+aVand my friends told me I was getting really depressed,
+p77
+aVand they were really worried about me.
+p78
+aVAnd then I signed a book contract to write more gloomy thoughts about this
+p79
+aVand moved into a hotel room in New York
+p80
+aVwith one room full of books on the Plague,
+p81
+aVand you know, nuclear bombs exploding in New York
+p82
+aVwhere I would be within the circle, and so on.
+p83
+aVAnd then I was there on September 11th,
+p84
+aVand I stood in the streets with everyone.
+p85
+aVAnd it was quite an experience to be there.
+p86
+aVI got up the next morning and walked out of the city,
+p87
+aVand all the sanitation trucks were parked on Houston Street
+p88
+aVand ready to go down and start taking the rubble away.
+p89
+aVAnd I walked down the middle, up to the train station,
+p90
+aVand everything below 14th Street was closed.
+p91
+aVIt was quite a compelling experience, but not really, I suppose,
+p92
+aVa surprise to someone who'd had his room full of the books.
+p93
+aVIt was always a surprise that it happened then and there,
+p94
+aVbut it wasn't a surprise that it happened at all.
+p95
+aa(lp96
+VAnd everyone then started writing about this.
+p97
+aVThousands of people started writing about this.
+p98
+aVAnd I eventually abandoned the book, and then Chris called me
+p99
+aVto talk at the conference. I really don't talk about this anymore
+p100
+aVbecause, you know, there's enough frustrating and depressing things going on.
+p101
+aVBut I agreed to come and say a few things about this.
+p102
+aVAnd I would say that we can't give up the rule of law
+p103
+aVto fight an asymmetric threat, which is what we seem to be doing
+p104
+aVbecause of the present, the people that are in power,
+p105
+aVbecause that's to give up the thing that makes civilization.
+p106
+aVAnd we can't fight the threat in the kind of stupid way we're doing,
+p107
+aVbecause a million-dollar act
+p108
+aVcauses a billion dollars of damage, causes a trillion dollar response
+p109
+aVwhich is largely ineffective and arguably, probably almost certainly,
+p110
+aVhas made the problem worse.
+p111
+aVSo we can't fight the thing with a million-to-one cost,
+p112
+aVone-to-a-million cost-benefit ratio.
+p113
+aa(lp114
+VSo after giving up on the book \u2014 and I had the great honor
+p115
+aVto be able to join Kleiner Perkins about a year ago,
+p116
+aVand to work through venture capital on the innovative side,
+p117
+aVand to try to find some innovations that could address what I saw as
+p118
+aVsome of these big problems.
+p119
+aVThings where, you know, a factor of 10 difference
+p120
+aVcan make a factor of 1,000 difference in the outcome.
+p121
+aVI've been amazed in the last year at the incredible quality
+p122
+aVand excitement of the innovations that have come across my desk.
+p123
+aVIt's overwhelming at times. I'm very thankful for Google and Wikipedia
+p124
+aVso I can understand at least a little of what people are talking about
+p125
+aVwho come through the doors.
+p126
+aa(lp127
+VBut I wanted to share with you three areas
+p128
+aVthat I'm particularly excited about and that relate to the problems
+p129
+aVthat I was talking about in the Wired article.
+p130
+aVThe first is this whole area of education,
+p131
+aVand it really relates to what Nicholas was talking about with a $100 computer.
+p132
+aVAnd that is to say that there's a lot of legs left in Moore's Law.
+p133
+aVThe most advanced transistors today are at 65 nanometers,
+p134
+aVand we've seen, and I've had the pleasure to invest
+p135
+aVin, companies that give me great confidence that we'll extend Moore's Law
+p136
+aVall the way down to roughly the 10 nanometer scale.
+p137
+aVAnother factor of, say, six in dimensional reduction,
+p138
+aVwhich should give us about another factor of 100 in raw improvement
+p139
+aVin what the chips can do. And so, to put that in practical terms,
+p140
+aVif something costs about 1,000 dollars today,
+p141
+aVsay, the best personal computer you can buy, that might be its cost,
+p142
+aVI think we can have that in 2020 for 10 dollars. Okay?
+p143
+aVNow, just imagine what that $100 computer will be in 2020
+p144
+aVas a tool for education.
+p145
+aa(lp146
+VI think the challenge for us is \u2014
+p147
+aVI'm very certain that that will happen, the challenge is,
+p148
+aVwill we develop the kind of educational tools and things with the net
+p149
+aVto let us take advantage of that device?
+p150
+aVI'd argue today that we have incredibly powerful computers,
+p151
+aVbut we don't have very good software for them.
+p152
+aVAnd it's only in retrospect, after the better software comes along,
+p153
+aVand you take it and you run it on a ten-year-old machine, you say,
+p154
+aVGod, the machine was that fast?
+p155
+aVI remember when they took the Apple Mac interface
+p156
+aVand they put it back on the Apple II.
+p157
+aVThe Apple II was perfectly capable of running that kind of interface,
+p158
+aVwe just didn't know how to do it at the time.
+p159
+aVSo given that we know and should believe \u2014
+p160
+aVbecause Moore's Law's been, like, a constant,
+p161
+aVI mean, it's just been very predictable progress
+p162
+aVover the last 40 years or whatever.
+p163
+aVWe can know what the computers are going to be like in 2020.
+p164
+aVIt's great that we have initiatives to say,
+p165
+aVlet's go create the education and educate people in the world,
+p166
+aVbecause that's a great force for peace.
+p167
+aVAnd we can give everyone in the world a $100 computer
+p168
+aVor a $10 computer in the next 15 years.
+p169
+aa(lp170
+VThe second area that I'm focusing on is the environmental problem,
+p171
+aVbecause that's clearly going to put a lot of pressure on this world.
+p172
+aVWe'll hear a lot more about that from Al Gore very shortly.
+p173
+aVThe thing that we see as the kind of Moore's Law trend
+p174
+aVthat's driving improvement in our ability to address
+p175
+aVthe environmental problem is new materials.
+p176
+aVWe have a challenge, because the urban population is growing
+p177
+aVin this century from two billion to six billion
+p178
+aVin a very short amount of time. People are moving to the cities.
+p179
+aVThey all need clean water, they need energy, they need transportation,
+p180
+aVand we want them to develop in a green way.
+p181
+aVWe're reasonably efficient in the industrial sectors.
+p182
+aVWe've made improvements in energy and resource efficiency,
+p183
+aVbut the consumer sector, especially in America, is very inefficient.
+p184
+aVBut these new materials bring such incredible innovations
+p185
+aVthat there's a strong basis for hope that these things
+p186
+aVwill be so profitable that they can be brought to the market.
+p187
+aa(lp188
+VAnd I want to give you a specific example of a new material
+p189
+aVthat was discovered 15 years ago.
+p190
+aVIf we take carbon nanotubes, you know, Iijima discovered them in 1991,
+p191
+aVthey just have incredible properties.
+p192
+aVAnd these are the kinds of things we're going to discover
+p193
+aVas we start to engineer at the nano scale.
+p194
+aVTheir strength: they're almost the strongest material,
+p195
+aVtensile strength material known.
+p196
+aVThey're very, very stiff. They stretch very, very little.
+p197
+aVIn two dimensions, if you make, like, a fabric out of them,
+p198
+aVthey're 30 times stronger than Kevlar.
+p199
+aVAnd if you make a three-dimensional structure, like a buckyball,
+p200
+aVthey have all sorts of incredible properties.
+p201
+aVIf you shoot a particle at them and knock a hole in them,
+p202
+aVthey repair themselves; they go zip and they repair the hole
+p203
+aVin femtoseconds, which is not \u2014 is really quick.
+p204
+aV(Laughter)
+p205
+aVIf you shine a light on them, they produce electricity.
+p206
+aVIn fact, if you flash them with a camera they catch on fire.
+p207
+aVIf you put electricity on them, they emit light.
+p208
+aVIf you run current through them, you can run 1,000 times more current
+p209
+aVthrough one of these than through a piece of metal.
+p210
+aVYou can make both p- and n-type semiconductors,
+p211
+aVwhich means you can make transistors out of them.
+p212
+aVThey conduct heat along their length but not across \u2014
+p213
+aVwell, there is no width, but not in the other direction
+p214
+aVif you stack them up; that's a property of carbon fiber also.
+p215
+aVIf you put particles in them, and they go shooting out the tip \u2014
+p216
+aVthey're like miniature linear accelerators or electron guns.
+p217
+aVThe inside of the nanotubes is so small \u2014
+p218
+aVthe smallest ones are 0.7 nanometers \u2014
+p219
+aVthat it's basically a quantum world.
+p220
+aVIt's a strange place inside a nanotube.
+p221
+aa(lp222
+VAnd so we begin to see, and we've seen business plans already,
+p223
+aVwhere the kind of things Lisa Randall's talking about are in there.
+p224
+aVI had one business plan where I was trying to learn more about
+p225
+aVWitten's cosmic dimension strings to try to understand
+p226
+aVwhat the phenomenon was going on in this proposed nanomaterial.
+p227
+aVSo inside of a nanotube, we're really at the limit here.
+p228
+aVSo what we see is with these and other new materials
+p229
+aVthat we can do things with different properties \u2014 lighter, stronger \u2014
+p230
+aVand apply these new materials to the environmental problems.
+p231
+aVNew materials that can make water,
+p232
+aVnew materials that can make fuel cells work better,
+p233
+aVnew materials that catalyze chemical reactions,
+p234
+aVthat cut pollution and so on.
+p235
+aVEthanol \u2014 new ways of making ethanol.
+p236
+aVNew ways of making electric transportation.
+p237
+aVThe whole green dream \u2014 because it can be profitable.
+p238
+aVAnd we've dedicated \u2014 we've just raised a new fund,
+p239
+aVwe dedicated 100 million dollars to these kinds of investments.
+p240
+aVWe believe that Genentech, the Compaq, the Lotus, the Sun,
+p241
+aVthe Netscape, the Amazon, the Google in these fields
+p242
+aVare yet to be found, because this materials revolution
+p243
+aVwill drive these things forward.
+p244
+aa(lp245
+VThe third area that we're working on,
+p246
+aVand we just announced last week \u2014 we were all in New York.
+p247
+aVWe raised 200 million dollars in a specialty fund
+p248
+aVto work on a pandemic in biodefense.
+p249
+aVAnd to give you an idea of the last fund that Kleiner raised
+p250
+aVwas a $400 million fund, so this for us is a very substantial fund.
+p251
+aVAnd what we did, over the last few months \u2014 well, a few months ago,
+p252
+aVRay Kurzweil and I wrote an op-ed in the New York Times
+p253
+aVabout how publishing the 1918 genome was very dangerous.
+p254
+aVAnd John Doerr and Brook and others got concerned, [unclear],
+p255
+aVand we started looking around at what the world was doing
+p256
+aVabout being prepared for a pandemic. And we saw a lot of gaps.
+p257
+aa(lp258
+VAnd so we asked ourselves, you know, can we find innovative things
+p259
+aVthat will go fill these gaps? And Brooks told me in a break here,
+p260
+aVhe said he's found so much stuff he can't sleep,
+p261
+aVbecause there's so many great technologies out there,
+p262
+aVwe're essentially buried. And we need them, you know.
+p263
+aVWe have one antiviral that people are talking about stockpiling
+p264
+aVthat still works, roughly. That's Tamiflu.
+p265
+aVBut Tamiflu \u2014 the virus is resistant. It is resistant to Tamiflu.
+p266
+aVWe've discovered with AIDS we need cocktails to work well
+p267
+aVso that the viral resistance \u2014 we need several anti-virals.
+p268
+aVWe need better surveillance.
+p269
+aVWe need networks that can find out what's going on.
+p270
+aVWe need rapid diagnostics so that we can tell if somebody has
+p271
+aVa strain of flu which we have only identified very recently.
+p272
+aVWe've got to be able to make the rapid diagnostics quickly.
+p273
+aVWe need new anti-virals and cocktails. We need new kinds of vaccines.
+p274
+aVVaccines that are broad spectrum.
+p275
+aVVaccines that we can manufacture quickly.
+p276
+aVCocktails, more polyvalent vaccines.
+p277
+aVYou normally get a trivalent vaccine against three possible strains.
+p278
+aVWe need \u2014 we don't know where this thing is going.
+p279
+aVWe believe that if we could fill these 10 gaps,
+p280
+aVwe have a chance to help really reduce the risk of a pandemic.
+p281
+aVAnd the difference between a normal flu season and a pandemic
+p282
+aVis about a factor of 1,000 in deaths
+p283
+aVand certainly enormous economic impact.
+p284
+aVSo we're very excited because we think we can fund 10,
+p285
+aVor speed up 10 projects and see them come to market
+p286
+aVin the next couple years that will address this.
+p287
+aa(lp288
+VSo if we can address, use technology, help address education,
+p289
+aVhelp address the environment, help address the pandemic,
+p290
+aVdoes that solve the larger problem that I was talking about
+p291
+aVin the Wired article? And I'm afraid the answer is really no,
+p292
+aVbecause you can't solve a problem with the management of technology
+p293
+aVwith more technology.
+p294
+aVIf we let an unlimited amount of power loose, then we will \u2014
+p295
+aVa very small number of people will be able to abuse it.
+p296
+aVWe can't fight at a million-to-one disadvantage.
+p297
+aVSo what we need to do is, we need better policy.
+p298
+aVAnd for example, some things we could do
+p299
+aVthat would be policy solutions which are not really in the political air right now
+p300
+aVbut perhaps with the change of administration would be \u2014 use markets.
+p301
+aa(lp302
+VMarkets are a very strong force.
+p303
+aVFor example, rather than trying to regulate away problems,
+p304
+aVwhich probably won't work, if we could price
+p305
+aVinto the cost of doing business, the cost of catastrophe,
+p306
+aVso that people who are doing things that had a higher cost of catastrophe
+p307
+aVwould have to take insurance against that risk.
+p308
+aVSo if you wanted to put a drug on the market you could put it on.
+p309
+aVBut it wouldn't have to be approved by regulators;
+p310
+aVyou'd have to convince an actuary that it would be safe.
+p311
+aVAnd if you apply the notion of insurance more broadly,
+p312
+aVyou can use a more powerful force, a market force,
+p313
+aVto provide feedback.
+p314
+aVHow could you keep the law?
+p315
+aVI think the law would be a really good thing to keep.
+p316
+aVWell, you have to hold people accountable.
+p317
+aVThe law requires accountability.
+p318
+aVToday scientists, technologists, businessmen, engineers
+p319
+aVdon't have any personal responsibility
+p320
+aVfor the consequences of their actions.
+p321
+aVSo if you tie that \u2014 you have to tie that back with the law.
+p322
+aa(lp323
+VAnd finally, I think we have to do something that's not really \u2014
+p324
+aVit's almost unacceptable to say this \u2014 which,
+p325
+aVwe have to begin to design the future.
+p326
+aVWe can't pick the future, but we can steer the future.
+p327
+aVOur investment in trying to prevent pandemic flu
+p328
+aVis affecting the distribution of possible outcomes.
+p329
+aVWe may not be able to stop it, but the likelihood
+p330
+aVthat it will get past us is lower if we focus on that problem.
+p331
+aVSo we can design the future if we choose what kind of things
+p332
+aVwe want to have happen and not have happen,
+p333
+aVand steer us to a lower-risk place.
+p334
+aVVice President Gore will talk about how we could steer the climate trajectory
+p335
+aVinto a lower probability of catastrophic risk.
+p336
+aa(lp337
+VBut above all, what we have to do is we have to help the good guys,
+p338
+aVthe people on the defensive side,
+p339
+aVhave an advantage over the people who want to abuse things.
+p340
+aVAnd what we have to do to do that
+p341
+aVis we have to limit access to certain information.
+p342
+aVAnd growing up as we have, and holding very high
+p343
+aVthe value of free speech, this is a hard thing for us to accept \u2014
+p344
+aVfor all of us to accept.
+p345
+aVIt's especially hard for the scientists to accept who still remember,
+p346
+aVyou know, Galileo essentially locked up,
+p347
+aVand who are still fighting this battle against the church.
+p348
+aVBut that's the price of having a civilization.
+p349
+aVThe price of retaining the rule of law
+p350
+aVis to limit the access to the great and kind of unbridled power.
+p351
+aVThank you.
+p352
+aV(Applause)
+p353
+aasS'id'
+p354
+I405
+sS'title'
+p355
+VWhat I'm worried about, what I'm excited about
+p356
+s.

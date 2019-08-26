@@ -1,0 +1,675 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThank y'all!
+p4
+aa(lp5
+VThis is going to be a motivational speech.
+p6
+aVBecause \u2014
+p7
+aVimagine my motivation standing between this strong, healthy crowd ...
+p8
+aVand lunch.
+p9
+aa(lp10
+V(Laughter)
+p11
+aa(lp12
+VSo ...
+p13
+aVI'm @Falkvinge on Twitter.
+p14
+aVFeel free to quote me if I say something memorable, stupid, funny, whatever.
+p15
+aVI love seeing my name on Twitter.
+p16
+aa(lp17
+VSo ...
+p18
+aVHi! I'm Rick.
+p19
+aVI'm a politician.
+p20
+aVI'm sorry.
+p21
+aVHow many in here have heard of the Swedish Pirate Party before?
+p22
+aVLet's see a show of hands.
+p23
+aVOK, that's practically everybody.
+p24
+aVProbably due to the fact that we are Sweden's neighbor.
+p25
+aa(lp26
+VI frequently ask how many have heard of any other political party
+p27
+aVand there's always just scattered hands in the audience
+p28
+aVcompared to this first question which is one-half to two-thirds.
+p29
+aVThis is actually the first time ever that does not match.
+p30
+aVIt was practically everybody.
+p31
+aa(lp32
+VSo, for those who haven't heard of us:
+p33
+aVwell, the Pirate Party, we love the net.
+p34
+aVWe love copying and sharing, and we love civil liberties.
+p35
+aVFor that, some people call us pirates.
+p36
+aVProbably in an attempt to make us bow our heads and feel shame.
+p37
+aVThat didn't work very well.
+p38
+aVWe decided to stand tall about it instead.
+p39
+aa(lp40
+VAnd so in 2006, I founded a new political party.
+p41
+aVI led it for its first five years.
+p42
+aVAnd the European elections, the last European elections,
+p43
+aVwe became the largest party
+p44
+aVand the most coveted youth demographic, sub-30.
+p45
+aVAnd what's interesting is we did that
+p46
+aVon less than one percent of the competition's budget.
+p47
+aVWe had a campaign budget total of 50,000 euros.
+p48
+aVThey had six million between them \u2014 and we beat them.
+p49
+aVThat gave us a cost efficiency advantage of over two orders of magnitude.
+p50
+aVAnd I'm gonna share the secret recipe of how we did that.
+p51
+aa(lp52
+VWe developed swarm methodologies.
+p53
+aVAnd they can be applied to any business or social cause.
+p54
+aVWell, almost any \u2014
+p55
+aVthere's a small asterisk by the end,
+p56
+aVand I'll get to that in just a minute.
+p57
+aVBut applying these \u2014
+p58
+aVand we've done this dozens of times, we know that this works.
+p59
+aa(lp60
+VWe've put two people in the European Parliament,
+p61
+aVwe have 45 people in various German state parliaments,
+p62
+aVwe're in the Icelandic parliament, the Czech senate,
+p63
+aVmany, many, many more, local councils \u2014
+p64
+aVand, as said, we've spread to 70 countries.
+p65
+aVAnd that's not bad for a political movement
+p66
+aVthat hasn't even been around for a decade.
+p67
+aa(lp68
+VSo today we're going to talk a bit about \u2014
+p69
+aVhow people are motivated to be part of change,
+p70
+aVto be part of something bigger than themselves.
+p71
+aVAnd how you can channel this into an organization
+p72
+aVthat harnesses this great power of wanting to make the world a better place.
+p73
+aVAnd in the end, come out a little on the better.
+p74
+aa(lp75
+VWhen I speak to businesspeople, I frequently make them very upset
+p76
+aVwhen I contradict them
+p77
+aVand say that no, your employees are not your most valuable asset.
+p78
+aVYour most valuable asset is the thousands of people
+p79
+aVwho want to work for you for free.
+p80
+aVAnd you don't let them.
+p81
+aVThey get very upset about that.
+p82
+aa(lp83
+VA swarm is a congregation of tens of thousands of volunteers
+p84
+aVthat have chosen of their own will to converge on a common goal.
+p85
+aVThere's this "Futurama" quote:
+p86
+aV"When push comes to shove, you gotta do what you love \u2014
+p87
+aVeven if it's not a good idea."
+p88
+aa(lp89
+V(Laughter)
+p90
+aa(lp91
+VI mean, seriously, what kind of idiot thinks
+p92
+aVthey can change the world by starting a political party?
+p93
+aa(lp94
+V(Laughter)
+p95
+aa(lp96
+VThis kind of idiot, apparently.
+p97
+aVBut it works!
+p98
+aVWhat you need to do is to put a stake in the ground.
+p99
+aVYou need to announce your goal.
+p100
+aVJust say, "I want to accomplish this."
+p101
+aVI'm going to do this.
+p102
+aVAnd it doesn't need to be very costly.
+p103
+aa(lp104
+VMy announcement was just two lines in a chat channel.
+p105
+aV"Hey, look, the Pirate Party has its website up now after New Year's."
+p106
+aVAnd the address.
+p107
+aVThat was all the advertising I ever did.
+p108
+aVThe next time I had several hundred activists wanting to work with us.
+p109
+aa(lp110
+VWhen you provide such a focus point,
+p111
+aVa swarm intelligence emerges.
+p112
+aVWhen people can rally to a flag.
+p113
+aVAnd that's what gives you this two orders of magnitude of cost efficiency.
+p114
+aVIt's a huge advantage \u2014
+p115
+aVyou're running circles around all the legacy organizations.
+p116
+aVAnd there are four goals that need to be fulfilled in your goal
+p117
+aVin order for this to work.
+p118
+aa(lp119
+VThese four criteria are that your goal must be:
+p120
+aVtangible, credible, inclusive and epic.
+p121
+aa(lp122
+VLet's take a look at them: It needs to be tangible.
+p123
+aVA lot of people say,
+p124
+aV"Well, you know, we should make the world a better place,"
+p125
+aVor, "Yeah, we should all feel good now."
+p126
+aVNot going to work.
+p127
+aVYou need a binary.
+p128
+aVAre we there yet, or are we not there yet?
+p129
+aa(lp130
+VIt needs to be credible.
+p131
+aVSomebody seeing the project plan that you're posting needs to see
+p132
+aVthat, yes, this project plan will take us
+p133
+aVfrom where we are to where we want to be.
+p134
+aVYou need to break it down into subgoals
+p135
+aVthat each by themselves are seen as doable,
+p136
+aVand when you add the subgoals together,
+p137
+aVwe've gone to where we want.
+p138
+aa(lp139
+VIt needs to be \u2014
+p140
+aVand this is where it gets exciting in terms of working swarmwise \u2014
+p141
+aVit needs to be inclusive.
+p142
+aVAnybody who sees this project plan needs to immediately say,
+p143
+aV"I want to do this \u2014 and there's my spot!"
+p144
+aVAnd they will be able to jump right into the project
+p145
+aVand start working on it without asking anybody's permission.
+p146
+aVAnd that is exactly what'll happen.
+p147
+aa(lp148
+VAnd, last but not least, it needs to be epic.
+p149
+aVIt needs to energize people. It needs to electrify people.
+p150
+aVShoot for the moon!
+p151
+aVOn second thought, don't shoot for the moon,
+p152
+aVwe've already been there \u2014 shoot for Mars!
+p153
+aa(lp154
+V(Laughter)
+p155
+aa(lp156
+VIn contrast,
+p157
+aVyou will never be able to get a volunteer swarm forming
+p158
+aVaround making the most correct tax audit ever.
+p159
+aVDoesn't electrify people. Go to Mars.
+p160
+aa(lp161
+VA lot of people kind of balk at the obstacles.
+p162
+aVWe're going to climb a huge mountain.
+p163
+aVSo how do you motivate people to do that?
+p164
+aVWell, it turns out that obstacles are not the problem.
+p165
+aVNot knowing the obstacles is the problem.
+p166
+aVIf you know how high the mountain is,
+p167
+aVyou know exactly what it takes to scale it.
+p168
+aVWe know exactly how far away Mars is and what it takes to get there.
+p169
+aVIf you can plan it like a project,
+p170
+aVyou can plan what resources you need
+p171
+aVand you can execute it, exactly like a project.
+p172
+aa(lp173
+VLet's see: we're going to Mars,
+p174
+aVwe need two dozen volunteer rocket scientists,
+p175
+aVone dozen volunteer metallurgists,
+p176
+aVsome crazy dude who will mix rocket fuel in his backyard
+p177
+aVand so on.
+p178
+aa(lp179
+VWhen you can list the resources, you know what you need to get there.
+p180
+aVWhen you know what you need to get there, you can go there.
+p181
+aVAnd the next thing is to encourage this development of a swarm intelligence,
+p182
+aVwhich is where the cost efficiency comes in.
+p183
+aa(lp184
+VThere's a TED Talk on motivation that debunks that we work for money,
+p185
+aVand it presents science on how we're really motivated by three things,
+p186
+aVin terms of larger creative tasks,
+p187
+aVwhen we work for something bigger than ourselves.
+p188
+aa(lp189
+VWe work for autonomy, mastery and purpose.
+p190
+aVWe've covered purpose already.
+p191
+aVAs in, working for something bigger, tangible, credible, inclusive and epic.
+p192
+aVSo, where that motivation talk ends,
+p193
+aVwhat it doesn't answer is,
+p194
+aVhow do you build an organization that harnesses this motivational power.
+p195
+aVAnd this is where working swarmwise comes in,
+p196
+aVthis is where swarm intelligence comes in.
+p197
+aVTurns out that there are three factors that you optimize for \u2014
+p198
+aVand each of these are in complete opposite to what you learn at a business school.
+p199
+aVBut it works.
+p200
+aVWe know it works.
+p201
+aVWe have people in many, many parliaments to prove it.
+p202
+aa(lp203
+VThose three factors are: speed, trust and scalability.
+p204
+aVWe optimize for speed by cutting bottlenecks out of the loop,
+p205
+aVcutting them out of the decision loop.
+p206
+aVThat means cutting yourself out of the decision loop,
+p207
+aVwhich can be hard.
+p208
+aVBut you've got to communicate your vision so passionately, so strongly,
+p209
+aVthat everybody knows what the goal is
+p210
+aVand can find something, some step
+p211
+aVthat takes the movement just a little closer to that goal.
+p212
+aVAnd when tens of thousands of people do that on a weekly basis,
+p213
+aVyou become an unstoppable force.
+p214
+aa(lp215
+VWe had a three-person rule in our organization,
+p216
+aVsaying that if three self-identified volunteers in the movement
+p217
+aVwere in agreement that something was good for the movement,
+p218
+aVthey had the green light from the highest office
+p219
+aVto go ahead and act in the name of the organization,
+p220
+aVincluding spending resources.
+p221
+aVWhen you talk about this kind of empowerment
+p222
+aVto traditional businesspeople,
+p223
+aVthey think you belong in a zoo.
+p224
+aVBut you know what?
+p225
+aVI led this organization for five years,
+p226
+aVthere were 50,000 registered members
+p227
+aVand many, many more anonymous activists.
+p228
+aVIt was not abused once.
+p229
+aVEverybody had the key to the treasure chest.
+p230
+aVIt was not abused one single time.
+p231
+aa(lp232
+VTurns out when you give people the keys to the castle,
+p233
+aVand look them in the eye and say, "I trust you,"
+p234
+aVthey step up to the plate.
+p235
+aVAnd that's a beautiful thing to see happen.
+p236
+aa(lp237
+VObviously, not everything went according to plan,
+p238
+aVbut that's a different thing.
+p239
+aVWe made mistakes. We should expect mistakes.
+p240
+aVIf you're pioneering something, that means you must, by definition,
+p241
+aVventure into the unknown.
+p242
+aVWhen you're trying the unknown, some things won't go as planned.
+p243
+aVThat's part of the definition of venturing into the unknown.
+p244
+aVTo find the great, you must allow mistakes to happen.
+p245
+aVSo you must communicate that we expect some things to go wrong
+p246
+aVto create a risk-positive environment.
+p247
+aVTherefore we optimize for iteration speed.
+p248
+aVMeaning that we try, we fail, we try again, we fail faster,
+p249
+aVwe fail better, we try again, we fail better again.
+p250
+aVMaybe after we've tried 15 times, we've mastered some specific subject,
+p251
+aVso you want to minimize the time it takes to try those 15 times.
+p252
+aa(lp253
+VWe optimize on trust. We encourage diversity.
+p254
+aVYou need to communicate your vision so strongly
+p255
+aVso that everybody can translate it into their own context
+p256
+aVbecause language is an incredibly strong
+p257
+aVinclusionary and exclusionary social marker.
+p258
+aVThis one-brand-fits-all message \u2014
+p259
+aVforget it!
+p260
+aVThat's what they teach you at business school \u2014 it doesn't work.
+p261
+aVOr at least, it doesn't give you the cost-efficiency advantage
+p262
+aVof working swarmwise.
+p263
+aa(lp264
+VThis leads to a lot of different approaches tried in parallel
+p265
+aVin different social groups
+p266
+aVwho try out different methods of working toward the goal.
+p267
+aVSome of them will work
+p268
+aVbut in order to find the great ones, you need this diversity.
+p269
+aVAnd you need to communicate that we need that diversity.
+p270
+aVIf somebody on this side does not understand
+p271
+aVwhat those guys are doing,
+p272
+aVthat's OK because we all trust each other to work for the better of the movement.
+p273
+aVAnd it's OK that I don't understand their social context.
+p274
+aVI'm not expected to \u2014 I understand my social context.
+p275
+aVI contribute with something I know.
+p276
+aVMake people aware of this diversity.
+p277
+aa(lp278
+VFinally, scalability. Get feet on the ground.
+p279
+aVAgain, in business school, they teach you to use a lean organization.
+p280
+aVForget that.
+p281
+aVJust scale up the organization from the get-go.
+p282
+aVStart with 10,000 empty boxes and an org chart
+p283
+aVcovering down to every minor city.
+p284
+aVWhen you have lots and lots of small responsibilities
+p285
+aVin such a scaffolding that supports the swarm,
+p286
+aVsupports the activists,
+p287
+aVyou'll find that these boxes in the org charts
+p288
+aVare getting filled in quite rapidly,
+p289
+aVand they start to get filled in beyond your horizon
+p290
+aVwith people you've never heard of.
+p291
+aVAnd so, this swarm keeps growing to tens of thousands of people,
+p292
+aVeach taking on something small with very, very decentralized mandate
+p293
+aVto act on the organization.
+p294
+aVAnd this is when a swarm intelligence emerges.
+p295
+aVThis is when you have this beehive logic where everybody knows what's to be done.
+p296
+aVEverybody is taking their own small steps towards it.
+p297
+aVSo the swarm starts to act as a coherent organism.
+p298
+aVAnd it's amazing to watch.
+p299
+aVThis is when you're awarded by the cost-efficiency advantage
+p300
+aVover your competitors
+p301
+aVby two orders of magnitude.
+p302
+aVTwo orders of magnitude.
+p303
+aVThis is not just a silver bullet.
+p304
+aa(lp305
+VSo we've been talking a lot about the big picture today.
+p306
+aVYou can use these swarm methods for a lot of stuff.
+p307
+aVDo you want to change the world?
+p308
+aVDo you want to bring clean water to a billion people?
+p309
+aVTeach three billion people to read?
+p310
+aVMaybe you're into social change;
+p311
+aVyou want to introduce unconditional basic income.
+p312
+aVOr maybe you want to take humanity to Mars.
+p313
+aVYou can do this using these methods.
+p314
+aa(lp315
+VYou can do this.
+p316
+aVIt's about leadership.
+p317
+aVIt's about deciding what you want to do and telling it to the world.
+p318
+aVBecause no matter whether you think you can or cannot change the world,
+p319
+aVno matter whether you think you can or cannot change the world,
+p320
+aVyou are probably right.
+p321
+aa(lp322
+VSo one question I want everybody here to ask themselves today
+p323
+aVis the observation that change doesn't just happen, somebody makes it happen \u2014
+p324
+aVdo you want to be that person?
+p325
+aVDo you want to be that person?
+p326
+aa(lp327
+VAnd then one last thing:
+p328
+aVThere's one component more that's required to work swarmwise
+p329
+aVthat I haven't mentioned yet.
+p330
+aVAnd that is fun.
+p331
+aVThis goes beyond just enjoying your job,
+p332
+aVthis goes beyond having a pinball machine in the office.
+p333
+aVBecause this is actually required to succeed in a swarmwise scenario.
+p334
+aVThis is required to succeed
+p335
+aVto get that cost-efficiency advantage of two orders of magnitude.
+p336
+aVFor the reason that you need to attract volunteers.
+p337
+aVAnd people, in this aspect, are rather predictable.
+p338
+aVPeople will go to other people who are having fun.
+p339
+aVIn contrast, they will walk an extra mile to avoid people who are not having fun.
+p340
+aVSo, having fun is more than just having a pinball machine in the office.
+p341
+aVIt's an absolute and unavoidable requirement
+p342
+aVfor organizational and operational success when you're working swarmwise.
+p343
+aa(lp344
+VSo, in summary \u2014
+p345
+aVa recipe for a swarm organization
+p346
+aVusing these motivational methods to a huge competitive advantage.
+p347
+aVYour goal: it needs to be tangible, credible, inclusive and epic.
+p348
+aVYour organization needs to be optimized for speed, trust and scalability.
+p349
+aVYou need to enjoy yourselves.
+p350
+aVAnd that will reward you
+p351
+aVwith two orders of magnitude of cost-efficiency advantage.
+p352
+aa(lp353
+VThank you.
+p354
+aa(lp355
+V(Applause)
+p356
+aasS'id'
+p357
+I1407
+sS'title'
+p358
+VI am a pirate
+p359
+s.

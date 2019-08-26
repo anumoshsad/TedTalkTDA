@@ -1,0 +1,942 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VGood morning. How are you?
+p4
+aa(lp5
+V(Laughter)
+p6
+aa(lp7
+VIt's been great, hasn't it?
+p8
+aVI've been blown away by the whole thing.
+p9
+aVIn fact, I'm leaving.
+p10
+aa(lp11
+V(Laughter)
+p12
+aa(lp13
+VThere have been three themes running through the conference
+p14
+aVwhich are relevant to what I want to talk about.
+p15
+aVOne is the extraordinary evidence of human creativity
+p16
+aVin all of the presentations that we've had
+p17
+aVand in all of the people here.
+p18
+aVJust the variety of it and the range of it.
+p19
+aVThe second is that it's put us in a place
+p20
+aVwhere we have no idea what's going to happen,
+p21
+aVin terms of the future.
+p22
+aVNo idea how this may play out.
+p23
+aa(lp24
+VI have an interest in education.
+p25
+aVActually, what I find is everybody has an interest in education.
+p26
+aVDon't you?
+p27
+aVI find this very interesting.
+p28
+aVIf you're at a dinner party,
+p29
+aVand you say you work in education \u2014
+p30
+aVActually, you're not often at dinner parties, frankly.
+p31
+aa(lp32
+V(Laughter)
+p33
+aa(lp34
+VIf you work in education, you're not asked.
+p35
+aa(lp36
+V(Laughter)
+p37
+aa(lp38
+VAnd you're never asked back, curiously. That's strange to me.
+p39
+aVBut if you are, and you say to somebody,
+p40
+aVyou know, they say, "What do you do?"
+p41
+aVand you say you work in education,
+p42
+aVyou can see the blood run from their face.
+p43
+aVThey're like, "Oh my God," you know, "Why me?"
+p44
+aa(lp45
+V(Laughter)
+p46
+aa(lp47
+V"My one night out all week."
+p48
+aa(lp49
+V(Laughter)
+p50
+aa(lp51
+VBut if you ask about their education, they pin you to the wall.
+p52
+aVBecause it's one of those things that goes deep with people, am I right?
+p53
+aVLike religion, and money and other things.
+p54
+aVSo I have a big interest in education, and I think we all do.
+p55
+aVWe have a huge vested interest in it,
+p56
+aVpartly because it's education that's meant to take us into this future
+p57
+aVthat we can't grasp.
+p58
+aVIf you think of it, children starting school this year
+p59
+aVwill be retiring in 2065.
+p60
+aVNobody has a clue,
+p61
+aVdespite all the expertise that's been on parade for the past four days,
+p62
+aVwhat the world will look like in five years' time.
+p63
+aVAnd yet we're meant to be educating them for it.
+p64
+aVSo the unpredictability, I think, is extraordinary.
+p65
+aa(lp66
+VAnd the third part of this
+p67
+aVis that we've all agreed, nonetheless,
+p68
+aVon the really extraordinary capacities that children have \u2014
+p69
+aVtheir capacities for innovation.
+p70
+aVI mean, Sirena last night was a marvel, wasn't she?
+p71
+aVJust seeing what she could do.
+p72
+aVAnd she's exceptional, but I think she's not, so to speak,
+p73
+aVexceptional in the whole of childhood.
+p74
+aVWhat you have there is a person of extraordinary dedication
+p75
+aVwho found a talent.
+p76
+aVAnd my contention is, all kids have tremendous talents.
+p77
+aVAnd we squander them, pretty ruthlessly.
+p78
+aa(lp79
+VSo I want to talk about education
+p80
+aVand I want to talk about creativity.
+p81
+aVMy contention is that creativity now is as important in education as literacy,
+p82
+aVand we should treat it with the same status.
+p83
+aa(lp84
+V(Applause) Thank you.
+p85
+aa(lp86
+V(Applause)
+p87
+aa(lp88
+VThat was it, by the way.
+p89
+aVThank you very much.
+p90
+aa(lp91
+V(Laughter)
+p92
+aa(lp93
+VSo, 15 minutes left.
+p94
+aa(lp95
+V(Laughter)
+p96
+aa(lp97
+VWell, I was born... no.
+p98
+aa(lp99
+V(Laughter)
+p100
+aa(lp101
+VI heard a great story recently \u2014 I love telling it \u2014
+p102
+aVof a little girl who was in a drawing lesson.
+p103
+aVShe was six, and she was at the back, drawing,
+p104
+aVand the teacher said this girl hardly ever paid attention,
+p105
+aVand in this drawing lesson, she did.
+p106
+aVThe teacher was fascinated.
+p107
+aVShe went over to her, and she said, "What are you drawing?"
+p108
+aVAnd the girl said, "I'm drawing a picture of God."
+p109
+aVAnd the teacher said, "But nobody knows what God looks like."
+p110
+aVAnd the girl said, "They will, in a minute."
+p111
+aa(lp112
+V(Laughter)
+p113
+aa(lp114
+VWhen my son was four in England \u2014
+p115
+aVActually, he was four everywhere, to be honest.
+p116
+aa(lp117
+V(Laughter)
+p118
+aa(lp119
+VIf we're being strict about it, wherever he went, he was four that year.
+p120
+aVHe was in the Nativity play. Do you remember the story?
+p121
+aa(lp122
+V(Laughter)
+p123
+aa(lp124
+VNo, it was big, it was a big story.
+p125
+aVMel Gibson did the sequel, you may have seen it.
+p126
+aa(lp127
+V(Laughter)
+p128
+aa(lp129
+V"Nativity II."
+p130
+aVBut James got the part of Joseph, which we were thrilled about.
+p131
+aVWe considered this to be one of the lead parts.
+p132
+aVWe had the place crammed full of agents in T-shirts:
+p133
+aV"James Robinson IS Joseph!" (Laughter)
+p134
+aVHe didn't have to speak,
+p135
+aVbut you know the bit where the three kings come in?
+p136
+aVThey come in bearing gifts, gold, frankincense and myrrh.
+p137
+aVThis really happened.
+p138
+aVWe were sitting there and I think they just went out of sequence,
+p139
+aVbecause we talked to the little boy afterward and we said,
+p140
+aV"You OK with that?" And he said, "Yeah, why? Was that wrong?"
+p141
+aVThey just switched.
+p142
+aVThe three boys came in,
+p143
+aVfour-year-olds with tea towels on their heads,
+p144
+aVand they put these boxes down,
+p145
+aVand the first boy said, "I bring you gold."
+p146
+aVAnd the second boy said, "I bring you myrrh."
+p147
+aVAnd the third boy said, "Frank sent this."
+p148
+aa(lp149
+V(Laughter)
+p150
+aa(lp151
+VWhat these things have in common is that kids will take a chance.
+p152
+aVIf they don't know, they'll have a go.
+p153
+aVAm I right? They're not frightened of being wrong.
+p154
+aVI don't mean to say that being wrong is the same thing as being creative.
+p155
+aVWhat we do know is, if you're not prepared to be wrong,
+p156
+aVyou'll never come up with anything original \u2014
+p157
+aVif you're not prepared to be wrong.
+p158
+aVAnd by the time they get to be adults, most kids have lost that capacity.
+p159
+aVThey have become frightened of being wrong.
+p160
+aVAnd we run our companies like this.
+p161
+aVWe stigmatize mistakes.
+p162
+aVAnd we're now running national education systems
+p163
+aVwhere mistakes are the worst thing you can make.
+p164
+aVAnd the result is that we are educating people
+p165
+aVout of their creative capacities.
+p166
+aa(lp167
+VPicasso once said this, he said that all children are born artists.
+p168
+aVThe problem is to remain an artist as we grow up.
+p169
+aVI believe this passionately, that we don't grow into creativity,
+p170
+aVwe grow out of it.
+p171
+aVOr rather, we get educated out of it.
+p172
+aVSo why is this?
+p173
+aa(lp174
+VI lived in Stratford-on-Avon until about five years ago.
+p175
+aVIn fact, we moved from Stratford to Los Angeles.
+p176
+aVSo you can imagine what a seamless transition that was.
+p177
+aa(lp178
+V(Laughter)
+p179
+aa(lp180
+VActually, we lived in a place called Snitterfield,
+p181
+aVjust outside Stratford,
+p182
+aVwhich is where Shakespeare's father was born.
+p183
+aVAre you struck by a new thought? I was.
+p184
+aVYou don't think of Shakespeare having a father, do you?
+p185
+aVDo you? Because you don't think of Shakespeare being a child, do you?
+p186
+aVShakespeare being seven?
+p187
+aVI never thought of it.
+p188
+aVI mean, he was seven at some point.
+p189
+aVHe was in somebody's English class, wasn't he?
+p190
+aa(lp191
+V(Laughter)
+p192
+aa(lp193
+VHow annoying would that be?
+p194
+aa(lp195
+V(Laughter)
+p196
+aa(lp197
+V"Must try harder."
+p198
+aa(lp199
+V(Laughter)
+p200
+aa(lp201
+VBeing sent to bed by his dad, you know, to Shakespeare, "Go to bed, now!
+p202
+aVAnd put the pencil down."
+p203
+aa(lp204
+V(Laughter)
+p205
+aa(lp206
+V"And stop speaking like that."
+p207
+aa(lp208
+V(Laughter)
+p209
+aa(lp210
+V"It's confusing everybody."
+p211
+aa(lp212
+V(Laughter)
+p213
+aa(lp214
+VAnyway, we moved from Stratford to Los Angeles,
+p215
+aVand I just want to say a word about the transition.
+p216
+aVMy son didn't want to come.
+p217
+aVI've got two kids; he's 21 now, my daughter's 16.
+p218
+aVHe didn't want to come to Los Angeles.
+p219
+aVHe loved it, but he had a girlfriend in England.
+p220
+aVThis was the love of his life, Sarah.
+p221
+aVHe'd known her for a month.
+p222
+aa(lp223
+V(Laughter)
+p224
+aa(lp225
+VMind you, they'd had their fourth anniversary,
+p226
+aVbecause it's a long time when you're 16.
+p227
+aVHe was really upset on the plane,
+p228
+aVhe said, "I'll never find another girl like Sarah."
+p229
+aVAnd we were rather pleased about that, frankly \u2014
+p230
+aa(lp231
+V(Laughter)
+p232
+aa(lp233
+VBecause she was the main reason we were leaving the country.
+p234
+aa(lp235
+V(Laughter)
+p236
+aa(lp237
+VBut something strikes you when you move to America
+p238
+aVand travel around the world:
+p239
+aVEvery education system on Earth has the same hierarchy of subjects.
+p240
+aVEvery one. Doesn't matter where you go.
+p241
+aVYou'd think it would be otherwise, but it isn't.
+p242
+aVAt the top are mathematics and languages,
+p243
+aVthen the humanities, and at the bottom are the arts.
+p244
+aVEverywhere on Earth.
+p245
+aVAnd in pretty much every system too, there's a hierarchy within the arts.
+p246
+aVArt and music are normally given a higher status in schools
+p247
+aVthan drama and dance.
+p248
+aVThere isn't an education system on the planet
+p249
+aVthat teaches dance everyday to children
+p250
+aVthe way we teach them mathematics. Why?
+p251
+aVWhy not? I think this is rather important.
+p252
+aVI think math is very important, but so is dance.
+p253
+aVChildren dance all the time if they're allowed to, we all do.
+p254
+aVWe all have bodies, don't we? Did I miss a meeting?
+p255
+aa(lp256
+V(Laughter)
+p257
+aa(lp258
+VTruthfully, what happens is, as children grow up,
+p259
+aVwe start to educate them progressively from the waist up.
+p260
+aVAnd then we focus on their heads.
+p261
+aVAnd slightly to one side.
+p262
+aa(lp263
+VIf you were to visit education, as an alien,
+p264
+aVand say "What's it for, public education?"
+p265
+aVI think you'd have to conclude, if you look at the output,
+p266
+aVwho really succeeds by this,
+p267
+aVwho does everything that they should,
+p268
+aVwho gets all the brownie points, who are the winners \u2014
+p269
+aVI think you'd have to conclude the whole purpose of public education
+p270
+aVthroughout the world
+p271
+aVis to produce university professors.
+p272
+aVIsn't it?
+p273
+aVThey're the people who come out the top.
+p274
+aVAnd I used to be one, so there.
+p275
+aa(lp276
+V(Laughter)
+p277
+aa(lp278
+VAnd I like university professors, but you know,
+p279
+aVwe shouldn't hold them up
+p280
+aVas the high-water mark of all human achievement.
+p281
+aVThey're just a form of life,
+p282
+aVanother form of life.
+p283
+aVBut they're rather curious, and I say this out of affection for them.
+p284
+aVThere's something curious about professors in my experience \u2014
+p285
+aVnot all of them, but typically, they live in their heads.
+p286
+aVThey live up there, and slightly to one side.
+p287
+aVThey're disembodied, you know, in a kind of literal way.
+p288
+aVThey look upon their body as a form of transport for their heads.
+p289
+aa(lp290
+V(Laughter)
+p291
+aa(lp292
+VDon't they?
+p293
+aVIt's a way of getting their head to meetings.
+p294
+aa(lp295
+V(Laughter)
+p296
+aa(lp297
+VIf you want real evidence of out-of-body experiences,
+p298
+aVget yourself along to a residential conference of senior academics,
+p299
+aVand pop into the discotheque on the final night.
+p300
+aa(lp301
+V(Laughter)
+p302
+aa(lp303
+VAnd there, you will see it.
+p304
+aVGrown men and women writhing uncontrollably, off the beat.
+p305
+aa(lp306
+V(Laughter)
+p307
+aa(lp308
+VWaiting until it ends so they can go home and write a paper about it.
+p309
+aa(lp310
+V(Laughter)
+p311
+aa(lp312
+VOur education system is predicated on the idea of academic ability.
+p313
+aVAnd there's a reason.
+p314
+aVAround the world, there were no public systems of education,
+p315
+aVreally, before the 19th century.
+p316
+aVThey all came into being to meet the needs of industrialism.
+p317
+aVSo the hierarchy is rooted on two ideas.
+p318
+aa(lp319
+VNumber one, that the most useful subjects for work are at the top.
+p320
+aVSo you were probably steered benignly away
+p321
+aVfrom things at school when you were a kid, things you liked,
+p322
+aVon the grounds that you would never get a job doing that. Is that right?
+p323
+aVDon't do music, you're not going to be a musician;
+p324
+aVdon't do art, you won't be an artist.
+p325
+aVBenign advice \u2014 now, profoundly mistaken.
+p326
+aVThe whole world is engulfed in a revolution.
+p327
+aa(lp328
+VAnd the second is academic ability,
+p329
+aVwhich has really come to dominate our view of intelligence,
+p330
+aVbecause the universities designed the system in their image.
+p331
+aVIf you think of it, the whole system of public education around the world
+p332
+aVis a protracted process of university entrance.
+p333
+aVAnd the consequence is that many highly-talented,
+p334
+aVbrilliant, creative people think they're not,
+p335
+aVbecause the thing they were good at at school
+p336
+aVwasn't valued, or was actually stigmatized.
+p337
+aVAnd I think we can't afford to go on that way.
+p338
+aa(lp339
+VIn the next 30 years, according to UNESCO,
+p340
+aVmore people worldwide will be graduating
+p341
+aVthrough education than since the beginning of history.
+p342
+aVMore people, and it's the combination of all the things we've talked about \u2014
+p343
+aVtechnology and its transformation effect on work, and demography
+p344
+aVand the huge explosion in population.
+p345
+aa(lp346
+VSuddenly, degrees aren't worth anything.
+p347
+aVIsn't that true?
+p348
+aVWhen I was a student, if you had a degree, you had a job.
+p349
+aVIf you didn't have a job, it's because you didn't want one.
+p350
+aVAnd I didn't want one, frankly. (Laughter)
+p351
+aVBut now kids with degrees
+p352
+aVare often heading home to carry on playing video games,
+p353
+aVbecause you need an MA where the previous job required a BA,
+p354
+aVand now you need a PhD for the other.
+p355
+aVIt's a process of academic inflation.
+p356
+aVAnd it indicates the whole structure of education
+p357
+aVis shifting beneath our feet.
+p358
+aVWe need to radically rethink our view of intelligence.
+p359
+aa(lp360
+VWe know three things about intelligence.
+p361
+aVOne, it's diverse.
+p362
+aVWe think about the world in all the ways that we experience it.
+p363
+aVWe think visually, we think in sound, we think kinesthetically.
+p364
+aVWe think in abstract terms, we think in movement.
+p365
+aVSecondly, intelligence is dynamic.
+p366
+aVIf you look at the interactions of a human brain,
+p367
+aVas we heard yesterday from a number of presentations,
+p368
+aVintelligence is wonderfully interactive.
+p369
+aVThe brain isn't divided into compartments.
+p370
+aVIn fact, creativity \u2014 which I define as the process
+p371
+aVof having original ideas that have value \u2014
+p372
+aVmore often than not comes about through the interaction
+p373
+aVof different disciplinary ways of seeing things.
+p374
+aa(lp375
+VBy the way, there's a shaft of nerves that joins the two halves of the brain
+p376
+aVcalled the corpus callosum.
+p377
+aVIt's thicker in women.
+p378
+aVFollowing off from Helen yesterday,
+p379
+aVthis is probably why women are better at multi-tasking.
+p380
+aVBecause you are, aren't you?
+p381
+aVThere's a raft of research, but I know it from my personal life.
+p382
+aVIf my wife is cooking a meal at home \u2014 which is not often, thankfully.
+p383
+aa(lp384
+V(Laughter)
+p385
+aa(lp386
+VNo, she's good at some things, but if she's cooking,
+p387
+aVshe's dealing with people on the phone,
+p388
+aVshe's talking to the kids, she's painting the ceiling,
+p389
+aVshe's doing open-heart surgery over here.
+p390
+aVIf I'm cooking, the door is shut, the kids are out,
+p391
+aVthe phone's on the hook, if she comes in I get annoyed.
+p392
+aVI say, "Terry, please, I'm trying to fry an egg in here."
+p393
+aa(lp394
+V(Laughter)
+p395
+aa(lp396
+V"Give me a break."
+p397
+aa(lp398
+V(Laughter)
+p399
+aa(lp400
+VActually, do you know that old philosophical thing,
+p401
+aVif a tree falls in a forest and nobody hears it, did it happen?
+p402
+aVRemember that old chestnut?
+p403
+aVI saw a great t-shirt recently, which said,
+p404
+aV"If a man speaks his mind in a forest, and no woman hears him,
+p405
+aVis he still wrong?"
+p406
+aa(lp407
+V(Laughter)
+p408
+aa(lp409
+VAnd the third thing about intelligence is,
+p410
+aVit's distinct.
+p411
+aVI'm doing a new book at the moment called "Epiphany,"
+p412
+aVwhich is based on a series of interviews with people
+p413
+aVabout how they discovered their talent.
+p414
+aVI'm fascinated by how people got to be there.
+p415
+aVIt's really prompted by a conversation I had with a wonderful woman
+p416
+aVwho maybe most people have never heard of, Gillian Lynne.
+p417
+aVHave you heard of her? Some have.
+p418
+aVShe's a choreographer, and everybody knows her work.
+p419
+aVShe did "Cats" and "Phantom of the Opera."
+p420
+aVShe's wonderful.
+p421
+aVI used to be on the board of The Royal Ballet,
+p422
+aVas you can see.
+p423
+aVAnyway, Gillian and I had lunch one day and I said,
+p424
+aV"How did you get to be a dancer?"
+p425
+aVIt was interesting.
+p426
+aVWhen she was at school, she was really hopeless.
+p427
+aVAnd the school, in the '30s, wrote to her parents and said,
+p428
+aV"We think Gillian has a learning disorder."
+p429
+aVShe couldn't concentrate; she was fidgeting.
+p430
+aVI think now they'd say she had ADHD. Wouldn't you?
+p431
+aVBut this was the 1930s, and ADHD hadn't been invented at this point.
+p432
+aVIt wasn't an available condition.
+p433
+aa(lp434
+V(Laughter)
+p435
+aa(lp436
+VPeople weren't aware they could have that.
+p437
+aa(lp438
+V(Laughter)
+p439
+aa(lp440
+VAnyway, she went to see this specialist.
+p441
+aVSo, this oak-paneled room, and she was there with her mother,
+p442
+aVand she was led and sat on this chair at the end,
+p443
+aVand she sat on her hands for 20 minutes while this man talked to her mother
+p444
+aVabout the problems Gillian was having at school.
+p445
+aVBecause she was disturbing people; her homework was always late; and so on,
+p446
+aVlittle kid of eight.
+p447
+aVIn the end, the doctor went and sat next to Gillian, and said,
+p448
+aV"I've listened to all these things your mother's told me,
+p449
+aVI need to speak to her privately.
+p450
+aVWait here. We'll be back; we won't be very long,"
+p451
+aVand they went and left her.
+p452
+aa(lp453
+VBut as they went out of the room,
+p454
+aVhe turned on the radio that was sitting on his desk.
+p455
+aVAnd when they got out, he said to her mother, "Just stand and watch her."
+p456
+aVAnd the minute they left the room,
+p457
+aVshe was on her feet, moving to the music.
+p458
+aVAnd they watched for a few minutes and he turned to her mother and said,
+p459
+aV"Mrs. Lynne, Gillian isn't sick; she's a dancer.
+p460
+aVTake her to a dance school."
+p461
+aa(lp462
+VI said, "What happened?"
+p463
+aVShe said, "She did. I can't tell you how wonderful it was.
+p464
+aVWe walked in this room and it was full of people like me.
+p465
+aVPeople who couldn't sit still.
+p466
+aVPeople who had to move to think." Who had to move to think.
+p467
+aVThey did ballet, they did tap, jazz; they did modern; they did contemporary.
+p468
+aVShe was eventually auditioned for the Royal Ballet School;
+p469
+aVshe became a soloist; she had a wonderful career at the Royal Ballet.
+p470
+aVShe eventually graduated from the Royal Ballet School,
+p471
+aVfounded the Gillian Lynne Dance Company,
+p472
+aVmet Andrew Lloyd Webber.
+p473
+aVShe's been responsible for
+p474
+aVsome of the most successful musical theater productions in history,
+p475
+aVshe's given pleasure to millions, and she's a multi-millionaire.
+p476
+aVSomebody else might have put her on medication and told her to calm down.
+p477
+aa(lp478
+V(Applause)
+p479
+aa(lp480
+VWhat I think it comes to is this:
+p481
+aVAl Gore spoke the other night
+p482
+aVabout ecology and the revolution that was triggered by Rachel Carson.
+p483
+aVI believe our only hope for the future
+p484
+aVis to adopt a new conception of human ecology,
+p485
+aVone in which we start to reconstitute our conception
+p486
+aVof the richness of human capacity.
+p487
+aVOur education system has mined our minds
+p488
+aVin the way that we strip-mine the earth: for a particular commodity.
+p489
+aVAnd for the future, it won't serve us.
+p490
+aVWe have to rethink the fundamental principles
+p491
+aVon which we're educating our children.
+p492
+aa(lp493
+VThere was a wonderful quote by Jonas Salk, who said,
+p494
+aV"If all the insects were to disappear from the Earth,
+p495
+aVwithin 50 years all life on Earth would end.
+p496
+aVIf all human beings disappeared from the Earth,
+p497
+aVwithin 50 years all forms of life would flourish."
+p498
+aVAnd he's right.
+p499
+aa(lp500
+VWhat TED celebrates is the gift of the human imagination.
+p501
+aVWe have to be careful now
+p502
+aVthat we use this gift wisely
+p503
+aVand that we avert some of the scenarios that we've talked about.
+p504
+aVAnd the only way we'll do it is by seeing our creative capacities
+p505
+aVfor the richness they are
+p506
+aVand seeing our children for the hope that they are.
+p507
+aVAnd our task is to educate their whole being,
+p508
+aVso they can face this future.
+p509
+aVBy the way \u2014 we may not see this future,
+p510
+aVbut they will.
+p511
+aVAnd our job is to help them make something of it.
+p512
+aa(lp513
+VThank you very much.
+p514
+aa(lp515
+V(Applause)
+p516
+aasS'id'
+p517
+I66
+sS'title'
+p518
+VDo schools kill creativity?
+p519
+s.

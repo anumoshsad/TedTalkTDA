@@ -1,0 +1,548 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThis story begins in 1985,
+p4
+aVwhen at age 22,
+p5
+aVI became the World Chess Champion
+p6
+aVafter beating Anatoly Karpov.
+p7
+aVEarlier that year,
+p8
+aVI played what is called simultaneous exhibition
+p9
+aVagainst 32 of the world's best chess-playing machines
+p10
+aVin Hamburg, Germany.
+p11
+aVI won all the games,
+p12
+aVand then it was not considered much of a surprise
+p13
+aVthat I could beat 32 computers at the same time.
+p14
+aVTo me, that was the golden age.
+p15
+aa(lp16
+V(Laughter)
+p17
+aa(lp18
+VMachines were weak,
+p19
+aVand my hair was strong.
+p20
+aa(lp21
+V(Laughter)
+p22
+aa(lp23
+VJust 12 years later,
+p24
+aVI was fighting for my life against just one computer
+p25
+aVin a match
+p26
+aVcalled by the cover of "Newsweek"
+p27
+aV"The Brain's Last Stand."
+p28
+aVNo pressure.
+p29
+aa(lp30
+V(Laughter)
+p31
+aa(lp32
+VFrom mythology to science fiction,
+p33
+aVhuman versus machine
+p34
+aVhas been often portrayed as a matter of life and death.
+p35
+aVJohn Henry,
+p36
+aVcalled the steel-driving man
+p37
+aVin the 19th century African American folk legend,
+p38
+aVwas pitted in a race
+p39
+aVagainst a steam-powered hammer
+p40
+aVbashing a tunnel through mountain rock.
+p41
+aVJohn Henry's legend is a part of a long historical narrative
+p42
+aVpitting humanity versus technology.
+p43
+aVAnd this competitive rhetoric is standard now.
+p44
+aVWe are in a race against the machines,
+p45
+aVin a fight or even in a war.
+p46
+aVJobs are being killed off.
+p47
+aVPeople are being replaced as if they had vanished from the Earth.
+p48
+aVIt's enough to think that the movies like "The Terminator" or "The Matrix"
+p49
+aVare nonfiction.
+p50
+aa(lp51
+VThere are very few instances of an arena
+p52
+aVwhere the human body and mind can compete on equal terms
+p53
+aVwith a computer or a robot.
+p54
+aVActually, I wish there were a few more.
+p55
+aVInstead,
+p56
+aVit was my blessing and my curse
+p57
+aVto literally become the proverbial man
+p58
+aVin the man versus machine competition
+p59
+aVthat everybody is still talking about.
+p60
+aVIn the most famous human-machine competition since John Henry,
+p61
+aVI played two matches
+p62
+aVagainst the IBM supercomputer, Deep Blue.
+p63
+aVNobody remembers that I won the first match \u2014
+p64
+aa(lp65
+V(Laughter)
+p66
+aa(lp67
+V(Applause)
+p68
+aa(lp69
+VIn Philadelphia, before losing the rematch the following year in New York.
+p70
+aVBut I guess that's fair.
+p71
+aVThere is no day in history, special calendar entry
+p72
+aVfor all the people who failed to climb Mt. Everest
+p73
+aVbefore Sir Edmund Hillary and Tenzing Norgay
+p74
+aVmade it to the top.
+p75
+aVAnd in 1997, I was still the world champion
+p76
+aVwhen chess computers finally came of age.
+p77
+aVI was Mt. Everest,
+p78
+aVand Deep Blue reached the summit.
+p79
+aVI should say of course, not that Deep Blue did it,
+p80
+aVbut its human creators \u2014
+p81
+aVAnantharaman, Campbell, Hoane, Hsu.
+p82
+aVHats off to them.
+p83
+aVAs always, machine's triumph was a human triumph,
+p84
+aVsomething we tend to forget when humans are surpassed by our own creations.
+p85
+aa(lp86
+VDeep Blue was victorious,
+p87
+aVbut was it intelligent?
+p88
+aVNo, no it wasn't,
+p89
+aVat least not in the way Alan Turing and other founders of computer science
+p90
+aVhad hoped.
+p91
+aVIt turned out that chess could be crunched by brute force,
+p92
+aVonce hardware got fast enough
+p93
+aVand algorithms got smart enough.
+p94
+aVAlthough by the definition of the output,
+p95
+aVgrandmaster-level chess,
+p96
+aVDeep Blue was intelligent.
+p97
+aVBut even at the incredible speed,
+p98
+aV200 million positions per second,
+p99
+aVDeep Blue's method
+p100
+aVprovided little of the dreamed-of insight into the mysteries of human intelligence.
+p101
+aa(lp102
+VSoon,
+p103
+aVmachines will be taxi drivers
+p104
+aVand doctors and professors,
+p105
+aVbut will they be "intelligent?"
+p106
+aVI would rather leave these definitions
+p107
+aVto the philosophers and to the dictionary.
+p108
+aVWhat really matters is how we humans
+p109
+aVfeel about living and working with these machines.
+p110
+aa(lp111
+VWhen I first met Deep Blue in 1996 in February,
+p112
+aVI had been the world champion for more than 10 years,
+p113
+aVand I had played 182 world championship games
+p114
+aVand hundreds of games against other top players in other competitions.
+p115
+aVI knew what to expect from my opponents
+p116
+aVand what to expect from myself.
+p117
+aVI was used to measure their moves
+p118
+aVand to gauge their emotional state
+p119
+aVby watching their body language and looking into their eyes.
+p120
+aa(lp121
+VAnd then I sat across the chessboard from Deep Blue.
+p122
+aVI immediately sensed something new,
+p123
+aVsomething unsettling.
+p124
+aVYou might experience a similar feeling
+p125
+aVthe first time you ride in a driverless car
+p126
+aVor the first time your new computer manager issues an order at work.
+p127
+aVBut when I sat at that first game,
+p128
+aVI couldn't be sure
+p129
+aVwhat is this thing capable of.
+p130
+aVTechnology can advance in leaps, and IBM had invested heavily.
+p131
+aVI lost that game.
+p132
+aVAnd I couldn't help wondering,
+p133
+aVmight it be invincible?
+p134
+aVWas my beloved game of chess over?
+p135
+aVThese were human doubts, human fears,
+p136
+aVand the only thing I knew for sure
+p137
+aVwas that my opponent Deep Blue had no such worries at all.
+p138
+aa(lp139
+V(Laughter)
+p140
+aa(lp141
+VI fought back
+p142
+aVafter this devastating blow
+p143
+aVto win the first match,
+p144
+aVbut the writing was on the wall.
+p145
+aVI eventually lost to the machine
+p146
+aVbut I didn't suffer the fate of John Henry
+p147
+aVwho won but died with his hammer in his hand.
+p148
+aVIt turned out that the world of chess
+p149
+aVstill wanted to have a human chess champion.
+p150
+aVAnd even today,
+p151
+aVwhen a free chess app on the latest mobile phone
+p152
+aVis stronger than Deep Blue,
+p153
+aVpeople are still playing chess,
+p154
+aVeven more than ever before.
+p155
+aVDoomsayers predicted that nobody would touch the game
+p156
+aVthat could be conquered by the machine,
+p157
+aVand they were wrong, proven wrong,
+p158
+aVbut doomsaying has always been a popular pastime
+p159
+aVwhen it comes to technology.
+p160
+aa(lp161
+VWhat I learned from my own experience
+p162
+aVis that we must face our fears
+p163
+aVif we want to get the most out of our technology,
+p164
+aVand we must conquer those fears
+p165
+aVif we want to get the best out of our humanity.
+p166
+aVWhile licking my wounds,
+p167
+aVI got a lot of inspiration
+p168
+aVfrom my battles against Deep Blue.
+p169
+aVAs the old Russian saying goes, if you can't beat them, join them.
+p170
+aVThen I thought,
+p171
+aVwhat if I could play with a computer \u2014
+p172
+aVtogether with a computer at my side, combining our strengths,
+p173
+aVhuman intuition plus machine's calculation,
+p174
+aVhuman strategy, machine tactics,
+p175
+aVhuman experience, machine's memory.
+p176
+aVCould it be the perfect game ever played?
+p177
+aa(lp178
+VMy idea came to life
+p179
+aVin 1998 under the name of Advanced Chess
+p180
+aVwhen I played this human-plus-machine competition against another elite player.
+p181
+aVBut in this first experiment,
+p182
+aVwe both failed to combine human and machine skills effectively.
+p183
+aVAdvanced Chess found its home on the internet,
+p184
+aVand in 2005, a so-called freestyle chess tournament
+p185
+aVproduced a revelation.
+p186
+aVA team of grandmasters and top machines participated,
+p187
+aVbut the winners were not grandmasters,
+p188
+aVnot a supercomputer.
+p189
+aVThe winners were a pair of amateur American chess players
+p190
+aVoperating three ordinary PCs at the same time.
+p191
+aVTheir skill of coaching their machines
+p192
+aVeffectively counteracted the superior chess knowledge
+p193
+aVof their grandmaster opponents
+p194
+aVand much greater computational power of others.
+p195
+aVAnd I reached this formulation.
+p196
+aVA weak human player plus a machine
+p197
+aVplus a better process is superior
+p198
+aVto a very powerful machine alone,
+p199
+aVbut more remarkably, is superior to a strong human player
+p200
+aVplus machine
+p201
+aVand an inferior process.
+p202
+aVThis convinced me that we would need
+p203
+aVbetter interfaces to help us coach our machines
+p204
+aVtowards more useful intelligence.
+p205
+aa(lp206
+VHuman plus machine isn't the future,
+p207
+aVit's the present.
+p208
+aVEverybody that's used online translation
+p209
+aVto get the gist of a news article from a foreign newspaper,
+p210
+aVknowing its far from perfect.
+p211
+aVThen we use our human experience
+p212
+aVto make sense out of that,
+p213
+aVand then the machine learns from our corrections.
+p214
+aVThis model is spreading and investing in medical diagnosis, security analysis.
+p215
+aVThe machine crunches data,
+p216
+aVcalculates probabilities,
+p217
+aVgets 80 percent of the way, 90 percent,
+p218
+aVmaking it easier for analysis
+p219
+aVand decision-making of the human party.
+p220
+aVBut you are not going to send your kids
+p221
+aVto school in a self-driving car with 90 percent accuracy,
+p222
+aVeven with 99 percent.
+p223
+aVSo we need a leap forward
+p224
+aVto add a few more crucial decimal places.
+p225
+aa(lp226
+VTwenty years after my match with Deep Blue,
+p227
+aVsecond match,
+p228
+aVthis sensational "The Brain's Last Stand" headline
+p229
+aVhas become commonplace
+p230
+aVas intelligent machines
+p231
+aVmove
+p232
+aVin every sector, seemingly every day.
+p233
+aVBut unlike in the past,
+p234
+aVwhen machines replaced
+p235
+aVfarm animals, manual labor,
+p236
+aVnow they are coming after people with college degrees
+p237
+aVand political influence.
+p238
+aVAnd as someone who fought machines and lost,
+p239
+aVI am here to tell you this is excellent, excellent news.
+p240
+aVEventually, every profession
+p241
+aVwill have to feel these pressures
+p242
+aVor else it will mean humanity has ceased to make progress.
+p243
+aVWe don't
+p244
+aVget to choose
+p245
+aVwhen and where technological progress stops.
+p246
+aVWe cannot
+p247
+aVslow down.
+p248
+aVIn fact,
+p249
+aVwe have to speed up.
+p250
+aVOur technology excels at removing
+p251
+aVdifficulties and uncertainties from our lives,
+p252
+aVand so we must seek out
+p253
+aVever more difficult,
+p254
+aVever more uncertain challenges.
+p255
+aVMachines have
+p256
+aVcalculations.
+p257
+aVWe have understanding.
+p258
+aVMachines have instructions.
+p259
+aVWe have purpose.
+p260
+aVMachines have
+p261
+aVobjectivity.
+p262
+aVWe have passion.
+p263
+aVWe should not worry about what our machines can do today.
+p264
+aVInstead, we should worry about what they still cannot do today,
+p265
+aVbecause we will need the help of the new, intelligent machines
+p266
+aVto turn our grandest dreams into reality.
+p267
+aVAnd if we fail,
+p268
+aVif we fail, it's not because our machines are too intelligent,
+p269
+aVor not intelligent enough.
+p270
+aVIf we fail, it's because we grew complacent
+p271
+aVand limited our ambitions.
+p272
+aVOur humanity is not defined by any skill,
+p273
+aVlike swinging a hammer or even playing chess.
+p274
+aa(lp275
+VThere's one thing only a human can do.
+p276
+aVThat's dream.
+p277
+aVSo let us dream big.
+p278
+aa(lp279
+VThank you.
+p280
+aa(lp281
+V(Applause)
+p282
+aasS'id'
+p283
+I2787
+sS'title'
+p284
+VDon't fear intelligent machines. Work with them
+p285
+s.

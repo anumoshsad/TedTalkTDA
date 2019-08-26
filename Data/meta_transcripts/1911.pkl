@@ -1,0 +1,536 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI have spent the last years
+p4
+aVtrying to resolve two enigmas:
+p5
+aVWhy is productivity so disappointing
+p6
+aVin all the companies where I work?
+p7
+aVI have worked with more than 500 companies.
+p8
+aVDespite all the technological advances \u2014
+p9
+aVcomputers, I.T., communications, telecommunications,
+p10
+aVthe Internet.
+p11
+aVEnigma number two:
+p12
+aVWhy is there so little engagement at work?
+p13
+aVWhy do people feel so miserable,
+p14
+aVeven actively disengaged?
+p15
+aVDisengaging their colleagues.
+p16
+aVActing against the interest of their company.
+p17
+aVDespite all the affiliation events,
+p18
+aVthe celebration, the people initiatives,
+p19
+aVthe leadership development programs to train
+p20
+aVmanagers on how to better motivate their teams.
+p21
+aa(lp22
+VAt the beginning, I thought there was
+p23
+aVa chicken and egg issue:
+p24
+aVBecause people are less engaged,  they are less productive.
+p25
+aVOr vice versa, because they are less productive,
+p26
+aVwe put more pressure and they are less engaged.
+p27
+aVBut as we were doing our analysis
+p28
+aVwe realized that there was a common root cause
+p29
+aVto these two issues
+p30
+aVthat relates, in fact, to the basic  pillars of management.
+p31
+aVThe way we organize is based on two pillars.
+p32
+aVThe hard \u2014 structure, processes, systems.
+p33
+aVThe soft \u2014
+p34
+aVfeelings, sentiments, interpersonal relationships, traits, personality.
+p35
+aVAnd whenever a company
+p36
+aVreorganizes, restructures, reengineers,
+p37
+aVgoes through a cultural transformation program,
+p38
+aVit chooses these two pillars.
+p39
+aVNow, we try to refine them,
+p40
+aVwe try to combine them.
+p41
+aVThe real issue is \u2014
+p42
+aVand this is the answer to the two enigmas \u2014
+p43
+aVthese pillars are obsolete.
+p44
+aVEverything you read in business books is based
+p45
+aVeither on one or the other
+p46
+aVor their combination.
+p47
+aVThey are obsolete.
+p48
+aVHow do they work
+p49
+aVwhen you try to use these approaches
+p50
+aVin front of the new complexity of business?
+p51
+aVThe hard approach, basically  is that you start from strategy,
+p52
+aVrequirements, structures, processes,  systems, KPIs, scorecards,
+p53
+aVcommittees, headquarters, hubs, clusters,
+p54
+aVyou name it.
+p55
+aVI forgot all the metrics, incentives, committees,  middle offices and interfaces.
+p56
+aVWhat happens basically on the left,
+p57
+aVyou have more complexity, the  new complexity of business.
+p58
+aVWe need quality, cost, reliability, speed.
+p59
+aVAnd every time there is a new requirement,
+p60
+aVwe use the same approach.
+p61
+aVWe create dedicated structure processed systems,
+p62
+aVbasically to deal with the  new complexity of business.
+p63
+aVThe hard approach creates just complicatedness
+p64
+aVin the organization.
+p65
+aa(lp66
+VLet's take an example.
+p67
+aVAn automotive company, the engineering division
+p68
+aVis a five-dimensional matrix.
+p69
+aVIf you open any cell of the matrix,
+p70
+aVyou find another 20-dimensional matrix.
+p71
+aVYou have Mr. Noise, Mr. Petrol Consumption,
+p72
+aVMr. Anti-Collision Properties.
+p73
+aVFor any new requirement,
+p74
+aVyou have a dedicated function
+p75
+aVin charge of aligning engineers against
+p76
+aVthe new requirement.
+p77
+aVWhat happens when the new  requirement emerges?
+p78
+aVSome years ago, a new requirement
+p79
+aVappeared on the marketplace:
+p80
+aVthe length of the warranty period.
+p81
+aVSo therefore the new requirement is repairability,
+p82
+aVmaking cars easy to repair.
+p83
+aVOtherwise when you bring the car  to the garage to fix the light,
+p84
+aVif you have to remove the engine
+p85
+aVto access the lights,
+p86
+aVthe car will have to stay one week in the garage
+p87
+aVinstead of two hours, and the  warranty budget will explode.
+p88
+aVSo, what was the solution using the hard approach?
+p89
+aVIf repairability is the new requirement,
+p90
+aVthe solution is to create a new function,
+p91
+aVMr. Repairability.
+p92
+aVAnd Mr. Repairability creates  the repairability process.
+p93
+aVWith a repairability scorecard,  with a repairability metric
+p94
+aVand eventually repairability incentive.
+p95
+aVThat came on top of 25 other KPIs.
+p96
+aVWhat percentage of these people is variable compensation?
+p97
+aVTwenty percent at most, divided by 26 KPIs,
+p98
+aVrepairability makes a difference of 0.8 percent.
+p99
+aVWhat difference did it make in their actions,
+p100
+aVtheir choices to simplify? Zero.
+p101
+aVBut what occurs for zero impact?  Mr. Repairability, process,
+p102
+aVscorecard, evaluation, coordination  with the 25 other coordinators
+p103
+aVto have zero impact.
+p104
+aa(lp105
+VNow, in front of the new complexity of business,
+p106
+aVthe only solution is not drawing boxes
+p107
+aVwith reporting lines.
+p108
+aVIt is basically the interplay.
+p109
+aVHow the parts work together.
+p110
+aVThe connections, the interactions, the synapses.
+p111
+aVIt is not the skeleton of boxes,  it is the nervous system
+p112
+aVof adaptiveness and intelligence.
+p113
+aVYou know, you could call it cooperation, basically.
+p114
+aVWhenever people cooperate,
+p115
+aVthey use less resources. In everything.
+p116
+aVYou know, the repairability issue
+p117
+aVis a cooperation problem.
+p118
+aVWhen you design cars, please take into account
+p119
+aVthe needs of those who will repair the cars
+p120
+aVin the after sales garages.
+p121
+aVWhen we don't cooperate we need more time,
+p122
+aVmore equipment, more systems, more teams.
+p123
+aVWe need \u2014 When procurement, supply  chain, manufacturing don't cooperate
+p124
+aVwe need more stock, more inventories,  more working capital.
+p125
+aVWho will pay for that?
+p126
+aVShareholders? Customers?
+p127
+aVNo, they will refuse.
+p128
+aVSo who is left?  The employees,
+p129
+aVwho have to compensate through their super
+p130
+aVindividual efforts for the lack of cooperation.
+p131
+aVStress, burnout, they are  overwhelmed, accidents.
+p132
+aVNo wonder they disengage.
+p133
+aVHow do the hard and the soft try to foster cooperation?
+p134
+aVThe hard: In banks, when there is a problem
+p135
+aVbetween the back office and the front office,
+p136
+aVthey don't cooperate. What is the solution?
+p137
+aVThey create a middle office.
+p138
+aVWhat happens one year later?
+p139
+aVInstead of one problem  between the back and the front,
+p140
+aVnow I have two problems.
+p141
+aVBetween the back and the middle
+p142
+aVand between the middle and the front.
+p143
+aVPlus I have to pay for the middle office.
+p144
+aVThe hard approach is unable to foster cooperation.
+p145
+aVIt can only add new boxes,  new bones in the skeleton.
+p146
+aa(lp147
+VThe soft approach:
+p148
+aVTo make people cooperate, we need  to make them like each other.
+p149
+aVImprove interpersonal feelings,
+p150
+aVthe more people like each other,  the more they will cooperate.
+p151
+aVIt is totally wrong.
+p152
+aVIt is even counterproductive.
+p153
+aVLook, at home I have two TVs. Why?
+p154
+aVPrecisely not to have to cooperate with my wife.
+p155
+aV(Laughter)
+p156
+aVNot to have to impose tradeoffs to my wife.
+p157
+aVAnd why I try not to impose tradeoffs to my wife
+p158
+aVis precisely because I love my wife.
+p159
+aVIf I didn't love my wife, one TV would be enough:
+p160
+aVYou will watch my favorite football game,
+p161
+aVif you are not happy, how is the book or the door?
+p162
+aV(Laughter)
+p163
+aVThe more we like each other,
+p164
+aVthe more we avoid the real cooperation
+p165
+aVthat would strain our relationships  by imposing tough tradeoffs.
+p166
+aVAnd we go for a second TV or we escalate
+p167
+aVthe decision above for arbitration.
+p168
+aVDefinitely, these approaches are obsolete.
+p169
+aa(lp170
+VTo deal with complexity, to enhance the nervous system,
+p171
+aVwe have created what we call  the smart simplicity approach
+p172
+aVbased on simple rules.
+p173
+aVSimple rule number one:
+p174
+aVUnderstand what others do.
+p175
+aVWhat is their real work?
+p176
+aVWe need to go beyond the boxes,
+p177
+aVthe job descriptions, beyond the surface
+p178
+aVof the container, to understand the real content.
+p179
+aVMe, designer, if I put a wire here,
+p180
+aVI know that it will mean that we will have to
+p181
+aVremove the engine to access the lights.
+p182
+aVSecond, you need to reenforce integrators.
+p183
+aVIntegrators are not middle  offices, they are managers,
+p184
+aVexisting managers that you reinforce
+p185
+aVso that they have power and interest
+p186
+aVto make others cooperate.
+p187
+aVHow can you reinforce your  managers as integrators?
+p188
+aVBy removing layers.
+p189
+aVWhen there are too many layers
+p190
+aVpeople are too far from the action,
+p191
+aVtherefore they need KPIs, metrics,
+p192
+aVthey need poor proxies for reality.
+p193
+aVThey don't understand reality
+p194
+aVand they add the complicatedness of metrics, KPIs.
+p195
+aVBy removing rules \u2014 the bigger we are,
+p196
+aVthe more we need integrators,
+p197
+aVtherefore the less rules we must have,
+p198
+aVto give discretionary power to managers.
+p199
+aVAnd we do the opposite \u2014
+p200
+aVthe bigger we are, the more rules we create.
+p201
+aVAnd we end up with the Encyclopedia  Britannica of rules.
+p202
+aVYou need to increase the quanitity of power
+p203
+aVso that you can empower everybody
+p204
+aVto use their judgment, their intelligence.
+p205
+aVYou must give more cards to people
+p206
+aVso that they have the critical mass of cards
+p207
+aVto take the risk to cooperate,
+p208
+aVto move out of insulation.
+p209
+aVOtherwise, they will withdraw. They will disengage.
+p210
+aVThese rules, they come from game theory
+p211
+aVand organizational sociology.
+p212
+aVYou can increase the shadow of the future.
+p213
+aVCreate feedback loops that expose people
+p214
+aVto the consequences of their actions.
+p215
+aVThis is what the automotive company did
+p216
+aVwhen they saw that Mr. Repairability had no impact.
+p217
+aVThey said to the design engineers:
+p218
+aVNow, in three years, when the new  car is launched on the market,
+p219
+aVyou will move to the after sales  network, and become in charge
+p220
+aVof the warranty budget,
+p221
+aVand if the warranty budget explodes,
+p222
+aVit will explode in your face. (Laughter)
+p223
+aVMuch more powerful than 0.8  percent variable compensation.
+p224
+aVYou need also to increase reciprocity,
+p225
+aVby removing the buffers that make us self-sufficient.
+p226
+aVWhen you remove these buffers,
+p227
+aVyou hold me by the nose, I hold you by the ear.
+p228
+aVWe will cooperate.
+p229
+aVRemove the second TV.
+p230
+aVThere are many second TVs at work
+p231
+aVthat don't create value,
+p232
+aVthey just provide dysfunctional self-sufficiency.
+p233
+aVYou need to reward those who cooperate
+p234
+aVand blame those who don't cooperate.
+p235
+aVThe CEO of The Lego Group,
+p236
+aVJorgen Vig Knudstorp, has a great way to use it.
+p237
+aVHe says, blame is not for failure,
+p238
+aVit is for failing to help or ask for help.
+p239
+aVIt changes everything.
+p240
+aVSuddenly it becomes in my interest to be transparent
+p241
+aVon my real weaknesses, my real forecast,
+p242
+aVbecause I know I will not be blamed if I fail,
+p243
+aVbut if I fail to help or ask for help.
+p244
+aVWhen you do this, it has a lot of implications
+p245
+aVon organizational design.
+p246
+aVYou stop drawing boxes, dotted lines, full lines;
+p247
+aVyou look at their interplay.
+p248
+aVIt has a lot of implications on financial policies
+p249
+aVthat we use.
+p250
+aVOn human resource management practices.
+p251
+aVWhen you do that, you can manage complexity,
+p252
+aVthe new complexity of business,
+p253
+aVwithout getting complicated.
+p254
+aVYou create more value with lower cost.
+p255
+aVYou simultaneously improve  performance and satisfaction at work
+p256
+aVbecause you have removed the common root cause
+p257
+aVthat hinders both.
+p258
+aVComplicatedness: This is your  battle, business leaders.
+p259
+aVThe real battle is not against competitors.
+p260
+aVThis is rubbish, very abstract.
+p261
+aVWhen do we meet competitors to fight them?
+p262
+aVThe real battle is against ourselves,
+p263
+aVagainst our bureaucracy, our complicatedness.
+p264
+aVOnly you can fight, can do it.
+p265
+aVThank you.
+p266
+aV(Applause)
+p267
+aasS'id'
+p268
+I1911
+sS'title'
+p269
+VAs work gets more complex, 6 rules to simplify
+p270
+s.

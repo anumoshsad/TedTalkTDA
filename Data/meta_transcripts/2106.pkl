@@ -1,0 +1,1056 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThere is an entire genre of YouTube videos
+p4
+aVdevoted to an experience which
+p5
+aVI am certain that everyone in this room has had.
+p6
+aVIt entails an individual who,
+p7
+aVthinking they're alone,
+p8
+aVengages in some expressive behavior \u2014
+p9
+aVwild singing, gyrating dancing,
+p10
+aVsome mild sexual activity \u2014
+p11
+aVonly to discover that, in fact, they are not alone,
+p12
+aVthat there is a person watching and lurking,
+p13
+aVthe discovery of which causes them
+p14
+aVto immediately cease what they were doing
+p15
+aVin horror.
+p16
+aVThe sense of shame and humiliation
+p17
+aVin their face is palpable.
+p18
+aVIt's the sense of,
+p19
+aV"This is something I'm willing to do
+p20
+aVonly if no one else is watching."
+p21
+aa(lp22
+VThis is the crux of the work
+p23
+aVon which I have been singularly focused
+p24
+aVfor the last 16 months,
+p25
+aVthe question of why privacy matters,
+p26
+aVa question that has arisen
+p27
+aVin the context of a global debate,
+p28
+aVenabled by the revelations of Edward Snowden
+p29
+aVthat the United States and its partners,
+p30
+aVunbeknownst to the entire world,
+p31
+aVhas converted the Internet,
+p32
+aVonce heralded as an unprecedented tool
+p33
+aVof liberation and democratization,
+p34
+aVinto an unprecedented zone
+p35
+aVof mass, indiscriminate surveillance.
+p36
+aa(lp37
+VThere is a very common sentiment
+p38
+aVthat arises in this debate,
+p39
+aVeven among people who are uncomfortable
+p40
+aVwith mass surveillance, which says
+p41
+aVthat there is no real harm
+p42
+aVthat comes from this large-scale invasion
+p43
+aVbecause only people who are engaged in bad acts
+p44
+aVhave a reason to want to hide
+p45
+aVand to care about their privacy.
+p46
+aVThis worldview is implicitly grounded
+p47
+aVin the proposition that there are two kinds of people in the world,
+p48
+aVgood people and bad people.
+p49
+aVBad people are those who plot terrorist attacks
+p50
+aVor who engage in violent criminality
+p51
+aVand therefore have reasons to want to hide what they're doing,
+p52
+aVhave reasons to care about their privacy.
+p53
+aVBut by contrast, good people
+p54
+aVare people who go to work,
+p55
+aVcome home, raise their children, watch television.
+p56
+aVThey use the Internet not to plot bombing attacks
+p57
+aVbut to read the news or exchange recipes
+p58
+aVor to plan their kids' Little League games,
+p59
+aVand those people are doing nothing wrong
+p60
+aVand therefore have nothing to hide
+p61
+aVand no reason to fear
+p62
+aVthe government monitoring them.
+p63
+aa(lp64
+VThe people who are actually saying that
+p65
+aVare engaged in a very extreme act
+p66
+aVof self-deprecation.
+p67
+aVWhat they're really saying is,
+p68
+aV"I have agreed to make myself
+p69
+aVsuch a harmless and unthreatening
+p70
+aVand uninteresting person that I actually don't fear
+p71
+aVhaving the government know what it is that I'm doing."
+p72
+aVThis mindset has found what I think
+p73
+aVis its purest expression
+p74
+aVin a 2009 interview with
+p75
+aVthe longtime CEO of Google, Eric Schmidt, who,
+p76
+aVwhen asked about all the different ways his company
+p77
+aVis causing invasions of privacy
+p78
+aVfor hundreds of millions of people around the world,
+p79
+aVsaid this: He said,
+p80
+aV"If you're doing something that you don't want
+p81
+aVother people to know,
+p82
+aVmaybe you shouldn't be doing it in the first place."
+p83
+aa(lp84
+VNow, there's all kinds of things to say about
+p85
+aVthat mentality,
+p86
+aVthe first of which is that the people who say that,
+p87
+aVwho say that privacy isn't really important,
+p88
+aVthey don't actually believe it,
+p89
+aVand the way you know that they don't actually believe it
+p90
+aVis that while they say with their words that privacy doesn't matter,
+p91
+aVwith their actions, they take all kinds of steps
+p92
+aVto safeguard their privacy.
+p93
+aVThey put passwords on their email
+p94
+aVand their social media accounts,
+p95
+aVthey put locks on their bedroom
+p96
+aVand bathroom doors,
+p97
+aVall steps designed to prevent other people
+p98
+aVfrom entering what they consider their private realm
+p99
+aVand knowing what it is that they don't want other people to know.
+p100
+aVThe very same Eric Schmidt, the CEO of Google,
+p101
+aVordered his employees at Google
+p102
+aVto cease speaking with the online
+p103
+aVInternet magazine CNET
+p104
+aVafter CNET published an article
+p105
+aVfull of personal, private information
+p106
+aVabout Eric Schmidt,
+p107
+aVwhich it obtained exclusively through Google searches
+p108
+aVand using other Google products. (Laughter)
+p109
+aVThis same division can be seen
+p110
+aVwith the CEO of Facebook, Mark Zuckerberg,
+p111
+aVwho in an infamous interview in 2010
+p112
+aVpronounced that privacy is no longer
+p113
+aVa "social norm."
+p114
+aVLast year, Mark Zuckerberg and his new wife
+p115
+aVpurchased not only their own house
+p116
+aVbut also all four adjacent houses in Palo Alto
+p117
+aVfor a total of 30 million dollars
+p118
+aVin order to ensure that they enjoyed a zone of privacy
+p119
+aVthat prevented other people from monitoring
+p120
+aVwhat they do in their personal lives.
+p121
+aa(lp122
+VOver the last 16 months, as I've debated this issue around the world,
+p123
+aVevery single time somebody has said to me,
+p124
+aV"I don't really worry about invasions of privacy
+p125
+aVbecause I don't have anything to hide."
+p126
+aVI always say the same thing to them.
+p127
+aVI get out a pen, I write down my email address.
+p128
+aVI say, "Here's my email address.
+p129
+aVWhat I want you to do when you get home
+p130
+aVis email me the passwords
+p131
+aVto all of your email accounts,
+p132
+aVnot just the nice, respectable work one in your name,
+p133
+aVbut all of them,
+p134
+aVbecause I want to be able to just troll through
+p135
+aVwhat it is you're doing online,
+p136
+aVread what I want to read and publish whatever I find interesting.
+p137
+aVAfter all, if you're not a bad person,
+p138
+aVif you're doing nothing wrong,
+p139
+aVyou should have nothing to hide."
+p140
+aa(lp141
+VNot a single person has taken me up on that offer.
+p142
+aVI check and \u2014 (Applause)
+p143
+aVI check that email account religiously all the time.
+p144
+aVIt's a very desolate place.
+p145
+aVAnd there's a reason for that,
+p146
+aVwhich is that we as human beings,
+p147
+aVeven those of us who in words
+p148
+aVdisclaim the importance of our own privacy,
+p149
+aVinstinctively understand
+p150
+aVthe profound importance of it.
+p151
+aVIt is true that as human beings, we're social animals,
+p152
+aVwhich means we have a need for other people
+p153
+aVto know what we're doing and saying and thinking,
+p154
+aVwhich is why we voluntarily publish information about ourselves online.
+p155
+aVBut equally essential to what it means
+p156
+aVto be a free and fulfilled human being
+p157
+aVis to have a place that we can go
+p158
+aVand be free of the judgmental eyes of other people.
+p159
+aVThere's a reason why we seek that out,
+p160
+aVand our reason is that all of us \u2014
+p161
+aVnot just terrorists and criminals, all of us \u2014
+p162
+aVhave things to hide.
+p163
+aVThere are all sorts of things that we do and think
+p164
+aVthat we're willing to tell our physician
+p165
+aVor our lawyer or our psychologist or our spouse
+p166
+aVor our best friend that we would be mortified
+p167
+aVfor the rest of the world to learn.
+p168
+aVWe make judgments every single day
+p169
+aVabout the kinds of things that we say and think and do
+p170
+aVthat we're willing to have other people know,
+p171
+aVand the kinds of things that we say and think and do
+p172
+aVthat we don't want anyone else to know about.
+p173
+aVPeople can very easily in words claim
+p174
+aVthat they don't value their privacy,
+p175
+aVbut their actions negate the authenticity of that belief.
+p176
+aa(lp177
+VNow, there's a reason why privacy is so craved
+p178
+aVuniversally and instinctively.
+p179
+aVIt isn't just a reflexive movement
+p180
+aVlike breathing air or drinking water.
+p181
+aVThe reason is that when we're in a state
+p182
+aVwhere we can be monitored, where we can be watched,
+p183
+aVour behavior changes dramatically.
+p184
+aVThe range of behavioral options that we consider
+p185
+aVwhen we think we're being watched
+p186
+aVseverely reduce.
+p187
+aVThis is just a fact of human nature
+p188
+aVthat has been recognized in social science
+p189
+aVand in literature and in religion
+p190
+aVand in virtually every field of discipline.
+p191
+aVThere are dozens of psychological studies
+p192
+aVthat prove that when somebody knows
+p193
+aVthat they might be watched,
+p194
+aVthe behavior they engage in
+p195
+aVis vastly more conformist and compliant.
+p196
+aVHuman shame is a very powerful motivator,
+p197
+aVas is the desire to avoid it,
+p198
+aVand that's the reason why people,
+p199
+aVwhen they're in a state of being watched, make decisions
+p200
+aVnot that are the byproduct of their own agency
+p201
+aVbut that are about the expectations
+p202
+aVthat others have of them
+p203
+aVor the mandates of societal orthodoxy.
+p204
+aa(lp205
+VThis realization was exploited most powerfully
+p206
+aVfor pragmatic ends by the 18th- century philosopher Jeremy Bentham,
+p207
+aVwho set out to resolve an important problem
+p208
+aVushered in by the industrial age,
+p209
+aVwhere, for the first time, institutions had become
+p210
+aVso large and centralized
+p211
+aVthat they were no longer able to monitor
+p212
+aVand therefore control each one of their individual members,
+p213
+aVand the solution that he devised
+p214
+aVwas an architectural design
+p215
+aVoriginally intended to be implemented in prisons
+p216
+aVthat he called the panopticon,
+p217
+aVthe primary attribute of which was the construction
+p218
+aVof an enormous tower in the center of the institution
+p219
+aVwhere whoever controlled the institution
+p220
+aVcould at any moment watch any of the inmates,
+p221
+aValthough they couldn't watch all of them at all times.
+p222
+aVAnd crucial to this design
+p223
+aVwas that the inmates could not actually
+p224
+aVsee into the panopticon, into the tower,
+p225
+aVand so they never knew
+p226
+aVif they were being watched or even when.
+p227
+aVAnd what made him so excited about this discovery
+p228
+aVwas that that would mean that the prisoners
+p229
+aVwould have to assume that they were being watched
+p230
+aVat any given moment,
+p231
+aVwhich would be the ultimate enforcer
+p232
+aVfor obedience and compliance.
+p233
+aVThe 20th-century French philosopher Michel Foucault
+p234
+aVrealized that that model could be used
+p235
+aVnot just for prisons but for every institution
+p236
+aVthat seeks to control human behavior:
+p237
+aVschools, hospitals, factories, workplaces.
+p238
+aVAnd what he said was that this mindset,
+p239
+aVthis framework discovered by Bentham,
+p240
+aVwas the key means of societal control
+p241
+aVfor modern, Western societies,
+p242
+aVwhich no longer need
+p243
+aVthe overt weapons of tyranny \u2014
+p244
+aVpunishing or imprisoning or killing dissidents,
+p245
+aVor legally compelling loyalty to a particular party \u2014
+p246
+aVbecause mass surveillance creates
+p247
+aVa prison in the mind
+p248
+aVthat is a much more subtle
+p249
+aVthough much more effective means
+p250
+aVof fostering compliance with social norms
+p251
+aVor with social orthodoxy,
+p252
+aVmuch more effective
+p253
+aVthan brute force could ever be.
+p254
+aa(lp255
+VThe most iconic work of literature about surveillance
+p256
+aVand privacy is the George Orwell novel "1984,"
+p257
+aVwhich we all learn in school, and therefore it's almost become a cliche.
+p258
+aVIn fact, whenever you bring it up in a debate about surveillance,
+p259
+aVpeople instantaneously dismiss it
+p260
+aVas inapplicable, and what they say is,
+p261
+aV"Oh, well in '1984,' there were monitors in people's homes,
+p262
+aVthey were being watched at every given moment,
+p263
+aVand that has nothing to do with the surveillance state that we face."
+p264
+aVThat is an actual fundamental misapprehension
+p265
+aVof the warnings that Orwell issued in "1984."
+p266
+aVThe warning that he was issuing
+p267
+aVwas about a surveillance state
+p268
+aVnot that monitored everybody at all times,
+p269
+aVbut where people were aware that they could
+p270
+aVbe monitored at any given moment.
+p271
+aVHere is how Orwell's narrator, Winston Smith,
+p272
+aVdescribed the surveillance system
+p273
+aVthat they faced:
+p274
+aV"There was, of course, no way of knowing
+p275
+aVwhether you were being watched at any given moment."
+p276
+aVHe went on to say,
+p277
+aV"At any rate, they could plug in your wire
+p278
+aVwhenever they wanted to.
+p279
+aVYou had to live, did live,
+p280
+aVfrom habit that became instinct,
+p281
+aVin the assumption that every sound you made
+p282
+aVwas overheard and except in darkness
+p283
+aVevery movement scrutinized."
+p284
+aa(lp285
+VThe Abrahamic religions similarly posit
+p286
+aVthat there's an invisible, all-knowing authority
+p287
+aVwho, because of its omniscience,
+p288
+aValways watches whatever you're doing,
+p289
+aVwhich means you never have a private moment,
+p290
+aVthe ultimate enforcer
+p291
+aVfor obedience to its dictates.
+p292
+aa(lp293
+VWhat all of these seemingly disparate works
+p294
+aVrecognize, the conclusion that they all reach,
+p295
+aVis that a society in which people
+p296
+aVcan be monitored at all times
+p297
+aVis a society that breeds conformity
+p298
+aVand obedience and submission,
+p299
+aVwhich is why every tyrant,
+p300
+aVthe most overt to the most subtle,
+p301
+aVcraves that system.
+p302
+aVConversely, even more importantly,
+p303
+aVit is a realm of privacy,
+p304
+aVthe ability to go somewhere where we can think
+p305
+aVand reason and interact and speak
+p306
+aVwithout the judgmental eyes of others being cast upon us,
+p307
+aVin which creativity and exploration
+p308
+aVand dissent exclusively reside,
+p309
+aVand that is the reason why,
+p310
+aVwhen we allow a society to exist
+p311
+aVin which we're subject to constant monitoring,
+p312
+aVwe allow the essence of human freedom
+p313
+aVto be severely crippled.
+p314
+aa(lp315
+VThe last point I want to observe about this mindset,
+p316
+aVthe idea that only people who  are doing something wrong
+p317
+aVhave things to hide and therefore reasons to care about privacy,
+p318
+aVis that it entrenches two very destructive messages,
+p319
+aVtwo destructive lessons,
+p320
+aVthe first of which is that
+p321
+aVthe only people who care about privacy,
+p322
+aVthe only people who will seek out privacy,
+p323
+aVare by definition bad people.
+p324
+aVThis is a conclusion that we should have
+p325
+aVall kinds of reasons for avoiding,
+p326
+aVthe most important of which is that when you say,
+p327
+aV"somebody who is doing bad things,"
+p328
+aVyou probably mean things like plotting a terrorist attack
+p329
+aVor engaging in violent criminality,
+p330
+aVa much narrower conception
+p331
+aVof what people who wield power mean
+p332
+aVwhen they say, "doing bad things."
+p333
+aVFor them, "doing bad things" typically means
+p334
+aVdoing something that poses meaningful challenges
+p335
+aVto the exercise of our own power.
+p336
+aa(lp337
+VThe other really destructive
+p338
+aVand, I think, even more insidious lesson
+p339
+aVthat comes from accepting this mindset
+p340
+aVis there's an implicit bargain
+p341
+aVthat people who accept this mindset have accepted,
+p342
+aVand that bargain is this:
+p343
+aVIf you're willing to render yourself
+p344
+aVsufficiently harmless,
+p345
+aVsufficiently unthreatening
+p346
+aVto those who wield political power,
+p347
+aVthen and only then can you be free
+p348
+aVof the dangers of surveillance.
+p349
+aVIt's only those who are dissidents,
+p350
+aVwho challenge power,
+p351
+aVwho have something to worry about.
+p352
+aVThere are all kinds of reasons why we should want to avoid that lesson as well.
+p353
+aVYou may be a person who, right now,
+p354
+aVdoesn't want to engage in that behavior,
+p355
+aVbut at some point in the future you might.
+p356
+aVEven if you're somebody who decides
+p357
+aVthat you never want to,
+p358
+aVthe fact that there are other people
+p359
+aVwho are willing to and able to resist
+p360
+aVand be adversarial to those in power \u2014
+p361
+aVdissidents and journalists
+p362
+aVand activists and a whole range of others \u2014
+p363
+aVis something that brings us all collective good
+p364
+aVthat we should want to preserve.
+p365
+aVEqually critical is that the measure
+p366
+aVof how free a society is
+p367
+aVis not how it treats its good,
+p368
+aVobedient, compliant citizens,
+p369
+aVbut how it treats its dissidents
+p370
+aVand those who resist orthodoxy.
+p371
+aVBut the most important reason
+p372
+aVis that a system of mass surveillance
+p373
+aVsuppresses our own freedom in all sorts of ways.
+p374
+aVIt renders off-limits
+p375
+aVall kinds of behavioral choices
+p376
+aVwithout our even knowing that it's happened.
+p377
+aVThe renowned socialist activist Rosa Luxemburg
+p378
+aVonce said, "He who does not move
+p379
+aVdoes not notice his chains."
+p380
+aVWe can try and render the chains
+p381
+aVof mass surveillance invisible or undetectable,
+p382
+aVbut the constraints that it imposes on us
+p383
+aVdo not become any less potent.
+p384
+aa(lp385
+VThank you very much.
+p386
+aa(lp387
+V(Applause)
+p388
+aa(lp389
+VThank you.
+p390
+aa(lp391
+V(Applause)
+p392
+aa(lp393
+VThank you.
+p394
+aa(lp395
+V(Applause)
+p396
+aa(lp397
+VBruno Giussani: Glenn, thank you.
+p398
+aVThe case is rather convincing, I have to say,
+p399
+aVbut I want to bring you back
+p400
+aVto the last 16 months and to Edward Snowden
+p401
+aVfor a few questions, if you don't mind.
+p402
+aVThe first one is personal to you.
+p403
+aVWe have all read about the arrest of your partner,
+p404
+aVDavid Miranda in London, and other difficulties,
+p405
+aVbut I assume that
+p406
+aVin terms of personal engagement and risk,
+p407
+aVthat the pressure on you is not that easy
+p408
+aVto take on the biggest sovereign  organizations in the world.
+p409
+aVTell us a little bit about that.
+p410
+aa(lp411
+VGlenn Greenwald: You know, I think one of the things that happens
+p412
+aVis that people's courage in this regard
+p413
+aVgets contagious,
+p414
+aVand so although I and the other journalists with whom I was working
+p415
+aVwere certainly aware of the risk \u2014
+p416
+aVthe United States continues to be the most powerful country in the world
+p417
+aVand doesn't appreciate it when you
+p418
+aVdisclose thousands of their secrets
+p419
+aVon the Internet at will \u2014
+p420
+aVseeing somebody who is a 29-year-old
+p421
+aVordinary person who grew up in
+p422
+aVa very ordinary environment
+p423
+aVexercise the degree of principled courage that Edward Snowden risked,
+p424
+aVknowing that he was going to go to prison for the rest of his life
+p425
+aVor that his life would unravel,
+p426
+aVinspired me and inspired other journalists
+p427
+aVand inspired, I think, people around the world,
+p428
+aVincluding future whistleblowers,
+p429
+aVto realize that they can engage in that kind of behavior as well.
+p430
+aa(lp431
+VBG: I'm curious about your relationship with Ed Snowden,
+p432
+aVbecause you have spoken with him a lot,
+p433
+aVand you certainly continue doing so,
+p434
+aVbut in your book, you never call him Edward,
+p435
+aVnor Ed, you say "Snowden." How come?
+p436
+aa(lp437
+VGG: You know, I'm sure that's something
+p438
+aVfor a team of psychologists to examine. (Laughter)
+p439
+aVI don't really know. The reason I think that,
+p440
+aVone of the important objectives that he actually had,
+p441
+aVone of his, I think, most important tactics,
+p442
+aVwas that he knew that one of the ways
+p443
+aVto distract attention from the substance of the revelations
+p444
+aVwould be to try and personalize the focus on him,
+p445
+aVand for that reason, he stayed out of the media.
+p446
+aVHe tried not to ever have his personal life
+p447
+aVsubject to examination,
+p448
+aVand so I think calling him Snowden
+p449
+aVis a way of just identifying him as this important historical actor
+p450
+aVrather than trying to personalize him in a way
+p451
+aVthat might distract attention from the substance.
+p452
+aa(lp453
+VModerator: So his revelations, your analysis,
+p454
+aVthe work of other journalists,
+p455
+aVhave really developed the debate,
+p456
+aVand many governments, for example, have reacted,
+p457
+aVincluding in Brazil, with projects and programs
+p458
+aVto reshape a little bit the design of the Internet, etc.
+p459
+aVThere are a lot of things going on in that sense.
+p460
+aVBut I'm wondering, for you personally,
+p461
+aVwhat is the endgame?
+p462
+aVAt what point will you think,
+p463
+aVwell, actually, we've succeeded  in moving the dial?
+p464
+aa(lp465
+VGG: Well, I mean, the endgame for me as a journalist
+p466
+aVis very simple, which is to make sure
+p467
+aVthat every single document that's newsworthy
+p468
+aVand that ought to be disclosed
+p469
+aVends up being disclosed,
+p470
+aVand that secrets that should never have been kept in the first place
+p471
+aVend up uncovered.
+p472
+aVTo me, that's the essence of journalism
+p473
+aVand that's what I'm committed to doing.
+p474
+aVAs somebody who finds mass surveillance odious
+p475
+aVfor all the reasons I just talked about and a lot more,
+p476
+aVI mean, I look at this as work that will never end
+p477
+aVuntil governments around the world
+p478
+aVare no longer able to subject entire populations
+p479
+aVto monitoring and surveillance
+p480
+aVunless they convince some court or some entity
+p481
+aVthat the person they've targeted
+p482
+aVhas actually done something wrong.
+p483
+aVTo me, that's the way that privacy can be rejuvenated.
+p484
+aa(lp485
+VBG: So Snowden is very, as we've seen at TED,
+p486
+aVis very articulate in presenting and portraying himself
+p487
+aVas a defender of democratic values
+p488
+aVand democratic principles.
+p489
+aVBut then, many people really  find it difficult to believe
+p490
+aVthat those are his only motivations.
+p491
+aVThey find it difficult to believe
+p492
+aVthat there was no money involved,
+p493
+aVthat he didn't sell some of those secrets,
+p494
+aVeven to China and to Russia,
+p495
+aVwhich are clearly not the best friends
+p496
+aVof the United States right now.
+p497
+aVAnd I'm sure many people in the room
+p498
+aVare wondering the same question.
+p499
+aVDo you consider it possible there is
+p500
+aVthat part of Snowden we've not seen yet?
+p501
+aa(lp502
+VGG: No, I consider that absurd and idiotic.
+p503
+aV(Laughter) If you wanted to,
+p504
+aVand I know you're just playing devil's advocate,
+p505
+aVbut if you wanted to sell
+p506
+aVsecrets to another country,
+p507
+aVwhich he could have done and become
+p508
+aVextremely rich doing so,
+p509
+aVthe last thing you would  do is take those secrets
+p510
+aVand give them to journalists and ask journalists to publish them,
+p511
+aVbecause it makes those secrets worthless.
+p512
+aVPeople who want to enrich themselves
+p513
+aVdo it secretly by selling  secrets to the government,
+p514
+aVbut I think there's one important point worth making,
+p515
+aVwhich is, that accusation comes from
+p516
+aVpeople in the U.S. government,
+p517
+aVfrom people in the media who are loyalists
+p518
+aVto these various governments,
+p519
+aVand I think a lot of times when people make accusations like that about other people \u2014
+p520
+aV"Oh, he can't really be doing this
+p521
+aVfor principled reasons,
+p522
+aVhe must have some corrupt, nefarious reason" \u2014
+p523
+aVthey're saying a lot more about themselves
+p524
+aVthan they are the target of their accusations,
+p525
+aVbecause \u2014 (Applause) \u2014
+p526
+aVthose people, the ones who make that accusation,
+p527
+aVthey themselves never act
+p528
+aVfor any reason other than corrupt reasons,
+p529
+aVso they assume
+p530
+aVthat everybody else is plagued by the same disease
+p531
+aVof soullessness as they are,
+p532
+aVand so that's the assumption.
+p533
+aV(Applause)
+p534
+aa(lp535
+VBG: Glenn, thank you very much. GG: Thank you very much.
+p536
+aa(lp537
+VBG: Glenn Greenwald.
+p538
+aV(Applause)
+p539
+aasS'id'
+p540
+I2106
+sS'title'
+p541
+VWhy privacy matters
+p542
+s.

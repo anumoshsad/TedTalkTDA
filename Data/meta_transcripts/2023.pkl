@@ -1,0 +1,588 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThink of a hard choice you'll face in the near future.
+p4
+aVIt might be between two careers \u2014
+p5
+aVartist and accountant \u2014
+p6
+aVor places to live \u2014 the city or the country \u2014
+p7
+aVor even between two people to marry \u2014
+p8
+aVyou could marry Betty or you could marry Lolita.
+p9
+aVOr it might be a choice about whether to have children,
+p10
+aVto have an ailing parent move in with you,
+p11
+aVto raise your child in a religion that your partner lives by
+p12
+aVbut leaves you cold.
+p13
+aVOr whether to donate your life savings to charity.
+p14
+aa(lp15
+VChances are, the hard choice you thought of was something big,
+p16
+aVsomething momentous, something that matters to you.
+p17
+aVHard choices seem to be occasions
+p18
+aVfor agonizing, hand-wringing, the gnashing of teeth.
+p19
+aVBut I think we've misunderstood hard choices
+p20
+aVand the role they play in our lives.
+p21
+aVUnderstanding hard choices
+p22
+aVuncovers a hidden power each of us possesses.
+p23
+aa(lp24
+VWhat makes a choice hard is the way the alternatives relate.
+p25
+aVIn any easy choice,
+p26
+aVone alternative is better than the other.
+p27
+aVIn a hard choice,
+p28
+aVone alternative is better in some ways,
+p29
+aVthe other alternative is better in other ways,
+p30
+aVand neither is better than the other overall.
+p31
+aVYou agonize over whether to stay in your current job in the city
+p32
+aVor uproot your life for more challenging work in the country,
+p33
+aVbecause staying is better in some ways,
+p34
+aVmoving is better in others,
+p35
+aVand neither is better than the other overall.
+p36
+aa(lp37
+VWe shouldn't think that all hard choices are big.
+p38
+aVLet's say you're deciding what to have for breakfast.
+p39
+aVYou could have high fiber bran cereal
+p40
+aVor a chocolate donut.
+p41
+aVSuppose what matters in the choice is tastiness and healthfulness.
+p42
+aVThe cereal is better for you,
+p43
+aVthe donut tastes way better,
+p44
+aVbut neither is better than the other overall,
+p45
+aVa hard choice.
+p46
+aVRealizing that small choices can also be hard,
+p47
+aVmay make big hard choices seem less intractable.
+p48
+aVAfter all, we manage to figure out what to have for breakfast,
+p49
+aVso maybe we can figure out whether to stay in the city
+p50
+aVor uproot for the new job in the country.
+p51
+aa(lp52
+VWe also shouldn't think that hard choices are hard
+p53
+aVbecause we are stupid.
+p54
+aVWhen I graduated from college,
+p55
+aVI couldn't decide between two careers, philosophy and law.
+p56
+aVI really loved philosophy.
+p57
+aVThere are amazing things you can learn as a philosopher,
+p58
+aVand all from the comfort of an armchair.
+p59
+aVBut I came from a modest immigrant family
+p60
+aVwhere my idea of luxury
+p61
+aVwas having a pork tongue and jelly sandwich
+p62
+aVin my school lunchbox,
+p63
+aVso the thought of spending my whole life
+p64
+aVsitting around in armchairs just thinking ...
+p65
+aVWell, that struck me as the height of extravagance and frivolity.
+p66
+aVSo I got out my yellow pad,
+p67
+aVI drew a line down the middle,
+p68
+aVand I tried my best to think of the reasons
+p69
+aVfor and against each alternative.
+p70
+aVI remember thinking to myself,
+p71
+aVif only I knew what my life in each career would be like.
+p72
+aVIf only God or Netflix would send me a DVD of my two possible future careers,
+p73
+aVI'd be set.
+p74
+aVI'd compare them side by side,
+p75
+aVI'd see that one was better,
+p76
+aVand the choice would be easy.
+p77
+aa(lp78
+VBut I got no DVD,
+p79
+aVand because I couldn't figure out which was better,
+p80
+aVI did what many of us do in hard choices:
+p81
+aVI took the safest option.
+p82
+aVFear of being an unemployed philosopher led me to become a lawyer,
+p83
+aVand as I discovered, lawyering didn't quite fit.
+p84
+aVIt wasn't who I was.
+p85
+aVSo now I'm a philosopher,
+p86
+aVand I study hard choices,
+p87
+aVand I can tell you, that fear of the unknown,
+p88
+aVwhile a common motivational default in dealing with hard choices,
+p89
+aVrests on a misconception of them.
+p90
+aVIt's a mistake to think that in hard choices,
+p91
+aVone alternative really is better than the other,
+p92
+aVbut we're too stupid to know which,
+p93
+aVand since we don't know which,
+p94
+aVwe might as well take the least risky option.
+p95
+aVEven taking two alternatives side by side
+p96
+aVwith full information, a choice can still be hard.
+p97
+aVHard choices are hard not because of us or our ignorance;
+p98
+aVthey're hard because there is no best option.
+p99
+aa(lp100
+VNow, if there's no best option,
+p101
+aVif the scales don't tip in favor of one alternative over another,
+p102
+aVthen surely the alternatives must be equally good.
+p103
+aVSo maybe the right thing to say in hard choices
+p104
+aVis that they're between equally good options.
+p105
+aVBut that can't be right.
+p106
+aVIf alternatives are equally good, you should just flip a coin between them,
+p107
+aVand it seems a mistake to think,
+p108
+aVhere's how you should decide between careers,
+p109
+aVplaces to live, people to marry:
+p110
+aVFlip a coin.
+p111
+aa(lp112
+VThere's another reason for thinking
+p113
+aVthat hard choices aren't choices between equally good options.
+p114
+aVSuppose you have a choice between two jobs:
+p115
+aVyou could be an investment banker
+p116
+aVor a graphic artist.
+p117
+aVThere are a variety of things that matter in such a choice,
+p118
+aVlike the excitement of the work,
+p119
+aVachieving financial security,
+p120
+aVhaving time to raise a family, and so on.
+p121
+aVMaybe the artist's career puts you on the cutting edge
+p122
+aVof new forms of pictorial expression.
+p123
+aVMaybe the banking career puts you on the cutting edge
+p124
+aVof new forms of financial manipulation.
+p125
+aa(lp126
+V(Laughter)
+p127
+aa(lp128
+VImagine the two jobs however you like,
+p129
+aVso that neither is better than the other.
+p130
+aa(lp131
+VNow suppose we improve one of them, a bit.
+p132
+aVSuppose the bank, wooing you,
+p133
+aVadds 500 dollars a month to your salary.
+p134
+aVDoes the extra money
+p135
+aVnow make the banking job better than the artist one?
+p136
+aVNot necessarily.
+p137
+aVA higher salary makes the banking job better than it was before,
+p138
+aVbut it might not be enough
+p139
+aVto make being a banker better than being an artist.
+p140
+aVBut if an improvement in one of the jobs doesn't make it better than the other,
+p141
+aVthen the two original jobs could not have been equally good.
+p142
+aVIf you start with two things that are equally good,
+p143
+aVand you improve one of them,
+p144
+aVit now must be better than the other.
+p145
+aVThat's not the case with options in hard choices.
+p146
+aa(lp147
+VSo now we've got a puzzle.
+p148
+aVWe've got two jobs.
+p149
+aVNeither is better than the other, nor are they equally good.
+p150
+aVSo how are we supposed to choose?
+p151
+aVSomething seems to have gone wrong here.
+p152
+aVMaybe the choice itself is problematic, and comparison is impossible.
+p153
+aVBut that can't be right.
+p154
+aVIt's not like we're trying to choose between two things that can't be compared.
+p155
+aVWe're weighing the merits of two jobs, after all,
+p156
+aVnot the merits of the number nine and a plate of fried eggs.
+p157
+aVA comparison of the overall merits of two jobs
+p158
+aVis something we can make,
+p159
+aVand one we often do make.
+p160
+aa(lp161
+VI think the puzzle arises
+p162
+aVbecause of an unreflective assumption we make about value.
+p163
+aVWe unwittingly assume that values like justice, beauty, kindness,
+p164
+aVare akin to scientific quantities, like length, mass and weight.
+p165
+aVTake any comparative question not involving value,
+p166
+aVsuch as which of two suitcases is heavier.
+p167
+aVThere are only three possibilities.
+p168
+aVThe weight of one is greater, lesser or equal to the weight of the other.
+p169
+aVProperties like weight can be represented by real numbers \u2014
+p170
+aVone, two, three and so on \u2014
+p171
+aVand there are only three possible comparisons
+p172
+aVbetween any two real numbers.
+p173
+aVOne number is greater, lesser, or equal to the other.
+p174
+aVNot so with values.
+p175
+aVAs post-Enlightenment creatures,
+p176
+aVwe tend to assume
+p177
+aVthat scientific thinking holds the key to everything of importance in our world,
+p178
+aVbut the world of value is different from the world of science.
+p179
+aVThe stuff of the one world can be quantified by real numbers.
+p180
+aVThe stuff of the other world can't.
+p181
+aVWe shouldn't assume that the world of is, of lengths and weights,
+p182
+aVhas the same structure as the world of ought,
+p183
+aVof what we should do.
+p184
+aa(lp185
+VSo if what matters to us \u2014
+p186
+aVa child's delight, the love you have for your partner \u2014
+p187
+aVcan't be represented by real numbers,
+p188
+aVthen there's no reason to believe
+p189
+aVthat in choice, there are only three possibilities \u2014
+p190
+aVthat one alternative is better, worse or equal to the other.
+p191
+aVWe need to introduce a new, fourth relation
+p192
+aVbeyond being better, worse or equal,
+p193
+aVthat describes what's going on in hard choices.
+p194
+aVI like to say that the alternatives are "on a par."
+p195
+aVWhen alternatives are on a par,
+p196
+aVit may matter very much which you choose,
+p197
+aVbut one alternative isn't better than the other.
+p198
+aVRather, the alternatives are in the same neighborhood of value,
+p199
+aVin the same league of value,
+p200
+aVwhile at the same time being very different in kind of value.
+p201
+aVThat's why the choice is hard.
+p202
+aa(lp203
+VUnderstanding hard choices in this way
+p204
+aVuncovers something about ourselves we didn't know.
+p205
+aVEach of us has the power to create reasons.
+p206
+aVImagine a world in which every choice you face
+p207
+aVis an easy choice,
+p208
+aVthat is, there's always a best alternative.
+p209
+aVIf there's a best alternative, then that's the one you should choose,
+p210
+aVbecause part of being rational
+p211
+aVis doing the better thing rather than the worse thing,
+p212
+aVchoosing what you have most reason to choose.
+p213
+aVIn such a world,
+p214
+aVwe'd have most reason
+p215
+aVto wear black socks instead of pink socks,
+p216
+aVto eat cereal instead of donuts,
+p217
+aVto live in the city rather than the country,
+p218
+aVto marry Betty instead of Lolita.
+p219
+aVA world full of only easy choices would enslave us to reasons.
+p220
+aa(lp221
+VWhen you think about it,
+p222
+aa(lp223
+V(Laughter)
+p224
+aa(lp225
+Vit's nuts to believe that the reasons given to you
+p226
+aVdictated that you had most reason to pursue
+p227
+aVthe exact hobbies you do,
+p228
+aVto live in the exact house you do,
+p229
+aVto work at the exact job you do.
+p230
+aVInstead, you faced alternatives that were on a par \u2014
+p231
+aVhard choices \u2014
+p232
+aVand you made reasons for yourself
+p233
+aVto choose that hobby, that house and that job.
+p234
+aVWhen alternatives are on a par,
+p235
+aVthe reasons given to us,
+p236
+aVthe ones that determine whether we're making a mistake,
+p237
+aVare silent as to what to do.
+p238
+aVIt's here, in the space of hard choices,
+p239
+aVthat we get to exercise our normative power \u2014
+p240
+aVthe power to create reasons for yourself,
+p241
+aVto make yourself into the kind of person
+p242
+aVfor whom country living is preferable to the urban life.
+p243
+aa(lp244
+VWhen we choose between options that are on a par,
+p245
+aVwe can do something really rather remarkable.
+p246
+aVWe can put our very selves behind an option.
+p247
+aVHere's where I stand.
+p248
+aVHere's who I am, I am for banking.
+p249
+aVI am for chocolate donuts.
+p250
+aa(lp251
+V(Laughter)
+p252
+aa(lp253
+VThis response in hard choices is a rational response,
+p254
+aVbut it's not dictated by reasons given to us.
+p255
+aVRather, it's supported by reasons created by us.
+p256
+aVWhen we create reasons for ourselves
+p257
+aVto become this kind of person rather than that,
+p258
+aVwe wholeheartedly become the people that we are.
+p259
+aVYou might say that we become the authors of our own lives.
+p260
+aa(lp261
+VSo when we face hard choices, we shouldn't beat our head against a wall
+p262
+aVtrying to figure out which alternative is better.
+p263
+aVThere is no best alternative.
+p264
+aVInstead of looking for reasons out there,
+p265
+aVwe should be looking for reasons in here:
+p266
+aVWho am I to be?
+p267
+aVYou might decide to be a pink sock-wearing,
+p268
+aVcereal-loving, country-living banker,
+p269
+aVand I might decide to be a black sock-wearing,
+p270
+aVurban, donut-loving artist.
+p271
+aVWhat we do in hard choices is very much up to each of us.
+p272
+aa(lp273
+VNow, people who don't exercise their normative powers in hard choices
+p274
+aVare drifters.
+p275
+aVWe all know people like that.
+p276
+aVI drifted into being a lawyer.
+p277
+aVI didn't put my agency behind lawyering.
+p278
+aVI wasn't for lawyering.
+p279
+aVDrifters allow the world to write the story of their lives.
+p280
+aVThey let mechanisms of reward and punishment \u2014
+p281
+aVpats on the head, fear, the easiness of an option \u2014
+p282
+aVto determine what they do.
+p283
+aVSo the lesson of hard choices:
+p284
+aVreflect on what you can put your agency behind,
+p285
+aVon what you can be for,
+p286
+aVand through hard choices,
+p287
+aVbecome that person.
+p288
+aa(lp289
+VFar from being sources of agony and dread,
+p290
+aVhard choices are precious opportunities
+p291
+aVfor us to celebrate what is special about the human condition,
+p292
+aVthat the reasons that govern our choices as correct or incorrect
+p293
+aVsometimes run out,
+p294
+aVand it is here, in the space of hard choices,
+p295
+aVthat we have the power to create reasons for ourselves
+p296
+aVto become the distinctive people that we are.
+p297
+aVAnd that's why hard choices are not a curse
+p298
+aVbut a godsend.
+p299
+aa(lp300
+VThank you.
+p301
+aa(lp302
+V(Applause)
+p303
+aasS'id'
+p304
+I2023
+sS'title'
+p305
+VHow to make hard choices 
+p306
+s.

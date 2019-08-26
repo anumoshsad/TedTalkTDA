@@ -1,0 +1,750 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThere's an old joke about a cop
+p4
+aVwho's walking his beat in the middle of the night,
+p5
+aVand he comes across a guy under a street lamp
+p6
+aVwho's looking at the ground and moving from side to side,
+p7
+aVand the cop asks him what he's doing.
+p8
+aVThe guys says he's looking for his keys.
+p9
+aVSo the cop takes his time
+p10
+aVand looks over and kind of makes a little matrix
+p11
+aVand looks for about two, three minutes.
+p12
+aVNo keys.
+p13
+aa(lp14
+VThe cop says, "Are you sure?
+p15
+aVHey buddy, are you sure you lost your keys here?"
+p16
+aa(lp17
+VAnd the guy says, "No, actually I lost them
+p18
+aVdown at the other end of the street,
+p19
+aVbut the light is better here."
+p20
+aa(lp21
+V(Laughter)
+p22
+aa(lp23
+VThere's a concept that people talk about nowadays called "big data."
+p24
+aVAnd what they're talking about is all of the information
+p25
+aVthat we're generating through our interaction
+p26
+aVwith and over the Internet,
+p27
+aVeverything from Facebook and Twitter
+p28
+aVto music downloads, movies, streaming, all this kind of stuff,
+p29
+aVthe live streaming of TED.
+p30
+aVAnd the folks who work with big data, for them,
+p31
+aVthey talk about that their biggest problem
+p32
+aVis we have so much information.
+p33
+aVThe biggest problem is: how do we organize all that information?
+p34
+aa(lp35
+VI can tell you that, working in global health,
+p36
+aVthat is not our biggest problem.
+p37
+aVBecause for us, even though the light is better on the Internet,
+p38
+aVthe data that would help us solve the problems we're trying to solve
+p39
+aVis not actually present on the Internet.
+p40
+aVSo we don't know, for example,
+p41
+aVhow many people right now are being affected by disasters
+p42
+aVor by conflict situations.
+p43
+aVWe don't know for, really, basically, any of the clinics
+p44
+aVin the developing world,
+p45
+aVwhich ones have medicines and which ones don't.
+p46
+aVWe have no idea of what the supply chain is for those clinics.
+p47
+aVWe don't know \u2014 and this is really amazing to me \u2014 we don't know
+p48
+aVhow many children were born \u2014 or how many children there are \u2014
+p49
+aVin Bolivia or Botswana or Bhutan.
+p50
+aVWe don't know how many kids died last week
+p51
+aVin any of those countries.
+p52
+aVWe don't know the needs of the elderly, the mentally ill.
+p53
+aVFor all of these different critically important problems
+p54
+aVor critically important areas that we want to solve problems in,
+p55
+aVwe basically know nothing at all.
+p56
+aa(lp57
+VAnd part of the reason why we don't know anything at all
+p58
+aVis that the information technology systems that we use in global health
+p59
+aVto find the data to solve these problems is what you see here.
+p60
+aVThis is about a 5,000-year-old technology.
+p61
+aVSome of you may have used it before.
+p62
+aVIt's kind of on its way out now,
+p63
+aVbut we still use it for 99 percent of our stuff.
+p64
+aVThis is a paper form.
+p65
+aVAnd what you're looking at is a paper form
+p66
+aVin the hand of a Ministry of Health nurse in Indonesia,
+p67
+aVwho is tramping out across the countryside
+p68
+aVin Indonesia on, I'm sure, a very hot and humid day,
+p69
+aVand she is going to be knocking on thousands of doors
+p70
+aVover a period of weeks or months,
+p71
+aVknocking on the doors and saying,
+p72
+aV"Excuse me, we'd like to ask you some questions.
+p73
+aVDo you have any children? Were your children vaccinated?"
+p74
+aa(lp75
+VBecause the only way we can actually find out
+p76
+aVhow many children were vaccinated in the country of Indonesia,
+p77
+aVwhat percentage were vaccinated,
+p78
+aVis actually not on the Internet, but by going out and knocking on doors,
+p79
+aVsometimes tens of thousands of doors.
+p80
+aVSometimes it takes months to even years to do something like this.
+p81
+aVYou know, a census of Indonesia
+p82
+aVwould probably take two years to accomplish.
+p83
+aa(lp84
+VAnd the problem, of course, with all of this
+p85
+aVis that, with all those paper forms \u2014
+p86
+aVand I'm telling you, we have paper forms for every possible thing:
+p87
+aVWe have paper forms for vaccination surveys.
+p88
+aVWe have paper forms to track people who come into clinics.
+p89
+aVWe have paper forms to track drug supplies, blood supplies \u2014
+p90
+aVall these different paper forms for many different topics,
+p91
+aVthey all have a single, common endpoint,
+p92
+aVand the common endpoint looks something like this.
+p93
+aVAnd what we're looking at here is a truckful of data.
+p94
+aVThis is the data from a single vaccination coverage survey
+p95
+aVin a single district in the country of Zambia
+p96
+aVfrom a few years ago, that I participated in.
+p97
+aVThe only thing anyone was trying to find out
+p98
+aVis what percentage of Zambian children are vaccinated,
+p99
+aVand this is the data, collected on paper over weeks,
+p100
+aVfrom a single district,
+p101
+aVwhich is something like a county in the United States.
+p102
+aVYou can imagine that, for the entire country of Zambia,
+p103
+aVanswering just that single question ...
+p104
+aVlooks something like this.
+p105
+aVTruck after truck after truck,
+p106
+aVfilled with stack after stack after stack of data.
+p107
+aa(lp108
+VAnd what makes it even worse is that's just the beginning.
+p109
+aVBecause once you've collected all that data,
+p110
+aVof course, someone \u2014 some unfortunate person \u2014
+p111
+aVis going to have to type that into a computer.
+p112
+aVWhen I was a graduate student,
+p113
+aVI actually was that unfortunate person sometimes.
+p114
+aVI can tell you, I often wasn't really paying attention.
+p115
+aVI probably made a lot of mistakes when I did it
+p116
+aVthat no one ever discovered, so data quality goes down.
+p117
+aa(lp118
+VBut eventually that data, hopefully, gets typed into a computer,
+p119
+aVand someone can begin to analyze it,
+p120
+aVand once they have an analysis and a report,
+p121
+aVhopefully, then you can take the results of that data collection
+p122
+aVand use it to vaccinate children better.
+p123
+aa(lp124
+VBecause if there's anything worse in the field of global public health \u2014
+p125
+aVI don't know what's worse than allowing children on this planet
+p126
+aVto die of vaccine-preventable diseases \u2014
+p127
+aVdiseases for which the vaccine costs a dollar.
+p128
+aVAnd millions of children die of these diseases every year.
+p129
+aVAnd the fact is, millions is a gross estimate,
+p130
+aVbecause we don't really know how many kids die each year of this.
+p131
+aa(lp132
+VWhat makes it even more frustrating is that the data-entry part,
+p133
+aVthe part that I used to do as a grad student,
+p134
+aVcan take sometimes six months.
+p135
+aVSometimes it can take two years to type that information into a computer,
+p136
+aVAnd sometimes, actually not infrequently,
+p137
+aVit actually never happens.
+p138
+aVNow try and wrap your head around that for a second.
+p139
+aVYou just had teams of hundreds of people.
+p140
+aVThey went out into the field to answer a particular question.
+p141
+aVYou probably spent hundreds of thousands of dollars
+p142
+aVon fuel and photocopying and per diem.
+p143
+aVAnd then for some reason, momentum is lost
+p144
+aVor there's no money left,
+p145
+aVand all of that comes to nothing,
+p146
+aVbecause no one actually types it into the computer at all.
+p147
+aVThe process just stops.
+p148
+aVHappens all the time.
+p149
+aVThis is what we base our decisions on in global health:
+p150
+aVlittle data, old data, no data.
+p151
+aa(lp152
+VSo back in 1995,
+p153
+aVI began to think about ways in which we could improve this process.
+p154
+aVNow 1995 \u2014 obviously, that was quite a long time ago.
+p155
+aVIt kind of frightens me to think of how long ago that was.
+p156
+aVThe top movie of the year was "Die Hard with a Vengeance."
+p157
+aVAs you can see, Bruce Willis had a lot more hair back then.
+p158
+aVI was working in the Centers for Disease Control
+p159
+aVand I had a lot more hair back then as well.
+p160
+aa(lp161
+VBut to me, the most significant thing that I saw in 1995
+p162
+aVwas this.
+p163
+aVHard for us to imagine, but in 1995,
+p164
+aVthis was the ultimate elite mobile device.
+p165
+aVIt wasn't an iPhone. It wasn't a Galaxy phone.
+p166
+aVIt was a PalmPilot.
+p167
+aVAnd when I saw the PalmPilot for the first time, I thought,
+p168
+aV"Why can't we put the forms on these PalmPilots?
+p169
+aVAnd go out into the field just carrying one PalmPilot,
+p170
+aVwhich can hold the capacity of tens of thousands of paper forms?
+p171
+aVWhy don't we try to do that?
+p172
+aVBecause if we can do that,
+p173
+aVif we can actually just collect the data electronically, digitally,
+p174
+aVfrom the very beginning,
+p175
+aVwe can just put a shortcut right through that whole process
+p176
+aVof typing, of having somebody type that stuff into the computer.
+p177
+aVWe can skip straight to the analysis
+p178
+aVand then straight to the use of the data to actually save lives."
+p179
+aa(lp180
+VSo that's what I began to do.
+p181
+aVWorking at CDC, I began to travel to different programs around the world
+p182
+aVand to train them in using PalmPilots to do data collection,
+p183
+aVinstead of using paper.
+p184
+aVAnd it actually worked great.
+p185
+aVIt worked exactly as well as anybody would have predicted.
+p186
+aVWhat do you know?
+p187
+aVDigital data collection is actually more efficient than collecting on paper.
+p188
+aVWhile I was doing it, my business partner,
+p189
+aVRose, who's here with her husband, Matthew, here in the audience,
+p190
+aVRose was out doing similar stuff for the American Red Cross.
+p191
+aa(lp192
+VThe problem was, after a few years of doing that,
+p193
+aVI realized \u2014 I had been to maybe six or seven programs \u2014
+p194
+aVand I thought, you know, if I keep this up at this pace,
+p195
+aVover my whole career,
+p196
+aVmaybe I'm going to go to maybe 20 or 30 programs.
+p197
+aVBut the problem is, 20 or 30 programs,
+p198
+aVlike, training 20 or 30 programs to use this technology,
+p199
+aVthat is a tiny drop in the bucket.
+p200
+aVThe demand for this, the need for data to run better programs
+p201
+aVjust within health \u2014 not to mention all of the other fields
+p202
+aVin developing countries \u2014 is enormous.
+p203
+aVThere are millions and millions and millions of programs,
+p204
+aVmillions of clinics that need to track drugs,
+p205
+aVmillions of vaccine programs.
+p206
+aVThere are schools that need to track attendance.
+p207
+aVThere are all these different things for us to get the data that we need to do.
+p208
+aVAnd I realized if I kept up the way that I was doing,
+p209
+aVI was basically hardly going to make any impact
+p210
+aVby the end of my career.
+p211
+aa(lp212
+VAnd so I began to rack my brain,
+p213
+aVtrying to think about, what was the process that I was doing?
+p214
+aVHow was I training folks,
+p215
+aVand what were the bottlenecks and what were the obstacles
+p216
+aVto doing it faster and to doing it more efficiently?
+p217
+aVAnd, unfortunately, after thinking about this for some time,
+p218
+aVI identified the main obstacle.
+p219
+aVAnd the main obstacle, it turned out \u2014
+p220
+aVand this is a sad realization \u2014
+p221
+aVthe main obstacle was me.
+p222
+aa(lp223
+VSo what do I mean by that?
+p224
+aVI had developed a process
+p225
+aVwhereby I was the center of the universe of this technology.
+p226
+aVIf you wanted to use this technology, you had to get in touch with me.
+p227
+aVThat means you had to know I existed.
+p228
+aVThen you had to find the money to pay for me to fly out to your country
+p229
+aVand the money to pay for my hotel and my per diem and my daily rate.
+p230
+aVSo you could be talking about 10- or 20- or 30,000 dollars,
+p231
+aVif I actually had the time or it fit my schedule
+p232
+aVand I wasn't on vacation.
+p233
+aVThe point is that anything,
+p234
+aVany system that depends on a single human being
+p235
+aVor two or three or five human beings \u2014
+p236
+aVit just doesn't scale.
+p237
+aVAnd this is a problem for which we need to scale this technology,
+p238
+aVand we need to scale it now.
+p239
+aa(lp240
+VAnd so I began to think of ways in which I could basically
+p241
+aVtake myself out of the picture.
+p242
+aVAnd, you know, I was thinking,
+p243
+aV"How could I take myself out of the picture?"
+p244
+aVfor quite some time.
+p245
+aVI'd been trained that the way you distribute technology
+p246
+aVwithin international development
+p247
+aVis always consultant-based.
+p248
+aVIt's always guys that look pretty much like me,
+p249
+aVflying from countries that look pretty much like this
+p250
+aVto other countries with people with darker skin.
+p251
+aVAnd you go out there, and you spend money on airfare
+p252
+aVand you spend time and you spend per diem
+p253
+aVand you spend for a hotel and all that stuff.
+p254
+aVAs far as I knew, that was the only way you could distribute technology,
+p255
+aVand I couldn't figure out a way around it.
+p256
+aa(lp257
+VBut the miracle that happened \u2014
+p258
+aVI'm going to call it Hotmail for short.
+p259
+aVYou may not think of Hotmail as being miraculous,
+p260
+aVbut for me it was miraculous,
+p261
+aVbecause I noticed, just as I was wrestling with this problem \u2014
+p262
+aVI was working in sub-Saharan Africa, mostly, at the time \u2014
+p263
+aVI noticed that every sub-Saharan African health worker
+p264
+aVthat I was working with had a Hotmail account.
+p265
+aVAnd it struck me, "Wait a minute \u2014
+p266
+aVI know the Hotmail people surely didn't fly to the Ministry of Health in Kenya
+p267
+aVto train people in how to use Hotmail.
+p268
+aVSo these guys are distributing technology, getting software capacity out there,
+p269
+aVbut they're not actually flying around the world.
+p270
+aVI need to think about this more."
+p271
+aVWhile I was thinking about it,
+p272
+aVpeople started using even more things like this, just as we were.
+p273
+aVThey started using LinkedIn and Flickr and Gmail and Google Maps \u2014
+p274
+aVall these things.
+p275
+aVOf course, all of these things are cloud based
+p276
+aVand don't require any training.
+p277
+aVThey don't require any programmers.
+p278
+aVThey don't require consultants.
+p279
+aVBecause the business model for all these businesses
+p280
+aVrequires that something be so simple we can use it ourselves,
+p281
+aVwith little or no training.
+p282
+aVYou just have to hear about it and go to the website.
+p283
+aa(lp284
+VAnd so I thought, what would happen if we built software
+p285
+aVto do what I'd been consulting in?
+p286
+aVInstead of training people how to put forms onto mobile devices,
+p287
+aVlet's create software that lets them do it themselves with no training
+p288
+aVand without me being involved.
+p289
+aVAnd that's exactly what we did.
+p290
+aa(lp291
+VSo we created software called Magpi, which has an online form creator.
+p292
+aVNo one has to speak to me,
+p293
+aVyou just have to hear about it and go to the website.
+p294
+aVYou can create forms, and once you've created the forms,
+p295
+aVyou push them to a variety of common mobile phones.
+p296
+aVObviously, nowadays, we've moved past PalmPilots to mobile phones.
+p297
+aVAnd it doesn't have to be a smartphone, it can be a basic phone,
+p298
+aVlike the phone on the right, the basic Symbian phone
+p299
+aVthat's very common in developing countries.
+p300
+aVAnd the great part about this is it's just like Hotmail.
+p301
+aVIt's cloud based,
+p302
+aVand it doesn't require any training, programming, consultants.
+p303
+aa(lp304
+VBut there are some additional benefits as well.
+p305
+aVNow we knew when we built this system,
+p306
+aVthe whole point of it, just like with the PalmPilots,
+p307
+aVwas that you'd be able to collect the data
+p308
+aVand immediately upload the data and get your data set.
+p309
+aVBut what we found, of course, since it's already on a computer,
+p310
+aVwe can deliver instant maps and analysis and graphing.
+p311
+aVWe can take a process that took two years
+p312
+aVand compress that down to the space of five minutes.
+p313
+aVUnbelievable improvements in efficiency.
+p314
+aVCloud based, no training, no consultants, no me.
+p315
+aa(lp316
+VAnd I told you that in the first few years
+p317
+aVof trying to do this the old-fashioned way,
+p318
+aVgoing out to each country,
+p319
+aVwe probably trained about 1,000 people.
+p320
+aVWhat happened after we did this?
+p321
+aVIn the second three years,
+p322
+aVwe had 14,000 people find the website,
+p323
+aVsign up and start using it to collect data:
+p324
+aVdata for disaster response,
+p325
+aVCanadian pig farmers tracking pig disease and pig herds,
+p326
+aVpeople tracking drug supplies.
+p327
+aa(lp328
+VOne of my favorite examples, the IRC, International Rescue Committee,
+p329
+aVthey have a program where semi-literate midwives,
+p330
+aVusing $10 mobile phones,
+p331
+aVsend a text message using our software, once a week,
+p332
+aVwith the number of births and the number of deaths,
+p333
+aVwhich gives IRC something that no one in global health has ever had:
+p334
+aVa near-real-time system of counting babies,
+p335
+aVof knowing how many kids are born,
+p336
+aVof knowing how many children there are in Sierra Leone,
+p337
+aVwhich is the country where this is happening,
+p338
+aVand knowing how many children die.
+p339
+aa(lp340
+VPhysicians for Human Rights \u2014
+p341
+aVthis is moving a little bit outside the health field \u2014
+p342
+aVthey're basically training people to do rape exams in Congo,
+p343
+aVwhere this is an epidemic,
+p344
+aVa horrible epidemic,
+p345
+aVand they're using our software to document the evidence they find,
+p346
+aVincluding photographically,
+p347
+aVso that they can bring the perpetrators to justice.
+p348
+aa(lp349
+VCamfed, another charity based out of the UK \u2014
+p350
+aVCamfed pays girls' families to keep them in school.
+p351
+aVThey understand this is the most significant intervention they can make.
+p352
+aVThey used to track the disbursements, the attendance, the grades, on paper.
+p353
+aVThe turnaround time between a teacher writing down grades or attendance
+p354
+aVand getting that into a report was about two to three years.
+p355
+aVNow it's real time.
+p356
+aVAnd because this is such a low-cost system and based in the cloud,
+p357
+aVit costs, for the entire five countries that Camfed runs this in,
+p358
+aVwith tens of thousands of girls,
+p359
+aVthe whole cost combined is 10,000 dollars a year.
+p360
+aVThat's less than I used to get
+p361
+aVjust traveling out for two weeks to do a consultation.
+p362
+aa(lp363
+VSo I told you before that when we were doing it the old-fashioned way,
+p364
+aVI realized all of our work was really adding up to just a drop in the bucket \u2014
+p365
+aV10, 20, 30 different programs.
+p366
+aVWe've made a lot of progress,
+p367
+aVbut I recognize that right now,
+p368
+aVeven the work that we've done with 14,000 people using this
+p369
+aVis still a drop in the bucket.
+p370
+aa(lp371
+VBut something's changed, and I think it should be obvious.
+p372
+aVWhat's changed now is,
+p373
+aVinstead of having a program in which we're scaling at such a slow rate
+p374
+aVthat we can never reach all the people who need us,
+p375
+aVwe've made it unnecessary for people to get reached by us.
+p376
+aVWe've created a tool that lets programs keep kids in school,
+p377
+aVtrack the number of babies that are born and the number of babies that die,
+p378
+aVcatch criminals and successfully prosecute them \u2014
+p379
+aVto do all these different things to learn more about what's going on,
+p380
+aVto understand more,
+p381
+aVto see more ...
+p382
+aVand to save lives and improve lives.
+p383
+aa(lp384
+VThank you.
+p385
+aa(lp386
+V(Applause)
+p387
+aasS'id'
+p388
+I1779
+sS'title'
+p389
+VThe big-data revolution in healthcare
+p390
+s.

@@ -1,0 +1,422 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VMark Zuckerberg,
+p4
+aVa journalist was asking him a question about the news feed.
+p5
+aVAnd the journalist was asking him,
+p6
+aV"Why is this so important?"
+p7
+aVAnd Zuckerberg said,
+p8
+aV"A squirrel dying in your front yard
+p9
+aVmay be more relevant to your interests right now
+p10
+aVthan people dying in Africa."
+p11
+aVAnd I want to talk about
+p12
+aVwhat a Web based on that idea of relevance might look like.
+p13
+aa(lp14
+VSo when I was growing up
+p15
+aVin a really rural area in Maine,
+p16
+aVthe Internet meant something very different to me.
+p17
+aVIt meant a connection to the world.
+p18
+aVIt meant something that would connect us all together.
+p19
+aVAnd I was sure that it was going to be great for democracy
+p20
+aVand for our society.
+p21
+aVBut there's this shift
+p22
+aVin how information is flowing online,
+p23
+aVand it's invisible.
+p24
+aVAnd if we don't pay attention to it,
+p25
+aVit could be a real problem.
+p26
+aVSo I first noticed this in a place I spend a lot of time \u2014
+p27
+aVmy Facebook page.
+p28
+aVI'm progressive, politically \u2014 big surprise \u2014
+p29
+aVbut I've always gone out of my way to meet conservatives.
+p30
+aVI like hearing what they're thinking about;
+p31
+aVI like seeing what they link to;
+p32
+aVI like learning a thing or two.
+p33
+aVAnd so I was surprised when I noticed one day
+p34
+aVthat the conservatives had disappeared from my Facebook feed.
+p35
+aVAnd what it turned out was going on
+p36
+aVwas that Facebook was looking at which links I clicked on,
+p37
+aVand it was noticing that, actually,
+p38
+aVI was clicking more on my liberal friends' links
+p39
+aVthan on my conservative friends' links.
+p40
+aVAnd without consulting me about it,
+p41
+aVit had edited them out.
+p42
+aVThey disappeared.
+p43
+aa(lp44
+VSo Facebook isn't the only place
+p45
+aVthat's doing this kind of invisible, algorithmic
+p46
+aVediting of the Web.
+p47
+aVGoogle's doing it too.
+p48
+aVIf I search for something, and you search for something,
+p49
+aVeven right now at the very same time,
+p50
+aVwe may get very different search results.
+p51
+aVEven if you're logged out, one engineer told me,
+p52
+aVthere are 57 signals
+p53
+aVthat Google looks at \u2014
+p54
+aVeverything from what kind of computer you're on
+p55
+aVto what kind of browser you're using
+p56
+aVto where you're located \u2014
+p57
+aVthat it uses to personally tailor your query results.
+p58
+aVThink about it for a second:
+p59
+aVthere is no standard Google anymore.
+p60
+aVAnd you know, the funny thing about this is that it's hard to see.
+p61
+aVYou can't see how different your search results are
+p62
+aVfrom anyone else's.
+p63
+aa(lp64
+VBut a couple of weeks ago,
+p65
+aVI asked a bunch of friends to Google "Egypt"
+p66
+aVand to send me screen shots of what they got.
+p67
+aVSo here's my friend Scott's screen shot.
+p68
+aVAnd here's my friend Daniel's screen shot.
+p69
+aVWhen you put them side-by-side,
+p70
+aVyou don't even have to read the links
+p71
+aVto see how different these two pages are.
+p72
+aVBut when you do read the links,
+p73
+aVit's really quite remarkable.
+p74
+aVDaniel didn't get anything about the protests in Egypt at all
+p75
+aVin his first page of Google results.
+p76
+aVScott's results were full of them.
+p77
+aVAnd this was the big story of the day at that time.
+p78
+aVThat's how different these results are becoming.
+p79
+aa(lp80
+VSo it's not just Google and Facebook either.
+p81
+aVThis is something that's sweeping the Web.
+p82
+aVThere are a whole host of companies that are doing this kind of personalization.
+p83
+aVYahoo News, the biggest news site on the Internet,
+p84
+aVis now personalized \u2014 different people get different things.
+p85
+aVHuffington Post, the Washington Post, the New York Times \u2014
+p86
+aVall flirting with personalization in various ways.
+p87
+aVAnd this moves us very quickly
+p88
+aVtoward a world in which
+p89
+aVthe Internet is showing us what it thinks we want to see,
+p90
+aVbut not necessarily what we need to see.
+p91
+aVAs Eric Schmidt said,
+p92
+aV"It will be very hard for people to watch or consume something
+p93
+aVthat has not in some sense
+p94
+aVbeen tailored for them."
+p95
+aa(lp96
+VSo I do think this is a problem.
+p97
+aVAnd I think, if you take all of these filters together,
+p98
+aVyou take all these algorithms,
+p99
+aVyou get what I call a filter bubble.
+p100
+aVAnd your filter bubble is your own personal,
+p101
+aVunique universe of information
+p102
+aVthat you live in online.
+p103
+aVAnd what's in your filter bubble
+p104
+aVdepends on who you are, and it depends on what you do.
+p105
+aVBut the thing is that you don't decide what gets in.
+p106
+aVAnd more importantly,
+p107
+aVyou don't actually see what gets edited out.
+p108
+aVSo one of the problems with the filter bubble
+p109
+aVwas discovered by some researchers at Netflix.
+p110
+aVAnd they were looking at the Netflix queues, and they noticed something kind of funny
+p111
+aVthat a lot of us probably have noticed,
+p112
+aVwhich is there are some movies
+p113
+aVthat just sort of zip right up and out to our houses.
+p114
+aVThey enter the queue, they just zip right out.
+p115
+aVSo "Iron Man" zips right out,
+p116
+aVand "Waiting for Superman"
+p117
+aVcan wait for a really long time.
+p118
+aa(lp119
+VWhat they discovered
+p120
+aVwas that in our Netflix queues
+p121
+aVthere's this epic struggle going on
+p122
+aVbetween our future aspirational selves
+p123
+aVand our more impulsive present selves.
+p124
+aVYou know we all want to be someone
+p125
+aVwho has watched "Rashomon,"
+p126
+aVbut right now
+p127
+aVwe want to watch "Ace Ventura" for the fourth time.
+p128
+aV(Laughter)
+p129
+aVSo the best editing gives us a bit of both.
+p130
+aVIt gives us a little bit of Justin Bieber
+p131
+aVand a little bit of Afghanistan.
+p132
+aVIt gives us some information vegetables;
+p133
+aVit gives us some information dessert.
+p134
+aVAnd the challenge with these kinds of algorithmic filters,
+p135
+aVthese personalized filters,
+p136
+aVis that, because they're mainly looking
+p137
+aVat what you click on first,
+p138
+aVit can throw off that balance.
+p139
+aVAnd instead of a balanced information diet,
+p140
+aVyou can end up surrounded
+p141
+aVby information junk food.
+p142
+aa(lp143
+VWhat this suggests
+p144
+aVis actually that we may have the story about the Internet wrong.
+p145
+aVIn a broadcast society \u2014
+p146
+aVthis is how the founding mythology goes \u2014
+p147
+aVin a broadcast society,
+p148
+aVthere were these gatekeepers, the editors,
+p149
+aVand they controlled the flows of information.
+p150
+aVAnd along came the Internet and it swept them out of the way,
+p151
+aVand it allowed all of us to connect together,
+p152
+aVand it was awesome.
+p153
+aVBut that's not actually what's happening right now.
+p154
+aVWhat we're seeing is more of a passing of the torch
+p155
+aVfrom human gatekeepers
+p156
+aVto algorithmic ones.
+p157
+aVAnd the thing is that the algorithms
+p158
+aVdon't yet have the kind of embedded ethics
+p159
+aVthat the editors did.
+p160
+aVSo if algorithms are going to curate the world for us,
+p161
+aVif they're going to decide what we get to see and what we don't get to see,
+p162
+aVthen we need to make sure
+p163
+aVthat they're not just keyed to relevance.
+p164
+aVWe need to make sure that they also show us things
+p165
+aVthat are uncomfortable or challenging or important \u2014
+p166
+aVthis is what TED does \u2014
+p167
+aVother points of view.
+p168
+aa(lp169
+VAnd the thing is, we've actually been here before
+p170
+aVas a society.
+p171
+aVIn 1915, it's not like newspapers were sweating a lot
+p172
+aVabout their civic responsibilities.
+p173
+aVThen people noticed
+p174
+aVthat they were doing something really important.
+p175
+aVThat, in fact, you couldn't have
+p176
+aVa functioning democracy
+p177
+aVif citizens didn't get a good flow of information,
+p178
+aVthat the newspapers were critical because they were acting as the filter,
+p179
+aVand then journalistic ethics developed.
+p180
+aVIt wasn't perfect,
+p181
+aVbut it got us through the last century.
+p182
+aVAnd so now,
+p183
+aVwe're kind of back in 1915 on the Web.
+p184
+aVAnd we need the new gatekeepers
+p185
+aVto encode that kind of responsibility
+p186
+aVinto the code that they're writing.
+p187
+aa(lp188
+VI know that there are a lot of people here from Facebook and from Google \u2014
+p189
+aVLarry and Sergey \u2014
+p190
+aVpeople who have helped build the Web as it is,
+p191
+aVand I'm grateful for that.
+p192
+aVBut we really need you to make sure
+p193
+aVthat these algorithms have encoded in them
+p194
+aVa sense of the public life, a sense of civic responsibility.
+p195
+aVWe need you to make sure that they're transparent enough
+p196
+aVthat we can see what the rules are
+p197
+aVthat determine what gets through our filters.
+p198
+aVAnd we need you to give us some control
+p199
+aVso that we can decide
+p200
+aVwhat gets through and what doesn't.
+p201
+aVBecause I think
+p202
+aVwe really need the Internet to be that thing
+p203
+aVthat we all dreamed of it being.
+p204
+aVWe need it to connect us all together.
+p205
+aVWe need it to introduce us to new ideas
+p206
+aVand new people and different perspectives.
+p207
+aVAnd it's not going to do that
+p208
+aVif it leaves us all isolated in a Web of one.
+p209
+aa(lp210
+VThank you.
+p211
+aa(lp212
+V(Applause)
+p213
+aasS'id'
+p214
+I1091
+sS'title'
+p215
+VBeware online "filter bubbles"
+p216
+s.

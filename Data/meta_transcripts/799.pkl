@@ -1,0 +1,954 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm Jane McGonigal. I'm a game designer.
+p4
+aVI've been making games online now for 10 years,
+p5
+aVand my goal for the next decade
+p6
+aVis to try to make it as easy to save the world in real life
+p7
+aVas it is to save the world in online games.
+p8
+aVNow, I have a plan for this,
+p9
+aVand it entails convincing more people,
+p10
+aVincluding all of you, to spend more time playing bigger and better games.
+p11
+aa(lp12
+VRight now we spend three billion hours a week playing online games.
+p13
+aVSome of you might be thinking,
+p14
+aV"That's a lot of time to spend playing games.
+p15
+aVMaybe too much time,
+p16
+aVconsidering how many urgent problems we have to solve in the real world."
+p17
+aVBut actually, according to my research at the Institute for the Future,
+p18
+aVactually the opposite is true.
+p19
+aVThree billion hours a week is not nearly enough game play
+p20
+aVto solve the world's most urgent problems.
+p21
+aa(lp22
+VIn fact, I believe that if we want to survive
+p23
+aVthe next century on this planet,
+p24
+aVwe need to increase that total dramatically.
+p25
+aVI've calculated the total we need
+p26
+aVat 21 billion hours of game play every week.
+p27
+aVSo, that's probably a bit of a counter-intuitive idea,
+p28
+aVso I'll say it again, let it sink in:
+p29
+aVIf we want to solve problems like hunger,
+p30
+aVpoverty, climate change, global conflict, obesity,
+p31
+aVI believe that we need to aspire to play games online
+p32
+aVfor at least 21 billion hours a week, by the end of the next decade.
+p33
+aa(lp34
+V(Laughter)
+p35
+aa(lp36
+VNo. I'm serious. I am.
+p37
+aa(lp38
+VHere's why.
+p39
+aVThis picture pretty much sums up why I think games are so essential
+p40
+aVto the future survival of the human species.
+p41
+aa(lp42
+V(Laughter)
+p43
+aa(lp44
+VTruly.
+p45
+aVThis is a portrait by photographer Phil Toledano.
+p46
+aVHe wanted to capture the emotion of gaming,
+p47
+aVso he set up a camera in front of gamers while they were playing.
+p48
+aVAnd this is a classic gaming emotion.
+p49
+aVNow, if you're not a gamer,
+p50
+aVyou might miss some of the nuance in this photo.
+p51
+aVYou probably see the sense of urgency,
+p52
+aVa little bit of fear, but intense concentration,
+p53
+aVdeep, deep focus on tackling a really difficult problem.
+p54
+aa(lp55
+VIf you are a gamer, you will notice a few nuances here:
+p56
+aVthe crinkle of the eyes up, and around the mouth
+p57
+aVis a sign of optimism,
+p58
+aVand the eyebrows up is surprise.
+p59
+aVThis is a gamer who's on the verge of something called an "epic win."
+p60
+aa(lp61
+V(Laughter)
+p62
+aa(lp63
+VOh, you've heard of that.
+p64
+aVOK, good, so we have some gamers among us.
+p65
+aVAn epic win is an outcome that is so extraordinarily positive,
+p66
+aVyou had no idea it was even possible until you achieved it.
+p67
+aVIt was almost beyond the threshold of imagination, and when you get there,
+p68
+aVyou're shocked to discover what you're truly capable of.
+p69
+aVThat's an epic win.
+p70
+aVThis is a gamer on the verge of an epic win.
+p71
+aVAnd this is the face that we need to see
+p72
+aVon millions of problem-solvers all over the world
+p73
+aVas we try to tackle the obstacles of the next century \u2014
+p74
+aVthe face of someone who, against all odds,
+p75
+aVis on the verge of an epic win.
+p76
+aa(lp77
+VNow, unfortunately this is more of the face that we see
+p78
+aVin everyday life now as we try to tackle urgent problems.
+p79
+aVThis is what I call the "I'm Not Good At Life" face.
+p80
+aVThis is actually me making it.
+p81
+aVCan you see? Yes. Good.
+p82
+aVThis is me making the "I'm Not Good At Life" face.
+p83
+aVThis is a piece of graffiti in my old neighborhood
+p84
+aVin Berkeley, California, where I did my PhD
+p85
+aVon why we're better in games than we are in real life.
+p86
+aVAnd this is a problem that a lot of gamers have.
+p87
+aVWe feel that we are not as good in reality as we are in games.
+p88
+aa(lp89
+VI don't mean just good as in successful, although that's part of it.
+p90
+aVWe do achieve more in game worlds.
+p91
+aVBut I also mean good as in motivated to do something that matters \u2014
+p92
+aVinspired to collaborate and to cooperate.
+p93
+aVAnd when we're in game worlds,
+p94
+aVI believe that many of us become the best version of ourselves \u2014
+p95
+aVthe most likely to help at a moment's notice,
+p96
+aVthe most likely to stick with a problem as long at it takes,
+p97
+aVto get up after failure and try again.
+p98
+aVAnd in real life, when we face failure,
+p99
+aVwhen we confront obstacles, we often don't feel that way.
+p100
+aVWe feel overcome, we feel overwhelmed,
+p101
+aVwe feel anxious, maybe depressed, frustrated or cynical.
+p102
+aVWe never have those feelings when we're playing games,
+p103
+aVthey just don't exist in games.
+p104
+aVSo that's what I wanted to study when I was a graduate student.
+p105
+aa(lp106
+VWhat about games makes it impossible
+p107
+aVto feel that we can't achieve everything?
+p108
+aVHow can we take those feelings from games
+p109
+aVand apply them to real-world work?
+p110
+aVSo I looked at games like World of Warcraft,
+p111
+aVwhich is really the ideal collaborative problem-solving environment.
+p112
+aVAnd I started to notice a few things
+p113
+aVthat make epic wins so possible in online worlds.
+p114
+aa(lp115
+VThe first thing is whenever you show up in one of these online games,
+p116
+aVespecially in World of Warcraft,
+p117
+aVthere are lots and lots of different characters
+p118
+aVwho are willing to trust you with a world-saving mission, right away.
+p119
+aVBut not just any mission,
+p120
+aVit's a mission that is perfectly matched with your current level in the game.
+p121
+aVRight? So you can do it.
+p122
+aVThey never give you a challenge you can't achieve.
+p123
+aVBut it is on the verge of what you're capable of,
+p124
+aVso you have to try hard.
+p125
+aVBut there's no unemployment in World of Warcraft; no sitting around,
+p126
+aVwringing your hands \u2014
+p127
+aVthere's always something specific and important to be done.
+p128
+aVThere are also tons of collaborators.
+p129
+aVEverywhere you go, hundreds of thousands of people
+p130
+aVready to work with you to achieve your epic mission.
+p131
+aa(lp132
+VThat's not something we have in real life that easily,
+p133
+aVthis sense that at our fingertips are tons of collaborators.
+p134
+aVAnd there's this epic story, this inspiring story of why we're there,
+p135
+aVand what we're doing,
+p136
+aVand we get all this positive feedback.
+p137
+aVYou guys have heard of leveling up, +1 strength, +1 intelligence.
+p138
+aVWe don't get that kind of constant feedback in real life.
+p139
+aVWhen I get off this stage,
+p140
+aVI'm not going to have +1 speaking, and +1 crazy idea,
+p141
+aV+20 crazy idea.
+p142
+aVI don't get that feedback in real life.
+p143
+aa(lp144
+VNow, the problem with collaborative online environments like World of Warcraft
+p145
+aVis that it's so satisfying to be on the verge of an epic win all the time,
+p146
+aVwe decide to spend all our time in these game worlds.
+p147
+aVIt's just better than reality.
+p148
+aVSo, so far, collectively all the World of Warcraft gamers
+p149
+aVhave spent 5.93 million years
+p150
+aVsolving the virtual problems of Azeroth.
+p151
+aVNow, that's not necessarily a bad thing.
+p152
+aVIt might sound like it's a bad thing.
+p153
+aVBut to put that in context:
+p154
+aV5.93 million years ago
+p155
+aVwas when our earliest primate human ancestors stood up.
+p156
+aVThat was the first upright primate.
+p157
+aa(lp158
+VSo when we talk about how much time
+p159
+aVwe're currently investing in playing games,
+p160
+aVthe only way it makes sense to even think about it
+p161
+aVis to talk about time at the magnitude of human evolution,
+p162
+aVwhich is an extraordinary thing.
+p163
+aVBut it's also apt,
+p164
+aVbecause it turns out that by spending all this time playing games,
+p165
+aVwe're actually changing what we are capable of as human beings.
+p166
+aVWe're evolving to be a more collaborative and hearty species.
+p167
+aVThis is true. I believe this.
+p168
+aa(lp169
+VSo, consider this really interesting statistic;
+p170
+aVit was recently published by a researcher at Carnegie Mellon University:
+p171
+aVThe average young person today in a country with a strong gamer culture
+p172
+aVwill have spent 10,000 hours playing online games
+p173
+aVby the age of 21.
+p174
+aVNow 10,000 hours is a really interesting number for two reasons.
+p175
+aVFirst of all, for children in the United States,
+p176
+aV10,080 hours is the exact amount of time you will spend in school,
+p177
+aVfrom fifth grade to high school graduation,
+p178
+aVif you have perfect attendance.
+p179
+aa(lp180
+V(Laughter)
+p181
+aa(lp182
+VSo, we have an entire parallel track of education going on,
+p183
+aVwhere young people are learning as much about what it takes to be a good gamer
+p184
+aVas they're learning about everything else in school.
+p185
+aVSome of you have probably read Malcolm Gladwell's new book "Outliers,"
+p186
+aVso you would have heard of his theory of success,
+p187
+aVthe "10,000 hours" theory of success.
+p188
+aVIt's based on this great cognitive-science research
+p189
+aVthat says if we can master 10,000 hours
+p190
+aVof effortful study at anything by the age of 21,
+p191
+aVwe will be virtuosos at it.
+p192
+aVWe will be as good at whatever we do
+p193
+aVas the greatest people in the world.
+p194
+aVAnd so, now what we're looking at
+p195
+aVis an entire generation of young people who are virtuoso gamers.
+p196
+aa(lp197
+VSo, the big question is,
+p198
+aV"What exactly are gamers getting so good at?"
+p199
+aVBecause if we could figure that out,
+p200
+aVwe would have a virtually unprecedented human resource on our hands.
+p201
+aVThis is how many people we now have in the world
+p202
+aVwho spend at least an hour a day playing online games.
+p203
+aVThese are our virtuoso gamers,
+p204
+aV500 million people who are extraordinarily good at something.
+p205
+aVAnd in the next decade,
+p206
+aVwe're going to have another billion gamers
+p207
+aVwho are extraordinarily good at whatever that is.
+p208
+aVIf you don't know it already, this is coming.
+p209
+aVThe game industry is developing consoles
+p210
+aVthat are low-energy and that work with the wireless phone networks
+p211
+aVinstead of broadband Internet,
+p212
+aVso that gamers all over the world,
+p213
+aVparticularly in India, China, Brazil, can get online.
+p214
+aVThey expect one billion more gamers in the next decade.
+p215
+aVIt will bring us up to 1.5 billion gamers.
+p216
+aa(lp217
+VSo I've started to think about
+p218
+aVwhat these games are making us virtuosos at.
+p219
+aVHere are the four things I came up with.
+p220
+aVThe first is urgent optimism.
+p221
+aVOK, think of this as extreme self-motivation.
+p222
+aVUrgent optimism is the desire to act immediately
+p223
+aVto tackle an obstacle,
+p224
+aVcombined with the belief that we have a reasonable hope of success.
+p225
+aVGamers always believe that an epic win is possible,
+p226
+aVand that it's always worth trying, and trying now.
+p227
+aVGamers don't sit around.
+p228
+aVGamers are virtuosos at weaving a tight social fabric.
+p229
+aVThere's a lot of interesting research that shows
+p230
+aVwe like people better after we play a game with them,
+p231
+aVeven if they've beaten us badly.
+p232
+aVAnd the reason is, it takes a lot of trust to play a game with someone.
+p233
+aVWe trust that they will spend their time with us,
+p234
+aVthat they will play by the same rules,
+p235
+aVvalue the same goal, stay with the game until it's over.
+p236
+aa(lp237
+VAnd so, playing a game together
+p238
+aVactually builds up bonds and trust and cooperation.
+p239
+aVAnd we actually build stronger social relationships as a result.
+p240
+aVBlissful productivity. I love it.
+p241
+aVYou know, there's a reason why the average World of Warcraft gamer
+p242
+aVplays for 22 hours a week \u2014 kind of a half-time job.
+p243
+aVIt's because we know, when we're playing a game,
+p244
+aVthat we're actually happier working hard
+p245
+aVthan we are relaxing, or hanging out.
+p246
+aVWe know that we are optimized as human beings,
+p247
+aVto do hard and meaningful work.
+p248
+aVAnd gamers are willing to work hard all the time,
+p249
+aVif they're given the right work.
+p250
+aa(lp251
+VFinally: epic meaning.
+p252
+aVGamers love to be attached to awe-inspiring missions
+p253
+aVto human planetary-scale stories.
+p254
+aVSo, just one bit of trivia that helps put that into perspective:
+p255
+aVSo, you all know Wikipedia, biggest wiki in the world.
+p256
+aVSecond biggest wiki in the world, with nearly 80,000 articles,
+p257
+aVis the World of Warcraft wiki.
+p258
+aVFive million people use it every month.
+p259
+aVThey have compiled more information about World of Warcraft on the Internet
+p260
+aVthan any other topic covered on any other wiki in the world.
+p261
+aVThey are building an epic story.
+p262
+aVThey are building an epic knowledge resource
+p263
+aVabout the World of Warcraft.
+p264
+aa(lp265
+VOkay, so these are four superpowers that add up to one thing:
+p266
+aVGamers are super-empowered hopeful individuals.
+p267
+aVThese are people who believe that they are individually capable
+p268
+aVof changing the world.
+p269
+aVAnd the only problem is,
+p270
+aVthey believe that they are capable of changing virtual worlds
+p271
+aVand not the real world.
+p272
+aVThat's the problem that I'm trying to solve.
+p273
+aa(lp274
+VThere's an economist named Edward Castronova.
+p275
+aVHis work is brilliant.
+p276
+aVHe looks at why people are investing so much time and energy
+p277
+aVand money in online worlds.
+p278
+aVAnd he says,
+p279
+aV"We're witnessing what amounts to no less than a mass exodus
+p280
+aVto virtual worlds and online game environments."
+p281
+aVAnd he's an economist, so he's rational.
+p282
+aVAnd he says \u2014
+p283
+aa(lp284
+V(Laughter)
+p285
+aa(lp286
+VNot like me, I'm a game designer; I'm exuberant.
+p287
+aVBut he says that this makes perfect sense,
+p288
+aVbecause gamers can achieve more in online worlds
+p289
+aVthan they can in real life.
+p290
+aVThey can have stronger social relationships in games
+p291
+aVthan they can have in real life;
+p292
+aVthey get better feedback and feel more rewarded in games
+p293
+aVthan they do in real life.
+p294
+aVSo he says, for now it makes perfect sense
+p295
+aVfor gamers to spend more time in virtual worlds than the real world.
+p296
+aVNow, I also agree that that is rational, for now.
+p297
+aVBut it is not, by any means, an optimal situation.
+p298
+aVWe have to start making the real world work more like a game.
+p299
+aa(lp300
+VI take my inspiration from something that happened
+p301
+aV2,500 years ago.
+p302
+aVThese are ancient dice, made out of sheep's knuckles.
+p303
+aVBefore we had awesome game controllers,
+p304
+aVwe had sheep's knuckles.
+p305
+aVAnd these represent the first game equipment
+p306
+aVdesigned by human beings,
+p307
+aVand if you're familiar with the work of the ancient Greek historian Herodotus,
+p308
+aVyou might know this history,
+p309
+aVwhich is the history of who invented games and why.
+p310
+aVHerodotus says that games, particularly dice games,
+p311
+aVwere invented in the kingdom of Lydia,
+p312
+aVduring a time of famine.
+p313
+aa(lp314
+VApparently, there was such a severe famine
+p315
+aVthat the king of Lydia decided they had to do something crazy.
+p316
+aVPeople were suffering. People were fighting.
+p317
+aVIt was an extreme situation, they needed an extreme solution.
+p318
+aVSo, according to Herodotus, they invented dice games,
+p319
+aVand they set up a kingdom-wide policy:
+p320
+aVOn one day, everybody would eat,
+p321
+aVand on the next day, everybody would play games.
+p322
+aVAnd they would be so immersed in playing the dice games,
+p323
+aVbecause games are so engaging,
+p324
+aVand immerse us in such satisfying, blissful productivity,
+p325
+aVthey would ignore the fact that they had no food to eat.
+p326
+aVAnd then on the next day, they would play games;
+p327
+aVand on the next day, they would eat.
+p328
+aa(lp329
+VAnd according to Herodotus,
+p330
+aVthey passed 18 years this way,
+p331
+aVsurviving through a famine,
+p332
+aVby eating on one day, and playing games on the next.
+p333
+aVNow, this is exactly, I think, how we're using games today.
+p334
+aVWe're using games to escape real-world suffering \u2014
+p335
+aVwe're using games to get away
+p336
+aVfrom everything that's broken in the real environment,
+p337
+aVeverything that's not satisfying about real life,
+p338
+aVand we're getting what we need from games.
+p339
+aa(lp340
+VBut it doesn't have to end there.
+p341
+aVThis is really exciting.
+p342
+aVAccording to Herodotus, after 18 years the famine wasn't getting better,
+p343
+aVso the king decided they would play one final dice game.
+p344
+aVThey divided the entire kingdom in half.
+p345
+aVThey played one dice game,
+p346
+aVand the winners of that game got to go on an epic adventure.
+p347
+aVThey would leave Lydia,
+p348
+aVand they would go out in search of a new place to live,
+p349
+aVleaving behind just enough people
+p350
+aVto survive on the resources that were available,
+p351
+aVand hopefully to take their civilization somewhere else where they could thrive.
+p352
+aa(lp353
+VNow, this sounds crazy, right?
+p354
+aVBut recently, DNA evidence has shown that the Etruscans,
+p355
+aVwho then led to the Roman Empire,
+p356
+aVactually share the same DNA as the ancient Lydians.
+p357
+aVAnd so, recently, scientists have suggested
+p358
+aVthat Herodotus' crazy story is actually true.
+p359
+aVAnd geologists have found evidence of a global cooling
+p360
+aVthat lasted for nearly 20 years, that could have explained the famine.
+p361
+aVSo this crazy story might be true.
+p362
+aVThey might have actually saved their culture by playing games,
+p363
+aVescaping to games for 18 years,
+p364
+aVand then been so inspired,
+p365
+aVand knew so much about how to come together with games,
+p366
+aVthat they actually saved the entire civilization that way.
+p367
+aa(lp368
+VOkay, we can do that.
+p369
+aa(lp370
+V(Laughter)
+p371
+aa(lp372
+VWe've been playing Warcraft since 1994.
+p373
+aVThat was the first real-time strategy game from the World of Warcraft series.
+p374
+aVThat was 16 years ago.
+p375
+aVThey played dice games for 18 years,
+p376
+aVwe've been playing Warcraft for 16 years.
+p377
+aVI say we are ready for our own epic game.
+p378
+aVNow, they had half the civilization go off in search of a new world,
+p379
+aVso that's where I get my 21 billion hours a week of game-play from.
+p380
+aVLet's get half of us to agree
+p381
+aVto spend an hour a day playing games,
+p382
+aVuntil we solve real-world problems.
+p383
+aa(lp384
+VNow, I know you're asking,
+p385
+aV"How are we going to solve real-world problems in games?"
+p386
+aVWell, that's what I've devoted my work to over the past few years,
+p387
+aVat the Institute for the Future.
+p388
+aVWe have this banner in our offices in Palo Alto,
+p389
+aVand it expresses our view of how we should try to relate to the future.
+p390
+aVWe do not want to try to predict the future.
+p391
+aVWhat we want to do is make the future.
+p392
+aVWe want to imagine the best-case scenario outcome,
+p393
+aVand then we want to empower people to make that outcome a reality.
+p394
+aVWe want to imagine epic wins,
+p395
+aVand then give people the means to achieve the epic win.
+p396
+aa(lp397
+VI'm just going to very briefly show you three games that I've made
+p398
+aVthat are an attempt to give people the means to create epic wins
+p399
+aVin their own futures.
+p400
+aVThis is World Without Oil.
+p401
+aVWe made this game in 2007.
+p402
+aVThis is an online game
+p403
+aVin which you try to survive an oil shortage.
+p404
+aVThe oil shortage is fictional,
+p405
+aVbut we put enough online content out there
+p406
+aVfor you to believe that it's real,
+p407
+aVand to live your real life as if we've run out of oil.
+p408
+aVSo when you come to the game,
+p409
+aVyou sign up, tell us where you live,
+p410
+aVand then we give you real-time news videos,
+p411
+aVdata feeds that show you exactly how much oil costs,
+p412
+aVwhat's not available, how food supply is being affected,
+p413
+aVhow transportation is being affected,
+p414
+aVif schools are closed, if there's rioting,
+p415
+aVand you have to figure out how you would live your real life
+p416
+aVas if this were true.
+p417
+aVAnd then we ask you to blog about it,
+p418
+aVto post videos, to post photos.
+p419
+aa(lp420
+VWe piloted this game with 1,700 players in 2007,
+p421
+aVand we've tracked them for the three years since.
+p422
+aVAnd I can tell you that this is a transformative experience.
+p423
+aVNobody wants to change how they live,
+p424
+aVjust because it's good for the world, or because we're supposed to.
+p425
+aVBut if you immerse them in an epic adventure
+p426
+aVand tell them, "We've run out of oil.
+p427
+aVThis is an amazing story and adventure for you to go on.
+p428
+aVChallenge yourself to see how you would survive,"
+p429
+aVmost of our players have kept up the habits
+p430
+aVthat they learned in this game.
+p431
+aa(lp432
+VSo for the next world-saving game,
+p433
+aVwe decided to aim higher \u2014 bigger problem than just peak oil.
+p434
+aVWe did a game called Superstruct at the Institute for the Future.
+p435
+aVAnd the premise was, a supercomputer has calculated
+p436
+aVthat humans have only 23 years left on the planet.
+p437
+aVThis supercomputer was called
+p438
+aVthe Global Extinction Awareness System, of course.
+p439
+aVWe asked people to come online \u2014
+p440
+aValmost like a Jerry Bruckheimer movie.
+p441
+aVYou know Jerry Bruckheimer movies, you form a dream team \u2014
+p442
+aVyou've got the astronaut, the scientist, the ex-convict,
+p443
+aVand they all have something to do to save the world.
+p444
+aa(lp445
+V(Laughter)
+p446
+aa(lp447
+VBut in our game, instead of just having five people on the dream team,
+p448
+aVwe said, "Everybody's on the dream team,
+p449
+aVand it's your job to invent the future of energy,
+p450
+aVthe future of food, the future of health,
+p451
+aVthe future of security and the future of the social safety net."
+p452
+aVWe had 8,000 people play that game for eight weeks.
+p453
+aVThey came up with 500 insanely creative solutions
+p454
+aVthat you can go online, Google "Superstruct," and see.
+p455
+aa(lp456
+VSo, finally, the last game,
+p457
+aVwe're launching it March 3rd.
+p458
+aVThis is a game done with the World Bank Institute.
+p459
+aVIf you complete the game,
+p460
+aVyou will be certified by the World Bank Institute
+p461
+aVas a Social Innovator, class of 2010.
+p462
+aVWorking with universities all over sub-Saharan Africa,
+p463
+aVand we are inviting them to learn social innovation skills.
+p464
+aVWe've got a graphic novel, we've got leveling up
+p465
+aVin skills like local insight, knowledge networking,
+p466
+aVsustainability, vision and resourcefulness.
+p467
+aVI would like to invite all of you
+p468
+aVto please share this game with young people,
+p469
+aVanywhere in the world, particularly in developing areas,
+p470
+aVwho might benefit from coming together
+p471
+aVto try to start to imagine their own social enterprises to save the world.
+p472
+aa(lp473
+VSo, I'm going to wrap up now.
+p474
+aVI want to ask a question.
+p475
+aVWhat do you think happens next?
+p476
+aVWe've got all these amazing gamers, we've got these games
+p477
+aVthat are kind of pilots of what we might do,
+p478
+aVbut none of them have saved the real world yet.
+p479
+aVWell I hope you will agree with me that gamers are a human resource
+p480
+aVthat we can use to do real-world work,
+p481
+aVthat games are a powerful platform for change.
+p482
+aVWe have all these amazing superpowers:
+p483
+aVblissful productivity, the ability to weave a tight social fabric,
+p484
+aVthis feeling of urgent optimism and the desire for epic meaning.
+p485
+aa(lp486
+VI really hope that we can come together to play games that matter,
+p487
+aVto survive on this planet for another century.
+p488
+aVThat's my hope, that you will join me in making and playing games like this.
+p489
+aVWhen I look forward to the next decade, I know two things for sure:
+p490
+aVthat we can make any future we can imagine,
+p491
+aVand we can play any games we want, so I say:
+p492
+aVLet the world-changing games begin.
+p493
+aa(lp494
+VThank you.
+p495
+aa(lp496
+V(Applause)
+p497
+aasS'id'
+p498
+I799
+sS'title'
+p499
+VGaming can make a better world
+p500
+s.

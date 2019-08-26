@@ -1,0 +1,697 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo you go to the doctor and get some tests.
+p4
+aVThe doctor determines that you have high cholesterol
+p5
+aVand you would benefit from medication to treat it.
+p6
+aVSo you get a pillbox.
+p7
+aVYou have some confidence,
+p8
+aVyour physician has some confidence that this is going to work.
+p9
+aVThe company that invented it did a lot of studies, submitted it to the FDA.
+p10
+aVThey studied it very carefully, skeptically, they approved it.
+p11
+aVThey have a rough idea of how it works,
+p12
+aVthey have a rough idea of what the side effects are.
+p13
+aVIt should be OK.
+p14
+aVYou have a little more of a conversation with your physician
+p15
+aVand the physician is a little worried because you've been blue,
+p16
+aVhaven't felt like yourself,
+p17
+aVyou haven't been able to enjoy things in life quite as much as you usually do.
+p18
+aVYour physician says, "You know, I think you have some depression.
+p19
+aVI'm going to have to give you another pill."
+p20
+aa(lp21
+VSo now we're talking about two medications.
+p22
+aVThis pill also \u2014 millions of people have taken it,
+p23
+aVthe company did studies, the FDA looked at it \u2014 all good.
+p24
+aVThink things should go OK.
+p25
+aVThink things should go OK.
+p26
+aVWell, wait a minute.
+p27
+aVHow much have we studied these two together?
+p28
+aa(lp29
+VWell, it's very hard to do that.
+p30
+aVIn fact, it's not traditionally done.
+p31
+aVWe totally depend on what we call "post-marketing surveillance,"
+p32
+aVafter the drugs hit the market.
+p33
+aVHow can we figure out if bad things are happening
+p34
+aVbetween two medications?
+p35
+aVThree? Five? Seven?
+p36
+aVAsk your favorite person who has several diagnoses
+p37
+aVhow many medications they're on.
+p38
+aa(lp39
+VWhy do I care about this problem?
+p40
+aVI care about it deeply.
+p41
+aVI'm an informatics and data science guy and really, in my opinion,
+p42
+aVthe only hope \u2014 only hope \u2014 to understand these interactions
+p43
+aVis to leverage lots of different sources of data
+p44
+aVin order to figure out when drugs can be used together safely
+p45
+aVand when it's not so safe.
+p46
+aa(lp47
+VSo let me tell you a data science story.
+p48
+aVAnd it begins with my student Nick.
+p49
+aVLet's call him "Nick," because that's his name.
+p50
+aa(lp51
+V(Laughter)
+p52
+aa(lp53
+VNick was a young student.
+p54
+aVI said, "You know, Nick, we have to understand how drugs work
+p55
+aVand how they work together and how they work separately,
+p56
+aVand we don't have a great understanding.
+p57
+aVBut the FDA has made available an amazing database.
+p58
+aVIt's a database of adverse events.
+p59
+aVThey literally put on the web \u2014
+p60
+aVpublicly available, you could all download it right now \u2014
+p61
+aVhundreds of thousands of adverse event reports
+p62
+aVfrom patients, doctors, companies, pharmacists.
+p63
+aVAnd these reports are pretty simple:
+p64
+aVit has all the diseases that the patient has,
+p65
+aVall the drugs that they're on,
+p66
+aVand all the adverse events, or side effects, that they experience.
+p67
+aVIt is not all of the adverse events that are occurring in America today,
+p68
+aVbut it's hundreds and hundreds of thousands of drugs.
+p69
+aa(lp70
+VSo I said to Nick,
+p71
+aV"Let's think about glucose.
+p72
+aVGlucose is very important, and we know it's involved with diabetes.
+p73
+aVLet's see if we can understand glucose response.
+p74
+aVI sent Nick off. Nick came back.
+p75
+aa(lp76
+V"Russ," he said,
+p77
+aV"I've created a classifier that can look at the side effects of a drug
+p78
+aVbased on looking at this database,
+p79
+aVand can tell you whether that drug is likely to change glucose or not."
+p80
+aa(lp81
+VHe did it. It was very simple, in a way.
+p82
+aVHe took all the drugs that were known to change glucose
+p83
+aVand a bunch of drugs that don't change glucose,
+p84
+aVand said, "What's the difference in their side effects?
+p85
+aVDifferences in fatigue? In appetite? In urination habits?"
+p86
+aVAll those things conspired to give him a really good predictor.
+p87
+aVHe said, "Russ, I can predict with 93 percent accuracy
+p88
+aVwhen a drug will change glucose."
+p89
+aa(lp90
+VI said, "Nick, that's great."
+p91
+aVHe's a young student, you have to build his confidence.
+p92
+aV"But Nick, there's a problem.
+p93
+aVIt's that every physician in the world knows all the drugs that change glucose,
+p94
+aVbecause it's core to our practice.
+p95
+aVSo it's great, good job, but not really that interesting,
+p96
+aVdefinitely not publishable."
+p97
+aa(lp98
+V(Laughter)
+p99
+aa(lp100
+VHe said, "I know, Russ. I thought you might say that."
+p101
+aVNick is smart.
+p102
+aV"I thought you might say that, so I did one other experiment.
+p103
+aVI looked at people in this database who were on two drugs,
+p104
+aVand I looked for signals similar, glucose-changing signals,
+p105
+aVfor people taking two drugs,
+p106
+aVwhere each drug alone did not change glucose,
+p107
+aVbut together I saw a strong signal."
+p108
+aa(lp109
+VAnd I said, "Oh! You're clever. Good idea. Show me the list."
+p110
+aVAnd there's a bunch of drugs, not very exciting.
+p111
+aVBut what caught my eye was, on the list there were two drugs:
+p112
+aVparoxetine, or Paxil, an antidepressant;
+p113
+aVand pravastatin, or Pravachol, a cholesterol medication.
+p114
+aa(lp115
+VAnd I said, "Huh. There are millions of Americans on those two drugs."
+p116
+aVIn fact, we learned later,
+p117
+aV15 million Americans on paroxetine at the time, 15 million on pravastatin,
+p118
+aVand a million, we estimated, on both.
+p119
+aVSo that's a million people
+p120
+aVwho might be having some problems with their glucose
+p121
+aVif this machine-learning mumbo jumbo that he did in the FDA database
+p122
+aVactually holds up.
+p123
+aVBut I said, "It's still not publishable,
+p124
+aVbecause I love what you did with the mumbo jumbo,
+p125
+aVwith the machine learning,
+p126
+aVbut it's not really standard-of-proof evidence that we have."
+p127
+aVSo we have to do something else.
+p128
+aVLet's go into the Stanford electronic medical record.
+p129
+aVWe have a copy of it that's OK for research,
+p130
+aVwe removed identifying information.
+p131
+aVAnd I said, "Let's see if people on these two drugs
+p132
+aVhave problems with their glucose."
+p133
+aa(lp134
+VNow there are thousands and thousands of people
+p135
+aVin the Stanford medical records that take paroxetine and pravastatin.
+p136
+aVBut we needed special patients.
+p137
+aVWe needed patients who were on one of them and had a glucose measurement,
+p138
+aVthen got the second one and had another glucose measurement,
+p139
+aVall within a reasonable period of time \u2014 something like two months.
+p140
+aVAnd when we did that, we found 10 patients.
+p141
+aVHowever, eight out of the 10 had a bump in their glucose
+p142
+aVwhen they got the second P \u2014 we call this P and P \u2014
+p143
+aVwhen they got the second P.
+p144
+aVEither one could be first, the second one comes up,
+p145
+aVglucose went up 20 milligrams per deciliter.
+p146
+aVJust as a reminder,
+p147
+aVyou walk around normally, if you're not diabetic,
+p148
+aVwith a glucose of around 90.
+p149
+aVAnd if it gets up to 120, 125,
+p150
+aVyour doctor begins to think about a potential diagnosis of diabetes.
+p151
+aVSo a 20 bump \u2014 pretty significant.
+p152
+aa(lp153
+VI said, "Nick, this is very cool.
+p154
+aVBut, I'm sorry, we still don't have a paper,
+p155
+aVbecause this is 10 patients and \u2014 give me a break \u2014
+p156
+aVit's not enough patients."
+p157
+aa(lp158
+VSo we said, what can we do?
+p159
+aVAnd we said, let's call our friends at Harvard and Vanderbilt,
+p160
+aVwho also \u2014 Harvard in Boston, Vanderbilt in Nashville,
+p161
+aVwho also have electronic medical records similar to ours.
+p162
+aVLet's see if they can find similar patients
+p163
+aVwith the one P, the other P, the glucose measurements
+p164
+aVin that range that we need.
+p165
+aa(lp166
+VGod bless them, Vanderbilt in one week found 40 such patients,
+p167
+aVsame trend.
+p168
+aVHarvard found 100 patients, same trend.
+p169
+aVSo at the end, we had 150 patients from three diverse medical centers
+p170
+aVthat were telling us that patients getting these two drugs
+p171
+aVwere having their glucose bump somewhat significantly.
+p172
+aa(lp173
+VMore interestingly, we had left out diabetics,
+p174
+aVbecause diabetics already have messed up glucose.
+p175
+aVWhen we looked at the glucose of diabetics,
+p176
+aVit was going up 60 milligrams per deciliter, not just 20.
+p177
+aVThis was a big deal, and we said, "We've got to publish this."
+p178
+aVWe submitted the paper.
+p179
+aVIt was all data evidence,
+p180
+aVdata from the FDA, data from Stanford,
+p181
+aVdata from Vanderbilt, data from Harvard.
+p182
+aVWe had not done a single real experiment.
+p183
+aa(lp184
+VBut we were nervous.
+p185
+aVSo Nick, while the paper was in review, went to the lab.
+p186
+aVWe found somebody who knew about lab stuff.
+p187
+aVI don't do that.
+p188
+aVI take care of patients, but I don't do pipettes.
+p189
+aVThey taught us how to feed mice drugs.
+p190
+aVWe took mice and we gave them one P, paroxetine.
+p191
+aVWe gave some other mice pravastatin.
+p192
+aVAnd we gave a third group of mice both of them.
+p193
+aVAnd lo and behold, glucose went up 20 to 60 milligrams per deciliter
+p194
+aVin the mice.
+p195
+aa(lp196
+VSo the paper was accepted based on the informatics evidence alone,
+p197
+aVbut we added a little note at the end,
+p198
+aVsaying, oh by the way, if you give these to mice, it goes up.
+p199
+aa(lp200
+VThat was great, and the story could have ended there.
+p201
+aVBut I still have six and a half minutes.
+p202
+aa(lp203
+V(Laughter)
+p204
+aa(lp205
+VSo we were sitting around thinking about all of this,
+p206
+aVand I don't remember who thought of it, but somebody said,
+p207
+aV"I wonder if patients who are taking these two drugs
+p208
+aVare noticing side effects of hyperglycemia.
+p209
+aVThey could and they should.
+p210
+aVHow would we ever determine that?"
+p211
+aa(lp212
+VWe said, well, what do you do?
+p213
+aVYou're taking a medication, one new medication or two,
+p214
+aVand you get a funny feeling.
+p215
+aVWhat do you do?
+p216
+aVYou go to Google
+p217
+aVand type in the two drugs you're taking or the one drug you're taking,
+p218
+aVand you type in "side effects."
+p219
+aVWhat are you experiencing?
+p220
+aVSo we said OK,
+p221
+aVlet's ask Google if they will share their search logs with us,
+p222
+aVso that we can look at the search logs
+p223
+aVand see if patients are doing these kinds of searches.
+p224
+aVGoogle, I am sorry to say, denied our request.
+p225
+aVSo I was bummed.
+p226
+aVI was at a dinner with a colleague who works at Microsoft Research
+p227
+aVand I said, "We wanted to do this study,
+p228
+aVGoogle said no, it's kind of a bummer."
+p229
+aVHe said, "Well, we have the Bing searches."
+p230
+aa(lp231
+V(Laughter)
+p232
+aa(lp233
+VYeah.
+p234
+aVThat's great.
+p235
+aVNow I felt like I was \u2014
+p236
+aa(lp237
+V(Laughter)
+p238
+aa(lp239
+VI felt like I was talking to Nick again.
+p240
+aVHe works for one of the largest companies in the world,
+p241
+aVand I'm already trying to make him feel better.
+p242
+aVBut he said, "No, Russ \u2014 you might not understand.
+p243
+aVWe not only have Bing searches,
+p244
+aVbut if you use Internet Explorer to do searches at Google,
+p245
+aVYahoo, Bing, any ...
+p246
+aVThen, for 18 months, we keep that data for research purposes only."
+p247
+aVI said, "Now you're talking!"
+p248
+aVThis was Eric Horvitz, my friend at Microsoft.
+p249
+aa(lp250
+VSo we did a study
+p251
+aVwhere we defined 50 words that a regular person might type in
+p252
+aVif they're having hyperglycemia,
+p253
+aVlike "fatigue," "loss of appetite," "urinating a lot," "peeing a lot" \u2014
+p254
+aVforgive me, but that's one of the things you might type in.
+p255
+aVSo we had 50 phrases that we called the "diabetes words."
+p256
+aVAnd we did first a baseline.
+p257
+aVAnd it turns out that about .5 to one percent
+p258
+aVof all searches on the Internet involve one of those words.
+p259
+aVSo that's our baseline rate.
+p260
+aVIf people type in "paroxetine" or "Paxil" \u2014 those are synonyms \u2014
+p261
+aVand one of those words,
+p262
+aVthe rate goes up to about two percent of diabetes-type words,
+p263
+aVif you already know that there's that "paroxetine" word.
+p264
+aVIf it's "pravastatin," the rate goes up to about three percent from the baseline.
+p265
+aVIf both "paroxetine" and "pravastatin" are present in the query,
+p266
+aVit goes up to 10 percent,
+p267
+aVa huge three- to four-fold increase
+p268
+aVin those searches with the two drugs that we were interested in,
+p269
+aVand diabetes-type words or hyperglycemia-type words.
+p270
+aa(lp271
+VWe published this,
+p272
+aVand it got some attention.
+p273
+aVThe reason it deserves attention
+p274
+aVis that patients are telling us their side effects indirectly
+p275
+aVthrough their searches.
+p276
+aVWe brought this to the attention of the FDA.
+p277
+aVThey were interested.
+p278
+aVThey have set up social media surveillance programs
+p279
+aVto collaborate with Microsoft,
+p280
+aVwhich had a nice infrastructure for doing this, and others,
+p281
+aVto look at Twitter feeds,
+p282
+aVto look at Facebook feeds,
+p283
+aVto look at search logs,
+p284
+aVto try to see early signs that drugs, either individually or together,
+p285
+aVare causing problems.
+p286
+aa(lp287
+VWhat do I take from this? Why tell this story?
+p288
+aVWell, first of all,
+p289
+aVwe have now the promise of big data and medium-sized data
+p290
+aVto help us understand drug interactions
+p291
+aVand really, fundamentally, drug actions.
+p292
+aVHow do drugs work?
+p293
+aVThis will create and has created a new ecosystem
+p294
+aVfor understanding how drugs work and to optimize their use.
+p295
+aVNick went on; he's a professor at Columbia now.
+p296
+aVHe did this in his PhD for hundreds of pairs of drugs.
+p297
+aVHe found several very important interactions,
+p298
+aVand so we replicated this
+p299
+aVand we showed that this is a way that really works
+p300
+aVfor finding drug-drug interactions.
+p301
+aa(lp302
+VHowever, there's a couple of things.
+p303
+aVWe don't just use pairs of drugs at a time.
+p304
+aVAs I said before, there are patients on three, five, seven, nine drugs.
+p305
+aVHave they been studied with respect to their nine-way interaction?
+p306
+aVYes, we can do pair-wise, A and B, A and C, A and D,
+p307
+aVbut what about A, B, C, D, E, F, G all together,
+p308
+aVbeing taken by the same patient,
+p309
+aVperhaps interacting with each other
+p310
+aVin ways that either makes them more effective or less effective
+p311
+aVor causes side effects that are unexpected?
+p312
+aVWe really have no idea.
+p313
+aVIt's a blue sky, open field for us to use data
+p314
+aVto try to understand the interaction of drugs.
+p315
+aa(lp316
+VTwo more lessons:
+p317
+aVI want you to think about the power that we were able to generate
+p318
+aVwith the data from people who had volunteered their adverse reactions
+p319
+aVthrough their pharmacists, through themselves, through their doctors,
+p320
+aVthe people who allowed the databases at Stanford, Harvard, Vanderbilt,
+p321
+aVto be used for research.
+p322
+aVPeople are worried about data.
+p323
+aVThey're worried about their privacy and security \u2014 they should be.
+p324
+aVWe need secure systems.
+p325
+aVBut we can't have a system that closes that data off,
+p326
+aVbecause it is too rich of a source
+p327
+aVof inspiration, innovation and discovery
+p328
+aVfor new things in medicine.
+p329
+aa(lp330
+VAnd the final thing I want to say is,
+p331
+aVin this case we found two drugs and it was a little bit of a sad story.
+p332
+aVThe two drugs actually caused problems.
+p333
+aVThey increased glucose.
+p334
+aVThey could throw somebody into diabetes
+p335
+aVwho would otherwise not be in diabetes,
+p336
+aVand so you would want to use the two drugs very carefully together,
+p337
+aVperhaps not together,
+p338
+aVmake different choices when you're prescribing.
+p339
+aVBut there was another possibility.
+p340
+aVWe could have found two drugs or three drugs
+p341
+aVthat were interacting in a beneficial way.
+p342
+aVWe could have found new effects of drugs
+p343
+aVthat neither of them has alone,
+p344
+aVbut together, instead of causing a side effect,
+p345
+aVthey could be a new and novel treatment
+p346
+aVfor diseases that don't have treatments
+p347
+aVor where the treatments are not effective.
+p348
+aVIf we think about drug treatment today,
+p349
+aVall the major breakthroughs \u2014
+p350
+aVfor HIV, for tuberculosis, for depression, for diabetes \u2014
+p351
+aVit's always a cocktail of drugs.
+p352
+aa(lp353
+VAnd so the upside here,
+p354
+aVand the subject for a different TED Talk on a different day,
+p355
+aVis how can we use the same data sources
+p356
+aVto find good effects of drugs in combination
+p357
+aVthat will provide us new treatments,
+p358
+aVnew insights into how drugs work
+p359
+aVand enable us to take care of our patients even better?
+p360
+aa(lp361
+VThank you very much.
+p362
+aa(lp363
+V(Applause)
+p364
+aasS'id'
+p365
+I2436
+sS'title'
+p366
+VWhat really happens when you mix medications?
+p367
+s.

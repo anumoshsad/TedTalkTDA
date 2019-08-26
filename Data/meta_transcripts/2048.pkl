@@ -1,0 +1,584 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'd like to introduce you to an organism:
+p4
+aVa slime mold, Physarum polycephalum.
+p5
+aVIt's a mold with an identity crisis, because it's not a mold,
+p6
+aVso let's get that straight to start with.
+p7
+aVIt is one of 700 known slime molds
+p8
+aVbelonging to the kingdom of the amoeba.
+p9
+aVIt is a single-celled organism, a cell,
+p10
+aVthat joins together with other cells
+p11
+aVto form a mass super-cell
+p12
+aVto maximize its resources.
+p13
+aVSo within a slime mold you might find thousands
+p14
+aVor millions of nuclei,
+p15
+aVall sharing a cell wall,
+p16
+aVall operating as one entity.
+p17
+aVIn its natural habitat,
+p18
+aVyou might find the slime mold foraging in woodlands,
+p19
+aVeating rotting vegetation,
+p20
+aVbut you might equally find it
+p21
+aVin research laboratories,
+p22
+aVclassrooms, and even artists' studios.
+p23
+aa(lp24
+VI first came across the slime mold about five years ago.
+p25
+aVA microbiologist friend of mine
+p26
+aVgave me a petri dish with a little yellow blob in it
+p27
+aVand told me to go home and play with it.
+p28
+aVThe only instructions I was given,
+p29
+aVthat it likes it dark and damp
+p30
+aVand its favorite food is porridge oats.
+p31
+aVI'm an artist who's worked for many years
+p32
+aVwith biology, with scientific processes,
+p33
+aVso living material is not uncommon for me.
+p34
+aVI've worked with plants, bacteria,
+p35
+aVcuttlefish, fruit flies.
+p36
+aVSo I was keen to get my new collaborator home
+p37
+aVto see what it could do.
+p38
+aVSo I took it home and I watched.
+p39
+aVI fed it a varied diet.
+p40
+aVI observed as it networked.
+p41
+aVIt formed a connection between food sources.
+p42
+aVI watched it leave a trail behind it,
+p43
+aVindicating where it had been.
+p44
+aVAnd I noticed that when it was fed up with one petri dish,
+p45
+aVit would escape and find a better home.
+p46
+aa(lp47
+VI captured my observations
+p48
+aVthrough time-lapse photography.
+p49
+aVSlime mold grows at about one centimeter an hour,
+p50
+aVso it's not really ideal for live viewing
+p51
+aVunless there's some form of really extreme meditation,
+p52
+aVbut through the time lapse,
+p53
+aVI could observe some really interesting behaviors.
+p54
+aVFor instance, having fed on a nice pile of oats,
+p55
+aVthe slime mold goes off to explore new territories
+p56
+aVin different directions simultaneously.
+p57
+aVWhen it meets itself,
+p58
+aVit knows it's already there,
+p59
+aVit recognizes it's there,
+p60
+aVand instead retreats back
+p61
+aVand grows in other directions.
+p62
+aVI was quite impressed by this feat,
+p63
+aVat how what was essentially just a bag of cellular slime
+p64
+aVcould somehow map its territory,
+p65
+aVknow itself, and move with seeming intention.
+p66
+aa(lp67
+VI found countless scientific studies,
+p68
+aVresearch papers, journal articles,
+p69
+aVall citing incredible work with this one organism,
+p70
+aVand I'm going to share a few of those with you.
+p71
+aVFor example, a team in Hokkaido University in Japan
+p72
+aVfilled a maze with slime mold.
+p73
+aVIt joined together and formed a mass cell.
+p74
+aVThey introduced food at two points,
+p75
+aVoats of course,
+p76
+aVand it formed a connection
+p77
+aVbetween the food.
+p78
+aVIt retracted from empty areas and dead ends.
+p79
+aVThere are four possible routes through this maze,
+p80
+aVyet time and time again,
+p81
+aVthe slime mold established the shortest
+p82
+aVand the most efficient route.
+p83
+aVQuite clever.
+p84
+aVThe conclusion from their experiment
+p85
+aVwas that the slime mold had a primitive form of intelligence.
+p86
+aVAnother study exposed cold air at regular intervals to the slime mold.
+p87
+aVIt didn't like it. It doesn't like it cold.
+p88
+aVIt doesn't like it dry.
+p89
+aVThey did this at repeat intervals,
+p90
+aVand each time, the slime mold
+p91
+aVslowed down its growth in response.
+p92
+aVHowever, at the next interval,
+p93
+aVthe researchers didn't put the cold air on,
+p94
+aVyet the slime mold slowed down in anticipation
+p95
+aVof it happening.
+p96
+aVIt somehow knew that it was about the time
+p97
+aVfor the cold air that it didn't like.
+p98
+aVThe conclusion from their experiment
+p99
+aVwas that the slime mold was able to learn.
+p100
+aVA third experiment:
+p101
+aVthe slime mold was invited
+p102
+aVto explore a territory covered in oats.
+p103
+aVIt fans out in a branching pattern.
+p104
+aVAs it goes, each food node it finds,
+p105
+aVit forms a network, a connection to,
+p106
+aVand keeps foraging.
+p107
+aVAfter 26 hours, it established
+p108
+aVquite a firm network
+p109
+aVbetween the different oats.
+p110
+aVNow there's nothing remarkable in this
+p111
+aVuntil you learn that the center oat that it started from
+p112
+aVrepresents the city of Tokyo,
+p113
+aVand the surrounding oats are suburban railway stations.
+p114
+aVThe slime mold had replicated
+p115
+aVthe Tokyo transport network
+p116
+aV\u2014 (Laughter) \u2014
+p117
+aVa complex system developed over time
+p118
+aVby community dwellings, civil engineering, urban planning.
+p119
+aVWhat had taken us well over 100 years
+p120
+aVtook the slime mold just over a day.
+p121
+aVThe conclusion from their experiment
+p122
+aVwas that the slime mold can form efficient networks
+p123
+aVand solve the traveling salesman problem.
+p124
+aa(lp125
+VIt is a biological computer.
+p126
+aVAs such, it has been mathematically modeled,
+p127
+aValgorithmically analyzed.
+p128
+aVIt's been sonified, replicated, simulated.
+p129
+aVWorld over, teams of researchers
+p130
+aVare decoding its biological principles
+p131
+aVto understand its computational rules
+p132
+aVand applying that learning to the fields of electronics,
+p133
+aVprogramming and robotics.
+p134
+aa(lp135
+VSo the question is,
+p136
+aVhow does this thing work?
+p137
+aVIt doesn't have a central nervous system.
+p138
+aVIt doesn't have a brain,
+p139
+aVyet it can perform behaviors
+p140
+aVthat we associate with brain function.
+p141
+aVIt can learn, it can remember,
+p142
+aVit can solve problems, it can make decisions.
+p143
+aVSo where does that intelligence lie?
+p144
+aVSo this is a microscopy, a video I shot,
+p145
+aVand it's about 100 times magnification,
+p146
+aVsped up about 20 times,
+p147
+aVand inside the slime mold,
+p148
+aVthere is a rhythmic pulsing flow,
+p149
+aVa vein-like structure carrying
+p150
+aVcellular material, nutrients and chemical information
+p151
+aVthrough the cell,
+p152
+aVstreaming first in one direction and then back in another.
+p153
+aVAnd it is this continuous, synchronous oscillation
+p154
+aVwithin the cell that allows it to form
+p155
+aVquite a complex understanding of its environment,
+p156
+aVbut without any large-scale control center.
+p157
+aVThis is where its intelligence lies.
+p158
+aa(lp159
+VSo it's not just academic researchers
+p160
+aVin universities that are interested in this organism.
+p161
+aVA few years ago, I set up SliMoCo,
+p162
+aVthe Slime Mould Collective.
+p163
+aVIt's an online, open, democratic network
+p164
+aVfor slime mold researchers and enthusiasts
+p165
+aVto share knowledge and experimentation
+p166
+aVacross disciplinary divides
+p167
+aVand across academic divides.
+p168
+aVThe Slime Mould Collective membership is self-selecting.
+p169
+aVPeople have found the collective
+p170
+aVas the slime mold finds the oats.
+p171
+aVAnd it comprises of scientists
+p172
+aVand computer scientists and researchers
+p173
+aVbut also artists like me,
+p174
+aVarchitects, designers, writers, activists, you name it.
+p175
+aVIt's a very interesting, eclectic membership.
+p176
+aVJust a few examples:
+p177
+aVan artist who paints with fluorescent Physarum;
+p178
+aVa collaborative team
+p179
+aVwho are combining biological and electronic design
+p180
+aVwith 3D printing technologies in a workshop;
+p181
+aVanother artist who is using the slime mold
+p182
+aVas a way of engaging a community
+p183
+aVto map their area.
+p184
+aVHere, the slime mold is being used directly
+p185
+aVas a biological tool, but metaphorically
+p186
+aVas a symbol for ways of talking
+p187
+aVabout social cohesion, communication
+p188
+aVand cooperation.
+p189
+aVOther public engagement activities,
+p190
+aVI run lots of slime mold workshops,
+p191
+aVa creative way of engaging with the organism.
+p192
+aVSo people are invited to come and learn
+p193
+aVabout what amazing things it can do,
+p194
+aVand they design their own petri dish experiment,
+p195
+aVan environment for the slime mold to navigate
+p196
+aVso they can test its properties.
+p197
+aVEverybody takes home a new pet
+p198
+aVand is invited to post their results
+p199
+aVon the Slime Mould Collective.
+p200
+aVAnd the collective has enabled me
+p201
+aVto form collaborations
+p202
+aVwith a whole array of interesting people.
+p203
+aVI've been working with filmmakers
+p204
+aVon a feature-length slime mold documentary,
+p205
+aVand I stress feature-length,
+p206
+aVwhich is in the final stages of edit
+p207
+aVand will be hitting your cinema screens very soon.
+p208
+aV(Laughter)
+p209
+aa(lp210
+VIt's also enabled me to conduct what I think is
+p211
+aVthe world's first human slime mold experiment.
+p212
+aVThis is part of an exhibition in Rotterdam last year.
+p213
+aVWe invited people to become slime mold for half an hour.
+p214
+aVSo we essentially tied people together
+p215
+aVso they were a giant cell,
+p216
+aVand invited them to follow slime mold rules.
+p217
+aVYou have to communicate through oscillations,
+p218
+aVno speaking.
+p219
+aVYou have to operate as one entity, one mass cell,
+p220
+aVno egos,
+p221
+aVand the motivation for moving
+p222
+aVand then exploring the environment
+p223
+aVis in search of food.
+p224
+aVSo a chaotic shuffle ensued as this bunch of strangers
+p225
+aVtied together with yellow ropes wearing "Being Slime Mold" t-shirts
+p226
+aVwandered through the museum park.
+p227
+aVWhen they met trees, they had to reshape
+p228
+aVtheir connections and reform as a mass cell
+p229
+aVthrough not speaking.
+p230
+aVThis is a ludicrous experiment in many, many ways.
+p231
+aVThis isn't hypothesis-driven.
+p232
+aVWe're not trying to prove, demonstrate anything.
+p233
+aVBut what it did provide us was a way
+p234
+aVof engaging a broad section of the public
+p235
+aVwith ideas of intelligence, agency, autonomy,
+p236
+aVand provide a playful platform
+p237
+aVfor discussions about
+p238
+aVthe things that ensued.
+p239
+aVOne of the most exciting things
+p240
+aVabout this experiment
+p241
+aVwas the conversation that happened afterwards.
+p242
+aVAn entirely spontaneous symposium happened in the park.
+p243
+aVPeople talked about the human psychology,
+p244
+aVof how difficult it was to let go
+p245
+aVof their individual personalities and egos.
+p246
+aVOther people talked about bacterial communication.
+p247
+aVEach person brought in their own
+p248
+aVindividual interpretation,
+p249
+aVand our conclusion from this experiment was that
+p250
+aVthe people of Rotterdam were highly cooperative,
+p251
+aVespecially when given beer.
+p252
+aVWe didn't just give them oats.
+p253
+aVWe gave them beer as well.
+p254
+aa(lp255
+VBut they weren't as efficient as the slime mold,
+p256
+aVand the slime mold, for me,
+p257
+aVis a fascinating subject matter.
+p258
+aVIt's biologically fascinating,
+p259
+aVit's computationally interesting,
+p260
+aVbut it's also a symbol,
+p261
+aVa way of engaging with ideas of community,
+p262
+aVcollective behavior, cooperation.
+p263
+aVA lot of my work draws on the scientific research,
+p264
+aVso this pays homage to the maze experiment
+p265
+aVbut in a different way.
+p266
+aVAnd the slime mold is also my working material.
+p267
+aVIt's a coproducer of photographs, prints, animations,
+p268
+aVparticipatory events.
+p269
+aVWhilst the slime mold doesn't choose
+p270
+aVto work with me, exactly,
+p271
+aVit is a collaboration of sorts.
+p272
+aVI can predict certain behaviors
+p273
+aVby understanding how it operates,
+p274
+aVbut I can't control it.
+p275
+aVThe slime mold has the final say
+p276
+aVin the creative process.
+p277
+aVAnd after all, it has its own internal aesthetics.
+p278
+aVThese branching patterns that we see
+p279
+aVwe see across all forms, scales of nature,
+p280
+aVfrom river deltas to lightning strikes,
+p281
+aVfrom our own blood vessels to neural networks.
+p282
+aVThere's clearly significant rules at play
+p283
+aVin this simple yet complex organism,
+p284
+aVand no matter what our disciplinary perspective or our mode of inquiry,
+p285
+aVthere's a great deal that we can learn
+p286
+aVfrom observing and engaging
+p287
+aVwith this beautiful, brainless blob.
+p288
+aa(lp289
+VI give you Physarum polycephalum.
+p290
+aa(lp291
+VThank you.
+p292
+aa(lp293
+V(Applause)
+p294
+aasS'id'
+p295
+I2048
+sS'title'
+p296
+VWhat humans can learn from semi-intelligent slime
+p297
+s.

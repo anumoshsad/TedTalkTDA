@@ -1,0 +1,715 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'd like to start with a couple of quick examples.
+p4
+aVThese are spinneret glands
+p5
+aVon the abdomen of a spider.
+p6
+aVThey produce six different types of silk, which is spun together into a fiber,
+p7
+aVtougher than any fiber humans have ever made.
+p8
+aVThe nearest we've come is with aramid fiber.
+p9
+aVAnd to make that, it involves extremes of temperature,
+p10
+aVextremes of pressure and loads of pollution.
+p11
+aVAnd yet the spider manages to do it at ambient temperature and pressure
+p12
+aVwith raw materials of dead flies and water.
+p13
+aVIt does suggest we've still got a bit to learn.
+p14
+aVThis beetle can detect a forest fire at 80 kilometers away.
+p15
+aVThat's roughly 10,000 times the range
+p16
+aVof man-made fire detectors.
+p17
+aVAnd what's more, this guy doesn't need a wire
+p18
+aVconnected all the way back to a power station burning fossil fuels.
+p19
+aa(lp20
+VSo these two examples give a sense of what biomimicry can deliver.
+p21
+aVIf we could learn to make things and do things the way nature does,
+p22
+aVwe could achieve factor 10, factor 100,
+p23
+aVmaybe even factor 1,000 savings
+p24
+aVin resource and energy use.
+p25
+aVAnd if we're to make progress with the sustainability revolution,
+p26
+aVI believe there are three really big changes
+p27
+aVwe need to bring about.
+p28
+aVFirstly, radical increases in resource efficiency.
+p29
+aVSecondly, shifting from a linear, wasteful,
+p30
+aVpolluting way of using resources
+p31
+aVto a closed-loop model.
+p32
+aVAnd thirdly, changing from a fossil fuel economy
+p33
+aVto a solar economy.
+p34
+aVAnd for all three of these, I believe,
+p35
+aVbiomimicry has a lot of the solutions that we're going to need.
+p36
+aa(lp37
+VYou could look at nature as being like a catalog of products,
+p38
+aVand all of those have benefited
+p39
+aVfrom a 3.8-billion-year research and development period.
+p40
+aVAnd given that level of investment, it makes sense to use it.
+p41
+aVSo I'm going to talk about some projects that have explored these ideas.
+p42
+aVAnd let's start with radical increases
+p43
+aVin resource efficiency.
+p44
+aVWhen we were working on the Eden Project,
+p45
+aVwe had to create a very large greenhouse
+p46
+aVin a site that was not only irregular,
+p47
+aVbut it was continually changing because it was still being quarried.
+p48
+aVIt was a hell of a challenge,
+p49
+aVand it was actually examples from biology
+p50
+aVthat provided a lot of the clues.
+p51
+aVSo for instance,
+p52
+aVit was soap bubbles that helped us generate a building form
+p53
+aVthat would work regardless of the final ground levels.
+p54
+aVStudying pollen grains
+p55
+aVand radiolaria and carbon molecules
+p56
+aVhelped us devise the most efficient structural solution
+p57
+aVusing hexagons and pentagons.
+p58
+aa(lp59
+VThe next move was that we wanted
+p60
+aVto try and maximize the size of those hexagons.
+p61
+aVAnd to do that we had to find an alternative to glass,
+p62
+aVwhich is really very limited in terms of its unit sizes.
+p63
+aVAnd in nature there are lots of examples
+p64
+aVof very efficient structures based on pressurized membranes.
+p65
+aVSo we started exploring this material called ETFE.
+p66
+aVIt's a high-strength polymer.
+p67
+aVAnd what you do is you put it together in three layers,
+p68
+aVyou weld it around the edge, and then you inflate it.
+p69
+aVAnd the great thing about this stuff
+p70
+aVis you can make it in units
+p71
+aVof roughly seven times the size of glass,
+p72
+aVand it was only one percent of the weight of double-glazing.
+p73
+aVSo that was a factor-100 saving.
+p74
+aVAnd what we found is that we got into a positive cycle
+p75
+aVin which one breakthrough facilitated another.
+p76
+aVSo with such large, lightweight pillows,
+p77
+aVwe had much less steel.
+p78
+aVWith less steel we were getting more sunlight in,
+p79
+aVwhich meant we didn't have to put as much extra heat in winter.
+p80
+aVAnd with less overall weight in the superstructure,
+p81
+aVthere were big savings in the foundations.
+p82
+aVAnd at the end of the project we worked out
+p83
+aVthat the weight of that superstructure
+p84
+aVwas actually less than the weight of the air inside the building.
+p85
+aa(lp86
+VSo I think the Eden Project is a fairly good example
+p87
+aVof how ideas from biology
+p88
+aVcan lead to radical increases in resource efficiency \u2014
+p89
+aVdelivering the same function,
+p90
+aVbut with a fraction of the resource input.
+p91
+aVAnd actually there are loads of examples in nature
+p92
+aVthat you could turn to for similar solutions.
+p93
+aVSo for instance, you could develop super-efficient roof structures
+p94
+aVbased on giant Amazon water lilies,
+p95
+aVwhole buildings inspired by abalone shells,
+p96
+aVsuper-lightweight bridges inspired by plant cells.
+p97
+aVThere's a world of beauty and efficiency to explore here
+p98
+aVusing nature as a design tool.
+p99
+aa(lp100
+VSo now I want to go onto talking about the linear-to-closed-loop idea.
+p101
+aVThe way we tend to use resources
+p102
+aVis we extract them,
+p103
+aVwe turn them into short-life products and then dispose of them.
+p104
+aVNature works very differently.
+p105
+aVIn ecosystems, the waste from one organism
+p106
+aVbecomes the nutrient for something else in that system.
+p107
+aVAnd there are some examples of projects
+p108
+aVthat have deliberately tried to mimic ecosystems.
+p109
+aVAnd one of my favorites
+p110
+aVis called the Cardboard to Caviar Project
+p111
+aVby Graham Wiles.
+p112
+aVAnd in their area they had a lot of shops and restaurants
+p113
+aVthat were producing lots of food, cardboard and plastic waste.
+p114
+aVIt was ending up in landfills.
+p115
+aVNow the really clever bit is what they did with the cardboard waste.
+p116
+aVAnd I'm just going to talk through this animation.
+p117
+aa(lp118
+VSo they were paid to collect it from the restaurants.
+p119
+aVThey then shredded the cardboard
+p120
+aVand sold it to equestrian centers as horse bedding.
+p121
+aVWhen that was soiled, they were paid again to collect it.
+p122
+aVThey put it into worm recomposting systems,
+p123
+aVwhich produced a lot of worms, which they fed to Siberian sturgeon,
+p124
+aVwhich produced caviar, which they sold back to the restaurants.
+p125
+aVSo it transformed a linear process
+p126
+aVinto a closed-loop model,
+p127
+aVand it created more value in the process.
+p128
+aVGraham Wiles has continued to add more and more elements to this,
+p129
+aVturning waste streams into schemes that create value.
+p130
+aVAnd just as natural systems
+p131
+aVtend to increase in diversity and resilience over time,
+p132
+aVthere's a real sense with this project
+p133
+aVthat the number of possibilities
+p134
+aVjust continue increasing.
+p135
+aVAnd I know it's a quirky example,
+p136
+aVbut I think the implications of this are quite radical,
+p137
+aVbecause it suggests that we could actually
+p138
+aVtransform a big problem \u2014 waste \u2014 into a massive opportunity.
+p139
+aa(lp140
+VAnd particularly in cities \u2014
+p141
+aVwe could look at the whole metabolism of cities,
+p142
+aVand look at those as opportunities.
+p143
+aVAnd that's what we're doing on the next project I'm going to talk about,
+p144
+aVthe Mobius Project,
+p145
+aVwhere we're trying to bring together a number of activities,
+p146
+aVall within one building,
+p147
+aVso that the waste from one can be the nutrient for another.
+p148
+aVAnd the kind of elements I'm talking about
+p149
+aVare, firstly, we have a restaurant inside a productive greenhouse,
+p150
+aVa bit like this one in Amsterdam called De Kas.
+p151
+aVThen we would have an anaerobic digester,
+p152
+aVwhich could deal with all the biodegradable waste from the local area,
+p153
+aVturn that into heat for the greenhouse
+p154
+aVand electricity to feed back into the grid.
+p155
+aVWe'd have a water treatment system
+p156
+aVtreating wastewater, turning that into fresh water
+p157
+aVand generating energy from the solids
+p158
+aVusing just plants and micro-organisms.
+p159
+aVWe'd have a fish farm fed with vegetable waste from the kitchen
+p160
+aVand worms from the compost
+p161
+aVand supplying fish back to the restaurant.
+p162
+aVAnd we'd also have a coffee shop, and the waste grains from that
+p163
+aVcould be used as a substrate for growing mushrooms.
+p164
+aa(lp165
+VSo you can see that we're bringing together
+p166
+aVcycles of food, energy and water and waste
+p167
+aVall within one building.
+p168
+aVAnd just for fun, we've proposed this for a roundabout in central London,
+p169
+aVwhich at the moment is a complete eyesore.
+p170
+aVSome of you may recognize this.
+p171
+aVAnd with just a little bit of planning,
+p172
+aVwe could transform a space dominated by traffic
+p173
+aVinto one that provides open space for people,
+p174
+aVreconnects people with food
+p175
+aVand transforms waste into closed loop opportunities.
+p176
+aa(lp177
+VSo the final project I want to talk about
+p178
+aVis the Sahara Forest Project, which we're working on at the moment.
+p179
+aVIt may come as a surprise to some of you
+p180
+aVto hear that quite large areas of what are currently desert
+p181
+aVwere actually forested a fairly short time ago.
+p182
+aVSo for instance, when Julius Caesar arrived in North Africa,
+p183
+aVhuge areas of North Africa
+p184
+aVwere covered in cedar and cypress forests.
+p185
+aVAnd during the evolution of life on the Earth,
+p186
+aVit was the colonization
+p187
+aVof the land by plants
+p188
+aVthat helped create the benign climate we currently enjoy.
+p189
+aVThe converse is also true.
+p190
+aVThe more vegetation we lose,
+p191
+aVthe more that's likely to exacerbate climate change
+p192
+aVand lead to further desertification.
+p193
+aVAnd this animation,
+p194
+aVthis shows photosynthetic activity over the course of a number of years,
+p195
+aVand what you can see is that the boundaries of those deserts
+p196
+aVshift quite a lot,
+p197
+aVand that raises the question
+p198
+aVof whether we can intervene at the boundary conditions
+p199
+aVto halt, or maybe even reverse, desertification.
+p200
+aa(lp201
+VAnd if you look at some of the organisms
+p202
+aVthat have evolved to live in deserts,
+p203
+aVthere are some amazing examples of adaptations to water scarcity.
+p204
+aVThis is the Namibian fog-basking beetle,
+p205
+aVand it's evolved a way of harvesting its own fresh water in a desert.
+p206
+aVThe way it does this is it comes out at night,
+p207
+aVcrawls to the top of a sand dune,
+p208
+aVand because it's got a matte black shell,
+p209
+aVis able to radiate heat out to the night sky
+p210
+aVand become slightly cooler than its surroundings.
+p211
+aVSo when the moist breeze blows in off the sea,
+p212
+aVyou get these droplets of water forming on the beetle's shell.
+p213
+aVJust before sunrise, he tips his shell up, the water runs down into his mouth,
+p214
+aVhas a good drink, goes off and hides for the rest of the day.
+p215
+aVAnd the ingenuity, if you could call it that,
+p216
+aVgoes even further.
+p217
+aVBecause if you look closely at the beetle's shell,
+p218
+aVthere are lots of little bumps on that shell.
+p219
+aVAnd those bumps are hydrophilic; they attract water.
+p220
+aVBetween them there's a waxy finish which repels water.
+p221
+aVAnd the effect of this is that
+p222
+aVas the droplets start to form on the bumps,
+p223
+aVthey stay in tight, spherical beads,
+p224
+aVwhich means they're much more mobile
+p225
+aVthan they would be if it was just a film of water over the whole beetle's shell.
+p226
+aVSo even when there's only a small amount of moisture in the air,
+p227
+aVit's able to harvest that very effectively and channel it down to its mouth.
+p228
+aVSo amazing example of an adaptation
+p229
+aVto a very resource-constrained environment \u2014
+p230
+aVand in that sense, very relevant
+p231
+aVto the kind of challenges we're going to be facing
+p232
+aVover the next few years, next few decades.
+p233
+aa(lp234
+VWe're working with the guy who invented the Seawater Greenhouse.
+p235
+aVThis is a greenhouse designed for arid coastal regions,
+p236
+aVand the way it works is that you have this whole wall of evaporator grills,
+p237
+aVand you trickle seawater over that
+p238
+aVso that wind blows through, it picks up a lot of moisture
+p239
+aVand is cooled in the process.
+p240
+aVSo inside it's cool and humid,
+p241
+aVwhich means the plants need less water to grow.
+p242
+aVAnd then at the back of the greenhouse,
+p243
+aVit condenses a lot of that humidity as freshwater
+p244
+aVin a process that is effectively identical to the beetle.
+p245
+aVAnd what they found with the first Seawater Greenhouse that was built
+p246
+aVwas it was producing slightly more freshwater
+p247
+aVthan it needed for the plants inside.
+p248
+aVSo they just started spreading this on the land around,
+p249
+aVand the combination of that and the elevated humidity
+p250
+aVhad quite a dramatic effect on the local area.
+p251
+aVThis photograph was taken on completion day,
+p252
+aVand just one year later, it looked like that.
+p253
+aVSo it was like a green inkblot spreading out from the building
+p254
+aVturning barren land back into biologically productive land \u2014
+p255
+aVand in that sense, going beyond sustainable design
+p256
+aVto achieve restorative design.
+p257
+aa(lp258
+VSo we were keen to scale this up
+p259
+aVand apply biomimicry ideas to maximize the benefits.
+p260
+aVAnd when you think about nature,
+p261
+aVoften you think about it as being all about competition.
+p262
+aVBut actually in mature ecosystems,
+p263
+aVyou're just as likely to find examples
+p264
+aVof symbiotic relationships.
+p265
+aVSo an important biomimicry principle
+p266
+aVis to find ways of bringing technologies together
+p267
+aVin symbiotic clusters.
+p268
+aVAnd the technology that we settled on
+p269
+aVas an ideal partner for the Seawater Greenhouse
+p270
+aVis concentrated solar power,
+p271
+aVwhich uses solar-tracking mirrors to focus the sun's heat
+p272
+aVto create electricity.
+p273
+aVAnd just to give you some sense of the potential of CSP,
+p274
+aVconsider that we receive
+p275
+aV10,000 times as much energy from the sun every year
+p276
+aVas we use in energy from all forms \u2014
+p277
+aV10,000 times.
+p278
+aVSo our energy problems are not intractable.
+p279
+aVIt's a challenge to our ingenuity.
+p280
+aVAnd the kind of synergies I'm talking about
+p281
+aVare, firstly, both these technologies work very well in hot, sunny deserts.
+p282
+aVCSP needs a supply of demineralized freshwater.
+p283
+aVThat's exactly what the Seawater Greenhouse produces.
+p284
+aVCSP produces a lot of waste heat.
+p285
+aVWe'll be able to make use of all that to evaporate more seawater
+p286
+aVand enhance the restorative benefits.
+p287
+aVAnd finally, in the shade under the mirrors,
+p288
+aVit's possible to grow all sorts of crops
+p289
+aVthat would not grow in direct sunlight.
+p290
+aVSo this is how this scheme would look.
+p291
+aVThe idea is we create this long hedge of greenhouses facing the wind.
+p292
+aVWe'd have concentrated solar power plants
+p293
+aVat intervals along the way.
+p294
+aa(lp295
+VSome of you might be wondering what we would do with all the salts.
+p296
+aVAnd with biomimicry, if you've got an underutilized resource,
+p297
+aVyou don't think, "How am I going to dispose of this?"
+p298
+aVYou think, "What can I add to the system to create more value?"
+p299
+aVAnd it turns out
+p300
+aVthat different things crystallize out at different stages.
+p301
+aVWhen you evaporate seawater, the first thing to crystallize out
+p302
+aVis calcium carbonate.
+p303
+aVAnd that builds up on the evaporators \u2014
+p304
+aVand that's what that image on the left is \u2014
+p305
+aVgradually getting encrusted with the calcium carbonate.
+p306
+aVSo after a while, we could take that out,
+p307
+aVuse it as a lightweight building block.
+p308
+aVAnd if you think about the carbon in that,
+p309
+aVthat would have come out of the atmosphere, into the sea
+p310
+aVand then locked away in a building product.
+p311
+aa(lp312
+VThe next thing is sodium chloride.
+p313
+aVYou can also compress that into a building block,
+p314
+aVas they did here.
+p315
+aVThis is a hotel in Bolivia.
+p316
+aVAnd then after that, there are all sorts
+p317
+aVof compounds and elements that we can extract,
+p318
+aVlike phosphates, that we need to get back into the desert soils to fertilize them.
+p319
+aVAnd there's just about every element of the periodic table
+p320
+aVin seawater.
+p321
+aVSo it should be possible to extract valuable elements
+p322
+aVlike lithium for high-performance batteries.
+p323
+aVAnd in parts of the Arabian Gulf,
+p324
+aVthe seawater, the salinity is increasing steadily
+p325
+aVdue to the discharge of waste brine
+p326
+aVfrom desalination plants.
+p327
+aVAnd it's pushing the ecosystem close to collapse.
+p328
+aVNow we would be able to make use of all that waste brine.
+p329
+aVWe could evaporate it
+p330
+aVto enhance the restorative benefits
+p331
+aVand capture the salts,
+p332
+aVtransforming an urgent waste problem into a big opportunity.
+p333
+aVReally the Sahara Forest Project is a model
+p334
+aVfor how we could create zero-carbon food,
+p335
+aVabundant renewable energy in some of the most water-stressed parts of the planet
+p336
+aVas well as reversing desertification in certain areas.
+p337
+aa(lp338
+VSo returning to those big challenges that I mentioned at the beginning:
+p339
+aVradical increases in resource efficiency,
+p340
+aVclosing loops and a solar economy.
+p341
+aVThey're not just possible; they're critical.
+p342
+aVAnd I firmly believe that studying the way nature solves problems
+p343
+aVwill provide a lot of the solutions.
+p344
+aVBut perhaps more than anything, what this thinking provides
+p345
+aVis a really positive way of talking about sustainable design.
+p346
+aVFar too much of the talk about the environment
+p347
+aVuses very negative language.
+p348
+aVBut here it's about synergies and abundance and optimizing.
+p349
+aVAnd this is an important point.
+p350
+aa(lp351
+VAntoine de Saint-Exupery once said,
+p352
+aV"If you want to build a flotilla of ships,
+p353
+aVyou don't sit around talking about carpentry.
+p354
+aVNo, you need to set people's souls ablaze
+p355
+aVwith visions of exploring distant shores."
+p356
+aVAnd that's what we need to do, so let's be positive,
+p357
+aVand let's make progress with what could be
+p358
+aVthe most exciting period of innovation we've ever seen.
+p359
+aa(lp360
+VThank you.
+p361
+aa(lp362
+V(Applause)
+p363
+aasS'id'
+p364
+I1072
+sS'title'
+p365
+VUsing nature's genius in architecture
+p366
+s.

@@ -1,0 +1,837 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhen I was a student here in Oxford in the 1970s,
+p4
+aVthe future of the world was bleak.
+p5
+aVThe population explosion was unstoppable.
+p6
+aVGlobal famine was inevitable.
+p7
+aVA cancer epidemic caused by chemicals in the environment
+p8
+aVwas going to shorten our lives.
+p9
+aVThe acid rain was falling on the forests.
+p10
+aVThe desert was advancing by a mile or two a year.
+p11
+aVThe oil was running out,
+p12
+aVand a nuclear winter would finish us off.
+p13
+aVNone of those things happened,
+p14
+aV(Laughter)
+p15
+aVand astonishingly, if you look at what actually happened in my lifetime,
+p16
+aVthe average per-capita income
+p17
+aVof the average person on the planet,
+p18
+aVin real terms, adjusted for inflation,
+p19
+aVhas tripled.
+p20
+aVLifespan is up by 30 percent in my lifetime.
+p21
+aVChild mortality is down by two-thirds.
+p22
+aVPer-capita food production
+p23
+aVis up by a third.
+p24
+aVAnd all this at a time when the population has doubled.
+p25
+aa(lp26
+VHow did we achieve that, whether you think it's a good thing or not?
+p27
+aVHow did we achieve that?
+p28
+aVHow did we become
+p29
+aVthe only species
+p30
+aVthat becomes more prosperous
+p31
+aVas it becomes more populous?
+p32
+aVThe size of the blob in this graph represents the size of the population,
+p33
+aVand the level of the graph
+p34
+aVrepresents GDP per capita.
+p35
+aVI think to answer that question
+p36
+aVyou need to understand
+p37
+aVhow human beings bring together their brains
+p38
+aVand enable their ideas to combine and recombine,
+p39
+aVto meet and, indeed, to mate.
+p40
+aVIn other words, you need to understand
+p41
+aVhow ideas have sex.
+p42
+aa(lp43
+VI want you to imagine
+p44
+aVhow we got from making objects like this
+p45
+aVto making objects like this.
+p46
+aVThese are both real objects.
+p47
+aVOne is an Acheulean hand axe from half a million years ago
+p48
+aVof the kind made by Homo erectus.
+p49
+aVThe other is obviously a computer mouse.
+p50
+aVThey're both exactly the same size and shape to an uncanny degree.
+p51
+aVI've tried to work out which is bigger,
+p52
+aVand it's almost impossible.
+p53
+aVAnd that's because they're both designed to fit the human hand.
+p54
+aVThey're both technologies. In the end, their similarity is not that interesting.
+p55
+aVIt just tells you they were both designed to fit the human hand.
+p56
+aVThe differences are what interest me,
+p57
+aVbecause the one on the left was made to a pretty unvarying design
+p58
+aVfor about a million years \u2014
+p59
+aVfrom one-and-a-half million years ago to half a million years ago.
+p60
+aVHomo erectus made the same tool
+p61
+aVfor 30,000 generations.
+p62
+aVOf course there were a few changes,
+p63
+aVbut tools changed slower than skeletons in those days.
+p64
+aVThere was no progress, no innovation.
+p65
+aVIt's an extraordinary phenomenon, but it's true.
+p66
+aVWhereas the object on the right is obsolete after five years.
+p67
+aVAnd there's another difference too,
+p68
+aVwhich is the object on the left is made from one substance.
+p69
+aVThe object on the right is made from
+p70
+aVa confection of different substances,
+p71
+aVfrom silicon and metal and plastic and so on.
+p72
+aVAnd more than that, it's a confection of different ideas,
+p73
+aVthe idea of plastic, the idea of a laser,
+p74
+aVthe idea of transistors.
+p75
+aVThey've all been combined together in this technology.
+p76
+aa(lp77
+VAnd it's this combination,
+p78
+aVthis cumulative technology, that intrigues me,
+p79
+aVbecause I think it's the secret to understanding
+p80
+aVwhat's happening in the world.
+p81
+aVMy body's an accumulation of ideas too:
+p82
+aVthe idea of skin cells, the idea of brain cells, the idea of liver cells.
+p83
+aVThey've come together.
+p84
+aVHow does evolution do cumulative, combinatorial things?
+p85
+aVWell, it uses sexual reproduction.
+p86
+aVIn an asexual species, if you get two different mutations in different creatures,
+p87
+aVa green one and a red one,
+p88
+aVthen one has to be better than the other.
+p89
+aVOne goes extinct for the other to survive.
+p90
+aVBut if you have a sexual species,
+p91
+aVthen it's possible for an individual
+p92
+aVto inherit both mutations
+p93
+aVfrom different lineages.
+p94
+aVSo what sex does is it enables the individual
+p95
+aVto draw upon
+p96
+aVthe genetic innovations of the whole species.
+p97
+aVIt's not confined to its own lineage.
+p98
+aa(lp99
+VWhat's the process that's having the same effect
+p100
+aVin cultural evolution
+p101
+aVas sex is having in biological evolution?
+p102
+aVAnd I think the answer is exchange,
+p103
+aVthe habit of exchanging one thing for another.
+p104
+aVIt's a unique human feature.
+p105
+aVNo other animal does it.
+p106
+aVYou can teach them in the laboratory to do a little bit of exchange \u2014
+p107
+aVand indeed there's reciprocity in other animals \u2014
+p108
+aVBut the exchange of one object for another never happens.
+p109
+aVAs Adam Smith said, "No man ever saw a dog
+p110
+aVmake a fair exchange of a bone with another dog."
+p111
+aV(Laughter)
+p112
+aVYou can have culture without exchange.
+p113
+aVYou can have, as it were, asexual culture.
+p114
+aVChimpanzees, killer whales, these kinds of creatures, they have culture.
+p115
+aVThey teach each other traditions
+p116
+aVwhich are handed down from parent to offspring.
+p117
+aVIn this case, chimpanzees teaching each other
+p118
+aVhow to crack nuts with rocks.
+p119
+aVBut the difference is
+p120
+aVthat these cultures never expand, never grow,
+p121
+aVnever accumulate, never become combinatorial,
+p122
+aVand the reason is because
+p123
+aVthere is no sex, as it were,
+p124
+aVthere is no exchange of ideas.
+p125
+aVChimpanzee troops have different cultures in different troops.
+p126
+aVThere's no exchange of ideas between them.
+p127
+aa(lp128
+VAnd why does exchange raise living standards?
+p129
+aVWell, the answer came from David Ricardo in 1817.
+p130
+aVAnd here is a Stone Age version of his story,
+p131
+aValthough he told it in terms of trade between countries.
+p132
+aVAdam takes four hours to make a spear and three hours to make an axe.
+p133
+aVOz takes one hour to make a spear and two hours to make an axe.
+p134
+aVSo Oz is better at both spears and axes than Adam.
+p135
+aVHe doesn't need Adam.
+p136
+aVHe can make his own spears and axes.
+p137
+aVWell no, because if you think about it,
+p138
+aVif Oz makes two spears and Adam make two axes,
+p139
+aVand then they trade,
+p140
+aVthen they will each have saved an hour of work.
+p141
+aVAnd the more they do this, the more true it's going to be,
+p142
+aVbecause the more they do this, the better Adam is going to get at making axes
+p143
+aVand the better Oz is going to get at making spears.
+p144
+aVSo the gains from trade are only going to grow.
+p145
+aVAnd this is one of the beauties of exchange,
+p146
+aVis it actually creates the momentum
+p147
+aVfor more specialization,
+p148
+aVwhich creates the momentum for more exchange and so on.
+p149
+aVAdam and Oz both saved an hour of time.
+p150
+aVThat is prosperity, the saving of time
+p151
+aVin satisfying your needs.
+p152
+aa(lp153
+VAsk yourself how long you would have to work
+p154
+aVto provide for yourself
+p155
+aVan hour of reading light this evening to read a book by.
+p156
+aVIf you had to start from scratch, let's say you go out into the countryside.
+p157
+aVYou find a sheep. You kill it. You get the fat out of it.
+p158
+aVYou render it down. You make a candle, etc. etc.
+p159
+aVHow long is it going to take you? Quite a long time.
+p160
+aVHow long do you actually have to work
+p161
+aVto earn an hour of reading light
+p162
+aVif you're on the average wage in Britain today?
+p163
+aVAnd the answer is about half a second.
+p164
+aVBack in 1950,
+p165
+aVyou would have had to work for eight seconds on the average wage
+p166
+aVto acquire that much light.
+p167
+aVAnd that's seven and a half seconds of prosperity that you've gained
+p168
+aVsince 1950, as it were,
+p169
+aVbecause that's seven and a half seconds in which you can do something else,
+p170
+aVor you can acquire another good or service.
+p171
+aVAnd back in 1880,
+p172
+aVit would have been 15 minutes
+p173
+aVto earn that amount of light on the average wage.
+p174
+aVBack in 1800,
+p175
+aVyou'd have had to work six hours
+p176
+aVto earn a candle that could burn for an hour.
+p177
+aVIn other words, the average person on the average wage
+p178
+aVcould not afford a candle in 1800.
+p179
+aa(lp180
+VGo back to this image of the axe and the mouse,
+p181
+aVand ask yourself: "Who made them and for who?"
+p182
+aVThe stone axe was made by someone for himself.
+p183
+aVIt was self-sufficiency.
+p184
+aVWe call that poverty these days.
+p185
+aVBut the object on the right
+p186
+aVwas made for me by other people.
+p187
+aVHow many other people?
+p188
+aVTens? Hundreds? Thousands?
+p189
+aVYou know, I think it's probably millions.
+p190
+aVBecause you've got to include the man who grew the coffee,
+p191
+aVwhich was brewed for the man who was on the oil rig,
+p192
+aVwho was drilling for oil, which was going to be made into the plastic, etc.
+p193
+aVThey were all working for me,
+p194
+aVto make a mouse for me.
+p195
+aVAnd that's the way society works.
+p196
+aVThat's what we've achieved as a species.
+p197
+aa(lp198
+VIn the old days, if you were rich,
+p199
+aVyou literally had people working for you.
+p200
+aVThat's how you got to be rich; you employed them.
+p201
+aVLouis XIV had a lot of people working for him.
+p202
+aVThey made his silly outfits, like this,
+p203
+aV(Laughter)
+p204
+aVand they did his silly hairstyles, or whatever.
+p205
+aVHe had 498 people
+p206
+aVto prepare his dinner every night.
+p207
+aVBut a modern tourist going around the palace of Versailles
+p208
+aVand looking at Louis XIV's pictures,
+p209
+aVhe has 498 people doing his dinner tonight too.
+p210
+aVThey're in bistros and cafes and restaurants
+p211
+aVand shops all over Paris,
+p212
+aVand they're all ready to serve you at an hour's notice with an excellent meal
+p213
+aVthat's probably got higher quality
+p214
+aVthan Louis XIV even had.
+p215
+aVAnd that's what we've done, because we're all working for each other.
+p216
+aVWe're able to draw upon specialization and exchange
+p217
+aVto raise each other's living standards.
+p218
+aa(lp219
+VNow, you do get other animals working for each other too.
+p220
+aVAnts are a classic example; workers work for queens and queens work for workers.
+p221
+aVBut there's a big difference,
+p222
+aVwhich is that it only happens within the colony.
+p223
+aVThere's no working for each other across the colonies.
+p224
+aVAnd the reason for that is because there's a reproductive division of labor.
+p225
+aVThat is to say, they specialize with respect to reproduction.
+p226
+aVThe queen does it all.
+p227
+aVIn our species, we don't like doing that.
+p228
+aVIt's the one thing we insist on doing for ourselves, is reproduction.
+p229
+aV(Laughter)
+p230
+aVEven in England, we don't leave reproduction to the Queen.
+p231
+aa(lp232
+V(Applause)
+p233
+aa(lp234
+VSo when did this habit start?
+p235
+aVAnd how long has it been going on? And what does it mean?
+p236
+aVWell, I think, probably, the oldest version of this
+p237
+aVis probably the sexual division of labor.
+p238
+aVBut I've got no evidence for that.
+p239
+aVIt just looks like the first thing we did
+p240
+aVwas work male for female and female for male.
+p241
+aVIn all hunter-gatherer societies today,
+p242
+aVthere's a foraging division of labor
+p243
+aVbetween, on the whole, hunting males and gathering females.
+p244
+aVIt isn't always quite that simple,
+p245
+aVbut there's a distinction between
+p246
+aVspecialized roles for males and females.
+p247
+aVAnd the beauty of this system
+p248
+aVis that it benefits both sides.
+p249
+aVThe woman knows
+p250
+aVthat, in the Hadzas' case here \u2014
+p251
+aVdigging roots to share with men in exchange for meat \u2014
+p252
+aVshe knows that all she has to do to get access to protein
+p253
+aVis to dig some extra roots and trade them for meat.
+p254
+aVAnd she doesn't have to go on an exhausting hunt
+p255
+aVand try and kill a warthog.
+p256
+aVAnd the man knows that he doesn't have to do any digging
+p257
+aVto get roots.
+p258
+aVAll he has to do is make sure that when he kills a warthog
+p259
+aVit's big enough to share some.
+p260
+aVAnd so both sides raise each other's standards of living
+p261
+aVthrough the sexual division of labor.
+p262
+aa(lp263
+VWhen did this happen? We don't know, but it's possible
+p264
+aVthat Neanderthals didn't do this.
+p265
+aVThey were a highly cooperative species.
+p266
+aVThey were a highly intelligent species.
+p267
+aVTheir brains on average, by the end, were bigger than yours and mine
+p268
+aVin this room today.
+p269
+aVThey were imaginative. They buried their dead.
+p270
+aVThey had language, probably,
+p271
+aVbecause we know they had the FOXP2 gene of the same kind as us,
+p272
+aVwhich was discovered here in Oxford.
+p273
+aVAnd so it looks like they probably had linguistic skills.
+p274
+aVThey were brilliant people. I'm not dissing the Neanderthals.
+p275
+aVBut there's no evidence
+p276
+aVof a sexual division of labor.
+p277
+aVThere's no evidence of gathering behavior by females.
+p278
+aVIt looks like the females were cooperative hunters with the men.
+p279
+aVAnd the other thing there's no evidence for
+p280
+aVis exchange between groups,
+p281
+aVbecause the objects that you find in Neanderthal remains,
+p282
+aVthe tools they made,
+p283
+aVare always made from local materials.
+p284
+aVFor example, in the Caucasus
+p285
+aVthere's a site where you find local Neanderthal tools.
+p286
+aVThey're always made from local chert.
+p287
+aVIn the same valley there are modern human remains
+p288
+aVfrom about the same date, 30,000 years ago,
+p289
+aVand some of those are from local chert,
+p290
+aVbut more \u2014 but many of them are made
+p291
+aVfrom obsidian from a long way away.
+p292
+aVAnd when human beings began
+p293
+aVmoving objects around like this,
+p294
+aVit was evidence that they were exchanging between groups.
+p295
+aa(lp296
+VTrade is 10 times as old as farming.
+p297
+aVPeople forget that. People think of trade as a modern thing.
+p298
+aVExchange between groups has been going on
+p299
+aVfor a hundred thousand years.
+p300
+aVAnd the earliest evidence for it crops up
+p301
+aVsomewhere between 80 and 120,000 years ago in Africa,
+p302
+aVwhen you see obsidian and jasper and other things
+p303
+aVmoving long distances in Ethiopia.
+p304
+aVYou also see seashells \u2014
+p305
+aVas discovered by a team here in Oxford \u2014
+p306
+aVmoving 125 miles inland
+p307
+aVfrom the Mediterranean in Algeria.
+p308
+aVAnd that's evidence that people
+p309
+aVhave started exchanging between groups.
+p310
+aVAnd that will have led to specialization.
+p311
+aa(lp312
+VHow do you know that long-distance movement
+p313
+aVmeans trade rather than migration?
+p314
+aVWell, you look at modern hunter gatherers like aboriginals,
+p315
+aVwho quarried for stone axes at a place called Mount Isa,
+p316
+aVwhich was a quarry owned by the Kalkadoon tribe.
+p317
+aVThey traded them with their neighbors
+p318
+aVfor things like stingray barbs,
+p319
+aVand the consequence was that stone axes
+p320
+aVended up over a large part of Australia.
+p321
+aVSo long-distance movement of tools
+p322
+aVis a sign of trade, not migration.
+p323
+aa(lp324
+VWhat happens when you cut people off from exchange,
+p325
+aVfrom the ability to exchange and specialize?
+p326
+aVAnd the answer is that
+p327
+aVnot only do you slow down technological progress,
+p328
+aVyou can actually throw it into reverse.
+p329
+aVAn example is Tasmania.
+p330
+aVWhen the sea level rose and Tasmania became an island 10,000 years ago,
+p331
+aVthe people on it not only experienced
+p332
+aVslower progress than people on the mainland,
+p333
+aVthey actually experienced regress.
+p334
+aVThey gave up the ability to make stone tools
+p335
+aVand fishing equipment and clothing
+p336
+aVbecause the population of about 4,000 people
+p337
+aVwas simply not large enough
+p338
+aVto maintain the specialized skills
+p339
+aVnecessary to keep the technology they had.
+p340
+aVIt's as if the people in this room were plonked on a desert island.
+p341
+aVHow many of the things in our pockets
+p342
+aVcould we continue to make after 10,000 years?
+p343
+aVIt didn't happen in Tierra del Fuego \u2014
+p344
+aVsimilar island, similar people.
+p345
+aVThe reason: because Tierra del Fuego
+p346
+aVis separated from South America by a much narrower straight,
+p347
+aVand there was trading contact across that straight
+p348
+aVthroughout 10,000 years.
+p349
+aVThe Tasmanians were isolated.
+p350
+aa(lp351
+VGo back to this image again
+p352
+aVand ask yourself, not only who made it and for who,
+p353
+aVbut who knew how to make it.
+p354
+aVIn the case of the stone axe, the man who made it knew how to make it.
+p355
+aVBut who knows how to make a computer mouse?
+p356
+aVNobody, literally nobody.
+p357
+aVThere is nobody on the planet who knows how to make a computer mouse.
+p358
+aVI mean this quite seriously.
+p359
+aVThe president of the computer mouse company doesn't know.
+p360
+aVHe just knows how to run a company.
+p361
+aVThe person on the assembly line doesn't know
+p362
+aVbecause he doesn't know how to drill an oil well
+p363
+aVto get oil out to make plastic, and so on.
+p364
+aVWe all know little bits, but none of us knows the whole.
+p365
+aa(lp366
+VI am of course quoting from a famous essay
+p367
+aVby Leonard Read, the economist in the 1950s,
+p368
+aVcalled "I, Pencil"
+p369
+aVin which he wrote about how a pencil came to be made,
+p370
+aVand how nobody knows even how to make a pencil,
+p371
+aVbecause the people who assemble it don't know how to mine graphite,
+p372
+aVand they don't know how to fell trees and that kind of thing.
+p373
+aVAnd what we've done in human society,
+p374
+aVthrough exchange and specialization,
+p375
+aVis we've created
+p376
+aVthe ability to do things that we don't even understand.
+p377
+aVIt's not the same with language.
+p378
+aVWith language we have to transfer ideas
+p379
+aVthat we understand with each other.
+p380
+aVBut with technology,
+p381
+aVwe can actually do things that are beyond our capabilities.
+p382
+aa(lp383
+VWe've gone beyond the capacity of the human mind
+p384
+aVto an extraordinary degree.
+p385
+aVAnd by the way,
+p386
+aVthat's one of the reasons that I'm not interested
+p387
+aVin the debate about I.Q.,
+p388
+aVabout whether some groups have higher I.Q.s than other groups.
+p389
+aVIt's completely irrelevant.
+p390
+aVWhat's relevant to a society
+p391
+aVis how well people are communicating their ideas,
+p392
+aVand how well they're cooperating,
+p393
+aVnot how clever the individuals are.
+p394
+aVSo we've created something called the collective brain.
+p395
+aVWe're just the nodes in the network.
+p396
+aVWe're the neurons in this brain.
+p397
+aVIt's the interchange of ideas,
+p398
+aVthe meeting and mating of ideas between them,
+p399
+aVthat is causing technological progress,
+p400
+aVincrementally, bit by bit.
+p401
+aVHowever, bad things happen.
+p402
+aVAnd in the future, as we go forward,
+p403
+aVwe will, of course, experience terrible things.
+p404
+aVThere will be wars; there will be depressions;
+p405
+aVthere will be natural disasters.
+p406
+aVAwful things will happen in this century, I'm absolutely sure.
+p407
+aVBut I'm also sure that, because of the connections people are making,
+p408
+aVand the ability of ideas
+p409
+aVto meet and to mate
+p410
+aVas never before,
+p411
+aVI'm also sure
+p412
+aVthat technology will advance,
+p413
+aVand therefore living standards will advance.
+p414
+aVBecause through the cloud,
+p415
+aVthrough crowd sourcing,
+p416
+aVthrough the bottom-up world that we've created,
+p417
+aVwhere not just the elites but everybody
+p418
+aVis able to have their ideas
+p419
+aVand make them meet and mate,
+p420
+aVwe are surely accelerating the rate of innovation.
+p421
+aa(lp422
+VThank you.
+p423
+aa(lp424
+V(Applause)
+p425
+aasS'id'
+p426
+I915
+sS'title'
+p427
+VWhen ideas have sex
+p428
+s.

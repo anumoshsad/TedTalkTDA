@@ -1,0 +1,832 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo, I'm in Chile,
+p4
+aVin the Atacama desert, sitting in a hotel lobby,
+p5
+aVbecause that's the only place that I can get a Wi-Fi connection,
+p6
+aVand I have this picture up on my screen,
+p7
+aVand a woman comes up behind me.
+p8
+aVShe says, "Oh, that's beautiful.
+p9
+aVWhat is it? Is that Jackson Pollock?"
+p10
+aVAnd unfortunately, I can be a little too honest.
+p11
+aVI said, "No, it's \u2014 it's penguin shit."
+p12
+aa(lp13
+V(Laughter)
+p14
+aa(lp15
+VAnd, you know, "Excuse me!"
+p16
+aVAnd I could sense
+p17
+aVthat she thought I was speaking synecdochically.
+p18
+aa(lp19
+V(Laughter)
+p20
+aa(lp21
+VSo, I said, "No, no, really \u2014 it's penguin shit."
+p22
+aa(lp23
+V(Laughter)
+p24
+aa(lp25
+VBecause I had just been in the Falkland Islands
+p26
+aVtaking pictures of penguins.
+p27
+aVThis is a Gentoo penguin. And she was still skeptical.
+p28
+aVSo, literally, a few minutes before that,
+p29
+aVI downloaded this scientific paper
+p30
+aVabout calculations on avian defecation,
+p31
+aVwhich is really quite interesting, because it turns out
+p32
+aVyou can model this as something called "Poiseuille flow,"
+p33
+aVand you can learn an awful lot
+p34
+aVabout the physics of the avian rectum.
+p35
+aVActually, technically, it's not a rectum. It's called a cloaca.
+p36
+aa(lp37
+VAt this point, she stops me,
+p38
+aVand she says, "Who are you?
+p39
+aVWha \u2014 what do you do?"
+p40
+aVAnd I was stuck,
+p41
+aVbecause I didn't have any way to describe what I do.
+p42
+aVAnd so, in some sense,
+p43
+aVthis talk today
+p44
+aVis my answer to that.
+p45
+aVIt's a selection of a random bunch of the stuff that I do.
+p46
+aVAnd it's very hard for me to make sense of it,
+p47
+aVso I'm not sure that you can.
+p48
+aVIt's the kind of thing that I sit up late at night thinking about sometimes \u2014
+p49
+aVoften at four in the morning.
+p50
+aa(lp51
+VSo, some people are afraid of what I do.
+p52
+aVSome people think I am the nerd Tony Soprano,
+p53
+aVand in response, I have ordered
+p54
+aVa bulletproof pocket protector.
+p55
+aVI'm not sure what these people think,
+p56
+aVbecause I don't speak Norsk.
+p57
+aa(lp58
+V(Laughter)
+p59
+aa(lp60
+VBut I'm not thinking "monsteret" is a good thing.
+p61
+aVI don't know, you know?
+p62
+aVSo, one of the things that I love to do
+p63
+aVis travel around the world and look at archaeological sites.
+p64
+aVBecause archaeology gives us an opportunity
+p65
+aVto study past civilizations,
+p66
+aVand see where they succeeded
+p67
+aVand where they failed.
+p68
+aVUse science to, you know,
+p69
+aVwork backwards and say, "Well, really, what were they thinking?"
+p70
+aa(lp71
+VAnd recently, I was in Easter Island,
+p72
+aVwhich is an incredibly beautiful place,
+p73
+aVand an incredibly mysterious place,
+p74
+aVbecause no matter where you go in Easter Island,
+p75
+aVyou're struck by these statues, called the moai.
+p76
+aVThe place is 64 square miles.
+p77
+aVThey made, so far as we can tell, 900 of them.
+p78
+aVWhy on Earth? And if you haven't read
+p79
+aVJared Diamond's book, "Collapse,"
+p80
+aVI totally recommend that you do.
+p81
+aVHe's got a great chapter about it.
+p82
+aVBasically, these people
+p83
+aVcommitted ecological suicide
+p84
+aVin order to make more of these.
+p85
+aVAnd somewhere along the line, somebody said,
+p86
+aV"I know! Let's cut down the last tree
+p87
+aVand commit suicide, because
+p88
+aVwe need more identical statues."
+p89
+aa(lp90
+V(Laughter)
+p91
+aa(lp92
+VAnd,
+p93
+aVone thing that isn't a mystery, actually,
+p94
+aVwas when I grew up \u2014 because when I was a little kid, I'd seen these pictures \u2014
+p95
+aVand I thought, "Well, why that look on the face?
+p96
+aVWhy that brow?" I mean, it's such a powerful thing.
+p97
+aVWhere did they get that inspiration?
+p98
+aVAnd then I met Yoyo,
+p99
+aVwho is the native Rapa Nui-an guide,
+p100
+aVand if you look at Yoyo's face,
+p101
+aVyou kind of figure out where they got it.
+p102
+aa(lp103
+VThere's many mysteries, these statues.
+p104
+aVEveryone wants to know, how did they make them,
+p105
+aVhow did they transport them?
+p106
+aVThis woman in the foreground is Jo Anne Van Tilberg.
+p107
+aVShe's the leading archaeologist working Easter Island today.
+p108
+aVAnd she has studied the statues for 20-some years,
+p109
+aVand she has detailed records of every single statue.
+p110
+aVThe one on the page here is the same that's up there.
+p111
+aVOne interesting problem is the stone isn't very hard.
+p112
+aVSo, this used to be completely smooth.
+p113
+aVIn fact, in many of the statues, when you excavate them,
+p114
+aVthe backs are totally smooth \u2014 almost glass smooth.
+p115
+aVBut after 1,000 years out in the weather,
+p116
+aVthey look like this.
+p117
+aa(lp118
+VJo Anne and I have just embarked on a project to digitize them all,
+p119
+aVand we're going to do a very high-res digitization,
+p120
+aVfirst because it's a way of preserving them.
+p121
+aVSecond, we have these ideas about how you can algorithmically, then,
+p122
+aVlearn a few of the mysteries about them.
+p123
+aVHow long have they been standing in what positions?
+p124
+aVAnd maybe, indirectly, get at some of the issues of
+p125
+aVwhat caused them to be the way they are.
+p126
+aVWhile I was in Easter Island, comet McNaught was there also,
+p127
+aVso you get a gratuitous picture
+p128
+aVof a moai with a comet.
+p129
+aa(lp130
+VI also have an archaeological project going on
+p131
+aVin Egypt.
+p132
+aV"Going on" is perhaps a little bit strong.
+p133
+aVWe're trying to get all of the permissions
+p134
+aVto get everything all set, to get it going.
+p135
+aVSo, I'll talk about it at a future TED.
+p136
+aVBut there's some amazing opportunities in Egypt as well.
+p137
+aVAnother thing I do is I invent stuff.
+p138
+aVIn fact, I design nuclear reactors.
+p139
+aVNot a joke.
+p140
+aVThis is the conventional
+p141
+aVnuclear fuel cycle.
+p142
+aVThe red line is what is done in
+p143
+aVmost nuclear reactors. It's called the open fuel cycle.
+p144
+aVThe white lines are what's called an advance fuel cycle,
+p145
+aVwhere you reprocess.
+p146
+aa(lp147
+VNow, this is the normal way it's done.
+p148
+aVIt's got the huge advantage that it
+p149
+aVdoes not create carbon pollution.
+p150
+aVIt has a lot of disadvantages:
+p151
+aVeach one of these steps is extremely expensive,
+p152
+aVit's potentially dangerous
+p153
+aVand they have the interesting property that the step
+p154
+aVcannot be performed in anyone's backyard,
+p155
+aVwhich is a problem.
+p156
+aVSo, our reactor eliminates these steps,
+p157
+aVwhich, if we can actually make it work, is a really cool thing.
+p158
+aVNow, it's kind of nuts to work on a new nuclear reactor.
+p159
+aVThere's \u2014 no reactor's been even built
+p160
+aVto an old design, much less a new one, in the United States
+p161
+aVfor 25 years.
+p162
+aVIt's the kind of very high-risk, but potentially very high-return
+p163
+aVthing that we do.
+p164
+aa(lp165
+VChanging into a totally different field,
+p166
+aVwe do a lot of stuff in solid state physics,
+p167
+aVparticularly in an area called metamaterials.
+p168
+aVA metamaterial is an artificial material,
+p169
+aVwhich manipulates, in this case, electromagnetic radiation,
+p170
+aVin a way that you couldn't otherwise.
+p171
+aVSo, this device here is an invisibility cloak.
+p172
+aVIt may not seem that, but if you were a microwave,
+p173
+aVthis is how you would view it.
+p174
+aVRays of light \u2014 in this case, microwave light \u2014
+p175
+aVcome in, and they just squish around the cell,
+p176
+aVand they come back the other side.
+p177
+aVNow, you could do that with mirrors from one angle.
+p178
+aVThe cool thing is, this does it from all angles.
+p179
+aVMetamaterials, unfortunately \u2014
+p180
+aVA, it only works on microwave,
+p181
+aVand B, it doesn't work all that well yet.
+p182
+aVBut metamaterials are an incredibly exciting field.
+p183
+aVIt's \u2014 you know, today I'd like to say
+p184
+aVit's a zero billion dollar business, but,
+p185
+aVin fact, it's negative.
+p186
+aVBut some day, some day, maybe it's going to work.
+p187
+aa(lp188
+VWe do a lot of work in biomedical fields.
+p189
+aVIn this case, we're working with a major medical foundation
+p190
+aVto develop inexpensive ways of diagnosing
+p191
+aVdiseases in developing countries.
+p192
+aVSo, they say the eyes are the windows of the soul \u2014
+p193
+aVturns out they're a window to a whole lot more stuff.
+p194
+aVAnd these happen to be my eyes, by the way.
+p195
+aa(lp196
+VNow, I'm also very interested in cooking.
+p197
+aVWhile I was at Microsoft, I took a leave of absence
+p198
+aVand went to a chef school in France.
+p199
+aVI used to work, also while at Microsoft,
+p200
+aVat a leading restaurant in Seattle,
+p201
+aVso I do a lot of cooking.
+p202
+aVI've been on a team that won
+p203
+aVthe world championship of barbecue.
+p204
+aVBut barbecue's interesting, because it's one of these cult foods
+p205
+aVlike chili, or bouillabaisse.
+p206
+aVVarious parts of the world will have a cult food
+p207
+aVthat people get enormously attached to \u2014
+p208
+aVthere's tremendous traditions, there's secrecy.
+p209
+aVAnd I'm trying to use a very
+p210
+aVscientific approach.
+p211
+aVSo, this is my latest cooker,
+p212
+aVand if this looks more complicated than the nuclear reactor,
+p213
+aVthat's because it is.
+p214
+aVBut if you get to play with all those knobs and dials \u2014
+p215
+aVand of course, really the controller over there does it all on software \u2014
+p216
+aVyou can make some terrific ribs.
+p217
+aa(lp218
+V(Laughter)
+p219
+aa(lp220
+VThis is a high-speed centrifuge.
+p221
+aVYou should all have one in your kitchen,
+p222
+aVbeside your Turbochef.
+p223
+aVThis subjects food to a force about 50,000 times
+p224
+aVthat of normal gravity,
+p225
+aVand oh boy, does it clarify chicken stock.
+p226
+aVYou would not believe it!
+p227
+aVI perform a series of ghoulish experiments
+p228
+aVon food \u2014
+p229
+aVin this case, trying to calibrate a mathematical model
+p230
+aVso that one can predict exactly
+p231
+aVwhat the internal cooking times are.
+p232
+aVIt turns out, A, it's useful, and for a geek like me, it's fun.
+p233
+aVTheory is red,
+p234
+aVblack is experiment.
+p235
+aVSo, I'm either really good at faking it,
+p236
+aVor this particular model seems to work.
+p237
+aa(lp238
+VSo, another random thing I do
+p239
+aVis the search for extraterrestrial intelligence,
+p240
+aVor SETI.
+p241
+aVAnd you may be familiar with the movie "Contact,"
+p242
+aVwhich sort of popularized that.
+p243
+aVIt turns out there are real people who go out
+p244
+aVand search for extraterrestrials in a very scientific way.
+p245
+aVIn fact, almost everybody in the movie
+p246
+aVis based on a real character, a real person.
+p247
+aVSo, the Jodie Foster character here
+p248
+aVis actually this woman, Jill Tarter,
+p249
+aVand Jill has dedicated her life to this.
+p250
+aVYou know, a lot of people risk their lives
+p251
+aVin a brief act of heroism,
+p252
+aVwhich is kind of cool,
+p253
+aVbut Jill has
+p254
+aVwhat I call slow heroism.
+p255
+aVShe is risking her professional life on something
+p256
+aVthat her own calculations show
+p257
+aVmay not work for a thousand years \u2014 may not ever.
+p258
+aVSo, I like to support people that are risking their lives.
+p259
+aa(lp260
+VAfter the movie came out, of course, there was a lot of interest in SETI.
+p261
+aVMy kids saw the movie,
+p262
+aVand afterwards they came to me and they said,
+p263
+aV"So, Dad, so \u2014 so \u2014
+p264
+aVthat character \u2014 that's Jill, right?"
+p265
+aVI said, "Oh, yeah, yeah \u2014 absolutely."
+p266
+aV"And that other person, that's someone \u2014 " I said, "Yes."
+p267
+aVThey said, "Well, you know that creepy rich guy in the movie?
+p268
+aVIs that you?"
+p269
+aVI said, "Well, you know, it's just a movie! Come on."
+p270
+aa(lp271
+V(Laughter)
+p272
+aa(lp273
+VSo, the SETI Institute,
+p274
+aVwith a little bit of help from me, and a lot of help from Paul Allen
+p275
+aVand a variety of other people,
+p276
+aVis building a dedicated radio telescope
+p277
+aVin Hat Creek, California,
+p278
+aVso they can do this SETI work.
+p279
+aVNow, I travel a lot, and I change cell phones a lot,
+p280
+aVand the one person who always gets updated
+p281
+aVon all my cell phones and pagers and everything else
+p282
+aVis Jill, because I really don't want to miss
+p283
+aV"the call."
+p284
+aa(lp285
+V(Laughter)
+p286
+aa(lp287
+VI mean, can you imagine? E.T.'s phoning home,
+p288
+aVand I'm not, like, there? You know, horrible!
+p289
+aVSo, I do a lot of work on dinosaurs.
+p290
+aVI'm known to TEDsters as the guy that has sex with dinosaurs.
+p291
+aVAnd I resemble that remark.
+p292
+aVI'm going to talk about a different aspect of dinosaurs,
+p293
+aVwhich is the finding of them.
+p294
+aVNow, to find dinosaurs, you hike around in horrible conditions
+p295
+aVlooking for a dinosaur.
+p296
+aVIt sounds really dumb, but that's what it is.
+p297
+aVIt's horrible conditions, because
+p298
+aVwherever you have nice weather,
+p299
+aVplants grow,
+p300
+aVand you don't get any erosion, and you don't see any dinosaurs.
+p301
+aVSo, you always find dinosaurs
+p302
+aVin deserts or badlands,
+p303
+aVareas that have very little plant growth
+p304
+aVand have flash floods in the spring.
+p305
+aVYou know, skiers pray for snow?
+p306
+aVPaleontologists pray for erosion.
+p307
+aa(lp308
+VSo, you hike around
+p309
+aVand \u2014 this is after you dig them up, they look like this.
+p310
+aVYou hike around, you see something like this.
+p311
+aVNow, this is something I found, so look at it very closely here.
+p312
+aVYou've got this bentonite clay,
+p313
+aVwhich is \u2014 sort of swells up and expands.
+p314
+aVAnd there's some stuff poking out. So, you look at that,
+p315
+aVand you look up close, and you say,
+p316
+aV"Well, gee, that's kind of interesting. What are all of these pieces?"
+p317
+aVWell, if you look closely, you can recognize, actually,
+p318
+aVfrom the shape, that these are skull fragments.
+p319
+aVAnd then when you look at this,
+p320
+aVyou say, "That's a tooth.
+p321
+aVIt's a big tooth."
+p322
+aVIt's about the size of a banana.
+p323
+aVIt has a big serration on the edge.
+p324
+aVThis is what Tyrannosaurus rex looks like in the ground.
+p325
+aVAnd this is what it's like to find a Tyrannosaurus rex,
+p326
+aVwhich I was lucky enough to do a few years ago.
+p327
+aa(lp328
+VNow, this is what Tyrannosaurus rex looks like in my living room.
+p329
+aVNot the same one, actually. This is a cast, which I had bought,
+p330
+aVand then, after buying the cast, I found my own,
+p331
+aVand I don't have room for two.
+p332
+aVYou know.
+p333
+aVSo, the thing that's wonderful for me about finding dinosaurs
+p334
+aVis that it is both an intellectual thing,
+p335
+aVbecause you're trying to reconstruct the environment
+p336
+aVof millions of years ago.
+p337
+aVIt's something that can inform all sorts of science
+p338
+aVin unexpected ways.
+p339
+aVThe study of dinosaurs led to the realization
+p340
+aVthat there's a problem with asteroid impact,
+p341
+aVfor example.
+p342
+aVThe study of dinosaurs may, literally,
+p343
+aVone day save the planet.
+p344
+aa(lp345
+VStudy of the ancient climate is very important.
+p346
+aVIn fact, the Mesozoic, when dinosaurs lived,
+p347
+aVhad much higher CO2 than today,
+p348
+aVwas much warmer than today, and is one of the interesting proof points
+p349
+aVfor the effects of CO2 on climate.
+p350
+aVBut, besides being intellectually
+p351
+aVand scientifically interesting, it's also very different
+p352
+aVthan the other things I do, because you get to hike around in the badlands.
+p353
+aVThis is actually what most dinosaur research looks like.
+p354
+aVThis is one of my papers: "A pygostyle from a non-avian theropod."
+p355
+aVIt's not as gripping as dinosaur sex,
+p356
+aVso we're not going to go into it further.
+p357
+aa(lp358
+VNow, I'm also really big on photography.
+p359
+aVI travel all over the world taking pictures \u2014
+p360
+aVsome of them good, most of them not.
+p361
+aVThese days, bits are cheap. Unfortunately, that means
+p362
+aVyou've got to spend more time sorting through them.
+p363
+aVHere's a picture I took in the Falkland Islands
+p364
+aVof king penguins on a beach.
+p365
+aVHere's a picture I took in Alaska, a few years ago, of Orcas.
+p366
+aVI'd gone up to photograph Orcas,
+p367
+aVand we had looked for a week,
+p368
+aVand we hadn't seen a damn Orca.
+p369
+aVAnd the last day, the sun comes out,
+p370
+aVthe Orcas come, they're right by the boat. It's fantastic.
+p371
+aVAnd I get lots of pictures like this.
+p372
+aVThen, a little bit later,
+p373
+aVI start getting some pictures like this.
+p374
+aVNow, to a human audience, I need to explain that
+p375
+aVif Penthouse magazine had a marine mammal edition,
+p376
+aVthis would be the centerfold.
+p377
+aVIt's true.
+p378
+aVSo, there's more and more activity near the boat,
+p379
+aVand all of a sudden somebody shouts,
+p380
+aV"What's that in the water?"
+p381
+aVI said, "Well, I think that's what you call a free willy."
+p382
+aa(lp383
+V(Laughter)
+p384
+aa(lp385
+VThere's a variety of things you can learn from watching whales have sex.
+p386
+aa(lp387
+V(Laughter)
+p388
+aVThe first thing you learn
+p389
+aVis the overwhelming importance of hands.
+p390
+aVThey don't have them.
+p391
+aa(lp392
+V(Laughter)
+p393
+aa(lp394
+VI think Paul Simon is in the audience,
+p395
+aVand he has \u2014
+p396
+aVhe may not realize it, but he wrote a song all about whale sex,
+p397
+aV"Slip-Slidin' Away."
+p398
+aVThat's kind of what it's like.
+p399
+aVThe other interesting thing that I learned about whale sex:
+p400
+aVthey curl their toes too.
+p401
+aa(lp402
+V(Laughter)
+p403
+aa(lp404
+VSo \u2014
+p405
+aVwhere do you go putting all of these disparate pieces together?
+p406
+aVYou know, there's a tremendous amount of wisdom
+p407
+aVin finding a great thing, passion in life,
+p408
+aVand focusing all your energy on it,
+p409
+aVand I've never been able to do that.
+p410
+aVI just \u2014 you know, because, yes,
+p411
+aVI'll focus passion on something,
+p412
+aVbut then there will be something else, and then there's something else again.
+p413
+aVAnd for a long time I fought this, and I thought,
+p414
+aV"Well, gee, I really ought to buckle down."
+p415
+aVAnd you know, when I was at Microsoft,
+p416
+aVthat was so engrossing,
+p417
+aVand the whole industry was expanding so much,
+p418
+aVthat it did tend to crowd out most of the other things in my life.
+p419
+aa(lp420
+VBut ultimately,
+p421
+aVI decided
+p422
+aVthat what I really ought to do is not fight being who I am,
+p423
+aVbut embrace it.
+p424
+aVAnd say, "Yeah, you know, I \u2014
+p425
+aVthis whole talk has been a mile wide and an inch deep,
+p426
+aVbut that's really what works for me."
+p427
+aVAnd regardless of whether it's nuclear reactors
+p428
+aVor metamaterials or whale sex,
+p429
+aVthe common \u2014 or lowest common denominator \u2014 is me.
+p430
+aVThat's it, thank you.
+p431
+aa(lp432
+V(Applause)
+p433
+aasS'id'
+p434
+I271
+sS'title'
+p435
+VArcheology, animal photography, BBQ ...
+p436
+s.

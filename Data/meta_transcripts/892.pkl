@@ -1,0 +1,982 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIt's a great pleasure to be here.
+p4
+aVIt's a great pleasure to speak after
+p5
+aVBrian Cox from CERN.
+p6
+aVI think CERN is the home
+p7
+aVof the Large Hadron Collider.
+p8
+aVWhat ever happened to the Small Hadron Collider?
+p9
+aVWhere is the Small Hadron Collider?
+p10
+aVBecause the Small Hadron Collider once was the big thing.
+p11
+aVNow, the Small Hadron Collider
+p12
+aVis in a cupboard, overlooked and neglected.
+p13
+aVYou know when the Large Hadron Collider started,
+p14
+aVand it didn't work, and people tried to work out why,
+p15
+aVit was the Small Hadron Collider team
+p16
+aVwho sabotaged it
+p17
+aVbecause they were so jealous.
+p18
+aVThe whole Hadron Collider family
+p19
+aVneeds unlocking.
+p20
+aa(lp21
+VThe lesson of Brian's presentation, in a way \u2014
+p22
+aVall those fantastic pictures \u2014
+p23
+aVis this really:
+p24
+aVthat vantage point determines everything that you see.
+p25
+aVWhat Brian was saying was
+p26
+aVscience has opened up successively different vantage points
+p27
+aVfrom which we can see ourselves,
+p28
+aVand that's why it's so valuable.
+p29
+aVSo the vantage point you take
+p30
+aVdetermines virtually everything that you will see.
+p31
+aVThe question that you will ask
+p32
+aVwill determine much of the answer that you get.
+p33
+aa(lp34
+VAnd so if you ask this question:
+p35
+aVWhere would you look to see the future of education?
+p36
+aVThe answer that we've traditionally given to that
+p37
+aVis very straightforward, at least in the last 20 years:
+p38
+aVYou go to Finland.
+p39
+aVFinland is the best place in the world to see school systems.
+p40
+aVThe Finns may be a bit boring and depressive and there's a very high suicide rate,
+p41
+aVbut by golly, they are qualified.
+p42
+aVAnd they have absolutely amazing education systems.
+p43
+aVSo we all troop off to Finland,
+p44
+aVand we wonder at the social democratic miracle of Finland
+p45
+aVand its cultural homogeneity and all the rest of it,
+p46
+aVand then we struggle to imagine how we might
+p47
+aVbring lessons back.
+p48
+aa(lp49
+VWell, so, for this last year,
+p50
+aVwith the help of Cisco who sponsored me,
+p51
+aVfor some balmy reason, to do this,
+p52
+aVI've been looking somewhere else.
+p53
+aVBecause actually radical innovation does sometimes
+p54
+aVcome from the very best,
+p55
+aVbut it often comes from places
+p56
+aVwhere you have huge need \u2014
+p57
+aVunmet, latent demand \u2014
+p58
+aVand not enough resources for traditional solutions to work \u2014
+p59
+aVtraditional, high-cost solutions,
+p60
+aVwhich depend on professionals,
+p61
+aVwhich is what schools and hospitals are.
+p62
+aa(lp63
+VSo I ended up in places like this.
+p64
+aVThis is a place called Monkey Hill.
+p65
+aVIt's one of the hundreds of favelas in Rio.
+p66
+aVMost of the population growth of the next 50 years
+p67
+aVwill be in cities.
+p68
+aVWe'll grow by six cities of 12 million people a year
+p69
+aVfor the next 30 years.
+p70
+aVAlmost all of that growth will be in the developed world.
+p71
+aVAlmost all of that growth will be
+p72
+aVin places like Monkey Hill.
+p73
+aVThis is where you'll find the fastest growing
+p74
+aVyoung populations of the world.
+p75
+aVSo if you want recipes to work \u2014
+p76
+aVfor virtually anything \u2014 health, education,
+p77
+aVgovernment politics
+p78
+aVand education \u2014
+p79
+aVyou have to go to these places.
+p80
+aVAnd if you go to these places, you meet people like this.
+p81
+aa(lp82
+VThis is a guy called Juanderson.
+p83
+aVAt the age of 14,
+p84
+aVin common with many 14-year-olds in the Brazilian education system,
+p85
+aVhe dropped out of school.
+p86
+aVIt was boring.
+p87
+aVAnd Juanderson, instead, went into
+p88
+aVwhat provided kind of opportunity and hope
+p89
+aVin the place that he lived, which was the drugs trade.
+p90
+aVAnd by the age of 16, with rapid promotion,
+p91
+aVhe was running the drugs trade in 10 favelas.
+p92
+aVHe was turning over 200,000 dollars a week.
+p93
+aVHe employed 200 people.
+p94
+aVHe was going to be dead by the age of 25.
+p95
+aVAnd luckily, he met this guy,
+p96
+aVwho is Rodrigo Baggio,
+p97
+aVthe owner of the first laptop to ever appear in Brazil.
+p98
+aV1994, Rodrigo started something
+p99
+aVcalled CDI,
+p100
+aVwhich took computers
+p101
+aVdonated by corporations,
+p102
+aVput them into community centers in favelas
+p103
+aVand created places like this.
+p104
+aVWhat turned Juanderson around
+p105
+aVwas technology for learning
+p106
+aVthat made learning fun and accessible.
+p107
+aa(lp108
+VOr you can go to places like this.
+p109
+aVThis is Kibera, which is the largest slum in East Africa.
+p110
+aVMillions of people living here,
+p111
+aVstretched over many kilometers.
+p112
+aVAnd there I met these two,
+p113
+aVAzra on the left, Maureen on the right.
+p114
+aVThey just finished their Kenyan certificate
+p115
+aVof secondary education.
+p116
+aVThat name should tell you that the Kenyan education system
+p117
+aVborrows almost everything
+p118
+aVfrom Britain, circa 1950,
+p119
+aVbut has managed to make it even worse.
+p120
+aVSo there are schools in slums like this.
+p121
+aVThey're places like this.
+p122
+aVThat's where Maureen went to school.
+p123
+aVThey're private schools. There are no state schools in slums.
+p124
+aVAnd the education they got was pitiful.
+p125
+aVIt was in places like this. This a school set up by some nuns
+p126
+aVin another slum called Nakuru.
+p127
+aVHalf the children in this classroom have no parents
+p128
+aVbecause they've died through AIDS.
+p129
+aVThe other half have one parent
+p130
+aVbecause the other parent has died through AIDS.
+p131
+aVSo the challenges of education
+p132
+aVin this kind of place
+p133
+aVare not to learn the kings and queens of Kenya or Britain.
+p134
+aVThey are to stay alive, to earn a living,
+p135
+aVto not become HIV positive.
+p136
+aVThe one technology that spans rich and poor
+p137
+aVin places like this
+p138
+aVis not anything to do with industrial technology.
+p139
+aVIt's not to do with electricity or water.
+p140
+aVIt's the mobile phone.
+p141
+aVIf you want to design from scratch
+p142
+aVvirtually any service in Africa,
+p143
+aVyou would start now with the mobile phone.
+p144
+aVOr you could go to places like this.
+p145
+aa(lp146
+VThis is a place called the Madangiri Settlement Colony,
+p147
+aVwhich is a very developed slum
+p148
+aVabout 25 minutes outside New Delhi,
+p149
+aVwhere I met these characters
+p150
+aVwho showed me around for the day.
+p151
+aVThe remarkable thing about these girls,
+p152
+aVand the sign of the kind of social revolution
+p153
+aVsweeping through the developing world
+p154
+aVis that these girls are not married.
+p155
+aVTen years ago, they certainly would have been married.
+p156
+aVNow they're not married, and they want to go on
+p157
+aVto study further, to have a career.
+p158
+aVThey've been brought up by mothers who are illiterate,
+p159
+aVwho have never ever done homework.
+p160
+aVAll across the developing world there are millions of parents \u2014
+p161
+aVtens, hundreds of millions \u2014
+p162
+aVwho for the first time
+p163
+aVare with children doing homework and exams.
+p164
+aVAnd the reason they carry on studying
+p165
+aVis not because they went to a school like this.
+p166
+aVThis is a private school.
+p167
+aVThis is a fee-pay school. This is a good school.
+p168
+aVThis is the best you can get
+p169
+aVin Hyderabad in Indian education.
+p170
+aVThe reason they went on studying was this.
+p171
+aa(lp172
+VThis is a computer installed in the entrance to their slum
+p173
+aVby a revolutionary social entrepreneur
+p174
+aVcalled Sugata Mitra
+p175
+aVwho has conducted the most radical experiments,
+p176
+aVshowing that children, in the right conditions,
+p177
+aVcan learn on their own with the help of computers.
+p178
+aVThose girls have never touched Google.
+p179
+aVThey know nothing about Wikipedia.
+p180
+aVImagine what their lives would be like
+p181
+aVif you could get that to them.
+p182
+aa(lp183
+VSo if you look, as I did,
+p184
+aVthrough this tour,
+p185
+aVand by looking at about a hundred case studies
+p186
+aVof different social entrepreneurs
+p187
+aVworking in these very extreme conditions,
+p188
+aVlook at the recipes that they come up with for learning,
+p189
+aVthey look nothing like school.
+p190
+aVWhat do they look like?
+p191
+aVWell, education is a global religion.
+p192
+aVAnd education, plus technology,
+p193
+aVis a great source of hope.
+p194
+aVYou can go to places like this.
+p195
+aa(lp196
+VThis is a school three hours outside of Sao Paulo.
+p197
+aVMost of the children there have parents who are illiterate.
+p198
+aVMany of them don't have electricity at home.
+p199
+aVBut they find it completely obvious
+p200
+aVto use computers, websites,
+p201
+aVmake videos, so on and so forth.
+p202
+aVWhen you go to places like this
+p203
+aVwhat you see is that
+p204
+aVeducation in these settings
+p205
+aVworks by pull, not push.
+p206
+aVMost of our education system is push.
+p207
+aVI was literally pushed to school.
+p208
+aVWhen you get to school, things are pushed at you:
+p209
+aVknowledge, exams,
+p210
+aVsystems, timetables.
+p211
+aVIf you want to attract people like Juanderson
+p212
+aVwho could, for instance,
+p213
+aVbuy guns, wear jewelry,
+p214
+aVride motorbikes and get girls
+p215
+aVthrough the drugs trade,
+p216
+aVand you want to attract him into education,
+p217
+aVhaving a compulsory curriculum doesn't really make sense.
+p218
+aVThat isn't really going to attract him.
+p219
+aVYou need to pull him.
+p220
+aVAnd so education needs to work by pull, not push.
+p221
+aa(lp222
+VAnd so the idea of a curriculum
+p223
+aVis completely irrelevant in a setting like this.
+p224
+aVYou need to start education
+p225
+aVfrom things that make a difference
+p226
+aVto them in their settings.
+p227
+aVWhat does that?
+p228
+aVWell, the key is motivation, and there are two aspects to it.
+p229
+aVOne is to deliver extrinsic motivation,
+p230
+aVthat education has a payoff.
+p231
+aVOur education systems all work
+p232
+aVon the principle that there is a payoff,
+p233
+aVbut you have to wait quite a long time.
+p234
+aVThat's too long if you're poor.
+p235
+aVWaiting 10 years for the payoff from education
+p236
+aVis too long when you need to meet daily needs,
+p237
+aVwhen you've got siblings to look after
+p238
+aVor a business to help with.
+p239
+aVSo you need education to be relevant and help people
+p240
+aVto make a living there and then, often.
+p241
+aVAnd you also need to make it intrinsically interesting.
+p242
+aa(lp243
+VSo time and again, I found people like this.
+p244
+aVThis is an amazing guy, Sebastiao Rocha,
+p245
+aVin Belo Horizonte,
+p246
+aVin the third largest city in Brazil.
+p247
+aVHe's invented more than 200 games
+p248
+aVto teach virtually any subject under the sun.
+p249
+aVIn the schools and communities
+p250
+aVthat Taio works in,
+p251
+aVthe day always starts in a circle
+p252
+aVand always starts from a question.
+p253
+aVImagine an education system that started from questions,
+p254
+aVnot from knowledge to be imparted,
+p255
+aVor started from a game, not from a lesson,
+p256
+aVor started from the premise
+p257
+aVthat you have to engage people first
+p258
+aVbefore you can possibly teach them.
+p259
+aVOur education systems,
+p260
+aVyou do all that stuff afterward, if you're lucky,
+p261
+aVsport, drama, music.
+p262
+aVThese things, they teach through.
+p263
+aVThey attract people to learning
+p264
+aVbecause it's really a dance project
+p265
+aVor a circus project
+p266
+aVor, the best example of all \u2014
+p267
+aVEl Sistema in Venezuela \u2014
+p268
+aVit's a music project.
+p269
+aVAnd so you attract people through that into learning,
+p270
+aVnot adding that on after
+p271
+aVall the learning has been done
+p272
+aVand you've eaten your cognitive greens.
+p273
+aa(lp274
+VSo El Sistema in Venezuela
+p275
+aVuses a violin as a technology of learning.
+p276
+aVTaio Rocha uses making soap
+p277
+aVas a technology of learning.
+p278
+aVAnd what you find when you go to these schemes
+p279
+aVis that they use people and places
+p280
+aVin incredibly creative ways.
+p281
+aVMasses of peer learning.
+p282
+aVHow do you get learning to people
+p283
+aVwhen there are no teachers,
+p284
+aVwhen teachers won't come, when you can't afford them,
+p285
+aVand even if you do get teachers,
+p286
+aVwhat they teach isn't relevant to the communities that they serve?
+p287
+aVWell, you create your own teachers.
+p288
+aVYou create peer-to-peer learning,
+p289
+aVor you create para-teachers, or you bring in specialist skills.
+p290
+aVBut you find ways to get learning that's relevant to people
+p291
+aVthrough technology, people and places that are different.
+p292
+aa(lp293
+VSo this is a school in a bus
+p294
+aVon a building site
+p295
+aVin Pune, the fastest growing city in Asia.
+p296
+aVPune has 5,000 building sites.
+p297
+aVIt has 30,000 children
+p298
+aVon those building sites.
+p299
+aVThat's one city.
+p300
+aVImagine that urban explosion
+p301
+aVthat's going to take place across the developing world
+p302
+aVand how many thousands of children
+p303
+aVwill spend their school years on building sites.
+p304
+aVWell, this is a very simple scheme
+p305
+aVto get the learning to them through a bus.
+p306
+aVAnd they all treat learning,
+p307
+aVnot as some sort of academic, analytical activity,
+p308
+aVbut as that's something that's productive,
+p309
+aVsomething you make,
+p310
+aVsomething that you can do, perhaps earn a living from.
+p311
+aa(lp312
+VSo I met this character, Steven.
+p313
+aVHe'd spent three years in Nairobi living on the streets
+p314
+aVbecause his parents had died of AIDS.
+p315
+aVAnd he was finally brought back into school,
+p316
+aVnot by the offer of GCSEs,
+p317
+aVbut by the offer of learning how to become a carpenter,
+p318
+aVa practical making skill.
+p319
+aVSo the trendiest schools in the world,
+p320
+aVHigh Tech High and others,
+p321
+aVthey espouse a philosophy of learning as productive activity.
+p322
+aVHere, there isn't really an option.
+p323
+aVLearning has to be productive
+p324
+aVin order for it to make sense.
+p325
+aa(lp326
+VAnd finally, they have a different model of scale,
+p327
+aVand it's a Chinese restaurant model
+p328
+aVof how to scale.
+p329
+aVAnd I learned it from this guy,
+p330
+aVwho is an amazing character.
+p331
+aVHe's probably the most remarkable social entrepreneur
+p332
+aVin education in the world.
+p333
+aVHis name is Madhav Chavan,
+p334
+aVand he created something called Pratham.
+p335
+aVAnd Pratham runs preschool play groups
+p336
+aVfor, now, 21 million children in India.
+p337
+aVIt's the largest NGO in education in the world.
+p338
+aVAnd it also supports working-class kids going into Indian schools.
+p339
+aVHe's a complete revolutionary.
+p340
+aVHe's actually a trade union organizer by background,
+p341
+aVand that's how he learned the skills
+p342
+aVto build his organization.
+p343
+aa(lp344
+VWhen they got to a certain stage,
+p345
+aVPratham got big enough to attract
+p346
+aVsome pro bono support from McKinsey.
+p347
+aVMcKinsey came along and looked at his model and said,
+p348
+aV"You know what you should do with this, Madhav?
+p349
+aVYou should turn it into McDonald's.
+p350
+aVAnd what you do when you go to any new site
+p351
+aVis you kind of roll out a franchise.
+p352
+aVAnd it's the same wherever you go.
+p353
+aVIt's reliable and people know exactly where they are.
+p354
+aVAnd there will be no mistakes."
+p355
+aVAnd Madhav said,
+p356
+aV"Why do we have to do it that way?
+p357
+aVWhy can't we do it more like the Chinese restaurants?"
+p358
+aa(lp359
+VThere are Chinese restaurants everywhere,
+p360
+aVbut there is no Chinese restaurant chain.
+p361
+aVYet, everyone knows what is a Chinese restaurant.
+p362
+aVThey know what to expect, even though it'll be subtly different
+p363
+aVand the colors will be different and the name will be different.
+p364
+aVYou know a Chinese restaurant when you see it.
+p365
+aVThese people work with the Chinese restaurant model \u2014
+p366
+aVsame principles, different applications and different settings \u2014
+p367
+aVnot the McDonald's model.
+p368
+aVThe McDonald's model scales.
+p369
+aVThe Chinese restaurant model spreads.
+p370
+aa(lp371
+VSo mass education
+p372
+aVstarted with social entrepreneurship
+p373
+aVin the 19th century.
+p374
+aVAnd that's desperately what we need again
+p375
+aVon a global scale.
+p376
+aVAnd what can we learn from all of that?
+p377
+aVWell, we can learn a lot
+p378
+aVbecause our education systems
+p379
+aVare failing desperately in many ways.
+p380
+aVThey fail to reach the people
+p381
+aVthey most need to serve.
+p382
+aVThey often hit their target but miss the point.
+p383
+aVImprovement is increasingly
+p384
+aVdifficult to organize;
+p385
+aVour faith in these systems, incredibly fraught.
+p386
+aVAnd this is just a very simple way of
+p387
+aVunderstanding what kind of innovation,
+p388
+aVwhat kind of different design we need.
+p389
+aa(lp390
+VThere are two basic types of innovation.
+p391
+aVThere's sustaining innovation,
+p392
+aVwhich will sustain an existing institution or an organization,
+p393
+aVand disruptive innovation
+p394
+aVthat will break it apart, create some different way of doing it.
+p395
+aVThere are formal settings \u2014
+p396
+aVschools, colleges, hospitals \u2014
+p397
+aVin which innovation can take place,
+p398
+aVand informal settings \u2014 communities,
+p399
+aVfamilies, social networks.
+p400
+aVAlmost all our effort goes in this box,
+p401
+aVsustaining innovation in formal settings,
+p402
+aVgetting a better version
+p403
+aVof the essentially Bismarckian school system
+p404
+aVthat developed in the 19th century.
+p405
+aVAnd as I said, the trouble with this is that,
+p406
+aVin the developing world
+p407
+aVthere just aren't teachers to make this model work.
+p408
+aVYou'd need millions and millions of teachers
+p409
+aVin China, India, Nigeria
+p410
+aVand the rest of developing world to meet need.
+p411
+aVAnd in our system, we know
+p412
+aVthat simply doing more of this won't eat into
+p413
+aVdeep educational inequalities,
+p414
+aVespecially in inner cities
+p415
+aVand former industrial areas.
+p416
+aa(lp417
+VSo that's why we need three more kinds of innovation.
+p418
+aVWe need more reinvention.
+p419
+aVAnd all around the world now you see
+p420
+aVmore and more schools reinventing themselves.
+p421
+aVThey're recognizably schools, but they look different.
+p422
+aVThere are Big Picture schools
+p423
+aVin the U.S. and Australia.
+p424
+aVThere are Kunskapsskolan schools
+p425
+aVin Sweden.
+p426
+aVOf 14 of them,
+p427
+aVonly two of them are in schools.
+p428
+aVMost of them are in other buildings not designed as schools.
+p429
+aVThere is an amazing school in Northen Queensland
+p430
+aVcalled Jaringan.
+p431
+aVAnd they all have the same kind of features:
+p432
+aVhighly collaborative, very personalized,
+p433
+aVoften pervasive technology,
+p434
+aVlearning that starts from questions
+p435
+aVand problems and projects,
+p436
+aVnot from knowledge and curriculum.
+p437
+aVSo we certainly need more of that.
+p438
+aa(lp439
+VBut because so many of the issues in education
+p440
+aVaren't just in school,
+p441
+aVthey're in family and community,
+p442
+aVwhat you also need, definitely,
+p443
+aVis more on the right hand side.
+p444
+aVYou need efforts to supplement schools.
+p445
+aVThe most famous of these is Reggio Emilia in Italy,
+p446
+aVthe family-based learning system
+p447
+aVto support and encourage people in schools.
+p448
+aVThe most exciting is the Harlem Children's Zone,
+p449
+aVwhich over 10 years, led by Geoffrey Canada,
+p450
+aVhas, through a mixture of schooling
+p451
+aVand family and community projects,
+p452
+aVattempted to transform not just education in schools,
+p453
+aVbut the entire culture and aspiration
+p454
+aVof about 10,000 families in Harlem.
+p455
+aVWe need more of that
+p456
+aVcompletely new and radical thinking.
+p457
+aVYou can go to places an hour away, less,
+p458
+aVfrom this room,
+p459
+aVjust down the road, which need that,
+p460
+aVwhich need radicalism of a kind that we haven't imagined.
+p461
+aa(lp462
+VAnd finally, you need transformational innovation
+p463
+aVthat could imagine getting learning to people
+p464
+aVin completely new and different ways.
+p465
+aVSo we are on the verge, 2015,
+p466
+aVof an amazing achievement,
+p467
+aVthe schoolification of the world.
+p468
+aVEvery child up to the age of 15 who wants a place in school
+p469
+aVwill be able to have one in 2015.
+p470
+aVIt's an amazing thing.
+p471
+aVBut it is,
+p472
+aVunlike cars, which have developed
+p473
+aVso rapidly and orderly,
+p474
+aVactually the school system is recognizably
+p475
+aVan inheritance from the 19th century,
+p476
+aVfrom a Bismarkian model of German schooling
+p477
+aVthat got taken up by English reformers,
+p478
+aVand often by
+p479
+aVreligious missionaries,
+p480
+aVtaken up in the United States
+p481
+aVas a force of social cohesion,
+p482
+aVand then in Japan and South Korea as they developed.
+p483
+aa(lp484
+VIt's recognizably 19th century in its roots.
+p485
+aVAnd of course it's a huge achievement.
+p486
+aVAnd of course it will bring great things.
+p487
+aVIt will bring skills and learning and reading.
+p488
+aVBut it will also lay waste to imagination.
+p489
+aVIt will lay waste to appetite. It will lay waste to social confidence.
+p490
+aVIt will stratify society
+p491
+aVas much as it liberates it.
+p492
+aVAnd we are bequeathing to the developing world
+p493
+aVschool systems that they will now spend
+p494
+aVa century trying to reform.
+p495
+aVThat is why we need really radical thinking,
+p496
+aVand why radical thinking is now
+p497
+aVmore possible and more needed than ever in how we learn.
+p498
+aa(lp499
+VThank you. (Applause)
+p500
+aasS'id'
+p501
+I892
+sS'title'
+p502
+VEducation innovation in the slums
+p503
+s.

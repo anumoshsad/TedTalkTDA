@@ -1,0 +1,242 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VYou know, cadaver dissection
+p4
+aVis the traditional way of learning human anatomy.
+p5
+aVFor students, it's quite an experience,
+p6
+aVbut for a school, it could be very difficult
+p7
+aVor expensive to maintain.
+p8
+aVSo we learned the majority of anatomic classes taught,
+p9
+aVthey do not have a cadaver dissection lab.
+p10
+aVMaybe those reasons, or depending on where you are,
+p11
+aVcadavers may not be easily available.
+p12
+aa(lp13
+VSo to address this, we developed
+p14
+aVwith a Dr. Brown in Stanford: virtual dissection table.
+p15
+aVSo we call this Anatomage Table.
+p16
+aVSo with this Anatomage Table,
+p17
+aVstudents can experience
+p18
+aVthe dissection without a human cadaver.
+p19
+aVAnd the table form is important,
+p20
+aVand since it's touch-interactive,
+p21
+aVjust like the way they do dissections in the lab,
+p22
+aVor furthermore just the way a surgeon operates on a patient
+p23
+aVyou can literally interact with your table.
+p24
+aVOur digital body is one-to-one life size,
+p25
+aVso this is exactly the way
+p26
+aVstudents will see the real anatomy.
+p27
+aa(lp28
+VI'm going to
+p29
+aVdo some demonstrations.
+p30
+aVAs you can see,
+p31
+aVI use my finger to interact with my digital body.
+p32
+aVI'm going to do some cuts.
+p33
+aVI can cut any way I want to, so I cut right here.
+p34
+aVThen it's going to show inside.
+p35
+aVAnd I can change my cut
+p36
+aVto see different parts.
+p37
+aVMaybe I can cut there,
+p38
+aVsee the brain,
+p39
+aVand I can change my cut.
+p40
+aVYou can see some internal organs.
+p41
+aVSo we call this
+p42
+aVthe slicer mode.
+p43
+aVOK, I'm going to do another cut.
+p44
+aVRight there.
+p45
+aVThis shows a lot of internal structures.
+p46
+aVSo if I want to see the back side,
+p47
+aVI can flip
+p48
+aVand see from behind.
+p49
+aVLike this.
+p50
+aVSo if these images are
+p51
+aVuncomfortable to you or disturbing to you,
+p52
+aVthat means we did the right job.
+p53
+aVSo our doctors said
+p54
+aVthese are eye candies.
+p55
+aa(lp56
+VSo instead of just butchering the body,
+p57
+aVI'd like to do more clinically meaningful dissections.
+p58
+aVWhat I'm going to do is
+p59
+aVI'm going to peel off all the skin, muscles and bones,
+p60
+aVjust to see a few internal organs.
+p61
+aVRight here.
+p62
+aVLet's say I'm going to cut
+p63
+aVthe liver right here.
+p64
+aVOK.
+p65
+aVLet's say I'm interested in looking at the heart.
+p66
+aVI'm going to do some surgery here.
+p67
+aVI'm going to cut some veins, arteries.
+p68
+aVOops! ...
+p69
+aa(lp70
+VYou don't want to hear "oops" in real surgery.
+p71
+aV(Laughter)
+p72
+aVBut fortunately, our digital man has "undo."
+p73
+aV(Laughter)
+p74
+aVOkay.
+p75
+aa(lp76
+VAll right then.
+p77
+aVLet me zoom in.
+p78
+aVI'm going to make a cut right there.
+p79
+aVAnd then you can see the inside of the heart.
+p80
+aVYou can see the atrium and the ventricles,
+p81
+aVhow blood flows to our arteries and veins.
+p82
+aVJust like this,
+p83
+aVstudents can isolate anybody
+p84
+aVand dissect any way you want to.
+p85
+aVIt doesn't have to be always dissection.
+p86
+aVSince it's digital, we can do reverse dissection.
+p87
+aVSo let me show you,
+p88
+aVI'm going to start with the skeletal structure,
+p89
+aVand I can add a few internal organs.
+p90
+aVYep.
+p91
+aVMaybe I can add quickly this way.
+p92
+aVAnd I can build muscles
+p93
+aVgradually,
+p94
+aVjust like that.
+p95
+aVWe can see tendons and muscles.
+p96
+aVWish I could build my muscle this fast.
+p97
+aV(Laughter)
+p98
+aVAnd this is another way to learn anatomy.
+p99
+aa(lp100
+VAnother thing I can show you is,
+p101
+aVmore often than not,
+p102
+aVdoctors get to meet patients
+p103
+aVin X-ray form.
+p104
+aVSo,
+p105
+aVAnatomage Table shows
+p106
+aVexactly how the anatomy will appear in X-ray.
+p107
+aVYou can also interact with your X-ray,
+p108
+aVand also if you want,
+p109
+aVyou can compare
+p110
+aVwith how anatomy would appear
+p111
+aVin X-ray, too.
+p112
+aVSo when you are done,
+p113
+aVjust bring back the body
+p114
+aVand then it's ready for another session.
+p115
+aVIt looks like our table
+p116
+aValso can transform gender, too.
+p117
+aVIt's a female now.
+p118
+aa(lp119
+VSo this is Anatomage Table. Thank you.
+p120
+aV(Applause)
+p121
+aasS'id'
+p122
+I1411
+sS'title'
+p123
+VOn the virtual dissection table
+p124
+s.

@@ -1,0 +1,910 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VToday I want to tell you
+p4
+aVabout a project being carried out
+p5
+aVby scientists all over the world
+p6
+aVto paint a neural portrait of the human mind.
+p7
+aVAnd the central idea of this work
+p8
+aVis that the human mind and brain
+p9
+aVis not a single, general-purpose processor,
+p10
+aVbut a collection of highly specialized components,
+p11
+aVeach solving a different specific problem,
+p12
+aVand yet collectively making up
+p13
+aVwho we are as human beings and thinkers.
+p14
+aVTo give you a feel for this idea,
+p15
+aa(lp16
+Vimagine the following scenario:
+p17
+aVYou walk into your child's day care center.
+p18
+aVAs usual, there's a dozen kids there
+p19
+aVwaiting to get picked up,
+p20
+aVbut this time,
+p21
+aVthe children's faces look weirdly similar,
+p22
+aVand you can't figure out which child is yours.
+p23
+aVDo you need new glasses?
+p24
+aVAre you losing your mind?
+p25
+aVYou run through a quick mental checklist.
+p26
+aVNo, you seem to be thinking clearly,
+p27
+aVand your vision is perfectly sharp.
+p28
+aVAnd everything looks normal
+p29
+aVexcept the children's faces.
+p30
+aVYou can see the faces,
+p31
+aVbut they don't look distinctive,
+p32
+aVand none of them looks familiar,
+p33
+aVand it's only by spotting an orange hair ribbon
+p34
+aVthat you find your daughter.
+p35
+aa(lp36
+VThis sudden loss of the ability to recognize faces
+p37
+aVactually happens to people.
+p38
+aVIt's called prosopagnosia,
+p39
+aVand it results from damage
+p40
+aVto a particular part of the brain.
+p41
+aVThe striking thing about it
+p42
+aVis that only face recognition is impaired;
+p43
+aVeverything else is just fine.
+p44
+aa(lp45
+VProsopagnosia is one of many surprisingly specific
+p46
+aVmental deficits that can happen after brain damage.
+p47
+aVThese syndromes collectively
+p48
+aVhave suggested for a long time
+p49
+aVthat the mind is divvied up into distinct components,
+p50
+aVbut the effort to discover those components
+p51
+aVhas jumped to warp speed
+p52
+aVwith the invention of brain imaging technology,
+p53
+aVespecially MRI.
+p54
+aVSo MRI enables you to see internal anatomy
+p55
+aVat high resolution,
+p56
+aVso I'm going to show you in a second
+p57
+aVa set of MRI cross-sectional images
+p58
+aVthrough a familiar object,
+p59
+aVand we're going to fly through them
+p60
+aVand you're going to try to figure out what the object is.
+p61
+aVHere we go.
+p62
+aa(lp63
+VIt's not that easy. It's an artichoke.
+p64
+aa(lp65
+VOkay, let's try another one,
+p66
+aVstarting from the bottom and going through the top.
+p67
+aVBroccoli! It's a head of broccoli.
+p68
+aVIsn't it beautiful? I love that.
+p69
+aa(lp70
+VOkay, here's another one. It's a brain, of course.
+p71
+aVIn fact, it's my brain.
+p72
+aVWe're going through slices through my head like that.
+p73
+aVThat's my nose over on the right, and now
+p74
+aVwe're going over here, right there.
+p75
+aa(lp76
+VSo this picture's nice, if I do say so myself,
+p77
+aVbut it shows only anatomy.
+p78
+aVThe really cool advance with functional imaging
+p79
+aVhappened when scientists figured out how to make
+p80
+aVpictures that show not just anatomy but activity,
+p81
+aVthat is, where neurons are firing.
+p82
+aVSo here's how this works.
+p83
+aVBrains are like muscles.
+p84
+aVWhen they get active,
+p85
+aVthey need increased blood flow to supply that activity,
+p86
+aVand lucky for us, blood flow control to the brain is local,
+p87
+aVso if a bunch of neurons, say, right there
+p88
+aVget active and start firing,
+p89
+aVthen blood flow increases just right there.
+p90
+aVSo functional MRI picks up on that blood flow increase,
+p91
+aVproducing a higher MRI response
+p92
+aVwhere neural activity goes up.
+p93
+aa(lp94
+VSo to give you a concrete feel
+p95
+aVfor how a functional MRI experiment goes
+p96
+aVand what you can learn from it
+p97
+aVand what you can't,
+p98
+aVlet me describe one of the first studies I ever did.
+p99
+aVWe wanted to know if there was a special part of the brain for recognizing faces,
+p100
+aVand there was already reason to think there might be such a thing
+p101
+aVbased on this phenomenon of prosopagnosia
+p102
+aVthat I described a moment ago,
+p103
+aVbut nobody had ever seen that part of the brain
+p104
+aVin a normal person,
+p105
+aVso we set out to look for it.
+p106
+aVSo I was the first subject.
+p107
+aVI went into the scanner, I lay on my back,
+p108
+aVI held my head as still as I could
+p109
+aVwhile staring at pictures of faces like these
+p110
+aVand objects like these
+p111
+aVand faces and objects for hours.
+p112
+aVSo as somebody who has pretty close to the world record
+p113
+aVof total number of hours spent inside an MRI scanner,
+p114
+aVI can tell you that one of the skills
+p115
+aVthat's really important for MRI research
+p116
+aVis bladder control.
+p117
+aV(Laughter)
+p118
+aa(lp119
+VWhen I got out of the scanner,
+p120
+aVI did a quick analysis of the data,
+p121
+aVlooking for any parts of my brain
+p122
+aVthat produced a higher response when I was looking at faces
+p123
+aVthan when I was looking at objects,
+p124
+aVand here's what I saw.
+p125
+aVNow this image looks just awful by today's standards,
+p126
+aVbut at the time I thought it was beautiful.
+p127
+aVWhat it shows is that region right there,
+p128
+aVthat little blob,
+p129
+aVit's about the size of an olive
+p130
+aVand it's on the bottom surface of my brain
+p131
+aVabout an inch straight in from right there.
+p132
+aVAnd what that part of my brain is doing
+p133
+aVis producing a higher MRI response,
+p134
+aVthat is, higher neural activity,
+p135
+aVwhen I was looking at faces
+p136
+aVthan when I was looking at objects.
+p137
+aVSo that's pretty cool,
+p138
+aVbut how do we know this isn't a fluke?
+p139
+aVWell, the easiest way
+p140
+aVis to just do the experiment again.
+p141
+aVSo I got back in the scanner,
+p142
+aVI looked at more faces and I looked at more objects
+p143
+aVand I got a similar blob,
+p144
+aVand then I did it again
+p145
+aVand I did it again
+p146
+aVand again and again,
+p147
+aVand around about then
+p148
+aVI decided to believe it was for real.
+p149
+aVBut still, maybe this is something weird about my brain
+p150
+aVand no one else has one of these things in there,
+p151
+aVso to find out, we scanned a bunch of other people
+p152
+aVand found that pretty much everyone
+p153
+aVhas that little face-processing region
+p154
+aVin a similar neighborhood of the brain.
+p155
+aa(lp156
+VSo the next question was,
+p157
+aVwhat does this thing really do?
+p158
+aVIs it really specialized just for face recognition?
+p159
+aVWell, maybe not, right?
+p160
+aVMaybe it responds not only to faces
+p161
+aVbut to any body part.
+p162
+aVMaybe it responds to anything human
+p163
+aVor anything alive
+p164
+aVor anything round.
+p165
+aVThe only way to be really sure that that region
+p166
+aVis specialized for face recognition
+p167
+aVis to rule out all of those hypotheses.
+p168
+aVSo we spent much of the next couple of years
+p169
+aVscanning subjects while they looked at lots
+p170
+aVof different kinds of images,
+p171
+aVand we showed that that part of the brain
+p172
+aVresponds strongly when you look at
+p173
+aVany images that are faces of any kind,
+p174
+aVand it responds much less strongly
+p175
+aVto any image you show that isn't a face,
+p176
+aVlike some of these.
+p177
+aa(lp178
+VSo have we finally nailed the case
+p179
+aVthat this region is necessary for face recognition?
+p180
+aVNo, we haven't.
+p181
+aVBrain imaging can never tell you
+p182
+aVif a region is necessary for anything.
+p183
+aVAll you can do with brain imaging
+p184
+aVis watch regions turn on and off
+p185
+aVas people think different thoughts.
+p186
+aVTo tell if a part of the brain is necessary for a mental function,
+p187
+aVyou need to mess with it and see what happens,
+p188
+aVand normally we don't get to do that.
+p189
+aVBut an amazing opportunity came about
+p190
+aVvery recently when a couple of colleagues of mine
+p191
+aVtested this man who has epilepsy
+p192
+aVand who is shown here in his hospital bed
+p193
+aVwhere he's just had electrodes placed
+p194
+aVon the surface of his brain
+p195
+aVto identify the source of his seizures.
+p196
+aVSo it turned out by total chance
+p197
+aVthat two of the electrodes
+p198
+aVhappened to be right on top of his face area.
+p199
+aVSo with the patient's consent,
+p200
+aVthe doctors asked him what happened
+p201
+aVwhen they electrically stimulated that part of his brain.
+p202
+aVNow, the patient doesn't know
+p203
+aVwhere those electrodes are,
+p204
+aVand he's never heard of the face area.
+p205
+aVSo let's watch what happens.
+p206
+aVIt's going to start with a control condition
+p207
+aVthat will say "Sham" nearly invisibly
+p208
+aVin red in the lower left,
+p209
+aVwhen no current is delivered,
+p210
+aVand you'll hear the neurologist speaking to the patient first. So let's watch.
+p211
+aa(lp212
+V(Video) Neurologist: Okay, just look at my face
+p213
+aVand tell me what happens when I do this.
+p214
+aVAll right?
+p215
+aa(lp216
+VPatient: Okay.
+p217
+aa(lp218
+VNeurologist: One, two, three.
+p219
+aa(lp220
+VPatient: Nothing. Neurologist: Nothing? Okay.
+p221
+aVI'm going to do it one more time.
+p222
+aVLook at my face.
+p223
+aVOne, two, three.
+p224
+aa(lp225
+VPatient: You just turned into somebody else.
+p226
+aVYour face metamorphosed.
+p227
+aVYour nose got saggy, it went to the left.
+p228
+aVYou almost looked like somebody I'd seen before,
+p229
+aVbut somebody different.
+p230
+aVThat was a trip.
+p231
+aV(Laughter)
+p232
+aa(lp233
+VNancy Kanwisher: So this experiment \u2014
+p234
+aV(Applause) \u2014
+p235
+aVthis experiment finally nails the case
+p236
+aVthat this region of the brain is not only
+p237
+aVselectively responsive to faces
+p238
+aVbut causally involved in face perception.
+p239
+aVSo I went through all of these details
+p240
+aVabout the face region to show you what it takes
+p241
+aVto really establish that a part of the brain
+p242
+aVis selectively involved in a specific mental process.
+p243
+aVNext, I'll go through much more quickly
+p244
+aVsome of the other specialized regions of the brain
+p245
+aVthat we and others have found.
+p246
+aVSo to do this, I've spent a lot of time
+p247
+aVin the scanner over the last month
+p248
+aVso I can show you these things in my brain.
+p249
+aa(lp250
+VSo let's get started. Here's my right hemisphere.
+p251
+aVSo we're oriented like that. You're looking at my head this way.
+p252
+aVImagine taking the skull off
+p253
+aVand looking at the surface of the brain like that.
+p254
+aVOkay, now as you can see,
+p255
+aVthe surface of the brain is all folded up.
+p256
+aVSo that's not good. Stuff could be hidden in there.
+p257
+aVWe want to see the whole thing,
+p258
+aVso let's inflate it so we can see the whole thing.
+p259
+aVNext, let's find that face area I've been talking about
+p260
+aVthat responds to images like these.
+p261
+aVTo see that, let's turn the brain around
+p262
+aVand look on the inside surface on the bottom,
+p263
+aVand there it is, that's my face area.
+p264
+aVJust to the right of that is another region
+p265
+aVthat is shown in purple
+p266
+aVthat responds when you process color information,
+p267
+aVand near those regions are other regions
+p268
+aVthat are involved in perceiving places,
+p269
+aVlike right now, I'm seeing this layout of space around me
+p270
+aVand these regions in green right there
+p271
+aVare really active.
+p272
+aVThere's another one out on the outside surface again
+p273
+aVwhere there's a couple more face regions as well.
+p274
+aVAlso in this vicinity
+p275
+aVis a region that's selectively involved
+p276
+aVin processing visual motion,
+p277
+aVlike these moving dots here,
+p278
+aVand that's in yellow at the bottom of the brain,
+p279
+aVand near that is a region that responds
+p280
+aVwhen you look at images of bodies and body parts
+p281
+aVlike these, and that region is shown in lime green
+p282
+aVat the bottom of the brain.
+p283
+aa(lp284
+VNow all these regions I've shown you so far
+p285
+aVare involved in specific aspects of visual perception.
+p286
+aVDo we also have specialized brain regions
+p287
+aVfor other senses, like hearing?
+p288
+aVYes, we do. So if we turn the brain around a little bit,
+p289
+aVhere's a region in dark blue
+p290
+aVthat we reported just a couple of months ago,
+p291
+aVand this region responds strongly
+p292
+aVwhen you hear sounds with pitch, like these.
+p293
+aV(Sirens)
+p294
+aV(Cello music)
+p295
+aV(Doorbell)
+p296
+aVIn contrast, that same region does not respond strongly
+p297
+aVwhen you hear perfectly familiar sounds
+p298
+aVthat don't have a clear pitch, like these.
+p299
+aV(Chomping)
+p300
+aV(Drum roll)
+p301
+aV(Toilet flushing)
+p302
+aa(lp303
+VOkay. Next to the pitch region
+p304
+aVis another set of regions that are selectively responsive
+p305
+aVwhen you hear the sounds of speech.
+p306
+aa(lp307
+VOkay, now let's look at these same regions.
+p308
+aVIn my left hemisphere, there's a similar arrangement \u2014
+p309
+aVnot identical, but similar \u2014
+p310
+aVand most of the same regions are in here,
+p311
+aValbeit sometimes different in size.
+p312
+aa(lp313
+VNow, everything I've shown you so far
+p314
+aVare regions that are involved in different aspects of perception,
+p315
+aVvision and hearing.
+p316
+aVDo we also have specialized brain regions
+p317
+aVfor really fancy, complicated mental processes?
+p318
+aVYes, we do.
+p319
+aVSo here in pink are my language regions.
+p320
+aVSo it's been known for a very long time
+p321
+aVthat that general vicinity of the brain
+p322
+aVis involved in processing language,
+p323
+aVbut we showed very recently
+p324
+aVthat these pink regions
+p325
+aVrespond extremely selectively.
+p326
+aVThey respond when you understand the meaning of a sentence,
+p327
+aVbut not when you do other complex mental things,
+p328
+aVlike mental arithmetic
+p329
+aVor holding information in memory
+p330
+aVor appreciating the complex structure
+p331
+aVin a piece of music.
+p332
+aa(lp333
+VThe most amazing region that's been found yet
+p334
+aVis this one right here in turquoise.
+p335
+aVThis region responds
+p336
+aVwhen you think about what another person is thinking.
+p337
+aVSo that may seem crazy,
+p338
+aVbut actually, we humans do this all the time.
+p339
+aVYou're doing this when you realize
+p340
+aVthat your partner is going to be worried
+p341
+aVif you don't call home to say you're running late.
+p342
+aVI'm doing this with that region of my brain right now
+p343
+aVwhen I realize that you guys
+p344
+aVare probably now wondering about
+p345
+aVall that gray, uncharted territory in the brain,
+p346
+aVand what's up with that?
+p347
+aa(lp348
+VWell, I'm wondering about that too,
+p349
+aVand we're running a bunch of experiments in my lab right now
+p350
+aVto try to find a number of other
+p351
+aVpossible specializations in the brain
+p352
+aVfor other very specific mental functions.
+p353
+aVBut importantly, I don't think we have
+p354
+aVspecializations in the brain
+p355
+aVfor every important mental function,
+p356
+aVeven mental functions that may be critical for survival.
+p357
+aVIn fact, a few years ago,
+p358
+aVthere was a scientist in my lab
+p359
+aVwho became quite convinced
+p360
+aVthat he'd found a brain region
+p361
+aVfor detecting food,
+p362
+aVand it responded really strongly in the scanner
+p363
+aVwhen people looked at images like this.
+p364
+aVAnd further, he found a similar response
+p365
+aVin more or less the same location
+p366
+aVin 10 out of 12 subjects.
+p367
+aVSo he was pretty stoked,
+p368
+aVand he was running around the lab
+p369
+aVtelling everyone that he was going to go on "Oprah"
+p370
+aVwith his big discovery.
+p371
+aVBut then he devised the critical test:
+p372
+aVHe showed subjects images of food like this
+p373
+aVand compared them to images with very similar
+p374
+aVcolor and shape, but that weren't food, like these.
+p375
+aVAnd his region responded the same
+p376
+aVto both sets of images.
+p377
+aVSo it wasn't a food area,
+p378
+aVit was just a region that liked colors and shapes.
+p379
+aVSo much for "Oprah."
+p380
+aa(lp381
+VBut then the question, of course, is,
+p382
+aVhow do we process all this other stuff
+p383
+aVthat we don't have specialized brain regions for?
+p384
+aVWell, I think the answer is that in addition
+p385
+aVto these highly specialized components that I've been describing,
+p386
+aVwe also have a lot of very general- purpose machinery in our heads
+p387
+aVthat enables us to tackle
+p388
+aVwhatever problem comes along.
+p389
+aVIn fact, we've shown recently that
+p390
+aVthese regions here in white
+p391
+aVrespond whenever you do any difficult mental task
+p392
+aVat all \u2014
+p393
+aVwell, of the seven that we've tested.
+p394
+aVSo each of the brain regions that I've described
+p395
+aVto you today
+p396
+aVis present in approximately the same location
+p397
+aVin every normal subject.
+p398
+aVI could take any of you,
+p399
+aVpop you in the scanner,
+p400
+aVand find each of those regions in your brain,
+p401
+aVand it would look a lot like my brain,
+p402
+aValthough the regions would be slightly different
+p403
+aVin their exact location and in their size.
+p404
+aa(lp405
+VWhat's important to me about this work
+p406
+aVis not the particular locations of these brain regions,
+p407
+aVbut the simple fact that we have
+p408
+aVselective, specific components of mind and brain
+p409
+aVin the first place.
+p410
+aVI mean, it could have been otherwise.
+p411
+aVThe brain could have been a single,
+p412
+aVgeneral-purpose processor,
+p413
+aVmore like a kitchen knife
+p414
+aVthan a Swiss Army knife.
+p415
+aVInstead, what brain imaging has delivered
+p416
+aVis this rich and interesting picture of the human mind.
+p417
+aVSo we have this picture of very general-purpose
+p418
+aVmachinery in our heads
+p419
+aVin addition to this surprising array
+p420
+aVof very specialized components.
+p421
+aa(lp422
+VIt's early days in this enterprise.
+p423
+aVWe've painted only the first brushstrokes
+p424
+aVin our neural portrait of the human mind.
+p425
+aVThe most fundamental questions remain unanswered.
+p426
+aVSo for example, what does each of these regions do exactly?
+p427
+aVWhy do we need three face areas
+p428
+aVand three place areas,
+p429
+aVand what's the division of labor between them?
+p430
+aVSecond, how are all these things
+p431
+aVconnected in the brain?
+p432
+aVWith diffusion imaging,
+p433
+aVyou can trace bundles of neurons
+p434
+aVthat connect to different parts of the brain,
+p435
+aVand with this method shown here,
+p436
+aVyou can trace the connections of individual neurons in the brain,
+p437
+aVpotentially someday giving us a wiring diagram
+p438
+aVof the entire human brain.
+p439
+aVThird, how does all of this
+p440
+aVvery systematic structure get built,
+p441
+aVboth over development in childhood
+p442
+aVand over the evolution of our species?
+p443
+aVTo address questions like that,
+p444
+aVscientists are now scanning
+p445
+aVother species of animals,
+p446
+aVand they're also scanning human infants.
+p447
+aa(lp448
+VMany people justify the high cost of neuroscience research
+p449
+aVby pointing out that it may help us someday
+p450
+aVto treat brain disorders like Alzheimer's and autism.
+p451
+aVThat's a hugely important goal,
+p452
+aVand I'd be thrilled if any of my work contributed to it,
+p453
+aVbut fixing things that are broken in the world
+p454
+aVis not the only thing that's worth doing.
+p455
+aVThe effort to understand the human mind and brain
+p456
+aVis worthwhile even if it never led to the treatment
+p457
+aVof a single disease.
+p458
+aVWhat could be more thrilling
+p459
+aVthan to understand the fundamental mechanisms
+p460
+aVthat underlie human experience,
+p461
+aVto understand, in essence, who we are?
+p462
+aVThis is, I think, the greatest scientific quest
+p463
+aVof all time.
+p464
+aa(lp465
+V(Applause)
+p466
+aasS'id'
+p467
+I2077
+sS'title'
+p468
+VA neural portrait of the human mind
+p469
+s.

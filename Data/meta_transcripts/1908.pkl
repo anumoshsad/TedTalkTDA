@@ -1,0 +1,767 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VMy job is to design, build and study robots that communicate with people.
+p4
+aVBut this story doesn't start with robotics at all, it starts with animation.
+p5
+aVWhen I first saw Pixar's "Luxo Jr.,"
+p6
+aVI was amazed by how much emotion they could put
+p7
+aVinto something as trivial as a desk lamp.
+p8
+aVI mean, look at them \u2014 at the end of this movie,
+p9
+aVyou actually feel something for two pieces of furniture.
+p10
+aa(lp11
+V(Laughter)
+p12
+aa(lp13
+VAnd I said, I have to learn how to do this.
+p14
+aVSo I made a really bad career decision.
+p15
+aa(lp16
+V(Laughter)
+p17
+aa(lp18
+VAnd that's what my mom was like when I did it.
+p19
+aa(lp20
+V(Laughter)
+p21
+aa(lp22
+VI left a very cozy tech job in Israel at a nice software company
+p23
+aVand I moved to New York to study animation.
+p24
+aVAnd there I lived
+p25
+aVin a collapsing apartment building in Harlem with roommates.
+p26
+aVI'm not using this phrase metaphorically \u2014
+p27
+aVthe ceiling actually collapsed one day in our living room.
+p28
+aVWhenever they did news stories about building violations in New York,
+p29
+aVthey would put the report in front of our building,
+p30
+aVas kind of, like, a backdrop to show how bad things are.
+p31
+aa(lp32
+VAnyway, during the day, I went to school
+p33
+aVand at night I would sit and draw frame by frame of pencil animation.
+p34
+aVAnd I learned two surprising lessons.
+p35
+aVOne of them was that when you want to arouse emotions,
+p36
+aVit doesn't matter so much how something looks;
+p37
+aVit's all in the motion, in the timing of how the thing moves.
+p38
+aVAnd the second was something one of our teachers told us.
+p39
+aVHe actually did the weasel in "Ice Age."
+p40
+aVAnd he said, "As an animator, you're not a director \u2014 you're an actor."
+p41
+aVSo, if you want to find the right motion for a character,
+p42
+aVdon't think about it \u2014 go use your body to find it.
+p43
+aVStand in front of a mirror, act it out in front of a camera \u2014
+p44
+aVwhatever you need \u2014 and then put it back in your character.
+p45
+aa(lp46
+VA year later I found myself at MIT in the Robotic Life Group.
+p47
+aVIt was one of the first groups researching the relationships
+p48
+aVbetween humans and robots.
+p49
+aVAnd I still had this dream to make an actual, physical Luxo Jr. lamp.
+p50
+aVBut I found that robots didn't move at all in this engaging way
+p51
+aVthat I was used to from my animation studies.
+p52
+aVInstead, they were all \u2014 how should I put it \u2014
+p53
+aVthey were all kind of robotic.
+p54
+aV(Laughter)
+p55
+aVAnd I thought, what if I took whatever I learned in animation school,
+p56
+aVand used that to design my robotic desk lamp.
+p57
+aVSo I went and designed frame by frame
+p58
+aVto try to make this robot as graceful and engaging as possible.
+p59
+aVAnd here when you see the robot interacting with me on a desktop \u2014
+p60
+aVand I'm actually redesigning the robot,
+p61
+aVso, unbeknownst to itself,
+p62
+aVit's kind of digging its own grave by helping me.
+p63
+aa(lp64
+V(Laughter)
+p65
+aa(lp66
+VI wanted it to be less of a mechanical structure giving me light,
+p67
+aVand more of a helpful, kind of quiet apprentice
+p68
+aVthat's always there when you need it and doesn't really interfere.
+p69
+aVAnd when, for example, I'm looking for a battery that I can't find,
+p70
+aVin a subtle way, it'll show me where the battery is.
+p71
+aVSo you can see my confusion here.
+p72
+aVI'm not an actor.
+p73
+aVAnd I want you to notice how the same mechanical structure
+p74
+aVcan, at one point, just by the way it moves,
+p75
+aVseem gentle and caring and in the other case,
+p76
+aVseem violent and confrontational.
+p77
+aVAnd it's the same structure, just the motion is different.
+p78
+aVActor: "You want to know something? Well, you want to know something?
+p79
+aVHe was already dead!
+p80
+aVJust laying there, eyes glazed over!"
+p81
+aa(lp82
+V(Laughter)
+p83
+aa(lp84
+VBut, moving in a graceful way is just one building block
+p85
+aVof this whole structure called human-robot interaction.
+p86
+aVI was, at the time, doing my PhD, I was working on human-robot teamwork,
+p87
+aVteams of humans and robots working together.
+p88
+aVI was studying the engineering,
+p89
+aVthe psychology, the philosophy of teamwork,
+p90
+aVand at the same time,
+p91
+aVI found myself in my own kind of teamwork situation,
+p92
+aVwith a good friend of mine, who's actually here.
+p93
+aVAnd in that situation, we can easily imagine robots
+p94
+aVin the near future being there with us.
+p95
+aVIt was after a Passover Seder.
+p96
+aVWe were folding up a lot of folding chairs,
+p97
+aVand I was amazed at how quickly we found our own rhythm.
+p98
+aVEverybody did their own part, we didn't have to divide our tasks.
+p99
+aVWe didn't have to communicate verbally about this \u2014
+p100
+aVit all just happened.
+p101
+aa(lp102
+VAnd I thought, humans and robots don't look at all like this.
+p103
+aVWhen humans and robots interact, it's much more like a chess game:
+p104
+aVthe human does a thing, the robot analyzes whatever the human did,
+p105
+aVthe robot decides what to do next, plans it and does it.
+p106
+aVThen the human waits, until it's their turn again.
+p107
+aVSo it's much more like a chess game, and that makes sense,
+p108
+aVbecause chess is great for mathematicians and computer scientists.
+p109
+aVIt's all about information, analysis, decision-making and planning.
+p110
+aa(lp111
+VBut I wanted my robot to be less of a chess player,
+p112
+aVand more like a doer
+p113
+aVthat just clicks and works together.
+p114
+aVSo I made my second horrible career choice:
+p115
+aVI decided to study acting for a semester.
+p116
+aVI took off from the PhD, I went to acting classes.
+p117
+aVI actually participated in a play \u2014
+p118
+aVI hope there\u2019s no video of that around still.
+p119
+aa(lp120
+V(Laughter)
+p121
+aa(lp122
+VAnd I got every book I could find about acting,
+p123
+aVincluding one from the 19th century that I got from the library.
+p124
+aVAnd I was really amazed, because my name was the second name on the list \u2014
+p125
+aVthe previous name was in 1889.
+p126
+aa(lp127
+V(Laughter)
+p128
+aa(lp129
+VAnd this book was kind of waiting for 100 years
+p130
+aVto be rediscovered for robotics.
+p131
+aVAnd this book shows actors
+p132
+aVhow to move every muscle in the body
+p133
+aVto match every kind of emotion that they want to express.
+p134
+aa(lp135
+VBut the real revelation was when I learned about method acting.
+p136
+aVIt became very popular in the 20th century.
+p137
+aVAnd method acting said
+p138
+aVyou don't have to plan every muscle in your body;
+p139
+aVinstead, you have to use your body to find the right movement.
+p140
+aVYou have to use your sense memory to reconstruct the emotions
+p141
+aVand kind of think with your body to find the right expression \u2014
+p142
+aVimprovise, play off your scene partner.
+p143
+aVAnd this came at the same time
+p144
+aVas I was reading about this trend in cognitive psychology,
+p145
+aVcalled embodied cognition, which also talks about the same ideas.
+p146
+aVWe use our bodies to think;
+p147
+aVwe don't just think with our brains and use our bodies to move,
+p148
+aVbut our bodies feed back into our brain
+p149
+aVto generate the way that we behave.
+p150
+aa(lp151
+VAnd it was like a lightning bolt.
+p152
+aVI went back to my office,
+p153
+aVI wrote this paper, which I never really published,
+p154
+aVcalled "Acting Lessons for Artificial Intelligence."
+p155
+aVAnd I even took another month
+p156
+aVto do what was then the first theater play
+p157
+aVwith a human and a robot acting together.
+p158
+aVThat's what you saw before with the actors.
+p159
+aVAnd I thought:
+p160
+aVHow can we make an artificial intelligence model \u2014
+p161
+aVa computer, computational model \u2014
+p162
+aVthat will model some of these ideas of improvisation,
+p163
+aVof taking risks, of taking chances,
+p164
+aVeven of making mistakes?
+p165
+aVMaybe it can make for better robotic teammates.
+p166
+aVSo I worked for quite a long time on these models
+p167
+aVand I implemented them on a number of robots.
+p168
+aa(lp169
+VHere you can see a very early example
+p170
+aVwith the robots trying to use this embodied artificial intelligence
+p171
+aVto try to match my movements as closely as possible.
+p172
+aVIt's sort of like a game.
+p173
+aVLet's look at it.
+p174
+aVYou can see when I psych it out, it gets fooled.
+p175
+aVAnd it's a little bit like what you might see actors do
+p176
+aVwhen they try to mirror each other
+p177
+aVto find the right synchrony between them.
+p178
+aVAnd then, I did another experiment,
+p179
+aVand I got people off the street to use the robotic desk lamp,
+p180
+aVand try out this idea of embodied artificial intelligence.
+p181
+aVSo, I actually used two kinds of brains for the same robot.
+p182
+aa(lp183
+VThe robot is the same lamp that you saw,
+p184
+aVand I put two brains in it.
+p185
+aVFor one half of the people,
+p186
+aVI put in a brain that's kind of the traditional,
+p187
+aVcalculated robotic brain.
+p188
+aVIt waits for its turn, it analyzes everything, it plans.
+p189
+aVLet's call it the calculated brain.
+p190
+aVThe other got more the stage actor, risk-taker brain.
+p191
+aVLet's call it the adventurous brain.
+p192
+aVIt sometimes acts without knowing everything it has to know.
+p193
+aVIt sometimes makes mistakes and corrects them.
+p194
+aVAnd I had them do this very tedious task that took almost 20 minutes,
+p195
+aVand they had to work together,
+p196
+aVsomehow simulating, like, a factory job
+p197
+aVof repetitively doing the same thing.
+p198
+aVWhat I found is that people actually loved the adventurous robot.
+p199
+aVThey thought it was more intelligent,
+p200
+aVmore committed, a better member of the team,
+p201
+aVcontributed to the success of the team more.
+p202
+aVThey even called it "he" and "she,"
+p203
+aVwhereas people with the calculated brain
+p204
+aVcalled it "it," and nobody ever called it "he" or "she."
+p205
+aVWhen they talked about it after the task, with the adventurous brain,
+p206
+aVthey said, "By the end, we were good friends and high-fived mentally."
+p207
+aVWhatever that means.
+p208
+aa(lp209
+V(Laughter)
+p210
+aa(lp211
+VSounds painful.
+p212
+aVWhereas the people with the calculated brain
+p213
+aVsaid it was just like a lazy apprentice.
+p214
+aVIt only did what it was supposed to do and nothing more,
+p215
+aVwhich is almost what people expect robots to do,
+p216
+aVso I was surprised that people had higher expectations of robots
+p217
+aVthan what anybody in robotics thought robots should be doing.
+p218
+aVAnd in a way, I thought, maybe it's time \u2014
+p219
+aVjust like method acting changed the way people thought
+p220
+aVabout acting in the 19th century,
+p221
+aVfrom going from the very calculated, planned way of behaving,
+p222
+aVto a more intuitive, risk-taking, embodied way of behaving \u2014
+p223
+aVmaybe it's time for robots to have the same kind of revolution.
+p224
+aa(lp225
+VA few years later, I was at my next research job at Georgia Tech in Atlanta,
+p226
+aVand I was working in a group dealing with robotic musicians.
+p227
+aVAnd I thought, music: that's the perfect place
+p228
+aVto look at teamwork, coordination, timing, improvisation \u2014
+p229
+aVand we just got this robot playing marimba.
+p230
+aVAnd the marimba, for everybody like me,
+p231
+aVit was this huge, wooden xylophone.
+p232
+aVAnd when I was looking at this,
+p233
+aVI looked at other works in human-robot improvisation \u2014
+p234
+aVyes, there are other works in human-robot improvisation \u2014
+p235
+aVand they were also a little bit like a chess game.
+p236
+aVThe human would play,
+p237
+aVthe robot analyzed what was played,
+p238
+aVand would improvise their own part.
+p239
+aVSo, this is what musicians called a call-and-response interaction,
+p240
+aVand it also fits very well robots and artificial intelligence.
+p241
+aVBut I thought, if I use the same ideas I used in the theater play
+p242
+aVand in the teamwork studies,
+p243
+aVmaybe I can make the robots jam together like a band.
+p244
+aVEverybody's riffing off each other, nobody is stopping for a moment.
+p245
+aVAnd so I tried to do the same things, this time with music,
+p246
+aVwhere the robot doesn't really know what it's about to play,
+p247
+aVit just sort of moves its body and uses opportunities to play,
+p248
+aVand does what my jazz teacher when I was 17 taught me.
+p249
+aVShe said, when you improvise,
+p250
+aVsometimes you don't know what you're doing, and you still do it.
+p251
+aVSo I tried to make a robot that doesn't actually know what it's doing,
+p252
+aVbut is still doing it.
+p253
+aVSo let's look at a few seconds from this performance,
+p254
+aVwhere the robot listens to the human musician
+p255
+aVand improvises.
+p256
+aVAnd then, look how the human musician also responds
+p257
+aVto what the robot is doing
+p258
+aVand picking up from its behavior,
+p259
+aVand at some point can even be surprised by what the robot came up with.
+p260
+aa(lp261
+V(Music)
+p262
+aa(lp263
+V(Music ends)
+p264
+aa(lp265
+V(Applause)
+p266
+aa(lp267
+VBeing a musician is not just about making notes,
+p268
+aVotherwise nobody would ever go see a live show.
+p269
+aVMusicians also communicate with their bodies,
+p270
+aVwith other band members, with the audience,
+p271
+aVthey use their bodies to express the music.
+p272
+aVAnd I thought, we already have a robot musician on stage,
+p273
+aVwhy not make it be a full-fledged musician?
+p274
+aVAnd I started designing a socially expressive head
+p275
+aVfor the robot.
+p276
+aVThe head doesn\u2019t actually touch the marimba,
+p277
+aVit just expresses what the music is like.
+p278
+aVThese are some napkin sketches from a bar in Atlanta
+p279
+aVthat was dangerously located exactly halfway
+p280
+aVbetween my lab and my home.
+p281
+aVSo I spent, I would say, on average, three to four hours a day there.
+p282
+aVI think.
+p283
+aa(lp284
+V(Laughter)
+p285
+aa(lp286
+VAnd I went back to my animation tools and tried to figure out
+p287
+aVnot just what a robotic musician would look like,
+p288
+aVbut especially what a robotic musician would move like,
+p289
+aVto sort of show that it doesn't like what the other person is playing \u2014
+p290
+aVand maybe show whatever beat it's feeling at the moment.
+p291
+aa(lp292
+VSo we ended up actually getting the money to build this robot, which was nice.
+p293
+aVI'm going to show you now the same kind of performance,
+p294
+aVthis time with a socially expressive head.
+p295
+aVAnd notice one thing \u2014
+p296
+aVhow the robot is really showing us
+p297
+aVthe beat it's picking up from the human,
+p298
+aVwhile also giving the human a sense that the robot knows what it's doing.
+p299
+aVAnd also how it changes the way it moves
+p300
+aVas soon as it starts its own solo.
+p301
+aa(lp302
+V(Music)
+p303
+aa(lp304
+VNow it's looking at me, showing that it's listening.
+p305
+aa(lp306
+V(Music)
+p307
+aa(lp308
+VNow look at the final chord of the piece again.
+p309
+aVAnd this time the robot communicates with its body
+p310
+aVwhen it's busy doing its own thing,
+p311
+aVand when it's ready to coordinate the final chord with me.
+p312
+aa(lp313
+V(Music)
+p314
+aa(lp315
+V(Music ending)
+p316
+aa(lp317
+V(Final chord)
+p318
+aa(lp319
+V(Applause)
+p320
+aa(lp321
+VThanks.
+p322
+aVI hope you see
+p323
+aVhow much this part of the body that doesn't touch the instrument
+p324
+aVactually helps with the musical performance.
+p325
+aVAnd at some point \u2014 we are in Atlanta,
+p326
+aVso obviously some rapper will come into our lab at some point \u2014
+p327
+aVand we had this rapper come in and do a little jam with the robot.
+p328
+aVHere you can see the robot basically responding to the beat.
+p329
+aVNotice two things:
+p330
+aVone, how irresistible it is to join the robot while it's moving its head.
+p331
+aVYou kind of want to move your own head when it does it.
+p332
+aVAnd second, even though the rapper is really focused on his iPhone,
+p333
+aVas soon as the robot turns to him, he turns back.
+p334
+aVSo even though it's just in the periphery of his vision,
+p335
+aVin the corner of his eye, it's very powerful.
+p336
+aVAnd the reason is that we can't ignore
+p337
+aVphysical things moving in our environment.
+p338
+aVWe are wired for that.
+p339
+aVSo if you have a problem \u2014
+p340
+aVmaybe your partner is looking at their iPhone or smartphone too much \u2014
+p341
+aVyou might want to have a robot there to get their attention.
+p342
+aa(lp343
+V(Laughter)
+p344
+aa(lp345
+V(Music)
+p346
+aa(lp347
+V(Music ends)
+p348
+aa(lp349
+V(Applause)
+p350
+aa(lp351
+VJust to introduce the last robot that we've worked on,
+p352
+aVit came out of something surprising that we found:
+p353
+aVSome point people didn't care about the robot being intelligent,
+p354
+aVable to improvise and listen,
+p355
+aVand do all these embodied intelligence things that I spent years developing.
+p356
+aVThey really liked that the robot was enjoying the music.
+p357
+aa(lp358
+V(Laughter)
+p359
+aa(lp360
+VAnd they didn't say the robot was moving to the music,
+p361
+aVthey said "enjoying" the music.
+p362
+aVAnd we thought, why don't we take this idea,
+p363
+aVand I designed a new piece of furniture.
+p364
+aVThis time it wasn't a desk lamp, it was a speaker dock,
+p365
+aVone of those things you plug your smartphone in.
+p366
+aVAnd I thought,
+p367
+aVwhat would happen if your speaker dock didn't just play the music for you,
+p368
+aVbut would actually enjoy it, too?
+p369
+aVAnd so again, here are some animation tests from an early stage.
+p370
+aa(lp371
+V(Laughter)
+p372
+aa(lp373
+VAnd this is what the final product looked like.
+p374
+aa(lp375
+V(Music)
+p376
+aa(lp377
+V(Music ends)
+p378
+aa(lp379
+VSo, a lot of bobbing heads.
+p380
+aa(lp381
+V(Applause)
+p382
+aa(lp383
+VA lot of bobbing heads in the audience,
+p384
+aVso we can still see robots influence people.
+p385
+aVAnd it's not just fun and games.
+p386
+aa(lp387
+VI think one of the reasons I care so much
+p388
+aVabout robots that use their body to communicate
+p389
+aVand use their body to move is \u2014
+p390
+aVI'm going to let you in on a little secret we roboticists are hiding \u2014
+p391
+aVis that every one of you is going to be living with a robot
+p392
+aVat some point in your life.
+p393
+aVSomewhere in your future, there will be a robot in your life.
+p394
+aVIf not in yours, your children's lives.
+p395
+aVAnd I want these robots to be more fluent, more engaging, more graceful
+p396
+aVthan currently they seem to be.
+p397
+aVAnd for that I think maybe robots need to be less like chess players
+p398
+aVand more like stage actors and more like musicians.
+p399
+aVMaybe they should be able to take chances and improvise.
+p400
+aVMaybe they should be able to anticipate what you're about to do.
+p401
+aVMaybe they even need to be able to make mistakes and correct them,
+p402
+aVbecause in the end, we are human.
+p403
+aVAnd maybe as humans, robots that are a little less than perfect
+p404
+aVare just perfect for us.
+p405
+aa(lp406
+VThank you.
+p407
+aa(lp408
+V(Applause)
+p409
+aasS'id'
+p410
+I1908
+sS'title'
+p411
+VRobots with "soul"
+p412
+s.

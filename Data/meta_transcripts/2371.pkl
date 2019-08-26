@@ -1,0 +1,522 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThis is the Air Jordan 3 Black Cement.
+p4
+aVThis might be the most important sneaker in history.
+p5
+aVFirst released in 1988,
+p6
+aVthis is the shoe that started Nike marketing as we know it.
+p7
+aVThis is the shoe that propelled the entire Air Jordan lineage,
+p8
+aVand perhaps saved Nike.
+p9
+aVThe Air Jordan 3 Black Cement did for sneakers
+p10
+aVwhat the iPhone did for phones.
+p11
+aVIt's been re-released four times.
+p12
+aVEvery celebrity's been seen wearing it.
+p13
+aVThere's a site about what to wear with the Black Cement.
+p14
+aVIt's been right under your nose for decades
+p15
+aVand you never looked down.
+p16
+aVAnd right about now,
+p17
+aVmost of you are probably thinking, "Sneakers?"
+p18
+aa(lp19
+V(Laughter)
+p20
+aa(lp21
+VYes.
+p22
+aVYes, sneakers.
+p23
+aVSome extraordinary things about sneakers
+p24
+aVand data
+p25
+aVand Nike
+p26
+aVand how they're all related, possibly, to the future of all online commerce.
+p27
+aa(lp28
+VIn 2011,
+p29
+aVthe last time the Jordan 3 Black Cement was released,
+p30
+aVat a retail of 160 dollars,
+p31
+aVit sold out globally in minutes.
+p32
+aVAnd that's because people were camped outside of sneaker stores
+p33
+aVfor days before it went on sale.
+p34
+aVAnd just minutes after that,
+p35
+aVthousands of those pairs were on eBay for two and three times retail.
+p36
+aVIn fact, there's over 1,000 pairs on eBay right now, four years later.
+p37
+aVBut here's the thing:
+p38
+aVthis happens every single Saturday.
+p39
+aVEvery week there's another release or two or three,
+p40
+aVand every shoe has a story
+p41
+aVas rich and compelling as the Jordan 3 Black Cement.
+p42
+aa(lp43
+VThis is Nike building the marketplace for sneakerheads \u2014
+p44
+aVpeople who collect sneakers \u2014
+p45
+aVand my daughter.
+p46
+aa(lp47
+V(Laughter)
+p48
+aa(lp49
+VThat's an "I love Dad" T-shirt.
+p50
+aa(lp51
+VFor the brands, sneakerheads are a very important demographic.
+p52
+aVThese are the tastemakers; these are the Apple fanboys.
+p53
+aVBecause who else is going to buy
+p54
+aVa pair of $8,000 Back to the Future sneakers?
+p55
+aa(lp56
+V(Laughter)
+p57
+aa(lp58
+VYeah, 8,000 dollars.
+p59
+aa(lp60
+VAnd while that's obviously the anomaly,
+p61
+aVthe resell sneaker market is definitely not.
+p62
+aVThirty years in the making,
+p63
+aVwhat started as an underground culture
+p64
+aVof a few people who like sneakers just a bit too much \u2014
+p65
+aa(lp66
+V(Laughter)
+p67
+aa(lp68
+VNow we have sneaker addictions.
+p69
+aVIn a market where in the past 12 months,
+p70
+aVthere have been over nine million pairs of shoes
+p71
+aVresold in the United States alone,
+p72
+aVat a value of 1.2 billion dollars.
+p73
+aVAnd that's a conservative estimate \u2014
+p74
+aVI should know, I am a sneakerhead.
+p75
+aVThis is my collection.
+p76
+aVIn the pantheon of great collections, mine doesn't even register.
+p77
+aVI have about 250 pairs, but trust me, I am small-time.
+p78
+aVPeople have thousands.
+p79
+aa(lp80
+VI'm a very typical 37-year-old sneakerhead.
+p81
+aVI grew up playing basketball when Michael Jordan played,
+p82
+aVI always wanted Air Jordans,
+p83
+aVmy mother would never buy me Air Jordans,
+p84
+aVas soon as I got some money I bought Air Jordans \u2014
+p85
+aVliterally, we all have the exact same story.
+p86
+aVBut here's where mine diverged.
+p87
+aVAfter starting three companies, I took a job as a strategy consultant,
+p88
+aVwhen I very quickly realized that I didn't know the first thing about data.
+p89
+aVBut I learned, because I had to,
+p90
+aVand I liked it.
+p91
+aVSo I thought, I wonder if I could get ahold of some sneaker data,
+p92
+aVjust to play with for my own amusement.
+p93
+aVThe goal was to develop a price guide,
+p94
+aVa real data-driven view of the market.
+p95
+aVAnd four years later, we're analyzing over 25 million transactions,
+p96
+aVproviding real-time analytics on thousands of sneakers.
+p97
+aVNow sneakerheads check prices while camping out for releases.
+p98
+aVOthers have used the data to validate insurance claims.
+p99
+aVAnd the top investment banks in the world
+p100
+aVnow use resell data to analyze the retail footwear industry.
+p101
+aVAnd here's the best part:
+p102
+aVsneakerheads have sneaker portfolios.
+p103
+aa(lp104
+V(Laughter)
+p105
+aa(lp106
+VSneakerheads can track the value of their collection over time,
+p107
+aVcompare it to others,
+p108
+aVand have access to the same analytics you might
+p109
+aVfor your online brokerage account.
+p110
+aVSo sneakerhead Dan builds his collection and identifies which 352 are his.
+p111
+aVHe can see it's worth 103,000 dollars \u2014
+p112
+aVfrankly, a modest collection.
+p113
+aVAt the asset level, he can see gain-loss by shoe.
+p114
+aVHere he's made over 600 dollars on one pair.
+p115
+aVI have one of those.
+p116
+aa(lp117
+V(Laughter)
+p118
+aa(lp119
+VSo an unregulated 1.2 billion dollar industry
+p120
+aVthat thrives as much on the street as it does online,
+p121
+aVand has spawned fundamental financial services for sneakers?
+p122
+aVAt some point I asked myself what's really going on in the market,
+p123
+aVand two comparisons started to emerge.
+p124
+aVAre sneakers more like stocks or drugs?
+p125
+aa(lp126
+V(Laughter)
+p127
+aa(lp128
+VIn fact, one guy emailed to say
+p129
+aVhe thought his 15-year-old son was selling drugs
+p130
+aVand later found out he was selling sneakers.
+p131
+aa(lp132
+V(Laughter)
+p133
+aa(lp134
+VAnd now they use the data to do it together.
+p135
+aVAnd that's because sneakers are an investment opportunity
+p136
+aVwhere none other exists.
+p137
+aVAnd I don't just mean the kid selling sneakers instead of drugs.
+p138
+aVHow about all kids?
+p139
+aVYou have to be 18 to play the stock market.
+p140
+aVI sold chewing gum in sixth grade,
+p141
+aVBlow Pops in ninth grade
+p142
+aVand collected baseball cards through high school.
+p143
+aVThe cards are long dead,
+p144
+aVand the candy market's usually quite local.
+p145
+aa(lp146
+VFor a lot of people, sneakers are a legal and accessible investment opportunity \u2014
+p147
+aVa democratized stock market,
+p148
+aVbut also unregulated.
+p149
+aVWhich is why the story you're probably most familiar with
+p150
+aVis people killing each other for sneakers.
+p151
+aVAnd while that definitely happens and is tragic,
+p152
+aVit's not nearly the epidemic some media would have you believe.
+p153
+aVIn fact, it's a very small piece of a much bigger and better story.
+p154
+aa(lp155
+VSo sneakers have clear similarities
+p156
+aVto both the stock exchange and the illegal drug trade,
+p157
+aVbut perhaps the most fundamental is the existence of a central actor.
+p158
+aVSomeone is making the rules.
+p159
+aVIn the case of sneakers, that someone is Nike.
+p160
+aa(lp161
+VLet me walk you through some numbers.
+p162
+aa(lp163
+VThe resell market, we know, is $1.2 billion.
+p164
+aVNike, including Jordan brand,
+p165
+aVaccounts for 96 percent of all shoes sold on the secondary market.
+p166
+aVJust complete domination.
+p167
+aVSneakerheads love Jordans.
+p168
+aVAnd profit on the secondary market is about a third.
+p169
+aVThat means that sneakerheads made 380 million dollars
+p170
+aVselling Nikes last year.
+p171
+aVLet's jump to retail for a second.
+p172
+aVSkechers, earlier this year,
+p173
+aVbecame the number two footwear brand in the country,
+p174
+aVsurpassing Adidas \u2014 this was a big deal.
+p175
+aVAnd in the 12 months ending in June,
+p176
+aVSkechers's net income was 209 million dollars.
+p177
+aVThat means that Nike's customers
+p178
+aVmake almost twice as much profit as their closest competitor.
+p179
+aVThat \u2014
+p180
+aa(lp181
+V(Laughter)
+p182
+aa(lp183
+VHow is that even possible?
+p184
+aa(lp185
+VThe sneaker market is just supply and demand,
+p186
+aVbut Nike's gotten very good at using supply \u2014 limited sneakers \u2014
+p187
+aVand the distribution of those sneakers to their own benefit.
+p188
+aVSo it's really just supply.
+p189
+aVSneakerheads joke that as long as it's limited and Nike, they'll buy it.
+p190
+aVShoes that sell for 8,000 dollars do so because they're very rare.
+p191
+aVIt's no different than any other collectible market,
+p192
+aVonly this isn't a market at all.
+p193
+aVIt's a false construct created by Nike \u2014
+p194
+aVingeniously created by Nike, in the most positive sense \u2014 to sell more shoes.
+p195
+aVAnd in the process,
+p196
+aVit provided tens of thousands of people with life-long passions,
+p197
+aVmyself included.
+p198
+aVIf Nike wanted to kill the resell market, they could do so tomorrow,
+p199
+aVall they have to do is release more shoes.
+p200
+aVBut we certainly don't want them to, nor is it in their best interest.
+p201
+aVThat's because unlike Apple, who will sell an iPhone to anyone who wants one,
+p202
+aVNike doesn't make their money by just selling $200 sneakers.
+p203
+aVThey sell millions of shoes to millions of people for 60 dollars.
+p204
+aVAnd sneakerheads are the ones who drive the marketing
+p205
+aVand the hype and the PR and the brand cachet,
+p206
+aVand enable Nike to sell millions of $60 sneakers.
+p207
+aa(lp208
+VIt's marketing.
+p209
+aVIt's marketing the likes of which has never been seen before \u2014
+p210
+aVthis isn't in any textbook.
+p211
+aVFor 15 years Nike has propped up an artificial commodities market,
+p212
+aVwith a Facebook-level hyped IPO every single weekend.
+p213
+aVDrive by any Footlocker at 8am on a Saturday morning,
+p214
+aVand there will be a line down the street and around the block,
+p215
+aVand sometimes those kids have been waiting there all week.
+p216
+aVYou know those crazy iPhone lines you see on the news every other year?
+p217
+aVNike lines happen 104 times more often.
+p218
+aVSo Nike sets the rules.
+p219
+aVAnd they do so by controlling supply and distribution.
+p220
+aa(lp221
+VBut once a pair leaves the retail channel, it's the Wild West.
+p222
+aVThere are very few \u2014 if any \u2014 legal, unregulated markets of this size.
+p223
+aVSo Nike is definitely not the stock exchange.
+p224
+aVIn fact, there is no central exchange.
+p225
+aVBy last count, there were 48 different online markets that I know of.
+p226
+aVSome are eBay clones, some are mobile markets,
+p227
+aVand then you have consignment shops and brick-and-mortar stores,
+p228
+aVand sneaker conventions, and reseller sites,
+p229
+aVand Facebook and Instagram and Twitter \u2014
+p230
+aVliterally, anywhere sneakerheads come into contact with each other,
+p231
+aVshoes will be bought and sold.
+p232
+aa(lp233
+VBut that means no efficiencies, no transparency,
+p234
+aVsometimes not even authenticity.
+p235
+aVCan you imagine if that's how stocks were bought?
+p236
+aVWhat if the way to buy a share of Apple stock
+p237
+aVwas to search over 100 places online and off,
+p238
+aVincluding every time you walk down the street
+p239
+aVjust hoping to pass someone wearing some Apple stock?
+p240
+aVNever knowing who had the best price,
+p241
+aVor even if the stock you were looking at was real.
+p242
+aVThat would surely make you say:
+p243
+aa(lp244
+V[WTF?]
+p245
+aa(lp246
+VOf course that's not how we buy stock.
+p247
+aVBut what if that's not how we need to buy sneakers either?
+p248
+aVWhat if the inverse is true,
+p249
+aVand what if we could buy sneakers
+p250
+aVexactly the same way as we buy stock?
+p251
+aVAnd what if it wasn't just sneakers, but any similar product,
+p252
+aVlike watches and handbags and women's shoes,
+p253
+aVand any collectible, any seasonal item and any markdown item?
+p254
+aVWhat if there was a stock market for commerce?
+p255
+aVA stock market of things.
+p256
+aVAnd not only could you buy in a much more educated and efficient manner,
+p257
+aVbut you could engage in all the sophisticated financial transactions
+p258
+aVyou can with the stock market.
+p259
+aVShorts and options and futures
+p260
+aVand well, maybe you see where this is going.
+p261
+aVMaybe you want to invest in a stock market of things.
+p262
+aVBecause if you had invested in a pair of Air Jordan 3 Black Cement in 2011,
+p263
+aVyou could either be wearing them onstage,
+p264
+aa(lp265
+V(Laughter)
+p266
+aa(lp267
+Vor have earned 162 percent on your money \u2014
+p268
+aVdouble the S&P and 20 percent more than Apple.
+p269
+aa(lp270
+V(Laughter)
+p271
+aa(lp272
+VAnd that's why we're talking about sneakers.
+p273
+aa(lp274
+VThank you.
+p275
+aa(lp276
+V(Applause)
+p277
+aasS'id'
+p278
+I2371
+sS'title'
+p279
+VWhy sneakers are a great investment
+p280
+s.

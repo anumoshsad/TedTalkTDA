@@ -1,0 +1,1050 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI want to start my talk today with two observations
+p4
+aVabout the human species.
+p5
+aVThe first observation is something that you might think is quite obvious,
+p6
+aVand that's that our species, Homo sapiens,
+p7
+aVis actually really, really smart \u2014
+p8
+aVlike, ridiculously smart \u2014
+p9
+aVlike you're all doing things
+p10
+aVthat no other species on the planet does right now.
+p11
+aVAnd this is, of course,
+p12
+aVnot the first time you've probably recognized this.
+p13
+aVOf course, in addition to being smart, we're also an extremely vain species.
+p14
+aVSo we like pointing out the fact that we're smart.
+p15
+aVYou know, so I could turn to pretty much any sage
+p16
+aVfrom Shakespeare to Stephen Colbert
+p17
+aVto point out things like the fact that
+p18
+aVwe're noble in reason and infinite in faculties
+p19
+aVand just kind of awesome-er than anything else on the planet
+p20
+aVwhen it comes to all things cerebral.
+p21
+aa(lp22
+VBut of course, there's a second observation about the human species
+p23
+aVthat I want to focus on a little bit more,
+p24
+aVand that's the fact that
+p25
+aVeven though we're actually really smart, sometimes uniquely smart,
+p26
+aVwe can also be incredibly, incredibly dumb
+p27
+aVwhen it comes to some aspects of our decision making.
+p28
+aVNow I'm seeing lots of smirks out there.
+p29
+aVDon't worry, I'm not going to call anyone in particular out
+p30
+aVon any aspects of your own mistakes.
+p31
+aVBut of course, just in the last two years
+p32
+aVwe see these unprecedented examples of human ineptitude.
+p33
+aVAnd we've watched as the tools we uniquely make
+p34
+aVto pull the resources out of our environment
+p35
+aVkind of just blow up in our face.
+p36
+aVWe've watched the financial markets that we uniquely create \u2014
+p37
+aVthese markets that were supposed to be foolproof \u2014
+p38
+aVwe've watched them kind of collapse before our eyes.
+p39
+aa(lp40
+VBut both of these two embarrassing examples, I think,
+p41
+aVdon't highlight what I think is most embarrassing
+p42
+aVabout the mistakes that humans make,
+p43
+aVwhich is that we'd like to think that the mistakes we make
+p44
+aVare really just the result of a couple bad apples
+p45
+aVor a couple really sort of FAIL Blog-worthy decisions.
+p46
+aVBut it turns out, what social scientists are actually learning
+p47
+aVis that most of us, when put in certain contexts,
+p48
+aVwill actually make very specific mistakes.
+p49
+aVThe errors we make are actually predictable.
+p50
+aVWe make them again and again.
+p51
+aVAnd they're actually immune to lots of evidence.
+p52
+aVWhen we get negative feedback,
+p53
+aVwe still, the next time we're face with a certain context,
+p54
+aVtend to make the same errors.
+p55
+aVAnd so this has been a real puzzle to me
+p56
+aVas a sort of scholar of human nature.
+p57
+aVWhat I'm most curious about is,
+p58
+aVhow is a species that's as smart as we are
+p59
+aVcapable of such bad
+p60
+aVand such consistent errors all the time?
+p61
+aa(lp62
+VYou know, we're the smartest thing out there, why can't we figure this out?
+p63
+aVIn some sense, where do our mistakes really come from?
+p64
+aVAnd having thought about this a little bit, I see a couple different possibilities.
+p65
+aVOne possibility is, in some sense, it's not really our fault.
+p66
+aVBecause we're a smart species,
+p67
+aVwe can actually create all kinds of environments
+p68
+aVthat are super, super complicated,
+p69
+aVsometimes too complicated for us to even actually understand,
+p70
+aVeven though we've actually created them.
+p71
+aVWe create financial markets that are super complex.
+p72
+aVWe create mortgage terms that we can't actually deal with.
+p73
+aVAnd of course, if we are put in environments where we can't deal with it,
+p74
+aVin some sense makes sense that we actually
+p75
+aVmight mess certain things up.
+p76
+aVIf this was the case, we'd have a really easy solution
+p77
+aVto the problem of human error.
+p78
+aVWe'd actually just say, okay, let's figure out
+p79
+aVthe kinds of technologies we can't deal with,
+p80
+aVthe kinds of environments that are bad \u2014
+p81
+aVget rid of those, design things better,
+p82
+aVand we should be the noble species
+p83
+aVthat we expect ourselves to be.
+p84
+aa(lp85
+VBut there's another possibility that I find a little bit more worrying,
+p86
+aVwhich is, maybe it's not our environments that are messed up.
+p87
+aVMaybe it's actually us that's designed badly.
+p88
+aVThis is a hint that I've gotten
+p89
+aVfrom watching the ways that social scientists have learned about human errors.
+p90
+aVAnd what we see is that people tend to keep making errors
+p91
+aVexactly the same way, over and over again.
+p92
+aVIt feels like we might almost just be built
+p93
+aVto make errors in certain ways.
+p94
+aVThis is a possibility that I worry a little bit more about,
+p95
+aVbecause, if it's us that's messed up,
+p96
+aVit's not actually clear how we go about dealing with it.
+p97
+aVWe might just have to accept the fact that we're error prone
+p98
+aVand try to design things around it.
+p99
+aa(lp100
+VSo this is the question my students and I wanted to get at.
+p101
+aVHow can we tell the difference between possibility one and possibility two?
+p102
+aVWhat we need is a population
+p103
+aVthat's basically smart, can make lots of decisions,
+p104
+aVbut doesn't have access to any of the systems we have,
+p105
+aVany of the things that might mess us up \u2014
+p106
+aVno human technology, human culture,
+p107
+aVmaybe even not human language.
+p108
+aVAnd so this is why we turned to these guys here.
+p109
+aVThese are one of the guys I work with. This is a brown capuchin monkey.
+p110
+aVThese guys are New World primates,
+p111
+aVwhich means they broke off from the human branch
+p112
+aVabout 35 million years ago.
+p113
+aVThis means that your great, great, great great, great, great \u2014
+p114
+aVwith about five million "greats" in there \u2014
+p115
+aVgrandmother was probably the same great, great, great, great
+p116
+aVgrandmother with five million "greats" in there
+p117
+aVas Holly up here.
+p118
+aVYou know, so you can take comfort in the fact that this guy up here is a really really distant,
+p119
+aVbut albeit evolutionary, relative.
+p120
+aVThe good news about Holly though is that
+p121
+aVshe doesn't actually have the same kinds of technologies we do.
+p122
+aVYou know, she's a smart, very cut creature, a primate as well,
+p123
+aVbut she lacks all the stuff we think might be messing us up.
+p124
+aVSo she's the perfect test case.
+p125
+aa(lp126
+VWhat if we put Holly into the same context as humans?
+p127
+aVDoes she make the same mistakes as us?
+p128
+aVDoes she not learn from them? And so on.
+p129
+aVAnd so this is the kind of thing we decided to do.
+p130
+aVMy students and I got very excited about this a few years ago.
+p131
+aVWe said, all right, let's, you know, throw so problems at Holly,
+p132
+aVsee if she messes these things up.
+p133
+aVFirst problem is just, well, where should we start?
+p134
+aVBecause, you know, it's great for us, but bad for humans.
+p135
+aVWe make a lot of mistakes in a lot of different contexts.
+p136
+aVYou know, where are we actually going to start with this?
+p137
+aVAnd because we started this work around the time of the financial collapse,
+p138
+aVaround the time when foreclosures were hitting the news,
+p139
+aVwe said, hhmm, maybe we should
+p140
+aVactually start in the financial domain.
+p141
+aVMaybe we should look at monkey's economic decisions
+p142
+aVand try to see if they do the same kinds of dumb things that we do.
+p143
+aa(lp144
+VOf course, that's when we hit a sort second problem \u2014
+p145
+aVa little bit more methodological \u2014
+p146
+aVwhich is that, maybe you guys don't know,
+p147
+aVbut monkeys don't actually use money. I know, you haven't met them.
+p148
+aVBut this is why, you know, they're not in the queue behind you
+p149
+aVat the grocery store or the ATM \u2014 you know, they don't do this stuff.
+p150
+aVSo now we faced, you know, a little bit of a problem here.
+p151
+aVHow are we actually going to ask monkeys about money
+p152
+aVif they don't actually use it?
+p153
+aVSo we said, well, maybe we should just, actually just suck it up
+p154
+aVand teach monkeys how to use money.
+p155
+aVSo that's just what we did.
+p156
+aVWhat you're looking at over here is actually the first unit that I know of
+p157
+aVof non-human currency.
+p158
+aVWe weren't very creative at the time we started these studies,
+p159
+aVso we just called it a token.
+p160
+aVBut this is the unit of currency that we've taught our monkeys at Yale
+p161
+aVto actually use with humans,
+p162
+aVto actually buy different pieces of food.
+p163
+aVIt doesn't look like much \u2014 in fact, it isn't like much.
+p164
+aa(lp165
+VLike most of our money, it's just a piece of metal.
+p166
+aVAs those of you who've taken currencies home from your trip know,
+p167
+aVonce you get home, it's actually pretty useless.
+p168
+aVIt was useless to the monkeys at first
+p169
+aVbefore they realized what they could do with it.
+p170
+aVWhen we first gave it to them in their enclosures,
+p171
+aVthey actually kind of picked them up, looked at them.
+p172
+aVThey were these kind of weird things.
+p173
+aVBut very quickly, the monkeys realized
+p174
+aVthat they could actually hand these tokens over
+p175
+aVto different humans in the lab for some food.
+p176
+aVAnd so you see one of our monkeys, Mayday, up here doing this.
+p177
+aVThis is A and B are kind of the points where she's sort of a little bit
+p178
+aVcurious about these things \u2014 doesn't know.
+p179
+aVThere's this waiting hand from a human experimenter,
+p180
+aVand Mayday quickly figures out, apparently the human wants this.
+p181
+aVHands it over, and then gets some food.
+p182
+aVIt turns out not just Mayday, all of our monkeys get good
+p183
+aVat trading tokens with human salesman.
+p184
+aVSo here's just a quick video of what this looks like.
+p185
+aVHere's Mayday. She's going to be trading a token for some food
+p186
+aVand waiting happily and getting her food.
+p187
+aVHere's Felix, I think. He's our alpha male; he's a kind of big guy.
+p188
+aVBut he too waits patiently, gets his food and goes on.
+p189
+aa(lp190
+VSo the monkeys get really good at this.
+p191
+aVThey're surprisingly good at this with very little training.
+p192
+aVWe just allowed them to pick this up on their own.
+p193
+aVThe question is: is this anything like human money?
+p194
+aVIs this a market at all,
+p195
+aVor did we just do a weird psychologist's trick
+p196
+aVby getting monkeys to do something,
+p197
+aVlooking smart, but not really being smart.
+p198
+aVAnd so we said, well, what would the monkeys spontaneously do
+p199
+aVif this was really their currency, if they were really using it like money?
+p200
+aVWell, you might actually imagine them
+p201
+aVto do all the kinds of smart things
+p202
+aVthat humans do when they start exchanging money with each other.
+p203
+aVYou might have them start paying attention to price,
+p204
+aVpaying attention to how much they buy \u2014
+p205
+aVsort of keeping track of their monkey token, as it were.
+p206
+aVDo the monkeys do anything like this?
+p207
+aa(lp208
+VAnd so our monkey marketplace was born.
+p209
+aVThe way this works is that
+p210
+aVour monkeys normally live in a kind of big zoo social enclosure.
+p211
+aVWhen they get a hankering for some treats,
+p212
+aVwe actually allowed them a way out
+p213
+aVinto a little smaller enclosure where they could enter the market.
+p214
+aVUpon entering the market \u2014
+p215
+aVit was actually a much more fun market for the monkeys than most human markets
+p216
+aVbecause, as the monkeys entered the door of the market,
+p217
+aVa human would give them a big wallet full of tokens
+p218
+aVso they could actually trade the tokens
+p219
+aVwith one of these two guys here \u2014
+p220
+aVtwo different possible human salesmen
+p221
+aVthat they could actually buy stuff from.
+p222
+aVThe salesmen were students from my lab.
+p223
+aVThey dressed differently; they were different people.
+p224
+aVAnd over time, they did basically the same thing
+p225
+aVso the monkeys could learn, you know,
+p226
+aVwho sold what at what price \u2014 you know, who was reliable, who wasn't, and so on.
+p227
+aVAnd you can see that each of the experimenters
+p228
+aVis actually holding up a little, yellow food dish.
+p229
+aVand that's what the monkey can for a single token.
+p230
+aVSo everything costs one token,
+p231
+aVbut as you can see, sometimes tokens buy more than others,
+p232
+aVsometimes more grapes than others.
+p233
+aa(lp234
+VSo I'll show you a quick video of what this marketplace actually looks like.
+p235
+aVHere's a monkey-eye-view. Monkeys are shorter, so it's a little short.
+p236
+aVBut here's Honey.
+p237
+aVShe's waiting for the market to open a little impatiently.
+p238
+aVAll of a sudden the market opens. Here's her choice: one grapes or two grapes.
+p239
+aVYou can see Honey, very good market economist,
+p240
+aVgoes with the guy who gives more.
+p241
+aVShe could teach our financial advisers a few things or two.
+p242
+aVSo not just Honey,
+p243
+aVmost of the monkeys went with guys who had more.
+p244
+aVMost of the monkeys went with guys who had better food.
+p245
+aVWhen we introduced sales, we saw the monkeys paid attention to that.
+p246
+aVThey really cared about their monkey token dollar.
+p247
+aVThe more surprising thing was that when we collaborated with economists
+p248
+aVto actually look at the monkeys' data using economic tools,
+p249
+aVthey basically matched, not just qualitatively,
+p250
+aVbut quantitatively with what we saw
+p251
+aVhumans doing in a real market.
+p252
+aVSo much so that, if you saw the monkeys' numbers,
+p253
+aVyou couldn't tell whether they came from a monkey or a human in the same market.
+p254
+aa(lp255
+VAnd what we'd really thought we'd done
+p256
+aVis like we'd actually introduced something
+p257
+aVthat, at least for the monkeys and us,
+p258
+aVworks like a real financial currency.
+p259
+aVQuestion is: do the monkeys start messing up in the same ways we do?
+p260
+aVWell, we already saw anecdotally a couple of signs that they might.
+p261
+aVOne thing we never saw in the monkey marketplace
+p262
+aVwas any evidence of saving \u2014
+p263
+aVyou know, just like our own species.
+p264
+aVThe monkeys entered the market, spent their entire budget
+p265
+aVand then went back to everyone else.
+p266
+aVThe other thing we also spontaneously saw,
+p267
+aVembarrassingly enough,
+p268
+aVis spontaneous evidence of larceny.
+p269
+aVThe monkeys would rip-off the tokens at every available opportunity \u2014
+p270
+aVfrom each other, often from us \u2014
+p271
+aVyou know, things we didn't necessarily think we were introducing,
+p272
+aVbut things we spontaneously saw.
+p273
+aa(lp274
+VSo we said, this looks bad.
+p275
+aVCan we actually see if the monkeys
+p276
+aVare doing exactly the same dumb things as humans do?
+p277
+aVOne possibility is just kind of let
+p278
+aVthe monkey financial system play out,
+p279
+aVyou know, see if they start calling us for bailouts in a few years.
+p280
+aVWe were a little impatient so we wanted
+p281
+aVto sort of speed things up a bit.
+p282
+aVSo we said, let's actually give the monkeys
+p283
+aVthe same kinds of problems
+p284
+aVthat humans tend to get wrong
+p285
+aVin certain kinds of economic challenges,
+p286
+aVor certain kinds of economic experiments.
+p287
+aVAnd so, since the best way to see how people go wrong
+p288
+aVis to actually do it yourself,
+p289
+aVI'm going to give you guys a quick experiment
+p290
+aVto sort of watch your own financial intuitions in action.
+p291
+aa(lp292
+VSo imagine that right now
+p293
+aVI handed each and every one of you
+p294
+aVa thousand U.S. dollars \u2014 so 10 crisp hundred dollar bills.
+p295
+aVTake these, put it in your wallet
+p296
+aVand spend a second thinking about what you're going to do with it.
+p297
+aVBecause it's yours now; you can buy whatever you want.
+p298
+aVDonate it, take it, and so on.
+p299
+aVSounds great, but you get one more choice to earn a little bit more money.
+p300
+aVAnd here's your choice: you can either be risky,
+p301
+aVin which case I'm going to flip one of these monkey tokens.
+p302
+aVIf it comes up heads, you're going to get a thousand dollars more.
+p303
+aVIf it comes up tails, you get nothing.
+p304
+aVSo it's a chance to get more, but it's pretty risky.
+p305
+aVYour other option is a bit safe. Your just going to get some money for sure.
+p306
+aVI'm just going to give you 500 bucks.
+p307
+aVYou can stick it in your wallet and use it immediately.
+p308
+aVSo see what your intuition is here.
+p309
+aVMost people actually go with the play-it-safe option.
+p310
+aVMost people say, why should I be risky when I can get 1,500 dollars for sure?
+p311
+aVThis seems like a good bet. I'm going to go with that.
+p312
+aVYou might say, eh, that's not really irrational.
+p313
+aVPeople are a little risk-averse. So what?
+p314
+aa(lp315
+VWell, the "so what?" comes when start thinking
+p316
+aVabout the same problem
+p317
+aVset up just a little bit differently.
+p318
+aVSo now imagine that I give each and every one of you
+p319
+aV2,000 dollars \u2014 20 crisp hundred dollar bills.
+p320
+aVNow you can buy double to stuff you were going to get before.
+p321
+aVThink about how you'd feel sticking it in your wallet.
+p322
+aVAnd now imagine that I have you make another choice
+p323
+aVBut this time, it's a little bit worse.
+p324
+aVNow, you're going to be deciding how you're going to lose money,
+p325
+aVbut you're going to get the same choice.
+p326
+aVYou can either take a risky loss \u2014
+p327
+aVso I'll flip a coin. If it comes up heads, you're going to actually lose a lot.
+p328
+aVIf it comes up tails, you lose nothing, you're fine, get to keep the whole thing \u2014
+p329
+aVor you could play it safe, which means you have to reach back into your wallet
+p330
+aVand give me five of those $100 bills, for certain.
+p331
+aa(lp332
+VAnd I'm seeing a lot of furrowed brows out there.
+p333
+aVSo maybe you're having the same intuitions
+p334
+aVas the subjects that were actually tested in this,
+p335
+aVwhich is when presented with these options,
+p336
+aVpeople don't choose to play it safe.
+p337
+aVThey actually tend to go a little risky.
+p338
+aVThe reason this is irrational is that we've given people in both situations
+p339
+aVthe same choice.
+p340
+aVIt's a 50/50 shot of a thousand or 2,000,
+p341
+aVor just 1,500 dollars with certainty.
+p342
+aVBut people's intuitions about how much risk to take
+p343
+aVvaries depending on where they started with.
+p344
+aa(lp345
+VSo what's going on?
+p346
+aVWell, it turns out that this seems to be the result
+p347
+aVof at least two biases that we have at the psychological level.
+p348
+aVOne is that we have a really hard time thinking in absolute terms.
+p349
+aVYou really have to do work to figure out,
+p350
+aVwell, one option's a thousand, 2,000;
+p351
+aVone is 1,500.
+p352
+aVInstead, we find it very easy to think in very relative terms
+p353
+aVas options change from one time to another.
+p354
+aVSo we think of things as, "Oh, I'm going to get more," or "Oh, I'm going to get less."
+p355
+aVThis is all well and good, except that
+p356
+aVchanges in different directions
+p357
+aVactually effect whether or not we think
+p358
+aVoptions are good or not.
+p359
+aVAnd this leads to the second bias,
+p360
+aVwhich economists have called loss aversion.
+p361
+aa(lp362
+VThe idea is that we really hate it when things go into the red.
+p363
+aVWe really hate it when we have to lose out on some money.
+p364
+aVAnd this means that sometimes we'll actually
+p365
+aVswitch our preferences to avoid this.
+p366
+aVWhat you saw in that last scenario is that
+p367
+aVsubjects get risky
+p368
+aVbecause they want the small shot that there won't be any loss.
+p369
+aVThat means when we're in a risk mindset \u2014
+p370
+aVexcuse me, when we're in a loss mindset,
+p371
+aVwe actually become more risky,
+p372
+aVwhich can actually be really worrying.
+p373
+aVThese kinds of things play out in lots of bad ways in humans.
+p374
+aVThey're why stock investors hold onto losing stocks longer \u2014
+p375
+aVbecause they're evaluating them in relative terms.
+p376
+aVThey're why people in the housing market refused to sell their house \u2014
+p377
+aVbecause they don't want to sell at a loss.
+p378
+aa(lp379
+VThe question we were interested in
+p380
+aVis whether the monkeys show the same biases.
+p381
+aVIf we set up those same scenarios in our little monkey market,
+p382
+aVwould they do the same thing as people?
+p383
+aVAnd so this is what we did, we gave the monkeys choices
+p384
+aVbetween guys who were safe \u2014 they did the same thing every time \u2014
+p385
+aVor guys who were risky \u2014
+p386
+aVthey did things differently half the time.
+p387
+aVAnd then we gave them options that were bonuses \u2014
+p388
+aVlike you guys did in the first scenario \u2014
+p389
+aVso they actually have a chance more,
+p390
+aVor pieces where they were experiencing losses \u2014
+p391
+aVthey actually thought they were going to get more than they really got.
+p392
+aa(lp393
+VAnd so this is what this looks like.
+p394
+aVWe introduced the monkeys to two new monkey salesmen.
+p395
+aVThe guy on the left and right both start with one piece of grape,
+p396
+aVso it looks pretty good.
+p397
+aVBut they're going to give the monkeys bonuses.
+p398
+aVThe guy on the left is a safe bonus.
+p399
+aVAll the time, he adds one, to give the monkeys two.
+p400
+aVThe guy on the right is actually a risky bonus.
+p401
+aVSometimes the monkeys get no bonus \u2014 so this is a bonus of zero.
+p402
+aVSometimes the monkeys get two extra.
+p403
+aVFor a big bonus, now they get three.
+p404
+aVBut this is the same choice you guys just faced.
+p405
+aVDo the monkeys actually want to play it safe
+p406
+aVand then go with the guy who's going to do the same thing on every trial,
+p407
+aVor do they want to be risky
+p408
+aVand try to get a risky, but big, bonus,
+p409
+aVbut risk the possibility of getting no bonus.
+p410
+aVPeople here played it safe.
+p411
+aVTurns out, the monkeys play it safe too.
+p412
+aVQualitatively and quantitatively,
+p413
+aVthey choose exactly the same way as people,
+p414
+aVwhen tested in the same thing.
+p415
+aa(lp416
+VYou might say, well, maybe the monkeys just don't like risk.
+p417
+aVMaybe we should see how they do with losses.
+p418
+aVAnd so we ran a second version of this.
+p419
+aVNow, the monkeys meet two guys
+p420
+aVwho aren't giving them bonuses;
+p421
+aVthey're actually giving them less than they expect.
+p422
+aVSo they look like they're starting out with a big amount.
+p423
+aVThese are three grapes; the monkey's really psyched for this.
+p424
+aVBut now they learn these guys are going to give them less than they expect.
+p425
+aVThey guy on the left is a safe loss.
+p426
+aVEvery single time, he's going to take one of these away
+p427
+aVand give the monkeys just two.
+p428
+aVthe guy on the right is the risky loss.
+p429
+aVSometimes he gives no loss, so the monkeys are really psyched,
+p430
+aVbut sometimes he actually gives a big loss,
+p431
+aVtaking away two to give the monkeys only one.
+p432
+aa(lp433
+VAnd so what do the monkeys do?
+p434
+aVAgain, same choice; they can play it safe
+p435
+aVfor always getting two grapes every single time,
+p436
+aVor they can take a risky bet and choose between one and three.
+p437
+aVThe remarkable thing to us is that, when you give monkeys this choice,
+p438
+aVthey do the same irrational thing that people do.
+p439
+aVThey actually become more risky
+p440
+aVdepending on how the experimenters started.
+p441
+aVThis is crazy because it suggests that the monkeys too
+p442
+aVare evaluating things in relative terms
+p443
+aVand actually treating losses differently than they treat gains.
+p444
+aa(lp445
+VSo what does all of this mean?
+p446
+aVWell, what we've shown is that, first of all,
+p447
+aVwe can actually give the monkeys a financial currency,
+p448
+aVand they do very similar things with it.
+p449
+aVThey do some of the smart things we do,
+p450
+aVsome of the kind of not so nice things we do,
+p451
+aVlike steal it and so on.
+p452
+aVBut they also do some of the irrational things we do.
+p453
+aVThey systematically get things wrong
+p454
+aVand in the same ways that we do.
+p455
+aVThis is the first take-home message of the Talk,
+p456
+aVwhich is that if you saw the beginning of this and you thought,
+p457
+aVoh, I'm totally going to go home and hire a capuchin monkey financial adviser.
+p458
+aVThey're way cuter than the one at ... you know \u2014
+p459
+aVDon't do that; they're probably going to be just as dumb
+p460
+aVas the human one you already have.
+p461
+aVSo, you know, a little bad \u2014 Sorry, sorry, sorry.
+p462
+aVA little bad for monkey investors.
+p463
+aa(lp464
+VBut of course, you know, the reason you're laughing is bad for humans too.
+p465
+aVBecause we've answered the question we started out with.
+p466
+aVWe wanted to know where these kinds of errors came from.
+p467
+aVAnd we started with the hope that maybe we can
+p468
+aVsort of tweak our financial institutions,
+p469
+aVtweak our technologies to make ourselves better.
+p470
+aVBut what we've learn is that these biases might be a deeper part of us than that.
+p471
+aVIn fact, they might be due to the very nature
+p472
+aVof our evolutionary history.
+p473
+aVYou know, maybe it's not just humans
+p474
+aVat the right side of this chain that's duncey.
+p475
+aVMaybe it's sort of duncey all the way back.
+p476
+aVAnd this, if we believe the capuchin monkey results,
+p477
+aVmeans that these duncey strategies
+p478
+aVmight be 35 million years old.
+p479
+aVThat's a long time for a strategy
+p480
+aVto potentially get changed around \u2014 really, really old.
+p481
+aa(lp482
+VWhat do we know about other old strategies like this?
+p483
+aVWell, one thing we know is that they tend to be really hard to overcome.
+p484
+aVYou know, think of our evolutionary predilection
+p485
+aVfor eating sweet things, fatty things like cheesecake.
+p486
+aVYou can't just shut that off.
+p487
+aVYou can't just look at the dessert cart as say, "No, no, no. That looks disgusting to me."
+p488
+aVWe're just built differently.
+p489
+aVWe're going to perceive it as a good thing to go after.
+p490
+aVMy guess is that the same thing is going to be true
+p491
+aVwhen humans are perceiving
+p492
+aVdifferent financial decisions.
+p493
+aVWhen you're watching your stocks plummet into the red,
+p494
+aVwhen you're watching your house price go down,
+p495
+aVyou're not going to be able to see that
+p496
+aVin anything but old evolutionary terms.
+p497
+aVThis means that the biases
+p498
+aVthat lead investors to do badly,
+p499
+aVthat lead to the foreclosure crisis
+p500
+aVare going to be really hard to overcome.
+p501
+aa(lp502
+VSo that's the bad news. The question is: is there any good news?
+p503
+aVI'm supposed to be up here telling you the good news.
+p504
+aVWell, the good news, I think,
+p505
+aVis what I started with at the beginning of the Talk,
+p506
+aVwhich is that humans are not only smart;
+p507
+aVwe're really inspirationally smart
+p508
+aVto the rest of the animals in the biological kingdom.
+p509
+aVWe're so good at overcoming our biological limitations \u2014
+p510
+aVyou know, I flew over here in an airplane.
+p511
+aVI didn't have to try to flap my wings.
+p512
+aVI'm wearing contact lenses now so that I can see all of you.
+p513
+aVI don't have to rely on my own near-sightedness.
+p514
+aVWe actually have all of these cases
+p515
+aVwhere we overcome our biological limitations
+p516
+aVthrough technology and other means, seemingly pretty easily.
+p517
+aVBut we have to recognize that we have those limitations.
+p518
+aa(lp519
+VAnd here's the rub.
+p520
+aVIt was Camus who once said that, "Man is the only species
+p521
+aVwho refuses to be what he really is."
+p522
+aVBut the irony is that
+p523
+aVit might only be in recognizing our limitations
+p524
+aVthat we can really actually overcome them.
+p525
+aVThe hope is that you all will think about your limitations,
+p526
+aVnot necessarily as unovercomable,
+p527
+aVbut to recognize them, accept them
+p528
+aVand then use the world of design to actually figure them out.
+p529
+aVThat might be the only way that we will really be able
+p530
+aVto achieve our own human potential
+p531
+aVand really be the noble species we hope to all be.
+p532
+aa(lp533
+VThank you.
+p534
+aa(lp535
+V(Applause)
+p536
+aasS'id'
+p537
+I927
+sS'title'
+p538
+VA monkey economy as irrational as ours
+p539
+s.

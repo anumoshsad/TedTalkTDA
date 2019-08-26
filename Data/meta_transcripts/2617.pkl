@@ -1,0 +1,514 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VJune 2010.
+p4
+aVI landed for the first time in Rome, Italy.
+p5
+aVI wasn't there to sightsee.
+p6
+aVI was there to solve world hunger.
+p7
+aa(lp8
+V(Laughter)
+p9
+aa(lp10
+VThat's right.
+p11
+aVI was a 25-year-old PhD student
+p12
+aVarmed with a prototype tool developed back at my university,
+p13
+aVand I was going to help the World Food Programme fix hunger.
+p14
+aVSo I strode into the headquarters building
+p15
+aVand my eyes scanned the row of UN flags,
+p16
+aVand I smiled as I thought to myself,
+p17
+aV"The engineer is here."
+p18
+aa(lp19
+V(Laughter)
+p20
+aa(lp21
+VGive me your data.
+p22
+aVI'm going to optimize everything.
+p23
+aa(lp24
+V(Laughter)
+p25
+aa(lp26
+VTell me the food that you've purchased,
+p27
+aVtell me where it's going and when it needs to be there,
+p28
+aVand I'm going to tell you the shortest, fastest, cheapest,
+p29
+aVbest set of routes to take for the food.
+p30
+aVWe're going to save money,
+p31
+aVwe're going to avoid delays and disruptions,
+p32
+aVand bottom line, we're going to save lives.
+p33
+aVYou're welcome.
+p34
+aa(lp35
+V(Laughter)
+p36
+aa(lp37
+VI thought it was going to take 12 months,
+p38
+aVOK, maybe even 13.
+p39
+aVThis is not quite how it panned out.
+p40
+aVJust a couple of months into the project, my French boss, he told me,
+p41
+aV"You know, Mallory,
+p42
+aVit's a good idea,
+p43
+aVbut the data you need for your algorithms is not there.
+p44
+aVIt's the right idea but at the wrong time,
+p45
+aVand the right idea at the wrong time
+p46
+aVis the wrong idea."
+p47
+aa(lp48
+V(Laughter)
+p49
+aa(lp50
+VProject over.
+p51
+aVI was crushed.
+p52
+aa(lp53
+VWhen I look back now
+p54
+aVon that first summer in Rome
+p55
+aVand I see how much has changed over the past six years,
+p56
+aVit is an absolute transformation.
+p57
+aVIt's a coming of age for bringing data into the humanitarian world.
+p58
+aVIt's exciting. It's inspiring.
+p59
+aVBut we're not there yet.
+p60
+aVAnd brace yourself, executives,
+p61
+aVbecause I'm going to be putting companies
+p62
+aVon the hot seat to step up and play the role that I know they can.
+p63
+aa(lp64
+VMy experiences back in Rome prove
+p65
+aVusing data you can save lives.
+p66
+aVOK, not that first attempt,
+p67
+aVbut eventually we got there.
+p68
+aVLet me paint the picture for you.
+p69
+aVImagine that you have to plan breakfast, lunch and dinner
+p70
+aVfor 500,000 people,
+p71
+aVand you only have a certain budget to do it,
+p72
+aVsay 6.5 million dollars per month.
+p73
+aVWell, what should you do? What's the best way to handle it?
+p74
+aVShould you buy rice, wheat, chickpea, oil?
+p75
+aVHow much?
+p76
+aVIt sounds simple. It's not.
+p77
+aVYou have 30 possible foods, and you have to pick five of them.
+p78
+aVThat's already over 140,000 different combinations.
+p79
+aVThen for each food that you pick,
+p80
+aVyou need to decide how much you'll buy,
+p81
+aVwhere you're going to get it from,
+p82
+aVwhere you're going to store it,
+p83
+aVhow long it's going to take to get there.
+p84
+aVYou need to look at all of the different transportation routes as well.
+p85
+aVAnd that's already over 900 million options.
+p86
+aVIf you considered each option for a single second,
+p87
+aVthat would take you over 28 years to get through.
+p88
+aV900 million options.
+p89
+aa(lp90
+VSo we created a tool that allowed decisionmakers
+p91
+aVto weed through all 900 million options
+p92
+aVin just a matter of days.
+p93
+aVIt turned out to be incredibly successful.
+p94
+aVIn an operation in Iraq,
+p95
+aVwe saved 17 percent of the costs,
+p96
+aVand this meant that you had the ability to feed an additional 80,000 people.
+p97
+aVIt's all thanks to the use of data and modeling complex systems.
+p98
+aa(lp99
+VBut we didn't do it alone.
+p100
+aVThe unit that I worked with in Rome, they were unique.
+p101
+aVThey believed in collaboration.
+p102
+aVThey brought in the academic world.
+p103
+aVThey brought in companies.
+p104
+aVAnd if we really want to make big changes in big problems like world hunger,
+p105
+aVwe need everybody to the table.
+p106
+aVWe need the data people from humanitarian organizations
+p107
+aVleading the way,
+p108
+aVand orchestrating just the right types of engagements
+p109
+aVwith academics, with governments.
+p110
+aVAnd there's one group that's not being leveraged in the way that it should be.
+p111
+aVDid you guess it? Companies.
+p112
+aa(lp113
+VCompanies have a major role to play in fixing the big problems in our world.
+p114
+aVI've been in the private sector for two years now.
+p115
+aVI've seen what companies can do, and I've seen what companies aren't doing,
+p116
+aVand I think there's three main ways that we can fill that gap:
+p117
+aVby donating data, by donating decision scientists
+p118
+aVand by donating technology to gather new sources of data.
+p119
+aVThis is data philanthropy,
+p120
+aVand it's the future of corporate social responsibility.
+p121
+aVBonus, it also makes good business sense.
+p122
+aa(lp123
+VCompanies today, they collect mountains of data,
+p124
+aVso the first thing they can do is start donating that data.
+p125
+aVSome companies are already doing it.
+p126
+aVTake, for example, a major telecom company.
+p127
+aVThey opened up their data in Senegal and the Ivory Coast
+p128
+aVand researchers discovered
+p129
+aVthat if you look at the patterns in the pings to the cell phone towers,
+p130
+aVyou can see where people are traveling.
+p131
+aVAnd that can tell you things like
+p132
+aVwhere malaria might spread, and you can make predictions with it.
+p133
+aVOr take for example an innovative satellite company.
+p134
+aVThey opened up their data and donated it,
+p135
+aVand with that data you could track
+p136
+aVhow droughts are impacting food production.
+p137
+aVWith that you can actually trigger aid funding before a crisis can happen.
+p138
+aa(lp139
+VThis is a great start.
+p140
+aVThere's important insights just locked away in company data.
+p141
+aVAnd yes, you need to be very careful.
+p142
+aVYou need to respect privacy concerns, for example by anonymizing the data.
+p143
+aa(lp144
+VBut even if the floodgates opened up,
+p145
+aVand even if all companies donated their data
+p146
+aVto academics, to NGOs, to humanitarian organizations,
+p147
+aVit wouldn't be enough to harness that full impact of data
+p148
+aVfor humanitarian goals.
+p149
+aVWhy?
+p150
+aVTo unlock insights in data, you need decision scientists.
+p151
+aVDecision scientists are people like me.
+p152
+aVThey take the data, they clean it up,
+p153
+aVtransform it and put it into a useful algorithm
+p154
+aVthat's the best choice to address the business need at hand.
+p155
+aVIn the world of humanitarian aid, there are very few decision scientists.
+p156
+aVMost of them work for companies.
+p157
+aVSo that's the second thing that companies need to do.
+p158
+aVIn addition to donating their data,
+p159
+aVthey need to donate their decision scientists.
+p160
+aa(lp161
+VNow, companies will say, "Ah! Don't take our decision scientists from us.
+p162
+aVWe need every spare second of their time."
+p163
+aVBut there's a way.
+p164
+aVIf a company was going to donate a block of a decision scientist's time,
+p165
+aVit would actually make more sense to spread out that block of time
+p166
+aVover a long period, say for example five years.
+p167
+aVThis might only amount to a couple of hours per month,
+p168
+aVwhich a company would hardly miss,
+p169
+aVbut what it enables is really important: long-term partnerships.
+p170
+aVLong-term partnerships allow you to build relationships,
+p171
+aVto get to know the data, to really understand it
+p172
+aVand to start to understand the needs and challenges
+p173
+aVthat the humanitarian organization is facing.
+p174
+aVIn Rome, at the World Food Programme, this took us five years to do,
+p175
+aVfive years.
+p176
+aVThat first three years, OK, that was just what we couldn't solve for.
+p177
+aVThen there was two years after that of refining and implementing the tool,
+p178
+aVlike in the operations in Iraq and other countries.
+p179
+aVI don't think that's an unrealistic timeline
+p180
+aVwhen it comes to using data to make operational changes.
+p181
+aVIt's an investment. It requires patience.
+p182
+aVBut the types of results that can be produced are undeniable.
+p183
+aVIn our case, it was the ability to feed tens of thousands more people.
+p184
+aa(lp185
+VSo we have donating data, we have donating decision scientists,
+p186
+aVand there's actually a third way that companies can help:
+p187
+aVdonating technology to capture new sources of data.
+p188
+aVYou see, there's a lot of things we just don't have data on.
+p189
+aVRight now, Syrian refugees are flooding into Greece,
+p190
+aVand the UN refugee agency, they have their hands full.
+p191
+aVThe current system for tracking people is paper and pencil,
+p192
+aVand what that means is
+p193
+aVthat when a mother and her five children walk into the camp,
+p194
+aVheadquarters is essentially blind to this moment.
+p195
+aVThat's all going to change in the next few weeks,
+p196
+aVthanks to private sector collaboration.
+p197
+aVThere's going to be a new system based on donated package tracking technology
+p198
+aVfrom the logistics company that I work for.
+p199
+aVWith this new system, there will be a data trail,
+p200
+aVso you know exactly the moment
+p201
+aVwhen that mother and her children walk into the camp.
+p202
+aVAnd even more, you know if she's going to have supplies
+p203
+aVthis month and the next.
+p204
+aVInformation visibility drives efficiency.
+p205
+aVFor companies, using technology to gather important data,
+p206
+aVit's like bread and butter.
+p207
+aVThey've been doing it for years,
+p208
+aVand it's led to major operational efficiency improvements.
+p209
+aVJust try to imagine your favorite beverage company
+p210
+aVtrying to plan their inventory
+p211
+aVand not knowing how many bottles were on the shelves.
+p212
+aVIt's absurd.
+p213
+aVData drives better decisions.
+p214
+aa(lp215
+VNow, if you're representing a company,
+p216
+aVand you're pragmatic and not just idealistic,
+p217
+aVyou might be saying to yourself, "OK, this is all great, Mallory,
+p218
+aVbut why should I want to be involved?"
+p219
+aVWell for one thing, beyond the good PR,
+p220
+aVhumanitarian aid is a 24-billion-dollar sector,
+p221
+aVand there's over five billion people, maybe your next customers,
+p222
+aVthat live in the developing world.
+p223
+aVFurther, companies that are engaging in data philanthropy,
+p224
+aVthey're finding new insights locked away in their data.
+p225
+aVTake, for example, a credit card company
+p226
+aVthat's opened up a center
+p227
+aVthat functions as a hub for academics, for NGOs and governments,
+p228
+aVall working together.
+p229
+aVThey're looking at information in credit card swipes
+p230
+aVand using that to find insights about how households in India
+p231
+aVlive, work, earn and spend.
+p232
+aVFor the humanitarian world, this provides information
+p233
+aVabout how you might bring people out of poverty.
+p234
+aVBut for companies, it's providing insights about your customers
+p235
+aVand potential customers in India.
+p236
+aVIt's a win all around.
+p237
+aVNow, for me, what I find exciting about data philanthropy \u2014
+p238
+aVdonating data, donating decision scientists and donating technology \u2014
+p239
+aVit's what it means for young professionals like me
+p240
+aVwho are choosing to work at companies.
+p241
+aVStudies show that the next generation of the workforce
+p242
+aVcare about having their work make a bigger impact.
+p243
+aVWe want to make a difference,
+p244
+aVand so through data philanthropy,
+p245
+aVcompanies can actually help engage and retain their decision scientists.
+p246
+aVAnd that's a big deal for a profession that's in high demand.
+p247
+aa(lp248
+VData philanthropy makes good business sense,
+p249
+aVand it also can help revolutionize the humanitarian world.
+p250
+aVIf we coordinated the planning and logistics
+p251
+aVacross all of the major facets of a humanitarian operation,
+p252
+aVwe could feed, clothe and shelter hundreds of thousands more people,
+p253
+aVand companies need to step up and play the role that I know they can
+p254
+aVin bringing about this revolution.
+p255
+aa(lp256
+VYou've probably heard of the saying "food for thought."
+p257
+aVWell, this is literally thought for food.
+p258
+aVIt finally is the right idea at the right time.
+p259
+aa(lp260
+V(Laughter)
+p261
+aa(lp262
+VTrès magnifique.
+p263
+aa(lp264
+VThank you.
+p265
+aa(lp266
+V(Applause)
+p267
+aasS'id'
+p268
+I2617
+sS'title'
+p269
+VYour company's data could help end world hunger
+p270
+s.

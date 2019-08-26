@@ -1,0 +1,483 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm going to talk about hackers.
+p4
+aVAnd the image that comes to your mind
+p5
+aVwhen I say that word is probably not
+p6
+aVof Benjamin Franklin,
+p7
+aVbut I'm going to explain to you why it should be.
+p8
+aa(lp9
+VThe image that comes to your mind
+p10
+aVis probably more likely of a pasty kid
+p11
+aVsitting in a basement doing something mischievous,
+p12
+aVor of a shady criminal who is trying to steal your identity,
+p13
+aVor of an international rogue
+p14
+aVwith a political agenda.
+p15
+aVAnd mainstream culture has kind of fed this idea
+p16
+aVthat hackers are people that we should be afraid of.
+p17
+aa(lp18
+VBut like most things in technology
+p19
+aVand the technology world,
+p20
+aVhacking has equal power for good as it has for evil.
+p21
+aVFor every hacker that's trying to steal your identity
+p22
+aVthere's one that's building a tool
+p23
+aVthat will help you find your loved ones after a disaster
+p24
+aVor to monitor environmental quality
+p25
+aVafter an oil spill.
+p26
+aVHacking is really just any amateur innovation
+p27
+aVon an existing system,
+p28
+aVand it is a deeply democratic activity.
+p29
+aVIt's about critical thinking.
+p30
+aVIt's about questioning existing ways of doing things.
+p31
+aVIt's the idea that if you see a  problem, you work to fix it,
+p32
+aVand not just complain about it.
+p33
+aVAnd in many ways, hacking is what built America.
+p34
+aVBetsy Ross was a hacker.
+p35
+aVThe Underground Railroad was a brilliant hack.
+p36
+aVAnd from the Wright brothers to Steve Jobs,
+p37
+aVhacking has always been at the foundation
+p38
+aVof American democracy.
+p39
+aa(lp40
+VSo if there's one thing I want to leave you here with today,
+p41
+aVit's that the next time you think about who a hacker is,
+p42
+aVyou think not of this guy
+p43
+aVbut of this guy, Benjamin Franklin,
+p44
+aVwho was one of the greatest hackers of all time.
+p45
+aVHe was one of America's most prolific inventors,
+p46
+aVthough he famously never filed a patent,
+p47
+aVbecause he thought that all human knowledge
+p48
+aVshould be freely available.
+p49
+aVHe brought us bifocals and the lightning rod,
+p50
+aVand of course there was his collaboration
+p51
+aVon the invention of American democracy.
+p52
+aa(lp53
+VAnd in Code For America, we really try to embody
+p54
+aVthe spirit of Ben Franklin.
+p55
+aVHe was a tinkerer and a statesman
+p56
+aVwhose conception of citizenship
+p57
+aVwas always predicated on action.
+p58
+aVHe believed that government could be built
+p59
+aVby the people,
+p60
+aVand we call those people civic hackers.
+p61
+aa(lp62
+VSo it's no wonder that the values
+p63
+aVthat underly a healthy democracy,
+p64
+aVlike collaboration and empowerment
+p65
+aVand participation and enterprise,
+p66
+aVare the same values that underly the Internet.
+p67
+aVAnd so it's no surprise that many hackers
+p68
+aVare turning their attention to the problem of government.
+p69
+aa(lp70
+VBut before I give you a few examples
+p71
+aVof what civic hacking looks like,
+p72
+aVI want to make clear that you don't have
+p73
+aVto be a programmer to be a civic hacker.
+p74
+aVYou just have to believe that you can bring
+p75
+aVa 21st-century tool set to bear
+p76
+aVon the problems that government faces.
+p77
+aVAnd we hear all the time from our community
+p78
+aVof civic hackers at Code for America
+p79
+aVthat they didn't understand how much nontechnical work
+p80
+aVactually went into civic hacking projects.
+p81
+aVSo keep that in mind.
+p82
+aVAll of you are potential civic hackers.
+p83
+aa(lp84
+VSo what does civic hacking look like?
+p85
+aVOur team last year in Honolulu,
+p86
+aVwhich in this case was three full-time fellows
+p87
+aVwho were doing a year of public service,
+p88
+aVwere asked by the city to rebuild the website.
+p89
+aVAnd it's a massive thing of tens of thousands of pages
+p90
+aVwhich just wasn't going to be possible
+p91
+aVin the few months that they had.
+p92
+aVSo instead, they decided to build a parallel site
+p93
+aVthat better conformed to how citizens actually
+p94
+aVwant to interact with information on a city website.
+p95
+aVThey're looking for answers to questions,
+p96
+aVand they want to take action when they're done,
+p97
+aVwhich is really hard to do from a site
+p98
+aVthat looks like this.
+p99
+aVSo our team built Honolulu Answers,
+p100
+aVwhich is a super-simple search interface
+p101
+aVwhere you enter a search term or a question
+p102
+aVand get back plain language answers
+p103
+aVthat drive a user towards action.
+p104
+aVNow the site itself was easy enough to build,
+p105
+aVbut the team was faced with the challenge
+p106
+aVof how they populate all of the content.
+p107
+aVIt would have taken the three of them
+p108
+aVa very long time,
+p109
+aVespecially given that none of  them are actually from Honolulu.
+p110
+aVAnd so they did something that's really radical,
+p111
+aVwhen you think about how government
+p112
+aVis used to working.
+p113
+aVThey asked citizens to write the content.
+p114
+aVSo you've heard of a hack-a-thon.
+p115
+aVThey held a write-a-thon,
+p116
+aVwhere on one Saturday afternoon \u2014
+p117
+aV("What do I do about wild pigs  being a nuisance?") (Laughter) \u2014
+p118
+aVWild pigs are a huge problem  in Honolulu, apparently.
+p119
+aVIn one Saturday afternoon,
+p120
+aVthey were able to populate most of the content
+p121
+aVfor most of the frequently asked questions,
+p122
+aVbut more importantly than that,
+p123
+aVthey created a new way for citizens  to participate in their government.
+p124
+aa(lp125
+VNow, I think this is a really cool story in and of itself,
+p126
+aVbut it gets more awesome.
+p127
+aVOn the National Day of Civic Hacking
+p128
+aVthis past June in Oakland, where I live,
+p129
+aVthe Code For America team in Oakland
+p130
+aVtook the open source code base of Honolulu Answers
+p131
+aVand turned it into Oakland Answers,
+p132
+aVand again we held a write-a-thon
+p133
+aVwhere we took the most frequently asked questions
+p134
+aVand had citizens write the answers to them,
+p135
+aVand I got into the act.
+p136
+aVI authored this answer, and a few others.
+p137
+aVAnd I'm trying to this day to articulate
+p138
+aVthe sense of empowerment and responsibility
+p139
+aVthat I feel for the place that I live
+p140
+aVbased simply on this small act of participation.
+p141
+aVAnd by stitching together my small act
+p142
+aVwith the thousands of other small acts of participation
+p143
+aVthat we're enabling through civic hacking,
+p144
+aVwe think we can reenergize citizenship
+p145
+aVand restore trust in government.
+p146
+aa(lp147
+VAt this point, you may be wondering
+p148
+aVwhat city officials think of all this.
+p149
+aVThey actually love it.
+p150
+aVAs most of you guys know, cities are being asked
+p151
+aVevery day to do more with less,
+p152
+aVand they're always looking for innovative solutions
+p153
+aVto entrenched problems.
+p154
+aVSo when you give citizens a way to participate
+p155
+aVbeyond attending a town hall meeting,
+p156
+aVcities can actually capture
+p157
+aVthe capacity in their communities
+p158
+aVto do the business of government.
+p159
+aa(lp160
+VNow I don't want to leave the impression
+p161
+aVthat civic hacking is just an American phenomenon.
+p162
+aVIt's happening across the globe,
+p163
+aVand one of my favorite examples
+p164
+aVis from Mexico City, where earlier this year,
+p165
+aVthe Mexico House of Representatives
+p166
+aVentered into a contract with a software development firm
+p167
+aVto build an app that legislators would use
+p168
+aVto track bills.
+p169
+aVSo this was just for the handful of legislators
+p170
+aVin the House.
+p171
+aVAnd the contract was a two-year contract
+p172
+aVfor 9.3 million dollars.
+p173
+aVNow a lot of people were really angry about this,
+p174
+aVespecially geeks who knew that 9.3 million dollars
+p175
+aVwas an absolutely outrageous amount of money
+p176
+aVfor what was a very simple app.
+p177
+aVBut instead of taking to the streets,
+p178
+aVthey issued a challenge.
+p179
+aVThey asked programmers in Mexico
+p180
+aVto build something better and cheaper,
+p181
+aVand they offered a prize of 9,300 dollars \u2014
+p182
+aV10,000 times cheaper
+p183
+aVthan the government contract,
+p184
+aVand they gave the entrants 10 days.
+p185
+aVAnd in those 10 days,
+p186
+aVthey submitted 173 apps,
+p187
+aVfive of which were presented to Congress
+p188
+aVand are still in the app store today.
+p189
+aVAnd because of this action,
+p190
+aVthat contract was vacated,
+p191
+aVand now this has sparked a movement in Mexico City
+p192
+aVwhich is home to one of our partners,
+p193
+aVCode for Mexico City.
+p194
+aa(lp195
+VAnd so what you see in all three of these places,
+p196
+aVin Honolulu and in Oakland and in Mexico City,
+p197
+aVare the elements that are at the core of civic hacking.
+p198
+aVIt's citizens who saw things that could be working better
+p199
+aVand they decided to fix them,
+p200
+aVand through that work, they're creating
+p201
+aVa 21st-century ecosystem of participation.
+p202
+aVThey're creating a whole new set of ways
+p203
+aVfor citizens to be involved,
+p204
+aVbesides voting or signing a petition or protesting.
+p205
+aVThey can actually build government.
+p206
+aa(lp207
+VSo back to our friend Ben Franklin,
+p208
+aVwho, one of his lesser-known accomplishments
+p209
+aVwas that in 1736 he founded
+p210
+aVthe first volunteer firefighting company in Philadelphia,
+p211
+aVcalled a brigade.
+p212
+aVAnd it's because he and his friends noticed
+p213
+aVthat the city was having trouble keeping up
+p214
+aVwith all the fires that were happening in the city,
+p215
+aVso in true civic hacker fashion,
+p216
+aVthey built a solution.
+p217
+aa(lp218
+VAnd we have our own brigades at Code for America
+p219
+aVworking on the projects that I've just described,
+p220
+aVand we want to ask you
+p221
+aVto follow in Ben Franklin's footsteps
+p222
+aVand come join us.
+p223
+aVWe have 31 brigades in the U.S.
+p224
+aVWe are pleased to announce today
+p225
+aVthat we're opening up the  brigade to international cities
+p226
+aVfor the first time,
+p227
+aVstarting with cities in Poland and Japan and Ireland.
+p228
+aVYou can find out if there's a brigade where you live
+p229
+aVat brigade.codeforamerica.org,
+p230
+aVand if there's not a brigade where you live, we will help you.
+p231
+aVWe've created a tool kit which also lives
+p232
+aVat brigade.codeforamerica.org,
+p233
+aVand we will support you along the way.
+p234
+aVOur goal is to create a global network of civic hackers
+p235
+aVwho are innovating on the existing system
+p236
+aVin order to build tools that will solve
+p237
+aVentrenched problems,
+p238
+aVthat will support local government,
+p239
+aVand that will empower citizens.
+p240
+aa(lp241
+VSo please come hack with us.
+p242
+aa(lp243
+VThank you.
+p244
+aa(lp245
+V(Applause)
+p246
+aasS'id'
+p247
+I1933
+sS'title'
+p248
+VWhy good hackers make good citizens
+p249
+s.

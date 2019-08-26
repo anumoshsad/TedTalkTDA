@@ -1,0 +1,687 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'll never forget that day
+p4
+aVback in the spring of 2006.
+p5
+aVI was a surgical resident
+p6
+aVat The Johns Hopkins Hospital,
+p7
+aVtaking emergency call.
+p8
+aVI got paged by the E.R. around 2 in the morning
+p9
+aVto come and see a woman with a diabetic ulcer
+p10
+aVon her foot.
+p11
+aVI can still remember sort of that smell of rotting flesh
+p12
+aVas I pulled the curtain back to see her.
+p13
+aVAnd everybody there agreed this woman was very sick
+p14
+aVand she needed to be in the hospital.
+p15
+aVThat wasn't being asked.
+p16
+aVThe question that was being asked of me was a different one,
+p17
+aVwhich was, did she also need an amputation?
+p18
+aa(lp19
+VNow, looking back on that night,
+p20
+aVI'd love so desperately to believe that I treated that woman
+p21
+aVon that night with the same empathy and compassion
+p22
+aVI'd shown the 27-year-old newlywed
+p23
+aVwho came to the E.R. three nights earlier
+p24
+aVwith lower back pain
+p25
+aVthat turned out to be advanced pancreatic cancer.
+p26
+aVIn her case, I knew there was nothing I could do
+p27
+aVthat was actually going to save her life.
+p28
+aVThe cancer was too advanced.
+p29
+aVBut I was committed to making sure that
+p30
+aVI could do anything possible to make her stay
+p31
+aVmore comfortable. I brought her a warm blanket
+p32
+aVand a cup of a coffee.
+p33
+aVI brought some for her parents.
+p34
+aVBut more importantly, see, I passed no judgment on her,
+p35
+aVbecause obviously she had done nothing
+p36
+aVto bring this on herself.
+p37
+aVSo why was it that, just a few nights later,
+p38
+aVas I stood in that same E.R. and determined
+p39
+aVthat my diabetic patient did indeed need an amputation,
+p40
+aVwhy did I hold her in such bitter contempt?
+p41
+aa(lp42
+VYou see, unlike the woman the night before,
+p43
+aVthis woman had type 2 diabetes.
+p44
+aVShe was fat.
+p45
+aVAnd we all know that's from eating too much
+p46
+aVand not exercising enough, right?
+p47
+aVI mean, how hard can it be?
+p48
+aVAs I looked down at her in the bed, I thought to myself,
+p49
+aVif you just tried caring even a little bit,
+p50
+aVyou wouldn't be in this situation at this moment
+p51
+aVwith some doctor you've never met
+p52
+aVabout to amputate your foot.
+p53
+aa(lp54
+VWhy did I feel justified in judging her?
+p55
+aVI'd like to say I don't know.
+p56
+aVBut I actually do.
+p57
+aVYou see, in the hubris of my youth,
+p58
+aVI thought I had her all figured out.
+p59
+aVShe ate too much. She got unlucky.
+p60
+aVShe got diabetes. Case closed.
+p61
+aa(lp62
+VIronically, at that time in my life,
+p63
+aVI was also doing cancer research,
+p64
+aVimmune-based therapies for melanoma, to be specific,
+p65
+aVand in that world I was actually taught to question everything,
+p66
+aVto challenge all assumptions
+p67
+aVand hold them to the highest possible scientific standards.
+p68
+aVYet when it came to a disease like diabetes
+p69
+aVthat kills Americans eight times more frequently than melanoma,
+p70
+aVI never once questioned the conventional wisdom.
+p71
+aVI actually just assumed the pathologic sequence of events
+p72
+aVwas settled science.
+p73
+aa(lp74
+VThree years later, I found out how wrong I was.
+p75
+aVBut this time, I was the patient.
+p76
+aVDespite exercising three or four hours every single day,
+p77
+aVand following the food pyramid to the letter,
+p78
+aVI'd gained a lot of weight and developed something
+p79
+aVcalled metabolic syndrome.
+p80
+aVSome of you may have heard of this.
+p81
+aVI had become insulin-resistant.
+p82
+aa(lp83
+VYou can think of insulin as this master hormone
+p84
+aVthat controls what our body does with the foods we eat,
+p85
+aVwhether we burn it or store it.
+p86
+aVThis is called fuel partitioning in the lingo.
+p87
+aVNow failure to produce enough insulin is incompatible with life.
+p88
+aVAnd insulin resistance, as its name suggests,
+p89
+aVis when your cells get increasingly resistant
+p90
+aVto the effect of insulin trying to do its job.
+p91
+aVOnce you're insulin-resistant,
+p92
+aVyou're on your way to getting diabetes,
+p93
+aVwhich is what happens when your pancreas
+p94
+aVcan't keep up with the resistance and make enough insulin.
+p95
+aVNow your blood sugar levels start to rise,
+p96
+aVand an entire cascade of pathologic events
+p97
+aVsort of spirals out of control that can lead to heart disease,
+p98
+aVcancer, even Alzheimer's disease,
+p99
+aVand amputations, just like that woman a few years earlier.
+p100
+aa(lp101
+VWith that scare, I got busy changing my diet radically,
+p102
+aVadding and subtracting things most of you would find
+p103
+aValmost assuredly shocking.
+p104
+aVI did this and lost 40 pounds, weirdly while exercising less.
+p105
+aVI, as you can see, I guess I'm not overweight anymore.
+p106
+aVMore importantly, I don't have insulin resistance.
+p107
+aa(lp108
+VBut most important, I was left
+p109
+aVwith these three burning questions that wouldn't go away:
+p110
+aVHow did this happen to me if I was supposedly
+p111
+aVdoing everything right?
+p112
+aVIf the conventional wisdom about nutrition had failed me,
+p113
+aVwas it possible it was failing someone else?
+p114
+aVAnd underlying these questions,
+p115
+aVI became almost maniacally obsessed
+p116
+aVin trying to understand the real relationship
+p117
+aVbetween obesity and insulin resistance.
+p118
+aa(lp119
+VNow, most researchers believe obesity
+p120
+aVis the cause of insulin resistance.
+p121
+aVLogically, then, if you want to treat insulin resistance,
+p122
+aVyou get people to lose weight, right?
+p123
+aVYou treat the obesity.
+p124
+aVBut what if we have it backwards?
+p125
+aVWhat if obesity isn't the cause of insulin resistance at all?
+p126
+aVIn fact, what if it's a symptom of a much deeper problem,
+p127
+aVthe tip of a proverbial iceberg?
+p128
+aVI know it sounds crazy because we're obviously in the midst
+p129
+aVof an obesity epidemic, but hear me out.
+p130
+aVWhat if obesity is a coping mechanism
+p131
+aVfor a far more sinister problem going on
+p132
+aVunderneath the cell?
+p133
+aVI'm not suggesting that obesity is benign,
+p134
+aVbut what I am suggesting is it may be the lesser
+p135
+aVof two metabolic evils.
+p136
+aa(lp137
+VYou can think of insulin resistance as the reduced capacity
+p138
+aVof our cells to partition fuel,
+p139
+aVas I alluded to a moment ago,
+p140
+aVtaking those calories that we take in
+p141
+aVand burning some appropriately and storing some appropriately.
+p142
+aVWhen we become insulin-resistant,
+p143
+aVthe homeostasis in that balance deviates from this state.
+p144
+aVSo now, when insulin says to a cell,
+p145
+aVI want you to burn more energy
+p146
+aVthan the cell considers safe, the cell, in effect, says,
+p147
+aV"No thanks, I'd actually rather store this energy."
+p148
+aVAnd because fat cells are actually missing most of
+p149
+aVthe complex cellular machinery found in other cells,
+p150
+aVit's probably the safest place to store it.
+p151
+aVSo for many of us, about 75 million Americans,
+p152
+aVthe appropriate response to insulin resistance
+p153
+aVmay actually be to store it as fat, not the reverse,
+p154
+aVgetting insulin resistance in response to getting fat.
+p155
+aa(lp156
+VThis is a really subtle distinction,
+p157
+aVbut the implication could be profound.
+p158
+aVConsider the following analogy:
+p159
+aVThink of the bruise you get on your shin
+p160
+aVwhen you inadvertently bang your leg into the coffee table.
+p161
+aVSure, the bruise hurts like hell, and you almost certainly
+p162
+aVdon't like the discolored look, but we all know
+p163
+aVthe bruise per Se is not the problem.
+p164
+aVIn fact, it's the opposite. It's a healthy response to the trauma,
+p165
+aVall of those immune cells rushing to the site of the injury
+p166
+aVto salvage cellular debris and prevent the spread
+p167
+aVof infection to elsewhere in the body.
+p168
+aVNow, imagine we thought bruises were the problem,
+p169
+aVand we evolved a giant medical establishment
+p170
+aVand a culture around treating bruises:
+p171
+aVmasking creams, painkillers, you name it,
+p172
+aVall the while ignoring the fact that people
+p173
+aVare still banging their shins into coffee tables.
+p174
+aVHow much better would we be if we treated the cause \u2014
+p175
+aVtelling people to pay attention
+p176
+aVwhen they walk through the living room \u2014
+p177
+aVrather than the effect?
+p178
+aVGetting the cause and the effect right
+p179
+aVmakes all the difference in the world.
+p180
+aVGetting it wrong, and the pharmaceutical industry
+p181
+aVcan still do very well for its shareholders
+p182
+aVbut nothing improves for the people with bruised shins.
+p183
+aVCause and effect.
+p184
+aa(lp185
+VSo what I'm suggesting is
+p186
+aVmaybe we have the cause and effect wrong
+p187
+aVon obesity and insulin resistance.
+p188
+aVMaybe we should be asking ourselves,
+p189
+aVis it possible that insulin resistance causes weight gain
+p190
+aVand the diseases associated with obesity,
+p191
+aVat least in most people?
+p192
+aVWhat if being obese is just a metabolic response
+p193
+aVto something much more threatening,
+p194
+aVan underlying epidemic,
+p195
+aVthe one we ought to be worried about?
+p196
+aa(lp197
+VLet's look at some suggestive facts.
+p198
+aVWe know that 30 million obese Americans
+p199
+aVin the United States don't have insulin resistance.
+p200
+aVAnd by the way, they don't appear to be at any
+p201
+aVgreater risk of disease than lean people.
+p202
+aVConversely, we know that six million lean people
+p203
+aVin the United States are insulin-resistant,
+p204
+aVand by the way, they appear to be at even greater risk
+p205
+aVfor those metabolic diseases I mentioned a moment ago
+p206
+aVthan their obese counterparts.
+p207
+aVNow I don't know why, but it might be because,
+p208
+aVin their case, their cells haven't actually figured out
+p209
+aVthe right thing to do with that excess energy.
+p210
+aVSo if you can be obese and not have insulin resistance,
+p211
+aVand you can be lean and have it,
+p212
+aVthis suggests that obesity may just be a proxy
+p213
+aVfor what's going on.
+p214
+aa(lp215
+VSo what if we're fighting the wrong war,
+p216
+aVfighting obesity rather than insulin resistance?
+p217
+aVEven worse, what if blaming the obese
+p218
+aVmeans we're blaming the victims?
+p219
+aVWhat if some of our fundamental ideas about obesity
+p220
+aVare just wrong?
+p221
+aa(lp222
+VPersonally, I can't afford the luxury of arrogance anymore,
+p223
+aVlet alone the luxury of certainty.
+p224
+aVI have my own ideas about what could be at the heart of this,
+p225
+aVbut I'm wide open to others.
+p226
+aVNow, my hypothesis, because everybody always asks me,
+p227
+aVis this.
+p228
+aVIf you ask yourself, what's a cell trying to protect itself from
+p229
+aVwhen it becomes insulin resistant,
+p230
+aVthe answer probably isn't too much food.
+p231
+aVIt's more likely too much glucose: blood sugar.
+p232
+aVNow, we know that refined grains and starches
+p233
+aVelevate your blood sugar in the short run,
+p234
+aVand there's even reason to believe that sugar
+p235
+aVmay lead to insulin resistance directly.
+p236
+aVSo if you put these physiological processes to work,
+p237
+aVI'd hypothesize that it might be our increased intake
+p238
+aVof refined grains, sugars and starches that's driving
+p239
+aVthis epidemic of obesity and diabetes,
+p240
+aVbut through insulin resistance,
+p241
+aVyou see, and not necessarily through just overeating and under-exercising.
+p242
+aa(lp243
+VWhen I lost my 40 pounds a few years ago,
+p244
+aVI did it simply by restricting those things,
+p245
+aVwhich admittedly suggests I have a bias
+p246
+aVbased on my personal experience.
+p247
+aVBut that doesn't mean my bias is wrong,
+p248
+aVand most important, all of this can be tested scientifically.
+p249
+aVBut step one is accepting the possibility
+p250
+aVthat our current beliefs about obesity,
+p251
+aVdiabetes and insulin resistance could be wrong
+p252
+aVand therefore must be tested.
+p253
+aVI'm betting my career on this.
+p254
+aVToday, I devote all of my time to working on this problem,
+p255
+aVand I'll go wherever the science takes me.
+p256
+aVI've decided that what I can't and won't do anymore
+p257
+aVis pretend I have the answers when I don't.
+p258
+aVI've been humbled enough by all I don't know.
+p259
+aa(lp260
+VFor the past year, I've been fortunate enough
+p261
+aVto work on this problem with the most amazing team
+p262
+aVof diabetes and obesity researchers in the country,
+p263
+aVand the best part is,
+p264
+aVjust like Abraham Lincoln surrounded himself with a team of rivals,
+p265
+aVwe've done the same thing.
+p266
+aVWe've recruited a team of scientific rivals,
+p267
+aVthe best and brightest who all have different hypotheses
+p268
+aVfor what's at the heart of this epidemic.
+p269
+aVSome think it's too many calories consumed.
+p270
+aVOthers think it's too much dietary fat.
+p271
+aVOthers think it's too many refined grains and starches.
+p272
+aVBut this team of multi-disciplinary,
+p273
+aVhighly skeptical and exceedingly talented researchers
+p274
+aVdo agree on two things.
+p275
+aVFirst, this problem is just simply too important
+p276
+aVto continue ignoring because we think we know the answer.
+p277
+aVAnd two, if we're willing to be wrong,
+p278
+aVif we're willing to challenge the conventional wisdom
+p279
+aVwith the best experiments science can offer,
+p280
+aVwe can solve this problem.
+p281
+aa(lp282
+VI know it's tempting to want an answer right now,
+p283
+aVsome form of action or policy, some dietary prescription \u2014
+p284
+aVeat this, not that \u2014
+p285
+aVbut if we want to get it right,
+p286
+aVwe're going to have to do much more rigorous science
+p287
+aVbefore we can write that prescription.
+p288
+aa(lp289
+VBriefly, to address this, our research program
+p290
+aVis focused around three meta-themes, or questions.
+p291
+aVFirst, how do the various foods we consume
+p292
+aVimpact our metabolism, hormones and enzymes,
+p293
+aVand through what nuanced molecular mechanisms?
+p294
+aVSecond, based on these insights,
+p295
+aVcan people make the necessary changes in their diets
+p296
+aVin a way that's safe and practical to implement?
+p297
+aVAnd finally, once we identify what safe
+p298
+aVand practical changes people can make to their diet,
+p299
+aVhow can we move their behavior in that direction
+p300
+aVso that it becomes more the default
+p301
+aVrather than the exception?
+p302
+aVJust because you know what to do doesn't mean
+p303
+aVyou're always going to do it.
+p304
+aVSometimes we have to put cues around people
+p305
+aVto make it easier, and believe it or not,
+p306
+aVthat can be studied scientifically.
+p307
+aa(lp308
+VI don't know how this journey is going to end,
+p309
+aVbut this much seems clear to me, at least:
+p310
+aVWe can't keep blaming our overweight and diabetic patients
+p311
+aVlike I did.
+p312
+aVMost of them actually want to do the right thing,
+p313
+aVbut they have to know what that is,
+p314
+aVand it's got to work.
+p315
+aVI dream of a day when our patients can
+p316
+aVshed their excess pounds
+p317
+aVand cure themselves of insulin resistance,
+p318
+aVbecause as medical professionals,
+p319
+aVwe've shed our excess mental baggage
+p320
+aVand cured ourselves of new idea resistance sufficiently
+p321
+aVto go back to our original ideals:
+p322
+aVopen minds, the courage to throw out yesterday's ideas
+p323
+aVwhen they don't appear to be working,
+p324
+aVand the understanding that scientific truth isn't final,
+p325
+aVbut constantly evolving.
+p326
+aVStaying true to that path will be better for our patients
+p327
+aVand better for science.
+p328
+aVIf obesity is nothing more than a proxy
+p329
+aVfor metabolic illness,
+p330
+aVwhat good does it do us to punish those with the proxy?
+p331
+aa(lp332
+VSometimes I think back to that night in the E.R.
+p333
+aVseven years ago.
+p334
+aVI wish I could speak with that woman again.
+p335
+aVI'd like to tell her how sorry I am.
+p336
+aVI'd say, as a doctor, I delivered
+p337
+aVthe best clinical care I could,
+p338
+aVbut as a human being,
+p339
+aVI let you down.
+p340
+aVYou didn't need my judgment and my contempt.
+p341
+aVYou needed my empathy and compassion,
+p342
+aVand above all else, you needed a doctor
+p343
+aVwho was willing to consider
+p344
+aVmaybe you didn't let the system down.
+p345
+aVMaybe the system, of which I was a part,
+p346
+aVwas letting you down.
+p347
+aVIf you're watching this now,
+p348
+aVI hope you can forgive me.
+p349
+aa(lp350
+V(Applause)
+p351
+aasS'id'
+p352
+I1774
+sS'title'
+p353
+VIs the obesity crisis hiding a bigger problem?
+p354
+s.

@@ -1,0 +1,694 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIf there's any power in design,
+p4
+aVthat's the power of synthesis.
+p5
+aVThe more complex the problem,
+p6
+aVthe more the need for simplicity.
+p7
+aVSo allow me to share three cases
+p8
+aVwhere we tried to apply
+p9
+aVdesign's power of synthesis.
+p10
+aa(lp11
+VLet's start with the global challenge of urbanization.
+p12
+aVIt's a fact that people are moving towards cities.
+p13
+aVand even if counterintuitive, it's good news.
+p14
+aVEvidence shows that people are better off in cities.
+p15
+aVBut there's a problem that I would call
+p16
+aVthe "3S" menace:
+p17
+aVThe scale, speed, and scarcity of means
+p18
+aVwith which we will have to respond to this phenomenon
+p19
+aVhas no precedence in history.
+p20
+aVFor you to have an idea,
+p21
+aVout of the three billion  people living in cities today,
+p22
+aVone billion are under the line of poverty.
+p23
+aVBy 2030, out of the five billion people
+p24
+aVthat will be living in cities,
+p25
+aVtwo billion are going to  be under the line of poverty.
+p26
+aVThat means that we will have to build
+p27
+aVa one million-person city per week
+p28
+aVwith 10,000 dollars per family
+p29
+aVduring the next 15 years.
+p30
+aVA one million-person city per week
+p31
+aVwith 10,000 dollars per family.
+p32
+aVIf we don't solve this equation,
+p33
+aVit is not that people  will stop coming to cities.
+p34
+aVThey will come anyhow,
+p35
+aVbut they will live in slums, favelas
+p36
+aVand informal settlements.
+p37
+aa(lp38
+VSo what to do? Well, an answer may come
+p39
+aVfrom favelas and slums themselves.
+p40
+aVA clue could be in this  question we were asked
+p41
+aV10 years ago.
+p42
+aVWe were asked to accommodate 100 families
+p43
+aVthat had been occupying illegally
+p44
+aVhalf a hectare in the center
+p45
+aVof the city of Iquique  in the north of Chile
+p46
+aVusing a $10,000 subsidy
+p47
+aVwith which we had to buy the land,
+p48
+aVprovide the infrastructure,
+p49
+aVand build the houses that,  in the best of the cases,
+p50
+aVwould be of around 40 square meters.
+p51
+aVAnd by the way, they said,
+p52
+aVthe cost of the land,
+p53
+aVbecause it's in the center of the city,
+p54
+aVis three times more
+p55
+aVthan what social housing can normally afford.
+p56
+aVDue to the difficulty of the question,
+p57
+aVwe decided to include the families
+p58
+aVin the process of understanding the constraints,
+p59
+aVand we started a participatory design process,
+p60
+aVand testing what was  available there in the market.
+p61
+aVDetached houses,
+p62
+aV30 families could be accommodated.
+p63
+aVRow houses, 60 families.
+p64
+aV["100 families"] The only way to accommodate all of them
+p65
+aVwas by building in height,
+p66
+aVand they threatened us
+p67
+aVto go on a hunger strike
+p68
+aVif we even dared to offer this
+p69
+aVas a solution,
+p70
+aVbecause they could not  make the tiny apartments
+p71
+aVexpand.
+p72
+aVSo the conclusion with the families \u2014
+p73
+aVand this is important,  not our conclusion \u2014
+p74
+aVwith the families, was that we had a problem.
+p75
+aVWe had to innovate.
+p76
+aa(lp77
+VSo what did we do?
+p78
+aVWell, a middle-class family
+p79
+aVlives reasonably well
+p80
+aVin around 80 square meters,
+p81
+aVbut when there's no money,
+p82
+aVwhat the market does
+p83
+aVis to reduce the size of the house
+p84
+aVto 40 square meters.
+p85
+aVWhat we said was,
+p86
+aVwhat if,
+p87
+aVinstead of thinking of 40 square meters
+p88
+aVas a small house,
+p89
+aVwhy don't we consider it
+p90
+aVhalf of a good one?
+p91
+aVWhen you rephrase the problem
+p92
+aVas half of a good house
+p93
+aVinstead of a small one,
+p94
+aVthe key question is, which half do we do?
+p95
+aVAnd we thought we had  to do with public money
+p96
+aVthe half that families won't  be able to do individually.
+p97
+aVWe identified five design conditions
+p98
+aVthat belonged to the hard half of a house,
+p99
+aVand we went back to the  families to do two things:
+p100
+aVjoin forces and split tasks.
+p101
+aVOur design was something in between
+p102
+aVa building and a house.
+p103
+aVAs a building, it could pay
+p104
+aVfor expensive, well-located land,
+p105
+aVand as a house, it could expand.
+p106
+aVIf, in the process of not being expelled
+p107
+aVto the periphery while getting a house,
+p108
+aVfamilies kept their  network and their jobs,
+p109
+aVwe knew that the expansion  would begin right away.
+p110
+aVSo we went from this initial social housing
+p111
+aVto a middle-class unit achieved by families themselves
+p112
+aVwithin a couple of weeks.
+p113
+aa(lp114
+VThis was our first project
+p115
+aVin Iquique 10 years ago.
+p116
+aVThis is our last project in Chile.
+p117
+aVDifferent designs, same principle:
+p118
+aVYou provide the frame,
+p119
+aVand from then on, families take over.
+p120
+aa(lp121
+VSo the purpose of design,
+p122
+aVtrying to understand and  trying to give an answer
+p123
+aVto the "3S" menace,
+p124
+aVscale, speed, and scarcity,
+p125
+aVis to channel people's own building capacity.
+p126
+aVWe won't solve the one million people per week equation
+p127
+aVunless we use people's own power for building.
+p128
+aVSo, with the right design,
+p129
+aVslums and favelas may not be the problem
+p130
+aVbut actually the only possible solution.
+p131
+aVThe second case is how design can contribute
+p132
+aVto sustainability.
+p133
+aVIn 2012, we entered the competition
+p134
+aVfor the Angelini Innovation Center,
+p135
+aVand the aim was to build
+p136
+aVthe right environment for knowledge creation.
+p137
+aVIt is accepted that for such an aim,
+p138
+aVknowledge creation,
+p139
+aVinteraction among people,  face-to-face contact,
+p140
+aVit's important, and we agreed on that.
+p141
+aVBut for us, the question  of the right environment
+p142
+aVwas a very literal question.
+p143
+aVWe wanted to have a working space
+p144
+aVwith the right light, with the right temperature,
+p145
+aVwith the right air.
+p146
+aVSo we asked ourselves:
+p147
+aVDoes the typical office building
+p148
+aVhelp us in that sense?
+p149
+aVWell, how does that  building look, typically?
+p150
+aVIt's a collection of floors,
+p151
+aVone on top of each other,
+p152
+aVwith a core in the center
+p153
+aVwith elevators, stairs,  pipes, wires, everything,
+p154
+aVand then a glass skin on the outside
+p155
+aVthat, due to direct sun radiation,
+p156
+aVcreates a huge greenhouse effect inside.
+p157
+aVIn addition to that, let's say a guy
+p158
+aVworking on the seventh floor
+p159
+aVgoes every single day  through the third floor,
+p160
+aVbut has no idea what the guy on that floor
+p161
+aVis working on.
+p162
+aVSo we thought, well, maybe  we have to turn this scheme
+p163
+aVinside out.
+p164
+aVAnd what we did was,
+p165
+aVlet's have an open atrium,
+p166
+aVa hollowed core,
+p167
+aVthe same collection of floors,
+p168
+aVbut have the walls and the mass in the perimeter,
+p169
+aVso that when the sun hits,
+p170
+aVit's not impacting directly glass, but a wall.
+p171
+aVWhen you have an open atrium inside,
+p172
+aVyou are able to see what others are doing
+p173
+aVfrom within the building, and you have
+p174
+aVa better way to control light,
+p175
+aVand when you place the mass and the walls
+p176
+aVin the perimeter,
+p177
+aVthen you are preventing direct sun radiation.
+p178
+aVYou may also open those windows
+p179
+aVand get cross-ventilation.
+p180
+aVWe just made those openings
+p181
+aVof such a scale that they could work
+p182
+aVas elevated squares,
+p183
+aVoutdoor spaces throughout
+p184
+aVthe entire height of the building.
+p185
+aVNone of this is rocket science.
+p186
+aVYou don't require sophisticated programming.
+p187
+aVIt's not about technology.
+p188
+aVThis is just archaic,  primitive common sense,
+p189
+aVand by using common sense,
+p190
+aVwe went from 120 kilowatts
+p191
+aVper square meter per year,
+p192
+aVwhich is the typical energy consumption
+p193
+aVfor cooling a glass tower,
+p194
+aVto 40 kilowatts per square meter per year.
+p195
+aVSo with the right design,
+p196
+aVsustainability is nothing but the rigorous use
+p197
+aVof common sense.
+p198
+aVLast case I would like  to share is how design
+p199
+aVcan provide more comprehensive answers
+p200
+aVagainst natural disasters.
+p201
+aVYou may know that Chile, in 2010,
+p202
+aVwas hit by an 8.8 Richter scale
+p203
+aVearthquake and tsunami,
+p204
+aVand we were called to work
+p205
+aVin the reconstruction of the Constitución,
+p206
+aVin the southern part of the country.
+p207
+aVWe were given 100 days, three months,
+p208
+aVto design almost everything,
+p209
+aVfrom public buildings to public space,
+p210
+aVstreet grid, transportation, housing,
+p211
+aVand mainly how to protect the city
+p212
+aVagainst future tsunamis.
+p213
+aVThis was new in Chilean urban design,
+p214
+aVand there were in the  air a couple of alternatives.
+p215
+aVFirst one:
+p216
+aVForbid installation on ground zero.
+p217
+aVThirty million dollars spent mainly
+p218
+aVin land expropriation.
+p219
+aVThis is exactly what's being discussed in Japan nowadays,
+p220
+aVand if you have a disciplined population
+p221
+aVlike the Japanese, this may work,
+p222
+aVbut we know that in Chile,
+p223
+aVthis land is going to be  occupied illegally anyhow,
+p224
+aVso this alternative was  unrealistic and undesirable.
+p225
+aVSecond alternative: build a big wall,
+p226
+aVheavy infrastructure to resist
+p227
+aVthe energy of the waves.
+p228
+aVThis alternative was conveniently lobbied
+p229
+aVby big building companies,
+p230
+aVbecause it meant 42 million  dollars in contracts,
+p231
+aVand was also politically preferred,
+p232
+aVbecause it required no land expropriation.
+p233
+aVBut Japan proved that trying to resist
+p234
+aVthe force of nature is useless.
+p235
+aVSo this alternative was irresponsible.
+p236
+aVAs in the housing process,
+p237
+aVwe had to include the community
+p238
+aVin the way of finding a solution for this,
+p239
+aVand we started a participatory design process.
+p240
+aa(lp241
+V(Video) [In Spanish] Loudspeaker: What kind of city do you want?
+p242
+aVVote for Constitución.
+p243
+aVGo to the Open House and express your options.
+p244
+aVParticipate!
+p245
+aa(lp246
+VFisherman: I am a fisherman.
+p247
+aVTwenty-five fishermen work for me.
+p248
+aVWhere should I take them? To the forest?
+p249
+aa(lp250
+VMan: So why can't we have a concrete defense?
+p251
+aVDone well, of course.
+p252
+aa(lp253
+VMan 2: I am the history of Constitución.
+p254
+aVAnd you come here to tell me that I cannot keep on living here?
+p255
+aVMy whole family has lived here,
+p256
+aVI raised my children here,
+p257
+aVand my children will also  raise their children here.
+p258
+aVand my grandchildren  and everyone else will.
+p259
+aVBut why are you imposing this on me?
+p260
+aVYou! You are imposing this on me!
+p261
+aVIn danger zone I am not authorized to build.
+p262
+aVHe himself is saying that.
+p263
+aa(lp264
+VMan 3: No, no, no, Nieves...
+p265
+aa(lp266
+VAlejandro Aravena: I don't know if you were able
+p267
+aVto read the subtitles, but you can tell
+p268
+aVfrom the body language
+p269
+aVthat participatory design
+p270
+aVis not a hippie, romantic,
+p271
+aVlet's-all-dream-together-about- the-future-of-the-city
+p272
+aVkind of thing.
+p273
+aVIt is actually \u2014 (Applause)
+p274
+aVIt is actually not even with the families
+p275
+aVtrying to find the right answer.
+p276
+aVIt is mainly trying to identify with precision
+p277
+aVwhat is the right question.
+p278
+aVThere is nothing worse than answering well
+p279
+aVthe wrong question.
+p280
+aa(lp281
+VSo it was pretty obvious after this process
+p282
+aVthat, well, we chicken out here
+p283
+aVand go away because it's too tense,
+p284
+aVor we go even further in asking,
+p285
+aVwhat else is bothering you?
+p286
+aVWhat other problems do you have
+p287
+aVand you want us to take  care of now that the city
+p288
+aVwill have to be rethought from scratch?
+p289
+aVAnd what they said was,
+p290
+aVlook, fine to protect the city  against future tsunamis,
+p291
+aVwe really appreciate, but the next one  is going to come in, what, 20 years?
+p292
+aVBut every single year, we have problems
+p293
+aVof flooding due to rain.
+p294
+aVIn addition, we are in the middle
+p295
+aVof the forest region of the country,
+p296
+aVand our public space sucks.
+p297
+aVIt's poor and it's scarce.
+p298
+aVAnd the origin of the city, our identity,
+p299
+aVis not really connected to the buildings that fell,
+p300
+aVit is connected to the river,
+p301
+aVbut the river cannot be accessed publicly,
+p302
+aVbecause its shores are privately owned.
+p303
+aVSo we thought that we had to produce a third alternative,
+p304
+aVand our approach was  against geographical threats,
+p305
+aVhave geographical answers.
+p306
+aVWhat if, in between the city
+p307
+aVand the sea
+p308
+aVwe have a forest,
+p309
+aVa forest that doesn't try to resist
+p310
+aVthe energy of nature,
+p311
+aVbut dissipates it by introducing friction?
+p312
+aVA forest that may be able to laminate the water
+p313
+aVand prevent the flooding?
+p314
+aVThat may pay the historical debt of public space,
+p315
+aVand that may provide, finally,
+p316
+aVdemocratic access to the river.
+p317
+aVSo as a conclusion of the participatory design,
+p318
+aVthe alternative was validated politically and socially,
+p319
+aVbut there was still the problem of the cost:
+p320
+aV48 million dollars.
+p321
+aVSo what we did was a survey
+p322
+aVin the public investment system,
+p323
+aVand found out that there  were three ministries
+p324
+aVwith three projects in  the exact same place,
+p325
+aVnot knowing of the existence  of the other projects.
+p326
+aVThe sum of them: 52 million dollars.
+p327
+aVSo design's power of synthesis
+p328
+aVis trying to make a more efficient use
+p329
+aVof the scarcest resource in cities,
+p330
+aVwhich is not money but coordination.
+p331
+aVBy doing so, we were able to save
+p332
+aVfour million dollars, and  that is why the forest
+p333
+aVis today under construction.
+p334
+aV(Applause)
+p335
+aa(lp336
+VSo be it the force of self construction,
+p337
+aVthe force of common sense,
+p338
+aVor the force of nature, all these forces
+p339
+aVneed to be translated into form,
+p340
+aVand what that form is modeling and shaping
+p341
+aVis not cement, bricks, or wood.
+p342
+aVIt is life itself.
+p343
+aVDesign's power of synthesis
+p344
+aVis just an attempt to put
+p345
+aVat the innermost core of architecture
+p346
+aVthe force of life.
+p347
+aa(lp348
+VThank you so much.
+p349
+aa(lp350
+V(Applause)
+p351
+aasS'id'
+p352
+I2128
+sS'title'
+p353
+VMy architectural philosophy? Bring the community into the process
+p354
+s.

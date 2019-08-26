@@ -1,0 +1,568 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo, imagine that you had your smartphone miniaturized
+p4
+aVand hooked up directly to your brain.
+p5
+aVIf you had this sort of brain chip,
+p6
+aVyou'd be able to upload and download to the internet
+p7
+aVat the speed of thought.
+p8
+aVAccessing social media or Wikipedia would be a lot like \u2014
+p9
+aVwell, from the inside at least \u2014
+p10
+aVlike consulting your own memory.
+p11
+aVIt would be as easy and as intimate as thinking.
+p12
+aVBut would it make it easier for you to know what's true?
+p13
+aVJust because a way of accessing information is faster
+p14
+aVit doesn't mean it's more reliable, of course,
+p15
+aVand it doesn't mean that we would all interpret it the same way.
+p16
+aVAnd it doesn't mean that you would be any better at evaluating it.
+p17
+aVIn fact, you might even be worse,
+p18
+aVbecause, you know, more data, less time for evaluation.
+p19
+aa(lp20
+VSomething like this is already happening to us right now.
+p21
+aVWe already carry a world of information around in our pockets,
+p22
+aVbut it seems as if the more information we share and access online,
+p23
+aVthe more difficult it can be for us to tell the difference
+p24
+aVbetween what's real and what's fake.
+p25
+aVIt's as if we know more but understand less.
+p26
+aa(lp27
+VNow, it's a feature of modern life, I suppose,
+p28
+aVthat large swaths of the public live in isolated information bubbles.
+p29
+aVWe're polarized: not just over values, but over the facts.
+p30
+aVOne reason for that is, the data analytics that drive the internet
+p31
+aVget us not just more information,
+p32
+aVbut more of the information that we want.
+p33
+aVOur online life is personalized;
+p34
+aVeverything from the ads we read
+p35
+aVto the news that comes down our Facebook feed
+p36
+aVis tailored to satisfy our preferences.
+p37
+aVAnd so while we get more information,
+p38
+aVa lot of that information ends up reflecting ourselves
+p39
+aVas much as it does reality.
+p40
+aVIt ends up, I suppose,
+p41
+aVinflating our bubbles rather than bursting them.
+p42
+aVAnd so maybe it's no surprise
+p43
+aVthat we're in a situation, a paradoxical situation,
+p44
+aVof thinking that we know so much more,
+p45
+aVand yet not agreeing on what it is we know.
+p46
+aa(lp47
+VSo how are we going to solve this problem of knowledge polarization?
+p48
+aVOne obvious tactic is to try to fix our technology,
+p49
+aVto redesign our digital platforms,
+p50
+aVso as to make them less susceptible to polarization.
+p51
+aVAnd I'm happy to report
+p52
+aVthat many smart people at Google and Facebook are working on just that.
+p53
+aVAnd these projects are vital.
+p54
+aVI think that fixing technology is obviously really important,
+p55
+aVbut I don't think technology alone, fixing it, is going to solve the problem
+p56
+aVof knowledge polarization.
+p57
+aVI don't think that because I don't think, at the end of the day,
+p58
+aVit is a technological problem.
+p59
+aVI think it's a human problem,
+p60
+aVhaving to do with how we think and what we value.
+p61
+aa(lp62
+VIn order to solve it, I think we're going to need help.
+p63
+aVWe're going to need help from psychology and political science.
+p64
+aVBut we're also going to need help, I think, from philosophy.
+p65
+aVBecause to solve the problem of knowledge polarization,
+p66
+aVwe're going to need to reconnect
+p67
+aVwith one fundamental, philosophical idea:
+p68
+aVthat we live in a common reality.
+p69
+aVThe idea of a common reality is like, I suppose,
+p70
+aVa lot of philosophical concepts:
+p71
+aVeasy to state
+p72
+aVbut mysteriously difficult to put into practice.
+p73
+aVTo really accept it,
+p74
+aVI think we need to do three things,
+p75
+aVeach of which is a challenge right now.
+p76
+aa(lp77
+VFirst, we need to believe in truth.
+p78
+aVYou might have noticed
+p79
+aVthat our culture is having something of a troubled relationship
+p80
+aVwith that concept right now.
+p81
+aVIt seems as if we disagree so much that,
+p82
+aVas one political commentator put it not long ago,
+p83
+aVit's as if there are no facts anymore.
+p84
+aVBut that thought is actually an expression
+p85
+aVof a sort of seductive line of argument that's in the air.
+p86
+aVIt goes like this:
+p87
+aVwe just can't step outside of our own perspectives;
+p88
+aVwe can't step outside of our biases.
+p89
+aVEvery time we try,
+p90
+aVwe just get more information from our perspective.
+p91
+aVSo, this line of thought goes,
+p92
+aVwe might as well admit that objective truth is an illusion,
+p93
+aVor it doesn't matter,
+p94
+aVbecause either we'll never know what it is,
+p95
+aVor it doesn't exist in the first place.
+p96
+aa(lp97
+VThat's not a new philosophical thought \u2014
+p98
+aVskepticism about truth.
+p99
+aVDuring the end of the last century, as some of you know,
+p100
+aVit was very popular in certain academic circles.
+p101
+aVBut it really goes back all the way to the Greek philosopher Protagoras,
+p102
+aVif not farther back.
+p103
+aVProtagoras said that objective truth was an illusion
+p104
+aVbecause "man is the measure of all things."
+p105
+aVMan is the measure of all things.
+p106
+aVThat can seem like a bracing bit of realpolitik to people,
+p107
+aVor liberating,
+p108
+aVbecause it allows each of us to discover or make our own truth.
+p109
+aa(lp110
+VBut actually, I think it's a bit of self-serving rationalization
+p111
+aVdisguised as philosophy.
+p112
+aVIt confuses the difficulty of being certain
+p113
+aVwith the impossibility of truth.
+p114
+aVLook \u2014
+p115
+aVof course it's difficult to be certain about anything;
+p116
+aVwe might all be living in "The Matrix."
+p117
+aVYou might have a brain chip in your head
+p118
+aVfeeding you all the wrong information.
+p119
+aVBut in practice, we do agree on all sorts of facts.
+p120
+aVWe agree that bullets can kill people.
+p121
+aVWe agree that you can't flap your arms and fly.
+p122
+aVWe agree \u2014 or we should \u2014
+p123
+aVthat there is an external reality
+p124
+aVand ignoring it can get you hurt.
+p125
+aa(lp126
+VNonetheless, skepticism about truth can be tempting,
+p127
+aVbecause it allows us to rationalize away our own biases.
+p128
+aVWhen we do that, we're sort of like the guy in the movie
+p129
+aVwho knew he was living in "The Matrix"
+p130
+aVbut decided he liked it there, anyway.
+p131
+aVAfter all, getting what you want feels good.
+p132
+aVBeing right all the time feels good.
+p133
+aVSo, often it's easier for us
+p134
+aVto wrap ourselves in our cozy information bubbles,
+p135
+aVlive in bad faith,
+p136
+aVand take those bubbles as the measure of reality.
+p137
+aa(lp138
+VAn example, I think, of how this bad faith gets into our action
+p139
+aVis our reaction to the phenomenon of fake news.
+p140
+aVThe fake news that spread on the internet
+p141
+aVduring the American presidential election of 2016
+p142
+aVwas designed to feed into our biases,
+p143
+aVdesigned to inflate our bubbles.
+p144
+aVBut what was really striking about it
+p145
+aVwas not just that it fooled so many people.
+p146
+aVWhat was really striking to me about fake news,
+p147
+aVthe phenomenon,
+p148
+aVis how quickly it itself became the subject of knowledge polarization;
+p149
+aVso much so, that the very term \u2014 the very term \u2014 "fake news"
+p150
+aVnow just means: "news story I don't like."
+p151
+aVThat's an example of the bad faith towards the truth that I'm talking about.
+p152
+aa(lp153
+VBut the really, I think, dangerous thing
+p154
+aVabout skepticism with regard to truth
+p155
+aVis that it leads to despotism.
+p156
+aV"Man is the measure of all things"
+p157
+aVinevitably becomes "The Man is the measure of all things."
+p158
+aVJust as "every man for himself"
+p159
+aValways seems to turn out to be "only the strong survive."
+p160
+aa(lp161
+VAt the end of Orwell's "1984,"
+p162
+aVthe thought policeman O'Brien is torturing the protagonist Winston Smith
+p163
+aVinto believing two plus two equals five.
+p164
+aVWhat O'Brien says is the point,
+p165
+aVis that he wants to convince Smith that whatever the party says is the truth,
+p166
+aVand the truth is whatever the party says.
+p167
+aVAnd what O'Brien knows is that once this thought is accepted,
+p168
+aVcritical dissent is impossible.
+p169
+aVYou can't speak truth to power
+p170
+aVif the power speaks truth by definition.
+p171
+aa(lp172
+VI said that in order to accept that we really live in a common reality,
+p173
+aVwe have to do three things.
+p174
+aVThe first thing is to believe in truth.
+p175
+aVThe second thing can be summed up
+p176
+aVby the Latin phrase that Kant took as the motto for the Enlightenment:
+p177
+aV"Sapere aude,"
+p178
+aVor "dare to know."
+p179
+aVOr as Kant wants, "to dare to know for yourself."
+p180
+aa(lp181
+VI think in the early days of the internet,
+p182
+aVa lot of us thought
+p183
+aVthat information technology was always going to make it easier
+p184
+aVfor us to know for ourselves,
+p185
+aVand of course in many ways, it has.
+p186
+aVBut as the internet has become more and more a part of our lives,
+p187
+aVour reliance on it, our use of it,
+p188
+aVhas become often more passive.
+p189
+aVMuch of what we know today we Google-know.
+p190
+aVWe download prepackaged sets of facts
+p191
+aVand sort of shuffle them along the assembly line of social media.
+p192
+aVNow, Google-knowing is useful
+p193
+aVprecisely because it involves a sort of intellectual outsourcing.
+p194
+aVWe offload our effort onto a network of others and algorithms.
+p195
+aVAnd that allows us, of course, to not clutter our minds
+p196
+aVwith all sorts of facts.
+p197
+aVWe can just download them when we need them.
+p198
+aVAnd that's awesome.
+p199
+aa(lp200
+VBut there's a difference between downloading a set of facts
+p201
+aVand really understanding how or why those facts are as they are.
+p202
+aVUnderstanding why a particular disease spreads,
+p203
+aVor how a mathematical proof works,
+p204
+aVor why your friend is depressed,
+p205
+aVinvolves more than just downloading.
+p206
+aVIt's going to require, most likely,
+p207
+aVdoing some work for yourself:
+p208
+aVhaving a little creative insight;
+p209
+aVusing your imagination;
+p210
+aVgetting out into the field;
+p211
+aVdoing the experiment;
+p212
+aVworking through the proof;
+p213
+aVtalking to someone.
+p214
+aa(lp215
+VNow, I'm not saying, of course, that we should stop Google-knowing.
+p216
+aVI'm just saying
+p217
+aVwe shouldn't overvalue it, either.
+p218
+aVWe need to find ways of encouraging forms of knowing that are more active,
+p219
+aVand don't always involve passing off our effort into our bubble.
+p220
+aVBecause the thing about Google-knowing is that too often it ends up
+p221
+aVbeing bubble-knowing.
+p222
+aVAnd bubble-knowing means always being right.
+p223
+aVBut daring to know,
+p224
+aVdaring to understand,
+p225
+aVmeans risking the possibility that you could be wrong.
+p226
+aVIt means risking the possibility
+p227
+aVthat what you want and what's true are different things.
+p228
+aa(lp229
+VWhich brings me to the third thing that I think we need to do
+p230
+aVif we want to accept that we live in a common reality.
+p231
+aVThat third thing is: have a little humility.
+p232
+aVBy humility here, I mean epistemic humility,
+p233
+aVwhich means, in a sense,
+p234
+aVknowing that you don't know it all.
+p235
+aVBut it also means something more than that.
+p236
+aVIt means seeing your worldview as open to improvement
+p237
+aVby the evidence and experience of others.
+p238
+aVSeeing your worldview as open to improvement
+p239
+aVby the evidence and experience of others.
+p240
+aVThat's more than just being open to change.
+p241
+aVIt's more than just being open to self-improvement.
+p242
+aVIt means seeing your knowledge as capable of enhancing
+p243
+aVor being enriched by what others contribute.
+p244
+aVThat's part of what is involved
+p245
+aVin recognizing there's a common reality
+p246
+aVthat you, too, are responsible to.
+p247
+aa(lp248
+VI don't think it's much of a stretch to say
+p249
+aVthat our society is not particularly great at enhancing or encouraging
+p250
+aVthat sort of humility.
+p251
+aVThat's partly because,
+p252
+aVwell, we tend to confuse arrogance and confidence.
+p253
+aVAnd it's partly because, well, you know,
+p254
+aVarrogance is just easier.
+p255
+aVIt's just easier to think of yourself as knowing it all.
+p256
+aVIt's just easier to think of yourself as having it all figured out.
+p257
+aVBut that's another example of the bad faith towards the truth
+p258
+aVthat I've been talking about.
+p259
+aa(lp260
+VSo the concept of a common reality,
+p261
+aVlike a lot of philosophical concepts,
+p262
+aVcan seem so obvious,
+p263
+aVthat we can look right past it
+p264
+aVand forget why it's important.
+p265
+aVDemocracies can't function if their citizens don't strive,
+p266
+aVat least some of the time,
+p267
+aVto inhabit a common space,
+p268
+aVa space where they can pass ideas back and forth
+p269
+aVwhen \u2014 and especially when \u2014
+p270
+aVthey disagree.
+p271
+aVBut you can't strive to inhabit that space
+p272
+aVif you don't already accept that you live in the same reality.
+p273
+aVTo accept that, we've got to believe in truth,
+p274
+aVwe've got to encourage more active ways of knowing.
+p275
+aVAnd we've got to have the humility
+p276
+aVto realize that we're not the measure of all things.
+p277
+aa(lp278
+VWe may yet one day realize the vision
+p279
+aVof having the internet in our brains.
+p280
+aVBut if we want that to be liberating and not terrifying,
+p281
+aVif we want it to expand our understanding
+p282
+aVand not just our passive knowing,
+p283
+aVwe need to remember that our perspectives,
+p284
+aVas wondrous, as beautiful as they are,
+p285
+aVare just that \u2014
+p286
+aVperspectives on one reality.
+p287
+aa(lp288
+VThank you.
+p289
+aa(lp290
+V(Applause)
+p291
+aasS'id'
+p292
+I2796
+sS'title'
+p293
+VHow to see past your own perspective and find truth
+p294
+s.

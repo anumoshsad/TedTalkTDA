@@ -1,0 +1,697 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm a physician trained in infectious diseases,
+p4
+aVand following my training,
+p5
+aVI moved to Somalia
+p6
+aVfrom San Francisco.
+p7
+aVAnd my goodbye greeting
+p8
+aVfrom the chief of infectious diseases
+p9
+aVat San Francisco General was,
+p10
+aV"Gary, this is the biggest mistake you'll ever make."
+p11
+aa(lp12
+VBut I landed in a refugee situation
+p13
+aVthat had a million refugees in 40 camps,
+p14
+aVand there were six of us doctors.
+p15
+aVThere were many epidemics there.
+p16
+aVMy responsibilities were largely related to
+p17
+aVtuberculosis,
+p18
+aVand then we got struck by an epidemic of cholera.
+p19
+aVSo it was the spread of tuberculosis
+p20
+aVand the spread of cholera
+p21
+aVthat I was responsible for inhibiting.
+p22
+aVAnd in order to do this work, we, of course,
+p23
+aVbecause of the limitation in health workers,
+p24
+aVhad to recruit refugees to be a specialized
+p25
+aVnew category of health worker.
+p26
+aVFollowing three years of work in Somalia,
+p27
+aVI got picked up by the World Health Organization,
+p28
+aVand got assigned to the epidemics of AIDS.
+p29
+aVMy primary responsibility was Uganda,
+p30
+aVbut also I worked in Rwanda and Burundi
+p31
+aVand Zaire, now Congo,
+p32
+aVTanzania, Malawi, and several other countries.
+p33
+aVAnd my last assignment there was to run a unit
+p34
+aVcalled intervention development,
+p35
+aVwhich was responsible for designing interventions.
+p36
+aa(lp37
+VAfter 10 years of working overseas,
+p38
+aVI was exhausted.
+p39
+aVI really had very little left.
+p40
+aVI had been traveling to one country after another.
+p41
+aVI was emotionally feeling very isolated.
+p42
+aVI wanted to come home.
+p43
+aVI'd seen a lot of death,
+p44
+aVin particular epidemic death,
+p45
+aVand epidemic death has a different feel to it.
+p46
+aVIt's full of panic and fear,
+p47
+aVand I'd heard the women wailing and crying
+p48
+aVin the desert.
+p49
+aVAnd I wanted to come home and take a break
+p50
+aVand maybe start over.
+p51
+aa(lp52
+VI was not aware of any epidemic problems
+p53
+aVin America.
+p54
+aVIn fact, I wasn't aware of any problems in America.
+p55
+aVIn fact \u2014 seriously.
+p56
+aVAnd in fact I would visit friends of mine,
+p57
+aVand I noticed that they had water
+p58
+aVthat came right into their homes.
+p59
+aVHow many of you have such a situation?
+p60
+aV(Laughter)
+p61
+aVAnd some of them, many of them actually,
+p62
+aVhad water that came into more than one room.
+p63
+aVAnd I noticed that they would move
+p64
+aVthis little thermoregulatory device
+p65
+aVto change the temperature in their home
+p66
+aVby one degree or two degrees.
+p67
+aVAnd now I do that.
+p68
+aa(lp69
+VAnd I really didn't know what I would do,
+p70
+aVbut friends of mine began telling me
+p71
+aVabout children shooting other children with guns.
+p72
+aVAnd I asked the question,
+p73
+aVwhat are you doing about it?
+p74
+aVWhat are you in America doing about it?
+p75
+aVAnd there were two essential explanations
+p76
+aVor ideas that were prevalent.
+p77
+aa(lp78
+VAnd one was punishment.
+p79
+aVAnd this I had heard about before.
+p80
+aVWe who had worked in behavior
+p81
+aVknew that punishment was something that was discussed
+p82
+aVbut also that it was highly overvalued.
+p83
+aVIt was not a main driver of behavior,
+p84
+aVnor was it a main driver of behavior change.
+p85
+aVAnd besides that, it reminded me
+p86
+aVof ancient epidemics
+p87
+aVthat were previously completely misunderstood
+p88
+aVbecause the science hadn't been there before,
+p89
+aVepidemics of plague
+p90
+aVor typhus or leprosy,
+p91
+aVwhere the prevalent ideas were that there were
+p92
+aVbad people or bad humors or bad air,
+p93
+aVand widows were dragged around the moat,
+p94
+aVand dungeons were part of the solution.
+p95
+aa(lp96
+VThe other explanation or, in a way,
+p97
+aVthe solution suggested,
+p98
+aVis please fix all of these things:
+p99
+aVthe schools, the community, the homes, the families,
+p100
+aVeverything.
+p101
+aVAnd I'd heard this before as well.
+p102
+aVI'd called this the "everything" theory,
+p103
+aVor EOE: Everything On Earth.
+p104
+aVBut we'd also realized
+p105
+aVin treating other processes and problems
+p106
+aVthat sometimes you don't need to treat everything.
+p107
+aa(lp108
+VAnd so the sense that I had
+p109
+aVwas there was a giant gap here.
+p110
+aVThe problem of violence was stuck,
+p111
+aVand this has historically been the case
+p112
+aVin many other issues.
+p113
+aVDiarrheal diseases had been stuck.
+p114
+aVMalaria had been stuck.
+p115
+aVFrequently, a strategy has to be rethought.
+p116
+aVIt's not as if I had any idea what it would look like,
+p117
+aVbut there was a sense that we would have to do
+p118
+aVsomething with new categories of workers
+p119
+aVand something having to do with behavior change
+p120
+aVand something having to do with public education.
+p121
+aa(lp122
+VBut I began to ask questions
+p123
+aVand search out the usual things
+p124
+aVthat I had been exploring before,
+p125
+aVlike, what do the maps look like?
+p126
+aVWhat do the graphs look like?
+p127
+aVWhat does the data look like?
+p128
+aVAnd the maps of violence
+p129
+aVin most U.S. cities
+p130
+aVlooked like this.
+p131
+aVThere was clustering.
+p132
+aVThis reminded me of clustering that we'd seen also
+p133
+aVin infectious epidemics,
+p134
+aVfor example cholera.
+p135
+aVAnd then we looked at the maps,
+p136
+aVand the maps showed this typical wave
+p137
+aVupon wave upon wave,
+p138
+aVbecause all epidemics
+p139
+aVare combinations of many epidemics.
+p140
+aVAnd it also looked like infectious epidemics.
+p141
+aVAnd then we asked the question,
+p142
+aVwell what really predicts a case of violence?
+p143
+aVAnd it turns out that the greatest predictor
+p144
+aVof a case of violence is a preceding case of violence.
+p145
+aVWhich also sounds like, if there is a case of flu,
+p146
+aVsomeone gave someone a case of flu, or a cold,
+p147
+aVor the greatest risk factor of tuberculosis
+p148
+aVis having been exposed to tuberculosis.
+p149
+aa(lp150
+VAnd so we see that violence is, in a way,
+p151
+aVbehaving like a contagious disease.
+p152
+aVWe're aware of this anyway
+p153
+aVeven in our common experiences
+p154
+aVor our newspaper stories
+p155
+aVof the spread of violence from fights
+p156
+aVor in gang wars or in civil wars
+p157
+aVor even in genocides.
+p158
+aa(lp159
+VAnd so there's good news about this, though,
+p160
+aVbecause there's a way to reverse epidemics,
+p161
+aVand there's really only three things that are done
+p162
+aVto reverse epidemics,
+p163
+aVand the first of it is interrupting transmission.
+p164
+aVIn order to interrupt transmission,
+p165
+aVyou need to detect and find first cases.
+p166
+aVIn other words, for T.B. you have to find somebody
+p167
+aVwho has active T.B. who is infecting other people.
+p168
+aVMake sense?
+p169
+aVAnd there's special workers for doing that.
+p170
+aVFor this particular problem,
+p171
+aVwe designed a new category of worker
+p172
+aVwho, like a SARS worker
+p173
+aVor someone looking for bird flu,
+p174
+aVmight find first cases.
+p175
+aVIn this case, it's someone who's very angry
+p176
+aVbecause someone looked at his girlfriend
+p177
+aVor owes him money,
+p178
+aVand you can find workers and train them
+p179
+aVinto these specialized categories.
+p180
+aa(lp181
+VAnd the second thing to do, of course,
+p182
+aVis to prevent further spread,
+p183
+aVthat means to find who else has been exposed,
+p184
+aVbut may not be spreading so much right now
+p185
+aVlike someone with a smaller case of T.B.,
+p186
+aVor someone who is just hanging out in the neighborhoods,
+p187
+aVbut in the same group,
+p188
+aVand then they need to be, in a way,
+p189
+aVmanaged as well,
+p190
+aVparticular to the specific disease process.
+p191
+aa(lp192
+VAnd then the third part, the shifting the norms,
+p193
+aVand that means a whole bunch of community activities,
+p194
+aVremodeling, public education,
+p195
+aVand then you've got what you might call
+p196
+aVgroup immunity.
+p197
+aVAnd that combination of factors
+p198
+aVis how the AIDS epidemic in Uganda
+p199
+aVwas very successfully reversed.
+p200
+aa(lp201
+VAnd so what we decided to do in the year 2000
+p202
+aVis kind of put this together in a way
+p203
+aVby hiring in new categories of workers,
+p204
+aVthe first being violence interruptors.
+p205
+aVAnd then we would put all of this into place
+p206
+aVin one neighborhood
+p207
+aVin what was the worst police district
+p208
+aVin the United States at the time.
+p209
+aVSo violence interruptors hired from the same group,
+p210
+aVcredibility, trust, access,
+p211
+aVjust like the health workers in Somalia,
+p212
+aVbut designed for a different category,
+p213
+aVand trained in persuasion,
+p214
+aVcooling people down, buying time, reframing.
+p215
+aVAnd then another category of worker,
+p216
+aVthe outreach workers, to keep people
+p217
+aVin a way on therapy for six to 24 months.
+p218
+aVJust like T.B., but the object is behavior change.
+p219
+aVAnd then a bunch of community activities
+p220
+aVfor changing norms.
+p221
+aa(lp222
+VNow our first experiment of this
+p223
+aVresulted in a 67-percent drop
+p224
+aVin shootings and killings
+p225
+aVin the West Garfield neighborhood of Chicago.
+p226
+aa(lp227
+V(Applause)
+p228
+aa(lp229
+VAnd this was a beautiful thing
+p230
+aVfor the neighborhood itself,
+p231
+aVfirst 50 or 60 days, then 90 days,
+p232
+aVand then there was unfortunately another shooting
+p233
+aVin another 90 days,
+p234
+aVand the moms were hanging out in the afternoon.
+p235
+aVThey were using parks they weren't using before.
+p236
+aVThe sun was out. Everybody was happy.
+p237
+aa(lp238
+VBut of course, the funders said, "Wait a second,
+p239
+aVdo it again."
+p240
+aVAnd so we had to then, fortunately,
+p241
+aVget the funds to repeat this experience,
+p242
+aVand this is one of the next four neighborhoods
+p243
+aVthat had a 45-percent drop in shootings and killings.
+p244
+aVAnd since that time, this has been replicated
+p245
+aV20 times.
+p246
+aVThere have been independent evaluations
+p247
+aVsupported by the Justice Department
+p248
+aVand by the CDC and performed by Johns Hopkins
+p249
+aVthat have shown 30-to-50-percent and 40-to-70-percent
+p250
+aVreductions in shootings and killings
+p251
+aVusing this new method.
+p252
+aVIn fact, there have been three independent
+p253
+aVevaluations of this now.
+p254
+aa(lp255
+VNow we've gotten a lot of attention as a result of this,
+p256
+aVincluding being featured on
+p257
+aVThe New York Times' Sunday magazine cover story.
+p258
+aVThe Economist in 2009
+p259
+aVsaid this is "the approach that will come to prominence."
+p260
+aVAnd even a movie was made around our work.
+p261
+aV[The Interrupters]
+p262
+aa(lp263
+VHowever, not so fast,
+p264
+aVbecause a lot of people did not agree
+p265
+aVwith this way of going about it.
+p266
+aVWe got a lot of criticism,
+p267
+aVa lot of opposition,
+p268
+aVand a lot of opponents.
+p269
+aVIn other words, what do you mean, health problem?
+p270
+aVWhat do you mean, epidemic?
+p271
+aVWhat do you mean, no bad guys?
+p272
+aVAnd there's whole industries designed
+p273
+aVfor managing bad people.
+p274
+aVWhat do you mean, hiring people
+p275
+aVwho have backgrounds?
+p276
+aVMy business friends said,
+p277
+aV"Gary, you're being criticized tremendously.
+p278
+aVYou must be doing something right."
+p279
+aa(lp280
+V(Laughter)
+p281
+aa(lp282
+VMy musician friends added the word "dude."
+p283
+aa(lp284
+VSo anyway, additionally,
+p285
+aVthere was still this problem,
+p286
+aVand we were getting highly criticized as well
+p287
+aVfor not dealing with all of these other problems.
+p288
+aVYet we were able to manage malaria
+p289
+aVand reduce HIV and reduce diarrheal diseases
+p290
+aVin places with awful economies
+p291
+aVwithout healing the economy.
+p292
+aa(lp293
+VSo what's actually happened is,
+p294
+aValthough there is still some opposition,
+p295
+aVthe movement is clearly growing.
+p296
+aVMany of the major cities in the U.S.,
+p297
+aVincluding New York City and Baltimore
+p298
+aVand Kansas City,
+p299
+aVtheir health departments are running this now.
+p300
+aVChicago and New Orleans, the health departments
+p301
+aVare having a very large role in this.
+p302
+aVThis is being embraced more by law enforcement
+p303
+aVthan it had been years ago.
+p304
+aVTrauma centers and hospitals
+p305
+aVare doing their part in stepping up.
+p306
+aVAnd the U.S. Conference of Mayors
+p307
+aVhas endorsed not only the approach
+p308
+aVbut the specific model.
+p309
+aVWhere there's really been uptake even faster
+p310
+aVis in the international environment,
+p311
+aVwhere there's a 55-percent drop
+p312
+aVin the first neighborhood in Puerto Rico,
+p313
+aVwhere interruptions are just beginning in Honduras,
+p314
+aVwhere the strategy has been applied in Kenya
+p315
+aVfor the recent elections,
+p316
+aVand where there have been 500 interruptions in Iraq.
+p317
+aa(lp318
+VSo violence is responding as a disease
+p319
+aVeven as it behaves as a disease.
+p320
+aVSo the theory, in a way,
+p321
+aVis kind of being validated by the treatment.
+p322
+aVAnd recently, the Institute of Medicine
+p323
+aVcame out with a workshop report
+p324
+aVwhich went through some of the data,
+p325
+aVincluding the neuroscience,
+p326
+aVon how this problem is really transmitted.
+p327
+aa(lp328
+VSo I think this is good news,
+p329
+aVbecause it allows us an opportunity
+p330
+aVto come out of the Middle Ages,
+p331
+aVwhich is where I feel this field has been.
+p332
+aVIt gives us an opportunity to consider the possibility
+p333
+aVof replacing some of these prisons
+p334
+aVwith playgrounds or parks,
+p335
+aVand to consider the possibility
+p336
+aVof converting our neighborhoods into neighborhoods,
+p337
+aVand to allow there to be a new strategy,
+p338
+aVa new set of methods, a new set of workers:
+p339
+aVscience, in a way, replacing morality.
+p340
+aVAnd moving away from emotions
+p341
+aVis the most important part of the solution
+p342
+aVto science as a more important part of the solution.
+p343
+aa(lp344
+VSo I didn't mean to come up with this at all.
+p345
+aVIt was a matter of,
+p346
+aVI wanted actually a break,
+p347
+aVand we looked at maps, we looked at graphs,
+p348
+aVwe asked some questions
+p349
+aVand tried some tools
+p350
+aVthat actually have been used many times before
+p351
+aVfor other things.
+p352
+aVFor myself, I tried to get away from
+p353
+aVinfectious diseases,
+p354
+aVand I didn't.
+p355
+aa(lp356
+VThank you.
+p357
+aa(lp358
+V(Applause)
+p359
+aasS'id'
+p360
+I1840
+sS'title'
+p361
+VLet's treat violence like a contagious disease
+p362
+s.

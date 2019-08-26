@@ -1,0 +1,291 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThe AlloSphere: it's a three-story metal sphere
+p4
+aVin an echo-free chamber.
+p5
+aVThink of the AlloSphere as a large,
+p6
+aVdynamically varying digital microscope
+p7
+aVthat's connected to a supercomputer.
+p8
+aV20 researchers can stand on a bridge
+p9
+aVsuspended inside of the sphere, and be
+p10
+aVcompletely immersed in their data.
+p11
+aa(lp12
+VImagine if a team of physicists
+p13
+aVcould stand inside of an atom
+p14
+aVand watch and hear electrons spin.
+p15
+aVImagine if a group of sculptors
+p16
+aVcould be inside of a lattice of atoms
+p17
+aVand sculpt with their material.
+p18
+aVImagine if a team of surgeons could fly
+p19
+aVinto the brain, as though it was a world,
+p20
+aVand see tissues as landscapes,
+p21
+aVand hear blood density levels as music.
+p22
+aVThis is some of the research that you're going to see
+p23
+aVthat we're undertaking at the AlloSphere.
+p24
+aa(lp25
+VBut first a little bit about this group
+p26
+aVof artists, scientists, and engineers
+p27
+aVthat are working together.
+p28
+aVI'm a composer, orchestrally-trained,
+p29
+aVand the inventor of the AlloSphere.
+p30
+aVWith my visual artist colleagues, we map
+p31
+aVcomplex mathematical algorithms that unfold in time and space,
+p32
+aVvisually and sonically.
+p33
+aVOur scientist colleagues are finding new patterns
+p34
+aVin the information.
+p35
+aVAnd our engineering colleagues are making
+p36
+aVone of the largest dynamically varying computers in the world
+p37
+aVfor this kind of data exploration.
+p38
+aVI'm going to fly you into five research projects
+p39
+aVin the AlloSphere that are going to take you from
+p40
+aVbiological macroscopic data
+p41
+aVall the way down to electron spin.
+p42
+aa(lp43
+VThis first project is called the AlloBrain.
+p44
+aVAnd it's our attempt to quantify beauty
+p45
+aVby finding which regions of the brain
+p46
+aVare interactive while witnessing something beautiful.
+p47
+aVYou're flying through the cortex of my colleague's brain.
+p48
+aVOur narrative here is real fMRI data
+p49
+aVthat's mapped visually and sonically.
+p50
+aVThe brain now a world that we can fly through and interact with.
+p51
+aVYou see 12 intelligent computer agents,
+p52
+aVthe little rectangles that are flying in the brain with you.
+p53
+aVThey're mining blood density levels.
+p54
+aVAnd they're reporting them back to you sonically.
+p55
+aVHigher density levels mean
+p56
+aVmore activity in that point of the brain.
+p57
+aVThey're actually singing these densities to you
+p58
+aVwith higher pitches mapped to higher densities.
+p59
+aa(lp60
+VWe're now going to move from real biological data
+p61
+aVto biogenerative algorithms that create artificial nature
+p62
+aVin our next artistic and scientific installation.
+p63
+aVIn this artistic and scientific installation, biogenerative algorithms
+p64
+aVare helping us to understand
+p65
+aVself-generation and growth:
+p66
+aVvery important for simulation in the nanoscaled sciences.
+p67
+aVFor artists, we're making new worlds
+p68
+aVthat we can uncover and explore.
+p69
+aVThese generative algorithms grow over time,
+p70
+aVand they interact and communicate as a swarm of insects.
+p71
+aVOur researchers are interacting with this data
+p72
+aVby injecting bacterial code,
+p73
+aVwhich are computer programs,
+p74
+aVthat allow these creatures to grow over time.
+p75
+aVWe're going to move now from the biological
+p76
+aVand the macroscopic world,
+p77
+aVdown into the atomic world,
+p78
+aVas we fly into a lattice of atoms.
+p79
+aVThis is real AFM \u2014 Atomic Force Microscope \u2014 data
+p80
+aVfrom my colleagues in the Solid State Lighting and Energy Center.
+p81
+aVThey've discovered a new bond,
+p82
+aVa new material for transparent solar cells.
+p83
+aa(lp84
+VWe're flying through 2,000 lattice of atoms \u2014
+p85
+aVoxygen, hydrogen and zinc.
+p86
+aVYou view the bond in the triangle.
+p87
+aVIt's four blue zinc atoms
+p88
+aVbonding with one white hydrogen atom.
+p89
+aVYou see the electron flow with the streamlines
+p90
+aVwe as artists have generated for the scientists.
+p91
+aVThis is allowing them to find the bonding nodes in any lattice of atoms.
+p92
+aVWe think it makes a beautiful structural art.
+p93
+aVThe sound that you're hearing are the actual
+p94
+aVemission spectrums of these atoms.
+p95
+aVWe've mapped them into the audio domain,
+p96
+aVso they're singing to you.
+p97
+aVOxygen, hydrogen and zinc have their own signature.
+p98
+aVWe're going to actually move even further down
+p99
+aVas we go from this lattice of atoms
+p100
+aVto one single hydrogen atom.
+p101
+aa(lp102
+VWe're working with our physicist colleagues
+p103
+aVthat have given us the mathematical calculations
+p104
+aVof the n-dimensional Schrödinger equation in time.
+p105
+aVWhat you're seeing here right now is a superposition of an electron
+p106
+aVin the lower three orbitals of a hydrogen atom.
+p107
+aVYou're actually hearing and seeing the electron flow with the lines.
+p108
+aVThe white dots are the probability wave
+p109
+aVthat will show you where the electron is
+p110
+aVin any given point of time and space
+p111
+aVin this particular three-orbital configuration.
+p112
+aVIn a minute we're going to move to a two-orbital configuration,
+p113
+aVand you're going to notice a pulsing.
+p114
+aVAnd you're going to hear an undulation between the sound.
+p115
+aVThis is actually a light emitter.
+p116
+aVAs the sound starts to pulse and contract,
+p117
+aVour physicists can tell when a photon is going to be emitted.
+p118
+aa(lp119
+VThey're starting to find new mathematical structures
+p120
+aVin these calculations.
+p121
+aVAnd they're understanding more about quantum mathematics.
+p122
+aVWe're going to move even further down,
+p123
+aVand go to one single electron spin.
+p124
+aVThis will be the final project that I show you.
+p125
+aVOur colleagues in the Center for Quantum Computation
+p126
+aVand Spintronics are actually measuring with their lasers
+p127
+aVdecoherence in a single electron spin.
+p128
+aVWe've taken this information and we've
+p129
+aVmade a mathematical model out of it.
+p130
+aVYou're actually seeing and hearing
+p131
+aVquantum information flow.
+p132
+aVThis is very important for the next step in simulating
+p133
+aVquantum computers and information technology.
+p134
+aa(lp135
+VSo these brief examples that I've shown you
+p136
+aVgive you an idea of the kind of work that we're doing
+p137
+aVat the University of California, Santa Barbara,
+p138
+aVto bring together, arts, science
+p139
+aVand engineering
+p140
+aVinto a new age of math, science and art.
+p141
+aVWe hope that all of you will come to see the AlloSphere.
+p142
+aVInspire us to think of new ways that we can use
+p143
+aVthis unique instrument that we've created at Santa Barbara.
+p144
+aVThank you very much.
+p145
+aV(Applause)
+p146
+aasS'id'
+p147
+I516
+sS'title'
+p148
+VStunning data visualization in the AlloSphere
+p149
+s.

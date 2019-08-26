@@ -1,0 +1,352 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VAs a kid, I was fascinated with all things air and space.
+p4
+aVI would watch Nova on PBS.
+p5
+aVOur school would show Bill Nye the Science Guy.
+p6
+aVWhen I was in elementary school, my next door neighbor,
+p7
+aVhe gave me a book for my birthday.
+p8
+aVIt was an astronomy book,
+p9
+aVand I poured over that thing for hours on end,
+p10
+aVand it was a combination of all these things
+p11
+aVthat inspired me to pursue space exploration
+p12
+aVas my own personal dream, and part of that dream was,
+p13
+aVI always wanted to just fly around the solar system
+p14
+aVand visit different planets and visit moons and spacecraft.
+p15
+aa(lp16
+VWell, a number of years later, I graduated from UCLA
+p17
+aVand I found myself at NASA,
+p18
+aVworking for the jet propulsion laboratory,
+p19
+aVand there our team was challenged
+p20
+aVto create a 3D visualization of the solar system,
+p21
+aVand today I want to show you what we've done so far.
+p22
+aa(lp23
+VNow, the kicker is, everything I'm about to do here
+p24
+aVyou can do at home, because we built this
+p25
+aVfor the public for you guys to use.
+p26
+aa(lp27
+VSo what you're looking at right now is the Earth.
+p28
+aVYou can see the United States and California
+p29
+aVand San Diego, and you can use the mouse
+p30
+aVor the keyboard to spin things around.
+p31
+aa(lp32
+VNow, this isn't new. Anyone who's used Google Earth
+p33
+aVhas seen this before, but one thing we like to say
+p34
+aVin our group is, we do the opposite of Google Earth.
+p35
+aVGoogle Earth goes from this view down to your backyard.
+p36
+aVWe go from this view out to the stars.
+p37
+aVSo the Earth is cool, but what we really want to show
+p38
+aVare the spacecraft,
+p39
+aVso I'm going to bring the interface back up,
+p40
+aVand now you're looking at a number of satellites
+p41
+aVorbiting the Earth.
+p42
+aVThese are a number of our science space Earth orbiters.
+p43
+aVWe haven't included military satellites and weather satellites
+p44
+aVand communication satellites and reconnaissance satellites.
+p45
+aVIf we did, it would be a complete mess,
+p46
+aVbecause there's a lot of stuff out there.
+p47
+aVAnd the cool thing is, we actually created 3D models
+p48
+aVfor a number of these spacecraft, so if you want to visit
+p49
+aVany of these, all you need to do is double-click on them.
+p50
+aa(lp51
+VSo I'm going to find the International Space Station,
+p52
+aVdouble-click, and it will take us all the way down to the ISS.
+p53
+aVAnd now you're riding along with the ISS
+p54
+aVwhere it is right now.
+p55
+aa(lp56
+VAnd the other cool thing is, not only can we
+p57
+aVmove the camera around, we can also control time,
+p58
+aVso I can slide this jog dial here
+p59
+aVto shuttle time forward, and now
+p60
+aVwe can see what a sunset on the ISS would look like,
+p61
+aVand they get one every 90 minutes. (Laughter)
+p62
+aa(lp63
+VAll right, so what about the rest of it?
+p64
+aVWell, I can click on this home button over here,
+p65
+aVand that will take us up to the inner solar system,
+p66
+aVand now we're looking at the rest of the solar system.
+p67
+aVYou can see, there's Saturn, there's Jupiter,
+p68
+aVand while we're here, I want to point out something.
+p69
+aVIt's actually pretty busy.
+p70
+aa(lp71
+VHere we have the Mars Science Laboratory
+p72
+aVon its way to Mars, just launched last weekend.
+p73
+aa(lp74
+VHere we have Juno on its cruise to Jupiter, there.
+p75
+aVWe have Dawn orbiting Vesta,
+p76
+aVand we have over here New Horizons
+p77
+aVon a straight shot to Pluto.
+p78
+aa(lp79
+VAnd I mention this because
+p80
+aVthere's this strange public perception that
+p81
+aVNASA's dead, that the space shuttles stopped flying
+p82
+aVand all of the sudden there's no more spacecraft out there.
+p83
+aa(lp84
+VWell, a lot of what NASA does is robotic exploration,
+p85
+aVand we have a lot of spacecraft out there.
+p86
+aVGranted, we're not sending humans up at the moment,
+p87
+aVwell at least with our own launch vehicles,
+p88
+aVbut NASA is far from dead,
+p89
+aVand one of the reasons why we write a program like this
+p90
+aVis so that people realize that there's so many other things
+p91
+aVthat we're doing.
+p92
+aa(lp93
+VAnyway, while we're here, again,
+p94
+aVif you want to visit anything,
+p95
+aVall you need to do is double-click.
+p96
+aVSo I'm just going to double-click on Vesta,
+p97
+aVand here we have Dawn orbiting Vesta,
+p98
+aVand this is happening right now.
+p99
+aVI'm going to double-click on Uranus, and we can see
+p100
+aVUranus rotating on its side along with its moons.
+p101
+aVYou can see how it's tilted at about 89 degrees.
+p102
+aa(lp103
+VAnd just being able to visit different places
+p104
+aVand go through different times,
+p105
+aVwe have data from 1950 to 2050.
+p106
+aVGranted, we don't have everything in between,
+p107
+aVbecause some of the data is hard to get.
+p108
+aVJust being able to visit places in different times,
+p109
+aVyou can explore this for hours,
+p110
+aVliterally hours on end,
+p111
+aVbut I want to show you one thing in particular,
+p112
+aVso I'm going to open up the destination tab,
+p113
+aVspacecraft outer planet missions, Voyager 1,
+p114
+aVand I'm going to bring up the Titan flyby.
+p115
+aVSo now we've gone back in time.
+p116
+aVWe're now riding along with Voyager 1.
+p117
+aVThe date here is November 11, 1980.
+p118
+aa(lp119
+VNow, there's a funny thing going on here.
+p120
+aVIt doesn't look like anything's going on.
+p121
+aVIt looks like I've paused the program.
+p122
+aVIt's actually running at real rate right now,
+p123
+aVone second per second, and in fact,
+p124
+aVVoyager 1 here is flying by Titan at
+p125
+aVI think it's 38,000 miles per hour.
+p126
+aVIt only looks like nothing's moving because, well,
+p127
+aVSaturn here is 700,000 miles away,
+p128
+aVand Titan here is 4,000 to 5,000 miles away.
+p129
+aVIt's just the vastness of space makes it look like nothing's happening.
+p130
+aa(lp131
+VBut to make it more interesting,
+p132
+aVI'm going to speed up time, and we can watch
+p133
+aVas Voyager 1 flies by Titan,
+p134
+aVwhich is a hazy moon of Saturn.
+p135
+aVIt actually has a very thick atmosphere.
+p136
+aVAnd I'm going to recenter the camera on Saturn, here.
+p137
+aVI'm going to pull out, and I want to show you
+p138
+aVVoyager 1 as it flies by Saturn.
+p139
+aa(lp140
+VThere's a point to be made here.
+p141
+aVWith a 3D visualization like this,
+p142
+aVwe can not only just say Voyager 1 flew by Saturn.
+p143
+aVThere's a whole story to tell here.
+p144
+aVAnd even better, because it's an interactive application,
+p145
+aVyou can tell the story for yourself.
+p146
+aVIf you want to pause it, you can pause it.
+p147
+aVIf you want to keep going, if you want to change
+p148
+aVthe camera angle, you can do that,
+p149
+aVand because of that, I can show you
+p150
+aVthat Voyager 1 doesn't just fly by Saturn.
+p151
+aVIt actually flies underneath Saturn.
+p152
+aVNow, what happens is, as it flies underneath Saturn,
+p153
+aVSaturn grabs it gravitationally and flings it up
+p154
+aVand out of the solar system,
+p155
+aVso if I just keep letting this go,
+p156
+aVyou can see Voyager 1 fly up like that.
+p157
+aVAnd, in fact, I'm going to go back to the solar system.
+p158
+aVI'm going to go back to today, now,
+p159
+aVand I want to show you where Voyager 1 is.
+p160
+aVRight there, above, way above the solar system,
+p161
+aVway beyond our solar system.
+p162
+aa(lp163
+VAnd here's the thing. Now you know how it got there.
+p164
+aVNow you know why, and to me,
+p165
+aVthat's the point of this program.
+p166
+aVYou can manipulate it yourself.
+p167
+aVYou can fly around yourself and you can learn for yourself.
+p168
+aa(lp169
+VYou know, the theme today is "The World In Your Grasp."
+p170
+aVWell, we're trying to give you
+p171
+aVthe solar system in your grasp \u2014 (Laughter) \u2014
+p172
+aVand we hope once it's there,
+p173
+aVyou'll be able to learn for yourself
+p174
+aVwhat we've done out there, and what we're about to do.
+p175
+aVAnd my personal dream is for kids to take this
+p176
+aVand explore and see the wonders out there
+p177
+aVand be inspired, as I was as a kid,
+p178
+aVto pursue STEM education
+p179
+aVand to pursue a dream in space exploration.
+p180
+aa(lp181
+VThank you. (Applause)
+p182
+aasS'id'
+p183
+I1488
+sS'title'
+p184
+VTour the solar system from home
+p185
+s.

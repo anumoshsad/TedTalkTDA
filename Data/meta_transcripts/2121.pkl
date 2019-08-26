@@ -1,0 +1,775 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo this is Anna Hazare,
+p4
+aVand Anna Hazare may well be the most cutting-edge
+p5
+aVdigital activist in the world today.
+p6
+aVAnd you wouldn't know it by looking at him.
+p7
+aVHazare is a 77-year-old Indian  anticorruption and social justice activist.
+p8
+aVAnd in 2011, he was running a big campaign
+p9
+aVto address everyday corruption in India,
+p10
+aVa topic that Indian elites love to ignore.
+p11
+aVSo as part of this campaign,
+p12
+aVhe was using all of the traditional tactics
+p13
+aVthat a good Gandhian organizer would use.
+p14
+aVSo he was on a hunger strike,
+p15
+aVand Hazare realized through his hunger
+p16
+aVthat actually maybe this time,
+p17
+aVin the 21st century,
+p18
+aVa hunger strike wouldn't be enough.
+p19
+aa(lp20
+VSo he started playing around  with mobile activism.
+p21
+aVSo the first thing he did  is he said to people,
+p22
+aV"Okay, why don't you send me
+p23
+aVa text message if you support
+p24
+aVmy campaign against corruption?"
+p25
+aVSo he does this, he  gives people a short code,
+p26
+aVand about 80,000 people do it.
+p27
+aVOkay, that's pretty respectable.
+p28
+aVBut then he decides,
+p29
+aV"Let me tweak my tactics a little bit."
+p30
+aVHe says, "Why don't you leave me a missed call?"
+p31
+aVNow, for those of you who have lived in the global South,
+p32
+aVyou'll know that missed calls
+p33
+aVare a really critical part of global mobile culture.
+p34
+aVI see people nodding.
+p35
+aVPeople leave missed calls all the time:
+p36
+aVIf you're running late for a meeting
+p37
+aVand you just want to let them know that you're on the way,
+p38
+aVyou leave them a missed call.
+p39
+aVIf you're dating someone and  you just want to say "I miss you"
+p40
+aVyou leave them a missed call.
+p41
+aVSo a note for a dating tip here,
+p42
+aVin some cultures,
+p43
+aVif you want to please your lover,
+p44
+aVyou call them and hang up. (Laughter)
+p45
+aVSo why do people leave missed calls?
+p46
+aVWell, the reason of course is that
+p47
+aVthey're trying to avoid charges
+p48
+aVassociated with making calls and sending texts.
+p49
+aa(lp50
+VSo when Hazare asked people  to leave him a missed call,
+p51
+aVlet's have a little guess how  many people actually did this?
+p52
+aVThirty-five million.
+p53
+aVSo this is one of the largest coordinated actions in human history.
+p54
+aVIt's remarkable.
+p55
+aVAnd this reflects the extraordinary strength  of the emerging Indian middle class
+p56
+aVand the power that their mobile phones bring.
+p57
+aVBut he used that,
+p58
+aVHazare ended up with this massive  CSV file of mobile phone numbers,
+p59
+aVand he used that to deploy
+p60
+aVreal people power on the ground
+p61
+aVto get hundreds of thousands of people out on the streets in Delhi
+p62
+aVto make a national point of  everyday corruption in India.
+p63
+aVIt's a really striking story.
+p64
+aa(lp65
+VSo this is me when I was 12 years old.
+p66
+aVI hope you see the resemblance.
+p67
+aVAnd I was also an activist,
+p68
+aVand I have been an activist all my life.
+p69
+aVI had this really funny childhood
+p70
+aVwhere I traipsed around the world
+p71
+aVmeeting world leaders and  Noble prize winners,
+p72
+aVtalking about Third World debt,
+p73
+aVas it was then called,
+p74
+aVand demilitarization.
+p75
+aVI was a very, very serious child. (Laughter)
+p76
+aVAnd back then,
+p77
+aVin the early '90s,
+p78
+aVI had a very cutting-edge tech tool of my own:
+p79
+aVthe fax.
+p80
+aVAnd the fax was the  tool of my activism.
+p81
+aVAnd at that time, it was the best way
+p82
+aVto get a message to a lot of people
+p83
+aVall at once.
+p84
+aVI'll give you one example of a fax campaign that I ran.
+p85
+aVIt was the eve of the Gulf War
+p86
+aVand I organized a global campaign  to flood the hotel,
+p87
+aVthe Intercontinental in Geneva,
+p88
+aVwhere James Baker and Tariq Aziz
+p89
+aVwere meeting on the eve of the war,
+p90
+aVand I thought if I could  flood them with faxes,
+p91
+aVwe'll stop the war.
+p92
+aa(lp93
+VWell, unsurprisingly,
+p94
+aVthat campaign was wholly unsuccessful.
+p95
+aVThere are lots of reasons for that,
+p96
+aVbut there's no doubt that  one sputtering fax machine
+p97
+aVin Geneva was a little bit of a bandwidth constraint
+p98
+aVin terms of the ability to  get a message to lots of people.
+p99
+aVAnd so, I went on to  discover some better tools.
+p100
+aVI cofounded Avaaz, which uses the  Internet to mobilize people
+p101
+aVand now has almost  40 million members,
+p102
+aVand I now run Purpose, which  is a home for these kinds of
+p103
+aVtechnology-powered movements.
+p104
+aVSo what's the moral of this story?
+p105
+aVIs the moral of this story,
+p106
+aVyou know what, the fax is kind of eclipsed by the mobile phone?
+p107
+aVThis is another story of  tech-determinism?
+p108
+aVWell, I would argue that there's  actually more to it than that.
+p109
+aVI'd argue that in the last 20 years,
+p110
+aVsomething more fundamental has changed
+p111
+aVthan just new tech.
+p112
+aVI would argue that there has been a fundamental shift
+p113
+aVin the balance of power
+p114
+aVin the world.
+p115
+aa(lp116
+VYou ask any activist how  to understand the world,
+p117
+aVand they'll say, "Look at where the power is,
+p118
+aVwho has it, how it's shifting."
+p119
+aVAnd I think we all sense that  something big is happening.
+p120
+aa(lp121
+VSo Henry Timms and I \u2014
+p122
+aVHenry's a fellow movement builder \u2014
+p123
+aVgot talking one day and  we started to think,
+p124
+aVhow can we make sense of this new world?
+p125
+aVHow can we describe it and give
+p126
+aVit a framework that makes it more useful?
+p127
+aVBecause we realized that many
+p128
+aVof the lessons that we were discovering in movements
+p129
+aVactually applied all over the world
+p130
+aVin many sectors of our society.
+p131
+aVSo I want to introduce you to this framework:
+p132
+aVOld power, meet new power.
+p133
+aVAnd I want to talk to you about what new power is today.
+p134
+aVNew power is the deployment
+p135
+aVof mass participation  and peer coordination \u2014
+p136
+aVthese are the two key elements \u2014
+p137
+aVto create change and shift outcomes.
+p138
+aVAnd we see new power all around us.
+p139
+aa(lp140
+VThis is Beppe Grillo
+p141
+aVhe was a populist Italian blogger
+p142
+aVwho, with a minimal political apparatus and only some online tools,
+p143
+aVwon more than 25 percent of the vote
+p144
+aVin recent Italian elections.
+p145
+aVThis is Airbnb,
+p146
+aVwhich in just a few years
+p147
+aVhas radically disrupted the hotel industry
+p148
+aVwithout owning a single square foot of real estate.
+p149
+aVThis is Kickstarter,
+p150
+aVwhich we know has raised over a billion dollars
+p151
+aVfrom more than five million people.
+p152
+aVNow, we're familiar with all of these models.
+p153
+aVBut what's striking is the commonalities,
+p154
+aVthe structural features of  these new models
+p155
+aVand how they differ from old power.
+p156
+aa(lp157
+VLet's look a little bit at this.
+p158
+aVOld power is held like a currency.
+p159
+aVNew power works like a current.
+p160
+aVOld power is held by a few.
+p161
+aVNew power isn't held by a few, it's made by many.
+p162
+aVOld power is all about download,
+p163
+aVand new power uploads.
+p164
+aVAnd you see a whole set of  characteristics that you can trace,
+p165
+aVwhether it's in media or  politics or education.
+p166
+aa(lp167
+VSo we've talked a little bit  about what new power is.
+p168
+aVLet's, for a second, talk about  what new power isn't.
+p169
+aVNew power is not your Facebook page.
+p170
+aVI assure you that having a  social media strategy
+p171
+aVcan enable you to do just as much download
+p172
+aVas you used to do when you had the radio.
+p173
+aVJust ask Syrian dictator Bashar al-Assad,
+p174
+aVI assure you that his Facebook page
+p175
+aVhas not embraced the power of participation.
+p176
+aVNew power is not inherently positive.
+p177
+aVIn fact, this isn't an normative argument that we're making,
+p178
+aVthere are many good things  about new power,
+p179
+aVbut it can produce bad outcomes.
+p180
+aVMore participation, more peer coordination,
+p181
+aVsometimes distorts outcomes
+p182
+aVand there are some things,
+p183
+aVlike things, for example,  in the medical profession
+p184
+aVthat we want new power  to get nowhere near.
+p185
+aVAnd thirdly, new power is not the inevitable victor.
+p186
+aVIn fact, unsurprisingly,
+p187
+aVas many of these new power models get to scale,
+p188
+aVwhat you see is this massive pushback
+p189
+aVfrom the forces of old power.
+p190
+aVJust look at this really  interesting epic struggle
+p191
+aVgoing on right now between  Edward Snowden and the NSA.
+p192
+aVYou'll note that only one of  the two people on this slide
+p193
+aVis currently in exile.
+p194
+aVAnd so, it's not at all clear
+p195
+aVthat new power will be  the inevitable victor.
+p196
+aa(lp197
+VThat said, keep one thing in mind:
+p198
+aVWe're at the beginning of a very steep curve.
+p199
+aVSo you think about some of  these new power models, right?
+p200
+aVThese were just like someone's
+p201
+aVgarage idea a few years ago,
+p202
+aVand now they're disrupting  entire industries.
+p203
+aVAnd so, what's interesting about new power,
+p204
+aVis the way it feeds on itself.
+p205
+aVOnce you have an experience of new power,
+p206
+aVyou tend to expect and  want more of it.
+p207
+aVSo let's say you've used a peer-to-peer lending platform
+p208
+aVlike Lending Tree or Prosper,
+p209
+aVthen you've figured out that you don't need the bank,
+p210
+aVand who wants the bank, right?
+p211
+aVAnd so, that experience tends  to embolden you
+p212
+aVit tends to make you want more participation
+p213
+aVacross more aspects of your life.
+p214
+aVAnd what this gives rise to is
+p215
+aVa set of values.
+p216
+aVWe talked about the models
+p217
+aVthat new power has engendered \u2014
+p218
+aVthe Airbnbs, the Kickstarters.
+p219
+aVWhat about the values?
+p220
+aVAnd this is an early sketch
+p221
+aVat what new power values look like.
+p222
+aa(lp223
+VNew power values prize transparency above all else.
+p224
+aVIt's almost a religious  belief in transparency,
+p225
+aVa belief that if you shine  a light on something,
+p226
+aVit will be better.
+p227
+aVAnd remember that in the 20th  century, this was not at all true.
+p228
+aVPeople thought that gentlemen should sit behind closed doors
+p229
+aVand make comfortable agreements.
+p230
+aVNew power values of informal, networked governance.
+p231
+aVNew power folks would never  have invented the U.N. today,
+p232
+aVfor better or worse.
+p233
+aVNew power values participation,
+p234
+aVand new power is all about do-it-yourself.
+p235
+aVIn fact, what's interesting  about new power
+p236
+aVis that it eschews some of  the professionalization
+p237
+aVand specialization that was
+p238
+aVall the rage in the 20th century.
+p239
+aa(lp240
+VSo what's interesting about these
+p241
+aVnew power values and these new power models
+p242
+aVis what they mean for organizations.
+p243
+aVSo we've spent a bit of time thinking,
+p244
+aVhow can we plot organizations
+p245
+aVon a two-by-two where, essentially,
+p246
+aVwe look at new power values
+p247
+aVand new power models
+p248
+aVand see where different people sit?
+p249
+aVWe started with a U.S. analysis,
+p250
+aVand let me show you  some interesting findings.
+p251
+aVSo the first is Apple.
+p252
+aVIn this framework, we actually described Apple
+p253
+aVas an old power company.
+p254
+aVThat's because the ideology,
+p255
+aVthe governing ideology of Apple
+p256
+aVis the ideology of the perfectionist
+p257
+aVproduct designer in Cupertino.
+p258
+aVIt's absolutely about that beautiful,  perfect thing descending upon us
+p259
+aVin perfection.
+p260
+aVAnd it does not value, as a  company, transparency.
+p261
+aVIn fact, it's very secretive.
+p262
+aVNow, Apple is one of the most succesful companies in the world.
+p263
+aVSo this shows that you can
+p264
+aVstill pursue a successful  old power strategy.
+p265
+aVBut one can argue that there's  real vulnerabilites in that model.
+p266
+aVI think another interesting comparison
+p267
+aVis that of the Obama campaign
+p268
+aVversus the Obama presidency.
+p269
+aV(Applause)
+p270
+aVNow, I like President Obama,
+p271
+aVbut he ran with new  power at his back, right?
+p272
+aVAnd he said to people,
+p273
+aVwe are the ones we've been waiting for.
+p274
+aVAnd he used crowdfunding
+p275
+aVto power a campaign.
+p276
+aVBut when he got into office,
+p277
+aVhe governed like more or less  all the other presidents did.
+p278
+aVAnd this is a really interesting trend,
+p279
+aVis when new power gets powerful,
+p280
+aVwhat happens?
+p281
+aVSo this is a framework you  should look at
+p282
+aVand think about where your own organization
+p283
+aVsits on it.
+p284
+aVAnd think about where it should be
+p285
+aVin five or 10 years.
+p286
+aVSo what do you do if you're old power?
+p287
+aVWell, if you're there  thinking, in old power,
+p288
+aVthis won't happen to us.
+p289
+aVThen just look at the Wikipedia entry for Encyclopædia Britannica.
+p290
+aVLet me tell you, it's a very sad read.
+p291
+aa(lp292
+VBut if you are old power,
+p293
+aVthe most important thing you  can do is to occupy yourself
+p294
+aVbefore others occupy you,
+p295
+aVbefore you are occupied.
+p296
+aVImagine that a group of your biggest skeptics
+p297
+aVare camped in the heart of your organization
+p298
+aVasking the toughest questions
+p299
+aVand they can see everything inside of your organization.
+p300
+aVAnd ask them, would they  like what they see
+p301
+aVand should our model change?
+p302
+aVWhat about if you're new power?
+p303
+aVIs new power kind of just  riding the wave to glory?
+p304
+aVI would argue no.
+p305
+aVI would argue that there are some very real challenges
+p306
+aVto new power in this nascent phase.
+p307
+aVLet's stick with the Occupy Wall Street example for a moment.
+p308
+aVOccupy was this incredible example  of new power,
+p309
+aVthe purest example of new power.
+p310
+aVAnd yet, it failed to consolidate.
+p311
+aVSo the energy that it created
+p312
+aVwas great for the meme phase,
+p313
+aVbut they were so committed to participation,
+p314
+aVthat they never got anything done.
+p315
+aVAnd in fact that model
+p316
+aVmeans that the challenge for new power is:
+p317
+aVhow do you use institutional power
+p318
+aVwithout being institutionalized?
+p319
+aa(lp320
+VOne the other end of the spectra is Uber.
+p321
+aVUber is an amazing,
+p322
+aVhighly scalable new power model.
+p323
+aVThat network is getting denser and denser
+p324
+aVby the day.
+p325
+aVBut what's really interesting  about Uber is
+p326
+aVit hasn't really adopted new power values.
+p327
+aVThis is a real quote from  the Uber CEO recently:
+p328
+aVHe says, "Once we get rid of the dude  in the car" \u2014 he means drivers \u2014
+p329
+aV"Uber will be cheaper."
+p330
+aVNow, new power models live and die
+p331
+aVby the strength of their networks.
+p332
+aVBy whether the drivers and the consumers
+p333
+aVwho use the service actually believe in it.
+p334
+aVBecause they're not an exercise  of top-down perfectionism,
+p335
+aVthey are about the network.
+p336
+aVAnd so, the challenge,
+p337
+aVand this is why it's in no way surprising,
+p338
+aVis that Uber's drivers  are now unionizing.
+p339
+aVIt's extraordinary.
+p340
+aVUber's drivers are turning on Uber.
+p341
+aVAnd the challenge for Uber \u2014
+p342
+aVthis isn't an easy situation for them \u2014
+p343
+aVis that they are locked into a broader superstrcuture
+p344
+aVthat is really old power.
+p345
+aVThey've raised more than a billion  dollars in the capital markets.
+p346
+aVThose markets expect a financial return,
+p347
+aVand they way you get a financial return
+p348
+aVis by squeezing and squeezing
+p349
+aVyour users and your drivers
+p350
+aVfor more and more value
+p351
+aVand giving that value to your investors.
+p352
+aa(lp353
+VSo the big question about the future  of new power, in my view, is:
+p354
+aVWill that old power just emerge?
+p355
+aVSo will new power elites just become
+p356
+aVold power and squeeze?
+p357
+aVOr will that new power base bite back?
+p358
+aVWill the next big Uber
+p359
+aVbe co-owned by Uber drivers?
+p360
+aVAnd I think this going  to be a very interesting
+p361
+aVstructural question.
+p362
+aa(lp363
+VFinally, think about new power
+p364
+aVbeing more than just an
+p365
+aVentity that scales things
+p366
+aVthat make us have slightly  better consumer experiences.
+p367
+aVMy call to action for new power
+p368
+aVis to not be an island.
+p369
+aVWe have major structural problems in the world today
+p370
+aVthat could benefit enormously
+p371
+aVfrom the kinds of mass participation
+p372
+aVand peer coordination
+p373
+aVthat these new power players
+p374
+aVknow so well how to generate.
+p375
+aVAnd we badly need them to  turn their energies and their power
+p376
+aVto big, what economists might call
+p377
+aVpublic goods problems,
+p378
+aVthat are often beyond markets
+p379
+aVwhere investors can easily be found.
+p380
+aVAnd I think if we can do that,
+p381
+aVwe might be able to fundamentally change
+p382
+aVnot only human beings' sense of  their own agency and power \u2014
+p383
+aVbecause I think that's the most wonderful thing about new power,
+p384
+aVis that people feel more powerful \u2014
+p385
+aVbut we might also be able to change
+p386
+aVthe way we relate to each other
+p387
+aVand the way we relate to  authority and institutions.
+p388
+aVAnd to me, that's absolutely
+p389
+aVworth trying for.
+p390
+aVThank you very much.
+p391
+aV(Applause)
+p392
+aasS'id'
+p393
+I2121
+sS'title'
+p394
+VWhat new power looks like
+p395
+s.

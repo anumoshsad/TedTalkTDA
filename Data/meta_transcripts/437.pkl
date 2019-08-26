@@ -1,0 +1,757 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhat's happening in genomics,
+p4
+aVand how this revolution is about to change everything we know
+p5
+aVabout the world, life, ourselves, and how we think about them.
+p6
+aa(lp7
+VIf you saw 2001: A Space Odyssey,
+p8
+aVand you heard the boom, boom, boom, boom, and you saw the monolith,
+p9
+aVyou know, that was Arthur C. Clarke's representation
+p10
+aVthat we were at a seminal moment in the evolution of our species.
+p11
+aVIn this case, it was picking up bones and creating a tool,
+p12
+aVusing it as a tool, which meant that apes just, sort of,
+p13
+aVrunning around and eating and doing each other
+p14
+aVfigured out they can make things if they used a tool.
+p15
+aVAnd that moved us to the next level.
+p16
+aa(lp17
+VAnd, you know, we in the last 30 years in particular
+p18
+aVhave seen this acceleration in knowledge and technology,
+p19
+aVand technology has bred more knowledge and given us tools.
+p20
+aVAnd we've seen many seminal moments.
+p21
+aVWe've seen the creation of small computers in the '70s and early '80s,
+p22
+aVand who would have thought back then that every single person
+p23
+aVwould not have just one computer but probably 20,
+p24
+aVin your home, and in not just your P.C. but in every device \u2014
+p25
+aVin your washing machine, your cell phone.
+p26
+aVYou're walking around; your car has 12 microprocessors.
+p27
+aVThen we go along and create the Internet
+p28
+aVand connect the world together; we flatten the world.
+p29
+aa(lp30
+VWe've seen so much change, and we've given ourselves these tools now \u2014
+p31
+aVthese high-powered tools \u2014
+p32
+aVthat are allowing us to turn the lens inward
+p33
+aVinto something that is common to all of us, and that is a genome.
+p34
+aa(lp35
+VHow's your genome today? Have you thought about it lately?
+p36
+aVHeard about it, at least? You probably hear about genomes these days.
+p37
+aa(lp38
+VI thought I'd take a moment to tell you what a genome is.
+p39
+aVIt's, sort of, like if you ask people,
+p40
+aVWell, what is a megabyte or megabit? And what is broadband?
+p41
+aVPeople never want to say, I really don't understand.
+p42
+aVSo, I will tell you right off of the bat.
+p43
+aVYou've heard of DNA; you probably studied a little bit in biology.
+p44
+aVA genome is really a description for  all of the DNA that is in a living organism.
+p45
+aVAnd one thing that is common to all of life is DNA.
+p46
+aVIt doesn't matter whether you're a yeast;
+p47
+aVit doesn't matter whether you're a mouse;
+p48
+aVdoesn't matter whether you're a fly; we all have DNA.
+p49
+aVThe DNA is organized in words, call them: genes and chromosomes.
+p50
+aa(lp51
+VAnd when Watson and Crick in the '50s
+p52
+aVfirst decoded this beautiful double helix that we know as the DNA molecule \u2014
+p53
+aVvery long, complicated molecule \u2014
+p54
+aVwe then started on this journey to understand that
+p55
+aVinside of that DNA is a language that determines the characteristics, our traits,
+p56
+aVwhat we inherit, what diseases we may get.
+p57
+aVWe've also along the way discovered that this is a very old molecule,
+p58
+aVthat all of the DNA in your body has been around forever,
+p59
+aVsince the beginning of us, of us as creatures.
+p60
+aVThere is a historical archive.
+p61
+aa(lp62
+VLiving in your genome is the history of our species,
+p63
+aVand you as an individual human being, where you're from,
+p64
+aVgoing back thousands and thousands and thousands of years,
+p65
+aVand that's now starting to be understood.
+p66
+aVBut also, the genome is really the instruction manual.
+p67
+aVIt is the program. It is the code of life.
+p68
+aVIt is what makes you function;
+p69
+aVit is what makes every organism function.
+p70
+aVDNA is a very elegant molecule.
+p71
+aVIt's long and it's complicated.
+p72
+aVReally all you have to know about it is that there's four letters:
+p73
+aVA, T, C, G; they represent the name of a chemical.
+p74
+aVAnd with these four letters, you can create a language:
+p75
+aVa language that can describe anything, and very complicated things.
+p76
+aVYou know, they are generally put together in pairs,
+p77
+aVcreating a word or what we call base pairs.
+p78
+aVAnd you would, you know, when you think about it,
+p79
+aVfour letters, or the representation of four things, makes us work.
+p80
+aa(lp81
+VAnd that may not sound very intuitive,
+p82
+aVbut let me flip over to something else you know about, and that's computers.
+p83
+aVLook at this screen here and, you know, you see pictures
+p84
+aVand you see words, but really all there are are ones and zeros.
+p85
+aVThe language of technology is binary;
+p86
+aVyou've probably heard that at some point in time.
+p87
+aVEverything that happens in digital is converted,
+p88
+aVor a representation, of a one and a zero.
+p89
+aVSo, when you're listening to iTunes and your favorite music,
+p90
+aVthat's really just a bunch of ones and zeros playing very quickly.
+p91
+aVWhen you're seeing these pictures, it's all ones and zeros,
+p92
+aVand when you're talking on your telephone, your cell phone,
+p93
+aVand it's going over the network,
+p94
+aVyour voice is all being turned into ones and zeros and magically whizzed around.
+p95
+aVAnd look at all the complex things and wonderful things
+p96
+aVwe've been able to create with just a one and a zero.
+p97
+aa(lp98
+VWell, now you ramp that up to four, and you have a lot of complexity,
+p99
+aVa lot of ways to describe mechanisms.
+p100
+aVSo, let's talk about what that means.
+p101
+aVSo, if you look at a human genome,
+p102
+aVthey consist of 3.2 billion of these base pairs. That's a lot.
+p103
+aVAnd they mix up in all different fashions,
+p104
+aVand that makes you a human being.
+p105
+aVIf you convert that to binary, just to give you a little bit of sizing,
+p106
+aVwe're actually smaller than the program Microsoft Office.
+p107
+aVIt's not really all that much data.
+p108
+aVI will also tell you we're at least as buggy.
+p109
+aV(Laughter)
+p110
+aa(lp111
+VThis here is a bug in my genome
+p112
+aVthat I have struggled with for a long, long time.
+p113
+aVWhen you get sick, it is a bug in your genome.
+p114
+aVIn fact, many, many diseases we have struggled with for a long time,
+p115
+aVlike cancer, we haven't been able to cure
+p116
+aVbecause we just don't understand how it works at the genomic level.
+p117
+aVWe are starting to understand that.
+p118
+aa(lp119
+VSo, up to this point we tried to fix it
+p120
+aVby using what I call shit-against-the-wall pharmacology,
+p121
+aVwhich means, well, let's just throw chemicals at it,
+p122
+aVand maybe it's going to make it work.
+p123
+aVBut if you really understand why does a cell go from normal cell to cancer?
+p124
+aVWhat is the code?
+p125
+aVWhat are the exact instructions that are making it do that?
+p126
+aVthen you can go about the process of trying to fix it and figure it out.
+p127
+aVSo, for your next dinner over a great bottle of wine, here's a few factoids for you.
+p128
+aa(lp129
+VWe actually have about 24,000 genes that do things.
+p130
+aVWe have about a hundred, 120,000 others
+p131
+aVthat don't appear to function every day,
+p132
+aVbut represent this archival history of how we used to work as a species
+p133
+aVgoing back tens of thousands of years.
+p134
+aVYou might also be interested in knowing
+p135
+aVthat a mouse has about the same amount of genes.
+p136
+aa(lp137
+VThey recently sequenced Pinot Noir, and it also has about 30,000 genes,
+p138
+aVso the number of genes you have may not necessarily represent the complexity
+p139
+aVor the evolutionary order of any particular species.
+p140
+aVNow, look around: just look next to your neighbor,
+p141
+aVlook forward, look backward. We all look pretty different.
+p142
+aVA lot of very handsome and pretty people here, skinny, chubby,
+p143
+aVdifferent races, cultures. We are all 99.9% genetically equal.
+p144
+aVIt is one one-hundredth of one percent of genetic material
+p145
+aVthat makes the difference between any one of us.
+p146
+aVThat's a tiny amount of material,
+p147
+aVbut the way that ultimately expresses itself
+p148
+aVis what makes changes in humans and in all species.
+p149
+aa(lp150
+VSo, we are now able to read genomes.
+p151
+aVThe first human genome took 10 years, three billion dollars.
+p152
+aVIt was done by Dr. Craig Venter.
+p153
+aVAnd then James Watson's \u2014 one of the co-founders of DNA \u2014
+p154
+aVgenome was done for two million dollars, and in just two months.
+p155
+aVAnd if you think about the computer industry
+p156
+aVand how we've gone from big computers to little ones
+p157
+aVand how they get more powerful and faster all the time,
+p158
+aVthe same thing is happening with gene sequencing now:
+p159
+aVwe are on the cusp of being able to sequence human genomes
+p160
+aVfor about 5,000 dollars in about an hour or a half-hour;
+p161
+aVyou will see that happen in the next five years.
+p162
+aa(lp163
+VAnd what that means is, you are going to walk around
+p164
+aVwith your own personal genome on a smart card. It will be here.
+p165
+aVAnd when you buy medicine,
+p166
+aVyou won't be buying a drug that's used for everybody.
+p167
+aVYou will give your genome to the pharmacist,
+p168
+aVand your drug will be made for you
+p169
+aVand it will work much better than the ones that were \u2014
+p170
+aVyou won't have side effects.
+p171
+aVAll those side effects, you know, oily residue and, you know,
+p172
+aVwhatever they say in those commercials: forget about that.
+p173
+aVThey're going to make all that stuff go away.
+p174
+aa(lp175
+VWhat does a genome look like?
+p176
+aVWell, there it is. It is a long, long series of these base pairs.
+p177
+aVIf you saw the genome for a mouse or for a human it would look no different than this,
+p178
+aVbut what scientists are doing now is
+p179
+aVthey're understanding what these do and what they mean.
+p180
+aVBecause what Nature is doing is double-clicking all the time.
+p181
+aVIn other words, the first couple of sentences here,
+p182
+aVassuming this is a grape plant:
+p183
+aVmake a root, make a branch, create a blossom.
+p184
+aVIn a human being, down in here it could be:
+p185
+aVmake blood cells, start cancer.
+p186
+aVFor me it may be: every calorie you consume, you conserve,
+p187
+aVbecause I come from a very cold climate.
+p188
+aVFor my wife: eat three times as much and you never put on any weight.
+p189
+aVIt's all hidden in this code,
+p190
+aVand it's starting to be understood at breakneck pace.
+p191
+aa(lp192
+VSo, what can we do with genomes now that we can read them,
+p193
+aVnow that we're starting to have the book of life?
+p194
+aVWell, there's many things. Some are exciting.
+p195
+aVSome people will find very scary. I will tell you a couple of things
+p196
+aVthat will probably make you want to projectile puke on me, but that's okay.
+p197
+aVSo, you know, we now can learn the history of organisms.
+p198
+aa(lp199
+VYou can do a very simple test: scrape your cheek; send it off.
+p200
+aVYou can find out where your relatives come from;
+p201
+aVyou can do your genealogy going back thousands of years.
+p202
+aVWe can understand functionality. This is really important.
+p203
+aVWe can understand, for example, why we create plaque in our arteries,
+p204
+aVwhat creates the starchiness inside of a grain,
+p205
+aVwhy does yeast metabolize sugar and produce carbon dioxide.
+p206
+aVWe can also look at, at a grander scale, what creates problems,
+p207
+aVwhat creates disease, and how we may be able to fix them.
+p208
+aVBecause we can understand this,
+p209
+aVwe can fix them, make better organisms.
+p210
+aa(lp211
+VMost importantly, what we're learning
+p212
+aVis that Nature has provided us a spectacular toolbox.
+p213
+aVThe toolbox exists.
+p214
+aVAn architect far better and smarter than us has given us that toolbox,
+p215
+aVand we now have the ability to use it.
+p216
+aVWe are now not just reading genomes; we are writing them.
+p217
+aa(lp218
+VThis company, Synthetic Genomics, I'm involved with,
+p219
+aVcreated the first full synthetic genome for a little bug,
+p220
+aVa very primitive creature called Mycoplasma genitalium.
+p221
+aVIf you have a UTI, you've probably \u2014 or ever had a UTI \u2014
+p222
+aVyou've come in contact with this little bug.
+p223
+aVVery simple \u2014 only has about 246 genes \u2014
+p224
+aVbut we were able to completely synthesize that genome.
+p225
+aVNow, you have the genome and you say to yourself,
+p226
+aVSo, if I plug this synthetic genome \u2014 if I pull the old one out and plug it in \u2014
+p227
+aVdoes it just boot up and live?
+p228
+aVWell, guess what. It does.
+p229
+aa(lp230
+VNot only does it do that; if you took the genome \u2014 that synthetic genome \u2014
+p231
+aVand you plugged it into a different critter, like yeast,
+p232
+aVyou now turn that yeast into Mycoplasma.
+p233
+aVIt's, sort of, like booting up a PC with a Mac O.S. software.
+p234
+aVWell, actually, you could do it the other way.
+p235
+aVSo, you know, by being able to write a genome
+p236
+aVand plug it into an organism,
+p237
+aVthe software, if you will, changes the hardware.
+p238
+aVAnd this is extremely profound.
+p239
+aa(lp240
+VSo, last year the French and Italians announced
+p241
+aVthey got together and they went ahead and they sequenced Pinot Noir.
+p242
+aVThe genomic sequence now exists for the entire Pinot Noir organism,
+p243
+aVand they identified, once again, about 29,000 genes.
+p244
+aVThey have discovered pathways that create flavors,
+p245
+aValthough it's very important to understand
+p246
+aVthat those compounds that it's cranking out
+p247
+aVhave to match a receptor in our genome, in our tongue,
+p248
+aVfor us to understand and interpret those flavors.
+p249
+aa(lp250
+VThey've also discovered that
+p251
+aVthere's a heck of a lot of activity going on producing aroma as well.
+p252
+aVThey've identified areas of vulnerability to disease.
+p253
+aVThey now are understanding, and the work is going on,
+p254
+aVexactly how this plant works, and we have the capability to know,
+p255
+aVto read that entire code and understand how it ticks.
+p256
+aVSo, then what do you do?
+p257
+aVKnowing that we can read it, knowing that we can write it, change it,
+p258
+aVmaybe write its genome from scratch. So, what do you do?
+p259
+aVWell, one thing you could do is what some people might call Franken-Noir.
+p260
+aV(Laughter)
+p261
+aa(lp262
+VWe can build a better vine.
+p263
+aVBy the way, just so you know:
+p264
+aVyou get stressed out about genetically modified organisms;
+p265
+aVthere is not one single vine in this valley or anywhere
+p266
+aVthat is not genetically modified.
+p267
+aVThey're not grown from seeds; they're grafted into root stock;
+p268
+aVthey would not exist in nature on their own.
+p269
+aa(lp270
+VSo, don't worry about, don't stress about that stuff. We've been doing this forever.
+p271
+aVSo, we could, you know, focus on disease resistance;
+p272
+aVwe can go for higher yields without necessarily having
+p273
+aVdramatic farming techniques to do it, or costs.
+p274
+aVWe could conceivably expand the climate window:
+p275
+aVwe could make Pinot Noir grow maybe in Long Island, God forbid.
+p276
+aV(Laughter)
+p277
+aa(lp278
+VWe could produce better flavors and aromas.
+p279
+aVYou want a little more raspberry, a little more chocolate here or there?
+p280
+aVAll of these things could conceivably be done,
+p281
+aVand I will tell you I'd pretty much bet that it will be done.
+p282
+aVBut there's an ecosystem here.
+p283
+aVIn other words, we're not, sort of, unique little organisms running around;
+p284
+aVwe are part of a big ecosystem.
+p285
+aa(lp286
+VIn fact \u2014 I'm sorry to inform you \u2014
+p287
+aVthat inside of your digestive tract is about 10 pounds of microbes
+p288
+aVwhich you're circulating through your body quite a bit.
+p289
+aVOur ocean's teaming with microbes;
+p290
+aVin fact, when Craig Venter went and sequenced the microbes in the ocean,
+p291
+aVin the first three months tripled the known species on the planet
+p292
+aVby discovering all-new microbes in the first 20 feet of water.
+p293
+aVWe now understand that those microbes have more impact on our climate
+p294
+aVand regulating CO2 and oxygen than plants do,
+p295
+aVwhich we always thought oxygenate the atmosphere.
+p296
+aa(lp297
+VWe find microbial life in every part of the planet:
+p298
+aVin ice, in coal, in rocks, in volcanic vents; it's an amazing thing.
+p299
+aVBut we've also discovered, when it comes to plants, in plants,
+p300
+aVas much as we understand and are starting to understand their genomes,
+p301
+aVit is the ecosystem around them,
+p302
+aVit is the microbes that live in their root systems,
+p303
+aVthat have just as much impact on the character of those plants
+p304
+aVas the metabolic pathways of the plants themselves.
+p305
+aa(lp306
+VIf you take a closer look at a root system,
+p307
+aVyou will find there are many, many, many diverse microbial colonies.
+p308
+aVThis is not big news to viticulturists;
+p309
+aVthey have been, you know, concerned with water and fertilization.
+p310
+aVAnd, again, this is, sort of, my notion of shit-against-the-wall pharmacology:
+p311
+aVyou know certain fertilizers make the plant more healthy so you put more in.
+p312
+aVYou don't necessarily know with granularity
+p313
+aVexactly what organisms are providing what flavors and what characteristics.
+p314
+aVWe can start to figure that out.
+p315
+aVWe all talk about terroir; we worship terroir;
+p316
+aVwe say, Wow, is my terroir great! It's so special.
+p317
+aVI've got this piece of land and it creates terroir like you wouldn't believe.
+p318
+aa(lp319
+VWell, you know, we really, we argue and debate about it \u2014
+p320
+aVwe say it's climate, it's soil, it's this. Well, guess what?
+p321
+aVWe can figure out what the heck terroir is.
+p322
+aVIt's in there, waiting to be sequenced.
+p323
+aVThere are thousands of microbes there.
+p324
+aVThey're easy to sequence: unlike a human,
+p325
+aVthey, you know, have a thousand, two thousand genes;
+p326
+aVwe can figure out what they are.
+p327
+aa(lp328
+VAll we have to do is go around and sample, dig into the ground, find those bugs,
+p329
+aVsequence them, correlate them to the kinds of characteristics we like and don't like \u2014
+p330
+aVthat's just a big database \u2014 and then fertilize.
+p331
+aVAnd then we understand what is terroir.
+p332
+aVSo, some people will say, Oh, my God, are we playing God?
+p333
+aVAre we now, if we engineer organisms, are we playing God?
+p334
+aVAnd, you know, people would always ask James Watson \u2014
+p335
+aVhe's not always the most politically correct guy ...
+p336
+aV(Laughter)
+p337
+aV... and they would say, "Are, you know, are you playing God?"
+p338
+aVAnd he had the best answer I ever heard to this question:
+p339
+aV"Well, somebody has to."
+p340
+aV(Laughter)
+p341
+aa(lp342
+VI consider myself a very spiritual person,
+p343
+aVand without, you know, the organized religion part,
+p344
+aVand I will tell you: I don't believe there's anything unnatural.
+p345
+aVI don't believe that chemicals are unnatural.
+p346
+aVI told you I'm going to make some of you puke.
+p347
+aVIt's very simple: we don't invent molecules, compounds.
+p348
+aVThey're here. They're in the universe.
+p349
+aVWe reorganize things, we change them around,
+p350
+aVbut we don't make anything unnatural.
+p351
+aa(lp352
+VNow, we can create bad impacts \u2014
+p353
+aVwe can poison ourselves; we can poison the Earth \u2014
+p354
+aVbut that's just a natural outcome of a mistake we made.
+p355
+aVSo, what's happening today is, Nature is presenting us with a toolbox,
+p356
+aVand we find that this toolbox is very extensive.
+p357
+aVThere are microbes out there that actually make gasoline, believe it or not.
+p358
+aVThere are microbes, you know \u2014 go back to yeast.
+p359
+aVThese are chemical factories;
+p360
+aVthe most sophisticated chemical factories are provided by Nature,
+p361
+aVand we now can use those.
+p362
+aVThere also is a set of rules.
+p363
+aa(lp364
+VNature will not allow you to \u2014
+p365
+aVwe could engineer a grape plant, but guess what.
+p366
+aVWe can't make the grape plant produce babies.
+p367
+aVNature has put a set of rules out there.
+p368
+aVWe can work within the rules; we can't break the rules;
+p369
+aVwe're just learning what the rules are.
+p370
+aVI just ask the question, if you could cure all disease \u2014
+p371
+aVif you could make disease go away,
+p372
+aVbecause we understand how it actually works,
+p373
+aVif we could end hunger by being able to create nutritious, healthy plants
+p374
+aVthat grow in very hard-to-grow environments,
+p375
+aVif we could create clean and plentiful energy \u2014
+p376
+aVwe, right in the labs at Synthetic Genomics,
+p377
+aVhave single-celled organisms that are taking carbon dioxide
+p378
+aVand producing a molecule very similar to gasoline.
+p379
+aVSo, carbon dioxide \u2014 the stuff we want to get rid of \u2014 not sugar, not anything.
+p380
+aVCarbon dioxide, a little bit of sunlight,
+p381
+aVyou end up with a lipid that is highly refined.
+p382
+aVWe could solve our energy problems; we can reduce CO2,;
+p383
+aVwe could clean up our oceans; we could make better wine.
+p384
+aVIf we could, would we?
+p385
+aVWell, you know, I think the answer is very simple:
+p386
+aVworking with Nature, working with this tool set that we now understand,
+p387
+aVis the next step in humankind's evolution.
+p388
+aa(lp389
+VAnd all I can tell you is, stay healthy for 20 years.
+p390
+aVIf you can stay healthy for 20 years, you'll see 150, maybe 300.
+p391
+aa(lp392
+VThank you.
+p393
+aasS'id'
+p394
+I437
+sS'title'
+p395
+VGenomics 101
+p396
+s.

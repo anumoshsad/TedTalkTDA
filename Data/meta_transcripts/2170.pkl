@@ -1,0 +1,270 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VMy students and I work on very tiny robots.
+p4
+aVNow, you can think of these as robotic versions
+p5
+aVof something that you're all very familiar with: an ant.
+p6
+aVWe all know that ants and other insects at this size scale
+p7
+aVcan do some pretty incredible things.
+p8
+aVWe've all seen a group of ants, or some version of that,
+p9
+aVcarting off your potato chip at a picnic, for example.
+p10
+aa(lp11
+VBut what are the real challenges of engineering these ants?
+p12
+aVWell, first of all, how do we get the capabilities of an ant
+p13
+aVin a robot at the same size scale?
+p14
+aVWell, first we need to figure out how to make them move
+p15
+aVwhen they're so small.
+p16
+aVWe need mechanisms like legs and efficient motors
+p17
+aVin order to support that locomotion,
+p18
+aVand we need the sensors, power and control
+p19
+aVin order to pull everything together in a semi-intelligent ant robot.
+p20
+aVAnd finally, to make these things really functional,
+p21
+aVwe want a lot of them working together in order to do bigger things.
+p22
+aa(lp23
+VSo I'll start with mobility.
+p24
+aVInsects move around amazingly well.
+p25
+aVThis video is from UC Berkeley.
+p26
+aVIt shows a cockroach moving over incredibly rough terrain
+p27
+aVwithout tipping over,
+p28
+aVand it's able to do this because its legs are a combination of rigid materials,
+p29
+aVwhich is what we traditionally use to make robots,
+p30
+aVand soft materials.
+p31
+aVJumping is another really interesting way to get around when you're very small.
+p32
+aVSo these insects store energy in a spring and release that really quickly
+p33
+aVto get the high power they need to jump out of water, for example.
+p34
+aa(lp35
+VSo one of the big contributions from my lab
+p36
+aVhas been to combine rigid and soft materials
+p37
+aVin very, very small mechanisms.
+p38
+aVSo this jumping mechanism is about four millimeters on a side,
+p39
+aVso really tiny.
+p40
+aVThe hard material here is silicon, and the soft material is silicone rubber.
+p41
+aVAnd the basic idea is that we're going to compress this,
+p42
+aVstore energy in the springs, and then release it to jump.
+p43
+aVSo there's no motors on board this right now, no power.
+p44
+aVThis is actuated with a method that we call in my lab
+p45
+aV"graduate student with tweezers." (Laughter)
+p46
+aVSo what you'll see in the next video
+p47
+aVis this guy doing amazingly well for its jumps.
+p48
+aVSo this is Aaron, the graduate student in question, with the tweezers,
+p49
+aVand what you see is this  four-millimeter-sized mechanism
+p50
+aVjumping almost 40 centimeters high.
+p51
+aVThat's almost 100 times its own length.
+p52
+aVAnd it survives, bounces on the table,
+p53
+aVit's incredibly robust, and of course survives quite well until we lose it
+p54
+aVbecause it's very tiny.
+p55
+aa(lp56
+VUltimately, though, we want to add motors to this too,
+p57
+aVand we have students in the lab working on millimeter-sized motors
+p58
+aVto eventually integrate onto small, autonomous robots.
+p59
+aVBut in order to look at mobility and locomotion at this size scale to start,
+p60
+aVwe're cheating and using magnets.
+p61
+aVSo this shows what would eventually be part of a micro-robot leg,
+p62
+aVand you can see the silicone rubber joints
+p63
+aVand there's an embedded magnet that's being moved around
+p64
+aVby an external magnetic field.
+p65
+aa(lp66
+VSo this leads to the robot that I showed you earlier.
+p67
+aVThe really interesting thing that this robot can help us figure out
+p68
+aVis how insects move at this scale.
+p69
+aVWe have a really good model for how everything
+p70
+aVfrom a cockroach up to an elephant moves.
+p71
+aVWe all move in this  kind of bouncy way when we run.
+p72
+aVBut when I'm really small,  the forces between my feet and the ground
+p73
+aVare going to affect my locomotion a lot more than my mass,
+p74
+aVwhich is what causes that bouncy motion.
+p75
+aVSo this guy doesn't work quite yet,
+p76
+aVbut we do have slightly larger versions that do run around.
+p77
+aVSo this is about a centimeter cubed, a centimeter on a side, so very tiny,
+p78
+aVand we've gotten this to run about 10 body lengths per second,
+p79
+aVso 10 centimeters per second.
+p80
+aVIt's pretty quick for a little, small guy,
+p81
+aVand that's really only limited  by our test setup.
+p82
+aVBut this gives you some idea of how it works right now.
+p83
+aVWe can also make 3D-printed versions  of this that can climb over obstacles,
+p84
+aVa lot like the cockroach that you saw earlier.
+p85
+aa(lp86
+VBut ultimately we want to add everything onboard the robot.
+p87
+aVWe want sensing, power, control, actuation all together,
+p88
+aVand not everything needs to be bio-inspired.
+p89
+aVSo this robot's about the size of a Tic Tac.
+p90
+aVAnd in this case, instead of magnets or muscles to move this around,
+p91
+aVwe use rockets.
+p92
+aVSo this is a micro-fabricated energetic material,
+p93
+aVand we can create tiny pixels of this,
+p94
+aVand we can put one of these pixels on the belly of this robot,
+p95
+aVand this robot, then, is going to jump when it senses an increase in light.
+p96
+aa(lp97
+VSo the next video is one of my favorites.
+p98
+aVSo you have this 300-milligram robot
+p99
+aVjumping about eight centimeters in the air.
+p100
+aVIt's only four by four by seven millimeters in size.
+p101
+aVAnd you'll see a big flash at the beginning
+p102
+aVwhen the energetic is set off,
+p103
+aVand the robot tumbling through the air.
+p104
+aVSo there was that big flash,
+p105
+aVand you can see the robot jumping up through the air.
+p106
+aVSo there's no tethers on this, no wires connecting to this.
+p107
+aVEverything is onboard, and it jumped in response
+p108
+aVto the student just flicking on a desk lamp next to it.
+p109
+aa(lp110
+VSo I think you can imagine all the cool things that we could do
+p111
+aVwith robots that can run and crawl and jump and roll at this size scale.
+p112
+aVImagine the rubble that you get after  a natural disaster like an earthquake.
+p113
+aVImagine these small robots running through that rubble
+p114
+aVto look for survivors.
+p115
+aVOr imagine a lot of small robots running around a bridge
+p116
+aVin order to inspect it and make sure it's safe
+p117
+aVso you don't get collapses like this,
+p118
+aVwhich happened outside of  Minneapolis in 2007.
+p119
+aVOr just imagine what you could do
+p120
+aVif you had robots that could swim through your blood.
+p121
+aVRight? "Fantastic Voyage," Isaac Asimov.
+p122
+aVOr they could operate without having to cut you open in the first place.
+p123
+aVOr we could radically change the way we build things
+p124
+aVif we have our tiny robots work the same way that termites do,
+p125
+aVand they build these incredible eight-meter-high mounds,
+p126
+aVeffectively well ventilated apartment buildings for other termites
+p127
+aVin Africa and Australia.
+p128
+aa(lp129
+VSo I think I've given you some of the possibilities
+p130
+aVof what we can do with these small robots.
+p131
+aVAnd we've made some advances so far, but there's still a long way to go,
+p132
+aVand hopefully some of you can contribute to that destination.
+p133
+aa(lp134
+VThanks very much.
+p135
+aa(lp136
+V(Applause)
+p137
+aasS'id'
+p138
+I2170
+sS'title'
+p139
+VWhy I make robots the size of a grain of rice
+p140
+s.

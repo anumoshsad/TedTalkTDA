@@ -1,0 +1,396 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VHi. Today, I'm going to take you through glimpses
+p4
+aVof about eight of my projects,
+p5
+aVdone in collaboration with Danish artist Soren Pors.
+p6
+aVWe call ourselves Pors and Rao,
+p7
+aVand we live and work in India.
+p8
+aa(lp9
+VI'd like to begin with my very first object,
+p10
+aVwhich I call "The Uncle Phone."
+p11
+aVAnd it was inspired by my uncle's peculiar habit
+p12
+aVof constantly asking me to do things for him,
+p13
+aValmost like I were an extension of his body \u2014
+p14
+aVto turn on the lights or to bring him a glass of water,
+p15
+aVa pack of cigarettes.
+p16
+aVAnd as I grew up, it became worse and worse,
+p17
+aVAnd I started to think of it as a form of control.
+p18
+aVBut of course, I could never say anything,
+p19
+aVbecause the uncle is a respected figure
+p20
+aVin the Indian family.
+p21
+aVAnd the situation that irked me and mystified me the most
+p22
+aVwas his use of a landline telephone.
+p23
+aVHe would hold on to the receiver and expect me to dial a number for him.
+p24
+aVAnd so as a response and as a gift to my uncle,
+p25
+aVI made him "The Uncle Phone."
+p26
+aVIt's so long that it requires two people to use it.
+p27
+aVIt's exactly the way my uncle uses a phone that's designed for one person.
+p28
+aa(lp29
+VBut the problem is that, when I left home and went to college,
+p30
+aVI started missing his commands.
+p31
+aVAnd so I made him a golden typewriter
+p32
+aVthrough which he could dispense his commands
+p33
+aVto nephews and nieces around the world as an email.
+p34
+aVSo what he had to do was take a piece of paper, roll it into the carriage,
+p35
+aVtype his email or command and pull the paper out.
+p36
+aVThis device would automatically send the intended person
+p37
+aVthe letter as an email.
+p38
+aVSo here you can see, we embedded a lot of electronics
+p39
+aVthat understands all of the mechanical actions
+p40
+aVand converts it to digital.
+p41
+aVSo my uncle is only dealing with a mechanical interface.
+p42
+aVAnd of course, the object had to be very grand and have a sense of ritualism,
+p43
+aVthe way my uncle likes it.
+p44
+aa(lp45
+VThe next work is a sound-sensitive installation
+p46
+aVthat we affectionately call "The Pygmies."
+p47
+aVAnd we wanted to work with a notion of being
+p48
+aVsurrounded by a tribe of very shy, sensitive and sweet creatures.
+p49
+aVSo how it works is we have these panels, which we have on the wall,
+p50
+aVand behind them, we have these little creatures which hide.
+p51
+aVAnd as soon as it's silent, they sort of creep out.
+p52
+aVAnd if it's even more silent, they stretch their necks out.
+p53
+aVAnd at the slightest sound, they hide back again.
+p54
+aa(lp55
+VSo we had these panels on three walls of a room.
+p56
+aVAnd we had over 500 of these little pygmies hiding behind them.
+p57
+aVSo this is how it works.
+p58
+aVThis is a video prototype.
+p59
+aVSo when it's quiet, it's sort of coming out from behind the panels.
+p60
+aVAnd they hear like humans do, or real creatures do.
+p61
+aVSo they get immune to sounds that scare them after awhile.
+p62
+aVAnd they don't react to background sounds.
+p63
+aVYou'll hear a train in moment that they don't react to.
+p64
+aV(Noise)
+p65
+aVBut they react to foreground sounds. You'll hear that in a second.
+p66
+aV(Whistling)
+p67
+aVSo we worked very hard
+p68
+aVto make them as lifelike as possible.
+p69
+aVSo each pygmy has its own behavior, psyche,
+p70
+aVmood swings, personalities and so on.
+p71
+aVSo this is a very early prototype.
+p72
+aVOf course, it got much better after that.
+p73
+aVAnd we made them react to people,
+p74
+aVbut we found that people were being quite playful and childlike with them.
+p75
+aa(lp76
+VThis is a video installation called "The Missing Person."
+p77
+aVAnd we were quite intrigued
+p78
+aVwith playing with the notion of invisibility.
+p79
+aVHow would it be possible to experience a sense of invisibility?
+p80
+aVSo we worked with a company
+p81
+aVthat specializes in camera surveillance,
+p82
+aVand we asked them to develop a piece of software with us,
+p83
+aVusing a camera
+p84
+aVthat could look at people in the room, track them
+p85
+aVand replace one person with the background, rendering them invisible.
+p86
+aa(lp87
+VSo I'm just going to show you a very early prototype.
+p88
+aVOn the right side you can see my colleague Soren,
+p89
+aVwho's actually in the space.
+p90
+aVAnd on the left side, you'll see the processed video
+p91
+aVwhere the camera has made him invisible.
+p92
+aVSoren enters the room. Pop! He goes invisible.
+p93
+aVAnd you can see that the camera is tracking him and erasing.
+p94
+aVIt's a very early video,
+p95
+aVso we haven't yet dealt with the overlap and all of that,
+p96
+aVbut that got refined pretty soon, later.
+p97
+aVSo how we used it was in a room where we had a camera looking into the space,
+p98
+aVand we had one monitor, one on each wall.
+p99
+aVAnd as people walked into the room,
+p100
+aVthey would see themselves in the monitor, except with one difference:
+p101
+aVone person was constantly invisible
+p102
+aVwherever they moved in the room.
+p103
+aa(lp104
+VSo this is a work called "The Sun Shadow."
+p105
+aVAnd it was almost like a sheet of paper,
+p106
+aVlike a cutout of a childlike drawing
+p107
+aVof an oil spill or a sun.
+p108
+aVAnd from the front, this object appeared to be very strong and robust,
+p109
+aVand from the side, it almost seemed very weak.
+p110
+aVSo people would walking into the room and they'd almost ignore it,
+p111
+aVthinking it was some crap laying around.
+p112
+aVBut as soon as they passed by,
+p113
+aVit would start to climb up the wall in jerky fashion.
+p114
+aVAnd it would get exhausted, and it would collapse every time.
+p115
+aa(lp116
+V(Laughter)
+p117
+aa(lp118
+VSo this work
+p119
+aVis a caricature of an upside-down man.
+p120
+aVHis head is so heavy, full of heavy thoughts,
+p121
+aVthat it's sort of fallen into his hat,
+p122
+aVand his body's grown out of him almost like a plant.
+p123
+aVWell what he does is he moves around
+p124
+aVin a very drunken fashion on his head
+p125
+aVin a very unpredictable and extremely slow movement.
+p126
+aVAnd it's kind of constrained by that circle.
+p127
+aVBecause if that circle weren't there, and the floor was very even,
+p128
+aVit would start to wander about in the space.
+p129
+aVAnd there's no wires.
+p130
+aVSo I'll just show you an instance \u2014
+p131
+aVso when people enter the room, it activates this object.
+p132
+aVAnd it very slowly, over a few minutes,
+p133
+aVsort of painfully goes up,
+p134
+aVand then it gains momentum
+p135
+aVand it looks like it's almost about to fall.
+p136
+aVAnd this is an important moment,
+p137
+aVbecause we wanted to instill in the viewer
+p138
+aVan instinct to almost go and help, or save the subject.
+p139
+aVBut it doesn't really need it,
+p140
+aVbecause it, again, sort of manages to pull itself up.
+p141
+aa(lp142
+VSo this work was a real technical challenge for us,
+p143
+aVand we worked very hard, like most of our works, over years
+p144
+aVto get the mechanics right and the equilibrium and the dynamics.
+p145
+aVAnd it was very important for us
+p146
+aVto establish the exact moment that it would fall,
+p147
+aVbecause if we made it in a way that it would topple over,
+p148
+aVthen it would damage itself,
+p149
+aVand if it didn't fall enough, it wouldn't instill that fatalism,
+p150
+aVor that sense of wanting to go and help it.
+p151
+aVSo I'm going to show you a very quick video
+p152
+aVwhere we are doing a test scenario \u2014 it's much faster.
+p153
+aVThat's my colleague. He's let it go.
+p154
+aVNow he's getting nervous, so he's going to go catch it.
+p155
+aVBut he doesn't need to,
+p156
+aVbecause it manages to lift itself up on its own.
+p157
+aa(lp158
+VSo this is a work that we were very intrigued with,
+p159
+aVworking with the aesthetic of fur
+p160
+aVembedded with thousands of tiny different sizes
+p161
+aVof fiber optics, which twinkle like the night sky.
+p162
+aVAnd it's at the scale of the night sky.
+p163
+aVSo we wrapped this around a blob-like form,
+p164
+aVwhich is in the shape of a teddy bear,
+p165
+aVwhich was hanging from the ceiling.
+p166
+aVAnd the idea was to sort of contrast
+p167
+aVsomething very cold and distant and abstract like the universe
+p168
+aVinto the familiar form of a teddy bear,
+p169
+aVwhich is very comforting and intimate.
+p170
+aVAnd the idea was that at some point
+p171
+aVyou would stop looking at the form of a teddy bear
+p172
+aVand you would almost perceive it to be a hole in the space,
+p173
+aVand as if you were looking out into the twinkling night sky.
+p174
+aa(lp175
+VSo this is the last work, and a work in progress,
+p176
+aVand it's called "Space Filler."
+p177
+aVWell imagine a small cube that's about this big
+p178
+aVstanding in front of you in the middle of the room,
+p179
+aVand as you approached it, it tried to intimidate you
+p180
+aVby growing into a cube
+p181
+aVthat's twice its height and [eight] times its volume.
+p182
+aVAnd so this object is constantly expanding and contracting
+p183
+aVto create a dynamic with people moving around it \u2014
+p184
+aValmost like it were trying
+p185
+aVto conceal a secret within its seams or something.
+p186
+aa(lp187
+VSo we work with a lot of technology,
+p188
+aVbut we don't really love technology,
+p189
+aVbecause it gives us a lot of pain in our work over years and years.
+p190
+aVBut we use it because we're interested
+p191
+aVin the way that it can help us
+p192
+aVto express the emotions and behavioral patterns
+p193
+aVin these creatures that we create.
+p194
+aVAnd once a creature pops into our minds,
+p195
+aVit's almost like the process of creation
+p196
+aVis to discover the way this creature really wants to exist
+p197
+aVand what form it wants to take and what way it wants to move.
+p198
+aa(lp199
+VThank you.
+p200
+aa(lp201
+V(Applause)
+p202
+aasS'id'
+p203
+I1265
+sS'title'
+p204
+VHigh-tech art (with a sense of humor)
+p205
+s.

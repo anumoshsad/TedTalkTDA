@@ -1,0 +1,119 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VImagine spending seven years at MIT and research laboratories,
+p4
+aVonly to find out that you're a performance artist.
+p5
+aa(lp6
+V(Laughter)
+p7
+aa(lp8
+VI'm also a software engineer,
+p9
+aVand I make lots of different kinds of art with the computer.
+p10
+aVAnd I think the main thing that I'm interested in
+p11
+aVis trying to find a way of
+p12
+aVmaking the computer into a personal mode of expression.
+p13
+aVAnd many of you out there are the heads of Macromedia and Microsoft,
+p14
+aVand in a way those are my bane:
+p15
+aVI think there's a great homogenizing force
+p16
+aVthat software imposes on people and limits the way they think
+p17
+aVabout what's possible on the computer.
+p18
+aVOf course, it's also a great liberating force that makes possible,
+p19
+aVyou know, publishing and so forth, and standards, and so on.
+p20
+aVBut, in a way, the computer makes possible much more
+p21
+aVthan what most people think, and my art has just been about
+p22
+aVtrying to find a personal way of using the computer,
+p23
+aVand so I end up writing software to do that.
+p24
+aa(lp25
+VChris has asked me to do a short performance,
+p26
+aVand so I'm going to take just this time \u2014 maybe 10 minutes \u2014
+p27
+aVto do that, and hopefully at the end have just a moment
+p28
+aVto show you a couple of my other projects in video form.
+p29
+aa(lp30
+VThank you.
+p31
+aa(lp32
+V(Applause)
+p33
+aa(lp34
+VWe've got about a minute left.
+p35
+aVI'd just like to show a clip from a most recent project.
+p36
+aVI did a performance with two singers
+p37
+aVwho specialize in making strange noises with their mouths.
+p38
+aVAnd this just came off last September at ARS Electronica;
+p39
+aVwe repeated it in England.
+p40
+aVAnd the idea is to visualize their speech and song behind them
+p41
+aVwith a large screen.
+p42
+aVWe used a computer vision tracking system
+p43
+aVin order to know where they were.
+p44
+aVAnd since we know where their heads are,
+p45
+aVand we have a wireless mic on them
+p46
+aVthat we're processing the sound from,
+p47
+aVwe're able to create visualizations
+p48
+aVwhich are linked very tightly to what they're doing with their speech.
+p49
+aVThis will take about 30 seconds or so.
+p50
+aVHe's making a, kind of, cheek-flapping sound.
+p51
+aa(lp52
+VWell, suffice it to say it's not all like that, but that's part of it.
+p53
+aa(lp54
+VThanks very much. There's always lots more.
+p55
+aVI'm overtime, so I just wanted to say you can, if you're in New York,
+p56
+aVyou can check out my work at the Whitney Biennial next week,
+p57
+aVand also at Bitforms Gallery in Chelsea.
+p58
+aVAnd with that, I think I should give up the stage,
+p59
+aVso, thank you so much.
+p60
+aasS'id'
+p61
+I14
+sS'title'
+p62
+VSoftware (as) art
+p63
+s.

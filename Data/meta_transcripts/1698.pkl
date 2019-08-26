@@ -1,0 +1,362 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VEverything is covered in invisible ecosystems
+p4
+aVmade of tiny lifeforms: bacteria, viruses and fungi.
+p5
+aVOur desks, our computers, our pencils, our buildings
+p6
+aVall harbor resident microbial landscapes.
+p7
+aVAs we design these things, we could be thinking
+p8
+aVabout designing these invisible worlds,
+p9
+aVand also thinking about how they interact
+p10
+aVwith our personal ecosystems.
+p11
+aa(lp12
+VOur bodies are home to trillions of microbes,
+p13
+aVand these creatures define who we are.
+p14
+aVThe microbes in your gut can influence your weight and your moods.
+p15
+aVThe microbes on your skin can help boost your immune system.
+p16
+aVThe microbes in your mouth can freshen your breath,
+p17
+aVor not,
+p18
+aVand the key thing is that our personal ecosystems
+p19
+aVinteract with ecosystems on everything we touch.
+p20
+aVSo, for example, when you touch a pencil,
+p21
+aVmicrobial exchange happens.
+p22
+aa(lp23
+VIf we can design the invisible ecosystems in our surroundings,
+p24
+aVthis opens a path to influencing
+p25
+aVour health in unprecedented ways.
+p26
+aa(lp27
+VI get asked all of the time from people,
+p28
+aV"Is it possible to really design microbial ecosystems?"
+p29
+aVAnd I believe the answer is yes.
+p30
+aVI think we're doing it right now,
+p31
+aVbut we're doing it unconsciously.
+p32
+aVI'm going to share data with you
+p33
+aVfrom one aspect of my research focused on architecture
+p34
+aVthat demonstrates how, through both conscious
+p35
+aVand unconscious design,
+p36
+aVwe're impacting these invisible worlds.
+p37
+aa(lp38
+VThis is the Lillis Business Complex at the University of Oregon,
+p39
+aVand I worked with a team of architects and biologists
+p40
+aVto sample over 300 rooms in this building.
+p41
+aVWe wanted to get something like a fossil record of the building,
+p42
+aVand to do this, we sampled dust.
+p43
+aVFrom the dust, we pulled out bacterial cells,
+p44
+aVbroke them open, and compared their gene sequences.
+p45
+aVThis means that people in my group
+p46
+aVwere doing a lot of vacuuming during this project.
+p47
+aVThis is a picture of Tim, who,
+p48
+aVright when I snapped this picture, reminded me,
+p49
+aVhe said, "Jessica, the last lab group I worked in
+p50
+aVI was doing fieldwork in the Costa Rican rainforest,
+p51
+aVand things have changed dramatically for me."
+p52
+aa(lp53
+VSo I'm going to show you now first what we found in the offices,
+p54
+aVand we're going to look at the data through a visualization tool
+p55
+aVthat I've been working on in partnership with Autodesk.
+p56
+aVThe way that you look at this data is,
+p57
+aVfirst, look around the outside of the circle.
+p58
+aVYou'll see broad bacterial groups,
+p59
+aVand if you look at the shape of this pink lobe,
+p60
+aVit tells you something about the relative abundance of each group.
+p61
+aVSo at 12 o'clock, you'll see that offices have a lot of
+p62
+aValphaproteobacteria, and at one o'clock
+p63
+aVyou'll see that bacilli are relatively rare.
+p64
+aa(lp65
+VLet's take a look at what's going on in different space types in this building.
+p66
+aVIf you look inside the restrooms,
+p67
+aVthey all have really similar ecosystems,
+p68
+aVand if you were to look inside the classrooms,
+p69
+aVthose also have similar ecosystems.
+p70
+aVBut if you look across these space types,
+p71
+aVyou can see that they're fundamentally different
+p72
+aVfrom one another.
+p73
+aVI like to think of bathrooms like a tropical rainforest.
+p74
+aVI told Tim, "If you could just see the microbes,
+p75
+aVit's kind of like being in Costa Rica. Kind of."
+p76
+aVAnd I also like to think of offices as being a temperate grassland.
+p77
+aa(lp78
+VThis perspective is a really powerful one for designers,
+p79
+aVbecause you can bring on principles of ecology,
+p80
+aVand a really important principle of ecology is dispersal,
+p81
+aVthe way organisms move around.
+p82
+aVWe know that microbes are dispersed around by people
+p83
+aVand by air.
+p84
+aVSo the very first thing we wanted to do in this building
+p85
+aVwas look at the air system.
+p86
+aVMechanical engineers design air handling units
+p87
+aVto make sure that people are comfortable,
+p88
+aVthat the air flow and temperature is just right.
+p89
+aVThey do this using principles of physics and chemistry,
+p90
+aVbut they could also be using biology.
+p91
+aVIf you look at the microbes
+p92
+aVin one of the air handling units in this building,
+p93
+aVyou'll see that they're all very similar to one another.
+p94
+aVAnd if you compare this to the microbes
+p95
+aVin a different air handling unit,
+p96
+aVyou'll see that they're fundamentally different.
+p97
+aVThe rooms in this building are like islands in an archipelago,
+p98
+aVand what that means is that mechanical engineers
+p99
+aVare like eco-engineers, and they have the ability
+p100
+aVto structure biomes in this building the way that they want to.
+p101
+aa(lp102
+VAnother facet of how microbes get around is by people,
+p103
+aVand designers often cluster rooms together
+p104
+aVto facilitate interactions among people,
+p105
+aVor the sharing of ideas, like in labs and in offices.
+p106
+aVGiven that microbes travel around with people,
+p107
+aVyou might expect to see rooms that are close together
+p108
+aVhave really similar biomes.
+p109
+aVAnd that is exactly what we found.
+p110
+aVIf you look at classrooms right adjacent to one another,
+p111
+aVthey have very similar ecosystems,
+p112
+aVbut if you go to an office
+p113
+aVthat is a farther walking distance away,
+p114
+aVthe ecosystem is fundamentally different.
+p115
+aVAnd when I see the power that dispersal has
+p116
+aVon these biogeographic patterns,
+p117
+aVit makes me think that it's possible
+p118
+aVto tackle really challenging problems,
+p119
+aVlike hospital-acquired infections.
+p120
+aVI believe this has got to be, in part,
+p121
+aVa building ecology problem.
+p122
+aa(lp123
+VAll right, I'm going to tell you one more story about this building.
+p124
+aVI am collaborating with Charlie Brown.
+p125
+aVHe's an architect,
+p126
+aVand Charlie is deeply concerned about global climate change.
+p127
+aVHe's dedicated his life to sustainable design.
+p128
+aVWhen he met me and realized that it was possible for him
+p129
+aVto study in a quantitative way
+p130
+aVhow his design choices impacted
+p131
+aVthe ecology and biology of this building,
+p132
+aVhe got really excited, because it added a new dimension to what he did.
+p133
+aVHe went from thinking just about energy
+p134
+aVto also starting to think about human health.
+p135
+aVHe helped design some of the air handling systems
+p136
+aVin this building and the way it was ventilated.
+p137
+aa(lp138
+VSo what I'm first going to show you is
+p139
+aVair that we sampled outside of the building.
+p140
+aVWhat you're looking at is a signature of bacterial communities
+p141
+aVin the outdoor air, and how they vary over time.
+p142
+aVNext I'm going to show you what happened
+p143
+aVwhen we experimentally manipulated classrooms.
+p144
+aVWe blocked them off at night
+p145
+aVso that they got no ventilation.
+p146
+aVA lot of buildings are operated this way,
+p147
+aVprobably where you work,
+p148
+aVand companies do this to save money on their energy bill.
+p149
+aVWhat we found is that these rooms remained relatively stagnant
+p150
+aVuntil Saturday, when we opened the vents up again.
+p151
+aVWhen you walked into those rooms,
+p152
+aVthey smelled really bad,
+p153
+aVand our data suggests that it had something to do with
+p154
+aVleaving behind the airborne bacterial soup
+p155
+aVfrom people the day before.
+p156
+aVContrast this to rooms
+p157
+aVthat were designed using a sustainable passive design strategy
+p158
+aVwhere air came in from the outside through louvers.
+p159
+aVIn these rooms, the air tracked the outdoor air relatively well,
+p160
+aVand when Charlie saw this, he got really excited.
+p161
+aVHe felt like he had made a good choice
+p162
+aVwith the design process
+p163
+aVbecause it was both energy efficient
+p164
+aVand it washed away the building's resident microbial landscape.
+p165
+aa(lp166
+VThe examples that I just gave you are about architecture,
+p167
+aVbut they're relevant to the design of anything.
+p168
+aVImagine designing with the kinds of microbes that we want
+p169
+aVin a plane
+p170
+aVor on a phone.
+p171
+aa(lp172
+VThere's a new microbe, I just discovered it.
+p173
+aVIt's called BLIS, and it's been shown
+p174
+aVto both ward off pathogens
+p175
+aVand give you good breath.
+p176
+aVWouldn't it be awesome if we all had BLIS on our phones?
+p177
+aa(lp178
+VA conscious approach to design,
+p179
+aVI'm calling it bioinformed design,
+p180
+aVand I think it's possible.
+p181
+aa(lp182
+VThank you.
+p183
+aa(lp184
+V(Applause)
+p185
+aasS'id'
+p186
+I1698
+sS'title'
+p187
+VWe're covered in germs. Let's design for that.
+p188
+s.

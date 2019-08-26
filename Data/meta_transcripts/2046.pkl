@@ -1,0 +1,452 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThe first time I stood in the operating room
+p4
+aVand watched a real surgery,
+p5
+aVI had no idea what to expect.
+p6
+aVI was a college student in engineering.
+p7
+aVI thought it was going to be like on TV.
+p8
+aVOminous music playing in the background,
+p9
+aVbeads of sweat pouring down the surgeon's face.
+p10
+aVBut it wasn't like that at all.
+p11
+aVThere was music playing on this day,
+p12
+aVI think it was Madonna's greatest hits. (Laughter)
+p13
+aVAnd there was plenty of conversation,
+p14
+aVnot just about the patient's heart rate,
+p15
+aVbut about sports and weekend plans.
+p16
+aVAnd since then, the more surgeries I watched,
+p17
+aVthe more I realized this is how it is.
+p18
+aVIn some weird way, it's just another day at the office.
+p19
+aVBut every so often
+p20
+aVthe music gets turned down,
+p21
+aVeveryone stops talking,
+p22
+aVand stares at exactly the same thing.
+p23
+aVAnd that's when you know that something absolutely critical
+p24
+aVand dangerous is happening.
+p25
+aa(lp26
+VThe first time I saw that
+p27
+aVI was watching a type of surgery
+p28
+aVcalled laparoscopic surgery
+p29
+aVAnd for those of you who are unfamiliar,
+p30
+aVlaparoscopic surgery, instead of the large
+p31
+aVopen incision you might be used to with surgery,
+p32
+aVa laparoscopic surgery is where the surgeon creates
+p33
+aVthese three or more small incisions in the patient.
+p34
+aVAnd then inserts these long, thin instruments
+p35
+aVand a camera,
+p36
+aVand actually does the procedure inside the patient.
+p37
+aVThis is great because there's much less risk of infection,
+p38
+aVmuch less pain, shorter recovery time.
+p39
+aVBut there is a trade-off,
+p40
+aVbecause these incisions are created
+p41
+aVwith a long, pointed device
+p42
+aVcalled a trocar.
+p43
+aVAnd the way the surgeon uses this device
+p44
+aVis that he takes it
+p45
+aVand he presses it into the abdomen
+p46
+aVuntil it punctures through.
+p47
+aVAnd now the reason why  everyone in the operating room
+p48
+aVwas staring at that device on that day
+p49
+aVwas because he had to be absolutely careful
+p50
+aVnot to plunge it through
+p51
+aVand puncture it into the organs  and blood vessels below.
+p52
+aVBut this problem should seem  pretty familiar to all of you
+p53
+aVbecause I'm pretty sure  you've seen it somewhere else.
+p54
+aV(Laughter)
+p55
+aVRemember this?
+p56
+aV(Applause)
+p57
+aVYou knew that at any second
+p58
+aVthat straw was going to plunge through,
+p59
+aVand you didn't know if it was  going to go out the other side
+p60
+aVand straight into your hand,
+p61
+aVor if you were going to get juice everywhere,
+p62
+aVbut you were terrified. Right?
+p63
+aVEvery single time you did this,
+p64
+aVyou experienced the same fundamental physics
+p65
+aVthat I was watching in the operating room that day.
+p66
+aVAnd it turns out it really is a problem.
+p67
+aVIn 2003, the FDA actually came out and said
+p68
+aVthat trocar incisions might  be the most dangerous step
+p69
+aVin minimally invasive surgery.
+p70
+aVAgain in 2009, we see a paper that says
+p71
+aVthat trocars account for over half
+p72
+aVof all major complications in laparoscopic surgery.
+p73
+aVAnd, oh by the way,
+p74
+aVthis hasn't changed for 25 years.
+p75
+aa(lp76
+VSo when I got to graduate school,
+p77
+aVthis is what I wanted to work on.
+p78
+aVI was trying to explain to a friend of mine
+p79
+aVwhat exactly I was spending my time doing,
+p80
+aVand I said,
+p81
+aV"It's like when you're drilling through a wall
+p82
+aVto hang something in your apartment.
+p83
+aVThere's that moment when the drill first punctures through the wall
+p84
+aVand there's this plunge. Right?
+p85
+aVAnd he looked at me and he said,
+p86
+aV"You mean like when they drill  into people's brains?"
+p87
+aVAnd I said, "Excuse me?" (Laughter)
+p88
+aVAnd then I looked it up and they do drill into people's brains.
+p89
+aVA lot of neurosurgical procedures
+p90
+aVactually start with a drill incision through the skull.
+p91
+aVAnd if the surgeon isn't careful,
+p92
+aVhe can plunge directly into the brain.
+p93
+aVSo this is the moment when I started thinking,
+p94
+aVokay, cranial drilling, laparoscopic surgery,
+p95
+aVwhy not other areas of medicine?
+p96
+aVBecause think about it, when was the last time you went to the doctor
+p97
+aVand you didn't get stuck with something? Right?
+p98
+aVSo the truth is
+p99
+aVin medicine puncture is everywhere.
+p100
+aVAnd here are just a couple of the procedures that I've found
+p101
+aVthat involve some tissue puncture step.
+p102
+aVAnd if we take just three of them \u2014
+p103
+aVlaparoscopic surgery,  epidurals, and cranial drilling \u2014
+p104
+aVthese procedures account  for over 30,000 complications
+p105
+aVevery year in this country alone.
+p106
+aVI call that a problem worth solving.
+p107
+aa(lp108
+VSo let's take a look at some of the devices
+p109
+aVthat are used in these types of procedures.
+p110
+aVI mentioned epidurals. This is an epidural needle.
+p111
+aVIt's used to puncture through  the ligaments in the spine
+p112
+aVand deliver anesthesia during childbirth.
+p113
+aVHere's a set of bone marrow biopsy tools.
+p114
+aVThese are actually used to burrow into the bone
+p115
+aVand collect bone marrow or sample bone lesions.
+p116
+aVHere's a bayonette from the Civil War.
+p117
+aV(Laughter)
+p118
+aVIf I had told you it was a  medical puncture device
+p119
+aVyou probably would have believed me.
+p120
+aVBecause what's the difference?
+p121
+aVSo, the more I did this research
+p122
+aVthe more I thought there has to be
+p123
+aVa better way to do this.
+p124
+aVAnd for me the key to this problem
+p125
+aVis that all these different puncture devices
+p126
+aVshare a common set of fundamental physics.
+p127
+aa(lp128
+VSo what are those physics?
+p129
+aVLet's go back to drilling through a wall.
+p130
+aVSo you're applying a force  on a drill towards the wall.
+p131
+aVAnd Newton says the wall is going to apply force back,
+p132
+aVequal and opposite.
+p133
+aVSo, as you drill through the wall,
+p134
+aVthose forces balance.
+p135
+aVBut then there's that moment
+p136
+aVwhen the drill first punctures through the other side of the wall,
+p137
+aVand right at that moment  the wall can't push back anymore.
+p138
+aVBut your brain hasn't reacted  to that change in force.
+p139
+aVSo for that millisecond,
+p140
+aVor however long it takes you  to react, you're still pushing,
+p141
+aVand that unbalanced force  causes an acceleration,
+p142
+aVand that is the plunge.
+p143
+aVBut what if right at the moment of puncture
+p144
+aVyou could pull that tip back,
+p145
+aVactually oppose the forward acceleration?
+p146
+aVThat's what I set out to do.
+p147
+aa(lp148
+VSo imagine you have a device
+p149
+aVand it's got some kind of sharp tip  to cut through tissue.
+p150
+aVWhat's the simplest way  you could pull that tip back?
+p151
+aVI chose a spring.
+p152
+aVSo when you extend that spring,  you extend that tip out
+p153
+aVso it's ready to puncture tissue,
+p154
+aVthe spring wants to pull the tip back.
+p155
+aVHow do you keep the tip in place
+p156
+aVuntil the moment of puncture?
+p157
+aVI used this mechanism.
+p158
+aVWhen the tip of the device is pressed against tissue,
+p159
+aVthe mechanism expands outwards  and wedges in place against the wall.
+p160
+aVAnd the friction that's generated
+p161
+aVlocks it in place and prevents the spring from retracting the tip.
+p162
+aVBut right at the moment of puncture,
+p163
+aVthe tissue can't push back on the tip anymore.
+p164
+aVSo the mechanism unlocks  and the spring retracts the tip.
+p165
+aVLet me show you that  happening in slow motion.
+p166
+aVThis is about 2,000 frames a second,
+p167
+aVand I'd like you to notice the tip
+p168
+aVthat's right there on the bottom,  about to puncture through tissue.
+p169
+aVAnd you'll see that  right at the moment of puncture,
+p170
+aVright there, the mechanism unlocks  and retracts that tip back.
+p171
+aVI want to show it to you again, a little closer up.
+p172
+aVYou're going to see the sharp bladed tip,
+p173
+aVand right when it punctures  that rubber membrane
+p174
+aVit's going to disappear into this white blunt sheath.
+p175
+aVRight there.
+p176
+aVThat happens within four 100ths  of a second after puncture.
+p177
+aVAnd because this device is designed to address the physics of puncture
+p178
+aVand not the specifics of cranial drilling
+p179
+aVor laparoscopic surgery,  or another procedure,
+p180
+aVit's applicable across these different medical disciplines
+p181
+aVand across different length scales.
+p182
+aa(lp183
+VBut it didn't always look like this.
+p184
+aVThis was my first prototype.
+p185
+aVYes, those are popsicle sticks,
+p186
+aVand there's a rubber band at the top.
+p187
+aVIt took about 30 minutes to do this, but it worked.
+p188
+aVAnd it proved to me that my idea worked
+p189
+aVand it justified the next couple years of work on this project.
+p190
+aVI worked on this because
+p191
+aVthis problem really fascinated me.
+p192
+aVIt kept me up at night.
+p193
+aVBut I think it should fascinate you too,
+p194
+aVbecause I said puncture is everywhere.
+p195
+aVThat means at some point  it's going to be your problem too.
+p196
+aVThat first day in the operating room
+p197
+aVI never expected to find myself  on the other end of a trocar.
+p198
+aVBut last year, I got appendicitis  when I was visiting Greece.
+p199
+aVSo I was in the hospital in Athens,
+p200
+aVand the surgeon was telling me
+p201
+aVhe was going to perform  a laparoscopic surgery.
+p202
+aVHe was going to remove my appendix  through these tiny incisions,
+p203
+aVand he was talking about what I could expect for the recovery,
+p204
+aVand what was going to happen.
+p205
+aVHe said, "Do you have any questions?" And I said, "Just one, doc.
+p206
+aVWhat kind of trocar do you use?"
+p207
+aa(lp208
+VSo my favorite quote  about laparoscopic surgery
+p209
+aVcomes from a Doctor H. C. Jacobaeus:
+p210
+aV"It is puncture itself that causes risk."
+p211
+aVThat's my favorite quote  because H.C. Jacobaeus
+p212
+aVwas the first person to ever perform  laparoscopic surgery on humans,
+p213
+aVand he wrote that in 1912.
+p214
+aVThis is a problem that's been injuring and even killing people for over 100 years.
+p215
+aa(lp216
+VSo it's easy to think that for every major problem out there
+p217
+aVthere's some team of experts  working around the clock to solve it.
+p218
+aVThe truth is that's not always the case.
+p219
+aVWe have to be better at finding those problems
+p220
+aVand finding ways to solve them.
+p221
+aVSo if you come across a problem that grabs you,
+p222
+aVlet it keep you up at night.
+p223
+aVAllow yourself to be fascinated,
+p224
+aVbecause there are so many lives to save.
+p225
+aa(lp226
+V(Applause)
+p227
+aasS'id'
+p228
+I2046
+sS'title'
+p229
+VA tool to fix one of the most dangerous moments in surgery
+p230
+s.

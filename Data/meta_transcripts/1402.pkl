@@ -1,0 +1,1179 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VYou should be nice
+p4
+aVto nerds.
+p5
+aVIn fact, I'd go so far as to say,
+p6
+aVif you don't already have a nerd in your life,
+p7
+aVyou should get one.
+p8
+aVI'm just saying.
+p9
+aVScientists and engineers
+p10
+aVchange the world.
+p11
+aVI'd like to tell you
+p12
+aVabout a magical place called DARPA
+p13
+aVwhere scientists and engineers
+p14
+aVdefy the impossible
+p15
+aVand refuse to fear failure.
+p16
+aVNow these two ideas
+p17
+aVare connected more than you may realize,
+p18
+aVbecause when you remove the fear of failure,
+p19
+aVimpossible things
+p20
+aVsuddenly become possible.
+p21
+aa(lp22
+VIf you want to know how,
+p23
+aVask yourself this question:
+p24
+aVWhat would you attempt to do
+p25
+aVif you knew you could not fail?
+p26
+aVIf you really ask yourself
+p27
+aVthis question,
+p28
+aVyou can't help but feel uncomfortable.
+p29
+aVI feel a little uncomfortable.
+p30
+aVBecause when you ask it,
+p31
+aVyou begin to understand
+p32
+aVhow the fear of failure constrains you,
+p33
+aVhow it keeps us
+p34
+aVfrom attempting great things,
+p35
+aVand life gets dull,
+p36
+aVamazing things stop happening.
+p37
+aVSure, good things happen,
+p38
+aVbut amazing things
+p39
+aVstop happening.
+p40
+aa(lp41
+VNow I should be clear,
+p42
+aVI'm not encouraging failure,
+p43
+aVI'm discouraging
+p44
+aVfear of failure.
+p45
+aVBecause it's not failure itself
+p46
+aVthat constrains us.
+p47
+aVThe path to truly new,
+p48
+aVnever-been-done-before things
+p49
+aValways has failure along the way.
+p50
+aVWe're tested.
+p51
+aVAnd in part, that testing feels an appropriate part
+p52
+aVof achieving something great.
+p53
+aVClemenceau said,
+p54
+aV"Life gets interesting when we fail,
+p55
+aVbecause it's a sign
+p56
+aVthat we've surpassed ourselves."
+p57
+aa(lp58
+VIn 1895,
+p59
+aVLord Kelvin declared
+p60
+aVthat heavier-than-air flying machines
+p61
+aVwere impossible.
+p62
+aVIn October of 1903,
+p63
+aVthe prevailing opinion
+p64
+aVof expert aerodynamicists
+p65
+aVwas that maybe in 10 million years
+p66
+aVwe could build an aircraft that would fly.
+p67
+aVAnd two months later on December 17th,
+p68
+aVOrville Wright powered the first airplane
+p69
+aVacross a beach in North Carolina.
+p70
+aVThe flight lasted 12 seconds
+p71
+aVand covered 120 feet.
+p72
+aVThat was 1903.
+p73
+aa(lp74
+VOne year later,
+p75
+aVthe next declarations of impossibilities began.
+p76
+aVFerdinand Foch, a French army general
+p77
+aVcredited with having one of the most original and subtle minds
+p78
+aVin the French army,
+p79
+aVsaid, "Airplanes are interesting toys,
+p80
+aVbut of no military value."
+p81
+aV40 years later,
+p82
+aVaero experts coined the term transonic.
+p83
+aVThey debated, should it have one S or two?
+p84
+aVYou see, they were having trouble in this flight regime,
+p85
+aVand it wasn't at all clear
+p86
+aVthat we could fly faster than the speed of sound.
+p87
+aVIn 1947,
+p88
+aVthere was no wind tunnel data
+p89
+aVbeyond Mach 0.85.
+p90
+aVAnd yet,
+p91
+aVon Tuesday, October 14th, 1947,
+p92
+aVChuck Yeager climbed into the cockpit
+p93
+aVof his Bell X-1
+p94
+aVand he flew
+p95
+aVtowards an unknown possibility,
+p96
+aVand in so doing,
+p97
+aVhe became the first pilot
+p98
+aVto fly faster than the speed of sound.
+p99
+aVSix of eight Atlas rockets
+p100
+aVblew up on the pad.
+p101
+aVAfter 11 complete mission failures,
+p102
+aVwe got our first images from space.
+p103
+aVAnd on that first flight
+p104
+aVwe got more data
+p105
+aVthan in all U-2 missions combined.
+p106
+aVIt took a lot of failures
+p107
+aVto get there.
+p108
+aa(lp109
+VSince we took to the sky,
+p110
+aVwe have wanted to fly
+p111
+aVfaster and farther.
+p112
+aVAnd to do so,
+p113
+aVwe've had to believe in impossible things.
+p114
+aVAnd we've had to refuse
+p115
+aVto fear failure.
+p116
+aVThat's still true today.
+p117
+aVToday, we don't talk about flying transonically,
+p118
+aVor even supersonically,
+p119
+aVwe talk about flying hypersonically \u2014
+p120
+aVnot Mach 2 or Mach 3, Mach 20.
+p121
+aVAt Mach 20,
+p122
+aVwe can fly from New York to Long Beach
+p123
+aVin 11 minutes and 20 seconds.
+p124
+aVAt that speed,
+p125
+aVthe surface of the airfoil
+p126
+aVis the temperature of molten steel \u2014
+p127
+aV3,500 degrees Fahrenheit \u2014
+p128
+aVlike a blast furnace.
+p129
+aVWe are essentially burning the airfoil
+p130
+aVas we fly it.
+p131
+aVAnd we are flying it,
+p132
+aVor trying to.
+p133
+aa(lp134
+VDARPA's hypersonic test vehicle
+p135
+aVis the fastest maneuvering aircraft
+p136
+aVever built.
+p137
+aVIt's boosted to near-space
+p138
+aVatop a Minotaur IV rocket.
+p139
+aVNow the Minotaur IV has too much impulse,
+p140
+aVso we have to bleed it off
+p141
+aVby flying the rocket
+p142
+aVat an 89 degree angle of attack
+p143
+aVfor portions of the trajectory.
+p144
+aVThat's an unnatural act
+p145
+aVfor a rocket.
+p146
+aVThe third stage has a camera.
+p147
+aVWe call it rocketcam.
+p148
+aVAnd it's pointed
+p149
+aVat the hypersonic glider.
+p150
+aVThis is the actual rocketcam footage
+p151
+aVfrom flight one.
+p152
+aVNow to conceal the shape, we changed the aspect ratio a little bit.
+p153
+aVBut this is what it looks like
+p154
+aVfrom the third stage of the rocket
+p155
+aVlooking at the unmanned glider
+p156
+aVas it heads into the atmosphere
+p157
+aVback towards Earth.
+p158
+aa(lp159
+VWe've flown twice.
+p160
+aVIn the first flight,
+p161
+aVno aerodynamic control of the vehicle.
+p162
+aVBut we collected more hypersonic flight data
+p163
+aVthan in 30 years
+p164
+aVof ground-based testing combined.
+p165
+aVAnd in the second flight,
+p166
+aVthree minutes of fully-controlled,
+p167
+aVaerodynamic flight
+p168
+aVat Mach 20.
+p169
+aVWe must fly again,
+p170
+aVbecause amazing, never-been-done-before things
+p171
+aVrequire that you fly.
+p172
+aVYou can't learn to fly at Mach 20
+p173
+aVunless you fly.
+p174
+aVAnd while there's no substitute for speed,
+p175
+aVmaneuverability is a very close second.
+p176
+aa(lp177
+VIf a Mach 20 glider takes 11 minutes and 20 seconds
+p178
+aVto get from New York to Long Beach,
+p179
+aVa hummingbird would take,
+p180
+aVwell, days.
+p181
+aVYou see, hummingbirds are not hypersonic,
+p182
+aVbut they are maneuverable.
+p183
+aVIn fact, the hummingbird is the only bird
+p184
+aVthat can fly backwards.
+p185
+aVIt can fly up, down,
+p186
+aVforwards, backwards,
+p187
+aVeven upside-down.
+p188
+aVAnd so if we wanted to fly in this room
+p189
+aVor places where humans can't go,
+p190
+aVwe'd need an aircraft
+p191
+aVsmall enough and maneuverable enough
+p192
+aVto do so.
+p193
+aa(lp194
+VThis is a hummingbird drone.
+p195
+aVIt can fly in all directions,
+p196
+aVeven backwards.
+p197
+aVIt can hover and rotate.
+p198
+aVThis prototype aircraft
+p199
+aVis equipped with a video camera.
+p200
+aVIt weighs less than one AA battery.
+p201
+aVIt does not eat nectar.
+p202
+aVIn 2008,
+p203
+aVit flew for a whopping 20 seconds,
+p204
+aVa year later, two minutes,
+p205
+aVthen six,
+p206
+aVeventually 11.
+p207
+aVMany prototypes crashed \u2014 many.
+p208
+aVBut there's no way
+p209
+aVto learn to fly like a hummingbird
+p210
+aVunless you fly.
+p211
+aV(Applause)
+p212
+aVIt's beautiful, isn't it.
+p213
+aVWow.
+p214
+aVIt's great.
+p215
+aVMatt is the first ever hummingbird pilot.
+p216
+aV(Applause)
+p217
+aa(lp218
+VFailure is part of creating
+p219
+aVnew and amazing things.
+p220
+aVWe cannot both fear failure
+p221
+aVand make amazing new things \u2014
+p222
+aVlike a robot
+p223
+aVwith the stability of a dog on rough terrain,
+p224
+aVor maybe even ice;
+p225
+aVa robot that can run like a cheetah,
+p226
+aVor climb stairs like a human
+p227
+aVwith the occasional clumsiness of a human.
+p228
+aVOr perhaps, Spider Man
+p229
+aVwill one day be Gecko Man.
+p230
+aVA gecko can support
+p231
+aVits entire body weight
+p232
+aVwith one toe.
+p233
+aVOne square millimeter of a gecko's footpad
+p234
+aVhas 14,000 hair-like structures
+p235
+aVcalled setae.
+p236
+aVThey are used to help it grip to surfaces
+p237
+aVusing intermolecular forces.
+p238
+aa(lp239
+VToday we can manufacture structures
+p240
+aVthat mimic the hairs of a gecko's foot.
+p241
+aVThe result,
+p242
+aVa four-by-four-inch
+p243
+aVartificial nano-gecko adhesive.
+p244
+aVcan support a static load
+p245
+aVof 660 pounds.
+p246
+aVThat's enough to stick
+p247
+aVsix 42-inch plasma TV's to your wall,
+p248
+aVno nails.
+p249
+aVSo much for Velcro, right?
+p250
+aa(lp251
+VAnd it's not just passive structures,
+p252
+aVit's entire machines.
+p253
+aVThis is a spider mite.
+p254
+aVIt's one millimeter long,
+p255
+aVbut it looks like Godzilla
+p256
+aVnext to these micromachines.
+p257
+aVIn the world of Godzilla spider mites,
+p258
+aVwe can make millions of mirrors,
+p259
+aVeach one-fifth the diameter
+p260
+aVof a human hair,
+p261
+aVmoving at hundreds of thousands of times per second
+p262
+aVto make large screen displays,
+p263
+aVso that we can watch movies like "Godzilla"
+p264
+aVin high-def.
+p265
+aa(lp266
+VAnd if we can build machines
+p267
+aVat that scale,
+p268
+aVwhat about Eiffel Tower-like trusses
+p269
+aVat the microscale?
+p270
+aVToday we are making metals
+p271
+aVthat are lighter than Styrofoam,
+p272
+aVso light
+p273
+aVthey can sit atop a dandelion puff
+p274
+aVand be blown away
+p275
+aVwith a wisp of air \u2014
+p276
+aVso light
+p277
+aVthat you can make a car that two people can lift,
+p278
+aVbut so strong
+p279
+aVthat it has the crash-worthiness of an SUV.
+p280
+aa(lp281
+VFrom the smallest wisp of air
+p282
+aVto the powerful forces of nature's storms.
+p283
+aVThere are 44 lightning strikes per second
+p284
+aVaround the globe.
+p285
+aVEach lightning bolt heats the air
+p286
+aVto 44,000 degrees Fahrenheit \u2014
+p287
+aVhotter than the surface of the Sun.
+p288
+aVWhat if we could use
+p289
+aVthese electromagnetic pulses
+p290
+aVas beacons,
+p291
+aVbeacons in a moving network
+p292
+aVof powerful transmitters?
+p293
+aVExperiments suggest
+p294
+aVthat lightning could be the next GPS.
+p295
+aa(lp296
+VElectrical pulses form the thoughts in our brains.
+p297
+aVUsing a grid the size of your thumb,
+p298
+aVwith 32 electrodes
+p299
+aVon the surface of his brain,
+p300
+aVTim uses his thoughts
+p301
+aVto control an advanced prosthetic arm.
+p302
+aVAnd his thoughts
+p303
+aVmade him reach for Katie.
+p304
+aVThis is the first time
+p305
+aVa human has controlled a robot
+p306
+aVwith thought alone.
+p307
+aVAnd it is the first time
+p308
+aVthat Tim has held Katie's hand
+p309
+aVin seven years.
+p310
+aVThat moment mattered
+p311
+aVto Tim and Katie,
+p312
+aVand this green goo
+p313
+aVmay someday matter to you.
+p314
+aVThis green goo
+p315
+aVis perhaps the vaccine that could save your life.
+p316
+aVIt was made in tobacco plants.
+p317
+aVTobacco plants
+p318
+aVcan make millions of doses of vaccine
+p319
+aVin weeks instead of months,
+p320
+aVand it might just be
+p321
+aVthe first healthy use of tobacco ever.
+p322
+aa(lp323
+VAnd if it seems far-fetched
+p324
+aVthat tobacco plants could make people healthy,
+p325
+aVwhat about gamers that could solve problems
+p326
+aVthat experts can't solve?
+p327
+aVLast September,
+p328
+aVthe gamers of Foldit
+p329
+aVsolved the three-dimensional structure
+p330
+aVof the retroviral protease
+p331
+aVthat contributes to AIDS in rhesus monkeys.
+p332
+aVNow understanding this structure
+p333
+aVis very important for developing treatments.
+p334
+aVFor 15 years,
+p335
+aVit was unsolved
+p336
+aVin the scientific community.
+p337
+aVThe gamers of Foldit
+p338
+aVsolved it in 15 days.
+p339
+aVNow they were able to do so
+p340
+aVby working together.
+p341
+aVThey were able to work together
+p342
+aVbecause they're connected by the Internet.
+p343
+aVAnd others, also connected to the Internet,
+p344
+aVused it as an instrument of democracy.
+p345
+aVAnd together
+p346
+aVthey changed the fate of their nation.
+p347
+aa(lp348
+VThe Internet is home to two billion people,
+p349
+aVor 30 percent of the world's population.
+p350
+aVIt allows us to contribute
+p351
+aVand to be heard
+p352
+aVas individuals.
+p353
+aVIt allows us to amplify
+p354
+aVour voices and our power
+p355
+aVas a group.
+p356
+aVBut it too had humble beginnings.
+p357
+aVIn 1969, the internet was but a dream,
+p358
+aVa few sketches on a piece of paper.
+p359
+aVAnd then on October 29th,
+p360
+aVthe first packet-switched message was sent
+p361
+aVfrom UCLA to SRI.
+p362
+aVThe first two letters of the word "Login,"
+p363
+aVthat's all that made it through \u2014
+p364
+aVan L and an O \u2014
+p365
+aVand then a buffer overflow crashed the system.
+p366
+aV(Laughter)
+p367
+aVTwo letters,
+p368
+aVan L and an O,
+p369
+aVnow a worldwide force.
+p370
+aa(lp371
+VSo who are these scientists and engineers
+p372
+aVat a magical place called DARPA?
+p373
+aVThey are nerds,
+p374
+aVand they are heroes among us.
+p375
+aVThey challenge existing perspectives
+p376
+aVat the edges of science
+p377
+aVand under the most demanding of conditions.
+p378
+aVThey remind us
+p379
+aVthat we can change the world
+p380
+aVif we defy the impossible
+p381
+aVand we refuse to fear failure.
+p382
+aVThey remind us
+p383
+aVthat we all have nerd power.
+p384
+aVSometimes we just forget.
+p385
+aa(lp386
+VYou see, there was a time
+p387
+aVwhen you weren't afraid of failure,
+p388
+aVwhen you were a great artist or a great dancer
+p389
+aVand you could sing, you were good at math,
+p390
+aVyou could build things, you were an astronaut,
+p391
+aVan adventurer, Jacques Cousteau,
+p392
+aVyou could jump higher, run faster,
+p393
+aVkick harder than anyone.
+p394
+aVYou believed in impossible things
+p395
+aVand you were fearless.
+p396
+aVYou were totally and completely in touch
+p397
+aVwith your inner superhero.
+p398
+aVScientists and engineers
+p399
+aVcan indeed change the world.
+p400
+aVSo can you.
+p401
+aVYou were born to.
+p402
+aVSo go ahead,
+p403
+aVask yourself,
+p404
+aVwhat would you attempt to do
+p405
+aVif you knew you could not fail?
+p406
+aa(lp407
+VNow I want to say,
+p408
+aVthis is not easy.
+p409
+aVIt's hard to hold onto this feeling,
+p410
+aVreally hard.
+p411
+aVI guess in some way,
+p412
+aVI sort of believe it's supposed to be hard.
+p413
+aVDoubt and fear always creep in.
+p414
+aVWe think someone else, someone smarter than us,
+p415
+aVsomeone more capable,
+p416
+aVsomeone with more resources will solve that problem.
+p417
+aVBut there isn't anyone else;
+p418
+aVthere's just you.
+p419
+aVAnd if we're lucky,
+p420
+aVin that moment,
+p421
+aVsomeone steps into that doubt and fear,
+p422
+aVtakes a hand and says,
+p423
+aV"Let me help you believe."
+p424
+aa(lp425
+VJason Harley did that for me.
+p426
+aVJason started at DARPA
+p427
+aVon March 18th, 2010.
+p428
+aVHe was with our transportation team.
+p429
+aVI saw Jason nearly every day,
+p430
+aVsometimes twice a day.
+p431
+aVAnd more so than most,
+p432
+aVhe saw the highs and the lows,
+p433
+aVthe celebrations and the disappointments.
+p434
+aVAnd on one particularly dark day for me,
+p435
+aVJason sat down
+p436
+aVand he wrote an email.
+p437
+aVHe was encouraging,
+p438
+aVbut firm.
+p439
+aVAnd when he hit send,
+p440
+aVhe probably didn't realize what a difference it would make.
+p441
+aVIt mattered to me.
+p442
+aVIn that moment
+p443
+aVand still today
+p444
+aVwhen I doubt,
+p445
+aVwhen I feel afraid,
+p446
+aVwhen I need to reconnect
+p447
+aVwith that feeling,
+p448
+aVI remember his words,
+p449
+aVthey were so powerful.
+p450
+aa(lp451
+VText: "There is only time enough to iron your cape
+p452
+aVand back to the skies for you."
+p453
+aa(lp454
+V\u266b Superhero, superhero. \u266b
+p455
+aV\u266b Superhero, superhero. \u266b
+p456
+aV\u266b Superhero, superhero. \u266b
+p457
+aV\u266b Superhero, superhero. \u266b
+p458
+aV\u266b Superhero, superhero. \u266b
+p459
+aa(lp460
+VVoice: Because that's what being a superhero is all about.
+p461
+aa(lp462
+VRD: "There is only time enough
+p463
+aVto iron your cape
+p464
+aVand back to the skies for you."
+p465
+aVAnd remember,
+p466
+aVbe nice to nerds.
+p467
+aV(Applause)
+p468
+aVThank you. Thank you.
+p469
+aa(lp470
+V(Applause)
+p471
+aa(lp472
+VChris Anderson: Regina, thank you.
+p473
+aVI have a couple of questions.
+p474
+aVSo that glider of yours,
+p475
+aVthe Mach 20 glider,
+p476
+aVthe first one, no control, it ended up in the Pacific I think somewhere.
+p477
+aa(lp478
+VRD: Yeah, yeah. It did. (CA: What happened on that second flight?)
+p479
+aVYeah, it also went into the Pacific. (CA: But this time under control?)
+p480
+aVWe didn't fly it into the Pacific.
+p481
+aVNo, there are multiple portions of the trajectory
+p482
+aVthat are demanding
+p483
+aVin terms of really flying at that speed.
+p484
+aVAnd so in the second flight,
+p485
+aVwe were able to get three minutes
+p486
+aVof fully aerodynamic control of the vehicle before we lost it.
+p487
+aa(lp488
+VCA: I imagine you're not planning to open up to passenger service
+p489
+aVfrom New York to Long Beach anytime soon.
+p490
+aa(lp491
+VRD: It might be a little warm.
+p492
+aa(lp493
+VCA: What do you picture that glider being used for?
+p494
+aa(lp495
+VRD: Well our responsibility
+p496
+aVis to develop the technology for this.
+p497
+aVHow it's ultimately used
+p498
+aVwill be determined by the military.
+p499
+aVNow the purpose of the vehicle though,
+p500
+aVthe purpose of the technology,
+p501
+aVis to be able to reach anywhere in the world
+p502
+aVin less than 60 minutes.
+p503
+aa(lp504
+VCA: And to carry a payload
+p505
+aVof more than a few pounds? (RD: Yeah.)
+p506
+aVLike what's the payload it could carry?
+p507
+aa(lp508
+VRD: Well I don't think we ultimately know what it will be, right.
+p509
+aVWe've got to fly it first.
+p510
+aa(lp511
+VCA: But not necessarily just a camera?
+p512
+aa(lp513
+VRD: No, not necessarily just a camera.
+p514
+aa(lp515
+VCA: It's amazing.
+p516
+aVThe hummingbird?
+p517
+aa(lp518
+VRD: Yeah?
+p519
+aa(lp520
+VCA: I'm curious, you started your beautiful sequence on flight
+p521
+aVwith a plane kind of trying to flap its wings
+p522
+aVand failing horribly,
+p523
+aVand there haven't been that many planes built since
+p524
+aVthat flap wings.
+p525
+aVWhy did we think that this was the time to go biomimicry
+p526
+aVand copy a hummingbird?
+p527
+aVIsn't that a very expensive solution
+p528
+aVfor a small maneuverable flying object?
+p529
+aa(lp530
+VRD: So I mean, in part,
+p531
+aVwe wondered if it was possible to do it.
+p532
+aVAnd you have to revisit these questions
+p533
+aVover time.
+p534
+aVThe folks at AeroVironment
+p535
+aVtried 300 or more different wing designs,
+p536
+aV12 different forms of the avionics.
+p537
+aVIt took them 10 full prototypes
+p538
+aVto get something that would actually fly.
+p539
+aVBut there's something really interesting
+p540
+aVabout a flying machine
+p541
+aVthat looks like something you'd recognize.
+p542
+aVSo we often talk about stealth
+p543
+aVas a means for avoiding any type of sensing,
+p544
+aVbut when things looks just natural,
+p545
+aVyou also don't see them.
+p546
+aa(lp547
+VCA: Ah. So it's not necessarily just the performance.
+p548
+aVIt's partly the look. (RD: Sure.)
+p549
+aVIt's actually, "Look at that cute hummingbird
+p550
+aVflying into my headquarters."
+p551
+aV(Laughter)
+p552
+aVBecause I think, as well as the awe of looking at that,
+p553
+aVI'm sure some people here are thinking,
+p554
+aVtechnology catches up so quick,
+p555
+aVhow long is it
+p556
+aVbefore some crazed geek with a little remote control
+p557
+aVflies one through a window of the White House?
+p558
+aVI mean, do you worry about the Pandora's box issue here?
+p559
+aa(lp560
+VRD: Well look, our singular mission
+p561
+aVis the creation and prevention of strategic surprise.
+p562
+aVThat's what we do.
+p563
+aVIt would be inconceivable
+p564
+aVfor us to do that work
+p565
+aVif we didn't make people excited and uncomfortable with the things that we do
+p566
+aVat the same time.
+p567
+aVIt's just the nature of what we do.
+p568
+aVNow our responsibility
+p569
+aVis to push that edge.
+p570
+aVAnd we have to be, of course, mindful and responsible
+p571
+aVof how the technology is developed
+p572
+aVand ultimately used,
+p573
+aVbut we can't simply close our eyes
+p574
+aVand pretend that it isn't advancing; it's advancing.
+p575
+aa(lp576
+VCA: I mean, you're clearly a really inspiring leader.
+p577
+aVAnd you persuade people
+p578
+aVto go to these great feats of invention,
+p579
+aVbut at a personal level,
+p580
+aVin a way I can't imagine doing your job.
+p581
+aVDo you wake up in the night sometimes,
+p582
+aVjust asking questions
+p583
+aVabout the possibly unintended consequences
+p584
+aVof your team's brilliance?
+p585
+aa(lp586
+VRD: Sure.
+p587
+aVI think you couldn't be human
+p588
+aVif you didn't ask those questions.
+p589
+aa(lp590
+VCA: How do you answer them?
+p591
+aa(lp592
+VRD: Well I don't always have answers for them, right.
+p593
+aVI think that we learn
+p594
+aVas time goes on.
+p595
+aVMy job is one of the most exhilarating jobs you could have.
+p596
+aVI work with some of the most amazing people.
+p597
+aVAnd with that exhilaration,
+p598
+aVcomes a really deep sense
+p599
+aVof responsibility.
+p600
+aVAnd so you have on the one hand
+p601
+aVthis tremendous lift
+p602
+aVof what's possible
+p603
+aVand this tremendous seriousness
+p604
+aVof what it means.
+p605
+aa(lp606
+VCA: Regina, that was jaw-dropping, as they say.
+p607
+aVThank you so much for coming to TED. (RD: Thank you.)
+p608
+aa(lp609
+V(Applause)
+p610
+aasS'id'
+p611
+I1402
+sS'title'
+p612
+VFrom mach-20 glider to hummingbird drone
+p613
+s.

@@ -1,0 +1,651 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VFrugal Digital is essentially a small research group at C.I.D.
+p4
+aVwhere we are looking to find
+p5
+aValternate visions of how to create a digitally inclusive society.
+p6
+aVThat's what we're after.
+p7
+aVAnd we do this because we actually believe
+p8
+aVthat silicon technology today is mostly about
+p9
+aVa culture of excess.
+p10
+aVIt's about the fastest and the most efficient
+p11
+aVand the most dazzling gadget you can have,
+p12
+aVwhile about two-thirds of the world
+p13
+aVcan hardly reach the most basic of this technology
+p14
+aVto even address fundamental needs in life,
+p15
+aVincluding health care, education
+p16
+aVand all these kinds of very fundamental issues.
+p17
+aa(lp18
+VSo before I start, I want to talk about a little anecdote,
+p19
+aVa little story about a man I met once in Mumbai.
+p20
+aVSo this man, his name is Sathi Shri.
+p21
+aVHe is an outstanding person,
+p22
+aVbecause he's a small entrepreneur.
+p23
+aVHe runs a little shop
+p24
+aVin one of the back streets of Mumbai.
+p25
+aVHe has this little 10-square-meter store,
+p26
+aVwhere so much is being done.
+p27
+aVIt's incredible, because I couldn't believe my eyes
+p28
+aVwhen I once just happened to bump into him.
+p29
+aVBasically, what he does is, he has all these services
+p30
+aVfor micro-payments and booking tickets
+p31
+aVand all kinds of basic things that you would go online for,
+p32
+aVbut he does it for people offline
+p33
+aVand connects to the digital world.
+p34
+aVMore importantly, he makes his money
+p35
+aVby selling these mobile recharge coupons, you know,
+p36
+aVfor the prepaid subscriptions.
+p37
+aVBut then, in the backside, he's got this little nook
+p38
+aVwith a few of his employees
+p39
+aVwhere they can fix almost anything.
+p40
+aVAny cell phone, any gadget you can bring them, they can fix it.
+p41
+aVAnd it's pretty incredible because I took my iPhone there,
+p42
+aVand he was like, "Yeah, do you want an upgrade?"
+p43
+aV"Yes." (Laughter)
+p44
+aVI was a bit skeptical, but then, I decided
+p45
+aVto give him a Nokia instead. (Laughter)
+p46
+aa(lp47
+VBut what I was amazed about is this reverse engineering
+p48
+aVand know-how that's built into this little two meters of space.
+p49
+aVThey have figured out everything that's required
+p50
+aVto dismantle, take things apart,
+p51
+aVrewrite the circuitry, re-flash the firmware,
+p52
+aVdo whatever you want to with the phone,
+p53
+aVand they can fix anything so quickly.
+p54
+aVYou can hand over a phone this morning
+p55
+aVand you can go pick it up after lunch,
+p56
+aVand it was quite incredible.
+p57
+aa(lp58
+VBut then we were wondering whether this is
+p59
+aVa local phenomenon, or is truly global?
+p60
+aVAnd, over time, we started understanding
+p61
+aVand systematically researching
+p62
+aVwhat this tinkering ecosystem is about,
+p63
+aVbecause that is something that's happening
+p64
+aVnot just in one street corner in Mumbai.
+p65
+aVIt's actually happening in all parts of the country.
+p66
+aVIt's even happening in Africa, like, for example,
+p67
+aVin Cape Town we did extensive research on this.
+p68
+aVEven here in Doha I found this little nook
+p69
+aVwhere you can get alarm clocks and watches fixed,
+p70
+aVand it's a lot of tiny little parts. It's not easy.
+p71
+aVYou've got to try it on your own to believe it.
+p72
+aa(lp73
+VBut what fuels this?
+p74
+aVIt's this entire ecosystem of low-cost parts
+p75
+aVand supplies that are produced all over the world, literally,
+p76
+aVand then redistributed to basically service this industry,
+p77
+aVand you can even buy salvaged parts.
+p78
+aVBasically, you don't have to necessarily buy
+p79
+aVbrand new things. You have condemned computers
+p80
+aVthat are stripped apart,
+p81
+aVand you can buy salvaged components
+p82
+aVand things that you can reassemble in a new configuration.
+p83
+aa(lp84
+VBut what does this new, sort of, approach give us?
+p85
+aVThat's the real question, because this is something
+p86
+aVthat's been there, part of every society
+p87
+aVthat's deprived of enough resources.
+p88
+aVBut there's an interesting paradigm.
+p89
+aVThere's the traditional crafts,
+p90
+aVand then there's the technology crafts.
+p91
+aVWe call it the technology crafts because these are emerging.
+p92
+aVThey're not something that's been established.
+p93
+aVIt's not something that's institutionalized.
+p94
+aVIt's not taught in universities.
+p95
+aVIt's taught [by] word of mouth,
+p96
+aVand it's an informal education system around this.
+p97
+aa(lp98
+VSo we said, "What can we get out of this?
+p99
+aVYou know, like, what are the key values that we can get out of this?"
+p100
+aVThe main thing is a fix-it-locally culture,
+p101
+aVwhich is fantastic because it means that your product
+p102
+aVor your service doesn't have to go through
+p103
+aVa huge bureaucratic system to get it fixed.
+p104
+aVIt also affords us cheap fabrication, which is fantastic,
+p105
+aVso it means that you can do a lot more with it.
+p106
+aVAnd then, the most important thing is,
+p107
+aVit gives us large math for low cost.
+p108
+aVSo it means that you can actually embed
+p109
+aVpretty clever algorithms and lots of other kinds
+p110
+aVof extendable ideas into really simple devices.
+p111
+aa(lp112
+VSo, what we call this is a silicon cottage industry.
+p113
+aVIt's basically what was the system or the paradigm
+p114
+aVbefore the industrial revolution is now re-happening
+p115
+aVin a whole new way in small digital shops
+p116
+aVacross the planet in most developing countries.
+p117
+aa(lp118
+VSo, we kind of toyed around with this idea,
+p119
+aVand we said, "What can we do with this?
+p120
+aVCan we make a little product or a service out of it?"
+p121
+aVSo one of the first things we did is this thing called
+p122
+aVa multimedia platform. We call it a lunch box.
+p123
+aVBasically one of the contexts that we studied was
+p124
+aVschools in very remote parts of India.
+p125
+aVSo there is this amazing concept called the one-teacher school,
+p126
+aVwhich is basically a single teacher who is a multitasker
+p127
+aVwho teaches this amazing little social setting.
+p128
+aVIt's an informal school,
+p129
+aVbut it's really about holistic education.
+p130
+aVThe only thing that they don't have
+p131
+aVis access to resources. They don't even have a textbook
+p132
+aVsometimes, and they don't even have a proper curriculum.
+p133
+aa(lp134
+VSo we said, "What can we do to empower this teacher
+p135
+aVto do more?" How to access the digital world?
+p136
+aVInstead of being the sole guardian of information,
+p137
+aVbe a facilitator to all this information.
+p138
+aVSo we said, "What are the steps required to empower the teacher?"
+p139
+aVHow do you make this teacher into a digital gateway,
+p140
+aVand how do you design an inexpensive multimedia platform
+p141
+aVthat can be constructed locally and serviced locally?"
+p142
+aVSo we walked around.
+p143
+aVWe went and scavenged the nearby markets,
+p144
+aVand we tried to understand, "What can we pick up that will make this happen?"
+p145
+aa(lp146
+VSo the thing that we got
+p147
+aVwas a little mobile phone with a little pico projector
+p148
+aVthat comes for about 60 dollars.
+p149
+aVWe went a bought a flashlight with a very big battery,
+p150
+aVand a bunch of small speakers.
+p151
+aVSo essentially, the mobile phone gives us
+p152
+aVa connected multimedia platform.
+p153
+aVIt allows us to get online and allows us to load up files
+p154
+aVof different formats and play them.
+p155
+aVThe flashlight gives us this really intense, bright L.E.D.,
+p156
+aVand six hours worth of rechargeable battery pack,
+p157
+aVand the lunch box is a nice little package
+p158
+aVin which you can put everything inside,
+p159
+aVand a bunch of mini speakers to sort of
+p160
+aVamplify the sound large enough.
+p161
+aVBelieve me, those little classrooms are really noisy.
+p162
+aVThey are kids who scream at the top of their voices,
+p163
+aVand you really have to get above that.
+p164
+aVAnd we took it back to this little tinkering setup
+p165
+aVof a mobile phone repair shop,
+p166
+aVand then the magic happens.
+p167
+aVWe dismantle the whole thing,
+p168
+aVwe reassemble it in a new configuration,
+p169
+aVand we do this hardware mashup,
+p170
+aVsystematically training the guy how to do this.
+p171
+aVOut comes this, a little lunch box \u2014 form factor.
+p172
+aa(lp173
+V(Applause)
+p174
+aa(lp175
+VAnd we systematically field tested,
+p176
+aVbecause in the field testing we learned some
+p177
+aVimportant lessons, and we went through many iterations.
+p178
+aVOne of the key issues was battery consumption and charging.
+p179
+aVLuminosity was an issue, when you have too much bright sunlight outside.
+p180
+aVOften the roofs are broken, so you don't have enough
+p181
+aVdarkness in the classroom to do these things.
+p182
+aa(lp183
+VWe extended this idea. We tested it many times over,
+p184
+aVand the next version we came up with was a box
+p185
+aVthat kind of could trickle charge on solar energy,
+p186
+aVbut most importantly connect to a car battery,
+p187
+aVbecause a car battery is a ubiquitous source of power
+p188
+aVin places where there's not enough electricity
+p189
+aVor erratic electricity.
+p190
+aa(lp191
+VAnd the other key thing that we did was
+p192
+aVmake this box run off a USB key, because we realized
+p193
+aVthat even though there was GPRS and all that on paper,
+p194
+aVat least, in theory, it was much more efficient
+p195
+aVto send the data on a little USB key by surface mail.
+p196
+aVIt might take a few days to get there,
+p197
+aVbut at least it gets there in high definition
+p198
+aVand in a reliable quality.
+p199
+aVSo we made this box, and we tested it again
+p200
+aVand again and again, and we're going through
+p201
+aVmultiple iterations to do these things.
+p202
+aa(lp203
+VBut it's not limited to just education.
+p204
+aVThis kind of a technique or metrology
+p205
+aVcan actually be applied to other kinds of areas,
+p206
+aVand I'm going to tell you one more little story.
+p207
+aVIt's about this little device called a medi-meter.
+p208
+aVIt's basically a little health care screening tool that we developed.
+p209
+aa(lp210
+VIn India, there is a context of these amazing people,
+p211
+aVthe health care workers called ASHA workers.
+p212
+aVThey are essentially foot soldiers for the health care system
+p213
+aVwho live in the local community and are trained
+p214
+aVwith basic tools and basic concepts of health care,
+p215
+aVand the main purpose is basically to inform people
+p216
+aVto basically, how to lead a better life, but also
+p217
+aVto divert or sort of make recommendations
+p218
+aVof what kind of health care should they approach?
+p219
+aVThey are basically referral services, essentially.
+p220
+aa(lp221
+VBut the problem with that is that we realized
+p222
+aVafter a bunch of research that they are amazing
+p223
+aVat referring people to the nearest clinic
+p224
+aVor the public health care system, but what happens at the
+p225
+aVpublic health care system is this: these incredibly long lines
+p226
+aVand too many people who overload the system
+p227
+aVsimply because there's not enough doctors and facilities
+p228
+aVfor the population that's being referred.
+p229
+aVSo everything from a common cold
+p230
+aVto a serious case of malaria gets almost the same
+p231
+aVlevel of attention, and there's no priorities.
+p232
+aa(lp233
+VSo we said, "Come on, there's got to be a better way
+p234
+aVof doing this for sure."
+p235
+aVSo we said, "What can we do with the ASHA worker
+p236
+aVthat'll allow this ASHA worker to become an interesting filter,
+p237
+aVbut not just a filter, a really well thought through referral
+p238
+aVsystem that allows load balancing of the network,
+p239
+aVand directs patients to different sources of health care
+p240
+aVbased on the severity or the criticalness of those situations?"
+p241
+aa(lp242
+VSo the real key question was,
+p243
+aVhow do we empower this woman?
+p244
+aVHow do we empower her with simple tools
+p245
+aVthat's not diagnostic but more screening in nature
+p246
+aVso she at least knows how to advise the patients better?
+p247
+aVAnd that'll make such a huge difference on the system,
+p248
+aVbecause the amount of waiting time and the amount of
+p249
+aVdistances that people need to travel, often sometimes
+p250
+aVseven to 15 kilometers, sometimes by foot,
+p251
+aVto get a simple health check done, is very, very detrimental
+p252
+aVin the sense that it really dissuades people
+p253
+aVfrom getting access to health care.
+p254
+aVSo if there was something that she could do,
+p255
+aVthat would be amazing.
+p256
+aa(lp257
+VSo what we did was that we converted this device
+p258
+aVinto a medical device.
+p259
+aVI want to demo this actually,
+p260
+aVbecause it's a very simple process.
+p261
+aa(lp262
+VBruno, do you want to join us? (Cheers)
+p263
+aVCome along. (Applause)
+p264
+aa(lp265
+VSo, what we're going to do is that
+p266
+aVwe're going to measure a few basic parameters on you,
+p267
+aVincluding your pulse rate and the amount of oxygen
+p268
+aVthat's there in your blood.
+p269
+aVSo you're going to put your thumb on top of this.
+p270
+aa(lp271
+VBruno Giussani: Like this, works?
+p272
+aa(lp273
+VVinay Venkatraman: Yeah. That's right. BG: Okay.
+p274
+aa(lp275
+VVV: So I'm going to start it up. I hope it works.
+p276
+aV(Beeps) It even beeps, because it's an alarm clock, after all.
+p277
+aVSo ... (Laughter)
+p278
+aa(lp279
+VSo I take it into the start position, and then
+p280
+aVI press the read button. (Beeps)
+p281
+aVSo it's taking a little reading from you. (Beeps)
+p282
+aVAnd then the pointer goes and points to three different options.
+p283
+aVLet's see what happens here.
+p284
+aV(Beeps) Oh Bruno, you can go home, actually.
+p285
+aa(lp286
+VBG: Great. Good news. (Applause)
+p287
+aa(lp288
+VVV: So ... (Applause)
+p289
+aa(lp290
+VSo the thing about this is that
+p291
+aVif the pointer, unfortunately, had pointed to the red spot,
+p292
+aVwe would have to rush you to a hospital.
+p293
+aVLuckily, not today. And if it had pointed to the orange
+p294
+aVor the amber, it basically meant you had to have,
+p295
+aVsort of, more continuous care from the health care worker.
+p296
+aVSo that was a very simple three-step screening process
+p297
+aVthat could basically change the equation
+p298
+aVof how public health care works in so many different ways.
+p299
+aa(lp300
+VBG: Thank you for the good news. VV: Yeah.
+p301
+aa(lp302
+V(Applause)
+p303
+aVSo, very briefly, I'll just explain to you how this is done,
+p304
+aVbecause that's the more interesting part.
+p305
+aVSo essentially, the three things that are required
+p306
+aVto make this conversion from this guy to this guy
+p307
+aVis a cheap remote control for a television
+p308
+aVthat you can almost find in every home today,
+p309
+aVsome parts from a computer mouse, basically,
+p310
+aVsomething that you can scavenge for very low cost,
+p311
+aVand a few parts that have to be pre-programmed.
+p312
+aVBasically this is a micro-controller with a few
+p313
+aVextra components that can be shipped for very little cost
+p314
+aVacross the world, and that's what is all required
+p315
+aVwith a little bit of local tinkering talent
+p316
+aVto convert the device into something else.
+p317
+aVSo we are right now doing some systematic field tests
+p318
+aVto basically ascertain whether something like this actually
+p319
+aVmakes sense to the ASHA worker.
+p320
+aa(lp321
+VWe are going through some reference tests to compare it
+p322
+aVagainst professional equipment to see if there's a degree
+p323
+aVof change in efficacy and if it actually makes an impact
+p324
+aVin people's lives. But most importantly,
+p325
+aVwhat we are trying to do right now
+p326
+aVis we are trying to scale this up, because there
+p327
+aVare over 250,000 ASHA workers on the ground
+p328
+aVwho are these amazing foot soldiers, and if we can
+p329
+aVgive at least a fraction of them the access to these things,
+p330
+aVit just changes the way the economics of public health care
+p331
+aVworks, and it changes the way systems actually function,
+p332
+aVnot just on a systematic planning level,
+p333
+aVbut also in a very grassroots, bottom-up level.
+p334
+aa(lp335
+VSo that's it, and we hope to do this in a big way.
+p336
+aVThank you. (Applause)
+p337
+aa(lp338
+V(Applause)
+p339
+aasS'id'
+p340
+I1516
+sS'title'
+p341
+VTechnology crafts for the digitally underserved
+p342
+s.

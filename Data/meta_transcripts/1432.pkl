@@ -1,0 +1,484 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhen we think of games, there's all kinds of things.
+p4
+aVMaybe you're ticked off, or maybe, you're looking forward to a new game.
+p5
+aVYou've been up too late playing a game.
+p6
+aVAll these things happen to me.
+p7
+aVBut when we think about games,
+p8
+aVa lot of times we think about stuff like this:
+p9
+aVfirst-person shooters, or the big, what we would call AAA games,
+p10
+aVor maybe you're a Facebook game player.
+p11
+aVThis is one my partner and I worked on.
+p12
+aVMaybe you play Facebook games, and that's what we're making right now.
+p13
+aVThis is a lighter form of game.
+p14
+aVMaybe you think about the tragically boring board games
+p15
+aVthat hold us hostage in Thanksgiving situations.
+p16
+aVThis would be one of the tragically boring board games that you can figure out.
+p17
+aVOr maybe you're in your living room,
+p18
+aVplaying with the Wii with the kids,
+p19
+aVand there's this whole range of games, and that's very much what I think about.
+p20
+aVI make my living from games, I've been lucky enough to do this
+p21
+aVsince I was 15, which also qualifies as I've never really had a real job.
+p22
+aa(lp23
+VBut we think about games as fun, and that's completely reasonable,
+p24
+aVbut let's just think about this.
+p25
+aVSo this one here, this is the 1980 Olympics.
+p26
+aVNow I don't know where you guys were,
+p27
+aVbut I was in my living room.
+p28
+aVIt was practically a religious event.
+p29
+aVAnd this is when the Americans beat the Russians,
+p30
+aVand this was \u2014 yes, it was technically a game.
+p31
+aVHockey is a game.
+p32
+aVBut really, was this a game?
+p33
+aVI mean, people cried.
+p34
+aVI've never seen my mother cry like that at the end of Monopoly.
+p35
+aa(lp36
+V(Laughter)
+p37
+aVAnd so this was an amazing experience.
+p38
+aa(lp39
+VOr, if anybody here is from Boston \u2014
+p40
+aVSo when the Boston Red Sox won the World Series
+p41
+aVafter I believe, 351 years \u2014
+p42
+aa(lp43
+V(Laughter)
+p44
+aa(lp45
+Vwhen they won the World Series, it was amazing.
+p46
+aVI happened to be living in Springfield at the time,
+p47
+aVand the best part of it was,
+p48
+aVyou would close the women's door in the bathroom,
+p49
+aVand I remember seeing "Go Sox," and I thought, really?
+p50
+aVOr the houses, you'd come out, because every game,
+p51
+aVwell, I think almost every game, went into overtime, right?
+p52
+aVSo we'd be outside, and all the other lights are on in the whole block.
+p53
+aVAnd kids \u2014 the attendance was down in school,
+p54
+aVkids weren't going to school, but it's OK, it's the Red Sox, right?
+p55
+aVI mean, there's education, and then there's the Red Sox,
+p56
+aVand we know where they're stacked.
+p57
+aVSo this was an amazing experience,
+p58
+aVand again, yes, it was a game, but they didn't write newspaper articles,
+p59
+aVpeople didn't say, "You know, really, I can die now, because the Red Sox won."
+p60
+aVAnd many people did.
+p61
+aa(lp62
+VSo games, it means something more to us.
+p63
+aVIt absolutely means something more.
+p64
+aa(lp65
+VSo now, this is an abrupt transition here.
+p66
+aVThere was three years where I actually did have a real job, sort of.
+p67
+aVI was the head of a college department teaching games,
+p68
+aVso, again, it was sort of a real job,
+p69
+aVand now I got to talk about making them as opposed to making them.
+p70
+aVPart of the job of it, when you're a chair of a department,
+p71
+aVis to eat, and I did that very well \u2014
+p72
+aVand so I'm out at a dinner with this guy called Zig Jackson.
+p73
+aVSo this is Zig in this photograph, this is also one of Zig's photographs.
+p74
+aVHe's a photographer.
+p75
+aVAnd he goes all around the country taking pictures of himself,
+p76
+aVand you can see here he's got Zig's Indian Reservation.
+p77
+aVAnd this particular shot \u2014
+p78
+aVthis is one of the more traditional shots.
+p79
+aVThis is a rain dancer.
+p80
+aa(lp81
+VAnd this is one of my favorite shots here.
+p82
+aVSo you can look at this, and maybe you've even seen things like this.
+p83
+aVThis is an expression of culture, right?
+p84
+aVAnd this is actually from his Degradation series.
+p85
+aVAnd what was most fascinating to me about this series
+p86
+aVis just, look at that little boy there, can you imagine?
+p87
+aVWe can see that's a traditional Native American.
+p88
+aVNow I just want to change that guy's race.
+p89
+aVJust imagine if that's a black guy.
+p90
+aVSo, "Honey, come here, let's get you a picture with the black guy." Right?
+p91
+aVLike, seriously, nobody would do this.
+p92
+aVIt baffles the mind.
+p93
+aVAnd so Zig, being Indian, likewise it baffles his mind.
+p94
+aVHis favorite photograph \u2014
+p95
+aVmy favorite photograph of his, which I don't have in here \u2014
+p96
+aVis Indian taking picture of white people taking pictures of Indians.
+p97
+aa(lp98
+V(Laughter)
+p99
+aa(lp100
+VSo I happen to be at dinner with this photographer,
+p101
+aVand he was talking with another photographer
+p102
+aVabout a shooting that had occurred,
+p103
+aVand it was on an Indian Reservation.
+p104
+aVHe'd taken his camera up there to photograph it,
+p105
+aVbut when he got there, he discovered he couldn't do it.
+p106
+aVHe just couldn't capture the picture.
+p107
+aVAnd so they were talking back and forth about this question.
+p108
+aVDo you take the picture or not?
+p109
+aVAnd that was fascinating to me as a game designer,
+p110
+aVbecause it never occurs to me,
+p111
+aVshould I make the game about this difficult topic or not?
+p112
+aVBecause we just make things that are fun
+p113
+aVor will make you feel fear, that visceral excitement.
+p114
+aVBut every other medium does it.
+p115
+aa(lp116
+VSo this is my kid.
+p117
+aVThis is Maezza, and when she was seven years old,
+p118
+aVshe came home from school one day,
+p119
+aVand like I do every single day, I asked her, "What did you do today?"
+p120
+aVSo she said, "We talked about the Middle Passage."
+p121
+aa(lp122
+VNow, this was a big moment. Maezza's dad is black,
+p123
+aVand I knew this day was coming.
+p124
+aVI wasn't expecting it at seven, I don't know why, but I wasn't.
+p125
+aa(lp126
+VAnyways, so I asked her, "How do you feel about that?"
+p127
+aVSo she proceeded to tell me,
+p128
+aVand so any of you who are parents will recognize the bingo buzzwords here.
+p129
+aV"The ships start in England, they come down from England,
+p130
+aVthey go to Africa, they go across the ocean \u2014
+p131
+aVthat's the Middle Passage part \u2014
+p132
+aVthey come to America, where the slaves are sold," she's telling me.
+p133
+aVBut Abraham Lincoln was elected president,
+p134
+aVand then he passed the Emancipation Proclamation,
+p135
+aVand now they're free.
+p136
+aa(lp137
+VPause for about 10 seconds.
+p138
+aa(lp139
+V"Can I play a game, Mommy?"
+p140
+aa(lp141
+VAnd I thought, that's it? And so, you know,
+p142
+aVthis is the Middle Passage, this is an incredibly significant event,
+p143
+aVand she's treating it like, basically some black people went on a cruise,
+p144
+aVthis is more or less how it sounds to her.
+p145
+aa(lp146
+V(Laughter)
+p147
+aa(lp148
+VAnd so, to me, I wanted more value in this,
+p149
+aVso when she asked if she could play a game, I said, "Yes."
+p150
+aa(lp151
+V(Laughter)
+p152
+aa(lp153
+VAnd so I happened to have all of these little pieces.
+p154
+aVI'm a game designer, so I have this stuff sitting around my house.
+p155
+aVI said, "Yeah, you can play a game," and I give her a bunch of these,
+p156
+aVand I tell her to paint them in different families.
+p157
+aVThese are pictures of Maezza when she was \u2014
+p158
+aVGod, it still chokes me up seeing these.
+p159
+aVSo she's painting her little families.
+p160
+aVSo then I grab a bunch of them and I put them on a boat.
+p161
+aVThis was the boat, it was made quickly, obviously.
+p162
+aVAnd so the basic gist of it is, I grabbed a bunch of families,
+p163
+aVand she's like, "Mommy, but you forgot the pink baby
+p164
+aVand you forgot the blue daddy
+p165
+aVand you forgot all these other things."
+p166
+aVAnd she says, "They want to go."
+p167
+aVAnd I said, "Honey, no, they don't want to go.
+p168
+aVThis is the Middle Passage, Nobody wants to go on the Middle Passage."
+p169
+aVSo she gave me a look that only a daughter of a game designer would give a mother,
+p170
+aVand as we're going across the ocean, following these rules,
+p171
+aVshe realizes that she's rolling pretty high,
+p172
+aVand she says to me, "We're not going to make it."
+p173
+aa(lp174
+VAnd she realizes, we don't have enough food,
+p175
+aVand so she asks what to do,
+p176
+aVand I say \u2014 remember, she's seven \u2014
+p177
+aV"We can either put some people in the water
+p178
+aVor we can hope that they don't get sick
+p179
+aVand we make it to the other side."
+p180
+aVJust the look on her face came over \u2014
+p181
+aVnow mind you this is after a month of \u2014
+p182
+aVthis is Black History Month, right?
+p183
+aVAfter a month, she says to me, "Did this really happen?"
+p184
+aVAnd I said, "Yes." And so she said \u2014
+p185
+aVthis is her brother and sister \u2014
+p186
+aV"If I came out of the woods, Avalon and Donovan might be gone."
+p187
+aV"Yes."
+p188
+aV"But I'd get to see them in America."
+p189
+aV"No."
+p190
+aV"But what if I saw them? Couldn't we stay together?"
+p191
+aV"So Daddy could be gone."
+p192
+aV"Yes."
+p193
+aVShe was fascinated by this, and she started to cry,
+p194
+aVI started to cry, her father started to cry, and now we're all crying.
+p195
+aVHe didn't expect to come home from work to the Middle Passage, but there it goes.
+p196
+aa(lp197
+VAnd so, we made this game, and she got it.
+p198
+aVShe got it because she spent time with these people.
+p199
+aVIt wasn't abstract stuff in a brochure or in a movie.
+p200
+aa(lp201
+VAnd so it was just an incredibly powerful experience.
+p202
+aVThis is the game, which I've ended up calling "The New World,"
+p203
+aVbecause I like the phrase.
+p204
+aVI don't think the New World felt too new worldly exciting
+p205
+aVto the people who were brought over on slave ships.
+p206
+aa(lp207
+VBut when this happened, I saw the whole planet; I was so excited.
+p208
+aVI'd been making games for 20-some years,
+p209
+aVand then I decided to do it again.
+p210
+aVMy history is Irish.
+p211
+aVSo this is a game called "Síochán Leat." It's "peace be with you."
+p212
+aVIt's the entire history of my family in a single game.
+p213
+aa(lp214
+VI made another game called "Train."
+p215
+aVI was making a series of six games that covered difficult topics,
+p216
+aVand if you're going to cover a difficult topic, this is one you need to cover,
+p217
+aVand I'll let you figure out what that's about on your own.
+p218
+aa(lp219
+VAnd I also made a game about the Trail of Tears.
+p220
+aVThis is a game with 50,000 individual pieces.
+p221
+aVI was crazy when I decided to start it, but I'm in the middle of it now.
+p222
+aVIt's the same thing.
+p223
+aVI'm hoping that I'll teach culture through these games.
+p224
+aa(lp225
+VAnd the one I'm working on right now, which is \u2014
+p226
+aVbecause I'm right in the middle of it,
+p227
+aVand these for some reason choke me up like crazy \u2014
+p228
+aVis a game called "Mexican Kitchen Workers."
+p229
+aVAnd originally, it was a math problem, more or less.
+p230
+aVHere's the economics of illegal immigration.
+p231
+aVAnd the more I learned about Mexican culture \u2014
+p232
+aVmy partner is Mexican \u2014 the more I learned that,
+p233
+aVyou know, for all of us, food is a basic need,
+p234
+aVand it is obviously with Mexicans, too, but it's much more than that.
+p235
+aVIt's an expression of love. It's an expression of \u2014
+p236
+aVGod, I'm totally choking up way more than I thought.
+p237
+aVI'll look away from the picture.
+p238
+aVIt's an expression of beauty, it's how they say they love you.
+p239
+aVIt's how they say they care,
+p240
+aVand you can't hear somebody talk about their Mexican grandmother
+p241
+aVwithout saying "food" in the first sentence.
+p242
+aVAnd so to me, this beautiful culture,
+p243
+aVthis beautiful expression is something that I want to capture through games.
+p244
+aa(lp245
+VAnd so games, for a change, it changes how we see topics,
+p246
+aVit changes our perceptions about those people in topics,
+p247
+aVand it changes ourselves.
+p248
+aVWe change as people through games,
+p249
+aVbecause we're involved, and we're playing,
+p250
+aVand we're learning as we do so.
+p251
+aa(lp252
+VThank you.
+p253
+aasS'id'
+p254
+I1432
+sS'title'
+p255
+VGaming for understanding
+p256
+s.

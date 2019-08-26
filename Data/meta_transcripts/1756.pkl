@@ -1,0 +1,871 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+V"Even in purely non-religious terms,
+p4
+aVhomosexuality represents a misuse of the sexual faculty.
+p5
+aVIt is a pathetic little second-rate substitute for reality \u2014
+p6
+aVa pitiable flight from life.
+p7
+aVAs such, it deserves no compassion,
+p8
+aVit deserves no treatment
+p9
+aVas minority martyrdom,
+p10
+aVand it deserves not to be deemed anything but a pernicious sickness."
+p11
+aa(lp12
+VThat's from Time magazine in 1966, when I was three years old.
+p13
+aVAnd last year, the president of the United States
+p14
+aVcame out in favor of gay marriage.
+p15
+aa(lp16
+V(Applause)
+p17
+aa(lp18
+VAnd my question is, how did we get from there to here?
+p19
+aVHow did an illness become an identity?
+p20
+aa(lp21
+VWhen I was perhaps six years old,
+p22
+aVI went to a shoe store with my mother and my brother.
+p23
+aVAnd at the end of buying our shoes,
+p24
+aVthe salesman said to us that we could each have a balloon to take home.
+p25
+aVMy brother wanted a red balloon, and I wanted a pink balloon.
+p26
+aVMy mother said that she thought I'd really rather have a blue balloon.
+p27
+aVBut I said that I definitely wanted the pink one.
+p28
+aVAnd she reminded me that my favorite color was blue.
+p29
+aVThe fact that my favorite color now is blue, but I'm still gay \u2014
+p30
+aV(Laughter) \u2014
+p31
+aVis evidence of both my mother's influence and its limits.
+p32
+aa(lp33
+V(Laughter)
+p34
+aa(lp35
+V(Applause)
+p36
+aa(lp37
+VWhen I was little, my mother used to say,
+p38
+aV"The love you have for your children is like no other feeling in the world.
+p39
+aVAnd until you have children, you don't know what it's like."
+p40
+aVAnd when I was little, I took it as the greatest compliment in the world
+p41
+aVthat she would say that about parenting my brother and me.
+p42
+aVAnd when I was an adolescent, I thought
+p43
+aVthat I'm gay, and so I probably can't have a family.
+p44
+aVAnd when she said it, it made me anxious.
+p45
+aVAnd after I came out of the closet,
+p46
+aVwhen she continued to say it, it made me furious.
+p47
+aVI said, "I'm gay. That's not the direction that I'm headed in.
+p48
+aVAnd I want you to stop saying that."
+p49
+aa(lp50
+VAbout 20 years ago, I was asked by my editors at The New York Times Magazine
+p51
+aVto write a piece about deaf culture.
+p52
+aVAnd I was rather taken aback.
+p53
+aVI had thought of deafness entirely as an illness.
+p54
+aVThose poor people, they couldn't hear.
+p55
+aVThey lacked hearing, and what could we do for them?
+p56
+aVAnd then I went out into the deaf world.
+p57
+aVI went to deaf clubs.
+p58
+aVI saw performances of deaf theater and of deaf poetry.
+p59
+aVI even went to the Miss Deaf America contest in Nashville, Tennessee
+p60
+aVwhere people complained about that slurry Southern signing.
+p61
+aa(lp62
+V(Laughter)
+p63
+aa(lp64
+VAnd as I plunged deeper and deeper into the deaf world,
+p65
+aVI become convinced that deafness was a culture
+p66
+aVand that the people in the deaf world who said,
+p67
+aV"We don't lack hearing, we have membership in a culture,"
+p68
+aVwere saying something that was viable.
+p69
+aVIt wasn't my culture,
+p70
+aVand I didn't particularly want to rush off and join it,
+p71
+aVbut I appreciated that it was a culture
+p72
+aVand that for the people who were members of it,
+p73
+aVit felt as valuable as Latino culture or gay culture or Jewish culture.
+p74
+aVIt felt as valid perhaps even as American culture.
+p75
+aa(lp76
+VThen a friend of a friend of mine had a daughter who was a dwarf.
+p77
+aVAnd when her daughter was born,
+p78
+aVshe suddenly found herself confronting questions
+p79
+aVthat now began to seem quite resonant to me.
+p80
+aVShe was facing the question of what to do with this child.
+p81
+aVShould she say, "You're just like everyone else but a little bit shorter?"
+p82
+aVOr should she try to construct some kind of dwarf identity,
+p83
+aVget involved in the Little People of America,
+p84
+aVbecome aware of what was happening for dwarfs?
+p85
+aa(lp86
+VAnd I suddenly thought,
+p87
+aVmost deaf children are born to hearing parents.
+p88
+aVThose hearing parents tend to try to cure them.
+p89
+aVThose deaf people discover community somehow in adolescence.
+p90
+aVMost gay people are born to straight parents.
+p91
+aVThose straight parents often want them to function
+p92
+aVin what they think of as the mainstream world,
+p93
+aVand those gay people have to discover identity later on.
+p94
+aVAnd here was this friend of mine
+p95
+aVlooking at these questions of identity with her dwarf daughter.
+p96
+aVAnd I thought, there it is again:
+p97
+aVA family that perceives itself to be normal
+p98
+aVwith a child who seems to be extraordinary.
+p99
+aVAnd I hatched the idea that there are really two kinds of identity.
+p100
+aa(lp101
+VThere are vertical identities,
+p102
+aVwhich are passed down generationally from parent to child.
+p103
+aVThose are things like ethnicity, frequently nationality, language, often religion.
+p104
+aVThose are things you have in common with your parents and with your children.
+p105
+aVAnd while some of them can be difficult,
+p106
+aVthere's no attempt to cure them.
+p107
+aVYou can argue that it's harder in the United States \u2014
+p108
+aVour current presidency notwithstanding \u2014
+p109
+aVto be a person of color.
+p110
+aVAnd yet, we have nobody who is trying to ensure
+p111
+aVthat the next generation of children born to African-Americans and Asians
+p112
+aVcome out with creamy skin and yellow hair.
+p113
+aa(lp114
+VThere are these other identities which you have to learn from a peer group.
+p115
+aVAnd I call them horizontal identities,
+p116
+aVbecause the peer group is the horizontal experience.
+p117
+aVThese are identities that are alien to your parents
+p118
+aVand that you have to discover when you get to see them in peers.
+p119
+aVAnd those identities, those horizontal identities,
+p120
+aVpeople have almost always tried to cure.
+p121
+aa(lp122
+VAnd I wanted to look at what the process is
+p123
+aVthrough which people who have those identities
+p124
+aVcome to a good relationship with them.
+p125
+aVAnd it seemed to me that there were three levels of acceptance
+p126
+aVthat needed to take place.
+p127
+aVThere's self-acceptance, there's family acceptance, and there's social acceptance.
+p128
+aVAnd they don't always coincide.
+p129
+aa(lp130
+VAnd a lot of the time, people who have these conditions are very angry
+p131
+aVbecause they feel as though their parents don't love them,
+p132
+aVwhen what actually has happened is that their parents don't accept them.
+p133
+aVLove is something that ideally is there unconditionally
+p134
+aVthroughout the relationship between a parent and a child.
+p135
+aVBut acceptance is something that takes time.
+p136
+aVIt always takes time.
+p137
+aa(lp138
+VOne of the dwarfs I got to know was a guy named Clinton Brown.
+p139
+aVWhen he was born, he was diagnosed with diastrophic dwarfism,
+p140
+aVa very disabling condition,
+p141
+aVand his parents were told that he would never walk, he would never talk,
+p142
+aVhe would have no intellectual capacity,
+p143
+aVand he would probably not even recognize them.
+p144
+aVAnd it was suggested to them that they leave him at the hospital
+p145
+aVso that he could die there quietly.
+p146
+aa(lp147
+VAnd his mother said she wasn't going to do it.
+p148
+aVAnd she took her son home.
+p149
+aVAnd even though she didn't have a lot of educational or financial advantages,
+p150
+aVshe found the best doctor in the country
+p151
+aVfor dealing with diastrophic dwarfism,
+p152
+aVand she got Clinton enrolled with him.
+p153
+aVAnd in the course of his childhood,
+p154
+aVhe had 30 major surgical procedures.
+p155
+aVAnd he spent all this time stuck in the hospital
+p156
+aVwhile he was having those procedures,
+p157
+aVas a result of which he now can walk.
+p158
+aa(lp159
+VAnd while he was there, they sent tutors around to help him with his school work.
+p160
+aVAnd he worked very hard because there was nothing else to do.
+p161
+aVAnd he ended up achieving at a level
+p162
+aVthat had never before been contemplated by any member of his family.
+p163
+aVHe was the first one in his family, in fact, to go to college,
+p164
+aVwhere he lived on campus and drove a specially-fitted car
+p165
+aVthat accommodated his unusual body.
+p166
+aa(lp167
+VAnd his mother told me this story of coming home one day \u2014
+p168
+aVand he went to college nearby \u2014
+p169
+aVand she said, "I saw that car, which you can always recognize,
+p170
+aVin the parking lot of a bar," she said. (Laughter)
+p171
+aV"And I thought to myself, they're six feet tall, he's three feet tall.
+p172
+aVTwo beers for them is four beers for him."
+p173
+aVShe said, "I knew I couldn't go in there and interrupt him,
+p174
+aVbut I went home, and I left him eight messages on his cell phone."
+p175
+aVShe said, "And then I thought,
+p176
+aVif someone had said to me when he was born
+p177
+aVthat my future worry would be that he'd go drinking and driving with his college buddies \u2014 "
+p178
+aa(lp179
+V(Applause)
+p180
+aa(lp181
+VAnd I said to her, "What do you think you did
+p182
+aVthat helped him to emerge as this charming, accomplished, wonderful person?"
+p183
+aVAnd she said, "What did I do? I loved him, that's all.
+p184
+aVClinton just always had that light in him.
+p185
+aVAnd his father and I were lucky enough to be the first to see it there."
+p186
+aa(lp187
+VI'm going to quote from another magazine of the '60s.
+p188
+aVThis one is from 1968 \u2014 The Atlantic Monthly, voice of liberal America \u2014
+p189
+aVwritten by an important bioethicist.
+p190
+aVHe said, "There is no reason to feel guilty
+p191
+aVabout putting a Down syndrome child away,
+p192
+aVwhether it is put away in the sense of hidden in a sanitarium
+p193
+aVor in a more responsible, lethal sense.
+p194
+aVIt is sad, yes \u2014 dreadful. But it carries no guilt.
+p195
+aVTrue guilt arises only from an offense against a person,
+p196
+aVand a Down's is not a person."
+p197
+aa(lp198
+VThere's been a lot of ink given to the enormous progress that we've made
+p199
+aVin the treatment of gay people.
+p200
+aVThe fact that our attitude has changed is in the headlines every day.
+p201
+aVBut we forget how we used to see people who had other differences,
+p202
+aVhow we used to see people who were disabled,
+p203
+aVhow inhuman we held people to be.
+p204
+aVAnd the change that's been accomplished there,
+p205
+aVwhich is almost equally radical,
+p206
+aVis one that we pay not very much attention to.
+p207
+aa(lp208
+VOne of the families I interviewed, Tom and Karen Robards,
+p209
+aVwere taken aback when, as young and successful New Yorkers,
+p210
+aVtheir first child was diagnosed with Down syndrome.
+p211
+aVThey thought the educational opportunities for him were not what they should be,
+p212
+aVand so they decided they would build a little center \u2014
+p213
+aVtwo classrooms that they started with a few other parents \u2014
+p214
+aVto educate kids with D.S.
+p215
+aVAnd over the years, that center grew into something called the Cooke Center,
+p216
+aVwhere there are now thousands upon thousands
+p217
+aVof children with intellectual disabilities who are being taught.
+p218
+aa(lp219
+VIn the time since that Atlantic Monthly story ran,
+p220
+aVthe life expectancy for people with Down syndrome has tripled.
+p221
+aVThe experience of Down syndrome people includes those who are actors,
+p222
+aVthose who are writers, some who are able to live fully independently in adulthood.
+p223
+aa(lp224
+VThe Robards had a lot to do with that.
+p225
+aVAnd I said, "Do you regret it?
+p226
+aVDo you wish your child didn't have Down syndrome?
+p227
+aVDo you wish you'd never heard of it?"
+p228
+aVAnd interestingly his father said,
+p229
+aV"Well, for David, our son, I regret it,
+p230
+aVbecause for David, it's a difficult way to be in the world,
+p231
+aVand I'd like to give David an easier life.
+p232
+aVBut I think if we lost everyone with Down syndrome, it would be a catastrophic loss."
+p233
+aa(lp234
+VAnd Karen Robards said to me, "I'm with Tom.
+p235
+aVFor David, I would cure it in an instant to give him an easier life.
+p236
+aVBut speaking for myself \u2014 well, I would never have believed 23 years ago when he was born
+p237
+aVthat I could come to such a point \u2014
+p238
+aVspeaking for myself, it's made me so much better and so much kinder
+p239
+aVand so much more purposeful in my whole life,
+p240
+aVthat speaking for myself, I wouldn't give it up for anything in the world."
+p241
+aa(lp242
+VWe live at a point when social acceptance for these and many other conditions
+p243
+aVis on the up and up.
+p244
+aVAnd yet we also live at the moment
+p245
+aVwhen our ability to eliminate those conditions
+p246
+aVhas reached a height we never imagined before.
+p247
+aVMost deaf infants born in the United States now
+p248
+aVwill receive Cochlear implants,
+p249
+aVwhich are put into the brain and connected to a receiver,
+p250
+aVand which allow them to acquire a facsimile of hearing and to use oral speech.
+p251
+aVA compound that has been tested in mice, BMN-111,
+p252
+aVis useful in preventing the action of the achondroplasia gene.
+p253
+aVAchondroplasia is the most common form of dwarfism,
+p254
+aVand mice who have been given that substance and who have the achondroplasia gene,
+p255
+aVgrow to full size.
+p256
+aVTesting in humans is around the corner.
+p257
+aVThere are blood tests which are making progress
+p258
+aVthat would pick up Down syndrome more clearly and earlier in pregnancies than ever before,
+p259
+aVmaking it easier and easier for people to eliminate those pregnancies,
+p260
+aVor to terminate them.
+p261
+aa(lp262
+VAnd so we have both social progress and medical progress.
+p263
+aVAnd I believe in both of them.
+p264
+aVI believe the social progress is fantastic and meaningful and wonderful,
+p265
+aVand I think the same thing about the medical progress.
+p266
+aVBut I think it's a tragedy when one of them doesn't see the other.
+p267
+aVAnd when I see the way they're intersecting
+p268
+aVin conditions like the three I've just described,
+p269
+aVI sometimes think it's like those moments in grand opera
+p270
+aVwhen the hero realizes he loves the heroine
+p271
+aVat the exact moment that she lies expiring on a divan.
+p272
+aa(lp273
+V(Laughter)
+p274
+aa(lp275
+VWe have to think about how we feel about cures altogether.
+p276
+aVAnd a lot of the time the question of parenthood is,
+p277
+aVwhat do we validate in our children,
+p278
+aVand what do we cure in them?
+p279
+aa(lp280
+VJim Sinclair, a prominent autism activist, said,
+p281
+aV"When parents say 'I wish my child did not have autism,'
+p282
+aVwhat they're really saying is 'I wish the child I have did not exist
+p283
+aVand I had a different, non-autistic child instead.'
+p284
+aVRead that again. This is what we hear when you mourn over our existence.
+p285
+aVThis is what we hear when you pray for a cure \u2014
+p286
+aVthat your fondest wish for us
+p287
+aVis that someday we will cease to be
+p288
+aVand strangers you can love will move in behind our faces."
+p289
+aVIt's a very extreme point of view,
+p290
+aVbut it points to the reality that people engage with the life they have
+p291
+aVand they don't want to be cured or changed or eliminated.
+p292
+aVThey want to be whoever it is that they've come to be.
+p293
+aa(lp294
+VOne of the families I interviewed for this project
+p295
+aVwas the family of Dylan Klebold who was one of the perpetrators of the Columbine massacre.
+p296
+aVIt took a long time to persuade them to talk to me,
+p297
+aVand once they agreed, they were so full of their story
+p298
+aVthat they couldn't stop telling it.
+p299
+aVAnd the first weekend I spent with them \u2014 the first of many \u2014
+p300
+aVI recorded more than 20 hours of conversation.
+p301
+aa(lp302
+VAnd on Sunday night, we were all exhausted.
+p303
+aVWe were sitting in the kitchen. Sue Klebold was fixing dinner.
+p304
+aVAnd I said, "If Dylan were here now,
+p305
+aVdo you have a sense of what you'd want to ask him?"
+p306
+aVAnd his father said, "I sure do.
+p307
+aVI'd want to ask him what the hell he thought he was doing."
+p308
+aVAnd Sue looked at the floor, and she thought for a minute.
+p309
+aVAnd then she looked back up and said,
+p310
+aV"I would ask him to forgive me for being his mother
+p311
+aVand never knowing what was going on inside his head."
+p312
+aa(lp313
+VWhen I had dinner with her a couple of years later \u2014
+p314
+aVone of many dinners that we had together \u2014
+p315
+aVshe said, "You know, when it first happened,
+p316
+aVI used to wish that I had never married, that I had never had children.
+p317
+aVIf I hadn't gone to Ohio State and crossed paths with Tom,
+p318
+aVthis child wouldn't have existed and this terrible thing wouldn't have happened.
+p319
+aVBut I've come to feel that I love the children I had so much
+p320
+aVthat I don't want to imagine a life without them.
+p321
+aVI recognize the pain they caused to others, for which there can be no forgiveness,
+p322
+aVbut the pain they caused to me, there is," she said.
+p323
+aV"So while I recognize that it would have been better for the world
+p324
+aVif Dylan had never been born,
+p325
+aVI've decided that it would not have been better for me."
+p326
+aa(lp327
+VI thought it was surprising how all of these families had all of these children with all of these problems,
+p328
+aVproblems that they mostly would have done anything to avoid,
+p329
+aVand that they had all found so much meaning in that experience of parenting.
+p330
+aVAnd then I thought, all of us who have children
+p331
+aVlove the children we have, with their flaws.
+p332
+aVIf some glorious angel suddenly descended through my living room ceiling
+p333
+aVand offered to take away the children I have
+p334
+aVand give me other, better children \u2014 more polite, funnier, nicer, smarter \u2014
+p335
+aVI would cling to the children I have and pray away that atrocious spectacle.
+p336
+aVAnd ultimately I feel
+p337
+aVthat in the same way that we test flame-retardant pajamas in an inferno
+p338
+aVto ensure they won't catch fire when our child reaches across the stove,
+p339
+aVso these stories of families negotiating these extreme differences
+p340
+aVreflect on the universal experience of parenting,
+p341
+aVwhich is always that sometimes you look at your child and you think,
+p342
+aVwhere did you come from?
+p343
+aa(lp344
+V(Laughter)
+p345
+aa(lp346
+VIt turns out that while each of these individual differences is siloed \u2014
+p347
+aVthere are only so many families dealing with schizophrenia,
+p348
+aVthere are only so many families of children who are transgender,
+p349
+aVthere are only so many families of prodigies \u2014
+p350
+aVwho also face similar challenges in many ways \u2014
+p351
+aVthere are only so many families in each of those categories \u2014
+p352
+aVbut if you start to think
+p353
+aVthat the experience of negotiating difference within your family
+p354
+aVis what people are addressing,
+p355
+aVthen you discover that it's a nearly universal phenomenon.
+p356
+aVIronically, it turns out, that it's our differences, and our negotiation of difference,
+p357
+aVthat unite us.
+p358
+aa(lp359
+VI decided to have children while I was working on this project.
+p360
+aVAnd many people were astonished and said,
+p361
+aV"But how can you decide to have children
+p362
+aVin the midst of studying everything that can go wrong?"
+p363
+aVAnd I said, "I'm not studying everything that can go wrong.
+p364
+aVWhat I'm studying is how much love there can be,
+p365
+aVeven when everything appears to be going wrong."
+p366
+aa(lp367
+VI thought a lot about the mother of one disabled child I had seen,
+p368
+aVa severely disabled child who died through caregiver neglect.
+p369
+aVAnd when his ashes were interred, his mother said,
+p370
+aV"I pray here for forgiveness for having been twice robbed,
+p371
+aVonce of the child I wanted and once of the son I loved."
+p372
+aVAnd I figured it was possible then for anyone to love any child
+p373
+aVif they had the effective will to do so.
+p374
+aa(lp375
+VSo my husband is the biological father of two children
+p376
+aVwith some lesbian friends in Minneapolis.
+p377
+aVI had a close friend from college who'd gone through a divorce and wanted to have children.
+p378
+aVAnd so she and I have a daughter,
+p379
+aVand mother and daughter live in Texas.
+p380
+aVAnd my husband and I have a son who lives with us all the time
+p381
+aVof whom I am the biological father,
+p382
+aVand our surrogate for the pregnancy was Laura,
+p383
+aVthe lesbian mother of Oliver and Lucy in Minneapolis.
+p384
+aa(lp385
+V(Applause)
+p386
+aa(lp387
+VSo the shorthand is five parents of four children in three states.
+p388
+aa(lp389
+VAnd there are people who think that the existence of my family
+p390
+aVsomehow undermines or weakens or damages their family.
+p391
+aVAnd there are people who think that families like mine
+p392
+aVshouldn't be allowed to exist.
+p393
+aVAnd I don't accept subtractive models of love, only additive ones.
+p394
+aVAnd I believe that in the same way that we need species diversity
+p395
+aVto ensure that the planet can go on,
+p396
+aVso we need this diversity of affection and diversity of family
+p397
+aVin order to strengthen the ecosphere of kindness.
+p398
+aa(lp399
+VThe day after our son was born,
+p400
+aVthe pediatrician came into the hospital room and said she was concerned.
+p401
+aVHe wasn't extending his legs appropriately.
+p402
+aVShe said that might mean that he had brain damage.
+p403
+aVIn so far as he was extending them, he was doing so asymmetrically,
+p404
+aVwhich she thought could mean that there was a tumor of some kind in action.
+p405
+aVAnd he had a very large head, which she thought might indicate hydrocephalus.
+p406
+aa(lp407
+VAnd as she told me all of these things,
+p408
+aVI felt the very center of my being pouring out onto the floor.
+p409
+aVAnd I thought, here I had been working for years
+p410
+aVon a book about how much meaning people had found
+p411
+aVin the experience of parenting children who are disabled,
+p412
+aVand I didn't want to join their number.
+p413
+aVBecause what I was encountering was an idea of illness.
+p414
+aVAnd like all parents since the dawn of time,
+p415
+aVI wanted to protect my child from illness.
+p416
+aVAnd I wanted also to protect myself from illness.
+p417
+aVAnd yet, I knew from the work I had done
+p418
+aVthat if he had any of the things we were about to start testing for,
+p419
+aVthat those would ultimately be his identity,
+p420
+aVand if they were his identity they would become my identity,
+p421
+aVthat that illness was going to take a very different shape as it unfolded.
+p422
+aa(lp423
+VWe took him to the MRI machine, we took him to the CAT scanner,
+p424
+aVwe took this day-old child and gave him over for an arterial blood draw.
+p425
+aVWe felt helpless.
+p426
+aVAnd at the end of five hours,
+p427
+aVthey said that his brain was completely clear
+p428
+aVand that he was by then extending his legs correctly.
+p429
+aVAnd when I asked the pediatrician what had been going on,
+p430
+aVshe said she thought in the morning he had probably had a cramp.
+p431
+aa(lp432
+V(Laughter)
+p433
+aa(lp434
+VBut I thought how my mother was right.
+p435
+aVI thought, the love you have for your children
+p436
+aVis unlike any other feeling in the world,
+p437
+aVand until you have children, you don't know what it feels like.
+p438
+aa(lp439
+VI think children had ensnared me
+p440
+aVthe moment I connected fatherhood with loss.
+p441
+aVBut I'm not sure I would have noticed that
+p442
+aVif I hadn't been so in the thick of this research project of mine.
+p443
+aVI'd encountered so much strange love,
+p444
+aVand I fell very naturally into its bewitching patterns.
+p445
+aVAnd I saw how splendor can illuminate even the most abject vulnerabilities.
+p446
+aa(lp447
+VDuring these 10 years, I had witnessed and learned
+p448
+aVthe terrifying joy of unbearable responsibility,
+p449
+aVand I had come to see how it conquers everything else.
+p450
+aVAnd while I had sometimes thought the parents I was interviewing were fools,
+p451
+aVenslaving themselves to a lifetime's journey with their thankless children
+p452
+aVand trying to breed identity out of misery,
+p453
+aVI realized that day that my research had built me a plank
+p454
+aVand that I was ready to join them on their ship.
+p455
+aa(lp456
+VThank you.
+p457
+aa(lp458
+V(Applause)
+p459
+aasS'id'
+p460
+I1756
+sS'title'
+p461
+VLove, no matter what
+p462
+s.

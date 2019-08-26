@@ -1,0 +1,520 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VOn January 26, 2013,
+p4
+aVa band of al-Qaeda militants entered the ancient city of Timbuktu
+p5
+aVon the southern edge of the Sahara Desert.
+p6
+aVThere, they set fire to a medieval library of 30,000 manuscripts
+p7
+aVwritten in Arabic and several African languages
+p8
+aVand ranging in subject from astronomy to geography, history to medicine,
+p9
+aVincluding one book which records
+p10
+aVperhaps the first treatment for male erectile dysfunction.
+p11
+aVUnknown in the West,
+p12
+aVthis was the collected wisdom of an entire continent,
+p13
+aVthe voice of Africa at a time when Africa was thought not to have a voice at all.
+p14
+aVThe mayor of Bamako, who witnessed the event,
+p15
+aVcalled the burning of the manuscripts
+p16
+aV"a crime against world cultural heritage."
+p17
+aVAnd he was right \u2014
+p18
+aVor he would have been, if it weren't for the fact that he was also lying.
+p19
+aa(lp20
+VIn fact, just before,
+p21
+aVAfrican scholars had collected a random assortment of old books
+p22
+aVand left them out for the terrorists to burn.
+p23
+aVToday, the collection lies hidden in Bamako,
+p24
+aVthe capital of Mali,
+p25
+aVmoldering in the high humidity.
+p26
+aVWhat was rescued by ruse
+p27
+aVis now once again in jeopardy,
+p28
+aVthis time by climate.
+p29
+aa(lp30
+VBut Africa, and the far-flung corners of the world,
+p31
+aVare not the only places, or even the main places
+p32
+aVin which manuscripts that could change the history of world culture
+p33
+aVare in jeopardy.
+p34
+aVSeveral years ago, I conducted a survey of European research libraries
+p35
+aVand discovered that, at the barest minimum,
+p36
+aVthere are 60,000 manuscripts
+p37
+aVpre-1500
+p38
+aVthat are illegible because of water damage,
+p39
+aVfading, mold and chemical reagents.
+p40
+aVThe real number is likely double that,
+p41
+aVand that doesn't even count
+p42
+aVRenaissance manuscripts and modern manuscripts
+p43
+aVand cultural heritage objects such as maps.
+p44
+aa(lp45
+VWhat if there were a technology
+p46
+aVthat could recover these lost and unknown works?
+p47
+aVImagine worldwide how a trove of hundreds of thousands
+p48
+aVof previously unknown texts
+p49
+aVcould radically transform our knowledge of the past.
+p50
+aVImagine what unknown classics we would discover
+p51
+aVwhich would rewrite the canons of literature, history,
+p52
+aVphilosophy, music \u2014
+p53
+aVor, more provocatively, that could rewrite our cultural identities,
+p54
+aVbuilding new bridges between people and culture.
+p55
+aVThese are the questions that transformed me
+p56
+aVfrom a medieval scholar, a reader of texts,
+p57
+aVinto a textual scientist.
+p58
+aa(lp59
+VWhat an unsatisfying word "reader" is.
+p60
+aVFor me, it conjures up images of passivity,
+p61
+aVof someone sitting idly in an armchair
+p62
+aVwaiting for knowledge to come to him
+p63
+aVin a neat little parcel.
+p64
+aVHow much better to be a participant in the past,
+p65
+aVan adventurer in an undiscovered country,
+p66
+aVsearching for the hidden text.
+p67
+aVAs an academic, I was a mere reader.
+p68
+aVI read and taught the same classics
+p69
+aVthat people had been reading and teaching for hundreds of years \u2014
+p70
+aVVirgil, Ovid, Chaucer, Petrarch \u2014
+p71
+aVand with every scholarly article that I published
+p72
+aVI added to human knowledge in ever-diminishing slivers of insight.
+p73
+aVWhat I wanted to be
+p74
+aVwas an archaeologist of the past,
+p75
+aVa discoverer of literature,
+p76
+aVan Indiana Jones without the whip \u2014
+p77
+aVor, actually, with the whip.
+p78
+aa(lp79
+V(Laughter)
+p80
+aVAnd I wanted it not just for myself but I wanted it for my students as well.
+p81
+aa(lp82
+VAnd so six years ago, I changed the direction of my career.
+p83
+aVAt the time, I was working on "The Chess of Love,"
+p84
+aVthe last important long poem of the European Middle Ages
+p85
+aVnever to have been edited.
+p86
+aVAnd it wasn't edited because it existed in only one manuscript
+p87
+aVwhich was so badly damaged during the firebombing of Dresden
+p88
+aVin World War II
+p89
+aVthat generations of scholars had pronounced it lost.
+p90
+aVFor five years, I had been working with an ultraviolet lamp
+p91
+aVtrying to recover traces of the writing
+p92
+aVand I'd gone about as far as technology at the time
+p93
+aVcould actually take me.
+p94
+aa(lp95
+VAnd so I did what many people do.
+p96
+aVI went online,
+p97
+aVand there I learned about
+p98
+aVhow multispectral imaging had been used to recover two lost treatises
+p99
+aVof the famed Greek mathematician Archimedes
+p100
+aVfrom a 13th-century palimpsest.
+p101
+aVA palimpsest is a manuscript which has been erased and overwritten.
+p102
+aa(lp103
+VAnd so, out of the blue,
+p104
+aVI decided to write to the lead imaging scientist
+p105
+aVon the Archimedes palimpsest project,
+p106
+aVProfessor Roger Easton,
+p107
+aVwith a plan and a plea.
+p108
+aVAnd to my surprise, he actually wrote back.
+p109
+aVWith his help, I was able to win a grant from the US government
+p110
+aVto build a transportable, multispectral imaging lab,
+p111
+aVAnd with this lab, I transformed what was a charred and faded mess
+p112
+aVinto a new medieval classic.
+p113
+aa(lp114
+VSo how does multispectral imaging actually work?
+p115
+aVWell, the idea behind multispectral imaging
+p116
+aVis something that anyone who is familiar with infrared night vision goggles
+p117
+aVwill immediately appreciate:
+p118
+aVthat what we can see in the visible spectrum of light
+p119
+aVis only a tiny fraction of what's actually there.
+p120
+aVThe same is true with invisible writing.
+p121
+aVOur system uses 12 wavelengths of light
+p122
+aVbetween the ultraviolet and the infrared,
+p123
+aVand these are shown down onto the manuscript from above
+p124
+aVfrom banks of LEDs,
+p125
+aVand another multispectral light source
+p126
+aVwhich comes up through the individual leaves of the manuscript.
+p127
+aVUp to 35 images per sequence per leaf are imaged this way
+p128
+aVusing a high-powered digital camera equipped with a lens
+p129
+aVwhich is made out of quartz.
+p130
+aVThere are about five of these in the world.
+p131
+aVAnd once we capture these images,
+p132
+aVwe feed them through statistical algorithms
+p133
+aVto further enhance and clarify them,
+p134
+aVusing software which was originally designed for satellite images
+p135
+aVand used by people like geospatial scientists
+p136
+aVand the CIA.
+p137
+aa(lp138
+VThe results can be spectacular.
+p139
+aVYou may already have heard of what's been done
+p140
+aVfor the Dead Sea Scrolls,
+p141
+aVwhich are slowly gelatinizing.
+p142
+aVUsing infrared, we've been able to read even the darkest corners
+p143
+aVof the Dead Sea Scrolls.
+p144
+aVYou may not be aware, however,
+p145
+aVof other Biblical texts that are in jeopardy.
+p146
+aa(lp147
+VHere, for example, is a leaf from a manuscript
+p148
+aVthat we imaged,
+p149
+aVwhich is perhaps the most valuable Christian Bible in the world.
+p150
+aVThe Codex Vercellensis is the oldest translation of the Gospels into Latin,
+p151
+aVand it dates from the first half of the fourth century.
+p152
+aVThis is the closest we can come
+p153
+aVto the Bible at the time of the foundation of Christendom
+p154
+aVunder Emperor Constantine,
+p155
+aVand at the time also of the Council of Nicaea,
+p156
+aVwhen the basic creed of Christianity was being agreed upon.
+p157
+aVThis manuscript, unfortunately, has been very badly damaged,
+p158
+aVand it's damaged because for centuries
+p159
+aVit had been used and handled
+p160
+aVin swearing in ceremonies in the church.
+p161
+aVIn fact, that purple splotch that you see in the upper left hand corner
+p162
+aVis Aspergillus, which is a fungus
+p163
+aVwhich originates in the unwashed hands
+p164
+aVof a person with tuberculosis.
+p165
+aVOur imaging has enabled me to make the first transcription
+p166
+aVof this manuscript in 250 years.
+p167
+aa(lp168
+VHaving a lab that can travel to collections where it's needed, however,
+p169
+aVis only part of the solution.
+p170
+aVThe technology is expensive and very rare,
+p171
+aVand the imaging and image processing skills are esoteric.
+p172
+aVThat means that mounting recoveries
+p173
+aVis beyond the reach of most researchers and all but the wealthiest institutions.
+p174
+aVThat's why I founded the Lazarus Project,
+p175
+aVa not-for-profit initiative
+p176
+aVto bring multispectral imaging to individual researchers
+p177
+aVand smaller institutions at little or no cost whatsoever.
+p178
+aVOver the past five years,
+p179
+aVour team of imaging scientists, scholars and students
+p180
+aVhas travelled to seven different countries
+p181
+aVand have recovered some of the world's most valuable damaged manuscripts,
+p182
+aVincluded the Vercelli Book, which is the oldest book of English,
+p183
+aVthe Black Book of Carmarthen, the oldest book of Welsh,
+p184
+aVand some of the most valuable earliest Gospels
+p185
+aVlocated in what is now the former Soviet Georgia.
+p186
+aa(lp187
+VSo, spectral imaging can recover lost texts.
+p188
+aVMore subtly, though, it can recover a second story behind every object,
+p189
+aVthe story of how, when and by whom a text was created,
+p190
+aVand, sometimes, what the author was thinking at the time he wrote.
+p191
+aVTake, for example, a draft of the Declaration of Independence
+p192
+aVwritten in Thomas Jefferson's own hand,
+p193
+aVwhich some colleagues of mine imaged a few years ago
+p194
+aVat the Library of Congress.
+p195
+aVCurators had noticed that one word throughout
+p196
+aVhad been scratched out and overwritten.
+p197
+aVThe word overwritten was "citizens."
+p198
+aVPerhaps you can guess what the word underneath was.
+p199
+aV"Subjects."
+p200
+aVThere, ladies and gentlemen, is American democracy
+p201
+aVevolving under the hand of Thomas Jefferson.
+p202
+aa(lp203
+VOr consider the 1491 Martellus Map,
+p204
+aVwhich we imaged at Yale's Beinecke Library.
+p205
+aVThis was the map that Columbus likely consulted
+p206
+aVbefore he traveled to the New World
+p207
+aVand which gave him his idea of what Asia looked like
+p208
+aVand where Japan was located.
+p209
+aVThe problem with this map is that its inks and pigments
+p210
+aVhad so degraded over time
+p211
+aVthat this large, nearly seven-foot map,
+p212
+aVmade the world look like a giant desert.
+p213
+aVUntil now, we had very little idea, detailed idea, that is,
+p214
+aVof what Columbus knew of the world
+p215
+aVand how world cultures were represented.
+p216
+aVThe main legend of the map was entirely illegible under normal light.
+p217
+aVUltraviolet did very little for it.
+p218
+aVMultispectral gave us everything.
+p219
+aVIn Asia, we learned of monsters with ears so long
+p220
+aVthat they could cover the creature's entire body.
+p221
+aVIn Africa, about a snake who could cause the ground to smoke.
+p222
+aVLike starlight, which can convey images
+p223
+aVof the way the Universe looked in the distant past,
+p224
+aVso multispectral light can take us back to the first stuttering moments
+p225
+aVof an object's creation.
+p226
+aVThrough this lens, we witness the mistakes, the changes of mind,
+p227
+aVthe naïvetés, the uncensored thoughts,
+p228
+aVthe imperfections of the human imagination
+p229
+aVthat allow these hallowed objects and their authors
+p230
+aVto become more real,
+p231
+aVthat make history closer to us.
+p232
+aa(lp233
+VWhat about the future?
+p234
+aVThere's so much of the past,
+p235
+aVand so few people with the skills to rescue it
+p236
+aVbefore these objects disappear forever.
+p237
+aVThat's why I have begun to teach this new hybrid discipline
+p238
+aVthat I call "textual science."
+p239
+aVTextual science is a marriage
+p240
+aVof the traditional skills of a literary scholar \u2014
+p241
+aVthe ability to read old languages and old handwriting,
+p242
+aVthe knowledge of how texts are made
+p243
+aVin order to be able to place and date them \u2014
+p244
+aVwith new techniques like imaging science,
+p245
+aVthe chemistry of inks and pigments,
+p246
+aVcomputer-aided optical character recognition.
+p247
+aa(lp248
+VLast year, a student in my class,
+p249
+aVa freshman,
+p250
+aVwith a background in Latin and Greek,
+p251
+aVwas image-processing a palimpsest
+p252
+aVthat we had photographed at a famous library in Rome.
+p253
+aVAs he worked, tiny Greek writing began to appear from behind the text.
+p254
+aVEveryone gathered around,
+p255
+aVand he read a line from a lost work
+p256
+aVof the Greek comic dramatist Menander.
+p257
+aVThis was the first time in well over a thousand years
+p258
+aVthat those words had been pronounced aloud.
+p259
+aVIn that moment, he became a scholar.
+p260
+aa(lp261
+VLadies and gentlemen, that is the future of the past.
+p262
+aa(lp263
+VThank you very much.
+p264
+aa(lp265
+V(Applause)
+p266
+aasS'id'
+p267
+I2430
+sS'title'
+p268
+VHow I'm discovering the secrets of ancient texts
+p269
+s.

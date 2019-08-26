@@ -1,0 +1,911 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI want you to take a trip with me.
+p4
+aVPicture yourself driving
+p5
+aVdown a small road in Africa,
+p6
+aVand as you drive along, you look off to the side,
+p7
+aVand this is what you see:
+p8
+aVyou see a field of graves.
+p9
+aVAnd you stop, and you get out of your car and you take a picture.
+p10
+aVAnd you go into the town,
+p11
+aVand you inquire, "What's going on here?"
+p12
+aVand people are initially reluctant to tell you.
+p13
+aVAnd then someone says,
+p14
+aV"These are the recent AIDS deaths in our community."
+p15
+aVHIV isn't like other medical conditions;
+p16
+aVit's stigmatizing.
+p17
+aVPeople are reluctant to talk about it \u2014
+p18
+aVthere's a fear associated with it.
+p19
+aVAnd I'm going to talk about HIV today,
+p20
+aVabout the deaths,
+p21
+aVabout the stigma.
+p22
+aVIt's a medical story, but more than that, it's a social story.
+p23
+aa(lp24
+VThis map depicts the global distribution of HIV.
+p25
+aVAnd as you can see,
+p26
+aVAfrica has a disproportionate share of the infection.
+p27
+aVThere are 33 million people
+p28
+aVliving with HIV in the world today.
+p29
+aVOf these, two-thirds, 22 million
+p30
+aVare living in sub-Saharan Africa.
+p31
+aVThere are 1.4 million pregnant women
+p32
+aVin low- and middle-income countries living with HIV
+p33
+aVand of these, 90 percent
+p34
+aVare in sub-Saharan Africa.
+p35
+aVWe talk about things in relative terms.
+p36
+aVAnd I'm going to talk about annual pregnancies
+p37
+aVand HIV-positive mothers.
+p38
+aVThe United States \u2014 a large country \u2014
+p39
+aVeach year, 7,000 mothers with HIV
+p40
+aVwho give birth to a child.
+p41
+aVBut you go to Rwanda \u2014 a very small country \u2014
+p42
+aV8,000 mothers with HIV who are pregnant.
+p43
+aVAnd then you go to Baragwanath Hospital,
+p44
+aVoutside of Johannesburg in South Africa,
+p45
+aVand 8,000 HIV-positive pregnant women
+p46
+aVgiving birth \u2014
+p47
+aVa hospital the same as a country.
+p48
+aVAnd to realize that this is just the tip of an iceberg
+p49
+aVthat when you compare
+p50
+aVeverything here to South Africa, it just pales,
+p51
+aVbecause in South Africa,
+p52
+aVeach year 300,000 mothers with HIV
+p53
+aVgive birth to children.
+p54
+aa(lp55
+VSo we talk about PMTCT,
+p56
+aVand we refer to PMTCT, prevention of mother to child transmission.
+p57
+aVI think there's an assumption amongst most people in the public
+p58
+aVthat if a mother is HIV-positive,
+p59
+aVshe's going to infect her child.
+p60
+aVThe reality is really, very different.
+p61
+aVIn resource-rich countries,
+p62
+aVwith all the tests and treatment we currently have,
+p63
+aVless than two percent of babies are born HIV-positive \u2014
+p64
+aV98 percent of babies are born HIV-negative.
+p65
+aVAnd yet, the reality in resource-poor countries,
+p66
+aVin the absence of tests and treatment,
+p67
+aV40 percent \u2014 40 percent of children are infected \u2014
+p68
+aV40 percent versus two percent \u2014
+p69
+aVan enormous difference.
+p70
+aVSo these programs \u2014
+p71
+aVand I'm going to refer to PMTCT though my talk \u2014
+p72
+aVthese prevention programs,
+p73
+aVsimply, they're the tests and the drugs that we give to mothers
+p74
+aVto prevent them from infecting their babies,
+p75
+aVand also the medicines we give to mothers
+p76
+aVto keep them healthy and alive to raise their children.
+p77
+aVSo it's the test a mother gets when she comes in.
+p78
+aVIt's the drugs she receives
+p79
+aVto protect the baby that's inside the uterus and during delivery.
+p80
+aVIt's the guidance she gets around infant feeding
+p81
+aVand safer sex.
+p82
+aVIt's an entire package of services,
+p83
+aVand it works.
+p84
+aa(lp85
+VSo in the United States,
+p86
+aVsince the advent of treatment in the middle of the 1990s,
+p87
+aVthere's been an 80-percent decline
+p88
+aVin the number of HIV-infected children.
+p89
+aVLess than 100 babies are born with HIV
+p90
+aVeach year in the United States
+p91
+aVand yet, still,
+p92
+aVover 400,000 children
+p93
+aVare born every year in the world today with HIV.
+p94
+aVWhat does that mean?
+p95
+aVIt means 1,100 children infected each day \u2014
+p96
+aV1,100 children each day, infected with HIV.
+p97
+aVAnd where do they come from?
+p98
+aVWell, less than one comes from the United States.
+p99
+aVOne, on average, comes from Europe.
+p100
+aV100 come from Asia and the Pacific.
+p101
+aVAnd each day,
+p102
+aVa thousand babies \u2014 a thousand babies
+p103
+aVare born each day with HIV in Africa.
+p104
+aa(lp105
+VSo again, I look at the globe here
+p106
+aVand the disproportionate share of HIV in Africa.
+p107
+aVAnd let's look at another map.
+p108
+aVAnd here, again, we see
+p109
+aVAfrica has a disproportionate share of the numbers of doctors.
+p110
+aVThat thin sliver you see here, that's Africa.
+p111
+aVAnd it's the same with nurses.
+p112
+aVThe truth is sub-Saharan Africa
+p113
+aVhas 24 percent
+p114
+aVof the global disease burden
+p115
+aVand yet only three percent of the world's health care workers.
+p116
+aVThat means doctors and nurses
+p117
+aVsimply don't have the time to take care of patients.
+p118
+aVA nurse in a busy clinic
+p119
+aVwill see 50 to 100 patients in a day,
+p120
+aVwhich leaves her just minutes per patient \u2014
+p121
+aVminutes per patient.
+p122
+aVAnd so when we look at these PMTCT programs, what does it mean?
+p123
+aa(lp124
+VWell, back in 2001,
+p125
+aVwhen there was just a simple test
+p126
+aVand a single dose of a drug,
+p127
+aVa nurse, in the course of her few minutes with a patient,
+p128
+aVwould have to counsel for the HIV test, perform the HIV test,
+p129
+aVexplain the results, dispense a single dose of the drug, Nevirapine,
+p130
+aVexplain how to take it, discuss infant feeding options, reinforce infant feeding,
+p131
+aVand test the baby \u2014 in minutes.
+p132
+aVWell, fortunately since 2001,
+p133
+aVwe've got new treatments, new tests,
+p134
+aVand we're far more successful,
+p135
+aVbut we don't have any more nurses.
+p136
+aVAnd so these are the tests
+p137
+aVa nurse now has to do
+p138
+aVin those same few minutes.
+p139
+aVIt's not possible \u2014
+p140
+aVit doesn't work.
+p141
+aVAnd so we need to find
+p142
+aVbetter ways of providing care.
+p143
+aa(lp144
+VThis is a picture of a maternal health clinic in Africa \u2014
+p145
+aVmothers coming, pregnant and with their babies.
+p146
+aVThese women are here for care,
+p147
+aVbut we know that just doing a test,
+p148
+aVjust giving someone a drug,
+p149
+aVit's not enough.
+p150
+aVMeds don't equal medical care.
+p151
+aVDoctors and nurses, frankly,
+p152
+aVdon't have the time or skills
+p153
+aVto tell people what to do in ways they understand.
+p154
+aVI'm a doctor \u2014 I tell people things to do,
+p155
+aVand I expect them to follow my guidance \u2014
+p156
+aVbecause I'm a doctor; I went to Harvard \u2014
+p157
+aVbut the reality is,
+p158
+aVif I tell a patient, "You should have safer sex.
+p159
+aVYou should always use a condom,"
+p160
+aVand yet, in her relationship, she's not empowered \u2014
+p161
+aVwhat's going to happen?
+p162
+aVIf I tell her to take her medicines every day
+p163
+aVand yet, no one in the household knows about her illness, so
+p164
+aVit's just not going to work.
+p165
+aVAnd so we need to do more,
+p166
+aVwe need to do it differently,
+p167
+aVwe need to do it in ways that are affordable
+p168
+aVand accessible and can be taken to scale,
+p169
+aVwhich means it can be done everywhere.
+p170
+aa(lp171
+VSo, I want to tell you a story \u2014
+p172
+aVI want to take you on a little trip.
+p173
+aVImagine yourself, if you can,
+p174
+aVyou're a young woman in Africa, you're going to the hospital or clinic.
+p175
+aVYou go in for a test
+p176
+aVand you find out that you're pregnant, and you're delighted.
+p177
+aVAnd then they give you another test
+p178
+aVand they tell you you're HIV-positive, and you're devastated.
+p179
+aVAnd the nurse takes you into a room,
+p180
+aVand she tells you about the tests
+p181
+aVand HIV and the medicines you can take
+p182
+aVand how to take care of yourself and your baby,
+p183
+aVand you hear none of it.
+p184
+aVAll you're hearing is, "I'm going to die,
+p185
+aVand my baby is going to die."
+p186
+aVAnd then you're out on the street, and you don't know where to go.
+p187
+aVAnd you don't know who you can talk to,
+p188
+aVbecause the truth is, HIV is so stigmatizing
+p189
+aVthat if you partner, your family, anyone in your home,
+p190
+aVyou're likely to be thrown out
+p191
+aVwithout any means of support.
+p192
+aVAnd this \u2014 this is the face and story
+p193
+aVof HIV in Africa today.
+p194
+aa(lp195
+VBut we're here to talk about possible solutions
+p196
+aVand some good news.
+p197
+aVAnd I want to change the story a little bit.
+p198
+aVTake the same mother, and the nurse, after she gives her her test,
+p199
+aVtakes her to a room.
+p200
+aVThe door opens and there's a room full of mothers, mothers with babies,
+p201
+aVand they're sitting, and they're talking, they're listening.
+p202
+aVThey're drinking tea, they're having sandwiches.
+p203
+aVAnd she goes inside, and woman comes up to her and says,
+p204
+aV"Welcome to mothers2mothers.
+p205
+aVHave a seat. You're safe here.
+p206
+aVWe're all HIV-positive.
+p207
+aVYou're going to be okay. You're going to live.
+p208
+aVYour baby is going to be HIV-negative."
+p209
+aa(lp210
+VWe view mothers
+p211
+aVas a community's single greatest resource.
+p212
+aVMothers take care of the children, take care of the home.
+p213
+aVSo often the men are gone.
+p214
+aVThey're working, or they're not part of the household.
+p215
+aVOur organization, mothers2mothers,
+p216
+aVenlists women with HIV
+p217
+aVas care providers.
+p218
+aVWe bring mothers who have HIV,
+p219
+aVwho've been through these PMTCT programs
+p220
+aVin the very facilities,
+p221
+aVto come back and work side by side with doctors and nurses
+p222
+aVas part of the health care team.
+p223
+aVThese mothers, we call them mentor mothers,
+p224
+aVare able to engage women
+p225
+aVwho, just like themselves, pregnant with babies,
+p226
+aVhave found out about being HIV-positive,
+p227
+aVwho need support and education.
+p228
+aVAnd they support them around the diagnosis
+p229
+aVand educate them about how to take their medicines,
+p230
+aVhow to take care of themselves,
+p231
+aVhow to take care of their babies.
+p232
+aVConsider: if you needed surgery,
+p233
+aVyou would want the best possible technical surgeon, right?
+p234
+aVBut if you wanted to understand
+p235
+aVwhat that surgery would do to your life,
+p236
+aVyou'd like to engage someone,
+p237
+aVsomeone who's had the procedure.
+p238
+aVPatients are experts on their own experience,
+p239
+aVand they can share that experience with others.
+p240
+aVThis is the medical care that goes beyond just medicines.
+p241
+aa(lp242
+VSo the mothers who work for us,
+p243
+aVthey come from the communities in which they work.
+p244
+aVThey're hired \u2014 they're paid as professional members of the health care teams,
+p245
+aVjust like doctors and nurses.
+p246
+aVAnd we open bank accounts for them
+p247
+aVand they're paid directly into the accounts,
+p248
+aVbecause their money's protected;
+p249
+aVthe men can't take it away from them.
+p250
+aVThey go through two to three weeks
+p251
+aVof rigorous curriculum-based education, training.
+p252
+aVNow, doctors and nurses \u2014 they too get trained.
+p253
+aVBut so often, they only get trained once,
+p254
+aVso they're not aware of new medicines,
+p255
+aVnew guidelines as they come out.
+p256
+aVOur mentor mothers get trained every single year
+p257
+aVand retrained.
+p258
+aVAnd so doctors and nurses \u2014
+p259
+aVthey look up to them as experts.
+p260
+aVImagine that: a woman, a former patient,
+p261
+aVbeing able to educate her doctor for the first time
+p262
+aVand educate the other patients
+p263
+aVthat she's taking care of.
+p264
+aa(lp265
+VOur organization has three goals.
+p266
+aVThe first, to prevent mother-to-child transmission.
+p267
+aVThe second: keep mothers healthy, keep mothers alive,
+p268
+aVkeep the children alive \u2014
+p269
+aVno more orphans.
+p270
+aVAnd the third, and maybe the most grand,
+p271
+aVis to find ways to empower women,
+p272
+aVenable them to fight the stigma
+p273
+aVand to live positive and productive lives with HIV.
+p274
+aVSo how do we do it?
+p275
+aVWell, maybe the most important engagement
+p276
+aVis the one-to-one,
+p277
+aVseeing patients one-to-one, educating them, supporting them,
+p278
+aVexplaining how they can take care of themselves.
+p279
+aVWe go beyond that;
+p280
+aVwe try to bring in the husbands, the partners.
+p281
+aVIn Africa, it's very, very hard to engage men.
+p282
+aVMen are not frequently part of pregnancy care.
+p283
+aVBut in Rwanda, in one country,
+p284
+aVthey've got a policy
+p285
+aVthat a woman can't come for care
+p286
+aVunless she brings the father of the baby with her \u2014
+p287
+aVthat's the rule.
+p288
+aVAnd so the father and the mother, together,
+p289
+aVgo through the counseling and the testing.
+p290
+aVThe father and the mother, together, they get the results.
+p291
+aVAnd this is so important in breaking through the stigma.
+p292
+aa(lp293
+VDisclosure is so central to prevention.
+p294
+aVHow do you have safer sex, how do you use a condom regularly
+p295
+aVif there hasn't been disclosure?
+p296
+aVDisclosure is so important to treatment,
+p297
+aVbecause again, people need the support of family members and friends
+p298
+aVto take their medicines regularly.
+p299
+aVWe also work in groups.
+p300
+aVNow the groups, it's not like me lecturing,
+p301
+aVbut what happens is women, they come together \u2014
+p302
+aVunder the support and guidance of our mentor mothers \u2014
+p303
+aVthey come together, and they share their personal experiences.
+p304
+aVAnd it's through the sharing
+p305
+aVthat people get tactics of how to take care of themselves,
+p306
+aVhow to disclose how to take medicines.
+p307
+aVAnd then there's the community outreach,
+p308
+aVengaging women in their communities.
+p309
+aVIf we can change the way
+p310
+aVhouseholds believe and think,
+p311
+aVwe can change the way communities believe and think.
+p312
+aVAnd if we can change enough communities,
+p313
+aVwe can change national attitudes.
+p314
+aVWe can change national attitudes to women
+p315
+aVand national attitudes to HIV.
+p316
+aVThe hardest barrier really is around stigma reduction.
+p317
+aVWe have the medicines, we have the tests,
+p318
+aVbut how do you reduce the stigma?
+p319
+aVAnd it's important about disclosure.
+p320
+aa(lp321
+VSo, a couple years ago, one of the mentor mothers came back,
+p322
+aVand she told me a story.
+p323
+aVShe had been asked by one of the clients
+p324
+aVto go to the home of the client,
+p325
+aVbecause the client wanted to tell the mother and her brothers and sisters
+p326
+aVabout her HIV status,
+p327
+aVand she was afraid to go by herself.
+p328
+aVAnd so the mentor mother went along with.
+p329
+aVAnd the patient walked into the house
+p330
+aVand said to her mother and siblings,
+p331
+aV"I have something to tell you. I'm HIV-positive."
+p332
+aVAnd everybody was quiet.
+p333
+aVAnd then her oldest brother stood up and said,
+p334
+aV"I too have something to tell you.
+p335
+aVI'm HIV-positive.
+p336
+aVI've been afraid to tell everybody."
+p337
+aVAnd then this older sister stood up and said,
+p338
+aV"I too am living with the virus,
+p339
+aVand I've been ashamed."
+p340
+aVAnd then her younger brother stood up and said,
+p341
+aV"I'm also positive.
+p342
+aVI thought you were going to throw me out of the family."
+p343
+aVAnd you see where this is going.
+p344
+aVThe last sister stood up and said, "I'm also positive.
+p345
+aVI thought you were going to hate me."
+p346
+aVAnd there they were, all of them together for the first time
+p347
+aVbeing able to share this experience for the first time
+p348
+aVand to support each other for the first time.
+p349
+aa(lp350
+V(Video) Female Narrator: Women come to us,
+p351
+aVand they are crying and scared.
+p352
+aVI tell them my story,
+p353
+aVthat I am HIV-positive,
+p354
+aVbut my child is HIV-negative.
+p355
+aVI tell them, "You are going to make it,
+p356
+aVand you will raise a healthy baby."
+p357
+aVI am proof that there is hope.
+p358
+aa(lp359
+VMitchell Besser: Remember the images I showed you
+p360
+aVof how few doctors and nurses there are in Africa.
+p361
+aVAnd it is a crisis in health care systems.
+p362
+aVEven as we have more tests and more drugs,
+p363
+aVwe can't reach people; we don't have enough providers.
+p364
+aVSo we talk in terms of what we call task-shifting.
+p365
+aVTask-shifting is traditionally
+p366
+aVwhen you take health care services from one provider
+p367
+aVand have another provider do it.
+p368
+aVTypically, it's a doctor giving a job to a nurse.
+p369
+aVAnd the issue in Africa
+p370
+aVis that there are fewer nurses, really than doctors,
+p371
+aVand so we need to find new paradigm for health care.
+p372
+aVHow do you build a better health care system?
+p373
+aVWe've chosen to redefine the health care system
+p374
+aVas a doctor, a nurse and a mentor mother.
+p375
+aVAnd so what nurses do
+p376
+aVis that they ask the mentor mothers to explain
+p377
+aVhow to take the drugs, the side effects.
+p378
+aVThey delegate education about infant feeding,
+p379
+aVfamily planning, safer sex,
+p380
+aVactions that nurses simple just don't have time for.
+p381
+aa(lp382
+VSo we go back to the prevention of mother to child transmission.
+p383
+aVThe world is increasingly seeing these programs
+p384
+aVas the bridge to comprehensive maternal and child health.
+p385
+aVAnd our organization
+p386
+aVhelps women across that bridge.
+p387
+aVThe care doesn't stop when the baby's born \u2014
+p388
+aVwe deal with the ongoing health of the mother and baby,
+p389
+aVensuring that they live healthy,
+p390
+aVsuccessful lives.
+p391
+aa(lp392
+VOur organization works on three levels.
+p393
+aVThe first, at the patient level \u2014
+p394
+aVmothers and babies keeping babies from getting HIV,
+p395
+aVkeeping mothers healthy to raise them.
+p396
+aVThe second, communities \u2014
+p397
+aVempowering women.
+p398
+aVThey become leaders within their communities.
+p399
+aVThey change the way communities think \u2014
+p400
+aVwe need to change attitudes to HIV.
+p401
+aVWe need to change attitudes to women in Africa.
+p402
+aVWe have to do that.
+p403
+aVAnd then rework the level of the health care systems,
+p404
+aVbuilding stronger health care systems.
+p405
+aVOur health care systems are broken.
+p406
+aVThey're not going to work the way they're currently designed.
+p407
+aVAnd so doctors and nurses
+p408
+aVwho need to try to change people's behaviors
+p409
+aVdon't have the skills, don't have the time \u2014
+p410
+aVour mentor mothers do.
+p411
+aVAnd so in redefining the health care teams by bringing the mentor mothers in,
+p412
+aVwe can do that.
+p413
+aa(lp414
+VI started the program in Capetown, South Africa
+p415
+aVback in 2001.
+p416
+aVIt was at that point, just the spark of an idea.
+p417
+aVReferencing Steven Johnson's very lovely speech yesterday
+p418
+aVon where ideas come from,
+p419
+aVI was in the shower at the time \u2014
+p420
+aVI was alone.
+p421
+aV(Laughter)
+p422
+aVThe program is now working in nine countries,
+p423
+aVwe have 670 program sites,
+p424
+aVwe're seeing about 230,000
+p425
+aVwomen every month,
+p426
+aVwe're employing 1,600 mentor mothers,
+p427
+aVand last year, they enrolled
+p428
+aV300,000 HIV-positive pregnant women and mothers.
+p429
+aVThat is 20 percent
+p430
+aVof the global HIV-positive pregnant women \u2014
+p431
+aV20 percent of the world.
+p432
+aVWhat's extraordinary is how simple the premise is.
+p433
+aVMothers with HIV caring for mothers with HIV.
+p434
+aVPast patients taking care of present patients.
+p435
+aVAnd empowerment through employment \u2014
+p436
+aVreducing stigma.
+p437
+aa(lp438
+V(Video) Female Narrator: There is hope,
+p439
+aVhope that one day
+p440
+aVwe shall win this fight
+p441
+aVagainst HIV and AIDS.
+p442
+aVEach person must know
+p443
+aVtheir HIV status.
+p444
+aVThose who are HIV-negative
+p445
+aVmust know how to stay negative.
+p446
+aVThose who are HIV-infected
+p447
+aVmust know how
+p448
+aVto take care of themselves.
+p449
+aVHIV-positive pregnant women
+p450
+aVmust get PMTCT services
+p451
+aVin order to have
+p452
+aVHIV-negative babies.
+p453
+aVAll of this is possible,
+p454
+aVif we each contribute to this fight.
+p455
+aa(lp456
+VMB: Simple solutions to complex problems.
+p457
+aVMothers caring for mothers.
+p458
+aVIt's transformational.
+p459
+aa(lp460
+VThank you.
+p461
+aa(lp462
+V(Applause)
+p463
+aasS'id'
+p464
+I962
+sS'title'
+p465
+VMothers helping mothers fight HIV
+p466
+s.

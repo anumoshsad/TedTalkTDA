@@ -1,0 +1,1063 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm a neuroscientist.
+p4
+aVAnd in neuroscience,
+p5
+aVwe have to deal with many difficult questions about the brain.
+p6
+aVBut I want to start with the easiest question
+p7
+aVand the question you really should have all asked yourselves at some point in your life,
+p8
+aVbecause it's a fundamental question
+p9
+aVif we want to understand brain function.
+p10
+aVAnd that is, why do we and other animals
+p11
+aVhave brains?
+p12
+aVNot all species on our planet have brains,
+p13
+aVso if we want to know what the brain is for,
+p14
+aVlet's think about why we evolved one.
+p15
+aVNow you may reason that we have one
+p16
+aVto perceive the world or to think,
+p17
+aVand that's completely wrong.
+p18
+aVIf you think about this question for any length of time,
+p19
+aVit's blindingly obvious why we have a brain.
+p20
+aVWe have a brain for one reason and one reason only,
+p21
+aVand that's to produce adaptable and complex movements.
+p22
+aVThere is no other reason to have a brain.
+p23
+aVThink about it.
+p24
+aVMovement is the only way you have
+p25
+aVof affecting the world around you.
+p26
+aVNow that's not quite true. There's one other way, and that's through sweating.
+p27
+aVBut apart from that,
+p28
+aVeverything else goes through contractions of muscles.
+p29
+aa(lp30
+VSo think about communication \u2014
+p31
+aVspeech, gestures, writing, sign language \u2014
+p32
+aVthey're all mediated through contractions of your muscles.
+p33
+aVSo it's really important to remember
+p34
+aVthat sensory, memory and cognitive processes are all important,
+p35
+aVbut they're only important
+p36
+aVto either drive or suppress future movements.
+p37
+aVThere can be no evolutionary advantage
+p38
+aVto laying down memories of childhood
+p39
+aVor perceiving the color of a rose
+p40
+aVif it doesn't affect the way you're going to move later in life.
+p41
+aa(lp42
+VNow for those who don't believe this argument,
+p43
+aVwe have trees and grass on our planet without the brain,
+p44
+aVbut the clinching evidence is this animal here \u2014
+p45
+aVthe humble sea squirt.
+p46
+aVRudimentary animal, has a nervous system,
+p47
+aVswims around in the ocean in its juvenile life.
+p48
+aVAnd at some point of its life,
+p49
+aVit implants on a rock.
+p50
+aVAnd the first thing it does in implanting on that rock, which it never leaves,
+p51
+aVis to digest its own brain and nervous system
+p52
+aVfor food.
+p53
+aVSo once you don't need to move,
+p54
+aVyou don't need the luxury of that brain.
+p55
+aVAnd this animal is often taken
+p56
+aVas an analogy to what happens at universities
+p57
+aVwhen professors get tenure,
+p58
+aVbut that's a different subject.
+p59
+aa(lp60
+V(Applause)
+p61
+aa(lp62
+VSo I am a movement chauvinist.
+p63
+aVI believe movement is the most important function of the brain \u2014
+p64
+aVdon't let anyone tell you that it's not true.
+p65
+aVNow if movement is so important,
+p66
+aVhow well are we doing
+p67
+aVunderstanding how the brain controls movement?
+p68
+aVAnd the answer is we're doing extremely poorly; it's a very hard problem.
+p69
+aVBut we can look at how well we're doing
+p70
+aVby thinking about how well we're doing building machines
+p71
+aVwhich can do what humans can do.
+p72
+aa(lp73
+VThink about the game of chess.
+p74
+aVHow well are we doing determining what piece to move where?
+p75
+aVIf you pit Garry Kasparov here, when he's not in jail,
+p76
+aVagainst IBM's Deep Blue,
+p77
+aVwell the answer is IBM's Deep Blue will occasionally win.
+p78
+aVAnd I think if IBM's Deep Blue played anyone in this room, it would win every time.
+p79
+aVThat problem is solved.
+p80
+aVWhat about the problem
+p81
+aVof picking up a chess piece,
+p82
+aVdexterously manipulating it and putting it back down on the board?
+p83
+aVIf you put a five year-old child's dexterity against the best robots of today,
+p84
+aVthe answer is simple:
+p85
+aVthe child wins easily.
+p86
+aVThere's no competition at all.
+p87
+aa(lp88
+VNow why is that top problem so easy
+p89
+aVand the bottom problem so hard?
+p90
+aVOne reason is a very smart five year-old
+p91
+aVcould tell you the algorithm for that top problem \u2014
+p92
+aVlook at all possible moves to the end of the game
+p93
+aVand choose the one that makes you win.
+p94
+aVSo it's a very simple algorithm.
+p95
+aVNow of course there are other moves,
+p96
+aVbut with vast computers we approximate
+p97
+aVand come close to the optimal solution.
+p98
+aVWhen it comes to being dexterous,
+p99
+aVit's not even clear what the algorithm is you have to solve to be dexterous.
+p100
+aVAnd we'll see you have to both perceive and act on the world,
+p101
+aVwhich has a lot of problems.
+p102
+aa(lp103
+VBut let me show you cutting-edge robotics.
+p104
+aVNow a lot of robotics is very impressive,
+p105
+aVbut manipulation robotics is really just in the dark ages.
+p106
+aVSo this is the end of a Ph.D. project
+p107
+aVfrom one of the best robotics institutes.
+p108
+aVAnd the student has trained this robot
+p109
+aVto pour this water into a glass.
+p110
+aVIt's a hard problem because the water sloshes about, but it can do it.
+p111
+aVBut it doesn't do it with anything like the agility of a human.
+p112
+aVNow if you want this robot to do a different task,
+p113
+aVthat's another three-year Ph.D. program.
+p114
+aVThere is no generalization at all
+p115
+aVfrom one task to another in robotics.
+p116
+aa(lp117
+VNow we can compare this
+p118
+aVto cutting-edge human performance.
+p119
+aVSo what I'm going to show you is Emily Fox
+p120
+aVwinning the world record for cup stacking.
+p121
+aVNow the Americans in the audience will know all about cup stacking.
+p122
+aVIt's a high school sport
+p123
+aVwhere you have 12 cups you have to stack and unstack
+p124
+aVagainst the clock in a prescribed order.
+p125
+aVAnd this is her getting the world record in real time.
+p126
+aV(Laughter)
+p127
+aV(Applause)
+p128
+aVAnd she's pretty happy.
+p129
+aVWe have no idea what is going on inside her brain when she does that,
+p130
+aVand that's what we'd like to know.
+p131
+aa(lp132
+VSo in my group, what we try to do
+p133
+aVis reverse engineer how humans control movement.
+p134
+aVAnd it sounds like an easy problem.
+p135
+aVYou send a command down, it causes muscles to contract.
+p136
+aVYour arm or body moves,
+p137
+aVand you get sensory feedback from vision, from skin, from muscles and so on.
+p138
+aVThe trouble is
+p139
+aVthese signals are not the beautiful signals you want them to be.
+p140
+aVSo one thing that makes controlling movement difficult
+p141
+aVis, for example, sensory feedback is extremely noisy.
+p142
+aVNow by noise, I do not mean sound.
+p143
+aVWe use it in the engineering and neuroscience sense
+p144
+aVmeaning a random noise corrupting a signal.
+p145
+aVSo the old days before digital radio when you were tuning in your radio
+p146
+aVand you heard "crrcckkk" on the station you wanted to hear,
+p147
+aVthat was the noise.
+p148
+aVBut more generally, this noise is something that corrupts the signal.
+p149
+aa(lp150
+VSo for example, if you put your hand under a table
+p151
+aVand try to localize it with your other hand,
+p152
+aVyou can be off by several centimeters
+p153
+aVdue to the noise in sensory feedback.
+p154
+aVSimilarly, when you put motor output on movement output,
+p155
+aVit's extremely noisy.
+p156
+aVForget about trying to hit the bull's eye in darts,
+p157
+aVjust aim for the same spot over and over again.
+p158
+aVYou have a huge spread due to movement variability.
+p159
+aVAnd more than that, the outside world, or task,
+p160
+aVis both ambiguous and variable.
+p161
+aVThe teapot could be full, it could be empty.
+p162
+aVIt changes over time.
+p163
+aVSo we work in a whole sensory movement task soup of noise.
+p164
+aa(lp165
+VNow this noise is so great
+p166
+aVthat society places a huge premium
+p167
+aVon those of us who can reduce the consequences of noise.
+p168
+aVSo if you're lucky enough to be able to knock a small white ball
+p169
+aVinto a hole several hundred yards away using a long metal stick,
+p170
+aVour society will be willing to reward you
+p171
+aVwith hundreds of millions of dollars.
+p172
+aa(lp173
+VNow what I want to convince you of
+p174
+aVis the brain also goes through a lot of effort
+p175
+aVto reduce the negative consequences
+p176
+aVof this sort of noise and variability.
+p177
+aVAnd to do that, I'm going to tell you about a framework
+p178
+aVwhich is very popular in statistics and machine learning of the last 50 years
+p179
+aVcalled Bayesian decision theory.
+p180
+aVAnd it's more recently a unifying way
+p181
+aVto think about how the brain deals with uncertainty.
+p182
+aVAnd the fundamental idea is you want to make inferences and then take actions.
+p183
+aa(lp184
+VSo let's think about the inference.
+p185
+aVYou want to generate beliefs about the world.
+p186
+aVSo what are beliefs?
+p187
+aVBeliefs could be: where are my arms in space?
+p188
+aVAm I looking at a cat or a fox?
+p189
+aVBut we're going to represent beliefs with probabilities.
+p190
+aVSo we're going to represent a belief
+p191
+aVwith a number between zero and one \u2014
+p192
+aVzero meaning I don't believe it at all, one means I'm absolutely certain.
+p193
+aVAnd numbers in between give you the gray levels of uncertainty.
+p194
+aVAnd the key idea to Bayesian inference
+p195
+aVis you have two sources of information
+p196
+aVfrom which to make your inference.
+p197
+aVYou have data,
+p198
+aVand data in neuroscience is sensory input.
+p199
+aVSo I have sensory input, which I can take in to make beliefs.
+p200
+aVBut there's another source of information, and that's effectively prior knowledge.
+p201
+aVYou accumulate knowledge throughout your life in memories.
+p202
+aVAnd the point about Bayesian decision theory
+p203
+aVis it gives you the mathematics
+p204
+aVof the optimal way to combine
+p205
+aVyour prior knowledge with your sensory evidence
+p206
+aVto generate new beliefs.
+p207
+aa(lp208
+VAnd I've put the formula up there.
+p209
+aVI'm not going to explain what that formula is, but it's very beautiful.
+p210
+aVAnd it has real beauty and real explanatory power.
+p211
+aVAnd what it really says, and what you want to estimate,
+p212
+aVis the probability of different beliefs
+p213
+aVgiven your sensory input.
+p214
+aVSo let me give you an intuitive example.
+p215
+aVImagine you're learning to play tennis
+p216
+aVand you want to decide where the ball is going to bounce
+p217
+aVas it comes over the net towards you.
+p218
+aVThere are two sources of information
+p219
+aVBayes' rule tells you.
+p220
+aVThere's sensory evidence \u2014 you can use visual information auditory information,
+p221
+aVand that might tell you it's going to land in that red spot.
+p222
+aVBut you know that your senses are not perfect,
+p223
+aVand therefore there's some variability of where it's going to land
+p224
+aVshown by that cloud of red,
+p225
+aVrepresenting numbers between 0.5 and maybe 0.1.
+p226
+aa(lp227
+VThat information is available in the current shot,
+p228
+aVbut there's another source of information
+p229
+aVnot available on the current shot,
+p230
+aVbut only available by repeated experience in the game of tennis,
+p231
+aVand that's that the ball doesn't bounce
+p232
+aVwith equal probability over the court during the match.
+p233
+aVIf you're playing against a very good opponent,
+p234
+aVthey may distribute it in that green area,
+p235
+aVwhich is the prior distribution,
+p236
+aVmaking it hard for you to return.
+p237
+aVNow both these sources of information carry important information.
+p238
+aVAnd what Bayes' rule says
+p239
+aVis that I should multiply the numbers on the red by the numbers on the green
+p240
+aVto get the numbers of the yellow, which have the ellipses,
+p241
+aVand that's my belief.
+p242
+aVSo it's the optimal way of combining information.
+p243
+aa(lp244
+VNow I wouldn't tell you all this if it wasn't that a few years ago,
+p245
+aVwe showed this is exactly what people do
+p246
+aVwhen they learn new movement skills.
+p247
+aVAnd what it means
+p248
+aVis we really are Bayesian inference machines.
+p249
+aVAs we go around, we learn about statistics of the world and lay that down,
+p250
+aVbut we also learn
+p251
+aVabout how noisy our own sensory apparatus is,
+p252
+aVand then combine those
+p253
+aVin a real Bayesian way.
+p254
+aa(lp255
+VNow a key part to the Bayesian is this part of the formula.
+p256
+aVAnd what this part really says
+p257
+aVis I have to predict the probability
+p258
+aVof different sensory feedbacks
+p259
+aVgiven my beliefs.
+p260
+aVSo that really means I have to make predictions of the future.
+p261
+aVAnd I want to convince you the brain does make predictions
+p262
+aVof the sensory feedback it's going to get.
+p263
+aVAnd moreover, it profoundly changes your perceptions
+p264
+aVby what you do.
+p265
+aVAnd to do that, I'll tell you
+p266
+aVabout how the brain deals with sensory input.
+p267
+aVSo you send a command out,
+p268
+aVyou get sensory feedback back,
+p269
+aVand that transformation is governed
+p270
+aVby the physics of your body and your sensory apparatus.
+p271
+aa(lp272
+VBut you can imagine looking inside the brain.
+p273
+aVAnd here's inside the brain.
+p274
+aVYou might have a little predictor, a neural simulator,
+p275
+aVof the physics of your body and your senses.
+p276
+aVSo as you send a movement command down,
+p277
+aVyou tap a copy of that off
+p278
+aVand run it into your neural simulator
+p279
+aVto anticipate the sensory consequences of your actions.
+p280
+aVSo as I shake this ketchup bottle,
+p281
+aVI get some true sensory feedback as the function of time in the bottom row.
+p282
+aVAnd if I've got a good predictor, it predicts the same thing.
+p283
+aa(lp284
+VWell why would I bother doing that?
+p285
+aVI'm going to get the same feedback anyway.
+p286
+aVWell there's good reasons.
+p287
+aVImagine, as I shake the ketchup bottle,
+p288
+aVsomeone very kindly comes up to me and taps it on the back for me.
+p289
+aVNow I get an extra source of sensory information
+p290
+aVdue to that external act.
+p291
+aVSo I get two sources.
+p292
+aVI get you tapping on it, and I get me shaking it,
+p293
+aVbut from my senses' point of view,
+p294
+aVthat is combined together into one source of information.
+p295
+aa(lp296
+VNow there's good reason to believe
+p297
+aVthat you would want to be able to distinguish external events from internal events.
+p298
+aVBecause external events are actually much more behaviorally relevant
+p299
+aVthan feeling everything that's going on inside my body.
+p300
+aVSo one way to reconstruct that
+p301
+aVis to compare the prediction \u2014
+p302
+aVwhich is only based on your movement commands \u2014
+p303
+aVwith the reality.
+p304
+aVAny discrepancy should hopefully be external.
+p305
+aVSo as I go around the world,
+p306
+aVI'm making predictions of what I should get, subtracting them off.
+p307
+aVEverything left over is external to me.
+p308
+aa(lp309
+VWhat evidence is there for this?
+p310
+aVWell there's one very clear example
+p311
+aVwhere a sensation generated by myself feels very different
+p312
+aVthen if generated by another person.
+p313
+aVAnd so we decided the most obvious place to start
+p314
+aVwas with tickling.
+p315
+aVIt's been known for a long time, you can't tickle yourself
+p316
+aVas well as other people can.
+p317
+aVBut it hasn't really been shown, it's because you have a neural simulator,
+p318
+aVsimulating your own body
+p319
+aVand subtracting off that sense.
+p320
+aVSo we can bring the experiments of the 21st century
+p321
+aVby applying robotic technologies to this problem.
+p322
+aVAnd in effect, what we have is some sort of stick in one hand attached to a robot,
+p323
+aVand they're going to move that back and forward.
+p324
+aVAnd then we're going to track that with a computer
+p325
+aVand use it to control another robot,
+p326
+aVwhich is going to tickle their palm with another stick.
+p327
+aVAnd then we're going to ask them to rate a bunch of things
+p328
+aVincluding ticklishness.
+p329
+aa(lp330
+VI'll show you just one part of our study.
+p331
+aVAnd here I've taken away the robots,
+p332
+aVbut basically people move with their right arm sinusoidally back and forward.
+p333
+aVAnd we replay that to the other hand with a time delay.
+p334
+aVEither no time delay,
+p335
+aVin which case light would just tickle your palm,
+p336
+aVor with a time delay of two-tenths of three-tenths of a second.
+p337
+aVSo the important point here
+p338
+aVis the right hand always does the same things \u2014 sinusoidal movement.
+p339
+aVThe left hand always is the same and puts sinusoidal tickle.
+p340
+aVAll we're playing with is a tempo causality.
+p341
+aVAnd as we go from naught to 0.1 second,
+p342
+aVit becomes more ticklish.
+p343
+aVAs you go from 0.1 to 0.2,
+p344
+aVit becomes more ticklish at the end.
+p345
+aVAnd by 0.2 of a second,
+p346
+aVit's equivalently ticklish
+p347
+aVto the robot that just tickled you without you doing anything.
+p348
+aVSo whatever is responsible for this cancellation
+p349
+aVis extremely tightly coupled with tempo causality.
+p350
+aVAnd based on this illustration, we really convinced ourselves in the field
+p351
+aVthat the brain's making precise predictions
+p352
+aVand subtracting them off from the sensations.
+p353
+aa(lp354
+VNow I have to admit, these are the worst studies my lab has ever run.
+p355
+aVBecause the tickle sensation on the palm comes and goes,
+p356
+aVyou need large numbers of subjects
+p357
+aVwith these stars making them significant.
+p358
+aVSo we were looking for a much more objective way
+p359
+aVto assess this phenomena.
+p360
+aVAnd in the intervening years I had two daughters.
+p361
+aVAnd one thing you notice about children in backseats of cars on long journeys,
+p362
+aVthey get into fights \u2014
+p363
+aVwhich started with one of them doing something to the other, the other retaliating.
+p364
+aVIt quickly escalates.
+p365
+aVAnd children tend to get into fights which escalate in terms of force.
+p366
+aVNow when I screamed at my children to stop,
+p367
+aVsometimes they would both say to me
+p368
+aVthe other person hit them harder.
+p369
+aa(lp370
+VNow I happen to know my children don't lie,
+p371
+aVso I thought, as a neuroscientist,
+p372
+aVit was important how I could explain
+p373
+aVhow they were telling inconsistent truths.
+p374
+aVAnd we hypothesize based on the tickling study
+p375
+aVthat when one child hits another,
+p376
+aVthey generate the movement command.
+p377
+aVThey predict the sensory consequences and subtract it off.
+p378
+aVSo they actually think they've hit the person less hard than they have \u2014
+p379
+aVrather like the tickling.
+p380
+aVWhereas the passive recipient
+p381
+aVdoesn't make the prediction, feels the full blow.
+p382
+aVSo if they retaliate with the same force,
+p383
+aVthe first person will think it's been escalated.
+p384
+aa(lp385
+VSo we decided to test this in the lab.
+p386
+aV(Laughter)
+p387
+aVNow we don't work with children, we don't work with hitting,
+p388
+aVbut the concept is identical.
+p389
+aVWe bring in two adults. We tell them they're going to play a game.
+p390
+aVAnd so here's player one and player two sitting opposite to each other.
+p391
+aVAnd the game is very simple.
+p392
+aVWe started with a motor
+p393
+aVwith a little lever, a little force transfuser.
+p394
+aVAnd we use this motor to apply force down to player one's fingers
+p395
+aVfor three seconds and then it stops.
+p396
+aVAnd that player's been told, remember the experience of that force
+p397
+aVand use your other finger
+p398
+aVto apply the same force
+p399
+aVdown to the other subject's finger through a force transfuser \u2014 and they do that.
+p400
+aVAnd player two's been told, remember the experience of that force.
+p401
+aVUse your other hand to apply the force back down.
+p402
+aVAnd so they take it in turns
+p403
+aVto apply the force they've just experienced back and forward.
+p404
+aa(lp405
+VBut critically,
+p406
+aVthey're briefed about the rules of the game in separate rooms.
+p407
+aVSo they don't know the rules the other person's playing by.
+p408
+aVAnd what we've measured
+p409
+aVis the force as a function of terms.
+p410
+aVAnd if we look at what we start with,
+p411
+aVa quarter of a Newton there, a number of turns,
+p412
+aVperfect would be that red line.
+p413
+aVAnd what we see in all pairs of subjects is this \u2014
+p414
+aVa 70 percent escalation in force
+p415
+aVon each go.
+p416
+aVSo it really suggests, when you're doing this \u2014
+p417
+aVbased on this study and others we've done \u2014
+p418
+aVthat the brain is canceling the sensory consequences
+p419
+aVand underestimating the force it's producing.
+p420
+aVSo it re-shows the brain makes predictions
+p421
+aVand fundamentally changes the precepts.
+p422
+aVSo we've made inferences, we've done predictions,
+p423
+aVnow we have to generate actions.
+p424
+aVAnd what Bayes' rule says is, given my beliefs,
+p425
+aVthe action should in some sense be optimal.
+p426
+aa(lp427
+VBut we've got a problem.
+p428
+aVTasks are symbolic \u2014 I want to drink, I want to dance \u2014
+p429
+aVbut the movement system has to contract 600 muscles
+p430
+aVin a particular sequence.
+p431
+aVAnd there's a big gap
+p432
+aVbetween the task and the movement system.
+p433
+aVSo it could be bridged in infinitely many different ways.
+p434
+aVSo think about just a point to point movement.
+p435
+aVI could choose these two paths
+p436
+aVout of an infinite number of paths.
+p437
+aVHaving chosen a particular path,
+p438
+aVI can hold my hand on that path
+p439
+aVas infinitely many different joint configurations.
+p440
+aVAnd I can hold my arm in a particular joint configuration
+p441
+aVeither very stiff or very relaxed.
+p442
+aVSo I have a huge amount of choice to make.
+p443
+aVNow it turns out, we are extremely stereotypical.
+p444
+aVWe all move the same way pretty much.
+p445
+aa(lp446
+VAnd so it turns out we're so stereotypical,
+p447
+aVour brains have got dedicated neural circuitry
+p448
+aVto decode this stereotyping.
+p449
+aVSo if I take some dots
+p450
+aVand set them in motion with biological motion,
+p451
+aVyour brain's circuitry would understand instantly what's going on.
+p452
+aVNow this is a bunch of dots moving.
+p453
+aVYou will know what this person is doing,
+p454
+aVwhether happy, sad, old, young \u2014 a huge amount of information.
+p455
+aVIf these dots were cars going on a racing circuit,
+p456
+aVyou would have absolutely no idea what's going on.
+p457
+aa(lp458
+VSo why is it
+p459
+aVthat we move the particular ways we do?
+p460
+aVWell let's think about what really happens.
+p461
+aVMaybe we don't all quite move the same way.
+p462
+aVMaybe there's variation in the population.
+p463
+aVAnd maybe those who move better than others
+p464
+aVhave got more chance of getting their children into the next generation.
+p465
+aVSo in evolutionary scales, movements get better.
+p466
+aVAnd perhaps in life, movements get better through learning.
+p467
+aa(lp468
+VSo what is it about a movement which is good or bad?
+p469
+aVImagine I want to intercept this ball.
+p470
+aVHere are two possible paths to that ball.
+p471
+aVWell if I choose the left-hand path,
+p472
+aVI can work out the forces required
+p473
+aVin one of my muscles as a function of time.
+p474
+aVBut there's noise added to this.
+p475
+aVSo what I actually get, based on this lovely, smooth, desired force,
+p476
+aVis a very noisy version.
+p477
+aVSo if I pick the same command through many times,
+p478
+aVI will get a different noisy version each time, because noise changes each time.
+p479
+aVSo what I can show you here
+p480
+aVis how the variability of the movement will evolve
+p481
+aVif I choose that way.
+p482
+aVIf I choose a different way of moving \u2014 on the right for example \u2014
+p483
+aVthen I'll have a different command, different noise,
+p484
+aVplaying through a noisy system, very complicated.
+p485
+aVAll we can be sure of is the variability will be different.
+p486
+aVIf I move in this particular way,
+p487
+aVI end up with a smaller variability across many movements.
+p488
+aVSo if I have to choose between those two,
+p489
+aVI would choose the right one because it's less variable.
+p490
+aa(lp491
+VAnd the fundamental idea
+p492
+aVis you want to plan your movements
+p493
+aVso as to minimize the negative consequence of the noise.
+p494
+aVAnd one intuition to get
+p495
+aVis actually the amount of noise or variability I show here
+p496
+aVgets bigger as the force gets bigger.
+p497
+aVSo you want to avoid big forces as one principle.
+p498
+aVSo we've shown that using this,
+p499
+aVwe can explain a huge amount of data \u2014
+p500
+aVthat exactly people are going about their lives planning movements
+p501
+aVso as to minimize negative consequences of noise.
+p502
+aa(lp503
+VSo I hope I've convinced you the brain is there
+p504
+aVand evolved to control movement.
+p505
+aVAnd it's an intellectual challenge to understand how we do that.
+p506
+aVBut it's also relevant
+p507
+aVfor disease and rehabilitation.
+p508
+aVThere are many diseases which effect movement.
+p509
+aVAnd hopefully if we understand how we control movement,
+p510
+aVwe can apply that to robotic technology.
+p511
+aVAnd finally, I want to remind you,
+p512
+aVwhen you see animals do what look like very simple tasks,
+p513
+aVthe actual complexity of what is going on inside their brain
+p514
+aVis really quite dramatic.
+p515
+aa(lp516
+VThank you very much.
+p517
+aa(lp518
+V(Applause)
+p519
+aa(lp520
+VChris Anderson: Quick question for you, Dan.
+p521
+aVSo you're a movement \u2014 (DW: Chauvinist.) \u2014 chauvinist.
+p522
+aVDoes that mean that you think that the other things we think our brains are about \u2014
+p523
+aVthe dreaming, the yearning, the falling in love and all these things \u2014
+p524
+aVare a kind of side show, an accident?
+p525
+aa(lp526
+VDW: No, no, actually I think they're all important
+p527
+aVto drive the right movement behavior to get reproduction in the end.
+p528
+aVSo I think people who study sensation or memory
+p529
+aVwithout realizing why you're laying down memories of childhood.
+p530
+aVThe fact that we forget most of our childhood, for example,
+p531
+aVis probably fine, because it doesn't effect our movements later in life.
+p532
+aVYou only need to store things which are really going to effect movement.
+p533
+aa(lp534
+VCA: So you think that people thinking about the brain, and consciousness generally,
+p535
+aVcould get real insight
+p536
+aVby saying, where does movement play in this game?
+p537
+aa(lp538
+VDW: So people have found out for example
+p539
+aVthat studying vision in the absence of realizing why you have vision
+p540
+aVis a mistake.
+p541
+aVYou have to study vision with the realization
+p542
+aVof how the movement system is going to use vision.
+p543
+aVAnd it uses it very differently once you think about it that way.
+p544
+aa(lp545
+VCA: Well that was quite fascinating. Thank you very much indeed.
+p546
+aa(lp547
+V(Applause)
+p548
+aasS'id'
+p549
+I1261
+sS'title'
+p550
+VThe real reason for brains
+p551
+s.

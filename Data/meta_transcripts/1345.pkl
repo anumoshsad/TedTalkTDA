@@ -1,0 +1,530 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm going to talk to you today
+p4
+aVabout the design of medical technology for low-resource settings.
+p5
+aVI study health systems in these countries.
+p6
+aVAnd one of the major gaps in care,
+p7
+aValmost across the board,
+p8
+aVis access to safe surgery.
+p9
+aVNow one of the major bottlenecks that we've found
+p10
+aVthat's sort of preventing both the access in the first place,
+p11
+aVand the safety of those surgeries that do happen, is anesthesia.
+p12
+aVAnd actually, it's the model that we expect to work
+p13
+aVfor delivering anesthesia in these environments.
+p14
+aa(lp15
+VHere, we have a scene that you would find in any operating room across the US,
+p16
+aVor any other developed country.
+p17
+aVIn the background there
+p18
+aVis a very sophisticated anesthesia machine.
+p19
+aVAnd this machine is able to enable surgery and save lives
+p20
+aVbecause it was designed with this environment in mind.
+p21
+aVIn order to operate, this machine needs a number of things
+p22
+aVthat this hospital has to offer.
+p23
+aVIt needs an extremely well-trained anesthesiologist
+p24
+aVwith years of training with complex machines
+p25
+aVto help her monitor the flows of the gas
+p26
+aVand keep her patients safe and anesthetized
+p27
+aVthroughout the surgery.
+p28
+aVIt's a delicate machine running on computer algorithms,
+p29
+aVand it needs special care, TLC, to keep it up and running,
+p30
+aVand it's going to break pretty easily.
+p31
+aVAnd when it does, it needs a team of biomedical engineers
+p32
+aVwho understand its complexities, can fix it, can source the parts
+p33
+aVand keep it saving lives.
+p34
+aa(lp35
+VIt's a pretty expensive machine.
+p36
+aVIt needs a hospital whose budget can allow it
+p37
+aVto support one machine costing upwards of 50 or $100,000.
+p38
+aVAnd perhaps most obviously,
+p39
+aVbut also most importantly \u2014
+p40
+aVand the path to concepts that we've heard about
+p41
+aVkind of illustrates this \u2014
+p42
+aVit needs infrastructure that can supply an uninterrupted source of electricity,
+p43
+aVof compressed oxygen, and other medical supplies
+p44
+aVthat are so critical to the functioning of this machine.
+p45
+aVIn other words, this machine requires a lot of stuff
+p46
+aVthat this hospital cannot offer.
+p47
+aa(lp48
+VThis is the electrical supply for a hospital in rural Malawi.
+p49
+aVIn this hospital,
+p50
+aVthere is one person qualified to deliver anesthesia,
+p51
+aVand she's qualified
+p52
+aVbecause she has 12, maybe 18 months of training in anesthesia.
+p53
+aVIn the hospital and in the entire region
+p54
+aVthere's not a single biomedical engineer.
+p55
+aVSo when this machine breaks,
+p56
+aVthe machines that they have to work with break,
+p57
+aVthey've got to try and figure it out,
+p58
+aVbut most of the time, that's the end of the road.
+p59
+aVThose machines go the proverbial junkyard.
+p60
+aVAnd the price tag of the machine that I mentioned
+p61
+aVcould represent maybe a quarter or a third
+p62
+aVof the annual operating budget for this hospital.
+p63
+aa(lp64
+VAnd finally, I think you can see that infrastructure is not very strong.
+p65
+aVThis hospital is connected to a very weak power grid,
+p66
+aVone that goes down frequently.
+p67
+aVSo it runs frequently, the entire hospital,
+p68
+aVjust on a generator.
+p69
+aVAnd you can imagine, the generator breaks down
+p70
+aVor runs out of fuel.
+p71
+aVAnd the World Bank sees this
+p72
+aVand estimates that a hospital in this setting in a low-income country
+p73
+aVcan expect up to 18 power outages per month.
+p74
+aVSimilarly, compressed oxygen and other medical supplies
+p75
+aVare really a luxury,
+p76
+aVand can often be out of stock for months or even a year.
+p77
+aa(lp78
+VSo it seems crazy, but the model that we have right now
+p79
+aVis taking those machines that were designed
+p80
+aVfor that first environment that I showed you
+p81
+aVand donating or selling them to hospitals in this environment.
+p82
+aVIt's not just inappropriate,
+p83
+aVit becomes really unsafe.
+p84
+aa(lp85
+VOne of our partners at Johns Hopkins
+p86
+aVwas observing surgeries in Sierra Leone about a year ago.
+p87
+aVAnd the first surgery of the day happened to be an obstetrical case.
+p88
+aVA woman came in, she needed an emergency C-section
+p89
+aVto save her life and the life of her baby.
+p90
+aVAnd everything began pretty auspiciously.
+p91
+aVThe surgeon was on call and scrubbed in.
+p92
+aVThe nurse was there.
+p93
+aVShe was able to anesthetize her quickly, and it was important
+p94
+aVbecause of the emergency nature of the situation.
+p95
+aVAnd everything began well
+p96
+aVuntil the power went out.
+p97
+aVAnd now in the middle of this surgery,
+p98
+aVthe surgeon is racing against the clock to finish his case,
+p99
+aVwhich he can do \u2014 he's got a headlamp.
+p100
+aVBut the nurse is literally running around a darkened operating theater
+p101
+aVtrying to find anything she can use to anesthetize her patient,
+p102
+aVto keep her patient asleep.
+p103
+aVBecause her machine doesn't work when there's no power.
+p104
+aVThis routine surgery that many of you have probably experienced,
+p105
+aVand others are probably the product of, has now become a tragedy.
+p106
+aVAnd what's so frustrating is this is not a singular event;
+p107
+aVthis happens across the developing world.
+p108
+aV35 million surgeries are attempted every year
+p109
+aVwithout safe anesthesia.
+p110
+aa(lp111
+VMy colleague, Dr. Paul Fenton, was living this reality.
+p112
+aVHe was the chief of anesthesiology
+p113
+aVin a hospital in Malawi, a teaching hospital.
+p114
+aVHe went to work every day
+p115
+aVin an operating theater like this one,
+p116
+aVtrying to deliver anesthesia and teach others how to do so
+p117
+aVusing that same equipment
+p118
+aVthat became so unreliable, and frankly unsafe, in his hospital.
+p119
+aVAnd after umpteen surgeries
+p120
+aVand, you can imagine, really unspeakable tragedy,
+p121
+aVhe just said, "That's it. I'm done. That's enough.
+p122
+aVThere has to be something better."
+p123
+aVHe took a walk down the hall
+p124
+aVto where they threw all those machines that had just crapped out on them,
+p125
+aVI think that's the scientific term,
+p126
+aVand he started tinkering.
+p127
+aVHe took one part from here and another from there,
+p128
+aVand he tried to come up with a machine that would work
+p129
+aVin the reality that he was facing.
+p130
+aa(lp131
+VAnd what he came up with:
+p132
+aVwas this guy.
+p133
+aVThe prototype for the Universal Anesthesia Machine \u2014
+p134
+aVa machine that would work and anesthetize his patients
+p135
+aVno matter the circumstances that his hospital had to offer.
+p136
+aVHere it is, back at home
+p137
+aVat that same hospital, developed a little further, 12 years later,
+p138
+aVworking on patients from pediatrics to geriatrics.
+p139
+aa(lp140
+VLet me show you a little bit about how this machine works.
+p141
+aVVoila!
+p142
+aVHere she is.
+p143
+aVWhen you have electricity,
+p144
+aVeverything in this machine begins in the base.
+p145
+aVThere's a built-in oxygen concentrator down there.
+p146
+aVNow you've heard me mention oxygen a few times at this point.
+p147
+aVEssentially, to deliver anesthesia, you want as pure oxygen as possible,
+p148
+aVbecause eventually you're going to dilute it, essentially, with the gas.
+p149
+aVAnd the mixture that the patient inhales
+p150
+aVneeds to be at least a certain percentage oxygen
+p151
+aVor else it can become dangerous.
+p152
+aVBut so in here when there's electricity,
+p153
+aVthe oxygen concentrator takes in room air.
+p154
+aVNow we know room air is gloriously free,
+p155
+aVit is abundant,
+p156
+aVand it's already 21 percent oxygen.
+p157
+aVSo all this concentrator does is take that room air in, filter it
+p158
+aVand send 95 percent pure oxygen up and across here,
+p159
+aVwhere it mixes with the anesthetic agent.
+p160
+aa(lp161
+VNow before that mixture hits the patient's lungs,
+p162
+aVit's going to pass by here \u2014 you can't see it,
+p163
+aVbut there's an oxygen sensor here \u2014
+p164
+aVthat's going to read out on this screen the percentage of oxygen being delivered.
+p165
+aVNow if you don't have power,
+p166
+aVor, God forbid, the power cuts out in the middle of a surgery,
+p167
+aVthis machine transitions automatically,
+p168
+aVwithout even having to touch it,
+p169
+aVto drawing in room air from this inlet.
+p170
+aa(lp171
+VEverything else is the same.
+p172
+aVThe only difference is that now
+p173
+aVyou're only working with 21 percent oxygen.
+p174
+aVNow that used to be a dangerous guessing game,
+p175
+aVbecause you only knew if you gave too little oxygen
+p176
+aVonce something bad happened.
+p177
+aVBut we've put a long-life battery backup on here.
+p178
+aVThis is the only part that's battery backed up.
+p179
+aVBut this gives control to the provider, whether there's power or not,
+p180
+aVbecause they can adjust the flows
+p181
+aVbased on the percentage of oxygen they see that they're giving the patient.
+p182
+aa(lp183
+VIn both cases, whether you have power or not,
+p184
+aVsometimes the patient needs help breathing.
+p185
+aVIt's just a reality of anesthesia, the lungs can be paralyzed.
+p186
+aVAnd so we've just added this manual bellows.
+p187
+aVWe've seen surgeries for three or four hours
+p188
+aVto ventilate the patient on this.
+p189
+aa(lp190
+VSo it's a straightforward machine.
+p191
+aVI shudder to say simple; it's straightforward.
+p192
+aVAnd it's by design.
+p193
+aVYou do not need to be a highly trained, specialized anesthesiologist
+p194
+aVto use this machine,
+p195
+aVwhich is good because, in these rural district hospitals,
+p196
+aVyou're not going to get that level of training.
+p197
+aVIt's also designed for the environment that it will be used in.
+p198
+aa(lp199
+VThis is an incredibly rugged machine.
+p200
+aVIt has to stand up to the heat and the wear and tear
+p201
+aVthat happens in hospitals in these rural districts.
+p202
+aVAnd so it's not going to break very easily,
+p203
+aVbut if it does, virtually every piece in this machine
+p204
+aVcan be swapped out and replaced
+p205
+aVwith a hex wrench and a screwdriver.
+p206
+aVAnd finally, it's affordable.
+p207
+aVThis machine comes in at an eighth of the cost
+p208
+aVof the conventional machine that I showed you earlier.
+p209
+aVSo in other words, what we have here is a machine that can enable surgery
+p210
+aVand save lives,
+p211
+aVbecause it was designed for its environment,
+p212
+aVjust like the first machine I showed you.
+p213
+aa(lp214
+VBut we're not content to stop there.
+p215
+aVIs it working?
+p216
+aVIs this the design that's going to work in place?
+p217
+aVWell, we've seen good results so far.
+p218
+aVThis is in 13 hospitals in four countries,
+p219
+aVand since 2010, we've done well over 2,000 surgeries
+p220
+aVwith no clinically adverse events.
+p221
+aVSo we're thrilled.
+p222
+aVThis really seems like a cost-effective, scalable solution
+p223
+aVto a problem that's really pervasive.
+p224
+aVBut we still want to be sure
+p225
+aVthat this is the most effective and safe device
+p226
+aVthat we can be putting into hospitals.
+p227
+aa(lp228
+VSo to do that, we've launched a number of partnerships
+p229
+aVwith NGOs and universities,
+p230
+aVto gather data on the user interface,
+p231
+aVon the types of surgeries it's appropriate for,
+p232
+aVand ways we can enhance the device itself.
+p233
+aVOne of those partnerships is with Johns Hopkins
+p234
+aVjust here in Baltimore.
+p235
+aVThey have a really cool anesthesia simulation lab out in Baltimore.
+p236
+aVSo we're taking this machine
+p237
+aVand recreating some of the operating theater crises
+p238
+aVthat this machine might face
+p239
+aVin one of the hospitals that it's intended for,
+p240
+aVand in a contained, safe environment,
+p241
+aVevaluating its effectiveness.
+p242
+aVWe're then able to compare the results from that study
+p243
+aVwith real-world experience,
+p244
+aVbecause we're putting two of these in hospitals
+p245
+aVthat Johns Hopkins works with in Sierra Leone,
+p246
+aVincluding the hospital where that emergency C-section happened.
+p247
+aa(lp248
+VSo I've talked a lot about anesthesia, and I tend to do that.
+p249
+aVI think it is incredibly fascinating and an important component of health.
+p250
+aVAnd it really seems peripheral, we never think about it,
+p251
+aVuntil we don't have access to it,
+p252
+aVand then it becomes a gatekeeper.
+p253
+aVWho gets surgery and who doesn't?
+p254
+aVWho gets safe surgery and who doesn't?
+p255
+aVBut you know, it's just one of so many ways
+p256
+aVthat design, appropriate design,
+p257
+aVcan have an impact on health outcomes.
+p258
+aVIf more people in the health-delivery space
+p259
+aVreally working on some of these challenges in low-income countries
+p260
+aVcould start their design process, their solution search,
+p261
+aVfrom outside of that proverbial box
+p262
+aVand inside of the hospital \u2014
+p263
+aVIn other words, if we could design
+p264
+aVfor the environment that exists in so many parts of the world,
+p265
+aVrather than the one that we wished existed \u2014
+p266
+aVwe might just save a lot of lives.
+p267
+aa(lp268
+VThank you very much.
+p269
+aa(lp270
+V(Applause)
+p271
+aasS'id'
+p272
+I1345
+sS'title'
+p273
+VThe universal anesthesia machine
+p274
+s.

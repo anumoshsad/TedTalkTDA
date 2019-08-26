@@ -1,0 +1,410 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VHave you ever heard the one about how breastfeeding is free?
+p4
+aa(lp5
+V(Laughter)
+p6
+aa(lp7
+VYeah, it's pretty funny,
+p8
+aVbecause it's only free if we don't value women's time and energy.
+p9
+aVAny mother can tell you how much time and energy it takes
+p10
+aVto liquify her body \u2014
+p11
+aVto literally dissolve herself \u2014
+p12
+aa(lp13
+V(Laughter)
+p14
+aa(lp15
+Vas she feeds this precious little cannibal.
+p16
+aa(lp17
+V(Laughter)
+p18
+aa(lp19
+VMilk is why mammals suck.
+p20
+aVAt Arizona State University,
+p21
+aVin the Comparative Lactation Lab,
+p22
+aVI decode mothers' milk composition
+p23
+aVto understand its complexity
+p24
+aVand how it influences infant development.
+p25
+aVThe most important thing that I've learned
+p26
+aVis that we do not do enough to support mothers and babies.
+p27
+aVAnd when we fail mothers and babies,
+p28
+aVwe fail everyone who loves mothers and babies:
+p29
+aVthe fathers, the partners, the grandparents, the aunties,
+p30
+aVthe friends and kin that make our human social networks.
+p31
+aVIt's time that we abandon simple solutions and simple slogans,
+p32
+aVand grapple with the nuance.
+p33
+aa(lp34
+VI was very fortunate
+p35
+aVto run smack-dab into that nuance very early,
+p36
+aVduring my first interview with a journalist
+p37
+aVwhen she asked me,
+p38
+aV"How long should a mother breastfeed her baby?"
+p39
+aVAnd it was that word "should" that brought me up short,
+p40
+aVbecause I will never tell a woman what she should do with her body.
+p41
+aa(lp42
+VBabies survive and thrive
+p43
+aVbecause their mother's milk is food, medicine and signal.
+p44
+aVFor young infants,
+p45
+aVmother's milk is a complete diet
+p46
+aVthat provides all the building blocks for their bodies,
+p47
+aVthat shapes their brain
+p48
+aVand fuels all of their activity.
+p49
+aVMother's milk also feeds the microbes
+p50
+aVthat are colonizing the infant's intestinal tract.
+p51
+aVMothers aren't just eating for two,
+p52
+aVthey're eating for two to the trillions.
+p53
+aVMilk provides immunofactors that help fight pathogens
+p54
+aVand mother's milk provides hormones that signal to the infant's body.
+p55
+aa(lp56
+VBut in recent decades,
+p57
+aVwe have come to take milk for granted.
+p58
+aVWe stopped seeing something in plain sight.
+p59
+aVWe began to think of milk as standardized, homogenized, pasteurized,
+p60
+aVpackaged, powdered, flavored and formulated.
+p61
+aVWe abandoned the milk of human kindness
+p62
+aVand turned our priorities elsewhere.
+p63
+aa(lp64
+VAt the National Institutes of Health
+p65
+aVin Washington DC
+p66
+aVis the National Library of Medicine,
+p67
+aVwhich contains 25 million articles \u2014
+p68
+aVthe brain trust of life science and biomedical research.
+p69
+aVWe can use keywords to search that database,
+p70
+aVand when we do that,
+p71
+aVwe discover nearly a million articles about pregnancy,
+p72
+aVbut far fewer about breast milk and lactation.
+p73
+aVWhen we zoom in on the number of articles just investigating breast milk,
+p74
+aVwe see that we know much more about coffee, wine and tomatoes.
+p75
+aa(lp76
+V(Laughter)
+p77
+aa(lp78
+VWe know over twice as much about erectile dysfunction.
+p79
+aa(lp80
+V(Laughter)
+p81
+aa(lp82
+VI'm not saying we shouldn't know about those things \u2014
+p83
+aVI'm a scientist, I think we should know about everything.
+p84
+aVBut that we know so much less \u2014
+p85
+aa(lp86
+V(Laughter)
+p87
+aa(lp88
+Vabout breast milk \u2014
+p89
+aVthe first fluid a young mammal is adapted to consume \u2014
+p90
+aVshould make us angry.
+p91
+aVGlobally, nine out of 10 women will have at least one child in her lifetime.
+p92
+aVThat means that nearly 130 million babies are born each year.
+p93
+aVThese mothers and babies deserve our best science.
+p94
+aa(lp95
+VRecent research has shown that milk doesn't just grow the body,
+p96
+aVit fuels behavior and shapes neurodevelopment.
+p97
+aVIn 2015, researchers discovered
+p98
+aVthat the mixture of breast milk and baby saliva \u2014
+p99
+aVspecifically, baby saliva \u2014
+p100
+aVcauses a chemical reaction that produces hydrogen peroxide
+p101
+aVthat can kill staph and salmonella.
+p102
+aVAnd from humans and other mammal species,
+p103
+aVwe're starting to understand that the biological recipe of milk
+p104
+aVcan be different when produced for sons or daughters.
+p105
+aVWhen we reach for donor milk in the neonatal intensive care unit,
+p106
+aVor formula on the store shelf,
+p107
+aVit's nearly one-size-fits-all.
+p108
+aVWe aren't thinking about how sons and daughters may grow at different rates,
+p109
+aVor different ways,
+p110
+aVand that milk may be a part of that.
+p111
+aa(lp112
+VMothers have gotten the message
+p113
+aVand the vast majority of mothers intend to breastfeed,
+p114
+aVbut many do not reach their breastfeeding goals.
+p115
+aVThat is not their failure;
+p116
+aVit's ours.
+p117
+aVIncreasingly common medical conditions like obesity, endocrine disorders,
+p118
+aVC-section and preterm births
+p119
+aVall can disrupt the underlying biology of lactation.
+p120
+aVAnd many women do not have knowledgeable clinical support.
+p121
+aa(lp122
+VTwenty-five years ago,
+p123
+aVthe World Health Organization and UNICEF established criteria
+p124
+aVfor hospitals to be considered baby friendly \u2014
+p125
+aVthat provide the optimal level of support for mother-infant bonding
+p126
+aVand infant feeding.
+p127
+aVToday, only one in five babies in the United States
+p128
+aVis born in a baby-friendly hospital.
+p129
+aVThis is a problem,
+p130
+aVbecause mothers can grapple with many problems
+p131
+aVin the minutes, hours, days and weeks of lactation.
+p132
+aVThey can have struggles with establishing latch,
+p133
+aVwith pain,
+p134
+aVwith milk letdown
+p135
+aVand perceptions of milk supply.
+p136
+aVThese mothers deserve knowledgeable clinical staff
+p137
+aVthat understand these processes.
+p138
+aa(lp139
+VMothers will call me as they're grappling with these struggles,
+p140
+aVcrying with wobbly voices.
+p141
+aV"It's not working.
+p142
+aVThis is what I'm supposed to naturally be able to do.
+p143
+aVWhy is it not working?"
+p144
+aVAnd just because something is evolutionarily ancient
+p145
+aVdoesn't mean that it's easy or that we're instantly good at it.
+p146
+aVYou know what else is evolutionarily ancient?
+p147
+aa(lp148
+V(Laughter)
+p149
+aa(lp150
+VSex.
+p151
+aVAnd nobody expects us to start out being good at it.
+p152
+aa(lp153
+V(Laughter)
+p154
+aa(lp155
+VClinicians best deliver quality equitable care
+p156
+aVwhen they have continuing education
+p157
+aVabout how to best support lactation and breastfeeding.
+p158
+aVAnd in order to have that continuing education,
+p159
+aVwe need to anchor it to cutting-edge research
+p160
+aVin both the life sciences and the social sciences,
+p161
+aVbecause we need to recognize
+p162
+aVthat too often
+p163
+aVhistorical traumas and implicit biases
+p164
+aVsit in the space between a new mother and her clinician.
+p165
+aVThe body is political.
+p166
+aVIf our breastfeeding support is not intersectional,
+p167
+aVit's not good enough.
+p168
+aVAnd for moms who have to return for work,
+p169
+aVbecause countries like the United States do not provide paid parental leave,
+p170
+aVthey can have to go back in as short as just a few days after giving birth.
+p171
+aa(lp172
+VHow do we optimize mother and infant health
+p173
+aVjust by messaging about breast milk to moms
+p174
+aVwithout providing the institutional support
+p175
+aVthat facilitates that mother-infant bonding
+p176
+aVto support breastfeeding?
+p177
+aVThe answer is: we can't.
+p178
+aVI'm talking to you, legislators,
+p179
+aVand the voters who elect them.
+p180
+aVI'm talking to you, job creators and collective bargaining units,
+p181
+aVand workers, and shareholders.
+p182
+aVWe all have a stake in the public health of our community,
+p183
+aVand we all have a role to play in achieving it.
+p184
+aVBreast milk is a part of improving human health.
+p185
+aVIn the NICU, when infants are born early or sick or injured,
+p186
+aVmilk or bioactive constituents in milk can be critically important.
+p187
+aVEnvironments or ecologies,
+p188
+aVor communities where there's high risk of infectious disease,
+p189
+aVbreast milk can be incredibly protective.
+p190
+aVWhere there are emergencies like storms and earthquakes,
+p191
+aVwhen the electricity goes out,
+p192
+aVwhen safe water is not available,
+p193
+aVbreast milk can keep babies fed and hydrated.
+p194
+aVAnd in the context of humanitarian crises,
+p195
+aVlike Syrian mothers fleeing war zones,
+p196
+aVthe smallest drops can buffer babies from the biggest global challenges.
+p197
+aa(lp198
+VBut understanding breast milk is not just about messaging to mothers
+p199
+aVand policy makers.
+p200
+aVIt's also about understanding what is important in breast milk
+p201
+aVso that we can deliver better formulas
+p202
+aVto moms who cannot or do not breastfeed for whatever reason.
+p203
+aVWe can all do a better job
+p204
+aVof supporting the diversity of moms raising their babies
+p205
+aVin a diversity of ways.
+p206
+aa(lp207
+VAs women around the world struggle
+p208
+aVto achieve political, social and economic equality,
+p209
+aVwe must reimagine motherhood
+p210
+aVas not the central, core aspect of womanhood,
+p211
+aVbut one of the many potential facets of what makes women awesome.
+p212
+aa(lp213
+VIt's time.
+p214
+aa(lp215
+V(Applause)
+p216
+aasS'id'
+p217
+I2720
+sS'title'
+p218
+VWhat we don't know about mother's milk
+p219
+s.

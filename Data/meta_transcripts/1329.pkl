@@ -1,0 +1,716 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm going to start here.
+p4
+aVThis is a hand-lettered sign
+p5
+aVthat appeared in a mom and pop bakery
+p6
+aVin my old neighborhood in Brooklyn a few years ago.
+p7
+aVThe store owned one of those machines
+p8
+aVthat can print on plates of sugar.
+p9
+aVAnd kids could bring in drawings
+p10
+aVand have the store print a sugar plate
+p11
+aVfor the top of their birthday cake.
+p12
+aa(lp13
+VBut unfortunately, one of the things kids liked to draw
+p14
+aVwas cartoon characters.
+p15
+aVThey liked to draw the Little Mermaid,
+p16
+aVthey'd like to draw a smurf, they'd like to draw Micky Mouse.
+p17
+aVBut it turns out to be illegal
+p18
+aVto print a child's drawing of Micky Mouse
+p19
+aVonto a plate of sugar.
+p20
+aVAnd it's a copyright violation.
+p21
+aVAnd policing copyright violations
+p22
+aVfor children's birthday cakes
+p23
+aVwas such a hassle
+p24
+aVthat the College Bakery said,
+p25
+aV"You know what, we're getting out of that business.
+p26
+aVIf you're an amateur,
+p27
+aVyou don't have access to our machine anymore.
+p28
+aVIf you want a printed sugar birthday cake,
+p29
+aVyou have to use one of our prefab images \u2014
+p30
+aVonly for professionals."
+p31
+aa(lp32
+VSo there's two bills in Congress right now.
+p33
+aVOne is called SOPA, the other is called PIPA.
+p34
+aVSOPA stands for the Stop Online Piracy Act.
+p35
+aVIt's from the Senate.
+p36
+aVPIPA is short for PROTECTIP,
+p37
+aVwhich is itself short for
+p38
+aVPreventing Real Online Threats
+p39
+aVto Economic Creativity
+p40
+aVand Theft of Intellectual Property \u2014
+p41
+aVbecause the congressional aides who name these things
+p42
+aVhave a lot of time on their hands.
+p43
+aVAnd what SOPA and PIPA want to do
+p44
+aVis they want to do this.
+p45
+aVThey want to raise the cost
+p46
+aVof copyright compliance
+p47
+aVto the point where people simply get out of the business
+p48
+aVof offering it as a capability to amateurs.
+p49
+aa(lp50
+VNow the way they propose to do this
+p51
+aVis to identify sites
+p52
+aVthat are substantially infringing on copyright \u2014
+p53
+aValthough how those sites are identified
+p54
+aVis never fully specified in the bills \u2014
+p55
+aVand then they want to remove them from the domain name system.
+p56
+aVThey want to take them out of the domain name system.
+p57
+aVNow the domain name system
+p58
+aVis the thing that turns human-readable names, like Google.com,
+p59
+aVinto the kinds of addresses
+p60
+aVmachines expect \u2014
+p61
+aV74.125.226.212.
+p62
+aa(lp63
+VNow the problem with this model of censorship,
+p64
+aVof identifying a site
+p65
+aVand then trying to remove it from the domain name system,
+p66
+aVis that it won't work.
+p67
+aVAnd you'd think that would be a pretty big problem for a law,
+p68
+aVbut Congress seems not to have let that bother them too much.
+p69
+aVNow the reason it won't work
+p70
+aVis that you can still type 74.125.226.212 into the browser
+p71
+aVor you can make it a clickable link
+p72
+aVand you'll still go to Google.
+p73
+aVSo the policing layer
+p74
+aVaround the problem
+p75
+aVbecomes the real threat of the act.
+p76
+aa(lp77
+VNow to understand how Congress came to write a bill
+p78
+aVthat won't accomplish its stated goals,
+p79
+aVbut will produce a lot of pernicious side effects,
+p80
+aVyou have to understand a little bit about the back story.
+p81
+aVAnd the back story is this:
+p82
+aVSOPA and PIPA, as legislation,
+p83
+aVwere drafted largely by media companies
+p84
+aVthat were founded in the 20th century.
+p85
+aVThe 20th century was a great time to be a media company,
+p86
+aVbecause the thing you really had on your side was scarcity.
+p87
+aVIf you were making a TV show,
+p88
+aVit didn't have to be better than all other TV shows ever made;
+p89
+aVit only had to be better
+p90
+aVthan the two other shows
+p91
+aVthat were on at the same time \u2014
+p92
+aVwhich is a very low threshold
+p93
+aVof competitive difficulty.
+p94
+aVWhich meant
+p95
+aVthat if you fielded average content,
+p96
+aVyou got a third of the U.S. public for free \u2014
+p97
+aVtens of millions of users
+p98
+aVfor simply doing something
+p99
+aVthat wasn't too terrible.
+p100
+aVThis is like having a license to print money
+p101
+aVand a barrel of free ink.
+p102
+aa(lp103
+VBut technology moved on, as technology is wont to do.
+p104
+aVAnd slowly, slowly, at the end of the 20th century,
+p105
+aVthat scarcity started to get eroded \u2014
+p106
+aVand I don't mean by digital technology;
+p107
+aVI mean by analog technology.
+p108
+aVCassette tapes, video cassette recorders,
+p109
+aVeven the humble Xerox machine
+p110
+aVcreated new opportunities
+p111
+aVfor us to behave in ways
+p112
+aVthat astonished the media business.
+p113
+aVBecause it turned out
+p114
+aVwe're not really couch potatoes.
+p115
+aVWe don't really like to only consume.
+p116
+aVWe do like to consume,
+p117
+aVbut every time one of these new tools came along,
+p118
+aVit turned out we also like to produce
+p119
+aVand we like to share.
+p120
+aVAnd this freaked the media businesses out \u2014
+p121
+aVit freaked them out every time.
+p122
+aVJack Valenti, who was the head lobbyist
+p123
+aVfor the Motion Picture Association of America,
+p124
+aVonce likened the ferocious video cassette recorder
+p125
+aVto Jack the Ripper
+p126
+aVand poor, helpless Hollywood
+p127
+aVto a woman at home alone.
+p128
+aVThat was the level of rhetoric.
+p129
+aa(lp130
+VAnd so the media industries
+p131
+aVbegged, insisted, demanded
+p132
+aVthat Congress do something.
+p133
+aVAnd Congress did something.
+p134
+aVBy the early 90s, Congress passed the law
+p135
+aVthat changed everything.
+p136
+aVAnd that law was called the Audio Home Recording Act
+p137
+aVof 1992.
+p138
+aVWhat the Audio Home Recording Act of 1992 said was,
+p139
+aVlook, if people are taping stuff off the radio
+p140
+aVand then making mixtapes for their friends,
+p141
+aVthat is not a crime. That's okay.
+p142
+aVTaping and remixing
+p143
+aVand sharing with your friends is okay.
+p144
+aVIf you make lots and lots of high quality copies and you sell them,
+p145
+aVthat's not okay.
+p146
+aVBut this taping business,
+p147
+aVfine, let it go.
+p148
+aVAnd they thought that they clarified the issue,
+p149
+aVbecause they'd set out a clear distinction
+p150
+aVbetween legal and illegal copying.
+p151
+aa(lp152
+VBut that wasn't what the media businesses wanted.
+p153
+aVThey had wanted Congress
+p154
+aVto outlaw copying full-stop.
+p155
+aVSo when the Audio Home Recording Act of 1992 was passed,
+p156
+aVthe media businesses gave up on the idea
+p157
+aVof legal versus illegal distinctions for copying
+p158
+aVbecause it was clear
+p159
+aVthat if Congress was acting in their framework,
+p160
+aVthey might actually increase the rights of citizens
+p161
+aVto participate in our own media environment.
+p162
+aVSo they went for plan B.
+p163
+aVIt took them a while to formulate plan B.
+p164
+aa(lp165
+VPlan B appeared in its first full-blown form
+p166
+aVin 1998 \u2014
+p167
+aVsomething called the Digital Millennium Copyright Act.
+p168
+aVIt was a complicated piece of legislation, a lot of moving parts.
+p169
+aVBut the main thrust of the DMCA
+p170
+aVwas that it was legal to sell you
+p171
+aVuncopyable digital material \u2014
+p172
+aVexcept that there's no such things as uncopyable digital material.
+p173
+aVIt would be, as Ed Felton once famously said,
+p174
+aV"Like handing out water
+p175
+aVthat wasn't wet."
+p176
+aVBits are copyable. That's what computers do.
+p177
+aVThat is a side effect of their ordinary operation.
+p178
+aa(lp179
+VSo in order to fake the ability
+p180
+aVto sell uncopyable bits,
+p181
+aVthe DMCA also made it legal
+p182
+aVto force you to use systems
+p183
+aVthat broke the copying function of your devices.
+p184
+aVEvery DVD player and game player
+p185
+aVand television and computer you brought home \u2014
+p186
+aVno matter what you thought you were getting when you bought it \u2014
+p187
+aVcould be broken by the content industries,
+p188
+aVif they wanted to set that as a condition of selling you the content.
+p189
+aVAnd to make sure you didn't realize,
+p190
+aVor didn't enact their capabilities
+p191
+aVas general purpose computing devices,
+p192
+aVthey also made it illegal
+p193
+aVfor you to try to reset
+p194
+aVthe copyability of that content.
+p195
+aVThe DMCA marks the moment
+p196
+aVwhen the media industries
+p197
+aVgave up on the legal system
+p198
+aVof distinguishing between legal and illegal copying
+p199
+aVand simply tried to prevent copying
+p200
+aVthrough technical means.
+p201
+aa(lp202
+VNow the DMCA had, and is continuing to have, a lot of complicated effects,
+p203
+aVbut in this one domain, limiting sharing,
+p204
+aVit has mostly not worked.
+p205
+aVAnd the main reason it hasn't worked
+p206
+aVis the Internet has turned out to be far more popular and far more powerful
+p207
+aVthan anyone imagined.
+p208
+aVThe mixtape, the fanzine,
+p209
+aVthat was nothing compared to what we're seeing now
+p210
+aVwith the Internet.
+p211
+aVWe are in a world
+p212
+aVwhere most American citizens
+p213
+aVover the age of 12
+p214
+aVshare things with each other online.
+p215
+aVWe share written things, we share images,
+p216
+aVwe share audio, we share video.
+p217
+aVSome of the stuff we share is stuff we've made.
+p218
+aVSome of the stuff we share is stuff we've found.
+p219
+aVSome of the stuff we share
+p220
+aVis stuff we've made out of what we've found,
+p221
+aVand all of it horrifies those industries.
+p222
+aa(lp223
+VSo PIPA and SOPA
+p224
+aVare round two.
+p225
+aVBut where the DMCA was surgical \u2014
+p226
+aVwe want to go down into your computer,
+p227
+aVwe want to go down into your television set, down into your game machine,
+p228
+aVand prevent it from doing
+p229
+aVwhat they said it would do at the store \u2014
+p230
+aVPIPA and SOPA are nuclear
+p231
+aVand they're saying, we want to go anywhere in the world
+p232
+aVand censor content.
+p233
+aVNow the mechanism, as I said, for doing this,
+p234
+aVis you need to take out anybody
+p235
+aVpointing to those IP addresses.
+p236
+aVYou need to take them out of search engines,
+p237
+aVyou need to take them out of online directories,
+p238
+aVyou need to take them out of user lists.
+p239
+aVAnd because the biggest producers of content on the Internet
+p240
+aVare not Google and Yahoo,
+p241
+aVthey're us,
+p242
+aVwe're the people getting policed.
+p243
+aVBecause in the end,
+p244
+aVthe real threat
+p245
+aVto the enactment of PIPA and SOPA
+p246
+aVis our ability to share things with one another.
+p247
+aa(lp248
+VSo what PIPA and SOPA risk doing
+p249
+aVis taking a centuries-old legal concept,
+p250
+aVinnocent until proven guilty,
+p251
+aVand reversing it \u2014
+p252
+aVguilty until proven innocent.
+p253
+aVYou can't share
+p254
+aVuntil you show us
+p255
+aVthat you're not sharing something
+p256
+aVwe don't like.
+p257
+aVSuddenly, the burden of proof for legal versus illegal
+p258
+aVfalls affirmatively on us
+p259
+aVand on the services
+p260
+aVthat might be offering us any new capabilities.
+p261
+aVAnd if it costs even a dime
+p262
+aVto police a user,
+p263
+aVthat will crush a service
+p264
+aVwith a hundred million users.
+p265
+aa(lp266
+VSo this is the Internet they have in mind.
+p267
+aVImagine this sign everywhere \u2014
+p268
+aVexcept imagine it doesn't say College Bakery,
+p269
+aVimagine it says YouTube
+p270
+aVand Facebook and Twitter.
+p271
+aVImagine it says TED,
+p272
+aVbecause the comments can't be policed
+p273
+aVat any acceptable cost.
+p274
+aVThe real effects of SOPA and PIPA
+p275
+aVare going to be different than the proposed effects.
+p276
+aVThe threat, in fact,
+p277
+aVis this inversion of the burden of proof,
+p278
+aVwhere we suddenly
+p279
+aVare all treated like thieves
+p280
+aVat every moment we're given the freedom to create,
+p281
+aVto produce or to share.
+p282
+aVAnd the people who provide those capabilities to us \u2014
+p283
+aVthe YouTubes, the Facebooks, the Twitters and TEDs \u2014
+p284
+aVare in the business
+p285
+aVof having to police us,
+p286
+aVor being on the hook for contributory infringement.
+p287
+aa(lp288
+VThere's two things you can do
+p289
+aVto help stop this \u2014
+p290
+aVa simple thing and a complicated thing,
+p291
+aVan easy thing and a hard thing.
+p292
+aVThe simple thing, the easy thing, is this:
+p293
+aVif you're an American citizen,
+p294
+aVcall your representative, call your senator.
+p295
+aVWhen you look at
+p296
+aVthe people who co-signed on the SOPA bill,
+p297
+aVpeople who've co-signed on PIPA,
+p298
+aVwhat you see is that they have cumulatively received
+p299
+aVmillions and millions of dollars
+p300
+aVfrom the traditional media industries.
+p301
+aVYou don't have millions and millions of dollars,
+p302
+aVbut you can call your representatives,
+p303
+aVand you can remind them that you vote,
+p304
+aVand you can ask not to be treated like a thief,
+p305
+aVand you can suggest that you would prefer
+p306
+aVthat the Internet not be broken.
+p307
+aa(lp308
+VAnd if you're not an American citizen,
+p309
+aVyou can contact American citizens that you know
+p310
+aVand encourage them to do the same.
+p311
+aVBecause this seems like a national issue,
+p312
+aVbut it is not.
+p313
+aVThese industries will not be content
+p314
+aVwith breaking our Internet.
+p315
+aVIf they break it, they will break it for everybody.
+p316
+aVThat's the easy thing.
+p317
+aVThat's the simple thing.
+p318
+aa(lp319
+VThe hard thing is this:
+p320
+aVget ready, because more is coming.
+p321
+aVSOPA is simply a reversion of COICA,
+p322
+aVwhich was purposed last year, which did not pass.
+p323
+aVAnd all of this goes back
+p324
+aVto the failure of the DMCA
+p325
+aVto disallow sharing as a technical means.
+p326
+aVAnd the DMCA goes back to the Audio Home Recording Act,
+p327
+aVwhich horrified those industries.
+p328
+aVBecause the whole business
+p329
+aVof actually suggesting that someone is breaking the law
+p330
+aVand then gathering evidence and proving that,
+p331
+aVthat turns out to be really inconvenient.
+p332
+aV"We'd prefer not to do that,"
+p333
+aVsays the content industries.
+p334
+aVAnd what they want is not to have to do that.
+p335
+aVThey don't want legal distinctions
+p336
+aVbetween legal and illegal sharing.
+p337
+aVThey just want the sharing to go away.
+p338
+aa(lp339
+VPIPA and SOPA are not oddities, they're not anomalies,
+p340
+aVthey're not events.
+p341
+aVThey're the next turn of this particular screw,
+p342
+aVwhich has been going on 20 years now.
+p343
+aVAnd if we defeat these, as I hope we do,
+p344
+aVmore is coming.
+p345
+aVBecause until we convince Congress
+p346
+aVthat the way to deal with copyright violation
+p347
+aVis the way copyright violation was dealt with with Napster, with YouTube,
+p348
+aVwhich is to have a trial with all the presentation of evidence
+p349
+aVand the hashing out of facts and the assessment of remedies
+p350
+aVthat goes on in democratic societies.
+p351
+aVThat's the way to handle this.
+p352
+aa(lp353
+VIn the meantime,
+p354
+aVthe hard thing to do is to be ready.
+p355
+aVBecause that's the real message of PIPA and SOPA.
+p356
+aVTime Warner has called
+p357
+aVand they want us all back on the couch,
+p358
+aVjust consuming \u2014
+p359
+aVnot producing, not sharing \u2014
+p360
+aVand we should say, "No."
+p361
+aa(lp362
+VThank you.
+p363
+aa(lp364
+V(Applause)
+p365
+aasS'id'
+p366
+I1329
+sS'title'
+p367
+VWhy SOPA is a bad idea
+p368
+s.

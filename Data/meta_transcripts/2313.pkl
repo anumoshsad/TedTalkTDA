@@ -1,0 +1,152 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhat do you do when you have a headache?
+p4
+aVYou swallow an aspirin.
+p5
+aVBut for this pill to get to your head, where the pain is,
+p6
+aVit goes through your stomach, intestines and various other organs first.
+p7
+aa(lp8
+VSwallowing pills is the most effective and painless way of delivering
+p9
+aVany medication in the body.
+p10
+aVThe downside, though, is that swallowing any medication leads to its dilution.
+p11
+aVAnd this is a big problem, particularly in HIV patients.
+p12
+aVWhen they take their anti-HIV drugs,
+p13
+aVthese drugs are good for lowering the virus in the blood,
+p14
+aVand increasing the CD4 cell counts.
+p15
+aVBut they are also notorious for their adverse side effects,
+p16
+aVbut mostly bad, because they get diluted by the time they get to the blood,
+p17
+aVand worse, by the time they get to the sites
+p18
+aVwhere it matters most: within the HIV viral reservoirs.
+p19
+aVThese areas in the body \u2014 such as the lymph nodes,
+p20
+aVthe nervous system, as well as the lungs \u2014
+p21
+aVwhere the virus is sleeping,
+p22
+aVand will not readily get delivered in the blood
+p23
+aVof patients that are under consistent anti-HIV drugs therapy.
+p24
+aVHowever, upon discontinuation of therapy,
+p25
+aVthe virus can awake and infect new cells in the blood.
+p26
+aa(lp27
+VNow, all this is a big problem in treating HIV with the current drug treatment,
+p28
+aVwhich is a life-long treatment that must be swallowed by patients.
+p29
+aVOne day, I sat and thought,
+p30
+aV"Can we deliver anti-HIV directly within its reservoir sites,
+p31
+aVwithout the risk of drug dilution?"
+p32
+aVAs a laser scientist, the answer was just before my eyes:
+p33
+aVLasers, of course.
+p34
+aVIf they can be used for dentistry,
+p35
+aVfor diabetic wound-healing and surgery,
+p36
+aVthey can be used for anything imaginable,
+p37
+aVincluding transporting drugs into cells.
+p38
+aa(lp39
+VAs a matter of fact, we are currently using laser pulses
+p40
+aVto poke or drill extremely tiny holes,
+p41
+aVwhich open and close almost immediately in HIV-infected cells,
+p42
+aVin order to deliver drugs within them.
+p43
+aV"How is that possible?" you may ask.
+p44
+aVWell, we shine a very powerful but super-tiny laser beam
+p45
+aVonto the membrane of HIV-infected cells
+p46
+aVwhile these cells are immersed in liquid containing the drug.
+p47
+aVThe laser pierces the cell, while the cell swallows the drug
+p48
+aVin a matter of microseconds.
+p49
+aVBefore you even know it,
+p50
+aVthe induced hole becomes immediately repaired.
+p51
+aa(lp52
+VNow, we are currently testing this technology in test tubes
+p53
+aVor in Petri dishes,
+p54
+aVbut the goal is to get this technology in the human body,
+p55
+aVapply it in the human body.
+p56
+aV"How is that possible?" you may ask.
+p57
+aVWell, the answer is: through a three-headed device.
+p58
+aVUsing the first head, which is our laser,
+p59
+aVwe will make an incision in the site of infection.
+p60
+aVUsing the second head, which is a camera,
+p61
+aVwe meander to the site of infection.
+p62
+aVFinally, using a third head, which is a drug-spreading sprinkler,
+p63
+aVwe deliver the drugs directly at the site of infection,
+p64
+aVwhile the laser is again used to poke those cells open.
+p65
+aa(lp66
+VWell, this might not seem like much right now.
+p67
+aVBut one day, if successful, this technology can lead
+p68
+aVto complete eradication of HIV in the body.
+p69
+aVYes. A cure for HIV.
+p70
+aVThis is every HIV researcher's dream \u2014
+p71
+aVin our case, a cure lead by lasers.
+p72
+aa(lp73
+VThank you.
+p74
+aa(lp75
+V(Applause)
+p76
+aasS'id'
+p77
+I2313
+sS'title'
+p78
+VCould we cure HIV with lasers?
+p79
+s.

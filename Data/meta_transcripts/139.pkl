@@ -1,0 +1,218 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhat I want to talk to you about today is
+p4
+aVvirtual worlds, digital globes, the 3-D Web, the Metaverse.
+p5
+aVWhat does this all mean for us?
+p6
+aVWhat it means is the Web is going to become an exciting place again.
+p7
+aVIt's going to become super exciting as we transform
+p8
+aVto this highly immersive and interactive world.
+p9
+aVWith graphics, computing power, low latencies,
+p10
+aVthese types of applications and possibilities
+p11
+aVare going to stream rich data into your lives.
+p12
+aVSo the Virtual Earth initiative, and other types of these initiatives,
+p13
+aVare all about extending our current search metaphor.
+p14
+aa(lp15
+VWhen you think about it, we're so constrained by browsing the Web,
+p16
+aVremembering URLs, saving favorites.
+p17
+aVAs we move to search, we rely on the relevance rankings,
+p18
+aVthe Web matching, the index crawling.
+p19
+aVBut we want to use our brain!
+p20
+aVWe want to navigate, explore, discover information.
+p21
+aVIn order to do that, we have to put you as a user back in the driver's seat.
+p22
+aVWe need cooperation between you and the computing network and the computer.
+p23
+aa(lp24
+VSo what better way to put you back in the driver's seat
+p25
+aVthan to put you in the real world that you interact in every day?
+p26
+aVWhy not leverage the learnings that you've been learning your entire life?
+p27
+aVSo Virtual Earth is about starting off
+p28
+aVcreating the first digital representation, comprehensive, of the entire world.
+p29
+aVWhat we want to do is mix in all types of data.
+p30
+aVTag it. Attribute it. Metadata. Get the community to add local depth,
+p31
+aVglobal perspective, local knowledge.
+p32
+aVSo when you think about this problem,
+p33
+aVwhat an enormous undertaking. Where do you begin?
+p34
+aVWell, we collect data from satellites, from airplanes,
+p35
+aVfrom ground vehicles, from people.
+p36
+aVThis process is an engineering problem,
+p37
+aVa mechanical problem, a logistical problem, an operational problem.
+p38
+aa(lp39
+VHere is an example of our aerial camera.
+p40
+aVThis is panchromatic. It's actually four color cones.
+p41
+aVIn addition, it's multi-spectral.
+p42
+aVWe collect four gigabits per second of data,
+p43
+aVif you can imagine that kind of data stream coming down.
+p44
+aVThat's equivalent to a constellation of 12 satellites at highest res capacity.
+p45
+aVWe fly these airplanes at 5,000 feet in the air.
+p46
+aVYou can see the camera on the front. We collect multiple viewpoints,
+p47
+aVvantage points, angles, textures. We bring all that data back in.
+p48
+aa(lp49
+VWe sit here \u2014 you know, think about the ground vehicles, the human scale \u2014
+p50
+aVwhat do you see in person? We need to capture that up close
+p51
+aVto establish that what it's like-type experience.
+p52
+aVI bet many of you have seen the Apple commercials,
+p53
+aVkind of poking at the PC for their brilliance and simplicity.
+p54
+aVSo a little unknown secret is \u2014
+p55
+aVdid you see the one with the guy, he's got the Web cam?
+p56
+aVThe poor PC guy. They're duct taping his head. They're just wrapping it on him.
+p57
+aVWell, a little unknown secret is his brother actually works on the Virtual Earth team.
+p58
+aV(Laughter). So they've got a little bit of a sibling rivalry thing going on here.
+p59
+aVBut let me tell you \u2014 it doesn't affect his day job.
+p60
+aa(lp61
+VWe think a lot of good can come from this technology.
+p62
+aVThis was after Katrina. We were the first commercial fleet of airplanes
+p63
+aVto be cleared into the disaster impact zone.
+p64
+aVWe flew the area. We imaged it. We sent in people. We took pictures of interiors,
+p65
+aVdisaster areas. We helped with the first responders, the search and rescue.
+p66
+aVOften the first time anyone saw what happened to their house was on Virtual Earth.
+p67
+aVWe made it all freely available on the Web, just to \u2014
+p68
+aVit was obviously our chance of helping out with the cause.
+p69
+aa(lp70
+VWhen we think about how all this comes together,
+p71
+aVit's all about software, algorithms and math.
+p72
+aVYou know, we capture this imagery but to build the 3-D models
+p73
+aVwe need to do geo-positioning. We need to do geo-registering of the images.
+p74
+aVWe have to bundle adjust them. Find tie points.
+p75
+aVExtract geometry from the images.
+p76
+aVThis process is a very calculated process.
+p77
+aVIn fact, it was always done manual.
+p78
+aVHollywood would spend millions of dollars to do a small urban corridor
+p79
+aVfor a movie because they'd have to do it manually.
+p80
+aVThey'd drive the streets with lasers called LIDAR.
+p81
+aVThey'd collected information with photos. They'd manually build each building.
+p82
+aVWe do this all through software, algorithms and math \u2014
+p83
+aVa highly automated pipeline creating these cities.
+p84
+aVWe took a decimal point off what it cost to build these cities,
+p85
+aVand that's how we're going to be able to scale this out and make this reality a dream.
+p86
+aa(lp87
+VWe think about the user interface.
+p88
+aVWhat does it mean to look at it from multiple perspectives?
+p89
+aVAn ortho-view, a nadir-view. How do you keep the precision of the fidelity of the imagery
+p90
+aVwhile maintaining the fluidity of the model?
+p91
+aVI'll wrap up by showing you the \u2014
+p92
+aVthis is a brand-new peek I haven't really shown into the lab area of Virtual Earth.
+p93
+aVWhat we're doing is \u2014 people like this a lot,
+p94
+aVthis bird's eye imagery we work with. It's this high resolution data.
+p95
+aVBut what we've found is they like the fluidity of the 3-D model.
+p96
+aVA child can navigate with an Xbox controller or a game controller.
+p97
+aa(lp98
+VSo here what we're trying to do is we bring the picture and project it into the 3-D model space.
+p99
+aVYou can see all types of resolution. From here, I can slowly pan the image over.
+p100
+aVI can get the next image. I can blend and transition.
+p101
+aVBy doing this I don't lose the original detail. In fact, I might be recording history.
+p102
+aVThe freshness, the capacity. I can turn this image.
+p103
+aVI can look at it from multiple viewpoints and angles.
+p104
+aa(lp105
+VWhat we're trying to do is build a virtual world.
+p106
+aVWe hope that we can make computing a user model you're familiar with,
+p107
+aVand really derive insights from you, from all different directions.
+p108
+aVI thank you very much for your time.
+p109
+aV(Applause)
+p110
+aasS'id'
+p111
+I139
+sS'title'
+p112
+VTour Microsoft's Virtual Earth
+p113
+s.

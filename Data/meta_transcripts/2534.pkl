@@ -1,0 +1,453 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VOnce there was a star.
+p4
+aVLike everything else, she was born;
+p5
+aVgrew to be around 30 times the mass of our sun
+p6
+aVand lived for a very long time.
+p7
+aVExactly how long,
+p8
+aVpeople cannot really tell.
+p9
+aVJust like everything in life,
+p10
+aVshe reached the end of her regular star days
+p11
+aVwhen her heart, the core of her life,
+p12
+aVexhausted its fuel.
+p13
+aVBut that was no end.
+p14
+aa(lp15
+VShe transformed into a supernova, and in the process
+p16
+aVreleasing a tremendous amount of energy,
+p17
+aVoutshining the rest of the galaxy
+p18
+aVand emitting, in one second,
+p19
+aVthe same amount of energy our sun will release in 10 days.
+p20
+aVAnd she evolved into another role in our galaxy.
+p21
+aa(lp22
+VSupernova explosions are very extreme.
+p23
+aVBut the ones that emit gamma rays are even more extreme.
+p24
+aVIn the process of becoming a supernova,
+p25
+aVthe interior of the star collapses under its own weight
+p26
+aVand it starts rotating ever faster,
+p27
+aVlike an ice skater when pulling their arms in close to their body.
+p28
+aVIn that way, it starts rotating very fast and it increases, powerfully,
+p29
+aVits magnetic field.
+p30
+aVThe matter around the star is dragged around,
+p31
+aVand some energy from that rotation is transferred to that matter
+p32
+aVand the magnetic field is increased even further.
+p33
+aVIn that way, our star had extra energy to outshine the rest of the galaxy
+p34
+aVin brightness and gamma ray emission.
+p35
+aa(lp36
+VMy star, the one in my story,
+p37
+aVbecame what is known as a magnetar.
+p38
+aVAnd just for your information,
+p39
+aVthe magnetic field of a magnetar is 1,000 trillion times
+p40
+aVthe magnetic field of Earth.
+p41
+aVThe most energetic events ever measured by astronomers
+p42
+aVcarry the name gamma-ray bursts
+p43
+aVbecause we observe them as bursts most or explosions,
+p44
+aVmost strongly measured as gamma-ray light.
+p45
+aVOur star, like the one in our story that became a magnetar,
+p46
+aVis detected as a gamma-ray burst
+p47
+aVduring the most energetic portion of the explosion.
+p48
+aVYet, even though gamma-ray bursts are the strongest events
+p49
+aVever measured by astronomers,
+p50
+aVwe cannot see them with our naked eye.
+p51
+aVWe depend, we rely on other methods
+p52
+aVin order to study this gamma-ray light.
+p53
+aVWe cannot see them with our naked eye.
+p54
+aVWe can only see an itty bitty, tiny portion
+p55
+aVof the electromagnetic spectrum that we call visible light.
+p56
+aVAnd beyond that, we rely on other methods.
+p57
+aa(lp58
+VYet as astronomers, we study a wider range of light
+p59
+aVand we depend on other methods to do that.
+p60
+aVOn the screen, it may look like this.
+p61
+aVYou're seeing a plot.
+p62
+aVThat is a light curve.
+p63
+aVIt's a plot of intensity of light over time.
+p64
+aVIt is a gamma-ray light curve.
+p65
+aVSighted astronomers depend on this kind of plot
+p66
+aVin order to interpret how this light intensity changes over time.
+p67
+aVOn the left, you will be seeing the light intensity without a burst,
+p68
+aVand on the right, you will be seeing the light intensity with the burst.
+p69
+aa(lp70
+VEarly during my career, I could also see this kind of plot.
+p71
+aVBut then, I lost my sight.
+p72
+aVI completely lost my sight because of extended illness,
+p73
+aVand with it, I lost the opportunity to see this plot
+p74
+aVand the opportunity to do my physics.
+p75
+aVIt was a very strong transition for me in many ways.
+p76
+aVAnd professionally, it left me without a way to do my science.
+p77
+aVI longed to access and scrutinize this energetic light
+p78
+aVand figure out the astrophysical cause.
+p79
+aVI wanted to experience the spacious wonder, the excitement,
+p80
+aVthe joy produced by the detection of such a titanic celestial event.
+p81
+aa(lp82
+VI thought long and hard about it,
+p83
+aVwhen I suddenly realized that all a light curve is,
+p84
+aVis a table of numbers converted into a visual plot.
+p85
+aVSo along with my collaborators,
+p86
+aVwe worked really hard and we translated the numbers into sound.
+p87
+aVI achieved access to the data,
+p88
+aVand today I'm able to do physics at the level of the best astronomer,
+p89
+aVusing sound.
+p90
+aVAnd what people have been able to do,
+p91
+aVmainly visually,
+p92
+aVfor hundreds of years,
+p93
+aVnow I do it using sound.
+p94
+aa(lp95
+V(Applause)
+p96
+aVListening to this gamma-ray burst
+p97
+aVthat you're seeing on the \u2014 (Applause continues)
+p98
+aa(lp99
+VThank you.
+p100
+aa(lp101
+VListening to this burst that you're seeing on the screen
+p102
+aVbrought something to the ear beyond the obvious burst.
+p103
+aVNow I'm going to play the burst for you.
+p104
+aVIt's not music, it's sound.
+p105
+aa(lp106
+V(Digital beeping sounds)
+p107
+aa(lp108
+VThis is scientific data converted into sound,
+p109
+aVand it's mapped in pitch.
+p110
+aVThe process is called sonification.
+p111
+aa(lp112
+VSo listening to this brought something to the ear
+p113
+aVbesides the obvious burst.
+p114
+aVWhen I examine the very strong low-frequency regions,
+p115
+aVor bass line \u2014 I'm zooming into the bass line now.
+p116
+aVWe noted resonances characteristic of electrically charged gasses
+p117
+aVlike the solar wind.
+p118
+aVAnd I want you to hear what I heard.
+p119
+aVYou will hear it as a very fast decrease in volume.
+p120
+aVAnd because you're sighted, I'm giving you a red line
+p121
+aVindicating what intensity of light is being converted into sound.
+p122
+aa(lp123
+V(Digital hum and whistling sound)
+p124
+aa(lp125
+VThe (Whistles) is frogs at home, don't pay attention to that.
+p126
+aa(lp127
+V(Laughter)
+p128
+aa(lp129
+V(Digital hum and whistling sound)
+p130
+aa(lp131
+VI think you heard it, right?
+p132
+aa(lp133
+VSo what we found
+p134
+aVis that the bursts last long enough in order to support wave resonances,
+p135
+aVwhich are things caused by exchanges of energy between particles
+p136
+aVthat may have been excited,
+p137
+aVthat depend on the volume.
+p138
+aVYou may remember that I said that the matter around the star
+p139
+aVis dragged around?
+p140
+aVIt transmits power with frequency and field distribution
+p141
+aVdetermined by the dimensions.
+p142
+aVYou may remember that we were talking about a super-massive star
+p143
+aVthat became a very strong magnetic field magnetar.
+p144
+aVIf this is the case, then outflows from the exploding star
+p145
+aVmay be associated with this gamma-ray burst.
+p146
+aa(lp147
+VWhat does that mean?
+p148
+aVThat star formation may be a very important part
+p149
+aVof these supernova explosions.
+p150
+aVListening to this very gamma-ray burst brought us to the notion
+p151
+aVthat the use of sound as an adjunctive visual display
+p152
+aVmay also support sighted astronomers
+p153
+aVin the search for more information in the data.
+p154
+aVSimultaneously, I worked on analyzing measurements from other telescopes,
+p155
+aVand my experiments demonstrated
+p156
+aVthat when you use sound as an adjunctive visual display,
+p157
+aVastronomers can find more information
+p158
+aVin this now more accessible data set.
+p159
+aVThis ability to transform data into sound
+p160
+aVgives astronomy a tremendous power of transformation.
+p161
+aVAnd the fact that a field that is so visual may be improved
+p162
+aVin order to include anyone with interest in understanding what lies in the heavens
+p163
+aVis a spirit-lifter.
+p164
+aa(lp165
+VWhen I lost my sight,
+p166
+aVI noticed that I didn't have access
+p167
+aVto the same amount and quality of information
+p168
+aVa sighted astronomer had.
+p169
+aVIt was not until we innovated with the sonification process
+p170
+aVthat I regained the hope to be a productive member of the field
+p171
+aVthat I had worked so hard to be part of.
+p172
+aa(lp173
+VYet, information access is not the only area in astronomy
+p174
+aVwhere this is important.
+p175
+aVThe situation is systemic
+p176
+aVand scientific fields are not keeping up.
+p177
+aVThe body is something changeable \u2014
+p178
+aVanyone may develop a disability at any point.
+p179
+aVLet's think about, for example,
+p180
+aVscientists that are already at the top of their careers.
+p181
+aVWhat happens to them if they develop a disability?
+p182
+aVWill they feel excommunicated as I did?
+p183
+aVInformation access empowers us to flourish.
+p184
+aVIt gives us equal opportunities to display our talents
+p185
+aVand choose what we want to do with our lives,
+p186
+aVbased on interest and not based on potential barriers.
+p187
+aVWhen we give people the opportunity to succeed without limits,
+p188
+aVthat will lead to personal fulfillment and prospering life.
+p189
+aVAnd I think that the use of sound in astronomy
+p190
+aVis helping us to achieve that and to contribute to science.
+p191
+aa(lp192
+VWhile other countries told me that the study of perception techniques
+p193
+aVin order to study astronomy data is not relevant to astronomy
+p194
+aVbecause there are no blind astronomers in the field,
+p195
+aVSouth Africa said, "We want people with disabilities
+p196
+aVto contribute to the field."
+p197
+aVRight now, I'm working
+p198
+aVat the South African Astronomical Observatory,
+p199
+aVat the Office of Astronomy for Development.
+p200
+aVThere, we are working on sonification techniques and analysis methods
+p201
+aVto impact the students of the Athlone School for the Blind.
+p202
+aVThese students will be learning radio astronomy,
+p203
+aVand they will be learning the sonification methods
+p204
+aVin order to study astronomical events like huge ejections of energy
+p205
+aVfrom the sun, known as coronal mass ejections.
+p206
+aVWhat we learn with these students \u2014
+p207
+aVthese students have multiple disabilities and coping strategies
+p208
+aVthat will be accommodated \u2014
+p209
+aVwhat we learn with these students will directly impact
+p210
+aVthe way things are being done at the professional level.
+p211
+aVI humbly call this development.
+p212
+aVAnd this is happening right now.
+p213
+aa(lp214
+VI think that science is for everyone.
+p215
+aVIt belongs to the people,
+p216
+aVand it has to be available to everyone,
+p217
+aVbecause we are all natural explorers.
+p218
+aVI think that if we limit people with disabilities
+p219
+aVfrom participating in science,
+p220
+aVwe'll sever our links with history and with society.
+p221
+aVI dream of a level scientific playing field,
+p222
+aVwhere people encourage respect and respect each other,
+p223
+aVwhere people exchange strategies and discover together.
+p224
+aVIf people with disabilities are allowed into the scientific field,
+p225
+aVan explosion, a huge titanic burst of knowledge will take place,
+p226
+aVI am sure.
+p227
+aa(lp228
+V(Digital beeping sounds)
+p229
+aa(lp230
+VThat is the titanic burst.
+p231
+aa(lp232
+VThank you.
+p233
+aa(lp234
+VThank you.
+p235
+aa(lp236
+V(Applause)
+p237
+aasS'id'
+p238
+I2534
+sS'title'
+p239
+VHow a blind astronomer found a way to hear the stars
+p240
+s.

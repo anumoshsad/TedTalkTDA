@@ -1,0 +1,691 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI've spent my life working on sustainability.
+p4
+aVI set up a climate change NGO
+p5
+aVcalled The Climate Group.
+p6
+aVI worked on forestry issues in WWF.
+p7
+aVI worked on development and agriculture issues
+p8
+aVin the U.N. system.
+p9
+aVAbout 25 years in total,
+p10
+aVand then three years ago, I found myself talking to
+p11
+aVIKEA's CEO about joining his team.
+p12
+aVLike many people here, well,
+p13
+aVI want to maximize my personal impact in the world,
+p14
+aVso I'm going to explain why I joined the team there.
+p15
+aa(lp16
+VBut first, let's just take three numbers.
+p17
+aa(lp18
+VThe first number is three:
+p19
+aVthree billion people.
+p20
+aVThis is the number of people joining
+p21
+aVthe global middle class by 2030,
+p22
+aVcoming out of poverty.
+p23
+aVIt's fantastic for them and their families,
+p24
+aVbut we've got two billion people in the global middle class today,
+p25
+aVand this swells that number to five,
+p26
+aVa big challenge when we already have resource scarcity.
+p27
+aa(lp28
+VThe second number is six:
+p29
+aVThis is six degrees centigrade,
+p30
+aVwhat we're heading towards in terms of global warming.
+p31
+aVWe're not heading towards one degree or three degrees
+p32
+aVor four degrees, we're heading toward six degrees.
+p33
+aVAnd if you think about it, all of the weird weather
+p34
+aVwe've been having the last few years,
+p35
+aVmuch of that is due to just one degree warming,
+p36
+aVand we need CO2 emissions to peak
+p37
+aVby the end of this decade globally
+p38
+aVand then come down.
+p39
+aVIt's not inevitable, but we need to act decisively.
+p40
+aa(lp41
+VThe third number is 12:
+p42
+aVThat's the number of cities in the world
+p43
+aVthat had a million or more people
+p44
+aVwhen my grandmother was born.
+p45
+aVYou can see my grandmother there.
+p46
+aVThat was in the beginning of the last century.
+p47
+aVSo just 12 cities. She was born in Manchester, England,
+p48
+aVthe ninth largest city in the world.
+p49
+aVNow there are 500 cities, nearly,
+p50
+aVwith a million people or more in them.
+p51
+aVAnd if you look at the century from 1950 to 2050,
+p52
+aVthat's the century when we build all the world's cities,
+p53
+aVthe century that we're in the middle of right now.
+p54
+aVEvery other century was kind of practice,
+p55
+aVand this lays down a blueprint for how we live.
+p56
+aa(lp57
+VSo think about it.
+p58
+aVWe're building cities like never before,
+p59
+aVbringing people out of poverty like never before,
+p60
+aVand changing the climate like never before.
+p61
+aVSustainability has gone from a nice-to-do
+p62
+aVto a must-do.
+p63
+aVit's about what we do right here, right now,
+p64
+aVand for the rest of our working lives.
+p65
+aa(lp66
+VSo I'm going to talk a little bit about
+p67
+aVwhat business can do
+p68
+aVand what a business like IKEA can do,
+p69
+aVand we have a sustainability strategy
+p70
+aVcalled "people and planet positive"
+p71
+aVto help guide our business to have a positive impact on the world.
+p72
+aVWhy would we not want to have a positive impact
+p73
+aVon the world as a business?
+p74
+aVOther companies have sustainability strategies.
+p75
+aVI'm going to refer to some of those as well,
+p76
+aVand I'm just going to mention a few
+p77
+aVof the commitments as illustrations that we've got.
+p78
+aa(lp79
+VBut first, let's think of customers.
+p80
+aVWe know from asking people from China to the U.S.
+p81
+aVthat the vast majority of people care about sustainability
+p82
+aVafter the day-to-day issues,
+p83
+aVthe day-to-day issues of, how do I get my kids to school?
+p84
+aVCan I pay the bills at the end of the month?
+p85
+aVThen they care about big issues like climate change.
+p86
+aVBut they want it to be easy, affordable and attractive,
+p87
+aVand they expect business to help,
+p88
+aVand they're a little bit disappointed today.
+p89
+aa(lp90
+VSo take your mind back and think
+p91
+aVof the first sustainable products.
+p92
+aVWe had detergents that could wash your whites grayer.
+p93
+aVWe had the early energy-efficient light bulbs
+p94
+aVthat took five minutes to warm up
+p95
+aVand then you were left looking a kind of sickly color.
+p96
+aVAnd we had the rough, recycled toilet paper.
+p97
+aVSo every time you pulled on a t-shirt,
+p98
+aVor switched the light on, or went to the bathroom,
+p99
+aVor sometimes all three together,
+p100
+aVyou were reminded sustainability was about compromise.
+p101
+aVIt wasn't a great start.
+p102
+aa(lp103
+VToday we have choices.
+p104
+aVWe can make products that are beautiful or ugly,
+p105
+aVsustainable or unsustainable, affordable or expensive,
+p106
+aVfunctional or useless.
+p107
+aVSo let's make beautiful, functional, affordable,
+p108
+aVsustainable products.
+p109
+aa(lp110
+VLet's take the LED.
+p111
+aVThe LED is the next best thing to daylight.
+p112
+aVThe old-fashioned lightbulbs, the incandescent bulbs \u2014
+p113
+aVI'm not going to ask for a show of hands
+p114
+aVof how many of you still have them in your homes,
+p115
+aVwasting energy every time you switch them on \u2014
+p116
+aVchange them after this \u2014
+p117
+aVor whether we have them on the stage here at TED or not \u2014
+p118
+aVbut those old incandescent light bulbs
+p119
+aVreally should have been sold as heaters.
+p120
+aVThey were mis-sold for more than a hundred years.
+p121
+aVThey produced heat and a little bit of light on the side.
+p122
+aVNow we have lights that produce light
+p123
+aVand a little bit of heat on the side.
+p124
+aVYou save 85 percent of the electricity with an LED
+p125
+aVthat you would have done in an old incandescent.
+p126
+aVAnd the best thing is, they'll also last
+p127
+aVfor more than 20 years.
+p128
+aVSo think about that.
+p129
+aVYou'll change your smartphone seven or eight times,
+p130
+aVprobably more if you're in this audience.
+p131
+aVYou'll change your car, if you have one, three or four times.
+p132
+aVYour kids could go to school, go to college,
+p133
+aVgo away and have kids of their own, come back,
+p134
+aVbring the grandkids,
+p135
+aVyou'll have the same lightbulb saving you energy.
+p136
+aVSo LEDs are fantastic.
+p137
+aVWhat we decided to do
+p138
+aVwas not to sell LEDs on the side marked up high
+p139
+aVand continue to push all the old bulbs,
+p140
+aVthe halogens and the CFLs.
+p141
+aVWe decided, over the next two years,
+p142
+aVwe will ban the halogens and the CFLs ourselves.
+p143
+aVWe will go all in.
+p144
+aVAnd this is what business needs to do: go all-in,
+p145
+aVgo 100 percent,
+p146
+aVbecause then you stop investing in the old stuff,
+p147
+aVyou invest in the new stuff, you lower costs,
+p148
+aVyou use your supply chain and your creativity
+p149
+aVand you get the prices down so everybody can afford
+p150
+aVthe best lights so they can save energy.
+p151
+aa(lp152
+V(Applause)
+p153
+aa(lp154
+VIt's not just about products in people's homes.
+p155
+aVWe've got to think about the raw materials
+p156
+aVthat produce our products.
+p157
+aVObviously there's fantastic opportunities
+p158
+aVwith recycled materials,
+p159
+aVand we can and will go zero waste.
+p160
+aVAnd there's opportunities in a circular economy.
+p161
+aVBut we're still dependent on natural, raw materials.
+p162
+aVLet's take cotton.
+p163
+aVCotton's brilliant. Probably many people
+p164
+aVare wearing cotton right now.
+p165
+aVIt's a brilliant textile in use.
+p166
+aVIt's really dirty in production.
+p167
+aVIt uses lots of pesticides, lots of fertilizer, lots of water.
+p168
+aVSo we've worked with others,
+p169
+aVwith other businesses and NGOs,
+p170
+aVon the Better Cotton Initiative,
+p171
+aVworking right back down to the farm,
+p172
+aVand there you can halve the amount of water
+p173
+aVand halve the chemical inputs,
+p174
+aVthe yields increase, and 60 percent of the costs
+p175
+aVof running many of these farms
+p176
+aVwith farmers with low incomes
+p177
+aVcan be chemical imports.
+p178
+aVYields increase, and you halve the input costs.
+p179
+aVFarmers are coming out of poverty. They love it.
+p180
+aVAlready hundreds of thousands of farmers
+p181
+aVhave been reached,
+p182
+aVand now we've got 60 percent better cotton in our business.
+p183
+aVAgain, we're going all-in.
+p184
+aVBy 2015, we'll be 100 percent Better Cotton.
+p185
+aa(lp186
+VTake the topic of 100 percent targets, actually.
+p187
+aVPeople sometimes think that
+p188
+aV100 percent's going to be hard,
+p189
+aVand we've had the conversation in the business.
+p190
+aVActually, we found 100 percent is easier to do
+p191
+aVthan 90 percent or 50 percent.
+p192
+aVIf you have a 90 percent target,
+p193
+aVeveryone in the business finds a reason
+p194
+aVto be in the 10 percent.
+p195
+aVWhen it's 100 percent, it's kind of clear,
+p196
+aVand businesspeople like clarity,
+p197
+aVbecause then you just get the job done.
+p198
+aa(lp199
+VSo, wood. We know with forestry, it's a choice.
+p200
+aVYou've got illegal logging
+p201
+aVand deforestation still on a very large scale,
+p202
+aVor you can have fantastic, responsible forestry
+p203
+aVthat we can be proud of.
+p204
+aVIt's a simple choice, so we've worked
+p205
+aVfor many years with the Forest Stewardship Council,
+p206
+aVwith literally hundreds of other organizations,
+p207
+aVand there's a point here about collaboration.
+p208
+aVSo hundreds of others, of NGOs,
+p209
+aVof forest workers' unions, and of businesses,
+p210
+aVhave helped create the Forest Stewardship Council,
+p211
+aVwhich sets standards for forestry
+p212
+aVand then checks the forestry's good on the ground.
+p213
+aVNow together, through our supply chain,
+p214
+aVwith partners, we've managed to certify
+p215
+aV35 million hectares of forestry.
+p216
+aVThat's about the size of Germany.
+p217
+aVAnd we've decided in the next three years,
+p218
+aVwe will double the volume of certified material
+p219
+aVwe put through our business.
+p220
+aVSo be decisive on these issues.
+p221
+aVUse your supply chain to drive good.
+p222
+aa(lp223
+VBut then it comes to your operations.
+p224
+aVSome things are certain, I think.
+p225
+aVWe know we'll use electricity in 20 or 30 years' time.
+p226
+aVWe know the sun will be shining somewhere,
+p227
+aVand the wind will still be blowing in 20 or 30 years' time.
+p228
+aVSo why not make our energy out of the sun and the wind?
+p229
+aVAnd why not take control of it ourselves?
+p230
+aVSo we're going 100 percent renewable.
+p231
+aVBy 2020, we'll produce more renewable energy
+p232
+aVthan the energy we consume as a business.
+p233
+aVFor all of our stores, our own factories,
+p234
+aVour distribution centers,
+p235
+aVwe've installed 300,000 solar panels so far,
+p236
+aVand we've got 14 wind farms we own and operate
+p237
+aVin six countries, and we're not done yet.
+p238
+aVBut think of a solar panel.
+p239
+aVA solar panel pays for itself in seven or eight years.
+p240
+aVThe electricity is free.
+p241
+aVEvery time the sun comes out after that,
+p242
+aVthe electricity is free.
+p243
+aVSo this is a good thing for the CFO,
+p244
+aVnot just the sustainability guy.
+p245
+aVEvery business can do things like this.
+p246
+aa(lp247
+VBut then we've got to look beyond our operations,
+p248
+aVand I think everybody would agree
+p249
+aVthat now business has to take full responsibility
+p250
+aVfor the impacts of your supply chain.
+p251
+aVMany businesses now, fortunately,
+p252
+aVhave codes of conduct and audit their supply chains,
+p253
+aVbut not every business. Far from it.
+p254
+aVAnd this came in IKEA actually in the '90s.
+p255
+aVWe found there was a risk
+p256
+aVof child labor in the supply chain,
+p257
+aVand people in the business were shocked.
+p258
+aVAnd it was clearly totally unacceptable, so then you have to act.
+p259
+aVSo a code of conduct was developed,
+p260
+aVand now we have 80 auditors out in the world
+p261
+aVevery day making sure all our factories
+p262
+aVsecure good working conditions
+p263
+aVand protect human rights
+p264
+aVand make sure there is no child labor.
+p265
+aa(lp266
+VBut it's not just as simple as making sure
+p267
+aVthere's no child labor.
+p268
+aVYou've got to say that's not enough today.
+p269
+aVI think we'd all agree that children
+p270
+aVare the most important people in the world
+p271
+aVand the most vulnerable.
+p272
+aVSo what can a business do today
+p273
+aVto actually use your total value chain
+p274
+aVto support a better quality of life
+p275
+aVand protect child rights?
+p276
+aVWe've worked with UNICEF and Save the Children
+p277
+aVon developing some new business principles
+p278
+aVwith children's rights.
+p279
+aVIncreasing numbers of businesses
+p280
+aVare signing up to these,
+p281
+aVbut actually in a survey, many business leaders
+p282
+aVsaid they thought their business had nothing to do with children.
+p283
+aVSo what we decided to do was, we will look
+p284
+aVand ask ourselves the tough questions
+p285
+aVwith partners who know more than us,
+p286
+aVwhat can we do to go beyond our business
+p287
+aVto help improve the lives of children?
+p288
+aVWe also have a foundation
+p289
+aVthat's committed to work through partners
+p290
+aVand help improve the lives and protect the rights
+p291
+aVof 100 million children by 2015.
+p292
+aa(lp293
+VYou know the phrase,
+p294
+aVyou can manage what you measure?
+p295
+aVWell, you should measure what you care about.
+p296
+aVIf you're not measuring things,
+p297
+aVyou don't care and you don't know.
+p298
+aVSo let's take an example, measure the things
+p299
+aVthat are important in your business.
+p300
+aVIsn't it about time that businesses
+p301
+aVwere led equally by men and women?
+p302
+aa(lp303
+V(Applause)
+p304
+aa(lp305
+VSo we know for our 17,000 managers across IKEA
+p306
+aVthat 47 percent are women today,
+p307
+aVbut it's not enough, and we want to close the gap
+p308
+aVand follow it all the way through to senior management.
+p309
+aVAnd we do not want to wait another hundred years.
+p310
+aVSo we've launched a women's open network
+p311
+aVthis week in IKEA,
+p312
+aVand we'll do whatever it takes to lead the change.
+p313
+aVSo the message here is,
+p314
+aVmeasure what you care about and lead the change,
+p315
+aVand don't wait a hundred years.
+p316
+aa(lp317
+VSo we've gone from sustainability
+p318
+aVbeing a nice-to-do to a must-do. It's a must-do.
+p319
+aVIt's still nice to do, but it's a must-do.
+p320
+aVAnd everybody can do something on this as an individual.
+p321
+aVBe a discerning consumer.
+p322
+aVVote with your wallets.
+p323
+aVSearch out the companies
+p324
+aVthat are acting on this.
+p325
+aVBut also, there are other businesses already acting.
+p326
+aVI mentioned renewable energy.
+p327
+aVYou go to Google or Lego,
+p328
+aVthey're going 100 percent renewable too,
+p329
+aVin the same way that we are.
+p330
+aVOn having really good sustainability strategies,
+p331
+aVthere are companies like Nike, Patagonia,
+p332
+aVTimberland, Marks & Spencer.
+p333
+aVBut I don't think any of those businesses would say
+p334
+aVthey're perfect. We certainly wouldn't.
+p335
+aVWe'll make mistakes going forward,
+p336
+aVbut it's about setting a clear direction, being transparent,
+p337
+aVhaving a dialogue with the right partners,
+p338
+aVand choosing to lead on the issues that really count.
+p339
+aa(lp340
+VSo if you're a business leader,
+p341
+aVif you're not already weaving sustainability
+p342
+aVright into the heart of your business model,
+p343
+aVI'd urge you to do so.
+p344
+aVAnd together, we can help create
+p345
+aVa sustainable world,
+p346
+aVand, if we get it right,
+p347
+aVwe can make sustainability
+p348
+aVaffordable for the many people,
+p349
+aVnot a luxury for the few.
+p350
+aa(lp351
+VThank you.
+p352
+aa(lp353
+V(Applause)
+p354
+aasS'id'
+p355
+I1850
+sS'title'
+p356
+VLet's go all-in on selling sustainability
+p357
+s.

@@ -1,0 +1,410 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VInformation technology grows in an exponential manner.
+p4
+aVIt's not linear. And our intuition is linear.
+p5
+aVWhen we walked through the savanna a thousand years ago
+p6
+aVwe made linear predictions where that animal would be,
+p7
+aVand that worked fine. It's hardwired in our brains.
+p8
+aVBut the pace of exponential growth
+p9
+aVis really what describes information technologies.
+p10
+aVAnd it's not just computation.
+p11
+aVThere is a big difference between linear and exponential growth.
+p12
+aVIf I take 30 steps linearly \u2014 one, two, three, four, five \u2014
+p13
+aVI get to 30.
+p14
+aVIf I take 30 steps exponentially \u2014 two, four, eight, 16 \u2014
+p15
+aVI get to a billion.
+p16
+aVIt makes a huge difference.
+p17
+aVAnd that really describes information technology.
+p18
+aa(lp19
+VWhen I was a student at MIT,
+p20
+aVwe all shared one computer that took up a whole building.
+p21
+aVThe computer in your cellphone today is a million times cheaper,
+p22
+aVa million times smaller,
+p23
+aVa thousand times more powerful.
+p24
+aVThat's a billion-fold increase in capability per dollar
+p25
+aVthat we've actually experienced since I was a student.
+p26
+aVAnd we're going to do it again in the next 25 years.
+p27
+aVInformation technology progresses
+p28
+aVthrough a series of S-curves
+p29
+aVwhere each one is a different paradigm.
+p30
+aVSo people say, "What's going to happen when Moore's Law comes to an end?"
+p31
+aVWhich will happen around 2020.
+p32
+aVWe'll then go to the next paradigm.
+p33
+aVAnd Moore's Law was not the first paradigm
+p34
+aVto bring exponential growth to computing.
+p35
+aVThe exponential growth of computing started
+p36
+aVdecades before Gordon Moore was even born.
+p37
+aVAnd it doesn't just apply to computation.
+p38
+aVIt's really any technology where we can measure
+p39
+aVthe underlying information properties.
+p40
+aa(lp41
+VHere we have 49 famous computers. I put them in a logarithmic graph.
+p42
+aVThe logarithmic scale hides the scale of the increase,
+p43
+aVbecause this represents trillions-fold increase
+p44
+aVsince the 1890 census.
+p45
+aVIn 1950s they were shrinking vacuum tubes,
+p46
+aVmaking them smaller and smaller. They finally hit a wall;
+p47
+aVthey couldn't shrink the vacuum tube any more and keep the vacuum.
+p48
+aVAnd that was the end of the shrinking of vacuum tubes,
+p49
+aVbut it was not the end of the exponential growth of computing.
+p50
+aVWe went to the fourth paradigm, transistors,
+p51
+aVand finally integrated circuits.
+p52
+aVWhen that comes to an end we'll go to the sixth paradigm;
+p53
+aVthree-dimensional self-organizing molecular circuits.
+p54
+aa(lp55
+VBut what's even more amazing, really, than this
+p56
+aVfantastic scale of progress,
+p57
+aVis that \u2014 look at how predictable this is.
+p58
+aVI mean this went through thick and thin,
+p59
+aVthrough war and peace, through boom times and recessions.
+p60
+aVThe Great Depression made not a dent in this exponential progression.
+p61
+aVWe'll see the same thing in the economic recession we're having now.
+p62
+aVAt least the exponential growth of information technology capability
+p63
+aVwill continue unabated.
+p64
+aa(lp65
+VAnd I just updated these graphs.
+p66
+aVBecause I had them through 2002 in my book, "The Singularity is Near."
+p67
+aVSo we updated them,
+p68
+aVso I could present it here, to 2007.
+p69
+aVAnd I was asked, "Well aren't you nervous?
+p70
+aVMaybe it kind of didn't stay on this exponential progression."
+p71
+aVI was a little nervous
+p72
+aVbecause maybe the data wouldn't be right,
+p73
+aVbut I've done this now for 30 years,
+p74
+aVand it has stayed on this exponential progression.
+p75
+aa(lp76
+VLook at this graph here.You could buy one transistor for a dollar in 1968.
+p77
+aVYou can buy half a billion today,
+p78
+aVand they are actually better, because they are faster.
+p79
+aVBut look at how predictable this is.
+p80
+aVAnd I'd say this knowledge is over-fitting to past data.
+p81
+aVI've been making these forward-looking predictions for about 30 years.
+p82
+aVAnd the cost of a transistor cycle,
+p83
+aVwhich is a measure of the price performance of electronics,
+p84
+aVcomes down about every year.
+p85
+aVThat's a 50 percent deflation rate.
+p86
+aVAnd it's also true of other examples,
+p87
+aVlike DNA data or brain data.
+p88
+aVBut we more than make up for that.
+p89
+aVWe actually ship more than twice as much
+p90
+aVof every form of information technology.
+p91
+aVWe've had 18 percent growth in constant dollars
+p92
+aVin every form of information technology for the last half-century,
+p93
+aVdespite the fact that you can get twice as much of it each year.
+p94
+aa(lp95
+VThis is a completely different example.
+p96
+aVThis is not Moore's Law.
+p97
+aVThe amount of DNA data
+p98
+aVwe've sequenced has doubled every year.
+p99
+aVThe cost has come down by half every year.
+p100
+aVAnd this has been a smooth progression
+p101
+aVsince the beginning of the genome project.
+p102
+aVAnd halfway through the project, skeptics said,
+p103
+aV"Well, this is not working out. You're halfway through the genome project
+p104
+aVand you've finished one percent of the project."
+p105
+aVBut that was really right on schedule.
+p106
+aVBecause if you double one percent seven more times,
+p107
+aVwhich is exactly what happened,
+p108
+aVyou get 100 percent. And the project was finished on time.
+p109
+aa(lp110
+VCommunication technologies:
+p111
+aV50 different ways to measure this,
+p112
+aVthe number of bits being moved around, the size of the Internet.
+p113
+aVBut this has progressed at an exponential pace.
+p114
+aVThis is deeply democratizing.
+p115
+aVI wrote, over 20 years ago in "The Age of Intelligent Machines,"
+p116
+aVwhen the Soviet Union was going strong, that it would be swept away
+p117
+aVby this growth of decentralized communication.
+p118
+aa(lp119
+VAnd we will have plenty of computation as we go through the 21st century
+p120
+aVto do things like simulate regions of the human brain.
+p121
+aVBut where will we get the software?
+p122
+aVSome critics say, "Oh, well software is stuck in the mud."
+p123
+aVBut we are learning more and more about the human brain.
+p124
+aVSpatial resolution of brain scanning is doubling every year.
+p125
+aVThe amount of data we're getting about the brain is doubling every year.
+p126
+aVAnd we're showing that we can actually turn this data
+p127
+aVinto working models and simulations of brain regions.
+p128
+aa(lp129
+VThere is about 20 regions of the brain that have been modeled,
+p130
+aVsimulated and tested:
+p131
+aVthe auditory cortex, regions of the visual cortex;
+p132
+aVcerebellum, where we do our skill formation;
+p133
+aVslices of the cerebral cortex, where we do our rational thinking.
+p134
+aVAnd all of this has fueled
+p135
+aVan increase, very smooth and predictable, of productivity.
+p136
+aVWe've gone from 30 dollars to 130 dollars
+p137
+aVin constant dollars in the value of an average hour of human labor,
+p138
+aVfueled by this information technology.
+p139
+aa(lp140
+VAnd we're all concerned about energy and the environment.
+p141
+aVWell this is a logarithmic graph.
+p142
+aVThis represents a smooth doubling,
+p143
+aVevery two years, of the amount of solar energy we're creating,
+p144
+aVparticularly as we're now applying nanotechnology,
+p145
+aVa form of information technology, to solar panels.
+p146
+aVAnd we're only eight doublings away
+p147
+aVfrom it meeting 100 percent of our energy needs.
+p148
+aVAnd there is 10 thousand times more sunlight than we need.
+p149
+aa(lp150
+VWe ultimately will merge with this technology. It's already very close to us.
+p151
+aVWhen I was a student it was across campus, now it's in our pockets.
+p152
+aVWhat used to take up a building now fits in our pockets.
+p153
+aVWhat now fits in our pockets would fit in a blood cell in 25 years.
+p154
+aVAnd we will begin to actually deeply influence
+p155
+aVour health and our intelligence,
+p156
+aVas we get closer and closer to this technology.
+p157
+aa(lp158
+VBased on that we are announcing, here at TED,
+p159
+aVin true TED tradition, Singularity University.
+p160
+aVIt's a new university
+p161
+aVthat's founded by Peter Diamandis, who is here in the audience,
+p162
+aVand myself.
+p163
+aVIt's backed by NASA and Google,
+p164
+aVand other leaders in the high-tech and science community.
+p165
+aVAnd our goal was to assemble the leaders,
+p166
+aVboth teachers and students,
+p167
+aVin these exponentially growing information technologies,
+p168
+aVand their application.
+p169
+aVBut Larry Page made an impassioned speech
+p170
+aVat our organizing meeting,
+p171
+aVsaying we should devote this study
+p172
+aVto actually addressing some of the major challenges facing humanity.
+p173
+aVAnd if we did that, then Google would back this.
+p174
+aVAnd so that's what we've done.
+p175
+aa(lp176
+VThe last third of the nine-week intensive summer session
+p177
+aVwill be devoted to a group project to address
+p178
+aVsome major challenge of humanity.
+p179
+aVLike for example, applying the Internet,
+p180
+aVwhich is now ubiquitous, in the rural areas of China or in Africa,
+p181
+aVto bringing health information
+p182
+aVto developing areas of the world.
+p183
+aVAnd these projects will continue past these sessions,
+p184
+aVusing collaborative interactive communication.
+p185
+aVAll the intellectual property that is created and taught
+p186
+aVwill be online and available,
+p187
+aVand developed online in a collaborative fashion.
+p188
+aa(lp189
+VHere is our founding meeting.
+p190
+aVBut this is being announced today.
+p191
+aVIt will be permanently headquartered in Silicon Valley,
+p192
+aVat the NASA Ames research center.
+p193
+aVThere are different programs for graduate students,
+p194
+aVfor executives at different companies.
+p195
+aVThe first six tracks here \u2014 artificial intelligence,
+p196
+aVadvanced computing technologies, biotechnology, nanotechnology \u2014
+p197
+aVare the different core areas of information technology.
+p198
+aVThen we are going to apply them to the other areas,
+p199
+aVlike energy, ecology,
+p200
+aVpolicy law and ethics, entrepreneurship,
+p201
+aVso that people can bring these new technologies to the world.
+p202
+aa(lp203
+VSo we're very appreciative of the support we've gotten
+p204
+aVfrom both the intellectual leaders, the high-tech leaders,
+p205
+aVparticularly Google and NASA.
+p206
+aVThis is an exciting new venture.
+p207
+aVAnd we invite you to participate. Thank you very much.
+p208
+aV(Applause)
+p209
+aasS'id'
+p210
+I560
+sS'title'
+p211
+VA university for the coming singularity
+p212
+s.

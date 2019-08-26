@@ -1,0 +1,446 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThe 2011 Arab Spring
+p4
+aVcaptured the attention of the world.
+p5
+aVIt also captured the attention
+p6
+aVof authoritarian governments in other countries,
+p7
+aVwho were worried that revolution would spread.
+p8
+aVTo respond, they ramped up surveillance
+p9
+aVof activists, journalists and dissidents
+p10
+aVwho they feared would inspire revolution
+p11
+aVin their own countries.
+p12
+aVOne prominent Bahraini activist,
+p13
+aVwho was arrested and tortured by his government,
+p14
+aVhas said that the interrogators showed him
+p15
+aVtranscripts of his telephone calls
+p16
+aVand text messages.
+p17
+aa(lp18
+VOf course, it's no secret
+p19
+aVthat governments are able to intercept telephone calls and text messages.
+p20
+aVIt's for that reason that many activists
+p21
+aVspecifically avoid using the telephone.
+p22
+aVInstead, they use tools like Skype,
+p23
+aVwhich they think are immune to interception.
+p24
+aVThey're wrong.
+p25
+aVThere have now been over the last few years
+p26
+aVan industry of companies
+p27
+aVwho provide surveillance technology to governments,
+p28
+aVspecifically technology that allows those governments
+p29
+aVto hack into the computers
+p30
+aVof surveillance targets.
+p31
+aVRather than intercepting the communications  as they go over the wire,
+p32
+aVinstead they now hack into your computer,
+p33
+aVenable your webcam, enable your microphone,
+p34
+aVand steal documents from your computer.
+p35
+aa(lp36
+VWhen the government of Egypt fell in 2011,
+p37
+aVactivists raided the office of the secret police,
+p38
+aVand among the many documents they found
+p39
+aVwas this document by the Gamma Corporation,
+p40
+aVby Gamma International.
+p41
+aVGamma is a German company
+p42
+aVthat manufactures surveillance software
+p43
+aVand sells it only to governments.
+p44
+aVIt's important to note that most governments
+p45
+aVdon't really have the in-house capabilities
+p46
+aVto develop this software.
+p47
+aVSmaller ones don't have the resources
+p48
+aVor the expertise,
+p49
+aVand so there's this market of Western companies
+p50
+aVwho are happy to supply them with the tools
+p51
+aVand techniques for a price.
+p52
+aVGamma is just one of these companies.
+p53
+aVI should note also that Gamma never actually sold
+p54
+aVtheir software to the Egyptian government.
+p55
+aVThey'd sent them an invoice for a sale,
+p56
+aVbut the Egyptians never bought it.
+p57
+aVInstead, apparently, the Egyptian government
+p58
+aVused a free demo version of Gamma's software.
+p59
+aV(Laughter)
+p60
+aa(lp61
+VSo this screenshot is from a sales video
+p62
+aVthat Gamma produced.
+p63
+aVReally, they're just emphasizing
+p64
+aVin a relatively slick presentation
+p65
+aVthe fact that the police can sort of sit
+p66
+aVin an air-conditioned office
+p67
+aVand remotely monitor someone
+p68
+aVwithout them having any idea that it's going on.
+p69
+aVYou know, your webcam light won't turn on.
+p70
+aVThere's nothing to indicate that the microphone is enabled.
+p71
+aa(lp72
+VThis is the managing director of Gamma International.
+p73
+aVHis name is Martin Muench.
+p74
+aVThere are many photos of Mr. Muench that exist.
+p75
+aVThis is perhaps my favorite.
+p76
+aVI'm just going to zoom in a little bit onto his webcam.
+p77
+aVYou can see there's a little sticker
+p78
+aVthat's placed over his camera.
+p79
+aVHe knows what kind of surveillance is possible,
+p80
+aVand so clearly he doesn't want it to be used
+p81
+aVagainst him.
+p82
+aVMuench has said that he intends
+p83
+aVfor his software to be used
+p84
+aVto capture terrorists and locate pedophiles.
+p85
+aVOf course, he's also acknowledged that once
+p86
+aVthe software has been sold to governments,
+p87
+aVhe has no way of knowing how it can be used.
+p88
+aVGamma's software has been located on servers
+p89
+aVin countries around the world,
+p90
+aVmany with really atrocious track records
+p91
+aVand human rights violations.
+p92
+aVThey really are selling their software around the world.
+p93
+aa(lp94
+VGamma is not the only company in the business.
+p95
+aVAs I said, it's a $5 billion industry.
+p96
+aVOne of the other big guys in the industry
+p97
+aVis an Italian company called Hacking Team.
+p98
+aVNow, Hacking Team has what is probably
+p99
+aVthe slickest presentation.
+p100
+aVThe video they've produced is very sexy,
+p101
+aVand so I'm going to play you a clip
+p102
+aVjust so you can get a feel
+p103
+aVboth for the capabilities of the software
+p104
+aVbut also how it's marketed
+p105
+aVto their government clients.
+p106
+aa(lp107
+V(Video) Narrator: You want to look  through your target's eyes.
+p108
+aV(Music)
+p109
+aVYou have to hack your target.
+p110
+aV["While your target is browsing the web, exchanging documents, receiving SMS, crossing the borders"]
+p111
+aVYou have to hit many different platforms.
+p112
+aV["Windows, OS X, iOS, Android, Blackberry, Symbian, Linux"]
+p113
+aVYou have to overcome encryption
+p114
+aVand capture relevant data.
+p115
+aV[Skype & encrypted calls, target location,  messaging, relationships,
+p116
+aVweb browsing, audio & video"]
+p117
+aVBeing stealth and untraceable.
+p118
+aV["Immune to any protection system Hidden collection infrastructure"]
+p119
+aVDeployed all over your country.
+p120
+aV["Up to hundreds of thousands of targets Managed from a single spot"]
+p121
+aVExactly what we do.
+p122
+aa(lp123
+VChristopher Soghoian: So, it would be funny if it wasn't true,
+p124
+aVbut, in fact, Hacking Team's software
+p125
+aVis being sold to governments around the world.
+p126
+aVLast year we learned, for example,
+p127
+aVthat it's been used to target Moroccan  journalists by the Moroccan government.
+p128
+aVMany, many countries it's been found in.
+p129
+aVSo, Hacking Team has also been actively courting
+p130
+aVthe U.S. law enforcement market.
+p131
+aVIn the last year or so, the company
+p132
+aVhas opened a sales office in Maryland.
+p133
+aVThe company has also hired a spokesperson.
+p134
+aVThey've been attending
+p135
+aVsurveillance industry conferences
+p136
+aVwhere law enforcement officials show up.
+p137
+aVThey've spoken at the conferences.
+p138
+aVWhat I thought was most fascinating was
+p139
+aVthey've actually paid for the coffee break
+p140
+aVat one of the law enforcement conferences
+p141
+aVearlier this year.
+p142
+aVI can't tell you for sure that Hacking Team
+p143
+aVhas sold their technology in the United States,
+p144
+aVbut what I can tell you that if they haven't sold it,
+p145
+aVit isn't because they haven't been trying hard.
+p146
+aa(lp147
+VSo as I said before,
+p148
+aVgovernments that don't really have the resources
+p149
+aVto build their own tools will buy
+p150
+aVoff-the-shelf surveillance software,
+p151
+aVand so for that reason,
+p152
+aVyou see that the government of, say, Tunisia,
+p153
+aVmight use the same software as the government of Germany.
+p154
+aVThey're all buying off-the-shelf stuff.
+p155
+aVThe Federal Bureau of Investigation in the United States
+p156
+aVdoes have the budget to build their own surveillance technology,
+p157
+aVand so for several years, I've been trying
+p158
+aVto figure out if and how the FBI
+p159
+aVis hacking into the computers of surveillance targets.
+p160
+aa(lp161
+VMy friends at an organization called the Electronic Frontier Foundation \u2014
+p162
+aVthey're a civil society group \u2014
+p163
+aVobtained hundreds of documents from the FBI
+p164
+aVdetailing their next generation of surveillance technologies.
+p165
+aVMost of these documents were heavily redacted,
+p166
+aVbut what you can see from the slides,
+p167
+aVif I zoom in, is this term:
+p168
+aVRemote Operations Unit.
+p169
+aVNow, when I first looked into this,
+p170
+aVI'd never heard of this unit before.
+p171
+aVI've been studying surveillance for more than six years.
+p172
+aVI'd never heard of it.
+p173
+aVAnd so I went online and I did some research,
+p174
+aVand ultimately I hit the mother lode
+p175
+aVwhen I went to LinkedIn,
+p176
+aVthe social networking site for job seekers.
+p177
+aVThere were lots of former U.S. government contractors
+p178
+aVwho had at one point worked
+p179
+aVfor the Remote Operating Unit,
+p180
+aVand were describing in surprising detail on their CVs
+p181
+aVwhat they had done in their former job.
+p182
+aV(Laughter)
+p183
+aVSo I took this information
+p184
+aVand I gave it to a journalist that I know and trust at the Wall Street Journal,
+p185
+aVand she was able to contact several other
+p186
+aVformer law enforcement officials
+p187
+aVwho spoke on background and confirmed
+p188
+aVthat yes, in fact, the FBI has a dedicated team
+p189
+aVthat does nothing but hack into the computers
+p190
+aVof surveillance targets.
+p191
+aVLike Gamma and Hacking Team,
+p192
+aVthe FBI also has the capability
+p193
+aVto remotely activate webcams, microphones,
+p194
+aVsteal documents, get web browsing information,
+p195
+aVthe works.
+p196
+aa(lp197
+VThere's sort of a big problem
+p198
+aVwith governments going into hacking,
+p199
+aVand that's that terrorists, pedophiles,
+p200
+aVdrug dealers, journalists and human rights activists
+p201
+aVall use the same kinds of computers.
+p202
+aVThere's no drug dealer phone
+p203
+aVand there's no journalist laptop.
+p204
+aVWe all use the same technology,
+p205
+aVand what that means then is that for governments
+p206
+aVto have the capability to hack into the computers
+p207
+aVof the real bad guys,
+p208
+aVthey also have to have the capability
+p209
+aVto hack into our devices too.
+p210
+aa(lp211
+VSo governments around the world
+p212
+aVhave been embracing this technology.
+p213
+aVThey've been embracing hacking
+p214
+aVas a law enforcement technique,
+p215
+aVbut without any real debate.
+p216
+aVIn the United States, where I live,
+p217
+aVthere have been no congressional hearings.
+p218
+aVThere's no law that's been passed
+p219
+aVspecifically authorizing this technique,
+p220
+aVand because of its power and potential for abuse,
+p221
+aVit's vital that we have an informed public debate.
+p222
+aa(lp223
+VThank you very much.
+p224
+aa(lp225
+V(Applause)
+p226
+aasS'id'
+p227
+I1940
+sS'title'
+p228
+VGovernment surveillance \u2014 this is just the beginning
+p229
+s.

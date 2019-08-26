@@ -1,0 +1,183 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VLet me introduce to you Rezero.
+p4
+aVThis little fellow was developed
+p5
+aVby a group of 10 undergraduate students
+p6
+aVat the Autonomous Systems Laboratory
+p7
+aVat ETH-Zurich.
+p8
+aa(lp9
+VOur robot belongs to a family of robots
+p10
+aVcalled Ballbots.
+p11
+aVInstead of wheels, a Ballbot is balancing
+p12
+aVand moving on one single ball.
+p13
+aVThe main characteristics of such a system is
+p14
+aVthat there's one sole contact point to the ground.
+p15
+aVThis means that the robot
+p16
+aVis inherently unstable.
+p17
+aVIt's like when I am trying to stand
+p18
+aVon one foot.
+p19
+aa(lp20
+VYou might ask yourself, what's the usefulness
+p21
+aVof a robot that's unstable?
+p22
+aVNow we'll explain that in a second.
+p23
+aVLet me first explain how Rezero
+p24
+aVactually keeps his balance.
+p25
+aVRezero keeps his balance by constantly
+p26
+aVmeasuring his pitch angle with a sensor.
+p27
+aVHe then counteracts and avoids toppling over
+p28
+aVby turning the motors appropriately.
+p29
+aVThis happens 160 times per second,
+p30
+aVand if anything fails in this process,
+p31
+aVRezero would immediately fall to the ground.
+p32
+aa(lp33
+VNow to move and to balance,
+p34
+aVRezero needs to turn the ball.
+p35
+aVThe ball is driven by three special wheels
+p36
+aVthat allow Rezero to move into any direction
+p37
+aVand also move around his own axis
+p38
+aVat the same time.
+p39
+aVDue to his instability, Rezero is always
+p40
+aVin motion. Now here's the trick.
+p41
+aVIt's indeed exactly this instability that allows
+p42
+aVa robot to move very [dynamically].
+p43
+aVLet's play a little.
+p44
+aVYou may have wondered what happens
+p45
+aVif I give the robot a little push.
+p46
+aVIn this mode, he's trying to maintain
+p47
+aVhis position.
+p48
+aa(lp49
+VFor the next demo, I'd like you to introduce
+p50
+aVto my colleagues Michael, on the computer,
+p51
+aVand Thomas who's helping me onstage.
+p52
+aVIn the next mode, Rezero is passive,
+p53
+aVand we can move him around.
+p54
+aVWith almost no force I can control
+p55
+aVhis position and his velocity.
+p56
+aVI can also make him spin.
+p57
+aVIn the next mode, we can get Rezero
+p58
+aVto follow a person.
+p59
+aVHe's now keeping a constant distance to Thomas.
+p60
+aVThis works with a laser sensor
+p61
+aVthat's mounted on top of Rezero.
+p62
+aVWith the same method, we can also
+p63
+aVget him to circle a person.
+p64
+aVWe call this the orbiting mode.
+p65
+aVAll right, thank you, Thomas.
+p66
+aV(Applause)
+p67
+aa(lp68
+VNow, what's the use of this technology?
+p69
+aVFor now, it's an experiment, but let me
+p70
+aVshow you some possible future applications.
+p71
+aVRezero could be used in exhibitions or parks.
+p72
+aVWith a screen it could inform people or show
+p73
+aVthem around in a fun and entertaining way.
+p74
+aVIn a hospital, this device could be used to
+p75
+aVcarry around medical equipment.
+p76
+aVDue to the Ballbot system, it has a very small
+p77
+aVfootprint and it's also easy to move around.
+p78
+aVAnd of course, who wouldn't like
+p79
+aVto take a ride on one of these.
+p80
+aVAnd these are more practical applications.
+p81
+aVBut there's also a certain beauty
+p82
+aVwithin this technology.
+p83
+aa(lp84
+V(Music)
+p85
+aa(lp86
+V(Applause)
+p87
+aa(lp88
+VThank you.
+p89
+aa(lp90
+V(Applause)
+p91
+aa(lp92
+VThank you.
+p93
+aasS'id'
+p94
+I1281
+sS'title'
+p95
+VMeet Rezero, the dancing ballbot
+p96
+s.

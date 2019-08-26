@@ -1,0 +1,579 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VEconomists have been exploring people's behavior for hundreds of years:
+p4
+aVhow we make decisions,
+p5
+aVhow we act individually and in groups,
+p6
+aVhow we exchange value.
+p7
+aVThey've studied the institutions that facilitate our trade,
+p8
+aVlike legal systems,
+p9
+aVcorporations,
+p10
+aVmarketplaces.
+p11
+aVBut there is a new, technological institution
+p12
+aVthat will fundamentally change how we exchange value,
+p13
+aVand it's called the blockchain.
+p14
+aa(lp15
+VNow, that's a pretty bold statement,
+p16
+aVbut if you take nothing else away from this talk,
+p17
+aVI actually want you to remember
+p18
+aVthat while blockchain technology is relatively new,
+p19
+aVit's also a continuation of a very human story,
+p20
+aVand the story is this.
+p21
+aVAs humans, we find ways
+p22
+aVto lower uncertainty about one another
+p23
+aVso that we can exchange value.
+p24
+aa(lp25
+VNow, one of the first people to really explore the idea
+p26
+aVof institutions as a tool in economics
+p27
+aVto lower our uncertainties about one another
+p28
+aVand be able to do trade
+p29
+aVwas the Nobel economist Douglass North.
+p30
+aVHe passed away at the end of 2015,
+p31
+aVbut North pioneered what's called "new institutional economics."
+p32
+aVAnd what he meant by institutions were really just formal rules
+p33
+aVlike a constitution,
+p34
+aVand informal constraints, like bribery.
+p35
+aVThese institutions are really the grease
+p36
+aVthat allow our economic wheels to function,
+p37
+aVand we can see this play out over the course of human history.
+p38
+aa(lp39
+VIf we think back to when we were hunter-gatherer economies,
+p40
+aVwe really just traded within our village structure.
+p41
+aVWe had some informal constraints in place,
+p42
+aVbut we enforced all of our trade with violence
+p43
+aVor social repercussions.
+p44
+aVAs our societies grew more complex
+p45
+aVand our trade routes grew more distant,
+p46
+aVwe built up more formal institutions,
+p47
+aVinstitutions like banks for currency,
+p48
+aVgovernments, corporations.
+p49
+aVThese institutions helped us manage our trade
+p50
+aVas the uncertainty and the complexity grew,
+p51
+aVand our personal control was much lower.
+p52
+aVEventually with the internet, we put these same institutions online.
+p53
+aVWe built platform marketplaces like Amazon, eBay, Alibaba,
+p54
+aVjust faster institutions that act as middlemen
+p55
+aVto facilitate human economic activity.
+p56
+aa(lp57
+VAs Douglass North saw it,
+p58
+aVinstitutions are a tool to lower uncertainty
+p59
+aVso that we can connect and exchange all kinds of value in society.
+p60
+aVAnd I believe we are now entering
+p61
+aVa further and radical evolution
+p62
+aVof how we interact and trade,
+p63
+aVbecause for the first time, we can lower uncertainty
+p64
+aVnot just with political and economic institutions,
+p65
+aVlike our banks, our corporations, our governments,
+p66
+aVbut we can do it with technology alone.
+p67
+aa(lp68
+VSo what is the blockchain?
+p69
+aVBlockchain technology is a decentralized database
+p70
+aVthat stores a registry of assets and transactions
+p71
+aVacross a peer-to-peer network.
+p72
+aVIt's basically a public registry
+p73
+aVof who owns what and who transacts what.
+p74
+aVThe transactions are secured through cryptography,
+p75
+aVand over time, that transaction history gets locked in blocks of data
+p76
+aVthat are then cryptographically linked together and secured.
+p77
+aVThis creates an immutable, unforgeable record
+p78
+aVof all of the transactions across this network.
+p79
+aVThis record is replicated on every computer that uses the network.
+p80
+aa(lp81
+VIt's not an app.
+p82
+aVIt's not a company.
+p83
+aVI think it's closest in description to something like Wikipedia.
+p84
+aVWe can see everything on Wikipedia.
+p85
+aVIt's a composite view that's constantly changing and being updated.
+p86
+aVWe can also track those changes over time on Wikipedia,
+p87
+aVand we can create our own wikis,
+p88
+aVbecause at their core, they're just a data infrastructure.
+p89
+aVOn Wikipedia, it's an open platform that stores words and images
+p90
+aVand the changes to that data over time.
+p91
+aVOn the blockchain,
+p92
+aVyou can think of it as an open infrastructure
+p93
+aVthat stores many kinds of assets.
+p94
+aVIt stores the history of custodianship,
+p95
+aVownership and location
+p96
+aVfor assets like the digital currency Bitcoin,
+p97
+aVother digital assets
+p98
+aVlike a title of ownership of IP.
+p99
+aVIt could be a certificate, a contract,
+p100
+aVreal world objects,
+p101
+aVeven personal identifiable information.
+p102
+aVThere are of course other technical details to the blockchain,
+p103
+aVbut at its core, that's how it works.
+p104
+aVIt's this public registry that stores transactions in a network
+p105
+aVand is replicated so that it's very secure and hard to tamper with.
+p106
+aa(lp107
+VWhich brings me to my point
+p108
+aVof how blockchains lower uncertainty
+p109
+aVand how they therefore promise to transform our economic systems
+p110
+aVin radical ways.
+p111
+aVSo uncertainty is kind of a big term
+p112
+aVin economics,
+p113
+aVbut I want to go through three forms of it
+p114
+aVthat we face in almost all of our everyday transactions,
+p115
+aVwhere blockchains can play a role.
+p116
+aVWe face uncertainties like not knowing who we're dealing with,
+p117
+aVnot having visibility into a transaction
+p118
+aVand not having recourse if things go wrong.
+p119
+aa(lp120
+VSo let's take the first example, not knowing who we're dealing with.
+p121
+aVSay I want to buy a used smartphone on eBay.
+p122
+aVThe first thing I'm going to do is look up who I'm buying from.
+p123
+aVAre they a power user?
+p124
+aVDo they have great reviews and ratings, or do they have no profile at all?
+p125
+aVReviews, ratings, checkmarks:
+p126
+aVthese are the attestations about our identities
+p127
+aVthat we cobble together today
+p128
+aVand use to lower uncertainty about who we're dealing with.
+p129
+aVBut the problem is they're very fragmented.
+p130
+aVThink about how many profiles you have.
+p131
+aVBlockchains allow for us to create an open, global platform
+p132
+aVon which to store any attestation about any individual
+p133
+aVfrom any source.
+p134
+aVThis allows us to create a user-controlled
+p135
+aVportable identity.
+p136
+aVMore than a profile,
+p137
+aVit means you can selectively reveal
+p138
+aVthe different attributes about you
+p139
+aVthat help facilitate trade or interaction,
+p140
+aVfor instance that a government issued you an ID,
+p141
+aVor that you're over 21,
+p142
+aVby revealing the cryptographic proof
+p143
+aVthat these details exist and are signed off on.
+p144
+aVHaving this kind of portable identity
+p145
+aVaround the physical world and the digital world
+p146
+aVmeans we can do all kinds of human trade
+p147
+aVin a totally new way.
+p148
+aa(lp149
+VSo I've talked about how blockchains could lower uncertainty
+p150
+aVin who we're dealing with.
+p151
+aVThe second uncertainty that we often face
+p152
+aVis just not having transparency into our interactions.
+p153
+aVSay you're going to send me that smartphone by mail.
+p154
+aVI want some degree of transparency.
+p155
+aVI want to know that the product I bought is the same one that arrives in the mail
+p156
+aVand that there's some record for how it got to me.
+p157
+aVThis is true not just for electronics like smartphones,
+p158
+aVbut for many kinds of goods and data,
+p159
+aVthings like medicine, luxury goods,
+p160
+aVany kind of data or product that we don't want tampered with.
+p161
+aa(lp162
+VThe problem in many companies,
+p163
+aVespecially those that produce something complicated like a smartphone,
+p164
+aVis they're managing all of these different vendors
+p165
+aVacross a horizontal supply chain.
+p166
+aVAll of these people that go into making a product,
+p167
+aVthey don't have the same database.
+p168
+aVThey don't use the same infrastructure,
+p169
+aVand so it becomes really hard to see transparently a product evolve over time.
+p170
+aa(lp171
+VUsing the blockchain, we can create
+p172
+aVa shared reality across nontrusting entities.
+p173
+aVBy this I mean
+p174
+aVall of these nodes in the network do not need to know each other
+p175
+aVor trust each other,
+p176
+aVbecause they each have the ability
+p177
+aVto monitor and validate the chain for themselves.
+p178
+aVThink back to Wikipedia.
+p179
+aVIt's a shared database,
+p180
+aVand even though it has multiple readers
+p181
+aVand multiple writers at the same time,
+p182
+aVit has one single truth.
+p183
+aVSo we can create that using blockchains.
+p184
+aVWe can create a decentralized database that has the same efficiency of a monopoly
+p185
+aVwithout actually creating that central authority.
+p186
+aVSo all of these vendors, all sorts of companies,
+p187
+aVcan interact using the same database without trusting one another.
+p188
+aVIt means for consumers, we can have a lot more transparency.
+p189
+aVAs a real-world object travels along,
+p190
+aVwe can see its digital certificate or token move on the blockchain,
+p191
+aVadding value as it goes.
+p192
+aVThis is a whole new world in terms of our visibility.
+p193
+aa(lp194
+VSo I've talked about how blockchains can lower our uncertainties about identity
+p195
+aVand how they change what we mean about transparency
+p196
+aVin long distances and complex trades, like in a supply chain.
+p197
+aVThe last uncertainty that we often face
+p198
+aVis one of the most open-ended, and it's reneging.
+p199
+aVWhat if you don't send me the smartphone?
+p200
+aVCan I get my money back?
+p201
+aVBlockchains allow us to write code,
+p202
+aVbinding contracts,
+p203
+aVbetween individuals
+p204
+aVand then guarantee that those contracts will bear out
+p205
+aVwithout a third party enforcer.
+p206
+aVSo if we look at the smartphone example, you could think about escrow.
+p207
+aVYou are financing that phone,
+p208
+aVbut you don't need to release the funds
+p209
+aVuntil you can verify that all the conditions have been met.
+p210
+aVYou got the phone.
+p211
+aa(lp212
+VI think this is one of the most exciting ways
+p213
+aVthat blockchains lower our uncertainties,
+p214
+aVbecause it means to some degree
+p215
+aVwe can collapse institutions and their enforcement.
+p216
+aVIt means a lot of human economic activity
+p217
+aVcan get collateralized and automated,
+p218
+aVand push a lot of human intervention to the edges,
+p219
+aVthe places where information moves from the real world to the blockchain.
+p220
+aa(lp221
+VI think what would probably floor Douglass North
+p222
+aVabout this use of technology
+p223
+aVis the fact that the very thing that makes it work,
+p224
+aVthe very thing that keeps the blockchain secure and verified,
+p225
+aVis our mutual distrust.
+p226
+aVSo rather than all of our uncertainties
+p227
+aVslowing us down
+p228
+aVand requiring institutions
+p229
+aVlike banks, our governments, our corporations,
+p230
+aVwe can actually harness all of that collective uncertainty
+p231
+aVand use it to collaborate and exchange more and faster and more open.
+p232
+aa(lp233
+VNow, I don't want you to get the impression
+p234
+aVthat the blockchain is the solution to everything,
+p235
+aVeven though the media has said that it's going to end world poverty,
+p236
+aVit's also going to solve the counterfeit drug problem
+p237
+aVand potentially save the rainforest.
+p238
+aVThe truth is, this technology is in its infancy,
+p239
+aVand we're going to need to see a lot of experiments take place
+p240
+aVand probably fail
+p241
+aVbefore we truly understand all of the use cases
+p242
+aVfor our economy.
+p243
+aVBut there are tons of people working on this,
+p244
+aVfrom financial institutions
+p245
+aVto technology companies, start-ups and universities.
+p246
+aVAnd one of the reasons is that it's not just an economic evolution.
+p247
+aVIt's also an innovation in computer science.
+p248
+aa(lp249
+VBlockchains give us the technological capability
+p250
+aVof creating a record of human exchange,
+p251
+aVof exchange of currency,
+p252
+aVof all kinds of digital and physical assets,
+p253
+aVeven of our own personal attributes,
+p254
+aVin a totally new way.
+p255
+aVSo in some ways,
+p256
+aVthey become a technological institution
+p257
+aVthat has a lot of the benefits
+p258
+aVof the traditional institutions we're used to using in society,
+p259
+aVbut it does this in a decentralized way.
+p260
+aVIt does this by converting a lot of our uncertainties
+p261
+aVinto certainties.
+p262
+aa(lp263
+VSo I think we need to start preparing ourselves,
+p264
+aVbecause we are about to face a world
+p265
+aVwhere distributed, autonomous institutions
+p266
+aVhave quite a significant role.
+p267
+aa(lp268
+VThank you.
+p269
+aa(lp270
+V(Applause)
+p271
+aa(lp272
+VBruno Giussani: Thank you, Bettina.
+p273
+aVI think I understood that it's coming,
+p274
+aVit offers a lot of potential,
+p275
+aVand it's complex.
+p276
+aVWhat is your estimate for the rate of adoption?
+p277
+aa(lp278
+VBettina Warburg: I think that's a really good question.
+p279
+aVMy lab is pretty much focused
+p280
+aVon going the enterprise and government route first,
+p281
+aVbecause in reality, blockchain is a complex technology.
+p282
+aVHow many of you actually understand how the internet works?
+p283
+aVBut you use it every day,
+p284
+aVso I think we're sort of facing the same John Sculley idea
+p285
+aVof technology should either be invisible or beautiful,
+p286
+aVand blockchain is kind of neither of those things right now,
+p287
+aVso it's better suited for either really early adopters
+p288
+aVwho kind of get it and can tinker around
+p289
+aVor for finding those best use cases
+p290
+aVlike identity or asset tracking or smart contracts
+p291
+aVthat can be used at that level of an enterprise or government.
+p292
+aa(lp293
+VBG: Thank you. Thanks for coming to TED.
+p294
+aa(lp295
+VBW: Thanks.
+p296
+aa(lp297
+V(Applause)
+p298
+aasS'id'
+p299
+I2626
+sS'title'
+p300
+VHow the blockchain will radically transform the economy
+p301
+s.

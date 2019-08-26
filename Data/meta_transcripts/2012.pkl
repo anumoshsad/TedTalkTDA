@@ -1,0 +1,351 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VAt every stage of our lives
+p4
+aVwe make decisions that will profoundly influence
+p5
+aVthe lives of the people we're going to become,
+p6
+aVand then when we become those people,
+p7
+aVwe're not always thrilled with the decisions we made.
+p8
+aVSo young people pay good money
+p9
+aVto get tattoos removed that teenagers
+p10
+aVpaid good money to get.
+p11
+aVMiddle-aged people rushed to divorce people
+p12
+aVwho young adults rushed to marry.
+p13
+aVOlder adults work hard to lose
+p14
+aVwhat middle-aged adults worked hard to gain.
+p15
+aVOn and on and on.
+p16
+aVThe question is, as a psychologist, that fascinates me is,
+p17
+aVwhy do we make decisions
+p18
+aVthat our future selves so often regret?
+p19
+aa(lp20
+VNow, I think one of the reasons \u2014
+p21
+aVI'll try to convince you today \u2014
+p22
+aVis that we have a fundamental misconception
+p23
+aVabout the power of time.
+p24
+aVEvery one of you knows that the rate of change
+p25
+aVslows over the human lifespan,
+p26
+aVthat your children seem to change by the minute
+p27
+aVbut your parents seem to change by the year.
+p28
+aVBut what is the name of this magical point in life
+p29
+aVwhere change suddenly goes
+p30
+aVfrom a gallop to a crawl?
+p31
+aVIs it teenage years? Is it middle age?
+p32
+aVIs it old age? The answer, it turns out,
+p33
+aVfor most people, is now,
+p34
+aVwherever now happens to be.
+p35
+aVWhat I want to convince you today
+p36
+aVis that all of us are walking around with an illusion,
+p37
+aVan illusion that history, our personal history,
+p38
+aVhas just come to an end,
+p39
+aVthat we have just recently become
+p40
+aVthe people that we were always meant to be
+p41
+aVand will be for the rest of our lives.
+p42
+aa(lp43
+VLet me give you some data to back up that claim.
+p44
+aVSo here's a study of change in people's
+p45
+aVpersonal values over time.
+p46
+aVHere's three values.
+p47
+aVEverybody here holds all of them,
+p48
+aVbut you probably know that as you grow,
+p49
+aVas you age, the balance of these values shifts.
+p50
+aVSo how does it do so?
+p51
+aVWell, we asked thousands of people.
+p52
+aVWe asked half of them to predict for us
+p53
+aVhow much their values would change in the next 10 years,
+p54
+aVand the others to tell us
+p55
+aVhow much their values had changed in the last 10 years.
+p56
+aVAnd this enabled us to do a really interesting kind of analysis,
+p57
+aVbecause it allowed us to compare the predictions
+p58
+aVof people, say, 18 years old,
+p59
+aVto the reports of people who were 28,
+p60
+aVand to do that kind of analysis throughout the lifespan.
+p61
+aa(lp62
+VHere's what we found.
+p63
+aVFirst of all, you are right,
+p64
+aVchange does slow down as we age,
+p65
+aVbut second, you're wrong,
+p66
+aVbecause it doesn't slow nearly as much as we think.
+p67
+aVAt every age, from 18 to 68 in our data set,
+p68
+aVpeople vastly underestimated how much change
+p69
+aVthey would experience over the next 10 years.
+p70
+aVWe call this the "end of history" illusion.
+p71
+aVTo give you an idea of the magnitude of this effect,
+p72
+aVyou can connect these two lines,
+p73
+aVand what you see here is that 18-year-olds
+p74
+aVanticipate changing only as much
+p75
+aVas 50-year-olds actually do.
+p76
+aa(lp77
+VNow it's not just values. It's all sorts of other things.
+p78
+aVFor example, personality.
+p79
+aVMany of you know that psychologists now claim
+p80
+aVthat there are five fundamental dimensions of personality:
+p81
+aVneuroticism, openness to experience,
+p82
+aVagreeableness, extraversion, and conscientiousness.
+p83
+aVAgain, we asked people how much they expected
+p84
+aVto change over the next 10 years,
+p85
+aVand also how much they had changed over the last 10 years,
+p86
+aVand what we found,
+p87
+aVwell, you're going to get used to seeing this diagram over and over,
+p88
+aVbecause once again the rate of change
+p89
+aVdoes slow as we age,
+p90
+aVbut at every age, people underestimate
+p91
+aVhow much their personalities will change
+p92
+aVin the next decade.
+p93
+aa(lp94
+VAnd it isn't just ephemeral things
+p95
+aVlike values and personality.
+p96
+aVYou can ask people about their likes and dislikes,
+p97
+aVtheir basic preferences.
+p98
+aVFor example, name your best friend,
+p99
+aVyour favorite kind of vacation,
+p100
+aVwhat's your favorite hobby,
+p101
+aVwhat's your favorite kind of music.
+p102
+aVPeople can name these things.
+p103
+aVWe ask half of them to tell us,
+p104
+aV"Do you think that that will change over the next 10 years?"
+p105
+aVand half of them to tell us,
+p106
+aV"Did that change over the last 10 years?"
+p107
+aVAnd what we find, well, you've seen it twice now,
+p108
+aVand here it is again:
+p109
+aVpeople predict that the friend they have now
+p110
+aVis the friend they'll have in 10 years,
+p111
+aVthe vacation they most enjoy now is the one
+p112
+aVthey'll enjoy in 10 years,
+p113
+aVand yet, people who are 10 years older all say,
+p114
+aV"Eh, you know, that's really changed."
+p115
+aa(lp116
+VDoes any of this matter?
+p117
+aVIs this just a form of mis-prediction that doesn't have consequences?
+p118
+aVNo, it matters quite a bit, and I'll give you an example of why.
+p119
+aVIt bedevils our decision-making in important ways.
+p120
+aVBring to mind right now for yourself
+p121
+aVyour favorite musician today
+p122
+aVand your favorite musician 10 years ago.
+p123
+aVI put mine up on the screen to help you along.
+p124
+aVNow we asked people
+p125
+aVto predict for us, to tell us
+p126
+aVhow much money they would pay right now
+p127
+aVto see their current favorite musician
+p128
+aVperform in concert 10 years from now,
+p129
+aVand on average, people said they would pay
+p130
+aV129 dollars for that ticket.
+p131
+aVAnd yet, when we asked them how much they would pay
+p132
+aVto see the person who was their favorite
+p133
+aV10 years ago perform today,
+p134
+aVthey say only 80 dollars.
+p135
+aVNow, in a perfectly rational world,
+p136
+aVthese should be the same number,
+p137
+aVbut we overpay for the opportunity
+p138
+aVto indulge our current preferences
+p139
+aVbecause we overestimate their stability.
+p140
+aa(lp141
+VWhy does this happen? We're not entirely sure,
+p142
+aVbut it probably has to do
+p143
+aVwith the ease of remembering
+p144
+aVversus the difficulty of imagining.
+p145
+aVMost of us can remember who we were 10 years ago,
+p146
+aVbut we find it hard to imagine who we're going to be,
+p147
+aVand then we mistakenly think that because it's hard to imagine,
+p148
+aVit's not likely to happen.
+p149
+aVSorry, when people say "I can't imagine that,"
+p150
+aVthey're usually talking about their own lack of imagination,
+p151
+aVand not about the unlikelihood
+p152
+aVof the event that they're describing.
+p153
+aa(lp154
+VThe bottom line is, time is a powerful force.
+p155
+aVIt transforms our preferences.
+p156
+aVIt reshapes our values.
+p157
+aVIt alters our personalities.
+p158
+aVWe seem to appreciate this fact,
+p159
+aVbut only in retrospect.
+p160
+aVOnly when we look backwards do we realize
+p161
+aVhow much change happens in a decade.
+p162
+aVIt's as if, for most of us,
+p163
+aVthe present is a magic time.
+p164
+aVIt's a watershed on the timeline.
+p165
+aVIt's the moment at which we finally
+p166
+aVbecome ourselves.
+p167
+aVHuman beings are works in progress
+p168
+aVthat mistakenly think they're finished.
+p169
+aVThe person you are right now
+p170
+aVis as transient, as fleeting and as temporary
+p171
+aVas all the people you've ever been.
+p172
+aVThe one constant in our life is change.
+p173
+aa(lp174
+VThank you.
+p175
+aa(lp176
+V(Applause)
+p177
+aasS'id'
+p178
+I2012
+sS'title'
+p179
+VThe psychology of your future self
+p180
+s.

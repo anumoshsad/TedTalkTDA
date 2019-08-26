@@ -1,0 +1,66 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+V(Applause)
+p4
+aa(lp5
+V(Music)
+p6
+aa(lp7
+V(Applause)
+p8
+aa(lp9
+VAngella Ahn: Thank you.
+p10
+aV(Applause)
+p11
+aVThank you so much.
+p12
+aVWe are so honored to be here at TEDWomen,
+p13
+aVsharing our music with you.
+p14
+aVWhat an exciting and inspiring event.
+p15
+aVWhat you just heard is "Skylife" by David Balakrishnan.
+p16
+aVWe want to play you one more selection.
+p17
+aVIt's by Astor Piazzolla, an Argentine composer.
+p18
+aVAnd we talk about different ideas \u2014
+p19
+aVhe had this idea
+p20
+aVthat he thought music should be from the heart.
+p21
+aVThis was in the middle of the 20th century
+p22
+aVwhen music from the heart, beautiful music,
+p23
+aVwasn't the most popular thing in the classical music world.
+p24
+aVIt was more atonal and twelve-tone.
+p25
+aVAnd he insisted on beautiful music.
+p26
+aVSo this is "Oblivion" by Astor Piazzolla.
+p27
+aa(lp28
+VThank you.
+p29
+aa(lp30
+V(Music)
+p31
+aV(Applause)
+p32
+aasS'id'
+p33
+I1083
+sS'title'
+p34
+VA modern take on piano, violin, cello
+p35
+s.

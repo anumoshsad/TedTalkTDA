@@ -1,0 +1,377 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VAbout a year and a half ago,
+p4
+aVStephen Lawler, who also gave a talk
+p5
+aVhere at TED in 2007 on Virtual Earth,
+p6
+aVbrought me over to become the architect of Bing Maps,
+p7
+aVwhich is Microsoft's online-mapping effort.
+p8
+aVIn the past two and a half, we've been very hard at work
+p9
+aVon redefining the way maps work online.
+p10
+aVAnd we really are seeing this in very different terms
+p11
+aVfrom the kind of mapping and direction site
+p12
+aVthat one is used to.
+p13
+aa(lp14
+VSo, the first thing that you might notice about the mapping site
+p15
+aVis just the fluidity of the zooming and the panning,
+p16
+aVwhich, if you're familiar at all with Seadragon,
+p17
+aVthat's where it comes from.
+p18
+aa(lp19
+VMapping is, of course,
+p20
+aVnot just about cartography,
+p21
+aVit's also about imagery.
+p22
+aVSo, as we zoom-in beyond a certain level
+p23
+aVthis resolves into a kind of Sim City-like
+p24
+aVvirtual view at 45 degrees.
+p25
+aVThis can be viewed from any of the cardinal directions
+p26
+aVto show you the 3D structure of the city, all the facades.
+p27
+aVNow, we see this space, this three-dimensional environment,
+p28
+aVas being a canvas on which
+p29
+aVall sorts of applications can play out,
+p30
+aVand map's directions are really just one of them.
+p31
+aa(lp32
+VIf you click on this, you'll see
+p33
+aVsome of the ones that we've put out, just in the past couple of months
+p34
+aVsince we've launched.
+p35
+aVSo, for example, a couple of days after the disaster in Haiti,
+p36
+aVwe had an earthquake map that showed
+p37
+aVbefore and after pictures from the sky.
+p38
+aVThis wonderful one which I don't have time to show you
+p39
+aVis taking hyper-local blogs in real time
+p40
+aVand mapping those stories, those entries
+p41
+aVto the places that are referred to on the blogs.
+p42
+aVIt's wonderful.
+p43
+aa(lp44
+VBut I'm going to show you some more candy sort of stuff.
+p45
+aa(lp46
+VSo, we see the imagery, of course,
+p47
+aVnot stopping at the sky.
+p48
+aVThese little green bubbles represent
+p49
+aVphotosynths that users have made.
+p50
+aVI'm not going to dive into them either, but photosynths are integrated into the map.
+p51
+aVEverything that's cased in blue
+p52
+aVis an area where we've taken imagery on the ground as well.
+p53
+aa(lp54
+VAnd so, when you fly down \u2014
+p55
+aa(lp56
+V(Applause)
+p57
+aa(lp58
+VThank you. When you fly down to the ground,
+p59
+aVand you see this kind of panoramic imagery,
+p60
+aVthe first thing that you might notice is that it's not just a picture,
+p61
+aVthere's just as much three-dimensional understanding of this environment
+p62
+aVas there is of the three-dimensional city from above,
+p63
+aVso if I click on something to get a closer view of it,
+p64
+aVthen, the fact that that transition looks as it does,
+p65
+aVis a function of all of that geometry,
+p66
+aVall of that 3D understanding behind this model.
+p67
+aa(lp68
+VNow, I'll show you a fun app
+p69
+aVthat \u2014 we've been working on a collaboration with our friends at Flickr.
+p70
+aVThis takes Flickr, georegistered imagery
+p71
+aVand uses photosynth-like processes
+p72
+aVto connect that imagery to our imagery, so \u2014
+p73
+aVI'm not sure if that's the one I actually meant to pull up, but \u2014
+p74
+aa(lp75
+V(Laughter)
+p76
+aa(lp77
+VBut notice \u2014 this is, of course, a popular tourist site,
+p78
+aVand there are lots of photos around here,
+p79
+aVand these photos are all taken at different times.
+p80
+aVSo this one was taken around five.
+p81
+aVSo that's the Flickr photo,
+p82
+aVthat's our imagery.
+p83
+aVSo you really see how this kind of crowd-sourced imagery
+p84
+aVis integrating, in a very deep way, into the map itself.
+p85
+aa(lp86
+V(Applause)
+p87
+aa(lp88
+VThank you.
+p89
+aa(lp90
+V(Applause)
+p91
+aa(lp92
+VThere are several reasons why this is interesting
+p93
+aVand one of them, of course, is time travel.
+p94
+aVAnd I'm not going to show you some of the wonderful historic imagery in here,
+p95
+aVbut there are some with horses and carriages and so on as well.
+p96
+aVBut what's cool about this is that, not only is it augmenting
+p97
+aVthis visual representation of the world
+p98
+aVwith things that are coming in from users,
+p99
+aVbut it also is the foundation for augmented reality,
+p100
+aVand that's something that I'll be showing you more of in just a moment.
+p101
+aa(lp102
+VNow I just made a transition indoors. That's also interesting.
+p103
+aVOK, notice there's now a roof above us.
+p104
+aVWe're inside the Pike Place Market.
+p105
+aVAnd this is something that we're able to do with a backpack camera,
+p106
+aVso, we're now not only imaging in the street
+p107
+aVwith this camera on tops of cars,
+p108
+aVbut we're also imaging inside.
+p109
+aVAnd from here, we're able to do the same sorts of registration,
+p110
+aVnot only of still images, but also of video.
+p111
+aa(lp112
+VSo this is something that we're now going to try
+p113
+aVfor the first time, live,
+p114
+aVand this is really, truly, very frightening.
+p115
+aa(lp116
+V(Laughter)
+p117
+aa(lp118
+VOK.
+p119
+aa(lp120
+V(Ringing)
+p121
+aa(lp122
+VAll right, guys, are you there?
+p123
+aa(lp124
+V(Noise)
+p125
+aa(lp126
+VAll right. I'm hitting it. I'm punching play.
+p127
+aVI'm live. All right. There we go.
+p128
+aVSo, these are our friends in Pike Place Market, the lab.
+p129
+aa(lp130
+V(Applause)
+p131
+aa(lp132
+VSo they're broadcasting this live.
+p133
+aVOK, George, can you pan back over to the corner market?
+p134
+aVBecause I want to show points of interest.
+p135
+aVNo, no. The other way.
+p136
+aVYeah, yeah, back to the corner, back to the corner.
+p137
+aVI don't want to see you guys yet.
+p138
+aVOK, OK, back to the corner, back to the corner, back to the corner.
+p139
+aVOK, never mind.
+p140
+aa(lp141
+VWhat I wanted to show you was these points of interest
+p142
+aVover here on top of the image
+p143
+aVbecause what that gives you a sense of is the way,
+p144
+aVif you're actually on the spot,
+p145
+aVyou can think about this \u2014
+p146
+aVthis is taking a step in addition to augmented reality.
+p147
+aa(lp148
+VWhat the hell are you guys \u2014 oh, sorry.
+p149
+aa(lp150
+V(Laughter)
+p151
+aa(lp152
+VWe're doing two different \u2014
+p153
+aVOK, I'm hanging up now.
+p154
+aVWe're doing two different things here.
+p155
+aVOne of them is to take that real ...
+p156
+aa(lp157
+V(Laughter)
+p158
+aa(lp159
+VAll right, let me just take a moment and thank the team.
+p160
+aVThey've done a fantastic job of pulling this together.
+p161
+aa(lp162
+V(Applause)
+p163
+aa(lp164
+VI'm going to abandon them now and walk back outside.
+p165
+aVAnd while I walk outside, I'll just mention that
+p166
+aVhere we're using this for telepresence,
+p167
+aVbut you can equally well use this
+p168
+aVon the spot, for augmented reality.
+p169
+aVWhen you use it on the spot, it means that
+p170
+aVyou're able to bring all of that metadata
+p171
+aVand information about the world to you.
+p172
+aVSo here, we're taking the extra step of also broadcasting it.
+p173
+aVThat was being broadcast, by the way, on a 4G network
+p174
+aVfrom the market.
+p175
+aa(lp176
+VAll right, and now there's one last TED talk
+p177
+aVthat Microsoft has given in the past several years.
+p178
+aVAnd that's Curtis Wong, WorldWide Telescope.
+p179
+aVSo, we're going to head over to the dumpsters,
+p180
+aVwhere it's traditional, after a long day at the market,
+p181
+aVto go out for a break, but also stare up at the sky.
+p182
+aVThis is the integration
+p183
+aVof WorldWide Telescope into our maps.
+p184
+aa(lp185
+V(Applause)
+p186
+aa(lp187
+VThis is the current \u2014 thank you \u2014
+p188
+aVthis is the current time. If we scrub the time,
+p189
+aVthen we can see how the sky will look at different times,
+p190
+aVand we can get all of this very detailed
+p191
+aVinformation about different times, different dates:
+p192
+aVLet's move the moon a little higher in the sky,
+p193
+aVmaybe change the date.
+p194
+aVI would like to kind of zoom in on the moon.
+p195
+aVSo, this is an astronomically complete
+p196
+aVrepresentation of the sky
+p197
+aVintegrated right into the Earth.
+p198
+aa(lp199
+VAll right now, I've overrun my time,
+p200
+aVso I've got to stop.
+p201
+aVThank you all very much.
+p202
+aa(lp203
+V(Applause)
+p204
+aasS'id'
+p205
+I766
+sS'title'
+p206
+VAugmented-reality maps
+p207
+s.

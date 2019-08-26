@@ -1,0 +1,544 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSomeone once said that politics is, of course, "showbiz for ugly people."
+p4
+aVSo, on that basis, I feel like I've really arrived.
+p5
+aVThe other thing to think of is what an honor it is, as a politician,
+p6
+aVto give a TED talk, particularly here in the U.K.,
+p7
+aVwhere the reputation of politics, with the expenses scandal, has sunk so low.
+p8
+aa(lp9
+VThere was even a story recently that scientists had thought about
+p10
+aVactually replacing rats in their experiments with politicians.
+p11
+aVAnd someone asked,"Why?"
+p12
+aVand they said, "Well, there's no shortage of politicians,
+p13
+aVno one really minds what happens to them
+p14
+aVand, after all, there are some things that rats just won't do."
+p15
+aV(Laughter)
+p16
+aa(lp17
+VNow, I know you all love data, so I'm starting with a data-rich slide.
+p18
+aVThis, I think, is the most important fact to bear in mind
+p19
+aVin British politics or American politics,
+p20
+aVand that is: We have run out of money.
+p21
+aVWe have vast budget deficits.
+p22
+aVThis is my global public debt clock,
+p23
+aVand, as you can see, it's 32 trillion and counting.
+p24
+aa(lp25
+VAnd I think what this leads to
+p26
+aVis a very simple recognition,
+p27
+aVthat there's one question in politics at the moment above all other,
+p28
+aVand it's this one: How do we make things better without spending more money?
+p29
+aVBecause there isn't going to be a lot of money to improve public services,
+p30
+aVor to improve government, or to improve so many of the things
+p31
+aVthat politicians talk about.
+p32
+aVSo what follows from that is that if you think it's all about money \u2014
+p33
+aVyou can only measure success in public services
+p34
+aVin health care and education and policing by spending more money,
+p35
+aVyou can only measure progress by spending money \u2014
+p36
+aVyou're going to have a pretty miserable time.
+p37
+aa(lp38
+VBut if you think a whole lot of other things matter that lead up to well being \u2014
+p39
+aVthings like your family relationships, friendship, community, values \u2014
+p40
+aVthen, actually, this is an incredibly exciting time to be in politics.
+p41
+aVAnd the really simple argument I want to make tonight,
+p42
+aVthe really straightforward argument is this:
+p43
+aVThat if we combine the right political philosophy, the right political thinking,
+p44
+aVwith the incredible information revolution that has taken place,
+p45
+aVand that all of you know so much more about than I do,
+p46
+aVI think there's an incredible opportunity to actually remake politics,
+p47
+aVremake government, remake public services,
+p48
+aVand achieve what's up on that slide, which is a big increase in our well-being.
+p49
+aVThat's the argument I want to make tonight.
+p50
+aa(lp51
+VSo, starting with the political philosophy.
+p52
+aVNow I'm not saying for a minute that British Conservatives have all the answers.
+p53
+aVOf course we don't.
+p54
+aVBut there are two things at heart that I think drive a conservative philosophy
+p55
+aVthat are really relevant to this whole debate.
+p56
+aVThe first is this: We believe that if you give people
+p57
+aVmore power and control over their lives,
+p58
+aVif you give people more choice,
+p59
+aVif you put them in the driving seat,
+p60
+aVthen actually, you can create a stronger and better society.
+p61
+aVAnd if you marry this fact with the incredible abundance
+p62
+aVof information that we have in our world today,
+p63
+aVI think you can completely, as I've said,
+p64
+aVremake politics, remake government, remake your public services.
+p65
+aa(lp66
+VThe second thing we believe is we believe in going with the grain of human nature.
+p67
+aVPolitics and politicians will only succeed
+p68
+aVif they actually try and treat with people as they are,
+p69
+aVrather than as they would like them to be.
+p70
+aVNow, if you combine this very simple, very conservative thought \u2014
+p71
+aVgo with the grain of human nature \u2014
+p72
+aVwith all the advances in behavioral economics,
+p73
+aVsome of which we were just hearing about,
+p74
+aVagain, I think we can achieve a real increase in well-being,
+p75
+aVin happiness, in a stronger society
+p76
+aVwithout necessarily having to spend a whole lot more money.
+p77
+aa(lp78
+VNow, why do I think now is the moment to make this argument?
+p79
+aVWell, I'm afraid you're going to suffer a short, condensed history lesson
+p80
+aVabout what I would say are the three passages of history:
+p81
+aVthe pre-bureaucratic age, the bureaucratic age
+p82
+aVand what we now live in, which I think is a post-bureaucratic age.
+p83
+aVA simpler way of thinking of it
+p84
+aVis that we have gone from a world of local control,
+p85
+aVthen we went to a world of central control,
+p86
+aVand now we're in a world of people control.
+p87
+aVLocal power, central power, now, people power.
+p88
+aa(lp89
+VNow, here is King Cnut, king a thousand years ago.
+p90
+aVThought he could turn back the waves; couldn't turn back the waves.
+p91
+aVCouldn't actually turn back very much,
+p92
+aVbecause if you were king a thousand years ago,
+p93
+aVwhile it still took hours and hours and weeks and weeks to traverse your own country,
+p94
+aVthere wasn't much you were in charge of.
+p95
+aVYou weren't in charge of policing, justice, education, health, welfare.
+p96
+aVYou could just about go to war and that was about it.
+p97
+aVThis was the pre-bureaucratic age,
+p98
+aVan age in which everything had to be local.
+p99
+aVYou had to have local control because there was no nationally-available information
+p100
+aVbecause travel was so restricted.
+p101
+aVSo this was the pre-bureaucratic age.
+p102
+aa(lp103
+VNext part of the cold history lesson,
+p104
+aVthe lovely picture of the British Industrial Revolution.
+p105
+aVSuddenly, all sorts of transport, travel information were possible,
+p106
+aVand this gave birth to, what I like to call, the bureaucratic age.
+p107
+aVAnd hopefully this slide is going to morph beautifully. There we are.
+p108
+aVSuddenly, you have the big, strong, central state.
+p109
+aVIt was able \u2014 but only it was able \u2014 to organize
+p110
+aVhealth care, education, policing, justice.
+p111
+aVAnd it was a world of, as I say, not local power, but now central power.
+p112
+aVIt had sucked all that power up from the localities.
+p113
+aVIt was able to do that itself.
+p114
+aa(lp115
+VThe next great stage, which all of you are so familiar with:
+p116
+aVthe massive information revolution.
+p117
+aVJust consider this one fact:
+p118
+aVOne hundred years ago, sending these 10 words cost 50 dollars.
+p119
+aVRight now, here we are linked up to Long Beach and everywhere else,
+p120
+aVand all these secret locations for a fraction of that cost,
+p121
+aVand we can send and receive huge quantities of information
+p122
+aVwithout it costing anything.
+p123
+aVSo we're now living in a post-bureaucratic age,
+p124
+aVwhere genuine people power is possible.
+p125
+aa(lp126
+VNow, what does this mean for our politics,
+p127
+aVfor our public services, for our government?
+p128
+aVWell I can't, in the time I've got, give huge numbers of examples,
+p129
+aVbut let me just give a few of the ways that life can change.
+p130
+aVAnd this is so obvious, in a way, because
+p131
+aVyou think about how all of you have changed
+p132
+aVthe way we shop, the way we travel, the way that business is done.
+p133
+aVThat is already happened; the information and Internet revolution
+p134
+aVhas actually gone all the way through our societies in so many different ways,
+p135
+aVbut it hasn't, in every way, yet touched our government.
+p136
+aa(lp137
+VSo, how could this happen?
+p138
+aVWell, I think there are three chief ways that it should make an enormous difference:
+p139
+aVin transparency, in greater choice and in accountability,
+p140
+aVin giving us that genuine people power.
+p141
+aVIf we take transparency, here is one of my favorite websites,
+p142
+aVthe Missouri Accountability Portal.
+p143
+aVIn the old days, only the government could hold the information,
+p144
+aVand only a few elected people could try and grab that information
+p145
+aVand question it and challenge it.
+p146
+aVNow here, on one website, one state in America,
+p147
+aVevery single dollar spent by that government
+p148
+aVis searchable, is analyzable, is checkable.
+p149
+aa(lp150
+VThink of the huge change that means:
+p151
+aVAny business that wants to bid for a government contract
+p152
+aVcan see what currently is being spent.
+p153
+aVAnyone thinking, "I could do that service better, I could deliver it cheaper,"
+p154
+aVit's all available there.
+p155
+aVWe have only, in government and in politics,
+p156
+aVstarted to scratch the surface of what people are doing in the commercial world
+p157
+aVwith the information revolution.
+p158
+aVSo, complete transparency will make a huge difference.
+p159
+aVIn this country, if we win the election,
+p160
+aVwe are going to make all government spending over 25,000 pounds
+p161
+aVtransparent and available online, searchable for anyone to see.
+p162
+aVWe're going to make every contract \u2014 we're announcing this today \u2014
+p163
+aVavailable on the Internet so anyone can see
+p164
+aVwhat the terms are, what the conditions are,
+p165
+aVdriving huge value for money,
+p166
+aVbut also huge increases, I believe, in well-being as well.
+p167
+aa(lp168
+VChoice. Now you all shop online, compare online, do everything online,
+p169
+aVand yet this revolution has hardly touched the surface
+p170
+aVof public services like education, or health care or policing,
+p171
+aVand you're going to see this change massively.
+p172
+aVWe should be making this change
+p173
+aVwith the information revolution in our country,
+p174
+aVwith searchable health sites, so you can see what operations work out properly,
+p175
+aVwhat records doctors have, the cleanliness of hospitals,
+p176
+aVwho does best at infection control \u2014
+p177
+aVall of the information that would once be locked in the Department of Health
+p178
+aVis now available for all of us to see.
+p179
+aa(lp180
+VAnd the third of these big changes: accountability.
+p181
+aVThis, I think, is a huge change.
+p182
+aVIt is a crime map. This is a crime map from Chicago.
+p183
+aVSo, instead of having a situation where only the police have the information
+p184
+aVabout which crimes are committed where,
+p185
+aVand we have to employ people in government
+p186
+aVto try and hold the police to account,
+p187
+aVsuddenly, we've got this vast opportunity for people power,
+p188
+aVwhere we, as citizens, can see what crimes are being committed \u2014
+p189
+aVwhere, when and by whom \u2014
+p190
+aVand we can hold the police to account.
+p191
+aVAnd you can see this looks a bit like a chef's hat,
+p192
+aVbut actually that's an assault, the one in blue.
+p193
+aVYou can see what crime is committed where,
+p194
+aVand you have the opportunity to hold your police force to account.
+p195
+aVSo those three ways \u2014 transparency, accountability and choice \u2014
+p196
+aVwill make a huge difference.
+p197
+aa(lp198
+VNow I also said the other principle
+p199
+aVthat I think we should work on is understanding of people,
+p200
+aVis recognizing that going with the grain of human nature
+p201
+aVyou can achieve so much more.
+p202
+aVNow, we're got a huge revolution in understanding
+p203
+aVof why people behave in the way that they do,
+p204
+aVand a great opportunity to put that knowledge and information to greater use.
+p205
+aVWe're working with some of these people.
+p206
+aVWe're being advised by some of these people, as was said,
+p207
+aVto try and bring all the experience to book.
+p208
+aa(lp209
+VLet me just give you one example that I think is incredibly simple, and I love.
+p210
+aVWe want to get people to be more energy efficient.
+p211
+aVWhy? It cuts fuel poverty, it cuts their bills,
+p212
+aVand it cuts carbon emissions at the same time.
+p213
+aVHow do you do it?
+p214
+aVWell, we've had government information campaigns over the years
+p215
+aVwhen they tell you to switch off the lights when you leave the home.
+p216
+aVWe even had \u2014 one government minister once told us to
+p217
+aVbrush our teeth in the dark.
+p218
+aVI don't think they lasted very long.
+p219
+aVLook at what this does. This is a simple piece of behavioral economics.
+p220
+aVThe best way to get someone to cut their electricity bill
+p221
+aVis to show them their own spending,
+p222
+aVto show them what their neighbors are spending,
+p223
+aVand then show what an energy conscious neighbor is spending.
+p224
+aVThat sort of behavioral economics
+p225
+aVcan transform people's behavior
+p226
+aVin a way that all the bullying and all the information
+p227
+aVand all the badgering from a government cannot possibly achieve.
+p228
+aVOther examples are recycling.
+p229
+aVWe all know we need to recycle more.
+p230
+aVHow do we make it happen?
+p231
+aVAll the proof from America is that actually, if you pay people to recycle,
+p232
+aVif you give them a carrot rather than a stick,
+p233
+aVyou can transform their behavior.
+p234
+aa(lp235
+VSo what does all this add up to?
+p236
+aVHere are my two favorite U.S. speeches of the last 50 years.
+p237
+aVObviously, here we have JFK with that incredibly simple
+p238
+aVand powerful formulation,
+p239
+aV"Ask not what your country can do for you; ask what you can do for your country,"
+p240
+aVan incredibly noble sentiment.
+p241
+aVBut when he made that speech, what could you do
+p242
+aVto build the stronger, better society?
+p243
+aVYou could fight for your country, you could die for your country,
+p244
+aVyou could serve in your country's civil service,
+p245
+aVbut you didn't really have the information and the knowledge
+p246
+aVand the ability to help build the stronger society in the way that you do now.
+p247
+aa(lp248
+VAnd I think an even more wonderful speech,
+p249
+aVwhich I'm going to read a big chunk of,
+p250
+aVwhich sums up what I said at the beginning
+p251
+aVabout believing there is more to life than money,
+p252
+aVand more that we should try and measure than money.
+p253
+aVAnd it is Robert Kennedy's beautiful description
+p254
+aVof why gross national product captures so little:
+p255
+aVIt "does not allow for the health of our children,
+p256
+aVthe quality of their education, or the joy of their play.
+p257
+aVIt does not include the beauty of our poetry or the strength of our marriages,
+p258
+aVthe intelligence of our public debate.
+p259
+aVIt measures neither our wit nor our courage,
+p260
+aVneither our wisdom nor our learning,
+p261
+aVneither our compassion nor our devotion to our country.
+p262
+aVIt measures everything, in short,
+p263
+aVexcept that which makes life worthwhile."
+p264
+aa(lp265
+VAgain, a sentiment that was so noble and beautifully put 40 years ago,
+p266
+aVand a beautiful dream 40 years ago,
+p267
+aVbut now with the huge advances in information technology,
+p268
+aVwith the massive changes in behavioral economics,
+p269
+aVwith all that we know about how you advance well-being,
+p270
+aVthat if we combine those insights
+p271
+aVof giving power to people, and using information to make that possible,
+p272
+aVand using the insight of going with the grain of human nature,
+p273
+aVwhile at the same time, understanding why people behave in the way they do,
+p274
+aVit is a dream more easy to realize today
+p275
+aVthan it was when it was made in that beautiful speech 40 years ago.
+p276
+aa(lp277
+VThank you.
+p278
+aV(Applause)
+p279
+aasS'id'
+p280
+I768
+sS'title'
+p281
+VThe next age of government
+p282
+s.

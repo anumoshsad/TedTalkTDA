@@ -1,0 +1,1068 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWell, as Chris pointed out, I study the human brain,
+p4
+aVthe functions and structure of the human brain.
+p5
+aVAnd I just want you to think for a minute about what this entails.
+p6
+aVHere is this mass of jelly, three-pound mass of jelly
+p7
+aVyou can hold in the palm of your hand,
+p8
+aVand it can contemplate the vastness of interstellar space.
+p9
+aVIt can contemplate the meaning of infinity
+p10
+aVand it can contemplate itself contemplating on the meaning of infinity.
+p11
+aVAnd this peculiar recursive quality that we call self-awareness,
+p12
+aVwhich I think is the holy grail of neuroscience, of neurology,
+p13
+aVand hopefully, someday, we'll understand how that happens.
+p14
+aa(lp15
+VOK, so how do you study this mysterious organ?
+p16
+aVI mean, you have 100 billion nerve cells,
+p17
+aVlittle wisps of protoplasm, interacting with each other,
+p18
+aVand from this activity emerges the whole spectrum of abilities
+p19
+aVthat we call human nature and human consciousness.
+p20
+aVHow does this happen?
+p21
+aVWell, there are many ways of approaching the functions of the human brain.
+p22
+aVOne approach, the one we use mainly,
+p23
+aVis to look at patients with sustained damage to a small region of the brain,
+p24
+aVwhere there's been a genetic change in a small region of the brain.
+p25
+aVWhat then happens is not an across-the-board reduction
+p26
+aVin all your mental capacities,
+p27
+aVa sort of blunting of your cognitive ability.
+p28
+aVWhat you get is a highly selective loss of one function,
+p29
+aVwith other functions being preserved intact,
+p30
+aVand this gives you some confidence in asserting
+p31
+aVthat that part of the brain is somehow involved in mediating that function.
+p32
+aVSo you can then map function onto structure,
+p33
+aVand then find out what the circuitry's doing
+p34
+aVto generate that particular function.
+p35
+aVSo that's what we're trying to do.
+p36
+aa(lp37
+VSo let me give you a few striking examples of this.
+p38
+aVIn fact, I'm giving you three examples, six minutes each, during this talk.
+p39
+aVThe first example is an extraordinary syndrome called Capgras syndrome.
+p40
+aVIf you look at the first slide there,
+p41
+aVthat's the temporal lobes, frontal lobes, parietal lobes, OK \u2014
+p42
+aVthe lobes that constitute the brain.
+p43
+aVAnd if you look, tucked away inside the inner surface of the temporal lobes \u2014
+p44
+aVyou can't see it there \u2014
+p45
+aVis a little structure called the fusiform gyrus.
+p46
+aVAnd that's been called the face area in the brain,
+p47
+aVbecause when it's damaged, you can no longer recognize people's faces.
+p48
+aVYou can still recognize them from their voice
+p49
+aVand say, "Oh yeah, that's Joe,"
+p50
+aVbut you can't look at their face and know who it is, right?
+p51
+aVYou can't even recognize yourself in the mirror.
+p52
+aVI mean, you know it's you because you wink and it winks,
+p53
+aVand you know it's a mirror,
+p54
+aVbut you don't really recognize yourself as yourself.
+p55
+aa(lp56
+VOK. Now that syndrome is well known as caused by damage to the fusiform gyrus.
+p57
+aVBut there's another rare syndrome, so rare, in fact,
+p58
+aVthat very few physicians have heard about it, not even neurologists.
+p59
+aVThis is called the Capgras delusion,
+p60
+aVand that is a patient, who's otherwise completely normal,
+p61
+aVhas had a head injury, comes out of coma,
+p62
+aVotherwise completely normal, he looks at his mother
+p63
+aVand says, "This looks exactly like my mother, this woman,
+p64
+aVbut she's an impostor.
+p65
+aVShe's some other woman pretending to be my mother."
+p66
+aVNow, why does this happen?
+p67
+aVWhy would somebody \u2014 and this person is perfectly lucid and intelligent
+p68
+aVin all other respects, but when he sees his mother,
+p69
+aVhis delusion kicks in and says, it's not mother.
+p70
+aa(lp71
+VNow, the most common interpretation of this,
+p72
+aVwhich you find in all the psychiatry textbooks,
+p73
+aVis a Freudian view, and that is that this chap \u2014
+p74
+aVand the same argument applies to women, by the way,
+p75
+aVbut I'll just talk about guys.
+p76
+aVWhen you're a little baby, a young baby,
+p77
+aVyou had a strong sexual attraction to your mother.
+p78
+aVThis is the so-called Oedipus complex of Freud.
+p79
+aVI'm not saying I believe this,
+p80
+aVbut this is the standard Freudian view.
+p81
+aVAnd then, as you grow up, the cortex develops,
+p82
+aVand inhibits these latent sexual urges towards your mother.
+p83
+aVThank God, or you would all be sexually aroused when you saw your mother.
+p84
+aVAnd then what happens is,
+p85
+aVthere's a blow to your head, damaging the cortex,
+p86
+aVallowing these latent sexual urges to emerge,
+p87
+aVflaming to the surface, and suddenly and inexplicably
+p88
+aVyou find yourself being sexually aroused by your mother.
+p89
+aVAnd you say, "My God, if this is my mom,
+p90
+aVhow come I'm being sexually turned on?
+p91
+aVShe's some other woman. She's an impostor."
+p92
+aVIt's the only interpretation that makes sense to your damaged brain.
+p93
+aa(lp94
+VThis has never made much sense to me, this argument.
+p95
+aVIt's very ingenious, as all Freudian arguments are \u2014
+p96
+aV(Laughter)
+p97
+aV\u2014 but didn't make much sense because I have seen the same delusion,
+p98
+aVa patient having the same delusion, about his pet poodle.
+p99
+aV(Laughter)
+p100
+aVHe'll say, "Doctor, this is not Fifi. It looks exactly like Fifi,
+p101
+aVbut it's some other dog." Right?
+p102
+aVNow, you try using the Freudian explanation there.
+p103
+aV(Laughter)
+p104
+aVYou'll start talking about the latent bestiality in all humans,
+p105
+aVor some such thing, which is quite absurd, of course.
+p106
+aa(lp107
+VNow, what's really going on?
+p108
+aVSo, to explain this curious disorder,
+p109
+aVwe look at the structure and functions of the normal visual pathways in the brain.
+p110
+aVNormally, visual signals come in, into the eyeballs,
+p111
+aVgo to the visual areas in the brain.
+p112
+aVThere are, in fact, 30 areas in the back of your brain concerned with just vision,
+p113
+aVand after processing all that, the message goes to a small structure
+p114
+aVcalled the fusiform gyrus, where you perceive faces.
+p115
+aVThere are neurons there that are sensitive to faces.
+p116
+aVYou can call it the face area of the brain, right?
+p117
+aVI talked about that earlier.
+p118
+aVNow, when that area's damaged, you lose the ability to see faces, right?
+p119
+aa(lp120
+VBut from that area, the message cascades
+p121
+aVinto a structure called the amygdala in the limbic system,
+p122
+aVthe emotional core of the brain,
+p123
+aVand that structure, called the amygdala,
+p124
+aVgauges the emotional significance of what you're looking at.
+p125
+aVIs it prey? Is it predator? Is it mate?
+p126
+aVOr is it something absolutely trivial, like a piece of lint,
+p127
+aVor a piece of chalk, or a \u2014 I don't want to point to that, but \u2014
+p128
+aVor a shoe, or something like that? OK?
+p129
+aVWhich you can completely ignore.
+p130
+aVSo if the amygdala is excited, and this is something important,
+p131
+aVthe messages then cascade into the autonomic nervous system.
+p132
+aVYour heart starts beating faster.
+p133
+aVYou start sweating to dissipate the heat that you're going to
+p134
+aVcreate from muscular exertion.
+p135
+aVAnd that's fortunate, because we can put two electrodes on your palm
+p136
+aVand measure the change in skin resistance produced by sweating.
+p137
+aVSo I can determine, when you're looking at something,
+p138
+aVwhether you're excited or whether you're aroused, or not, OK?
+p139
+aVAnd I'll get to that in a minute.
+p140
+aa(lp141
+VSo my idea was, when this chap looks at an object, when he looks at his \u2014
+p142
+aVany object for that matter, it goes to the visual areas and,
+p143
+aVhowever, and it's processed in the fusiform gyrus,
+p144
+aVand you recognize it as a pea plant, or a table,
+p145
+aVor your mother, for that matter, OK?
+p146
+aVAnd then the message cascades into the amygdala,
+p147
+aVand then goes down the autonomic nervous system.
+p148
+aVBut maybe, in this chap, that wire that goes from the amygdala to the limbic system,
+p149
+aVthe emotional core of the brain, is cut by the accident.
+p150
+aVSo because the fusiform is intact,
+p151
+aVthe chap can still recognize his mother,
+p152
+aVand says, "Oh yeah, this looks like my mother."
+p153
+aVBut because the wire is cut to the emotional centers,
+p154
+aVhe says, "But how come, if it's my mother, I don't experience a warmth?"
+p155
+aVOr terror, as the case may be? Right?
+p156
+aV(Laughter)
+p157
+aVAnd therefore, he says, "How do I account for this inexplicable lack of emotions?
+p158
+aVThis can't be my mother.
+p159
+aVIt's some strange woman pretending to be my mother."
+p160
+aa(lp161
+VHow do you test this?
+p162
+aVWell, what you do is, if you take any one of you here, and put you in front of a screen,
+p163
+aVand measure your galvanic skin response,
+p164
+aVand show pictures on the screen,
+p165
+aVI can measure how you sweat when you see an object,
+p166
+aVlike a table or an umbrella. Of course, you don't sweat.
+p167
+aVIf I show you a picture of a lion, or a tiger, or a pinup, you start sweating, right?
+p168
+aVAnd, believe it or not, if I show you a picture of your mother \u2014
+p169
+aVI'm talking about normal people \u2014 you start sweating.
+p170
+aVYou don't even have to be Jewish.
+p171
+aV(Laughter)
+p172
+aa(lp173
+VNow, what happens if you show this patient?
+p174
+aVYou take the patient and show him pictures on the screen
+p175
+aVand measure his galvanic skin response.
+p176
+aVTables and chairs and lint, nothing happens, as in normal people,
+p177
+aVbut when you show him a picture of his mother,
+p178
+aVthe galvanic skin response is flat.
+p179
+aVThere's no emotional reaction to his mother,
+p180
+aVbecause that wire going from the visual areas to the emotional centers is cut.
+p181
+aVSo his vision is normal because the visual areas are normal,
+p182
+aVhis emotions are normal \u2014 he'll laugh, he'll cry, so on and so forth \u2014
+p183
+aVbut the wire from vision to emotions is cut
+p184
+aVand therefore he has this delusion that his mother is an impostor.
+p185
+aVIt's a lovely example of the sort of thing we do:
+p186
+aVtake a bizarre, seemingly incomprehensible, neural psychiatric syndrome
+p187
+aVand say that the standard Freudian view is wrong,
+p188
+aVthat, in fact, you can come up with a precise explanation
+p189
+aVin terms of the known neural anatomy of the brain.
+p190
+aa(lp191
+VBy the way, if this patient then goes,
+p192
+aVand mother phones from an adjacent room \u2014 phones him \u2014
+p193
+aVand he picks up the phone, and he says, "Wow, mom, how are you? Where are you?"
+p194
+aVThere's no delusion through the phone.
+p195
+aVThen, she approaches him after an hour, he says, "Who are you?
+p196
+aVYou look just like my mother." OK?
+p197
+aVThe reason is there's a separate pathway
+p198
+aVgoing from the hearing centers in the brain to the emotional centers,
+p199
+aVand that's not been cut by the accident.
+p200
+aVSo this explains why through the phone he recognizes his mother, no problem.
+p201
+aVWhen he sees her in person, he says it's an impostor.
+p202
+aa(lp203
+VOK, how is all this complex circuitry set up in the brain?
+p204
+aVIs it nature, genes, or is it nurture?
+p205
+aVAnd we approach this problem
+p206
+aVby considering another curious syndrome called phantom limb.
+p207
+aVAnd you all know what a phantom limb is.
+p208
+aVWhen an arm is amputated, or a leg is amputated, for gangrene,
+p209
+aVor you lose it in war \u2014 for example, in the Iraq war,
+p210
+aVit's now a serious problem \u2014
+p211
+aVyou continue to vividly feel the presence of that missing arm,
+p212
+aVand that's called a phantom arm or a phantom leg.
+p213
+aVIn fact, you can get a phantom with almost any part of the body.
+p214
+aVBelieve it or not, even with internal viscera.
+p215
+aVI've had patients with the uterus removed \u2014 hysterectomy \u2014
+p216
+aVwho have a phantom uterus, including phantom menstrual cramps
+p217
+aVat the appropriate time of the month.
+p218
+aVAnd in fact, one student asked me the other day,
+p219
+aV"Do they get phantom PMS?"
+p220
+aV(Laughter)
+p221
+aVA subject ripe for scientific enquiry, but we haven't pursued that.
+p222
+aa(lp223
+VOK, now the next question is,
+p224
+aVwhat can you learn about phantom limbs by doing experiments?
+p225
+aVOne of the things we've found was,
+p226
+aVabout half the patients with phantom limbs
+p227
+aVclaim that they can move the phantom.
+p228
+aVIt'll pat his brother on the shoulder,
+p229
+aVit'll answer the phone when it rings, it'll wave goodbye.
+p230
+aVThese are very compelling, vivid sensations.
+p231
+aVThe patient's not delusional.
+p232
+aVHe knows that the arm is not there,
+p233
+aVbut, nevertheless, it's a compelling sensory experience for the patient.
+p234
+aVBut however, about half the patients, this doesn't happen.
+p235
+aVThe phantom limb \u2014 they'll say, "But doctor, the phantom limb is paralyzed.
+p236
+aVIt's fixed in a clenched spasm and it's excruciatingly painful.
+p237
+aVIf only I could move it, maybe the pain will be relieved."
+p238
+aa(lp239
+VNow, why would a phantom limb be paralyzed?
+p240
+aVIt sounds like an oxymoron.
+p241
+aVBut when we were looking at the case sheets, what we found was,
+p242
+aVthese people with the paralyzed phantom limbs,
+p243
+aVthe original arm was paralyzed because of the peripheral nerve injury.
+p244
+aVThe actual nerve supplying the arm was severed,
+p245
+aVwas cut, by say, a motorcycle accident.
+p246
+aVSo the patient had an actual arm, which is painful,
+p247
+aVin a sling for a few months or a year, and then,
+p248
+aVin a misguided attempt to get rid of the pain in the arm,
+p249
+aVthe surgeon amputates the arm,
+p250
+aVand then you get a phantom arm with the same pains, right?
+p251
+aVAnd this is a serious clinical problem.
+p252
+aVPatients become depressed.
+p253
+aVSome of them are driven to suicide, OK?
+p254
+aa(lp255
+VSo, how do you treat this syndrome?
+p256
+aVNow, why do you get a paralyzed phantom limb?
+p257
+aVWhen I looked at the case sheet, I found that they had an actual arm,
+p258
+aVand the nerves supplying the arm had been cut,
+p259
+aVand the actual arm had been paralyzed,
+p260
+aVand lying in a sling for several months before the amputation,
+p261
+aVand this pain then gets carried over into the phantom itself.
+p262
+aa(lp263
+VWhy does this happen?
+p264
+aVWhen the arm was intact, but paralyzed,
+p265
+aVthe brain sends commands to the arm, the front of the brain, saying, "Move,"
+p266
+aVbut it's getting visual feedback saying, "No."
+p267
+aVMove. No. Move. No. Move. No.
+p268
+aVAnd this gets wired into the circuitry of the brain,
+p269
+aVand we call this learned paralysis, OK?
+p270
+aVThe brain learns, because of this Hebbian, associative link,
+p271
+aVthat the mere command to move the arm
+p272
+aVcreates a sensation of a paralyzed arm.
+p273
+aVAnd then, when you've amputated the arm,
+p274
+aVthis learned paralysis carries over into your body image
+p275
+aVand into your phantom, OK?
+p276
+aa(lp277
+VNow, how do you help these patients?
+p278
+aVHow do you unlearn the learned paralysis,
+p279
+aVso you can relieve him of this excruciating, clenching spasm
+p280
+aVof the phantom arm?
+p281
+aVWell, we said, what if you now send the command to the phantom,
+p282
+aVbut give him visual feedback that it's obeying his command, right?
+p283
+aVMaybe you can relieve the phantom pain, the phantom cramp.
+p284
+aVHow do you do that? Well, virtual reality.
+p285
+aVBut that costs millions of dollars.
+p286
+aVSo, I hit on a way of doing this for three dollars,
+p287
+aVbut don't tell my funding agencies.
+p288
+aV(Laughter)
+p289
+aa(lp290
+VOK? What you do is you create what I call a mirror box.
+p291
+aVYou have a cardboard box with a mirror in the middle,
+p292
+aVand then you put the phantom \u2014 so my first patient, Derek, came in.
+p293
+aVHe had his arm amputated 10 years ago.
+p294
+aVHe had a brachial avulsion, so the nerves were cut
+p295
+aVand the arm was paralyzed, lying in a sling for a year, and then the arm was amputated.
+p296
+aVHe had a phantom arm, excruciatingly painful, and he couldn't move it.
+p297
+aVIt was a paralyzed phantom arm.
+p298
+aa(lp299
+VSo he came there, and I gave him a mirror like that, in a box,
+p300
+aVwhich I call a mirror box, right?
+p301
+aVAnd the patient puts his phantom left arm,
+p302
+aVwhich is clenched and in spasm, on the left side of the mirror,
+p303
+aVand the normal hand on the right side of the mirror,
+p304
+aVand makes the same posture, the clenched posture,
+p305
+aVand looks inside the mirror. And what does he experience?
+p306
+aVHe looks at the phantom being resurrected,
+p307
+aVbecause he's looking at the reflection of the normal arm in the mirror,
+p308
+aVand it looks like this phantom has been resurrected.
+p309
+aV"Now," I said, "now, look, wiggle your phantom \u2014
+p310
+aVyour real fingers, or move your real fingers while looking in the mirror."
+p311
+aVHe's going to get the visual impression that the phantom is moving, right?
+p312
+aVThat's obvious, but the astonishing thing is,
+p313
+aVthe patient then says, "Oh my God, my phantom is moving again,
+p314
+aVand the pain, the clenching spasm, is relieved."
+p315
+aa(lp316
+VAnd remember, my first patient who came in \u2014
+p317
+aV(Applause)
+p318
+aV\u2014 thank you. (Applause)
+p319
+aVMy first patient came in, and he looked in the mirror,
+p320
+aVand I said, "Look at your reflection of your phantom."
+p321
+aVAnd he started giggling, he says, "I can see my phantom."
+p322
+aVBut he's not stupid. He knows it's not real.
+p323
+aVHe knows it's a mirror reflection,
+p324
+aVbut it's a vivid sensory experience.
+p325
+aVNow, I said, "Move your normal hand and phantom."
+p326
+aVHe said, "Oh, I can't move my phantom. You know that. It's painful."
+p327
+aVI said, "Move your normal hand."
+p328
+aVAnd he says, "Oh my God, my phantom is moving again. I don't believe this!
+p329
+aVAnd my pain is being relieved." OK?
+p330
+aVAnd then I said, "Close your eyes."
+p331
+aVHe closes his eyes.
+p332
+aV"And move your normal hand."
+p333
+aV"Oh, nothing. It's clenched again."
+p334
+aV"OK, open your eyes."
+p335
+aV"Oh my God, oh my God, it's moving again!"
+p336
+aVSo, he was like a kid in a candy store.
+p337
+aa(lp338
+VSo, I said, OK, this proves my theory about learned paralysis
+p339
+aVand the critical role of visual input,
+p340
+aVbut I'm not going to get a Nobel Prize
+p341
+aVfor getting somebody to move his phantom limb.
+p342
+aV(Laughter)
+p343
+aV(Applause)
+p344
+aVIt's a completely useless ability, if you think about it.
+p345
+aV(Laughter)
+p346
+aVBut then I started realizing, maybe other kinds of paralysis
+p347
+aVthat you see in neurology, like stroke, focal dystonias \u2014
+p348
+aVthere may be a learned component to this,
+p349
+aVwhich you can overcome with the simple device of using a mirror.
+p350
+aa(lp351
+VSo, I said, "Look, Derek" \u2014
+p352
+aVwell, first of all, the guy can't just go around carrying a mirror to alleviate his pain \u2014
+p353
+aVI said, "Look, Derek, take it home and practice with it for a week or two.
+p354
+aVMaybe, after a period of practice,
+p355
+aVyou can dispense with the mirror, unlearn the paralysis,
+p356
+aVand start moving your paralyzed arm,
+p357
+aVand then, relieve yourself of pain."
+p358
+aVSo he said OK, and he took it home.
+p359
+aVI said, "Look, it's, after all, two dollars. Take it home."
+p360
+aa(lp361
+VSo, he took it home, and after two weeks, he phones me,
+p362
+aVand he said, "Doctor, you're not going to believe this."
+p363
+aVI said, "What?"
+p364
+aVHe said, "It's gone."
+p365
+aVI said, "What's gone?"
+p366
+aVI thought maybe the mirror box was gone.
+p367
+aV(Laughter)
+p368
+aVHe said, "No, no, no, you know this phantom I've had for the last 10 years?
+p369
+aVIt's disappeared."
+p370
+aVAnd I said \u2014 I got worried, I said, my God,
+p371
+aVI mean I've changed this guy's body image,
+p372
+aVwhat about human subjects, ethics and all of that?
+p373
+aVAnd I said, "Derek, does this bother you?"
+p374
+aVHe said, "No, last three days, I've not had a phantom arm
+p375
+aVand therefore no phantom elbow pain, no clenching,
+p376
+aVno phantom forearm pain, all those pains are gone away.
+p377
+aVBut the problem is I still have my phantom fingers dangling from the shoulder,
+p378
+aVand your box doesn't reach."
+p379
+aV(Laughter)
+p380
+aV"So, can you change the design and put it on my forehead,
+p381
+aVso I can, you know, do this and eliminate my phantom fingers?"
+p382
+aVHe thought I was some kind of magician.
+p383
+aa(lp384
+VNow, why does this happen?
+p385
+aVIt's because the brain is faced with tremendous sensory conflict.
+p386
+aVIt's getting messages from vision saying the phantom is back.
+p387
+aVOn the other hand, there's no proprioception,
+p388
+aVmuscle signals saying that there is no arm, right?
+p389
+aVAnd your motor command saying there is an arm,
+p390
+aVand, because of this conflict, the brain says, to hell with it,
+p391
+aVthere is no phantom, there is no arm, right?
+p392
+aVIt goes into a sort of denial \u2014 it gates the signals.
+p393
+aVAnd when the arm disappears, the bonus is, the pain disappears
+p394
+aVbecause you can't have disembodied pain floating out there, in space.
+p395
+aVSo, that's the bonus.
+p396
+aa(lp397
+VNow, this technique has been tried on dozens of patients
+p398
+aVby other groups in Helsinki,
+p399
+aVso it may prove to be valuable as a treatment for phantom pain,
+p400
+aVand indeed, people have tried it for stroke rehabilitation.
+p401
+aVStroke you normally think of as damage to the fibers,
+p402
+aVnothing you can do about it.
+p403
+aVBut, it turns out some component of stroke paralysis is also learned paralysis,
+p404
+aVand maybe that component can be overcome using mirrors.
+p405
+aVThis has also gone through clinical trials,
+p406
+aVhelping lots and lots of patients.
+p407
+aa(lp408
+VOK, let me switch gears now to the third part of my talk,
+p409
+aVwhich is about another curious phenomenon called synesthesia.
+p410
+aVThis was discovered by Francis Galton in the nineteenth century.
+p411
+aVHe was a cousin of Charles Darwin.
+p412
+aVHe pointed out that certain people in the population,
+p413
+aVwho are otherwise completely normal, had the following peculiarity:
+p414
+aVevery time they see a number, it's colored.
+p415
+aVFive is blue, seven is yellow, eight is chartreuse,
+p416
+aVnine is indigo, OK?
+p417
+aVBear in mind, these people are completely normal in other respects.
+p418
+aVOr C sharp \u2014 sometimes, tones evoke color.
+p419
+aVC sharp is blue, F sharp is green,
+p420
+aVanother tone might be yellow, right?
+p421
+aa(lp422
+VWhy does this happen?
+p423
+aVThis is called synesthesia. Galton called it synesthesia,
+p424
+aVa mingling of the senses.
+p425
+aVIn us, all the senses are distinct.
+p426
+aVThese people muddle up their senses.
+p427
+aVWhy does this happen?
+p428
+aVOne of the two aspects of this problem are very intriguing.
+p429
+aVSynesthesia runs in families,
+p430
+aVso Galton said this is a hereditary basis, a genetic basis.
+p431
+aVSecondly, synesthesia is about \u2014 and this is what gets me to my point
+p432
+aVabout the main theme of this lecture, which is about creativity \u2014
+p433
+aVsynesthesia is eight times more common among artists, poets, novelists
+p434
+aVand other creative people than in the general population.
+p435
+aVWhy would that be?
+p436
+aVI'm going to answer that question.
+p437
+aVIt's never been answered before.
+p438
+aa(lp439
+VOK, what is synesthesia? What causes it?
+p440
+aVWell, there are many theories.
+p441
+aVOne theory is they're just crazy.
+p442
+aVNow, that's not really a scientific theory, so we can forget about it.
+p443
+aVAnother theory is they are acid junkies and potheads, right?
+p444
+aVNow, there may be some truth to this,
+p445
+aVbecause it's much more common here in the Bay Area than in San Diego.
+p446
+aV(Laughter)
+p447
+aVOK. Now, the third theory is that \u2014
+p448
+aVwell, let's ask ourselves what's really going on in synesthesia. All right?
+p449
+aa(lp450
+VSo, we found that the color area and the number area
+p451
+aVare right next to each other in the brain, in the fusiform gyrus.
+p452
+aVSo we said, there's some accidental cross wiring
+p453
+aVbetween color and numbers in the brain.
+p454
+aVSo, every time you see a number, you see a corresponding color,
+p455
+aVand that's why you get synesthesia.
+p456
+aVNow remember \u2014 why does this happen?
+p457
+aVWhy would there be crossed wires in some people?
+p458
+aVRemember I said it runs in families?
+p459
+aVThat gives you the clue.
+p460
+aVAnd that is, there is an abnormal gene,
+p461
+aVa mutation in the gene that causes this abnormal cross wiring.
+p462
+aa(lp463
+VIn all of us, it turns out
+p464
+aVwe are born with everything wired to everything else.
+p465
+aVSo, every brain region is wired to every other region,
+p466
+aVand these are trimmed down to create
+p467
+aVthe characteristic modular architecture of the adult brain.
+p468
+aVSo, if there's a gene causing this trimming
+p469
+aVand if that gene mutates,
+p470
+aVthen you get deficient trimming between adjacent brain areas.
+p471
+aVAnd if it's between number and color, you get number-color synesthesia.
+p472
+aVIf it's between tone and color, you get tone-color synesthesia.
+p473
+aVSo far, so good.
+p474
+aa(lp475
+VNow, what if this gene is expressed everywhere in the brain,
+p476
+aVso everything is cross-connected?
+p477
+aVWell, think about what artists, novelists and poets have in common,
+p478
+aVthe ability to engage in metaphorical thinking,
+p479
+aVlinking seemingly unrelated ideas,
+p480
+aVsuch as, "It is the east, and Juliet is the Sun."
+p481
+aVWell, you don't say, Juliet is the sun,
+p482
+aVdoes that mean she's a glowing ball of fire?
+p483
+aVI mean, schizophrenics do that, but it's a different story, right?
+p484
+aVNormal people say, she's warm like the sun,
+p485
+aVshe's radiant like the sun, she's nurturing like the sun.
+p486
+aVInstantly, you've found the links.
+p487
+aa(lp488
+VNow, if you assume that this greater cross wiring
+p489
+aVand concepts are also in different parts of the brain,
+p490
+aVthen it's going to create a greater propensity
+p491
+aVtowards metaphorical thinking and creativity
+p492
+aVin people with synesthesia.
+p493
+aVAnd, hence, the eight times more common incidence of synesthesia
+p494
+aVamong poets, artists and novelists.
+p495
+aVOK, it's a very phrenological view of synesthesia.
+p496
+aVThe last demonstration \u2014 can I take one minute?
+p497
+aV(Applause)
+p498
+aa(lp499
+VOK. I'm going to show you that you're all synesthetes, but you're in denial about it.
+p500
+aVHere's what I call Martian alphabet. Just like your alphabet,
+p501
+aVA is A, B is B, C is C.
+p502
+aVDifferent shapes for different phonemes, right?
+p503
+aVHere, you've got Martian alphabet.
+p504
+aVOne of them is Kiki, one of them is Bouba.
+p505
+aVWhich one is Kiki and which one is Bouba?
+p506
+aVHow many of you think that's Kiki and that's Bouba? Raise your hands.
+p507
+aVWell, it's one or two mutants.
+p508
+aV(Laughter)
+p509
+aVHow many of you think that's Bouba, that's Kiki? Raise your hands.
+p510
+aVNinety-nine percent of you.
+p511
+aa(lp512
+VNow, none of you is a Martian. How did you do that?
+p513
+aVIt's because you're all doing a cross-model synesthetic abstraction,
+p514
+aVmeaning you're saying that that sharp inflection \u2014 ki-ki,
+p515
+aVin your auditory cortex, the hair cells being excited \u2014 Kiki,
+p516
+aVmimics the visual inflection, sudden inflection of that jagged shape.
+p517
+aVNow, this is very important, because what it's telling you
+p518
+aVis your brain is engaging in a primitive \u2014
+p519
+aVit's just \u2014 it looks like a silly illusion,
+p520
+aVbut these photons in your eye are doing this shape,
+p521
+aVand hair cells in your ear are exciting the auditory pattern,
+p522
+aVbut the brain is able to extract the common denominator.
+p523
+aVIt's a primitive form of abstraction,
+p524
+aVand we now know this happens in the fusiform gyrus of the brain,
+p525
+aVbecause when that's damaged,
+p526
+aVthese people lose the ability to engage in Bouba Kiki,
+p527
+aVbut they also lose the ability to engage in metaphor.
+p528
+aa(lp529
+VIf you ask this guy, what \u2014 "all that glitters is not gold,"
+p530
+aVwhat does that mean?"
+p531
+aVThe patient says, "Well, if it's metallic and shiny, it doesn't mean it's gold.
+p532
+aVYou have to measure its specific gravity, OK?"
+p533
+aVSo, they completely miss the metaphorical meaning.
+p534
+aVSo, this area is about eight times the size in higher \u2014
+p535
+aVespecially in humans \u2014 as in lower primates.
+p536
+aVSomething very interesting is going on here in the angular gyrus,
+p537
+aVbecause it's the crossroads between hearing, vision and touch,
+p538
+aVand it became enormous in humans. And something very interesting is going on.
+p539
+aVAnd I think it's a basis of many uniquely human abilities
+p540
+aVlike abstraction, metaphor and creativity.
+p541
+aVAll of these questions that philosophers have been studying for millennia,
+p542
+aVwe scientists can begin to explore by doing brain imaging,
+p543
+aVand by studying patients and asking the right questions.
+p544
+aVThank you.
+p545
+aV(Applause)
+p546
+aVSorry about that.
+p547
+aV(Laughter)
+p548
+aasS'id'
+p549
+I184
+sS'title'
+p550
+V3 clues to understanding your brain
+p551
+s.

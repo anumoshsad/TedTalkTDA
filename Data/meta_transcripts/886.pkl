@@ -1,0 +1,970 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThank you so much. I'm going to try to take you
+p4
+aVon a journey of the underwater acoustic world
+p5
+aVof whales and dolphins.
+p6
+aVSince we are such a visual species,
+p7
+aVit's hard for us to really understand this,
+p8
+aVso I'll use a mixture of figures and sounds
+p9
+aVand hope this can communicate it.
+p10
+aVBut let's also think, as a visual species,
+p11
+aVwhat it's like when we go snorkeling or diving
+p12
+aVand try to look underwater.
+p13
+aVWe really can't see very far.
+p14
+aVOur vision, which works so well in air,
+p15
+aVall of a sudden is very restricted and claustrophobic.
+p16
+aVAnd what marine mammals have evolved
+p17
+aVover the last tens of millions of years
+p18
+aVis ways to depend on sound
+p19
+aVto both explore their world
+p20
+aVand also to stay in touch with one another.
+p21
+aa(lp22
+VDolphins and toothed whales use echolocation.
+p23
+aVThey can produce loud clicks
+p24
+aVand listen for echoes from the sea floor in order to orient.
+p25
+aVThey can listen for echoes from prey
+p26
+aVin order to decide where food is
+p27
+aVand to decide which one they want to eat.
+p28
+aVAll marine mammals use sound for communication to stay in touch.
+p29
+aVSo the large baleen whales
+p30
+aVwill produce long, beautiful songs,
+p31
+aVwhich are used in reproductive advertisement
+p32
+aVfor male and females, both to find one another
+p33
+aVand to select a mate.
+p34
+aVAnd mother and young and closely bonded animals
+p35
+aVuse calls to stay in touch with one another,
+p36
+aVso sound is really critical for their lives.
+p37
+aa(lp38
+VThe first thing that got me interested in the sounds
+p39
+aVof these underwater animals,
+p40
+aVwhose world was so foreign to me,
+p41
+aVwas evidence from captive dolphins
+p42
+aVthat captive dolphins could imitate human sounds.
+p43
+aVAnd I mentioned I'll use
+p44
+aVsome visual representations of sounds.
+p45
+aVHere's the first example.
+p46
+aVThis is a plot of frequency against time \u2014
+p47
+aVsort of like musical notation,
+p48
+aVwhere the higher notes are up higher and the lower notes are lower,
+p49
+aVand time goes this way.
+p50
+aVThis is a picture of a trainer's whistle,
+p51
+aVa whistle a trainer will blow to tell a dolphin
+p52
+aVit's done the right thing and can come get a fish.
+p53
+aVIt sounds sort of like "tweeeeeet." Like that.
+p54
+aVThis is a calf in captivity
+p55
+aVmaking an imitation
+p56
+aVof that trainer's whistle.
+p57
+aVIf you hummed this tune to your dog or cat
+p58
+aVand it hummed it back to you,
+p59
+aVyou ought to be pretty surprised.
+p60
+aVVery few nonhuman mammals
+p61
+aVcan imitate sounds.
+p62
+aVIt's really important for our music and our language.
+p63
+aa(lp64
+VSo it's a puzzle: The few other mammal groups that do this,
+p65
+aVwhy do they do it?
+p66
+aVA lot of my career has been devoted
+p67
+aVto trying to understand
+p68
+aVhow these animals use their learning,
+p69
+aVuse the ability to change what you say
+p70
+aVbased on what you hear
+p71
+aVin their own communication systems.
+p72
+aVSo let's start with calls of a nonhuman primate.
+p73
+aVMany mammals have to produce contact calls
+p74
+aVwhen, say, a mother and calf are apart.
+p75
+aVThis is an example of a call produced by squirrel monkeys
+p76
+aVwhen they're isolated from another one.
+p77
+aVAnd you can see, there's not much
+p78
+aVvariability in these calls.
+p79
+aVBy contrast, the signature whistle
+p80
+aVwhich dolphins use to stay in touch,
+p81
+aVeach individual here has a radically different call.
+p82
+aVThey can use this ability to learn calls
+p83
+aVin order to develop more complicated and more distinctive calls
+p84
+aVto identify individuals.
+p85
+aa(lp86
+VHow about the setting in which animals need to use this call?
+p87
+aVWell let's look at mothers and calves.
+p88
+aVIn normal life for mother and calf dolphin,
+p89
+aVthey'll often drift apart or swim apart if Mom is chasing a fish,
+p90
+aVand when they separate
+p91
+aVthey have to get back together again.
+p92
+aVWhat this figure shows is the percentage of the separations
+p93
+aVin which dolphins whistle,
+p94
+aVagainst the maximum distance.
+p95
+aVSo when dolphins are separating by less than 20 meters,
+p96
+aVless than half the time they need to use whistles.
+p97
+aVMost of the time they can just find each other
+p98
+aVjust by swimming around.
+p99
+aVBut all of the time when they separate by more than 100 meters,
+p100
+aVthey need to use these individually distinctive whistles
+p101
+aVto come back together again.
+p102
+aVMost of these distinctive signature whistles
+p103
+aVare quite stereotyped and stable
+p104
+aVthrough the life of a dolphin.
+p105
+aVBut there are some exceptions.
+p106
+aa(lp107
+VWhen a male dolphin leaves Mom,
+p108
+aVit will often join up with another male
+p109
+aVand form an alliance, which may last for decades.
+p110
+aVAs these two animals form a social bond,
+p111
+aVtheir distinctive whistles actually converge
+p112
+aVand become very similar.
+p113
+aVThis plot shows two members of a pair.
+p114
+aVAs you can see at the top here,
+p115
+aVthey share an up-sweep, like "woop, woop, woop."
+p116
+aVThey both have that kind of up-sweep.
+p117
+aVWhereas these members of a pair go "wo-ot, wo-ot, wo-ot."
+p118
+aVAnd what's happened is
+p119
+aVthey've used this learning process
+p120
+aVto develop a new sign that identifies this new social group.
+p121
+aVIt's a very interesting way that they can
+p122
+aVform a new identifier
+p123
+aVfor the new social group that they've had.
+p124
+aa(lp125
+VLet's now take a step back
+p126
+aVand see what this message can tell us
+p127
+aVabout protecting dolphins
+p128
+aVfrom human disturbance.
+p129
+aVAnybody looking at this picture
+p130
+aVwill know this dolphin is surrounded,
+p131
+aVand clearly his behavior is being disrupted.
+p132
+aVThis is a bad situation.
+p133
+aVBut it turns out that when just a single boat
+p134
+aVis approaching a group of dolphins
+p135
+aVat a couple hundred meters away,
+p136
+aVthe dolphins will start whistling,
+p137
+aVthey'll change what they're doing, they'll have a more cohesive group,
+p138
+aVwait for the boat to go by,
+p139
+aVand then they'll get back to normal business.
+p140
+aVWell, in a place like Sarasota, Florida,
+p141
+aVthe average interval between times
+p142
+aVthat a boat is passing within a hundred meters of a dolphin group
+p143
+aVis six minutes.
+p144
+aVSo even in the situation that doesn't look as bad as this,
+p145
+aVit's still affecting the amount of time these animals have
+p146
+aVto do their normal work.
+p147
+aa(lp148
+VAnd if we look at a very pristine environment like western Australia,
+p149
+aVLars Bider has done work
+p150
+aVcomparing dolphin behavior and distribution
+p151
+aVbefore there were dolphin-watching boats.
+p152
+aVWhen there was one boat, not much of an impact.
+p153
+aVAnd two boats: When the second boat was added,
+p154
+aVwhat happened was that some of the dolphins
+p155
+aVleft the area completely.
+p156
+aVOf the ones that stayed, their reproductive rate declined.
+p157
+aVSo it could have a negative impact on the whole population.
+p158
+aVWhen we think of marine-protected areas for animals like dolphins,
+p159
+aVthis means that we have to be
+p160
+aVquite conscious about activities that we thought were benign.
+p161
+aVWe may need to regulate the intensity
+p162
+aVof recreational boating and actual whale watching
+p163
+aVin order to prevent these kinds of problems.
+p164
+aVI'd also like to point out that sound
+p165
+aVdoesn't obey boundaries.
+p166
+aVSo you can draw a line to try to protect an area,
+p167
+aVbut chemical pollution and noise pollution
+p168
+aVwill continue to move through the area.
+p169
+aa(lp170
+VAnd I'd like to switch now from this local,
+p171
+aVfamiliar, coastal environment
+p172
+aVto a much broader world of the baleen whales and the open ocean.
+p173
+aVThis is a kind of map we've all been looking at.
+p174
+aVThe world is mostly blue.
+p175
+aVBut I'd also like to point out that the oceans
+p176
+aVare much more connected than we think.
+p177
+aVNotice how few barriers there are to movement
+p178
+aVacross all of the oceans compared to land.
+p179
+aVTo me, the most mind-bending example
+p180
+aVof the interconnectedness of the ocean
+p181
+aVcomes from an acoustic experiment
+p182
+aVwhere oceanographers
+p183
+aVtook a ship to the southern Indian Ocean,
+p184
+aVdeployed an underwater loudspeaker
+p185
+aVand played back a sound.
+p186
+aVThat same sound
+p187
+aVtraveled to the west, and could be heard in Bermuda,
+p188
+aVand traveled to the east, and could be heard in Monterey \u2014
+p189
+aVthe same sound.
+p190
+aa(lp191
+VSo we live in a world of satellite communication,
+p192
+aVare used to global communication,
+p193
+aVbut it's still amazing to me.
+p194
+aVThe ocean has properties
+p195
+aVthat allow low-frequency sound
+p196
+aVto basically move globally.
+p197
+aVThe acoustic transit time for each of these paths is about three hours.
+p198
+aVIt's nearly halfway around the globe.
+p199
+aVIn the early '70s,
+p200
+aVRoger Payne and an ocean acoustician
+p201
+aVpublished a theoretical paper
+p202
+aVpointing out that it was possible
+p203
+aVthat sound could transmit over these large areas,
+p204
+aVbut very few biologists believed it.
+p205
+aa(lp206
+VIt actually turns out, though,
+p207
+aVeven though we've only known of long-range propagation for a few decades,
+p208
+aVthe whales clearly have evolved,
+p209
+aVover tens of millions of years,
+p210
+aVa way to exploit this amazing property of the ocean.
+p211
+aVSo blue whales and fin whales
+p212
+aVproduce very low-frequency sounds
+p213
+aVthat can travel over very long ranges.
+p214
+aVThe top plot here shows
+p215
+aVa complicated series of calls
+p216
+aVthat are repeated by males.
+p217
+aVThey form songs, and they appear to play a role in reproduction,
+p218
+aVsort of like that of song birds.
+p219
+aVDown below here, we see calls made by both males and females
+p220
+aVthat also carry over very long ranges.
+p221
+aa(lp222
+VThe biologists continued to be skeptical
+p223
+aVof the long-range communication issue
+p224
+aVwell past the '70s,
+p225
+aVuntil the end of the Cold War.
+p226
+aVWhat happened was, during the Cold War,
+p227
+aVthe U.S. Navy had a system that was secret at the time,
+p228
+aVthat they used to track Russian submarines.
+p229
+aVIt had deep underwater microphones, or hydrophones,
+p230
+aVcabled to shore,
+p231
+aVall wired back to a central place that could listen
+p232
+aVto sounds over the whole North Atlantic.
+p233
+aVAnd after the Berlin Wall fell, the Navy made these systems available
+p234
+aVto whale bio-acousticians
+p235
+aVto see what they could hear.
+p236
+aa(lp237
+VThis is a plot from Christopher Clark
+p238
+aVwho tracked one individual blue whale
+p239
+aVas it passed by Bermuda,
+p240
+aVwent down to the latitude of Miami and came back again.
+p241
+aVIt was tracked for 43 days,
+p242
+aVswimming 1,700 kilometers,
+p243
+aVor more than 1,000 miles.
+p244
+aVThis shows us both that the calls
+p245
+aVare detectable over hundreds of miles
+p246
+aVand that whales routinely swim hundreds of miles.
+p247
+aVThey're ocean-based and scale animals
+p248
+aVwho are communicating over much longer ranges
+p249
+aVthan we had anticipated.
+p250
+aa(lp251
+VUnlike fins and blues, which
+p252
+aVdisperse into the temperate and tropical oceans,
+p253
+aVthe humpbacked whales congregate
+p254
+aVin local traditional breeding grounds,
+p255
+aVso they can make a sound that's a little higher in frequency,
+p256
+aVbroader-band and more complicated.
+p257
+aVSo you're listening to the complicated song
+p258
+aVproduced by humpbacks here.
+p259
+aVHumpbacks, when they develop
+p260
+aVthe ability to sing this song,
+p261
+aVthey're listening to other whales
+p262
+aVand modifying what they sing based on what they're hearing,
+p263
+aVjust like song birds or the dolphin whistles I described.
+p264
+aVThis means that humpback song
+p265
+aVis a form of animal culture,
+p266
+aVjust like music for humans would be.
+p267
+aa(lp268
+VI think one of the most interesting examples of this
+p269
+aVcomes from Australia.
+p270
+aVBiologists on the east coast of Australia
+p271
+aVwere recording the songs of humpbacks in that area.
+p272
+aVAnd this orange line here marks the typical songs
+p273
+aVof east coast humpbacks.
+p274
+aVIn '95 they all sang the normal song.
+p275
+aVBut in '96 they heard a few weird songs,
+p276
+aVand it turned out that these strange songs
+p277
+aVwere typical of west coast whales.
+p278
+aVThe west coast calls became more and more popular,
+p279
+aVuntil by 1998,
+p280
+aVnone of the whales sang the east coast song; it was completely gone.
+p281
+aVThey just sang the cool new west coast song.
+p282
+aVIt's as if some new hit style
+p283
+aVhad completely wiped out
+p284
+aVthe old-fashioned style before,
+p285
+aVand with no golden oldies stations.
+p286
+aVNobody sang the old ones.
+p287
+aa(lp288
+VI'd like to briefly just show what the ocean does to these calls.
+p289
+aVNow you are listening to a recording made by Chris Clark,
+p290
+aV0.2 miles away from a humpback.
+p291
+aVYou can hear the full frequency range. It's quite loud.
+p292
+aVYou sound very nearby.
+p293
+aVThe next recording you're going to hear
+p294
+aVwas made of the same humpback song
+p295
+aV50 miles away.
+p296
+aVThat's shown down here.
+p297
+aVYou only hear the low frequencies.
+p298
+aVYou hear the reverberation
+p299
+aVas the sound travels over long-range in the ocean
+p300
+aVand is not quite as loud.
+p301
+aVNow after I play back these humpback calls,
+p302
+aVI'll play blue whale calls, but they have to be sped up
+p303
+aVbecause they're so low in frequency
+p304
+aVthat you wouldn't be able to hear it otherwise.
+p305
+aVHere's a blue whale call at 50 miles,
+p306
+aVwhich was distant for the humpback.
+p307
+aVIt's loud, clear \u2014 you can hear it very clearly.
+p308
+aVHere's the same call recorded from a hydrophone
+p309
+aV500 miles away.
+p310
+aVThere's a lot of noise, which is mostly other whales.
+p311
+aVBut you can still hear that faint call.
+p312
+aa(lp313
+VLet's now switch and think about
+p314
+aVa potential for human impacts.
+p315
+aVThe most dominant sound that humans put into the ocean
+p316
+aVcomes from shipping.
+p317
+aVThis is the sound of a ship,
+p318
+aVand I'm having to talk a little louder to talk over it.
+p319
+aVImagine that whale listening from 500 miles.
+p320
+aVThere's a potential problem that maybe
+p321
+aVthis kind of shipping noise would prevent whales
+p322
+aVfrom being able to hear each other.
+p323
+aVNow this is something that's been known for quite a while.
+p324
+aa(lp325
+VThis is a figure from a textbook on underwater sound.
+p326
+aVAnd on the y-axis
+p327
+aVis the loudness of average ambient noise in the deep ocean
+p328
+aVby frequency.
+p329
+aVIn the low frequencies, this line indicates
+p330
+aVsound that comes from seismic activity of the earth.
+p331
+aVUp high, these variable lines
+p332
+aVindicate increasing noise in this frequency range
+p333
+aVfrom higher wind and wave.
+p334
+aVBut right in the middle here where there's a sweet spot,
+p335
+aVthe noise is dominated by human ships.
+p336
+aVNow think about it. This is an amazing thing:
+p337
+aVThat in this frequency range where whales communicate,
+p338
+aVthe main source globally, on our planet, for the noise
+p339
+aVcomes from human ships,
+p340
+aVthousands of human ships, distant, far away,
+p341
+aVjust all aggregating.
+p342
+aa(lp343
+VThe next slide will show what the impact this may have
+p344
+aVon the range at which whales can communicate.
+p345
+aVSo here we have the loudness of a call at the whale.
+p346
+aVAnd as we get farther away,
+p347
+aVthe sound gets fainter and fainter.
+p348
+aVNow in the pre-industrial ocean, as we were mentioning,
+p349
+aVthis whale call could be easily detected.
+p350
+aVIt's louder than noise
+p351
+aVat a range of a thousand kilometers.
+p352
+aVLet's now take that additional increase in noise
+p353
+aVthat we saw comes from shipping.
+p354
+aVAll of a sudden, the effective range of communication
+p355
+aVgoes from a thousand kilometers to 10 kilometers.
+p356
+aVNow if this signal is used for males and females
+p357
+aVto find each other for mating and they're dispersed,
+p358
+aVimagine the impact this could have
+p359
+aVon the recovery of endangered populations.
+p360
+aa(lp361
+VWhales also have contact calls
+p362
+aVlike I described for the dolphins.
+p363
+aVI'll play the sound of a contact call used
+p364
+aVby right whales to stay in touch.
+p365
+aVAnd this is the kind of call that is used by,
+p366
+aVsay, right whale mothers and calves
+p367
+aVas they separate to come back again.
+p368
+aVNow imagine \u2014 let's put the ship noise in the picture.
+p369
+aVWhat's a mother to do
+p370
+aVif the ship comes by and her calf isn't there?
+p371
+aVI'll describe a couple strategies.
+p372
+aa(lp373
+VOne strategy is if your call's down here,
+p374
+aVand the noise is in this band,
+p375
+aVyou could shift the frequency of your call out of the noise band
+p376
+aVand communicate better.
+p377
+aVSusan Parks of Penn State has actually studied this.
+p378
+aVShe's looked in the Atlantic. Here's data from the South Atlantic.
+p379
+aVHere's a typical South Atlantic contact call from the '70s.
+p380
+aVLook what happened by 2000 to the average call.
+p381
+aVSame thing in the North Atlantic,
+p382
+aVin the '50s versus 2000.
+p383
+aVOver the last 50 years,
+p384
+aVas we've put more noise into the oceans,
+p385
+aVthese whales have had to shift.
+p386
+aVIt's as if the whole population had to shift
+p387
+aVfrom being basses to singing as a tenor.
+p388
+aVIt's an amazing shift, induced by humans
+p389
+aVover this large scale,
+p390
+aVin both time and space.
+p391
+aa(lp392
+VAnd we now know that whales can compensate for noise
+p393
+aVby calling louder, like I did when that ship was playing,
+p394
+aVby waiting for silence
+p395
+aVand by shifting their call out of the noise band.
+p396
+aVNow there's probably costs to calling louder
+p397
+aVor shifting the frequency away from where you want to be,
+p398
+aVand there's probably lost opportunities.
+p399
+aVIf we also have to wait for silence,
+p400
+aVthey may miss a critical opportunity to communicate.
+p401
+aVSo we have to be very concerned
+p402
+aVabout when the noise in habitats
+p403
+aVdegrades the habitat enough
+p404
+aVthat the animals either have to pay too much to be able to communicate,
+p405
+aVor are not able to perform critical functions.
+p406
+aVIt's a really important problem.
+p407
+aa(lp408
+VAnd I'm happy to say that there are several
+p409
+aVvery promising developments in this area,
+p410
+aVlooking at the impact of shipping on whales.
+p411
+aVIn terms of the shipping noise,
+p412
+aVthe International Maritime Organization of the United Nations
+p413
+aVhas formed a group whose job is to establish
+p414
+aVguidelines for quieting ships,
+p415
+aVto tell the industry how you could quiet ships.
+p416
+aVAnd they've already found
+p417
+aVthat by being more intelligent about better propeller design,
+p418
+aVyou can reduce that noise by 90 percent.
+p419
+aVIf you actually insulate and isolate
+p420
+aVthe machinery of the ship from the hull,
+p421
+aVyou can reduce that noise by 99 percent.
+p422
+aVSo at this point, it's primarily an issue of cost and standards.
+p423
+aVIf this group can establish standards,
+p424
+aVand if the shipbuilding industry adopts them for building new ships,
+p425
+aVwe can now see a gradual decline
+p426
+aVin this potential problem.
+p427
+aa(lp428
+VBut there's also another problem from ships that I'm illustrating here,
+p429
+aVand that's the problem of collision.
+p430
+aVThis is a whale that just squeaked by
+p431
+aVa rapidly moving container ship and avoided collision.
+p432
+aVBut collision is a serious problem.
+p433
+aVEndangered whales are killed every year by ship collision,
+p434
+aVand it's very important to try to reduce this.
+p435
+aVI'll discuss two very promising approaches.
+p436
+aVThe first case comes from the Bay of Fundy.
+p437
+aVThese black lines mark shipping lanes
+p438
+aVin and out of the Bay of Fundy.
+p439
+aVThe colorized area
+p440
+aVshows the risk of collision for endangered right whales
+p441
+aVbecause of the ships moving in this lane.
+p442
+aVIt turns out that this lane here
+p443
+aVgoes right through a major feeding area of right whales in the summer time,
+p444
+aVand it makes an area of a significant risk of collision.
+p445
+aVWell, biologists
+p446
+aVwho couldn't take no for an answer
+p447
+aVwent to the International Maritime Organization
+p448
+aVand petitioned them to say,
+p449
+aV"Can't you move that lane? Those are just lines on the ground.
+p450
+aVCan't you move them over to a place
+p451
+aVwhere there's less of a risk?"
+p452
+aVAnd the International Maritime Organization responded very strongly,
+p453
+aV"These are the new lanes."
+p454
+aVThe shipping lanes have been moved.
+p455
+aVAnd as you can see, the risk of collision is much lower.
+p456
+aa(lp457
+VSo it's very promising, actually.
+p458
+aVWe can be very creative about thinking
+p459
+aVof different ways to reduce these risks.
+p460
+aVAnother action which was just taken independently
+p461
+aVby a shipping company itself
+p462
+aVwas initiated because of concerns the shipping company had
+p463
+aVabout greenhouse gas emissions with global warming.
+p464
+aVThe Maersk Line looked at their competition
+p465
+aVand saw that everybody who is in shipping thinks time is money.
+p466
+aVThey rush as fast as they can to get to their port.
+p467
+aVBut then they often wait there.
+p468
+aVWhat Maersk did is they worked ways to slow down.
+p469
+aVThey could slow down by about 50 percent.
+p470
+aVThis reduced their fuel consumption by about 30 percent,
+p471
+aVwhich saved them money,
+p472
+aVand at the same time, it had a significant benefit for whales.
+p473
+aVIt you slow down, you reduce the amount of noise you make
+p474
+aVand you reduce the risk of collision.
+p475
+aa(lp476
+VSo to conclude, I'd just like to point out,
+p477
+aVyou know, the whales live in
+p478
+aVan amazing acoustic environment.
+p479
+aVThey've evolved over tens of millions of years
+p480
+aVto take advantage of this.
+p481
+aVAnd we need to be very attentive and vigilant
+p482
+aVto thinking about where things that we do
+p483
+aVmay unintentionally prevent them
+p484
+aVfrom being able to achieve their important activities.
+p485
+aVAt the same time, we need to be really creative
+p486
+aVin thinking of solutions to be able to help reduce these problems.
+p487
+aVI hope these examples have shown
+p488
+aVsome of the different directions we can take
+p489
+aVin addition to protected areas
+p490
+aVto be able to keep the ocean safe for whales to be able to continue to communicate.
+p491
+aa(lp492
+VThank you very much.
+p493
+aa(lp494
+V(Applause)
+p495
+aasS'id'
+p496
+I886
+sS'title'
+p497
+VThe intriguing sound of marine mammals
+p498
+s.

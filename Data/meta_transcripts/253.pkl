@@ -1,0 +1,759 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThis is the Large Hadron Collider.
+p4
+aVIt's 27 kilometers in circumference.
+p5
+aVIt's the biggest scientific experiment ever attempted.
+p6
+aVOver 10,000 physicists and engineers
+p7
+aVfrom 85 countries around the world
+p8
+aVhave come together over several decades
+p9
+aVto build this machine.
+p10
+aVWhat we do is we accelerate protons \u2014
+p11
+aVso, hydrogen nuclei \u2014
+p12
+aVaround 99.999999
+p13
+aVpercent the speed of light.
+p14
+aVRight? At that speed, they go around
+p15
+aVthat 27 kilometers 11,000 times a second.
+p16
+aVAnd we collide them with another beam of protons
+p17
+aVgoing in the opposite direction.
+p18
+aVWe collide them inside giant detectors.
+p19
+aa(lp20
+VThey're essentially digital cameras.
+p21
+aVAnd this is the one that I work on, ATLAS.
+p22
+aVYou get some sense of the size \u2014
+p23
+aVyou can just see these EU standard-size
+p24
+aVpeople underneath.
+p25
+aa(lp26
+V(Laughter)
+p27
+aa(lp28
+VYou get some sense of the size: 44 meters wide,
+p29
+aV22 meters in diameter, 7,000 tons.
+p30
+aVAnd we re-create the conditions that were present
+p31
+aVless than a billionth of a second after the universe began
+p32
+aVup to 600 million times a second
+p33
+aVinside that detector \u2014 immense numbers.
+p34
+aVAnd if you see those metal bits there \u2014
+p35
+aVthose are huge magnets that bend
+p36
+aVelectrically charged particles,
+p37
+aVso it can measure how fast they're traveling.
+p38
+aVThis is a picture about a year ago.
+p39
+aVThose magnets are in there.
+p40
+aVAnd, again, a EU standard-size, real person,
+p41
+aVso you get some sense of the scale.
+p42
+aVAnd it's in there that those mini-Big Bangs will be created,
+p43
+aVsometime in the summer this year.
+p44
+aa(lp45
+VAnd actually, this morning, I got an email
+p46
+aVsaying that we've just finished, today,
+p47
+aVbuilding the last piece of ATLAS.
+p48
+aVSo as of today, it's finished. I'd like to say
+p49
+aVthat I planned that for TED,
+p50
+aVbut I didn't. So it's been completed as of today.
+p51
+aa(lp52
+V(Applause)
+p53
+aa(lp54
+VYeah, it's a wonderful achievement.
+p55
+aVSo, you might be asking, "Why?
+p56
+aVWhy create the conditions that were present
+p57
+aVless than a billionth of a second after the universe began?"
+p58
+aVWell, particle physicists are nothing if not ambitious.
+p59
+aVAnd the aim of particle physics is to understand
+p60
+aVwhat everything's made of, and how everything sticks together.
+p61
+aVAnd by everything I mean, of course,
+p62
+aVme and you, the Earth, the Sun,
+p63
+aVthe 100 billion suns in our galaxy
+p64
+aVand the 100 billion galaxies
+p65
+aVin the observable universe.
+p66
+aVAbsolutely everything.
+p67
+aa(lp68
+VNow you might say, "Well, OK, but why not just look at it?
+p69
+aVYou know? If you want to know what I'm made of, let's look at me."
+p70
+aVWell, we found that as you look back in time,
+p71
+aVthe universe gets hotter and hotter,
+p72
+aVdenser and denser, and simpler and simpler.
+p73
+aVNow, there's no real reason I'm aware of for that,
+p74
+aVbut that seems to be the case.
+p75
+aVSo, way back in the early times of the universe,
+p76
+aVwe believe it was very simple and understandable.
+p77
+aVAll this complexity, all the way to these wonderful things \u2014
+p78
+aVhuman brains \u2014 are a property of an old
+p79
+aVand cold and complicated universe.
+p80
+aVBack at the start, in the first billionth of a second,
+p81
+aVwe believe, or we've observed, it was very simple.
+p82
+aa(lp83
+VIt's almost like ...
+p84
+aVimagine a snowflake in your hand,
+p85
+aVand you look at it, and it's an incredibly complicated,
+p86
+aVbeautiful object. But as you heat it up,
+p87
+aVit'll melt into a pool of water,
+p88
+aVand you would be able to see that, actually, it was just made
+p89
+aVof H20, water.
+p90
+aVSo it's in that same sense that we look back in time
+p91
+aVto understand what the universe is made of.
+p92
+aVAnd, as of today, it's made of these things.
+p93
+aVJust 12 particles of matter,
+p94
+aVstuck together by four forces of nature.
+p95
+aVThe quarks, these pink things, are the things that make up protons and neutrons
+p96
+aVthat make up the atomic nuclei in your body.
+p97
+aVThe electron \u2014 the thing that goes around
+p98
+aVthe atomic nucleus \u2014
+p99
+aVheld around in orbit, by the way, by the electromagnetic force
+p100
+aVthat's carried by this thing, the photon.
+p101
+aVThe quarks are stuck together by other things called gluons.
+p102
+aa(lp103
+VAnd these guys, here, they're the weak nuclear force,
+p104
+aVprobably the least familiar.
+p105
+aVBut, without it, the sun wouldn't shine.
+p106
+aVAnd when the sun shines, you get copious quantities
+p107
+aVof these things, called neutrinos, pouring out.
+p108
+aVActually, if you just look at your thumbnail \u2014
+p109
+aVabout a square centimeter \u2014
+p110
+aVthere are something like 60 billion neutrinos per second
+p111
+aVfrom the sun, passing
+p112
+aVthrough every square centimeter of your body.
+p113
+aVBut you don't feel them, because the weak force
+p114
+aVis correctly named \u2014
+p115
+aVvery short range and very weak,
+p116
+aVso they just fly through you.
+p117
+aa(lp118
+VAnd these particles have been discovered
+p119
+aVover the last century, pretty much.
+p120
+aVThe first one, the electron, was discovered in 1897,
+p121
+aVand the last one, this thing called the tau neutrino,
+p122
+aVin the year 2000. Actually just \u2014
+p123
+aVI was going to say, just up the road in Chicago. I know it's a big country,
+p124
+aVAmerica, isn't it?
+p125
+aVJust up the road.
+p126
+aVRelative to the universe, it's just up the road.
+p127
+aa(lp128
+V(Laughter)
+p129
+aa(lp130
+VSo, this thing was discovered in the year 2000,
+p131
+aVso it's a relatively recent picture.
+p132
+aVOne of the wonderful things, actually, I find,
+p133
+aVis that we've discovered any of them, when you realize how tiny they are.
+p134
+aVYou know, they're a step in size
+p135
+aVfrom the entire observable universe.
+p136
+aVSo, 100 billion galaxies,
+p137
+aV13.7 billion light years away \u2014
+p138
+aVa step in size from that to Monterey, actually,
+p139
+aVis about the same as from Monterey to these things.
+p140
+aVAbsolutely, exquisitely minute,
+p141
+aVand yet we've discovered pretty much the full set.
+p142
+aa(lp143
+VSo, one of my most illustrious forebears
+p144
+aVat Manchester University, Ernest Rutherford,
+p145
+aVdiscoverer of the atomic nucleus,
+p146
+aVonce said, "All science is either physics
+p147
+aVor stamp collecting."
+p148
+aVNow, I don't think he meant to insult
+p149
+aVthe rest of science,
+p150
+aValthough he was from New Zealand, so it's possible.
+p151
+aa(lp152
+V(Laughter)
+p153
+aa(lp154
+VBut what he meant was that what we've done, really,
+p155
+aVis stamp collect there.
+p156
+aVOK, we've discovered the particles,
+p157
+aVbut unless you understand the underlying
+p158
+aVreason for that pattern \u2014 you know, why it's built the way it is \u2014
+p159
+aVreally you've done stamp collecting. You haven't done science.
+p160
+aVFortunately, we have
+p161
+aVprobably one of the greatest scientific achievements of the twentieth century
+p162
+aVthat underpins that pattern.
+p163
+aVIt's the Newton's laws, if you want,
+p164
+aVof particle physics.
+p165
+aVIt's called the standard model \u2014 beautifully simple mathematical equation.
+p166
+aVYou could stick it on the front of a T-shirt,
+p167
+aVwhich is always the sign of elegance.
+p168
+aVThis is it.
+p169
+aa(lp170
+V(Laughter)
+p171
+aa(lp172
+VI've been a little disingenuous, because I've expanded it out
+p173
+aVin all its gory detail.
+p174
+aVThis equation, though, allows you to calculate everything \u2014
+p175
+aVother than gravity \u2014 that happens in the universe.
+p176
+aVSo, you want to know why the sky is blue, why atomic nuclei stick together \u2014
+p177
+aVin principle, you've got a big enough computer \u2014
+p178
+aVwhy DNA is the shape it is.
+p179
+aVIn principle, you should be able to calculate it from that equation.
+p180
+aa(lp181
+VBut there's a problem.
+p182
+aVCan anyone see what it is?
+p183
+aVA bottle of champagne for anyone that tells me.
+p184
+aVI'll make it easier, actually, by blowing one of the lines up.
+p185
+aVBasically, each of these terms
+p186
+aVrefers to some of the particles.
+p187
+aVSo those Ws there refer to the Ws, and how they stick together.
+p188
+aVThese carriers of the weak force, the Zs, the same.
+p189
+aVBut there's an extra symbol in this equation: H.
+p190
+aVRight, H.
+p191
+aVH stands for Higgs particle.
+p192
+aVHiggs particles have not been discovered.
+p193
+aVBut they're necessary: they're necessary
+p194
+aVto make that mathematics work.
+p195
+aVSo all the exquisitely detailed calculations we can do
+p196
+aVwith that wonderful equation
+p197
+aVwouldn't be possible without an extra bit.
+p198
+aVSo it's a prediction:
+p199
+aVa prediction of a new particle.
+p200
+aa(lp201
+VWhat does it do?
+p202
+aVWell, we had a long time to come up with good analogies.
+p203
+aVAnd back in the 1980s, when we wanted the money
+p204
+aVfor the LHC from the U.K. government,
+p205
+aVMargaret Thatcher, at the time, said,
+p206
+aV"If you guys can explain, in language
+p207
+aVa politician can understand,
+p208
+aVwhat the hell it is that you're doing, you can have the money.
+p209
+aVI want to know what this Higgs particle does."
+p210
+aVAnd we came up with this analogy, and it seemed to work.
+p211
+aVWell, what the Higgs does is, it gives mass to the fundamental particles.
+p212
+aVAnd the picture is that the whole universe \u2014
+p213
+aVand that doesn't mean just space, it means me as well, and inside you \u2014
+p214
+aVthe whole universe is full of something called a Higgs field.
+p215
+aVHiggs particles, if you will.
+p216
+aa(lp217
+VThe analogy is that these people in a room
+p218
+aVare the Higgs particles.
+p219
+aVNow when a particle moves through the universe,
+p220
+aVit can interact with these Higgs particles.
+p221
+aVBut imagine someone who's not very popular moves through the room.
+p222
+aVThen everyone ignores them. They can just pass through the room very quickly,
+p223
+aVessentially at the speed of light. They're massless.
+p224
+aVAnd imagine someone incredibly important
+p225
+aVand popular and intelligent
+p226
+aVwalks into the room.
+p227
+aVThey're surrounded by people, and their passage through the room is impeded.
+p228
+aVIt's almost like they get heavy. They get massive.
+p229
+aVAnd that's exactly the way the Higgs mechanism works.
+p230
+aVThe picture is that the electrons and the quarks
+p231
+aVin your body and in the universe that we see around us
+p232
+aVare heavy, in a sense, and massive,
+p233
+aVbecause they're surrounded by Higgs particles.
+p234
+aVThey're interacting with the Higgs field.
+p235
+aa(lp236
+VIf that picture's true,
+p237
+aVthen we have to discover those Higgs particles at the LHC.
+p238
+aVIf it's not true \u2014 because it's quite a convoluted mechanism,
+p239
+aValthough it's the simplest we've been able to think of \u2014
+p240
+aVthen whatever does the job of the Higgs particles
+p241
+aVwe know have to turn up
+p242
+aVat the LHC.
+p243
+aVSo, that's one of the prime reasons we built this giant machine.
+p244
+aVI'm glad you recognize Margaret Thatcher.
+p245
+aVActually, I thought about making it more culturally relevant, but \u2014
+p246
+aV(Laughter)
+p247
+aVanyway.
+p248
+aVSo that's one thing.
+p249
+aVThat's essentially a guarantee of what the LHC will find.
+p250
+aa(lp251
+VThere are many other things. You've heard
+p252
+aVmany of the big problems in particle physics.
+p253
+aVOne of them you heard about: dark matter, dark energy.
+p254
+aVThere's another issue,
+p255
+aVwhich is that the forces in nature \u2014 it's quite beautiful, actually \u2014
+p256
+aVseem, as you go back in time,
+p257
+aVthey seem to change in strength.
+p258
+aVWell, they do change in strength.
+p259
+aVSo, the electromagnetic force, the force that holds us together,
+p260
+aVgets stronger as you go to higher temperatures.
+p261
+aVThe strong force, the strong nuclear force, which sticks nuclei together,
+p262
+aVgets weaker. And what you see is the standard model \u2014
+p263
+aVyou can calculate how these change \u2014 is the forces,
+p264
+aVthe three forces, other than gravity,
+p265
+aValmost seem to come together at one point.
+p266
+aVIt's almost as if there was one beautiful
+p267
+aVkind of super-force, back at the beginning of time.
+p268
+aVBut they just miss.
+p269
+aa(lp270
+VNow there's a theory called super-symmetry,
+p271
+aVwhich doubles the number of particles in the standard model,
+p272
+aVwhich, at first sight, doesn't sound like a simplification.
+p273
+aVBut actually, with this theory,
+p274
+aVwe find that the forces of nature
+p275
+aVdo seem to unify together, back at the Big Bang \u2014
+p276
+aVabsolutely beautiful prophecy. The model wasn't built to do that,
+p277
+aVbut it seems to do it.
+p278
+aVAlso, those super-symmetric particles
+p279
+aVare very strong candidates for the dark matter.
+p280
+aVSo a very compelling theory
+p281
+aVthat's really mainstream physics.
+p282
+aVAnd if I was to put money on it, I would put money on \u2014
+p283
+aVin a very unscientific way \u2014 that
+p284
+aVthat these things would also crop up at the LHC.
+p285
+aVMany other things that the LHC could discover.
+p286
+aa(lp287
+VBut in the last few minutes, I just want to give you
+p288
+aVa different perspective
+p289
+aVof what I think \u2014 what particle physics
+p290
+aVreally means to me \u2014 particle physics and cosmology.
+p291
+aVAnd that's that I think it's given us a wonderful
+p292
+aVnarrative \u2014 almost a creation story,
+p293
+aVif you'd like \u2014 about the universe,
+p294
+aVfrom modern science over the last few decades.
+p295
+aVAnd I'd say that it deserves,
+p296
+aVin the spirit of Wade Davis' talk,
+p297
+aVto be at least put up there with these wonderful creation stories
+p298
+aVof the peoples of the high Andes and the frozen north.
+p299
+aVThis is a creation story, I think, equally as wonderful.
+p300
+aa(lp301
+VThe story goes like this: we know that
+p302
+aVthe universe began 13.7 billion years ago,
+p303
+aVin an immensely hot, dense state,
+p304
+aVmuch smaller than a single atom.
+p305
+aVIt began to expand about
+p306
+aVa million, billion, billion, billion billionth
+p307
+aVof a second \u2014 I think I got that right \u2014 after the Big Bang.
+p308
+aVGravity separated away from the other forces.
+p309
+aVThe universe then underwent
+p310
+aVan exponential expansion called inflation.
+p311
+aVIn about the first billionth of a second or so,
+p312
+aVthe Higgs field kicked in, and the quarks
+p313
+aVand the gluons and the electrons
+p314
+aVthat make us up got mass.
+p315
+aVThe universe continued to expand and cool.
+p316
+aVAfter about a few minutes,
+p317
+aVthere was hydrogen and helium in the universe. That's all.
+p318
+aVThe universe was about 75 percent hydrogen,
+p319
+aV25 percent helium. It still is today.
+p320
+aa(lp321
+VIt continued to expand
+p322
+aVabout 300 million years.
+p323
+aVThen light began to travel through the universe.
+p324
+aVIt was big enough to be transparent to light,
+p325
+aVand that's what we see in the cosmic microwave background
+p326
+aVthat George Smoot described
+p327
+aVas looking at the face of God.
+p328
+aVAfter about 400 million years, the first stars formed,
+p329
+aVand that hydrogen, that helium, then began to cook
+p330
+aVinto the heavier elements.
+p331
+aVSo the elements of life \u2014
+p332
+aVcarbon, and oxygen and iron,
+p333
+aVall the elements that we need to make us up \u2014
+p334
+aVwere cooked in those first generations of stars,
+p335
+aVwhich then ran out of fuel, exploded,
+p336
+aVthrew those elements back into the universe.
+p337
+aVThey then re-collapsed into another generation
+p338
+aVof stars and planets.
+p339
+aa(lp340
+VAnd on some of those planets, the oxygen, which had been created
+p341
+aVin that first generation of stars, could fuse with hydrogen
+p342
+aVto form water, liquid water on the surface.
+p343
+aVOn at least one, and maybe only one of those planets,
+p344
+aVprimitive life evolved,
+p345
+aVwhich evolved over millions of years into
+p346
+aVthings that walked upright and left footprints
+p347
+aVabout three and a half million years ago in the mud flats of Tanzania,
+p348
+aVand eventually
+p349
+aVleft a footprint on another world.
+p350
+aVAnd built this civilization,
+p351
+aVthis wonderful picture,
+p352
+aVthat turned the darkness into light,
+p353
+aVand you can see the civilization from space.
+p354
+aVAs one of my great heroes, Carl Sagan, said,
+p355
+aVthese are the things \u2014 and actually, not only these,
+p356
+aVbut I was looking around \u2014 these are the things,
+p357
+aVlike Saturn V rockets, and Sputnik,
+p358
+aVand DNA, and literature and science \u2014
+p359
+aVthese are the things that hydrogen atoms do
+p360
+aVwhen given 13.7 billion years.
+p361
+aa(lp362
+VAbsolutely remarkable.
+p363
+aVAnd, the laws of physics. Right?
+p364
+aVSo, the right laws of physics \u2014
+p365
+aVthey're beautifully balanced.
+p366
+aVIf the weak force had been a little bit different,
+p367
+aVthen carbon and oxygen wouldn't be stable
+p368
+aVinside the hearts of stars,
+p369
+aVand there would be none of that in the universe.
+p370
+aVAnd I think that's
+p371
+aVa wonderful and significant story.
+p372
+aV50 years ago, I couldn't have told that story,
+p373
+aVbecause we didn't know it.
+p374
+aVIt makes me really feel that
+p375
+aVthat civilization \u2014
+p376
+aVwhich, as I say, if you believe
+p377
+aVthe scientific creation story,
+p378
+aVhas emerged purely as a result of the laws of physics,
+p379
+aVand a few hydrogen atoms \u2014
+p380
+aVthen I think, to me anyway,
+p381
+aVit makes me feel incredibly valuable.
+p382
+aa(lp383
+VSo that's the LHC.
+p384
+aVThe LHC is certainly, when it turns on in summer,
+p385
+aVgoing to write the next chapter of that book.
+p386
+aVAnd I'm certainly looking forward with
+p387
+aVimmense excitement to it being turned on.
+p388
+aVThanks.
+p389
+aa(lp390
+V(Applause)
+p391
+aasS'id'
+p392
+I253
+sS'title'
+p393
+VCERN's supercollider
+p394
+s.

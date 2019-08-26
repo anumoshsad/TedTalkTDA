@@ -1,0 +1,939 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWe live on a human-dominated planet,
+p4
+aVputting unprecedented pressure
+p5
+aVon the systems on Earth.
+p6
+aVThis is bad news, but perhaps surprising to you,
+p7
+aVit's also part of the good news.
+p8
+aVWe're the first generation \u2014 thanks to science \u2014
+p9
+aVto be informed that we may be
+p10
+aVundermining the stability and the ability
+p11
+aVof planet Earth
+p12
+aVto support human development as we know it.
+p13
+aVIt's also good news, because the planetary risks we're facing
+p14
+aVare so large,
+p15
+aVthat business as usual is not an option.
+p16
+aVIn fact, we're in a phase
+p17
+aVwhere transformative change is necessary,
+p18
+aVwhich opens the window for innovation,
+p19
+aVfor new ideas and new paradigms.
+p20
+aVThis is a scientific journey on the challenges facing humanity
+p21
+aVin the global phase of sustainability.
+p22
+aa(lp23
+VOn this journey, I'd like to bring, apart from yourselves,
+p24
+aVa good friend,
+p25
+aVa stakeholder, who's always absent
+p26
+aVwhen we deal with the negotiations on environmental issues,
+p27
+aVa stakeholder who refuses to compromise \u2014
+p28
+aVplanet Earth.
+p29
+aVSo I thought I'd bring her with me today on stage,
+p30
+aVto have her as a witness
+p31
+aVof a remarkable journey,
+p32
+aVwhich humbly reminds us
+p33
+aVof the period of grace we've had
+p34
+aVover the past 10,000 years.
+p35
+aVThis is the living conditions on the planet over the last 100,000 years.
+p36
+aVIt's a very important period \u2014
+p37
+aVit's roughly half the period when we've been fully modern humans on the planet.
+p38
+aVWe've had the same, roughly, abilities
+p39
+aVthat developed civilizations as we know it.
+p40
+aVThis is the environmental conditions on the planet.
+p41
+aa(lp42
+VHere, used as a proxy, temperature variability.
+p43
+aVIt was a jumpy ride. 80,000 years back in a crisis,
+p44
+aVwe leave Africa, we colonize Australia
+p45
+aVin another crisis, 60,000 years back,
+p46
+aVwe leave Asia for Europe
+p47
+aVin another crisis, 40,000 years back,
+p48
+aVand then we enter
+p49
+aVthe remarkably stable Holocene phase,
+p50
+aVthe only period in the whole history of the planet,
+p51
+aVthat we know of, that can support human development.
+p52
+aVA thousand years into this period,
+p53
+aVwe abandon our hunting and gathering patterns.
+p54
+aVWe go from a couple of million people
+p55
+aVto the seven billion people we are today.
+p56
+aVThe Mesopotamian culture: we invent agriculture,
+p57
+aVwe domesticate animals and plants.
+p58
+aVYou have the Roman, the Greek and the story as you know it.
+p59
+aVThe only phase, as we know it
+p60
+aVthat can support humanity.
+p61
+aa(lp62
+VThe trouble is we're putting a quadruple sqeeze
+p63
+aVon this poor planet,
+p64
+aVa quadruple sqeeze, which, as its first squeeze,
+p65
+aVhas population growth of course.
+p66
+aVNow, this is not only about numbers;
+p67
+aVthis is not only about the fact that we're seven billion people
+p68
+aVcommitted to nine billion people, it's an equity issue as well.
+p69
+aVThe majority of the environmental impacts on the planet
+p70
+aVhave been caused by the rich minority,
+p71
+aVthe 20 percent that jumped onto the industrial bandwagon
+p72
+aVin the mid-18th century.
+p73
+aVThe majority of the planet,
+p74
+aVaspiring for development, having the right for development,
+p75
+aVare in large aspiring for an unsustainable lifestyle,
+p76
+aVa momentous pressure.
+p77
+aa(lp78
+VThe second pressure on the planet is, of course the climate agenda \u2014
+p79
+aVthe big issue \u2014 where the policy interpretation of science
+p80
+aVis that it would be enough
+p81
+aVto stabilize greenhouse gases at 450 ppm
+p82
+aVto avoid average temperatures
+p83
+aVexceeding two degrees,
+p84
+aVto avoid the risk that we may be destabilizing
+p85
+aVthe West Antarctic Ice Sheet,
+p86
+aVholding six meters \u2014 level rising,
+p87
+aVthe risk of destabilizing the Greenland Ice Sheet,
+p88
+aVholding another seven meters \u2014 sea level rising.
+p89
+aVNow, you would have wished the climate pressure
+p90
+aVto hit a strong planet, a resilient planet,
+p91
+aVbut unfortunately, the third pressure
+p92
+aVis the ecosystem decline.
+p93
+aVNever have we seen, in the past 50 years,
+p94
+aVsuch a sharp decline
+p95
+aVof ecosystem functions and services on the planet,
+p96
+aVone of them being the ability to regulate climate on the long term,
+p97
+aVin our forests, land and biodiversity.
+p98
+aa(lp99
+VThe forth pressure is surprise,
+p100
+aVthe notion and the evidence
+p101
+aVthat we need to abandon our old paradigm,
+p102
+aVthat ecosystems behave linearly, predictably,
+p103
+aVcontrollably in our \u2014 so to say \u2014 linear systems,
+p104
+aVand that in fact, surprise is universal,
+p105
+aVas systems tip over very rapidly, abruptly
+p106
+aVand often irreversibly.
+p107
+aVThis, dear friends, poses a human pressure on the planet
+p108
+aVof momentous scale.
+p109
+aVWe may, in fact, have entered a new geological era \u2014
+p110
+aVthe Anthropocene,
+p111
+aVwhere humans are the predominant driver of change
+p112
+aVat a planetary level.
+p113
+aa(lp114
+VNow, as a scientist,
+p115
+aVwhat's the evidence for this?
+p116
+aVWell, the evidence is,
+p117
+aVunfortunately, ample.
+p118
+aVIt's not only carbon dioxide
+p119
+aVthat has this hockey stick pattern of accelerated change.
+p120
+aVYou can take virtually any parameter
+p121
+aVthat matters for human well-being \u2014
+p122
+aVnitrous oxide, methane,
+p123
+aVdeforestation, overfishing
+p124
+aVland degredation, loss of species \u2014
+p125
+aVthey all show the same pattern
+p126
+aVover the past 200 years.
+p127
+aVSimultaneously, they branch off in the mid-50s,
+p128
+aV10 years after the Second World War,
+p129
+aVshowing very clearly that the great acceleration of the human enterprise
+p130
+aVstarts in the mid-50s.
+p131
+aVYou see, for the first time, an imprint on the global level.
+p132
+aVAnd I can tell you,
+p133
+aVyou enter the disciplinary research in each of these,
+p134
+aVyou find something remarkably important,
+p135
+aVthe conclusion that we may have come to the point
+p136
+aVwhere we have to bend the curves,
+p137
+aVthat we may have entered the most challenging and exciting decade
+p138
+aVin the history humanity on the planet,
+p139
+aVthe decade when we have to bend the curves.
+p140
+aa(lp141
+VNow, as if this was not enough \u2014
+p142
+aVto just bend the curves and understanding the accelerated pressure on the planet \u2014
+p143
+aVwe also have to recognize the fact
+p144
+aVthat systems do have multiple stable states,
+p145
+aVseparated by thresholds \u2014 illustrated here by this ball and cup diagram,
+p146
+aVwhere the depth of the cup is the resilience of the system.
+p147
+aVNow, the system may gradually \u2014
+p148
+aVunder pressure of climate change,
+p149
+aVerosion, biodiversity loss \u2014
+p150
+aVlose the depth of the cup, the resilience,
+p151
+aVbut appear to be healthy
+p152
+aVand appear to suddenly, under a threshold,
+p153
+aVbe tipping over. Upff.
+p154
+aVSorry. Changing state
+p155
+aVand literally ending up
+p156
+aVin an undesired situation,
+p157
+aVwhere new biophysical logic takes over,
+p158
+aVnew species take over, and the system gets locked.
+p159
+aa(lp160
+VDo we have evidence of this? Yes, coral reef systems.
+p161
+aVBiodiverse, low-nutrient, hard coral systems
+p162
+aVunder multiple pressures of overfishing,
+p163
+aVunsustainable tourism, climate change.
+p164
+aVA trigger and the system tips over,
+p165
+aVloses its resilience,
+p166
+aVsoft corals take over,
+p167
+aVand we get undesired systems
+p168
+aVthat cannot support economic and social development.
+p169
+aVThe Arctic \u2014 a beautiful system \u2014
+p170
+aVa regulating biome at the planetary level,
+p171
+aVtaking the knock after knock on climate change,
+p172
+aVappearing to be in a good state.
+p173
+aVNo scientist could predict that in 2007,
+p174
+aVsuddenly, what could be crossing a threshold.
+p175
+aVThe system suddenly, very surprisingly, loses 30 to 40 percent
+p176
+aVof its summer ice cover.
+p177
+aVAnd the drama is, of course, that
+p178
+aVwhen the system does this, the logic may change.
+p179
+aVIt may get locked in an undesired state,
+p180
+aVbecause it changes color, absorbs more energy,
+p181
+aVand the system may get stuck.
+p182
+aVIn my mind, the largest red flag warning for humanity
+p183
+aVthat we are in a precarious situation.
+p184
+aVAs a sideline, you know that the only red flag that popped up here
+p185
+aVwas a submarine from an unnamed country
+p186
+aVthat planted a red flag at the bottom of the Arctic
+p187
+aVto be able to control the oil resources.
+p188
+aa(lp189
+VNow, if we have evidence, which we now have,
+p190
+aVthat wetlands, forests,
+p191
+aV[unclear] monsoon system, the rainforests,
+p192
+aVbehave in this nonlinear way.
+p193
+aV30 or so scientists around the world
+p194
+aVgathered and asked a question for the first time,
+p195
+aV"Do we have to put the planet into the the pot?"
+p196
+aVSo we have to ask ourselves:
+p197
+aVare we threatening this extraordinarily stable Holocene state?
+p198
+aVAre we in fact putting ourselves in a situation
+p199
+aVwhere we're coming too close
+p200
+aVto thresholds that could lead
+p201
+aVto deleterious and very undesired,
+p202
+aVif now catastrophic, change
+p203
+aVfor human development?
+p204
+aVYou know, you don't want to stand there.
+p205
+aVIn fact, you're not even allowed to stand
+p206
+aVwhere this gentleman is standing,
+p207
+aVat the foaming, slippery waters at the threshold.
+p208
+aVIn fact, there's a fence
+p209
+aVquite upstream of this threshold,
+p210
+aVbeyond which you are in a danger zone.
+p211
+aVAnd this is the new paradigm,
+p212
+aVwhich we gathered two, three years back,
+p213
+aVrecognizing that our old paradigm
+p214
+aVof just analyzing and pushing and predicting
+p215
+aVparameters into the future,
+p216
+aVaiming at minimalizing environmental impacts, is of the past.
+p217
+aa(lp218
+VNow we to ask ourselves:
+p219
+aVwhich are the large environmental processes
+p220
+aVthat we have to be stewards of
+p221
+aVto keep ourselves safe in the Holocene?
+p222
+aVAnd could we even,
+p223
+aVthanks to major advancements in Earth systems science,
+p224
+aVidentify the thresholds,
+p225
+aVthe points where we may expect nonlinear change?
+p226
+aVAnd could we even define
+p227
+aVa planetary boundary, a fence,
+p228
+aVwithin which we then have a safe operating space for humanity?
+p229
+aVThis work, which was published in "Nature,"
+p230
+aVlate 2009,
+p231
+aVafter a number of years of analysis,
+p232
+aVled to the final proposition
+p233
+aVthat we can only find
+p234
+aVnine planetary boundaries
+p235
+aVwith which, under active stewardship,
+p236
+aVwould allow ourselves to have a safe operating space.
+p237
+aVThese include, of course, climate.
+p238
+aVIt may surprise you that it's not only climate.
+p239
+aVBut it shows that we are interconnected, among many systems on the planet,
+p240
+aVwith the three big systems, climate change,
+p241
+aVstratospheric ozone depletion and ocean acidification
+p242
+aVbeing the three big systems,
+p243
+aVwhere the scientific evidence of large-scale thresholds
+p244
+aVin the paleo-record of the history of the planet.
+p245
+aa(lp246
+VBut we also include, what we call, the slow variables,
+p247
+aVthe systems that, under the hood,
+p248
+aVregulate and buffer the capacity of the resilience of the planet \u2014
+p249
+aVthe interference of the big nitrogen and phosphorus cycles on the planet,
+p250
+aVland use change, rate of biodiversity loss,
+p251
+aVfreshwater use,
+p252
+aVfunctions which regulate
+p253
+aVbiomass on the planet, carbon sequestration, diversity.
+p254
+aVAnd then we have two parameters which we were not able to quantify \u2014
+p255
+aVair pollution,
+p256
+aVincluding warming gases and air-polluting sulfates and nitrates,
+p257
+aVbut also chemical pollution.
+p258
+aVTogether, these form an integrated whole
+p259
+aVfor guiding human development in the Anthropocene,
+p260
+aVunderstanding that the planet
+p261
+aVis a complex self-regulating system.
+p262
+aVIn fact, most evidence indicates
+p263
+aVthat these nine may behave as three Musketeers,
+p264
+aV"One for all. All for one."
+p265
+aVYou degrade forests, you go beyond the boundary on land,
+p266
+aVyou undermine the ability of the climate system
+p267
+aVto stay stable.
+p268
+aVThe drama here is, in fact, that
+p269
+aVit may show that the climate challenge
+p270
+aVis the easy one,
+p271
+aVif you consider the whole challenge
+p272
+aVof sustainable development.
+p273
+aa(lp274
+VNow this is the Big Bang equivalent then of human development
+p275
+aVwithin the safe operating space of the planetary boundaries.
+p276
+aVWhat you see here in black line is the safe operating space,
+p277
+aVthe quantified boundaries,
+p278
+aVas suggested by this analysis.
+p279
+aVThe yellow dot in the middle here is our starting point,
+p280
+aVthe pre-industrial point,
+p281
+aVwhere we're very safely in the safe operating space.
+p282
+aVIn the '50s, we start branching out.
+p283
+aVIn the '60s already, through the green revolution
+p284
+aVand the Haber-Bosch process
+p285
+aVof fixing nitrogen from the atmosphere \u2014
+p286
+aVyou know, human's today take out more nitrogen from the atmosphere
+p287
+aVthan the whole biosphere does naturally as a whole.
+p288
+aVWe don't transgress the climate boundary until the early '90s,
+p289
+aVactually, right after Rio.
+p290
+aVAnd today, we are in a situation where we estimate
+p291
+aVthat we've transgressed three boundaries,
+p292
+aVthe rate of biodiversity loss,
+p293
+aVwhich is the sixth extinction period in the history of humanity \u2014
+p294
+aVone of them being the extinctions of the dinosaurs \u2014
+p295
+aVnitrogen and climate change.
+p296
+aVBut we still have some degrees of freedom on the others,
+p297
+aVbut we are approaching fast
+p298
+aVon land, water, phosphorus and oceans.
+p299
+aVBut this gives a new paradigm
+p300
+aVto guide humanity,
+p301
+aVto put the light on our, so far
+p302
+aVoverpowered industrial vehicle,
+p303
+aVwhich operates as if
+p304
+aVwe're only on a dark, straight highway.
+p305
+aa(lp306
+VNow the question then is:
+p307
+aVhow gloomy is this?
+p308
+aVIs then sustainable development utopia?
+p309
+aVWell, there's no science to suggest.
+p310
+aVIn fact, there is ample science
+p311
+aVto indicate that we can do this transformative change,
+p312
+aVthat we have the ability
+p313
+aVto now move into a new innovative,
+p314
+aVa transformative gear,
+p315
+aVacross scales.
+p316
+aVThe drama is, of course,
+p317
+aVis that 200 countries on this planet
+p318
+aVhave to simultaneously start moving
+p319
+aVin the same direction.
+p320
+aVBut it changes fundamentally our governance and management paradigm,
+p321
+aVfrom the current linear,
+p322
+aVcommand and control thinking,
+p323
+aVlooking at efficiencies and optimization
+p324
+aVtowards a much more flexible,
+p325
+aVa much more adaptive approach,
+p326
+aVwhere we recognize that redundancy,
+p327
+aVboth in social and environmental systems,
+p328
+aVis key to be able to deal
+p329
+aVwith a turbulent era of global change.
+p330
+aVWe have to invest in persistence,
+p331
+aVin the ability of social systems and ecological systems
+p332
+aVto withstand shocks and still remain in that desired cup.
+p333
+aVWe have to invest in transformations capability,
+p334
+aVmoving from crisis into innovation
+p335
+aVand the ability to rise after a crisis,
+p336
+aVand of course to adapt to unavoidable change.
+p337
+aVThis is a new paradigm.
+p338
+aVWe're not doing that at any scale on governance.
+p339
+aa(lp340
+VBut is it happening anywhere?
+p341
+aVDo we have any examples of success
+p342
+aVon this mind shift being applied at the local level?
+p343
+aVWell, yes, in fact we do
+p344
+aVand the list can start becoming longer and longer.
+p345
+aVThere's good news here,
+p346
+aVfor example, from Latin America,
+p347
+aVwhere plow-based farming systems
+p348
+aVof the '50s and '60s
+p349
+aVled farming basically to a dead-end,
+p350
+aVwith lower and lower yields, degrading the organic matter
+p351
+aVand fundamental problems at the livelihood levels
+p352
+aVin Paraguay, Uruguay and a number of countries, Brazil,
+p353
+aVleading to innovation and entrepreneurship
+p354
+aVamong farmers in partnership with scientists
+p355
+aVinto an agricultural revolution of zero tillage systems
+p356
+aVcombined with mulch farming
+p357
+aVwith locally adapted technologies,
+p358
+aVwhich today, for example, in some countries,
+p359
+aVhave led to a tremendous increase
+p360
+aVin area under mulch, zero till farming
+p361
+aVwhich, not only produces more food,
+p362
+aVbut also sequesters carbon.
+p363
+aa(lp364
+VThe Australian Great Barrier Reef is another success story.
+p365
+aVUnder the realization from tourist operators,
+p366
+aVfishermen,
+p367
+aVthe Australian Great Barrier Reef Authority and scientists
+p368
+aVthat the Great Barrier Reef is doomed
+p369
+aVunder the current governance regime.
+p370
+aVGlobal change, beautification rack culture,
+p371
+aVoverfishing and unsustainable tourism,
+p372
+aVall together placing this system
+p373
+aVin the realization of crisis.
+p374
+aVBut the window of opportunity was innovation and new mindset,
+p375
+aVwhich today has led to a completely new governance strategy
+p376
+aVto build resilience,
+p377
+aVacknowledge redundancy
+p378
+aVand invest in the whole system as an integrated whole,
+p379
+aVand then allow for much more redundancy in the system.
+p380
+aa(lp381
+VSweden, the country I come from, has other examples,
+p382
+aVwhere wetlands in southern Sweden were seen as \u2014
+p383
+aVas in many countries \u2014 as flood-prone polluted nuisance
+p384
+aVin the peri-urban regions.
+p385
+aVBut again, a crisis, new partnerships,
+p386
+aVactors locally, transforming these
+p387
+aVinto a key component
+p388
+aVof sustainable urban planning.
+p389
+aVSo crisis leading into opportunities.
+p390
+aa(lp391
+VNow, what about the future?
+p392
+aVWell, the future, of course, has one massive challenge,
+p393
+aVwhich is feeding a world of nine billion people.
+p394
+aVWe need nothing less than a new green revolution,
+p395
+aVand the planet boundaries shows
+p396
+aVthat agriculture has to go from a source of greenhouse gases to a sink.
+p397
+aVIt has to basically do this on current land.
+p398
+aVWe cannot expand anymore,
+p399
+aVbecause it erodes the planetary boundaries.
+p400
+aVWe cannot continue consuming water as we do today,
+p401
+aVwith 25 percent of world rivers not even reaching the ocean.
+p402
+aVAnd we need a transformation.
+p403
+aVWell, interestingly, and based on my work
+p404
+aVand others in Africa, for example,
+p405
+aVwe've shown that even the most vulnerable small-scale rainfall farming systems,
+p406
+aVwith innovations and supplementary irrigation
+p407
+aVto bridge dry spells and droughts,
+p408
+aVsustainable sanitation systems to close the loop on nutrients
+p409
+aVfrom toilets back to farmers' fields,
+p410
+aVand innovations in tillage systems,
+p411
+aVwe can triple, quadruple, yield levels
+p412
+aVon current land.
+p413
+aa(lp414
+VElinor Ostrom,
+p415
+aVthe latest Nobel laureate of economics,
+p416
+aVclearly shows empirically across the world
+p417
+aVthat we can govern the commons
+p418
+aVif we invest in trust,
+p419
+aVlocal, action-based partnerships
+p420
+aVand cross-scale institutional innovations,
+p421
+aVwhere local actors,
+p422
+aVtogether, can deal with the global commons
+p423
+aVat a large scale.
+p424
+aVBut even on the hard policy area we have innovations.
+p425
+aVWe know that we have to move from our fossil dependence
+p426
+aVvery quickly into a low-carbon economy in record time.
+p427
+aVAnd what shall we do?
+p428
+aVEverybody talks about carbon taxes \u2014 it won't work \u2014 emission schemes,
+p429
+aVbut for example, one policy measure,
+p430
+aVfeed-in tariffs on the energy system,
+p431
+aVwhich is already applied,
+p432
+aVfrom China doing it on offshore wind systems,
+p433
+aVall the way to the U.S.
+p434
+aVwhere you give the guaranteed price for investment in renewable energy,
+p435
+aVbut you can subsidize electricity to poor people.
+p436
+aVYou get people out of poverty.
+p437
+aVYou solve the climate issue with regards to the energy sector,
+p438
+aVwhile at the same time, stimulating innovation \u2014
+p439
+aVexamples of things that can be out scaled quickly
+p440
+aVat the planetary level.
+p441
+aa(lp442
+VSo there is \u2014 no doubt \u2014 opportunity here,
+p443
+aVand we can list many, many examples
+p444
+aVof transformative opportunities around the planet.
+p445
+aVThe key though in all of these,
+p446
+aVthe red thread,
+p447
+aVis the shift in mindset,
+p448
+aVmoving away from a situation where we simply are pushing ourselves
+p449
+aVinto a dark future,
+p450
+aVwhere we instead backcast our future,
+p451
+aVand we say, "What is the playing field on the planet?
+p452
+aVWhat are the planetary boundaries
+p453
+aVwithin which we can safely operate?"
+p454
+aVand then backtrack innovations within that.
+p455
+aVBut of course, the drama is, it clearly shows
+p456
+aVthat incremental change is not an option.
+p457
+aa(lp458
+VSo, there is scientific evidence.
+p459
+aVThey sort of say the harsh news,
+p460
+aVthat we are facing the largest
+p461
+aVtransformative development
+p462
+aVsince the industrialization.
+p463
+aVIn fact, what we have to do over the next 40 years
+p464
+aVis much more dramatic and more exciting
+p465
+aVthan what we did when we moved into
+p466
+aVthe situation we're in today.
+p467
+aVNow, science indicates that,
+p468
+aVyes, we can achieve a prosperous future
+p469
+aVwithin the safe operating space,
+p470
+aVif we move simultaneously,
+p471
+aVcollaborating on a global level, from local to global scale,
+p472
+aVin transformative options, which build resilience on a finite planet.
+p473
+aa(lp474
+VThank you.
+p475
+aa(lp476
+V(Applause)
+p477
+aasS'id'
+p478
+I945
+sS'title'
+p479
+VLet the environment guide our development
+p480
+s.

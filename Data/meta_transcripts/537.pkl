@@ -1,0 +1,788 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm not at all a cook.
+p4
+aVSo don't fear, this is not going to be a cooking demonstration.
+p5
+aVBut I do want to talk to you about something
+p6
+aVthat I think is dear to all of us.
+p7
+aVAnd that is bread \u2014 something which is as simple
+p8
+aVas our basic, most fundamental human staple.
+p9
+aVAnd I think few of us spend the day
+p10
+aVwithout eating bread in some form.
+p11
+aVUnless you're on one of these Californian low-carb diets,
+p12
+aVbread is standard.
+p13
+aVBread is not only standard in the Western diet.
+p14
+aVAs I will show to you, it is actually
+p15
+aVthe mainstay of modern life.
+p16
+aa(lp17
+VSo I'm going to bake bread for you.
+p18
+aVIn the meantime I'm also talking to you,
+p19
+aVso my life is going to be complicated. Bear with me.
+p20
+aVFirst of all, a little bit of audience participation.
+p21
+aVI have two loaves of bread here.
+p22
+aVOne is a supermarket standard:
+p23
+aVwhite bread, pre-packaged,
+p24
+aVwhich I'm told is called a Wonderbread.
+p25
+aV(Laughter)
+p26
+aVI didn't know this word until I arrived.
+p27
+aVAnd this is more or less,
+p28
+aVa whole-meal, handmade,
+p29
+aVsmall-bakery loaf of bread.
+p30
+aVHere we go. I want to see a show of hands.
+p31
+aVWho prefers the whole-meal bread?
+p32
+aVOkay let me do this differently. Is anybody preferring the Wonderbread at all?
+p33
+aV(Laughter)
+p34
+aVI have two tentative male hands.
+p35
+aV(Laughter)
+p36
+aa(lp37
+VOkay, now the question is really,
+p38
+aVwhy is this so?
+p39
+aVAnd I think it is because
+p40
+aVwe feel that this kind of bread
+p41
+aVreally is about authenticity.
+p42
+aVIt's about a traditional way of living.
+p43
+aVA way that is perhaps more real, more honest.
+p44
+aVThis is an image from Tuscany, where we feel
+p45
+aVagriculture is still about beauty.
+p46
+aVAnd life is really, too.
+p47
+aVAnd this is about good taste, good traditions.
+p48
+aVWhy do we have this image?
+p49
+aVWhy do we feel that this is more true than this?
+p50
+aVWell I think it has a lot to do with our history.
+p51
+aVIn the 10,000 years since agriculture evolved,
+p52
+aVmost of our ancestors have actually been agriculturalists
+p53
+aVor they were closely related to food production.
+p54
+aVAnd we have this mythical image
+p55
+aVof how life was in rural areas in the past.
+p56
+aVArt has helped us to maintain that kind of image.
+p57
+aVIt was a mythical past.
+p58
+aVOf course, the reality is quite different.
+p59
+aVThese poor farmers
+p60
+aVworking the land by hand or with their animals,
+p61
+aVhad yield levels that are comparable
+p62
+aVto the poorest farmers today in West Africa.
+p63
+aVBut we have, somehow,
+p64
+aVin the course of the last few centuries, or even decades,
+p65
+aVstarted to cultivate an image of
+p66
+aVa mythical, rural agricultural past.
+p67
+aa(lp68
+VIt was only 200 years ago
+p69
+aVthat we had the advent of the Industrial Revolution.
+p70
+aVAnd while I'm starting to make some bread for you here,
+p71
+aVit's very important to understand
+p72
+aVwhat that revolution did to us.
+p73
+aVIt brought us power. It brought us mechanization, fertilizers.
+p74
+aVAnd it actually drove up our yields.
+p75
+aVAnd even sort of horrible things, like picking beans by hand,
+p76
+aVcan now be done automatically.
+p77
+aVAll that is a real, great improvement, as we shall see.
+p78
+aVOf course we also, particularly in the last decade,
+p79
+aVmanaged to envelop the world
+p80
+aVin a dense chain of supermarkets,
+p81
+aVin a chain of global trade.
+p82
+aVAnd it means that you now eat products,
+p83
+aVwhich can come from all around the world.
+p84
+aVThat is the reality of our modern life.
+p85
+aVNow you may prefer this loaf of bread.
+p86
+aVExcuse my hands but this is how it is.
+p87
+aa(lp88
+VBut actually the real relevant bread,
+p89
+aVhistorically, is this white Wonder loaf.
+p90
+aVAnd don't despise the white bread
+p91
+aVbecause it really, I think,
+p92
+aVsymbolizes the fact that bread and food
+p93
+aVhave become plentiful and affordable to all.
+p94
+aVAnd that is a feat that we
+p95
+aVare not really conscious of that much.
+p96
+aVBut it has changed the world.
+p97
+aVThis tiny bread that is tasteless in some ways
+p98
+aVand has a lot of problems
+p99
+aVhas changed the world.
+p100
+aVSo what is happening?
+p101
+aVWell the best way to look at that is to do a tiny bit of simplistic statistics.
+p102
+aVWith the advent of the Industrial Revolution
+p103
+aVwith modernization of agriculture
+p104
+aVin the last few decades, since the 1960s,
+p105
+aVfood availability, per head, in this world,
+p106
+aVhas increased by 25 percent.
+p107
+aVAnd the world population in the meantime has doubled.
+p108
+aVThat means that we have now more food available
+p109
+aVthan ever before in human history.
+p110
+aVAnd that is the result, directly,
+p111
+aVof being so successful
+p112
+aVat increasing the scale and volume of our production.
+p113
+aVAnd this is true, as you can see, for all countries,
+p114
+aVincluding the so-called developing countries.
+p115
+aa(lp116
+VWhat happened to our bread in the meantime?
+p117
+aVAs food became plentiful here,
+p118
+aVit also meant that we were able to decrease
+p119
+aVthe number of people working in agriculture
+p120
+aVto something like, on average, in the high income countries,
+p121
+aVfive percent or less of the population.
+p122
+aVIn the U.S. only one percent of the people are actually farmers.
+p123
+aVAnd it frees us all up to do other things \u2014
+p124
+aVto sit at TED meetings and not to worry about our food.
+p125
+aVThat is, historically, a really unique situation.
+p126
+aVNever before has the responsibility to feed the world
+p127
+aVbeen in the hands of so few people.
+p128
+aVAnd never before have so many people
+p129
+aVbeen oblivious of that fact.
+p130
+aa(lp131
+VSo as food became more plentiful, bread became cheaper.
+p132
+aVAnd as it became cheaper, bread manufacturers decided to add in all kinds of things.
+p133
+aVWe added in more sugar.
+p134
+aVWe add in raisins and oil and milk
+p135
+aVand all kinds of things to make bread,
+p136
+aVfrom a simple food into kind of a support for calories.
+p137
+aVAnd today, bread now is associated with obesity,
+p138
+aVwhich is very strange.
+p139
+aVIt is the basic, most fundamental food
+p140
+aVthat we've had in the last ten thousand years.
+p141
+aVWheat is the most important crop \u2014 the first crop we domesticated
+p142
+aVand the most important crop we still grow today.
+p143
+aa(lp144
+VBut this is now this strange concoction
+p145
+aVof high calories.
+p146
+aVAnd that's not only true in this country,
+p147
+aVit is true all over the world.
+p148
+aVBread has migrated to tropical countries,
+p149
+aVwhere the middle classes now eat French rolls and hamburgers
+p150
+aVand where the commuters
+p151
+aVfind bread much more handy to use
+p152
+aVthan rice or cassava.
+p153
+aVSo bread has become from a main staple,
+p154
+aVa source of calories
+p155
+aVassociated with obesity
+p156
+aVand also a source of modernity,
+p157
+aVof modern life.
+p158
+aVAnd the whiter the bread, in many countries, the better it is.
+p159
+aa(lp160
+VSo this is the story of bread as we know it now.
+p161
+aVBut of course the price of mass production
+p162
+aVhas been that we moved large-scale.
+p163
+aVAnd large-scale has meant destruction of many of our landscapes,
+p164
+aVdestruction of biodiversity \u2014
+p165
+aVstill a lonely emu here
+p166
+aVin the Brazilian cerrado soybean fields.
+p167
+aVThe costs have been tremendous \u2014
+p168
+aVwater pollution, all the things you know about, destruction of our habitats.
+p169
+aa(lp170
+VWhat we need to do is to go back to understanding what our food is about.
+p171
+aVAnd this is where I have to query all of you.
+p172
+aVHow many of you can actually tell wheat apart from other cereals?
+p173
+aVHow many of you actually can make a bread
+p174
+aVin this way, without starting with a bread machine
+p175
+aVor just some kind of packaged flavor?
+p176
+aVCan you actually bake bread? Do you know how much a loaf of bread actually costs?
+p177
+aVWe have become very removed
+p178
+aVfrom what our bread really is,
+p179
+aVwhich, again, evolutionarily speaking,
+p180
+aVis very strange.
+p181
+aVIn fact not many of you know that
+p182
+aVour bread, of course, was not a European invention.
+p183
+aVIt was invented by farmers in Iraq
+p184
+aVand Syria in particular.
+p185
+aVThe tiny spike on the left to the center
+p186
+aVis actually the forefather of wheat.
+p187
+aVThis is where it all comes from,
+p188
+aVand where these farmers who actually, ten thousand years ago,
+p189
+aVput us on the road of bread.
+p190
+aa(lp191
+VNow it is not surprising
+p192
+aVthat with this massification and large-scale production,
+p193
+aVthere is a counter-movement that emerged \u2014
+p194
+aVvery much also here in California.
+p195
+aVThe counter-movement says, "Let's go back to this.
+p196
+aVLet's go back to traditional farming.
+p197
+aVLet's go back to small-scale, to farmers' markets,
+p198
+aVsmall bakeries and all that." Wonderful.
+p199
+aVDon't we all agree? I certainly agree.
+p200
+aVI would love to go back to Tuscany
+p201
+aVto this kind of traditional setting,
+p202
+aVgastronomy, good food.
+p203
+aVBut this is a fallacy.
+p204
+aVAnd the fallacy comes from idealizing
+p205
+aVa past that we have forgotten about.
+p206
+aa(lp207
+VIf we do this, if we want to stay with traditional small-scale farming
+p208
+aVwe are going, actually, to relegate
+p209
+aVthese poor farmers and their husbands \u2014
+p210
+aVamong whom I have lived for many years,
+p211
+aVworking without electricity and water, to try to improve their food production \u2014
+p212
+aVwe relegate them to poverty.
+p213
+aVWhat they want are implements
+p214
+aVto increase their production:
+p215
+aVsomething to fertilize the soil,
+p216
+aVsomething to protect their crop and to bring it to a market.
+p217
+aVWe cannot just think that small-scale
+p218
+aVis the solution to the world food problem.
+p219
+aVIt's a luxury solution for us who can afford it,
+p220
+aVif you want to afford it.
+p221
+aVIn fact we do not want this poor woman
+p222
+aVto work the land like this.
+p223
+aVIf we say just small-scale production,
+p224
+aVas is the tendency here,
+p225
+aVto go back to local food means that a poor man like Hans Rosling
+p226
+aVcannot even eat oranges anymore
+p227
+aVbecause in Scandinavia we don't have oranges.
+p228
+aVSo local food production is out.
+p229
+aVBut also we do not want
+p230
+aVto relegate to poverty in the rural areas.
+p231
+aVAnd we do not want to relegate
+p232
+aVthe urban poor to starvation.
+p233
+aVSo we must find other solutions.
+p234
+aa(lp235
+VOne of our problems is that world food production
+p236
+aVneeds to increase very rapidly \u2014
+p237
+aVdoubling by about 2030.
+p238
+aVThe main driver of that is actually meat.
+p239
+aVAnd meat consumption in Southeast Asia and China in particular
+p240
+aVis what drives the prices of cereals.
+p241
+aVThat need for animal protein is going to continue.
+p242
+aVWe can discuss alternatives in another talk, perhaps one day,
+p243
+aVbut this is our driving force.
+p244
+aVSo what can we do?
+p245
+aVCan we find a solution to produce more?
+p246
+aVYes. But we need mechanization.
+p247
+aVAnd I'm making a real plea here.
+p248
+aVI feel so strongly that you cannot ask a small farmer
+p249
+aVto work the land and bend over to grow a hectare of rice,
+p250
+aV150,000 times, just to plant a crop and weed it.
+p251
+aVYou cannot ask people to work under these conditions.
+p252
+aVWe need clever low-key mechanization
+p253
+aVthat avoids the problems of the large-scale mechanization that we've had.
+p254
+aa(lp255
+VSo what can we do?
+p256
+aVWe must feed three billion people in cities.
+p257
+aVWe will not do that through small farmers' markets
+p258
+aVbecause these people have no small farmers' markets at their disposal.
+p259
+aVThey have low incomes. And they benefit
+p260
+aVfrom cheap, affordable, safe and diverse food.
+p261
+aVThat's what we must aim for in the next 20 to 30 years.
+p262
+aa(lp263
+VBut yes there are some solutions.
+p264
+aVAnd let me just do one simple conceptual thing:
+p265
+aVif I plot science as a proxy
+p266
+aVfor control of the production process and scale.
+p267
+aVWhat you see is that we've started
+p268
+aVin the left-hand corner with traditional agriculture,
+p269
+aVwhich was sort of small-scale and low-control.
+p270
+aVWe've moved towards large-scale and very high control.
+p271
+aVWhat I want us to do is to keep up the science and even get more science in there
+p272
+aVbut go to a kind of regional scale \u2014
+p273
+aVnot just in terms of the scale of the fields,
+p274
+aVbut in terms of the entire food network.
+p275
+aVThat's where we should move.
+p276
+aVAnd the ultimate may be, but it doesn't apply to cereals,
+p277
+aVthat we have entirely closed ecosystems \u2014
+p278
+aVthe horticultural systems right at the top left-hand corner.
+p279
+aVSo we need to think differently about agriculture science.
+p280
+aVAgriculture science for most people \u2014 and there are not many farmers
+p281
+aVamong you here \u2014
+p282
+aVhas this name of being bad,
+p283
+aVof being about pollution, about large-scale,
+p284
+aVabout the destruction of the environment.
+p285
+aVThat is not necessary.
+p286
+aVWe need more science and not less. And we need good science.
+p287
+aa(lp288
+VSo what kind of science can we have?
+p289
+aVWell first of all I think
+p290
+aVwe can do much better on the existing technologies.
+p291
+aVUse biotechnology where useful,
+p292
+aVparticularly in pest and disease resistance.
+p293
+aVThere are also robots, for example,
+p294
+aVwho can recognize weeds
+p295
+aVwith a resolution of half an inch.
+p296
+aVWe have much cleverer irrigation.
+p297
+aVWe do not need to spill the water if we don't want to.
+p298
+aVAnd we need to think very dispassionately
+p299
+aVabout the comparative advantages
+p300
+aVof small-scale and large-scale.
+p301
+aVWe need to think that land is multi-functional.
+p302
+aVIt has different functions.
+p303
+aVThere are different ways in which we must use it \u2014
+p304
+aVfor residential, for nature, for agriculture purposes.
+p305
+aVAnd we also need to re-examine livestock.
+p306
+aVGo regional and go to urban food systems.
+p307
+aVI want to see fish ponds in parking lots and basements.
+p308
+aVI want to have horticulture
+p309
+aVand greenhouses on top of residential areas.
+p310
+aVAnd I want to use the energy that comes from those greenhouses
+p311
+aVand from the fermentation of crops
+p312
+aVto heat our residential areas.
+p313
+aVThere are all kinds of ways we can do it.
+p314
+aVWe cannot solve the world food problem
+p315
+aVby using biological agriculture.
+p316
+aVBut we can do a lot more.
+p317
+aa(lp318
+VAnd the main thing that I would really ask all of you
+p319
+aVas you go back to your countries, or as you stay here:
+p320
+aVask your government for an integrated food policy.
+p321
+aVFood is as important as energy,
+p322
+aVas security, as the environment.
+p323
+aVEverything is linked together.
+p324
+aVSo we can do that. In fact in a densely populated country
+p325
+aVlike the River Delta, where I live in the Netherlands,
+p326
+aVwe have combined these functions.
+p327
+aVSo this is not science fiction. We can combine things
+p328
+aVeven in a social sense of making
+p329
+aVthe rural areas more accessible to people \u2014
+p330
+aVto house, for example, the chronically sick.
+p331
+aVThere is all kinds of things we can do.
+p332
+aa(lp333
+VBut there is something you must do. It's not enough for me to say,
+p334
+aV"Let's get more bold science into agriculture."
+p335
+aVYou must go back
+p336
+aVand think about your own food chain.
+p337
+aVTalk to farmers. When was the last time
+p338
+aVyou went to a farm and talked to a farmer?
+p339
+aVTalk to people in restaurants.
+p340
+aVUnderstand where you are in the food chain,
+p341
+aVwhere your food comes from.
+p342
+aVUnderstand that you are part
+p343
+aVof this enormous chain of events.
+p344
+aVAnd that frees you up to do other things.
+p345
+aVAnd above all, to me, food is about respect.
+p346
+aVIt's about understanding, when you eat,
+p347
+aVthat there are also many people who are still in this situation,
+p348
+aVwho are still struggling for their daily food.
+p349
+aVAnd the kind of simplistic solutions that we sometimes have,
+p350
+aVto think that doing everything by hand
+p351
+aVis going to be the solution,
+p352
+aVis really not morally justified.
+p353
+aVWe need to help to lift them out of poverty.
+p354
+aVWe need to make them proud of being a farmer
+p355
+aVbecause they allow us to survive.
+p356
+aVNever before, as I said,
+p357
+aVhas the responsibility for food
+p358
+aVbeen in the hands of so few.
+p359
+aVAnd never before have we had the luxury
+p360
+aVof taking it for granted
+p361
+aVbecause it is now so cheap.
+p362
+aa(lp363
+VAnd I think there is nobody else who has expressed
+p364
+aVbetter, to me, the idea that food, in the end,
+p365
+aVin our own tradition, is something holy.
+p366
+aVIt's not about nutrients and calories.
+p367
+aVIt's about sharing. It's about honesty. It's about identity.
+p368
+aVWho said this so beautifully was Mahatma Gandhi,
+p369
+aV75 years ago, when he spoke about bread.
+p370
+aVHe did not speak about rice, in India. He said,
+p371
+aV"To those who have to go without two meals a day,
+p372
+aVGod can only appear as bread."
+p373
+aa(lp374
+VAnd so as I'm finishing my bread here \u2014
+p375
+aVand I've been baking it, and I'll try not to burn my hands.
+p376
+aVLet me share
+p377
+aVwith those of you here in the first row.
+p378
+aVLet me share some of the food with you.
+p379
+aVTake some of my bread.
+p380
+aVAnd as you eat it, and as you try it \u2014
+p381
+aVplease come and stand up.
+p382
+aVHave some of it.
+p383
+aVI want you to think that every bite connects you
+p384
+aVto the past and the future:
+p385
+aVto these anonymous farmers,
+p386
+aVthat first bred the first wheat varieties;
+p387
+aVand to the farmers of today,
+p388
+aVwho've been making this. And you don't even know who they are.
+p389
+aVEvery meal you eat
+p390
+aVcontains ingredients from all across the world.
+p391
+aVEverything makes us so privileged,
+p392
+aVthat we can eat this food, that we don't struggle every day.
+p393
+aVAnd that, I think,
+p394
+aVevolutionarily-speaking is unique.
+p395
+aVWe've never had that before.
+p396
+aVSo enjoy your bread.
+p397
+aVEat it, and feel privileged.
+p398
+aVThank you very much.
+p399
+aV(Applause)
+p400
+aasS'id'
+p401
+I537
+sS'title'
+p402
+VWe need to feed the whole world
+p403
+s.

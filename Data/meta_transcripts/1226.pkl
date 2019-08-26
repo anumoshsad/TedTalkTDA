@@ -1,0 +1,979 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VLet's talk about billions.
+p4
+aVLet's talk about
+p5
+aVpast and future billions.
+p6
+aVWe know
+p7
+aVthat about 106 billion people
+p8
+aVhave ever lived.
+p9
+aVAnd we know that most of them are dead.
+p10
+aVAnd we also know
+p11
+aVthat most of them live or lived in Asia.
+p12
+aVAnd we also know
+p13
+aVthat most of them were or are very poor \u2014
+p14
+aVdid not live for very long.
+p15
+aVLet's talk about billions.
+p16
+aVLet's talk about
+p17
+aVthe 195,000 billion dollars of wealth
+p18
+aVin the world today.
+p19
+aVWe know that most of that wealth
+p20
+aVwas made after the year 1800.
+p21
+aVAnd we know that most of it
+p22
+aVis currently owned
+p23
+aVby people we might call Westerners:
+p24
+aVEuropeans, North Americans, Australasians.
+p25
+aV19 percent of the world's population today,
+p26
+aVWesterners own two-thirds of its wealth.
+p27
+aa(lp28
+VEconomic historians
+p29
+aVcall this "The Great Divergence."
+p30
+aVAnd this slide here
+p31
+aVis the best simplification
+p32
+aVof the Great Divergence story
+p33
+aVI can offer you.
+p34
+aVIt's basically two ratios
+p35
+aVof per capita GDP,
+p36
+aVper capita gross domestic product,
+p37
+aVso average income.
+p38
+aVOne, the red line,
+p39
+aVis the ratio of British to Indian
+p40
+aVper capita income.
+p41
+aVAnd the blue line
+p42
+aVis the ratio of American to Chinese.
+p43
+aVAnd this chart goes back to 1500.
+p44
+aVAnd you can see here
+p45
+aVthat there's an exponential Great Divergence.
+p46
+aVThey start off pretty close together.
+p47
+aVIn fact, in 1500,
+p48
+aVthe average Chinese was richer than the average North American.
+p49
+aVWhen you get to the 1970s,
+p50
+aVwhich is where this chart ends,
+p51
+aVthe average Briton is more than 10 times richer
+p52
+aVthan the average Indian.
+p53
+aVAnd that's allowing
+p54
+aVfor differences in the cost of living.
+p55
+aVIt's based on purchasing power parity.
+p56
+aVThe average American
+p57
+aVis nearly 20 times richer
+p58
+aVthan the average Chinese
+p59
+aVby the 1970s.
+p60
+aa(lp61
+VSo why?
+p62
+aVThis wasn't just an economic story.
+p63
+aVIf you take the 10 countries
+p64
+aVthat went on to become
+p65
+aVthe Western empires,
+p66
+aVin 1500 they were really quite tiny \u2014
+p67
+aVfive percent of the world's land surface,
+p68
+aV16 percent of its population,
+p69
+aVmaybe 20 percent of its income.
+p70
+aVBy 1913,
+p71
+aVthese 10 countries, plus the United States,
+p72
+aVcontrolled vast global empires \u2014
+p73
+aV58 percent of the world's territory,
+p74
+aVabout the same percentage of its population,
+p75
+aVand a really huge, nearly three-quarters share
+p76
+aVof global economic output.
+p77
+aVAnd notice, most of that went to the motherland,
+p78
+aVto the imperial metropoles,
+p79
+aVnot to their colonial possessions.
+p80
+aa(lp81
+VNow you can't just blame this on imperialism \u2014
+p82
+aVthough many people have tried to do so \u2014
+p83
+aVfor two reasons.
+p84
+aVOne, empire was the least original thing
+p85
+aVthat the West did after 1500.
+p86
+aVEverybody did empire.
+p87
+aVThey beat preexisting Oriental empires
+p88
+aVlike the Mughals and the Ottomans.
+p89
+aVSo it really doesn't look like empire is a great explanation
+p90
+aVfor the Great Divergence.
+p91
+aVIn any case, as you may remember,
+p92
+aVthe Great Divergence reaches its zenith in the 1970s,
+p93
+aVsome considerable time after decolonization.
+p94
+aVThis is not a new question.
+p95
+aa(lp96
+VSamuel Johnson,
+p97
+aVthe great lexicographer,
+p98
+aV[posed] it through his character Rasselas
+p99
+aVin his novel "Rasselas, Prince of Abissinia,"
+p100
+aVpublished in 1759.
+p101
+aV"By what means are the Europeans thus powerful;
+p102
+aVor why, since they can so easily visit Asia and Africa
+p103
+aVfor trade or conquest,
+p104
+aVcannot the Asiaticks and Africans
+p105
+aVinvade their coasts,
+p106
+aVplant colonies in their ports,
+p107
+aVand give laws to their natural princes?
+p108
+aVThe same wind that carries them back
+p109
+aVwould bring us thither?"
+p110
+aa(lp111
+VThat's a great question.
+p112
+aVAnd you know what,
+p113
+aVit was also being asked at roughly the same time
+p114
+aVby the Resterners \u2014 by the people in the rest of the world \u2014
+p115
+aVlike Ibrahim Muteferrika,
+p116
+aVan Ottoman official,
+p117
+aVthe man who introduced printing, very belatedly,
+p118
+aVto the Ottoman Empire \u2014
+p119
+aVwho said in a book published in 1731,
+p120
+aV"Why do Christian nations which were so weak in the past
+p121
+aVcompared with Muslim nations
+p122
+aVbegin to dominate so many lands in modern times
+p123
+aVand even defeat the once victorious Ottoman armies?"
+p124
+aVUnlike Rasselas,
+p125
+aVMuteferrika had an answer to that question,
+p126
+aVwhich was correct.
+p127
+aVHe said it was "because they have laws and rules
+p128
+aVinvented by reason."
+p129
+aVIt's not geography.
+p130
+aa(lp131
+VYou may think we can explain the Great Divergence
+p132
+aVin terms of geography.
+p133
+aVWe know that's wrong,
+p134
+aVbecause we conducted two great natural experiments in the 20th century
+p135
+aVto see if geography mattered more than institutions.
+p136
+aVWe took all the Germans,
+p137
+aVwe divided them roughly in two,
+p138
+aVand we gave the ones in the East communism,
+p139
+aVand you see the result.
+p140
+aVWithin an incredibly short period of time,
+p141
+aVpeople living in the German Democratic Republic
+p142
+aVproduced Trabants, the Trabbi,
+p143
+aVone of the world's worst ever cars,
+p144
+aVwhile people in the West produced the Mercedes Benz.
+p145
+aVIf you still don't believe me,
+p146
+aVwe conducted the experiment also in the Korean Peninsula.
+p147
+aVAnd we decided we'd take Koreans
+p148
+aVin roughly the same geographical place
+p149
+aVwith, notice, the same basic traditional culture,
+p150
+aVand we divided them in two, and we gave the Northerners communism.
+p151
+aVAnd the result is an even bigger divergence
+p152
+aVin a very short space of time
+p153
+aVthan happened in Germany.
+p154
+aVNot a big divergence in terms of uniform design for border guards admittedly,
+p155
+aVbut in almost every other respect,
+p156
+aVit's a huge divergence.
+p157
+aVWhich leads me to think
+p158
+aVthat neither geography nor national character,
+p159
+aVpopular explanations for this kind of thing,
+p160
+aVare really significant.
+p161
+aa(lp162
+VIt's the ideas.
+p163
+aVIt's the institutions.
+p164
+aVThis must be true
+p165
+aVbecause a Scotsman said it.
+p166
+aVAnd I think I'm the only Scotsman here at the Edinburgh TED.
+p167
+aVSo let me just explain to you
+p168
+aVthat the smartest man ever was a Scotsman.
+p169
+aVHe was Adam Smith \u2014
+p170
+aVnot Billy Connolly, not Sean Connery \u2014
+p171
+aVthough he is very smart indeed.
+p172
+aV(Laughter)
+p173
+aVSmith \u2014 and I want you to go
+p174
+aVand bow down before his statue in the Royal Mile;
+p175
+aVit's a wonderful statue \u2014
+p176
+aVSmith, in the "Wealth of Nations"
+p177
+aVpublished in 1776 \u2014
+p178
+aVthat's the most important thing that happened that year ...
+p179
+aV(Laughter)
+p180
+aVYou bet.
+p181
+aVThere was a little local difficulty in some of our minor colonies, but ...
+p182
+aa(lp183
+V(Laughter)
+p184
+aa(lp185
+V"China seems to have been long stationary,
+p186
+aVand probably long ago acquired that full complement of riches
+p187
+aVwhich is consistent with the nature of its laws and institutions.
+p188
+aVBut this complement may be much inferior
+p189
+aVto what, with other laws and institutions,
+p190
+aVthe nature of its soil, climate, and situation
+p191
+aVmight admit of."
+p192
+aVThat is so right and so cool.
+p193
+aVAnd he said it such a long time ago.
+p194
+aa(lp195
+VBut you know, this is a TED audience,
+p196
+aVand if I keep talking about institutions,
+p197
+aVyou're going to turn off.
+p198
+aVSo I'm going to translate this into language that you can understand.
+p199
+aVLet's call them the killer apps.
+p200
+aVI want to explain to you that there were six killer apps
+p201
+aVthat set the West apart from the rest.
+p202
+aVAnd they're kind of like the apps on your phone,
+p203
+aVin the sense that they look quite simple.
+p204
+aVThey're just icons; you click on them.
+p205
+aVBut behind the icon, there's complex code.
+p206
+aVIt's the same with institutions.
+p207
+aVThere are six
+p208
+aVwhich I think explain the Great Divergence.
+p209
+aVOne, competition.
+p210
+aVTwo, the scientific revolution.
+p211
+aVThree, property rights.
+p212
+aVFour, modern medicine.
+p213
+aVFive, the consumer society.
+p214
+aVAnd six, the work ethic.
+p215
+aVYou can play a game and try and think of one I've missed at,
+p216
+aVor try and boil it down to just four,
+p217
+aVbut you'll lose.
+p218
+aa(lp219
+V(Laughter)
+p220
+aa(lp221
+VLet me very briefly tell you what I mean by this,
+p222
+aVsynthesizing the work of many economic historians
+p223
+aVin the process.
+p224
+aVCompetition means,
+p225
+aVnot only were there a hundred different political units in Europe in 1500,
+p226
+aVbut within each of these units,
+p227
+aVthere was competition between corporations as well as sovereigns.
+p228
+aVThe ancestor of the modern corporation, the City of London Corporation,
+p229
+aVexisted in the 12th century.
+p230
+aVNothing like this existed in China,
+p231
+aVwhere there was one monolithic state
+p232
+aVcovering a fifth of humanity,
+p233
+aVand anyone with any ambition
+p234
+aVhad to pass one standardized examination,
+p235
+aVwhich took three days and was very difficult
+p236
+aVand involved memorizing vast numbers of characters
+p237
+aVand very complex Confucian essay writing.
+p238
+aa(lp239
+VThe scientific revolution was different
+p240
+aVfrom the science that had been achieved in the Oriental world
+p241
+aVin a number of crucial ways,
+p242
+aVthe most important being
+p243
+aVthat, through the experimental method,
+p244
+aVit gave men control over nature in a way that had not been possible before.
+p245
+aVExample: Benjamin Robins's extraordinary application
+p246
+aVof Newtonian physics to ballistics.
+p247
+aVOnce you do that,
+p248
+aVyour artillery becomes accurate.
+p249
+aVThink of what that means.
+p250
+aVThat really was a killer application.
+p251
+aV(Laughter)
+p252
+aVMeanwhile, there's no scientific revolution anywhere else.
+p253
+aVThe Ottoman Empire's not that far from Europe,
+p254
+aVbut there's no scientific revolution there.
+p255
+aVIn fact, they demolish Taqi al-Din's observatory,
+p256
+aVbecause it's considered blasphemous
+p257
+aVto inquire into the mind of God.
+p258
+aa(lp259
+VProperty rights: It's not the democracy, folks;
+p260
+aVit's having the rule of law based on private property rights.
+p261
+aVThat's what makes the difference
+p262
+aVbetween North America and South America.
+p263
+aVYou could turn up in North America
+p264
+aVhaving signed a deed of indenture
+p265
+aVsaying, "I'll work for nothing for five years.
+p266
+aVYou just have to feed me."
+p267
+aVBut at the end of it, you've got a hundred acres of land.
+p268
+aVThat's the land grant
+p269
+aVon the bottom half of the slide.
+p270
+aVThat's not possible in Latin America
+p271
+aVwhere land is held onto
+p272
+aVby a tiny elite descended from the conquistadors.
+p273
+aVAnd you can see here the huge divergence
+p274
+aVthat happens in property ownership between North and South.
+p275
+aVMost people in rural North America
+p276
+aVowned some land by 1900.
+p277
+aVHardly anyone in South America did.
+p278
+aVThat's another killer app.
+p279
+aa(lp280
+VModern medicine in the late 19th century
+p281
+aVbegan to make major breakthroughs
+p282
+aVagainst the infectious diseases that killed a lot of people.
+p283
+aVAnd this was another killer app \u2014
+p284
+aVthe very opposite of a killer,
+p285
+aVbecause it doubled, and then more than doubled, human life expectancy.
+p286
+aVIt even did that
+p287
+aVin the European empires.
+p288
+aVEven in places like Senegal,
+p289
+aVbeginning in the early 20th century,
+p290
+aVthere were major breakthroughs in public health,
+p291
+aVand life expectancy began to rise.
+p292
+aVIt doesn't rise any faster
+p293
+aVafter these countries become independent.
+p294
+aVThe empires weren't all bad.
+p295
+aa(lp296
+VThe consumer society is what you need
+p297
+aVfor the Industrial Revolution to have a point.
+p298
+aVYou need people to want to wear tons of clothes.
+p299
+aVYou've all bought an article of clothing in the last month;
+p300
+aVI guarantee it.
+p301
+aVThat's the consumer society,
+p302
+aVand it propels economic growth
+p303
+aVmore than even technological change itself.
+p304
+aVJapan was the first non-Western society
+p305
+aVto embrace it.
+p306
+aVThe alternative,
+p307
+aVwhich was proposed by Mahatma Gandhi,
+p308
+aVwas to institutionalize and make poverty permanent.
+p309
+aVVery few Indians today
+p310
+aVwish that India had gone down
+p311
+aVMahatma Gandhi's road.
+p312
+aa(lp313
+VFinally, the work ethic.
+p314
+aVMax Weber thought that was peculiarly Protestant.
+p315
+aVHe was wrong.
+p316
+aVAny culture can get the work ethic
+p317
+aVif the institutions are there
+p318
+aVto create the incentive to work.
+p319
+aVWe know this
+p320
+aVbecause today the work ethic
+p321
+aVis no longer a Protestant, Western phenomenon.
+p322
+aVIn fact, the West has lost its work ethic.
+p323
+aVToday, the average Korean
+p324
+aVworks a thousand hours more a year
+p325
+aVthan the average German \u2014
+p326
+aVa thousand.
+p327
+aVAnd this is part
+p328
+aVof a really extraordinary phenomenon,
+p329
+aVand that is the end of the Great Divergence.
+p330
+aa(lp331
+VWho's got the work ethic now?
+p332
+aVTake a look at mathematical attainment
+p333
+aVby 15 year-olds.
+p334
+aVAt the top of the international league table
+p335
+aVaccording to the latest PISA study,
+p336
+aVis the Shanghai district of China.
+p337
+aVThe gap between Shanghai
+p338
+aVand the United Kingdom and the United States
+p339
+aVis as big as the gap between the U.K. and the U.S.
+p340
+aVand Albania and Tunisia.
+p341
+aVYou probably assume
+p342
+aVthat because the iPhone was designed in California
+p343
+aVbut assembled in China
+p344
+aVthat the West still leads in terms of technological innovation.
+p345
+aVYou're wrong.
+p346
+aVIn terms of patents,
+p347
+aVthere's no question that the East is ahead.
+p348
+aVNot only has Japan been ahead for some time,
+p349
+aVSouth Korea has gone into third place,
+p350
+aVand China is just about to overtake Germany.
+p351
+aVWhy?
+p352
+aVBecause the killer apps can be downloaded.
+p353
+aVIt's open source.
+p354
+aVAny society can adopt these institutions,
+p355
+aVand when they do,
+p356
+aVthey achieve what the West achieved after 1500 \u2014
+p357
+aVonly faster.
+p358
+aa(lp359
+VThis is the Great Reconvergence,
+p360
+aVand it's the biggest story of your lifetime.
+p361
+aVBecause it's on your watch that this is happening.
+p362
+aVIt's our generation
+p363
+aVthat is witnessing the end of Western predominance.
+p364
+aVThe average American used to be more than 20 times richer
+p365
+aVthan the average Chinese.
+p366
+aVNow it's just five times,
+p367
+aVand soon it will be 2.5 times.
+p368
+aa(lp369
+VSo I want to end with three questions
+p370
+aVfor the future billions,
+p371
+aVjust ahead of 2016,
+p372
+aVwhen the United States will lose its place
+p373
+aVas number one economy to China.
+p374
+aVThe first is, can you delete these apps,
+p375
+aVand are we in the process of doing so
+p376
+aVin the Western world?
+p377
+aVThe second question is,
+p378
+aVdoes the sequencing of the download matter?
+p379
+aVAnd could Africa get that sequencing wrong?
+p380
+aVOne obvious implication of modern economic history
+p381
+aVis that it's quite hard to transition to democracy
+p382
+aVbefore you've established
+p383
+aVsecure private property rights.
+p384
+aVWarning: that may not work.
+p385
+aVAnd third, can China do without
+p386
+aVkiller app number three?
+p387
+aVThat's the one that John Locke systematized
+p388
+aVwhen he said that freedom was rooted in private property rights
+p389
+aVand the protection of law.
+p390
+aVThat's the basis
+p391
+aVfor the Western model
+p392
+aVof representative government.
+p393
+aVNow this picture shows the demolition
+p394
+aVof the Chinese artist Ai Weiwei's studio
+p395
+aVin Shanghai earlier this year.
+p396
+aVHe's now free again,
+p397
+aVhaving been detained, as you know, for some time.
+p398
+aVBut I don't think his studio has been rebuilt.
+p399
+aa(lp400
+VWinston Churchill once defined civilization
+p401
+aVin a lecture he gave in the fateful year of 1938.
+p402
+aVAnd I think these words really nail it:
+p403
+aV"It means a society based upon the opinion of civilians.
+p404
+aVIt means that violence, the rule of warriors and despotic chiefs,
+p405
+aVthe conditions of camps and warfare, of riot and tyranny,
+p406
+aVgive place to parliaments where laws are made,
+p407
+aVand independent courts of justice
+p408
+aVin which over long periods those laws are maintained.
+p409
+aVThat is civilization \u2014
+p410
+aVand in its soil grow continually
+p411
+aVfreedom, comfort and culture,"
+p412
+aVwhat all TEDsters care about most.
+p413
+aV"When civilization reigns in any country,
+p414
+aVa wider and less harassed life
+p415
+aVis afforded to the masses of the people."
+p416
+aVThat's so true.
+p417
+aa(lp418
+VI don't think the decline of Western civilization
+p419
+aVis inevitable,
+p420
+aVbecause I don't think history operates
+p421
+aVin this kind of life-cycle model,
+p422
+aVbeautifully illustrated by Thomas Cole's
+p423
+aV"Course of Empire" paintings.
+p424
+aVThat's not the way history works.
+p425
+aVThat's not the way the West rose,
+p426
+aVand I don't think it's the way the West will fall.
+p427
+aVThe West may collapse very suddenly.
+p428
+aVComplex civilizations do that,
+p429
+aVbecause they operate, most of the time,
+p430
+aVon the edge of chaos.
+p431
+aVThat's one of the most profound insights
+p432
+aVto come out of the historical study of complex institutions
+p433
+aVlike civilizations.
+p434
+aVNo, we may hang on,
+p435
+aVdespite the huge burdens of debt that we've accumulated,
+p436
+aVdespite the evidence that we've lost our work ethic
+p437
+aVand other parts of our historical mojo.
+p438
+aVBut one thing is for sure,
+p439
+aVthe Great Divergence
+p440
+aVis over, folks.
+p441
+aa(lp442
+VThanks very much.
+p443
+aa(lp444
+V(Applause)
+p445
+aa(lp446
+VBruno Giussani: Niall,
+p447
+aVI am just curious
+p448
+aVabout your take on the other region of the world that's booming,
+p449
+aVwhich is Latin America.
+p450
+aVWhat's your view on that?
+p451
+aa(lp452
+VNiall Ferguson: Well I really am not just talking
+p453
+aVabout the rise of the East;
+p454
+aVI'm talking about the rise of the Rest,
+p455
+aVand that includes South America.
+p456
+aVI once asked one of my colleagues at Harvard,
+p457
+aV"Hey, is South America part of the West?"
+p458
+aVHe was an expert in Latin American history.
+p459
+aVHe said, "I don't know; I'll have to think about that."
+p460
+aVThat tells you something really important.
+p461
+aVI think if you look at what is happening in Brazil in particular,
+p462
+aVbut also Chile,
+p463
+aVwhich was in many ways the one that led the way
+p464
+aVin transforming the institutions of economic life,
+p465
+aVthere's a very bright future indeed.
+p466
+aVSo my story really is
+p467
+aVas much about that convergence in the Americas
+p468
+aVas it's a convergence story in Eurasia.
+p469
+aa(lp470
+VBG: And there is this impression
+p471
+aVthat North America and Europe
+p472
+aVare not really paying attention
+p473
+aVto these trends.
+p474
+aVMostly they're worried about each other.
+p475
+aVThe Americans think that the European model is going to crumble tomorrow.
+p476
+aVThe Europeans think that the American budget is going to explode tomorrow.
+p477
+aVAnd that's all we seem to be caring about recently.
+p478
+aa(lp479
+VNF: I think the fiscal crisis
+p480
+aVthat we see in the developed World right now \u2014 both sides of the Atlantic \u2014
+p481
+aVis essentially the same thing
+p482
+aVtaking different forms
+p483
+aVin terms of political culture.
+p484
+aVAnd it's a crisis that has its structural facet \u2014
+p485
+aVit's partly to do with demographics.
+p486
+aVBut it's also, of course, to do with the massive crisis
+p487
+aVthat followed excessive leverage,
+p488
+aVexcessive borrowing in the private sector.
+p489
+aVThat crisis,
+p490
+aVwhich has been the focus of so much attention, including by me,
+p491
+aVI think is an epiphenomenon.
+p492
+aVThe financial crisis is really a relatively small historic phenomenon,
+p493
+aVwhich has just accelerated
+p494
+aVthis huge shift,
+p495
+aVwhich ends half a millennium of Western ascendancy.
+p496
+aVI think that's its real importance.
+p497
+aa(lp498
+VBG: Niall, thank you. (NF: Thank you very much, Bruno.)
+p499
+aa(lp500
+V(Applause)
+p501
+aasS'id'
+p502
+I1226
+sS'title'
+p503
+VThe 6 killer apps of prosperity
+p504
+s.

@@ -1,0 +1,750 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VHi, I'm an engineer
+p4
+aVand I make robots.
+p5
+aVNow, of course you all know what a robot is, right?
+p6
+aVIf you don't, you'd probably go to Google,
+p7
+aVand you'd ask Google what a robot is.
+p8
+aVSo let's do that.
+p9
+aVWe'll go to Google and this is what we get.
+p10
+aVNow, you can see here there are lots of different types of robots,
+p11
+aVbut they're predominantly humanoid in structure.
+p12
+aVAnd they look pretty conventional
+p13
+aVbecause they've got plastic, they've got metal,
+p14
+aVthey've got motors and gears and so on.
+p15
+aVSome of them look quite friendly,
+p16
+aVand you could go up and you could hug them.
+p17
+aVSome of them not so friendly,
+p18
+aVthey look like they're straight out of "Terminator,"
+p19
+aVin fact they may well be straight out of "Terminator."
+p20
+aVYou can do lots of really cool things with these robots \u2014
+p21
+aVyou can do really exciting stuff.
+p22
+aa(lp23
+VBut I'd like to look at different kinds of robots \u2014
+p24
+aVI want to make different kinds of robots.
+p25
+aVAnd I take inspiration from the things that don't look like us,
+p26
+aVbut look like these.
+p27
+aVSo these are natural biological organisms
+p28
+aVand they do some really cool things that we can't,
+p29
+aVand current robots can't either.
+p30
+aVThey do all sorts of great things like moving around on the floor;
+p31
+aVthey go into our gardens and they eat our crops;
+p32
+aVthey climb trees;
+p33
+aVthey go in water, they come out of water;
+p34
+aVthey trap insects and digest them.
+p35
+aVSo they do really interesting things.
+p36
+aVThey live, they breathe, they die,
+p37
+aVthey eat things from the environment.
+p38
+aVOur current robots don't really do that.
+p39
+aVNow, wouldn't it be great
+p40
+aVif you could use some of those characteristics in future robots
+p41
+aVso that you could solve some really interesting problems?
+p42
+aVI'm going to look at a couple of problems now in the environment
+p43
+aVwhere we can use the skills and the technologies
+p44
+aVderived from these animals
+p45
+aVand from the plants,
+p46
+aVand we can use them to solve those problems.
+p47
+aa(lp48
+VLet's have a look at two environmental problems.
+p49
+aVThey're both of our making \u2014
+p50
+aVthis is man interacting with the environment
+p51
+aVand doing some rather unpleasant things.
+p52
+aVThe first one is to do with the pressure of population.
+p53
+aVSuch is the pressure of population around the world
+p54
+aVthat agriculture and farming is required to produce more and more crops.
+p55
+aVNow, to do that,
+p56
+aVfarmers put more and more chemicals onto the land.
+p57
+aVThey put on fertilizers, nitrates, pesticides \u2014
+p58
+aVall sorts of things that encourage the growth of the crops,
+p59
+aVbut there are some negative impacts.
+p60
+aVOne of the negative impacts is if you put lots of fertilizer on the land,
+p61
+aVnot all of it goes into the crops.
+p62
+aVLots of it stays in the soil,
+p63
+aVand then when it rains,
+p64
+aVthese chemicals go into the water table.
+p65
+aVAnd in the water table,
+p66
+aVthen they go into streams, into lakes, into rivers
+p67
+aVand into the sea.
+p68
+aVNow, if you put all of these chemicals, these nitrates,
+p69
+aVinto those kinds of environments,
+p70
+aVthere are organisms in those environments that will be affected by that \u2014
+p71
+aValgae, for example.
+p72
+aVAlgae loves nitrates, it loves fertilizer,
+p73
+aVso it will take in all these chemicals,
+p74
+aVand if the conditions are right, it will mass produce.
+p75
+aVIt will produce masses and masses of new algae.
+p76
+aVThat's called a bloom.
+p77
+aVThe trouble is that when algae reproduces like this,
+p78
+aVit starves the water of oxygen.
+p79
+aVAs soon as you do that,
+p80
+aVthe other organisms in the water can't survive.
+p81
+aVSo, what do we do?
+p82
+aVWe try to produce a robot that will eat the algae,
+p83
+aVconsume it and make it safe.
+p84
+aa(lp85
+VSo that's the first problem.
+p86
+aVThe second problem is also of our making,
+p87
+aVand it's to do with oil pollution.
+p88
+aVNow, oil comes out of the engines that we use,
+p89
+aVthe boats that we use.
+p90
+aVSometimes tankers flush their oil tanks into the sea,
+p91
+aVso oil is released into the sea that way.
+p92
+aVWouldn't it be nice if we could treat that in some way
+p93
+aVusing robots that could eat the pollution the oil fields have produced?
+p94
+aVSo that's what we do.
+p95
+aVWe make robots that will eat pollution.
+p96
+aa(lp97
+VTo actually make the robot,
+p98
+aVwe take inspiration from two organisms.
+p99
+aVOn the right there you see the basking shark.
+p100
+aVThe basking shark is a massive shark.
+p101
+aVIt's noncarnivorous, so you can swim with it,
+p102
+aVas you can see.
+p103
+aVAnd the basking shark opens its mouth,
+p104
+aVand it swims through the water, collecting plankton.
+p105
+aVAs it does that, it digests the food,
+p106
+aVand then it uses that energy in its body to keep moving.
+p107
+aVSo, could we make a robot like that \u2014
+p108
+aVlike the basking shark that chugs through the water
+p109
+aVand eats up pollution?
+p110
+aVWell, let's see if we can do that.
+p111
+aVBut also, we take the inspiration from other organisms.
+p112
+aVI've got a picture here of a water boatman,
+p113
+aVand the water boatman is really cute.
+p114
+aVWhen it's swimming in the water,
+p115
+aVit uses its paddle-like legs to push itself forward.
+p116
+aa(lp117
+VSo we take those two organisms
+p118
+aVand we combine them together to make a new kind of robot.
+p119
+aVIn fact, because we're using the water boatman as inspiration,
+p120
+aVand our robot sits on top of the water,
+p121
+aVand it rows,
+p122
+aVwe call it the "Row-bot."
+p123
+aVSo a Row-bot is a robot that rows.
+p124
+aVOK. So what does it look like?
+p125
+aVHere's some pictures of the Row-bot,
+p126
+aVand you'll see,
+p127
+aVit doesn't look anything like the robots we saw right at the beginning.
+p128
+aVGoogle is wrong; robots don't look like that,
+p129
+aVthey look like this.
+p130
+aa(lp131
+VSo I've got the Row-bot here.
+p132
+aVI'll just hold it up for you.
+p133
+aVIt gives you a sense of the scale,
+p134
+aVand it doesn't look anything like the others.
+p135
+aVOK, so it's made out of plastic,
+p136
+aVand we'll have a look now at the components
+p137
+aVthat make up the Row-bot \u2014
+p138
+aVwhat makes it really special.
+p139
+aa(lp140
+VThe Row-bot is made up of three parts,
+p141
+aVand those three parts are really like the parts of any organism.
+p142
+aVIt's got a brain,
+p143
+aVit's got a body
+p144
+aVand it's got a stomach.
+p145
+aVIt needs the stomach to create the energy.
+p146
+aVAny Row-bot will have those three components,
+p147
+aVand any organism will have those three components,
+p148
+aVso let's go through them one at a time.
+p149
+aVIt has a body,
+p150
+aVand its body is made out of plastic,
+p151
+aVand it sits on top of the water.
+p152
+aVAnd it's got flippers on the side here \u2014
+p153
+aVpaddles that help it move,
+p154
+aVjust like the water boatman.
+p155
+aVIt's got a plastic body,
+p156
+aVbut it's got a soft rubber mouth here,
+p157
+aVand a mouth here \u2014 it's got two mouths.
+p158
+aVWhy does it have two mouths?
+p159
+aVOne is to let the food go in
+p160
+aVand the other is to let the food go out.
+p161
+aVSo you can see really it's got a mouth and a derriere,
+p162
+aVor a \u2014
+p163
+aa(lp164
+V(Laughter)
+p165
+aa(lp166
+Vsomething where the stuff comes out,
+p167
+aVwhich is just like a real organism.
+p168
+aVSo it's starting to look like that basking shark.
+p169
+aVSo that's the body.
+p170
+aa(lp171
+VThe second component might be the stomach.
+p172
+aVWe need to get the energy into the robot and we need to treat the pollution,
+p173
+aVso the pollution goes in,
+p174
+aVand it will do something.
+p175
+aVIt's got a cell in the middle here called a microbial fuel cell.
+p176
+aVI'll put this down, and I'll lift up the fuel cell.
+p177
+aVHere. So instead of having batteries,
+p178
+aVinstead of having a conventional power system,
+p179
+aVit's got one of these.
+p180
+aVThis is its stomach.
+p181
+aVAnd it really is a stomach
+p182
+aVbecause you can put energy in this side in the form of pollution,
+p183
+aVand it creates electricity.
+p184
+aa(lp185
+VSo what is it?
+p186
+aVIt's called a microbial fuel cell.
+p187
+aVIt's a little bit like a chemical fuel cell,
+p188
+aVwhich you might have come across in school,
+p189
+aVor you might've seen in the news.
+p190
+aVChemical fuel cells take hydrogen and oxygen,
+p191
+aVand they can combine them together and you get electricity.
+p192
+aVThat's well-established technology; it was in the Apollo space missions.
+p193
+aVThat's from 40, 50 years ago.
+p194
+aVThis is slightly newer.
+p195
+aVThis is a microbial fuel cell.
+p196
+aVIt's the same principle:
+p197
+aVit's got oxygen on one side,
+p198
+aVbut instead of having hydrogen on the other,
+p199
+aVit's got some soup,
+p200
+aVand inside that soup there are living microbes.
+p201
+aVNow, if you take some organic material \u2014
+p202
+aVcould be some waste products, some food,
+p203
+aVmaybe a bit of your sandwich \u2014
+p204
+aVyou put it in there, the microbes will eat that food,
+p205
+aVand they will turn it into electricity.
+p206
+aVNot only that, but if you select the right kind of microbes,
+p207
+aVyou can use the microbial fuel cell to treat some of the pollution.
+p208
+aVIf you choose the right microbes,
+p209
+aVthe microbes will eat the algae.
+p210
+aVIf you use other kinds of microbes,
+p211
+aVthey will eat petroleum spirits and crude oil.
+p212
+aVSo you can see how this stomach could be used
+p213
+aVto not only treat the pollution
+p214
+aVbut also to generate electricity from the pollution.
+p215
+aVSo the robot will move through the environment,
+p216
+aVtaking food into its stomach,
+p217
+aVdigest the food, create electricity,
+p218
+aVuse that electricity to move through the environment
+p219
+aVand keep doing this.
+p220
+aa(lp221
+VOK, so let's see what happens when we run the Row-bot \u2014
+p222
+aVwhen it does some rowing.
+p223
+aVHere we've got a couple of videos,
+p224
+aVthe first thing you'll see \u2014 hopefully you can see here
+p225
+aVis the mouth open.
+p226
+aVThe front mouth and the bottom mouth open,
+p227
+aVand it will stay opened enough,
+p228
+aVthen the robot will start to row forward.
+p229
+aVIt moves through the water
+p230
+aVso that food goes in as the waste products go out.
+p231
+aVOnce it's moved enough,
+p232
+aVit stops and then it closes the mouth \u2014
+p233
+aVslowly closes the mouths \u2014
+p234
+aVand then it will sit there,
+p235
+aVand it will digest the food.
+p236
+aa(lp237
+VOf course these microbial fuel cells,
+p238
+aVthey contain microbes.
+p239
+aVWhat you really want is lots of energy
+p240
+aVcoming out of those microbes as quickly as possible.
+p241
+aVBut we can't force the microbes
+p242
+aVand they generate a small amount of electricity per second.
+p243
+aVThey generate milliwatts, or microwatts.
+p244
+aVLet's put that into context.
+p245
+aVYour mobile phone for example,
+p246
+aVone of these modern ones,
+p247
+aVif you use it, it takes about one watt.
+p248
+aVSo that's a thousand or a million times as much energy that that uses
+p249
+aVcompared to the microbial fuel cell.
+p250
+aVHow can we cope with that?
+p251
+aVWell, when the Row-bot has done its digestion,
+p252
+aVwhen it's taken the food in,
+p253
+aVit will sit there and it will wait until it has consumed all that food.
+p254
+aVThat could take some hours, it could take some days.
+p255
+aVA typical cycle for the Row-bot looks like this:
+p256
+aVyou open your mouth,
+p257
+aVyou move,
+p258
+aVyou close your mouth
+p259
+aVand you sit there for a while waiting.
+p260
+aVOnce you digest your food,
+p261
+aVthen you can go about doing the same thing again.
+p262
+aVBut you know what, that looks like a real organism, doesn't it?
+p263
+aVIt looks like the kind of thing we do.
+p264
+aVSaturday night, we go out, open our mouths,
+p265
+aVfill our stomachs,
+p266
+aVsit in front of the telly and digest.
+p267
+aVWhen we've had enough, we do the same thing again.
+p268
+aa(lp269
+VOK, if we're lucky with this cycle,
+p270
+aVat the end of the cycle we'll have enough energy left over
+p271
+aVfor us to be able to do something else.
+p272
+aVWe could send a message, for example.
+p273
+aVWe could send a message saying,
+p274
+aV"This is how much pollution I've eaten recently,"
+p275
+aVor, "This is the kind of stuff that I've encountered,"
+p276
+aVor, "This is where I am."
+p277
+aVThat ability to send a message saying, "This is where I am,"
+p278
+aVis really, really important.
+p279
+aVIf you think about the oil slicks that we saw before,
+p280
+aVor those massive algal blooms,
+p281
+aVwhat you really want to do is put your Row-bot out there,
+p282
+aVand it eats up all of those pollutions,
+p283
+aVand then you have to go collect them.
+p284
+aVWhy?
+p285
+aVBecause these Row-bots at the moment,
+p286
+aVthis Row-bot I've got here,
+p287
+aVit contains motors, it contains wires,
+p288
+aVit contains components which themselves are not biodegradable.
+p289
+aVCurrent Row-bots contain things like toxic batteries.
+p290
+aVYou can't leave those in the environment,
+p291
+aVso you need to track them,
+p292
+aVand then when they've finished their job of work,
+p293
+aVyou need to collect them.
+p294
+aVThat limits the number of Row-bots you can use.
+p295
+aVIf, on the other hand,
+p296
+aVyou have robot a little bit like a biological organism,
+p297
+aVwhen it comes to the end of its life,
+p298
+aVit dies and it degrades to nothing.
+p299
+aa(lp300
+VSo wouldn't it be nice if these robots,
+p301
+aVinstead of being like this, made out of plastic,
+p302
+aVwere made out of other materials,
+p303
+aVwhich when you throw them out there,
+p304
+aVthey biodegrade to nothing?
+p305
+aVThat changes the way in which we use robots.
+p306
+aVInstead of putting 10 or 100 out into the environment,
+p307
+aVhaving to track them,
+p308
+aVand then when they die,
+p309
+aVcollect them,
+p310
+aVyou could put a thousand,
+p311
+aVa million, a billion robots into the environment.
+p312
+aVJust spread them around.
+p313
+aVYou know that at the end of their lives, they're going to degrade to nothing.
+p314
+aVYou don't need to worry about them.
+p315
+aVSo that changes the way in which you think about robots
+p316
+aVand the way you deploy them.
+p317
+aa(lp318
+VThen the question is: Can you do this?
+p319
+aVWell, yes, we have shown that you can do this.
+p320
+aVYou can make robots which are biodegradable.
+p321
+aVWhat's really interesting is you can use household materials
+p322
+aVto make these biodegradable robots.
+p323
+aVI'll show you some; you might be surprised.
+p324
+aVYou can make a robot out of jelly.
+p325
+aVInstead of having a motor, which we have at the moment,
+p326
+aVyou can make things called artificial muscles.
+p327
+aVArtificial muscles are smart materials,
+p328
+aVyou apply electricity to them,
+p329
+aVand they contract, or they bend or they twist.
+p330
+aVThey look like real muscles.
+p331
+aVSo instead of having a motor, you have these artificial muscles.
+p332
+aVAnd you can make artificial muscles out of jelly.
+p333
+aVIf you take some jelly and some salts,
+p334
+aVand do a bit of jiggery-pokery,
+p335
+aVyou can make an artificial muscle.
+p336
+aa(lp337
+VWe've also shown you can make the microbial fuel cell's stomach
+p338
+aVout of paper.
+p339
+aVSo you could make the whole robot out of biodegradable materials.
+p340
+aVYou throw them out there, and they degrade to nothing.
+p341
+aa(lp342
+VWell, this is really, really exciting.
+p343
+aVIt's going to totally change the way in which we think about robots,
+p344
+aVbut also it allows you to be really creative
+p345
+aVin the way in which you think about what you can do with these robots.
+p346
+aVI'll give you an example.
+p347
+aVIf you can use jelly to make a robot \u2014
+p348
+aVnow, we eat jelly, right?
+p349
+aVSo, why not make something like this?
+p350
+aVA robot gummy bear.
+p351
+aVHere, I've got some I prepared earlier.
+p352
+aVThere we go. I've got a packet \u2014
+p353
+aVand I've got a lemon-flavored one.
+p354
+aVI'll take this gummy bear \u2014 he's not robotic, OK?
+p355
+aVWe have to pretend.
+p356
+aVAnd what you do with one of these is you put it in your mouth \u2014
+p357
+aVthe lemon's quite nice.
+p358
+aVTry not to chew it too much, it's a robot, it may not like it.
+p359
+aVAnd then you swallow it.
+p360
+aVAnd then it goes into your stomach.
+p361
+aVAnd when it's inside your stomach, it moves, it thinks, it twists, it bends,
+p362
+aVit does something.
+p363
+aVIt could go further down into your intestines,
+p364
+aVfind out whether you've got some ulcer or cancer,
+p365
+aVmaybe do an injection, something like that.
+p366
+aVYou know that once it's done its job of work,
+p367
+aVit could be consumed by your stomach,
+p368
+aVor if you don't want that,
+p369
+aVit could go straight through you,
+p370
+aVinto the toilet,
+p371
+aVand be degraded safely in the environment.
+p372
+aVSo this changes the way, again, in which we think about robots.
+p373
+aa(lp374
+VSo, we started off looking at robots that would eat pollution,
+p375
+aVand then we're looking at robots which we can eat.
+p376
+aVI hope this gives you some idea
+p377
+aVof the kinds of things we can do with future robots.
+p378
+aa(lp379
+VThank you very much for your attention.
+p380
+aa(lp381
+V(Applause)
+p382
+aasS'id'
+p383
+I2690
+sS'title'
+p384
+VA robot that eats pollution
+p385
+s.

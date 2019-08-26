@@ -1,0 +1,690 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VHave you ever asked yourselves why it is that
+p4
+aVcompanies, the really cool companies,
+p5
+aVthe innovative ones, the creative,
+p6
+aVnew economy-type companies \u2014
+p7
+aVApple, Google, Facebook \u2014
+p8
+aVare coming out of one particular country,
+p9
+aVthe United States of America?
+p10
+aVUsually when I say this, someone says, "Spotify!
+p11
+aVThat's Europe." But, yeah.
+p12
+aVIt has not had the impact that these other companies have had.
+p13
+aa(lp14
+VNow what I do is I'm an economist,
+p15
+aVand I actually study the relationship
+p16
+aVbetween innovation and economic growth
+p17
+aVat the level of the company, the industry and the nation,
+p18
+aVand I work with policymakers worldwide,
+p19
+aVespecially in the European Commission,
+p20
+aVbut recently also in interesting places like China,
+p21
+aVand I can tell you that that question
+p22
+aVis on the tip of all of their tongues:
+p23
+aVWhere are the European Googles?
+p24
+aVWhat is the secret behind the Silicon Valley growth model,
+p25
+aVwhich they understand is different
+p26
+aVfrom this old economy growth model?
+p27
+aVAnd what is interesting is that often,
+p28
+aVeven if we're in the 21st century,
+p29
+aVwe kind of come down in the end to these ideas
+p30
+aVof market versus state.
+p31
+aVIt's talked about in these modern ways,
+p32
+aVbut the idea is that somehow, behind places like Silicon Valley,
+p33
+aVthe secret have been different types of market-making mechanisms,
+p34
+aVthe private initiative, whether this be about
+p35
+aVa dynamic venture capital sector
+p36
+aVthat's actually able to provide that high-risk finance
+p37
+aVto these innovative companies,
+p38
+aVthe gazelles as we often call them,
+p39
+aVwhich traditional banks are scared of,
+p40
+aVor different types of really successful
+p41
+aVcommercialization policies which actually allow these companies
+p42
+aVto bring these great inventions, their products,
+p43
+aVto the market and actually get over this
+p44
+aVreally scary Death Valley period
+p45
+aVin which many companies instead fail.
+p46
+aa(lp47
+VBut what really interests me, especially nowadays
+p48
+aVand because of what's happening politically around the world,
+p49
+aVis the language that's used, the narrative,
+p50
+aVthe discourse, the images, the actual words.
+p51
+aVSo we often are presented
+p52
+aVwith the kind of words like that the private sector
+p53
+aVis also much more innovative because it's able to
+p54
+aVthink out of the box.
+p55
+aVThey are more dynamic.
+p56
+aVThink of Steve Jobs' really inspirational speech
+p57
+aVto the 2005 graduating class at Stanford,
+p58
+aVwhere he said to be innovative,
+p59
+aVyou've got to stay hungry, stay foolish.
+p60
+aVRight? So these guys are kind of the hungry
+p61
+aVand foolish and colorful guys, right?
+p62
+aVAnd in places like Europe,
+p63
+aVit might be more equitable,
+p64
+aVwe might even be a bit better dressed
+p65
+aVand eat better than the U.S.,
+p66
+aVbut the problem is this damn public sector.
+p67
+aVIt's a bit too big, and it hasn't actually allowed
+p68
+aVthese things like dynamic venture capital
+p69
+aVand commercialization to actually be able to really
+p70
+aVbe as fruitful as it could.
+p71
+aVAnd even really respectable newspapers,
+p72
+aVsome that I'm actually subscribed to,
+p73
+aVthe words they use are, you know,
+p74
+aVthe state as this Leviathan. Right?
+p75
+aVThis monster with big tentacles.
+p76
+aVThey're very explicit in these editorials.
+p77
+aVThey say, "You know, the state, it's necessary
+p78
+aVto fix these little market failures
+p79
+aVwhen you have public goods
+p80
+aVor different types of negative externalities like pollution,
+p81
+aVbut you know what, what is the next big revolution
+p82
+aVgoing to be after the Internet?
+p83
+aVWe all hope it might be something green,
+p84
+aVor all of this nanotech stuff, and in order for that stuff to happen," they say \u2014
+p85
+aVthis was a special issue on the next industrial revolution \u2014
+p86
+aVthey say, "the state, just stick to the basics, right?
+p87
+aVFund the infrastructure. Fund the schools.
+p88
+aVEven fund the basic research, because this is
+p89
+aVpopularly recognized, in fact, as a big public good
+p90
+aVwhich private companies don't want to invest in,
+p91
+aVdo that, but you know what?
+p92
+aVLeave the rest to the revolutionaries."
+p93
+aVThose colorful, out-of-the-box kind of thinkers.
+p94
+aVThey're often called garage tinkerers,
+p95
+aVbecause some of them actually did some things in garages,
+p96
+aVeven though that's partly a myth.
+p97
+aVAnd so what I want to do with you in, oh God,
+p98
+aVonly 10 minutes,
+p99
+aVis to really think again this juxtaposition,
+p100
+aVbecause it actually has massive, massive implications
+p101
+aVbeyond innovation policy,
+p102
+aVwhich just happens to be the area
+p103
+aVthat I often talk with with policymakers.
+p104
+aVIt has huge implications, even with this whole notion
+p105
+aVthat we have on where, when and why
+p106
+aVwe should actually be cutting back on public spending
+p107
+aVand different types of public services which,
+p108
+aVof course, as we know, are increasingly being
+p109
+aVoutsourced because of this juxtaposition.
+p110
+aVRight? I mean, the reason that we need to maybe have free schools or charter schools
+p111
+aVis in order to make them more innovative without being emburdened
+p112
+aVby this heavy hand of the state curriculum, or something.
+p113
+aVSo these kind of words are constantly,
+p114
+aVthese juxtapositions come up everywhere,
+p115
+aVnot just with innovation policy.
+p116
+aa(lp117
+VAnd so to think again,
+p118
+aVthere's no reason that you should believe me,
+p119
+aVso just think of some of the smartest
+p120
+aVrevolutionary things that you have in your pockets
+p121
+aVand do not turn it on, but you might want to take it out, your iPhone.
+p122
+aVAsk who actually funded the really cool,
+p123
+aVrevolutionary thinking-out-of-the-box
+p124
+aVthings in the iPhone.
+p125
+aVWhat actually makes your phone
+p126
+aVa smartphone, basically, instead of a stupid phone?
+p127
+aVSo the Internet, which you can surf the web
+p128
+aVanywhere you are in the world;
+p129
+aVGPS, where you can actually know where you are
+p130
+aVanywhere in the world;
+p131
+aVthe touchscreen display, which makes it also
+p132
+aVa really easy-to-use phone for anybody.
+p133
+aVThese are the very smart, revolutionary bits about the iPhone,
+p134
+aVand they're all government-funded.
+p135
+aVAnd the point is that the Internet
+p136
+aVwas funded by DARPA, U.S. Department of Defense.
+p137
+aVGPS was funded by the military's Navstar program.
+p138
+aVEven Siri was actually funded by DARPA.
+p139
+aVThe touchscreen display was funded
+p140
+aVby two public grants by the CIA and the NSF
+p141
+aVto two public university researchers at the University of Delaware.
+p142
+aVNow, you might be thinking, "Well, she's just said
+p143
+aVthe word 'defense' and 'military' an awful lot,"
+p144
+aVbut what's really interesting is that this is actually true
+p145
+aVin sector after sector and department after department.
+p146
+aVSo the pharmaceutical industry, which I am personally
+p147
+aVvery interested in because I've actually had the fortune
+p148
+aVto study it in quite some depth,
+p149
+aVis wonderful to be asking this question
+p150
+aVabout the revolutionary versus non-revolutionary bits,
+p151
+aVbecause each and every medicine can actually be
+p152
+aVdivided up on whether it really is revolutionary or incremental.
+p153
+aVSo the new molecular entities with priority rating
+p154
+aVare the revolutionary new drugs,
+p155
+aVwhereas the slight variations of existing drugs \u2014
+p156
+aVViagra, different color, different dosage \u2014
+p157
+aVare the less revolutionary ones.
+p158
+aVAnd it turns out that a full 75 percent
+p159
+aVof the new molecular entities with priority rating
+p160
+aVare actually funded in boring, Kafka-ian public sector labs.
+p161
+aVThis doesn't mean that Big Pharma is not spending on innovation.
+p162
+aVThey do. They spend on the marketing part.
+p163
+aVThey spend on the D part of R&D.
+p164
+aVThey spend an awful lot on buying back their stock,
+p165
+aVwhich is quite problematic.
+p166
+aVIn fact, companies like Pfizer and Amgen recently
+p167
+aVhave spent more money in buying back their shares
+p168
+aVto boost their stock price than on R&D,
+p169
+aVbut that's a whole different TED Talk which one day
+p170
+aVI'd be fascinated to tell you about.
+p171
+aa(lp172
+VNow, what's interesting in all of this
+p173
+aVis the state, in all these examples,
+p174
+aVwas doing so much more than just fixing market failures.
+p175
+aVIt was actually shaping and creating markets.
+p176
+aVIt was funding not only the basic research,
+p177
+aVwhich again is a typical public good,
+p178
+aVbut even the applied research.
+p179
+aVIt was even, God forbid, being a venture capitalist.
+p180
+aVSo these SBIR and SDTR programs,
+p181
+aVwhich give small companies early-stage finance
+p182
+aVhave not only been extremely important
+p183
+aVcompared to private venture capital,
+p184
+aVbut also have become increasingly important.
+p185
+aVWhy? Because, as many of us know,
+p186
+aVV.C. is actually quite short-term.
+p187
+aVThey want their returns in three to five years.
+p188
+aVInnovation takes a much longer time than that,
+p189
+aV15 to 20 years.
+p190
+aVAnd so this whole notion \u2014 I mean, this is the point, right?
+p191
+aVWho's actually funding the hard stuff?
+p192
+aVOf course, it's not just the state.
+p193
+aVThe private sector does a lot.
+p194
+aVBut the narrative that we've always been told
+p195
+aVis the state is important for the basics,
+p196
+aVbut not really providing that sort of high-risk,
+p197
+aVrevolutionary thinking out of the box.
+p198
+aVIn all these sectors, from funding the Internet
+p199
+aVto doing the spending, but also the envisioning,
+p200
+aVthe strategic vision, for these investments,
+p201
+aVit was actually coming within the state.
+p202
+aVThe nanotechnology sector is actually fascinating
+p203
+aVto study this, because the word itself, nanotechnology,
+p204
+aVcame from within government.
+p205
+aa(lp206
+VAnd so there's huge implications of this.
+p207
+aVFirst of all, of course I'm not someone,
+p208
+aVthis old-fashioned person, market versus state.
+p209
+aVWhat we all know in dynamic capitalism
+p210
+aVis that what we actually need are public-private partnerships.
+p211
+aVBut the point is, by constantly depicting
+p212
+aVthe state part as necessary
+p213
+aVbut actually \u2014 pffff \u2014 a bit boring
+p214
+aVand often a bit dangerous kind of Leviathan,
+p215
+aVI think we've actually really stunted the possibility
+p216
+aVto build these public-private partnerships
+p217
+aVin a really dynamic way.
+p218
+aVEven the words that we often use to justify the "P" part,
+p219
+aVthe public part \u2014 well, they're both P's \u2014
+p220
+aVwith public-private partnerships
+p221
+aVis in terms of de-risking.
+p222
+aVWhat the public sector did in all these examples
+p223
+aVI just gave you, and there's many more,
+p224
+aVwhich myself and other colleagues have been looking at,
+p225
+aVis doing much more than de-risking.
+p226
+aVIt's kind of been taking on that risk. Bring it on.
+p227
+aVIt's actually been the one thinking out of the box.
+p228
+aVBut also, I'm sure you all have had experience
+p229
+aVwith local, regional, national governments,
+p230
+aVand you're kind of like, "You know what, that Kafka-ian bureaucrat, I've met him."
+p231
+aVThat whole juxtaposition thing, it's kind of there.
+p232
+aVWell, there's a self-fulfilling prophecy.
+p233
+aVBy talking about the state as kind of irrelevant,
+p234
+aVboring, it's sometimes
+p235
+aVthat we actually create those organizations in that way.
+p236
+aVSo what we have to actually do is build
+p237
+aVthese entrepreneurial state organizations.
+p238
+aVDARPA, that funded the Internet and Siri,
+p239
+aVactually thought really hard about this,
+p240
+aVhow to welcome failure, because you will fail.
+p241
+aVYou will fail when you innovative.
+p242
+aVOne out of 10 experiments has any success.
+p243
+aVAnd the V.C. guys know this,
+p244
+aVand they're able to actually fund the other losses
+p245
+aVfrom that one success.
+p246
+aa(lp247
+VAnd this brings me, actually, probably,
+p248
+aVto the biggest implication,
+p249
+aVand this has huge implications beyond innovation.
+p250
+aVIf the state is more than just a market fixer,
+p251
+aVif it actually is a market shaper,
+p252
+aVand in doing that has had to take on this massive risk,
+p253
+aVwhat happened to the reward?
+p254
+aVWe all know, if you've ever taken a finance course,
+p255
+aVthe first thing you're taught is sort of the risk-reward relationship,
+p256
+aVand so some people are foolish enough
+p257
+aVor probably smart enough if they have time to wait,
+p258
+aVto actually invest in stocks, because they're higher risk
+p259
+aVwhich over time will make a greater reward than bonds,
+p260
+aVthat whole risk-reward thing.
+p261
+aVWell, where's the reward for the state
+p262
+aVof having taken on these massive risks
+p263
+aVand actually been foolish enough to have done the Internet?
+p264
+aVThe Internet was crazy.
+p265
+aVIt really was. I mean, the probability of failure was massive.
+p266
+aVYou had to be completely nuts to do it,
+p267
+aVand luckily, they were.
+p268
+aVNow, we don't even get to this question about rewards
+p269
+aVunless you actually depict the state as this risk-taker.
+p270
+aVAnd the problem is that economists often think,
+p271
+aVwell, there is a reward back to the state. It's tax.
+p272
+aVYou know, the companies will pay tax,
+p273
+aVthe jobs they create will create growth
+p274
+aVso people who get those jobs and their incomes rise
+p275
+aVwill come back to the state through the tax mechanism.
+p276
+aVWell, unfortunately, that's not true.
+p277
+aVOkay, it's not true because many of the jobs that are created go abroad.
+p278
+aVGlobalization, and that's fine. We shouldn't be nationalistic.
+p279
+aVLet the jobs go where they have to go, perhaps.
+p280
+aVI mean, one can take a position on that.
+p281
+aVBut also these companies
+p282
+aVthat have actually had this massive benefit from the state \u2014
+p283
+aVApple's a great example.
+p284
+aVThey even got the first \u2014 well, not the first,
+p285
+aVbut 500,000 dollars actually went to Apple, the company,
+p286
+aVthrough this SBIC program,
+p287
+aVwhich predated the SBIR program,
+p288
+aVas well as, as I said before, all the technologies behind the iPhone.
+p289
+aVAnd yet we know they legally,
+p290
+aVas many other companies, pay very little tax back.
+p291
+aa(lp292
+VSo what we really need to actually rethink
+p293
+aVis should there perhaps be a return-generating mechanism
+p294
+aVthat's much more direct than tax. Why not?
+p295
+aVIt could happen perhaps through equity.
+p296
+aVThis, by the way, in the countries
+p297
+aVthat are actually thinking about this strategically,
+p298
+aVcountries like Finland in Scandinavia,
+p299
+aVbut also in China and Brazil,
+p300
+aVthey're retaining equity in these investments.
+p301
+aVSitra funded Nokia, kept equity, made a lot of money,
+p302
+aVit's a public funding agency in Finland,
+p303
+aVwhich then funded the next round of Nokias.
+p304
+aVThe Brazilian Development Bank,
+p305
+aVwhich is providing huge amounts of funds today
+p306
+aVto clean technology, they just announced
+p307
+aVa $56 billion program for the future on this,
+p308
+aVis retaining equity in these investments.
+p309
+aVSo to put it provocatively,
+p310
+aVhad the U.S. government thought about this,
+p311
+aVand maybe just brought back
+p312
+aVjust something called an innovation fund,
+p313
+aVyou can bet that, you know, if even just .05 percent
+p314
+aVof the profits from what the Internet produced
+p315
+aVhad come back to that innovation fund,
+p316
+aVthere would be so much more money
+p317
+aVto spend today on green technology.
+p318
+aVInstead, many of the state budgets
+p319
+aVwhich in theory are trying to do that
+p320
+aVare being constrained.
+p321
+aVBut perhaps even more important,
+p322
+aVwe heard before about the one percent,
+p323
+aVthe 99 percent.
+p324
+aVIf the state is thought about in this more strategic way,
+p325
+aVas one of the lead players in the value creation mechanism,
+p326
+aVbecause that's what we're talking about, right?
+p327
+aVWho are the different players in creating value
+p328
+aVin the economy, and is the state's role,
+p329
+aVhas it been sort of dismissed as being a backseat player?
+p330
+aVIf we can actually have a broader theory
+p331
+aVof value creation and allow us to actually admit
+p332
+aVwhat the state has been doing and reap something back,
+p333
+aVit might just be that in the next round,
+p334
+aVand I hope that we all hope that the next big revolution
+p335
+aVwill in fact be green,
+p336
+aVthat that period of growth
+p337
+aVwill not only be smart, innovation-led,
+p338
+aVnot only green, but also more inclusive,
+p339
+aVso that the public schools in places like Silicon Valley
+p340
+aVcan actually also benefit from that growth,
+p341
+aVbecause they have not.
+p342
+aa(lp343
+VThank you.
+p344
+aa(lp345
+V(Applause)
+p346
+aasS'id'
+p347
+I1855
+sS'title'
+p348
+VGovernment -- investor, risk-taker, innovator
+p349
+s.

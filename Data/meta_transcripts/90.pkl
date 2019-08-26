@@ -1,0 +1,722 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThis meeting has really been about a digital revolution,
+p4
+aVbut I'd like to argue that it's done; we won.
+p5
+aVWe've had a digital revolution but we don't need to keep having it.
+p6
+aVAnd I'd like to look after that,
+p7
+aVto look what comes after the digital revolution.
+p8
+aVSo, let me start projecting forward.
+p9
+aVThese are some projects I'm involved in today at MIT,
+p10
+aVlooking what comes after computers.
+p11
+aa(lp12
+VThis first one, Internet Zero, up here \u2014 this is a web server
+p13
+aVthat has the cost and complexity of an RFID tag \u2014
+p14
+aVabout a dollar \u2014 that can go in every light bulb and doorknob,
+p15
+aVand this is getting commercialized very quickly.
+p16
+aVAnd what's interesting about it isn't the cost;
+p17
+aVit's the way it encodes the Internet.
+p18
+aVIt uses a kind of a Morse code for the Internet
+p19
+aVso you could send it optically; you can communicate acoustically
+p20
+aVthrough a power line, through RF.
+p21
+aVIt takes the original principle of the Internet,
+p22
+aVwhich is inter-networking computers,
+p23
+aVand now lets devices inter-network.
+p24
+aVThat we can take the whole idea that gave birth to the Internet
+p25
+aVand bring it down to the physical world in this Internet Zero,
+p26
+aVthis internet of devices.
+p27
+aa(lp28
+VSo this is the next step from there to here,
+p29
+aVand this is getting commercialized today.
+p30
+aVA step after that is a project on fungible computers.
+p31
+aVFungible goods in economics can be extended and traded.
+p32
+aVSo, half as much grain is half as much useful,
+p33
+aVbut half a baby or half a computer is less useful than
+p34
+aVa whole baby or a whole computer,
+p35
+aVand we've been trying to make computers that work that way.
+p36
+aVSo, what you see in the background is a prototype.
+p37
+aVThis was from a thesis of a student, Bill Butow, now at Intel,
+p38
+aVwho wondered why, instead of making bigger and bigger chips,
+p39
+aVyou don't make small chips, put them in a viscous medium,
+p40
+aVand pour out computing by the pound or by the square inch.
+p41
+aVAnd that's what you see here.
+p42
+aVOn the left was postscript being rendered by a conventional computer;
+p43
+aVon the right is postscript being rendered from the first prototype
+p44
+aVwe made, but there's no frame buffer, IO processor,
+p45
+aVany of that stuff \u2014 it's just this material.
+p46
+aVUnlike this screen where the dots are placed carefully,
+p47
+aVthis is a raw material.
+p48
+aVIf you add twice as much of it, you have twice as much display.
+p49
+aVIf you shoot a gun through the middle, nothing happens.
+p50
+aVIf you need more resource, you just apply more computer.
+p51
+aa(lp52
+VSo, that's the step after this \u2014 of computing as a raw material.
+p53
+aVThat's still conventional bits, the step after that is \u2014
+p54
+aVthis is an earlier prototype in the lab;
+p55
+aVthis is high-speed video slowed down.
+p56
+aVNow, integrating chemistry in computation, where the bits are bubbles.
+p57
+aVThis is showing making bits, this is showing \u2014
+p58
+aVonce again, slowed down so you can see it,
+p59
+aVbits interacting to do logic and multiplexing and de-multiplexing.
+p60
+aVSo, now we can compute that the output arranges material
+p61
+aVas well as information. And, ultimately, these are some slides
+p62
+aVfrom an early project I did, computing where the bits are stored
+p63
+aVquantum-mechanically in the nuclei of atoms, so
+p64
+aVprograms rearrange the nuclear structure of molecules.
+p65
+aVAll of these are in the lab pushing further and further and further,
+p66
+aVnot as metaphor but literally integrating bits and atoms,
+p67
+aVand they lead to the following recognition.
+p68
+aa(lp69
+VWe all know we've had a digital revolution, but what is that?
+p70
+aVWell, Shannon took us, in the '40s, from here to here:
+p71
+aVfrom a telephone being a speaker wire that degraded with distance
+p72
+aVto the Internet. And he proved the first threshold theorem, that shows
+p73
+aVif you add information and remove it to a signal,
+p74
+aVyou can compute perfectly with an imperfect device.
+p75
+aVAnd that's when we got the Internet.
+p76
+aVVon Neumann, in the '50s, did the same thing for computing;
+p77
+aVhe showed you can have an unreliable computer but restore its state
+p78
+aVto make it perfect. This was the last great analog computer at MIT:
+p79
+aVa differential analyzer, and the more you ran it,
+p80
+aVthe worse the answer got.
+p81
+aa(lp82
+VAfter Von Neumann, we have the Pentium, where the billionth transistor
+p83
+aVis as reliable as the first one.
+p84
+aVBut all our fabrication is down in this lower left corner.
+p85
+aVA state-of-the-art airplane factory rotating metal wax at fixed metal,
+p86
+aVor you maybe melt some plastic. A 10-billion-dollar chip fab
+p87
+aVuses a process a village artisan would recognize \u2014
+p88
+aVyou spread stuff around and bake it.
+p89
+aVAll the intelligence is external to the system;
+p90
+aVthe materials don't have information.
+p91
+aVYesterday you heard about molecular biology,
+p92
+aVwhich fundamentally computes to build.
+p93
+aVIt's an information processing system.
+p94
+aVWe've had digital revolutions in communication and computation,
+p95
+aVbut precisely the same idea, precisely the same math
+p96
+aVShannon and Von Neuman did, hasn't yet come out
+p97
+aVto the physical world. So, inspired by that,
+p98
+aVcolleagues in this program \u2014 the Center for Bits and Atoms
+p99
+aVat MIT \u2014 which is a group of people, like me,
+p100
+aVwho never understood the boundary between physical science
+p101
+aVand computer science. I would even go further and say
+p102
+aVcomputer science is one of the worst things that ever happened
+p103
+aVto either computers or to science \u2014
+p104
+aV(Laughter)
+p105
+aV\u2014 because the canon \u2014 computer science \u2014
+p106
+aVmany of them are great but the canon of computer science
+p107
+aVprematurely froze a model of computation
+p108
+aVbased on technology that was available in 1950,
+p109
+aVand nature's a much more powerful computer than that.
+p110
+aa(lp111
+VSo, you'll hear, tomorrow, from Saul Griffith. He was one of the
+p112
+aVfirst students to emerge from this program.
+p113
+aVWe started to figure out how you can compute to fabricate.
+p114
+aVThis was just a proof of principle he did of tiles
+p115
+aVthat interact magnetically, where you write a code,
+p116
+aVmuch like protein folding, that specifies their structure.
+p117
+aVSo, there's no feedback to a tool metrology;
+p118
+aVthe material itself codes for its structure in just the same ways
+p119
+aVthat protein are fabricated. So, you can, for example, do that.
+p120
+aVYou can do other things. That's in 2D. It works in 3D.
+p121
+aVThe video on the upper right \u2014 I won't show for time \u2014
+p122
+aVshows self-replication, templating so something can make something
+p123
+aVthat can make something, and we're doing that now over, maybe,
+p124
+aVnine orders of magnitude. Those ideas have been used to show
+p125
+aVthe best fidelity and direct rate DNA to make an organism,
+p126
+aVin functionalizing nanoclusters with peptide tails
+p127
+aVthat code for their assembly \u2014 so, much like the magnets,
+p128
+aVbut now on nanometer scales.
+p129
+aVLaser micro-machining: essentially 3D printers that digitally fabricate
+p130
+aVfunctional systems, all the way up to building buildings,
+p131
+aVnot by having blueprints,
+p132
+aVbut having the parts code for the structure of the building.
+p133
+aa(lp134
+VSo, these are early examples in the lab of emerging technologies
+p135
+aVto digitize fabrication. Computers that don't control tools
+p136
+aVbut computers that are tools, where the output of a program
+p137
+aVrearranges atoms as well as bits.
+p138
+aVNow, to do that \u2014 with your tax dollars, thank you \u2014
+p139
+aVI bought all these machines. We made a modest proposal
+p140
+aVto the NSF. We wanted to be able to make anything on any length scale,
+p141
+aVall in one place, because you can't segregate digital fabrication
+p142
+aVby a discipline or a length scale.
+p143
+aVSo we put together focused nano beam writers
+p144
+aVand supersonic water jet cutters and excimer micro-machining systems.
+p145
+aa(lp146
+VBut I had a problem. Once I had all these machines,
+p147
+aVI was spending too much time teaching students to use them.
+p148
+aVSo I started teaching a class, modestly called,
+p149
+aV"How To Make Almost Anything." And that wasn't meant to be provocative;
+p150
+aVit was just for a few research students.
+p151
+aVBut the first day of class looked like this.
+p152
+aVYou know, hundreds of people came in begging,
+p153
+aVall my life I've been waiting for this class; I'll do anything to do it.
+p154
+aVThen they'd ask, can you teach it at MIT? It seems too useful?
+p155
+aVAnd then the next \u2014
+p156
+aV(Laughter)
+p157
+aV\u2014 surprising thing was they weren't there to do research.
+p158
+aVThey were there because they wanted to make stuff.
+p159
+aVThey had no conventional technical background.
+p160
+aVAt the end of a semester they integrated their skills.
+p161
+aa(lp162
+VI'll show an old video. Kelly was a sculptor, and this is what she did
+p163
+aVwith her semester project.
+p164
+aa(lp165
+V(Video): Kelly: Hi, I'm Kelly and this is my scream buddy.
+p166
+aVDo you ever find yourself in a situation
+p167
+aVwhere you really have to scream, but you can't because you're at work,
+p168
+aVor you're in a classroom, or you're watching your children,
+p169
+aVor you're in any number of situations where it's just not permitted?
+p170
+aVWell, scream buddy is a portable space for screaming.
+p171
+aVWhen a user screams into scream buddy, their scream is silenced.
+p172
+aVIt is also recorded for later release where, when and how
+p173
+aVthe user chooses.
+p174
+aV(Scream)
+p175
+aV(Laughter) (Applause)
+p176
+aa(lp177
+VSo, Einstein would like this.
+p178
+aVThis student made a web browser for parrots \u2014
+p179
+aVlets parrots surf the Net and talk to other parrots.
+p180
+aVThis student's made an alarm clock you wrestle
+p181
+aVto prove you're awake; this is one that defends \u2014
+p182
+aVa dress that defends your personal space.
+p183
+aVThis isn't technology for communication;
+p184
+aVit's technology to prevent it.
+p185
+aVThis is a device that lets you see your music.
+p186
+aVThis is a student who made a machine that makes machines,
+p187
+aVand he made it by making Lego bricks that do the computing.
+p188
+aVJust year after year \u2014 and I finally realized
+p189
+aVthe students were showing the killer app of personal fabrication
+p190
+aVis products for a market of one person.
+p191
+aVYou don't need this for what you can get in Wal-Mart;
+p192
+aVyou need this for what makes you unique.
+p193
+aVKen Olsen famously said, nobody needs a computer in the home.
+p194
+aVBut you don't use it for inventory and payroll;
+p195
+aVDEC is now twice bankrupt. You don't need personal fabrication
+p196
+aVin the home to buy what you can buy because you can buy it.
+p197
+aVYou need it for what makes you unique, just like personalization.
+p198
+aVSo, with that, in turn, 20 million dollars today does this;
+p199
+aV20 years from now we'll make Star Trek replicators that make anything.
+p200
+aVThe students hijacked all the machines I bought to do personal fabrication.
+p201
+aa(lp202
+VToday, when you spend that much of your money,
+p203
+aVthere's a government requirement to do outreach, which often means
+p204
+aVclasses at a local school, a website \u2014 stuff that's just not that exciting.
+p205
+aVSo, I made a deal with my NSF program managers that
+p206
+aVinstead of talking about it, I'd give people the tools.
+p207
+aVThis wasn't meant to be provocative or important,
+p208
+aVbut we put together these Fab Labs. It's about 20,000 dollars in equipment
+p209
+aVthat approximate both what the 20 million dollars does and where it's going.
+p210
+aVA laser cutter to do press-fit assembly with 3D from 2D,
+p211
+aVa sign cutter to plot in copper to do electromagnetics,
+p212
+aVa micron scale,
+p213
+aVnumerically-controlled milling machine for precise structures,
+p214
+aVprogramming tools for less than a dollar,
+p215
+aV100-nanosecond microcontrollers. It lets you work from microns
+p216
+aVand microseconds on up, and they exploded around the world.
+p217
+aVThis wasn't scheduled, but they went from inner-city Boston
+p218
+aVto Pobal in India, to Secondi-Takoradi on Ghana's coast
+p219
+aVto Soshanguve in a township in South Africa,
+p220
+aVto the far north of Norway, uncovering, or helping uncover,
+p221
+aVfor all the attention to the digital divide,
+p222
+aVwe would find unused computers in all these places.
+p223
+aVA farmer in a rural village \u2014 a kid needs to measure and modify
+p224
+aVthe world, not just get information about it on a screen.
+p225
+aVThat there's really a fabrication and an instrumentation divide
+p226
+aVbigger than the digital divide.
+p227
+aVAnd the way you close it is not IT for the masses but IT development for the masses.
+p228
+aa(lp229
+VSo, in place after place
+p230
+aVwe saw this same progression: that we'd open one of these Fab Labs,
+p231
+aVwhere we didn't \u2014 this is too crazy to think of.
+p232
+aVWe didn't think this up, that we would get pulled to these places;
+p233
+aVwe'd open it. The first step was just empowerment.
+p234
+aVYou can see it in their face, just this joy of, I can do it.
+p235
+aVThis is a girl in inner-city Boston who had just done a high-tech
+p236
+aVon-demand craft sale in the inner city community center.
+p237
+aVIt goes on from there to serious hands-on technical education
+p238
+aVinformally, out of schools. In Ghana we had set up one of these labs.
+p239
+aVWe designed a network sensor, and kids would show up
+p240
+aVand refuse to leave the lab.
+p241
+aVThere was a girl who insisted we stay late at night \u2014
+p242
+aV(Video): Kids: I love the Fab Lab.
+p243
+aV\u2014 her first night in the lab because she was going to make the sensor.
+p244
+aVSo she insisted on fabbing the board, learning how to stuff it,
+p245
+aVlearning how to program it. She didn't really know
+p246
+aVwhat she was doing or why she was doing it, but she knew
+p247
+aVshe just had to do it. There was something electric about it.
+p248
+aVThis is late at, you know, 11 o'clock at night
+p249
+aVand I think I was the only person surprised when what she built
+p250
+aVworked the first time.
+p251
+aVAnd I've shown this to engineers at big companies, and they say
+p252
+aVthey can't do this. Any one thing she's doing, they can do better,
+p253
+aVbut it's distributed over many people and many sites
+p254
+aVand they can't do in an afternoon
+p255
+aVwhat this little girl in rural Ghana is doing.
+p256
+aV(Video): Girl: My name is Valentina Kofi; I am eight years old.
+p257
+aVI made a stacking board.
+p258
+aVAnd, again, that was just for the joy of it.
+p259
+aa(lp260
+VThen these labs started doing serious problem solving \u2014
+p261
+aVinstrumentation for agriculture in India,
+p262
+aVsteam turbines for energy conversion in Ghana,
+p263
+aVhigh-gain antennas in thin client computers.
+p264
+aVAnd then, in turn, businesses started to grow,
+p265
+aVlike making these antennas.
+p266
+aVAnd finally, the lab started doing invention.
+p267
+aVWe're learning more from them than we're giving them.
+p268
+aVI was showing my kids in a Fab Lab how to use it.
+p269
+aVThey invented a way to do a construction kit out of a cardboard box \u2014
+p270
+aVwhich, as you see up there, that's becoming a business \u2014
+p271
+aVbut their design was better than Saul's design at MIT,
+p272
+aVso there's now three students at MIT doing their theses on
+p273
+aVscaling the work of eight-year-old children
+p274
+aVbecause they had better designs.
+p275
+aVReal invention is happening in these labs.
+p276
+aa(lp277
+VAnd I still kept \u2014 so, in the last year I've been spending time with
+p278
+aVheads of state and generals and tribal chiefs who all want this,
+p279
+aVand I keep saying, but this isn't the real thing.
+p280
+aVWait, like, 20 years and then we'll be done.
+p281
+aVAnd I finally got what's been going on. This is Kernigan and Ritchie
+p282
+aVinventing UNIX on a PDP.
+p283
+aVPDPs came between mainframes and minicomputers.
+p284
+aVThey were tens of thousands of dollars, hard to use,
+p285
+aVbut they brought computing down to work groups,
+p286
+aVand everything we do today happened there.
+p287
+aVThese Fab Labs are the cost and complexity of a PDP.
+p288
+aVThe projection of digital fabrication
+p289
+aVisn't a projection for the future; we are now in the PDP era.
+p290
+aVWe talked in hushed tones about the great discoveries then.
+p291
+aVIt was very chaotic, it wasn't, sort of, clear what was going on.
+p292
+aVIn the same sense we are now, today, in the minicomputer era
+p293
+aVof digital fabrication.
+p294
+aVThe only problem with that is it breaks everybody's boundaries.
+p295
+aa(lp296
+VIn DC, I go to every agency that wants to talk, you know;
+p297
+aVin the Bay Area, I go to every organization you can think of \u2014
+p298
+aVthey all want to talk about it, but it breaks
+p299
+aVtheir organizational boundaries. In fact, it's illegal for them,
+p300
+aVin many cases, to equip ordinary people to create
+p301
+aVrather than consume technology.
+p302
+aVAnd that problem is so severe that the ultimate invention
+p303
+aVcoming from this community surprised me:
+p304
+aVit's the social engineering. That the lab in far north of Norway \u2014
+p305
+aVthis is so far north its satellite dishes look at the ground
+p306
+aVrather than the sky because that's where the satellites are \u2014
+p307
+aVthe lab outgrew the little barn that it was in.
+p308
+aVIt was there because they wanted to find animals in the mountains
+p309
+aVbut it outgrew it, so they built this extraordinary village for the lab.
+p310
+aVThis isn't a university; it's not a company. It's essentially
+p311
+aVa village for invention; it's a village for the outliers in society,
+p312
+aVand those have been growing up around these Fab Labs
+p313
+aVall around the world.
+p314
+aa(lp315
+VSo this program has split into an NGO foundation,
+p316
+aVa Fab Foundation to support the scaling, a micro VC fund.
+p317
+aVThe person who runs it nicely describes it as
+p318
+aV"machines that make machines need businesses that make businesses:"
+p319
+aVit's a cross between micro-finance and VC to do fan-out,
+p320
+aVand then the research partnerships back at MIT for what's
+p321
+aVmaking it possible.
+p322
+aa(lp323
+VSo I'd like to leave you with two thoughts.
+p324
+aVThere's been a sea change in aid, from top-down mega-projects
+p325
+aVto bottom-up, grassroots, micro-finance investing in the roots,
+p326
+aVso that everybody's got that that's what works.
+p327
+aVBut we still look at technology as top-down mega-projects.
+p328
+aVComputing, communication, energy for the rest of the planet
+p329
+aVare these top-down mega-projects.
+p330
+aVIf this room full of heroes is just clever enough,
+p331
+aVyou can solve the problems.
+p332
+aVThe message coming from the Fab Labs is that
+p333
+aVthe other five billion people on the planet
+p334
+aVaren't just technical sinks; they're sources.
+p335
+aVThe real opportunity is to harness the inventive power of the world
+p336
+aVto locally design and produce solutions to local problems.
+p337
+aVI thought that's the projection 20 years hence into the future,
+p338
+aVbut it's where we are today.
+p339
+aVIt breaks every organizational boundary we can think of.
+p340
+aVThe hardest thing at this point is the social engineering
+p341
+aVand the organizational engineering, but it's here today.
+p342
+aa(lp343
+VAnd, finally, any talk like this on the future of computing
+p344
+aVis required to show Moore's law, but my favorite version \u2014
+p345
+aVthis is Gordon Moore's original one from his original paper \u2014
+p346
+aVand what's happened is, year after year after year,
+p347
+aVwe've scaled and we've scaled and we've scaled
+p348
+aVand we've scaled, and we've scaled and we've scaled,
+p349
+aVand we've scaled and we've scaled,
+p350
+aVand there's this looming bug of what's going to happen
+p351
+aVat the end of Moore's law; this ultimate bug is coming.
+p352
+aVBut we're coming to appreciate, is the transition from 2D to 3D,
+p353
+aVfrom programming bits to programming atoms,
+p354
+aVturns the ends of Moore's law scaling from the ultimate bug
+p355
+aVto the ultimate feature.
+p356
+aVSo, we're just at the edge of this digital revolution in fabrication,
+p357
+aVwhere the output of computation programs the physical world.
+p358
+aVSo, together, these two projects answer questions
+p359
+aVI hadn't asked carefully. The class at MIT shows the killer app
+p360
+aVfor personal fabrication in the developed world
+p361
+aVis technology for a market of one: personal expression in technology
+p362
+aVthat touches a passion unlike anything I've seen in technology
+p363
+aVfor a very long time.
+p364
+aVAnd the killer app for the rest of the planet is the instrumentation
+p365
+aVand the fabrication divide: people locally developing solutions
+p366
+aVto local problems. Thank you.
+p367
+aasS'id'
+p368
+I90
+sS'title'
+p369
+VUnleash your creativity in a Fab Lab
+p370
+s.

@@ -1,0 +1,810 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm Rich Baraniuk and what I'd like to talk a little bit about today
+p4
+aVare some ideas that I think have just tremendous resonance
+p5
+aVwith all the things that have been talked about the last two days.
+p6
+aVSo many different points of resonance
+p7
+aVthat it's going to be difficult to bring them all up,
+p8
+aVbut I'll try to do my best.
+p9
+aVDoes anybody remember these?
+p10
+aa(lp11
+V(Laughter)
+p12
+aa(lp13
+VOK, so these are LP records and they've been replaced, right?
+p14
+aVThey've been swept away over the last two decades
+p15
+aVby these types of world-flattening digitization technologies, right?
+p16
+aVAnd I think it was best witnessed
+p17
+aVwhen Thomas was playing the music as we came in the room today.
+p18
+aVWhat's happened in the music world is there's a culture,
+p19
+aVor an ecosystem that's been created
+p20
+aVthat, if you take some words from Apple,
+p21
+aVthe catchphrase \u2014 that we create, rip, mix and burn.
+p22
+aVWhat I mean by that is that anyone in the world is free and allowed
+p23
+aVto create new music and musical ideas.
+p24
+aVAnyone in the world is allowed to rip or copy musical ideas,
+p25
+aVuse them in innovative ways.
+p26
+aVAnyone is allowed to mix them in different types of ways,
+p27
+aVdraw connections between musical ideas,
+p28
+aVand people can burn them or create final products and continue the circle.
+p29
+aVAnd what that's done is it's created, like I said,
+p30
+aVa vibrant community that's very inclusive,
+p31
+aVwith people continually working to connect musical ideas,
+p32
+aVinnovate them and keep things constantly up to date.
+p33
+aVToday's hit single is not last year's hit single.
+p34
+aa(lp35
+VBut I'm not here to talk about music today.
+p36
+aVI'm here to talk about books.
+p37
+aVIn particular, textbooks and the kind of educational materials
+p38
+aVthat we use every day in school.
+p39
+aVHas anyone here ever been to school?
+p40
+aa(lp41
+V(Laughter)
+p42
+aa(lp43
+VOK, does anybody realize there's a crisis in our schools,
+p44
+aVaround the world?
+p45
+aVI'm not going to spend too much time on that,
+p46
+aVbut what I want to talk about is some of the disconnects
+p47
+aVthat appear when an author publishes a book.
+p48
+aVThat in fact, the publishing process \u2014
+p49
+aVjust because of the fact that it's complicated,
+p50
+aVit's heavy, books are expensive \u2014
+p51
+aVcreates a sort of a wall between authors of books
+p52
+aVand the ultimate users of books,
+p53
+aVbe they teachers, students or just general readers.
+p54
+aVAnd this is even more true if you happen to speak a language
+p55
+aVother than one of the world's major languages, and especially English.
+p56
+aVI'm going to call these people below the barrier "shutouts"
+p57
+aVbecause they're really shut out of the process
+p58
+aVof being able to share their knowledge with the world.
+p59
+aVAnd so what I want to talk about today is trying to take these ideas
+p60
+aVthat we've seen in the musical culture
+p61
+aVand try to bring these towards reinventing the way
+p62
+aVwe think about writing books, using them and teaching from them.
+p63
+aVSo, that's what I'd like to talk about
+p64
+aVand, really, how we get from where we are now
+p65
+aVto where we need to go.
+p66
+aa(lp67
+VThe first thing I'd like you to do is a little thought experiment.
+p68
+aVImagine taking all the world's books.
+p69
+aVOK, everybody imagine books and imagine just tearing out the pages.
+p70
+aVSo, liberating these pages
+p71
+aVand imagine digitizing them and then storing them
+p72
+aVin a vast, interconnected, global repository.
+p73
+aVThink of it as a massive iTunes for book-type content.
+p74
+aVAnd then take that material and imagine making it all open,
+p75
+aVso that people can modify it, play with it, improve it.
+p76
+aVImagine making it free,
+p77
+aVso that anyone in the world can have access to all of this knowledge,
+p78
+aVand imagine using information technology
+p79
+aVso that you can update this content, improve it, play with it,
+p80
+aVon a timescale that's more on the order of seconds instead of years.
+p81
+aVInstead of editions of a book coming out every two years,
+p82
+aVimagine them coming out every 25 seconds.
+p83
+aa(lp84
+VSo, imagine we could do that and imagine we could put people into this.
+p85
+aVSo that we could truly build an ecosystem with not just authors,
+p86
+aVbut all the people who could be or want to be authors
+p87
+aVin all the different languages of the world,
+p88
+aVand I think if you could do this, it would be called \u2014
+p89
+aVI'm just going to refer to it as a knowledge ecosystem.
+p90
+aVSo, really, this is the dream,
+p91
+aVand in a sense what you can think of it
+p92
+aVis we're trying to enable anyone in the world,
+p93
+aVI mean anyone in the world \u2014
+p94
+aa(lp95
+V(Laughter)
+p96
+aa(lp97
+Vto be their own educational DJ,
+p98
+aVcreating educational materials, sharing them with the world,
+p99
+aVconstantly innovating on them.
+p100
+aVSo, this is the dream.
+p101
+aa(lp102
+VIn fact, this dream is actually being realized.
+p103
+aVOver the last six-and-a-half years,
+p104
+aVwe've been working really hard at Rice University
+p105
+aVon a project called Connexions,
+p106
+aVand so what I'd like to do for the rest of the talk
+p107
+aVis just tell you a little bit
+p108
+aVabout what people are doing with Connexions,
+p109
+aVwhich you can kind of think of as the counterpoint
+p110
+aVto Nicholas Negroponte's talk yesterday,
+p111
+aVwhere they're working on the hardware of bringing education to the world.
+p112
+aVWe're working on the open-source tools
+p113
+aVand the content.
+p114
+aVSo, that's sort of to put it in perspective here.
+p115
+aa(lp116
+VSo, create.
+p117
+aVWhat are some of the people that are using these kind of tools?
+p118
+aVWell, the first thing is,
+p119
+aVthere's a community of engineering professors,
+p120
+aVfrom Cambridge to Kyoto,
+p121
+aVwho are developing engineering content in electrical engineering
+p122
+aVto develop what you can think of as a massive, super textbook
+p123
+aVthat covers the entire area of electrical engineering.
+p124
+aVAnd not only that \u2014
+p125
+aVit can be customized for use in each of their own individual institutions.
+p126
+aVIf people like Kitty Jones, a shut-out \u2014
+p127
+aVa private music teacher and mom from Champagne, Illinois,
+p128
+aVwho wanted to share her fantastic music content with the world,
+p129
+aVon how to teach kids how to play music \u2014
+p130
+aVHer material is now used over 600,000 times per month.
+p131
+aVTremendous use.
+p132
+aVIn fact, a lot of this use coming from United States K-12 schools,
+p133
+aVbecause anyone who's involved in a school scale back,
+p134
+aVthe first thing that's cut is the music curriculum.
+p135
+aVAnd so this is just indicating the tremendous thirst
+p136
+aVfor this kind of open, free content.
+p137
+aVA lot of teachers are using this stuff.
+p138
+aa(lp139
+VWhat about ripping? What about copying, reusing?
+p140
+aVA team of volunteers at the University of Texas at El Paso \u2014
+p141
+aVgraduate students translating this engineering super textbook ideas.
+p142
+aVAnd within about a week,
+p143
+aVhaving this be some of our most popular material
+p144
+aVin widespread use all over Latin America, and in particular in Mexico,
+p145
+aVbecause of the open, extensible nature of this.
+p146
+aVPeople, volunteers and even companies
+p147
+aVthat are translating materials into Asian languages
+p148
+aVlike Chinese, Japanese and Thai,
+p149
+aVto spread the knowledge even further.
+p150
+aa(lp151
+VOK, what about people who are mixing?
+p152
+aVWhat does "mixing" mean?
+p153
+aV"Mixing" means building customized courses,
+p154
+aVmeans building customized books.
+p155
+aVCompanies like National Instruments,
+p156
+aVwho are embedding very powerful, interactive simulations
+p157
+aVinto the materials,
+p158
+aVso that we can go way beyond our regular kind of textbook
+p159
+aVto an experience
+p160
+aVthat all the teaching materials are things you can actually interact with
+p161
+aVand play around with and actually learn as you do.
+p162
+aa(lp163
+VWe've been working with Teachers Without Borders,
+p164
+aVwho are very interested in mixing our materials.
+p165
+aVThey're going to be using Connexions as their platform
+p166
+aVto develop and deliver teaching materials for teaching teachers how to teach
+p167
+aVin 84 countries around the world.
+p168
+aVTWB is currently in Iraq,
+p169
+aVtraining 20,000 teachers supported by USAID.
+p170
+aVAnd to them, this idea of being able to remix
+p171
+aVand customize to the local context is extraordinarily important,
+p172
+aVbecause just providing free content to people
+p173
+aVhas actually been likened by people in the developing world
+p174
+aVto a kind of cultural imperialism \u2014
+p175
+aVthat if you don't empower people
+p176
+aVwith the ability to re-contextualize the material,
+p177
+aVtranslate it into their own language and take ownership of it,
+p178
+aVit's not good.
+p179
+aa(lp180
+VOK, other organizations we've been working with, UC Merced \u2014
+p181
+aVpeople know about UC Merced.
+p182
+aVIt's a new university in California, in the Central Valley,
+p183
+aVworking very closely with community colleges.
+p184
+aVThey're actually developing
+p185
+aVa lot of their science and engineering curriculum
+p186
+aVto spread widely around the world in our system.
+p187
+aVAnd they're also trying to develop all of their software tools
+p188
+aVcompletely open-source.
+p189
+aVWe've been working with AMD, which has a project called 50x15,
+p190
+aVwhich is trying to bring Internet connectivity
+p191
+aVto 50 percent of the world's population by 2015.
+p192
+aVWe're going to be providing content to them
+p193
+aVin a whole range of different languages.
+p194
+aVAnd we've also been working with a number of other organizations.
+p195
+aVIn particular, a bunch of the projects that are funded by Hewlett Foundation,
+p196
+aVwho have taken a real leadership role in this area of open content.
+p197
+aa(lp198
+VOK, burn \u2014 I think this is, sort of, quite interesting.
+p199
+aV"Burn" is the idea of trying to create the physical instantiation
+p200
+aVof one of these courses.
+p201
+aVAnd I think a lot of you received \u2014
+p202
+aVI think all of you received one of these music books in your gift pack.
+p203
+aVA little present for you.
+p204
+aVJust to tell you quickly about it: this is an engineering textbook.
+p205
+aVIt's about 300 pages long, hardbound.
+p206
+aVThis costs \u2014 anybody guess?
+p207
+aVHow much would it cost in a bookstore?
+p208
+aa(lp209
+V(Audience) 65 dollars.
+p210
+aa(lp211
+VRichard Baraniuk: OK. This costs 22 dollars to the student.
+p212
+aVWhy does it cost 22 dollars?
+p213
+aVBecause it's published on demand
+p214
+aVand it's developed from this repository of open materials.
+p215
+aVIf this book were to be published by a regular publisher,
+p216
+aVit would cost at least 122 dollars.
+p217
+aa(lp218
+VSo what we're seeing
+p219
+aVis moving this burning or publication process
+p220
+aVfrom the regular, sort of single-authored book
+p221
+aVtowards community-authored materials
+p222
+aVthat are modular, that are customized to each individual class
+p223
+aVand published on demand very inexpensively,
+p224
+aVeither pushed out through Amazon
+p225
+aVor published directly through an on-demand press, like QOOP.
+p226
+aVAnd I think that this is an extraordinarily interesting area
+p227
+aVbecause there is tremendous area under this long tail in publishing.
+p228
+aVWe're not talking about the Harry Potter end,
+p229
+aVright at the left side.
+p230
+aVWe're talking about books
+p231
+aVon hypergeometric partial differential equations.
+p232
+aVBooks that might sell 100 copies a year, 1,000 copies a year.
+p233
+aVThere is tremendous sustaining revenue under this long tail
+p234
+aVto sustain open projects like ours,
+p235
+aVbut also to sustain this new emergence of on-demand publishers,
+p236
+aVlike QOOP, who produced these two books.
+p237
+aVAnd I think one of the things that you should take away from this talk
+p238
+aVis that there's an impending cut-out-the-middle-man disintermediation,
+p239
+aVthat's going to be happening in the publishing industry.
+p240
+aVAnd it's going to reach a crescendo over the next few years,
+p241
+aVand I think that it's for our benefit, really, and for the world's benefit.
+p242
+aa(lp243
+VOK, so what are the enablers?
+p244
+aVWhat's really making all of this happen?
+p245
+aVThere's tons of technology,
+p246
+aVand the only piece of technology that I really want to talk about is XML.
+p247
+aVHow many people know about XML?
+p248
+aVOh, great.
+p249
+aVSo it's the future of the web, right?
+p250
+aVIt's semantic representation of content.
+p251
+aVAnd what you can really think of XML in this case
+p252
+aVis it's the packaging that we're putting around these pages.
+p253
+aVRemember we took the book, tore the pages out?
+p254
+aVWell, what the XML is going to do
+p255
+aVis it's going to turn those pages into Lego blocks.
+p256
+aVXML are the nubs on the Lego
+p257
+aVthat allow us to combine the content together in a myriad different ways,
+p258
+aVand it provides us a framework to share content.
+p259
+aVSo, it lets you take this ecosystem
+p260
+aVin its primordial state of all this content,
+p261
+aVall the pages you've torn out of books,
+p262
+aVand create highly sophisticated learning machines:
+p263
+aVbooks, courses, course packs.
+p264
+aa(lp265
+VIt gives you the ability to personalize the learning experience
+p266
+aVto each individual student,
+p267
+aVso that every student can have a book or a course
+p268
+aVthat's customized to their learning style, their context,
+p269
+aVtheir language and the things that excite them.
+p270
+aVIt lets you reuse the same materials in multiple different ways,
+p271
+aVand surprising new ways.
+p272
+aVIt lets you interconnect ideas,
+p273
+aVindicating how fields relate to each other.
+p274
+aVAnd I'll just give you my personal story.
+p275
+aVWe came up with this six-and-a-half years ago
+p276
+aVbecause I teach the stuff in the red box.
+p277
+aa(lp278
+VAnd my day job, as Chris said \u2014 I'm an electrical engineering professor.
+p279
+aVI teach signal processing
+p280
+aVand my challenge was to show that this math \u2014
+p281
+aVWow, about half of you have already fallen asleep
+p282
+aVjust looking at the equation.
+p283
+aa(lp284
+V(Laughter)
+p285
+aa(lp286
+VBut this seemingly dry math
+p287
+aVis actually the center of this tremendously powerful web
+p288
+aVthat links technology \u2014
+p289
+aVthat links really cool applications like music synthesizers
+p290
+aVto tremendous economic opportunities,
+p291
+aVbut also governed by intellectual property.
+p292
+aVAnd the thing that I realized
+p293
+aVis there was no way that I, as an engineer,
+p294
+aVcould write this book that would get all of this across.
+p295
+aVWe needed a community to do it
+p296
+aVand we needed new tools to be able to interconnect these ideas.
+p297
+aVAnd I think that really, in a sense, what we're trying to do
+p298
+aVis make Minsky's dream come to a reality,
+p299
+aVwhere you can imagine all the books in a library
+p300
+aVactually starting to talk to each other.
+p301
+aVAnd people who are teachers out here \u2014 whoever taught, you know this \u2014
+p302
+aVit's the interconnections between ideas that teaching is really all about.
+p303
+aa(lp304
+VOK, back to math.
+p305
+aVImagine \u2014 this is possible:
+p306
+aVthat every single equation that you click on in one of your new e-texts
+p307
+aVis something that you're going to be able to explore and experiment with.
+p308
+aVSo imagine your kid's algebra textbook in seventh grade.
+p309
+aVYou can click on every single equation
+p310
+aVand bring up a little tool to be able to experiment with it,
+p311
+aVtinker with it, understand it.
+p312
+aVBecause we really don't understand until we do.
+p313
+aVThe same type of mark-up, like MathML, for chemistry.
+p314
+aVImagine chemistry textbooks
+p315
+aVthat actually understand the structure of how molecules are formed.
+p316
+aVImagine Music XML
+p317
+aVthat actually lets you delve into the semantic structure of music,
+p318
+aVplay with it, understand it.
+p319
+aVIt's no wonder that everybody's getting into it, right?
+p320
+aVEven the three wise men.
+p321
+aa(lp322
+V(Laughter)
+p323
+aa(lp324
+VOK, the second big enabler, and this is where I told a big lie.
+p325
+aVThe second big enabler is intellectual property.
+p326
+aVBecause, in fact, I got up here
+p327
+aVand I talked about how great the music culture is.
+p328
+aVWe can share and rip, mix and burn, but in fact, that's all illegal.
+p329
+aVAnd we would be accused of [piracy] for doing that,
+p330
+aVbecause this music has been propertized.
+p331
+aVIt's now owned, much of it by big industries.
+p332
+aVSo, really, the key thing here is we can't let this happen.
+p333
+aVWe can't let this Napster thing happen here.
+p334
+aVSo, what we have to do is get it right from the very beginning.
+p335
+aVAnd what we have to do is find an intellectual property framework
+p336
+aVthat makes sharing safe and makes it easily understandable.
+p337
+aVAnd the inspiration here is taken from open-source software.
+p338
+aVThings like Linux and the GPL.
+p339
+aa(lp340
+VThe Creative Commons licenses.
+p341
+aVHow many people have heard of creative commons?
+p342
+aVIf you have not, you must learn about it.
+p343
+aVCreativecommons.org.
+p344
+aVAt the bottom of every piece of material in Connexions
+p345
+aVand in lots of other projects,
+p346
+aVyou can find their logo.
+p347
+aVClicking on that logo takes you to an absolute no-nonsense,
+p348
+aVhuman-readable document, a deed,
+p349
+aVthat tells you exactly what you can do with this content.
+p350
+aVIn fact, you're free to share it, to do all of these things:
+p351
+aVto copy it, to change it, even to make commercial use of it,
+p352
+aVas long as you attribute the author.
+p353
+aVBecause in academic publishing and much of educational publishing,
+p354
+aVit's really this idea of sharing knowledge
+p355
+aVand making impact.
+p356
+aVThat's why people write, not necessarily making bucks.
+p357
+aVWe're not talking about Harry Potter, right?
+p358
+aVWe're at the long tail end here.
+p359
+aVBehind that is the legal code, very carefully constructed.
+p360
+aa(lp361
+VAnd Creative Commons is taking off \u2014
+p362
+aVover 43 million things out there,
+p363
+aVlicensed with a Creative Commons license.
+p364
+aVNot just text,
+p365
+aVbut music, images, video.
+p366
+aVAnd there's actually a tremendous uptake
+p367
+aVof the number of people that are actually licensing music
+p368
+aVto make it free for people who do this whole idea of re-sampling,
+p369
+aVripping, mixing, burning and sharing.
+p370
+aa(lp371
+VOK, I'd like to conclude with just the last few points.
+p372
+aVSo, we've built this idea of a commons.
+p373
+aVPeople are using it.
+p374
+aVWe get over 500,000 unique visitors per month, just to our particular site.
+p375
+aVMIT OpenCourseWare, which is another large open-content site,
+p376
+aVgets a similar number of hits.
+p377
+aVBut how do we protect this?
+p378
+aVHow do we protect it into the future?
+p379
+aVAnd the first thing that people are probably thinking
+p380
+aVis quality control, right?
+p381
+aVBecause we're saying that anybody can contribute things to this commons.
+p382
+aVAnybody can contribute anything.
+p383
+aVSo that could be a problem.
+p384
+aa(lp385
+VIt didn't take long until people started contributing materials,
+p386
+aVfor example, on lingerie,
+p387
+aVwhich is actually a pretty good module.
+p388
+aVThe only problem is it's plagiarized from a major French feminist journal,
+p389
+aVand when you go to the supposed course website,
+p390
+aVit points to a lingerie-selling website.
+p391
+aVSo this is a little bit of a problem.
+p392
+aVSo we clearly need some kind of idea of quality control
+p393
+aVand this is really where the idea of review and peer review comes in.
+p394
+aVYou come to TED. Why do you come to TED?
+p395
+aVBecause Chris and his team have ensured
+p396
+aVthat things are very, very high quality, right?
+p397
+aVAnd so we need to be able to do the same thing.
+p398
+aVAnd we need to be able to design structures,
+p399
+aVand what we're doing is designing social software
+p400
+aVto enable anyone to build their own peer review process,
+p401
+aVand we call these things "lenses."
+p402
+aVAnd basically what they allow
+p403
+aVis anyone out there can develop their own peer-review process,
+p404
+aVso that they can focus on the content in the repository
+p405
+aVthat they think is really important.
+p406
+aVAnd you can think of TED as a potential lens.
+p407
+aa(lp408
+VSo I'd just like to end by saying:
+p409
+aVyou can really view this as a call to action.
+p410
+aVConnexions and open content is all about sharing knowledge.
+p411
+aVAll of you here are tremendously imbued with tremendous amounts of knowledge,
+p412
+aVand what I'd like to do is invite each and every one of you
+p413
+aVto contribute to this project and other projects of its type,
+p414
+aVbecause I think together we can truly change the landscape
+p415
+aVof education and educational publishing.
+p416
+aa(lp417
+VSo, thanks very much.
+p418
+aasS'id'
+p419
+I25
+sS'title'
+p420
+VThe birth of the open-source learning revolution
+p421
+s.

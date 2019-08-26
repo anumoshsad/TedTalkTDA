@@ -1,0 +1,703 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI have a confession to make.
+p4
+aVI'm a business professor
+p5
+aVwhose ambition has been to help people learn to lead.
+p6
+aVBut recently, I've discovered
+p7
+aVthat what many of us think of as great leadership
+p8
+aVdoes not work when it comes to leading innovation.
+p9
+aa(lp10
+VI'm an ethnographer.
+p11
+aVI use the methods of anthropology
+p12
+aVto understand the questions in which I'm interested.
+p13
+aVSo along with three co-conspirators,
+p14
+aVI spent nearly a decade observing up close and personal
+p15
+aVexceptional leaders of innovation.
+p16
+aVWe studied 16 men and women,
+p17
+aVlocated in seven countries across the globe,
+p18
+aVworking in 12 different industries.
+p19
+aVIn total, we spent hundreds of hours on the ground,
+p20
+aVon-site, watching these leaders in action.
+p21
+aVWe ended up with pages and pages and pages of field notes
+p22
+aVthat we analyzed and looked for patterns in what our leaders did.
+p23
+aVThe bottom line?
+p24
+aVIf we want to build organizations that can innovate time and again,
+p25
+aVwe must unlearn our conventional notions of leadership.
+p26
+aa(lp27
+VLeading innovation is not about creating a vision,
+p28
+aVand inspiring others to execute it.
+p29
+aVBut what do we mean by innovation?
+p30
+aVAn innovation is anything that is both new and useful.
+p31
+aVIt can be a product or service.
+p32
+aVIt can be a process or a way of organizing.
+p33
+aVIt can be incremental, or it can be breakthrough.
+p34
+aVWe have a pretty inclusive definition.
+p35
+aa(lp36
+VHow many of you recognize this man?
+p37
+aVPut your hands up.
+p38
+aVKeep your hands up, if you know who this is.
+p39
+aVHow about these familiar faces?
+p40
+aV(Laughter)
+p41
+aVFrom your show of hands,
+p42
+aVit looks like many of you have seen a Pixar movie,
+p43
+aVbut very few of you recognized Ed Catmull,
+p44
+aVthe founder and CEO of Pixar \u2014
+p45
+aVone of the companies I had the privilege of studying.
+p46
+aa(lp47
+VMy first visit to Pixar was in 2005,
+p48
+aVwhen they were working on "Ratatouille,"
+p49
+aVthat provocative movie about a rat becoming a master chef.
+p50
+aVComputer-generated movies are really mainstream today,
+p51
+aVbut it took Ed and his colleagues nearly 20 years
+p52
+aVto create the first full-length C.G. movie.
+p53
+aVIn the 20 years hence, they've produced 14 movies.
+p54
+aVI was recently at Pixar, and I'm here to tell you
+p55
+aVthat number 15 is sure to be a winner.
+p56
+aa(lp57
+VWhen many of us think about innovation, though,
+p58
+aVwe think about an Einstein having an 'Aha!' moment.
+p59
+aVBut we all know that's a myth.
+p60
+aVInnovation is not about solo genius,
+p61
+aVit's about collective genius.
+p62
+aVLet's think for a minute about what it takes to make a Pixar movie:
+p63
+aVNo solo genius, no flash of inspiration produces one of those movies.
+p64
+aVOn the contrary, it takes about 250 people four to five years,
+p65
+aVto make one of those movies.
+p66
+aa(lp67
+VTo help us understand the process,
+p68
+aVan individual in the studio drew a version of this picture.
+p69
+aVHe did so reluctantly,
+p70
+aVbecause it suggested that the process  was a neat series of steps
+p71
+aVdone by discrete groups.
+p72
+aVEven with all those arrows, he thought it failed to really tell you
+p73
+aVjust how iterative, interrelated and, frankly, messy their process was.
+p74
+aa(lp75
+VThroughout the making of a movie at Pixar, the story evolves.
+p76
+aVSo think about it.
+p77
+aVSome shots go through quickly.
+p78
+aVThey don't all go through in order.
+p79
+aVIt depends on how vexing the challenges are
+p80
+aVthat they come up with when they are working on a particular scene.
+p81
+aVSo if you think about that scene in "Up"
+p82
+aVwhere the boy hands the piece of chocolate to the bird,
+p83
+aVthat 10 seconds took one animator almost six months to perfect.
+p84
+aa(lp85
+VThe other thing about a Pixar movie
+p86
+aVis that no part of the movie is considered finished
+p87
+aVuntil the entire movie wraps.
+p88
+aVPartway through one production, an animator drew a character
+p89
+aVwith an arched eyebrow that suggested a mischievous side.
+p90
+aVWhen the director saw that drawing, he thought it was great.
+p91
+aVIt was beautiful, but he said,
+p92
+aV"You've got to lose it; it doesn't fit the character."
+p93
+aVTwo weeks later, the director came back and said,
+p94
+aV"Let's put in those few seconds of film."
+p95
+aVBecause that animator was allowed to share
+p96
+aVwhat we referred to as his slice of genius,
+p97
+aVhe was able to help that director reconceive the character
+p98
+aVin a subtle but important way that really improved the story.
+p99
+aa(lp100
+VWhat we know is, at the heart of innovation is a paradox.
+p101
+aVYou have to unleash the talents and passions of many people
+p102
+aVand you have to harness them into a work that is actually useful.
+p103
+aVInnovation is a journey.
+p104
+aVIt's a type of collaborative problem solving,
+p105
+aVusually among people who have different expertise
+p106
+aVand different points of view.
+p107
+aa(lp108
+VInnovations rarely get created full-blown.
+p109
+aVAs many of you know,
+p110
+aVthey're the result, usually, of trial and error.
+p111
+aVLots of false starts, missteps and mistakes.
+p112
+aVInnovative work can be very exhilarating,
+p113
+aVbut it also can be really downright scary.
+p114
+aVSo when we look at why it is that Pixar is able to do what it does,
+p115
+aVwe have to ask ourselves, what's going on here?
+p116
+aa(lp117
+VFor sure, history and certainly Hollywood,
+p118
+aVis full of star-studded teams that have failed.
+p119
+aVMost of those failures are attributed
+p120
+aVto too many stars or too many cooks, if you will, in the kitchen.
+p121
+aVSo why is it that Pixar, with all of its cooks,
+p122
+aVis able to be so successful time and time again?
+p123
+aVWhen we studied an Islamic Bank in Dubai,
+p124
+aVor a luxury brand in Korea, or a social enterprise in Africa,
+p125
+aVwe found that innovative organizations
+p126
+aVare communities that have three capabilities:
+p127
+aVcreative abrasion, creative agility and creative resolution.
+p128
+aVCreative abrasion is about being able to create a marketplace of ideas
+p129
+aVthrough debate and discourse.
+p130
+aVIn innovative organizations, they amplify differences,
+p131
+aVthey don't minimize them.
+p132
+aVCreative abrasion is not about brainstorming,
+p133
+aVwhere people suspend their judgment.
+p134
+aVNo, they know how to have very heated but constructive arguments
+p135
+aVto create a portfolio of alternatives.
+p136
+aa(lp137
+VIndividuals in innovative organizations
+p138
+aVlearn how to inquire, they learn how to actively listen, but guess what?
+p139
+aVThey also learn how to advocate for their point of view.
+p140
+aVThey understand that innovation rarely happens
+p141
+aVunless you have both diversity and conflict.
+p142
+aVCreative agility is about being able to test and refine that portfolio of ideas
+p143
+aVthrough quick pursuit, reflection and adjustment.
+p144
+aVIt's about discovery-driven learning
+p145
+aVwhere you act, as opposed to plan, your way to the future.
+p146
+aVIt's about design thinking where you have that interesting combination
+p147
+aVof the scientific method and the artistic process.
+p148
+aVIt's about running a series of experiments, and not a series of pilots.
+p149
+aa(lp150
+VExperiments are usually about learning.
+p151
+aVWhen you get a negative outcome,
+p152
+aVyou're still really learning something that you need to know.
+p153
+aVPilots are often about being right.
+p154
+aVWhen they don't work, someone or something is to blame.
+p155
+aVThe final capability is creative resolution.
+p156
+aVThis is about doing decision making
+p157
+aVin a way that you can actually combine even opposing ideas
+p158
+aVto reconfigure them in new combinations
+p159
+aVto produce a solution that is new and useful.
+p160
+aVWhen you look at innovative organizations, they never go along to get along.
+p161
+aVThey don't compromise.
+p162
+aVThey don't let one group or one individual dominate,
+p163
+aVeven if it's the boss, even if it's the expert.
+p164
+aVInstead, they have developed
+p165
+aVa rather patient and more inclusive decision making process
+p166
+aVthat allows for both/and solutions to arise
+p167
+aVand not simply either/or solutions.
+p168
+aVThese three capabilities are why we see
+p169
+aVthat Pixar is able to do what it does.
+p170
+aa(lp171
+VLet me give you another example,
+p172
+aVand that example is the infrastructure group of Google.
+p173
+aVThe infrastructure group of Google is the group
+p174
+aVthat has to keep the website up and running 24/7.
+p175
+aVSo when Google was about to introduce Gmail and YouTube,
+p176
+aVthey knew that their data storage system wasn't adequate.
+p177
+aVThe head of the engineering group and the infrastructure group at that time
+p178
+aVwas a man named Bill Coughran.
+p179
+aVBill and his leadership team, who he referred to as his brain trust,
+p180
+aVhad to figure out what to do about this situation.
+p181
+aVThey thought about it for a while.
+p182
+aVInstead of creating a group to tackle this task,
+p183
+aVthey decided to allow groups to emerge spontaneously
+p184
+aVaround different alternatives.
+p185
+aa(lp186
+VTwo groups coalesced.
+p187
+aVOne became known as Big Table,
+p188
+aVthe other became known as Build It From Scratch.
+p189
+aVBig Table proposed that they build on the current system.
+p190
+aVBuild It From Scratch proposed that it was time for a whole new system.
+p191
+aVSeparately, these two teams were allowed to work full-time
+p192
+aVon their particular approach.
+p193
+aVIn engineering reviews, Bill described his role as,
+p194
+aV"Injecting honesty into the process by driving debate."
+p195
+aa(lp196
+VEarly on, the teams were encouraged to build prototypes so that they could
+p197
+aV"bump them up against reality and discover for themselves
+p198
+aVthe strengths and weaknesses of their particular approach."
+p199
+aVWhen Build It From Scratch shared their prototype with the group
+p200
+aVwhose beepers would have to go off in the middle of the night
+p201
+aVif something went wrong with the website,
+p202
+aVthey heard loud and clear about the limitations of their particular design.
+p203
+aVAs the need for a solution became more urgent
+p204
+aVand as the data, or the evidence, began to come in,
+p205
+aVit became pretty clear that the Big Table solution
+p206
+aVwas the right one for the moment.
+p207
+aVSo they selected that one.
+p208
+aa(lp209
+VBut to make sure that they did not lose the learning
+p210
+aVof the Build it From Scratch team,
+p211
+aVBill asked two members of that team to join a new team that was emerging
+p212
+aVto work on the next-generation system.
+p213
+aVThis whole process took nearly two years,
+p214
+aVbut I was told that they were all working at breakneck speed.
+p215
+aa(lp216
+VEarly in that process, one of the engineers had gone to Bill and said,
+p217
+aV"We're all too busy for this inefficient system
+p218
+aVof running parallel experiments."
+p219
+aVBut as the process unfolded, he began to understand
+p220
+aVthe wisdom of allowing talented people to play out their passions.
+p221
+aVHe admitted, "If you had forced us to all be on one team,
+p222
+aVwe might have focused on proving who was right, and winning,
+p223
+aVand not on learning and discovering what was the best answer for Google."
+p224
+aa(lp225
+VWhy is it that Pixar and Google are able to innovate time and again?
+p226
+aVIt's because they've mastered the capabilities required for that.
+p227
+aVThey know how to do collaborative problem solving,
+p228
+aVthey know how to do discovery-driven learning
+p229
+aVand they know how to do integrated decision making.
+p230
+aa(lp231
+VSome of you may be sitting there and saying to yourselves right now,
+p232
+aV"We don't know how to do those things in my organization.
+p233
+aVSo why do they know how to do those things at Pixar,
+p234
+aVand why do they know how to do those things at Google?"
+p235
+aVWhen many of the people that worked for Bill told us,
+p236
+aVin their opinion, that Bill was one of the finest leaders in Silicon Valley,
+p237
+aVwe completely agreed; the man is a genius.
+p238
+aa(lp239
+VLeadership is the secret sauce.
+p240
+aVBut it's a different kind of leadership,
+p241
+aVnot the kind many of us think about when we think about great leadership.
+p242
+aVOne of the leaders I met with early on said to me,
+p243
+aV"Linda, I don't read books on leadership.
+p244
+aVAll they do is make me feel bad." (Laughter)
+p245
+aV"In the first chapter they say I'm supposed to create a vision.
+p246
+aVBut if I'm trying to do something that's truly new, I have no answers.
+p247
+aVI don't know what direction we're going in
+p248
+aVand I'm not even sure I know how to figure out how to get there."
+p249
+aVFor sure, there are times when visionary leadership
+p250
+aVis exactly what is needed.
+p251
+aa(lp252
+VBut if we want to build organizations that can innovate time and again,
+p253
+aVwe must recast our understanding of what leadership is about.
+p254
+aVLeading innovation is about creating the space
+p255
+aVwhere people are willing and able to do the hard work
+p256
+aVof innovative problem solving.
+p257
+aa(lp258
+VAt this point, some of you may be wondering,
+p259
+aV"What does that leadership really look like?"
+p260
+aVAt Pixar, they understand that innovation takes a village.
+p261
+aVThe leaders focus on building a sense of community
+p262
+aVand building those three capabilities.
+p263
+aVHow do they define leadership?
+p264
+aVThey say leadership is about creating a world
+p265
+aVto which people want to belong.
+p266
+aVWhat kind of world do people want to belong in at Pixar?
+p267
+aVA world where you're living at the frontier.
+p268
+aVWhat do they focus their time on?
+p269
+aVNot on creating a vision.
+p270
+aVInstead they spend their time thinking about,
+p271
+aV"How do we design a studio that has the sensibility of a public square
+p272
+aVso that people will interact?
+p273
+aVLet's put in a policy that anyone, no matter what their level or role,
+p274
+aVis allowed to give notes to the director
+p275
+aVabout how they feel about a particular film.
+p276
+aVWhat can we do to make sure
+p277
+aVthat all the disruptors, all the minority voices in this organization,
+p278
+aVspeak up and are heard?
+p279
+aVAnd, finally, let's bestow credit in a very generous way."
+p280
+aVI don't know if you've ever looked at the credits of a Pixar movie,
+p281
+aVbut the babies born during a production are listed there.
+p282
+aV(Laughter)
+p283
+aa(lp284
+VHow did Bill think about what his role was?
+p285
+aVBill said, "I lead a volunteer organization.
+p286
+aVTalented people don't want to follow me anywhere.
+p287
+aVThey want to cocreate with me the future.
+p288
+aVMy job is to nurture the bottom-up
+p289
+aVand not let it degenerate into chaos."
+p290
+aVHow did he see his role?
+p291
+aV"I'm a role model, I'm a human glue,
+p292
+aVI'm a connector, I'm an aggregator of viewpoints.
+p293
+aVI'm never a dictator of viewpoints."
+p294
+aVAdvice about how you exercise the role?
+p295
+aVHire people who argue with you.
+p296
+aVAnd, guess what?
+p297
+aVSometimes it's best to be deliberately fuzzy and vague.
+p298
+aa(lp299
+VSome of you may be wondering now,
+p300
+aVwhat are these people thinking?
+p301
+aVThey're thinking,
+p302
+aV"I'm not the visionary, I'm the social architect.
+p303
+aVI'm creating the space where people are willing and able
+p304
+aVto share and combine their talents and passions."
+p305
+aVIf some of you are worrying now that you don't work at a Pixar,
+p306
+aVor you don't work at a Google,
+p307
+aVI want to tell you there's still hope.
+p308
+aVWe've studied many organizations
+p309
+aVthat were really not organizations you'd think of
+p310
+aVas ones where a lot of innovation happens.
+p311
+aa(lp312
+VWe studied a general counsel in a pharmaceutical company
+p313
+aVwho had to figure out how to get the outside lawyers,
+p314
+aV19 competitors, to collaborate and innovate.
+p315
+aVWe studied the head of marketing at a German automaker
+p316
+aVwhere, fundamentally, they believed that it was the design engineers,
+p317
+aVnot the marketeers, who were allowed to be innovative.
+p318
+aVWe also studied Vineet Nayar at HCL Technologies,
+p319
+aVan Indian outsourcing company.
+p320
+aVWhen we met Vineet,
+p321
+aVhis company was about, in his words, to become irrelevant.
+p322
+aVWe watched as he turned that company into a global dynamo of I.T. innovation.
+p323
+aVAt HCL technologies, like at many companies,
+p324
+aVthe leaders had learned to see their role as setting direction
+p325
+aVand making sure that no one deviated from it.
+p326
+aVWhat he did is tell them it was time for them
+p327
+aVto think about rethinking what they were supposed to do.
+p328
+aVBecause what was happening is that everybody was looking up
+p329
+aVand you weren't seeing the kind of bottom-up innovation
+p330
+aVwe saw at Pixar or Google.
+p331
+aVSo they began to work on that.
+p332
+aa(lp333
+VThey stopped giving answers, they stopped trying to provide solutions.
+p334
+aVInstead, what they did is they began to see
+p335
+aVthe people at the bottom of the pyramid, the young sparks,
+p336
+aVthe people who were closest to the customers,
+p337
+aVas the source of innovation.
+p338
+aVThey began to transfer the organization's growth
+p339
+aVto that level.
+p340
+aVIn Vineet's language, this was about inverting the pyramid
+p341
+aVso that you could unleash the power of the many
+p342
+aVby loosening the stranglehold of the few,
+p343
+aVand increase the quality and the speed of innovation
+p344
+aVthat was happening every day.
+p345
+aa(lp346
+VFor sure, Vineet and all the other leaders that we studied
+p347
+aVwere in fact visionaries.
+p348
+aVFor sure, they understood that that was not their role.
+p349
+aVSo I don't think it is accidental that many of you did not recognize Ed.
+p350
+aVBecause Ed, like Vineet, understands that our role as leaders
+p351
+aVis to set the stage, not perform on it.
+p352
+aVIf we want to invent a better future,
+p353
+aVand I suspect that's why many of us are here,
+p354
+aVthen we need to reimagine our task.
+p355
+aVOur task is to create the space
+p356
+aVwhere everybody's slices of genius
+p357
+aVcan be unleashed and harnessed,
+p358
+aVand turned into works of collective genius.
+p359
+aa(lp360
+VThank you.
+p361
+aa(lp362
+V(Applause)
+p363
+aasS'id'
+p364
+I2210
+sS'title'
+p365
+VHow to manage for collective creativity
+p366
+s.

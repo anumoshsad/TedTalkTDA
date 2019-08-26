@@ -1,0 +1,345 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWe look around the media, as we see on the news from Iraq,
+p4
+aVAfghanistan, Sierra Leone,
+p5
+aVand the conflict seems incomprehensible to us.
+p6
+aVAnd that's certainly how it seemed to me when I started this project.
+p7
+aVBut as a physicist,
+p8
+aVI thought, well if you give me some data,
+p9
+aVI could maybe understand this. You know, give us a go.
+p10
+aa(lp11
+VSo as a naive New Zealander
+p12
+aVI thought, well I'll go to the Pentagon.
+p13
+aVCan you get me some information?
+p14
+aV(Laughter)
+p15
+aVNo. So I had to think a little harder.
+p16
+aVAnd I was watching the news one night in Oxford.
+p17
+aVAnd I looked down at the chattering heads on my channel of choice.
+p18
+aVAnd I saw that there was information there.
+p19
+aVThere was data within the streams of news that we consume.
+p20
+aVAll this noise around us actually has information.
+p21
+aVSo what I started thinking was,
+p22
+aVperhaps there is something like open source intelligence here.
+p23
+aVIf we can get enough of these streams of information together,
+p24
+aVwe can perhaps start to understand the war.
+p25
+aa(lp26
+VSo this is exactly what I did. We started bringing a team together,
+p27
+aVan interdisciplinary team of scientists,
+p28
+aVof economists, mathematicians.
+p29
+aVWe brought these guys together and we started to try and solve this.
+p30
+aVWe did it in three steps.
+p31
+aVThe first step we did was to collect. We did 130 different sources of information \u2014
+p32
+aVfrom NGO reports to newspapers and cable news.
+p33
+aVWe brought this raw data in and we filtered it.
+p34
+aVWe extracted the key bits on information to build the database.
+p35
+aVThat database contained
+p36
+aVthe timing of attacks,
+p37
+aVthe location, the size and the weapons used.
+p38
+aVIt's all in the streams of information we consume daily,
+p39
+aVwe just have to know how to pull it out.
+p40
+aVAnd once we had this we could start doing some cool stuff.
+p41
+aVWhat if we were to look at the distribution of the sizes of attacks?
+p42
+aVWhat would that tell us?
+p43
+aa(lp44
+VSo we started doing this. And you can see here
+p45
+aVon the horizontal axis
+p46
+aVyou've got the number of people killed in an attack
+p47
+aVor the size of the attack.
+p48
+aVAnd on the vertical axis you've got the number of attacks.
+p49
+aVSo we plot data for sample on this.
+p50
+aVYou see some sort of random distribution \u2014
+p51
+aVperhaps 67 attacks, one person was killed,
+p52
+aVor 47 attacks where seven people were killed.
+p53
+aVWe did this exact same thing for Iraq.
+p54
+aVAnd we didn't know, for Iraq what we were going to find.
+p55
+aVIt turns out what we found was pretty surprising.
+p56
+aVYou take all of the conflict,
+p57
+aVall of the chaos, all of the noise,
+p58
+aVand out of that
+p59
+aVcomes this precise mathematical distribution
+p60
+aVof the way attacks are ordered in this conflict.
+p61
+aVThis blew our mind.
+p62
+aVWhy should a conflict like Iraq have this
+p63
+aVas its fundamental signature?
+p64
+aVWhy should there be order in war?
+p65
+aVWe didn't really understand that.
+p66
+aVWe thought maybe there is something special about Iraq.
+p67
+aVSo we looked at a few more conflicts.
+p68
+aVWe looked at Colombia, we looked at Afghanistan,
+p69
+aVand we looked at Senegal.
+p70
+aa(lp71
+VAnd the same pattern emerged in each conflict.
+p72
+aVThis wasn't supposed to happen.
+p73
+aVThese are different wars, with different religious factions,
+p74
+aVdifferent political factions, and different socioeconomic problems.
+p75
+aVAnd yet the fundamental patterns underlying them
+p76
+aVare the same.
+p77
+aVSo we went a little wider.
+p78
+aVWe looked around the world at all the data we could get our hands on.
+p79
+aVFrom Peru to Indonesia,
+p80
+aVwe studied this same pattern again.
+p81
+aVAnd we found that not only
+p82
+aVwere the distributions these straight lines,
+p83
+aVbut the slope of these lines, they clustered around
+p84
+aVthis value of alpha equals 2.5.
+p85
+aVAnd we could generate an equation
+p86
+aVthat could predict the likelihood of an attack.
+p87
+aVWhat we're saying here
+p88
+aVis the probability of an attack killing X number of people
+p89
+aVin a country like Iraq
+p90
+aVis equal to a constant, times the size of that attack,
+p91
+aVraised to the power of negative alpha.
+p92
+aVAnd negative alpha is the slope of that line I showed you before.
+p93
+aa(lp94
+VSo what?
+p95
+aVThis is data, statistics. What does it tell us about these conflicts?
+p96
+aVThat was a challenge we had to face as physicists.
+p97
+aVHow do we explain this?
+p98
+aVAnd what we really found was that alpha,
+p99
+aVif we think about it, is the organizational
+p100
+aVstructure of the insurgency.
+p101
+aVAlpha is the distribution of the sizes of attacks,
+p102
+aVwhich is really the distribution
+p103
+aVof the group strength carrying out the attacks.
+p104
+aVSo we look at a process of group dynamics:
+p105
+aVcoalescence and fragmentation,
+p106
+aVgroups coming together, groups breaking apart.
+p107
+aVAnd we start running the numbers on this. Can we simulate it?
+p108
+aVCan we create the kind of patterns that we're seeing
+p109
+aVin places like Iraq?
+p110
+aVTurns out we kind of do a reasonable job.
+p111
+aVWe can run these simulations.
+p112
+aVWe can recreate this using a process of group dynamics
+p113
+aVto explain the patterns that we see
+p114
+aVall around the conflicts around the world.
+p115
+aa(lp116
+VSo what's going on?
+p117
+aVWhy should these different \u2014 seemingly different conflicts
+p118
+aVhave the same patterns?
+p119
+aVNow what I believe is going on is that
+p120
+aVthe insurgent forces, they evolve over time. They adapt.
+p121
+aVAnd it turns out there is only one solution
+p122
+aVto fight a much stronger enemy.
+p123
+aVAnd if you don't find that solution as an insurgent force,
+p124
+aVyou don't exist.
+p125
+aVSo every insurgent force that is ongoing,
+p126
+aVevery conflict that is ongoing,
+p127
+aVit's going to look something like this.
+p128
+aVAnd that is what we think is happening.
+p129
+aa(lp130
+VTaking it forward, how do we change it?
+p131
+aVHow do we end a war like Iraq?
+p132
+aVWhat does it look like?
+p133
+aVAlpha is the structure. It's got a stable state at 2.5.
+p134
+aVThis is what wars look like when they continue.
+p135
+aVWe've got to change that.
+p136
+aVWe can push it up:
+p137
+aVthe forces become more fragmented;
+p138
+aVthere is more of them, but they are weaker.
+p139
+aVOr we push it down:
+p140
+aVthey're more robust; there is less groups;
+p141
+aVbut perhaps you can sit and talk to them.
+p142
+aa(lp143
+VSo this graph here, I'm going to show you now.
+p144
+aVNo one has seen this before. This is literally
+p145
+aVstuff that we've come through last week.
+p146
+aVAnd we see the evolution of Alpha through time.
+p147
+aVWe see it start. And we see it grow up to the stable state
+p148
+aVthe wars around the world look like.
+p149
+aVAnd it stays there through the invasion of Fallujah
+p150
+aVuntil the Samarra bombings in the
+p151
+aVIraqi elections of '06.
+p152
+aVAnd the system gets perturbed. It moves upwards
+p153
+aVto a fragmented state.
+p154
+aVThis is when the surge happens.
+p155
+aVAnd depending on who you ask,
+p156
+aVthe surge was supposed to push it up even further.
+p157
+aVThe opposite happened.
+p158
+aVThe groups became stronger.
+p159
+aVThey became more robust.
+p160
+aVAnd so I'm thinking, right, great, it's going to keep going down.
+p161
+aVWe can talk to them. We can get a solution. The opposite happened.
+p162
+aVIt's moved up again. The groups are more fragmented.
+p163
+aVAnd this tells me one of two things.
+p164
+aVEither we're back where we started
+p165
+aVand the surge has had no effect;
+p166
+aVor finally the groups have been fragmented to the extent
+p167
+aVthat we can start to think about maybe moving out.
+p168
+aVI don't know what the answer is to that.
+p169
+aVBut I know that we should be looking at the structure of the insurgency
+p170
+aVto answer that question.
+p171
+aVThank you.
+p172
+aV(Applause)
+p173
+aasS'id'
+p174
+I532
+sS'title'
+p175
+VThe mathematics of war
+p176
+s.

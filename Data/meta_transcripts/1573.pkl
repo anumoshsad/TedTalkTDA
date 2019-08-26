@@ -1,0 +1,569 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VOther people. Everyone is interested in other people.
+p4
+aVEveryone has relationships with other people,
+p5
+aVand they're interested in these relationships
+p6
+aVfor a variety of reasons.
+p7
+aVGood relationships, bad relationships,
+p8
+aVannoying relationships, agnostic relationships,
+p9
+aVand what I'm going to do is focus on the central piece
+p10
+aVof an interaction that goes on in a relationship.
+p11
+aVSo I'm going to take as inspiration the fact that we're all
+p12
+aVinterested in interacting with other people,
+p13
+aVI'm going to completely strip it of all its complicating features,
+p14
+aVand I'm going to turn that object, that simplified object,
+p15
+aVinto a scientific probe, and provide the early stages,
+p16
+aVembryonic stages of new insights into what happens
+p17
+aVin two brains while they simultaneously interact.
+p18
+aa(lp19
+VBut before I do that, let me tell you a couple of things
+p20
+aVthat made this possible.
+p21
+aVThe first is we can now eavesdrop safely
+p22
+aVon healthy brain activity.
+p23
+aVWithout needles and radioactivity,
+p24
+aVwithout any kind of clinical reason, we can go down the street
+p25
+aVand record from your friends' and neighbors' brains
+p26
+aVwhile they do a variety of cognitive tasks, and we use
+p27
+aVa method called functional magnetic resonance imaging.
+p28
+aVYou've probably all read about it or heard about in some
+p29
+aVincarnation. Let me give you a two-sentence version of it.
+p30
+aVSo we've all heard of MRIs. MRIs use magnetic fields
+p31
+aVand radio waves and they take snapshots of your brain
+p32
+aVor your knee or your stomach,
+p33
+aVgrayscale images that are frozen in time.
+p34
+aVIn the 1990s, it was discovered you could use
+p35
+aVthe same machines in a different mode,
+p36
+aVand in that mode, you could make microscopic blood flow
+p37
+aVmovies from hundreds of thousands of sites independently in the brain.
+p38
+aVOkay, so what? In fact, the so what is, in the brain,
+p39
+aVchanges in neural activity, the things that make your brain work,
+p40
+aVthe things that make your software work in your brain,
+p41
+aVare tightly correlated with changes in blood flow.
+p42
+aVYou make a blood flow movie, you have an independent
+p43
+aVproxy of brain activity.
+p44
+aa(lp45
+VThis has literally revolutionized cognitive science.
+p46
+aVTake any cognitive domain you want, memory,
+p47
+aVmotor planning, thinking about your mother-in-law,
+p48
+aVgetting angry at people, emotional response, it goes on and on,
+p49
+aVput people into functional MRI devices, and
+p50
+aVimage how these kinds of variables map onto brain activity.
+p51
+aVIt's in its early stages, and it's crude by some measures,
+p52
+aVbut in fact, 20 years ago, we were at nothing.
+p53
+aVYou couldn't do people like this. You couldn't do healthy people.
+p54
+aVThat's caused a literal revolution, and it's opened us up
+p55
+aVto a new experimental preparation. Neurobiologists,
+p56
+aVas you well know, have lots of experimental preps,
+p57
+aVworms and rodents and fruit flies and things like this.
+p58
+aVAnd now, we have a new experimental prep: human beings.
+p59
+aVWe can now use human beings to study and model
+p60
+aVthe software in human beings, and we have a few
+p61
+aVburgeoning biological measures.
+p62
+aa(lp63
+VOkay, let me give you one example of the kinds of experiments that people do,
+p64
+aVand it's in the area of what you'd call valuation.
+p65
+aVValuation is just what you think it is, you know?
+p66
+aVIf you went and you were valuing two companies against
+p67
+aVone another, you'd want to know which was more valuable.
+p68
+aVCultures discovered the key feature of valuation thousands of years ago.
+p69
+aVIf you want to compare oranges to windshields, what do you do?
+p70
+aVWell, you can't compare oranges to windshields.
+p71
+aVThey're immiscible. They don't mix with one another.
+p72
+aVSo instead, you convert them to a common currency scale,
+p73
+aVput them on that scale, and value them accordingly.
+p74
+aVWell, your brain has to do something just like that as well,
+p75
+aVand we're now beginning to understand and identify
+p76
+aVbrain systems involved in valuation,
+p77
+aVand one of them includes a neurotransmitter system
+p78
+aVwhose cells are located in your brainstem
+p79
+aVand deliver the chemical dopamine to the rest of your brain.
+p80
+aVI won't go through the details of it, but that's an important
+p81
+aVdiscovery, and we know a good bit about that now,
+p82
+aVand it's just a small piece of it, but it's important because
+p83
+aVthose are the neurons that you would lose if you had Parkinson's disease,
+p84
+aVand they're also the neurons that are hijacked by literally
+p85
+aVevery drug of abuse, and that makes sense.
+p86
+aVDrugs of abuse would come in, and they would change
+p87
+aVthe way you value the world. They change the way
+p88
+aVyou value the symbols associated with your drug of choice,
+p89
+aVand they make you value that over everything else.
+p90
+aa(lp91
+VHere's the key feature though. These neurons are also
+p92
+aVinvolved in the way you can assign value to literally abstract ideas,
+p93
+aVand I put some symbols up here that we assign value to
+p94
+aVfor various reasons.
+p95
+aVWe have a behavioral superpower in our brain,
+p96
+aVand it at least in part involves dopamine.
+p97
+aVWe can deny every instinct we have for survival for an idea,
+p98
+aVfor a mere idea. No other species can do that.
+p99
+aVIn 1997, the cult Heaven's Gate committed mass suicide
+p100
+aVpredicated on the idea that there was a spaceship
+p101
+aVhiding in the tail of the then-visible comet Hale-Bopp
+p102
+aVwaiting to take them to the next level. It was an incredibly tragic event.
+p103
+aVMore than two thirds of them had college degrees.
+p104
+aVBut the point here is they were able to deny their instincts for survival
+p105
+aVusing exactly the same systems that were put there
+p106
+aVto make them survive. That's a lot of control, okay?
+p107
+aa(lp108
+VOne thing that I've left out of this narrative
+p109
+aVis the obvious thing, which is the focus of the rest of my
+p110
+aVlittle talk, and that is other people.
+p111
+aVThese same valuation systems are redeployed
+p112
+aVwhen we're valuing interactions with other people.
+p113
+aVSo this same dopamine system that gets addicted to drugs,
+p114
+aVthat makes you freeze when you get Parkinson's disease,
+p115
+aVthat contributes to various forms of psychosis,
+p116
+aVis also redeployed to value interactions with other people
+p117
+aVand to assign value to gestures that you do
+p118
+aVwhen you're interacting with somebody else.
+p119
+aa(lp120
+VLet me give you an example of this.
+p121
+aVYou bring to the table such enormous processing power
+p122
+aVin this domain that you hardly even notice it.
+p123
+aa(lp124
+VLet me just give you a few examples. So here's a baby.
+p125
+aVShe's three months old. She still poops in her diapers and she can't do calculus.
+p126
+aVShe's related to me. Somebody will be very glad that she's up here on the screen.
+p127
+aVYou can cover up one of her eyes, and you can still read
+p128
+aVsomething in the other eye, and I see sort of curiosity
+p129
+aVin one eye, I see maybe a little bit of surprise in the other.
+p130
+aa(lp131
+VHere's a couple. They're sharing a moment together,
+p132
+aVand we've even done an experiment where you can cut out
+p133
+aVdifferent pieces of this frame and you can still see
+p134
+aVthat they're sharing it. They're sharing it sort of in parallel.
+p135
+aVNow, the elements of the scene also communicate this
+p136
+aVto us, but you can read it straight off their faces,
+p137
+aVand if you compare their faces to normal faces, it would be a very subtle cue.
+p138
+aa(lp139
+VHere's another couple. He's projecting out at us,
+p140
+aVand she's clearly projecting, you know,
+p141
+aVlove and admiration at him.
+p142
+aa(lp143
+VHere's another couple. (Laughter)
+p144
+aVAnd I'm thinking I'm not seeing love and admiration on the left. (Laughter)
+p145
+aVIn fact, I know this is his sister, and you can just see
+p146
+aVhim saying, "Okay, we're doing this for the camera,
+p147
+aVand then afterwards you steal my candy and you punch me in the face." (Laughter)
+p148
+aVHe'll kill me for showing that.
+p149
+aa(lp150
+VAll right, so what does this mean?
+p151
+aVIt means we bring an enormous amount of processing power to the problem.
+p152
+aVIt engages deep systems in our brain, in dopaminergic
+p153
+aVsystems that are there to make you chase sex, food and salt.
+p154
+aVThey keep you alive. It gives them the pie, it gives
+p155
+aVthat kind of a behavioral punch which we've called a superpower.
+p156
+aa(lp157
+VSo how can we take that and arrange a kind of staged
+p158
+aVsocial interaction and turn that into a scientific probe?
+p159
+aVAnd the short answer is games.
+p160
+aVEconomic games. So what we do is we go into two areas.
+p161
+aVOne area is called experimental economics. The other area is called behavioral economics.
+p162
+aVAnd we steal their games. And we contrive them to our own purposes.
+p163
+aVSo this shows you one particular game called an ultimatum game.
+p164
+aVRed person is given a hundred dollars and can offer
+p165
+aVa split to blue. Let's say red wants to keep 70,
+p166
+aVand offers blue 30. So he offers a 70-30 split with blue.
+p167
+aVControl passes to blue, and blue says, "I accept it,"
+p168
+aVin which case he'd get the money, or blue says,
+p169
+aV"I reject it," in which case no one gets anything. Okay?
+p170
+aVSo a rational choice economist would say, well,
+p171
+aVyou should take all non-zero offers.
+p172
+aVWhat do people do? People are indifferent at an 80-20 split.
+p173
+aVAt 80-20, it's a coin flip whether you accept that or not.
+p174
+aVWhy is that? You know, because you're pissed off.
+p175
+aVYou're mad. That's an unfair offer, and you know what an unfair offer is.
+p176
+aVThis is the kind of game done by my lab and many around the world.
+p177
+aVThat just gives you an example of the kind of thing that
+p178
+aVthese games probe. The interesting thing is, these games
+p179
+aVrequire that you have a lot of cognitive apparatus on line.
+p180
+aVYou have to be able to come to the table with a proper model of another person.
+p181
+aVYou have to be able to remember what you've done.
+p182
+aVYou have to stand up in the moment to do that.
+p183
+aVThen you have to update your model based on the signals coming back,
+p184
+aVand you have to do something that is interesting,
+p185
+aVwhich is you have to do a kind of depth of thought assay.
+p186
+aVThat is, you have to decide what that other person expects of you.
+p187
+aVYou have to send signals to manage your image in their mind.
+p188
+aVLike a job interview. You sit across the desk from somebody,
+p189
+aVthey have some prior image of you,
+p190
+aVyou send signals across the desk to move their image
+p191
+aVof you from one place to a place where you want it to be.
+p192
+aVWe're so good at this we don't really even notice it.
+p193
+aVThese kinds of probes exploit it. Okay?
+p194
+aa(lp195
+VIn doing this, what we've discovered is that humans
+p196
+aVare literal canaries in social exchanges.
+p197
+aVCanaries used to be used as kind of biosensors in mines.
+p198
+aVWhen methane built up, or carbon dioxide built up,
+p199
+aVor oxygen was diminished, the birds would swoon
+p200
+aVbefore people would \u2014 so it acted as an early warning system:
+p201
+aVHey, get out of the mine. Things aren't going so well.
+p202
+aVPeople come to the table, and even these very blunt,
+p203
+aVstaged social interactions, and they, and there's just
+p204
+aVnumbers going back and forth between the people,
+p205
+aVand they bring enormous sensitivities to it.
+p206
+aVSo we realized we could exploit this, and in fact,
+p207
+aVas we've done that, and we've done this now in
+p208
+aVmany thousands of people, I think on the order of
+p209
+aVfive or six thousand. We actually, to make this
+p210
+aVa biological probe, need bigger numbers than that,
+p211
+aVremarkably so. But anyway,
+p212
+aVpatterns have emerged, and we've been able to take
+p213
+aVthose patterns, convert them into mathematical models,
+p214
+aVand use those mathematical models to gain new insights
+p215
+aVinto these exchanges. Okay, so what?
+p216
+aVWell, the so what is, that's a really nice behavioral measure,
+p217
+aVthe economic games bring to us notions of optimal play.
+p218
+aVWe can compute that during the game.
+p219
+aVAnd we can use that to sort of carve up the behavior.
+p220
+aa(lp221
+VHere's the cool thing. Six or seven years ago,
+p222
+aVwe developed a team. It was at the time in Houston, Texas.
+p223
+aVIt's now in Virginia and London. And we built software
+p224
+aVthat'll link functional magnetic resonance imaging devices
+p225
+aVup over the Internet. I guess we've done up to six machines
+p226
+aVat a time, but let's just focus on two.
+p227
+aVSo it synchronizes machines anywhere in the world.
+p228
+aVWe synchronize the machines, set them into these
+p229
+aVstaged social interactions, and we eavesdrop on both
+p230
+aVof the interacting brains. So for the first time,
+p231
+aVwe don't have to look at just averages over single individuals,
+p232
+aVor have individuals playing computers, or try to make
+p233
+aVinferences that way. We can study individual dyads.
+p234
+aVWe can study the way that one person interacts with another person,
+p235
+aVturn the numbers up, and start to gain new insights
+p236
+aVinto the boundaries of normal cognition,
+p237
+aVbut more importantly, we can put people with
+p238
+aVclassically defined mental illnesses, or brain damage,
+p239
+aVinto these social interactions, and use these as probes of that.
+p240
+aVSo we've started this effort. We've made a few hits,
+p241
+aVa few, I think, embryonic discoveries.
+p242
+aVWe think there's a future to this. But it's our way
+p243
+aVof going in and redefining, with a new lexicon,
+p244
+aVa mathematical one actually, as opposed to the standard
+p245
+aVways that we think about mental illness,
+p246
+aVcharacterizing these diseases, by using the people
+p247
+aVas birds in the exchanges. That is, we exploit the fact
+p248
+aVthat the healthy partner, playing somebody with major depression,
+p249
+aVor playing somebody with autism spectrum disorder,
+p250
+aVor playing somebody with attention deficit hyperactivity disorder,
+p251
+aVwe use that as a kind of biosensor, and then we use
+p252
+aVcomputer programs to model that person, and it gives us
+p253
+aVa kind of assay of this.
+p254
+aa(lp255
+VEarly days, and we're just beginning, we're setting up sites
+p256
+aVaround the world. Here are a few of our collaborating sites.
+p257
+aVThe hub, ironically enough,
+p258
+aVis centered in little Roanoke, Virginia.
+p259
+aVThere's another hub in London, now, and the rest
+p260
+aVare getting set up. We hope to give the data away
+p261
+aVat some stage. That's a complicated issue
+p262
+aVabout making it available to the rest of the world.
+p263
+aVBut we're also studying just a small part
+p264
+aVof what makes us interesting as human beings, and so
+p265
+aVI would invite other people who are interested in this
+p266
+aVto ask us for the software, or even for guidance
+p267
+aVon how to move forward with that.
+p268
+aa(lp269
+VLet me leave you with one thought in closing.
+p270
+aVThe interesting thing about studying cognition
+p271
+aVhas been that we've been limited, in a way.
+p272
+aVWe just haven't had the tools to look at interacting brains
+p273
+aVsimultaneously.
+p274
+aVThe fact is, though, that even when we're alone,
+p275
+aVwe're a profoundly social creature. We're not a solitary mind
+p276
+aVbuilt out of properties that kept it alive in the world
+p277
+aVindependent of other people. In fact, our minds
+p278
+aVdepend on other people. They depend on other people,
+p279
+aVand they're expressed in other people,
+p280
+aVso the notion of who you are, you often don't know
+p281
+aVwho you are until you see yourself in interaction with people
+p282
+aVthat are close to you, people that are enemies of you,
+p283
+aVpeople that are agnostic to you.
+p284
+aVSo this is the first sort of step into using that insight
+p285
+aVinto what makes us human beings, turning it into a tool,
+p286
+aVand trying to gain new insights into mental illness.
+p287
+aVThanks for having me. (Applause)
+p288
+aV(Applause)
+p289
+aasS'id'
+p290
+I1573
+sS'title'
+p291
+VWhat we're learning from 5,000 brains
+p292
+s.

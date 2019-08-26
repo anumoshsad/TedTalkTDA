@@ -1,0 +1,563 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VRoy Price is a man that most of you have probably never heard about,
+p4
+aVeven though he may have been responsible
+p5
+aVfor 22 somewhat mediocre  minutes of your life on April 19, 2013.
+p6
+aVHe may have also been responsible for 22 very entertaining minutes,
+p7
+aVbut not very many of you.
+p8
+aVAnd all of that goes back to a decision
+p9
+aVthat Roy had to make about three years ago.
+p10
+aa(lp11
+VSo you see, Roy Price is a senior executive with Amazon Studios.
+p12
+aVThat's the TV production company of Amazon.
+p13
+aVHe's 47 years old, slim, spiky hair,
+p14
+aVdescribes himself on Twitter as "movies, TV, technology, tacos."
+p15
+aVAnd Roy Price has a very responsible job, because it's his responsibility
+p16
+aVto pick the shows, the original content that Amazon is going to make.
+p17
+aVAnd of course that's a highly competitive space.
+p18
+aVI mean, there are so many TV shows already out there,
+p19
+aVthat Roy can't just choose any show.
+p20
+aVHe has to find shows that are really, really great.
+p21
+aVSo in other words, he has to find shows
+p22
+aVthat are on the very right end of this curve here.
+p23
+aa(lp24
+VSo this curve here is the rating distribution
+p25
+aVof about 2,500 TV shows on the website IMDB,
+p26
+aVand the rating goes from one to 10,
+p27
+aVand the height here shows you how many shows get that rating.
+p28
+aVSo if your show gets a rating of nine points or higher, that's a winner.
+p29
+aVThen you have a top two percent show.
+p30
+aVThat's shows like "Breaking Bad," "Game of Thrones," "The Wire,"
+p31
+aVso all of these shows that are addictive,
+p32
+aVwhereafter you've watched a season, your brain is basically like,
+p33
+aV"Where can I get more of these episodes?"
+p34
+aVThat kind of show.
+p35
+aVOn the left side, just for clarity, here on that end,
+p36
+aVyou have a show called "Toddlers and Tiaras" \u2014
+p37
+aa(lp38
+V(Laughter)
+p39
+aa(lp40
+V\u2014 which should tell you enough
+p41
+aVabout what's going on on that end of the curve.
+p42
+aa(lp43
+VNow, Roy Price is not worried about getting on the left end of the curve,
+p44
+aVbecause I think you would have to have some serious brainpower
+p45
+aVto undercut "Toddlers and Tiaras."
+p46
+aVSo what he's worried about is this middle bulge here,
+p47
+aVthe bulge of average TV,
+p48
+aVyou know, those shows that aren't really good or really bad,
+p49
+aVthey don't really get you excited.
+p50
+aVSo he needs to make sure that he's really on the right end of this.
+p51
+aa(lp52
+VSo the pressure is on,
+p53
+aVand of course it's also the first time
+p54
+aVthat Amazon is even doing something like this,
+p55
+aVso Roy Price does not want to take any chances.
+p56
+aVHe wants to engineer success.
+p57
+aVHe needs a guaranteed success,
+p58
+aVand so what he does is, he holds a competition.
+p59
+aa(lp60
+VSo he takes a bunch of ideas for TV shows,
+p61
+aVand from those ideas, through an evaluation,
+p62
+aVthey select eight candidates for TV shows,
+p63
+aVand then he just makes the first episode of each one of these shows
+p64
+aVand puts them online for free for everyone to watch.
+p65
+aVAnd so when Amazon is giving out free stuff,
+p66
+aVyou're going to take it, right?
+p67
+aVSo millions of viewers are watching those episodes.
+p68
+aa(lp69
+VWhat they don't realize is that, while they're watching their shows,
+p70
+aVactually, they are being watched.
+p71
+aVThey are being watched by Roy Price and his team,
+p72
+aVwho record everything.
+p73
+aVThey record when somebody presses play, when somebody presses pause,
+p74
+aVwhat parts they skip, what parts they watch again.
+p75
+aVSo they collect millions of data points,
+p76
+aVbecause they want to have those data points
+p77
+aVto then decide which show they should make.
+p78
+aVAnd sure enough, so they collect all the data,
+p79
+aVthey do all the data crunching, and an answer emerges,
+p80
+aVand the answer is,
+p81
+aV"Amazon should do a sitcom about four Republican US Senators."
+p82
+aVThey did that show.
+p83
+aa(lp84
+VSo does anyone know the name of the show?
+p85
+aV(Audience: "Alpha House.")
+p86
+aVYes, "Alpha House,"
+p87
+aVbut it seems like not too many of you here remember that show, actually,
+p88
+aVbecause it didn't turn out that great.
+p89
+aVIt's actually just an average show,
+p90
+aVactually \u2014 literally, in fact, because the average of this curve here is at 7.4,
+p91
+aVand "Alpha House" lands at 7.5,
+p92
+aVso a slightly above average show,
+p93
+aVbut certainly not what Roy Price and his team were aiming for.
+p94
+aVMeanwhile, however, at about the same time,
+p95
+aVat another company,
+p96
+aVanother executive did manage to land a top show using data analysis,
+p97
+aVand his name is Ted,
+p98
+aVTed Sarandos, who is the Chief Content Officer of Netflix,
+p99
+aVand just like Roy, he's on a constant mission
+p100
+aVto find that great TV show,
+p101
+aVand he uses data as well to do that,
+p102
+aVexcept he does it a little bit differently.
+p103
+aVSo instead of holding a competition, what he did \u2014 and his team of course \u2014
+p104
+aVwas they looked at all the data they already had about Netflix viewers,
+p105
+aVyou know, the ratings they give their shows,
+p106
+aVthe viewing histories, what shows people like, and so on.
+p107
+aVAnd then they use that data to discover
+p108
+aVall of these little bits and pieces about the audience:
+p109
+aVwhat kinds of shows they like,
+p110
+aVwhat kind of producers, what kind of actors.
+p111
+aVAnd once they had all of these pieces together,
+p112
+aVthey took a leap of faith,
+p113
+aVand they decided to license
+p114
+aVnot a sitcom about four Senators
+p115
+aVbut a drama series about a single Senator.
+p116
+aVYou guys know the show?
+p117
+aa(lp118
+V(Laughter)
+p119
+aa(lp120
+VYes, "House of Cards," and Netflix of course, nailed it with that show,
+p121
+aVat least for the first two seasons.
+p122
+aa(lp123
+V(Laughter) (Applause)
+p124
+aa(lp125
+V"House of Cards" gets a 9.1 rating on this curve,
+p126
+aVso it's exactly where they wanted it to be.
+p127
+aa(lp128
+VNow, the question of course is, what happened here?
+p129
+aVSo you have two very competitive, data-savvy companies.
+p130
+aVThey connect all of these millions of data points,
+p131
+aVand then it works beautifully for one of them,
+p132
+aVand it doesn't work for the other one.
+p133
+aVSo why?
+p134
+aVBecause logic kind of tells you that this should be working all the time.
+p135
+aVI mean, if you're collecting millions of data points
+p136
+aVon a decision you're going to make,
+p137
+aVthen you should be able to make a pretty good decision.
+p138
+aVYou have 200 years of statistics to rely on.
+p139
+aVYou're amplifying it with very powerful computers.
+p140
+aVThe least you could expect is good TV, right?
+p141
+aa(lp142
+VAnd if data analysis does not work that way,
+p143
+aVthen it actually gets a little scary,
+p144
+aVbecause we live in a time where we're turning to data more and more
+p145
+aVto make very serious decisions that go far beyond TV.
+p146
+aVDoes anyone here know the company Multi-Health Systems?
+p147
+aVNo one. OK, that's good actually.
+p148
+aVOK, so Multi-Health Systems is a software company,
+p149
+aVand I hope that nobody here in this room
+p150
+aVever comes into contact with that software,
+p151
+aVbecause if you do, it means you're in prison.
+p152
+aa(lp153
+V(Laughter)
+p154
+aa(lp155
+VIf someone here in the US is in prison, and they apply for parole,
+p156
+aVthen it's very likely that data analysis software from that company
+p157
+aVwill be used in determining whether to grant that parole.
+p158
+aVSo it's the same principle as Amazon and Netflix,
+p159
+aVbut now instead of deciding whether a TV show is going to be good or bad,
+p160
+aVyou're deciding whether a person is going to be good or bad.
+p161
+aVAnd mediocre TV, 22 minutes, that can be pretty bad,
+p162
+aVbut more years in prison, I guess, even worse.
+p163
+aa(lp164
+VAnd unfortunately, there is actually some evidence that this data analysis,
+p165
+aVdespite having lots of data, does not always produce optimum results.
+p166
+aVAnd that's not because a company like Multi-Health Systems
+p167
+aVdoesn't know what to do with data.
+p168
+aVEven the most data-savvy companies get it wrong.
+p169
+aVYes, even Google gets it wrong sometimes.
+p170
+aa(lp171
+VIn 2009, Google announced that they were able, with data analysis,
+p172
+aVto predict outbreaks of influenza, the nasty kind of flu,
+p173
+aVby doing data analysis on their Google searches.
+p174
+aVAnd it worked beautifully, and it made a big splash in the news,
+p175
+aVincluding the pinnacle of scientific success:
+p176
+aVa publication in the journal "Nature."
+p177
+aVIt worked beautifully for year after year after year,
+p178
+aVuntil one year it failed.
+p179
+aVAnd nobody could even tell exactly why.
+p180
+aVIt just didn't work that year,
+p181
+aVand of course that again made big news,
+p182
+aVincluding now a retraction
+p183
+aVof a publication from the journal "Nature."
+p184
+aVSo even the most data-savvy companies, Amazon and Google,
+p185
+aVthey sometimes get it wrong.
+p186
+aVAnd despite all those failures,
+p187
+aVdata is moving rapidly into real-life decision-making \u2014
+p188
+aVinto the workplace,
+p189
+aVlaw enforcement,
+p190
+aVmedicine.
+p191
+aVSo we should better make sure that data is helping.
+p192
+aa(lp193
+VNow, personally I've seen a lot of this struggle with data myself,
+p194
+aVbecause I work in computational genetics,
+p195
+aVwhich is also a field where lots of very smart people
+p196
+aVare using unimaginable amounts of data to make pretty serious decisions
+p197
+aVlike deciding on a cancer therapy or developing a drug.
+p198
+aVAnd over the years, I've noticed a sort of pattern
+p199
+aVor kind of rule, if you will, about the difference
+p200
+aVbetween successful decision-making with data
+p201
+aVand unsuccessful decision-making,
+p202
+aVand I find this a pattern worth sharing, and it goes something like this.
+p203
+aa(lp204
+VSo whenever you're solving a complex problem,
+p205
+aVyou're doing essentially two things.
+p206
+aVThe first one is, you take that problem apart into its bits and pieces
+p207
+aVso that you can deeply analyze those bits and pieces,
+p208
+aVand then of course you do the second part.
+p209
+aVYou put all of these bits and pieces back together again
+p210
+aVto come to your conclusion.
+p211
+aVAnd sometimes you have to do it over again,
+p212
+aVbut it's always those two things:
+p213
+aVtaking apart and putting back together again.
+p214
+aa(lp215
+VAnd now the crucial thing is
+p216
+aVthat data and data analysis
+p217
+aVis only good for the first part.
+p218
+aVData and data analysis, no matter how powerful,
+p219
+aVcan only help you taking a problem apart and understanding its pieces.
+p220
+aVIt's not suited to put those pieces back together again
+p221
+aVand then to come to a conclusion.
+p222
+aVThere's another tool that can do that, and we all have it,
+p223
+aVand that tool is the brain.
+p224
+aVIf there's one thing a brain is good at,
+p225
+aVit's taking bits and pieces back together again,
+p226
+aVeven when you have incomplete information,
+p227
+aVand coming to a good conclusion,
+p228
+aVespecially if it's the brain of an expert.
+p229
+aa(lp230
+VAnd that's why I believe that Netflix was so successful,
+p231
+aVbecause they used data and brains where they belong in the process.
+p232
+aVThey use data to first understand lots of pieces about their audience
+p233
+aVthat they otherwise wouldn't have been able to understand at that depth,
+p234
+aVbut then the decision to take all these bits and pieces
+p235
+aVand put them back together again and make a show like "House of Cards,"
+p236
+aVthat was nowhere in the data.
+p237
+aVTed Sarandos and his team made that decision to license that show,
+p238
+aVwhich also meant, by the way, that they were taking
+p239
+aVa pretty big personal risk with that decision.
+p240
+aVAnd Amazon, on the other hand, they did it the wrong way around.
+p241
+aVThey used data all the way to drive their decision-making,
+p242
+aVfirst when they held their competition of TV ideas,
+p243
+aVthen when they selected "Alpha House" to make as a show.
+p244
+aVWhich of course was a very safe decision for them,
+p245
+aVbecause they could always point at the data, saying,
+p246
+aV"This is what the data tells us."
+p247
+aVBut it didn't lead to the exceptional results that they were hoping for.
+p248
+aa(lp249
+VSo data is of course a massively useful tool to make better decisions,
+p250
+aVbut I believe that things go wrong
+p251
+aVwhen data is starting to drive those decisions.
+p252
+aVNo matter how powerful, data is just a tool,
+p253
+aVand to keep that in mind, I find this device here quite useful.
+p254
+aVMany of you will ...
+p255
+aa(lp256
+V(Laughter)
+p257
+aa(lp258
+VBefore there was data,
+p259
+aVthis was the decision-making device to use.
+p260
+aa(lp261
+V(Laughter)
+p262
+aa(lp263
+VMany of you will know this.
+p264
+aVThis toy here is called the Magic 8 Ball,
+p265
+aVand it's really amazing,
+p266
+aVbecause if you have a decision to make, a yes or no question,
+p267
+aVall you have to do is you shake the ball, and then you get an answer \u2014
+p268
+aV"Most Likely" \u2014 right here in this window in real time.
+p269
+aVI'll have it out later for tech demos.
+p270
+aa(lp271
+V(Laughter)
+p272
+aa(lp273
+VNow, the thing is, of course \u2014 so I've made some decisions in my life
+p274
+aVwhere, in hindsight, I should have just listened to the ball.
+p275
+aVBut, you know, of course, if you have the data available,
+p276
+aVyou want to replace this with something much more sophisticated,
+p277
+aVlike data analysis to come to a better decision.
+p278
+aVBut that does not change the basic setup.
+p279
+aVSo the ball may get smarter and smarter and smarter,
+p280
+aVbut I believe it's still on us to make the decisions
+p281
+aVif we want to achieve something extraordinary,
+p282
+aVon the right end of the curve.
+p283
+aVAnd I find that a very encouraging message, in fact,
+p284
+aVthat even in the face of huge amounts of data,
+p285
+aVit still pays off to make decisions,
+p286
+aVto be an expert in what you're doing
+p287
+aVand take risks.
+p288
+aVBecause in the end, it's not data,
+p289
+aVit's risks that will land you on the right end of the curve.
+p290
+aa(lp291
+VThank you.
+p292
+aa(lp293
+V(Applause)
+p294
+aasS'id'
+p295
+I2403
+sS'title'
+p296
+VHow to use data to make a hit TV show
+p297
+s.

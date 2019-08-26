@@ -1,0 +1,700 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VTechnology can change our understanding of nature.
+p4
+aa(lp5
+VTake for example the case of lions.
+p6
+aVFor centuries, it's been said that female lions
+p7
+aVdo all of the hunting out in the open savanna,
+p8
+aVand male lions do nothing until it's time for dinner.
+p9
+aVYou've heard this too, I can tell.
+p10
+aVWell recently, I led an airborne mapping campaign
+p11
+aVin the Kruger National Park in South Africa.
+p12
+aVOur colleagues put GPS tracking collars
+p13
+aVon male and female lions,
+p14
+aVand we mapped their hunting behavior
+p15
+aVfrom the air.
+p16
+aVThe lower left shows a lion sizing up
+p17
+aVa herd of impala for a kill,
+p18
+aVand the right shows what I call
+p19
+aVthe lion viewshed.
+p20
+aVThat's how far the lion can see in all directions
+p21
+aVuntil his or her view is obstructed by vegetation.
+p22
+aVAnd what we found
+p23
+aVis that male lions are not the lazy hunters
+p24
+aVwe thought them to be.
+p25
+aVThey just use a different strategy.
+p26
+aVWhereas the female lions hunt
+p27
+aVout in the open savanna
+p28
+aVover long distances, usually during the day,
+p29
+aVmale lions use an ambush strategy
+p30
+aVin dense vegetation, and often at night.
+p31
+aVThis video shows the actual hunting viewsheds
+p32
+aVof male lions on the left
+p33
+aVand females on the right.
+p34
+aVRed and darker colors show more dense vegetation,
+p35
+aVand the white are wide open spaces.
+p36
+aVAnd this is the viewshed right literally at the eye level
+p37
+aVof hunting male and female lions.
+p38
+aVAll of a sudden, you get a very clear understanding
+p39
+aVof the very spooky conditions under which
+p40
+aVmale lions do their hunting.
+p41
+aa(lp42
+VI bring up this example to begin,
+p43
+aVbecause it emphasizes how little we know about nature.
+p44
+aVThere's been a huge amount of work done so far
+p45
+aVto try to slow down our losses of tropical forests,
+p46
+aVand we are losing our forests at a rapid rate,
+p47
+aVas shown in red on the slide.
+p48
+aVI find it ironic that we're doing so much,
+p49
+aVyet these areas are fairly unknown to science.
+p50
+aVSo how can we save what we don't understand?
+p51
+aa(lp52
+VNow I'm a global ecologist and an Earth explorer
+p53
+aVwith a background in physics and chemistry
+p54
+aVand biology and a lot of other boring subjects,
+p55
+aVbut above all, I'm obsessed with what we don't know
+p56
+aVabout our planet.
+p57
+aVSo I created this,
+p58
+aVthe Carnegie Airborne Observatory, or CAO.
+p59
+aVIt may look like a plane with a fancy paint job,
+p60
+aVbut I packed it with over 1,000 kilos
+p61
+aVof high-tech sensors, computers,
+p62
+aVand a very motivated staff
+p63
+aVof Earth scientists and pilots.
+p64
+aVTwo of our instruments are very unique:
+p65
+aVone is called an imaging spectrometer
+p66
+aVthat can actually measure the chemical composition
+p67
+aVof plants as we fly over them.
+p68
+aVAnother one is a set of lasers,
+p69
+aVvery high-powered lasers,
+p70
+aVthat fire out of the bottom of the plane,
+p71
+aVsweeping across the ecosystem
+p72
+aVand measuring it at nearly 500,000 times per second
+p73
+aVin high-resolution 3D.
+p74
+aVHere's an image of the Golden Gate Bridge
+p75
+aVin San Francisco, not far from where I live.
+p76
+aVAlthough we flew straight over this bridge,
+p77
+aVwe imaged it in 3D, captured its color
+p78
+aVin just a few seconds.
+p79
+aVBut the real power of the CAO
+p80
+aVis its ability to capture the actual building blocks
+p81
+aVof ecosystems.
+p82
+aVThis is a small town in the Amazon,
+p83
+aVimaged with the CAO.
+p84
+aVWe can slice through our data
+p85
+aVand see, for example, the 3D structure
+p86
+aVof the vegetation and the buildings,
+p87
+aVor we can use the chemical information
+p88
+aVto actually figure out how fast the plants are growing
+p89
+aVas we fly over them.
+p90
+aVThe hottest pinks are the fastest-growing plants.
+p91
+aVAnd we can see biodiversity in ways
+p92
+aVthat you never could have imagined.
+p93
+aVThis is what a rainforest might look like
+p94
+aVas you fly over it in a hot air balloon.
+p95
+aVThis is how we see a rainforest,
+p96
+aVin kaleidoscopic color that tells us
+p97
+aVthat there are many species living with one another.
+p98
+aVBut you have to remember that these trees
+p99
+aVare literally bigger than whales,
+p100
+aVand what that means is that they're impossible to understand
+p101
+aVjust by walking on the ground below them.
+p102
+aVSo our imagery is 3D, it's chemical, it's biological,
+p103
+aVand this tells us not only the species
+p104
+aVthat are living in the canopy,
+p105
+aVbut it tells us a lot of information
+p106
+aVabout the rest of the species that occupy the rainforest.
+p107
+aa(lp108
+VNow I created the CAO
+p109
+aVin order to answer questions that have proven
+p110
+aVextremely challenging to answer from any other vantage point,
+p111
+aVsuch as from the ground, or from satellite sensors.
+p112
+aVI want to share three of those questions with you today.
+p113
+aVThe first questions is,
+p114
+aVhow do we manage our carbon reserves
+p115
+aVin tropical forests?
+p116
+aVTropical forests contain a huge amount of carbon in the trees,
+p117
+aVand we need to keep that carbon in those forests
+p118
+aVif we're going to avoid any further global warming.
+p119
+aVUnfortunately, global carbon emissions
+p120
+aVfrom deforestation
+p121
+aVnow equals the global transportation sector.
+p122
+aVThat's all ships, airplanes, trains  and automobiles combined.
+p123
+aVSo it's understandable that policy negotiators
+p124
+aVhave been working hard to reduce deforestation,
+p125
+aVbut they're doing it on landscapes
+p126
+aVthat are hardly known to science.
+p127
+aVIf you don't know where the carbon is exactly,
+p128
+aVin detail, how can you know what you're losing?
+p129
+aVBasically, we need a high-tech accounting system.
+p130
+aVWith our system, we're able to see the carbon stocks
+p131
+aVof tropical forests in utter detail.
+p132
+aVThe red shows, obviously, closed-canopy tropical forest,
+p133
+aVand then you see the cookie cutting,
+p134
+aVor the cutting of the forest in yellows and greens.
+p135
+aVIt's like cutting a cake except this cake
+p136
+aVis about whale deep.
+p137
+aVAnd yet, we can zoom in and see the forest
+p138
+aVand the trees at the same time.
+p139
+aVAnd what's amazing is, even though we flew
+p140
+aVvery high above this forest,
+p141
+aVlater on in analysis, we can go in
+p142
+aVand actually experience the treetrops,
+p143
+aVleaf by leaf, branch by branch,
+p144
+aVjust as the other species that live in this forest
+p145
+aVexperience it along with the trees themselves.
+p146
+aa(lp147
+VWe've been using the technology to explore
+p148
+aVand to actually put out the first carbon geographies
+p149
+aVin high resolution
+p150
+aVin faraway places like the Amazon Basin
+p151
+aVand not-so-faraway places like the United States
+p152
+aVand Central America.
+p153
+aVWhat I'm going to do is I'm going to take you on a high-resolution, first-time tour
+p154
+aVof the carbon landscapes of Peru and then Panama.
+p155
+aVThe colors are going to be going from red to blue.
+p156
+aVRed is extremely high carbon stocks,
+p157
+aVyour largest cathedral forests you can imagine,
+p158
+aVand blue are very low carbon stocks.
+p159
+aVAnd let me tell you, Peru alone is an amazing place,
+p160
+aVtotally unknown in terms of its carbon geography
+p161
+aVuntil today.
+p162
+aVWe can fly to this area in northern Peru
+p163
+aVand see super high carbon stocks in red,
+p164
+aVand the Amazon River and floodplain
+p165
+aVcutting right through it.
+p166
+aVWe can go to an area of utter devastation
+p167
+aVcaused by deforestation in blue,
+p168
+aVand the virus of deforestation spreading out in orange.
+p169
+aVWe can also fly to the southern Andes
+p170
+aVto see the tree line and see exactly how
+p171
+aVthe carbon geography ends
+p172
+aVas we go up into the mountain system.
+p173
+aVAnd we can go to the biggest swamp in the western Amazon.
+p174
+aVIt's a watery dreamworld
+p175
+aVakin to Jim Cameron's "Avatar."
+p176
+aVWe can go to one of the smallest tropical countries,
+p177
+aVPanama, and see also a huge range
+p178
+aVof carbon variation,
+p179
+aVfrom high in red to low in blue.
+p180
+aVUnfortunately, most of the carbon is lost in the lowlands,
+p181
+aVbut what you see that's left,
+p182
+aVin terms of high carbon stocks in greens and reds,
+p183
+aVis the stuff that's up in the mountains.
+p184
+aVOne interesting exception to this
+p185
+aVis right in the middle of your screen.
+p186
+aVYou're seeing the buffer zone around the Panama Canal.
+p187
+aVThat's in the reds and yellows.
+p188
+aVThe canal authorities are using force
+p189
+aVto protect their watershed and global commerce.
+p190
+aVThis kind of carbon mapping
+p191
+aVhas transformed conservation
+p192
+aVand resource policy development.
+p193
+aVIt's really advancing our ability to save forests
+p194
+aVand to curb climate change.
+p195
+aa(lp196
+VMy second question: How do we prepare for climate change
+p197
+aVin a place like the Amazon rainforest?
+p198
+aVLet me tell you, I spend a lot of time
+p199
+aVin these places, and we're seeing the climate changing already.
+p200
+aVTemperatures are increasing,
+p201
+aVand what's really happening is we're getting a lot of droughts,
+p202
+aVrecurring droughts.
+p203
+aVThe 2010 mega-drought is shown here
+p204
+aVwith red showing an area about the size of Western Europe.
+p205
+aVThe Amazon was so dry in 2010
+p206
+aVthat even the main stem of the Amazon river itself
+p207
+aVdried up partially, as you see in the photo
+p208
+aVin the lower portion of the slide.
+p209
+aVWhat we found is that in very remote areas,
+p210
+aVthese droughts are having a big negative impact
+p211
+aVon tropical forests.
+p212
+aVFor example, these are all of the dead trees in red
+p213
+aVthat suffered mortality following the 2010 drought.
+p214
+aVThis area happens to be on the border
+p215
+aVof Peru and Brazil,
+p216
+aVtotally unexplored,
+p217
+aValmost totally unknown scientifically.
+p218
+aa(lp219
+VSo what we think, as Earth scientists,
+p220
+aVis species are going to have to migrate
+p221
+aVwith climate change from the east in Brazil
+p222
+aVall the way west into the Andes
+p223
+aVand up into the mountains
+p224
+aVin order to minimize their exposure to climate change.
+p225
+aVOne of the problems with this is that humans
+p226
+aVare taking apart the western Amazon as we speak.
+p227
+aVLook at this 100-square-kilometer gash
+p228
+aVin the forest created by gold miners.
+p229
+aVYou see the forest in green in 3D,
+p230
+aVand you see the effects of gold mining
+p231
+aVdown below the soil surface.
+p232
+aVSpecies have nowhere to migrate in a system like this, obviously.
+p233
+aa(lp234
+VIf you haven't been to the Amazon, you should go.
+p235
+aVIt's an amazing experience every time,
+p236
+aVno matter where you go.
+p237
+aVYou're going to probably see it this way, on a river.
+p238
+aVBut what happens is a lot of times
+p239
+aVthe rivers hide what's really going on
+p240
+aVback in the forest itself.
+p241
+aVWe flew over this same river,
+p242
+aVimaged the system in 3D.
+p243
+aVThe forest is on the left.
+p244
+aVAnd then we can digitally remove the forest
+p245
+aVand see what's going on below the canopy.
+p246
+aVAnd in this case, we found gold mining activity,
+p247
+aVall of it illegal,
+p248
+aVset back away from the river's edge,
+p249
+aVas you'll see in those strange pockmarks
+p250
+aVcoming up on your screen on the right.
+p251
+aVDon't worry, we're working with the authorities
+p252
+aVto deal with this and many, many other problems
+p253
+aVin the region.
+p254
+aa(lp255
+VSo in order to put together a conservation plan
+p256
+aVfor these unique, important corridors
+p257
+aVlike the western Amazon and the Andes Amazon corridor,
+p258
+aVwe have to start making
+p259
+aVgeographically explicit plans now.
+p260
+aVHow do we do that if we don't know the geography of biodiversity in the region,
+p261
+aVif it's so unknown to science?
+p262
+aVSo what we've been doing is using
+p263
+aVthe laser-guided spectroscopy from the CAO
+p264
+aVto map for the first time the biodiversity
+p265
+aVof the Amazon rainforest.
+p266
+aVHere you see actual data showing different species in different colors.
+p267
+aVReds are one type of species, blues are another,
+p268
+aVand greens are yet another.
+p269
+aVAnd when we take this together and scale up
+p270
+aVto the regional level,
+p271
+aVwe get a completely new geography
+p272
+aVof biodiversity unknown prior to this work.
+p273
+aVThis tells us where the big biodiversity changes
+p274
+aVoccur from habitat to habitat,
+p275
+aVand that's really important because it tells us
+p276
+aVa lot about where species may migrate to
+p277
+aVand migrate from as the climate shifts.
+p278
+aVAnd this is the pivotal information that's needed
+p279
+aVby decision makers to develop protected areas
+p280
+aVin the context of their regional development plans.
+p281
+aa(lp282
+VAnd third and final question is,
+p283
+aVhow do we manage biodiversity on a planet
+p284
+aVof protected ecosystems?
+p285
+aVThe example I started out with about lions hunting,
+p286
+aVthat was a study we did
+p287
+aVbehind the fence line of a protected area
+p288
+aVin South Africa.
+p289
+aVAnd the truth is, much of Africa's nature
+p290
+aVis going to persist into the future
+p291
+aVin protected areas like I show in blue on the screen.
+p292
+aVThis puts incredible pressure and responsibility
+p293
+aVon park management.
+p294
+aVThey need to do and make decisions
+p295
+aVthat will benefit all of the species that they're protecting.
+p296
+aVSome of their decisions have really big impacts.
+p297
+aVFor example, how much and where
+p298
+aVto use fire as a management tool?
+p299
+aVOr, how to deal with a large species like elephants,
+p300
+aVwhich may, if their populations get too large,
+p301
+aVhave a negative impact on the ecosystem
+p302
+aVand on other species.
+p303
+aVAnd let me tell you, these types of dynamics
+p304
+aVreally play out on the landscape.
+p305
+aVIn the foreground is an area with lots of fire
+p306
+aVand lots of elephants:
+p307
+aVwide open savanna in blue, and just a few trees.
+p308
+aVAs we cross this fence line, now we're getting
+p309
+aVinto an area that has had protection from fire
+p310
+aVand zero elephants:
+p311
+aVdense vegetation, a radically different ecosystem.
+p312
+aVAnd in a place like Kruger,
+p313
+aVthe soaring elephant densities
+p314
+aVare a real problem.
+p315
+aVI know it's a sensitive issue for many of you,
+p316
+aVand there are no easy answers with this.
+p317
+aVBut what's good is that the technology we've developed
+p318
+aVand we're working with in South Africa, for example,
+p319
+aVis allowing us to map every single tree in the savanna,
+p320
+aVand then through repeat flights
+p321
+aVwe're able to see which trees
+p322
+aVare being pushed over by elephants,
+p323
+aVin the red as you see on the screen, and how much that's happening
+p324
+aVin different types of landscapes in the savanna.
+p325
+aVThat's giving park managers
+p326
+aVa very first opportunity to use
+p327
+aVtactical management strategies that are more nuanced
+p328
+aVand don't lead to those extremes that I just showed you.
+p329
+aVSo really, the way we're looking
+p330
+aVat protected areas nowadays
+p331
+aVis to think of it as tending to a circle of life,
+p332
+aVwhere we have fire management,
+p333
+aVelephant management, those impacts on the structure of the ecosystem,
+p334
+aVand then those impacts
+p335
+aVaffecting everything from insects
+p336
+aVup to apex predators like lions.
+p337
+aa(lp338
+VGoing forward, I plan to greatly expand
+p339
+aVthe airborne observatory.
+p340
+aVI'm hoping to actually put the technology into orbit
+p341
+aVso we can manage the entire planet
+p342
+aVwith technologies like this.
+p343
+aVUntil then, you're going to find me flying
+p344
+aVin some remote place that you've never heard of.
+p345
+aVI just want to end by saying that technology is
+p346
+aVabsolutely critical to managing our planet,
+p347
+aVbut even more important is the understanding
+p348
+aVand wisdom to apply it.
+p349
+aa(lp350
+VThank you.
+p351
+aa(lp352
+V(Applause)
+p353
+aasS'id'
+p354
+I1874
+sS'title'
+p355
+VEcology from the air
+p356
+s.

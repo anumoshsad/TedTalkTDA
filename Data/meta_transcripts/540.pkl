@@ -1,0 +1,432 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+V(Applause)
+p4
+aVAIDS was discovered 1981; the virus, 1983.
+p5
+aVThese Gapminder bubbles show you
+p6
+aVhow the spread of the virus was in 1983 in the world,
+p7
+aVor how we estimate that it was.
+p8
+aVWhat we are showing here is \u2014
+p9
+aVon this axis here, I'm showing percent of infected adults.
+p10
+aVAnd on this axis, I'm showing dollars per person in income.
+p11
+aVAnd the size of these bubbles, the size of the bubbles here,
+p12
+aVthat shows how many are infected in each country,
+p13
+aVand the color is the continent.
+p14
+aa(lp15
+VNow, you can see United States, in 1983,
+p16
+aVhad a very low percentage infected,
+p17
+aVbut due to the big population, still a sizable bubble.
+p18
+aVThere were quite many people infected in the United States.
+p19
+aVAnd, up there, you see Uganda.
+p20
+aVThey had almost five percent infected,
+p21
+aVand quite a big bubble in spite of being a small country, then.
+p22
+aVAnd they were probably the most infected country in the world.
+p23
+aVNow, what has happened?
+p24
+aVNow you have understood the graph
+p25
+aVand now, in the next 60 seconds,
+p26
+aVwe will play the HIV epidemic in the world.
+p27
+aa(lp28
+VBut first, I have a new invention here.
+p29
+aV(Laughter)
+p30
+aVI have solidified the beam of the laser pointer.
+p31
+aa(lp32
+V(Laughter)
+p33
+aa(lp34
+V(Applause)
+p35
+aa(lp36
+VSo, ready, steady, go!
+p37
+aVFirst, we have the fast rise in Uganda and Zimbabwe.
+p38
+aVThey went upwards like this.
+p39
+aVIn Asia, the first country to be heavily infected was Thailand \u2014
+p40
+aVthey reached one to two percent.
+p41
+aVThen, Uganda started to turn back,
+p42
+aVwhereas Zimbabwe skyrocketed,
+p43
+aVand some years later South Africa had a terrible rise of HIV frequency.
+p44
+aVLook, India got many infected,
+p45
+aVbut had a low level.
+p46
+aVAnd almost the same happens here.
+p47
+aVSee, Uganda coming down, Zimbabwe coming down,
+p48
+aVRussia went to one percent.
+p49
+aa(lp50
+VIn the last two to three years,
+p51
+aVwe have reached a steady state of HIV epidemic in the world.
+p52
+aV25 years it took.
+p53
+aVBut, steady state doesn't mean that things are getting better,
+p54
+aVit's just that they have stopped getting worse.
+p55
+aVAnd it has \u2014 the steady state is, more or less,
+p56
+aVone percent of the adult world population is HIV-infected.
+p57
+aVIt means 30 to 40 million people,
+p58
+aVthe whole of California \u2014 every person,
+p59
+aVthat's more or less what we have today in the world.
+p60
+aa(lp61
+VNow, let me make a fast replay of Botswana.
+p62
+aVBotswana \u2014 upper middle-income country in southern Africa,
+p63
+aVdemocratic government, good economy,
+p64
+aVand this is what happened there.
+p65
+aVThey started low, they skyrocketed,
+p66
+aVthey peaked up there in 2003,
+p67
+aVand now they are down.
+p68
+aVBut they are falling only slowly,
+p69
+aVbecause in Botswana, with good economy and governance,
+p70
+aVthey can manage to treat people.
+p71
+aVAnd if people who are infected are treated, they don't die of AIDS.
+p72
+aVThese percentages won't come down
+p73
+aVbecause people can survive 10 to 20 years.
+p74
+aVSo there's some problem with these metrics now.
+p75
+aVBut the poorer countries in Africa, the low-income countries down here,
+p76
+aVthere the rates fall faster, of the percentage infected,
+p77
+aVbecause people still die.
+p78
+aVIn spite of PEPFAR, the generous PEPFAR,
+p79
+aVall people are not reached by treatment,
+p80
+aVand of those who are reached by treatment in the poor countries,
+p81
+aVonly 60 percent are left on treatment after two years.
+p82
+aVIt's not realistic with lifelong treatment
+p83
+aVfor everyone in the poorest countries.
+p84
+aVBut it's very good that what is done is being done.
+p85
+aa(lp86
+VBut focus now is back on prevention.
+p87
+aVIt is only by stopping the transmission
+p88
+aVthat the world will be able to deal with it.
+p89
+aVDrugs is too costly \u2014 had we had the vaccine,
+p90
+aVor when we will get the vaccine, that's something more effective \u2014
+p91
+aVbut the drugs are very costly for the poor.
+p92
+aVNot the drug in itself, but the treatment
+p93
+aVand the care which is needed around it.
+p94
+aVSo, when we look at the pattern,
+p95
+aVone thing comes out very clearly:
+p96
+aVyou see the blue bubbles
+p97
+aVand people say HIV is very high in Africa.
+p98
+aVI would say, HIV is very different in Africa.
+p99
+aVYou'll find the highest HIV rate in the world
+p100
+aVin African countries,
+p101
+aVand yet you'll find Senegal, down here \u2014
+p102
+aVthe same rate as United States.
+p103
+aVAnd you'll find Madagascar,
+p104
+aVand you'll find a lot of African countries
+p105
+aVabout as low as the rest of the world.
+p106
+aVIt's this terrible simplification that there's one Africa
+p107
+aVand things go on in one way in Africa.
+p108
+aVWe have to stop that.
+p109
+aVIt's not respectful, and it's not very clever
+p110
+aVto think that way.
+p111
+aa(lp112
+V(Applause)
+p113
+aa(lp114
+VI had the fortune to live and work for a time in the United States.
+p115
+aVI found out that Salt Lake City and San Francisco were different.
+p116
+aV(Laughter)
+p117
+aVAnd so it is in Africa \u2014 it's a lot of difference.
+p118
+aVSo, why is it so high? Is it war?
+p119
+aVNo, it's not. Look here.
+p120
+aVWar-torn Congo is down there \u2014 two, three, four percent.
+p121
+aVAnd this is peaceful Zambia, neighboring country \u2014 15 percent.
+p122
+aVAnd there's good studies of the refugees coming out of Congo \u2014
+p123
+aVthey have two, three percent infected,
+p124
+aVand peaceful Zambia \u2014 much higher.
+p125
+aVThere are now studies clearly showing
+p126
+aVthat the wars are terrible, that rapes are terrible,
+p127
+aVbut this is not the driving force for the high levels in Africa.
+p128
+aa(lp129
+VSo, is it poverty?
+p130
+aVWell if you look at the macro level,
+p131
+aVit seems more money, more HIV.
+p132
+aVBut that's very simplistic,
+p133
+aVso let's go down and look at Tanzania.
+p134
+aVI will split Tanzania in five income groups,
+p135
+aVfrom the highest income to the lowest income,
+p136
+aVand here we go.
+p137
+aVThe ones with the highest income, the better off \u2014 I wouldn't say rich \u2014
+p138
+aVthey have higher HIV.
+p139
+aVThe difference goes from 11 percent down to four percent,
+p140
+aVand it is even bigger among women.
+p141
+aVThere's a lot of things that we thought, that now, good research,
+p142
+aVdone by African institutions and researchers
+p143
+aVtogether with the international researchers, show that that's not the case.
+p144
+aVSo, this is the difference within Tanzania.
+p145
+aa(lp146
+VAnd, I can't avoid showing Kenya.
+p147
+aVLook here at Kenya.
+p148
+aVI've split Kenya in its provinces.
+p149
+aVHere it goes.
+p150
+aVSee the difference within one African country \u2014
+p151
+aVit goes from very low level to very high level,
+p152
+aVand most of the provinces in Kenya is quite modest.
+p153
+aa(lp154
+VSo, what is it then?
+p155
+aVWhy do we see this extremely high levels in some countries?
+p156
+aVWell, it is more common with multiple partners,
+p157
+aVthere is less condom use,
+p158
+aVand there is age-disparate sex \u2014
+p159
+aVthat is, older men tend to have sex with younger women.
+p160
+aVWe see higher rates in younger women than younger men
+p161
+aVin many of these highly affected countries.
+p162
+aa(lp163
+VBut where are they situated?
+p164
+aVI will swap the bubbles to a map.
+p165
+aVLook, the highly infected are four percent of all population
+p166
+aVand they hold 50 percent of the HIV-infected.
+p167
+aVHIV exists all over the world.
+p168
+aVLook, you have bubbles all over the world here.
+p169
+aVBrazil has many HIV-infected.
+p170
+aVArab countries not so much, but Iran is quite high.
+p171
+aVThey have heroin addiction and also prostitution in Iran.
+p172
+aVIndia has many because they are many.
+p173
+aVSoutheast Asia, and so on.
+p174
+aVBut, there is one part of Africa \u2014
+p175
+aVand the difficult thing is, at the same time,
+p176
+aVnot to make a uniform statement about Africa,
+p177
+aVnot to come to simple ideas of why it is like this, on one hand.
+p178
+aa(lp179
+VOn the other hand, try to say that this is not the case,
+p180
+aVbecause there is a scientific consensus about this pattern now.
+p181
+aVUNAIDS have done good data available, finally,
+p182
+aVabout the spread of HIV.
+p183
+aVIt could be concurrency.
+p184
+aVIt could be some virus types.
+p185
+aVIt could be that there is other things
+p186
+aVwhich makes transmission occur in a higher frequency.
+p187
+aVAfter all, if you are completely healthy and you have heterosexual sex,
+p188
+aVthe risk of infection in one intercourse is one in 1,000.
+p189
+aVDon't jump to conclusions now on how to
+p190
+aVbehave tonight and so on.
+p191
+aV(Laughter)
+p192
+aVBut \u2014 and if you are in an unfavorable situation,
+p193
+aVmore sexually transmitted diseases, it can be one in 100.
+p194
+aa(lp195
+VBut what we think is that it could be concurrency.
+p196
+aVAnd what is concurrency?
+p197
+aVIn Sweden, we have no concurrency.
+p198
+aVWe have serial monogamy.
+p199
+aVVodka, New Year's Eve \u2014 new partner for the spring.
+p200
+aVVodka, Midsummer's Eve \u2014 new partner for the fall.
+p201
+aVVodka \u2014 and it goes on like this, you know?
+p202
+aVAnd you collect a big number of exes.
+p203
+aVAnd we have a terrible chlamydia epidemic \u2014
+p204
+aVterrible chlamydia epidemic which sticks around for many years.
+p205
+aVHIV has a peak three to six weeks after infection
+p206
+aVand therefore, having more than one partner in the same month
+p207
+aVis much more dangerous for HIV than others.
+p208
+aVProbably, it's a combination of this.
+p209
+aa(lp210
+VAnd what makes me so happy is that we are moving now
+p211
+aVtowards fact when we look at this.
+p212
+aVYou can get this chart, free.
+p213
+aVWe have uploaded UNAIDS data on the Gapminder site.
+p214
+aVAnd we hope that when we act on global problems in the future
+p215
+aVwe will not only have the heart,
+p216
+aVwe will not only have the money,
+p217
+aVbut we will also use the brain.
+p218
+aa(lp219
+VThank you very much.
+p220
+aa(lp221
+V(Applause)
+p222
+aasS'id'
+p223
+I540
+sS'title'
+p224
+VInsights on HIV, in stunning data visuals
+p225
+s.

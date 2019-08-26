@@ -1,0 +1,432 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VMy name is Dan Cohen and I am an academic, as he said.
+p4
+aVAnd what that means is that I argue.
+p5
+aVIt's an important part of my life.
+p6
+aVAnd I like to argue.
+p7
+aVAnd I'm not just an academic, I'm a philosopher,
+p8
+aVso I like to think that I'm actually pretty good at arguing.
+p9
+aa(lp10
+VBut I also like to think a lot about arguing.
+p11
+aVAnd in thinking about arguing, I've come across some puzzles.
+p12
+aVAnd one of the puzzles is that,
+p13
+aVas I've been thinking about arguing over the years \u2014
+p14
+aVand it's been decades now \u2014
+p15
+aVI've gotten better at arguing.
+p16
+aVBut the more that I argue and the better I get at arguing,
+p17
+aVthe more that I lose.
+p18
+aVAnd that's a puzzle.
+p19
+aa(lp20
+VAnd the other puzzle is that I'm actually okay with that.
+p21
+aVWhy is it that I'm okay with losing
+p22
+aVand why is it that I think good arguers are actually better at losing?
+p23
+aVWell, there are some other puzzles.
+p24
+aVOne is: why do we argue?
+p25
+aVWho benefits from arguments?
+p26
+aVWhen I think about arguments, I'm talking about \u2014
+p27
+aVlet's call them academic arguments or cognitive arguments \u2014
+p28
+aVwhere something cognitive is at stake:
+p29
+aVIs this proposition true? Is this theory a good theory?
+p30
+aVIs this a viable interpretation of the data or the text? And so on.
+p31
+aVI'm not interested really in arguments about whose turn it is to do the dishes
+p32
+aVor who has to take out the garbage.
+p33
+aVYeah, we have those arguments, too.
+p34
+aVI tend to win those arguments, because I know the tricks.
+p35
+aVBut those aren't the important arguments.
+p36
+aVI'm interested in academic arguments,
+p37
+aVand here are the things that puzzle me.
+p38
+aa(lp39
+VFirst, what do good arguers win when they win an argument?
+p40
+aVWhat do I win if I convince you
+p41
+aVthat utilitarianism isn't really the right framework
+p42
+aVfor thinking about ethical theories?
+p43
+aVWhat do we win when we win an argument?
+p44
+aVEven before that,
+p45
+aVwhat does it matter to me
+p46
+aVwhether you have this idea that Kant's theory works
+p47
+aVor Mill is the right ethicist to follow?
+p48
+aVIt's no skin off my back
+p49
+aVwhether you think functionalism is a viable theory of mind.
+p50
+aVSo why do we even try to argue?
+p51
+aVWhy do we try to convince other people
+p52
+aVto believe things they don't want to believe,
+p53
+aVand is that even a nice thing to do?
+p54
+aVIs that a nice way to treat another human being,
+p55
+aVtry and make them think something they don't want to think?
+p56
+aVWell, my answer is going to make reference to three models for arguments.
+p57
+aa(lp58
+VThe first model \u2014 let's call it the dialectical model \u2014
+p59
+aVis we think of arguments as war; you know what that's like \u2014
+p60
+aVa lot of screaming and shouting and winning and losing.
+p61
+aVThat's not a very helpful model for arguing,
+p62
+aVbut it's a pretty common and entrenched model for arguing.
+p63
+aa(lp64
+VBut there's a second model for arguing: arguments as proofs.
+p65
+aVThink of a mathematician's argument.
+p66
+aVHere's my argument. Does it work? Is it any good?
+p67
+aVAre the premises warranted? Are the inferences valid?
+p68
+aVDoes the conclusion follow from the premises?
+p69
+aVNo opposition, no adversariality \u2014
+p70
+aVnot necessarily any arguing in the adversarial sense.
+p71
+aa(lp72
+VBut there's a third model to keep in mind
+p73
+aVthat I think is going to be very helpful,
+p74
+aVand that is arguments as performances, arguments in front of an audience.
+p75
+aVWe can think of a politician trying to present a position,
+p76
+aVtrying to convince the audience of something.
+p77
+aa(lp78
+VBut there's another twist on this model that I really think is important;
+p79
+aVnamely, that when we argue before an audience,
+p80
+aVsometimes the audience has a more participatory role in the argument;
+p81
+aVthat is, arguments are also [performances] in front of juries,
+p82
+aVwho make a judgment and decide the case.
+p83
+aVLet's call this the rhetorical model,
+p84
+aVwhere you have to tailor your argument to the audience at hand.
+p85
+aVYou know, presenting a sound, well-argued,
+p86
+aVtight argument in English before a francophone audience
+p87
+aVjust isn't going to work.
+p88
+aa(lp89
+VSo we have these models \u2014 argument as war, argument as proof
+p90
+aVand argument as performance.
+p91
+aVOf those three, the argument as war is the dominant one.
+p92
+aVIt dominates how we talk about arguments,
+p93
+aVit dominates how we think about arguments,
+p94
+aVand because of that, it shapes how we argue,
+p95
+aVour actual conduct in arguments.
+p96
+aVNow, when we talk about arguments,
+p97
+aVwe talk in a very militaristic language.
+p98
+aVWe want strong arguments, arguments that have a lot of punch,
+p99
+aVarguments that are right on target.
+p100
+aVWe want to have our defenses up and our strategies all in order.
+p101
+aVWe want killer arguments.
+p102
+aVThat's the kind of argument we want.
+p103
+aVIt is the dominant way of thinking about arguments.
+p104
+aVWhen I'm talking about arguments,
+p105
+aVthat's probably what you thought of, the adversarial model.
+p106
+aa(lp107
+VBut the war metaphor,
+p108
+aVthe war paradigm or model for thinking about arguments,
+p109
+aVhas, I think, deforming effects on how we argue.
+p110
+aVFirst, it elevates tactics over substance.
+p111
+aVYou can take a class in logic, argumentation.
+p112
+aVYou learn all about the subterfuges
+p113
+aVthat people use to try and win arguments \u2014 the false steps.
+p114
+aVIt magnifies the us-versus them aspect of it.
+p115
+aVIt makes it adversarial; it's polarizing.
+p116
+aVAnd the only foreseeable outcomes are triumph \u2014 glorious triumph \u2014
+p117
+aVor abject, ignominious defeat.
+p118
+aVI think those are deforming effects,
+p119
+aVand worst of all, it seems to prevent things like negotiation
+p120
+aVor deliberation or compromise or collaboration.
+p121
+aa(lp122
+VThink about that one \u2014 have you ever entered an argument thinking,
+p123
+aV"Let's see if we can hash something out, rather than fight it out.
+p124
+aVWhat can we work out together?"
+p125
+aVI think the argument-as-war metaphor
+p126
+aVinhibits those other kinds of resolutions to argumentation.
+p127
+aa(lp128
+VAnd finally \u2014 this is really the worst thing \u2014
+p129
+aVarguments don't seem to get us anywhere; they're dead ends.
+p130
+aVThey are like roundabouts or traffic jams or gridlock in conversation.
+p131
+aVWe don't get anywhere.
+p132
+aVAnd one more thing.
+p133
+aVAnd as an educator, this is the one that really bothers me:
+p134
+aVIf argument is war,
+p135
+aVthen there's an implicit equation of learning with losing.
+p136
+aa(lp137
+VAnd let me explain what I mean.
+p138
+aVSuppose you and I have an argument.
+p139
+aVYou believe a proposition, P, and I don't.
+p140
+aVAnd I say, "Well, why do you believe P?"
+p141
+aVAnd you give me your reasons.
+p142
+aVAnd I object and say, "Well, what about ...?"
+p143
+aVAnd you answer my objection.
+p144
+aVAnd I have a question: "Well, what do you mean?
+p145
+aVHow does it apply over here?"
+p146
+aVAnd you answer my question.
+p147
+aVNow, suppose at the end of the day,
+p148
+aVI've objected, I've questioned,
+p149
+aVI've raised all sorts of counter counter-considerations
+p150
+aVand in every case you've responded to my satisfaction.
+p151
+aVAnd so at the end of the day, I say,
+p152
+aV"You know what? I guess you're right: P."
+p153
+aVSo, I have a new belief.
+p154
+aVAnd it's not just any belief;
+p155
+aVit's well-articulated, examined \u2014 it's a battle-tested belief.
+p156
+aa(lp157
+VGreat cognitive gain.
+p158
+aVOK, who won that argument?
+p159
+aVWell, the war metaphor seems to force us into saying you won,
+p160
+aVeven though I'm the only one who made any cognitive gain.
+p161
+aVWhat did you gain, cognitively, from convincing me?
+p162
+aVSure, you got some pleasure out of it, maybe your ego stroked,
+p163
+aVmaybe you get some professional status
+p164
+aVin the field \u2014 "This guy's a good arguer."
+p165
+aVBut just from a cognitive point of view,
+p166
+aVwho was the winner?
+p167
+aVThe war metaphor forces us into thinking that you're the winner and I lost,
+p168
+aVeven though I gained.
+p169
+aVAnd there's something wrong with that picture.
+p170
+aVAnd that's the picture I really want to change if we can.
+p171
+aa(lp172
+VSo, how can we find ways
+p173
+aVto make arguments yield something positive?
+p174
+aVWhat we need is new exit strategies for arguments.
+p175
+aVBut we're not going to have new exit strategies for arguments
+p176
+aVuntil we have new entry approaches to arguments.
+p177
+aVWe need to think of new kinds of arguments.
+p178
+aVIn order to do that, well \u2014
+p179
+aVI don't know how to do that.
+p180
+aVThat's the bad news.
+p181
+aVThe argument-as-war metaphor is just ... it's a monster.
+p182
+aVIt's just taken up habitation in our mind,
+p183
+aVand there's no magic bullet that's going to kill it.
+p184
+aVThere's no magic wand that's going to make it disappear.
+p185
+aVI don't have an answer.
+p186
+aa(lp187
+VBut I have some suggestions.
+p188
+aVHere's my suggestion:
+p189
+aVIf we want to think of new kinds of arguments,
+p190
+aVwhat we need to do is think of new kinds of arguers.
+p191
+aa(lp192
+VSo try this:
+p193
+aVThink of all the roles that people play in arguments.
+p194
+aVThere's the proponent and the opponent
+p195
+aVin an adversarial, dialectical argument.
+p196
+aVThere's the audience in rhetorical arguments.
+p197
+aVThere's the reasoner in arguments as proofs.
+p198
+aVAll these different roles.
+p199
+aVNow, can you imagine an argument in which you are the arguer,
+p200
+aVbut you're also in the audience, watching yourself argue?
+p201
+aVCan you imagine yourself watching yourself argue,
+p202
+aVlosing the argument, and yet still, at the end of the argument, saying,
+p203
+aV"Wow, that was a good argument!"
+p204
+aVCan you do that?
+p205
+aVI think you can, and I think if you can imagine that kind of argument,
+p206
+aVwhere the loser says to the winner and the audience and the jury can say,
+p207
+aV"Yeah, that was a good argument,"
+p208
+aVthen you have imagined a good argument.
+p209
+aVAnd more than that,
+p210
+aVI think you've imagined a good arguer,
+p211
+aVan arguer that's worthy of the kind of arguer you should try to be.
+p212
+aa(lp213
+VNow, I lose a lot of arguments.
+p214
+aVIt takes practice to become a good arguer,
+p215
+aVin the sense of being able to benefit from losing, but fortunately,
+p216
+aVI've had many, many colleagues who have been willing to step up
+p217
+aVand provide that practice for me.
+p218
+aa(lp219
+VThank you.
+p220
+aa(lp221
+V(Applause)
+p222
+aasS'id'
+p223
+I1805
+sS'title'
+p224
+VFor argument's sake
+p225
+s.

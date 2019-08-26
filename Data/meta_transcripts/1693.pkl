@@ -1,0 +1,549 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo, this book that I have in my hand
+p4
+aVis a directory of everybody who had an email address
+p5
+aVin 1982. (Laughter)
+p6
+aVActually, it's deceptively large.
+p7
+aVThere's actually only about 20 people on each page,
+p8
+aVbecause we have the name, address
+p9
+aVand telephone number of every single person.
+p10
+aVAnd, in fact, everybody's listed twice,
+p11
+aVbecause it's sorted once by name and once by email address.
+p12
+aVObviously a very small community.
+p13
+aVThere were only two other Dannys on the Internet then.
+p14
+aVI knew them both.
+p15
+aVWe didn't all know each other,
+p16
+aVbut we all kind of trusted each other,
+p17
+aVand that basic feeling of trust
+p18
+aVpermeated the whole network,
+p19
+aVand there was a real sense that
+p20
+aVwe could depend on each other to do things.
+p21
+aa(lp22
+VSo just to give you an idea of the level of trust in this community,
+p23
+aVlet me tell you what it was like
+p24
+aVto register a domain name in the early days.
+p25
+aVNow, it just so happened that I got to register
+p26
+aVthe third domain name on the Internet.
+p27
+aVSo I could have anything I wanted
+p28
+aVother than bbn.com and symbolics.com.
+p29
+aVSo I picked think.com, but then I thought,
+p30
+aVyou know, there's a lot of really interesting names out there.
+p31
+aVMaybe I should register a few extras just in case.
+p32
+aVAnd then I thought, "Nah, that wouldn't be very nice."
+p33
+aa(lp34
+V(Laughter)
+p35
+aa(lp36
+VThat attitude of only taking what you need
+p37
+aVwas really what everybody had on the network in those days,
+p38
+aVand in fact, it wasn't just the people on the network,
+p39
+aVbut it was actually kind of built into the protocols
+p40
+aVof the Internet itself.
+p41
+aVSo the basic idea of I.P., or Internet protocol,
+p42
+aVand the way that the \u2014 the routing algorithm that used it,
+p43
+aVwere fundamentally "from each according to their ability,
+p44
+aVto each according to their need."
+p45
+aVAnd so, if you had some extra bandwidth,
+p46
+aVyou'd deliver a message for someone.
+p47
+aVIf they had some extra bandwidth, they would deliver a message for you.
+p48
+aVYou'd kind of depend on people to do that,
+p49
+aVand that was the building block.
+p50
+aVIt was actually interesting that such a communist principle
+p51
+aVwas the basis of a system developed during the Cold War
+p52
+aVby the Defense Department,
+p53
+aVbut it obviously worked really well,
+p54
+aVand we all saw what happened with the Internet.
+p55
+aVIt was incredibly successful.
+p56
+aa(lp57
+VIn fact, it was so successful that there's no way
+p58
+aVthat these days you could make a book like this.
+p59
+aVMy rough calculation is it would be about 25 miles thick.
+p60
+aVBut, of course, you couldn't do it,
+p61
+aVbecause we don't know the names of all the people
+p62
+aVwith Internet or email addresses,
+p63
+aVand even if we did know their names,
+p64
+aVI'm pretty sure that they would not want their name,
+p65
+aVaddress and telephone number published to everyone.
+p66
+aa(lp67
+VSo the fact is that there's a lot of bad guys on the Internet these days,
+p68
+aVand so we dealt with that by making
+p69
+aVwalled communities,
+p70
+aVsecure subnetworks, VPNs,
+p71
+aVlittle things that aren't really the Internet
+p72
+aVbut are made out of the same building blocks,
+p73
+aVbut we're still basically building it out of those
+p74
+aVsame building blocks with those same assumptions of trust.
+p75
+aVAnd that means that it's vulnerable
+p76
+aVto certain kinds of mistakes that can happen,
+p77
+aVor certain kinds of deliberate attacks,
+p78
+aVbut even the mistakes can be bad.
+p79
+aa(lp80
+VSo, for instance,
+p81
+aVin all of Asia recently,
+p82
+aVit was impossible to get YouTube for a little while
+p83
+aVbecause Pakistan made some mistakes
+p84
+aVin how it was censoring YouTube in its internal network.
+p85
+aVThey didn't intend to screw up Asia, but they did
+p86
+aVbecause of the way that the protocols work.
+p87
+aVAnother example that may have affected many of you in this audience is,
+p88
+aVyou may remember a couple of years ago,
+p89
+aVall the planes west of the Mississippi were grounded
+p90
+aVbecause a single routing card in Salt Lake City
+p91
+aVhad a bug in it.
+p92
+aVNow, you don't really think
+p93
+aVthat our airplane system depends on the Internet,
+p94
+aVand in some sense it doesn't.
+p95
+aVI'll come back to that later.
+p96
+aVBut the fact is that people couldn't take off
+p97
+aVbecause something was going wrong on the Internet,
+p98
+aVand the router card was down.
+p99
+aa(lp100
+VAnd so, there are many of those things that start to happen.
+p101
+aVNow, there was an interesting thing that happened last April.
+p102
+aVAll of a sudden,
+p103
+aVa very large percentage of the traffic on the whole Internet,
+p104
+aVincluding a lot of the traffic between U.S. military installations,
+p105
+aVstarted getting re-routed through China.
+p106
+aVSo for a few hours, it all passed through China.
+p107
+aVNow, China Telecom says it was just an honest mistake,
+p108
+aVand it is actually possible that it was, the way things work,
+p109
+aVbut certainly somebody could make
+p110
+aVa dishonest mistake of that sort if they wanted to,
+p111
+aVand it shows you how vulnerable the system is even to mistakes.
+p112
+aVImagine how vulnerable the system is to deliberate attacks.
+p113
+aa(lp114
+VSo if somebody really wanted to attack the United States
+p115
+aVor Western civilization these days,
+p116
+aVthey're not going to do it with tanks.
+p117
+aVThat will not succeed.
+p118
+aVWhat they'll probably do is something
+p119
+aVvery much like the attack that happened
+p120
+aVon the Iranian nuclear facility.
+p121
+aVNobody has claimed credit for that.
+p122
+aVThere was basically a factory of industrial machines.
+p123
+aVIt didn't think of itself as being on the Internet.
+p124
+aVIt thought of itself as being disconnected from the Internet,
+p125
+aVbut it was possible for somebody to smuggle
+p126
+aVa USB drive in there, or something like that,
+p127
+aVand software got in there that causes the centrifuges,
+p128
+aVin that case, to actually destroy themselves.
+p129
+aVNow that same kind of software could destroy an oil refinery
+p130
+aVor a pharmaceutical factory or a semiconductor plant.
+p131
+aVAnd so there's a lot of \u2014 I'm sure you've read a lot in papers,
+p132
+aVabout worries about cyberattacks
+p133
+aVand defenses against those.
+p134
+aa(lp135
+VBut the fact is, people are mostly focused on
+p136
+aVdefending the computers on the Internet,
+p137
+aVand there's been surprisingly little attention
+p138
+aVto defending the Internet itself as a communications medium.
+p139
+aVAnd I think we probably do need to pay
+p140
+aVsome more attention to that, because it's actually kind of fragile.
+p141
+aVSo actually, in the early days,
+p142
+aVback when it was the ARPANET,
+p143
+aVthere were actually times \u2014 there was a particular time it failed completely
+p144
+aVbecause one single message processor
+p145
+aVactually got a bug in it.
+p146
+aVAnd the way the Internet works is
+p147
+aVthe routers are basically exchanging information
+p148
+aVabout how they can get messages to places,
+p149
+aVand this one processor, because of a broken card,
+p150
+aVdecided it could actually get a message
+p151
+aVto some place in negative time.
+p152
+aVSo, in other words, it claimed it could deliver a message before you sent it.
+p153
+aVSo of course, the fastest way to get a message anywhere
+p154
+aVwas to send it to this guy,
+p155
+aVwho would send it back in time and get it there super early,
+p156
+aVso every message in the Internet
+p157
+aVstarted getting switched through this one node,
+p158
+aVand of course that clogged everything up.
+p159
+aVEverything started breaking.
+p160
+aVThe interesting thing was, though,
+p161
+aVthat the sysadmins were able to fix it,
+p162
+aVbut they had to basically turn every single thing on the Internet off.
+p163
+aVNow, of course you couldn't do that today.
+p164
+aVI mean, everything off, it's like
+p165
+aVthe service call you get from the cable company,
+p166
+aVexcept for the whole world.
+p167
+aa(lp168
+VNow, in fact, they couldn't do it for a lot of reasons today.
+p169
+aVOne of the reasons is a lot of their telephones
+p170
+aVuse IP protocol and use things like Skype and so on
+p171
+aVthat go through the Internet right now,
+p172
+aVand so in fact we're becoming dependent on it
+p173
+aVfor more and more different things,
+p174
+aVlike when you take off from LAX,
+p175
+aVyou're really not thinking you're using the Internet.
+p176
+aVWhen you pump gas, you really don't think you're using the Internet.
+p177
+aVWhat's happening increasingly, though, is these systems
+p178
+aVare beginning to use the Internet.
+p179
+aVMost of them aren't based on the Internet yet,
+p180
+aVbut they're starting to use the Internet for service functions,
+p181
+aVfor administrative functions,
+p182
+aVand so if you take something like the cell phone system,
+p183
+aVwhich is still relatively independent of the Internet for the most part,
+p184
+aVInternet pieces are beginning to sneak into it
+p185
+aVin terms of some of the control and administrative functions,
+p186
+aVand it's so tempting to use these same building blocks
+p187
+aVbecause they work so well, they're cheap,
+p188
+aVthey're repeated, and so on.
+p189
+aVSo all of our systems, more and more,
+p190
+aVare starting to use the same technology
+p191
+aVand starting to depend on this technology.
+p192
+aVAnd so even a modern rocket ship these days
+p193
+aVactually uses Internet protocol to talk
+p194
+aVfrom one end of the rocket ship to the other.
+p195
+aVThat's crazy. It was never designed to do things like that.
+p196
+aa(lp197
+VSo we've built this system
+p198
+aVwhere we understand all the parts of it,
+p199
+aVbut we're using it in a very, very different way than we expected to use it,
+p200
+aVand it's gotten a very, very different scale
+p201
+aVthan it was designed for.
+p202
+aVAnd in fact, nobody really exactly understands
+p203
+aVall the things it's being used for right now.
+p204
+aVIt's turning into one of these big emergent systems
+p205
+aVlike the financial system, where we've designed all the parts
+p206
+aVbut nobody really exactly understands
+p207
+aVhow it operates and all the little details of it
+p208
+aVand what kinds of emergent behaviors it can have.
+p209
+aVAnd so if you hear an expert talking about the Internet
+p210
+aVand saying it can do this, or it does do this, or it will do that,
+p211
+aVyou should treat it with the same skepticism
+p212
+aVthat you might treat the comments of an economist about the economy
+p213
+aVor a weatherman about the weather, or something like that.
+p214
+aVThey have an informed opinion,
+p215
+aVbut it's changing so quickly that even the experts
+p216
+aVdon't know exactly what's going on.
+p217
+aVSo if you see one of these maps of the Internet,
+p218
+aVit's just somebody's guess.
+p219
+aVNobody really knows what the Internet is right now
+p220
+aVbecause it's different than it was an hour ago.
+p221
+aVIt's constantly changing. It's constantly reconfiguring.
+p222
+aa(lp223
+VAnd the problem with it is,
+p224
+aVI think we are setting ourselves up for a kind of disaster
+p225
+aVlike the disaster we had in the financial system,
+p226
+aVwhere we take a system that's basically built on trust,
+p227
+aVwas basically built for a smaller-scale system,
+p228
+aVand we've kind of expanded it way beyond the limits
+p229
+aVof how it was meant to operate.
+p230
+aVAnd so right now, I think it's literally true
+p231
+aVthat we don't know what the consequences
+p232
+aVof an effective denial-of-service attack
+p233
+aVon the Internet would be,
+p234
+aVand whatever it would be is going to be worse next year,
+p235
+aVand worse next year, and so on.
+p236
+aa(lp237
+VBut so what we need is a plan B.
+p238
+aVThere is no plan B right now.
+p239
+aVThere's no clear backup system that we've very carefully kept
+p240
+aVto be independent of the Internet,
+p241
+aVmade out of completely different sets of building blocks.
+p242
+aVSo what we need is something that doesn't necessarily
+p243
+aVhave to have the performance of the Internet,
+p244
+aVbut the police department has to be able
+p245
+aVto call up the fire department even without the Internet,
+p246
+aVor the hospitals have to order fuel oil.
+p247
+aVThis doesn't need to be a multi-billion-dollar government project.
+p248
+aVIt's actually relatively simple to do, technically,
+p249
+aVbecause it can use existing fibers that are in the ground,
+p250
+aVexisting wireless infrastructure.
+p251
+aVIt's basically a matter of deciding to do it.
+p252
+aa(lp253
+VBut people won't decide to do it
+p254
+aVuntil they recognize the need for it,
+p255
+aVand that's the problem that we have right now.
+p256
+aVSo there's been plenty of people,
+p257
+aVplenty of us have been quietly arguing
+p258
+aVthat we should have this independent system for years,
+p259
+aVbut it's very hard to get people focused on plan B
+p260
+aVwhen plan A seems to be working so well.
+p261
+aa(lp262
+VSo I think that, if people understand
+p263
+aVhow much we're starting to depend on the Internet,
+p264
+aVand how vulnerable it is,
+p265
+aVwe could get focused on
+p266
+aVjust wanting this other system to exist,
+p267
+aVand I think if enough people say, "Yeah, I would like to use it,
+p268
+aVI'd like to have such a system," then it will get built.
+p269
+aVIt's not that hard a problem.
+p270
+aVIt could definitely be done by people in this room.
+p271
+aa(lp272
+VAnd so I think that this is actually,
+p273
+aVof all the problems you're going to hear about at the conference,
+p274
+aVthis is probably one of the very easiest to fix.
+p275
+aVSo I'm happy to get a chance to tell you about it.
+p276
+aa(lp277
+VThank you very much.
+p278
+aa(lp279
+V(Applause)
+p280
+aasS'id'
+p281
+I1693
+sS'title'
+p282
+VThe Internet could crash. We need a Plan B
+p283
+s.

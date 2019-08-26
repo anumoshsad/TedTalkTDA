@@ -1,0 +1,713 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThere is something about physics
+p4
+aVthat has been really bothering me since I was a little kid.
+p5
+aVAnd it's related to a question
+p6
+aVthat scientists have been asking for almost 100 years,
+p7
+aVwith no answer.
+p8
+aVHow do the smallest things in nature,
+p9
+aVthe particles of the quantum world,
+p10
+aVmatch up with the largest things in nature \u2014
+p11
+aVplanets and stars and galaxies held together by gravity?
+p12
+aa(lp13
+VAs a kid, I would puzzle over questions just like this.
+p14
+aVI would fiddle around with microscopes and electromagnets,
+p15
+aVand I would read about the forces of the small
+p16
+aVand about quantum mechanics
+p17
+aVand I would marvel at how well that description matched up
+p18
+aVto our observation.
+p19
+aVThen I would look at the stars,
+p20
+aVand I would read about how well we understand gravity,
+p21
+aVand I would think surely, there must be some elegant way
+p22
+aVthat these two systems match up.
+p23
+aVBut there's not.
+p24
+aVAnd the books would say,
+p25
+aVyeah, we understand a lot about these two realms separately,
+p26
+aVbut when we try to link them mathematically,
+p27
+aVeverything breaks.
+p28
+aa(lp29
+VAnd for 100 years,
+p30
+aVnone of our ideas as to how to solve this basically physics disaster,
+p31
+aVhas ever been supported by evidence.
+p32
+aVAnd to little old me \u2014
+p33
+aVlittle, curious, skeptical James \u2014
+p34
+aVthis was a supremely unsatisfying answer.
+p35
+aa(lp36
+VSo, I'm still a skeptical little kid.
+p37
+aVFlash-forward now to December of 2015,
+p38
+aVwhen I found myself smack in the middle
+p39
+aVof the physics world being flipped on its head.
+p40
+aVIt all started when we at CERN saw something intriguing in our data:
+p41
+aVa hint of a new particle,
+p42
+aVan inkling of a possibly extraordinary answer to this question.
+p43
+aa(lp44
+VSo I'm still a skeptical little kid, I think,
+p45
+aVbut I'm also now a particle hunter.
+p46
+aVI am a physicist at CERN's Large Hadron Collider,
+p47
+aVthe largest science experiment ever mounted.
+p48
+aVIt's a 27-kilometer tunnel on the border of France and Switzerland
+p49
+aVburied 100 meters underground.
+p50
+aVAnd in this tunnel,
+p51
+aVwe use superconducting magnets colder than outer space
+p52
+aVto accelerate protons to almost the speed of light
+p53
+aVand slam them into each other millions of times per second,
+p54
+aVcollecting the debris of these collisions
+p55
+aVto search for new, undiscovered fundamental particles.
+p56
+aVIts design and construction took decades of work
+p57
+aVby thousands of physicists from around the globe,
+p58
+aVand in the summer of 2015,
+p59
+aVwe had been working tirelessly to switch on the LHC
+p60
+aVat the highest energy that humans have ever used in a collider experiment.
+p61
+aa(lp62
+VNow, higher energy is important
+p63
+aVbecause for particles, there is an equivalence
+p64
+aVbetween energy and particle mass,
+p65
+aVand mass is just a number put there by nature.
+p66
+aVTo discover new particles,
+p67
+aVwe need to reach these bigger numbers.
+p68
+aVAnd to do that, we have to build a bigger, higher energy collider,
+p69
+aVand the biggest, highest energy collider in the world
+p70
+aVis the Large Hadron Collider.
+p71
+aVAnd then, we collide protons quadrillions of times,
+p72
+aVand we collect this data very slowly, over months and months.
+p73
+aVAnd then new particles might show up in our data as bumps \u2014
+p74
+aVslight deviations from what you expect,
+p75
+aVlittle clusters of data points that make a smooth line not so smooth.
+p76
+aVFor example, this bump,
+p77
+aVafter months of data-taking in 2012,
+p78
+aVled to the discovery of the Higgs particle \u2014
+p79
+aVthe Higgs boson \u2014
+p80
+aVand to a Nobel Prize for the confirmation of its existence.
+p81
+aa(lp82
+VThis jump up in energy in 2015
+p83
+aVrepresented the best chance that we as a species had ever had
+p84
+aVof discovering new particles \u2014
+p85
+aVnew answers to these long-standing questions,
+p86
+aVbecause it was almost twice as much energy as we used
+p87
+aVwhen we discovered the Higgs boson.
+p88
+aVMany of my colleagues had been working their entire careers for this moment,
+p89
+aVand frankly, to little curious me,
+p90
+aVthis was the moment I'd been waiting for my entire life.
+p91
+aVSo 2015 was go time.
+p92
+aa(lp93
+VSo June 2015,
+p94
+aVthe LHC is switched back on.
+p95
+aVMy colleagues and I held our breath and bit our fingernails,
+p96
+aVand then finally we saw the first proton collisions
+p97
+aVat this highest energy ever.
+p98
+aVApplause, champagne, celebration.
+p99
+aVThis was a milestone for science,
+p100
+aVand we had no idea what we would find in this brand-new data.
+p101
+aVAnd then a few weeks later, we found a bump.
+p102
+aVIt wasn't a very big bump,
+p103
+aVbut it was big enough to make you raise your eyebrow.
+p104
+aVBut on a scale of one to 10 for eyebrow raises,
+p105
+aVif 10 indicates that you've discovered a new particle,
+p106
+aVthis eyebrow raise is about a four.
+p107
+aa(lp108
+V(Laughter)
+p109
+aa(lp110
+VI spent hours, days, weeks in secret meetings,
+p111
+aVarguing with my colleagues over this little bump,
+p112
+aVpoking and prodding it with our most ruthless experimental sticks
+p113
+aVto see if it would withstand scrutiny.
+p114
+aVBut even after months of working feverishly \u2014
+p115
+aVsleeping in our offices and not going home,
+p116
+aVcandy bars for dinner,
+p117
+aVcoffee by the bucketful \u2014
+p118
+aVphysicists are machines for turning coffee into diagrams \u2014
+p119
+aa(lp120
+V(Laughter)
+p121
+aa(lp122
+VThis little bump would not go away.
+p123
+aVSo after a few months,
+p124
+aVwe presented our little bump to the world with a very clear message:
+p125
+aVthis little bump is interesting but it's not definitive,
+p126
+aVso let's keep an eye on it as we take more data.
+p127
+aVSo we were trying to be extremely cool about it.
+p128
+aa(lp129
+VAnd the world ran with it anyway.
+p130
+aVThe news loved it.
+p131
+aVPeople said it reminded them of the little bump
+p132
+aVthat was shown on the way toward the Higgs boson discovery.
+p133
+aVBetter than that, my theorist colleagues \u2014
+p134
+aVI love my theorist colleagues \u2014
+p135
+aVmy theorist colleagues wrote 500 papers about this little bump.
+p136
+aa(lp137
+V(Laughter)
+p138
+aa(lp139
+VThe world of particle physics had been flipped on its head.
+p140
+aVBut what was it about this particular bump
+p141
+aVthat caused thousands of physicists to collectively lose their cool?
+p142
+aVThis little bump was unique.
+p143
+aVThis little bump indicated
+p144
+aVthat we were seeing an unexpectedly large number of collisions
+p145
+aVwhose debris consisted of only two photons,
+p146
+aVtwo particles of light.
+p147
+aVAnd that's rare.
+p148
+aa(lp149
+VParticle collisions are not like automobile collisions.
+p150
+aVThey have different rules.
+p151
+aVWhen two particles collide at almost the speed of light,
+p152
+aVthe quantum world takes over.
+p153
+aVAnd in the quantum world,
+p154
+aVthese two particles can briefly create a new particle
+p155
+aVthat lives for a tiny fraction of a second
+p156
+aVbefore splitting into other particles that hit our detector.
+p157
+aVImagine a car collision where the two cars vanish upon impact,
+p158
+aVa bicycle appears in their place \u2014
+p159
+aa(lp160
+V(Laughter)
+p161
+aa(lp162
+VAnd then that bicycle explodes into two skateboards,
+p163
+aVwhich hit our detector.
+p164
+aa(lp165
+V(Laughter)
+p166
+aa(lp167
+VHopefully, not literally.
+p168
+aVThey're very expensive.
+p169
+aa(lp170
+VEvents where only two photons hit out detector are very rare.
+p171
+aVAnd because of the special quantum properties of photons,
+p172
+aVthere's a very small number of possible new particles \u2014
+p173
+aVthese mythical bicycles \u2014
+p174
+aVthat can give birth to only two photons.
+p175
+aVBut one of these options is huge,
+p176
+aVand it has to do with that long-standing question
+p177
+aVthat bothered me as a tiny little kid,
+p178
+aVabout gravity.
+p179
+aa(lp180
+VGravity may seem super strong to you,
+p181
+aVbut it's actually crazily weak compared to the other forces of nature.
+p182
+aVI can briefly beat gravity when I jump,
+p183
+aVbut I can't pick a proton out of my hand.
+p184
+aVThe strength of gravity compared to the other forces of nature?
+p185
+aVIt's 10 to the minus 39.
+p186
+aVThat's a decimal with 39 zeros after it.
+p187
+aa(lp188
+VWorse than that,
+p189
+aVall of the other known forces of nature are perfectly described
+p190
+aVby this thing we call the Standard Model,
+p191
+aVwhich is our current best description of nature at its smallest scales,
+p192
+aVand quite frankly,
+p193
+aVone of the most successful achievements of humankind \u2014
+p194
+aVexcept for gravity, which is absent from the Standard Model.
+p195
+aVIt's crazy.
+p196
+aVIt's almost as though most of gravity has gone missing.
+p197
+aVWe feel a little bit of it,
+p198
+aVbut where's the rest of it?
+p199
+aVNo one knows.
+p200
+aa(lp201
+VBut one theoretical explanation proposes a wild solution.
+p202
+aVYou and I \u2014
+p203
+aVeven you in the back \u2014
+p204
+aVwe live in three dimensions of space.
+p205
+aVI hope that's a non-controversial statement.
+p206
+aa(lp207
+V(Laughter)
+p208
+aa(lp209
+VAll of the known particles also live in three dimensions of space.
+p210
+aVIn fact, a particle is just another name
+p211
+aVfor an excitation in a three-dimensional field;
+p212
+aVa localized wobbling in space.
+p213
+aVMore importantly, all the math that we use to describe all this stuff
+p214
+aVassumes that there are only three dimensions of space.
+p215
+aVBut math is math, and we can play around with our math however we want.
+p216
+aVAnd people have been playing around with extra dimensions of space
+p217
+aVfor a very long time,
+p218
+aVbut it's always been an abstract mathematical concept.
+p219
+aVI mean, just look around you \u2014 you at the back, look around \u2014
+p220
+aVthere's clearly only three dimensions of space.
+p221
+aa(lp222
+VBut what if that's not true?
+p223
+aVWhat if the missing gravity is leaking into an extra-spatial dimension
+p224
+aVthat's invisible to you and I?
+p225
+aVWhat if gravity is just as strong as the other forces
+p226
+aVif you were to view it in this extra-spatial dimension,
+p227
+aVand what you and I experience is a tiny slice of gravity
+p228
+aVmake it seem very weak?
+p229
+aVIf this were true,
+p230
+aVwe would have to expand our Standard Model of particles
+p231
+aVto include an extra particle, a hyperdimensional particle of gravity,
+p232
+aVa special graviton that lives in extra-spatial dimensions.
+p233
+aa(lp234
+VI see the looks on your faces.
+p235
+aVYou should be asking me the question,
+p236
+aV"How in the world are we going to test this crazy, science fiction idea,
+p237
+aVstuck as we are in three dimensions?"
+p238
+aVThe way we always do,
+p239
+aVby slamming together two protons \u2014
+p240
+aa(lp241
+V(Laughter)
+p242
+aa(lp243
+VHard enough that the collision reverberates
+p244
+aVinto any extra-spatial dimensions that might be there,
+p245
+aVmomentarily creating this hyperdimensional graviton
+p246
+aVthat then snaps back into the three dimensions of the LHC
+p247
+aVand spits off two photons,
+p248
+aVtwo particles of light.
+p249
+aVAnd this hypothetical, extra-dimensional graviton
+p250
+aVis one of the only possible, hypothetical new particles
+p251
+aVthat has the special quantum properties
+p252
+aVthat could give birth to our little, two-photon bump.
+p253
+aa(lp254
+VSo, the possibility of explaining the mysteries of gravity
+p255
+aVand of discovering extra dimensions of space \u2014
+p256
+aVperhaps now you get a sense
+p257
+aVas to why thousands of physics geeks collectively lost their cool
+p258
+aVover our little, two-photon bump.
+p259
+aVA discovery of this type would rewrite the textbooks.
+p260
+aVBut remember,
+p261
+aVthe message from us experimentalists
+p262
+aVthat actually were doing this work at the time,
+p263
+aVwas very clear:
+p264
+aVwe need more data.
+p265
+aVWith more data,
+p266
+aVthe little bump will either turn into a nice, crisp Nobel Prize \u2014
+p267
+aa(lp268
+V(Laughter)
+p269
+aa(lp270
+VOr the extra data will fill in the space around the bump
+p271
+aVand turn it into a nice, smooth line.
+p272
+aa(lp273
+VSo we took more data,
+p274
+aVand with five times the data, several months later,
+p275
+aVour little bump
+p276
+aVturned into a smooth line.
+p277
+aVThe news reported on a "huge disappointment," on "faded hopes,"
+p278
+aVand on particle physicists "being sad."
+p279
+aVGiven the tone of the coverage,
+p280
+aVyou'd think that we had decided to shut down the LHC and go home.
+p281
+aa(lp282
+V(Laughter)
+p283
+aa(lp284
+VBut that's not what we did.
+p285
+aVBut why not?
+p286
+aVI mean, if I didn't discover a particle \u2014 and I didn't \u2014
+p287
+aVif I didn't discover a particle, why am I here talking to you?
+p288
+aVWhy didn't I just hang my head in shame
+p289
+aVand go home?
+p290
+aa(lp291
+VParticle physicists are explorers.
+p292
+aVAnd very much of what we do is cartography.
+p293
+aVLet me put it this way: forget about the LHC for a second.
+p294
+aVImagine you are a space explorer arriving at a distant planet,
+p295
+aVsearching for aliens.
+p296
+aVWhat is your first task?
+p297
+aVTo immediately orbit the planet, land, take a quick look around
+p298
+aVfor any big, obvious signs of life,
+p299
+aVand report back to home base.
+p300
+aVThat's the stage we're at now.
+p301
+aVWe took a first look at the LHC
+p302
+aVfor any new, big, obvious-to-spot particles,
+p303
+aVand we can report that there are none.
+p304
+aVWe saw a weird-looking alien bump on a distant mountain,
+p305
+aVbut once we got closer, we saw it was a rock.
+p306
+aa(lp307
+VBut then what do we do? Do we just give up and fly away?
+p308
+aVAbsolutely not;
+p309
+aVwe would be terrible scientists if we did.
+p310
+aVNo, we spend the next couple of decades exploring,
+p311
+aVmapping out the territory,
+p312
+aVsifting through the sand with a fine instrument,
+p313
+aVpeeking under every stone,
+p314
+aVdrilling under the surface.
+p315
+aVNew particles can either show up immediately
+p316
+aVas big, obvious-to-spot bumps,
+p317
+aVor they can only reveal themselves after years of data taking.
+p318
+aa(lp319
+VHumanity has just begun its exploration at the LHC at this big high energy,
+p320
+aVand we have much searching to do.
+p321
+aVBut what if, even after 10 or 20 years, we still find no new particles?
+p322
+aVWe build a bigger machine.
+p323
+aa(lp324
+V(Laughter)
+p325
+aa(lp326
+VWe search at higher energies.
+p327
+aVWe search at higher energies.
+p328
+aVPlanning is already underway for a 100-kilometer tunnel
+p329
+aVthat will collide particles at 10 times the energy of the LHC.
+p330
+aVWe don't decide where nature places new particles.
+p331
+aVWe only decide to keep exploring.
+p332
+aVBut what if, even after a 100-kilometer tunnel
+p333
+aVor a 500-kilometer tunnel
+p334
+aVor a 10,000-kilometer collider floating in space
+p335
+aVbetween the Earth and the Moon,
+p336
+aVwe still find no new particles?
+p337
+aVThen perhaps we're doing particle physics wrong.
+p338
+aa(lp339
+V(Laughter)
+p340
+aa(lp341
+VPerhaps we need to rethink things.
+p342
+aVMaybe we need more resources, technology, expertise
+p343
+aVthan what we currently have.
+p344
+aVWe already use artificial intelligence and machine learning techniques
+p345
+aVin parts of the LHC,
+p346
+aVbut imagine designing a particle physics experiment
+p347
+aVusing such sophisticated algorithms
+p348
+aVthat it could teach itself to discover a hyperdimensional graviton.
+p349
+aa(lp350
+VBut what if?
+p351
+aVWhat if the ultimate question:
+p352
+aVWhat if even artificial intelligence can't help us answer our questions?
+p353
+aVWhat if these open questions, for centuries,
+p354
+aVare destined to be unanswered for the foreseeable future?
+p355
+aVWhat if the stuff that's bothered me since I was a little kid
+p356
+aVis destined to be unanswered in my lifetime?
+p357
+aVThen that ...
+p358
+aVwill be even more fascinating.
+p359
+aa(lp360
+VWe will be forced to think in completely new ways.
+p361
+aVWe'll have to go back to our assumptions,
+p362
+aVand determine if there was a flaw somewhere.
+p363
+aVAnd we'll need to encourage more people to join us in studying science
+p364
+aVsince we need fresh eyes on these century-old problems.
+p365
+aVI don't have the answers, and I'm still searching for them.
+p366
+aVBut someone \u2014 maybe she's in school right now,
+p367
+aVmaybe she's not even born yet \u2014
+p368
+aVcould eventually guide us to see physics in a completely new way,
+p369
+aVand to point out that perhaps we're just asking the wrong questions.
+p370
+aVWhich would not be the end of physics,
+p371
+aVbut a novel beginning.
+p372
+aa(lp373
+VThank you.
+p374
+aa(lp375
+V(Applause)
+p376
+aasS'id'
+p377
+I2654
+sS'title'
+p378
+VHow we explore unanswered questions in physics
+p379
+s.

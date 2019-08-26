@@ -1,0 +1,791 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'd like to reimagine education.
+p4
+aVThe last year
+p5
+aVhas seen the invention of a new four-letter word.
+p6
+aVIt starts with an M.
+p7
+aVMOOC: massive open online courses.
+p8
+aVMany organizations
+p9
+aVare offering these online courses
+p10
+aVto students all over the world, in the millions, for free.
+p11
+aVAnybody who has an Internet connection
+p12
+aVand the will to learn can access these great courses
+p13
+aVfrom excellent universities
+p14
+aVand get a credential at the end of it.
+p15
+aVNow, in this discussion today,
+p16
+aVI'm going to focus
+p17
+aVon a different aspect of MOOCs.
+p18
+aVWe are taking what we are learning
+p19
+aVand the technologies we are developing in the large
+p20
+aVand applying them in the small
+p21
+aVto create a blended model of education
+p22
+aVto really reinvent and reimagine
+p23
+aVwhat we do in the classroom.
+p24
+aa(lp25
+VNow, our classrooms could use change.
+p26
+aVSo, here's a classroom
+p27
+aVat this little three-letter institute
+p28
+aVin the Northeast of America, MIT.
+p29
+aVAnd this was a classroom about 50 or 60 years ago,
+p30
+aVand this is a classroom today.
+p31
+aVWhat's changed?
+p32
+aVThe seats are in color.
+p33
+aVWhoop-de-do.
+p34
+aVEducation really hasn't changed
+p35
+aVin the past 500 years.
+p36
+aVThe last big innovation in education
+p37
+aVwas the printing press and the textbooks.
+p38
+aVEverything else has changed around us.
+p39
+aVYou know, from healthcare to transportation,
+p40
+aVeverything is different, but education hasn't changed.
+p41
+aa(lp42
+VIt's also been a real issue in terms of access.
+p43
+aVSo what you see here
+p44
+aVis not a rock concert.
+p45
+aVAnd the person you see at the end of the stage
+p46
+aVis not Madonna.
+p47
+aVThis is a classroom
+p48
+aVat the Obafemi Awolowo University in Nigeria.
+p49
+aVNow, we've all heard of distance education,
+p50
+aVbut the students way in the back,
+p51
+aV200 feet away from the instructor,
+p52
+aVI think they are undergoing long-distance education.
+p53
+aVNow, I really believe
+p54
+aVthat we can transform education,
+p55
+aVboth in quality and scale and access,
+p56
+aVthrough technology.
+p57
+aVFor example, at edX,
+p58
+aVwe are trying to transform education
+p59
+aVthrough online technologies.
+p60
+aVGiven education has been calcified for 500 years,
+p61
+aVwe really cannot think about reengineering it,
+p62
+aVmicromanaging it.
+p63
+aVWe really have to completely reimagine it.
+p64
+aVIt's like going from ox carts to the airplane.
+p65
+aVEven the infrastructure has to change.
+p66
+aVEverything has to change.
+p67
+aVWe need to go from lectures on the blackboard
+p68
+aVto online exercises, online videos.
+p69
+aVWe have to go to interactive virtual laboratories
+p70
+aVand gamification.
+p71
+aVWe have to go to completely online grading
+p72
+aVand peer interaction and discussion boards.
+p73
+aVEverything really has to change.
+p74
+aa(lp75
+VSo at edX and a number of other organizations,
+p76
+aVwe are applying these technologies to education
+p77
+aVthrough MOOCs to really increase access to education.
+p78
+aVAnd you heard of this example,
+p79
+aVwhere, when we launched our very first course \u2014
+p80
+aVand this was an MIT-hard
+p81
+aVcircuits and electronics course \u2014
+p82
+aVabout a year and a half ago,
+p83
+aV155,000 students from 162 countries
+p84
+aVenrolled in this course.
+p85
+aVAnd we had no marketing budget.
+p86
+aVNow, 155,000 is a big number.
+p87
+aVThis number is bigger
+p88
+aVthan the total number of alumni of MIT
+p89
+aVin its 150-year history.
+p90
+aV7,200 students passed the course,
+p91
+aVand this was a hard course.
+p92
+aV7,200 is also a big number.
+p93
+aVIf I were to teach at MIT two semesters every year,
+p94
+aVI would have to teach for 40 years
+p95
+aVbefore I could teach this many students.
+p96
+aa(lp97
+VNow these large numbers
+p98
+aVare just one part of the story.
+p99
+aVSo today, I want to discuss a different aspect,
+p100
+aVthe other side of MOOCs,
+p101
+aVtake a different perspective.
+p102
+aVWe are taking what we develop and learn in the large
+p103
+aVand applying it in the small
+p104
+aVto the classroom, to create a blended model of learning.
+p105
+aa(lp106
+VBut before I go into that, let me tell you a story.
+p107
+aVWhen my daughter turned 13, became a teenager,
+p108
+aVshe stopped speaking English,
+p109
+aVand she began speaking this new language.
+p110
+aVI call it teen-lish.
+p111
+aVIt's a digital language.
+p112
+aVIt's got two sounds: a grunt and a silence.
+p113
+aa(lp114
+V"Honey, come over for dinner."
+p115
+aa(lp116
+V"Hmm."
+p117
+aa(lp118
+V"Did you hear me?"
+p119
+aa(lp120
+VSilence. (Laughter)
+p121
+aa(lp122
+V"Can you listen to me?"
+p123
+aa(lp124
+V"Hmm."
+p125
+aa(lp126
+VSo we had a real issue with communicating,
+p127
+aVand we were just not communicating,
+p128
+aVuntil one day I had this epiphany.
+p129
+aVI texted her. (Laughter)
+p130
+aVI got an instant response.
+p131
+aVI said, no, that must have been by accident.
+p132
+aVShe must have thought, you know,
+p133
+aVsome friend of hers was calling her.
+p134
+aVSo I texted her again. Boom, another response.
+p135
+aVI said, this is great.
+p136
+aVAnd so since then, our life has changed.
+p137
+aVI text her, she responds.
+p138
+aVIt's just been absolutely great.
+p139
+aV(Applause)
+p140
+aa(lp141
+VSo our millennial generation
+p142
+aVis built differently.
+p143
+aVNow, I'm older, and my youthful looks might belie that,
+p144
+aVbut I'm not in the millennial generation.
+p145
+aVBut our kids are really different.
+p146
+aVThe millennial generation is completely comfortable
+p147
+aVwith online technology.
+p148
+aVSo why are we fighting it in the classroom?
+p149
+aVLet's not fight it. Let's embrace it.
+p150
+aVIn fact, I believe \u2014 and I have two fat thumbs,
+p151
+aVI can't text very well \u2014
+p152
+aVbut I'm willing to bet that with evolution,
+p153
+aVour kids and their grandchildren
+p154
+aVwill develop really, really little, itty-bitty thumbs
+p155
+aVto text much better,
+p156
+aVthat evolution will fix all of that stuff.
+p157
+aVBut what if we embraced technology,
+p158
+aVembraced the millennial generation's
+p159
+aVnatural predilections,
+p160
+aVand really think about creating these online technologies,
+p161
+aVblend them into their lives.
+p162
+aVSo here's what we can do.
+p163
+aVSo rather than driving our kids into a classroom,
+p164
+aVherding them out there at 8 o'clock in the morning \u2014
+p165
+aVI hated going to class at 8 o'clock in the morning,
+p166
+aVso why are we forcing our kids to do that?
+p167
+aVSo instead what you do
+p168
+aVis you have them watch videos
+p169
+aVand do interactive exercises
+p170
+aVin the comfort of their dorm rooms, in their bedroom,
+p171
+aVin the dining room, in the bathroom,
+p172
+aVwherever they're most creative.
+p173
+aVThen they come into the classroom
+p174
+aVfor some in-person interaction.
+p175
+aVThey can have discussions amongst themselves.
+p176
+aVThey can solve problems together.
+p177
+aVThey can work with the professor
+p178
+aVand have the professor answer their questions.
+p179
+aVIn fact, with edX, when we were teaching our first course
+p180
+aVon circuits and electronics around the world,
+p181
+aVthis was happening unbeknownst to us.
+p182
+aVTwo high school teachers
+p183
+aVat the Sant High School in Mongolia
+p184
+aVhad flipped their classroom,
+p185
+aVand they were using our video lectures
+p186
+aVand interactive exercises,
+p187
+aVwhere the learners in the high school,
+p188
+aV15-year-olds, mind you,
+p189
+aVwould go and do these things in their own homes
+p190
+aVand they would come into class,
+p191
+aVand as you see from this image here,
+p192
+aVthey would interact with each other
+p193
+aVand do some physical laboratory work.
+p194
+aVAnd the only way we discovered this
+p195
+aVwas they wrote a blog
+p196
+aVand we happened to stumble upon that blog.
+p197
+aa(lp198
+VWe were also doing other pilots.
+p199
+aVSo we did a pilot experimental blended courses,
+p200
+aVworking with San Jose State University in California,
+p201
+aVagain, with the circuits and electronics course.
+p202
+aVYou'll hear that a lot. That course has become
+p203
+aVsort of like our petri dish of learning.
+p204
+aVSo there, the students would, again,
+p205
+aVthe instructors flipped the classroom,
+p206
+aVblended online and in person,
+p207
+aVand the results were staggering.
+p208
+aVNow don't take these results to the bank just yet.
+p209
+aVJust wait a little bit longer as we experiment with this some more,
+p210
+aVbut the early results are incredible.
+p211
+aVSo traditionally, semester upon semester,
+p212
+aVfor the past several years, this course,
+p213
+aVagain, a hard course,
+p214
+aVhad a failure rate of about 40 to 41 percent
+p215
+aVevery semester.
+p216
+aVWith this blended class late last year,
+p217
+aVthe failure rate fell to nine percent.
+p218
+aVSo the results can be extremely, extremely good.
+p219
+aa(lp220
+VNow before we go too far into this,
+p221
+aVI'd like to spend some time discussing
+p222
+aVsome key ideas.
+p223
+aVWhat are some key ideas
+p224
+aVthat makes all of this work?
+p225
+aa(lp226
+VOne idea is active learning.
+p227
+aVThe idea here is, rather than have students
+p228
+aVwalk into class and watch lectures,
+p229
+aVwe replace this with what we call lessons.
+p230
+aVLessons are interleaved sequences
+p231
+aVof videos and interactive exercises.
+p232
+aVSo a student might watch a five-, seven-minute video
+p233
+aVand follow that with an interactive exercise.
+p234
+aVThink of this as the ultimate Socratization of education.
+p235
+aVYou teach by asking questions.
+p236
+aVAnd this is a form of learning
+p237
+aVcalled active learning,
+p238
+aVand really promoted by a very early paper, in 1972,
+p239
+aVby Craik and Lockhart,
+p240
+aVwhere they said and discovered
+p241
+aVthat learning and retention really relates strongly
+p242
+aVto the depth of mental processing.
+p243
+aVStudents learn much better
+p244
+aVwhen they are interacting with the material.
+p245
+aa(lp246
+VThe second idea is self-pacing.
+p247
+aVNow, when I went to a lecture hall,
+p248
+aVand if you were like me,
+p249
+aVby the fifth minute I would lose the professor.
+p250
+aVI wasn't all that smart, and I would be scrambling, taking notes,
+p251
+aVand then I would lose the lecture for the rest of the hour.
+p252
+aVInstead, wouldn't it be nice with online technologies,
+p253
+aVwe offer videos and interactive engagements to students?
+p254
+aVThey can hit the pause button.
+p255
+aVThey can rewind the professor.
+p256
+aVHeck, they can even mute the professor.
+p257
+aVSo this form of self-pacing
+p258
+aVcan be very helpful to learning.
+p259
+aa(lp260
+VThe third idea that we have is instant feedback.
+p261
+aVWith instant feedback,
+p262
+aVthe computer grades exercises.
+p263
+aVI mean, how else do you teach 150,000 students?
+p264
+aVYour computer is grading all the exercises.
+p265
+aVAnd we've all submitted homeworks,
+p266
+aVand your grades come back two weeks later,
+p267
+aVyou've forgotten all about it.
+p268
+aVI don't think I've still received some of my homeworks
+p269
+aVfrom my undergraduate days.
+p270
+aVSome are never graded.
+p271
+aVSo with instant feedback,
+p272
+aVstudents can try to apply answers.
+p273
+aVIf they get it wrong, they can get instant feedback.
+p274
+aVThey can try it again and try it again,
+p275
+aVand this really becomes much more engaging.
+p276
+aVThey get the instant feedback,
+p277
+aVand this little green check mark that you see here
+p278
+aVis becoming somewhat of a cult symbol at edX.
+p279
+aVLearners are telling us that they go to bed at night
+p280
+aVdreaming of the green check mark.
+p281
+aVIn fact, one of our learners
+p282
+aVwho took the circuits course early last year,
+p283
+aVhe then went on to take a software course
+p284
+aVfrom Berkeley at the end of the year,
+p285
+aVand this is what the learner had to say
+p286
+aVon our discussion board
+p287
+aVwhen he just started that course
+p288
+aVabout the green check mark:
+p289
+aV"Oh god; have I missed you."
+p290
+aVWhen's the last time you've seen students
+p291
+aVposting comments like this about homework?
+p292
+aVMy colleague Ed Bertschinger,
+p293
+aVwho heads up the physics department at MIT,
+p294
+aVhas this to say about instant feedback:
+p295
+aVHe indicated that instant feedback
+p296
+aVturns teaching moments into learning outcomes.
+p297
+aa(lp298
+VThe next big idea is gamification.
+p299
+aVYou know, all learners engage really well
+p300
+aVwith interactive videos and so on.
+p301
+aVYou know, they would sit down and shoot
+p302
+aValien spaceships all day long until they get it.
+p303
+aVSo we applied these gamification techniques to learning,
+p304
+aVand we can build these online laboratories.
+p305
+aVHow do you teach creativity? How do you teach design?
+p306
+aVWe can do this through online labs
+p307
+aVand use computing power
+p308
+aVto build these online labs.
+p309
+aVSo as this little video shows here,
+p310
+aVyou can engage students
+p311
+aVmuch like they design with Legos.
+p312
+aVSo here, the learners are building a circuit
+p313
+aVwith Lego-like ease.
+p314
+aVAnd this can also be graded by the computer.
+p315
+aa(lp316
+VFifth is peer learning.
+p317
+aVSo here, we use discussion forums and discussions
+p318
+aVand Facebook-like interaction
+p319
+aVnot as a distraction,
+p320
+aVbut to really help students learn.
+p321
+aVLet me tell you a story.
+p322
+aVWhen we did our circuits course
+p323
+aVfor the 155,000 students,
+p324
+aVI didn't sleep for three nights
+p325
+aVleading up to the launch of the course.
+p326
+aVI told my TAs, okay, 24/7,
+p327
+aVwe're going to be up
+p328
+aVmonitoring the forum, answering questions.
+p329
+aVThey had answered questions for 100 students.
+p330
+aVHow do you do that for 150,000?
+p331
+aVSo one night I'm sitting up there, at 2 a.m. at night,
+p332
+aVand I think there's this question
+p333
+aVfrom a student from Pakistan,
+p334
+aVand he asked a question, and I said,
+p335
+aVokay, let me go and type up an answer,
+p336
+aVI don't type all that fast,
+p337
+aVand I begin typing up the answer,
+p338
+aVand before I can finish,
+p339
+aVanother student from Egypt popped in with an answer,
+p340
+aVnot quite right, so I'm fixing the answer,
+p341
+aVand before I can finish, a student from the U.S.
+p342
+aVhad popped in with a different answer.
+p343
+aVAnd then I sat back, fascinated.
+p344
+aVBoom, boom, boom, boom, the students were
+p345
+aVdiscussing and interacting with each other,
+p346
+aVand by 4 a.m. that night, I'm totally fascinated,
+p347
+aVhaving this epiphany,
+p348
+aVand by 4 a.m. in the morning,
+p349
+aVthey had discovered the right answer.
+p350
+aVAnd all I had to do was go and bless it,
+p351
+aV"Good answer."
+p352
+aVSo this is absolutely amazing,
+p353
+aVwhere students are learning from each other,
+p354
+aVand they're telling us that they are learning
+p355
+aVby teaching.
+p356
+aa(lp357
+VNow this is all not just in the future.
+p358
+aVThis is happening today.
+p359
+aVSo we are applying these blended learning pilots
+p360
+aVin a number of universities and  high schools around the world,
+p361
+aVfrom Tsinghua in China
+p362
+aVto the National University of Mongolia in Mongolia
+p363
+aVto Berkeley in California \u2014
+p364
+aVall over the world.
+p365
+aVAnd these kinds of technologies really help,
+p366
+aVthe blended model can really help
+p367
+aVrevolutionize education.
+p368
+aVIt can also solve a practical problem of MOOCs,
+p369
+aVthe business aspect.
+p370
+aVWe can also license these MOOC courses
+p371
+aVto other universities,
+p372
+aVand therein lies a revenue model for MOOCs,
+p373
+aVwhere the university that licenses it with the professor
+p374
+aVcan use these online courses
+p375
+aVlike the next-generation textbook.
+p376
+aVThey can use as much or as little as they like,
+p377
+aVand it becomes a tool in the teacher's arsenal.
+p378
+aa(lp379
+VFinally, I would like to have you
+p380
+aVdream with me for a little bit.
+p381
+aVI would like us to really reimagine education.
+p382
+aVWe will have to move from lecture halls to e-spaces.
+p383
+aVWe have to move from books to tablets
+p384
+aVlike the Aakash in India
+p385
+aVor the Raspberry Pi, 20 dollars.
+p386
+aVThe Aakash is 40 dollars.
+p387
+aVWe have to move from bricks-and-mortar school buildings
+p388
+aVto digital dormitories.
+p389
+aa(lp390
+VBut I think at the end of the day,
+p391
+aVI think we will still need one lecture hall
+p392
+aVin our universities.
+p393
+aVOtherwise, how else do we tell our grandchildren
+p394
+aVthat your grandparents sat in that room
+p395
+aVin neat little rows like cornstalks
+p396
+aVand watched this professor at the end
+p397
+aVtalk about content and, you know,
+p398
+aVyou didn't even have a rewind button?
+p399
+aa(lp400
+VThank you.
+p401
+aa(lp402
+V(Applause)
+p403
+aa(lp404
+VThank you. Thank you. (Applause)
+p405
+aasS'id'
+p406
+I1913
+sS'title'
+p407
+VWhy massive open online courses (still) matter
+p408
+s.

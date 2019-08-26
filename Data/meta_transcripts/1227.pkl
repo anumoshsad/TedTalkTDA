@@ -1,0 +1,722 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VErez Lieberman Aiden: Everyone knows
+p4
+aVthat a picture is worth a thousand words.
+p5
+aVBut we at Harvard
+p6
+aVwere wondering if this was really true.
+p7
+aV(Laughter)
+p8
+aVSo we assembled a team of experts,
+p9
+aVspanning Harvard, MIT,
+p10
+aVThe American Heritage Dictionary, The Encyclopedia Britannica
+p11
+aVand even our proud sponsors,
+p12
+aVthe Google.
+p13
+aVAnd we cogitated about this
+p14
+aVfor about four years.
+p15
+aVAnd we came to a startling conclusion.
+p16
+aVLadies and gentlemen, a picture is not worth a thousand words.
+p17
+aVIn fact, we found some pictures
+p18
+aVthat are worth 500 billion words.
+p19
+aa(lp20
+VJean-Baptiste Michel: So how did we get to this conclusion?
+p21
+aVSo Erez and I were thinking about ways
+p22
+aVto get a big picture of human culture
+p23
+aVand human history: change over time.
+p24
+aVSo many books actually have been written over the years.
+p25
+aVSo we were thinking, well the best way to learn from them
+p26
+aVis to read all of these millions of books.
+p27
+aVNow of course, if there's a scale for how awesome that is,
+p28
+aVthat has to rank extremely, extremely high.
+p29
+aVNow the problem is there's an X-axis for that,
+p30
+aVwhich is the practical axis.
+p31
+aVThis is very, very low.
+p32
+aa(lp33
+V(Applause)
+p34
+aa(lp35
+VNow people tend to use an alternative approach,
+p36
+aVwhich is to take a few sources and read them very carefully.
+p37
+aVThis is extremely practical, but not so awesome.
+p38
+aVWhat you really want to do
+p39
+aVis to get to the awesome yet practical part of this space.
+p40
+aVSo it turns out there was a company across the river called Google
+p41
+aVwho had started a digitization project a few years back
+p42
+aVthat might just enable this approach.
+p43
+aVThey have digitized millions of books.
+p44
+aVSo what that means is, one could use computational methods
+p45
+aVto read all of the books in a click of a button.
+p46
+aVThat's very practical and extremely awesome.
+p47
+aa(lp48
+VELA: Let me tell you a little bit about where books come from.
+p49
+aVSince time immemorial, there have been authors.
+p50
+aVThese authors have been striving to write books.
+p51
+aVAnd this became considerably easier
+p52
+aVwith the development of the printing press some centuries ago.
+p53
+aVSince then, the authors have won
+p54
+aVon 129 million distinct occasions,
+p55
+aVpublishing books.
+p56
+aVNow if those books are not lost to history,
+p57
+aVthen they are somewhere in a library,
+p58
+aVand many of those books have been getting retrieved from the libraries
+p59
+aVand digitized by Google,
+p60
+aVwhich has scanned 15 million books to date.
+p61
+aa(lp62
+VNow when Google digitizes a book, they put it into a really nice format.
+p63
+aVNow we've got the data, plus we have metadata.
+p64
+aVWe have information about things like where was it published,
+p65
+aVwho was the author, when was it published.
+p66
+aVAnd what we do is go through all of those records
+p67
+aVand exclude everything that's not the highest quality data.
+p68
+aVWhat we're left with
+p69
+aVis a collection of five million books,
+p70
+aV500 billion words,
+p71
+aVa string of characters a thousand times longer
+p72
+aVthan the human genome \u2014
+p73
+aVa text which, when written out,
+p74
+aVwould stretch from here to the Moon and back
+p75
+aV10 times over \u2014
+p76
+aVa veritable shard of our cultural genome.
+p77
+aVOf course what we did
+p78
+aVwhen faced with such outrageous hyperbole ...
+p79
+aV(Laughter)
+p80
+aVwas what any self-respecting researchers
+p81
+aVwould have done.
+p82
+aVWe took a page out of XKCD,
+p83
+aVand we said, "Stand back.
+p84
+aVWe're going to try science."
+p85
+aa(lp86
+V(Laughter)
+p87
+aa(lp88
+VJM: Now of course, we were thinking,
+p89
+aVwell let's just first put the data out there
+p90
+aVfor people to do science to it.
+p91
+aVNow we're thinking, what data can we release?
+p92
+aVWell of course, you want to take the books
+p93
+aVand release the full text of these five million books.
+p94
+aVNow Google, and Jon Orwant in particular,
+p95
+aVtold us a little equation that we should learn.
+p96
+aVSo you have five million, that is, five million authors
+p97
+aVand five million plaintiffs is a massive lawsuit.
+p98
+aVSo, although that would be really, really awesome,
+p99
+aVagain, that's extremely, extremely impractical.
+p100
+aV(Laughter)
+p101
+aa(lp102
+VNow again, we kind of caved in,
+p103
+aVand we did the very practical approach, which was a bit less awesome.
+p104
+aVWe said, well instead of releasing the full text,
+p105
+aVwe're going to release statistics about the books.
+p106
+aVSo take for instance "A gleam of happiness."
+p107
+aVIt's four words; we call that a four-gram.
+p108
+aVWe're going to tell you how many times a particular four-gram
+p109
+aVappeared in books in 1801, 1802, 1803,
+p110
+aVall the way up to 2008.
+p111
+aVThat gives us a time series
+p112
+aVof how frequently this particular sentence was used over time.
+p113
+aVWe do that for all the words and phrases that appear in those books,
+p114
+aVand that gives us a big table of two billion lines
+p115
+aVthat tell us about the way culture has been changing.
+p116
+aa(lp117
+VELA: So those two billion lines,
+p118
+aVwe call them two billion n-grams.
+p119
+aVWhat do they tell us?
+p120
+aVWell the individual n-grams measure cultural trends.
+p121
+aVLet me give you an example.
+p122
+aVLet's suppose that I am thriving,
+p123
+aVthen tomorrow I want to tell you about how well I did.
+p124
+aVAnd so I might say, "Yesterday, I throve."
+p125
+aVAlternatively, I could say, "Yesterday, I thrived."
+p126
+aVWell which one should I use?
+p127
+aVHow to know?
+p128
+aa(lp129
+VAs of about six months ago,
+p130
+aVthe state of the art in this field
+p131
+aVis that you would, for instance,
+p132
+aVgo up to the following psychologist with fabulous hair,
+p133
+aVand you'd say,
+p134
+aV"Steve, you're an expert on the irregular verbs.
+p135
+aVWhat should I do?"
+p136
+aVAnd he'd tell you, "Well most people say thrived,
+p137
+aVbut some people say throve."
+p138
+aVAnd you also knew, more or less,
+p139
+aVthat if you were to go back in time 200 years
+p140
+aVand ask the following statesman with equally fabulous hair,
+p141
+aV(Laughter)
+p142
+aV"Tom, what should I say?"
+p143
+aVHe'd say, "Well, in my day, most people throve,
+p144
+aVbut some thrived."
+p145
+aVSo now what I'm just going to show you is raw data.
+p146
+aVTwo rows from this table of two billion entries.
+p147
+aVWhat you're seeing is year by year frequency
+p148
+aVof "thrived" and "throve" over time.
+p149
+aVNow this is just two
+p150
+aVout of two billion rows.
+p151
+aVSo the entire data set
+p152
+aVis a billion times more awesome than this slide.
+p153
+aa(lp154
+V(Laughter)
+p155
+aa(lp156
+V(Applause)
+p157
+aa(lp158
+VJM: Now there are many other pictures that are worth 500 billion words.
+p159
+aVFor instance, this one.
+p160
+aVIf you just take influenza,
+p161
+aVyou will see peaks at the time where you knew
+p162
+aVbig flu epidemics were killing people around the globe.
+p163
+aa(lp164
+VELA: If you were not yet convinced,
+p165
+aVsea levels are rising,
+p166
+aVso is atmospheric CO2 and global temperature.
+p167
+aa(lp168
+VJM: You might also want to have a look at this particular n-gram,
+p169
+aVand that's to tell Nietzsche that God is not dead,
+p170
+aValthough you might agree that he might need a better publicist.
+p171
+aa(lp172
+V(Laughter)
+p173
+aa(lp174
+VELA: You can get at some pretty abstract concepts with this sort of thing.
+p175
+aVFor instance, let me tell you the history
+p176
+aVof the year 1950.
+p177
+aVPretty much for the vast majority of history,
+p178
+aVno one gave a damn about 1950.
+p179
+aVIn 1700, in 1800, in 1900,
+p180
+aVno one cared.
+p181
+aVThrough the 30s and 40s,
+p182
+aVno one cared.
+p183
+aVSuddenly, in the mid-40s,
+p184
+aVthere started to be a buzz.
+p185
+aVPeople realized that 1950 was going to happen,
+p186
+aVand it could be big.
+p187
+aV(Laughter)
+p188
+aVBut nothing got people interested in 1950
+p189
+aVlike the year 1950.
+p190
+aV(Laughter)
+p191
+aVPeople were walking around obsessed.
+p192
+aVThey couldn't stop talking
+p193
+aVabout all the things they did in 1950,
+p194
+aVall the things they were planning to do in 1950,
+p195
+aVall the dreams of what they wanted to accomplish in 1950.
+p196
+aVIn fact, 1950 was so fascinating
+p197
+aVthat for years thereafter,
+p198
+aVpeople just kept talking about all the amazing things that happened,
+p199
+aVin '51, '52, '53.
+p200
+aVFinally in 1954,
+p201
+aVsomeone woke up and realized
+p202
+aVthat 1950 had gotten somewhat passé.
+p203
+aV(Laughter)
+p204
+aVAnd just like that, the bubble burst.
+p205
+aa(lp206
+V(Laughter)
+p207
+aa(lp208
+VAnd the story of 1950
+p209
+aVis the story of every year that we have on record,
+p210
+aVwith a little twist, because now we've got these nice charts.
+p211
+aVAnd because we have these nice charts, we can measure things.
+p212
+aVWe can say, "Well how fast does the bubble burst?"
+p213
+aVAnd it turns out that we can measure that very precisely.
+p214
+aVEquations were derived, graphs were produced,
+p215
+aVand the net result
+p216
+aVis that we find that the bubble bursts faster and faster
+p217
+aVwith each passing year.
+p218
+aVWe are losing interest in the past more rapidly.
+p219
+aa(lp220
+VJM: Now a little piece of career advice.
+p221
+aVSo for those of you who seek to be famous,
+p222
+aVwe can learn from the 25 most famous political figures,
+p223
+aVauthors, actors and so on.
+p224
+aVSo if you want to become famous early on, you should be an actor,
+p225
+aVbecause then fame starts rising by the end of your 20s \u2014
+p226
+aVyou're still young, it's really great.
+p227
+aVNow if you can wait a little bit, you should be an author,
+p228
+aVbecause then you rise to very great heights,
+p229
+aVlike Mark Twain, for instance: extremely famous.
+p230
+aVBut if you want to reach the very top,
+p231
+aVyou should delay gratification
+p232
+aVand, of course, become a politician.
+p233
+aVSo here you will become famous by the end of your 50s,
+p234
+aVand become very, very famous afterward.
+p235
+aVSo scientists also tend to get famous when they're much older.
+p236
+aVLike for instance, biologists and physics
+p237
+aVtend to be almost as famous as actors.
+p238
+aVOne mistake you should not do is become a mathematician.
+p239
+aV(Laughter)
+p240
+aVIf you do that,
+p241
+aVyou might think, "Oh great. I'm going to do my best work when I'm in my 20s."
+p242
+aVBut guess what, nobody will really care.
+p243
+aa(lp244
+V(Laughter)
+p245
+aa(lp246
+VELA: There are more sobering notes
+p247
+aVamong the n-grams.
+p248
+aVFor instance, here's the trajectory of Marc Chagall,
+p249
+aVan artist born in 1887.
+p250
+aVAnd this looks like the normal trajectory of a famous person.
+p251
+aVHe gets more and more and more famous,
+p252
+aVexcept if you look in German.
+p253
+aVIf you look in German, you see something completely bizarre,
+p254
+aVsomething you pretty much never see,
+p255
+aVwhich is he becomes extremely famous
+p256
+aVand then all of a sudden plummets,
+p257
+aVgoing through a nadir between 1933 and 1945,
+p258
+aVbefore rebounding afterward.
+p259
+aVAnd of course, what we're seeing
+p260
+aVis the fact Marc Chagall was a Jewish artist
+p261
+aVin Nazi Germany.
+p262
+aa(lp263
+VNow these signals
+p264
+aVare actually so strong
+p265
+aVthat we don't need to know that someone was censored.
+p266
+aVWe can actually figure it out
+p267
+aVusing really basic signal processing.
+p268
+aVHere's a simple way to do it.
+p269
+aVWell, a reasonable expectation
+p270
+aVis that somebody's fame in a given period of time
+p271
+aVshould be roughly the average of their fame before
+p272
+aVand their fame after.
+p273
+aVSo that's sort of what we expect.
+p274
+aVAnd we compare that to the fame that we observe.
+p275
+aVAnd we just divide one by the other
+p276
+aVto produce something we call a suppression index.
+p277
+aVIf the suppression index is very, very, very small,
+p278
+aVthen you very well might be being suppressed.
+p279
+aVIf it's very large, maybe you're benefiting from propaganda.
+p280
+aa(lp281
+VJM: Now you can actually look at
+p282
+aVthe distribution of suppression indexes over whole populations.
+p283
+aVSo for instance, here \u2014
+p284
+aVthis suppression index is for 5,000 people
+p285
+aVpicked in English books where there's no known suppression \u2014
+p286
+aVit would be like this, basically tightly centered on one.
+p287
+aVWhat you expect is basically what you observe.
+p288
+aVThis is distribution as seen in Germany \u2014
+p289
+aVvery different, it's shifted to the left.
+p290
+aVPeople talked about it twice less as it should have been.
+p291
+aVBut much more importantly, the distribution is much wider.
+p292
+aVThere are many people who end up on the far left on this distribution
+p293
+aVwho are talked about 10 times fewer than they should have been.
+p294
+aVBut then also many people on the far right
+p295
+aVwho seem to benefit from propaganda.
+p296
+aVThis picture is the hallmark of censorship in the book record.
+p297
+aa(lp298
+VELA: So culturomics
+p299
+aVis what we call this method.
+p300
+aVIt's kind of like genomics.
+p301
+aVExcept genomics is a lens on biology
+p302
+aVthrough the window of the sequence of bases in the human genome.
+p303
+aVCulturomics is similar.
+p304
+aVIt's the application of massive-scale data collection analysis
+p305
+aVto the study of human culture.
+p306
+aVHere, instead of through the lens of a genome,
+p307
+aVthrough the lens of digitized pieces of the historical record.
+p308
+aVThe great thing about culturomics
+p309
+aVis that everyone can do it.
+p310
+aVWhy can everyone do it?
+p311
+aVEveryone can do it because three guys,
+p312
+aVJon Orwant, Matt Gray and Will Brockman over at Google,
+p313
+aVsaw the prototype of the Ngram Viewer,
+p314
+aVand they said, "This is so fun.
+p315
+aVWe have to make this available for people."
+p316
+aVSo in two weeks flat \u2014 the two weeks before our paper came out \u2014
+p317
+aVthey coded up a version of the Ngram Viewer for the general public.
+p318
+aVAnd so you too can type in any word or phrase that you're interested in
+p319
+aVand see its n-gram immediately \u2014
+p320
+aValso browse examples of all the various books
+p321
+aVin which your n-gram appears.
+p322
+aa(lp323
+VJM: Now this was used over a million times on the first day,
+p324
+aVand this is really the best of all the queries.
+p325
+aVSo people want to be their best, put their best foot forward.
+p326
+aVBut it turns out in the 18th century, people didn't really care about that at all.
+p327
+aVThey didn't want to be their best, they wanted to be their beft.
+p328
+aVSo what happened is, of course, this is just a mistake.
+p329
+aVIt's not that strove for mediocrity,
+p330
+aVit's just that the S used to be written differently, kind of like an F.
+p331
+aVNow of course, Google didn't pick this up at the time,
+p332
+aVso we reported this in the science article that we wrote.
+p333
+aVBut it turns out this is just a reminder
+p334
+aVthat, although this is a lot of fun,
+p335
+aVwhen you interpret these graphs, you have to be very careful,
+p336
+aVand you have to adopt the base standards in the sciences.
+p337
+aa(lp338
+VELA: People have been using this for all kinds of fun purposes.
+p339
+aV(Laughter)
+p340
+aVActually, we're not going to have to talk,
+p341
+aVwe're just going to show you all the slides and remain silent.
+p342
+aVThis person was interested in the history of frustration.
+p343
+aVThere's various types of frustration.
+p344
+aVIf you stub your toe, that's a one A "argh."
+p345
+aVIf the planet Earth is annihilated by the Vogons
+p346
+aVto make room for an interstellar bypass,
+p347
+aVthat's an eight A "aaaaaaaargh."
+p348
+aVThis person studies all the "arghs,"
+p349
+aVfrom one through eight A's.
+p350
+aVAnd it turns out
+p351
+aVthat the less-frequent "arghs"
+p352
+aVare, of course, the ones that correspond to things that are more frustrating \u2014
+p353
+aVexcept, oddly, in the early 80s.
+p354
+aVWe think that might have something to do with Reagan.
+p355
+aa(lp356
+V(Laughter)
+p357
+aa(lp358
+VJM: There are many usages of this data,
+p359
+aVbut the bottom line is that the historical record is being digitized.
+p360
+aVGoogle has started to digitize 15 million books.
+p361
+aVThat's 12 percent of all the books that have ever been published.
+p362
+aVIt's a sizable chunk of human culture.
+p363
+aVThere's much more in culture: there's manuscripts, there newspapers,
+p364
+aVthere's things that are not text, like art and paintings.
+p365
+aVThese all happen to be on our computers,
+p366
+aVon computers across the world.
+p367
+aVAnd when that happens, that will transform the way we have
+p368
+aVto understand our past, our present and human culture.
+p369
+aa(lp370
+VThank you very much.
+p371
+aa(lp372
+V(Applause)
+p373
+aasS'id'
+p374
+I1227
+sS'title'
+p375
+VWhat we learned from 5 million books
+p376
+s.

@@ -1,0 +1,894 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo I'm here to talk to you about the walkable city.
+p4
+aVWhat is the walkable city?
+p5
+aVWell, for want of a better definition,
+p6
+aVit's a city in which the car is an optional instrument of freedom,
+p7
+aVrather than a prosthetic device.
+p8
+aVAnd I'd like to talk about why we need the walkable city,
+p9
+aVand I'd like to talk about how to do the walkable city.
+p10
+aa(lp11
+VMost of the talks I give these days are about why we need it,
+p12
+aVbut you guys are smart.
+p13
+aVAnd also I gave that talk exactly a month ago,
+p14
+aVand you can see it at TED.com.
+p15
+aVSo today I want to talk about how to do it.
+p16
+aVIn a lot of time thinking about this,
+p17
+aVI've come up with what I call the general theory of walkability.
+p18
+aVA bit of a pretentious term, it's a little tongue-in-cheek,
+p19
+aVbut it's something I've thought about for a long time,
+p20
+aVand I'd like to share what I think I've figured out.
+p21
+aa(lp22
+VIn the American city, the typical American city \u2014
+p23
+aVthe typical American city is not Washington, DC,
+p24
+aVor New York, or San Francisco;
+p25
+aVit's Grand Rapids or Cedar Rapids or Memphis \u2014
+p26
+aVin the typical American city in which most people own cars
+p27
+aVand the temptation is to drive them all the time,
+p28
+aVif you're going to get them to walk, then you have to offer a walk
+p29
+aVthat's as good as a drive or better.
+p30
+aVWhat does that mean?
+p31
+aVIt means you need to offer four things simultaneously:
+p32
+aVthere needs to be a proper reason to walk,
+p33
+aVthe walk has to be safe and feel safe,
+p34
+aVthe walk has to be comfortable
+p35
+aVand the walk has to be interesting.
+p36
+aVYou need to do all four of these things simultaneously,
+p37
+aVand that's the structure of my talk today,
+p38
+aVto take you through each of those.
+p39
+aa(lp40
+VThe reason to walk is a story I learned from my mentors,
+p41
+aVAndrés Duany and Elizabeth Plater-Zyberk,
+p42
+aVthe founders of the New Urbanism movement.
+p43
+aVAnd I should say half the slides and half of my talk today
+p44
+aVI learned from them.
+p45
+aVIt's the story of planning,
+p46
+aVthe story of the formation of the planning profession.
+p47
+aVWhen in the 19th century people were choking
+p48
+aVfrom the soot of the dark, satanic mills,
+p49
+aVthe planners said, hey, let's move the housing away from the mills.
+p50
+aVAnd lifespans increased immediately, dramatically,
+p51
+aVand we like to say
+p52
+aVthe planners have been trying to repeat that experience ever since.
+p53
+aa(lp54
+VSo there's the onset of what we call Euclidean zoning,
+p55
+aVthe separation of the landscape into large areas of single use.
+p56
+aVAnd typically when I arrive in a city to do a plan,
+p57
+aVa plan like this already awaits me on the property that I'm looking at.
+p58
+aVAnd all a plan like this guarantees
+p59
+aVis that you will not have a walkable city,
+p60
+aVbecause nothing is located near anything else.
+p61
+aVThe alternative, of course, is our most walkable city,
+p62
+aVand I like to say, you know, this is a Rothko,
+p63
+aVand this is a Seurat.
+p64
+aVIt's just a different way \u2014 he was the pointilist \u2014
+p65
+aVit's a different way of making places.
+p66
+aVAnd even this map of Manhattan is a bit misleading
+p67
+aVbecause the red color is uses that are mixed vertically.
+p68
+aa(lp69
+VSo this is the big story of the New Urbanists \u2014
+p70
+aVto acknowledge that there are only two ways
+p71
+aVthat have been tested by the thousands
+p72
+aVto build communities, in the world and throughout history.
+p73
+aVOne is the traditional neighborhood.
+p74
+aVYou see here several neighborhoods of Newburyport, Massachusetts,
+p75
+aVwhich is defined as being compact and being diverse \u2014
+p76
+aVplaces to live, work, shop, recreate, get educated \u2014
+p77
+aVall within walking distance.
+p78
+aVAnd it's defined as being walkable.
+p79
+aVThere are lots of small streets.
+p80
+aVEach one is comfortable to walk on.
+p81
+aVAnd we contrast that to the other way,
+p82
+aVan invention that happened after the Second World War,
+p83
+aVsuburban sprawl,
+p84
+aVclearly not compact, clearly not diverse, and it's not walkable,
+p85
+aVbecause so few of the streets connect,
+p86
+aVthat those streets that do connect become overburdened,
+p87
+aVand you wouldn't let your kid out on them.
+p88
+aVAnd I want to thank Alex Maclean, the aerial photographer,
+p89
+aVfor many of these beautiful pictures that I'm showing you today.
+p90
+aa(lp91
+VSo it's fun to break sprawl down into its constituent parts.
+p92
+aVIt's so easy to understand,
+p93
+aVthe places where you only live, the places where you only work,
+p94
+aVthe places where you only shop,
+p95
+aVand our super-sized public institutions.
+p96
+aVSchools get bigger and bigger,
+p97
+aVand therefore, further and further from each other.
+p98
+aVAnd the ratio of the size of the parking lot
+p99
+aVto the size of the school
+p100
+aVtells you all you need to know,
+p101
+aVwhich is that no child has ever walked to this school,
+p102
+aVno child will ever walk to this school.
+p103
+aVThe seniors and juniors are driving the freshmen and the sophomores,
+p104
+aVand of course we have the crash statistics to prove it.
+p105
+aa(lp106
+VAnd then the super-sizing of our other civic institutions
+p107
+aVlike playing fields \u2014
+p108
+aVit's wonderful that Westin in the Ft. Lauderdale area
+p109
+aVhas eight soccer fields and eight baseball diamonds
+p110
+aVand 20 tennis courts,
+p111
+aVbut look at the road that takes you to that location,
+p112
+aVand would you let your child bike on it?
+p113
+aVAnd this is why we have the soccer mom now.
+p114
+aVWhen I was young, I had one soccer field,
+p115
+aVone baseball diamond and one tennis court,
+p116
+aVbut I could walk to it, because it was in my neighborhood.
+p117
+aa(lp118
+VThen the final part of sprawl that everyone forgot to count:
+p119
+aVif you're going to separate everything from everything else
+p120
+aVand reconnect it only with automotive infrastructure,
+p121
+aVthen this is what your landscape begins to look like.
+p122
+aVThe main message here is:
+p123
+aVif you want to have a walkable city, you can't start with the sprawl model.
+p124
+aVyou need the bones of an urban model.
+p125
+aVThis is the outcome of that form of design,
+p126
+aVas is this.
+p127
+aVAnd this is something that a lot of Americans want.
+p128
+aVBut we have to understand it's a two-part American dream.
+p129
+aVIf you're dreaming for this,
+p130
+aVyou're also going to be dreaming of this, often to absurd extremes,
+p131
+aVwhen we build our landscape to accommodate cars first.
+p132
+aVAnd the experience of being in these places \u2014
+p133
+aa(lp134
+V(Laughter)
+p135
+aa(lp136
+VThis is not Photoshopped.
+p137
+aVWalter Kulash took this slide.
+p138
+aVIt's in Panama City.
+p139
+aVThis is a real place.
+p140
+aVAnd being a driver can be a bit of a nuisance,
+p141
+aVand being a pedestrian can be a bit of a nuisance
+p142
+aVin these places.
+p143
+aVThis is a slide that epidemiologists have been showing for some time now,
+p144
+aa(lp145
+V(Laughter)
+p146
+aa(lp147
+VThe fact that we have a society where you drive to the parking lot
+p148
+aVto take the escalator to the treadmill
+p149
+aVshows that we're doing something wrong.
+p150
+aVBut we know how to do it better.
+p151
+aa(lp152
+VHere are the two models contrasted.
+p153
+aVI show this slide,
+p154
+aVwhich has been a formative document of the New Urbanism now
+p155
+aVfor almost 30 years,
+p156
+aVto show that sprawl and the traditional neighborhood contain the same things.
+p157
+aVIt's just how big are they,
+p158
+aVhow close are they to each other,
+p159
+aVhow are they interspersed together
+p160
+aVand do you have a street network, rather than a cul-de-sac
+p161
+aVor a collector system of streets?
+p162
+aa(lp163
+VSo when we look at a downtown area,
+p164
+aVat a place that has a hope of being walkable,
+p165
+aVand mostly that's our downtowns in America's cities
+p166
+aVand towns and villages,
+p167
+aVwe look at them and say we want the proper balance of uses.
+p168
+aVSo what is missing or underrepresented?
+p169
+aVAnd again, in the typical American cities in which most Americans live,
+p170
+aVit is housing that is lacking.
+p171
+aVThe jobs-to-housing balance is off.
+p172
+aVAnd you find that when you bring housing back,
+p173
+aVthese other things start to come back too,
+p174
+aVand housing is usually first among those things.
+p175
+aVAnd, of course, the thing that shows up last and eventually
+p176
+aVis the schools,
+p177
+aVbecause the people have to move in,
+p178
+aVthe young pioneers have to move in, get older, have kids
+p179
+aVand fight, and then the schools get pretty good eventually.
+p180
+aa(lp181
+VThe other part of this part,
+p182
+aVthe useful city part,
+p183
+aVis transit,
+p184
+aVand you can have a perfectly walkable neighborhood without it.
+p185
+aVBut perfectly walkable cities require transit,
+p186
+aVbecause if you don't have access to the whole city as a pedestrian,
+p187
+aVthen you get a car,
+p188
+aVand if you get a car,
+p189
+aVthe city begins to reshape itself around your needs,
+p190
+aVand the streets get wider and the parking lots get bigger
+p191
+aVand you no longer have a walkable city.
+p192
+aVSo transit is essential.
+p193
+aVBut every transit experience, every transit trip,
+p194
+aVbegins or ends as a walk,
+p195
+aVand so we have to remember to build walkability around our transit stations.
+p196
+aa(lp197
+VNext category, the biggest one, is the safe walk.
+p198
+aVIt's what most walkability experts talk about.
+p199
+aVIt is essential, but alone not enough to get people to walk.
+p200
+aVAnd there are so many moving parts that add up to a walkable city.
+p201
+aa(lp202
+VThe first is block size.
+p203
+aVThis is Portland, Oregon,
+p204
+aVfamously 200-foot blocks, famously walkable.
+p205
+aVThis is Salt Lake City,
+p206
+aVfamously 600-foot blocks,
+p207
+aVfamously unwalkable.
+p208
+aVIf you look at the two, it's almost like two different planets,
+p209
+aVbut these places were both built by humans
+p210
+aVand in fact, the story is that when you have a 200-foot block city,
+p211
+aVyou can have a two-lane city,
+p212
+aVor a two-to-four lane city,
+p213
+aVand a 600-foot block city is a six-lane city, and that's a problem.
+p214
+aVThese are the crash statistics.
+p215
+aVWhen you double the block size \u2014
+p216
+aVthis was a study of 24 California cities \u2014
+p217
+aVwhen you double the block size,
+p218
+aVyou almost quadruple the number of fatal accidents
+p219
+aVon non-highway streets.
+p220
+aa(lp221
+VSo how many lanes do we have?
+p222
+aVThis is where I'm going to tell you what I tell every audience I meet,
+p223
+aVwhich is to remind you about induced demand.
+p224
+aVInduced demand applies both to highways and to city streets.
+p225
+aVAnd induced demand tells us that when we widen the streets
+p226
+aVto accept the congestion that we're anticipating,
+p227
+aVor the additional trips that we're anticipating
+p228
+aVin congested systems, it is principally that congestion
+p229
+aVthat is constraining demand,
+p230
+aVand so that the widening comes,
+p231
+aVand there are all of these latent trips that are ready to happen.
+p232
+aVPeople move further from work
+p233
+aVand make other choices about when they commute,
+p234
+aVand those lanes fill up very quickly with traffic,
+p235
+aVso we widen the street again, and they fill up again.
+p236
+aVAnd we've learned that in congested systems,
+p237
+aVwe cannot satisfy the automobile.
+p238
+aa(lp239
+VThis is from Newsweek Magazine \u2014 hardly an esoteric publication:
+p240
+aV"Today's engineers acknowledge
+p241
+aVthat building new roads usually makes traffic worse."
+p242
+aVMy response to reading this was, may I please meet some of these engineers,
+p243
+aVbecause these are not the ones that I \u2014
+p244
+aVthere are great exceptions that I'm working with now \u2014
+p245
+aVbut these are not the engineers one typically meets working in a city,
+p246
+aVwhere they say, "Oh, that road is too crowded, we need to add a lane."
+p247
+aVSo you add a lane, and the traffic comes,
+p248
+aVand they say, "See, I told you we needed that lane."
+p249
+aVThis applies both to highways and to city streets if they're congested.
+p250
+aa(lp251
+VBut the amazing thing about most American cities that I work in,
+p252
+aVthe more typical cities,
+p253
+aVis that they have a lot of streets that are actually oversized
+p254
+aVfor the congestion they're currently experiencing.
+p255
+aVThis was the case in Oklahoma City,
+p256
+aVwhen the mayor came running to me, very upset,
+p257
+aVbecause they were named in Prevention Magazine
+p258
+aVthe worst city for pedestrians in the entire country.
+p259
+aVNow that can't possibly be true,
+p260
+aVbut it certainly is enough to make a mayor do something about it.
+p261
+aVWe did a walkability study,
+p262
+aVand what we found, looking at the car counts on the street \u2014
+p263
+aVthese are 3,000-, 4,000-, 7,000-car counts
+p264
+aVand we know that two lanes can handle 10,000 cars per day.
+p265
+aVLook at these numbers \u2014 they're all near or under 10,000 cars,
+p266
+aVand these were the streets that were designated
+p267
+aVin the new downtown plan
+p268
+aVto be four lanes to six lanes wide.
+p269
+aVSo you had a fundamental disconnect between the number of lanes
+p270
+aVand the number of cars that wanted to use them.
+p271
+aa(lp272
+VSo it was my job to redesign every street in the downtown
+p273
+aVfrom curb face to curb face,
+p274
+aVand we did it for 50 blocks of streets,
+p275
+aVand we're rebuilding it now.
+p276
+aVSo a typical oversized street to nowhere
+p277
+aVis being narrowed, and now under construction,
+p278
+aVand the project is half done.
+p279
+aVThe typical street like this, you know,
+p280
+aVwhen you do that, you find room for medians.
+p281
+aVYou find room for bike lanes.
+p282
+aVWe've doubled the amount of on-street parking.
+p283
+aVWe've added a full bike network where one didn't exist before.
+p284
+aa(lp285
+VBut not everyone has the money that Oklahoma City has,
+p286
+aVbecause they have an extraction economy that's doing quite well.
+p287
+aVThe typical city is more like Cedar Rapids,
+p288
+aVwhere they have an all four-lane system, half one-way system.
+p289
+aVAnd it's a little hard to see,
+p290
+aVbut what we've done \u2014 what we're doing; it's in process right now,
+p291
+aVit's in engineering right now \u2014
+p292
+aVis turning an all four-lane system, half one-way
+p293
+aVinto an all two-lane system, all two-way,
+p294
+aVand in so doing, we're adding 70 percent more on-street parking,
+p295
+aVwhich the merchants love,
+p296
+aVand it protects the sidewalk.
+p297
+aVThat parking makes the sidewalk safe,
+p298
+aVand we're adding a much more robust bicycle network.
+p299
+aa(lp300
+VThen the lanes themselves. How wide are they?
+p301
+aVThat's really important.
+p302
+aVThe standards have changed such that, as Andrés Duany says,
+p303
+aVthe typical road to a subdivision in America
+p304
+aVallows you to see the curvature of the Earth.
+p305
+aa(lp306
+V(Laughter)
+p307
+aa(lp308
+VThis is a subdivision outside of Washington from the 1960s.
+p309
+aVLook very carefully at the width of the streets.
+p310
+aVThis is a subdivision from the 1980s.
+p311
+aV1960s, 1980s.
+p312
+aVThe standards have changed to such a degree
+p313
+aVthat my old neighborhood of South Beach,
+p314
+aVwhen it was time to fix the street that wasn't draining properly,
+p315
+aVthey had to widen it and take away half our sidewalk,
+p316
+aVbecause the standards were wider.
+p317
+aVPeople go faster on wider streets.
+p318
+aVPeople know this.
+p319
+aVThe engineers deny it, but the citizens know it,
+p320
+aVso that in Birmingham, Michigan, they fight for narrower streets.
+p321
+aVPortland, Oregon, famously walkable,
+p322
+aVinstituted its "Skinny Streets" program in its residential neighborhood.
+p323
+aVWe know that skinny streets are safer.
+p324
+aVThe developer Vince Graham, in his project I'On,
+p325
+aVwhich we worked on in South Carolina,
+p326
+aVhe goes to conferences and he shows his amazing 22-foot roads.
+p327
+aVThese are two-way roads, very narrow rights of way,
+p328
+aVand he shows this well-known philosopher,
+p329
+aVwho said, "Broad is the road that leads to destruction ...
+p330
+aVnarrow is the road that leads to life."
+p331
+aa(lp332
+V(Laughter)
+p333
+aa(lp334
+V(Applause)
+p335
+aa(lp336
+VThis plays very well in the South.
+p337
+aa(lp338
+VNow: bicycles.
+p339
+aVBicycles and bicycling are the current revolution underway
+p340
+aVin only some American cities.
+p341
+aVBut where you build it, they come.
+p342
+aVAs a planner, I hate to say that, but the one thing I can say
+p343
+aVis that bicycle population is a function of bicycle infrastructure.
+p344
+aVI asked my friend Tom Brennan from Nelson\u005cNygaard in Portland
+p345
+aVto send me some pictures of the Portland bike commute.
+p346
+aVHe sent me this. I said, "Was that bike to work day?"
+p347
+aVHe said, "No, that was Tuesday."
+p348
+aVWhen you do what Portland did and spend money on bicycle infrastructure \u2014
+p349
+aVNew York City has doubled the number of bikers in it several times now
+p350
+aVby painting these bright green lanes.
+p351
+aVEven automotive cities like Long Beach, California:
+p352
+aVvast uptick in the number of bikers based on the infrastructure.
+p353
+aVAnd of course, what really does it,
+p354
+aVif you know 15th Street here in Washington, DC \u2014
+p355
+aVplease meet Rahm Emanuel's new bike lanes in Chicago,
+p356
+aVthe buffered lane, the parallel parking pulled off the curb,
+p357
+aVthe bikes between the parked cars and the curb \u2014
+p358
+aVthese mint cyclists.
+p359
+aVIf, however, as in Pasadena, every lane is a bike lane,
+p360
+aVthen no lane is a bike lane.
+p361
+aVAnd this is the only bicyclist that I met in Pasadena, so ...
+p362
+aa(lp363
+V(Laughter)
+p364
+aa(lp365
+VThe parallel parking I mentioned \u2014
+p366
+aVit's an essential barrier of steel
+p367
+aVthat protects the curb and pedestrians from moving vehicles.
+p368
+aVThis is Ft. Lauderdale; one side of the street, you can park,
+p369
+aVthe other side of the street, you can't.
+p370
+aVThis is happy hour on the parking side.
+p371
+aVThis is sad hour on the other side.
+p372
+aVAnd then the trees themselves slow cars down.
+p373
+aVThey move slower when trees are next to the road,
+p374
+aVand, of course, sometimes they slow down very quickly.
+p375
+aVAll the little details \u2014 the curb return radius.
+p376
+aVIs it one foot or is it 40 feet?
+p377
+aVHow swoopy is that curb to determine how fast the car goes
+p378
+aVand how much room you have to cross.
+p379
+aVAnd then I love this, because this is objective journalism.
+p380
+aV"Some say the entrance to CityCenter is not inviting to pedestrians."
+p381
+aVWhen every aspect of the landscape is swoopy,
+p382
+aVis aerodynamic, is stream-form geometrics,
+p383
+aVit says: "This is a vehicular place."
+p384
+aVSo no one detail, no one speciality, can be allowed to set the stage.
+p385
+aVAnd here, you know, this street:
+p386
+aVyes, it will drain within a minute of the hundred-year storm,
+p387
+aVbut this poor woman has to mount the curb every day.
+p388
+aa(lp389
+VSo then quickly, the comfortable walk has to do with the fact
+p390
+aVthat all animals seek, simultaneously, prospect and refuge.
+p391
+aVWe want to be able to see our predators,
+p392
+aVbut we also want to feel that our flanks are covered.
+p393
+aVAnd so we're drawn to places that have good edges,
+p394
+aVand if you don't supply the edges, people won't want to be there.
+p395
+aVWhat's the proper ratio of height to width?
+p396
+aVIs it one to one? Three to one?
+p397
+aVIf you get beyond one to six, you're not very comfortable anymore.
+p398
+aVYou don't feel enclosed.
+p399
+aVNow, six to one in Salzburg can be perfectly delightful.
+p400
+aVThe opposite of Salzburg is Houston.
+p401
+aVThe point being the parking lot is the principal problem here.
+p402
+aVHowever, missing teeth, those empty lots can be issues as well,
+p403
+aVand if you have a missing corner because of an outdated zoning code,
+p404
+aVthen you could have a missing nose in your neighborhood.
+p405
+aVThat's what we had in my neighborhood.
+p406
+aVThis was the zoning code that said I couldn't build on that site.
+p407
+aVAs you may know, Washington, DC is now changing its zoning
+p408
+aVto allow sites like this to become sites like this.
+p409
+aVWe needed a lot of variances to do that.
+p410
+aVTriangular houses can be interesting to build,
+p411
+aVbut if you get one built, people generally like it.
+p412
+aVSo you've got to fill those missing noses.
+p413
+aa(lp414
+VAnd then, finally, the interesting walk:
+p415
+aVsigns of humanity.
+p416
+aVWe are among the social primates.
+p417
+aVNothing interests us more than other people.
+p418
+aVWe want signs of people.
+p419
+aVSo the perfect one-to-one ratio, it's a great thing.
+p420
+aVThis is Grand Rapids, a very walkable city,
+p421
+aVbut nobody walks on this street
+p422
+aVthat connects the two best hotels together,
+p423
+aVbecause if on the left, you have an exposed parking deck,
+p424
+aVand on the right, you have a conference facility
+p425
+aVthat was apparently designed in admiration for that parking deck,
+p426
+aVthen you don't attract that many people.
+p427
+aVMayor Joe Riley, in his 10th term, Mayor of Charleston, South Carolina,
+p428
+aVtaught us it only takes 25 feet of building
+p429
+aVto hide 250 feet of garage.
+p430
+aVThis one I call the Chia Pet Garage. It's in South Beach.
+p431
+aVThat active ground floor.
+p432
+aa(lp433
+VI want to end with this project that I love to show.
+p434
+aVIt's by Meleca Architects. It's in Columbus, Ohio.
+p435
+aVTo the left is the convention center neighborhood, full of pedestrians.
+p436
+aVTo the right is the Short North neighborhood \u2014 ethnic,
+p437
+aVgreat restaurants, great shops, struggling.
+p438
+aVIt wasn't doing very well because this was the bridge,
+p439
+aVand no one was walking from the convention center
+p440
+aVinto that neighborhood.
+p441
+aVWell, when they rebuilt the highway, they added an extra 80 feet to the bridge.
+p442
+aVSorry \u2014 they rebuilt the bridge over the highway.
+p443
+aVThe city paid 1.9 million dollars,
+p444
+aVthey gave the site to a developer,
+p445
+aVthe developer built this
+p446
+aVand now the Short North has come back to life.
+p447
+aVAnd everyone says, the newspapers, not the planning magazines,
+p448
+aVthe newspapers say it's because of that bridge.
+p449
+aa(lp450
+VSo that's it. That's the general theory of walkability.
+p451
+aVThink about your own cities.
+p452
+aVThink about how you can apply it.
+p453
+aVYou've got to do all four things at once.
+p454
+aVSo find those places where you have most of them
+p455
+aVand fix what you can,
+p456
+aVfix what still needs fixing in those places.
+p457
+aa(lp458
+VI really appreciate your attention,
+p459
+aVand thank you for coming today.
+p460
+aa(lp461
+V(Applause)
+p462
+aasS'id'
+p463
+I2682
+sS'title'
+p464
+V4 ways to make a city more walkable
+p465
+s.

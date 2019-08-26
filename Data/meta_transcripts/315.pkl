@@ -1,0 +1,533 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWho are we?
+p4
+aVThat is the big question.
+p5
+aVAnd essentially we are just an upright-walking, big-brained,
+p6
+aVsuper-intelligent ape.
+p7
+aVThis could be us.
+p8
+aVWe belong to the family called the Hominidae.
+p9
+aVWe are the species called Homo sapiens sapiens,
+p10
+aVand it's important to remember that,
+p11
+aVin terms of our place in the world today
+p12
+aVand our future on planet Earth.
+p13
+aa(lp14
+VWe are one species
+p15
+aVof about five and a half thousand mammalian species
+p16
+aVthat exist on planet Earth today.
+p17
+aVAnd that's just a tiny fraction of all species
+p18
+aVthat have ever lived on the planet in past times.
+p19
+aVWe're one species out of approximately,
+p20
+aVor let's say, at least 16 upright-walking apes
+p21
+aVthat have existed over the past six to eight million years.
+p22
+aVBut as far as we know, we're the only upright-walking ape
+p23
+aVthat exists on planet Earth today, except for the bonobos.
+p24
+aa(lp25
+VAnd it's important to remember that,
+p26
+aVbecause the bonobos are so human,
+p27
+aVand they share 99 percent of their genes with us.
+p28
+aVAnd we share our origins with a handful of the living great apes.
+p29
+aVIt's important to remember that we evolved.
+p30
+aVNow, I know that's a dirty word for some people,
+p31
+aVbut we evolved from common ancestors
+p32
+aVwith the gorillas, the chimpanzee and also the bonobos.
+p33
+aVWe have a common past, and we have a common future.
+p34
+aVAnd it is important to remember that all of these great apes
+p35
+aVhave come on as long and as interesting evolutionary journey
+p36
+aVas we ourselves have today.
+p37
+aVAnd it's this journey that is of such interest to humanity,
+p38
+aVand it's this journey that has been the focus
+p39
+aVof the past three generations of my family,
+p40
+aVas we've been in East Africa looking for the fossil remains
+p41
+aVof our ancestors to try and piece together our evolutionary past.
+p42
+aa(lp43
+VAnd this is how we look for them.
+p44
+aVA group of dedicated young men and women walk very slowly
+p45
+aVout across vast areas of Africa,
+p46
+aVlooking for small fragments of bone, fossil bone, that may be on the surface.
+p47
+aVAnd that's an example of what we may do as we walk across
+p48
+aVthe landscape in Northern Kenya, looking for fossils.
+p49
+aVI doubt many of you in the audience can see
+p50
+aVthe fossil that's in this picture,
+p51
+aVbut if you look very carefully, there is a jaw, a lower jaw,
+p52
+aVof a 4.1-million-year-old upright-walking ape
+p53
+aVas it was found at Lake Turkana on the west side.
+p54
+aV(Laughter)
+p55
+aVIt's extremely time-consuming, labor-intensive
+p56
+aVand it is something that is going to involve a lot more people,
+p57
+aVto begin to piece together our past.
+p58
+aVWe still really haven't got a very complete picture of it.
+p59
+aa(lp60
+VWhen we find a fossil, we mark it.
+p61
+aVToday, we've got great technology: we have GPS.
+p62
+aVWe mark it with a GPS fix,
+p63
+aVand we also take a digital photograph of the specimen,
+p64
+aVso we could essentially put it back on the surface,
+p65
+aVexactly where we found it.
+p66
+aVAnd we can bring all this information into big GIS packages, today.
+p67
+aVWhen we then find something very important,
+p68
+aVlike the bones of a human ancestor,
+p69
+aVwe begin to excavate it extremely carefully and slowly,
+p70
+aVusing dental picks and fine paintbrushes.
+p71
+aVAnd all the sediment is then put through these screens,
+p72
+aVand where we go again through it very carefully,
+p73
+aVlooking for small bone fragments, and it's then washed.
+p74
+aa(lp75
+VAnd these things are so exciting. They are so often the only,
+p76
+aVor the very first time that anybody has ever seen the remains.
+p77
+aVAnd here's a very special moment, when my mother and myself
+p78
+aVwere digging up some remains of human ancestors.
+p79
+aVAnd it is one of the most special things
+p80
+aVto ever do with your mother.
+p81
+aV(Laughter)
+p82
+aVNot many people can say that.
+p83
+aa(lp84
+VBut now, let me take you back to Africa, two million years ago.
+p85
+aVI'd just like to point out, if you look at the map of Africa,
+p86
+aVit does actually look like a hominid skull in its shape.
+p87
+aVNow we're going to go to the East African and the Rift Valley.
+p88
+aVIt essentially runs up from the Gulf of Aden,
+p89
+aVor runs down to Lake Malawi.
+p90
+aVAnd the Rift Valley is a depression.
+p91
+aVIt's a basin, and rivers flow down from the highlands into the basin,
+p92
+aVcarrying sediment, preserving the bones of animals that lived there.
+p93
+aa(lp94
+VIf you want to become a fossil, you actually need to die somewhere
+p95
+aVwhere your bones will be rapidly buried.
+p96
+aVYou then hope that the earth moves in such a way
+p97
+aVas to bring the bones back up to the surface.
+p98
+aVAnd then you hope that one of us lot
+p99
+aVwill walk around and find small pieces of you.
+p100
+aV(Laughter)
+p101
+aVOK, so it is absolutely surprising that we know as much
+p102
+aVas we do know today about our ancestors,
+p103
+aVbecause it's incredibly difficult,
+p104
+aVA, for these things to become \u2014 to be \u2014 preserved,
+p105
+aVand secondly, for them to have been brought back up to the surface.
+p106
+aVAnd we really have only spent 50 years looking for these remains,
+p107
+aVand begin to actually piece together our evolutionary story.
+p108
+aa(lp109
+VSo, let's go to Lake Turkana, which is one such lake basin
+p110
+aVin the very north of our country, Kenya.
+p111
+aVAnd if you look north here, there's a big river that flows into the lake
+p112
+aVthat's been carrying sediment and preserving the remains
+p113
+aVof the animals that lived there.
+p114
+aVFossil sites run up and down both lengths of that lake basin,
+p115
+aVwhich represents some 20,000 square miles.
+p116
+aVThat's a huge job that we've got on our hands.
+p117
+aVTwo million years ago at Lake Turkana,
+p118
+aVHomo erectus, one of our human ancestors,
+p119
+aVactually lived in this region.
+p120
+aVYou can see some of the major fossil sites that we've been working
+p121
+aVin the north. But, essentially, two million years ago,
+p122
+aVHomo erectus, up in the far right corner,
+p123
+aVlived alongside three other species of human ancestor.
+p124
+aVAnd here is a skull of a Homo erectus,
+p125
+aVwhich I just pulled off the shelf there.
+p126
+aV(Laughter)
+p127
+aa(lp128
+VBut it is not to say that being a single species on planet Earth is the norm.
+p129
+aVIn fact, if you go back in time,
+p130
+aVit is the norm that there are multiple species of hominids
+p131
+aVor of human ancestors that coexist at any one time.
+p132
+aVWhere did these things come from?
+p133
+aVThat's what we're still trying to find answers to,
+p134
+aVand it is important to realize that there is diversity
+p135
+aVin all different species, and our ancestors are no exception.
+p136
+aVHere's some reconstructions of some of the fossils
+p137
+aVthat have been found from Lake Turkana.
+p138
+aa(lp139
+VBut I was very lucky to have been brought up in Kenya,
+p140
+aVessentially accompanying my parents to Lake Turkana
+p141
+aVin search of human remains.
+p142
+aVAnd we were able to dig up, when we got old enough,
+p143
+aVfossils such as this, a slender-snouted crocodile.
+p144
+aVAnd we dug up giant tortoises, and elephants and things like that.
+p145
+aVBut when I was 12, as I was in this picture,
+p146
+aVa very exciting expedition was in place on the west side,
+p147
+aVwhen they found essentially the skeleton of this Homo erectus.
+p148
+aa(lp149
+VI could relate to this Homo erectus skeleton very well,
+p150
+aVbecause I was the same age that he was when he died.
+p151
+aVAnd I imagined him to be tall, dark-skinned.
+p152
+aVHis brothers certainly were able to run long distances
+p153
+aVchasing prey, probably sweating heavily as they did so.
+p154
+aVHe was very able to use stones effectively as tools.
+p155
+aVAnd this individual himself, this one that I'm holding up here,
+p156
+aVactually had a bad back. He'd probably had an injury as a child.
+p157
+aVHe had a scoliosis and therefore must have been looked after
+p158
+aVquite carefully by other female, and probably much smaller,
+p159
+aVmembers of his family group, to have got to where he did in life, age 12.
+p160
+aVUnfortunately for him, he fell into a swamp
+p161
+aVand couldn't get out.
+p162
+aVEssentially, his bones were rapidly buried
+p163
+aVand beautifully preserved.
+p164
+aa(lp165
+VAnd he remained there until 1.6 million years later,
+p166
+aVwhen this very famous fossil hunter, Kamoya Kimeu,
+p167
+aVwalked along a small hillside
+p168
+aVand found that small piece of his skull lying on the surface
+p169
+aVamongst the pebbles, recognized it as being hominid.
+p170
+aVIt's actually this little piece up here on the top.
+p171
+aVWell, an excavation was begun immediately,
+p172
+aVand more and more little bits of skull
+p173
+aVstarted to be extracted from the sediment.
+p174
+aVAnd what was so fun about it was this:
+p175
+aVthe skull pieces got closer and closer to the roots of the tree,
+p176
+aVand fairly recently the tree had grown up,
+p177
+aVbut it had found that the skull had captured nice water in the hillside,
+p178
+aVand so it had decided to grow its roots in and around this,
+p179
+aVholding it in place and preventing it from washing away down the slope.
+p180
+aVWe began to find limb bones; we found finger bones,
+p181
+aVthe bones of the pelvis, vertebrae, ribs, the collar bones,
+p182
+aVthings that had never, ever been seen before in Homo erectus.
+p183
+aVIt was truly exciting.
+p184
+aVHe had a body very similar to our own,
+p185
+aVand he was on the threshold of becoming human.
+p186
+aa(lp187
+VWell, shortly afterwards, members of his species
+p188
+aVstarted to move northwards out of Africa,
+p189
+aVand you start to see fossils of Homo erectus
+p190
+aVin Georgia, China and also in parts of Indonesia.
+p191
+aVSo, Homo erectus was the first human ancestor to leave Africa
+p192
+aVand begin its spread across the globe.
+p193
+aVSome exciting finds, again, as I mentioned,
+p194
+aVfrom Dmanisi, in the Republic of Georgia.
+p195
+aVBut also, surprising finds
+p196
+aVrecently announced from the Island of Flores in Indonesia,
+p197
+aVwhere a group of these human ancestors have been isolated,
+p198
+aVand have become dwarfed, and they're only about a meter in height.
+p199
+aVBut they lived only 18,000 years ago,
+p200
+aVand that is truly extraordinary to think about.
+p201
+aa(lp202
+VJust to put this in terms of generations,
+p203
+aVbecause people do find it hard to think of time,
+p204
+aVHomo erectus left Africa 90,000 generations ago.
+p205
+aVWe evolved essentially from an African stock.
+p206
+aVAgain, at about 200,000 years as a fully-fledged us.
+p207
+aVAnd we only left Africa about 70,000 years ago.
+p208
+aVAnd until 30,000 years ago, at least three upright-walking apes
+p209
+aVshared the planet Earth.
+p210
+aa(lp211
+VThe question now is, well, who are we?
+p212
+aVWe're certainly a polluting, wasteful, aggressive species,
+p213
+aVwith a few nice things thrown in, perhaps.
+p214
+aV(Laughter)
+p215
+aVFor the most part, we're not particularly pleasant at all.
+p216
+aVWe have a much larger brain than our ape ancestors.
+p217
+aVIs this a good evolutionary adaptation, or is it going to lead us
+p218
+aVto being the shortest-lived hominid species on planet Earth?
+p219
+aa(lp220
+VAnd what is it that really makes us us?
+p221
+aVI think it's our collective intelligence.
+p222
+aVIt's our ability to write things down,
+p223
+aVour language and our consciousness.
+p224
+aVFrom very primitive beginnings, with a very crude tool kit of stones,
+p225
+aVwe now have a very advanced tool kit, and our tool use
+p226
+aVhas really reached unprecedented levels:
+p227
+aVwe've got buggies to Mars; we've mapped the human genome;
+p228
+aVand recently even created synthetic life, thanks to Craig Venter.
+p229
+aa(lp230
+VAnd we've also managed to communicate with people
+p231
+aVall over the world, from extraordinary places.
+p232
+aVEven from within an excavation in northern Kenya,
+p233
+aVwe can talk to people about what we're doing.
+p234
+aVAs Al Gore so clearly has reminded us,
+p235
+aVwe have reached extraordinary numbers
+p236
+aVof people on this planet.
+p237
+aVHuman ancestors really only survive on planet Earth,
+p238
+aVif you look at the fossil record,
+p239
+aVfor about, on average, a million years at a time.
+p240
+aVWe've only been around for the past 200,000 years as a species,
+p241
+aVyet we've reached a population of more than six and a half billion people.
+p242
+aa(lp243
+VAnd last year, our population grew by 80 million.
+p244
+aVI mean, these are extraordinary numbers.
+p245
+aVYou can see here, again, taken from Al Gore's book.
+p246
+aVBut what's happened is our technology
+p247
+aVhas removed the checks and balances on our population growth.
+p248
+aVWe have to control our numbers, and I think this is as important
+p249
+aVas anything else that's being done in the world today.
+p250
+aVBut we have to control our numbers,
+p251
+aVbecause we can't really hold it together as a species.
+p252
+aa(lp253
+VMy father so appropriately put it,
+p254
+aVthat "We are certainly the only animal that makes conscious choices
+p255
+aVthat are bad for our survival as a species."
+p256
+aVCan we hold it together?
+p257
+aVIt's important to remember that we all evolved in Africa.
+p258
+aVWe all have an African origin.
+p259
+aVWe have a common past and we share a common future.
+p260
+aVEvolutionarily speaking, we're just a blip.
+p261
+aVWe're sitting on the edge of a precipice,
+p262
+aVand we have the tools and the technology at our hands
+p263
+aVto communicate what needs to be done
+p264
+aVto hold it together today.
+p265
+aVWe could tell every single human being out there, if we really wanted to.
+p266
+aVBut will we do that, or will we just let nature take its course?
+p267
+aa(lp268
+VWell, to end on a very positive note,
+p269
+aVI think evolutionarily speaking,
+p270
+aVthis is probably a fairly good thing, in the end.
+p271
+aVI'll leave it at that, thank you very much.
+p272
+aV(Applause)
+p273
+aasS'id'
+p274
+I315
+sS'title'
+p275
+VA dig for humanity's origins
+p276
+s.

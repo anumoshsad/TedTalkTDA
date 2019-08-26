@@ -1,0 +1,193 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI've always had a fascination for computers and technology,
+p4
+aVand I made a few apps for the iPhone, iPod touch, and iPad.
+p5
+aVI'd like to share a couple with you today.
+p6
+aVMy first app was a unique fortune teller called "Earth Fortune"
+p7
+aVthat would display different colors of Earth
+p8
+aVdepending on what your fortune was.
+p9
+aVMy favorite and most successful app
+p10
+aVis "Bustin Jieber," which is \u2014
+p11
+aa(lp12
+V(Laughter)
+p13
+aa(lp14
+Vwhich is a Justin Bieber whack-a-mole.
+p15
+aa(lp16
+V(Laughter)
+p17
+aa(lp18
+VI created it because a lot of people at school
+p19
+aVdisliked Justin Bieber a little bit,
+p20
+aVso I decided to make the app.
+p21
+aVSo I went to work programming it,
+p22
+aVand I released it just before the holidays in 2010.
+p23
+aVA lot of people ask me, how did I make these?
+p24
+aVA lot of times it's because the person who asked the question
+p25
+aVwants to make an app also.
+p26
+aVA lot of kids these days like to play games,
+p27
+aVbut now they want to make them, and it's difficult,
+p28
+aVbecause not many kids know where to go to find out how to make a program.
+p29
+aVI mean, for soccer, you could go to a soccer team.
+p30
+aVFor violin, you could get lessons for a violin.
+p31
+aVBut what if you want to make an app?
+p32
+aVAnd the kid's parents might have done some of these things when they were young,
+p33
+aVbut not many parents have written apps.
+p34
+aa(lp35
+V(Laughter)
+p36
+aa(lp37
+VWhere do you go to find out how to make an app?
+p38
+aVWell, this is how I approached it, this is what I did.
+p39
+aVFirst of all, I've been programming in multiple other programming languages
+p40
+aVto get the basics down,
+p41
+aVsuch as Python, C, Java, etc.
+p42
+aVAnd then Apple released the iPhone,
+p43
+aVand with it, the iPhone software development kit,
+p44
+aVand the software development kit is a suite of tools
+p45
+aVfor creating and programming an iPhone app.
+p46
+aVThis opened up a whole new world of possibilities for me,
+p47
+aVand after playing with the software development kit a little bit,
+p48
+aVI made a couple of apps, I made some test apps.
+p49
+aVOne of them happened to be "Earth Fortune,"
+p50
+aVand I was ready to put "Earth Fortune" on the App Store,
+p51
+aVand so I persuaded my parents to pay the 99 dollar fee
+p52
+aVto be able to put my apps on the App Store.
+p53
+aVThey agreed, and now I have apps on the App Store.
+p54
+aVI've gotten a lot of interest and encouragement
+p55
+aVfrom my family, friends, teachers and even people at the Apple Store,
+p56
+aVand that's been a huge help to me.
+p57
+aa(lp58
+VI've gotten a lot of inspiration from Steve Jobs,
+p59
+aVand I've started an app club at school,
+p60
+aVand a teacher at my school is kindly sponsoring my app club.
+p61
+aVAny student at my school can come and learn how to design an app.
+p62
+aVThis is so I can share my experiences with others.
+p63
+aVThere's these programs called the iPad Pilot Program,
+p64
+aVand some districts have them.
+p65
+aVI'm fortunate enough to be part of one.
+p66
+aVA big challenge is, how should the iPads be used,
+p67
+aVand what apps should we put on the iPads?
+p68
+aVSo we're getting feedback from teachers at the school
+p69
+aVto see what kind of apps they'd like.
+p70
+aVWhen we design the app and we sell it,
+p71
+aVit will be free to local districts; and other districts that we sell to \u2014
+p72
+aVall the money from that will go into the local ed foundations.
+p73
+aa(lp74
+VThese days, students usually know a little bit more than teachers
+p75
+aVwith the technology.
+p76
+aa(lp77
+V(Laughter)
+p78
+aa(lp79
+VSo \u2014
+p80
+aa(lp81
+V(Laughter)
+p82
+aa(lp83
+VSorry.
+p84
+aa(lp85
+V(Laughter)
+p86
+aa(lp87
+VSo this is a resource to teachers,
+p88
+aVand educators should recognize this resource and make good use of it.
+p89
+aa(lp90
+V(Laughter)
+p91
+aa(lp92
+VI'd like to finish up by saying what I'd like to do in the future.
+p93
+aVFirst of all, I'd like to create more apps, more games.
+p94
+aVI'm working with a third party company to make an app.
+p95
+aVI'd like to get into Android programming and development,
+p96
+aVand I'd like to continue my app club,
+p97
+aVand find other ways for students to share knowledge with others.
+p98
+aa(lp99
+VThank you.
+p100
+aa(lp101
+V(Applause)
+p102
+aasS'id'
+p103
+I1272
+sS'title'
+p104
+VA 12-year-old app developer
+p105
+s.

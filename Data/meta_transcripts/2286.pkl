@@ -1,0 +1,535 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VJust after Christmas last year,
+p4
+aV132 kids in California got the measles
+p5
+aVby either visiting Disneyland
+p6
+aVor being exposed to someone who'd been there.
+p7
+aVThe virus then hopped the Canadian border,
+p8
+aVinfecting more than 100 children in Quebec.
+p9
+aVOne of the tragic things about this outbreak
+p10
+aVis that measles, which can be fatal to a child with a weakened immune system,
+p11
+aVis one of the most easily preventable diseases in the world.
+p12
+aVAn effective vaccine against it
+p13
+aVhas been available for more than half a century,
+p14
+aVbut many of the kids involved in the Disneyland outbreak
+p15
+aVhad not been vaccinated
+p16
+aVbecause their parents were afraid
+p17
+aVof something allegedly even worse:
+p18
+aVautism.
+p19
+aa(lp20
+VBut wait \u2014 wasn't the paper that sparked the controversy
+p21
+aVabout autism and vaccines
+p22
+aVdebunked, retracted,
+p23
+aVand branded a deliberate fraud
+p24
+aVby the British Medical Journal?
+p25
+aVDon't most science-savvy people
+p26
+aVknow that the theory that vaccines cause autism is B.S.?
+p27
+aVI think most of you do,
+p28
+aVbut millions of parents worldwide
+p29
+aVcontinue to fear that vaccines put their kids at risk for autism.
+p30
+aa(lp31
+VWhy?
+p32
+aVHere's why.
+p33
+aVThis is a graph of autism prevalence estimates rising over time.
+p34
+aVFor most of the 20th century,
+p35
+aVautism was considered an incredibly rare condition.
+p36
+aVThe few psychologists and pediatricians who'd even heard of it
+p37
+aVfigured they would get through their entire careers
+p38
+aVwithout seeing a single case.
+p39
+aVFor decades, the prevalence estimates remained stable
+p40
+aVat just three or four children in 10,000.
+p41
+aVBut then, in the 1990s,
+p42
+aVthe numbers started to skyrocket.
+p43
+aVFundraising organizations like Autism Speaks
+p44
+aVroutinely refer to autism as an epidemic,
+p45
+aVas if you could catch it from another kid at Disneyland.
+p46
+aa(lp47
+VSo what's going on?
+p48
+aVIf it isn't vaccines, what is it?
+p49
+aVIf you ask the folks down at the Centers for Disease Control in Atlanta
+p50
+aVwhat's going on,
+p51
+aVthey tend to rely on phrases like "broadened diagnostic criteria"
+p52
+aVand "better case finding"
+p53
+aVto explain these rising numbers.
+p54
+aVBut that kind of language
+p55
+aVdoesn't do much to allay the fears of a young mother
+p56
+aVwho is searching her two-year-old's face for eye contact.
+p57
+aVIf the diagnostic criteria had to be broadened,
+p58
+aVwhy were they so narrow in the first place?
+p59
+aVWhy were cases of autism so hard to find
+p60
+aVbefore the 1990s?
+p61
+aa(lp62
+VFive years ago, I decided to try to uncover the answers to these questions.
+p63
+aVI learned that what happened
+p64
+aVhas less to do with the slow and cautious progress of science
+p65
+aVthan it does with the seductive power of storytelling.
+p66
+aVFor most of the 20th century,
+p67
+aVclinicians told one story
+p68
+aVabout what autism is and how it was discovered,
+p69
+aVbut that story turned out to be wrong,
+p70
+aVand the consequences of it
+p71
+aVare having a devastating impact on global public health.
+p72
+aVThere was a second, more accurate story of autism
+p73
+aVwhich had been lost and forgotten
+p74
+aVin obscure corners of the clinical literature.
+p75
+aVThis second story tells us everything about how we got here
+p76
+aVand where we need to go next.
+p77
+aa(lp78
+VThe first story starts with a child psychiatrist at Johns Hopkins Hospital
+p79
+aVnamed Leo Kanner.
+p80
+aVIn 1943, Kanner published a paper
+p81
+aVdescribing 11 young patients who seemed to inhabit private worlds,
+p82
+aVignoring the people around them,
+p83
+aVeven their own parents.
+p84
+aVThey could amuse themselves for hours
+p85
+aVby flapping their hands in front of their faces,
+p86
+aVbut they were panicked by little things
+p87
+aVlike their favorite toy being moved from its usual place
+p88
+aVwithout their knowledge.
+p89
+aVBased on the patients who were brought to his clinic,
+p90
+aVKanner speculated that autism is very rare.
+p91
+aVBy the 1950s, as the world's leading authority on the subject,
+p92
+aVhe declared that he had seen less than 150 true cases of his syndrome
+p93
+aVwhile fielding referrals from as far away as South Africa.
+p94
+aVThat's actually not surprising,
+p95
+aVbecause Kanner's criteria for diagnosing autism
+p96
+aVwere incredibly selective.
+p97
+aVFor example, he discouraged giving the diagnosis to children who had seizures
+p98
+aVbut now we know that epilepsy is very common in autism.
+p99
+aVHe once bragged that he had turned nine out of 10 kids
+p100
+aVreferred to his office as autistic by other clinicians
+p101
+aVwithout giving them an autism diagnosis.
+p102
+aa(lp103
+VKanner was a smart guy,
+p104
+aVbut a number of his theories didn't pan out.
+p105
+aVHe classified autism as a form of infantile psychosis
+p106
+aVcaused by cold and unaffectionate parents.
+p107
+aVThese children, he said,
+p108
+aVhad been kept neatly in a refrigerator that didn't defrost.
+p109
+aVAt the same time, however,
+p110
+aVKanner noticed that some of his young patients
+p111
+aVhad special abilities that clustered in certain areas
+p112
+aVlike music, math and memory.
+p113
+aVOne boy in his clinic
+p114
+aVcould distinguish between 18 symphonies before he turned two.
+p115
+aVWhen his mother put on one of his favorite records,
+p116
+aVhe would correctly declare, "Beethoven!"
+p117
+aVBut Kanner took a dim view of these abilities,
+p118
+aVclaiming that the kids were just regurgitating things
+p119
+aVthey'd heard their pompous parents say,
+p120
+aVdesperate to earn their approval.
+p121
+aVAs a result, autism became a source of shame and stigma for families,
+p122
+aVand two generations of autistic children
+p123
+aVwere shipped off to institutions for their own good,
+p124
+aVbecoming invisible to the world at large.
+p125
+aa(lp126
+VAmazingly, it wasn't until the 1970s
+p127
+aVthat researchers began to test Kanner's theory that autism was rare.
+p128
+aVLorna Wing was a cognitive psychologist in London
+p129
+aVwho thought that Kanner's theory of refrigerator parenting
+p130
+aVwere "bloody stupid," as she told me.
+p131
+aVShe and her husband John were warm and affectionate people,
+p132
+aVand they had a profoundly autistic daughter named Susie.
+p133
+aVLorna and John knew how hard it was to raise a child like Susie
+p134
+aVwithout support services,
+p135
+aVspecial education,
+p136
+aVand the other resources that are out of reach without a diagnosis.
+p137
+aVTo make the case to the National Health Service
+p138
+aVthat more resources were needed for autistic children and their families,
+p139
+aa(lp140
+VLorna and her colleague Judith Gould
+p141
+aVdecided to do something that should have been done 30 years earlier.
+p142
+aVThey undertook a study of autism prevalence in the general population.
+p143
+aVThey pounded the pavement in a London suburb called Camberwell
+p144
+aVto try to find autistic children in the community.
+p145
+aVWhat they saw made clear that Kanner's model was way too narrow,
+p146
+aVwhile the reality of autism was much more colorful and diverse.
+p147
+aVSome kids couldn't talk at all,
+p148
+aVwhile others waxed on at length about their fascination with astrophysics,
+p149
+aVdinosaurs or the genealogy of royalty.
+p150
+aVIn other words, these children didn't fit into nice, neat boxes,
+p151
+aVas Judith put it,
+p152
+aVand they saw lots of them,
+p153
+aVway more than Kanner's monolithic model would have predicted.
+p154
+aa(lp155
+VAt first, they were at a loss to make sense of their data.
+p156
+aVHow had no one noticed these children before?
+p157
+aVBut then Lorna came upon a reference to a paper that had been published
+p158
+aVin German in 1944,
+p159
+aVthe year after Kanner's paper,
+p160
+aVand then forgotten,
+p161
+aVburied with the ashes of a terrible time
+p162
+aVthat no one wanted to remember or think about.
+p163
+aVKanner knew about this competing paper,
+p164
+aVbut scrupulously avoided mentioning it in his own work.
+p165
+aVIt had never even been translated into English,
+p166
+aVbut luckily, Lorna's husband spoke German,
+p167
+aVand he translated it for her.
+p168
+aa(lp169
+VThe paper offered an alternate story of autism.
+p170
+aVIts author was a man named Hans Asperger,
+p171
+aVwho ran a combination clinic and residential school
+p172
+aVin Vienna in the 1930s.
+p173
+aVAsperger's ideas about teaching children with learning differences
+p174
+aVwere progressive even by contemporary standards.
+p175
+aVMornings at his clinic began with exercise classes set to music,
+p176
+aVand the children put on plays on Sunday afternoons.
+p177
+aVInstead of blaming parents for causing autism,
+p178
+aVAsperger framed it as a lifelong, polygenetic disability
+p179
+aVthat requires compassionate forms of support and accommodations
+p180
+aVover the course of one's whole life.
+p181
+aVRather than treating the kids in his clinic like patients,
+p182
+aVAsperger called them his little professors,
+p183
+aVand enlisted their help in developing methods of education
+p184
+aVthat were particularly suited to them.
+p185
+aVCrucially, Asperger viewed autism as a diverse continuum
+p186
+aVthat spans an astonishing range of giftedness and disability.
+p187
+aVHe believed that autism and autistic traits are common
+p188
+aVand always have been,
+p189
+aVseeing aspects of this continuum in familiar archetypes from pop culture
+p190
+aVlike the socially awkward scientist
+p191
+aVand the absent-minded professor.
+p192
+aVHe went so far as to say,
+p193
+aVit seems that for success in science and art,
+p194
+aVa dash of autism is essential.
+p195
+aa(lp196
+VLorna and Judith realized that Kanner had been as wrong about autism being rare
+p197
+aVas he had been about parents causing it.
+p198
+aVOver the next several years,
+p199
+aVthey quietly worked with the American Psychiatric Association
+p200
+aVto broaden the criteria for diagnosis
+p201
+aVto reflect the diversity of what they called "the autism spectrum."
+p202
+aVIn the late '80s and early 1990s,
+p203
+aVtheir changes went into effect,
+p204
+aVswapping out Kanner's narrow model
+p205
+aVfor Asperger's broad and inclusive one.
+p206
+aa(lp207
+VThese changes weren't happening in a vacuum.
+p208
+aVBy coincidence, as Lorna and Judith worked behind the scenes
+p209
+aVto reform the criteria,
+p210
+aVpeople all over the world were seeing an autistic adult for the first time.
+p211
+aVBefore "Rain Man" came out in 1988,
+p212
+aVonly a tiny, ingrown circle of experts knew what autism looked like,
+p213
+aVbut after Dustin Hoffman's unforgettable performance as Raymond Babbitt
+p214
+aVearned "Rain Man" four Academy Awards,
+p215
+aVpediatricians, psychologists,
+p216
+aVteachers and parents all over the world knew what autism looked like.
+p217
+aa(lp218
+VCoincidentally, at the same time,
+p219
+aVthe first easy-to-use clinical tests for diagnosing autism were introduced.
+p220
+aVYou no longer had to have a connection to that tiny circle of experts
+p221
+aVto get your child evaluated.
+p222
+aa(lp223
+VThe combination of "Rain Man,"
+p224
+aVthe changes to the criteria, and the introduction of these tests
+p225
+aVcreated a network effect,
+p226
+aVa perfect storm of autism awareness.
+p227
+aVThe number of diagnoses started to soar,
+p228
+aVjust as Lorna and Judith predicted, indeed hoped, that it would,
+p229
+aVenabling autistic people and their families
+p230
+aVto finally get the support and services they deserved.
+p231
+aa(lp232
+VThen Andrew Wakefield came along
+p233
+aVto blame the spike in diagnoses on vaccines,
+p234
+aVa simple, powerful,
+p235
+aVand seductively believable story
+p236
+aVthat was as wrong as Kanner's theory
+p237
+aVthat autism was rare.
+p238
+aa(lp239
+VIf the CDC's current estimate,
+p240
+aVthat one in 68 kids in America are on the spectrum, is correct,
+p241
+aVautistics are one of the largest minority groups in the world.
+p242
+aVIn recent years, autistic people have come together on the Internet
+p243
+aVto reject the notion that they are puzzles to be solved
+p244
+aVby the next medical breakthrough,
+p245
+aVcoining the term "neurodiversity"
+p246
+aVto celebrate the varieties of human cognition.
+p247
+aa(lp248
+VOne way to understand neurodiversity
+p249
+aVis to think in terms of human operating systems.
+p250
+aVJust because a P.C. is not running Windows doesn't mean that it's broken.
+p251
+aVBy autistic standards, the normal human brain
+p252
+aVis easily distractable,
+p253
+aVobsessively social,
+p254
+aVand suffers from a deficit of attention to detail.
+p255
+aVTo be sure, autistic people have a hard time
+p256
+aVliving in a world not built for them.
+p257
+aV[Seventy] years later, we're still catching up to Asperger,
+p258
+aVwho believed that the "cure" for the most disabling aspects of autism
+p259
+aVis to be found in understanding teachers,
+p260
+aVaccommodating employers,
+p261
+aVsupportive communities,
+p262
+aVand parents who have faith in their children's potential.
+p263
+aa(lp264
+VAn autistic [man] named Zosia Zaks once said,
+p265
+aV"We need all hands on deck to right the ship of humanity."
+p266
+aVAs we sail into an uncertain future,
+p267
+aVwe need every form of human intelligence on the planet
+p268
+aVworking together to tackle the challenges that we face as a society.
+p269
+aVWe can't afford to waste a brain.
+p270
+aa(lp271
+VThank you.
+p272
+aa(lp273
+V(Applause)
+p274
+aasS'id'
+p275
+I2286
+sS'title'
+p276
+VThe forgotten history of autism
+p277
+s.

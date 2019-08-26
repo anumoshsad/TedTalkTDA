@@ -1,0 +1,493 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIn my lab, we build autonomous aerial robots
+p4
+aVlike the one you see flying here.
+p5
+aVUnlike the commercially available drones that you can buy today,
+p6
+aVthis robot doesn't have any GPS on board.
+p7
+aVSo without GPS,
+p8
+aVit's hard for robots like this to determine their position.
+p9
+aVThis robot uses onboard sensors, cameras and laser scanners,
+p10
+aVto scan the environment.
+p11
+aVIt detects features from the environment,
+p12
+aVand it determines where it is relative to those features,
+p13
+aVusing a method of triangulation.
+p14
+aVAnd then it can assemble all these features into a map,
+p15
+aVlike you see behind me.
+p16
+aVAnd this map then allows the robot to understand where the obstacles are
+p17
+aVand navigate in a collision-free manner.
+p18
+aa(lp19
+VWhat I want to show you next
+p20
+aVis a set of experiments we did inside our laboratory,
+p21
+aVwhere this robot was able to go for longer distances.
+p22
+aVSo here you'll see, on the top right, what the robot sees with the camera.
+p23
+aVAnd on the main screen \u2014
+p24
+aVand of course this is sped up by a factor of four \u2014
+p25
+aVon the main screen you'll see the map that it's building.
+p26
+aVSo this is a high-resolution map of the corridor around our laboratory.
+p27
+aVAnd in a minute you'll see it enter our lab,
+p28
+aVwhich is recognizable by the clutter that you see.
+p29
+aa(lp30
+V(Laughter)
+p31
+aa(lp32
+VBut the main point I want to convey to you
+p33
+aVis that these robots are capable of building high-resolution maps
+p34
+aVat five centimeters resolution,
+p35
+aVallowing somebody who is outside the lab, or outside the building
+p36
+aVto deploy these without actually going inside,
+p37
+aVand trying to infer what happens inside the building.
+p38
+aa(lp39
+VNow there's one problem with robots like this.
+p40
+aVThe first problem is it's pretty big.
+p41
+aVBecause it's big, it's heavy.
+p42
+aVAnd these robots consume about 100 watts per pound.
+p43
+aVAnd this makes for a very short mission life.
+p44
+aVThe second problem
+p45
+aVis that these robots have onboard sensors that end up being very expensive \u2014
+p46
+aVa laser scanner, a camera and the processors.
+p47
+aVThat drives up the cost of this robot.
+p48
+aa(lp49
+VSo we asked ourselves a question:
+p50
+aVwhat consumer product can you buy in an electronics store
+p51
+aVthat is inexpensive, that's lightweight, that has sensing onboard and computation?
+p52
+aVAnd we invented the flying phone.
+p53
+aa(lp54
+V(Laughter)
+p55
+aa(lp56
+VSo this robot uses a Samsung Galaxy smartphone that you can buy off the shelf,
+p57
+aVand all you need is an app that you can download from our app store.
+p58
+aVAnd you can see this robot reading the letters, "TED" in this case,
+p59
+aVlooking at the corners of the "T" and the "E"
+p60
+aVand then triangulating off of that, flying autonomously.
+p61
+aVThat joystick is just there to make sure if the robot goes crazy,
+p62
+aVGiuseppe can kill it.
+p63
+aa(lp64
+V(Laughter)
+p65
+aa(lp66
+VIn addition to building these small robots,
+p67
+aVwe also experiment with aggressive behaviors, like you see here.
+p68
+aVSo this robot is now traveling at two to three meters per second,
+p69
+aVpitching and rolling aggressively as it changes direction.
+p70
+aVThe main point is we can have smaller robots that can go faster
+p71
+aVand then travel in these very unstructured environments.
+p72
+aa(lp73
+VAnd in this next video,
+p74
+aVjust like you see this bird, an eagle, gracefully coordinating its wings,
+p75
+aVits eyes and feet to grab prey out of the water,
+p76
+aVour robot can go fishing, too.
+p77
+aa(lp78
+V(Laughter)
+p79
+aa(lp80
+VIn this case, this is a Philly cheesesteak hoagie that it's grabbing out of thin air.
+p81
+aa(lp82
+V(Laughter)
+p83
+aa(lp84
+VSo you can see this robot going at about three meters per second,
+p85
+aVwhich is faster than walking speed, coordinating its arms, its claws
+p86
+aVand its flight with split-second timing to achieve this maneuver.
+p87
+aVIn another experiment,
+p88
+aVI want to show you how the robot adapts its flight
+p89
+aVto control its suspended payload,
+p90
+aVwhose length is actually larger than the width of the window.
+p91
+aVSo in order to accomplish this,
+p92
+aVit actually has to pitch and adjust the altitude
+p93
+aVand swing the payload through.
+p94
+aVBut of course we want to make these even smaller,
+p95
+aVand we're inspired in particular by honeybees.
+p96
+aVSo if you look at honeybees, and this is a slowed down video,
+p97
+aVthey're so small, the inertia is so lightweight \u2014
+p98
+aa(lp99
+V(Laughter)
+p100
+aa(lp101
+Vthat they don't care \u2014 they bounce off my hand, for example.
+p102
+aVThis is a little robot that mimics the honeybee behavior.
+p103
+aVAnd smaller is better,
+p104
+aVbecause along with the small size you get lower inertia.
+p105
+aVAlong with lower inertia \u2014
+p106
+aa(lp107
+V(Robot buzzing, laughter)
+p108
+aa(lp109
+Valong with lower inertia, you're resistant to collisions.
+p110
+aVAnd that makes you more robust.
+p111
+aVSo just like these honeybees, we build small robots.
+p112
+aVAnd this particular one is only 25 grams in weight.
+p113
+aVIt consumes only six watts of power.
+p114
+aVAnd it can travel up to six meters per second.
+p115
+aVSo if I normalize that to its size,
+p116
+aVit's like a Boeing 787 traveling ten times the speed of sound.
+p117
+aa(lp118
+V(Laughter)
+p119
+aa(lp120
+VAnd I want to show you an example.
+p121
+aVThis is probably the first planned mid-air collision, at one-twentieth normal speed.
+p122
+aVThese are going at a relative speed of two meters per second,
+p123
+aVand this illustrates the basic principle.
+p124
+aVThe two-gram carbon fiber cage around it prevents the propellers from entangling,
+p125
+aVbut essentially the collision is absorbed and the robot responds to the collisions.
+p126
+aVAnd so small also means safe.
+p127
+aVIn my lab, as we developed these robots,
+p128
+aVwe start off with these big robots
+p129
+aVand then now we're down to these small robots.
+p130
+aVAnd if you plot a histogram of the number of Band-Aids we've ordered
+p131
+aVin the past, that sort of tailed off now.
+p132
+aVBecause these robots are really safe.
+p133
+aa(lp134
+VThe small size has some disadvantages,
+p135
+aVand nature has found a number of ways to compensate for these disadvantages.
+p136
+aVThe basic idea is they aggregate to form large groups, or swarms.
+p137
+aVSo, similarly, in our lab, we try to create artificial robot swarms.
+p138
+aVAnd this is quite challenging
+p139
+aVbecause now you have to think about networks of robots.
+p140
+aVAnd within each robot,
+p141
+aVyou have to think about the interplay of sensing, communication, computation \u2014
+p142
+aVand this network then becomes quite difficult to control and manage.
+p143
+aVSo from nature we take away three organizing principles
+p144
+aVthat essentially allow us to develop our algorithms.
+p145
+aVThe first idea is that robots need to be aware of their neighbors.
+p146
+aVThey need to be able to sense and communicate with their neighbors.
+p147
+aa(lp148
+VSo this video illustrates the basic idea.
+p149
+aVYou have four robots \u2014
+p150
+aVone of the robots has actually been hijacked by a human operator, literally.
+p151
+aVBut because the robots interact with each other,
+p152
+aVthey sense their neighbors,
+p153
+aVthey essentially follow.
+p154
+aVAnd here there's a single person able to lead this network of followers.
+p155
+aVSo again, it's not because all the robots know where they're supposed to go.
+p156
+aVIt's because they're just reacting to the positions of their neighbors.
+p157
+aa(lp158
+V(Laughter)
+p159
+aa(lp160
+VSo the next experiment illustrates the second organizing principle.
+p161
+aVAnd this principle has to do with the principle of anonymity.
+p162
+aVHere the key idea is that
+p163
+aVthe robots are agnostic to the identities of their neighbors.
+p164
+aVThey're asked to form a circular shape,
+p165
+aVand no matter how many robots you introduce into the formation,
+p166
+aVor how many robots you pull out,
+p167
+aVeach robot is simply reacting to its neighbor.
+p168
+aVIt's aware of the fact that it needs to form the circular shape,
+p169
+aVbut collaborating with its neighbors
+p170
+aVit forms the shape without central coordination.
+p171
+aVNow if you put these ideas together,
+p172
+aVthe third idea is that we essentially give these robots
+p173
+aVmathematical descriptions of the shape they need to execute.
+p174
+aVAnd these shapes can be varying as a function of time,
+p175
+aVand you'll see these robots start from a circular formation,
+p176
+aVchange into a rectangular formation, stretch into a straight line,
+p177
+aVback into an ellipse.
+p178
+aVAnd they do this with the same kind of split-second coordination
+p179
+aVthat you see in natural swarms, in nature.
+p180
+aa(lp181
+VSo why work with swarms?
+p182
+aVLet me tell you about two applications that we are very interested in.
+p183
+aVThe first one has to do with agriculture,
+p184
+aVwhich is probably the biggest problem that we're facing worldwide.
+p185
+aVAs you well know,
+p186
+aVone in every seven persons in this earth is malnourished.
+p187
+aVMost of the land that we can cultivate has already been cultivated.
+p188
+aVAnd the efficiency of most systems in the world is improving,
+p189
+aVbut our production system efficiency is actually declining.
+p190
+aVAnd that's mostly because of water shortage, crop diseases, climate change
+p191
+aVand a couple of other things.
+p192
+aa(lp193
+VSo what can robots do?
+p194
+aVWell, we adopt an approach that's called Precision Farming in the community.
+p195
+aVAnd the basic idea is that we fly aerial robots through orchards,
+p196
+aVand then we build precision models of individual plants.
+p197
+aVSo just like personalized medicine,
+p198
+aVwhile you might imagine wanting to treat every patient individually,
+p199
+aVwhat we'd like to do is build models of individual plants
+p200
+aVand then tell the farmer what kind of inputs every plant needs \u2014
+p201
+aVthe inputs in this case being water, fertilizer and pesticide.
+p202
+aVHere you'll see robots traveling through an apple orchard,
+p203
+aVand in a minute you'll see two of its companions
+p204
+aVdoing the same thing on the left side.
+p205
+aVAnd what they're doing is essentially building a map of the orchard.
+p206
+aVWithin the map is a map of every plant in this orchard.
+p207
+aa(lp208
+V(Robot buzzing)
+p209
+aa(lp210
+VLet's see what those maps look like.
+p211
+aVIn the next video, you'll see the cameras that are being used on this robot.
+p212
+aVOn the top-left is essentially a standard color camera.
+p213
+aVOn the left-center is an infrared camera.
+p214
+aVAnd on the bottom-left is a thermal camera.
+p215
+aVAnd on the main panel, you're seeing a three-dimensional reconstruction
+p216
+aVof every tree in the orchard as the sensors fly right past the trees.
+p217
+aVArmed with information like this, we can do several things.
+p218
+aVThe first and possibly the most important thing we can do is very simple:
+p219
+aVcount the number of fruits on every tree.
+p220
+aVBy doing this, you tell the farmer how many fruits she has in every tree
+p221
+aVand allow her to estimate the yield in the orchard,
+p222
+aVoptimizing the production chain downstream.
+p223
+aa(lp224
+VThe second thing we can do
+p225
+aVis take models of plants, construct three-dimensional reconstructions,
+p226
+aVand from that estimate the canopy size,
+p227
+aVand then correlate the canopy size to the amount of leaf area on every plant.
+p228
+aVAnd this is called the leaf area index.
+p229
+aVSo if you know this leaf area index,
+p230
+aVyou essentially have a measure of how much photosynthesis is possible in every plant,
+p231
+aVwhich again tells you how healthy each plant is.
+p232
+aVBy combining visual and infrared information,
+p233
+aVwe can also compute indices such as NDVI.
+p234
+aVAnd in this particular case, you can essentially see
+p235
+aVthere are some crops that are not doing as well as other crops.
+p236
+aVThis is easily discernible from imagery,
+p237
+aVnot just visual imagery but combining
+p238
+aVboth visual imagery and infrared imagery.
+p239
+aa(lp240
+VAnd then lastly,
+p241
+aVone thing we're interested in doing is detecting the early onset of chlorosis \u2014
+p242
+aVand this is an orange tree \u2014
+p243
+aVwhich is essentially seen by yellowing of leaves.
+p244
+aVBut robots flying overhead can easily spot this autonomously
+p245
+aVand then report to the farmer that he or she has a problem
+p246
+aVin this section of the orchard.
+p247
+aa(lp248
+VSystems like this can really help,
+p249
+aVand we're projecting yields that can improve by about ten percent
+p250
+aVand, more importantly, decrease the amount of inputs such as water
+p251
+aVby 25 percent by using aerial robot swarms.
+p252
+aa(lp253
+VLastly, I want you to applaud the people who actually create the future,
+p254
+aVYash Mulgaonkar, Sikang Liu and Giuseppe Loianno,
+p255
+aVwho are responsible for the three demonstrations that you saw.
+p256
+aa(lp257
+VThank you.
+p258
+aa(lp259
+V(Applause)
+p260
+aasS'id'
+p261
+I2346
+sS'title'
+p262
+VThe future of flying robots
+p263
+s.

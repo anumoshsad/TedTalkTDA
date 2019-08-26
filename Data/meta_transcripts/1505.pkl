@@ -1,0 +1,438 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VMy passions
+p4
+aVare music, technology and making things.
+p5
+aVAnd it's the combination of these things
+p6
+aVthat has led me to the hobby of sound visualization,
+p7
+aVand, on occasion, has led me to play with fire.
+p8
+aa(lp9
+VThis is a Rubens' tube. It's one of many I've made over the years,
+p10
+aVand I have one here tonight.
+p11
+aVIt's about an 8-foot-long tube of metal,
+p12
+aVit's got a hundred or so holes on top,
+p13
+aVon that side is the speaker, and here
+p14
+aVis some lab tubing, and it's connected to this tank
+p15
+aVof propane.
+p16
+aVSo, let's fire it up and see what it does.
+p17
+aVSo let's play a 550-herz frequency
+p18
+aVand watch what happens.
+p19
+aa(lp20
+V(Frequency)
+p21
+aa(lp22
+VThank you. (Applause)
+p23
+aVIt's okay to applaud the laws of physics,
+p24
+aVbut essentially what's happening here
+p25
+aV\u2014 (Laughter) \u2014
+p26
+aVis the energy from the sound via the air and gas molecules
+p27
+aVis influencing the combustion properties of propane,
+p28
+aVcreating a visible waveform,
+p29
+aVand we can see the alternating regions of compression
+p30
+aVand rarefaction that we call frequency,
+p31
+aVand the height is showing us amplitude.
+p32
+aVSo let's change the frequency of the sound,
+p33
+aVand watch what happens to the fire.
+p34
+aa(lp35
+V(Higher frequency)
+p36
+aa(lp37
+VSo every time we hit a resonant frequency we get a standing wave
+p38
+aVand that emergent sine curve of fire.
+p39
+aVSo let's turn that off. We're indoors.
+p40
+aVThank you. (Applause)
+p41
+aa(lp42
+VI also have with me a flame table.
+p43
+aVIt's very similar to a Rubens' tube, and it's also used
+p44
+aVfor visualizing the physical properties of sound,
+p45
+aVsuch as eigenmodes, so let's fire it up
+p46
+aVand see what it does.
+p47
+aa(lp48
+VOoh. (Laughter)
+p49
+aVOkay. Now, while the table comes up to pressure,
+p50
+aVlet me note here that the sound is not traveling
+p51
+aVin perfect lines. It's actually traveling in all directions,
+p52
+aVand the Rubens' tube's a little like bisecting those waves
+p53
+aVwith a line, and the flame table's a little like
+p54
+aVbisecting those waves with a plane,
+p55
+aVand it can show a little more subtle complexity, which is why
+p56
+aVI like to use it to watch Geoff Farina play guitar.
+p57
+aa(lp58
+V(Music)
+p59
+aa(lp60
+VAll right, so it's a delicate dance.
+p61
+aVIf you watch closely \u2014 (Applause)
+p62
+aVIf you watch closely, you may have seen
+p63
+aVsome of the eigenmodes, but also you may have seen
+p64
+aVthat jazz music is better with fire.
+p65
+aVActually, a lot of things are better with fire in my world,
+p66
+aVbut the fire's just a foundation.
+p67
+aVIt shows very well that eyes can hear,
+p68
+aVand this is interesting to me because
+p69
+aVtechnology allows us to present sound to the eyes
+p70
+aVin ways that accentuate the strength of the eyes
+p71
+aVfor seeing sound, such as the removal of time.
+p72
+aa(lp73
+VSo here, I'm using a rendering algorithm to paint
+p74
+aVthe frequencies of the song "Smells Like Teen Spirit"
+p75
+aVin a way that the eyes can take them in
+p76
+aVas a single visual impression, and the technique
+p77
+aVwill also show the strengths of the visual cortex
+p78
+aVfor pattern recognition.
+p79
+aVSo if I show you another song off this album,
+p80
+aVand another, your eyes will easily pick out
+p81
+aVthe use of repetition by the band Nirvana,
+p82
+aVand in the frequency distribution, the colors,
+p83
+aVyou can see the clean-dirty-clean sound
+p84
+aVthat they are famous for,
+p85
+aVand here is the entire album as a single visual impression,
+p86
+aVand I think this impression is pretty powerful.
+p87
+aa(lp88
+VAt least, it's powerful enough that
+p89
+aVif I show you these four songs,
+p90
+aVand I remind you that this is "Smells Like Teen Spirit,"
+p91
+aVyou can probably correctly guess, without listening
+p92
+aVto any music at all, that the song
+p93
+aVa die hard Nirvana fan would enjoy is this song,
+p94
+aV"I'll Stick Around" by the Foo Fighters,
+p95
+aVwhose lead singer is Dave Grohl,
+p96
+aVwho was the drummer in Nirvana.
+p97
+aVThe songs are a little similar, but mostly
+p98
+aVI'm just interested in the idea that someday maybe
+p99
+aVwe'll buy a song because we like the way it looks.
+p100
+aa(lp101
+VAll right, now for some more sound data.
+p102
+aVThis is data from a skate park,
+p103
+aVand this is Mabel Davis skate park
+p104
+aVin Austin, Texas. (Skateboard sounds)
+p105
+aVAnd the sounds you're hearing came from eight
+p106
+aVmicrophones attached to obstacles around the park,
+p107
+aVand it sounds like chaos, but actually
+p108
+aVall the tricks start with a very distinct slap,
+p109
+aVbut successful tricks end with a pop,
+p110
+aVwhereas unsuccessful tricks
+p111
+aVmore of a scratch and a tumble,
+p112
+aVand tricks on the rail will ring out like a gong, and
+p113
+aVvoices occupy very unique frequencies in the skate park.
+p114
+aa(lp115
+VSo if we were to render these sounds visually,
+p116
+aVwe might end up with something like this.
+p117
+aVThis is all 40 minutes of the recording,
+p118
+aVand right away the algorithm tells us
+p119
+aVa lot more tricks are missed than are made,
+p120
+aVand also a trick on the rails is a lot more likely
+p121
+aVto produce a cheer, and if you look really closely,
+p122
+aVwe can tease out traffic patterns.
+p123
+aVYou see the skaters often trick in this direction. The obstacles are easier.
+p124
+aa(lp125
+VAnd in the middle of the recording, the mics pick this up,
+p126
+aVbut later in the recording, this kid shows up,
+p127
+aVand he starts using a line at the top of the park
+p128
+aVto do some very advanced tricks on something
+p129
+aVcalled the tall rail.
+p130
+aVAnd it's fascinating. At this moment in time,
+p131
+aVall the rest of the skaters turn their lines 90 degrees
+p132
+aVto stay out of his way.
+p133
+aVYou see, there's a subtle etiquette in the skate park,
+p134
+aVand it's led by key influencers,
+p135
+aVand they tend to be the kids who can do the best tricks,
+p136
+aVor wear red pants, and on this day the mics picked that up.
+p137
+aa(lp138
+VAll right, from skate physics to theoretical physics.
+p139
+aVI'm a big fan of Stephen Hawking,
+p140
+aVand I wanted to use all eight hours
+p141
+aVof his Cambridge lecture series to create an homage.
+p142
+aVNow, in this series he's speaking with the aid of a computer,
+p143
+aVwhich actually makes identifying the ends of sentences
+p144
+aVfairly easy. So I wrote a steering algorithm.
+p145
+aVIt listens to the lecture, and then it uses
+p146
+aVthe amplitude of each word to move a point on the x-axis,
+p147
+aVand it uses the inflection of sentences
+p148
+aVto move a same point up and down on the y-axis.
+p149
+aa(lp150
+VAnd these trend lines, you can see, there's more questions
+p151
+aVthan answers in the laws of physics,
+p152
+aVand when we reach the end of a sentence,
+p153
+aVwe place a star at that location.
+p154
+aVSo there's a lot of sentences, so a lot of stars,
+p155
+aVand after rendering all of the audio, this is what we get.
+p156
+aVThis is Stephen Hawking's universe.
+p157
+aa(lp158
+V(Applause)
+p159
+aa(lp160
+VIt's all eight hours of the Cambridge lecture series
+p161
+aVtaken in as a single visual impression,
+p162
+aVand I really like this image,
+p163
+aVbut a lot of people think it's fake.
+p164
+aVSo I made a more interactive version,
+p165
+aVand the way I did that is I used their position in time
+p166
+aVin the lecture to place these stars into 3D space,
+p167
+aVand with some custom software and a Kinect,
+p168
+aVI can walk right into the lecture.
+p169
+aVI'm going to wave through the Kinect here
+p170
+aVand take control, and now I'm going to reach out
+p171
+aVand I'm going to touch a star, and when I do,
+p172
+aVit will play the sentence
+p173
+aVthat generated that star.
+p174
+aa(lp175
+VStephen Hawking: There is one, and only one, arrangement
+p176
+aVin which the pieces make a complete picture.
+p177
+aa(lp178
+VJared Ficklin: Thank you. (Applause)
+p179
+aVThere are 1,400 stars.
+p180
+aVIt's a really fun way to explore the lecture,
+p181
+aVand, I hope, a fitting homage.
+p182
+aa(lp183
+VAll right. Let me close with a work in progress.
+p184
+aVI think, after 30 years, the opportunity exists
+p185
+aVto create an enhanced version of closed captioning.
+p186
+aVNow, we've all seen a lot of TEDTalks online,
+p187
+aVso let's watch one now with the sound turned off
+p188
+aVand the closed captioning turned on.
+p189
+aa(lp190
+VThere's no closed captioning for the TED theme song,
+p191
+aVand we're missing it, but if you've watched enough of these,
+p192
+aVyou hear it in your mind's ear,
+p193
+aVand then applause starts.
+p194
+aVIt usually begins here, and it grows and then it falls.
+p195
+aVSometimes you get a little star applause,
+p196
+aVand then I think even Bill Gates takes a nervous breath,
+p197
+aVand the talk begins.
+p198
+aa(lp199
+VAll right, so let's watch this clip again.
+p200
+aVThis time, I'm not going to talk at all.
+p201
+aVThere's still going to be no audio,
+p202
+aVbut what I am going to do is I'm going to render the sound
+p203
+aVvisually in real time at the bottom of the screen.
+p204
+aVSo watch closely and see what your eyes can hear.
+p205
+aa(lp206
+VThis is fairly amazing to me.
+p207
+aVEven on the first view, your eyes will successfully
+p208
+aVpick out patterns, but on repeated views,
+p209
+aVyour brain actually gets better
+p210
+aVat turning these patterns into information.
+p211
+aVYou can get the tone and the timbre
+p212
+aVand the pace of the speech,
+p213
+aVthings that you can't get out of closed captioning.
+p214
+aVThat famous scene in horror movies
+p215
+aVwhere someone is walking up from behind
+p216
+aVis something you can see,
+p217
+aVand I believe this information would be something
+p218
+aVthat is useful at times when the audio is turned off
+p219
+aVor not heard at all, and I speculate that deaf audiences
+p220
+aVmight actually even be better
+p221
+aVat seeing sound than hearing audiences.
+p222
+aVI don't know. It's a theory right now.
+p223
+aVActually, it's all just an idea.
+p224
+aa(lp225
+VAnd let me end by saying that sound moves in all directions,
+p226
+aVand so do ideas.
+p227
+aVThank you. (Applause)
+p228
+aasS'id'
+p229
+I1505
+sS'title'
+p230
+VNew ways to see music (with color! and fire!)
+p231
+s.

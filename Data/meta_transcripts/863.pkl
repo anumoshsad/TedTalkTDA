@@ -1,0 +1,895 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWe're here today to announce
+p4
+aVthe first synthetic cell,
+p5
+aVa cell made by
+p6
+aVstarting with the digital code in the computer,
+p7
+aVbuilding the chromosome
+p8
+aVfrom four bottles of chemicals,
+p9
+aVassembling that chromosome in yeast,
+p10
+aVtransplanting it into
+p11
+aVa recipient bacterial cell
+p12
+aVand transforming that cell
+p13
+aVinto a new bacterial species.
+p14
+aVSo this is the first self-replicating species
+p15
+aVthat we've had on the planet
+p16
+aVwhose parent is a computer.
+p17
+aVIt also is the first species
+p18
+aVto have its own website
+p19
+aVencoded in its genetic code.
+p20
+aVBut we'll talk more about
+p21
+aVthe watermarks in a minute.
+p22
+aa(lp23
+VThis is a project that had its inception
+p24
+aV15 years ago
+p25
+aVwhen our team then \u2014
+p26
+aVwe called the institute TIGR \u2014
+p27
+aVwas involved in sequencing
+p28
+aVthe first two genomes in history.
+p29
+aVWe did Haemophilus influenzae
+p30
+aVand then the smallest genome of a self-replicating organism,
+p31
+aVthat of Mycoplasma genitalium.
+p32
+aVAnd as soon as
+p33
+aVwe had these two sequences
+p34
+aVwe thought, if this is supposed to be the smallest genome
+p35
+aVof a self-replicating species,
+p36
+aVcould there be even a smaller genome?
+p37
+aVCould we understand the basis of cellular life
+p38
+aVat the genetic level?
+p39
+aVIt's been a 15-year quest
+p40
+aVjust to get to the starting point now
+p41
+aVto be able to answer those questions,
+p42
+aVbecause it's very difficult to eliminate
+p43
+aVmultiple genes from a cell.
+p44
+aVYou can only do them one at a time.
+p45
+aVWe decided early on
+p46
+aVthat we had to take a synthetic route,
+p47
+aVeven though nobody had been there before,
+p48
+aVto see if we could synthesize
+p49
+aVa bacterial chromosome
+p50
+aVso we could actually vary the gene content
+p51
+aVto understand the essential genes for life.
+p52
+aVThat started our 15-year quest
+p53
+aVto get here.
+p54
+aa(lp55
+VBut before we did the first experiments,
+p56
+aVwe actually asked
+p57
+aVArt Caplan's team at the University of Pennsylvania
+p58
+aVto undertake a review
+p59
+aVof what the risks, the challenges,
+p60
+aVthe ethics around creating new
+p61
+aVspecies in the laboratory were
+p62
+aVbecause it hadn't been done before.
+p63
+aVThey spent about two years
+p64
+aVreviewing that independently
+p65
+aVand published their results in Science in 1999.
+p66
+aVHam and I took two years off
+p67
+aVas a side project to sequence the human genome,
+p68
+aVbut as soon as that was done
+p69
+aVwe got back to the task at hand.
+p70
+aa(lp71
+VIn 2002, we started
+p72
+aVa new institute,
+p73
+aVthe Institute for Biological Energy Alternatives,
+p74
+aVwhere we set out two goals:
+p75
+aVOne, to understand
+p76
+aVthe impact of our technology on the environment,
+p77
+aVand how to understand the environment better,
+p78
+aVand two, to start down this process
+p79
+aVof making synthetic life
+p80
+aVto understand basic life.
+p81
+aVIn 2003,
+p82
+aVwe published our first success.
+p83
+aVSo Ham Smith and Clyde Hutchison
+p84
+aVdeveloped some new methods
+p85
+aVfor making error-free DNA
+p86
+aVat a small level.
+p87
+aVOur first task was
+p88
+aVa 5,000-letter code bacteriophage,
+p89
+aVa virus that attacks only E. coli.
+p90
+aVSo that was
+p91
+aVthe phage phi X 174,
+p92
+aVwhich was chosen for historical reasons.
+p93
+aVIt was the first DNA phage,
+p94
+aVDNA virus, DNA genome
+p95
+aVthat was actually sequenced.
+p96
+aVSo once we realized
+p97
+aVthat we could make 5,000-base pair
+p98
+aVviral-sized pieces,
+p99
+aVwe thought, we at least have the means
+p100
+aVthen to try and make serially lots of these pieces
+p101
+aVto be able to eventually assemble them together
+p102
+aVto make this mega base chromosome.
+p103
+aVSo, substantially larger than
+p104
+aVwe even thought we would go initially.
+p105
+aa(lp106
+VThere were several steps to this. There were two sides:
+p107
+aVWe had to solve the chemistry
+p108
+aVfor making large DNA molecules,
+p109
+aVand we had to solve the biological side
+p110
+aVof how, if we had this new chemical entity,
+p111
+aVhow would we boot it up, activate it
+p112
+aVin a recipient cell.
+p113
+aVWe had two teams working in parallel:
+p114
+aVone team on the chemistry,
+p115
+aVand the other on trying to
+p116
+aVbe able to transplant
+p117
+aVentire chromosomes
+p118
+aVto get new cells.
+p119
+aVWhen we started this out, we thought the synthesis would be the biggest problem,
+p120
+aVwhich is why we chose the smallest genome.
+p121
+aa(lp122
+VAnd some of you have noticed that we switched from the smallest genome
+p123
+aVto a much larger one.
+p124
+aVAnd we can walk through the reasons for that,
+p125
+aVbut basically the small cell
+p126
+aVtook on the order of
+p127
+aVone to two months to get results from,
+p128
+aVwhereas the larger, faster-growing cell
+p129
+aVtakes only two days.
+p130
+aVSo there's only so many cycles we could go through
+p131
+aVin a year at six weeks per cycle.
+p132
+aVAnd you should know that basically
+p133
+aV99, probably 99 percent plus
+p134
+aVof our experiments failed.
+p135
+aVSo this was a debugging,
+p136
+aVproblem-solving scenario from the beginning
+p137
+aVbecause there was no recipe
+p138
+aVof how to get there.
+p139
+aa(lp140
+VSo, one of the most important publications we had
+p141
+aVwas in 2007.
+p142
+aVCarole Lartigue led the effort
+p143
+aVto actually transplant a bacterial chromosome
+p144
+aVfrom one bacteria to another.
+p145
+aVI think philosophically, that was one of the most important papers
+p146
+aVthat we've ever done
+p147
+aVbecause it showed how dynamic life was.
+p148
+aVAnd we knew, once that worked,
+p149
+aVthat we actually had a chance
+p150
+aVif we could make the synthetic chromosomes
+p151
+aVto do the same with those.
+p152
+aVWe didn't know that it was going to take us
+p153
+aVseveral years more to get there.
+p154
+aa(lp155
+VIn 2008,
+p156
+aVwe reported the complete synthesis
+p157
+aVof the Mycoplasma genitalium genome,
+p158
+aVa little over 500,000 letters of genetic code,
+p159
+aVbut we have not yet succeeded in booting up that chromosome.
+p160
+aVWe think in part, because of its slow growth
+p161
+aVand, in part,
+p162
+aVcells have all kinds of unique defense mechanisms
+p163
+aVto keep these events from happening.
+p164
+aVIt turned out the cell that we were trying to transplant into
+p165
+aVhad a nuclease, an enzyme that chews up DNA on its surface,
+p166
+aVand was happy to eat
+p167
+aVthe synthetic DNA that we gave it
+p168
+aVand never got transplantations.
+p169
+aVBut at the time, that was the largest
+p170
+aVmolecule of a defined structure
+p171
+aVthat had been made.
+p172
+aa(lp173
+VAnd so both sides were progressing,
+p174
+aVbut part of the synthesis
+p175
+aVhad to be accomplished or was able to be accomplished
+p176
+aVusing yeast, putting the fragments in yeast
+p177
+aVand yeast would assemble these for us.
+p178
+aVIt's an amazing step forward,
+p179
+aVbut we had a problem because now we had
+p180
+aVthe bacterial chromosomes growing in yeast.
+p181
+aVSo in addition to doing the transplant,
+p182
+aVwe had to find out how to get a bacterial chromosome
+p183
+aVout of the eukaryotic yeast
+p184
+aVinto a form where we could transplant it
+p185
+aVinto a recipient cell.
+p186
+aa(lp187
+VSo our team developed new techniques
+p188
+aVfor actually growing, cloning
+p189
+aVentire bacterial chromosomes in yeast.
+p190
+aVSo we took the same mycoides genome
+p191
+aVthat Carole had initially transplanted,
+p192
+aVand we grew that in yeast
+p193
+aVas an artificial chromosome.
+p194
+aVAnd we thought this would be a great test bed
+p195
+aVfor learning how to get chromosomes out of yeast
+p196
+aVand transplant them.
+p197
+aVWhen we did these experiments, though,
+p198
+aVwe could get the chromosome out of yeast
+p199
+aVbut it wouldn't transplant and boot up a cell.
+p200
+aVThat little issue took the team two years to solve.
+p201
+aa(lp202
+VIt turns out, the DNA in the bacterial cell
+p203
+aVwas actually methylated,
+p204
+aVand the methylation protects it from the restriction enzyme,
+p205
+aVfrom digesting the DNA.
+p206
+aVSo what we found is if we took the chromosome
+p207
+aVout of yeast and methylated it,
+p208
+aVwe could then transplant it.
+p209
+aVFurther advances came
+p210
+aVwhen the team removed the restriction enzyme genes
+p211
+aVfrom the recipient capricolum cell.
+p212
+aVAnd once we had done that, now we can take
+p213
+aVnaked DNA out of yeast and transplant it.
+p214
+aa(lp215
+VSo last fall
+p216
+aVwhen we published the results of that work in Science,
+p217
+aVwe all became overconfident
+p218
+aVand were sure we were only
+p219
+aVa few weeks away
+p220
+aVfrom being able to now boot up
+p221
+aVa chromosome out of yeast.
+p222
+aVBecause of the problems with
+p223
+aVMycoplasma genitalium and its slow growth
+p224
+aVabout a year and a half ago,
+p225
+aVwe decided to synthesize
+p226
+aVthe much larger chromosome, the mycoides chromosome,
+p227
+aVknowing that we had the biology worked out on that
+p228
+aVfor transplantation.
+p229
+aVAnd Dan led the team for the synthesis
+p230
+aVof this over one-million-base pair chromosome.
+p231
+aVBut it turned out it wasn't going to be as simple in the end,
+p232
+aVand it set us back three months
+p233
+aVbecause we had one error
+p234
+aVout of over a million base pairs in that sequence.
+p235
+aa(lp236
+VSo the team developed new debugging software,
+p237
+aVwhere we could test each synthetic fragment
+p238
+aVto see if it would grow in a background
+p239
+aVof wild type DNA.
+p240
+aVAnd we found that 10 out of the 11
+p241
+aV100,000-base pair pieces we synthesized
+p242
+aVwere completely accurate
+p243
+aVand compatible with
+p244
+aVa life-forming sequence.
+p245
+aVWe narrowed it down to one fragment;
+p246
+aVwe sequenced it
+p247
+aVand found just one base pair had been deleted
+p248
+aVin an essential gene.
+p249
+aVSo accuracy is essential.
+p250
+aVThere's parts of the genome
+p251
+aVwhere it cannot tolerate even a single error,
+p252
+aVand then there's parts of the genome
+p253
+aVwhere we can put in large blocks of DNA,
+p254
+aVas we did with the watermarks,
+p255
+aVand it can tolerate all kinds of errors.
+p256
+aVSo it took about three months to find that error
+p257
+aVand repair it.
+p258
+aVAnd then early one morning, at 6 a.m.
+p259
+aVwe got a text from Dan
+p260
+aVsaying that, now, the first blue colonies existed.
+p261
+aa(lp262
+VSo, it's been a long route to get here:
+p263
+aV15 years from the beginning.
+p264
+aVWe felt
+p265
+aVone of the tenets of this field
+p266
+aVwas to make absolutely certain
+p267
+aVwe could distinguish synthetic DNA
+p268
+aVfrom natural DNA.
+p269
+aVEarly on, when you're working in a new area of science,
+p270
+aVyou have to think about all the pitfalls
+p271
+aVand things that could lead you
+p272
+aVto believe that you had done something when you hadn't,
+p273
+aVand, even worse, leading others to believe it.
+p274
+aVSo, we thought the worst problem would be
+p275
+aVa single molecule contamination
+p276
+aVof the native chromosome,
+p277
+aVleading us to believe that we actually had
+p278
+aVcreated a synthetic cell,
+p279
+aVwhen it would have been just a contaminant.
+p280
+aa(lp281
+VSo early on, we developed the notion
+p282
+aVof putting in watermarks in the DNA
+p283
+aVto absolutely make clear
+p284
+aVthat the DNA was synthetic.
+p285
+aVAnd the first chromosome we built
+p286
+aVin 2008 \u2014
+p287
+aVthe 500,000-base pair one \u2014
+p288
+aVwe simply assigned
+p289
+aVthe names of the authors of the chromosome
+p290
+aVinto the genetic code,
+p291
+aVbut it was using just amino acid
+p292
+aVsingle letter translations,
+p293
+aVwhich leaves out certain letters of the alphabet.
+p294
+aVSo the team actually developed a new code
+p295
+aVwithin the code within the code.
+p296
+aVSo it's a new code
+p297
+aVfor interpreting and writing messages in DNA.
+p298
+aVNow, mathematicians have been hiding and writing
+p299
+aVmessages in the genetic code for a long time,
+p300
+aVbut it's clear they were mathematicians and not biologists
+p301
+aVbecause, if you write long messages
+p302
+aVwith the code that the mathematicians developed,
+p303
+aVit would more than likely lead to
+p304
+aVnew proteins being synthesized
+p305
+aVwith unknown functions.
+p306
+aa(lp307
+VSo the code that Mike Montague and the team developed
+p308
+aVactually puts frequent stop codons,
+p309
+aVso it's a different alphabet
+p310
+aVbut allows us to use
+p311
+aVthe entire English alphabet
+p312
+aVwith punctuation and numbers.
+p313
+aVSo, there are four major watermarks
+p314
+aVall over 1,000 base pairs of genetic code.
+p315
+aVThe first one actually contains within it
+p316
+aVthis code for interpreting
+p317
+aVthe rest of the genetic code.
+p318
+aVSo in the remaining information,
+p319
+aVin the watermarks,
+p320
+aVcontain the names of, I think it's
+p321
+aV46 different authors
+p322
+aVand key contributors
+p323
+aVto getting the project to this stage.
+p324
+aVAnd we also built in
+p325
+aVa website address
+p326
+aVso that if somebody decodes the code
+p327
+aVwithin the code within the code,
+p328
+aVthey can send an email to that address.
+p329
+aVSo it's clearly distinguishable
+p330
+aVfrom any other species,
+p331
+aVhaving 46 names in it,
+p332
+aVits own web address.
+p333
+aVAnd we added three quotations,
+p334
+aVbecause with the first genome
+p335
+aVwe were criticized for not trying to say something more profound
+p336
+aVthan just signing the work.
+p337
+aa(lp338
+VSo we won't give the rest of the code,
+p339
+aVbut we will give the three quotations.
+p340
+aVThe first is,
+p341
+aV"To live, to err,
+p342
+aVto fall, to triumph
+p343
+aVand to recreate life out of life."
+p344
+aVIt's a James Joyce quote.
+p345
+aVThe second quotation is, "See things not as they are,
+p346
+aVbut as they might be."
+p347
+aVIt's a quote from the "American Prometheus"
+p348
+aVbook on Robert Oppenheimer.
+p349
+aVAnd the last one is a Richard Feynman quote:
+p350
+aV"What I cannot build,
+p351
+aVI cannot understand."
+p352
+aVSo, because this is as much a philosophical advance
+p353
+aVas a technical advance in science,
+p354
+aVwe tried to deal with both the philosophical
+p355
+aVand the technical side.
+p356
+aa(lp357
+VThe last thing I want to say before turning it over to questions
+p358
+aVis that the extensive work
+p359
+aVthat we've done \u2014
+p360
+aVasking for ethical review,
+p361
+aVpushing the envelope
+p362
+aVon that side as well as the technical side \u2014
+p363
+aVthis has been broadly discussed in the scientific community,
+p364
+aVin the policy community
+p365
+aVand at the highest levels of the federal government.
+p366
+aVEven with this announcement,
+p367
+aVas we did in 2003 \u2014
+p368
+aVthat work was funded by the Department of Energy,
+p369
+aVso the work was reviewed
+p370
+aVat the level of the White House,
+p371
+aVtrying to decide whether to classify the work or publish it.
+p372
+aVAnd they came down on the side of open publication,
+p373
+aVwhich is the right approach \u2014
+p374
+aVwe've briefed the White House,
+p375
+aVwe've briefed members of Congress,
+p376
+aVwe've tried to take and push
+p377
+aVthe policy issues
+p378
+aVin parallel with the scientific advances.
+p379
+aa(lp380
+VSo with that, I would like
+p381
+aVto open it first to the floor for questions.
+p382
+aVYes, in the back.
+p383
+aa(lp384
+VReporter: Could you explain, in layman's terms,
+p385
+aVhow significant a breakthrough this is please?
+p386
+aa(lp387
+VCraig Venter: Can we explain how significant this is?
+p388
+aVI'm not sure we're the ones that should be explaining how significant it is.
+p389
+aVIt's significant to us.
+p390
+aVPerhaps it's a giant philosophical change
+p391
+aVin how we view life.
+p392
+aVWe actually view it as a baby step in terms of,
+p393
+aVit's taken us 15 years to be able
+p394
+aVto do the experiment
+p395
+aVwe wanted to do 15 years ago
+p396
+aVon understanding life at its basic level.
+p397
+aVBut we actually believe
+p398
+aVthis is going to be a very powerful set of tools
+p399
+aVand we're already starting
+p400
+aVin numerous avenues
+p401
+aVto use this tool.
+p402
+aa(lp403
+VWe have, at the Institute,
+p404
+aVongoing funding now from NIH
+p405
+aVin a program with Novartis
+p406
+aVto try and use these new
+p407
+aVsynthetic DNA tools
+p408
+aVto perhaps make the flu vaccine
+p409
+aVthat you might get next year.
+p410
+aVBecause instead of taking weeks to months to make these,
+p411
+aVDan's team can now make these
+p412
+aVin less than 24 hours.
+p413
+aVSo when you see how long it took to get an H1N1 vaccine out,
+p414
+aVwe think we can shorten that process
+p415
+aVquite substantially.
+p416
+aVIn the vaccine area,
+p417
+aVSynthetic Genomics and the Institute
+p418
+aVare forming a new vaccine company
+p419
+aVbecause we think these tools can affect vaccines
+p420
+aVto diseases that haven't been possible to date,
+p421
+aVthings where the viruses rapidly evolve,
+p422
+aVsuch with rhinovirus.
+p423
+aVWouldn't it be nice to have something that actually blocked common colds?
+p424
+aVOr, more importantly, HIV,
+p425
+aVwhere the virus evolves so quickly
+p426
+aVthe vaccines that are made today
+p427
+aVcan't keep up
+p428
+aVwith those evolutionary changes.
+p429
+aa(lp430
+VAlso, at Synthetic Genomics,
+p431
+aVwe've been working
+p432
+aVon major environmental issues.
+p433
+aVI think this latest oil spill in the Gulf
+p434
+aVis a reminder.
+p435
+aVWe can't see CO2 \u2014
+p436
+aVwe depend on scientific measurements for it
+p437
+aVand we see the beginning results
+p438
+aVof having too much of it \u2014
+p439
+aVbut we can see pre-CO2 now
+p440
+aVfloating on the waters
+p441
+aVand contaminating the beaches in the Gulf.
+p442
+aVWe need some alternatives
+p443
+aVfor oil.
+p444
+aVWe have a program with Exxon Mobile
+p445
+aVto try and develop new strains of algae
+p446
+aVthat can efficiently capture carbon dioxide
+p447
+aVfrom the atmosphere or from concentrated sources,
+p448
+aVmake new hydrocarbons that can go into their refineries
+p449
+aVto make normal gasoline
+p450
+aVand diesel fuel out of CO2.
+p451
+aa(lp452
+VThose are just a couple of the approaches
+p453
+aVand directions that we're taking.
+p454
+aa(lp455
+V(Applause)
+p456
+aasS'id'
+p457
+I863
+sS'title'
+p458
+VWatch me unveil "synthetic life"
+p459
+s.

@@ -1,0 +1,705 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VYou know, I've talked about some of these projects before \u2014
+p4
+aVabout the human genome and what that might mean,
+p5
+aVand discovering new sets of genes.
+p6
+aVWe're actually starting at a new point:
+p7
+aVwe've been digitizing biology,
+p8
+aVand now we're trying to go from that digital code
+p9
+aVinto a new phase of biology
+p10
+aVwith designing and synthesizing life.
+p11
+aa(lp12
+VSo, we've always been trying to ask big questions.
+p13
+aV"What is life?" is something that I think many biologists
+p14
+aVhave been trying to understand
+p15
+aVat various levels.
+p16
+aVWe've tried various approaches,
+p17
+aVparing it down to minimal components.
+p18
+aVWe've been digitizing it now for almost 20 years;
+p19
+aVwhen we sequenced the human genome,
+p20
+aVit was going from the analog world of biology
+p21
+aVinto the digital world of the computer.
+p22
+aVNow we're trying to ask, "Can we regenerate life
+p23
+aVor can we create new life
+p24
+aVout of this digital universe?"
+p25
+aa(lp26
+VThis is the map of a small organism,
+p27
+aVMycoplasma genitalium,
+p28
+aVthat has the smallest genome for a species
+p29
+aVthat can self-replicate in the laboratory,
+p30
+aVand we've been trying to just see if
+p31
+aVwe can come up with an even smaller genome.
+p32
+aVWe're able to knock out on the order of 100 genes
+p33
+aVout of the 500 or so that are here.
+p34
+aVWhen we look at its metabolic map,
+p35
+aVit's relatively simple
+p36
+aVcompared to ours \u2014
+p37
+aVtrust me, this is simple \u2014
+p38
+aVbut when we look at all the genes
+p39
+aVthat we can knock out one at a time,
+p40
+aVit's very unlikely that this would yield
+p41
+aVa living cell.
+p42
+aVSo we decided the only way forward
+p43
+aVwas to actually synthesize this chromosome
+p44
+aVso we could vary the components
+p45
+aVto ask some of these most fundamental questions.
+p46
+aVAnd so we started down the road of:
+p47
+aVcan we synthesize a chromosome?
+p48
+aVCan chemistry permit making
+p49
+aVthese really large molecules
+p50
+aVwhere we've never been before?
+p51
+aVAnd if we do, can we boot up a chromosome?
+p52
+aVA chromosome, by the way, is just a piece of inert chemical material.
+p53
+aVSo, our pace of digitizing life has been increasing
+p54
+aVat an exponential pace.
+p55
+aa(lp56
+VOur ability to write the genetic code
+p57
+aVhas been moving pretty slowly
+p58
+aVbut has been increasing,
+p59
+aVand our latest point would put it on, now, an exponential curve.
+p60
+aVWe started this over 15 years ago.
+p61
+aVIt took several stages, in fact,
+p62
+aVstarting with a bioethical review before we did the first experiments.
+p63
+aVBut it turns out synthesizing DNA
+p64
+aVis very difficult.
+p65
+aVThere are tens of thousands of machines around the world
+p66
+aVthat make small pieces of DNA \u2014
+p67
+aV30 to 50 letters in length \u2014
+p68
+aVand it's a degenerate process, so the longer you make the piece,
+p69
+aVthe more errors there are.
+p70
+aVSo we had to create a new method
+p71
+aVfor putting these little pieces together and correct all the errors.
+p72
+aa(lp73
+VAnd this was our first attempt, starting with the digital information
+p74
+aVof the genome of phi X174.
+p75
+aVIt's a small virus that kills bacteria.
+p76
+aVWe designed the pieces, went through our error correction
+p77
+aVand had a DNA molecule
+p78
+aVof about 5,000 letters.
+p79
+aVThe exciting phase came when we took this piece of inert chemical
+p80
+aVand put it in the bacteria,
+p81
+aVand the bacteria started to read this genetic code,
+p82
+aVmade the viral particles.
+p83
+aVThe viral particles then were released from the cells
+p84
+aVand came back and killed the E. coli.
+p85
+aVI was talking to the oil industry recently
+p86
+aVand I said they clearly understood that model.
+p87
+aa(lp88
+V(Laughter)
+p89
+aa(lp90
+VThey laughed more than you guys are. (Laughter)
+p91
+aa(lp92
+VAnd so, we think this is a situation
+p93
+aVwhere the software can actually build its own hardware
+p94
+aVin a biological system.
+p95
+aVBut we wanted to go much larger:
+p96
+aVwe wanted to build the entire bacterial chromosome \u2014
+p97
+aVit's over 580,000 letters of genetic code \u2014
+p98
+aVso we thought we'd build them in cassettes the size of the viruses
+p99
+aVso we could actually vary the cassettes
+p100
+aVto understand
+p101
+aVwhat the actual components of a living cell are.
+p102
+aVDesign is critical,
+p103
+aVand if you're starting with digital information in the computer,
+p104
+aVthat digital information has to be really accurate.
+p105
+aVWhen we first sequenced this genome in 1995,
+p106
+aVthe standard of accuracy was one error per 10,000 base pairs.
+p107
+aVWe actually found, on resequencing it,
+p108
+aV30 errors; had we used that original sequence,
+p109
+aVit never would have been able to be booted up.
+p110
+aVPart of the design is designing pieces
+p111
+aVthat are 50 letters long
+p112
+aVthat have to overlap with all the other 50-letter pieces
+p113
+aVto build smaller subunits
+p114
+aVwe have to design so they can go together.
+p115
+aVWe design unique elements into this.
+p116
+aa(lp117
+VYou may have read that we put watermarks in.
+p118
+aVThink of this:
+p119
+aVwe have a four-letter genetic code \u2014 A, C, G and T.
+p120
+aVTriplets of those letters
+p121
+aVcode for roughly 20 amino acids,
+p122
+aVsuch that there's a single letter designation
+p123
+aVfor each of the amino acids.
+p124
+aVSo we can use the genetic code to write out words,
+p125
+aVsentences, thoughts.
+p126
+aVInitially, all we did was autograph it.
+p127
+aVSome people were disappointed there was not poetry.
+p128
+aVWe designed these pieces so
+p129
+aVwe can just chew back with enzymes;
+p130
+aVthere are enzymes that repair them and put them together.
+p131
+aVAnd we started making pieces,
+p132
+aVstarting with pieces that were 5,000 to 7,000 letters,
+p133
+aVput those together to make 24,000-letter pieces,
+p134
+aVthen put sets of those going up to 72,000.
+p135
+aa(lp136
+VAt each stage, we grew up these pieces in abundance
+p137
+aVso we could sequence them
+p138
+aVbecause we're trying to create a process that's extremely robust
+p139
+aVthat you can see in a minute.
+p140
+aVWe're trying to get to the point of automation.
+p141
+aVSo, this looks like a basketball playoff.
+p142
+aVWhen we get into these really large pieces
+p143
+aVover 100,000 base pairs,
+p144
+aVthey won't any longer grow readily in E. coli \u2014
+p145
+aVit exhausts all the modern tools of molecular biology \u2014
+p146
+aVand so we turned to other mechanisms.
+p147
+aVWe knew there's a mechanism called homologous recombination
+p148
+aVthat biology uses to repair DNA
+p149
+aVthat can put pieces together.
+p150
+aVHere's an example of it:
+p151
+aVthere's an organism called
+p152
+aVDeinococcus radiodurans
+p153
+aVthat can take three millions rads of radiation.
+p154
+aa(lp155
+VYou can see in the top panel, its chromosome just gets blown apart.
+p156
+aVTwelve to 24 hours later, it put it
+p157
+aVback together exactly as it was before.
+p158
+aVWe have thousands of organisms that can do this.
+p159
+aVThese organisms can be totally desiccated;
+p160
+aVthey can live in a vacuum.
+p161
+aVI am absolutely certain that life can exist in outer space,
+p162
+aVmove around, find a new aqueous environment.
+p163
+aVIn fact, NASA has shown a lot of this is out there.
+p164
+aa(lp165
+VHere's an actual micrograph of the molecule we built
+p166
+aVusing these processes, actually just using yeast mechanisms
+p167
+aVwith the right design of the pieces we put them in;
+p168
+aVyeast puts them together automatically.
+p169
+aVThis is not an electron micrograph;
+p170
+aVthis is just a regular photomicrograph.
+p171
+aVIt's such a large molecule
+p172
+aVwe can see it with a light microscope.
+p173
+aVThese are pictures over about a six-second period.
+p174
+aa(lp175
+VSo, this is the publication we had just a short while ago.
+p176
+aVThis is over 580,000 letters of genetic code;
+p177
+aVit's the largest molecule ever made by humans of a defined structure.
+p178
+aVIt's over 300 million molecular weight.
+p179
+aVIf we printed it out at a 10 font with no spacing,
+p180
+aVit takes 142 pages
+p181
+aVjust to print this genetic code.
+p182
+aVWell, how do we boot up a chromosome? How do we activate this?
+p183
+aVObviously, with a virus it's pretty simple;
+p184
+aVit's much more complicated dealing with bacteria.
+p185
+aVIt's also simpler when you go
+p186
+aVinto eukaryotes like ourselves:
+p187
+aVyou can just pop out the nucleus
+p188
+aVand pop in another one,
+p189
+aVand that's what you've all heard about with cloning.
+p190
+aVWith bacteria and Archaea, the chromosome is integrated into the cell,
+p191
+aVbut we recently showed that we can do a complete transplant
+p192
+aVof a chromosome from one cell to another
+p193
+aVand activate it.
+p194
+aVWe purified a chromosome from one microbial species \u2014
+p195
+aVroughly, these two are as distant as human and mice \u2014
+p196
+aVwe added a few extra genes
+p197
+aVso we could select for this chromosome,
+p198
+aVwe digested it with enzymes
+p199
+aVto kill all the proteins,
+p200
+aVand it was pretty stunning when we put this in the cell \u2014
+p201
+aVand you'll appreciate
+p202
+aVour very sophisticated graphics here.
+p203
+aVThe new chromosome went into the cell.
+p204
+aVIn fact, we thought this might be as far as it went,
+p205
+aVbut we tried to design the process a little bit further.
+p206
+aa(lp207
+VThis is a major mechanism of evolution right here.
+p208
+aVWe find all kinds of species
+p209
+aVthat have taken up a second chromosome
+p210
+aVor a third one from somewhere,
+p211
+aVadding thousands of new traits
+p212
+aVin a second to that species.
+p213
+aVSo, people who think of evolution
+p214
+aVas just one gene changing at a time
+p215
+aVhave missed much of biology.
+p216
+aa(lp217
+VThere are enzymes called restriction enzymes
+p218
+aVthat actually digest DNA.
+p219
+aVThe chromosome that was in the cell
+p220
+aVdoesn't have one;
+p221
+aVthe chromosome we put in does.
+p222
+aVIt got expressed and it recognized
+p223
+aVthe other chromosome as foreign material,
+p224
+aVchewed it up, and so we ended up
+p225
+aVjust with a cell with the new chromosome.
+p226
+aVIt turned blue because of the genes we put in it.
+p227
+aVAnd with a very short period of time,
+p228
+aVall the characteristics of one species were lost
+p229
+aVand it converted totally into the new species
+p230
+aVbased on the new software that we put in the cell.
+p231
+aVAll the proteins changed,
+p232
+aVthe membranes changed;
+p233
+aVwhen we read the genetic code, it's exactly what we had transferred in.
+p234
+aa(lp235
+VSo, this may sound like genomic alchemy,
+p236
+aVbut we can, by moving the software of DNA around,
+p237
+aVchange things quite dramatically.
+p238
+aVNow I've argued, this is not genesis;
+p239
+aVthis is building on three and a half billion years of evolution.
+p240
+aVAnd I've argued that we're about to perhaps
+p241
+aVcreate a new version of the Cambrian explosion,
+p242
+aVwhere there's massive new speciation
+p243
+aVbased on this digital design.
+p244
+aa(lp245
+VWhy do this?
+p246
+aVI think this is pretty obvious in terms of some of the needs.
+p247
+aVWe're about to go from six and a half
+p248
+aVto nine billion people over the next 40 years.
+p249
+aVTo put it in context for myself:
+p250
+aVI was born in 1946.
+p251
+aVThere are now three people on the planet
+p252
+aVfor every one of us that existed in 1946;
+p253
+aVwithin 40 years, there'll be four.
+p254
+aVWe have trouble feeding, providing fresh, clean water,
+p255
+aVmedicines, fuel
+p256
+aVfor the six and a half billion.
+p257
+aVIt's going to be a stretch to do it for nine.
+p258
+aVWe use over five billion tons of coal,
+p259
+aV30 billion-plus barrels of oil \u2014
+p260
+aVthat's a hundred million barrels a day.
+p261
+aVWhen we try to think of biological processes
+p262
+aVor any process to replace that,
+p263
+aVit's going to be a huge challenge.
+p264
+aVThen of course, there's all that
+p265
+aVCO2 from this material
+p266
+aVthat ends up in the atmosphere.
+p267
+aa(lp268
+VWe now, from our discovery around the world,
+p269
+aVhave a database with about 20 million genes,
+p270
+aVand I like to think of these as the design components of the future.
+p271
+aVThe electronics industry only had a dozen or so components,
+p272
+aVand look at the diversity that came out of that.
+p273
+aVWe're limited here primarily
+p274
+aVby a biological reality
+p275
+aVand our imagination.
+p276
+aVWe now have techniques,
+p277
+aVbecause of these rapid methods of synthesis,
+p278
+aVto do what we're calling combinatorial genomics.
+p279
+aVWe have the ability now to build a large robot
+p280
+aVthat can make a million chromosomes a day.
+p281
+aVWhen you think of processing these 20 million different genes
+p282
+aVor trying to optimize processes
+p283
+aVto produce octane or to produce pharmaceuticals,
+p284
+aVnew vaccines,
+p285
+aVwe can just with a small team,
+p286
+aVdo more molecular biology
+p287
+aVthan the last 20 years of all science.
+p288
+aVAnd it's just standard selection:
+p289
+aVwe can select for viability,
+p290
+aVchemical or fuel production,
+p291
+aVvaccine production, etc.
+p292
+aa(lp293
+VThis is a screen snapshot
+p294
+aVof some true design software
+p295
+aVthat we're working on to actually be able to sit down
+p296
+aVand design species in the computer.
+p297
+aVYou know, we don't know necessarily what it'll look like:
+p298
+aVwe know exactly what their genetic code looks like.
+p299
+aVWe're focusing on now fourth-generation fuels.
+p300
+aVYou've seen recently, corn to ethanol
+p301
+aVis just a bad experiment.
+p302
+aVWe have second- and third-generation fuels
+p303
+aVthat will be coming out relatively soon
+p304
+aVthat are sugar, to much higher-value fuels
+p305
+aVlike octane or different types of butanol.
+p306
+aa(lp307
+VBut the only way we think that biology
+p308
+aVcan have a major impact without
+p309
+aVfurther increasing the cost of food and limiting its availability
+p310
+aVis if we start with CO2 as its feedstock,
+p311
+aVand so we're working with designing cells to go down this road.
+p312
+aVAnd we think we'll have the first fourth-generation fuels
+p313
+aVin about 18 months.
+p314
+aVSunlight and CO2 is one method ...
+p315
+aV(Applause)
+p316
+aVbut in our discovery around the world,
+p317
+aVwe have all kinds of other methods.
+p318
+aa(lp319
+VThis is an organism we described in 1996.
+p320
+aVIt lives in the deep ocean,
+p321
+aVabout a mile and a half deep,
+p322
+aValmost at boiling-water temperatures.
+p323
+aVIt takes CO2 to methane
+p324
+aVusing molecular hydrogen as its energy source.
+p325
+aVWe're looking to see if we can take
+p326
+aVcaptured CO2,
+p327
+aVwhich can easily be piped to sites,
+p328
+aVconvert that CO2 back into fuel
+p329
+aVto drive this process.
+p330
+aa(lp331
+VSo, in a short period of time,
+p332
+aVwe think that we might be able to increase
+p333
+aVwhat the basic question is of "What is life?"
+p334
+aVWe truly, you know,
+p335
+aVhave modest goals
+p336
+aVof replacing the whole petrol-chemical industry \u2014
+p337
+aa(lp338
+V(Laughter) (Applause)
+p339
+aa(lp340
+VYeah. If you can't do that at TED, where can you? \u2014
+p341
+aa(lp342
+V(Laughter)
+p343
+aa(lp344
+Vbecome a major source of energy ...
+p345
+aVBut also, we're now working on using these same tools
+p346
+aVto come up with instant sets of vaccines.
+p347
+aVYou've seen this year with flu;
+p348
+aVwe're always a year behind and a dollar short
+p349
+aVwhen it comes to the right vaccine.
+p350
+aVI think that can be changed
+p351
+aVby building combinatorial vaccines in advance.
+p352
+aVHere's what the future may begin to look like
+p353
+aVwith changing, now, the evolutionary tree,
+p354
+aVspeeding up evolution
+p355
+aVwith synthetic bacteria, Archaea
+p356
+aVand, eventually, eukaryotes.
+p357
+aVWe're a ways away from improving people:
+p358
+aVour goal is just to make sure that we have a chance
+p359
+aVto survive long enough to maybe do that. Thank you very much.
+p360
+aa(lp361
+V(Applause)
+p362
+aasS'id'
+p363
+I227
+sS'title'
+p364
+VOn the verge of creating synthetic life
+p365
+s.

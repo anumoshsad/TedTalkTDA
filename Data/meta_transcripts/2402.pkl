@@ -1,0 +1,223 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI am in search of another planet in the universe where life exists.
+p4
+aVI can't see this planet with my naked eyes
+p5
+aVor even with the most powerful telescopes
+p6
+aVwe currently possess.
+p7
+aVBut I know that it's there.
+p8
+aVAnd understanding contradictions that occur in nature
+p9
+aVwill help us find it.
+p10
+aa(lp11
+VOn our planet,
+p12
+aVwhere there's water, there's life.
+p13
+aVSo we look for planets that orbit at just the right distance
+p14
+aVfrom their stars.
+p15
+aVAt this distance,
+p16
+aVshown in blue on this diagram for stars of different temperatures,
+p17
+aVplanets could be warm enough for water to flow on their surfaces
+p18
+aVas lakes and oceans
+p19
+aVwhere life might reside.
+p20
+aVSome astronomers focus their time and energy on finding planets
+p21
+aVat these distances from their stars.
+p22
+aVWhat I do picks up where their job ends.
+p23
+aVI model the possible climates of exoplanets.
+p24
+aVAnd here's why that's important:
+p25
+aVthere are many factors besides distance from its star
+p26
+aVthat control whether a planet can support life.
+p27
+aa(lp28
+VTake the planet Venus.
+p29
+aVIt's named after the Roman goddess of love and beauty,
+p30
+aVbecause of its benign, ethereal appearance in the sky.
+p31
+aVBut spacecraft measurements revealed a different story.
+p32
+aVThe surface temperature is close to 900 degrees Fahrenheit,
+p33
+aV500 Celsius.
+p34
+aVThat's hot enough to melt lead.
+p35
+aVIts thick atmosphere, not its distance from the sun, is the reason.
+p36
+aVIt causes a greenhouse effect on steroids,
+p37
+aVtrapping heat from the sun and scorching the planet's surface.
+p38
+aVThe reality totally contradicted initial perceptions of this planet.
+p39
+aVFrom these lessons from our own solar system,
+p40
+aVwe've learned that a planet's atmosphere
+p41
+aVis crucial to its climate and potential to host life.
+p42
+aa(lp43
+VWe don't know what the atmospheres of these planets are like
+p44
+aVbecause the planets are so small and dim compared to their stars
+p45
+aVand so far away from us.
+p46
+aVFor example, one of the closest planets that could support surface water \u2014
+p47
+aVit's called Gliese 667 Cc \u2014
+p48
+aVsuch a glamorous name, right, nice phone number for a name \u2014
+p49
+aVit's 23 light years away.
+p50
+aVSo that's more than 100 trillion miles.
+p51
+aVTrying to measure the atmospheric composition
+p52
+aVof an exoplanet passing in front of its host star is hard.
+p53
+aVIt's like trying to see a fruit fly
+p54
+aVpassing in front of a car's headlight.
+p55
+aVOK, now imagine that car is 100 trillion miles away,
+p56
+aVand you want to know the precise color of that fly.
+p57
+aa(lp58
+VSo I use computer models
+p59
+aVto calculate the kind of atmosphere a planet would need
+p60
+aVto have a suitable climate for water and life.
+p61
+aa(lp62
+VHere's an artist's concept of the planet Kepler-62f,
+p63
+aVwith the Earth for reference.
+p64
+aVIt's 1,200 light years away,
+p65
+aVand just 40 percent larger than Earth.
+p66
+aVOur NSF-funded work found that it could be warm enough for open water
+p67
+aVfrom many types of atmospheres and orientations of its orbit.
+p68
+aVSo I'd like future telescopes to follow up on this planet
+p69
+aVto look for signs of life.
+p70
+aa(lp71
+VIce on a planet's surface is also important for climate.
+p72
+aVIce absorbs longer, redder wavelengths of light,
+p73
+aVand reflects shorter, bluer light.
+p74
+aVThat's why the iceberg in this photo looks so blue.
+p75
+aVThe redder light from the sun is absorbed on its way through the ice.
+p76
+aVOnly the blue light makes it all the way to the bottom.
+p77
+aVThen it gets reflected back to up to our eyes
+p78
+aVand we see blue ice.
+p79
+aVMy models show that planets orbiting cooler stars
+p80
+aVcould actually be warmer than planets orbiting hotter stars.
+p81
+aVThere's another contradiction \u2014
+p82
+aVthat ice absorbs the longer wavelength light from cooler stars,
+p83
+aVand that light, that energy, heats the ice.
+p84
+aa(lp85
+VUsing climate models to explore
+p86
+aVhow these contradictions can affect planetary climate
+p87
+aVis vital to the search for life elsewhere.
+p88
+aa(lp89
+VAnd it's no surprise that this is my specialty.
+p90
+aVI'm an African-American female astronomer
+p91
+aVand a classically trained actor
+p92
+aVwho loves to wear makeup and read fashion magazines,
+p93
+aVso I am uniquely positioned to appreciate contradictions in nature \u2014
+p94
+aa(lp95
+V(Laughter)
+p96
+aa(lp97
+V(Applause)
+p98
+aa(lp99
+V... and how they can inform our search for the next planet where life exists.
+p100
+aa(lp101
+VMy organization, Rising Stargirls,
+p102
+aVteaches astronomy to middle-school girls of color,
+p103
+aVusing theater, writing and visual art.
+p104
+aVThat's another contradiction \u2014 science and art don't often go together,
+p105
+aVbut interweaving them can help these girls bring their whole selves
+p106
+aVto what they learn,
+p107
+aVand maybe one day join the ranks of astronomers
+p108
+aVwho are full of contradictions,
+p109
+aVand use their backgrounds to discover, once and for all,
+p110
+aVthat we are truly not alone in the universe.
+p111
+aa(lp112
+VThank you.
+p113
+aa(lp114
+V(Applause)
+p115
+aasS'id'
+p116
+I2402
+sS'title'
+p117
+VHow we'll find life on other planets
+p118
+s.

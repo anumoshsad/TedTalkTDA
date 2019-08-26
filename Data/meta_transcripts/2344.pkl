@@ -1,0 +1,643 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VTwo twin domes,
+p4
+aVtwo radically opposed design cultures.
+p5
+aVOne is made of thousands of steel parts,
+p6
+aVthe other of a single silk thread.
+p7
+aVOne is synthetic, the other organic.
+p8
+aVOne is imposed on the environment,
+p9
+aVthe other creates it.
+p10
+aVOne is designed for nature, the other is designed by her.
+p11
+aa(lp12
+VMichelangelo said that when he looked at raw marble,
+p13
+aVhe saw a figure struggling to be free.
+p14
+aVThe chisel was Michelangelo's only tool.
+p15
+aVBut living things are not chiseled.
+p16
+aVThey grow.
+p17
+aVAnd in our smallest units of life, our cells, we carry all the information
+p18
+aVthat's required for every other cell to function and to replicate.
+p19
+aa(lp20
+VTools also have consequences.
+p21
+aVAt least since the Industrial Revolution, the world of design has been dominated
+p22
+aVby the rigors of manufacturing and mass production.
+p23
+aVAssembly lines have dictated a world made of parts,
+p24
+aVframing the imagination of designers and architects
+p25
+aVwho have been trained to think about their objects as assemblies
+p26
+aVof discrete parts with distinct functions.
+p27
+aa(lp28
+VBut you don't find homogenous material assemblies in nature.
+p29
+aVTake human skin, for example.
+p30
+aVOur facial skins are thin with large pores.
+p31
+aVOur back skins are thicker, with small pores.
+p32
+aVOne acts mainly as filter,
+p33
+aVthe other mainly as barrier,
+p34
+aVand yet it's the same skin: no parts, no assemblies.
+p35
+aVIt's a system that gradually varies its functionality
+p36
+aVby varying elasticity.
+p37
+aVSo here this is a split screen to represent my split world view,
+p38
+aVthe split personality of every designer and architect operating today
+p39
+aVbetween the chisel and the gene,
+p40
+aVbetween machine and organism, between assembly and growth,
+p41
+aVbetween Henry Ford and Charles Darwin.
+p42
+aVThese two worldviews, my left brain and right brain,
+p43
+aVanalysis and synthesis, will play out on the two screens behind me.
+p44
+aVMy work, at its simplest level,
+p45
+aVis about uniting these two worldviews,
+p46
+aVmoving away from assembly
+p47
+aVand closer into growth.
+p48
+aa(lp49
+VYou're probably asking yourselves:
+p50
+aVWhy now?
+p51
+aVWhy was this not possible 10 or even five years ago?
+p52
+aVWe live in a very special time in history,
+p53
+aVa rare time,
+p54
+aVa time when the confluence of four fields is giving designers access to tools
+p55
+aVwe've never had access to before.
+p56
+aVThese fields are computational design,
+p57
+aVallowing us to design complex forms with simple code;
+p58
+aVadditive manufacturing, letting us produce parts
+p59
+aVby adding material rather than carving it out;
+p60
+aVmaterials engineering, which lets us design the behavior of materials
+p61
+aVin high resolution;
+p62
+aVand synthetic biology,
+p63
+aVenabling us to design new biological functionality by editing DNA.
+p64
+aVAnd at the intersection of these four fields,
+p65
+aVmy team and I create.
+p66
+aVPlease meet the minds and hands
+p67
+aVof my students.
+p68
+aa(lp69
+VWe design objects and products and structures and tools across scales,
+p70
+aVfrom the large-scale,
+p71
+aVlike this robotic arm with an 80-foot diameter reach
+p72
+aVwith a vehicular base that will one day soon print entire buildings,
+p73
+aVto nanoscale graphics made entirely of genetically engineered microorganisms
+p74
+aVthat glow in the dark.
+p75
+aVHere we've reimagined the mashrabiya,
+p76
+aVan archetype of ancient Arabic architecture,
+p77
+aVand created a screen where every aperture is uniquely sized
+p78
+aVto shape the form of light and heat moving through it.
+p79
+aa(lp80
+VIn our next project,
+p81
+aVwe explore the possibility of creating a cape and skirt \u2014
+p82
+aVthis was for a Paris fashion show with Iris van Herpen \u2014
+p83
+aVlike a second skin that are made of a single part,
+p84
+aVstiff at the contours, flexible around the waist.
+p85
+aVTogether with my long-term 3D printing collaborator Stratasys,
+p86
+aVwe 3D-printed this cape and skirt with no seams between the cells,
+p87
+aVand I'll show more objects like it.
+p88
+aVThis helmet combines stiff and soft materials
+p89
+aVin 20-micron resolution.
+p90
+aVThis is the resolution of a human hair.
+p91
+aVIt's also the resolution of a CT scanner.
+p92
+aVThat designers have access
+p93
+aVto such high-resolution analytic and synthetic tools,
+p94
+aVenables to design products that fit not only the shape of our bodies,
+p95
+aVbut also the physiological makeup of our tissues.
+p96
+aVNext, we designed an acoustic chair,
+p97
+aVa chair that would be at once structural, comfortable
+p98
+aVand would also absorb sound.
+p99
+aVProfessor Carter, my collaborator, and I turned to nature for inspiration,
+p100
+aVand by designing this irregular surface pattern,
+p101
+aVit becomes sound-absorbent.
+p102
+aVWe printed its surface out of 44 different properties,
+p103
+aVvarying in rigidity, opacity and color,
+p104
+aVcorresponding to pressure points on the human body.
+p105
+aVIts surface, as in nature, varies its functionality
+p106
+aVnot by adding another material or another assembly,
+p107
+aVbut by continuously and delicately varying material property.
+p108
+aa(lp109
+VBut is nature ideal?
+p110
+aVAre there no parts in nature?
+p111
+aVI wasn't raised in a religious Jewish home,
+p112
+aVbut when I was young,
+p113
+aVmy grandmother used to tell me stories from the Hebrew Bible,
+p114
+aVand one of them stuck with me and came to define much of what I care about.
+p115
+aVAs she recounts:
+p116
+aV"On the third day of Creation, God commands the Earth
+p117
+aVto grow a fruit-bearing fruit tree."
+p118
+aVFor this first fruit tree, there was to be no differentiation
+p119
+aVbetween trunk, branches, leaves and fruit.
+p120
+aVThe whole tree was a fruit.
+p121
+aVInstead, the land grew trees that have bark and stems and flowers.
+p122
+aVThe land created a world made of parts.
+p123
+aVI often ask myself,
+p124
+aV"What would design be like if objects were made of a single part?
+p125
+aVWould we return to a better state of creation?"
+p126
+aa(lp127
+VSo we looked for that biblical material,
+p128
+aVthat fruit-bearing fruit tree kind of material, and we found it.
+p129
+aVThe second-most abundant biopolymer on the planet is called chitin,
+p130
+aVand some 100 million tons of it are produced every year
+p131
+aVby organisms such as shrimps, crabs, scorpions and butterflies.
+p132
+aVWe thought if we could tune its properties,
+p133
+aVwe could generate structures that are multifunctional
+p134
+aVout of a single part.
+p135
+aVSo that's what we did.
+p136
+aVWe called Legal Seafood \u2014
+p137
+aa(lp138
+V(Laughter)
+p139
+aa(lp140
+Vwe ordered a bunch of shrimp shells,
+p141
+aVwe grinded them and we produced chitosan paste.
+p142
+aVBy varying chemical concentrations,
+p143
+aVwe were able to achieve a wide array of properties \u2014
+p144
+aVfrom dark, stiff and opaque,
+p145
+aVto light, soft and transparent.
+p146
+aVIn order to print the structures in large scale,
+p147
+aVwe built a robotically controlled extrusion system with multiple nozzles.
+p148
+aVThe robot would vary material properties on the fly
+p149
+aVand create these 12-foot-long structures made of a single material,
+p150
+aV100 percent recyclable.
+p151
+aVWhen the parts are ready, they're left to dry
+p152
+aVand find a form naturally upon contact with air.
+p153
+aVSo why are we still designing with plastics?
+p154
+aVThe air bubbles that were a byproduct of the printing process
+p155
+aVwere used to contain photosynthetic microorganisms
+p156
+aVthat first appeared on our planet 3.5 billion year ago,
+p157
+aVas we learned yesterday.
+p158
+aVTogether with our collaborators at Harvard and MIT,
+p159
+aVwe embedded bacteria that were genetically engineered
+p160
+aVto rapidly capture carbon from the atmosphere
+p161
+aVand convert it into sugar.
+p162
+aVFor the first time,
+p163
+aVwe were able to generate structures that would seamlessly transition
+p164
+aVfrom beam to mesh,
+p165
+aVand if scaled even larger, to windows.
+p166
+aVA fruit-bearing fruit tree.
+p167
+aVWorking with an ancient material,
+p168
+aVone of the first lifeforms on the planet,
+p169
+aVplenty of water and a little bit of synthetic biology,
+p170
+aVwe were able to transform a structure made of shrimp shells
+p171
+aVinto an architecture that behaves like a tree.
+p172
+aVAnd here's the best part:
+p173
+aVfor objects designed to biodegrade,
+p174
+aVput them in the sea, and they will nourish marine life;
+p175
+aVplace them in soil, and they will help grow a tree.
+p176
+aa(lp177
+VThe setting for our next exploration using the same design principles
+p178
+aVwas the solar system.
+p179
+aVWe looked for the possibility of creating life-sustaining clothing
+p180
+aVfor interplanetary voyages.
+p181
+aVTo do that, we needed to contain bacteria and be able to control their flow.
+p182
+aVSo like the periodic table, we came up with our own table of the elements:
+p183
+aVnew lifeforms that were computationally grown,
+p184
+aVadditively manufactured
+p185
+aVand biologically augmented.
+p186
+aVI like to think of synthetic biology as liquid alchemy,
+p187
+aVonly instead of transmuting precious metals,
+p188
+aVyou're synthesizing new biological functionality inside very small channels.
+p189
+aVIt's called microfluidics.
+p190
+aVWe 3D-printed our own channels in order to control the flow
+p191
+aVof these liquid bacterial cultures.
+p192
+aVIn our first piece of clothing, we combined two microorganisms.
+p193
+aVThe first is cyanobacteria.
+p194
+aVIt lives in our oceans and in freshwater ponds.
+p195
+aVAnd the second, E. coli, the bacterium that inhabits the human gut.
+p196
+aVOne converts light into sugar, the other consumes that sugar
+p197
+aVand produces biofuels useful for the built environment.
+p198
+aVNow, these two microorganisms never interact in nature.
+p199
+aVIn fact, they never met each other.
+p200
+aVThey've been here, engineered for the first time,
+p201
+aVto have a relationship inside a piece of clothing.
+p202
+aVThink of it as evolution not by natural selection,
+p203
+aVbut evolution by design.
+p204
+aVIn order to contain these relationships,
+p205
+aVwe've created a single channel that resembles the digestive tract,
+p206
+aVthat will help flow these bacteria and alter their function along the way.
+p207
+aVWe then started growing these channels on the human body,
+p208
+aVvarying material properties according to the desired functionality.
+p209
+aVWhere we wanted more photosynthesis, we would design more transparent channels.
+p210
+aVThis wearable digestive system, when it's stretched end to end,
+p211
+aVspans 60 meters.
+p212
+aVThis is half the length of a football field,
+p213
+aVand 10 times as long as our small intestines.
+p214
+aVAnd here it is for the first time unveiled at TED \u2014
+p215
+aVour first photosynthetic wearable,
+p216
+aVliquid channels glowing with life inside a wearable clothing.
+p217
+aa(lp218
+V(Applause)
+p219
+aa(lp220
+VThank you.
+p221
+aa(lp222
+VMary Shelley said, "We are unfashioned creatures, but only half made up."
+p223
+aVWhat if design could provide that other half?
+p224
+aVWhat if we could create structures that would augment living matter?
+p225
+aVWhat if we could create personal microbiomes
+p226
+aVthat would scan our skins, repair damaged tissue
+p227
+aVand sustain our bodies?
+p228
+aVThink of this as a form of edited biology.
+p229
+aVThis entire collection, Wanderers, that was named after planets,
+p230
+aVwas not to me really about fashion per se,
+p231
+aVbut it provided an opportunity to speculate about the future
+p232
+aVof our race on our planet and beyond,
+p233
+aVto combine scientific insight with lots of mystery
+p234
+aVand to move away from the age of the machine
+p235
+aVto a new age of symbiosis between our bodies,
+p236
+aVthe microorganisms that we inhabit,
+p237
+aVour products and even our buildings.
+p238
+aVI call this material ecology.
+p239
+aa(lp240
+VTo do this, we always need to return back to nature.
+p241
+aVBy now, you know that a 3D printer prints material in layers.
+p242
+aVYou also know that nature doesn't.
+p243
+aVIt grows. It adds with sophistication.
+p244
+aVThis silkworm cocoon, for example,
+p245
+aVcreates a highly sophisticated architecture,
+p246
+aVa home inside which to metamorphisize.
+p247
+aVNo additive manufacturing today gets even close to this level of sophistication.
+p248
+aVIt does so by combining not two materials,
+p249
+aVbut two proteins in different concentrations.
+p250
+aVOne acts as the structure, the other is the glue, or the matrix,
+p251
+aVholding those fibers together.
+p252
+aVAnd this happens across scales.
+p253
+aVThe silkworm first attaches itself to the environment \u2014
+p254
+aVit creates a tensile structure \u2014
+p255
+aVand it then starts spinning a compressive cocoon.
+p256
+aVTension and compression, the two forces of life,
+p257
+aVmanifested in a single material.
+p258
+aa(lp259
+VIn order to better understand how this complex process works,
+p260
+aVwe glued a tiny earth magnet
+p261
+aVto the head of a silkworm, to the spinneret.
+p262
+aVWe placed it inside a box with magnetic sensors,
+p263
+aVand that allowed us to create this 3-dimensional point cloud
+p264
+aVand visualize the complex architecture of the silkworm cocoon.
+p265
+aVHowever, when we placed the silkworm on a flat patch,
+p266
+aVnot inside a box,
+p267
+aVwe realized it would spin a flat cocoon
+p268
+aVand it would still healthily metamorphisize.
+p269
+aVSo we started designing different environments, different scaffolds,
+p270
+aVand we discovered that the shape, the composition,
+p271
+aVthe structure of the cocoon, was directly informed by the environment.
+p272
+aa(lp273
+VSilkworms are often boiled to death inside their cocoons,
+p274
+aVtheir silk unraveled and used in the textile industry.
+p275
+aVWe realized that designing these templates allowed us to give shape to raw silk
+p276
+aVwithout boiling a single cocoon.
+p277
+aa(lp278
+V(Applause)
+p279
+aa(lp280
+VThey would healthily metamorphisize,
+p281
+aVand we would be able to create these things.
+p282
+aa(lp283
+VSo we scaled this process up to architectural scale.
+p284
+aVWe had a robot spin the template out of silk,
+p285
+aVand we placed it on our site.
+p286
+aVWe knew silkworms migrated toward darker and colder areas,
+p287
+aVso we used a sun path diagram to reveal the distribution
+p288
+aVof light and heat on our structure.
+p289
+aVWe then created holes, or apertures,
+p290
+aVthat would lock in the rays of light and heat,
+p291
+aVdistributing those silkworms on the structure.
+p292
+aa(lp293
+VWe were ready to receive the caterpillars.
+p294
+aVWe ordered 6,500 silkworms from an online silk farm.
+p295
+aVAnd after four weeks of feeding, they were ready to spin with us.
+p296
+aVWe placed them carefully at the bottom rim of the scaffold,
+p297
+aVand as they spin they pupate, they mate, they lay eggs,
+p298
+aVand life begins all over again \u2014 just like us but much, much shorter.
+p299
+aa(lp300
+VBucky Fuller said that tension is the great integrity,
+p301
+aVand he was right.
+p302
+aVAs they spin biological silk over robotically spun silk,
+p303
+aVthey give this entire pavilion its integrity.
+p304
+aVAnd over two to three weeks,
+p305
+aV6,500 silkworms spin 6,500 kilometers.
+p306
+aVIn a curious symmetry, this is also the length of the Silk Road.
+p307
+aVThe moths, after they hatch, produce 1.5 million eggs.
+p308
+aVThis could be used for 250 additional pavilions for the future.
+p309
+aa(lp310
+VSo here they are, the two worldviews.
+p311
+aVOne spins silk out of a robotic arm,
+p312
+aVthe other fills in the gaps.
+p313
+aa(lp314
+VIf the final frontier of design is to breathe life into the products
+p315
+aVand the buildings around us,
+p316
+aVto form a two-material ecology,
+p317
+aVthen designers must unite these two worldviews.
+p318
+aVWhich brings us back, of course, to the beginning.
+p319
+aVHere's to a new age of design, a new age of creation,
+p320
+aVthat takes us from a nature-inspired design
+p321
+aVto a design-inspired nature,
+p322
+aVand that demands of us for the first time
+p323
+aVthat we mother nature.
+p324
+aa(lp325
+VThank you.
+p326
+aa(lp327
+V(Applause)
+p328
+aa(lp329
+VThank you very much. Thank you.
+p330
+aa(lp331
+V(Applause)
+p332
+aasS'id'
+p333
+I2344
+sS'title'
+p334
+VDesign at the intersection of technology and biology
+p335
+s.

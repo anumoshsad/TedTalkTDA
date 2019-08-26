@@ -1,0 +1,390 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm here to offer you a new way to think about my field,
+p4
+aVartificial intelligence.
+p5
+aVI think the purpose of AI
+p6
+aVis to empower humans with machine intelligence.
+p7
+aVAnd as machines get smarter,
+p8
+aVwe get smarter.
+p9
+aVI call this "humanistic AI" \u2014
+p10
+aVartificial intelligence designed to meet human needs
+p11
+aVby collaborating and augmenting people.
+p12
+aVNow, today I'm happy to see
+p13
+aVthat the idea of an intelligent assistant
+p14
+aVis mainstream.
+p15
+aVIt's the well-accepted metaphor for the interface between humans and AI.
+p16
+aVAnd the one I helped create is called Siri.
+p17
+aa(lp18
+VYou know Siri.
+p19
+aVSiri is the thing that knows your intent
+p20
+aVand helps you do it for you,
+p21
+aVhelps you get things done.
+p22
+aVBut what you might not know is that we designed Siri
+p23
+aVas humanistic AI,
+p24
+aVto augment people with a conversational interface
+p25
+aVthat made it possible for them to use mobile computing,
+p26
+aVregardless of who they were and their abilities.
+p27
+aa(lp28
+VNow for most of us,
+p29
+aVthe impact of this technology
+p30
+aVis to make things a little bit easier to use.
+p31
+aVBut for my friend Daniel,
+p32
+aVthe impact of the AI in these systems is a life changer.
+p33
+aVYou see, Daniel is a really social guy,
+p34
+aVand he's blind and quadriplegic,
+p35
+aVwhich makes it hard to use those devices that we all take for granted.
+p36
+aVThe last time I was at his house, his brother said,
+p37
+aV"Hang on a second, Daniel's not ready.
+p38
+aVHe's on the phone with a woman he met online."
+p39
+aVI'm like, "That's cool, how'd he do it?"
+p40
+aVWell, Daniel uses Siri to manage his own social life \u2014
+p41
+aVhis email, text and phone \u2014
+p42
+aVwithout depending on his caregivers.
+p43
+aVThis is kind of interesting, right?
+p44
+aVThe irony here is great.
+p45
+aVHere's the man whose relationship with AI
+p46
+aVhelps him have relationships with genuine human beings.
+p47
+aVAnd this is humanistic AI.
+p48
+aa(lp49
+VAnother example with life-changing consequences
+p50
+aVis diagnosing cancer.
+p51
+aVWhen a doctor suspects cancer,
+p52
+aVthey take a sample and send it to a pathologist,
+p53
+aVwho looks at it under a microscope.
+p54
+aVNow, pathologists look at hundreds of slides
+p55
+aVand millions of cells every day.
+p56
+aVSo to support this task,
+p57
+aVsome researchers made an AI classifier.
+p58
+aVNow, the classifier says, "Is this cancer or is this not cancer?"
+p59
+aVlooking at the pictures.
+p60
+aVThe classifier was pretty good,
+p61
+aVbut not as good as the person,
+p62
+aVwho got it right most of the time.
+p63
+aa(lp64
+VBut when they combine the ability of the machine and the human together,
+p65
+aVaccuracy went to 99.5 percent.
+p66
+aVAdding that AI to a partnership eliminated 85 percent of the errors
+p67
+aVthat the human pathologist would have made working alone.
+p68
+aVThat's a lot of cancer that would have otherwise gone untreated.
+p69
+aVNow, for the curious, it turns out
+p70
+aVthat the human was better at rejecting false positives,
+p71
+aVand the machine was better at recognizing those hard-to-spot cases.
+p72
+aVBut the lesson here isn't about which agent is better
+p73
+aVat this image-classification task.
+p74
+aVThose things are changing every day.
+p75
+aVThe lesson here
+p76
+aVis that by combining the abilities of the human and machine,
+p77
+aVit created a partnership that had superhuman performance.
+p78
+aVAnd that is humanistic AI.
+p79
+aa(lp80
+VNow let's look at another example
+p81
+aVwith turbocharging performance.
+p82
+aVThis is design.
+p83
+aVNow, let's say you're an engineer.
+p84
+aVYou want to design a new frame for a drone.
+p85
+aVYou get out your favorite software tools, CAD tools,
+p86
+aVand you enter the form and the materials, and then you analyze performance.
+p87
+aVThat gives you one design.
+p88
+aVIf you give those same tools to an AI,
+p89
+aVit can generate thousands of designs.
+p90
+aa(lp91
+VThis video by Autodesk is amazing.
+p92
+aVThis is real stuff.
+p93
+aVSo this transforms how we do design.
+p94
+aVThe human engineer now
+p95
+aVsays what the design should achieve,
+p96
+aVand the machine says,
+p97
+aV"Here's the possibilities."
+p98
+aVNow in her job, the engineer's job
+p99
+aVis to pick the one that best meets the goals of the design,
+p100
+aVwhich she knows as a human better than anyone else,
+p101
+aVusing human judgment and expertise.
+p102
+aVIn this case, the winning form
+p103
+aVlooks kind of like something nature would have designed,
+p104
+aVminus a few million years of evolution
+p105
+aVand all that unnecessary fur.
+p106
+aa(lp107
+VNow let's see where this idea of humanistic AI might lead us
+p108
+aVif we follow it into the speculative beyond.
+p109
+aVWhat's a kind of augmentation that we would all like to have?
+p110
+aVWell, how about cognitive enhancement?
+p111
+aVInstead of asking,
+p112
+aV"How smart can we make our machines?"
+p113
+aVlet's ask
+p114
+aV"How smart can our machines make us?"
+p115
+aVI mean, take memory for example.
+p116
+aVMemory is the foundation of human intelligence.
+p117
+aVBut human memory is famously flawed.
+p118
+aVWe're great at telling stories,
+p119
+aVbut not getting the details right.
+p120
+aVAnd our memories \u2014 they decay over time.
+p121
+aVI mean, like, where did the '60s go, and can I go there, too?
+p122
+aa(lp123
+V(Laughter)
+p124
+aa(lp125
+VBut what if you could have a memory that was as good as computer memory,
+p126
+aVand was about your life?
+p127
+aVWhat if you could remember every person you ever met,
+p128
+aVhow to pronounce their name,
+p129
+aVtheir family details, their favorite sports,
+p130
+aVthe last conversation you had with them?
+p131
+aVIf you had this memory all your life,
+p132
+aVyou could have the AI look at all the interactions
+p133
+aVyou had with people over time
+p134
+aVand help you reflect on the long arc of your relationships.
+p135
+aVWhat if you could have the AI read everything you've ever read
+p136
+aVand listen to every song you've ever heard?
+p137
+aVFrom the tiniest clue, it could help you retrieve
+p138
+aVanything you've ever seen or heard before.
+p139
+aVImagine what that would do for the ability to make new connections
+p140
+aVand form new ideas.
+p141
+aa(lp142
+VAnd what about our bodies?
+p143
+aVWhat if we could remember the consequences of every food we eat,
+p144
+aVevery pill we take,
+p145
+aVevery all-nighter we pull?
+p146
+aVWe could do our own science on our own data
+p147
+aVabout what makes us feel good and stay healthy.
+p148
+aVAnd imagine how this could revolutionize
+p149
+aVthe way we manage allergies and chronic disease.
+p150
+aa(lp151
+VI believe that AI will make personal memory enhancement a reality.
+p152
+aVI can't say when or what form factors are involved,
+p153
+aVbut I think it's inevitable,
+p154
+aVbecause the very things that make AI successful today \u2014
+p155
+aVthe availability of comprehensive data
+p156
+aVand the ability for machines to make sense of that data \u2014
+p157
+aVcan be applied to the data of our lives.
+p158
+aVAnd those data are here today, available for all of us,
+p159
+aVbecause we lead digitally mediated lives,
+p160
+aVin mobile and online.
+p161
+aa(lp162
+VIn my view, a personal memory is a private memory.
+p163
+aVWe get to choose what is and is not recalled and retained.
+p164
+aVIt's absolutely essential that this be kept very secure.
+p165
+aa(lp166
+VNow for most of us,
+p167
+aVthe impact of augmented personal memory
+p168
+aVwill be a more improved mental gain,
+p169
+aVmaybe, hopefully, a bit more social grace.
+p170
+aVBut for the millions who suffer from Alzheimer's and dementia,
+p171
+aVthe difference that augmented memory could make
+p172
+aVis a difference between a life of isolation
+p173
+aVand a life of dignity and connection.
+p174
+aa(lp175
+VWe are in the middle of a renaissance in artificial intelligence right now.
+p176
+aVI mean, in just the past few years,
+p177
+aVwe're beginning to see solutions to AI problems
+p178
+aVthat we have struggled with literally for decades:
+p179
+aVspeech understanding, text understanding,
+p180
+aVimage understanding.
+p181
+aVWe have a choice in how we use this powerful technology.
+p182
+aVWe can choose to use AI to automate and compete with us,
+p183
+aVor we can use AI to augment and collaborate with us,
+p184
+aVto overcome our cognitive limitations
+p185
+aVand to help us do what we want to do,
+p186
+aVonly better.
+p187
+aVAnd as we discover new ways to give machines intelligence,
+p188
+aVwe can distribute that intelligence
+p189
+aVto all of the AI assistants in the world,
+p190
+aVand therefore to every person, regardless of circumstance.
+p191
+aVAnd that is why,
+p192
+aVevery time a machine gets smarter,
+p193
+aVwe get smarter.
+p194
+aa(lp195
+VThat is an AI worth spreading.
+p196
+aa(lp197
+VThank you.
+p198
+aa(lp199
+V(Applause)
+p200
+aasS'id'
+p201
+I2841
+sS'title'
+p202
+VHow AI can enhance our memory, work and social lives
+p203
+s.

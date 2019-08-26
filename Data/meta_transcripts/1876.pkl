@@ -1,0 +1,453 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VOne billion people in the world today
+p4
+aVdo not have access to all-season roads.
+p5
+aVOne billion people.
+p6
+aVOne seventh of the Earth's population
+p7
+aVare totally cut off for some part of the year.
+p8
+aVWe cannot get medicine to them reliably,
+p9
+aVthey cannot get critical supplies,
+p10
+aVand they cannot get their goods to market
+p11
+aVin order to create a sustainable income.
+p12
+aVIn sub-Saharan Africa, for instance,
+p13
+aV85 percent of roads are unusable in the wet season.
+p14
+aVInvestments are being made,
+p15
+aVbut at the current level,
+p16
+aVit's estimated it's going to take them
+p17
+aV50 years to catch up.
+p18
+aVIn the U.S. alone, there's more than four million
+p19
+aVmiles of roads, very expensive to build,
+p20
+aVvery expensive to maintain infrastructure,
+p21
+aVwith a huge ecological footprint,
+p22
+aVand yet, very often, congested.
+p23
+aa(lp24
+VSo we saw this and we thought,
+p25
+aVcan there be a better way?
+p26
+aVCan we create a system using today's most advanced technologies
+p27
+aVthat can allow this part of the world to leapfrog
+p28
+aVin the same way they've done with mobile telephones
+p29
+aVin the last 10 years?
+p30
+aVMany of those nations have excellent telecommunications today
+p31
+aVwithout ever putting copper lines in the ground.
+p32
+aVCould we do the same for transportation?
+p33
+aa(lp34
+VImagine this scenario.
+p35
+aVImagine you are in a maternity ward in Mali,
+p36
+aVand have a newborn in need of urgent medication.
+p37
+aVWhat would you do today?
+p38
+aVWell, you would place a request via mobile phone,
+p39
+aVand someone would get the request immediately.
+p40
+aVThat's the part that works.
+p41
+aVThe medication may take days to arrive, though,
+p42
+aVbecause of bad roads.
+p43
+aVThat's the part that's broken.
+p44
+aa(lp45
+VWe believe we can deliver it within hours
+p46
+aVwith an electric autonomous flying vehicle
+p47
+aVsuch as this.
+p48
+aVThis can transport a small payload today, about two kilograms,
+p49
+aVover a short distance, about 10 kilometers,
+p50
+aVbut it's part of a wider network that may cover
+p51
+aVthe entire country, maybe even the entire continent.
+p52
+aVIt's an ultra-flexible, automated logistics network.
+p53
+aVIt's a network for a transportation of matter.
+p54
+aVWe call it Matternet.
+p55
+aa(lp56
+VWe use three key technologies.
+p57
+aVThe first is electric autonomous flying vehicles.
+p58
+aVThe second is automated ground stations
+p59
+aVthat the vehicles fly in and out of
+p60
+aVto swap batteries and fly farther,
+p61
+aVor pick up or deliver loads.
+p62
+aVAnd the third is the operating system
+p63
+aVthat manages the whole network.
+p64
+aa(lp65
+VLet's look at each one of those technologies in a bit more detail.
+p66
+aVFirst of all, the UAVs.
+p67
+aVEventually, we're going to be using all sorts of vehicles
+p68
+aVfor different payload capacities and different ranges.
+p69
+aVToday, we're using small quads.
+p70
+aVThese are able to transport two kilograms
+p71
+aVover 10 kilometers in just about 15 minutes.
+p72
+aVCompare this with trying to trespass a bad road
+p73
+aVin the developing world,
+p74
+aVor even being stuck in traffic
+p75
+aVin a developed world country.
+p76
+aVThese fly autonomously.
+p77
+aVThis is the key to the technology.
+p78
+aVSo they use GPS and other sensors on board
+p79
+aVto navigate between ground stations.
+p80
+aVEvery vehicle is equipped with an automatic
+p81
+aVpayload and battery exchange mechanism,
+p82
+aVso these vehicles navigate to those ground stations,
+p83
+aVthey dock, swap a battery automatically,
+p84
+aVand go out again.
+p85
+aVThe ground stations are located on safe locations
+p86
+aVon the ground.
+p87
+aVThey secure the most vulnerable part of the mission,
+p88
+aVwhich is the landing.
+p89
+aVThey are at known locations on the ground,
+p90
+aVso the paths between them are also known,
+p91
+aVwhich is very important from a reliability perspective
+p92
+aVfrom the whole network.
+p93
+aVApart from fulfilling the energy requirements of the vehicles,
+p94
+aVeventually they're going to be becoming
+p95
+aVcommercial hubs where people can take out loads
+p96
+aVor put loads into the network.
+p97
+aVThe last component is the operating system
+p98
+aVthat manages the whole network.
+p99
+aVIt monitors weather data from all the ground stations
+p100
+aVand optimizes the routes of the vehicles through the system
+p101
+aVto avoid adverse weather conditions,
+p102
+aVavoid other risk factors,
+p103
+aVand optimize the use of the resources
+p104
+aVthroughout the network.
+p105
+aa(lp106
+VI want to show you what one of those flights
+p107
+aVlooks like.
+p108
+aVHere we are flying in Haiti last summer,
+p109
+aVwhere we've done our first field trials.
+p110
+aVWe're modeling here a medical delivery
+p111
+aVin a camp we set up after the 2010 earthquake.
+p112
+aVPeople there love this.
+p113
+aa(lp114
+VAnd I want to show you
+p115
+aVwhat one of those vehicles looks like up close.
+p116
+aVSo this is a $3,000 vehicle.
+p117
+aVCosts are coming down very rapidly.
+p118
+aVWe use this in all sorts of weather conditions,
+p119
+aVvery hot and very cold climates,
+p120
+aVvery strong winds. They're very sturdy vehicles.
+p121
+aVImagine if your life depended on this package,
+p122
+aVsomewhere in Africa
+p123
+aVor in New York City, after Sandy.
+p124
+aVThe next big question is, what's the cost?
+p125
+aa(lp126
+VWell, it turns out that the cost to transport
+p127
+aVtwo kilograms over 10 kilometers with this vehicle
+p128
+aVis just 24 cents.
+p129
+aa(lp130
+V(Applause)
+p131
+aa(lp132
+VAnd it's counterintuitive, but the cost of energy
+p133
+aVexpended for the flight is only two cents
+p134
+aVof a dollar today,
+p135
+aVand we're just at the beginning of this.
+p136
+aVWhen we saw this, we felt that this is something
+p137
+aVthat can have significant impact in the world.
+p138
+aa(lp139
+VSo we said, okay, how much does it cost
+p140
+aVto set up a network somewhere in the world?
+p141
+aVAnd we looked at setting up a network in Lesotho
+p142
+aVfor transportation of HIV/AIDS samples.
+p143
+aVThe problem there is how do you take them
+p144
+aVfrom clinics where they're being collected
+p145
+aVto hospitals where they're being analyzed?
+p146
+aVAnd we said, what if we wanted to cover an area
+p147
+aVspanning around 140 square kilometers?
+p148
+aVThat's roughly one and a half times the size of Manhattan.
+p149
+aVWell it turns out that the cost to do that there
+p150
+aVwould be less than a million dollars.
+p151
+aVCompare this to normal infrastructure investments.
+p152
+aVWe think this can be \u2014 this is the power
+p153
+aVof a new paradigm.
+p154
+aa(lp155
+VSo here we are: a new idea
+p156
+aVabout a network for transportation
+p157
+aVthat is based on the ideas of the Internet.
+p158
+aVIt's decentralized, it's peer-to-peer,
+p159
+aVit's bidirectional, highly adaptable,
+p160
+aVwith very low infrastructure investment,
+p161
+aVvery low ecological footprint.
+p162
+aVIf it is a new paradigm, though,
+p163
+aVthere must be other uses for it.
+p164
+aVIt can be used perhaps in other places in the world.
+p165
+aa(lp166
+VSo let's look at the other end of the spectrum:
+p167
+aVour cities and megacities.
+p168
+aVHalf of the Earth's population lives in cities today.
+p169
+aVHalf a billion of us live in megacities.
+p170
+aVWe are living through an amazing urbanization trend.
+p171
+aVChina alone is adding a megacity
+p172
+aVthe size of New York City every two years.
+p173
+aVThese are places that do have road infrastructure,
+p174
+aVbut it's very inefficient.
+p175
+aVCongestion is a huge problem.
+p176
+aVSo we think it makes sense in those places
+p177
+aVto set up a network of transportation
+p178
+aVthat is a new layer that sits between the road
+p179
+aVand the Internet,
+p180
+aVinitially for lightweight, urgent stuff,
+p181
+aVand over time, we would hope to develop this
+p182
+aVinto a new mode of transportation
+p183
+aVthat is truly a modern solution to a very old problem.
+p184
+aVIt's ultimately scalable
+p185
+aVwith a very small ecological footprint,
+p186
+aVoperating in the background 24/7,
+p187
+aVjust like the Internet.
+p188
+aa(lp189
+VSo when we started this
+p190
+aVa couple of years ago now,
+p191
+aVwe've had a lot of people come up to us who said,
+p192
+aV"This is a very interesting but crazy idea,
+p193
+aVand certainly not something that you should
+p194
+aVengage with anytime soon."
+p195
+aVAnd of course, we're talking about drones, right,
+p196
+aVa technology that's not only unpopular in the West
+p197
+aVbut one that has become a very, very unpleasant
+p198
+aVfact of life for many living in poor countries,
+p199
+aVespecially those engaged in conflict.
+p200
+aa(lp201
+VSo why are we doing this?
+p202
+aVWell, we chose to do this one
+p203
+aVnot because it's easy,
+p204
+aVbut because it can have amazing impact.
+p205
+aVImagine one billion people being connected
+p206
+aVto physical goods in the same way
+p207
+aVthat mobile telecommunications connected them
+p208
+aVto information.
+p209
+aVImagine if the next big network we built in the world
+p210
+aVwas a network for the transportation of matter.
+p211
+aVIn the developing world, we would hope
+p212
+aVto reach millions of people with better vaccines,
+p213
+aVreach them with better medication.
+p214
+aVIt would give us an unfair advantage against battling
+p215
+aVHIV/AIDS, tuberculosis and other epidemics.
+p216
+aVOver time, we would hope it would become
+p217
+aVa new platform for economic transactions,
+p218
+aVlifting millions of people out of poverty.
+p219
+aVIn the developed world and the emerging world,
+p220
+aVwe would hope it would become a new mode
+p221
+aVof transportation that could help make our cities
+p222
+aVmore livable.
+p223
+aa(lp224
+VSo for those that still believe that this is science fiction,
+p225
+aVI firmly say to you that it is not.
+p226
+aVWe do need to engage, though,
+p227
+aVin social fiction to make it happen.
+p228
+aa(lp229
+VThank you.
+p230
+aa(lp231
+V(Applause)
+p232
+aasS'id'
+p233
+I1876
+sS'title'
+p234
+VNo roads? There's a drone for that
+p235
+s.

@@ -1,0 +1,347 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhen we're designing new products,
+p4
+aVservices or businesses,
+p5
+aVthe only time you'll know if they're any good,
+p6
+aVif the designs are good,
+p7
+aVis to see how they're used in the real world, in context.
+p8
+aa(lp9
+VI'm reminded of that every time I walk past Highbury Fields
+p10
+aVin north London.
+p11
+aVIt's absolutely beautiful.
+p12
+aVThere's a big open green space.
+p13
+aVThere's Georgian buildings around the side.
+p14
+aVBut then there's this mud trap that cuts across the middle.
+p15
+aVPeople clearly don't want to walk all the way around the edge.
+p16
+aVInstead, they want to take the shortcut,
+p17
+aVand that shortcut is self-reinforcing.
+p18
+aa(lp19
+VNow, this shortcut is called a desire path,
+p20
+aVand it's often the path of least resistance.
+p21
+aVI find them fascinating,
+p22
+aVbecause they're often the point where design and user experience diverge.
+p23
+aa(lp24
+VNow at this point, I should apologize,
+p25
+aVbecause you guys are going to start seeing these everywhere.
+p26
+aVBut today, I'm going to pick three I find interesting
+p27
+aVand share what actually it reminds me
+p28
+aVabout launching new products and services.
+p29
+aVThe first is in the capital city of Brazil \u2014 Brasilia.
+p30
+aVAnd it reminds me that sometimes,
+p31
+aVyou have to just focus on designing for a real need
+p32
+aVat low friction.
+p33
+aVNow, Brasilia is fascinating.
+p34
+aVIt was designed by Niemeyer in the '50s.
+p35
+aVIt was the golden age of flying,
+p36
+aVso he laid it out like a plane, as you can see there.
+p37
+aVSlightly worryingly,
+p38
+aVhe put most of the important government buildings in the cockpit.
+p39
+aVBut if you zoom in, in the very center of Brasilia,
+p40
+aVjust where the point is there,
+p41
+aVyou see it's littered with desire paths.
+p42
+aVThey're absolutely everywhere.
+p43
+aa(lp44
+VNow, they thought that they had future-proofed this design.
+p45
+aVThey thought in the future we wouldn't need to walk anywhere \u2014
+p46
+aVwe'd be able to drive \u2014
+p47
+aVso there was little need for walkways or pavements.
+p48
+aVBut as you can see, there's a real need.
+p49
+aVThese are very dangerous desire paths.
+p50
+aVIf we just pick one, in the middle,
+p51
+aVyou can see it crosses 15 lanes of traffic.
+p52
+aVIt won't surprise you guys
+p53
+aVthat Brasilia has five times the pedestrian accident rate
+p54
+aVof your average US city.
+p55
+aVPeople are resourceful.
+p56
+aVThey'll always find the low-friction route
+p57
+aVto save money, save time.
+p58
+aa(lp59
+VNot all these desire paths are dangerous,
+p60
+aVI was reminded flying here when I was in Heathrow.
+p61
+aVMany of us get frustrated when we're confronted
+p62
+aVwith the obligatory walk through duty-free.
+p63
+aVIt was amazing to me
+p64
+aVhow many people refused to take the long, meandering path to the left,
+p65
+aVand just cut through to the right,
+p66
+aVcut through the desire path.
+p67
+aa(lp68
+VThe question that's interesting is:
+p69
+aVWhat do designers think when they see our behavior here?
+p70
+aVDo they think we're stupid?
+p71
+aVDo they think we're lazy?
+p72
+aVOr do they accept that this is the only truth?
+p73
+aVThis is their product.
+p74
+aVWe're effectively co-designing their product.
+p75
+aVSo our job is to design for real needs at low friction,
+p76
+aVbecause if you don't, the customer will, anyway.
+p77
+aa(lp78
+VThe second desire path I wanted to share
+p79
+aVis at the University of California.
+p80
+aVAnd it reminds me
+p81
+aVthat sometimes the best way to come up with a great design
+p82
+aVis just to launch it.
+p83
+aVNow, university campuses are fantastic for spotting desire paths.
+p84
+aVI think it's because students are always late and they're pretty smart.
+p85
+aVSo they're dashing to lectures.
+p86
+aVThey'll always find the shortcut.
+p87
+aVAnd the designers here knew that.
+p88
+aVSo they built the buildings
+p89
+aVand then they waited a few months for the paths to form.
+p90
+aVThey then paved them.
+p91
+aV(Laughter)
+p92
+aVIncredibly smart approach.
+p93
+aVIn fact, often, just launching the straw man of a service
+p94
+aVcan teach you what people really want.
+p95
+aa(lp96
+VFor example, Ayr Muir in Boston knew he wanted to open a restaurant.
+p97
+aVBut where should it be?
+p98
+aVWhat should the menu be?
+p99
+aVHe launched a service,
+p100
+aVin this case a food truck,
+p101
+aVand he changed the location each day.
+p102
+aVHe'd write a different menu on the side in a whiteboard marker
+p103
+aVto figure out what people wanted.
+p104
+aVHe now has a chain of restaurants.
+p105
+aVSo it can be incredibly efficient
+p106
+aVto launch something to spot the desire paths.
+p107
+aa(lp108
+VThe third and final desire path I wanted to share with you
+p109
+aVis the UNIH.
+p110
+aVIt reminds me that the world's in flux,
+p111
+aVand we have to respond to those changes.
+p112
+aVSo as you'll guess, this is a hospital.
+p113
+aVI've marked for you on the left the Oncology Department.
+p114
+aVThe patients would usually stay in the hotels down on the bottom right.
+p115
+aVThis was a patient-centered organization,
+p116
+aVso they laid on cars for their patients.
+p117
+aVBut what they realized when they started offering chemotherapy
+p118
+aVis the patients rarely wanted to get in cars.
+p119
+aVThey were too nauseous, so they'd walk back to their hotels.
+p120
+aVThis desire path that you see diagonally, formed.
+p121
+aVThe patients even called it "The Chemo Trail."
+p122
+aVNow, when the hospital saw this originally,
+p123
+aVthey tried to lay turf back over it, ignore it.
+p124
+aVBut after a while, they realized it was an important need
+p125
+aVthey were meeting for their patients,
+p126
+aVso they paved it.
+p127
+aa(lp128
+VAnd I think our job is often to pave these emerging desire paths.
+p129
+aVIf we look back at the one in North London again,
+p130
+aVthat desire path hasn't always been there.
+p131
+aVThe reason it sprung up
+p132
+aVis people were traveling to the mighty Arsenal Football Club stadium
+p133
+aVon game days,
+p134
+aVfrom the Underground station you see on the bottom right.
+p135
+aVSo you see the desire path.
+p136
+aVIf we just wind the clock back a few years,
+p137
+aVwhen the stadium was being constructed,
+p138
+aVthere is no desire path.
+p139
+aa(lp140
+VSo our job is to watch for these desire paths emerging,
+p141
+aVand, where appropriate, pave them,
+p142
+aVas someone did here.
+p143
+aVSomeone installed a barrier,
+p144
+aVpeople started walking across and round the bottom as you see,
+p145
+aVand they paved it.
+p146
+aa(lp147
+V(Laughter)
+p148
+aa(lp149
+VBut I think this is a wonderful reminder as well,
+p150
+aVthat, actually, the world is in flux.
+p151
+aVIt's constantly changing,
+p152
+aVbecause if you look at the top of this image,
+p153
+aVthere's another desire path forming.
+p154
+aa(lp155
+VSo these three desire paths remind me
+p156
+aVwe need to design for real human needs.
+p157
+aVI think empathy for what your customers want
+p158
+aVis probably the biggest leading indicator of business success.
+p159
+aVDesign for real needs
+p160
+aVand design them in low friction,
+p161
+aVbecause if you don't offer them in low friction,
+p162
+aVsomeone else will, often the customer.
+p163
+aa(lp164
+VSecondly, often the best way to learn what people really want
+p165
+aVis to launch your service.
+p166
+aVThe answer is rarely inside the building.
+p167
+aVGet out there and see what people really want.
+p168
+aa(lp169
+VAnd finally, in part because of technology,
+p170
+aVthe world is incredibly flux at the moment.
+p171
+aVIt's changing constantly.
+p172
+aVThese desire paths are going to spring up faster than ever.
+p173
+aVOur job is to pick the appropriate ones
+p174
+aVand pave over them.
+p175
+aa(lp176
+VThank you very much.
+p177
+aa(lp178
+V(Applause)
+p179
+aasS'id'
+p180
+I2531
+sS'title'
+p181
+VWhat can we learn from shortcuts?
+p182
+s.

@@ -1,0 +1,277 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI want you now to imagine
+p4
+aVa wearable robot
+p5
+aVthat gives you superhuman abilities,
+p6
+aVor another one that takes wheelchair users
+p7
+aVup standing and walking again.
+p8
+aVWe at Berkeley Bionics
+p9
+aVcall these robots exoskeletons.
+p10
+aVThese are nothing else
+p11
+aVthan something that you put on in the morning,
+p12
+aVand it will give you extra strength,
+p13
+aVand it will further enhance your speed,
+p14
+aVand it will help you, for instance, to manage your balance.
+p15
+aVIt is actually the true integration
+p16
+aVof the man and the machine.
+p17
+aVBut not only that \u2014
+p18
+aVit will integrate and network you
+p19
+aVto the universe
+p20
+aVand other devices out there.
+p21
+aa(lp22
+VThis is just not some blue sky thinking.
+p23
+aVTo show you now what we are working on
+p24
+aVby starting out talking about
+p25
+aVthe American soldier,
+p26
+aVthat on average does carry about 100 lbs. on their backs,
+p27
+aVand they are being asked to carry more equipment.
+p28
+aVObviously, this is resulting
+p29
+aVin some major complications \u2014
+p30
+aVback injuries, 30 percent of them \u2014
+p31
+aVchronic back injuries.
+p32
+aVSo we thought we would look at this challenge
+p33
+aVand create an exoskeleton
+p34
+aVthat would help deal with this issue.
+p35
+aVSo let me now introduce to you HULC \u2014
+p36
+aVor the Human Universal
+p37
+aVLoad Carrier.
+p38
+aa(lp39
+VSoldier: With the HULC exoskeleton,
+p40
+aVI can carry 200 lbs. over varied terrain
+p41
+aVfor many hours.
+p42
+aVIts flexible design allows for deep squats,
+p43
+aVcrawls and high-agility movements.
+p44
+aVIt senses what I want to do, where I want to go,
+p45
+aVand then augments my strength and endurance.
+p46
+aa(lp47
+VEythor Bender: We are ready with our industry partner
+p48
+aVto introduce this device,
+p49
+aVthis new exoskeleton this year.
+p50
+aVSo this is for real.
+p51
+aVNow let's turn our heads
+p52
+aVtowards the wheelchair users,
+p53
+aVsomething that I'm particularly passionate about.
+p54
+aVThere are 68 million people
+p55
+aVestimated to be in wheelchairs worldwide.
+p56
+aVThis is about one percent of the total population.
+p57
+aVAnd that's actually a conservative estimate.
+p58
+aVWe are talking here about, oftentimes,
+p59
+aVvery young individuals with spinal cord injuries,
+p60
+aVthat in the prime of their life \u2014 20s, 30s, 40s \u2014
+p61
+aVhit a wall
+p62
+aVand the wheelchair's the only option.
+p63
+aVBut it is also the aging population
+p64
+aVthat is multiplying in numbers.
+p65
+aVAnd the only option, pretty much \u2014
+p66
+aVwhen it's stroke or other complications \u2014
+p67
+aVis the wheelchair.
+p68
+aVAnd that is actually for the last 500 years,
+p69
+aVsince its very successful introduction, I must say.
+p70
+aVSo we thought we would start
+p71
+aVwriting a brand new chapter
+p72
+aVof mobility.
+p73
+aVLet me now introduce you to eLEGS
+p74
+aVthat is worn by Amanda Boxtel
+p75
+aVthat 19 years ago was spinal cord injured,
+p76
+aVand as a result of that
+p77
+aVshe has not been able to walk
+p78
+aVfor 19 years until now.
+p79
+aa(lp80
+V(Applause)
+p81
+aa(lp82
+VAmanda Boxtel: Thank you.
+p83
+aa(lp84
+V(Applause)
+p85
+aa(lp86
+VEB: Amanda is wearing our eLEGS set.
+p87
+aVIt has sensors.
+p88
+aVIt's completely non-invasive,
+p89
+aVsensors in the crutches
+p90
+aVthat send signals back to our onboard computer
+p91
+aVthat is sitting here at her back.
+p92
+aVThere are battery packs here as well
+p93
+aVthat power motors that are sitting at her hips,
+p94
+aVas well as her knee joints,
+p95
+aVthat move her forward
+p96
+aVin this kind of smooth and very natural gait.
+p97
+aa(lp98
+VAB: I was 24 years old
+p99
+aVand at the top of my game
+p100
+aVwhen a freak summersault while downhill skiing
+p101
+aVparalyzed me.
+p102
+aVIn a split second,
+p103
+aVI lost all sensation and movement
+p104
+aVbelow my pelvis.
+p105
+aVNot long afterwards,
+p106
+aVa doctor strode into my hospital room,
+p107
+aVand he said, "Amanda,
+p108
+aVyou'll never walk again."
+p109
+aVAnd that was 19 yeas ago.
+p110
+aVHe robbed
+p111
+aVevery ounce of hope
+p112
+aVfrom my being.
+p113
+aVAdaptive technology
+p114
+aVhas since enabled me
+p115
+aVto learn how to downhill ski again,
+p116
+aVto rock climb and even handcycle.
+p117
+aVBut nothing has been invented
+p118
+aVthat enables me to walk,
+p119
+aVuntil now.
+p120
+aa(lp121
+V(Applause)
+p122
+aa(lp123
+VThank you.
+p124
+aa(lp125
+V(Applause)
+p126
+aa(lp127
+VEB: As you can see,
+p128
+aVwe have the technology,
+p129
+aVwe have the platforms
+p130
+aVto sit down and have discussions with you.
+p131
+aVIt's in our hands,
+p132
+aVand we have all the potential here
+p133
+aVto change the lives
+p134
+aVof future generations \u2014
+p135
+aVnot only for the soldiers,
+p136
+aVor for Amanda here and all the wheelchair users,
+p137
+aVbut for everyone.
+p138
+aa(lp139
+VAB: Thanks.
+p140
+aa(lp141
+V(Applause)
+p142
+aasS'id'
+p143
+I1104
+sS'title'
+p144
+VHuman exoskeletons -- for war and healing
+p145
+s.

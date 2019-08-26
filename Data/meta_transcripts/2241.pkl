@@ -1,0 +1,670 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI am a plant geneticist.
+p4
+aVI study genes that make plants resistant to disease
+p5
+aVand tolerant of stress.
+p6
+aVIn recent years,
+p7
+aVmillions of people around the world have come to believe
+p8
+aVthat there's something sinister about genetic modification.
+p9
+aVToday, I am going to provide a different perspective.
+p10
+aa(lp11
+VFirst, let me introduce my husband, Raoul.
+p12
+aVHe's an organic farmer.
+p13
+aVOn his farm, he plants a variety of different crops.
+p14
+aVThis is one of the many ecological farming practices
+p15
+aVhe uses to keep his farm healthy.
+p16
+aVImagine some of the reactions we get:
+p17
+aV"Really? An organic farmer and a plant geneticist?
+p18
+aVCan you agree on anything?"
+p19
+aa(lp20
+VWell, we can, and it's not difficult, because we have the same goal.
+p21
+aVWe want to help nourish the growing population
+p22
+aVwithout further destroying the environment.
+p23
+aVI believe this is the greatest challenge of our time.
+p24
+aa(lp25
+VNow, genetic modification is not new;
+p26
+aVvirtually everything we eat has been genetically modified
+p27
+aVin some manner.
+p28
+aVLet me give you a few examples.
+p29
+aVOn the left is an image
+p30
+aVof the ancient ancestor of modern corn.
+p31
+aVYou see a single roll of grain that's covered in a hard case.
+p32
+aVUnless you have a hammer,
+p33
+aVteosinte isn't good for making tortillas.
+p34
+aVNow, take a look at the ancient ancestor of banana.
+p35
+aVYou can see the large seeds.
+p36
+aVAnd unappetizing brussel sprouts,
+p37
+aVand eggplant, so beautiful.
+p38
+aa(lp39
+VNow, to create these varieties,
+p40
+aVbreeders have used many different genetic techniques over the years.
+p41
+aVSome of them are quite creative,
+p42
+aVlike mixing two different species together
+p43
+aVusing a process called grafting
+p44
+aVto create this variety that's half tomato and half potato.
+p45
+aVBreeders have also used other types of genetic techniques,
+p46
+aVsuch as random mutagenesis,
+p47
+aVwhich induces uncharacterized mutations
+p48
+aVinto the plants.
+p49
+aVThe rice in the cereal that many of us fed our babies
+p50
+aVwas developed using this approach.
+p51
+aa(lp52
+VNow, today, breeders have even more options to choose from.
+p53
+aVSome of them are extraordinarily precise.
+p54
+aa(lp55
+VI want to give you a couple examples from my own work.
+p56
+aVI work on rice, which is a staple food for more than half the world's people.
+p57
+aVEach year, 40 percent of the potential harvest
+p58
+aVis lost to pest and disease.
+p59
+aVFor this reason, farmers plant rice varieties
+p60
+aVthat carry genes for resistance.
+p61
+aVThis approach has been used for nearly 100 years.
+p62
+aVYet, when I started graduate school,
+p63
+aVno one knew what these genes were.
+p64
+aVIt wasn't until the 1990s that scientists finally uncovered
+p65
+aVthe genetic basis of resistance.
+p66
+aVIn my laboratory, we isolated a gene for immunity to a very serious
+p67
+aVbacterial disease in Asia and Africa.
+p68
+aVWe found we could engineer the gene into a conventional rice variety
+p69
+aVthat's normally susceptible,
+p70
+aVand you can see the two leaves on the bottom here
+p71
+aVare highly resistant to infection.
+p72
+aa(lp73
+VNow, the same month that my laboratory published
+p74
+aVour discovery on the rice immunity gene,
+p75
+aVmy friend and colleague Dave Mackill stopped by my office.
+p76
+aVHe said, "Seventy million rice farmers are having trouble growing rice."
+p77
+aVThat's because their fields are flooded,
+p78
+aVand these rice farmers are living on less than two dollars a day.
+p79
+aVAlthough rice grows well in standing water,
+p80
+aVmost rice varieties will die if they're submerged
+p81
+aVfor more than three days.
+p82
+aVFlooding is expected to be increasingly problematic
+p83
+aVas the climate changes.
+p84
+aVHe told me that his graduate student Kenong Xu and himself
+p85
+aVwere studying an ancient variety of rice that had an amazing property.
+p86
+aVIt could withstand two weeks of complete submergence.
+p87
+aVHe asked if I would be willing to help them isolate this gene.
+p88
+aVI said yes \u2014 I was very excited, because I knew if we were successful,
+p89
+aVwe could potentially help millions of farmers grow rice
+p90
+aVeven when their fields were flooded.
+p91
+aa(lp92
+VKenong spent 10 years looking for this gene.
+p93
+aVThen one day, he said,
+p94
+aV"Come look at this experiment. You've got to see it."
+p95
+aVI went to the greenhouse and I saw
+p96
+aVthat the conventional variety that was flooded for 18 days had died,
+p97
+aVbut the rice variety that we had genetically engineered
+p98
+aVwith a new gene we had discovered, called Sub1, was alive.
+p99
+aVKenong and I were amazed and excited
+p100
+aVthat a single gene could have this dramatic effect.
+p101
+aVBut this is just a greenhouse experiment.
+p102
+aVWould this work in the field?
+p103
+aa(lp104
+VNow, I'm going to show you a four-month time lapse video
+p105
+aVtaken at the International Rice Research Institute.
+p106
+aVBreeders there developed a rice variety carrying the Sub1 gene
+p107
+aVusing another genetic technique called precision breeding.
+p108
+aVOn the left, you can see the Sub1 variety,
+p109
+aVand on the right is the conventional variety.
+p110
+aVBoth varieties do very well at first,
+p111
+aVbut then the field is flooded for 17 days.
+p112
+aVYou can see the Sub1 variety does great.
+p113
+aVIn fact, it produces three and a half times more grain
+p114
+aVthan the conventional variety.
+p115
+aVI love this video
+p116
+aVbecause it shows the power of plant genetics to help farmers.
+p117
+aVLast year, with the help of the Bill and Melinda Gates Foundation,
+p118
+aVthree and a half million farmers grew Sub1 rice.
+p119
+aa(lp120
+V(Applause)
+p121
+aa(lp122
+VThank you.
+p123
+aa(lp124
+VNow, many people don't mind genetic modification
+p125
+aVwhen it comes to moving rice genes around,
+p126
+aVrice genes in rice plants,
+p127
+aVor even when it comes to mixing species together
+p128
+aVthrough grafting or random mutagenesis.
+p129
+aVBut when it comes to taking genes from viruses and bacteria
+p130
+aVand putting them into plants,
+p131
+aVa lot of people say, "Yuck."
+p132
+aVWhy would you do that?
+p133
+aVThe reason is that sometimes it's the cheapest, safest,
+p134
+aVand most effective technology
+p135
+aVfor enhancing food security and advancing sustainable agriculture.
+p136
+aVI'm going to give you three examples.
+p137
+aa(lp138
+VFirst, take a look at papaya. It's delicious, right?
+p139
+aVBut now, look at this papaya.
+p140
+aVThis papaya is infected with papaya ringspot virus.
+p141
+aVIn the 1950s, this virus nearly wiped out the entire production
+p142
+aVof papaya on the island of Oahu in Hawaii.
+p143
+aVMany people thought that the Hawaiian papaya was doomed,
+p144
+aVbut then, a local Hawaiian,
+p145
+aVa plant pathologist named Dennis Gonsalves,
+p146
+aVdecided to try to fight this disease using genetic engineering.
+p147
+aVHe took a snippet of viral DNA and he inserted it
+p148
+aVinto the papaya genome.
+p149
+aVThis is kind of like a human getting a vaccination.
+p150
+aVNow, take a look at his field trial.
+p151
+aVYou can see the genetically engineered papaya in the center.
+p152
+aVIt's immune to infection.
+p153
+aVThe conventional papaya around the outside is severely infected with the virus.
+p154
+aVDennis' pioneering work is credited with rescuing the papaya industry.
+p155
+aVToday, 20 years later, there's still no other method to control this disease.
+p156
+aVThere's no organic method. There's no conventional method.
+p157
+aVEighty percent of Hawaiian papaya is genetically engineered.
+p158
+aa(lp159
+VNow, some of you may still feel a little queasy about viral genes in your food,
+p160
+aVbut consider this:
+p161
+aVThe genetically engineered papaya carries just a trace amount of the virus.
+p162
+aVIf you bite into an organic or conventional papaya
+p163
+aVthat is infected with the virus,
+p164
+aVyou will be chewing on tenfold more viral protein.
+p165
+aa(lp166
+VNow, take a look at this pest feasting on an eggplant.
+p167
+aVThe brown you see is frass,
+p168
+aVwhat comes out the back end of the insect.
+p169
+aVTo control this serious pest,
+p170
+aVwhich can devastate the entire eggplant crop in Bangladesh,
+p171
+aVBangladeshi farmers spray insecticides
+p172
+aVtwo to three times a week,
+p173
+aVsometimes twice a day, when pest pressure is high.
+p174
+aVBut we know that some insecticides are very harmful to human health,
+p175
+aVespecially when farmers and their families
+p176
+aVcannot afford proper protection, like these children.
+p177
+aVIn less developed countries, it's estimated that 300,000 people
+p178
+aVdie every year because of insecticide misuse and exposure.
+p179
+aVCornell and Bangladeshi scientists decided to fight this disease
+p180
+aVusing a genetic technique that builds on an organic farming approach.
+p181
+aVOrganic farmers like my husband Raoul spray an insecticide called B.T.,
+p182
+aVwhich is based on a bacteria.
+p183
+aVThis pesticide is very specific to caterpillar pests,
+p184
+aVand in fact, it's nontoxic to humans, fish and birds.
+p185
+aVIt's less toxic than table salt.
+p186
+aVBut this approach does not work well in Bangladesh.
+p187
+aVThat's because these insecticide sprays
+p188
+aVare difficult to find, they're expensive,
+p189
+aVand they don't prevent the insect from getting inside the plants.
+p190
+aVIn the genetic approach, scientists cut the gene out of the bacteria
+p191
+aVand insert it directly into the eggplant genome.
+p192
+aVWill this work to reduce insecticide sprays in Bangladesh?
+p193
+aVDefinitely.
+p194
+aVLast season, farmers reported they were able to reduce their insecticide use
+p195
+aVby a huge amount, almost down to zero.
+p196
+aVThey're able to harvest and replant for the next season.
+p197
+aa(lp198
+VNow, I've given you a couple examples of how genetic engineering can be used
+p199
+aVto fight pests and disease
+p200
+aVand to reduce the amount of insecticides.
+p201
+aVMy final example is an example
+p202
+aVwhere genetic engineering can be used to reduce malnutrition.
+p203
+aVIn less developed countries,
+p204
+aV500,000 children go blind every year because of lack of Vitamin A.
+p205
+aVMore than half will die.
+p206
+aVFor this reason, scientists supported by the Rockefeller Foundation
+p207
+aVgenetically engineered a golden rice
+p208
+aVto produce beta-carotene, which is the precursor of Vitamin A.
+p209
+aVThis is the same pigment that we find in carrots.
+p210
+aVResearchers estimate that just one cup of golden rice per day
+p211
+aVwill save the lives of thousands of children.
+p212
+aVBut golden rice is virulently opposed
+p213
+aVby activists who are against genetic modification.
+p214
+aVJust last year,
+p215
+aVactivists invaded and destroyed a field trial in the Philippines.
+p216
+aVWhen I heard about the destruction,
+p217
+aVI wondered if they knew that they were destroying much more
+p218
+aVthan a scientific research project,
+p219
+aVthat they were destroying medicines that children desperately needed
+p220
+aVto save their sight and their lives.
+p221
+aa(lp222
+VSome of my friends and family still worry:
+p223
+aVHow do you know genes in the food are safe to eat?
+p224
+aVI explained the genetic engineering,
+p225
+aVthe process of moving genes between species,
+p226
+aVhas been used for more than 40 years
+p227
+aVin wines, in medicine, in plants, in cheeses.
+p228
+aVIn all that time, there hasn't been a single case of harm
+p229
+aVto human health or the environment.
+p230
+aVBut I say, look, I'm not asking you to believe me.
+p231
+aVScience is not a belief system.
+p232
+aVMy opinion doesn't matter.
+p233
+aVLet's look at the evidence.
+p234
+aVAfter 20 years of careful study and rigorous peer review
+p235
+aVby thousands of independent scientists,
+p236
+aVevery major scientific organization in the world has concluded
+p237
+aVthat the crops currently on the market are safe to eat
+p238
+aVand that the process of genetic engineering
+p239
+aVis no more risky than older methods of genetic modification.
+p240
+aVThese are precisely the same organizations that most of us trust
+p241
+aVwhen it comes to other important scientific issues
+p242
+aVsuch as global climate change or the safety of vaccines.
+p243
+aa(lp244
+VRaoul and I believe that, instead of worrying about the genes in our food,
+p245
+aVwe must focus on how we can help children grow up healthy.
+p246
+aVWe must ask if farmers in rural communities can thrive,
+p247
+aVand if everyone can afford the food.
+p248
+aVWe must try to minimize environmental degradation.
+p249
+aVWhat scares me most about the loud arguments and misinformation
+p250
+aVabout plant genetics
+p251
+aVis that the poorest people who most need the technology
+p252
+aVmay be denied access because of the vague fears and prejudices
+p253
+aVof those who have enough to eat.
+p254
+aa(lp255
+VWe have a huge challenge in front of us.
+p256
+aVLet's celebrate scientific innovation and use it.
+p257
+aVIt's our responsibility
+p258
+aVto do everything we can to help alleviate human suffering
+p259
+aVand safeguard the environment.
+p260
+aa(lp261
+VThank you.
+p262
+aa(lp263
+V(Applause)
+p264
+aa(lp265
+VThank you.
+p266
+aa(lp267
+VChris Anderson: Powerfully argued.
+p268
+aVThe people who argue against GMOs,
+p269
+aVas I understand it, the core piece comes from two things.
+p270
+aVOne, complexity and unintended consequence.
+p271
+aVNature is this incredibly complex machine.
+p272
+aVIf we put out these brand new genes that we've created,
+p273
+aVthat haven't been challenged by years of evolution,
+p274
+aVand they started mixing up with the rest of what's going on,
+p275
+aVcouldn't that trigger some kind of cataclysm or problem,
+p276
+aVespecially when you add in the commercial incentive
+p277
+aVthat some companies have to put them out there?
+p278
+aVThe fear is that those incentives
+p279
+aVmean that the decision is not made on purely scientific grounds,
+p280
+aVand even if it was, that there would be unintended consequences.
+p281
+aVHow do we know that there isn't a big risk of some unintended consequence?
+p282
+aVOften our tinkerings with nature do lead to big, unintended consequences
+p283
+aVand chain reactions.
+p284
+aa(lp285
+VPamela Ronald: Okay, so on the commercial aspects,
+p286
+aVone thing that's really important to understand is that,
+p287
+aVin the developed world, farmers in the United States,
+p288
+aValmost all farmers, whether they're organic or conventional,
+p289
+aVthey buy seed produced by seed companies.
+p290
+aVSo there's definitely a commercial interest to sell a lot of seed,
+p291
+aVbut hopefully they're selling seed that the farmers want to buy.
+p292
+aVIt's different in the less developed world.
+p293
+aVFarmers there cannot afford the seed.
+p294
+aVThese seeds are not being sold.
+p295
+aVThese seeds are being distributed freely
+p296
+aVthrough traditional kinds of certification groups,
+p297
+aVso it is very important in less developed countries
+p298
+aVthat the seed be freely available.
+p299
+aa(lp300
+VCA: Wouldn't some activists say that this is actually part of the conspiracy?
+p301
+aVThis is the heroin strategy.
+p302
+aVYou seed the stuff, and people have no choice
+p303
+aVbut to be hooked on these seeds forever?
+p304
+aa(lp305
+VPR: There are a lot of conspiracy theories for sure, but it doesn't work that way.
+p306
+aVFor example, the seed that's being distributed, the flood-tolerant rice,
+p307
+aVthis is distributed freely
+p308
+aVthrough Indian and Bangladeshi seed certification agencies,
+p309
+aVso there's no commercial interest at all.
+p310
+aVThe golden rice was developed through support of the Rockefeller Foundation.
+p311
+aVAgain, it's being freely distributed.
+p312
+aVThere are no commercial profits
+p313
+aVin this situation.
+p314
+aVAnd now to address your other question about, well, mixing genes,
+p315
+aVaren't there some unintended consequences?
+p316
+aVAbsolutely \u2014 every time we do something different,
+p317
+aVthere's an unintended consequence,
+p318
+aVbut one of the points I was trying to make
+p319
+aVis that we've been doing kind of crazy things to our plants,
+p320
+aVmutagenesis using radiation or chemical mutagenesis.
+p321
+aVThis induces thousands of uncharacterized mutations,
+p322
+aVand this is even a higher risk of unintended consequence
+p323
+aVthan many of the modern methods.
+p324
+aVAnd so it's really important not to use the term GMO
+p325
+aVbecause it's scientifically meaningless.
+p326
+aVI feel it's very important to talk about a specific crop
+p327
+aVand a specific product, and think about the needs of the consumer.
+p328
+aa(lp329
+VCA: So part of what's happening here is that there's a mental model
+p330
+aVin a lot of people that nature is nature, and it's pure and pristine,
+p331
+aVand to tinker with it is Frankensteinian.
+p332
+aVIt's making something that's pure dangerous in some way,
+p333
+aVand I think you're saying that that whole model
+p334
+aVjust misunderstands how nature is.
+p335
+aVNature is a much more chaotic interplay of genetic changes
+p336
+aVthat have been happening all the time anyway.
+p337
+aa(lp338
+VPR: That's absolutely true, and there's no such thing as pure food.
+p339
+aVI mean, you could not spray eggplant with insecticides
+p340
+aVor not genetically engineer it, but then you'd be stuck eating frass.
+p341
+aVSo there's no purity there.
+p342
+aa(lp343
+VCA: Pam Ronald, thank you.  That was powerfully argued.
+p344
+aVPR: Thank you very much. I appreciate it.
+p345
+aV(Applause)
+p346
+aasS'id'
+p347
+I2241
+sS'title'
+p348
+VThe case for engineering our food
+p349
+s.

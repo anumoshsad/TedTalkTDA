@@ -1,0 +1,543 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI want you to imagine this for a moment.
+p4
+aVTwo men, Rahul and Rajiv,
+p5
+aVliving in the same neighborhood,
+p6
+aVfrom the same educational background, similar occupation,
+p7
+aVand they both turn up at their local accident emergency
+p8
+aVcomplaining of acute chest pain.
+p9
+aVRahul is offered a cardiac procedure,
+p10
+aVbut Rajiv is sent home.
+p11
+aa(lp12
+VWhat might explain the difference in the experience
+p13
+aVof these two nearly identical men?
+p14
+aVRajiv suffers from a mental illness.
+p15
+aVThe difference in the quality of medical care
+p16
+aVreceived by people with mental illness is one of the reasons
+p17
+aVwhy they live shorter lives
+p18
+aVthan people without mental illness.
+p19
+aVEven in the best-resourced countries in the world,
+p20
+aVthis life expectancy gap is as much as 20 years.
+p21
+aVIn the developing countries of the world, this gap
+p22
+aVis even larger.
+p23
+aa(lp24
+VBut of course, mental illnesses can kill in more direct ways
+p25
+aVas well. The most obvious example is suicide.
+p26
+aVIt might surprise some of you here, as it did me,
+p27
+aVwhen I discovered that suicide is at the top of the list
+p28
+aVof the leading causes of death in young people
+p29
+aVin all countries in the world,
+p30
+aVincluding the poorest countries of the world.
+p31
+aa(lp32
+VBut beyond the impact of a health condition
+p33
+aVon life expectancy, we're also concerned
+p34
+aVabout the quality of life lived.
+p35
+aVNow, in order for us to examine the overall impact
+p36
+aVof a health condition both on life expectancy
+p37
+aVas well as on the quality of life lived, we need to use
+p38
+aVa metric called the DALY,
+p39
+aVwhich stands for a Disability-Adjusted Life Year.
+p40
+aVNow when we do that, we discover some startling things
+p41
+aVabout mental illness from a global perspective.
+p42
+aVWe discover that, for example, mental illnesses are
+p43
+aVamongst the leading causes of disability around the world.
+p44
+aVDepression, for example, is the third-leading cause
+p45
+aVof disability, alongside conditions such as
+p46
+aVdiarrhea and pneumonia in children.
+p47
+aVWhen you put all the mental illnesses together,
+p48
+aVthey account for roughly 15 percent
+p49
+aVof the total global burden of disease.
+p50
+aVIndeed, mental illnesses are also very damaging
+p51
+aVto people's lives, but beyond just the burden of disease,
+p52
+aVlet us consider the absolute numbers.
+p53
+aVThe World Health Organization estimates
+p54
+aVthat there are nearly four to five hundred million people
+p55
+aVliving on our tiny planet
+p56
+aVwho are affected by a mental illness.
+p57
+aVNow some of you here
+p58
+aVlook a bit astonished by that number,
+p59
+aVbut consider for a moment the incredible diversity
+p60
+aVof mental illnesses, from autism and intellectual disability
+p61
+aVin childhood, through to depression and anxiety,
+p62
+aVsubstance misuse and psychosis in adulthood,
+p63
+aVall the way through to dementia in old age,
+p64
+aVand I'm pretty sure that each and every one us
+p65
+aVpresent here today can think of at least one person,
+p66
+aVat least one person, who's affected by mental illness
+p67
+aVin our most intimate social networks.
+p68
+aVI see some nodding heads there.
+p69
+aa(lp70
+VBut beyond the staggering numbers,
+p71
+aVwhat's truly important from a global health point of view,
+p72
+aVwhat's truly worrying from a global health point of view,
+p73
+aVis that the vast majority of these affected individuals
+p74
+aVdo not receive the care
+p75
+aVthat we know can transform their lives, and remember,
+p76
+aVwe do have robust evidence that a range of interventions,
+p77
+aVmedicines, psychological interventions,
+p78
+aVand social interventions, can make a vast difference.
+p79
+aVAnd yet, even in the best-resourced countries,
+p80
+aVfor example here in Europe, roughly 50 percent
+p81
+aVof affected people don't receive these interventions.
+p82
+aVIn the sorts of countries I work in,
+p83
+aVthat so-called treatment gap
+p84
+aVapproaches an astonishing 90 percent.
+p85
+aVIt isn't surprising, then, that if you should speak
+p86
+aVto anyone affected by a mental illness,
+p87
+aVthe chances are that you will hear stories
+p88
+aVof hidden suffering, shame and discrimination
+p89
+aVin nearly every sector of their lives.
+p90
+aVBut perhaps most heartbreaking of all
+p91
+aVare the stories of the abuse
+p92
+aVof even the most basic human rights,
+p93
+aVsuch as the young woman shown in this image here
+p94
+aVthat are played out every day,
+p95
+aVsadly, even in the very institutions that were built to care
+p96
+aVfor people with mental illnesses, the mental hospitals.
+p97
+aa(lp98
+VIt's this injustice that has really driven my mission
+p99
+aVto try to do a little bit to transform the lives
+p100
+aVof people affected by mental illness, and a particularly
+p101
+aVcritical action that I focused on is to bridge the gulf
+p102
+aVbetween the knowledge we have that can transform lives,
+p103
+aVthe knowledge of effective treatments, and how we actually
+p104
+aVuse that knowledge in the everyday world.
+p105
+aVAnd an especially important challenge that I've had to face
+p106
+aVis the great shortage of mental health professionals,
+p107
+aVsuch as psychiatrists and psychologists,
+p108
+aVparticularly in the developing world.
+p109
+aa(lp110
+VNow I trained in medicine in India, and after that
+p111
+aVI chose psychiatry as my specialty, much to the dismay
+p112
+aVof my mother and all my family members who
+p113
+aVkind of thought neurosurgery would be
+p114
+aVa more respectable option for their brilliant son.
+p115
+aVAny case, I went on, I soldiered on with psychiatry,
+p116
+aVand found myself training in Britain in some of
+p117
+aVthe best hospitals in this country. I was very privileged.
+p118
+aVI worked in a team of incredibly talented, compassionate,
+p119
+aVbut most importantly, highly trained, specialized
+p120
+aVmental health professionals.
+p121
+aa(lp122
+VSoon after my training, I found myself working
+p123
+aVfirst in Zimbabwe and then in India, and I was confronted
+p124
+aVby an altogether new reality.
+p125
+aVThis was a reality of a world in which there were almost no
+p126
+aVmental health professionals at all.
+p127
+aVIn Zimbabwe, for example, there were just about
+p128
+aVa dozen psychiatrists, most of whom lived and worked
+p129
+aVin Harare city, leaving only a couple
+p130
+aVto address the mental health care needs
+p131
+aVof nine million people living in the countryside.
+p132
+aa(lp133
+VIn India, I found the situation was not a lot better.
+p134
+aVTo give you a perspective, if I had to translate
+p135
+aVthe proportion of psychiatrists in the population
+p136
+aVthat one might see in Britain to India,
+p137
+aVone might expect roughly 150,000 psychiatrists in India.
+p138
+aVIn reality, take a guess.
+p139
+aVThe actual number is about 3,000,
+p140
+aVabout two percent of that number.
+p141
+aa(lp142
+VIt became quickly apparent to me that I couldn't follow
+p143
+aVthe sorts of mental health care models that I had been trained in,
+p144
+aVone that relied heavily on specialized, expensive
+p145
+aVmental health professionals to provide mental health care
+p146
+aVin countries like India and Zimbabwe.
+p147
+aVI had to think out of the box about some other model
+p148
+aVof care.
+p149
+aa(lp150
+VIt was then that I came across these books,
+p151
+aVand in these books I discovered the idea of task shifting
+p152
+aVin global health.
+p153
+aVThe idea is actually quite simple. The idea is,
+p154
+aVwhen you're short of specialized health care professionals,
+p155
+aVuse whoever is available in the community,
+p156
+aVtrain them to provide a range of health care interventions,
+p157
+aVand in these books I read inspiring examples,
+p158
+aVfor example of how ordinary people had been trained
+p159
+aVto deliver babies,
+p160
+aVdiagnose and treat early pneumonia, to great effect.
+p161
+aVAnd it struck me that if you could train ordinary people
+p162
+aVto deliver such complex health care interventions,
+p163
+aVthen perhaps they could also do the same
+p164
+aVwith mental health care.
+p165
+aa(lp166
+VWell today, I'm very pleased to report to you
+p167
+aVthat there have been many experiments in task shifting
+p168
+aVin mental health care across the developing world
+p169
+aVover the past decade, and I want to share with you
+p170
+aVthe findings of three particular such experiments,
+p171
+aVall three of which focused on depression,
+p172
+aVthe most common of all mental illnesses.
+p173
+aVIn rural Uganda, Paul Bolton and his colleagues,
+p174
+aVusing villagers, demonstrated that they could deliver
+p175
+aVinterpersonal psychotherapy for depression
+p176
+aVand, using a randomized control design,
+p177
+aVshowed that 90 percent of the people receiving
+p178
+aVthis intervention recovered as compared
+p179
+aVto roughly 40 percent in the comparison villages.
+p180
+aVSimilarly, using a randomized control trial in rural Pakistan,
+p181
+aVAtif Rahman and his colleagues showed
+p182
+aVthat lady health visitors, who are community maternal
+p183
+aVhealth workers in Pakistan's health care system,
+p184
+aVcould deliver cognitive behavior therapy for mothers
+p185
+aVwho were depressed, again showing dramatic differences
+p186
+aVin the recovery rates. Roughly 75 percent of mothers
+p187
+aVrecovered as compared to about 45 percent
+p188
+aVin the comparison villages.
+p189
+aVAnd in my own trial in Goa, in India, we again showed
+p190
+aVthat lay counselors drawn from local communities
+p191
+aVcould be trained to deliver psychosocial interventions
+p192
+aVfor depression, anxiety, leading to 70 percent
+p193
+aVrecovery rates as compared to 50 percent
+p194
+aVin the comparison primary health centers.
+p195
+aa(lp196
+VNow, if I had to draw together all these different
+p197
+aVexperiments in task shifting, and there have of course
+p198
+aVbeen many other examples, and try and identify
+p199
+aVwhat are the key lessons we can learn that makes
+p200
+aVfor a successful task shifting operation,
+p201
+aVI have coined this particular acronym, SUNDAR.
+p202
+aVWhat SUNDAR stands for, in Hindi, is "attractive."
+p203
+aVIt seems to me that there are five key lessons
+p204
+aVthat I've shown on this slide that are critically important
+p205
+aVfor effective task shifting.
+p206
+aVThe first is that we need to simplify the message
+p207
+aVthat we're using, stripping away all the jargon
+p208
+aVthat medicine has invented around itself.
+p209
+aVWe need to unpack complex health care interventions
+p210
+aVinto smaller components that can be more easily
+p211
+aVtransferred to less-trained individuals.
+p212
+aVWe need to deliver health care, not in large institutions,
+p213
+aVbut close to people's homes, and we need to deliver
+p214
+aVhealth care using whoever is available and affordable
+p215
+aVin our local communities.
+p216
+aVAnd importantly, we need to reallocate the few specialists
+p217
+aVwho are available to perform roles
+p218
+aVsuch as capacity-building and supervision.
+p219
+aa(lp220
+VNow for me, task shifting is an idea
+p221
+aVwith truly global significance,
+p222
+aVbecause even though it has arisen out of the
+p223
+aVsituation of the lack of resources that you find
+p224
+aVin developing countries, I think it has a lot of significance
+p225
+aVfor better-resourced countries as well. Why is that?
+p226
+aVWell, in part, because health care in the developed world,
+p227
+aVthe health care costs in the [developed] world,
+p228
+aVare rapidly spiraling out of control, and a huge chunk
+p229
+aVof those costs are human resource costs.
+p230
+aVBut equally important is because health care has become
+p231
+aVso incredibly professionalized that it's become very remote
+p232
+aVand removed from local communities.
+p233
+aVFor me, what's truly sundar about the idea of task shifting,
+p234
+aVthough, isn't that it simply makes health care
+p235
+aVmore accessible and affordable but that
+p236
+aVit is also fundamentally empowering.
+p237
+aVIt empowers ordinary people to be more effective
+p238
+aVin caring for the health of others in their community,
+p239
+aVand in doing so, to become better guardians
+p240
+aVof their own health. Indeed, for me, task shifting
+p241
+aVis the ultimate example of the democratization
+p242
+aVof medical knowledge, and therefore, medical power.
+p243
+aa(lp244
+VJust over 30 years ago, the nations of the world assembled
+p245
+aVat Alma-Ata and made this iconic declaration.
+p246
+aVWell, I think all of you can guess
+p247
+aVthat 12 years on, we're still nowhere near that goal.
+p248
+aVStill, today, armed with that knowledge
+p249
+aVthat ordinary people in the community
+p250
+aVcan be trained and, with sufficient supervision and support,
+p251
+aVcan deliver a range of health care interventions effectively,
+p252
+aVperhaps that promise is within reach now.
+p253
+aVIndeed, to implement the slogan of Health for All,
+p254
+aVwe will need to involve all
+p255
+aVin that particular journey,
+p256
+aVand in the case of mental health, in particular we would
+p257
+aVneed to involve people who are affected by mental illness
+p258
+aVand their caregivers.
+p259
+aa(lp260
+VIt is for this reason that, some years ago,
+p261
+aVthe Movement for Global Mental Health was founded
+p262
+aVas a sort of a virtual platform upon which professionals
+p263
+aVlike myself and people affected by mental illness
+p264
+aVcould stand together, shoulder-to-shoulder,
+p265
+aVand advocate for the rights of people with mental illness
+p266
+aVto receive the care that we know can transform their lives,
+p267
+aVand to live a life with dignity.
+p268
+aa(lp269
+VAnd in closing, when you have a moment of peace or quiet
+p270
+aVin these very busy few days or perhaps afterwards,
+p271
+aVspare a thought for that person you thought about
+p272
+aVwho has a mental illness, or persons that you thought about
+p273
+aVwho have mental illness,
+p274
+aVand dare to care for them. Thank you. (Applause)
+p275
+aV(Applause)
+p276
+aasS'id'
+p277
+I1557
+sS'title'
+p278
+VMental health for all by involving all
+p279
+s.

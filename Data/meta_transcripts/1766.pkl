@@ -1,0 +1,524 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI write fiction sci-fi thrillers,
+p4
+aVso if I say "killer robots,"
+p5
+aVyou'd probably think something like this.
+p6
+aVBut I'm actually not here to talk about fiction.
+p7
+aVI'm here to talk about very real killer robots,
+p8
+aVautonomous combat drones.
+p9
+aa(lp10
+VNow, I'm not referring to Predator and Reaper drones,
+p11
+aVwhich have a human making targeting decisions.
+p12
+aVI'm talking about fully autonomous robotic weapons
+p13
+aVthat make lethal decisions about human beings
+p14
+aVall on their own.
+p15
+aVThere's actually a technical term for this: lethal autonomy.
+p16
+aa(lp17
+VNow, lethally autonomous killer robots
+p18
+aVwould take many forms \u2014 flying, driving,
+p19
+aVor just lying in wait.
+p20
+aVAnd actually, they're very quickly becoming a reality.
+p21
+aVThese are two automatic sniper stations
+p22
+aVcurrently deployed in the DMZ between North and South Korea.
+p23
+aVBoth of these machines are capable of automatically
+p24
+aVidentifying a human target and firing on it,
+p25
+aVthe one on the left at a distance of over a kilometer.
+p26
+aVNow, in both cases, there's still a human in the loop
+p27
+aVto make that lethal firing decision,
+p28
+aVbut it's not a technological requirement. It's a choice.
+p29
+aVAnd it's that choice that I want to focus on,
+p30
+aVbecause as we migrate lethal decision-making
+p31
+aVfrom humans to software,
+p32
+aVwe risk not only taking the humanity out of war,
+p33
+aVbut also changing our social landscape entirely,
+p34
+aVfar from the battlefield.
+p35
+aVThat's because the way humans resolve conflict
+p36
+aVshapes our social landscape.
+p37
+aVAnd this has always been the case, throughout history.
+p38
+aa(lp39
+VFor example, these were state-of-the-art weapons systems
+p40
+aVin 1400 A.D.
+p41
+aVNow they were both very expensive to build and maintain,
+p42
+aVbut with these you could dominate the populace,
+p43
+aVand the distribution of political power in feudal society reflected that.
+p44
+aVPower was focused at the very top.
+p45
+aVAnd what changed? Technological innovation.
+p46
+aVGunpowder, cannon.
+p47
+aVAnd pretty soon, armor and castles were obsolete,
+p48
+aVand it mattered less who you brought to the battlefield
+p49
+aVversus how many people you brought to the battlefield.
+p50
+aVAnd as armies grew in size, the nation-state arose
+p51
+aVas a political and logistical requirement of defense.
+p52
+aVAnd as leaders had to rely on more of their populace,
+p53
+aVthey began to share power.
+p54
+aVRepresentative government began to form.
+p55
+aa(lp56
+VSo again, the tools we use to resolve conflict
+p57
+aVshape our social landscape.
+p58
+aVAutonomous robotic weapons are such a tool,
+p59
+aVexcept that, by requiring very few people to go to war,
+p60
+aVthey risk re-centralizing power into very few hands,
+p61
+aVpossibly reversing a five-century trend toward democracy.
+p62
+aa(lp63
+VNow, I think, knowing this,
+p64
+aVwe can take decisive steps to preserve our democratic institutions,
+p65
+aVto do what humans do best, which is adapt.
+p66
+aVBut time is a factor.
+p67
+aVSeventy nations are developing remotely-piloted
+p68
+aVcombat drones of their own,
+p69
+aVand as you'll see, remotely-piloted combat drones
+p70
+aVare the precursors to autonomous robotic weapons.
+p71
+aVThat's because once you've deployed remotely-piloted drones,
+p72
+aVthere are three powerful factors pushing decision-making
+p73
+aVaway from humans and on to the weapon platform itself.
+p74
+aa(lp75
+VThe first of these is the deluge of video that drones produce.
+p76
+aVFor example, in 2004, the U.S. drone fleet produced
+p77
+aVa grand total of 71 hours of video surveillance for analysis.
+p78
+aVBy 2011, this had gone up to 300,000 hours,
+p79
+aVoutstripping human ability to review it all,
+p80
+aVbut even that number is about to go up drastically.
+p81
+aVThe Pentagon's Gorgon Stare and Argus programs
+p82
+aVwill put up to 65 independently operated camera eyes
+p83
+aVon each drone platform,
+p84
+aVand this would vastly outstrip human ability to review it.
+p85
+aVAnd that means visual intelligence software will need
+p86
+aVto scan it for items of interest.
+p87
+aVAnd that means very soon
+p88
+aVdrones will tell humans what to look at,
+p89
+aVnot the other way around.
+p90
+aa(lp91
+VBut there's a second powerful incentive pushing
+p92
+aVdecision-making away from humans and onto machines,
+p93
+aVand that's electromagnetic jamming,
+p94
+aVsevering the connection between the drone
+p95
+aVand its operator.
+p96
+aVNow we saw an example of this in 2011
+p97
+aVwhen an American RQ-170 Sentinel drone
+p98
+aVgot a bit confused over Iran due to a GPS spoofing attack,
+p99
+aVbut any remotely-piloted drone is susceptible to this type of attack,
+p100
+aVand that means drones
+p101
+aVwill have to shoulder more decision-making.
+p102
+aVThey'll know their mission objective,
+p103
+aVand they'll react to new circumstances without human guidance.
+p104
+aVThey'll ignore external radio signals
+p105
+aVand send very few of their own.
+p106
+aa(lp107
+VWhich brings us to, really, the third
+p108
+aVand most powerful incentive pushing decision-making
+p109
+aVaway from humans and onto weapons:
+p110
+aVplausible deniability.
+p111
+aVNow we live in a global economy.
+p112
+aVHigh-tech manufacturing is occurring on most continents.
+p113
+aVCyber espionage is spiriting away advanced designs
+p114
+aVto parts unknown,
+p115
+aVand in that environment, it is very likely
+p116
+aVthat a successful drone design will be knocked off in contract factories,
+p117
+aVproliferate in the gray market.
+p118
+aVAnd in that situation, sifting through the wreckage
+p119
+aVof a suicide drone attack, it will be very difficult to say
+p120
+aVwho sent that weapon.
+p121
+aa(lp122
+VThis raises the very real possibility
+p123
+aVof anonymous war.
+p124
+aVThis could tilt the geopolitical balance on its head,
+p125
+aVmake it very difficult for a nation to turn its firepower
+p126
+aVagainst an attacker, and that could shift the balance
+p127
+aVin the 21st century away from defense and toward offense.
+p128
+aVIt could make military action a viable option
+p129
+aVnot just for small nations,
+p130
+aVbut criminal organizations, private enterprise,
+p131
+aVeven powerful individuals.
+p132
+aVIt could create a landscape of rival warlords
+p133
+aVundermining rule of law and civil society.
+p134
+aVNow if responsibility and transparency
+p135
+aVare two of the cornerstones of representative government,
+p136
+aVautonomous robotic weapons could undermine both.
+p137
+aa(lp138
+VNow you might be thinking that
+p139
+aVcitizens of high-tech nations
+p140
+aVwould have the advantage in any robotic war,
+p141
+aVthat citizens of those nations would be less vulnerable,
+p142
+aVparticularly against developing nations.
+p143
+aVBut I think the truth is the exact opposite.
+p144
+aVI think citizens of high-tech societies
+p145
+aVare more vulnerable to robotic weapons,
+p146
+aVand the reason can be summed up in one word: data.
+p147
+aVData powers high-tech societies.
+p148
+aVCell phone geolocation, telecom metadata,
+p149
+aVsocial media, email, text, financial transaction data,
+p150
+aVtransportation data, it's a wealth of real-time data
+p151
+aVon the movements and social interactions of people.
+p152
+aVIn short, we are more visible to machines
+p153
+aVthan any people in history,
+p154
+aVand this perfectly suits the targeting needs of autonomous weapons.
+p155
+aa(lp156
+VWhat you're looking at here
+p157
+aVis a link analysis map of a social group.
+p158
+aVLines indicate social connectedness between individuals.
+p159
+aVAnd these types of maps can be automatically generated
+p160
+aVbased on the data trail modern people leave behind.
+p161
+aVNow it's typically used to market goods and services
+p162
+aVto targeted demographics, but it's a dual-use technology,
+p163
+aVbecause targeting is used in another context.
+p164
+aVNotice that certain individuals are highlighted.
+p165
+aVThese are the hubs of social networks.
+p166
+aVThese are organizers, opinion-makers, leaders,
+p167
+aVand these people also can be automatically identified
+p168
+aVfrom their communication patterns.
+p169
+aVNow, if you're a marketer, you might then target them
+p170
+aVwith product samples, try to spread your brand
+p171
+aVthrough their social group.
+p172
+aVBut if you're a repressive government
+p173
+aVsearching for political enemies, you might instead remove them,
+p174
+aVeliminate them, disrupt their social group,
+p175
+aVand those who remain behind lose social cohesion
+p176
+aVand organization.
+p177
+aVNow in a world of cheap, proliferating robotic weapons,
+p178
+aVborders would offer very little protection
+p179
+aVto critics of distant governments
+p180
+aVor trans-national criminal organizations.
+p181
+aVPopular movements agitating for change
+p182
+aVcould be detected early and their leaders eliminated
+p183
+aVbefore their ideas achieve critical mass.
+p184
+aVAnd ideas achieving critical mass
+p185
+aVis what political activism in popular government is all about.
+p186
+aVAnonymous lethal weapons could make lethal action
+p187
+aVan easy choice for all sorts of competing interests.
+p188
+aVAnd this would put a chill on free speech
+p189
+aVand popular political action, the very heart of democracy.
+p190
+aa(lp191
+VAnd this is why we need an international treaty
+p192
+aVon robotic weapons, and in particular a global ban
+p193
+aVon the development and deployment of killer robots.
+p194
+aVNow we already have international treaties
+p195
+aVon nuclear and biological weapons, and, while imperfect,
+p196
+aVthese have largely worked.
+p197
+aVBut robotic weapons might be every bit as dangerous,
+p198
+aVbecause they will almost certainly be used,
+p199
+aVand they would also be corrosive to our democratic institutions.
+p200
+aa(lp201
+VNow in November 2012 the U.S. Department of Defense
+p202
+aVissued a directive requiring
+p203
+aVa human being be present in all lethal decisions.
+p204
+aVThis temporarily effectively banned autonomous weapons in the U.S. military,
+p205
+aVbut that directive needs to be made permanent.
+p206
+aVAnd it could set the stage for global action.
+p207
+aVBecause we need an international legal framework
+p208
+aVfor robotic weapons.
+p209
+aVAnd we need it now, before there's a devastating attack
+p210
+aVor a terrorist incident that causes nations of the world
+p211
+aVto rush to adopt these weapons
+p212
+aVbefore thinking through the consequences.
+p213
+aVAutonomous robotic weapons concentrate too much power
+p214
+aVin too few hands, and they would imperil democracy itself.
+p215
+aa(lp216
+VNow, don't get me wrong, I think there are tons
+p217
+aVof great uses for unarmed civilian drones:
+p218
+aVenvironmental monitoring, search and rescue, logistics.
+p219
+aVIf we have an international treaty on robotic weapons,
+p220
+aVhow do we gain the benefits of autonomous drones
+p221
+aVand vehicles while still protecting ourselves
+p222
+aVagainst illegal robotic weapons?
+p223
+aa(lp224
+VI think the secret will be transparency.
+p225
+aVNo robot should have an expectation of privacy
+p226
+aVin a public place.
+p227
+aa(lp228
+V(Applause)
+p229
+aa(lp230
+VEach robot and drone should have
+p231
+aVa cryptographically signed I.D. burned in at the factory
+p232
+aVthat can be used to track its movement through public spaces.
+p233
+aVWe have license plates on cars, tail numbers on aircraft.
+p234
+aVThis is no different.
+p235
+aVAnd every citizen should be able to download an app
+p236
+aVthat shows the population of drones and autonomous vehicles
+p237
+aVmoving through public spaces around them,
+p238
+aVboth right now and historically.
+p239
+aVAnd civic leaders should deploy sensors and civic drones
+p240
+aVto detect rogue drones,
+p241
+aVand instead of sending killer drones of their own up to shoot them down,
+p242
+aVthey should notify humans to their presence.
+p243
+aVAnd in certain very high-security areas,
+p244
+aVperhaps civic drones would snare them
+p245
+aVand drag them off to a bomb disposal facility.
+p246
+aa(lp247
+VBut notice, this is more an immune system
+p248
+aVthan a weapons system.
+p249
+aVIt would allow us to avail ourselves of the use
+p250
+aVof autonomous vehicles and drones
+p251
+aVwhile still preserving our open, civil society.
+p252
+aa(lp253
+VWe must ban the deployment and development
+p254
+aVof killer robots.
+p255
+aVLet's not succumb to the temptation to automate war.
+p256
+aVAutocratic governments and criminal organizations
+p257
+aVundoubtedly will, but let's not join them.
+p258
+aVAutonomous robotic weapons
+p259
+aVwould concentrate too much power
+p260
+aVin too few unseen hands,
+p261
+aVand that would be corrosive to representative government.
+p262
+aVLet's make sure, for democracies at least,
+p263
+aVkiller robots remain fiction.
+p264
+aa(lp265
+VThank you.
+p266
+aa(lp267
+V(Applause)
+p268
+aVThank you. (Applause)
+p269
+aasS'id'
+p270
+I1766
+sS'title'
+p271
+VThe kill decision shouldn't belong to a robot
+p272
+s.

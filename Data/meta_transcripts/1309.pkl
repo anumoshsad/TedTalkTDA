@@ -1,0 +1,583 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI study how the brain processes
+p4
+aVinformation. That is, how it takes
+p5
+aVinformation in from the outside world, and
+p6
+aVconverts it into patterns of electrical activity,
+p7
+aVand then how it uses those patterns
+p8
+aVto allow you to do things \u2014
+p9
+aVto see, hear, to reach for an object.
+p10
+aVSo I'm really a basic scientist, not
+p11
+aVa clinician, but in the last year and a half
+p12
+aVI've started to switch over, to use what
+p13
+aVwe've been learning about these patterns
+p14
+aVof activity to develop prosthetic devices,
+p15
+aVand what I wanted to do today is show you
+p16
+aVan example of this.
+p17
+aVIt's really our first foray into this.
+p18
+aVIt's the development of a prosthetic device
+p19
+aVfor treating blindness.
+p20
+aa(lp21
+VSo let me start in on that problem.
+p22
+aVThere are 10 million people in the U.S.
+p23
+aVand many more worldwide who are blind
+p24
+aVor are facing blindness due to diseases
+p25
+aVof the retina, diseases like
+p26
+aVmacular degeneration, and there's little
+p27
+aVthat can be done for them.
+p28
+aVThere are some drug treatments, but
+p29
+aVthey're only effective on a small fraction
+p30
+aVof the population. And so, for the vast
+p31
+aVmajority of patients, their best hope for
+p32
+aVregaining sight is through prosthetic devices.
+p33
+aVThe problem is that current prosthetics
+p34
+aVdon't work very well. They're still very
+p35
+aVlimited in the vision that they can provide.
+p36
+aVAnd so, you know, for example, with these
+p37
+aVdevices, patients can see simple things
+p38
+aVlike bright lights and high contrast edges,
+p39
+aVnot very much more, so nothing close
+p40
+aVto normal vision has been possible.
+p41
+aa(lp42
+VSo what I'm going to tell you about today
+p43
+aVis a device that we've been working on
+p44
+aVthat I think has the potential to make
+p45
+aVa difference, to be much more effective,
+p46
+aVand what I wanted to do is show you
+p47
+aVhow it works. Okay, so let me back up a
+p48
+aVlittle bit and show you how a normal retina
+p49
+aVworks first so you can see the problem
+p50
+aVthat we were trying to solve.
+p51
+aVHere you have a retina.
+p52
+aVSo you have an image, a retina, and a brain.
+p53
+aVSo when you look at something, like this image
+p54
+aVof this baby's face, it goes into your eye
+p55
+aVand it lands on your retina, on the front-end
+p56
+aVcells here, the photoreceptors.
+p57
+aVThen what happens is the retinal circuitry,
+p58
+aVthe middle part, goes to work on it,
+p59
+aVand what it does is it performs operations
+p60
+aVon it, it extracts information from it, and it
+p61
+aVconverts that information into a code.
+p62
+aVAnd the code is in the form of these patterns
+p63
+aVof electrical pulses that get sent
+p64
+aVup to the brain, and so the key thing is
+p65
+aVthat the image ultimately gets converted
+p66
+aVinto a code. And when I say code,
+p67
+aVI do literally mean code.
+p68
+aVLike this pattern of pulses here actually means "baby's face,"
+p69
+aVand so when the brain gets this pattern
+p70
+aVof pulses, it knows that what was out there
+p71
+aVwas a baby's face, and if it
+p72
+aVgot a different pattern it would know
+p73
+aVthat what was out there was, say, a dog,
+p74
+aVor another pattern would be a house.
+p75
+aVAnyway, you get the idea.
+p76
+aa(lp77
+VAnd, of course, in real life, it's all dynamic,
+p78
+aVmeaning that it's changing all the time,
+p79
+aVso the patterns of pulses are changing
+p80
+aVall the time because the world you're
+p81
+aVlooking at is changing all the time too.
+p82
+aVSo, you know, it's sort of a complicated
+p83
+aVthing. You have these patterns of pulses
+p84
+aVcoming out of your eye every millisecond
+p85
+aVtelling your brain what it is that you're seeing.
+p86
+aVSo what happens when a person
+p87
+aVgets a retinal degenerative disease like
+p88
+aVmacular degeneration? What happens is
+p89
+aVis that, the front-end cells die,
+p90
+aVthe photoreceptors die, and over time,
+p91
+aVall the cells and the circuits that are
+p92
+aVconnected to them, they die too.
+p93
+aVUntil the only things that you have left
+p94
+aVare these cells here, the output cells,
+p95
+aVthe ones that send the signals to the brain,
+p96
+aVbut because of all that degeneration
+p97
+aVthey aren't sending any signals anymore.
+p98
+aVThey aren't getting any input, so
+p99
+aVthe person's brain no longer gets
+p100
+aVany visual information \u2014
+p101
+aVthat is, he or she is blind.
+p102
+aa(lp103
+VSo, a solution to the problem, then,
+p104
+aVwould be to build a device that could mimic
+p105
+aVthe actions of that front-end circuitry
+p106
+aVand send signals to the retina's output cells,
+p107
+aVand they can go back to doing their
+p108
+aVnormal job of sending signals to the brain.
+p109
+aVSo this is what we've been working on,
+p110
+aVand this is what our prosthetic does.
+p111
+aVSo it consists of two parts, what we call
+p112
+aVan encoder and a transducer.
+p113
+aVAnd so the encoder does just
+p114
+aVwhat I was saying: it mimics the actions
+p115
+aVof the front-end circuitry \u2014 so it takes images
+p116
+aVin and converts them into the retina's code.
+p117
+aVAnd then the transducer then makes the
+p118
+aVoutput cells send the code on up
+p119
+aVto the brain, and the result is
+p120
+aVa retinal prosthetic that can produce
+p121
+aVnormal retinal output.
+p122
+aVSo a completely blind retina,
+p123
+aVeven one with no front-end circuitry at all,
+p124
+aVno photoreceptors,
+p125
+aVcan now send out normal signals,
+p126
+aVsignals that the brain can understand.
+p127
+aVSo no other device has been able
+p128
+aVto do this.
+p129
+aa(lp130
+VOkay, so I just want to take
+p131
+aVa sentence or two to say something about
+p132
+aVthe encoder and what it's doing, because
+p133
+aVit's really the key part and it's
+p134
+aVsort of interesting and kind of cool.
+p135
+aVI'm not sure "cool" is really the right word, but
+p136
+aVyou know what I mean.
+p137
+aVSo what it's doing is, it's replacing
+p138
+aVthe retinal circuitry, really the guts of
+p139
+aVthe retinal circuitry, with a set of equations,
+p140
+aVa set of equations that we can implement
+p141
+aVon a chip. So it's just math.
+p142
+aVIn other words, we're not literally replacing
+p143
+aVthe components of the retina.
+p144
+aVIt's not like we're making a little mini-device
+p145
+aVfor each of the different cell types.
+p146
+aVWe've just abstracted what the
+p147
+aVretina's doing with a set of equations.
+p148
+aVAnd so, in a way, the equations are serving
+p149
+aVas sort of a codebook. An image comes in,
+p150
+aVgoes through the set of equations,
+p151
+aVand out comes streams of electrical pulses,
+p152
+aVjust like a normal retina would produce.
+p153
+aa(lp154
+VNow let me put my money
+p155
+aVwhere my mouth is and show you that
+p156
+aVwe can actually produce normal output,
+p157
+aVand what the implications of this are.
+p158
+aVHere are three sets of
+p159
+aVfiring patterns. The top one is from
+p160
+aVa normal animal, the middle one is from
+p161
+aVa blind animal that's been treated with
+p162
+aVthis encoder-transducer device, and the
+p163
+aVbottom one is from a blind animal treated
+p164
+aVwith a standard prosthetic.
+p165
+aVSo the bottom one is the state-of-the-art
+p166
+aVdevice that's out there right now, which is
+p167
+aVbasically made up of light detectors,
+p168
+aVbut no encoder. So what we did was we
+p169
+aVpresented movies of everyday things \u2014
+p170
+aVpeople, babies, park benches,
+p171
+aVyou know, regular things happening \u2014 and
+p172
+aVwe recorded the responses from the retinas
+p173
+aVof these three groups of animals.
+p174
+aVNow just to orient you, each box is showing
+p175
+aVthe firing patterns of several cells,
+p176
+aVand just as in the previous slides,
+p177
+aVeach row is a different cell,
+p178
+aVand I just made the pulses a little bit smaller
+p179
+aVand thinner so I could show you
+p180
+aVa long stretch of data.
+p181
+aa(lp182
+VSo as you can see, the firing patterns
+p183
+aVfrom the blind animal treated with
+p184
+aVthe encoder-transducer really do very
+p185
+aVclosely match the normal firing patterns \u2014
+p186
+aVand it's not perfect, but it's pretty good \u2014
+p187
+aVand the blind animal treated with
+p188
+aVthe standard prosthetic,
+p189
+aVthe responses really don't.
+p190
+aVAnd so with the standard method,
+p191
+aVthe cells do fire, they just don't fire
+p192
+aVin the normal firing patterns because
+p193
+aVthey don't have the right code.
+p194
+aVHow important is this?
+p195
+aVWhat's the potential impact
+p196
+aVon a patient's ability to see?
+p197
+aVSo I'm just going to show you one
+p198
+aVbottom-line experiment that answers this,
+p199
+aVand of course I've got a lot of other data,
+p200
+aVso if you're interested I'm happy
+p201
+aVto show more. So the experiment
+p202
+aVis called a reconstruction experiment.
+p203
+aVSo what we did is we took a moment
+p204
+aVin time from these recordings and asked,
+p205
+aVwhat was the retina seeing at that moment?
+p206
+aVCan we reconstruct what the retina
+p207
+aVwas seeing from the responses
+p208
+aVfrom the firing patterns?
+p209
+aa(lp210
+VSo, when we did this for responses
+p211
+aVfrom the standard method and from
+p212
+aVour encoder and transducer.
+p213
+aVSo let me show you, and I'm going to
+p214
+aVstart with the standard method first.
+p215
+aVSo you can see that it's pretty limited,
+p216
+aVand because the firing patterns aren't
+p217
+aVin the right code, they're very limited in
+p218
+aVwhat they can tell you about
+p219
+aVwhat's out there. So you can see that
+p220
+aVthere's something there, but it's not so clear
+p221
+aVwhat that something is, and this just sort of
+p222
+aVcircles back to what I was saying in the
+p223
+aVbeginning, that with the standard method,
+p224
+aVpatients can see high-contrast edges, they
+p225
+aVcan see light, but it doesn't easily go
+p226
+aVfurther than that. So what was
+p227
+aVthe image? It was a baby's face.
+p228
+aVSo what about with our approach,
+p229
+aVadding the code? And you can see
+p230
+aVthat it's much better. Not only can you
+p231
+aVtell that it's a baby's face, but you can
+p232
+aVtell that it's this baby's face, which is a
+p233
+aVreally challenging task.
+p234
+aVSo on the left is the encoder
+p235
+aValone, and on the right is from an actual
+p236
+aVblind retina, so the encoder and the transducer.
+p237
+aVBut the key one really is the encoder alone,
+p238
+aVbecause we can team up the encoder with
+p239
+aVthe different transducer.
+p240
+aa(lp241
+VThis is just actually the first one that we tried.
+p242
+aVI just wanted to say something about the standard method.
+p243
+aVWhen this first came out, it was just a really
+p244
+aVexciting thing, the idea that you
+p245
+aVeven make a blind retina respond at all.
+p246
+aVBut there was this limiting factor,
+p247
+aVthe issue of the code, and how to make
+p248
+aVthe cells respond better,
+p249
+aVproduce normal responses,
+p250
+aVand so this was our contribution.
+p251
+aVNow I just want to wrap up,
+p252
+aVand as I was mentioning earlier
+p253
+aVof course I have a lot of other data
+p254
+aVif you're interested, but I just wanted to give
+p255
+aVthis sort of basic idea
+p256
+aVof being able to communicate
+p257
+aVwith the brain in its language, and
+p258
+aVthe potential power of being able to do that.
+p259
+aVSo it's different from the motor prosthetics
+p260
+aVwhere you're communicating from the brain
+p261
+aVto a device. Here we have to communicate
+p262
+aVfrom the outside world
+p263
+aVinto the brain and be understood,
+p264
+aVand be understood by the brain.
+p265
+aa(lp266
+VAnd then the last thing I wanted
+p267
+aVto say, really, is to emphasize
+p268
+aVthat the idea generalizes.
+p269
+aVSo the same strategy that we used
+p270
+aVto find the code for the retina we can also
+p271
+aVuse to find the code for other areas,
+p272
+aVfor example, the auditory system and
+p273
+aVthe motor system, so for treating deafness
+p274
+aVand for motor disorders.
+p275
+aVSo just the same way that we were able to
+p276
+aVjump over the damaged
+p277
+aVcircuitry in the retina to get to the retina's
+p278
+aVoutput cells, we can jump over the
+p279
+aVdamaged circuitry in the cochlea
+p280
+aVto get the auditory nerve,
+p281
+aVor jump over damaged areas in the cortex,
+p282
+aVin the motor cortex, to bridge the gap
+p283
+aVproduced by a stroke.
+p284
+aa(lp285
+VI just want to end with a simple
+p286
+aVmessage that understanding the code
+p287
+aVis really, really important, and if we
+p288
+aVcan understand the code,
+p289
+aVthe language of the brain, things become
+p290
+aVpossible that didn't seem obviously
+p291
+aVpossible before. Thank you.
+p292
+aa(lp293
+V(Applause)
+p294
+aasS'id'
+p295
+I1309
+sS'title'
+p296
+VA prosthetic eye to treat blindness
+p297
+s.

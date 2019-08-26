@@ -1,0 +1,585 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VBack in 2003,
+p4
+aVthe UK government carried out a survey.
+p5
+aVAnd it was a survey that measured levels of numeracy
+p6
+aVin the population.
+p7
+aVAnd they were shocked to find out
+p8
+aVthat for every 100 working age adults in the country,
+p9
+aV47 of them lacked Level 1 numeracy skills.
+p10
+aVNow, Level 1 numeracy skills \u2014 that's low-end GCSE score.
+p11
+aVIt's the ability to deal with fractions, percentages and decimals.
+p12
+aVSo this figure prompted a lot of hand-wringing in Whitehall.
+p13
+aVPolicies were changed,
+p14
+aVinvestments were made,
+p15
+aVand then they ran the survey again in 2011.
+p16
+aVSo can you guess what happened to this number?
+p17
+aVIt went up to 49.
+p18
+aa(lp19
+V(Laughter)
+p20
+aa(lp21
+VAnd in fact, when I reported this figure in the FT,
+p22
+aVone of our readers joked and said,
+p23
+aV"This figure is only shocking to 51 percent of the population."
+p24
+aa(lp25
+V(Laughter)
+p26
+aa(lp27
+VBut I preferred, actually, the reaction of a schoolchild
+p28
+aVwhen I presented at a school this information,
+p29
+aVwho raised their hand and said,
+p30
+aV"How do we know that the person who made that number
+p31
+aVisn't one of the 49 percent either?"
+p32
+aa(lp33
+V(Laughter)
+p34
+aa(lp35
+VSo clearly, there's a numeracy issue,
+p36
+aVbecause these are important skills for life,
+p37
+aVand a lot of the changes that we want to introduce in this century
+p38
+aVinvolve us becoming more comfortable with numbers.
+p39
+aa(lp40
+VNow, it's not just an English problem.
+p41
+aVOECD this year released some figures looking at numeracy in young people,
+p42
+aVand leading the way, the USA \u2014
+p43
+aVnearly 40 percent of young people in the US have low numeracy.
+p44
+aVNow, England is there too,
+p45
+aVbut there are seven OECD countries with figures above 20 percent.
+p46
+aVThat is a problem, because it doesn't have to be that way.
+p47
+aVIf you look at the far end of this graph,
+p48
+aVyou can see the Netherlands and Korea are in single figures.
+p49
+aVSo there's definitely a numeracy problem that we want to address.
+p50
+aa(lp51
+VNow, as useful as studies like these are,
+p52
+aVI think we risk herding people inadvertently into one of two categories;
+p53
+aVthat there are two kinds of people:
+p54
+aVthose people that are comfortable with numbers, that can do numbers,
+p55
+aVand the people who can't.
+p56
+aVAnd what I'm trying to talk about here today
+p57
+aVis to say that I believe that is a false dichotomy.
+p58
+aVIt's not an immutable pairing.
+p59
+aVI think you don't have to have tremendously high levels of numeracy
+p60
+aVto be inspired by numbers,
+p61
+aVand that should be the starting point to the journey ahead.
+p62
+aa(lp63
+VAnd one of the ways in which we can begin that journey, for me,
+p64
+aVis looking at statistics.
+p65
+aVNow, I am the first to acknowledge that statistics has got somewhat
+p66
+aVof an image problem.
+p67
+aa(lp68
+V(Laughter)
+p69
+aa(lp70
+VIt's the part of mathematics
+p71
+aVthat even mathematicians don't particularly like,
+p72
+aVbecause whereas the rest of maths is all about precision and certainty,
+p73
+aVstatistics is almost the reverse of that.
+p74
+aVBut actually, I was a late convert to the world of statistics myself.
+p75
+aVIf you'd asked my undergraduate professors
+p76
+aVwhat two subjects would I be least likely to excel in after university,
+p77
+aVthey'd have told you statistics and computer programming,
+p78
+aVand yet here I am, about to show you some statistical graphics
+p79
+aVthat I programmed.
+p80
+aa(lp81
+VSo what inspired that change in me?
+p82
+aVWhat made me think that statistics was actually an interesting thing?
+p83
+aVIt's really because statistics are about us.
+p84
+aVIf you look at the etymology of the word statistics,
+p85
+aVit's the science of dealing with data
+p86
+aVabout the state or the community that we live in.
+p87
+aVSo statistics are about us as a group,
+p88
+aVnot us as individuals.
+p89
+aVAnd I think as social animals,
+p90
+aVwe share this fascination about how we as individuals relate to our groups,
+p91
+aVto our peers.
+p92
+aVAnd statistics in this way are at their most powerful
+p93
+aVwhen they surprise us.
+p94
+aa(lp95
+VAnd there's been some really wonderful surveys carried out recently
+p96
+aVby Ipsos MORI in the last few years.
+p97
+aVThey did a survey of over 1,000 adults in the UK,
+p98
+aVand said, for every 100 people in England and Wales,
+p99
+aVhow many of them are Muslim?
+p100
+aVNow the average answer from this survey,
+p101
+aVwhich was supposed to be representative of the total population, was 24.
+p102
+aVThat's what people thought.
+p103
+aVBritish people think 24 out of every 100 people in the country are Muslim.
+p104
+aVNow, official figures reveal that figure to be about five.
+p105
+aVSo there's this big variation between what we think, our perception,
+p106
+aVand the reality as given by statistics.
+p107
+aVAnd I think that's interesting.
+p108
+aVWhat could possibly be causing that misperception?
+p109
+aa(lp110
+VAnd I was so thrilled with this study,
+p111
+aVI started to take questions out in presentations. I was referring to it.
+p112
+aVNow, I did a presentation
+p113
+aVat St. Paul's School for Girls in Hammersmith,
+p114
+aVand I had an audience rather like this,
+p115
+aVexcept it was comprised entirely of sixth-form girls.
+p116
+aVAnd I said, "Girls,
+p117
+aVhow many teenage girls do you think the British public think
+p118
+aVget pregnant every year?"
+p119
+aVAnd the girls were apoplectic when I said
+p120
+aVthe British public think that 15 out of every 100 teenage girls
+p121
+aVget pregnant in the year.
+p122
+aVAnd they had every right to be angry,
+p123
+aVbecause in fact, I'd have to have closer to 200 dots
+p124
+aVbefore I could color one in,
+p125
+aVin terms of what the official figures tell us.
+p126
+aa(lp127
+VAnd rather like numeracy, this is not just an English problem.
+p128
+aVIpsos MORI expanded the survey in recent years to go across the world.
+p129
+aVAnd so, they asked Saudi Arabians,
+p130
+aVfor every 100 adults in your country,
+p131
+aVhow many of them are overweight or obese?
+p132
+aVAnd the average answer from the Saudis was just over a quarter.
+p133
+aVThat's what they thought.
+p134
+aVJust over a quarter of adults are overweight or obese.
+p135
+aVThe official figures show, actually, it's nearer to three-quarters.
+p136
+aa(lp137
+V(Laughter)
+p138
+aa(lp139
+VSo again, a big variation.
+p140
+aa(lp141
+VAnd I love this one: they asked in Japan, they asked the Japanese,
+p142
+aVfor every 100 Japanese people,
+p143
+aVhow many of them live in rural areas?
+p144
+aVThe average was about a 50-50 split, just over halfway.
+p145
+aVThey thought 56 out of every 100 Japanese people lived in rural areas.
+p146
+aVThe official figure is seven.
+p147
+aa(lp148
+VSo extraordinary variations, and surprising to some,
+p149
+aVbut not surprising to people who have read the work
+p150
+aVof Daniel Kahneman, for example, the Nobel-winning economist.
+p151
+aVHe and his colleague, Amos Tversky, spent years researching this disjoint
+p152
+aVbetween what people perceive and the reality,
+p153
+aVthe fact that people are actually pretty poor intuitive statisticians.
+p154
+aVAnd there are many reasons for this.
+p155
+aVIndividual experiences, certainly, can influence our perceptions,
+p156
+aVbut so, too, can things like the media reporting things by exception,
+p157
+aVrather than what's normal.
+p158
+aVKahneman had a nice way of referring to that.
+p159
+aVHe said, "We can be blind to the obvious" \u2014
+p160
+aVso we've got the numbers wrong \u2014
+p161
+aV"but we can be blind to our blindness about it."
+p162
+aVAnd that has enormous repercussions for decision making.
+p163
+aa(lp164
+VSo at the statistics office while this was all going on,
+p165
+aVI thought this was really interesting.
+p166
+aVI said, this is clearly a global problem,
+p167
+aVbut maybe geography is the issue here.
+p168
+aVThese were questions that were all about, how well do you know your country?
+p169
+aVSo in this case, it's how well do you know 64 million people?
+p170
+aVNot very well, it turns out. I can't do that.
+p171
+aVSo I had an idea,
+p172
+aVwhich was to think about this same sort of approach
+p173
+aVbut to think about it in a very local sense.
+p174
+aVIs this a local?
+p175
+aVIf we reframe the questions and say,
+p176
+aVhow well do you know your local area,
+p177
+aVwould your answers be any more accurate?
+p178
+aa(lp179
+VSo I devised a quiz:
+p180
+aVHow well do you know your area?
+p181
+aVIt's a simple Web app.
+p182
+aVYou put in a post code
+p183
+aVand then it will ask you questions based on census data
+p184
+aVfor your local area.
+p185
+aVAnd I was very conscious in designing this.
+p186
+aVI wanted to make it open to the widest possible range of people,
+p187
+aVnot just the 49 percent who can get the numbers.
+p188
+aVI wanted everyone to engage with it.
+p189
+aVSo for the design of the quiz,
+p190
+aVI was inspired by the isotypes
+p191
+aVof Otto Neurath from the 1920s and '30s.
+p192
+aVNow, these are methods for representing numbers
+p193
+aVusing repeating icons.
+p194
+aVAnd the numbers are there, but they sit in the background.
+p195
+aVSo it's a great way of representing quantity
+p196
+aVwithout resorting to using terms like "percentage,"
+p197
+aV"fractions" and "ratios."
+p198
+aa(lp199
+VSo here's the quiz.
+p200
+aVThe layout of the quiz is,
+p201
+aVyou have your repeating icons on the left-hand side there,
+p202
+aVand a map showing you the area we're asking you questions about
+p203
+aVon the right-hand side.
+p204
+aVThere are seven questions.
+p205
+aVEach question, there's a possible answer between zero and a hundred,
+p206
+aVand at the end of the quiz,
+p207
+aVyou get an overall score between zero and a hundred.
+p208
+aVAnd so because this is TEDxExeter,
+p209
+aVI thought we would have a quick look at the quiz
+p210
+aVfor the first few questions of Exeter.
+p211
+aVAnd so the first question is:
+p212
+aVFor every 100 people, how many are aged under 16?
+p213
+aVNow, I don't know Exeter very well at all, so I had a guess at this,
+p214
+aVbut it gives you an idea of how this quiz works.
+p215
+aVYou drag the slider to highlight your icons,
+p216
+aVand then just click "Submit" to answer,
+p217
+aVand we animate away the difference between your answer and reality.
+p218
+aVAnd it turns out, I was a pretty terrible guess: five.
+p219
+aa(lp220
+VHow about the next question?
+p221
+aVThis is asking about what the average age is,
+p222
+aVso the age at which half the population are younger
+p223
+aVand half the population are older.
+p224
+aVAnd I thought 35 \u2014 that sounds middle-aged to me.
+p225
+aa(lp226
+V(Laughter)
+p227
+aa(lp228
+VActually, in Exeter, it's incredibly young,
+p229
+aVand I had underestimated the impact of the university in this area.
+p230
+aVThe questions get harder as you go through.
+p231
+aVSo this one's now asking about homeownership:
+p232
+aVFor every 100 households, how many are owned with a mortgage or loan?
+p233
+aVAnd I hedged my bets here,
+p234
+aVbecause I didn't want to be more than 50 out on the answer.
+p235
+aa(lp236
+V(Laughter)
+p237
+aa(lp238
+VAnd actually, these get harder, these questions,
+p239
+aVbecause when you're in an area, when you're in a community,
+p240
+aVthings like age \u2014 there are clues to whether a population is old or young.
+p241
+aVJust by looking around the area, you can see it.
+p242
+aVSomething like homeownership is much more difficult to see,
+p243
+aVso we revert to our own heuristics,
+p244
+aVour own biases about how many people we think own their own homes.
+p245
+aa(lp246
+VNow the truth is, when we published this quiz,
+p247
+aVthe census data that it's based on was already a few years old.
+p248
+aVWe've had online applications that allow you to put in a post code
+p249
+aVand get statistics back for years.
+p250
+aVSo in some senses,
+p251
+aVthis was all a little bit old and not necessarily new.
+p252
+aVBut I was interested to see what reaction we might get
+p253
+aVby gamifying the data in the way that we have,
+p254
+aVby using animation
+p255
+aVand playing on the fact that people have their own preconceptions.
+p256
+aa(lp257
+VIt turns out, the reaction was, um ...
+p258
+aVwas more than I could have hoped for.
+p259
+aVIt was a long-held ambition of mine to bring down a statistics website
+p260
+aVdue to public demand.
+p261
+aa(lp262
+V(Laughter)
+p263
+aa(lp264
+VThis URL contains the words "statistics," "gov" and "UK,"
+p265
+aVwhich are three of people's least favorite words in a URL.
+p266
+aVAnd the amazing thing about this was that the website came down
+p267
+aVat quarter to 10 at night,
+p268
+aVbecause people were actually engaging with this data
+p269
+aVof their own free will,
+p270
+aVusing their own personal time.
+p271
+aVI was very interested to see
+p272
+aVthat we got something like a quarter of a million people
+p273
+aVplaying the quiz within the space of 48 hours of launching it.
+p274
+aVAnd it sparked an enormous discussion online, on social media,
+p275
+aVwhich was largely dominated
+p276
+aVby people having fun with their misconceptions,
+p277
+aVwhich is something that I couldn't have hoped for any better,
+p278
+aVin some respects.
+p279
+aVI also liked the fact that people started sending it to politicians.
+p280
+aVHow well do you know the area you claim to represent?
+p281
+aa(lp282
+V(Laughter)
+p283
+aa(lp284
+VAnd then just to finish,
+p285
+aVgoing back to the two kinds of people,
+p286
+aVI thought it would be really interesting to see
+p287
+aVhow people who are good with numbers would do on this quiz.
+p288
+aVThe national statistician of England and Wales, John Pullinger,
+p289
+aVyou would expect he would be pretty good.
+p290
+aVHe got 44 for his own area.
+p291
+aa(lp292
+V(Laughter)
+p293
+aa(lp294
+VJeremy Paxman \u2014 admittedly, after a glass of wine \u2014 36.
+p295
+aVEven worse.
+p296
+aVIt just shows you that the numbers can inspire us all.
+p297
+aVThey can surprise us all.
+p298
+aa(lp299
+VSo very often, we talk about statistics
+p300
+aVas being the science of uncertainty.
+p301
+aVMy parting thought for today is:
+p302
+aVactually, statistics is the science of us.
+p303
+aVAnd that's why we should be fascinated by numbers.
+p304
+aa(lp305
+VThank you very much.
+p306
+aa(lp307
+V(Applause)
+p308
+aasS'id'
+p309
+I2674
+sS'title'
+p310
+VWhy you should love statistics
+p311
+s.

@@ -1,0 +1,1441 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWe all make decisions every day; we want to know
+p4
+aVwhat the right thing is to do \u2014 in domains from the financial
+p5
+aVto the gastronomic to the professional to the romantic.
+p6
+aVAnd surely, if somebody could really tell us how to do
+p7
+aVexactly the right thing at all possible times,
+p8
+aVthat would be a tremendous gift.
+p9
+aa(lp10
+VIt turns out that, in fact, the world was given this gift in 1738
+p11
+aVby a Dutch polymath named Daniel Bernoulli.
+p12
+aVAnd what I want to talk to you about today is what that gift is,
+p13
+aVand I also want to explain to you why it is
+p14
+aVthat it hasn't made a damn bit of difference.
+p15
+aa(lp16
+VNow, this is Bernoulli's gift. This is a direct quote.
+p17
+aVAnd if it looks like Greek to you, it's because, well, it's Greek.
+p18
+aVBut the simple English translation \u2014 much less precise,
+p19
+aVbut it captures the gist of what Bernoulli had to say \u2014 was this:
+p20
+aVThe expected value of any of our actions \u2014
+p21
+aVthat is, the goodness that we can count on getting \u2014
+p22
+aVis the product of two simple things:
+p23
+aVthe odds that this action will allow us to gain something,
+p24
+aVand the value of that gain to us.
+p25
+aa(lp26
+VIn a sense, what Bernoulli was saying is,
+p27
+aVif we can estimate and multiply these two things,
+p28
+aVwe will always know precisely how we should behave.
+p29
+aa(lp30
+VNow, this simple equation, even for those of you
+p31
+aVwho don't like equations, is something that you're quite used to.
+p32
+aVHere's an example: if I were to tell you, let's play
+p33
+aVa little coin toss game, and I'm going to flip a coin,
+p34
+aVand if it comes up heads, I'm going to pay you 10 dollars,
+p35
+aVbut you have to pay four dollars for the privilege of playing with me,
+p36
+aVmost of you would say, sure, I'll take that bet. Because you know
+p37
+aVthat the odds of you winning are one half, the gain if you do is 10 dollars,
+p38
+aVthat multiplies to five, and that's more
+p39
+aVthan I'm charging you to play. So, the answer is, yes.
+p40
+aVThis is what statisticians technically call a damn fine bet.
+p41
+aa(lp42
+VNow, the idea is simple when we're applying it to coin tosses,
+p43
+aVbut in fact, it's not very simple in everyday life.
+p44
+aVPeople are horrible at estimating both of these things,
+p45
+aVand that's what I want to talk to you about today.
+p46
+aa(lp47
+VThere are two kinds of errors people make when trying to decide
+p48
+aVwhat the right thing is to do, and those are
+p49
+aVerrors in estimating the odds that they're going to succeed,
+p50
+aVand errors in estimating the value of their own success.
+p51
+aVNow, let me talk about the first one first.
+p52
+aVCalculating odds would seem to be something rather easy:
+p53
+aVthere are six sides to a die, two sides to a coin, 52 cards in a deck.
+p54
+aVYou all know what the likelihood is of pulling the ace of spades
+p55
+aVor of flipping a heads.
+p56
+aVBut as it turns out, this is not a very easy idea to apply
+p57
+aVin everyday life. That's why Americans spend more \u2014
+p58
+aVI should say, lose more \u2014 gambling
+p59
+aVthan on all other forms of entertainment combined.
+p60
+aVThe reason is, this isn't how people do odds.
+p61
+aa(lp62
+VThe way people figure odds
+p63
+aVrequires that we first talk a bit about pigs.
+p64
+aVNow, the question I'm going to put to you is whether you think
+p65
+aVthere are more dogs or pigs on leashes
+p66
+aVobserved in any particular day in Oxford.
+p67
+aVAnd of course, you all know that the answer is dogs.
+p68
+aVAnd the way that you know that the answer is dogs is
+p69
+aVyou quickly reviewed in memory the times
+p70
+aVyou've seen dogs and pigs on leashes.
+p71
+aVIt was very easy to remember seeing dogs,
+p72
+aVnot so easy to remember pigs. And each one of you assumed
+p73
+aVthat if dogs on leashes came more quickly to your mind,
+p74
+aVthen dogs on leashes are more probable.
+p75
+aVThat's not a bad rule of thumb, except when it is.
+p76
+aa(lp77
+VSo, for example, here's a word puzzle.
+p78
+aVAre there more four-letter English words
+p79
+aVwith R in the third place or R in the first place?
+p80
+aVWell, you check memory very briefly, make a quick scan,
+p81
+aVand it's awfully easy to say to yourself, Ring, Rang, Rung,
+p82
+aVand very hard to say to yourself, Pare, Park: they come more slowly.
+p83
+aVBut in fact, there are many more words in the English language
+p84
+aVwith R in the third than the first place.
+p85
+aVThe reason words with R in the third place come slowly to your mind
+p86
+aVisn't because they're improbable, unlikely or infrequent.
+p87
+aVIt's because the mind recalls words by their first letter.
+p88
+aVYou kind of shout out the sound, S \u2014 and the word comes.
+p89
+aVIt's like the dictionary;
+p90
+aVit's hard to look things up by the third letter.
+p91
+aVSo, this is an example of how this idea that
+p92
+aVthe quickness with which things come to mind
+p93
+aVcan give you a sense of their probability \u2014
+p94
+aa(lp95
+Vhow this idea could lead you astray. It's not just puzzles, though.
+p96
+aVFor example, when Americans are asked to estimate the odds
+p97
+aVthat they will die in a variety of interesting ways \u2014
+p98
+aVthese are estimates of number of deaths per year
+p99
+aVper 200 million U.S. citizens.
+p100
+aVAnd these are just ordinary people like yourselves who are asked
+p101
+aVto guess how many people die from tornado, fireworks, asthma, drowning, etc.
+p102
+aVCompare these to the actual numbers.
+p103
+aa(lp104
+VNow, you see a very interesting pattern here, which is first of all,
+p105
+aVtwo things are vastly over-estimated, namely tornadoes and fireworks.
+p106
+aVTwo things are vastly underestimated:
+p107
+aVdying by drowning and dying by asthma. Why?
+p108
+aVWhen was the last time that you picked up a newspaper
+p109
+aVand the headline was, "Boy dies of Asthma?"
+p110
+aVIt's not interesting because it's so common.
+p111
+aVIt's very easy for all of us to bring to mind instances
+p112
+aVof news stories or newsreels where we've seen
+p113
+aVtornadoes devastating cities, or some poor schmuck
+p114
+aVwho's blown his hands off with a firework on the Fourth of July.
+p115
+aVDrownings and asthma deaths don't get much coverage.
+p116
+aVThey don't come quickly to mind, and as a result,
+p117
+aVwe vastly underestimate them.
+p118
+aa(lp119
+VIndeed, this is kind of like the Sesame Street game
+p120
+aVof "Which thing doesn't belong?" And you're right to say
+p121
+aVit's the swimming pool that doesn't belong, because the swimming pool
+p122
+aVis the only thing on this slide that's actually very dangerous.
+p123
+aVThe way that more of you are likely to die than the combination
+p124
+aVof all three of the others that you see on the slide.
+p125
+aa(lp126
+VThe lottery is an excellent example, of course \u2014 an excellent test-case
+p127
+aVof people's ability to compute probabilities.
+p128
+aVAnd economists \u2014 forgive me, for those of you who play the lottery \u2014
+p129
+aVbut economists, at least among themselves, refer to the lottery
+p130
+aVas a stupidity tax, because the odds of getting any payoff
+p131
+aVby investing your money in a lottery ticket
+p132
+aVare approximately equivalent to flushing the money
+p133
+aVdirectly down the toilet \u2014 which, by the way,
+p134
+aVdoesn't require that you actually go to the store and buy anything.
+p135
+aa(lp136
+VWhy in the world would anybody ever play the lottery?
+p137
+aVWell, there are many answers, but one answer surely is,
+p138
+aVwe see a lot of winners. Right? When this couple wins the lottery,
+p139
+aVor Ed McMahon shows up at your door with this giant check \u2014
+p140
+aVhow the hell do you cash things that size, I don't know.
+p141
+aVWe see this on TV; we read about it in the paper.
+p142
+aVWhen was the last time that you saw extensive interviews
+p143
+aVwith everybody who lost?
+p144
+aVIndeed, if we required that television stations run
+p145
+aVa 30-second interview with each loser
+p146
+aVevery time they interview a winner, the 100 million losers
+p147
+aVin the last lottery would require nine-and-a-half years
+p148
+aVof your undivided attention just to watch them say,
+p149
+aV"Me? I lost." "Me? I lost."
+p150
+aVNow, if you watch nine-and-a-half years of television \u2014
+p151
+aVno sleep, no potty breaks \u2014 and you saw loss after loss after loss,
+p152
+aVand then at the end there's 30 seconds of, "and I won,"
+p153
+aVthe likelihood that you would play the lottery is very small.
+p154
+aa(lp155
+VLook, I can prove this to you: here's a little lottery.
+p156
+aVThere's 10 tickets in this lottery.
+p157
+aVNine of them have been sold to these individuals.
+p158
+aVIt costs you a dollar to buy the ticket and, if you win,
+p159
+aVyou get 20 bucks. Is this a good bet?
+p160
+aVWell, Bernoulli tells us it is.
+p161
+aVThe expected value of this lottery is two dollars;
+p162
+aVthis is a lottery in which you should invest your money.
+p163
+aVAnd most people say, "OK, I'll play."
+p164
+aa(lp165
+VNow, a slightly different version of this lottery:
+p166
+aVimagine that the nine tickets are all owned
+p167
+aVby one fat guy named Leroy.
+p168
+aVLeroy has nine tickets; there's one left.
+p169
+aVDo you want it? Most people won't play this lottery.
+p170
+aVNow, you can see the odds of winning haven't changed,
+p171
+aVbut it's now fantastically easy to imagine who's going to win.
+p172
+aVIt's easy to see Leroy getting the check, right?
+p173
+aVYou can't say to yourself, "I'm as likely to win as anybody,"
+p174
+aVbecause you're not as likely to win as Leroy.
+p175
+aVThe fact that all those tickets are owned by one guy
+p176
+aVchanges your decision to play,
+p177
+aVeven though it does nothing whatsoever to the odds.
+p178
+aa(lp179
+VNow, estimating odds, as difficult as it may seem, is a piece of cake
+p180
+aVcompared to trying to estimate value:
+p181
+aVtrying to say what something is worth, how much we'll enjoy it,
+p182
+aVhow much pleasure it will give us.
+p183
+aVI want to talk now about errors in value.
+p184
+aVHow much is this Big Mac worth? Is it worth 25 dollars?
+p185
+aVMost of you have the intuition that it's not \u2014
+p186
+aVyou wouldn't pay that for it.
+p187
+aa(lp188
+VBut in fact, to decide whether a Big Mac is worth 25 dollars requires
+p189
+aVthat you ask one, and only one question, which is:
+p190
+aVWhat else can I do with 25 dollars?
+p191
+aVIf you've ever gotten on one of those long-haul flights to Australia
+p192
+aVand realized that they're not going to serve you any food,
+p193
+aVbut somebody in the row in front of you has just opened
+p194
+aVthe McDonald's bag, and the smell of golden arches
+p195
+aVis wafting over the seat, you think,
+p196
+aVI can't do anything else with this 25 dollars for 16 hours.
+p197
+aVI can't even set it on fire \u2014 they took my cigarette lighter!
+p198
+aVSuddenly, 25 dollars for a Big Mac might be a good deal.
+p199
+aa(lp200
+VOn the other hand, if you're visiting an underdeveloped country,
+p201
+aVand 25 dollars buys you a gourmet meal, it's exorbitant for a Big Mac.
+p202
+aVWhy were you all sure that the answer to the question was no,
+p203
+aVbefore I'd even told you anything about the context?
+p204
+aVBecause most of you compared the price of this Big Mac
+p205
+aVto the price you're used to paying. Rather than asking,
+p206
+aV"What else can I do with my money," comparing this investment
+p207
+aVto other possible investments, you compared to the past.
+p208
+aVAnd this is a systematic error people make.
+p209
+aVWhat you knew is, you paid three dollars in the past; 25 is outrageous.
+p210
+aa(lp211
+VThis is an error, and I can prove it to you by showing
+p212
+aVthe kinds of irrationalities to which it leads.
+p213
+aVFor example, this is, of course,
+p214
+aVone of the most delicious tricks in marketing,
+p215
+aVis to say something used to be higher,
+p216
+aVand suddenly it seems like a very good deal.
+p217
+aVWhen people are asked about these two different jobs:
+p218
+aVa job where you make 60K, then 50K, then 40K,
+p219
+aVa job where you're getting a salary cut each year,
+p220
+aVand one in which you're getting a salary increase,
+p221
+aVpeople like the second job better than the first, despite the fact
+p222
+aVthey're all told they make much less money. Why?
+p223
+aVBecause they had the sense that declining wages are worse
+p224
+aVthan rising wages, even when the total amount of wages is higher
+p225
+aVin the declining period. Here's another nice example.
+p226
+aa(lp227
+VHere's a $2,000 Hawaiian vacation package; it's now on sale for 1,600.
+p228
+aVAssuming you wanted to go to Hawaii, would you buy this package?
+p229
+aVMost people say they would. Here's a slightly different story:
+p230
+aV$2,000 Hawaiian vacation package is now on sale for 700 dollars,
+p231
+aVso you decide to mull it over for a week.
+p232
+aVBy the time you get to the ticket agency, the best fares are gone \u2014
+p233
+aVthe package now costs 1,500. Would you buy it? Most people say, no.
+p234
+aVWhy? Because it used to cost 700, and there's no way I'm paying 1,500
+p235
+aVfor something that was 700 last week.
+p236
+aa(lp237
+VThis tendency to compare to the past
+p238
+aVis causing people to pass up the better deal. In other words,
+p239
+aVa good deal that used to be a great deal is not nearly as good
+p240
+aVas an awful deal that was once a horrible deal.
+p241
+aa(lp242
+VHere's another example of how comparing to the past
+p243
+aVcan befuddle our decisions.
+p244
+aVImagine that you're going to the theater.
+p245
+aVYou're on your way to the theater.
+p246
+aVIn your wallet you have a ticket, for which you paid 20 dollars.
+p247
+aVYou also have a 20-dollar bill.
+p248
+aVWhen you arrive at the theater,
+p249
+aVyou discover that somewhere along the way you've lost the ticket.
+p250
+aVWould you spend your remaining money on replacing it?
+p251
+aVMost people answer, no.
+p252
+aVNow, let's just change one thing in this scenario.
+p253
+aVYou're on your way to the theater,
+p254
+aVand in your wallet you have two 20-dollar bills.
+p255
+aVWhen you arrive you discover you've lost one of them.
+p256
+aVWould you spend your remaining 20 dollars on a ticket?
+p257
+aVWell, of course, I went to the theater to see the play.
+p258
+aVWhat does the loss of 20 dollars along the way have to do?
+p259
+aa(lp260
+VNow, just in case you're not getting it,
+p261
+aVhere's a schematic of what happened, OK?
+p262
+aV(Laughter)
+p263
+aVAlong the way, you lost something.
+p264
+aVIn both cases, it was a piece of paper.
+p265
+aVIn one case, it had a U.S. president on it; in the other case it didn't.
+p266
+aVWhat the hell difference should it make?
+p267
+aVThe difference is that when you lost the ticket you say to yourself,
+p268
+aVI'm not paying twice for the same thing.
+p269
+aVYou compare the cost of the play now \u2014 40 dollars \u2014
+p270
+aVto the cost that it used to have \u2014 20 dollars \u2014 and you say it's a bad deal.
+p271
+aVComparing with the past causes many of the problems
+p272
+aVthat behavioral economists and psychologists identify
+p273
+aVin people's attempts to assign value.
+p274
+aVBut even when we compare with the possible, instead of the past,
+p275
+aVwe still make certain kinds of mistakes.
+p276
+aVAnd I'm going to show you one or two of them.
+p277
+aa(lp278
+VOne of the things we know about comparison:
+p279
+aVthat when we compare one thing to the other, it changes its value.
+p280
+aVSo in 1992, this fellow, George Bush, for those of us who were
+p281
+aVkind of on the liberal side of the political spectrum,
+p282
+aVdidn't seem like such a great guy.
+p283
+aVSuddenly, we're almost longing for him to return.
+p284
+aV(Laughter)
+p285
+aVThe comparison changes how we evaluate him.
+p286
+aa(lp287
+VNow, retailers knew this long before anybody else did, of course,
+p288
+aVand they use this wisdom to help you \u2014
+p289
+aVspare you the undue burden of money.
+p290
+aVAnd so a retailer, if you were to go into a wine shop
+p291
+aVand you had to buy a bottle of wine,
+p292
+aVand you see them here for eight, 27 and 33 dollars, what would you do?
+p293
+aVMost people don't want the most expensive,
+p294
+aVthey don't want the least expensive.
+p295
+aVSo, they will opt for the item in the middle.
+p296
+aVIf you're a smart retailer, then, you will put a very expensive item
+p297
+aVthat nobody will ever buy on the shelf,
+p298
+aVbecause suddenly the $33 wine doesn't look as expensive in comparison.
+p299
+aa(lp300
+VSo I'm telling you something you already knew:
+p301
+aVnamely, that comparison changes the value of things.
+p302
+aVHere's why that's a problem:
+p303
+aVthe problem is that when you get that $33 bottle of wine home,
+p304
+aVit won't matter what it used to be sitting on the shelf next to.
+p305
+aVThe comparisons we make when we are appraising value,
+p306
+aVwhere we're trying to estimate how much we'll like things,
+p307
+aVare not the same comparisons we'll be making when we consume them.
+p308
+aVThis problem of shifting comparisons can bedevil
+p309
+aVour attempts to make rational decisions.
+p310
+aa(lp311
+VLet me just give you an example.
+p312
+aVI have to show you something from my own lab, so let me sneak this in.
+p313
+aVThese are subjects coming to an experiment to be asked
+p314
+aVthe simplest of all questions:
+p315
+aVHow much will you enjoy eating potato chips one minute from now?
+p316
+aVThey're sitting in a room with potato chips in front of them.
+p317
+aVFor some of the subjects, sitting in the far corner of a room
+p318
+aVis a box of Godiva chocolates, and for others is a can of Spam.
+p319
+aVIn fact, these items that are sitting in the room change
+p320
+aVhow much the subjects think they're going to enjoy the potato chips.
+p321
+aVNamely, those who are looking at Spam
+p322
+aVthink potato chips are going to be quite tasty;
+p323
+aVthose who are looking at Godiva chocolate
+p324
+aVthink they won't be nearly so tasty.
+p325
+aVOf course, what happens when they eat the potato chips?
+p326
+aVWell, look, you didn't need a psychologist to tell you that
+p327
+aVwhen you have a mouthful of greasy, salty, crispy, delicious snacks,
+p328
+aVwhat's sitting in the corner of the room
+p329
+aVmakes not a damn bit of difference to your gustatory experience.
+p330
+aVNonetheless, their predictions are perverted by a comparison
+p331
+aVthat then does not carry through and change their experience.
+p332
+aa(lp333
+VYou've all experienced this yourself, even if you've never come
+p334
+aVinto our lab to eat potato chips. So here's a question:
+p335
+aVYou want to buy a car stereo.
+p336
+aVThe dealer near your house sells this particular stereo for 200 dollars,
+p337
+aVbut if you drive across town, you can get it for 100 bucks.
+p338
+aVSo would you drive to get 50 percent off, saving 100 dollars?
+p339
+aVMost people say they would.
+p340
+aVThey can't imagine buying it for twice the price
+p341
+aVwhen, with one trip across town, they can get it for half off.
+p342
+aa(lp343
+VNow, let's imagine instead you wanted to buy a car that had a stereo,
+p344
+aVand the dealer near your house had it for 31,000.
+p345
+aVBut if you drove across town, you could get it for 30,900.
+p346
+aVWould you drive to get it? At this point, 0.003 savings \u2014 the 100 dollars.
+p347
+aVMost people say, no, I'm going to schlep across town
+p348
+aVto save 100 bucks on the purchase of a car?
+p349
+aa(lp350
+VThis kind of thinking drives economists crazy, and it should.
+p351
+aVBecause this 100 dollars that you save \u2014 hello! \u2014
+p352
+aVdoesn't know where it came from.
+p353
+aVIt doesn't know what you saved it on.
+p354
+aVWhen you go to buy groceries with it, it doesn't go,
+p355
+aVI'm the money saved on the car stereo, or,
+p356
+aVI'm the dumb money saved on the car. It's money.
+p357
+aVAnd if a drive across town is worth 100 bucks, it's worth 100 bucks
+p358
+aVno matter what you're saving it on. People don't think that way.
+p359
+aVThat's why they don't know whether their mutual fund manager
+p360
+aVis taking 0.1 percent or 0.15 percent of their investment,
+p361
+aVbut they clip coupons to save one dollar off of toothpaste.
+p362
+aa(lp363
+VNow, you can see, this is the problem of shifting comparisons,
+p364
+aVbecause what you're doing is, you're comparing the 100 bucks
+p365
+aVto the purchase that you're making,
+p366
+aVbut when you go to spend that money you won't be making that comparison.
+p367
+aVYou've all had this experience.
+p368
+aa(lp369
+VIf you're an American, for example, you've probably traveled in France.
+p370
+aVAnd at some point you may have met a couple
+p371
+aVfrom your own hometown, and you thought,
+p372
+aV"Oh, my God, these people are so warm. They're so nice to me.
+p373
+aVI mean, compared to all these people who hate me
+p374
+aVwhen I try to speak their language and hate me more when I don't,
+p375
+aVthese people are just wonderful." And so you tour France with them,
+p376
+aVand then you get home and you invite them over for dinner,
+p377
+aVand what do you find?
+p378
+aVCompared to your regular friends,
+p379
+aVthey are boring and dull, right? Because in this new context,
+p380
+aVthe comparison is very, very different. In fact, you find yourself
+p381
+aVdisliking them enough almost to qualify for French citizenship.
+p382
+aa(lp383
+VNow, you have exactly the same problem when you shop for a stereo.
+p384
+aVYou go to the stereo store, you see two sets of speakers \u2014
+p385
+aVthese big, boxy, monoliths, and these little, sleek speakers,
+p386
+aVand you play them, and you go, you know, I do hear a difference:
+p387
+aVthe big ones sound a little better.
+p388
+aVAnd so you buy them, and you bring them home,
+p389
+aVand you entirely violate the décor of your house.
+p390
+aVAnd the problem, of course, is that this comparison you made in the store
+p391
+aVis a comparison you'll never make again.
+p392
+aVWhat are the odds that years later you'll turn on the stereo and go,
+p393
+aV"Sounds so much better than those little ones,"
+p394
+aVwhich you can't even remember hearing.
+p395
+aa(lp396
+VThe problem of shifting comparisons is even more difficult
+p397
+aVwhen these choices are arrayed over time.
+p398
+aVPeople have a lot of trouble making decisions
+p399
+aVabout things that will happen at different points in time.
+p400
+aVAnd what psychologists and behavioral economists have discovered
+p401
+aVis that by and large people use two simple rules.
+p402
+aVSo let me give you one very easy problem, a second very easy problem
+p403
+aVand then a third, hard, problem.
+p404
+aa(lp405
+VHere's the first easy problem:
+p406
+aVYou can have 60 dollars now or 50 dollars now. Which would you prefer?
+p407
+aVThis is what we call a one-item IQ test, OK?
+p408
+aVAll of us, I hope, prefer more money, and the reason is,
+p409
+aVwe believe more is better than less.
+p410
+aa(lp411
+VHere's the second problem:
+p412
+aVYou can have 60 dollars today or 60 dollars in a month. Which would you prefer?
+p413
+aVAgain, an easy decision,
+p414
+aVbecause we all know that now is better than later.
+p415
+aVWhat's hard in our decision-making is when these two rules conflict.
+p416
+aVFor example, when you're offered 50 dollars now or 60 dollars in a month.
+p417
+aVThis typifies a lot of situations in life in which you will gain
+p418
+aVby waiting, but you have to be patient.
+p419
+aVWhat do we know? What do people do in these kinds of situations?
+p420
+aVWell, by and large people are enormously impatient.
+p421
+aVThat is, they require interest rates in the hundred
+p422
+aVor thousands of percents in order to delay gratification
+p423
+aVand wait until next month for the extra 10 dollars.
+p424
+aVMaybe that isn't so remarkable, but what is remarkable is
+p425
+aVhow easy it is to make this impatience go away by simply changing
+p426
+aVwhen the delivery of these monetary units will happen.
+p427
+aVImagine that you can have 50 dollars in a year \u2014 that's 12 months \u2014
+p428
+aVor 60 dollars in 13 months.
+p429
+aVWhat do we find now?
+p430
+aVPeople are gladly willing to wait: as long as they're waiting 12,
+p431
+aVthey might as well wait 13.
+p432
+aa(lp433
+VWhat makes this dynamic inconsistency happen?
+p434
+aVComparison. Troubling comparison. Let me show you.
+p435
+aa(lp436
+VThis is just a graph showing the results that I just suggested
+p437
+aVyou would show if I gave you time to respond, which is,
+p438
+aVpeople find that the subjective value of 50 is higher
+p439
+aVthan the subjective value of 60 when they'll be delivered in now
+p440
+aVor one month, respectively \u2014 a 30-day delay \u2014
+p441
+aVbut they show the reverse pattern when you push the entire decision
+p442
+aVoff into the future a year.
+p443
+aVNow, why in the world do you get this pattern of results?
+p444
+aa(lp445
+VThese guys can tell us.
+p446
+aVWhat you see here are two lads,
+p447
+aVone of them larger than the other: the fireman and the fiddler.
+p448
+aVThey are going to recede towards the vanishing point in the horizon,
+p449
+aVand I want you to notice two things.
+p450
+aVAt no point will the fireman look taller than the fiddler. No point.
+p451
+aVHowever, the difference between them seems to be getting smaller.
+p452
+aVFirst it's an inch in your view, then it's a quarter-inch,
+p453
+aVthen a half-inch, and then finally they go off the edge of the earth.
+p454
+aa(lp455
+VHere are the results of what I just showed you.
+p456
+aVThis is the subjective height \u2014
+p457
+aVthe height you saw of these guys at various points.
+p458
+aVAnd I want you to see that two things are true.
+p459
+aVOne, the farther away they are, the smaller they look;
+p460
+aVand two, the fireman is always bigger than the fiddler.
+p461
+aVBut watch what happens when we make some of them disappear. Right.
+p462
+aVAt a very close distance, the fiddler looks taller than the fireman,
+p463
+aVbut at a far distance
+p464
+aVtheir normal, their true, relations are preserved.
+p465
+aVAs Plato said, what space is to size, time is to value.
+p466
+aVThese are the results of the hard problem I gave you:
+p467
+aV60 now or 50 in a month?
+p468
+aVAnd these are subjective values,
+p469
+aVand what you can see is, our two rules are preserved.
+p470
+aa(lp471
+VPeople always think more is better than less:
+p472
+aV60 is always better than 50,
+p473
+aVand they always think now is better than later:
+p474
+aVthe bars on this side are higher than the bars on this side.
+p475
+aVWatch what happens when we drop some out.
+p476
+aVSuddenly we have the dynamic inconsistency that puzzled us.
+p477
+aVWe have the tendency for people to go for 50 dollars now
+p478
+aVover waiting a month, but not if that decision is far in the future.
+p479
+aVNotice something interesting that this implies \u2014 namely, that
+p480
+aVwhen people get to the future, they will change their minds.
+p481
+aVThat is, as that month 12 approaches, you will say,
+p482
+aVwhat was I thinking, waiting an extra month for 60 dollars?
+p483
+aVI'll take the 50 dollars now.
+p484
+aa(lp485
+VWell, the question with which I'd like to end is this:
+p486
+aVIf we're so damn stupid, how did we get to the moon?
+p487
+aVBecause I could go on for about two hours with evidence
+p488
+aVof people's inability to estimate odds and inability to estimate value.
+p489
+aa(lp490
+VThe answer to this question, I think, is an answer you've already heard
+p491
+aVin some of the talks, and I dare say you will hear again:
+p492
+aVnamely, that our brains were evolved for a very different world
+p493
+aVthan the one in which we are living.
+p494
+aVThey were evolved for a world
+p495
+aVin which people lived in very small groups,
+p496
+aVrarely met anybody who was terribly different from themselves,
+p497
+aVhad rather short lives in which there were few choices
+p498
+aVand the highest priority was to eat and mate today.
+p499
+aa(lp500
+VBernoulli's gift, Bernoulli's little formula, allows us, it tells us
+p501
+aVhow we should think in a world for which nature never designed us.
+p502
+aVThat explains why we are so bad at using it, but it also explains
+p503
+aVwhy it is so terribly important that we become good, fast.
+p504
+aVWe are the only species on this planet
+p505
+aVthat has ever held its own fate in its hands.
+p506
+aVWe have no significant predators,
+p507
+aVwe're the masters of our physical environment;
+p508
+aVthe things that normally cause species to become extinct
+p509
+aVare no longer any threat to us.
+p510
+aVThe only thing \u2014 the only thing \u2014 that can destroy us and doom us
+p511
+aVare our own decisions.
+p512
+aVIf we're not here in 10,000 years, it's going to be because
+p513
+aVwe could not take advantage of the gift given to us
+p514
+aVby a young Dutch fellow in 1738,
+p515
+aVbecause we underestimated the odds of our future pains
+p516
+aVand overestimated the value of our present pleasures.
+p517
+aa(lp518
+VThank you.
+p519
+aV(Applause)
+p520
+aa(lp521
+VChris Anderson: That was remarkable.
+p522
+aVWe have time for some questions for Dan Gilbert. One and two.
+p523
+aa(lp524
+VBill Lyell: Would you say that this mechanism
+p525
+aVis in part how terrorism actually works to frighten us,
+p526
+aVand is there some way that we could counteract that?
+p527
+aa(lp528
+VDan Gilbert: I actually was consulting recently
+p529
+aVwith the Department of Homeland Security, which generally believes
+p530
+aVthat American security dollars should go to making borders safer.
+p531
+aVI tried to point out to them that terrorism was a name
+p532
+aVbased on people's psychological reaction to a set of events,
+p533
+aVand that if they were concerned about terrorism they might ask
+p534
+aVwhat causes terror and how can we stop people from being terrified,
+p535
+aVrather than \u2014 not rather than, but in addition to
+p536
+aVstopping the atrocities that we're all concerned about.
+p537
+aVSurely the kinds of play that at least American media give to \u2014
+p538
+aVand forgive me, but in raw numbers these are very tiny accidents.
+p539
+aVWe already know, for example, in the United States,
+p540
+aVmore people have died as a result of not taking airplanes \u2014
+p541
+aVbecause they were scared \u2014 and driving on highways,
+p542
+aVthan were killed in 9/11. OK?
+p543
+aVIf I told you that there was a plague
+p544
+aVthat was going to kill 15,000 Americans next year,
+p545
+aVyou might be alarmed if you didn't find out it was the flu.
+p546
+aVThese are small-scale accidents, and we should be wondering
+p547
+aVwhether they should get the kind of play,
+p548
+aVthe kind of coverage, that they do.
+p549
+aVSurely that causes people to overestimate the likelihood
+p550
+aVthat they'll be hurt in these various ways,
+p551
+aVand gives power to the very people who want to frighten us.
+p552
+aa(lp553
+VCA: Dan, I'd like to hear more on this. So, you're saying
+p554
+aVthat our response to terror is, I mean, it's a form of mental bug?
+p555
+aVTalk more about it.
+p556
+aa(lp557
+VDG: It's out-sized. I mean, look.
+p558
+aVIf Australia disappears tomorrow,
+p559
+aVterror is probably the right response.
+p560
+aVThat's an awful large lot of very nice people. On the other hand,
+p561
+aVwhen a bus blows up and 30 people are killed,
+p562
+aVmore people than that were killed
+p563
+aVby not using their seatbelts in the same country.
+p564
+aVIs terror the right response?
+p565
+aa(lp566
+VCA: What causes the bug? Is it the drama of the event \u2014
+p567
+aVthat it's so spectacular?
+p568
+aVIs it the fact that it's an intentional attack by, quote, outsiders?
+p569
+aVWhat is it?
+p570
+aa(lp571
+VDG: Yes. It's a number of things, and you hit on several of them.
+p572
+aVFirst, it's a human agent trying to kill us \u2014
+p573
+aVit's not a tree falling on us by accident.
+p574
+aVSecond, these are enemies who may want to strike and hurt us again.
+p575
+aVPeople are being killed for no reason instead of good reason \u2014
+p576
+aVas if there's good reason, but sometimes people think there are.
+p577
+aVSo there are a number of things that together
+p578
+aVmake this seem like a fantastic event, but let's not play down
+p579
+aVthe fact that newspapers sell when people see something in it
+p580
+aVthey want to read. So there's a large role here played by the media,
+p581
+aVwho want these things to be
+p582
+aVas spectacular as they possibly can.
+p583
+aa(lp584
+VCA: I mean, what would it take to persuade our culture to downplay it?
+p585
+aa(lp586
+VDG: Well, go to Israel. You know,
+p587
+aVgo to Israel. And a mall blows up,
+p588
+aVand then everybody's unhappy about it, and an hour-and-a-half later \u2014
+p589
+aVat least when I was there, and I was 150 feet from the mall
+p590
+aVwhen it blew up \u2014 I went back to my hotel
+p591
+aVand the wedding that was planned was still going on.
+p592
+aVAnd as the Israeli mother said,
+p593
+aVshe said, "We never let them win by stopping weddings."
+p594
+aVI mean, this is a society that has learned \u2014
+p595
+aVand there are others too \u2014 that has learned to live
+p596
+aVwith a certain amount of terrorism and not be quite as upset by it,
+p597
+aVshall I say, as those of us who have not had many terror attacks.
+p598
+aa(lp599
+VCA: But is there a rational fear that actually,
+p600
+aVthe reason we're frightened about this is because we think that
+p601
+aVthe Big One is to come?
+p602
+aa(lp603
+VDG: Yes, of course. So, if we knew that this was the worst attack
+p604
+aVthere would ever be, there might be more and more buses of 30 people \u2014
+p605
+aVwe would probably not be nearly so frightened.
+p606
+aVI don't want to say \u2014 please, I'm going to get quoted somewhere
+p607
+aVas saying, "Terrorism is fine and we shouldn't be so distressed."
+p608
+aVThat's not my point at all.
+p609
+aVWhat I'm saying is that, surely, rationally,
+p610
+aVour distress about things that happen, about threats,
+p611
+aVshould be roughly proportional to the size of those threats
+p612
+aVand threats to come.
+p613
+aVI think in the case of terrorism, it isn't.
+p614
+aVAnd many of the things we've heard about from our speakers today \u2014
+p615
+aVhow many people do you know got up and said,
+p616
+aVPoverty! I can't believe what poverty is doing to us.
+p617
+aVPeople get up in the morning; they don't care about poverty.
+p618
+aVIt's not making headlines, it's not making news, it's not flashy.
+p619
+aVThere are no guns going off.
+p620
+aVI mean, if you had to solve one of these problems, Chris,
+p621
+aVwhich would you solve? Terrorism or poverty?
+p622
+aV(Laughter)
+p623
+aV(Applause)
+p624
+aVThat's a tough one.
+p625
+aa(lp626
+VCA: There's no question.
+p627
+aVPoverty, by an order of magnitude, a huge order of magnitude,
+p628
+aVunless someone can show that there's, you know,
+p629
+aVterrorists with a nuke are really likely to come.
+p630
+aVThe latest I've read, seen, thought
+p631
+aVis that it's incredibly hard for them to do that.
+p632
+aVIf that turns out to be wrong, we all look silly,
+p633
+aVbut with poverty it's a bit \u2014
+p634
+aa(lp635
+VDG: Even if that were true, still more people die from poverty.
+p636
+aa(lp637
+VCA: We've evolved to get all excited
+p638
+aVabout these dramatic attacks. Is that because in the past,
+p639
+aVin the ancient past, we just didn't understand things like disease
+p640
+aVand systems that cause poverty and so forth,
+p641
+aVand so it made no sense for us as a species to put any energy
+p642
+aVinto worrying about those things?
+p643
+aVPeople died; so be it.
+p644
+aVBut if you got attacked, that was something you could do something about.
+p645
+aVAnd so we evolved these responses.
+p646
+aVIs that what happened?
+p647
+aa(lp648
+VDG: Well, you know, the people who are most skeptical
+p649
+aVabout leaping to evolutionary explanations for everything
+p650
+aVare the evolutionary psychologists themselves.
+p651
+aVMy guess is that there's nothing quite that specific
+p652
+aVin our evolutionary past. But rather, if you're looking for
+p653
+aVan evolutionary explanation, you might say
+p654
+aVthat most organisms are neo-phobic \u2014 that is, they're a little scared
+p655
+aVof stuff that's new and different.
+p656
+aVAnd there's a good reason to be,
+p657
+aVbecause old stuff didn't eat you. Right?
+p658
+aVAny animal you see that you've seen before is less likely
+p659
+aVto be a predator than one that you've never seen before.
+p660
+aVSo, you know, when a school bus is blown up and we've never seen this before,
+p661
+aVour general tendency is to orient towards
+p662
+aVthat which is new and novel is activated.
+p663
+aVI don't think it's quite as specific a mechanism
+p664
+aVas the one you alluded to, but maybe a more fundamental one underlying it.
+p665
+aa(lp666
+VJay Walker: You know, economists love to talk about
+p667
+aVthe stupidity of people who buy lottery tickets. But I suspect
+p668
+aVyou're making the exact same error you're accusing those people of,
+p669
+aVwhich is the error of value.
+p670
+aVI know, because I've interviewed
+p671
+aVabout 1,000 lottery buyers over the years.
+p672
+aVIt turns out that the value of buying a lottery ticket is not winning.
+p673
+aVThat's what you think it is. All right?
+p674
+aVThe average lottery buyer buys about 150 tickets a year,
+p675
+aVso the buyer knows full well that he or she is going to lose,
+p676
+aVand yet she buys 150 tickets a year. Why is that?
+p677
+aVIt's not because she is stupid or he is stupid.
+p678
+aVIt's because the anticipation of possibly winning
+p679
+aVreleases serotonin in the brain, and actually provides a good feeling
+p680
+aVuntil the drawing indicates you've lost.
+p681
+aVOr, to put it another way, for the dollar investment,
+p682
+aVyou can have a much better feeling than flushing the money
+p683
+aVdown the toilet, which you cannot have a good feeling from.
+p684
+aVNow, economists tend to \u2014
+p685
+aV(Applause)
+p686
+aV\u2014 economists tend to view the world
+p687
+aVthrough their own lenses, which is:
+p688
+aVthis is just a bunch of stupid people.
+p689
+aVAnd as a result, many people look at economists as stupid people.
+p690
+aVAnd so fundamentally, the reason we got to the moon is,
+p691
+aVwe didn't listen to the economists. Thank you very much.
+p692
+aV(Applause)
+p693
+aa(lp694
+VDG: Well, no, it's a great point. It remains to be seen
+p695
+aVwhether the joy of anticipation is exactly equaled
+p696
+aVby the amount of disappointment after the lottery. Because remember,
+p697
+aVpeople who didn't buy tickets don't feel awful the next day either,
+p698
+aVeven though they don't feel great during the drawing.
+p699
+aVI would disagree that people know they're not going to win.
+p700
+aVI think they think it's unlikely, but it could happen,
+p701
+aVwhich is why they prefer that to the flushing.
+p702
+aVBut certainly I see your point: that there can be
+p703
+aVsome utility to buying a lottery ticket other than winning.
+p704
+aVNow, I think there's many good reasons not to listen to economists.
+p705
+aVThat isn't one of them, for me, but there's many others.
+p706
+aa(lp707
+VCA: Last question.
+p708
+aa(lp709
+VAubrey de Grey: My name's Aubrey de Grey, from Cambridge.
+p710
+aVI work on the thing that kills more people than anything else kills \u2014
+p711
+aVI work on aging \u2014 and I'm interested in doing something about it,
+p712
+aVas we'll all hear tomorrow.
+p713
+aVI very much resonate with what you're saying,
+p714
+aVbecause it seems to me that the problem
+p715
+aVwith getting people interested in doing anything about aging
+p716
+aVis that by the time aging is about to kill you it looks like cancer
+p717
+aVor heart disease or whatever. Do you have any advice?
+p718
+aV(Laughter)
+p719
+aa(lp720
+VDG: For you or for them?
+p721
+aa(lp722
+VAdG: In persuading them.
+p723
+aa(lp724
+VDG: Ah, for you in persuading them.
+p725
+aVWell, it's notoriously difficult to get people to be farsighted.
+p726
+aVBut one thing that psychologists have tried that seems to work
+p727
+aVis to get people to imagine the future more vividly.
+p728
+aVOne of the problems with making decisions about the far future
+p729
+aVand the near future is that we imagine the near future
+p730
+aVmuch more vividly than the far future.
+p731
+aVTo the extent that you can equalize the amount of detail
+p732
+aVthat people put into the mental representations
+p733
+aVof near and far future, people begin to make decisions
+p734
+aVabout the two in the same way.
+p735
+aVSo, would you like to have an extra 100,000 dollars when you're 65
+p736
+aVis a question that's very different than,
+p737
+aVimagine who you'll be when you're 65: will you be living,
+p738
+aVwhat will you look like, how much hair will you have,
+p739
+aVwho will you be living with.
+p740
+aVOnce we have all the details of that imaginary scenario,
+p741
+aVsuddenly we feel like it might be important to save
+p742
+aVso that that guy has a little retirement money.
+p743
+aVBut these are tricks around the margins.
+p744
+aVI think in general you're battling a very fundamental human tendency,
+p745
+aVwhich is to say, "I'm here today,
+p746
+aVand so now is more important than later."
+p747
+aa(lp748
+VCA: Dan, thank you. Members of the audience,
+p749
+aVthat was a fantastic session. Thank you.
+p750
+aV(Applause)
+p751
+aasS'id'
+p752
+I420
+sS'title'
+p753
+VWhy we make bad decisions
+p754
+s.

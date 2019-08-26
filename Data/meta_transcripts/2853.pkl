@@ -1,0 +1,472 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIt's Christmas Eve, 1968.
+p4
+aVThe Apollo 8 spacecraft has successfully completed
+p5
+aVits first three orbits around the moon.
+p6
+aVLaunched from Cape Canaveral three days before,
+p7
+aVthis is the first time
+p8
+aVthat humans have ever traveled beyond low Earth orbit.
+p9
+aVOn the vessel's fourth pass,
+p10
+aVthe Earth slowly comes into view
+p11
+aVand reveals itself above the Moon's horizon.
+p12
+aVAstronaut Bill Anders frantically asks his crewmates where their camera is,
+p13
+aVgrabs the Hasselblad, points it towards the window,
+p14
+aVpresses the shutter,
+p15
+aVand takes one of the most important photographs of all time:
+p16
+aV"Earthrise."
+p17
+aa(lp18
+VWhen the crew was safely home a few days later,
+p19
+aVthey were asked about the mission.
+p20
+aVAnders famously replied,
+p21
+aV"We went to the moon,
+p22
+aVbut we actually discovered Earth."
+p23
+aa(lp24
+VWhat did he and his fellow crewmates feel
+p25
+aVin this incredible moment?
+p26
+aVIn a study released just this past year,
+p27
+aVa team of researchers at the University of Pennsylvania
+p28
+aVexamined the testimonies of hundreds of astronauts
+p29
+aVwho had the opportunity to view the Earth from space.
+p30
+aVTheir analysis uncovered three common feelings:
+p31
+aVfirst, a greater appreciation for Earth's beauty;
+p32
+aVsecond, an increased sense of connection to all other living beings;
+p33
+aVand third, an unexpected, often overwhelming sense of emotion.
+p34
+aVThe researchers believe that seeing the Earth from a great distance
+p35
+aVprovokes someone to develop new cognitive frameworks
+p36
+aVto understand what they are seeing.
+p37
+aVThey believe these astronauts were forever changed
+p38
+aVby this new view,
+p39
+aVthis new perspective,
+p40
+aVthis new visual truth.
+p41
+aVThis feeling is commonly referred to as the "overview effect."
+p42
+aa(lp43
+VOnly 558 people have ever been to outer space.
+p44
+aV558 people had the opportunity
+p45
+aVto gaze down in awe,
+p46
+aVto wonder at our planet
+p47
+aVfloating in an infinite sea of darkness.
+p48
+aVBut what if that number were bigger?
+p49
+aa(lp50
+VThree years ago, I set off on my own mission:
+p51
+aVto see if I could bring this feeling of overwhelming scale and beauty
+p52
+aVto many more people
+p53
+aVjust by using one small computer
+p54
+aVin my small New York City apartment.
+p55
+aVIt was then, in 2013, that I launched "Daily Overview."
+p56
+aVEvery day, I have used satellite imagery
+p57
+aVto create one expansive overhead view of our planet.
+p58
+aVMore than 1,000 of these images have been created thus far,
+p59
+aVand more than 600,000 people
+p60
+aVtune in for this daily dose of perspectives.
+p61
+aVI create the imagery by curating photos from the massive archive
+p62
+aVof a satellite company called Digital Globe.
+p63
+aVThey operate a constellation of five satellites,
+p64
+aVeach roughly the size of an ambulance,
+p65
+aVthat is constantly taking pictures of the Earth
+p66
+aVas they orbit at 28,000 kilometers per hour.
+p67
+aa(lp68
+VNow, what does this mean?
+p69
+aVEach of these satellites is equipped with a camera
+p70
+aVthat has a focal length of 16 meters,
+p71
+aVso that's roughly 290 times greater
+p72
+aVthan a DSLR camera equipped with a standard 55 millimeter lens.
+p73
+aVSo if were able to attach one of their satellites
+p74
+aVto the roof of this theater in Oxford,
+p75
+aVwe could take a picture of a football,
+p76
+aVclearly, on the pitch at the stadium in Amsterdam.
+p77
+aVThat's 450 kilometers away.
+p78
+aVThat's incredibly powerful technology.
+p79
+aVAnd I decided at the beginning of this project
+p80
+aVthat I would use that incredible technology
+p81
+aVto focus on the places
+p82
+aVwhere humans have impacted the planet.
+p83
+aa(lp84
+VAs a species, we dig and scrape the Earth for resources,
+p85
+aVwe produce energy,
+p86
+aVwe raise animals and cultivate crops for food,
+p87
+aVwe build cities, we move around,
+p88
+aVwe create waste.
+p89
+aVAnd in the process of doing all of these things,
+p90
+aVwe shape landscapes and seascapes
+p91
+aVand cityscapes with increasing control and impunity.
+p92
+aVSo with that in mind,
+p93
+aVI would like to share a few of my overviews with you now.
+p94
+aa(lp95
+VHere we see cargo ships and oil tankers
+p96
+aVwaiting outside the entry to the port of Singapore.
+p97
+aVThis facility is the second-busiest in the world by terms of total tonnage,
+p98
+aVaccounting for one-fifth of the world's shipping containers
+p99
+aVand one half of the annual supply
+p100
+aVof crude oil.
+p101
+aa(lp102
+VIf you look closely at this overview, you'll see a lot of little specks.
+p103
+aVThose are actually cows at a feedlot
+p104
+aVin Summerfield, Texas, in the United States.
+p105
+aVSo once cows reach a particular weight,
+p106
+aVroughly 300 kilograms,
+p107
+aVthey are moved here and placed on a specialized diet.
+p108
+aVOver the next three to four months, the cows gain an additional 180 kilograms
+p109
+aVbefore they are shipped off to slaughter.
+p110
+aVYou're also probably wondering about this glowing pool at the top there.
+p111
+aVThat gets its color from a unique combination of manure, chemicals
+p112
+aVand a particular type of algae that grows in the stagnant water.
+p113
+aa(lp114
+VThis is the Mount Whaleback iron ore mine
+p115
+aVin the Pilbara region of Western Australia,
+p116
+aVa beautiful yet scary scar on the face of the Earth.
+p117
+aVOf the world's mined iron ore,
+p118
+aV98 percent is used to make steel
+p119
+aVand is therefore a major component in the construction of buildings,
+p120
+aVautomobiles or appliances such as your dishwasher or refrigerator.
+p121
+aa(lp122
+VThis is a solar concentrator in Seville, Spain.
+p123
+aVSo this facility contains 2,650 mirrors
+p124
+aVwhich are arrayed in concentric circles around an 140-meter-tall tower
+p125
+aVat its center.
+p126
+aVAt the top of the tower,
+p127
+aVthere is a capsule of molten salt
+p128
+aVthat gets heated by the beams of light reflected upwards
+p129
+aVfrom the mirrors below.
+p130
+aVFrom there, the salt circulates to a storage tank underground,
+p131
+aVwhere it produces steam,
+p132
+aVwhich spins turbines
+p133
+aVand generates enough electricity to power 70,000 homes
+p134
+aVand offsets 30,000 tons of carbon dioxide emissions every year.
+p135
+aa(lp136
+VThis overview shows deforestation in Santa Cruz, Bolivia
+p137
+aVimmediately adjacent to untouched tracts of rainforest.
+p138
+aVDeforestation in the country has primarily been driven
+p139
+aVby the expansion of mechanized agriculture
+p140
+aVand cattle ranching,
+p141
+aVso as the country tries to meet the demand of its growing population
+p142
+aVand feed them,
+p143
+aVthe sacrificial destruction of its rainforest
+p144
+aVhas taken place to do so.
+p145
+aVIt is estimated that the country lost 4.5 million acres of rainforest
+p146
+aVin one decade alone
+p147
+aVfrom 2000 until 2010.
+p148
+aa(lp149
+VThis is the Eixample district in Barcelona, Spain.
+p150
+aVSo the overview perspective can be incredibly helpful
+p151
+aVto help us understand how cities function
+p152
+aVand how we can devise smarter solutions for urban planning,
+p153
+aVand this will become only more relevant
+p154
+aVas it is expected that 4.9 billion people will live in cities around the world
+p155
+aVby the year 2030.
+p156
+aVThis area of Barcelona is characterized by its strict grid pattern,
+p157
+aVapartments with communal courtyards
+p158
+aVand these octagonal intersections
+p159
+aVwhich allow for more sunlight, better ventilation
+p160
+aVand additional parking at street level.
+p161
+aa(lp162
+VAnd here we see that grid pattern but under much different circumstances.
+p163
+aVThis is the Dadaab Refugee Camp in northern Kenya,
+p164
+aVthe largest such facility of its kind in the world.
+p165
+aVTo cope with the influx of refugees who are fleeing Somalia,
+p166
+aVwhere there is famine and conflict,
+p167
+aVthe UN has built this area gridded out at left
+p168
+aVcalled the LFO extension
+p169
+aVto house more and more refugees
+p170
+aVwho are arriving and occupying these white dots,
+p171
+aVwhich are actually tents
+p172
+aVwhich will slowly fill up the area over time.
+p173
+aa(lp174
+VSo if you have one of these overviews,
+p175
+aVyou have a moment in time.
+p176
+aVIf we have two overviews, however,
+p177
+aVwe are able to tell stories about changes in time.
+p178
+aVI call that feature of the project "Juxtapose,"
+p179
+aVand we'll share a few examples of it with you now.
+p180
+aa(lp181
+VSo the tulip fields in Netherlands bloom every year in April.
+p182
+aVSo we take an image captured in March a few weeks before
+p183
+aVand contrast it to one taken a few weeks later.
+p184
+aVWe're able to watch the flowers bloom in this magnificent cascade of color.
+p185
+aVIt is estimated that the Dutch produce 4.3 billion tulip bulbs every year.
+p186
+aa(lp187
+VIn 2015, two dams collapsed
+p188
+aVat an iron ore mine in southeastern Brazil,
+p189
+aVcausing one of the worst environmental disasters
+p190
+aVin the history of the country.
+p191
+aVIt is estimated that 62 million cubic meters of waste
+p192
+aVwere released when the dams broke,
+p193
+aVdestroying numerous villages in the process,
+p194
+aVincluding Bento Rodrigues, seen here before ...
+p195
+aVand after the flood.
+p196
+aVUltimately, 19 people were killed in this disaster.
+p197
+aVHalf a million people did not have access to clean drinking water
+p198
+aVfor an extended period of time,
+p199
+aVand the waste soon entered into the Doce River,
+p200
+aVextended for 650 kilometers
+p201
+aVall the way into the sea,
+p202
+aVkilling unknowable amounts of plant and animal life along the way.
+p203
+aa(lp204
+VAnd lastly, here is a story related to the crisis in Syria,
+p205
+aVa conflict which has claimed the lives of hundreds of thousands of people
+p206
+aVand displaced millions.
+p207
+aVSo this patch of desert is seen in Mafraq, Jordan in 2011,
+p208
+aVthe year the conflict started,
+p209
+aVand when we compare it to an image captured just this year in 2017,
+p210
+aVwe see the construction of the Zaatari refugee camp.
+p211
+aa(lp212
+VSo just as the astronauts of Apollo 8
+p213
+aVwatched the Earth rising above the lunar landscape for the first time,
+p214
+aVthere is no way that you could have imagined
+p215
+aVwhat the places I just showed you look like from outer space.
+p216
+aVAnd while you may enjoy the aesthetics of an image,
+p217
+aVonce you learn exactly what it is you're seeing,
+p218
+aVyou may struggle with the fact that you still like it.
+p219
+aVAnd that's the tension I want to create with my work,
+p220
+aVbecause I believe it is that contemplation,
+p221
+aVthat internal dialogue
+p222
+aVthat will lead to greater interest in our planet
+p223
+aVand more awareness of what we're doing to it.
+p224
+aa(lp225
+VI believe that viewing the Earth from the overview perspective
+p226
+aVis more important now than ever before.
+p227
+aVThrough the incredible technology of these high-flying cameras,
+p228
+aVwe can see, monitor and expose
+p229
+aVthe unprecedented impact that we are having.
+p230
+aVAnd whether we are scientists
+p231
+aVor engineers or policymakers
+p232
+aVor investors or artists,
+p233
+aVif we can adopt a more expansive perspective,
+p234
+aVembrace the truth of what is going on
+p235
+aVand contemplate the long-term health of our planet,
+p236
+aVwe will create a better
+p237
+aVand safer and smarter future
+p238
+aVfor our one and only home.
+p239
+aa(lp240
+VThank you.
+p241
+aa(lp242
+V(Applause)
+p243
+aasS'id'
+p244
+I2853
+sS'title'
+p245
+VWhat it feels like to see Earth from space
+p246
+s.

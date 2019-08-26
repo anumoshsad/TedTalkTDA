@@ -1,0 +1,1028 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VChris Anderson: This is such a strange thing.
+p4
+aVYour software, Linux, is in millions of computers,
+p5
+aVit probably powers much of the Internet.
+p6
+aVAnd I think that there are, like,
+p7
+aVa billion and a half active Android devices out there.
+p8
+aVYour software is in every single one of them.
+p9
+aVIt's kind of amazing.
+p10
+aVYou must have some amazing software headquarters driving all this.
+p11
+aVThat's what I thought \u2014 and I was shocked when I saw a picture of it.
+p12
+aVI mean, this is \u2014
+p13
+aVthis is the Linux world headquarters.
+p14
+aa(lp15
+V(Laughter)
+p16
+aa(lp17
+V(Applause)
+p18
+aa(lp19
+VLinus Torvalds: It really doesn't look like much.
+p20
+aVAnd I have to say,
+p21
+aVthe most interesting part in this picture,
+p22
+aVthat people mostly react to,
+p23
+aVis the walking desk.
+p24
+aVIt is the most interesting part in my office
+p25
+aVand I'm not actually using it anymore.
+p26
+aVAnd I think the two things are related.
+p27
+aa(lp28
+VThe way I work is ...
+p29
+aVI want to not have external stimulation.
+p30
+aVYou can kind of see, on the walls are this light green.
+p31
+aVI'm told that at mental institutions they use that on the walls.
+p32
+aa(lp33
+V(Laughter)
+p34
+aa(lp35
+VIt's like a calming color,
+p36
+aVit's not something that really stimulates you.
+p37
+aa(lp38
+VWhat you can't see is the computer here, you only see the screen,
+p39
+aVbut the main thing I worry about in my computer is \u2014
+p40
+aVit doesn't have to be big and powerful, although I like that \u2014
+p41
+aVit really has to be completely silent.
+p42
+aVI know people who work for Google
+p43
+aVand they have their own small data center at home,
+p44
+aVand I don't do that.
+p45
+aVMy office is the most boring office you'll ever see.
+p46
+aVAnd I sit there alone in the quiet.
+p47
+aVIf the cat comes up,
+p48
+aVit sits in my lap.
+p49
+aVAnd I want to hear the cat purring,
+p50
+aVnot the sound of the fans in the computer.
+p51
+aa(lp52
+VCA: So this is astonishing,
+p53
+aVbecause working this way,
+p54
+aVyou're able to run this vast technology empire \u2014
+p55
+aVit is an empire \u2014
+p56
+aVso that's an amazing testament to the power of open source.
+p57
+aa(lp58
+VTell us how you got to understand open source
+p59
+aVand how it lead to the development of Linux.
+p60
+aa(lp61
+VLT: I mean, I still work alone.
+p62
+aVReally \u2014 I work alone in my house,
+p63
+aVoften in my bathrobe.
+p64
+aVWhen a photographer shows up, I dress up,
+p65
+aVso I have clothes on.
+p66
+aa(lp67
+V(Laughter)
+p68
+aa(lp69
+VAnd that's how I've always worked.
+p70
+aVI mean, this was how I started Linux, too.
+p71
+aVI did not start Linux as a collaborative project.
+p72
+aVI started it as one in a series of many projects
+p73
+aVI had done at the time for myself,
+p74
+aVpartly because I needed the end result,
+p75
+aVbut even more because I just enjoyed programming.
+p76
+aVSo it was about the end of the journey,
+p77
+aVwhich, 25 years later, we still have not reached.
+p78
+aVBut it was really about the fact that I was looking for a project on my own
+p79
+aVand there was no open source, really, on my radar at all.
+p80
+aa(lp81
+VAnd what happened is ...
+p82
+aVthe project grows and becomes something you want to show off to people.
+p83
+aVReally, this is more of a, "Wow, look at what I did!"
+p84
+aVAnd trust me \u2014 it was not that great back then.
+p85
+aVI made it publicly available,
+p86
+aVand it wasn't even open source at that point.
+p87
+aVAt that point it was source that was open, but there was no intention
+p88
+aVbehind using the kind of open-source methodology that we think of today
+p89
+aVto improve it.
+p90
+aVIt was more like,
+p91
+aV"Look, I've been working on this for half a year,
+p92
+aVI'd love to have comments."
+p93
+aa(lp94
+VAnd other people approached me.
+p95
+aVAt the University of Helsinki,
+p96
+aVI had a friend who was one of the open source \u2014
+p97
+aVit was called mainly "free software" back then \u2014
+p98
+aVand he actually introduced me to the notion that, hey,
+p99
+aVyou can use these open-source licenses that had been around.
+p100
+aVAnd I thought about it for a while.
+p101
+aVI was actually worried about the whole commercial interests coming in.
+p102
+aVI mean, that's one of the worries I think most people who start out have,
+p103
+aVis that they worry about somebody taking advantage of their work, right?
+p104
+aVAnd I decided, "What the hell?"
+p105
+aVAnd \u2014
+p106
+aa(lp107
+VCA: And then at some point,
+p108
+aVsomeone contributed some code that you thought,
+p109
+aV"Wow, that really is interesting, I would not have thought of that.
+p110
+aVThis could actually improve this."
+p111
+aa(lp112
+VLT: It didn't even start by people contributing code,
+p113
+aVit was more that people started contributing ideas.
+p114
+aVAnd just the fact that somebody else takes a look at your project \u2014
+p115
+aVand I'm sure it's true of other things, too,
+p116
+aVbut it's definitely true in code \u2014
+p117
+aVis that somebody else takes an interest in your code,
+p118
+aVlooks at it enough to actually give you feedback
+p119
+aVand give you ideas.
+p120
+aVThat was a huge thing for me.
+p121
+aa(lp122
+VI was 21 at the time, so I was young,
+p123
+aVbut I had already programmed for half my life, basically.
+p124
+aVAnd every project before that had been completely personal
+p125
+aVand it was a revelation when people just started commenting,
+p126
+aVstarted giving feedback on your code.
+p127
+aVAnd even before they started giving code back,
+p128
+aVthat was, I think, one of the big moments where I said,
+p129
+aV"I love other people!"
+p130
+aVDon't get me wrong \u2014
+p131
+aVI'm actually not a people person.
+p132
+aa(lp133
+V(Laughter)
+p134
+aa(lp135
+VI don't really love other people \u2014
+p136
+aa(lp137
+V(Laughter)
+p138
+aa(lp139
+VBut I love computers,
+p140
+aVI love interacting with other people on email,
+p141
+aVbecause it kind of gives you that buffer.
+p142
+aVBut I do love other people who comment and get involved in my project.
+p143
+aVAnd it made it so much more.
+p144
+aa(lp145
+VCA: So was there a moment when you saw what was being built
+p146
+aVand it suddenly started taking off,
+p147
+aVand you thought, "Wait a sec, this actually could be something huge,
+p148
+aVnot just a personal project that I'm getting nice feedback on,
+p149
+aVbut a kind of explosive development in the whole technology world"?
+p150
+aa(lp151
+VLT: Not really.
+p152
+aVI mean, the big point for me, really, was not when it was becoming huge,
+p153
+aVit was when it was becoming little.
+p154
+aVThe big point for me was not being alone
+p155
+aVand having 10, maybe 100 people being involved \u2014
+p156
+aVthat was a big point.
+p157
+aVThen everything else was very gradual.
+p158
+aVGoing from 100 people to a million people is not a big deal \u2014 to me.
+p159
+aVWell, I mean, maybe it is if you're \u2014
+p160
+aa(lp161
+V(Laughter)
+p162
+aa(lp163
+VIf you want to sell your result then it's a huge deal \u2014
+p164
+aVdon't get me wrong.
+p165
+aVBut if you're interested in the technology
+p166
+aVand you're interested in the project,
+p167
+aVthe big part was getting the community.
+p168
+aVThen the community grew gradually.
+p169
+aVAnd there's actually not a single point where I went like,
+p170
+aV"Wow, that just took off!" because it \u2014
+p171
+aVI mean \u2014 it took a long time, relatively.
+p172
+aa(lp173
+VCA: So all the technologists that I talk to really credit you
+p174
+aVwith massively changing their work.
+p175
+aVAnd it's not just Linux,
+p176
+aVit's this thing called Git,
+p177
+aVwhich is this management system for software development.
+p178
+aVTell us briefly about that and your role in that.
+p179
+aa(lp180
+VLT: So one of the issues we had,
+p181
+aVand this took a while to start to appear,
+p182
+aVis when you ...
+p183
+aVWhen you grow from having 10 people or 100 people working on a project
+p184
+aVto having 10,000 people, which \u2014
+p185
+aVI mean, right now we're in the situation where just on the kernel,
+p186
+aVwe have 1,000 people involved in every single release
+p187
+aVand that's every two months, roughly two or three months.
+p188
+aVSome of those people don't do a lot.
+p189
+aVThere's a lot of people who make small, small changes.
+p190
+aa(lp191
+VBut to maintain this,
+p192
+aVthe scale changes how you have to maintain it.
+p193
+aVAnd we went through a lot of pain.
+p194
+aVAnd there are whole projects that do only source-code maintenance.
+p195
+aVCVS is the one that used to be the most commonly used,
+p196
+aVand I hated CVS with a passion and refused to touch it
+p197
+aVand tried something else that was radical and interesting
+p198
+aVand everybody else hated.
+p199
+aa(lp200
+VCA: (Laughs)
+p201
+aa(lp202
+VLT: And we were in this bad spot,
+p203
+aVwhere we had thousands of people who wanted to participate,
+p204
+aVbut in many ways, I was the kind of break point,
+p205
+aVwhere I could not scale to the point
+p206
+aVwhere I could work with thousands of people.
+p207
+aa(lp208
+VSo Git is my second big project,
+p209
+aVwhich was only created for me to maintain my first big project.
+p210
+aVAnd this is literally how I work.
+p211
+aVI don't code for \u2014
+p212
+aVwell, I do code for fun \u2014
+p213
+aVbut I want to code for something meaningful
+p214
+aVso every single project I've ever done has been something I needed
+p215
+aVand \u2014
+p216
+aa(lp217
+VCA: So really, both Linux and Git kind of arose
+p218
+aValmost as an unintended consequence
+p219
+aVof your desire not to have to work with too many people.
+p220
+aa(lp221
+VLT: Absolutely. Yes.
+p222
+aa(lp223
+V(Laughter)
+p224
+aa(lp225
+VCA: That's amazing. LT: Yeah.
+p226
+aa(lp227
+V(Applause)
+p228
+aa(lp229
+VAnd yet, you're the man who's transformed technology
+p230
+aVnot just once but twice,
+p231
+aVand we have to try and understand why it is.
+p232
+aVYou've given us some clues, but ...
+p233
+aVHere's a picture of you as a kid, with a Rubik's Cube.
+p234
+aVYou mentioned that you've been programming since you were like 10 or 11,
+p235
+aVhalf your life.
+p236
+aa(lp237
+VWere you this sort of computer genius, you know, übernerd,
+p238
+aVwere you the star at school who could do everything?
+p239
+aVWhat were you like as a kid?
+p240
+aa(lp241
+VLT: Yeah, I think I was the prototypical nerd.
+p242
+aVI mean, I was ...
+p243
+aVI was not a people person back then.
+p244
+aVThat's my younger brother.
+p245
+aVI was clearly more interested in the Rubik's Cube
+p246
+aVthan my younger brother.
+p247
+aa(lp248
+V(Laughter)
+p249
+aa(lp250
+VMy younger sister, who's not in the picture,
+p251
+aVwhen we had family meetings \u2014
+p252
+aVand it's not a huge family, but I have, like, a couple of cousins \u2014
+p253
+aVshe would prep me beforehand.
+p254
+aVLike, before I stepped into the room she would say,
+p255
+aV"OK. That's so-and-so ..."
+p256
+aVBecause I was not \u2014
+p257
+aVI was a geek.
+p258
+aVI was into computers,
+p259
+aVI was into math,
+p260
+aVI was into physics.
+p261
+aVI was good at that.
+p262
+aVI don't think I was particularly exceptional.
+p263
+aVApparently, my sister said
+p264
+aVthat my biggest exceptional quality was that I would not let go.
+p265
+aa(lp266
+VCA: OK, so let's go there, because that's interesting.
+p267
+aVYou would not let go.
+p268
+aVSo that's not about being a geek and being smart,
+p269
+aVthat's about being ... stubborn?
+p270
+aa(lp271
+VLT: That's about being stubborn.
+p272
+aVThat's about, like,
+p273
+aVjust starting something
+p274
+aVand not saying, "OK, I'm done, let's do something else \u2014
+p275
+aVLook: shiny!"
+p276
+aa(lp277
+VAnd I notice that in many other parts in my life, too.
+p278
+aVI lived in Silicon Valley for seven years.
+p279
+aVAnd I worked for the same company, in Silicon Valley,
+p280
+aVfor the whole time.
+p281
+aVThat is unheard of.
+p282
+aVThat's not how Silicon Valley works.
+p283
+aVThe whole point of Silicon Valley is that people jump between jobs
+p284
+aVto kind of mix up the pot.
+p285
+aVAnd that's not the kind of person I am.
+p286
+aa(lp287
+VCA: But during the actual development of Linux itself,
+p288
+aVthat stubbornness sometimes brought you in conflict with other people.
+p289
+aVTalk about that a bit.
+p290
+aVWas that essential to sort of maintain the quality of what was being built?
+p291
+aVHow would you describe what happened?
+p292
+aa(lp293
+VLT: I don't know if it's essential.
+p294
+aVGoing back to the "I'm not a people person," \u2014
+p295
+aVsometimes I'm also ...
+p296
+aVshall we say,
+p297
+aV"myopic" when it comes to other people's feelings,
+p298
+aVand that sometimes makes you say things that hurt other people.
+p299
+aVAnd I'm not proud of that.
+p300
+aa(lp301
+V(Applause)
+p302
+aa(lp303
+VBut, at the same time, it's \u2014
+p304
+aVI get people who tell me that I should be nice.
+p305
+aVAnd then when I try to explain to them that maybe you're nice,
+p306
+aVmaybe you should be more aggressive,
+p307
+aVthey see that as me being not nice.
+p308
+aa(lp309
+V(Laughter)
+p310
+aa(lp311
+VWhat I'm trying to say is we are different.
+p312
+aVI'm not a people person;
+p313
+aVit's not something I'm particularly proud of,
+p314
+aVbut it's part of me.
+p315
+aVAnd one of the things I really like about open source
+p316
+aVis it really allows different people to work together.
+p317
+aVWe don't have to like each other \u2014
+p318
+aVand sometimes we really don't like each other.
+p319
+aVReally \u2014 I mean, there are very, very heated arguments.
+p320
+aVBut you can, actually, you can find things that \u2014
+p321
+aVyou don't even agree to disagree,
+p322
+aVit's just that you're interested in really different things.
+p323
+aa(lp324
+VAnd coming back to the point where I said earlier
+p325
+aVthat I was afraid of commercial people taking advantage of your work,
+p326
+aVit turned out, and very quickly turned out,
+p327
+aVthat those commercial people were lovely, lovely people.
+p328
+aVAnd they did all the things that I was not at all interested in doing,
+p329
+aVand they had completely different goals.
+p330
+aVAnd they used open source in ways that I just did not want to go.
+p331
+aVBut because it was open source they could do it,
+p332
+aVand it actually works really beautifully together.
+p333
+aa(lp334
+VAnd I actually think it works the same way.
+p335
+aVYou need to have the people-people, the communicators,
+p336
+aVthe warm and friendly people
+p337
+aVwho like \u2014
+p338
+aa(lp339
+V(Laughter)
+p340
+aa(lp341
+Vreally want to hug you and get you into the community.
+p342
+aVBut that's not everybody.
+p343
+aVAnd that's not me.
+p344
+aVI care about the technology.
+p345
+aVThere are people who care about the UI.
+p346
+aVI can't do UI to save my life.
+p347
+aVI mean, if I was stranded on an island
+p348
+aVand the only way to get off that island was the make a pretty UI,
+p349
+aVI'd die there.
+p350
+aa(lp351
+V(Laughter)
+p352
+aa(lp353
+VSo there's different kinds of people,
+p354
+aVand I'm not making excuses, I'm trying to explain.
+p355
+aa(lp356
+VCA: Now, when we talked last week,
+p357
+aVyou talked about some other trait that you have,
+p358
+aVwhich I found really interesting.
+p359
+aVIt's this idea called taste.
+p360
+aa(lp361
+VAnd I've just got a couple of images here.
+p362
+aVI think this is an example of not particularly good taste in code,
+p363
+aVand this one is better taste,
+p364
+aVwhich one can immediately see.
+p365
+aVWhat is the difference between these two?
+p366
+aa(lp367
+VLT: So this is \u2014
+p368
+aVHow many people here actually have coded?
+p369
+aa(lp370
+VCA: Oh my goodness.
+p371
+aa(lp372
+VLT: So I guarantee you,
+p373
+aVeverybody who raised their hand,
+p374
+aVthey have done what's called a singly-linked list.
+p375
+aVAnd it's taught \u2014
+p376
+aVThis, the first not very good taste approach,
+p377
+aVis basically how it's taught to be done when you start out coding.
+p378
+aVAnd you don't have to understand the code.
+p379
+aa(lp380
+VThe most interesting part to me
+p381
+aVis the last if statement.
+p382
+aVBecause what happens in a singly-linked list \u2014
+p383
+aVthis is trying to remove an existing entry from a list \u2014
+p384
+aVand there's a difference between if it's the first entry
+p385
+aVor whether it's an entry in the middle.
+p386
+aVBecause if it's the first entry,
+p387
+aVyou have to change the pointer to the first entry.
+p388
+aVIf it's in the middle,
+p389
+aVyou have to change the pointer of a previous entry.
+p390
+aVSo they're two completely different cases.
+p391
+aa(lp392
+VCA: And that's better.
+p393
+aa(lp394
+VLT: And this is better.
+p395
+aVIt does not have the if statement.
+p396
+aVAnd it doesn't really matter \u2014
+p397
+aVI don't want you understand why it doesn't have the if statement,
+p398
+aVbut I want you to understand
+p399
+aVthat sometimes you can see a problem in a different way
+p400
+aVand rewrite it so that a special case goes away
+p401
+aVand becomes the normal case.
+p402
+aVAnd that's good code.
+p403
+aVBut this is simple code.
+p404
+aVThis is CS 101.
+p405
+aVThis is not important \u2014 although, details are important.
+p406
+aa(lp407
+VTo me, the sign of people I really want to work with
+p408
+aVis that they have good taste, which is how ...
+p409
+aVI sent you this stupid example
+p410
+aVthat is not relevant because it's too small.
+p411
+aVGood taste is much bigger than this.
+p412
+aVGood taste is about really seeing the big patterns
+p413
+aVand kind of instinctively knowing what's the right way to do things.
+p414
+aa(lp415
+VCA: OK, so we're putting the pieces together here now.
+p416
+aVYou have taste,
+p417
+aVin a way that's meaningful to software people.
+p418
+aVYou're \u2014
+p419
+aa(lp420
+V(Laughter)
+p421
+aa(lp422
+VLT: I think it was meaningful to some people here.
+p423
+aa(lp424
+VCA: You're a very smart computer coder,
+p425
+aVand you're hellish stubborn.
+p426
+aVBut there must be something else.
+p427
+aVI mean, you've changed the future.
+p428
+aVYou must have the ability of these grand visions of the future.
+p429
+aVYou're a visionary, right?
+p430
+aa(lp431
+VLT: I've actually felt slightly uncomfortable at TED
+p432
+aVfor the last two days,
+p433
+aVbecause there's a lot of vision going on, right?
+p434
+aVAnd I am not a visionary.
+p435
+aVI do not have a five-year plan.
+p436
+aVI'm an engineer.
+p437
+aVAnd I think it's really \u2014
+p438
+aVI mean \u2014 I'm perfectly happy with all the people
+p439
+aVwho are walking around and just staring at the clouds
+p440
+aVand looking at the stars and saying, "I want to go there."
+p441
+aVBut I'm looking at the ground,
+p442
+aVand I want to fix the pothole that's right in front of me
+p443
+aVbefore I fall in.
+p444
+aVThis is the kind of person I am.
+p445
+aa(lp446
+V(Cheers)
+p447
+aa(lp448
+V(Applause)
+p449
+aa(lp450
+VCA: So you spoke to me last week about these two guys.
+p451
+aVWho are they and how do you relate to them?
+p452
+aa(lp453
+VLT: Well, so this is kind of cliché in technology,
+p454
+aVthe whole Tesla versus Edison,
+p455
+aVwhere Tesla is seen as the visionary scientist and crazy idea man.
+p456
+aVAnd people love Tesla.
+p457
+aVI mean, there are people who name their companies after him.
+p458
+aa(lp459
+V(Laughter)
+p460
+aa(lp461
+VThe other person there is Edison,
+p462
+aVwho is actually often vilified for being kind of pedestrian
+p463
+aVand is \u2014
+p464
+aVI mean, his most famous quote is,
+p465
+aV"Genius is one percent inspiration and 99 percent perspiration."
+p466
+aVAnd I'm in the Edison camp,
+p467
+aVeven if people don't always like him.
+p468
+aVBecause if you actually compare the two,
+p469
+aVTesla has kind of this mind grab these days,
+p470
+aVbut who actually changed the world?
+p471
+aVEdison may not have been a nice person,
+p472
+aVhe did a lot of things \u2014
+p473
+aVhe was maybe not so intellectual,
+p474
+aVnot so visionary.
+p475
+aVBut I think I'm more of an Edison than a Tesla.
+p476
+aa(lp477
+VCA: So our theme at TED this week is dreams \u2014
+p478
+aVbig, bold, audacious dreams.
+p479
+aVYou're really the antidote to that.
+p480
+aa(lp481
+VLT: I'm trying to dial it down a bit, yes.
+p482
+aa(lp483
+VCA: That's good.
+p484
+aa(lp485
+V(Laughter)
+p486
+aVWe embrace you, we embrace you.
+p487
+aa(lp488
+VCompanies like Google and many others have made, arguably,
+p489
+aVlike, billions of dollars out of your software.
+p490
+aVDoes that piss you off?
+p491
+aa(lp492
+VLT: No.
+p493
+aVNo, it doesn't piss me off for several reasons.
+p494
+aVAnd one of them is, I'm doing fine.
+p495
+aVI'm really doing fine.
+p496
+aa(lp497
+VBut the other reason is \u2014
+p498
+aVI mean, without doing the whole open source and really letting go thing,
+p499
+aVLinux would never have been what it is.
+p500
+aVAnd it's brought experiences I don't really enjoy, public talking,
+p501
+aVbut at the same time, this is an experience.
+p502
+aVTrust me.
+p503
+aVSo there's a lot of things going on that make me a very happy man
+p504
+aVand thinking I did the right choices.
+p505
+aa(lp506
+VCA: Is the open source idea \u2014
+p507
+aVthis is, I think we'll end here \u2014
+p508
+aVis the open source idea fully realized now in the world,
+p509
+aVor is there more that it could go,
+p510
+aVare there more things that it could do?
+p511
+aa(lp512
+VLT: So, I'm of two minds there.
+p513
+aVI think one reason open source works so well in code
+p514
+aVis that at the end of the day,
+p515
+aVcode tends to be somewhat black and white.
+p516
+aVThere's often a fairly good way to decide,
+p517
+aVthis is done correctly and this is not done well.
+p518
+aVCode either works or it doesn't,
+p519
+aVwhich means that there's less room for arguments.
+p520
+aVAnd we have arguments despite this, right?
+p521
+aVIn many other areas \u2014
+p522
+aVI mean, people have talked about open politics and things like that \u2014
+p523
+aVand it's really hard sometimes to say
+p524
+aVthat, yes, you can apply the same principles in some other areas
+p525
+aVjust because the black and white turns into not just gray,
+p526
+aVbut different colors.
+p527
+aa(lp528
+VSo, obviously open source in science is making a comeback.
+p529
+aVScience was there first.
+p530
+aVBut then science ended up being pretty closed,
+p531
+aVwith very expensive journals and some of that going on.
+p532
+aVAnd open source is making a comeback in science,
+p533
+aVwith things like arXiv and open journals.
+p534
+aVWikipedia changed the world, too.
+p535
+aVSo there are other examples,
+p536
+aVI'm sure there are more to come.
+p537
+aa(lp538
+VCA: But you're not a visionary,
+p539
+aVand so it's not up to you to name them.
+p540
+aa(lp541
+VLT: No.
+p542
+aa(lp543
+V(Laughter)
+p544
+aa(lp545
+VIt's up to you guys to make them, right?
+p546
+aa(lp547
+VCA: Exactly.
+p548
+aa(lp549
+VLinus Torvalds,
+p550
+aVthank you for Linux, thank you for the Internet,
+p551
+aVthank you for all those Android phones.
+p552
+aa(lp553
+VThank you for coming here to TED and revealing so much of yourself.
+p554
+aa(lp555
+VLT: Thank you.
+p556
+aa(lp557
+V(Applause)
+p558
+aasS'id'
+p559
+I2464
+sS'title'
+p560
+VThe mind behind Linux
+p561
+s.

@@ -1,0 +1,889 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIs E.T. out there?
+p4
+aVWell, I work at the SETI Institute.
+p5
+aVThat's almost my name. SETI:
+p6
+aVSearch for Extraterrestrial Intelligence.
+p7
+aVIn other words, I look for aliens,
+p8
+aVand when I tell people that at a cocktail party, they usually
+p9
+aVlook at me with a mildly incredulous look on their face.
+p10
+aVI try to keep my own face somewhat dispassionate.
+p11
+aa(lp12
+VNow, a lot of people think that this is kind of idealistic,
+p13
+aVridiculous, maybe even hopeless,
+p14
+aVbut I just want to talk to you a little bit about why I think
+p15
+aVthat the job I have is actually a privilege, okay,
+p16
+aVand give you a little bit of the motivation for my getting into
+p17
+aVthis line of work, if that's what you call it.
+p18
+aVThis thing \u2014 whoops, can we go back?
+p19
+aVHello, come in, Earth.
+p20
+aVThere we go. All right.
+p21
+aa(lp22
+VThis is the Owens Valley Radio Observatory
+p23
+aVbehind the Sierra Nevadas, and in 1968,
+p24
+aVI was working there collecting data for my thesis.
+p25
+aVNow, it's kinda lonely, it's kinda tedious, just collecting data,
+p26
+aVso I would amuse myself by taking photos at night
+p27
+aVof the telescopes or even of myself,
+p28
+aVbecause, you know, at night, I would be the only hominid
+p29
+aVwithin about 30 miles.
+p30
+aVSo here are pictures of myself.
+p31
+aVThe observatory had just acquired a new book,
+p32
+aVwritten by a Russian cosmologist
+p33
+aVby the name of Joseph Shklovsky, and then expanded
+p34
+aVand translated and edited by a little-known
+p35
+aVCornell astronomer by the name of Carl Sagan.
+p36
+aa(lp37
+VAnd I remember reading that book,
+p38
+aVand at 3 in the morning I was reading this book
+p39
+aVand it was explaining how the antennas I was using
+p40
+aVto measure the spins of galaxies could also be used
+p41
+aVto communicate, to send bits of information
+p42
+aVfrom one star system to another.
+p43
+aVNow, at 3 o'clock in the morning when you're all alone,
+p44
+aVhaven't had much sleep, that was a very romantic idea,
+p45
+aVbut it was that idea \u2014 the fact that you could in fact
+p46
+aVprove that there's somebody out there
+p47
+aVjust using this same technology \u2014
+p48
+aVthat appealed to me so much that 20 years later I took a job
+p49
+aVat the SETI Institute. Now, I have to say
+p50
+aVthat my memory is notoriously porous, and I've often
+p51
+aVwondered whether there was any truth in this story,
+p52
+aVor I was just, you know, misremembering something,
+p53
+aVbut I recently just blew up this old negative of mine,
+p54
+aVand sure enough, there you can see
+p55
+aVthe Shklovsky and Sagan book underneath that
+p56
+aVanalog calculating device.
+p57
+aVSo it was true.
+p58
+aa(lp59
+VAll right. Now, the idea for doing this, it wasn't very old
+p60
+aVat the time that I made that photo.
+p61
+aVThe idea dates from 1960, when a young astronomer
+p62
+aVby the name of Frank Drake used this antenna
+p63
+aVin West Virginia, pointed it at a couple of nearby stars
+p64
+aVin the hopes of eavesdropping on E.T.
+p65
+aVNow, Frank didn't hear anything.
+p66
+aVActually he did, but it turned out to be the U.S. Air Force,
+p67
+aVwhich doesn't count as extraterrestrial intelligence.
+p68
+aVBut Drake's idea here became very popular
+p69
+aVbecause it was very appealing \u2014 and I'll get back to that \u2014
+p70
+aVand on the basis of this experiment, which didn't succeed,
+p71
+aVwe have been doing SETI ever since,
+p72
+aVnot continuously, but ever since.
+p73
+aa(lp74
+VWe still haven't heard anything.
+p75
+aVWe still haven't heard anything.
+p76
+aVIn fact, we don't know about any life beyond Earth,
+p77
+aVbut I'm going to suggest to you that that's going to change
+p78
+aVrather soon, and part of the reason, in fact,
+p79
+aVthe majority of the reason why I think that's going to change
+p80
+aVis that the equipment's getting better.
+p81
+aVThis is the Allen Telescope Array, about 350 miles
+p82
+aVfrom whatever seat you're in right now.
+p83
+aVThis is something that we're using today
+p84
+aVto search for E.T., and the electronics have gotten
+p85
+aVvery much better too.
+p86
+aVThis is Frank Drake's electronics in 1960.
+p87
+aVThis is the Allen Telescope Array electronics today.
+p88
+aVSome pundit with too much time on his hands
+p89
+aVhas reckoned that the new experiments are approximately
+p90
+aV100 trillion times better than they were in 1960,
+p91
+aV100 trillion times better.
+p92
+aVThat's a degree of an improvement that would look good
+p93
+aVon your report card, okay?
+p94
+aVBut something that's not appreciated by the public is,
+p95
+aVin fact, that the experiment continues to get better,
+p96
+aVand, consequently, tends to get faster.
+p97
+aVThis is a little plot, and every time you show a plot,
+p98
+aVyou lose 10 percent of the audience.
+p99
+aVI have 12 of these. (Laughter)
+p100
+aVBut what I plotted here is just some metric
+p101
+aVthat shows how fast we're searching.
+p102
+aVIn other words, we're looking for a needle in a haystack.
+p103
+aVWe know how big the haystack is. It's the galaxy.
+p104
+aVBut we're going through the haystack no longer
+p105
+aVwith a teaspoon but with a skip loader,
+p106
+aVbecause of this increase in speed.
+p107
+aVIn fact, those of you who are still conscious
+p108
+aVand mathematically competent,
+p109
+aVwill note that this is a semi-log plot.
+p110
+aVIn other words, the rate of increase is exponential.
+p111
+aVIt's exponentially improving. Now, exponential is an
+p112
+aVoverworked word. You hear it on the media all the time.
+p113
+aVThey don't really know what exponential means,
+p114
+aVbut this is exponential.
+p115
+aVIn fact, it's doubling every 18 months, and, of course,
+p116
+aVevery card-carrying member of the digerati knows
+p117
+aVthat that's Moore's Law.
+p118
+aa(lp119
+VSo this means that over the course of the next
+p120
+aVtwo dozen years, we'll be able to look at a million star systems,
+p121
+aVa million star systems, looking for signals
+p122
+aVthat would prove somebody's out there.
+p123
+aVWell, a million star systems, is that interesting?
+p124
+aVI mean, how many of those star systems have planets?
+p125
+aVAnd the facts are, we didn't know the answer to that
+p126
+aVeven as recently as 15 years ago, and in fact, we really
+p127
+aVdidn't know it even as recently as six months ago.
+p128
+aVBut now we do. Recent results suggest
+p129
+aVthat virtually every star has planets, and more than one.
+p130
+aVThey're like, you know, kittens. You get a litter.
+p131
+aVYou don't get one kitten. You get a bunch.
+p132
+aVSo in fact, this is a pretty accurate estimate
+p133
+aVof the number of planets in our galaxy,
+p134
+aVjust in our galaxy, by the way,
+p135
+aVand I remind the non-astronomy majors among you
+p136
+aVthat our galaxy is only one of 100 billion
+p137
+aVthat we can see with our telescopes.
+p138
+aa(lp139
+VThat's a lot of real estate, but of course,
+p140
+aVmost of these planets are going to be kind of worthless,
+p141
+aVlike, you know, Mercury, or Neptune.
+p142
+aVNeptune's probably not very big in your life.
+p143
+aVSo the question is, what fraction of these planets
+p144
+aVare actually suitable for life?
+p145
+aVWe don't know the answer to that either,
+p146
+aVbut we will learn that answer this year, thanks to
+p147
+aVNASA's Kepler Space Telescope,
+p148
+aVand in fact, the smart money, which is to say the people who work on this project,
+p149
+aVthe smart money is suggesting that the fraction of planets
+p150
+aVthat might be suitable for life is maybe one in a thousand,
+p151
+aVone in a hundred, something like that.
+p152
+aVWell, even taking the pessimistic estimate, that it's
+p153
+aVone in a thousand, that means that there are
+p154
+aVat least a billion cousins of the Earth
+p155
+aVjust in our own galaxy.
+p156
+aVOkay, now I've given you a lot of numbers here,
+p157
+aVbut they're mostly big numbers, okay, so, you know,
+p158
+aVkeep that in mind. There's plenty of real estate,
+p159
+aVplenty of real estate in the universe,
+p160
+aVand if we're the only bit of real estate in which there's
+p161
+aVsome interesting occupants, that makes you a miracle,
+p162
+aVand I know you like to think you're a miracle,
+p163
+aVbut if you do science, you learn rather quickly that
+p164
+aVevery time you think you're a miracle, you're wrong,
+p165
+aVso probably not the case.
+p166
+aa(lp167
+VAll right, so the bottom line is this:
+p168
+aVBecause of the increase in speed, and because of the
+p169
+aVvast amount of habitable real estate in the cosmos, I figure
+p170
+aVwe're going to pick up a signal within two dozen years.
+p171
+aVAnd I feel strongly enough about that to make a bet with you:
+p172
+aVEither we're going to find E.T. in the next two dozen years,
+p173
+aVor I'll buy you a cup of coffee.
+p174
+aVSo that's not so bad. I mean, even with two dozen years,
+p175
+aVyou open up your browser and there's news of a signal,
+p176
+aVor you get a cup of coffee.
+p177
+aVNow, let me tell you about some aspect of this that
+p178
+aVpeople don't think about, and that is,
+p179
+aVwhat happens? Suppose that what I say is true.
+p180
+aVI mean, who knows, but suppose it happens.
+p181
+aVSuppose some time in the next two dozen years
+p182
+aVwe pick up a faint line that tells us
+p183
+aVwe have some cosmic company.
+p184
+aVWhat is the effect? What's the consequence?
+p185
+aVNow, I might be at ground zero for this.
+p186
+aa(lp187
+VI happen to know what the consequence for me would be,
+p188
+aVbecause we've had false alarms. This is 1997,
+p189
+aVand this is a photo I made at about 3 o'clock in the morning
+p190
+aVin Mountain View here, when we were watching
+p191
+aVthe computer monitors because we had picked up a signal
+p192
+aVthat we thought, "This is the real deal." All right?
+p193
+aVAnd I kept waiting for the Men in Black to show up. Right?
+p194
+aVI kept waiting for \u2014 I kept waiting for my mom to call,
+p195
+aVsomebody to call, the government to call. Nobody called.
+p196
+aVNobody called. I was so nervous
+p197
+aVthat I couldn't sit down. I just wandered around
+p198
+aVtaking photos like this one, just for something to do.
+p199
+aVWell, at 9:30 in the morning, with my head down
+p200
+aVon my desk because I obviously hadn't slept all night,
+p201
+aVthe phone rings and it's The New York Times.
+p202
+aVAnd I think there's a lesson in that, and that lesson is
+p203
+aVthat if we pick up a signal, the media, the media will be on it
+p204
+aVfaster than a weasel on ball bearings. It's going to be fast.
+p205
+aVYou can be sure of that. No secrecy.
+p206
+aVThat's what happens to me. It kind of ruins my whole week,
+p207
+aVbecause whatever I've got planned that week is kind of out the window.
+p208
+aa(lp209
+VBut what about you? What's it going to do to you?
+p210
+aVAnd the answer is that we don't know the answer.
+p211
+aVWe don't know what that's going to do to you,
+p212
+aVnot in the long term, and not even very much in the short term.
+p213
+aVI mean, that would be a bit like
+p214
+aVasking Chris Columbus in 1491, "Hey Chris,
+p215
+aVyou know, what happens if it turns out that there's a
+p216
+aVcontinent between here and Japan, where you're sailing to,
+p217
+aVwhat will be the consequences for humanity
+p218
+aVif that turns out to be the case?"
+p219
+aVAnd I think Chris would probably offer you some answer
+p220
+aVthat you might not have understood, but it probably
+p221
+aVwouldn't have been right, and I think that to predict
+p222
+aVwhat finding E.T.'s going to mean,
+p223
+aVwe can't predict that either.
+p224
+aVBut here are a couple things I can say.
+p225
+aVTo begin with, it's going to be a society that's way in advance of our own.
+p226
+aVYou're not going to hear from alien Neanderthals.
+p227
+aVThey're not building transmitters.
+p228
+aVThey're going to be ahead of us, maybe by a few thousand
+p229
+aVyears, maybe by a few millions years, but substantially
+p230
+aVahead of us, and that means, if you can understand
+p231
+aVanything that they're going to say, then you might be able
+p232
+aVto short-circuit history by getting information from a society
+p233
+aVthat's way beyond our own.
+p234
+aVNow, you might find that a bit hyperbolic, and maybe it is,
+p235
+aVbut nonetheless, it's conceivable that this will happen,
+p236
+aVand, you know, you could consider this like, I don't know,
+p237
+aVgiving Julius Caesar English lessons and the key
+p238
+aVto the library of Congress.
+p239
+aVIt would change his day, all right?
+p240
+aa(lp241
+VThat's one thing. Another thing that's for sure
+p242
+aVgoing to happen is that it will calibrate us.
+p243
+aVWe will know that we're not that miracle, right,
+p244
+aVthat we're just another duck in a row,
+p245
+aVwe're not the only kids on the block, and I think that that's
+p246
+aVphilosophically a very profound thing to learn.
+p247
+aVWe're not a miracle, okay?
+p248
+aa(lp249
+VThe third thing that it might tell you is somewhat vague,
+p250
+aVbut I think interesting and important,
+p251
+aVand that is, if you find a signal coming from a more
+p252
+aVadvanced society, because they will be,
+p253
+aVthat will tell you something about our own possibilities,
+p254
+aVthat we're not inevitably doomed to self-destruction.
+p255
+aVBecause they survived their technology,
+p256
+aVwe could do it too.
+p257
+aVNormally when you look out into the universe,
+p258
+aVyou're looking back in time. All right?
+p259
+aVThat's interesting to cosmologists.
+p260
+aVBut in this sense, you actually can look into the future,
+p261
+aVhazily, but you can look into the future.
+p262
+aVSo those are all the sorts of things that would come from a detection.
+p263
+aa(lp264
+VNow, let me talk a little bit about something that happens
+p265
+aVeven in the meantime, and that is,
+p266
+aVSETI, I think, is important, because it's exploration, and
+p267
+aVit's not only exploration, it's comprehensible exploration.
+p268
+aVNow, I gotta tell you, I'm always reading books about
+p269
+aVexplorers. I find exploration very interesting,
+p270
+aVArctic exploration, you know, people like Magellan,
+p271
+aVAmundsen, Shackleton, you see Franklin down there,
+p272
+aVScott, all these guys. It's really nifty, exploration.
+p273
+aVAnd they're just doing it because they want to explore,
+p274
+aVand you might say, "Oh, that's kind of a frivolous opportunity,"
+p275
+aVbut that's not frivolous. That's not a frivolous activity,
+p276
+aVbecause, I mean, think of ants.
+p277
+aVYou know, most ants are programmed to follow one another
+p278
+aValong in a long line, but there are a couple of ants,
+p279
+aVmaybe one percent of those ants, that are what they call
+p280
+aVpioneer ants, and they're the ones that wander off.
+p281
+aVThey're the ones you find on the kitchen countertop.
+p282
+aVYou gotta get them with your thumb before they
+p283
+aVfind the sugar or something.
+p284
+aVBut those ants, even though most of them get wiped out,
+p285
+aVthose ants are the ones that are essential to the survival
+p286
+aVof the hive. So exploration is important.
+p287
+aa(lp288
+VI also think that exploration is important in terms of
+p289
+aVbeing able to address what I think is a critical
+p290
+aVlack in our society, and that is the lack of science literacy,
+p291
+aVthe lack of the ability to even understand science.
+p292
+aVNow, look, a lot has been written about the
+p293
+aVdeplorable state of science literacy in this country.
+p294
+aVYou've heard about it.
+p295
+aVWell, here's one example, in fact.
+p296
+aVPolls taken, this poll was taken 10 years ago.
+p297
+aVIt shows like roughly one third of the public thinks
+p298
+aVthat aliens are not only out there, we're looking for them
+p299
+aVout there, but they're here, right?
+p300
+aVSailing the skies in their saucers and occasionally
+p301
+aVabducting people for experiments their parents wouldn't approve of.
+p302
+aVWell, that would be interesting if it was true,
+p303
+aVand job security for me, but I don't think the evidence is
+p304
+aVvery good. That's more, you know, sad than significant.
+p305
+aa(lp306
+VBut there are other things that people believe
+p307
+aVthat are significant, like the efficacy of homeopathy,
+p308
+aVor that evolution is just, you know, sort of a crazy idea
+p309
+aVby scientists without any legs, or, you know, evolution,
+p310
+aVall that sort of thing, or global warming.
+p311
+aVThese sorts of ideas don't really have any validity,
+p312
+aVthat you can't trust the scientists.
+p313
+aa(lp314
+VNow, we've got to solve that problem, because that's
+p315
+aVa critically important problem, and you might say,
+p316
+aV"Well, okay, how are we gonna solve that problem with SETI?"
+p317
+aVWell, let me suggest to you that SETI obviously can't
+p318
+aVsolve the problem, but it can address the problem.
+p319
+aVIt can address the problem by getting young people
+p320
+aVinterested in science. Look, science is hard, it
+p321
+aVhas a reputation of being hard, and the facts are, it is hard,
+p322
+aVand that's the result of 400 years of science, right?
+p323
+aVI mean, in the 18th century, in the 18th century
+p324
+aVyou could become an expert on any field of science
+p325
+aVin an afternoon by going to a library,
+p326
+aVif you could find the library, right?
+p327
+aVIn the 19th century, if you had a basement lab,
+p328
+aVyou could make major scientific discoveries
+p329
+aVin your own home. Right? Because there was all this
+p330
+aVscience just lying around waiting for somebody to pick it up.
+p331
+aVNow, that's not true anymore.
+p332
+aVToday, you've got to spend years in grad school
+p333
+aVand post-doc positions just to figure out what
+p334
+aVthe important questions are.
+p335
+aVIt's hard. There's no doubt about it.
+p336
+aa(lp337
+VAnd in fact, here's an example: the Higgs boson,
+p338
+aVfinding the Higgs boson.
+p339
+aVAsk the next 10 people you see on the streets,
+p340
+aV"Hey, do you think it's worthwhile to spend billions
+p341
+aVof Swiss francs looking for the Higgs boson?"
+p342
+aVAnd I bet the answer you're going to get, is,
+p343
+aV"Well, I don't know what the Higgs boson is,
+p344
+aVand I don't know if it's important."
+p345
+aVAnd probably most of the people wouldn't even know
+p346
+aVthe value of a Swiss franc, okay?
+p347
+aVAnd yet we're spending billions of Swiss francs on this problem.
+p348
+aVOkay? So that doesn't get people interested in science
+p349
+aVbecause they can't comprehend what it's about.
+p350
+aVSETI, on the other hand, is really simple.
+p351
+aVWe're going to use these big antennas and we're going to
+p352
+aVtry to eavesdrop on signals. Everybody can understand that.
+p353
+aVYes, technologically, it's very sophisticated,
+p354
+aVbut everybody gets the idea.
+p355
+aa(lp356
+VSo that's one thing. The other thing is, it's exciting science.
+p357
+aVIt's exciting because we're naturally interested
+p358
+aVin other intelligent beings, and I think that's
+p359
+aVpart of our hardwiring.
+p360
+aVI mean, we're hardwired to be interested
+p361
+aVin beings that might be, if you will, competitors,
+p362
+aVor if you're the romantic sort, possibly even mates. Okay?
+p363
+aVI mean, this is analogous to our interest in things that
+p364
+aVhave big teeth. Right?
+p365
+aVWe're interested in things that have big teeth, and you
+p366
+aVcan see the evolutionary value of that, and you can also see
+p367
+aVthe practical consequences by watching Animal Planet.
+p368
+aVYou notice they make very few programs about gerbils.
+p369
+aVIt's mostly about things that have big teeth.
+p370
+aVOkay, so we're interested in these sorts of things.
+p371
+aVAnd not just us. It's also kids.
+p372
+aVThis allows you to pay it forward by using this subject as a
+p373
+aVhook to science, because SETI involves all kinds of science,
+p374
+aVobviously biology, obviously astronomy,
+p375
+aVbut also geology, also chemistry, various scientific
+p376
+aVdisciplines all can be presented in the guise of,
+p377
+aV"We're looking for E.T."
+p378
+aVSo to me this is interesting and important, and in fact,
+p379
+aVit's my policy, even though I give a lot of talks to adults,
+p380
+aVyou give talks to adults, and two days later they're back where they were.
+p381
+aVBut if you give talks to kids, you know,
+p382
+aVone in 50 of them, some light bulb goes off, and they think,
+p383
+aV"Gee, I'd never thought of that," and then they go,
+p384
+aVyou know, read a book or a magazine or whatever.
+p385
+aVThey get interested in something.
+p386
+aa(lp387
+VNow it's my theory, supported only by anecdotal,
+p388
+aVpersonal anecdotal evidence, but nonetheless,
+p389
+aVthat kids get interested in something between the ages
+p390
+aVof eight and 11. You've got to get them there.
+p391
+aVSo, all right, I give talks to adults, that's fine, but I try
+p392
+aVand make 10 percent of the talks that I give,
+p393
+aVI try and make those for kids.
+p394
+aVI remember when a guy came to our high school, actually,
+p395
+aVit was actually my junior high school. I was in sixth grade.
+p396
+aVAnd he gave some talk. All I remember from it
+p397
+aVwas one word: electronics.
+p398
+aVIt was like Dustin Hoffman in "The Graduate," right,
+p399
+aVwhen he said "plastics," whatever that means, plastics.
+p400
+aVAll right, so the guy said electronics. I don't remember
+p401
+aVanything else. In fact, I don't remember anything
+p402
+aVthat my sixth grade teacher said all year,
+p403
+aVbut I remember electronics.
+p404
+aVAnd so I got interested in electronics, and you know,
+p405
+aVI studied to get my ham license. I was wiring up stuff.
+p406
+aVHere I am at about 15 or something, doing that sort of stuff.
+p407
+aVOkay? That had a big effect on me.
+p408
+aVSo that's my point, that you can have a big effect
+p409
+aVon these kids.
+p410
+aa(lp411
+VIn fact, this reminds me, I don't know, a couple years ago
+p412
+aVI gave a talk at a school in Palo Alto
+p413
+aVwhere there were about a dozen 11-year-olds
+p414
+aVthat had come to this talk.
+p415
+aVI had been brought in to talk to these kids for an hour.
+p416
+aVEleven-year-olds, they're all sitting in a little semi-circle
+p417
+aVlooking up at me with big eyes, and I started,
+p418
+aVthere was a white board behind me, and I started off
+p419
+aVby writing a one with 22 zeroes after it, and I said,
+p420
+aV"All right, now look, this is the number of stars
+p421
+aVin the visible universe, and this number is so big
+p422
+aVthere's not even a name for it."
+p423
+aVAnd one of these kids shot up his hand, and he said,
+p424
+aV"Well, actually there is a name for it.
+p425
+aVIt's a sextra-quadra-hexa-something or other." Right?
+p426
+aVNow, that kid was wrong by four orders of magnitude,
+p427
+aVbut there was no doubt about it, these kids were smart.
+p428
+aVOkay? So I stopped giving the lecture.
+p429
+aVAll they wanted to do was ask questions.
+p430
+aVIn fact, my last comments to these kids, at the end I said,
+p431
+aV"You know, you kids are smarter
+p432
+aVthan the people I work with." Now \u2014 (Laughter)
+p433
+aVThey didn't even care about that.
+p434
+aVWhat they wanted was my email address
+p435
+aVso they could ask me more questions. (Laughter)
+p436
+aa(lp437
+VLet me just say, look, my job is a privilege
+p438
+aVbecause we're in a special time.
+p439
+aVPrevious generations couldn't do this experiment at all.
+p440
+aVIn another generation down the line,
+p441
+aVI think we will have succeeded.
+p442
+aVSo to me, it is a privilege, and when I look in the mirror,
+p443
+aVthe facts are that I really don't see myself.
+p444
+aVWhat I see is the generation behind me.
+p445
+aVThese are some kids from the Huff School, fourth graders.
+p446
+aVI talked there, what, two weeks ago, something like that.
+p447
+aa(lp448
+VI think that if you can instill some interest in science
+p449
+aVand how it works, well, that's a payoff
+p450
+aVbeyond easy measure. Thank you very much.
+p451
+aV(Applause)
+p452
+aasS'id'
+p453
+I1465
+sS'title'
+p454
+VET is (probably) out there -- get ready
+p455
+s.

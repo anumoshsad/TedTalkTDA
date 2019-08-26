@@ -1,0 +1,672 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VThe story starts in Kenya
+p4
+aVin December of 2007,
+p5
+aVwhen there was a disputed presidential election,
+p6
+aVand in the immediate aftermath of that election,
+p7
+aVthere was an outbreak of ethnic violence.
+p8
+aVAnd there was a lawyer in Nairobi, Ory Okolloh \u2014
+p9
+aVwho some of you may know from her TEDTalk \u2014
+p10
+aVwho began blogging about it on her site,
+p11
+aVKenyan Pundit.
+p12
+aVAnd shortly after the election and the outbreak of violence,
+p13
+aVthe government suddenly imposed
+p14
+aVa significant media blackout.
+p15
+aVAnd so weblogs went from being
+p16
+aVcommentary as part of the media landscape
+p17
+aVto being a critical part of the media landscape
+p18
+aVin trying to understand where the violence was.
+p19
+aVAnd Okolloh solicited
+p20
+aVfrom her commenters
+p21
+aVmore information about what was going on.
+p22
+aVThe comments began pouring in,
+p23
+aVand Okolloh would collate them. She would post them.
+p24
+aVAnd she quickly said, "It's too much.
+p25
+aVI could do this all day every day
+p26
+aVand I can't keep up.
+p27
+aVThere is more information
+p28
+aVabout what's going on in Kenya right now
+p29
+aVthan any one person can manage.
+p30
+aVIf only there was a way to automate this."
+p31
+aa(lp32
+VAnd two programmers who read her blog
+p33
+aVheld their hands up and said, "We could do that,"
+p34
+aVand in 72 hours, they launched Ushahidi.
+p35
+aVUshahidi \u2014 the name means "witness"
+p36
+aVor "testimony" in Swahili \u2014
+p37
+aVis a very simple way of taking reports from the field,
+p38
+aVwhether it's from the web or, critically,
+p39
+aVvia mobile phones and SMS,
+p40
+aVaggregating it and putting it on a map.
+p41
+aVThat's all it is, but that's all that's needed
+p42
+aVbecause what it does is it takes the tacit information
+p43
+aVavailable to the whole population \u2014
+p44
+aVeverybody knows where the violence is,
+p45
+aVbut no one person knows what everyone knows \u2014
+p46
+aVand it takes that tacit information
+p47
+aVand it aggregates it,
+p48
+aVand it maps it and it makes it public.
+p49
+aVAnd that, that maneuver
+p50
+aVcalled "crisis mapping,"
+p51
+aVwas kicked off in Kenya
+p52
+aVin January of 2008.
+p53
+aa(lp54
+VAnd enough people looked at it and found it valuable enough
+p55
+aVthat the programmers who created Ushahidi
+p56
+aVdecided they were going to make it open source
+p57
+aVand turn it into a platform.
+p58
+aVIt's since been deployed in Mexico
+p59
+aVto track electoral fraud.
+p60
+aVIt's been deployed in Washington D.C. to track snow cleanup.
+p61
+aVAnd it's been used most famously in Haiti
+p62
+aVin the aftermath of the earthquake.
+p63
+aVAnd when you look at the map
+p64
+aVnow posted on the Ushahidi front page,
+p65
+aVyou can see that the number of deployments in Ushahidi
+p66
+aVhas gone worldwide, all right?
+p67
+aVThis went from a single idea
+p68
+aVand a single implementation
+p69
+aVin East Africa in the beginning of 2008
+p70
+aVto a global deployment
+p71
+aVin less than three years.
+p72
+aa(lp73
+VNow what Okolloh did
+p74
+aVwould not have been possible
+p75
+aVwithout digital technology.
+p76
+aVWhat Okolloh did would not have been possible
+p77
+aVwithout human generosity.
+p78
+aVAnd the interesting moment now,
+p79
+aVthe number of environments
+p80
+aVwhere the social design challenge
+p81
+aVrelies on both of those things being true.
+p82
+aVThat is the resource that I'm talking about.
+p83
+aVI call it cognitive surplus.
+p84
+aVAnd it represents the ability
+p85
+aVof the world's population
+p86
+aVto volunteer and to contribute and collaborate
+p87
+aVon large, sometimes global, projects.
+p88
+aVCognitive surplus is made up of two things.
+p89
+aVThe first, obviously, is the world's free time and talents.
+p90
+aVThe world has over
+p91
+aVa trillion hours a year
+p92
+aVof free time
+p93
+aVto commit to shared projects.
+p94
+aVNow, that free time existed in the 20th century,
+p95
+aVbut we didn't get Ushahidi in the 20th century.
+p96
+aa(lp97
+VThat's the second half of cognitive surplus.
+p98
+aVThe media landscape in the 20th century
+p99
+aVwas very good at helping people consume,
+p100
+aVand we got, as a result,
+p101
+aVvery good at consuming.
+p102
+aVBut now that we've been given media tools \u2014
+p103
+aVthe Internet, mobile phones \u2014 that let us do more than consume,
+p104
+aVwhat we're seeing is that people weren't couch potatoes
+p105
+aVbecause we liked to be.
+p106
+aVWe were couch potatoes because that was
+p107
+aVthe only opportunity given to us.
+p108
+aVWe still like to consume, of course.
+p109
+aVBut it turns out we also like to create,
+p110
+aVand we like to share.
+p111
+aVAnd it's those two things together \u2014
+p112
+aVancient human motivation
+p113
+aVand the modern tools to allow that motivation
+p114
+aVto be joined up in large-scale efforts \u2014
+p115
+aVthat are the new design resource.
+p116
+aVAnd using cognitive surplus,
+p117
+aVwe're starting to see truly incredible experiments
+p118
+aVin scientific, literary,
+p119
+aVartistic, political efforts.
+p120
+aVDesigning.
+p121
+aa(lp122
+VWe're also getting, of course, a lot of LOLcats.
+p123
+aVLOLcats are cute pictures of cats
+p124
+aVmade cuter with the addition of cute captions.
+p125
+aVAnd they are also
+p126
+aVpart of the abundant media landscape we're getting now.
+p127
+aVThis is one of the participatory \u2014
+p128
+aVone of the participatory models
+p129
+aVwe see coming out of that, along with Ushahidi.
+p130
+aVNow I want to stipulate, as the lawyers say,
+p131
+aVthat LOLcats are the stupidest possible
+p132
+aVcreative act.
+p133
+aVThere are other candidates of course,
+p134
+aVbut LOLcats will do as a general case.
+p135
+aVBut here's the thing:
+p136
+aVThe stupidest possible creative act
+p137
+aVis still a creative act.
+p138
+aVSomeone who has done something like this,
+p139
+aVhowever mediocre and throwaway,
+p140
+aVhas tried something, has put something forward in public.
+p141
+aVAnd once they've done it, they can do it again,
+p142
+aVand they could work on getting it better.
+p143
+aa(lp144
+VThere is a spectrum between mediocre work and good work,
+p145
+aVand as anybody who's worked as an artist or a creator knows,
+p146
+aVit's a spectrum you're constantly
+p147
+aVstruggling to get on top of.
+p148
+aVThe gap is between
+p149
+aVdoing anything and doing nothing.
+p150
+aVAnd someone who makes a LOLcat
+p151
+aVhas already crossed over that gap.
+p152
+aVNow it's tempting to want to get the Ushahidis
+p153
+aVwithout the LOLcats, right,
+p154
+aVto get the serious stuff without the throwaway stuff.
+p155
+aVBut media abundance never works that way.
+p156
+aVFreedom to experiment means freedom to experiment with anything.
+p157
+aVEven with the sacred printing press,
+p158
+aVwe got erotic novels 150 years
+p159
+aVbefore we got scientific journals.
+p160
+aa(lp161
+VSo before I talk about
+p162
+aVwhat is, I think, the critical difference
+p163
+aVbetween LOLcats and Ushahidi,
+p164
+aVI want to talk about
+p165
+aVtheir shared source.
+p166
+aVAnd that source is design for generosity.
+p167
+aVIt is one of the curiosities of our historical era
+p168
+aVthat even as cognitive surplus
+p169
+aVis becoming a resource we can design around,
+p170
+aVsocial sciences are also starting to explain
+p171
+aVhow important
+p172
+aVour intrinsic motivations are to us,
+p173
+aVhow much we do things because we like to do them
+p174
+aVrather than because our boss told us to do them,
+p175
+aVor because we're being paid to do them.
+p176
+aa(lp177
+VThis is a graph from a paper
+p178
+aVby Uri Gneezy and Aldo Rustichini,
+p179
+aVwho set out to test, at the beginning of this decade,
+p180
+aVwhat they called "deterrence theory."
+p181
+aVAnd deterrence theory is a very simple theory of human behavior:
+p182
+aVIf you want somebody to do less of something,
+p183
+aVadd a punishment and they'll do less of it.
+p184
+aVSimple, straightforward, commonsensical \u2014
+p185
+aValso, largely untested.
+p186
+aVAnd so they went and studied
+p187
+aV10 daycare centers in Haifa, Israel.
+p188
+aVThey studied those daycare centers
+p189
+aVat the time of highest tension,
+p190
+aVwhich is pick-up time.
+p191
+aVAt pick-up time the teachers,
+p192
+aVwho have been with your children all day,
+p193
+aVwould like you to be there at the appointed hour to take your children back.
+p194
+aVMeanwhile, the parents \u2014 perhaps a little busy at work, running late, running errands \u2014
+p195
+aVwant a little slack to pick the kids up late.
+p196
+aa(lp197
+VSo Gneezy and Rustichini said,
+p198
+aV"How many instances of late pick-ups
+p199
+aVare there at these 10 daycare centers?"
+p200
+aVNow they saw \u2014 and this is what the graph is,
+p201
+aVthese are the number of weeks and these are the number of late arrivals \u2014
+p202
+aVthat there were between six and 10
+p203
+aVinstances of late pick-ups
+p204
+aVon average in these 10 daycare centers.
+p205
+aVSo they divided the daycare centers into two groups.
+p206
+aVThe white group there
+p207
+aVis the control group; they change nothing.
+p208
+aVBut the group of daycare centers represented by the black line,
+p209
+aVthey said, "We are changing this bargain
+p210
+aVas of right now.
+p211
+aVIf you pick your kid up more than 10 minutes late,
+p212
+aVwe're going to add a 10 shekel fine to your bill.
+p213
+aVBoom. No ifs, ands or buts."
+p214
+aa(lp215
+VAnd the minute they did that,
+p216
+aVthe behavior in those daycare centers changed.
+p217
+aVLate pick-ups went up
+p218
+aVevery week for the next four weeks
+p219
+aVuntil they topped out at triple the pre-fine average,
+p220
+aVand then they fluctuated
+p221
+aVat between double and triple the pre-fine average
+p222
+aVfor the life of the fine.
+p223
+aVAnd you can see immediately what happened, right?
+p224
+aVThe fine broke the culture
+p225
+aVof the daycare center.
+p226
+aVBy adding a fine,
+p227
+aVwhat they did was communicate to the parents
+p228
+aVthat their entire debt to the teachers
+p229
+aVhad been discharged
+p230
+aVwith the payment of 10 shekels,
+p231
+aVand that there was no residue of guilt or social concern
+p232
+aVthat the parents owed the teachers.
+p233
+aVAnd so the parents, quite sensibly, said,
+p234
+aV"10 shekels to pick my kid up late?
+p235
+aVWhat could be bad?"
+p236
+aV(Laughter)
+p237
+aa(lp238
+VThe explanation of human behavior
+p239
+aVthat we inherited in the 20th century
+p240
+aVwas that we are all rational, self-maximizing actors,
+p241
+aVand in that explanation \u2014
+p242
+aVthe daycare center had no contract \u2014
+p243
+aVshould have been operating without any constraints.
+p244
+aVBut that's not right.
+p245
+aVThey were operating with social constraints
+p246
+aVrather than contractual ones.
+p247
+aVAnd critically, the social constraints
+p248
+aVcreated a culture that was more generous
+p249
+aVthan the contractual constraints did.
+p250
+aVSo Gneezy and Rustichini run this experiment for a dozen weeks \u2014
+p251
+aVrun the fine for a dozen weeks \u2014
+p252
+aVand then they say, "Okay, that's it. All done; fine."
+p253
+aVAnd then a really interesting thing happens:
+p254
+aVNothing changes.
+p255
+aVThe culture that got broken by the fine
+p256
+aVstayed broken when the fine was removed.
+p257
+aVNot only are economic motivations
+p258
+aVand intrinsic motivations
+p259
+aVincompatible,
+p260
+aVthat incompatibility
+p261
+aVcan persist over long periods.
+p262
+aVSo the trick
+p263
+aVin designing these kinds of situations
+p264
+aVis to understand where you're relying on
+p265
+aVthe economic part of the bargain \u2014 as with the parents paying the teachers \u2014
+p266
+aVand when you're relying on the social part of the bargain,
+p267
+aVwhen you're really designing for generosity.
+p268
+aa(lp269
+VThis brings me back to the LOLcats
+p270
+aVand to Ushahidi.
+p271
+aVThis is, I think, the range that matters.
+p272
+aVBoth of these rely on cognitive surplus.
+p273
+aVBoth of these design for the assumption
+p274
+aVthat people like to create and we want to share.
+p275
+aVHere is the critical difference between these:
+p276
+aVLOLcats is communal value.
+p277
+aVIt's value created by the participants
+p278
+aVfor each other.
+p279
+aVCommunal value on the networks we have
+p280
+aVis everywhere \u2014
+p281
+aVevery time you see a large aggregate
+p282
+aVof shared, publicly available data,
+p283
+aVwhether it's photos on Flickr
+p284
+aVor videos on Youtube or whatever.
+p285
+aVThis is good. I like LOLcats as much as the next guy,
+p286
+aVmaybe a little more even,
+p287
+aVbut this is also
+p288
+aVa largely solved problem.
+p289
+aVI have a hard time envisioning a future
+p290
+aVin which someone is saying,
+p291
+aV"Where, oh where, can I find a picture
+p292
+aVof a cute cat?"
+p293
+aa(lp294
+VUshahidi, by contrast,
+p295
+aVis civic value.
+p296
+aVIt's value created by the participants
+p297
+aVbut enjoyed by society as a whole.
+p298
+aVThe goals set out by Ushahidi
+p299
+aVare not just to make life better
+p300
+aVfor the participants,
+p301
+aVbut to make life better for everyone in the society
+p302
+aVin which Ushahidi is operating.
+p303
+aVAnd that kind of civic value
+p304
+aVis not just a side effect
+p305
+aVof opening up to human motivation.
+p306
+aVIt really is going to be a side effect
+p307
+aVof what we, collectively,
+p308
+aVmake of these kinds of efforts.
+p309
+aVThere are a trillion
+p310
+aVhours a year
+p311
+aVof participatory value
+p312
+aVup for grabs.
+p313
+aVThat will be true year-in and year-out.
+p314
+aVThe number of people who are going to be able
+p315
+aVto participate in these kinds of projects
+p316
+aVis going to grow,
+p317
+aVand we can see that organizations
+p318
+aVdesigned around a culture of generosity
+p319
+aVcan achieve incredible effects
+p320
+aVwithout an enormous amount of contractual overhead \u2014
+p321
+aVa very different model
+p322
+aVthan our default model for large-scale group action in the 20th century.
+p323
+aa(lp324
+VWhat's going to make the difference here
+p325
+aVis what Dean Kamen said,
+p326
+aVthe inventor and entrepreneur.
+p327
+aVKamen said, "Free cultures get what they celebrate."
+p328
+aVWe've got a choice before us.
+p329
+aVWe've got this trillion hours a year.
+p330
+aVWe can use it to crack each other up, and we're going to do that.
+p331
+aVThat, we get for free.
+p332
+aVBut we can also celebrate
+p333
+aVand support and reward the people
+p334
+aVtrying to use cognitive surplus
+p335
+aVto create civic value.
+p336
+aVAnd to the degree we're going to do that, to the degree we're able to do that,
+p337
+aVwe'll be able to change society.
+p338
+aa(lp339
+VThank you very much.
+p340
+aasS'id'
+p341
+I896
+sS'title'
+p342
+VHow cognitive surplus will change the world
+p343
+s.

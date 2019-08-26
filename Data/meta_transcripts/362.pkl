@@ -1,0 +1,711 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI want to take you back basically to my hometown,
+p4
+aVand to a picture of my hometown of the week
+p5
+aVthat "Emergence" came out.
+p6
+aVAnd it's a picture we've seen several times.
+p7
+aVBasically, "Emergence" was published on 9/11.
+p8
+aVI live right there in the West Village,
+p9
+aVso the plume was luckily blowing west, away from us.
+p10
+aVWe had a two-and-a-half-day-old baby in the house that was ours \u2014
+p11
+aVwe hadn't taken it from somebody else.
+p12
+aa(lp13
+V(Laughter)
+p14
+aa(lp15
+VAnd one of the thoughts that I had dealing with these two separate emergences
+p16
+aVof a book and a baby, and having this event happen so close \u2014
+p17
+aVthat my first thought, when I was still kind of in the apartment looking out at it all
+p18
+aVor walking out on the street and looking out on it just in front of our building,
+p19
+aVwas that I'd made a terrible miscalculation in the book that I'd just written.
+p20
+aVBecause so much of that book was a celebration of the power
+p21
+aVand creative potential of density, of largely urban density,
+p22
+aVof connecting people and putting them together in one place,
+p23
+aVand putting them on sidewalks together and having them share ideas
+p24
+aVand share physical space together.
+p25
+aa(lp26
+VAnd it seemed to me looking at that \u2014 that tower burning and then falling,
+p27
+aVthose towers burning and falling \u2014 that in fact, one of the lessons
+p28
+aVhere was that density kills.
+p29
+aVAnd that of all the technologies that were exploited
+p30
+aVto make that carnage come into being,
+p31
+aVprobably the single group of technologies that cost the most lives
+p32
+aVwere those that enable 50,000 people to live in two buildings
+p33
+aV110 stories above the ground.
+p34
+aVIf they hadn't been crowded \u2014
+p35
+aVyou compare the loss of life at the Pentagon to the Twin Towers,
+p36
+aVand you can see that very powerfully.
+p37
+aVAnd so I started to think, well, you know, density, density \u2014
+p38
+aVI'm not sure if, you know, this was the right call.
+p39
+aa(lp40
+VAnd I kind of ruminated on that for a couple of days.
+p41
+aVAnd then about two days later, the wind started to change a little bit,
+p42
+aVand you could sense that the air was not healthy.
+p43
+aVAnd so even though there were no cars still in the West Village
+p44
+aVwhere we lived, my wife sent me out to buy a, you know,
+p45
+aVa large air filter at the Bed Bath and Beyond,
+p46
+aVwhich was located about 20 blocks away, north.
+p47
+aVAnd so I went out.
+p48
+aVAnd obviously I'm physically a very strong person, as you can tell \u2014 (Laughter) \u2014
+p49
+aVso I wasn't worried about carrying this thing 20 blocks.
+p50
+aVAnd I walked out, and this really miraculous thing happened to me
+p51
+aVas I was walking north to buy this air filter,
+p52
+aVwhich was that the streets were completely alive with people.
+p53
+aa(lp54
+VThere was an incredible \u2014 it was, you know, a beautiful day,
+p55
+aVas it was for about a week after,
+p56
+aVand the West Village had never seemed more lively.
+p57
+aVI walked up along Hudson Street \u2014
+p58
+aVwhere Jane Jacobs had lived and written her great book
+p59
+aVthat so influenced what I was writing in "Emergence" \u2014
+p60
+aVpast the White Horse Tavern,
+p61
+aVthat great old bar where Dylan Thomas drank himself to death,
+p62
+aVand the Bleecker Street playground was filled with kids.
+p63
+aVAnd all the people who lived in the neighborhood,
+p64
+aVwho owned restaurants and bars in the neighborhood,
+p65
+aVwere all out there \u2014 had them all open.
+p66
+aVPeople were out.
+p67
+aVThere were no cars, so it seemed even better, in some ways.
+p68
+aVAnd it was a beautiful urban day,
+p69
+aVand the incredible thing about it was that the city was working.
+p70
+aVThe city was there.
+p71
+aVAll the things that make a great city successful
+p72
+aVand all the things that make a great city stimulating \u2014
+p73
+aVthey were all on display there on those streets.
+p74
+aa(lp75
+VAnd I thought, well, this is the power of a city.
+p76
+aVI mean, the power of the city \u2014
+p77
+aVwe talked about cities as being centralized in space,
+p78
+aVbut what makes them so strong most of the time
+p79
+aVis they're decentralized in function.
+p80
+aVThey don't have a center executive branch that you can take out
+p81
+aVand cause the whole thing to fail.
+p82
+aVIf they did, it probably was right there at Ground Zero.
+p83
+aVI mean, you know, the emergency bunker was right there,
+p84
+aVwas destroyed by the attacks,
+p85
+aVand obviously the damage done to the building and the lives.
+p86
+aVBut nonetheless, just 20 blocks north, two days later,
+p87
+aVthe city had never looked more alive.
+p88
+aVIf you'd gone into the minds of the people,
+p89
+aVwell, you would have seen a lot of trauma,
+p90
+aVand you would have seen a lot of heartache,
+p91
+aVand you would have seen a lot of things that would take a long time to recover.
+p92
+aa(lp93
+VBut the system itself of this city was thriving.
+p94
+aVSo I took heart in seeing that.
+p95
+aVSo I wanted to talk a little bit about the reasons why that works so well,
+p96
+aVand how some of those reasons kind of map
+p97
+aVon to where the Web is going right now.
+p98
+aVThe question that I found myself asking to people
+p99
+aVwhen I was talking about the book afterwards is \u2014
+p100
+aVwhen you've talked about emergent behavior,
+p101
+aVwhen you've talked about collective intelligence,
+p102
+aVthe best way to get people to kind of wrap their heads around that
+p103
+aVis to ask, who builds a neighborhood?
+p104
+aVWho decides that Soho should have this personality
+p105
+aVand that the Latin Quarter should have this personality?
+p106
+aVWell, there are some kind of executive decisions,
+p107
+aVbut mostly the answer is \u2014 everybody and nobody.
+p108
+aVEverybody contributes a little bit.
+p109
+aVNo single person is really the ultimate actor
+p110
+aVbehind the personality of a neighborhood.
+p111
+aa(lp112
+VSame thing to the question of, who was keeping the streets alive
+p113
+aVpost-9/11 in my neighborhood?
+p114
+aVWell, it was the whole city.
+p115
+aVThe whole system kind of working on it,
+p116
+aVand everybody contributing a small little part.
+p117
+aVAnd this is increasingly what we're starting to see on the Web
+p118
+aVin a bunch of interesting ways \u2014
+p119
+aVmost of which weren't around, actually,
+p120
+aVexcept in very experimental things,
+p121
+aVwhen I was writing "Emergence" and when the book came out.
+p122
+aVSo it's been a very optimistic time, I think,
+p123
+aVand I want to just talk about a few of those things.
+p124
+aVI think that there is effectively a new kind of model of interactivity
+p125
+aVthat's starting to emerge online right now.
+p126
+aa(lp127
+VAnd the old one looked like this.
+p128
+aVThis is not the future King of England, although it looks like it.
+p129
+aVIt's some guy, it's a GeoCities homepage of some guy that I found online
+p130
+aVwho's interested, if you look at the bottom, in soccer and Jesus
+p131
+aVand Garth Brooks and Clint Beckham and "my hometown" \u2014 those are his links.
+p132
+aVBut nothing really says
+p133
+aVthis model of interactivity \u2014 which was so exciting and captures the real,
+p134
+aVthe Web Zeitgeist of 1995 \u2014 than
+p135
+aV"Click here for a picture of my dog."
+p136
+aVThat is \u2014 you know, there's no sentence
+p137
+aVthat kind of conjures up that period better than that, I think,
+p138
+aVwhich is that you suddenly have the power to put up a picture of your dog
+p139
+aVand link to it, and somebody reading the page
+p140
+aVhas the power to click on that link or not click on that link.
+p141
+aa(lp142
+VAnd, you know, I don't want to belittle that. That, in a sense \u2014
+p143
+aVto reference what Jeff was talking about yesterday \u2014
+p144
+aVthat was, in a sense, the kind of interface electricity that
+p145
+aVpowered a lot of the explosion of interest in the Web:
+p146
+aVthat you could put up a link, and somebody could click on it,
+p147
+aVand it could take you anywhere you wanted to go.
+p148
+aVBut it's still a very one-to-one kind of relationship.
+p149
+aVThere's one person putting up the link, and there's another person
+p150
+aVon the other end trying to decide whether to click on it or not.
+p151
+aVThe new model is much more like this,
+p152
+aVand we've already seen a couple of references to this.
+p153
+aVThis is what happens when you search "Steven Johnson" on Google.
+p154
+aVAbout two months ago, I had the great breakthrough \u2014
+p155
+aVone of my great, kind of shining achievements \u2014
+p156
+aVwhich is that my website finally became a top result for "Steven Johnson."
+p157
+aVThere's some theoretical physicist at MIT named Steven Johnson
+p158
+aVwho has dropped two spots, I'm happy to say.
+p159
+aa(lp160
+V(Laughter)
+p161
+aa(lp162
+VAnd, you know, I mean, I'll look at a couple of things like this,
+p163
+aVbut Google is obviously the greatest technology ever invented for navel gazing.
+p164
+aVIt's just that there are so many other people in your navel when you gaze.
+p165
+aVBecause effectively, what's happening here,
+p166
+aVwhat's creating this page, obviously \u2014 and we all know this,
+p167
+aVbut it's worth just thinking about it \u2014
+p168
+aVis not some person deciding that I am the number one answer for Steven Johnson,
+p169
+aVbut rather somehow the entire web of people
+p170
+aVputting up pages and deciding to link to my page or not link to it,
+p171
+aVand Google just sitting there and running the numbers.
+p172
+aVSo there's this collective decision-making that's going on.
+p173
+aVThis page is effectively, collectively authored by the Web,
+p174
+aVand Google is just helping us
+p175
+aVkind of to put the authorship in one kind of coherent place.
+p176
+aa(lp177
+VNow, they're more innovative \u2014 well, Google's pretty innovative \u2014
+p178
+aVbut there are some new twists on this.
+p179
+aVThere's this incredibly interesting new site \u2014 Technorati \u2014
+p180
+aVthat's filled with lots of little widgets that are expanding on these.
+p181
+aVAnd these are looking in the blog world and the world of weblogs.
+p182
+aVHe's analyzed basically all the weblogs out there that he's tracking.
+p183
+aVAnd he's tracking how many other weblogs linked to those weblogs,
+p184
+aVand so you have kind of an authority \u2014
+p185
+aVa weblog that has a lot of links to it
+p186
+aVis more authoritative than a weblog that has few links to it.
+p187
+aVAnd so at any given time, on any given page on the Web, actually,
+p188
+aVyou can say, what does the weblog community think about this page?
+p189
+aVAnd you can get a list.
+p190
+aVThis is what they think about my site; it's ranked by blog authority.
+p191
+aVYou can also rank it by the latest posts.
+p192
+aa(lp193
+VSo when I was talking in "Emergence,"
+p194
+aVI talked about the limitations of the one-way linking architecture
+p195
+aVthat, basically, you could link to somebody else
+p196
+aVbut they wouldn't necessarily know that you were pointing to them.
+p197
+aVAnd that was one of the reasons why the web
+p198
+aVwasn't quite as emergent as it could be
+p199
+aVbecause you needed two-way linking, you needed that kind of feedback mechanism
+p200
+aVto be able to really do interesting things.
+p201
+aVWell, something like Technorati is supplying that.
+p202
+aVNow what's interesting here is that this is a quote from Dave Weinberger,
+p203
+aVwhere he talks about everything being purposive in the Web \u2014
+p204
+aVthere's nothing artificial.
+p205
+aVHe has this line where he says, you know, you're going to put up a link there,
+p206
+aVif you see a link, somebody decided to put it there.
+p207
+aVAnd he says, the link to one site didn't just grow on the other page "like a tree fungus."
+p208
+aa(lp209
+VAnd in fact, I think that's not entirely true anymore.
+p210
+aVI could put up a feed of all those links generated by Technorati
+p211
+aVon the right-hand side of my page,
+p212
+aVand they would change as the overall ecology of the Web changes.
+p213
+aVThat little list there would change.
+p214
+aVI wouldn't really be directly in control of it.
+p215
+aVSo it's much closer, in a way, to a data fungus, in a sense,
+p216
+aVwrapped around that page, than it is to a deliberate link that I've placed there.
+p217
+aVNow, what you're having here is basically a global brain
+p218
+aVthat you're able to do lots of kind of experiments on to see what it's thinking.
+p219
+aVAnd there are all these interesting tools.
+p220
+aVGoogle does the Google Zeitgeist,
+p221
+aVwhich looks at search requests to test what's going on, what people are interested in,
+p222
+aVand they publish it with lots of fun graphs.
+p223
+aVAnd I'm saying a lot of nice things about Google,
+p224
+aVso I'll be I'll be saying one little critical thing.
+p225
+aa(lp226
+VThere's a problem with the Google Zeitgeist,
+p227
+aVwhich is it often comes back with news that a lot of people are searching
+p228
+aVfor Britney Spears pictures, which is not necessarily news.
+p229
+aVThe Columbia blows up, suddenly there are a lot of searches on Columbia.
+p230
+aVWell, you know, we should expect to see that.
+p231
+aVThat's not necessarily something we didn't know already.
+p232
+aVSo the key thing in terms of these new tools
+p233
+aVthat are kind of plumbing the depths of the global brain,
+p234
+aVthat are sending kind of trace dyes through that whole bloodstream \u2014
+p235
+aVthe question is, are you finding out something new?
+p236
+aa(lp237
+VAnd one of the things that I experimented with is this thing called Google Share
+p238
+aVwhich is basically, you take an abstract term,
+p239
+aVand you search Google for that term,
+p240
+aVand then you search the results that you get back for somebody's name.
+p241
+aVSo basically, the number of pages that mention this term,
+p242
+aVthat also mention this page, the percentage of those pages
+p243
+aVis that person's Google Share of that term.
+p244
+aVSo you can do kind of interesting contests.
+p245
+aVLike for instance, this is a Google Share of the TED Conference.
+p246
+aVSo Richard Saul Wurman
+p247
+aVhas about a 15 percent Google Share of the TED conference.
+p248
+aVOur good friend Chris has about a six percent \u2014 but with a bullet, I might add.
+p249
+aa(lp250
+V(Laughter)
+p251
+aa(lp252
+VBut the interesting thing is, you can broaden the search a little bit.
+p253
+aVAnd it turns out, actually, that 42 percent is the Mola mola fish.
+p254
+aVI had no idea.
+p255
+aVNo, that's not true.
+p256
+aV(Laughter)
+p257
+aVI made that up because I just wanted to put up a slide
+p258
+aVof the Mola mola fish.
+p259
+aa(lp260
+V(Laughter)
+p261
+aa(lp262
+VI also did \u2014 and I don't want to start a little fight in the next panel \u2014
+p263
+aVbut I did a Google Share analysis of evolution and natural selection.
+p264
+aVSo right here \u2014 now this is a big category, you have smaller percentages,
+p265
+aVso this is 0.7 percent \u2014 Dan Dennett, who'll be speaking shortly.
+p266
+aVRight below him, 0.5 percent, Steven Pinker.
+p267
+aVSo Dennett's in the lead a little bit there.
+p268
+aVBut what's interesting is you can then broaden the search
+p269
+aVand actually see interesting things and get a sense of what else is out there.
+p270
+aVSo Gary Bauer is not too far behind \u2014
+p271
+aVhas slightly different theories about evolution and natural selection.
+p272
+aVAnd right behind him is L. Ron Hubbard. So \u2014
+p273
+aV(Laughter)
+p274
+aVyou can see we're in the ascot, which is always good.
+p275
+aVAnd by the way, Chris, that would've been a really good panel,
+p276
+aVI think, right there.
+p277
+aa(lp278
+V(Laughter)
+p279
+aa(lp280
+VHubbard apparently started to reach, but besides that,
+p281
+aVI think it would be good next year.
+p282
+aVAnother quick thing \u2014 this is a slightly different thing,
+p283
+aVbut this analysis some of you may have seen.
+p284
+aVIt just came out. This is bursty words,
+p285
+aVlooking at the historical record of State of the Union Addresses.
+p286
+aVSo these are words that suddenly start to appear out of nowhere,
+p287
+aVso they're kind of, you know, memes that start taking off,
+p288
+aVthat didn't have a lot of historical precedent before.
+p289
+aVSo the first one is \u2014 these are the bursty words around 1860s \u2014
+p290
+aVslaves, emancipation, slavery, rebellion, Kansas.
+p291
+aVThat's Britney Spears. I mean, you know, OK, interesting.
+p292
+aVThey're talking about slavery in 1860.
+p293
+aV1935 \u2014 relief, depression, recovery banks.
+p294
+aVAnd OK, I didn't learn anything new there as well \u2014 that's pretty obvious.
+p295
+aV1985, right at the center of the Reagan years \u2014
+p296
+aVthat's, we're, there's, we've, it's.
+p297
+aa(lp298
+V(Laughter)
+p299
+aa(lp300
+VNow, there's one way to interpret this, which is to say that
+p301
+aV"emancipation" and "depression" and "recovery" all have a lot of syllables.
+p302
+aVSo you know, you can actually download \u2014 it's hard to remember those.
+p303
+aVBut seriously, actually, what you can see there,
+p304
+aVin a way that would be very hard to detect otherwise,
+p305
+aVis Reagan reinventing the political language of the country
+p306
+aVand shifting to a much more intimate, much more folksy, much more telegenic \u2014
+p307
+aVcontracting all those verbs.
+p308
+aVYou know, 20 years before it was still, "Ask not what you can do,"
+p309
+aVbut with Reagan, it's, "that's where, there's Nancy and I," that kind of language.
+p310
+aVAnd so something we kind of knew,
+p311
+aVbut you didn't actually notice syntactically what he was doing.
+p312
+aVI'll go very quickly.
+p313
+aVThe question now \u2014 and this is the really interesting question \u2014
+p314
+aVis, what kind of higher-level shape is emerging right now
+p315
+aVin the overall Web ecosystem \u2014 and particularly in the ecosystem of the blogs
+p316
+aVbecause they are really kind of at the cutting edge.
+p317
+aa(lp318
+VAnd I think what happens there will also happen in the wider system.
+p319
+aVNow there was a very interesting article by Clay Shirky
+p320
+aVthat got a lot of attention about a month ago,
+p321
+aVand this is basically the distribution of links
+p322
+aVon the web to all these various different blogs.
+p323
+aVIt follows a power law, so that there are a few extremely well-linked to, popular blogs,
+p324
+aVand a long tail of blogs with very few links.
+p325
+aVSo 20 percent of the blogs get 80 percent of the links.
+p326
+aVNow this is a very interesting thing.
+p327
+aVIt's caused a lot of controversy
+p328
+aVbecause people thought that this was the ultimate kind of one man,
+p329
+aVone modem democracy, where anybody can get out there and get their voice heard.
+p330
+aa(lp331
+VAnd so the question is, "Why is this happening?"
+p332
+aVIt's not being imposed by fiat from above.
+p333
+aVIt's an emergent property of the blogosphere right now.
+p334
+aVNow, what's great about it is that people are working on \u2014
+p335
+aVwithin seconds of Clay publishing this piece, people started working on changing
+p336
+aVthe underlying rules of the system so that a different shape would start appearing.
+p337
+aVAnd basically, the shape appears
+p338
+aVlargely because of a kind of a first-mover advantage.
+p339
+aVif you're the first site there, everybody links to you.
+p340
+aVIf you're the second site there, most people link to you.
+p341
+aVAnd so very quickly you can accumulate a bunch of links,
+p342
+aVand it makes it more likely for newcomers to link to you in the future,
+p343
+aVand then you get this kind of shape.
+p344
+aVAnd so what Dave Sifry at Technorati started working on,
+p345
+aVliterally as Shirky started \u2014 after he published his piece \u2014
+p346
+aVwas something that basically just gave a new kind of priority to newcomers.
+p347
+aVAnd he started looking at interesting newcomers that don't have a lot of links,
+p348
+aVthat suddenly get a bunch of links in the last 24 hours.
+p349
+aa(lp350
+VSo in a sense, bursty weblogs coming from new voices.
+p351
+aVSo he's working on a tool right there that can actually change the overall system.
+p352
+aVAnd it creates a kind of planned emergence.
+p353
+aVYou're not totally in control,
+p354
+aVbut you're changing the underlying rules in interesting ways
+p355
+aVbecause you have an end result which is
+p356
+aVmaybe a more democratic spread of voices.
+p357
+aVSo the most amazing thing about this \u2014 and I'll end on this note \u2014
+p358
+aVis, most emergent systems, most self-organizing systems
+p359
+aVare not made up of component parts that are capable of looking at the overall pattern
+p360
+aVand changing their behavior based on whether they like the pattern or not.
+p361
+aVSo the most wonderful thing, I think, about this whole debate
+p362
+aVabout power laws and software that could change it
+p363
+aVis the fact that we're having the conversation.
+p364
+aVI hope it continues here.
+p365
+aVThanks a lot.
+p366
+aasS'id'
+p367
+I362
+sS'title'
+p368
+VThe Web as a city
+p369
+s.

@@ -1,0 +1,912 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VMy name is Jonathan Zittrain,
+p4
+aVand in my recent work I've been a bit of a pessimist.
+p5
+aVSo I thought this morning I would try to be the optimist,
+p6
+aVand give reason to hope
+p7
+aVfor the future of the Internet
+p8
+aVby drawing upon its present.
+p9
+aa(lp10
+VNow, it may seem like there is less hope today than there was before.
+p11
+aVPeople are less kind. There is less trust around.
+p12
+aVI don't know. As a simple example,
+p13
+aVwe could run a test here.
+p14
+aVHow many people have ever hitchhiked?
+p15
+aVI know. How many people have hitchhiked
+p16
+aVwithin the past 10 years?
+p17
+aVRight. So what has changed?
+p18
+aVIt's not better public transportation.
+p19
+aVSo that's one reason to think that we might be
+p20
+aVdeclensionists, going in the wrong direction.
+p21
+aa(lp22
+VBut I want to give you three examples
+p23
+aVto try to say that the trend line
+p24
+aVis in fact in the other direction,
+p25
+aVand it's the Internet helping it along.
+p26
+aVSo example number one: the Internet itself.
+p27
+aVThese are three of the founders of the Internet.
+p28
+aVThey were actually high school classmates together
+p29
+aVat the same high school in suburban Los Angles in the 1960s.
+p30
+aVYou might have had a French club or a Debate club.
+p31
+aVThey had a "Let's build a global network" club,
+p32
+aVand it worked out very well.
+p33
+aa(lp34
+VThey are pictured here for their 25th anniversary
+p35
+aVNewsweek retrospective on the Internet.
+p36
+aVAnd as you can tell,
+p37
+aVthey are basically goof balls.
+p38
+aVThey had one great limitation
+p39
+aVand one great freedom
+p40
+aVas they tried to conceive of a global network.
+p41
+aVThe limitation was that they didn't have any money.
+p42
+aVNo particular amount of capital to invest,
+p43
+aVof the sort that for a physical network
+p44
+aVyou might need for trucks and people
+p45
+aVand a hub to move packages around overnight.
+p46
+aVThey had none of that.
+p47
+aa(lp48
+VBut they had an amazing freedom,
+p49
+aVwhich was they didn't have to make any money from it.
+p50
+aVThe Internet has no business plan, never did.
+p51
+aVNo CEO,
+p52
+aVno firm responsible, singly, for building it.
+p53
+aVInstead, it's folks getting together
+p54
+aVto do something for fun,
+p55
+aVrather than because they were told to,
+p56
+aVor because they were expecting to make a mint off of it.
+p57
+aa(lp58
+VThat ethos led to a network architecture,
+p59
+aVa structure that was unlike
+p60
+aVother digital networks then or since.
+p61
+aVSo unusual, in fact,
+p62
+aVthat it was said that it's not clear the Internet could work.
+p63
+aVAs late as 1992, IBM was known to say
+p64
+aVyou couldn't possibly build a corporate network
+p65
+aVusing Internet Protocol.
+p66
+aVAnd even some Internet engineers today say
+p67
+aVthe whole thing is a pilot project and the jury is still out.
+p68
+aV(Laughter)
+p69
+aa(lp70
+VThat's why the mascot of Internet engineering,
+p71
+aVif it had one, is said to be the bumblebee.
+p72
+aVBecause the fur-to-wingspan ratio of the bumblebee
+p73
+aVis far too large for it to be able to fly.
+p74
+aVAnd yet, mysteriously, somehow the bee flies.
+p75
+aVI'm pleased to say that, thanks to massive government funding,
+p76
+aVabout three years ago we finally figured out
+p77
+aVhow bees fly.
+p78
+aV(Laughter)
+p79
+aVIt's very complicated, but it turns out they
+p80
+aVflap their wings very quickly.
+p81
+aV(Laughter)
+p82
+aa(lp83
+VSo what is this bizarre architecture configuration
+p84
+aVthat makes the network sing and be so unusual?
+p85
+aVWell, to move data around
+p86
+aVfrom one place to another \u2014 again, it's not like a package courier.
+p87
+aVIt's more like a mosh pit.
+p88
+aV(Laughter)
+p89
+aVImagine, you being part of a network
+p90
+aVwhere, you're maybe at a sporting event,
+p91
+aVand you're sitting in rows like this,
+p92
+aVand somebody asks for a beer,
+p93
+aVand it gets handed at the aisle.
+p94
+aVAnd your neighborly duty
+p95
+aVis to pass the beer along,
+p96
+aVat risk to your own trousers,
+p97
+aVto get it to the destination.
+p98
+aa(lp99
+VNo one pays you to do this.
+p100
+aVIt's just part of your neighborly duty.
+p101
+aVAnd, in a way, that's exactly how packets move around the Internet,
+p102
+aVsometimes in as many as 25 or 30 hops,
+p103
+aVwith the intervening entities
+p104
+aVthat are passing the data around
+p105
+aVhaving no particular contractual or legal obligation
+p106
+aVto the original sender
+p107
+aVor to the receiver.
+p108
+aa(lp109
+VNow, of course, in a mosh pit it's hard to specify a destination.
+p110
+aVYou need a lot of trust,
+p111
+aVbut it's not like, "I'm trying to get to Pensacola, please."
+p112
+aVSo the Internet needs addressing and directions.
+p113
+aVIt turns out there is no one overall map of the Internet.
+p114
+aVInstead, again, it is as if we are all sitting together in a theater,
+p115
+aVbut we can only see amidst the fog
+p116
+aVthe people immediately around us.
+p117
+aVSo what do we do to figure out who is where?
+p118
+aVWe turn to the person on the right,
+p119
+aVand we tell that person what we see on our left,
+p120
+aVand vice versa.
+p121
+aVAnd they can lather, rinse, repeat. And before you know it,
+p122
+aVyou have a general sense of where everything is.
+p123
+aa(lp124
+VThis is how Internet addressing and routing actually work.
+p125
+aVThis is a system that relies on kindness and trust,
+p126
+aVwhich also makes it very delicate and vulnerable.
+p127
+aVIn rare but striking instances,
+p128
+aVa single lie told by just one entity
+p129
+aVin this honeycomb
+p130
+aVcan lead to real trouble.
+p131
+aa(lp132
+VSo, for example, last year,
+p133
+aVthe government of Pakistan
+p134
+aVasked its Internet service providers there
+p135
+aVto prevent citizens of Pakistan from seeing YouTube.
+p136
+aVThere was a video there that the government did not like
+p137
+aVand they wanted to make sure it was blocked.
+p138
+aVThis is a common occurrence. Governments everywhere
+p139
+aVare often trying to block
+p140
+aVand filter and censor content on the Internet.
+p141
+aa(lp142
+VWell this one ISP in Pakistan
+p143
+aVchose to effectuate the block for its subscribers
+p144
+aVin a rather unusual way.
+p145
+aVIt advertised \u2014
+p146
+aVthe way that you might be asked, if you were part of the Internet,
+p147
+aVto declare what you see near you \u2014 it advertised
+p148
+aVthat near it, in fact, it had suddenly awakened to find
+p149
+aVthat it was YouTube.
+p150
+aV"That's right," it said, "I am YouTube."
+p151
+aVWhich meant that packets of data
+p152
+aVfrom subscribers going to YouTube
+p153
+aVstopped at the ISP, since they thought they were already there,
+p154
+aVand the ISP threw them away unopened
+p155
+aVbecause the point was to block it.
+p156
+aa(lp157
+VBut it didn't stop there.
+p158
+aVYou see, that announcement
+p159
+aVwent one click out,
+p160
+aVwhich got reverberated, one click out.
+p161
+aVAnd it turns out that as you look
+p162
+aVat the postmortem of this event,
+p163
+aVyou have at one moment
+p164
+aVperfectly working YouTube.
+p165
+aVThen, at moment number two,
+p166
+aVyou have the fake announcement go out.
+p167
+aVAnd within two minutes,
+p168
+aVit reverberates around
+p169
+aVand YouTube is blocked everywhere in the world.
+p170
+aVIf you were sitting in Oxford, England, trying to get to YouTube,
+p171
+aVyour packets were going to Pakistan
+p172
+aVand they weren't coming back.
+p173
+aa(lp174
+VNow just think about that.
+p175
+aVOne of the most popular websites in the world,
+p176
+aVrun by the most powerful company in the world,
+p177
+aVand there was nothing that YouTube or Google
+p178
+aVwere particularly privileged to do about it.
+p179
+aVAnd yet, somehow, within about two hours,
+p180
+aVthe problem was fixed.
+p181
+aVHow did this happen?
+p182
+aa(lp183
+VWell, for a big clue, we turn to NANOG.
+p184
+aVThe North American Network Operators Group,
+p185
+aVa group of people who,
+p186
+aVon a beautiful day outside,
+p187
+aVenter into a windowless room,
+p188
+aVat their terminals
+p189
+aVreading email and messages
+p190
+aVin fixed proportion font, like this,
+p191
+aVand they talk about networks.
+p192
+aVAnd some of them are mid-level employees at Internet service providers
+p193
+aVaround the world.
+p194
+aVAnd here is the message where one of them says,
+p195
+aV"Looks like we've got a live one. We have a hijacking of YouTube!
+p196
+aVThis is not a drill. It's not just the cluelessness
+p197
+aVof YouTube engineers. I promise.
+p198
+aVSomething is up in Pakistan."
+p199
+aVAnd they came together to help find the problem and fix it.
+p200
+aa(lp201
+VSo it's kind of like if your house catches on fire.
+p202
+aVThe bad news is there is no fire brigade.
+p203
+aVThe good news is random people apparate from nowhere,
+p204
+aVput out the fire and leave without expecting payment or praise.
+p205
+aV(Applause)
+p206
+aVI was trying to think of the right model to describe
+p207
+aVthis form of random acts of kindness
+p208
+aVby geeky strangers.
+p209
+aV(Laughter)
+p210
+aVYou know, it's just like the hail goes out
+p211
+aVand people are ready to help.
+p212
+aVAnd it turns out this model is everywhere, once you start looking for it.
+p213
+aa(lp214
+VExample number two: Wikipedia.
+p215
+aVIf a man named Jimbo came up to you in 2001
+p216
+aVand said, "I've got a great idea! We start with seven articles
+p217
+aVthat anybody can edit anything, at any time,
+p218
+aVand we'll get a great encyclopedia! Eh?"
+p219
+aVRight. Dumbest idea ever.
+p220
+aV(Laughter)
+p221
+aVIn fact, Wikipedia is an idea so profoundly stupid
+p222
+aVthat even Jimbo never had it.
+p223
+aa(lp224
+VJimbo's idea was for Nupedia.
+p225
+aVIt was going to be totally traditional. He would pay people money
+p226
+aVbecause he was feeling like a good guy,
+p227
+aVand the money would go to the people
+p228
+aVand they would write the articles.
+p229
+aVThe wiki was introduced
+p230
+aVso others could make suggestions on edits \u2014
+p231
+aVas almost an afterthought, a back room.
+p232
+aVAnd then it turns out the back room grew
+p233
+aVto encompass the entire project.
+p234
+aa(lp235
+VAnd today, Wikipedia is so ubiquitous
+p236
+aVthat you can now find it on Chinese restaurant menus.
+p237
+aV(Laughter)
+p238
+aVI am not making this up.
+p239
+aV(Laughter)
+p240
+aVI have a theory I can explain later.
+p241
+aVSuffice it to say for now that I prefer my Wikipedia
+p242
+aVstir-fried with pimentos.
+p243
+aV(Laughter)
+p244
+aa(lp245
+VBut now, Wikipedia doesn't just spontaneously work.
+p246
+aVHow does it really work? It turns out
+p247
+aVthere is a back room that is kind of windowless,
+p248
+aVmetaphorically speaking.
+p249
+aVAnd there are a bunch of people who, on a sunny day,
+p250
+aVwould rather be inside
+p251
+aVand monitoring this, the administrator's notice board,
+p252
+aVitself a wiki page that anyone can edit.
+p253
+aVAnd you just bring your problems to the page.
+p254
+aVIt's reminiscent of the description of history
+p255
+aVas "one damn thing after another," right?
+p256
+aa(lp257
+VNumber one: "Tendentious editing by user Andyvphil."
+p258
+aVApologies, Andyvphil, if you're here today.
+p259
+aVI'm not taking sides.
+p260
+aV"Anon attacking me for reverting."
+p261
+aVHere is my favorite: "A long story."
+p262
+aV(Laughter)
+p263
+aVIt turns out there are more people checking this page for problems
+p264
+aVand wanting to solve them
+p265
+aVthan there are problems arising on the page.
+p266
+aa(lp267
+VAnd that's what keeps Wikipedia afloat.
+p268
+aVAt all times, Wikipedia is approximately
+p269
+aV45 minutes away from utter destruction. Right?
+p270
+aVThere are spambots crawling it, trying to turn every article
+p271
+aVinto an ad for a Rolex watch.
+p272
+aV(Laughter)
+p273
+aVIt's this thin geeky line
+p274
+aVthat keeps it going.
+p275
+aVNot because it's a job,
+p276
+aVnot because it's a career,
+p277
+aVbut because it's a calling.
+p278
+aVIt's something they feel impelled to do
+p279
+aVbecause they care about it.
+p280
+aa(lp281
+VThey even gather together in such groups
+p282
+aVas the Counter-Vandalism Unit \u2014
+p283
+aV"Civility, Maturity, Responsibility" \u2014
+p284
+aVto just clean up the pages.
+p285
+aVIt does make you wonder if there were, for instance,
+p286
+aVa massive, extremely popular Star Trek convention one weekend,
+p287
+aVwho would be minding the store?
+p288
+aV(Laughter)
+p289
+aa(lp290
+VSo what we see \u2014
+p291
+aV(Laughter)
+p292
+aVwhat we see in this phenomenon
+p293
+aVis something that the crazed, late traffic engineer
+p294
+aVHans Monderman discovered in the Netherlands,
+p295
+aVand here in South Kensington, that sometimes
+p296
+aVif you remove some of the external rules and signs and everything else,
+p297
+aVyou can actually end up
+p298
+aVwith a safer environment in which people can function,
+p299
+aVand one in which they are more human with each other.
+p300
+aVThey're realizing that they
+p301
+aVhave to take responsibility for what they do.
+p302
+aVAnd Wikipedia has embraced this.
+p303
+aa(lp304
+VSome of you may remember Star Wars Kid,
+p305
+aVthe poor teenager who filmed himself with a golf ball retriever,
+p306
+aVacting as if it were a light saber.
+p307
+aVThe film, without his permission or even knowledge at first,
+p308
+aVfound its way onto the Internet.
+p309
+aVHugely viral video. Extremely popular.
+p310
+aVTotally mortifying to him.
+p311
+aa(lp312
+VNow, it being encyclopedic and all,
+p313
+aVWikipedia had to do an article about Star Wars Kid.
+p314
+aVEvery article on Wikipedia has a corresponding discussion page,
+p315
+aVand on the discussion page
+p316
+aVthey had extensive argument among the Wikipedians
+p317
+aVas to whether to have his real name
+p318
+aVfeatured in the article.
+p319
+aVYou could see arguments on both sides.
+p320
+aVHere is just a snapshot of some of them.
+p321
+aVThey eventually decided \u2014
+p322
+aVnot unanimously by any means \u2014
+p323
+aVnot to include his real name,
+p324
+aVdespite the fact that nearly all media reports did.
+p325
+aVThey just didn't think it was the right thing to do.
+p326
+aVIt was an act of kindness.
+p327
+aa(lp328
+VAnd to this day, the page for Star Wars Kid
+p329
+aVhas a warning right at the top
+p330
+aVthat says you are not to put his real name on the page.
+p331
+aVIf you do, it will be removed immediately,
+p332
+aVremoved by people who may have disagreed with the original decision,
+p333
+aVbut respect the outcome
+p334
+aVand work to make it stay
+p335
+aVbecause they believe in something bigger than their own opinion.
+p336
+aVAs a lawyer, I've got to say these guys are inventing the law
+p337
+aVand stare decisis and stuff like that as they go along.
+p338
+aa(lp339
+VNow, this isn't just limited to Wikipedia.
+p340
+aVWe see it on blogs all over the place.
+p341
+aVI mean, this is a 2005 Business Week cover.
+p342
+aVWow. Blogs are going to change your business.
+p343
+aVI know they look silly. And sure they look silly.
+p344
+aVThey start off on all sorts of goofy projects.
+p345
+aa(lp346
+VThis is my favorite goofy blog:
+p347
+aVCatsthatlooklikehitler.com.
+p348
+aV(Laughter)
+p349
+aVYou send in a picture of your cat
+p350
+aVif it looks like Hitler.
+p351
+aV(Laughter)
+p352
+aVYeah, I know. Number four, it's like, can you imagine
+p353
+aVcoming home to that cat everyday?
+p354
+aV(Laughter)
+p355
+aa(lp356
+VBut then, you can see the same kind of whimsy
+p357
+aVapplied to people.
+p358
+aVSo this is a blog devoted to unfortunate portraiture.
+p359
+aVThis one says, "Bucolic meadow with split-rail fence.
+p360
+aVIs that an animal carcass behind her?"
+p361
+aV(Laughter)
+p362
+aVYou're like, "You know? I think that's an animal carcass
+p363
+aVbehind her."
+p364
+aa(lp365
+VAnd it's one after the other.
+p366
+aVBut then you hit this one. Image removed at request of owner.
+p367
+aVThat's it. Image removed at request of owner.
+p368
+aVIt turns out that somebody lampooned here
+p369
+aVwrote to the snarky guy that does the site,
+p370
+aVnot with a legal threat, not with an offer of payment,
+p371
+aVbut just said, "Hey, would you mind?"
+p372
+aVThe person said, "No, that's fine."
+p373
+aa(lp374
+VI believe we can build architectures online
+p375
+aVto make such human requests
+p376
+aVthat much easier to do,
+p377
+aVto make it possible for all of us to see
+p378
+aVthat the data we encounter online
+p379
+aVis just stuff on which to click and paste and copy and forward
+p380
+aVthat actually represents human emotion
+p381
+aVand endeavor and impact,
+p382
+aVand to be able to have an ethical moment
+p383
+aVwhere we decide how we want to treat it.
+p384
+aa(lp385
+VI even think it can go into the real world.
+p386
+aVWe can end up, as we get in a world with more censors \u2014
+p387
+aVeverywhere there is something filming you, maybe putting it online \u2014
+p388
+aVto be able to have a little clip you could wear
+p389
+aVthat says, "You know, I'd rather not."
+p390
+aVAnd then have technology
+p391
+aVthat the person taking the photo will know later,
+p392
+aVthis person requested to be contacted
+p393
+aVbefore this goes anywhere big,
+p394
+aVif you don't mind.
+p395
+aVAnd that person taking the photo can make a decision
+p396
+aVabout how and whether to respect it.
+p397
+aa(lp398
+VIn the real world, we see filtering of this sort
+p399
+aVtaking place in Pakistan.
+p400
+aVAnd we now have means that we can build, like this system,
+p401
+aVso that people can report the filtering as they encounter it.
+p402
+aVAnd it's no longer just a "I don't know. I couldn't get there. I guess I'll move on,"
+p403
+aVbut suddenly a collective consciousness
+p404
+aVabout what is blocked and censored
+p405
+aVwhere online.
+p406
+aVIn fact, talk about technology imitating life
+p407
+aVimitating tech, or maybe it's the other way around.
+p408
+aa(lp409
+VAn NYU researcher here took little cardboard robots
+p410
+aVwith smiley faces on them,
+p411
+aVand a motor that just drove them forward
+p412
+aVand a flag sticking out the back
+p413
+aVwith a desired destination.
+p414
+aVIt said, "Can you help me get there?"
+p415
+aVReleased it on the streets of Manhattan.
+p416
+aV(Laughter)
+p417
+aVThey'll fund anything these days.
+p418
+aVHere is the chart of over 43 people
+p419
+aVhelping to steer the robot that could not steer
+p420
+aVand get it on its way, from one corner
+p421
+aVfrom one corner of Washington Square Park
+p422
+aVto another.
+p423
+aa(lp424
+VThat leads to example number three: hitchhiking.
+p425
+aVI'm not so sure hitchhiking is dead.
+p426
+aVWhy? There is the Craigslist rideshare board.
+p427
+aVIf it were called the Craigslist hitchhiking board,
+p428
+aVtumbleweeds would be blowing through it.
+p429
+aVBut it's the rideshare board, and it's basically the same thing.
+p430
+aVNow why are people using it?
+p431
+aVI don't know. Maybe they think that, uh, killers don't plan ahead?
+p432
+aV(Laughter)
+p433
+aVNo. I think the actual answer is
+p434
+aVthat once you reframe it,
+p435
+aVonce you get out of one set of stale expectations
+p436
+aVfrom a failed project that had its day,
+p437
+aVbut now, for whatever reason, is tarnished,
+p438
+aVyou can actually rekindle the kind of human kindness and sharing
+p439
+aVthat something like this on Craigslist represents.
+p440
+aa(lp441
+VAnd then you can highlight it
+p442
+aVinto something like,
+p443
+aVyes, CouchSurfing.org.
+p444
+aVCouchSurfing: one guy's idea
+p445
+aVto, at last, put together people who are going somewhere far away
+p446
+aVand would like to sleep on a stranger's couch for free,
+p447
+aVwith people who live far away,
+p448
+aVand would like someone they don't know to sleep on their couch for free.
+p449
+aVIt's a brilliant idea.
+p450
+aVIt's a bee that, yes, flies.
+p451
+aa(lp452
+VAmazing how many successful couch surfings there have been.
+p453
+aVAnd if you're wondering, no, there have been no known fatalities
+p454
+aVassociated with CouchSurfing.
+p455
+aVAlthough, to be sure, the reputation system, at the moment,
+p456
+aVworks that you leave your report after the couch surfing experience,
+p457
+aVso there may be some selection bias there.
+p458
+aV(Laughter)
+p459
+aa(lp460
+VSo, my urging, my thought,
+p461
+aVis that the Internet isn't just a pile of information.
+p462
+aVIt's not a noun. It's a verb.
+p463
+aVAnd when you go on it,
+p464
+aVif you listen and see carefully and closely enough,
+p465
+aVwhat you will discover
+p466
+aVis that that information
+p467
+aVis saying something to you.
+p468
+aVWhat it's saying to you is what we heard yesterday,
+p469
+aVDemosthenes was saying to us.
+p470
+aVIt's saying, "Let's march." Thank you very much.
+p471
+aV(Applause)
+p472
+aasS'id'
+p473
+I640
+sS'title'
+p474
+VThe Web as random acts of kindness
+p475
+s.

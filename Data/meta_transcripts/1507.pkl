@@ -1,0 +1,646 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSomething happened in the early morning hours
+p4
+aVof May 2nd, 2000, that had a profound effect
+p5
+aVon the way our society operates.
+p6
+aVIronically, hardly anyone noticed at the time.
+p7
+aVThe change was silent, imperceptible,
+p8
+aVunless you knew exactly what to look for.
+p9
+aVOn that morning, U.S. President Bill Clinton
+p10
+aVordered that a special switch be thrown
+p11
+aVin the orbiting satellites of the Global Positioning System.
+p12
+aVInstantaneously, every civilian GPS receiver
+p13
+aVaround the globe went from errors the size of a football field
+p14
+aVto errors the size of a small room.
+p15
+aa(lp16
+VIt's hard to overstate the effect that this change
+p17
+aVin accuracy has had on us.
+p18
+aVBefore this switch was thrown, we didn't have
+p19
+aVin-car navigation systems giving turn-by-turn
+p20
+aVdirections, because back then, GPS couldn't tell you
+p21
+aVwhat block you were on, let alone what street.
+p22
+aa(lp23
+VFor geolocation, accuracy matters,
+p24
+aVand things have only improved over the last 10 years.
+p25
+aVWith more base stations, more ground stations,
+p26
+aVbetter receivers and better algorithms,
+p27
+aVGPS can now not only tell you what street you are on,
+p28
+aVbut what part of the street.
+p29
+aa(lp30
+VThis level of accuracy
+p31
+aVhas unleashed a firestorm of innovation.
+p32
+aVIn fact, many of you navigated here today
+p33
+aVwith the help of your TomTom or your smartphone.
+p34
+aVPaper maps are becoming obsolete.
+p35
+aa(lp36
+VBut we now stand on the verge of another revolution
+p37
+aVin geolocation accuracy.
+p38
+aVWhat if I told you that the two-meter positioning
+p39
+aVthat our current cell phones and our TomToms give us
+p40
+aVis pathetic compared to what we could be getting?
+p41
+aVFor some time now, it's been known that if you pay attention
+p42
+aVto the carrier phase of the GPS signal,
+p43
+aVand if you have an Internet connection,
+p44
+aVthen you can go from meter level to centimeter level,
+p45
+aVeven millimeter-level positioning.
+p46
+aa(lp47
+VSo why don't we have this capability on our phones?
+p48
+aVOnly, I believe, for a lack of imagination.
+p49
+aVManufacturers haven't built this carrier phase technique
+p50
+aVinto their cheap GPS chips
+p51
+aVbecause they're not sure what the general public would do
+p52
+aVwith geolocation so accurate that you could pinpoint
+p53
+aVthe wrinkles in the palm of your hand.
+p54
+aVBut you and I and other innovators,
+p55
+aVwe can see the potential in this next leap in accuracy.
+p56
+aVImagine, for example, an augmented reality app
+p57
+aVthat overlays a virtual world to millimeter-level precision
+p58
+aVon top of the physical world.
+p59
+aVI could build for you a structure up here in 3D,
+p60
+aVmillimeter accurate, that only you could see,
+p61
+aVor my friends at home.
+p62
+aa(lp63
+VSo this level of positioning, this is what we're looking for,
+p64
+aVand I believe that, within the next few years, I predict,
+p65
+aVthat this kind of hyper-precise, carrier phase-based positioning
+p66
+aVwill become cheap and ubiquitous,
+p67
+aVand the consequences will be fantastic.
+p68
+aa(lp69
+VThe Holy Grail, of course, is the GPS dot.
+p70
+aVDo you remember the movie "The Da Vinci Code?"
+p71
+aVHere's Professor Langdon examining a GPS dot,
+p72
+aVwhich his accomplice tells him is a tracking device
+p73
+aVaccurate within two feet anywhere on the globe,
+p74
+aVbut we know that in the world of nonfiction,
+p75
+aVthe GPS dot is impossible, right?
+p76
+aVFor one thing, GPS doesn't work indoors,
+p77
+aVand for another, they don't make devices quite this small,
+p78
+aVespecially when those devices have to relay
+p79
+aVtheir measurements back over a network.
+p80
+aa(lp81
+VWell, these objections were perfectly reasonable
+p82
+aVa few years ago, but things have changed.
+p83
+aVThere's been a strong trend toward miniaturization,
+p84
+aVbetter sensitivity, so much so that, a few years ago,
+p85
+aVa GPS tracking device looked like this clunky box
+p86
+aVto the left of the keys.
+p87
+aVCompare that with the device released just months ago
+p88
+aVthat's now packaged into something the size of a key fob,
+p89
+aVand if you take a look at the state of the art
+p90
+aVfor a complete GPS receiver, which is only a centimeter
+p91
+aVon a side and more sensitive than ever,
+p92
+aVyou realize that the GPS dot will soon move
+p93
+aVfrom fiction to nonfiction.
+p94
+aa(lp95
+VImagine what we could do with a world full of GPS dots.
+p96
+aVIt's not just that you'll never lose your wallet or your keys
+p97
+aVanymore, or your child when you're at Disneyland.
+p98
+aVYou'll buy GPS dots in bulk, and you'll stick them on
+p99
+aVeverything you own worth more than a few tens of dollars.
+p100
+aa(lp101
+VI couldn't find my shoes one recent morning,
+p102
+aVand, as usual, had to ask my wife if she had seen them.
+p103
+aVBut I shouldn't have to bother my wife with that kind of triviality.
+p104
+aVI should be able to ask my house where my shoes are.
+p105
+aV(Laughter)
+p106
+aa(lp107
+VThose of you who have made the switch to Gmail,
+p108
+aVremember how refreshing it was to go from
+p109
+aVorganizing all of your email to simply searching it.
+p110
+aVThe GPS dot will do the same for our possessions.
+p111
+aa(lp112
+VNow, of course, there is a flip side to the GPS dot.
+p113
+aVI was in my office some months back
+p114
+aVand got a telephone call.
+p115
+aVThe woman on the other end of the line, we'll call her Carol,
+p116
+aVwas panicked.
+p117
+aVApparently, an ex-boyfriend of Carol's from California
+p118
+aVhad found her in Texas and was following her around.
+p119
+aVSo you might ask at this point why she's calling you.
+p120
+aVWell, so did I.
+p121
+aVBut it turned out there was a technical twist to Carol's case.
+p122
+aVEvery time her ex-boyfriend would show up,
+p123
+aVat the most improbable times and the most improbable locations,
+p124
+aVhe was carrying an open laptop,
+p125
+aVand over time Carol realized that he had planted
+p126
+aVa GPS tracking device on her car,
+p127
+aVso she was calling me for help to disable it.
+p128
+aa(lp129
+V"Well, you should go to a good mechanic
+p130
+aVand have him look at your car," I said.
+p131
+aa(lp132
+V"I already have," she told me.
+p133
+aV"He didn't see anything obvious,
+p134
+aVand he said he'd have to take the car apart piece by piece."
+p135
+aa(lp136
+V"Well then, you'd better go to the police," I said.
+p137
+aa(lp138
+V"I already have," she replied.
+p139
+aV"They're not sure this rises to the level of harassment,
+p140
+aVand they're not set up technically to find the device."
+p141
+aa(lp142
+V"Okay, what about the FBI?"
+p143
+aa(lp144
+V"I've talked to them too, and same story."
+p145
+aa(lp146
+VWe then talked about her coming to my lab
+p147
+aVand us performing a radio sweep of her car,
+p148
+aVbut I wasn't even sure that would work,
+p149
+aVgiven that some of these devices are configured
+p150
+aVto only transmit when they're inside safe zones
+p151
+aVor when the car is moving.
+p152
+aa(lp153
+VSo, there we were.
+p154
+aVCarol isn't the first, and certainly won't be the last,
+p155
+aVto find herself in this kind of fearsome environment,
+p156
+aVworrisome situation caused by GPS tracking.
+p157
+aa(lp158
+VIn fact, as I looked into her case,
+p159
+aVI discovered to my surprise that it's not clearly illegal
+p160
+aVfor you or me to put a tracking device on someone else's car.
+p161
+aVThe Supreme Court ruled last month that a policeman
+p162
+aVhas to get a warrant if he wants to do prolonged tracking,
+p163
+aVbut the law isn't clear about civilians doing this to one another,
+p164
+aVso it's not just Big Brother we have to worry about,
+p165
+aVbut Big Neighbor. (Laughter)
+p166
+aa(lp167
+VThere is one alternative that Carol could have taken,
+p168
+aVvery effective. It's called the Wave Bubble.
+p169
+aVIt's an open-source GPS jammer,
+p170
+aVdeveloped by Limor Fried,
+p171
+aVa graduate student at MIT, and Limor calls it
+p172
+aV"a tool for reclaiming our personal space."
+p173
+aVWith a flip of the switch you create a bubble around you
+p174
+aVwithin which GPS signals can't reside.
+p175
+aVThey get drowned out by the bubble.
+p176
+aVAnd Limor designed this, in part, because, like Carol,
+p177
+aVshe felt threatened by GPS tracking.
+p178
+aVThen she posted her design to the web,
+p179
+aVand if you don't have time to build your own,
+p180
+aVyou can buy one.
+p181
+aVChinese manufacturers now sell thousands
+p182
+aVof nearly identical devices on the Internet.
+p183
+aa(lp184
+VSo you might be thinking, the Wave Bubble sounds great.
+p185
+aVI should have one. Might come in handy if somebody ever puts a tracking device on my car.
+p186
+aVBut you should be aware that its use is very much illegal
+p187
+aVin the United States.
+p188
+aVAnd why is that?
+p189
+aVWell, because it's not a bubble at all.
+p190
+aVIts jamming signals don't stop at the edge
+p191
+aVof your personal space or at the edge of your car.
+p192
+aVThey go on to jam innocent GPS receivers for miles around you. (Laughter)
+p193
+aa(lp194
+VNow, if you're Carol or Limor,
+p195
+aVor someone who feels threatened by GPS tracking,
+p196
+aVit might not feel wrong to turn on a Wave Bubble,
+p197
+aVbut in fact, the results can be disastrous.
+p198
+aVImagine, for example, you're the captain of a cruise ship
+p199
+aVtrying to make your way through a thick fog
+p200
+aVand some passenger in the back turns on a Wave Bubble.
+p201
+aVAll of a sudden your GPS readout goes blank,
+p202
+aVand now it's just you and the fog
+p203
+aVand whatever you can pull off the radar system
+p204
+aVif you remember how to work it.
+p205
+aVThey \u2014 in fact, they don't update or upkeep lighthouses
+p206
+aVanymore, and LORAN, the only backup to GPS,
+p207
+aVwas discontinued last year.
+p208
+aa(lp209
+VOur modern society has a special relationship with GPS.
+p210
+aVWe're almost blindly reliant on it.
+p211
+aVIt's built deeply into our systems and infrastructure.
+p212
+aVSome call it "the invisible utility."
+p213
+aVSo, turning on a Wave Bubble might not just cause inconvenience.
+p214
+aVIt might be deadly.
+p215
+aa(lp216
+VBut as it turns out, for purposes of protecting your privacy
+p217
+aVat the expense of general GPS reliability,
+p218
+aVthere's something even more potent
+p219
+aVand more subversive than a Wave Bubble,
+p220
+aVand that is a GPS spoofer.
+p221
+aa(lp222
+VThe idea behind the GPS spoofer is simple.
+p223
+aVInstead of jamming the GPS signals, you fake them.
+p224
+aVYou imitate them, and if you do it right, the device
+p225
+aVyou're attacking doesn't even know it's being spoofed.
+p226
+aa(lp227
+VSo let me show you how this works.
+p228
+aVIn any GPS receiver, there's a peak inside
+p229
+aVthat corresponds to the authentic signals.
+p230
+aVThese three red dots represent the tracking points
+p231
+aVthat try to keep themselves centered on that peak.
+p232
+aVBut if you send in a fake GPS signal,
+p233
+aVanother peak pops up, and if you can get these two peaks
+p234
+aVperfectly aligned, the tracking points can't tell the difference,
+p235
+aVand they get hijacked by the stronger counterfeit signal,
+p236
+aVwith the authentic peak getting forced off.
+p237
+aVAt this point, the game is over.
+p238
+aVThe fake signals now completely control this GPS receiver.
+p239
+aa(lp240
+VSo is this really possible?
+p241
+aVCan someone really manipulate
+p242
+aVthe timing and positioning of a GPS receiver
+p243
+aVjust like that, with a spoofer?
+p244
+aVWell, the short answer is yes.
+p245
+aVThe key is that civil GPS signals
+p246
+aVare completely open.
+p247
+aVThey have no encryption. They have no authentication.
+p248
+aVThey're wide open, vulnerable to a kind of spoofing attack.
+p249
+aVEven so, up until very recently,
+p250
+aVnobody worried about GPS spoofers.
+p251
+aVPeople figured that it would be too complex
+p252
+aVor too expensive for some hacker to build one.
+p253
+aa(lp254
+VBut I, and a friend of mine from graduate school,
+p255
+aVwe didn't see it that way.
+p256
+aVWe knew it wasn't going to be so hard,
+p257
+aVand we wanted to be the first to build one
+p258
+aVso we could get out in front of the problem
+p259
+aVand help protect against GPS spoofing.
+p260
+aVI remember vividly the week it all came together.
+p261
+aVWe built it at my home, which means that
+p262
+aVI got a little extra help from my three-year-old son Ramon.
+p263
+aVHere's Ramon \u2014 (Laughter) \u2014
+p264
+aVlooking for a little attention from Dad that week.
+p265
+aVAt first, the spoofer was just a jumble of cables
+p266
+aVand computers, though we eventually got it packaged
+p267
+aVinto a small box.
+p268
+aa(lp269
+VNow, the Dr. Frankenstein moment,
+p270
+aVwhen the spoofer finally came alive
+p271
+aVand I glimpsed its awful potential,
+p272
+aVcame late one night when I tested the spoofer
+p273
+aVagainst my iPhone.
+p274
+aVLet me show you some actual footage from that
+p275
+aVvery first experiment.
+p276
+aVI had come to completely trust this little blue dot
+p277
+aVand its reassuring blue halo.
+p278
+aVThey seemed to speak to me.
+p279
+aVThey'd say, "Here you are. Here you are." (Laughter)
+p280
+aVAnd "you can trust us."
+p281
+aVSo something felt very wrong about the world.
+p282
+aVIt was a sense, almost, of betrayal,
+p283
+aVwhen this little blue dot started at my house,
+p284
+aVand went running off toward the north
+p285
+aVleaving me behind. I wasn't moving.
+p286
+aVWhat I then saw in this little moving blue dot
+p287
+aVwas the potential for chaos.
+p288
+aVI saw airplanes and ships veering off course, with the captain
+p289
+aVlearning only too late that something was wrong.
+p290
+aVI saw the GPS-derived timing
+p291
+aVof the New York Stock Exchange
+p292
+aVbeing manipulated by hackers.
+p293
+aVYou can scarcely imagine the kind of havoc
+p294
+aVyou could cause if you knew what you were doing
+p295
+aVwith a GPS spoofer.
+p296
+aa(lp297
+VThere is, though, one redeeming feature
+p298
+aVof the GPS spoofer.
+p299
+aVIt's the ultimate weapon against an invasion of GPS dots.
+p300
+aVImagine, for example, you're being tracked.
+p301
+aVWell, you can play the tracker for a fool,
+p302
+aVpretending to be at work when you're really on vacation.
+p303
+aVOr, if you're Carol, you could lure your ex-boyfriend
+p304
+aVinto some empty parking lot
+p305
+aVwhere the police are waiting for him.
+p306
+aa(lp307
+VSo I'm fascinated by this conflict, a looming conflict,
+p308
+aVbetween privacy on the one hand
+p309
+aVand the need for a clean radio spectrum on the other.
+p310
+aVWe simply cannot tolerate GPS jammers and spoofers,
+p311
+aVand yet, given the lack of effective legal means
+p312
+aVfor protecting our privacy from the GPS dot,
+p313
+aVcan you really blame people for wanting to turn them on,
+p314
+aVfor wanting to use them?
+p315
+aa(lp316
+VI hold out hope that we'll be able to reconcile
+p317
+aVthis conflict with some sort of,
+p318
+aVsome yet uninvented technology.
+p319
+aVBut meanwhile, grab some popcorn,
+p320
+aVbecause things are going to get interesting.
+p321
+aa(lp322
+VWithin the next few years,
+p323
+aVmany of you will be the proud owner of a GPS dot.
+p324
+aVMaybe you'll have a whole bag full of them.
+p325
+aVYou'll never lose track of your things again.
+p326
+aVThe GPS dot will fundamentally reorder your life.
+p327
+aVBut will you be able to resist the temptation
+p328
+aVto track your fellow man?
+p329
+aVOr will you be able to resist the temptation
+p330
+aVto turn on a GPS spoofer or a Wave Bubble
+p331
+aVto protect your own privacy?
+p332
+aa(lp333
+VSo, as usual, what we see just beyond the horizon
+p334
+aVis full of promise and peril.
+p335
+aVIt'll be fascinating to see how this all turns out.
+p336
+aa(lp337
+VThanks. (Applause)
+p338
+aasS'id'
+p339
+I1507
+sS'title'
+p340
+VHow to fool a GPS
+p341
+s.

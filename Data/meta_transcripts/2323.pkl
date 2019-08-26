@@ -1,0 +1,923 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VChris Anderson: You were something of a mathematical phenom.
+p4
+aVYou had already taught at Harvard and MIT at a young age.
+p5
+aVAnd then the NSA came calling.
+p6
+aVWhat was that about?
+p7
+aa(lp8
+VJim Simons: Well the NSA \u2014 that's the National Security Agency \u2014
+p9
+aVthey didn't exactly come calling.
+p10
+aVThey had an operation at Princeton, where they hired mathematicians
+p11
+aVto attack secret codes and stuff like that.
+p12
+aVAnd I knew that existed.
+p13
+aVAnd they had a very good policy,
+p14
+aVbecause you could do half your time at your own mathematics,
+p15
+aVand at least half your time working on their stuff.
+p16
+aVAnd they paid a lot.
+p17
+aVSo that was an irresistible pull.
+p18
+aVSo, I went there.
+p19
+aa(lp20
+VCA: You were a code-cracker.
+p21
+aa(lp22
+VJS: I was.
+p23
+aa(lp24
+VCA: Until you got fired.
+p25
+aa(lp26
+VJS: Well, I did get fired. Yes.
+p27
+aa(lp28
+VCA: How come?
+p29
+aa(lp30
+VJS: Well, how come?
+p31
+aVI got fired because, well, the Vietnam War was on,
+p32
+aVand the boss of bosses in my organization was a big fan of the war
+p33
+aVand wrote a New York Times article, a magazine section cover story,
+p34
+aVabout how we would win in Vietnam.
+p35
+aVAnd I didn't like that war, I thought it was stupid.
+p36
+aVAnd I wrote a letter to the Times, which they published,
+p37
+aVsaying not everyone who works for Maxwell Taylor,
+p38
+aVif anyone remembers that name, agrees with his views.
+p39
+aVAnd I gave my own views ...
+p40
+aa(lp41
+VCA: Oh, OK. I can see that would \u2014
+p42
+aa(lp43
+VJS: ... which were different from General Taylor's.
+p44
+aVBut in the end, nobody said anything.
+p45
+aVBut then, I was 29 years old at this time, and some kid came around
+p46
+aVand said he was a stringer from Newsweek magazine
+p47
+aVand he wanted to interview me and ask what I was doing about my views.
+p48
+aVAnd I told him, "I'm doing mostly mathematics now,
+p49
+aVand when the war is over, then I'll do mostly their stuff."
+p50
+aVThen I did the only intelligent thing I'd done that day \u2014
+p51
+aVI told my local boss that I gave that interview.
+p52
+aVAnd he said, "What'd you say?"
+p53
+aVAnd I told him what I said.
+p54
+aVAnd then he said, "I've got to call Taylor."
+p55
+aVHe called Taylor; that took 10 minutes.
+p56
+aVI was fired five minutes after that.
+p57
+aa(lp58
+VCA: OK.
+p59
+aa(lp60
+VJS: But it wasn't bad.
+p61
+aa(lp62
+VCA: It wasn't bad, because you went on to Stony Brook
+p63
+aVand stepped up your mathematical career.
+p64
+aVYou started working with this man here.
+p65
+aVWho is this?
+p66
+aa(lp67
+VJS: Oh, [Shiing-Shen] Chern.
+p68
+aVChern was one of the great mathematicians of the century.
+p69
+aVI had known him when I was a graduate student at Berkeley.
+p70
+aVAnd I had some ideas,
+p71
+aVand I brought them to him and he liked them.
+p72
+aVTogether, we did this work which you can easily see up there.
+p73
+aVThere it is.
+p74
+aa(lp75
+VCA: It led to you publishing a famous paper together.
+p76
+aVCan you explain at all what that work was?
+p77
+aa(lp78
+VJS: No.
+p79
+aa(lp80
+V(Laughter)
+p81
+aa(lp82
+VJS: I mean, I could explain it to somebody.
+p83
+aa(lp84
+V(Laughter)
+p85
+aa(lp86
+VCA: How about explaining this?
+p87
+aa(lp88
+VJS: But not many. Not many people.
+p89
+aa(lp90
+VCA: I think you told me it had something to do with spheres,
+p91
+aVso let's start here.
+p92
+aa(lp93
+VJS: Well, it did, but I'll say about that work \u2014
+p94
+aVit did have something to do with that, but before we get to that \u2014
+p95
+aVthat work was good mathematics.
+p96
+aVI was very happy with it; so was Chern.
+p97
+aVIt even started a little sub-field that's now flourishing.
+p98
+aVBut, more interestingly, it happened to apply to physics,
+p99
+aVsomething we knew nothing about \u2014 at least I knew nothing about physics,
+p100
+aVand I don't think Chern knew a heck of a lot.
+p101
+aVAnd about 10 years after the paper came out,
+p102
+aVa guy named Ed Witten in Princeton started applying it to string theory
+p103
+aVand people in Russia started applying it to what's called "condensed matter."
+p104
+aVToday, those things in there called Chern-Simons invariants
+p105
+aVhave spread through a lot of physics.
+p106
+aVAnd it was amazing.
+p107
+aVWe didn't know any physics.
+p108
+aVIt never occurred to me that it would be applied to physics.
+p109
+aVBut that's the thing about mathematics \u2014 you never know where it's going to go.
+p110
+aa(lp111
+VCA: This is so incredible.
+p112
+aVSo, we've been talking about how evolution shapes human minds
+p113
+aVthat may or may not perceive the truth.
+p114
+aVSomehow, you come up with a mathematical theory,
+p115
+aVnot knowing any physics,
+p116
+aVdiscover two decades later that it's being applied
+p117
+aVto profoundly describe the actual physical world.
+p118
+aVHow can that happen?
+p119
+aa(lp120
+VJS: God knows.
+p121
+aa(lp122
+V(Laughter)
+p123
+aa(lp124
+VBut there's a famous physicist named [Eugene] Wigner,
+p125
+aVand he wrote an essay on the unreasonable effectiveness of mathematics.
+p126
+aVSomehow, this mathematics, which is rooted in the real world
+p127
+aVin some sense \u2014 we learn to count, measure, everyone would do that \u2014
+p128
+aVand then it flourishes on its own.
+p129
+aVBut so often it comes back to save the day.
+p130
+aVGeneral relativity is an example.
+p131
+aV[Hermann] Minkowski had this geometry, and Einstein realized,
+p132
+aV"Hey! It's the very thing in which I can cast general relativity."
+p133
+aVSo, you never know. It is a mystery.
+p134
+aVIt is a mystery.
+p135
+aa(lp136
+VCA: So, here's a mathematical piece of ingenuity.
+p137
+aVTell us about this.
+p138
+aa(lp139
+VJS: Well, that's a ball \u2014 it's a sphere, and it has a lattice around it \u2014
+p140
+aVyou know, those squares.
+p141
+aVWhat I'm going to show here was originally observed by [Leonhard] Euler,
+p142
+aVthe great mathematician, in the 1700s.
+p143
+aVAnd it gradually grew to be a very important field in mathematics:
+p144
+aValgebraic topology, geometry.
+p145
+aVThat paper up there had its roots in this.
+p146
+aVSo, here's this thing:
+p147
+aVit has eight vertices, 12 edges, six faces.
+p148
+aVAnd if you look at the difference \u2014 vertices minus edges plus faces \u2014
+p149
+aVyou get two.
+p150
+aVOK, well, two. That's a good number.
+p151
+aVHere's a different way of doing it \u2014 these are triangles covering \u2014
+p152
+aVthis has 12 vertices and 30 edges
+p153
+aVand 20 faces, 20 tiles.
+p154
+aVAnd vertices minus edges plus faces still equals two.
+p155
+aVAnd in fact, you could do this any which way \u2014
+p156
+aVcover this thing with all kinds of polygons and triangles
+p157
+aVand mix them up.
+p158
+aVAnd you take vertices minus edges plus faces \u2014 you'll get two.
+p159
+aVHere's a different shape.
+p160
+aVThis is a torus, or the surface of a doughnut: 16 vertices
+p161
+aVcovered by these rectangles, 32 edges, 16 faces.
+p162
+aVVertices minus edges comes out to be zero.
+p163
+aVIt'll always come out to zero.
+p164
+aVEvery time you cover a torus with squares or triangles
+p165
+aVor anything like that, you're going to get zero.
+p166
+aVSo, this is called the Euler characteristic.
+p167
+aVAnd it's what's called a topological invariant.
+p168
+aVIt's pretty amazing.
+p169
+aVNo matter how you do it, you're always get the same answer.
+p170
+aVSo that was the first sort of thrust, from the mid-1700s,
+p171
+aVinto a subject which is now called algebraic topology.
+p172
+aa(lp173
+VCA: And your own work took an idea like this and moved it
+p174
+aVinto higher-dimensional theory,
+p175
+aVhigher-dimensional objects, and found new invariances?
+p176
+aa(lp177
+VJS: Yes. Well, there were already higher-dimensional invariants:
+p178
+aVPontryagin classes \u2014 actually, there were Chern classes.
+p179
+aVThere were a bunch of these types of invariants.
+p180
+aVI was struggling to work on one of them
+p181
+aVand model it sort of combinatorially,
+p182
+aVinstead of the way it was typically done,
+p183
+aVand that led to this work and we uncovered some new things.
+p184
+aVBut if it wasn't for Mr. Euler \u2014
+p185
+aVwho wrote almost 70 volumes of mathematics
+p186
+aVand had 13 children,
+p187
+aVwho he apparently would dandle on his knee while he was writing \u2014
+p188
+aVif it wasn't for Mr. Euler, there wouldn't perhaps be these invariants.
+p189
+aa(lp190
+VCA: OK, so that's at least given us a flavor of that amazing mind in there.
+p191
+aVLet's talk about Renaissance.
+p192
+aVBecause you took that amazing mind and having been a code-cracker at the NSA,
+p193
+aVyou started to become a code-cracker in the financial industry.
+p194
+aVI think you probably didn't buy efficient market theory.
+p195
+aVSomehow you found a way of creating astonishing returns over two decades.
+p196
+aVThe way it's been explained to me,
+p197
+aVwhat's remarkable about what you did wasn't just the size of the returns,
+p198
+aVit's that you took them with surprisingly low volatility and risk,
+p199
+aVcompared with other hedge funds.
+p200
+aVSo how on earth did you do this, Jim?
+p201
+aa(lp202
+VJS: I did it by assembling a wonderful group of people.
+p203
+aVWhen I started doing trading, I had gotten a little tired of mathematics.
+p204
+aVI was in my late 30s, I had a little money.
+p205
+aVI started trading and it went very well.
+p206
+aVI made quite a lot of money with pure luck.
+p207
+aVI mean, I think it was pure luck.
+p208
+aVIt certainly wasn't mathematical modeling.
+p209
+aVBut in looking at the data, after a while I realized:
+p210
+aVit looks like there's some structure here.
+p211
+aVAnd I hired a few mathematicians, and we started making some models \u2014
+p212
+aVjust the kind of thing we did back at IDA [Institute for Defense Analyses].
+p213
+aVYou design an algorithm, you test it out on a computer.
+p214
+aVDoes it work? Doesn't it work? And so on.
+p215
+aa(lp216
+VCA: Can we take a look at this?
+p217
+aVBecause here's a typical graph of some commodity.
+p218
+aVI look at that, and I say, "That's just a random, up-and-down walk \u2014
+p219
+aVmaybe a slight upward trend over that whole period of time."
+p220
+aVHow on earth could you trade looking at that,
+p221
+aVand see something that wasn't just random?
+p222
+aa(lp223
+VJS: In the old days \u2014 this is kind of a graph from the old days,
+p224
+aVcommodities or currencies had a tendency to trend.
+p225
+aVNot necessarily the very light trend you see here, but trending in periods.
+p226
+aVAnd if you decided, OK, I'm going to predict today,
+p227
+aVby the average move in the past 20 days \u2014
+p228
+aVmaybe that would be a good prediction, and I'd make some money.
+p229
+aVAnd in fact, years ago, such a system would work \u2014
+p230
+aVnot beautifully, but it would work.
+p231
+aVYou'd make money, you'd lose money, you'd make money.
+p232
+aVBut this is a year's worth of days,
+p233
+aVand you'd make a little money during that period.
+p234
+aVIt's a very vestigial system.
+p235
+aa(lp236
+VCA: So you would test a bunch of lengths of trends in time
+p237
+aVand see whether, for example,
+p238
+aVa 10-day trend or a 15-day trend was predictive of what happened next.
+p239
+aa(lp240
+VJS: Sure, you would try all those things and see what worked best.
+p241
+aVTrend-following would have been great in the '60s,
+p242
+aVand it was sort of OK in the '70s.
+p243
+aVBy the '80s, it wasn't.
+p244
+aa(lp245
+VCA: Because everyone could see that.
+p246
+aVSo, how did you stay ahead of the pack?
+p247
+aa(lp248
+VJS: We stayed ahead of the pack by finding other approaches \u2014
+p249
+aVshorter-term approaches to some extent.
+p250
+aVThe real thing was to gather a tremendous amount of data \u2014
+p251
+aVand we had to get it by hand in the early days.
+p252
+aVWe went down to the Federal Reserve and copied interest rate histories
+p253
+aVand stuff like that, because it didn't exist on computers.
+p254
+aVWe got a lot of data.
+p255
+aVAnd very smart people \u2014 that was the key.
+p256
+aVI didn't really know how to hire people to do fundamental trading.
+p257
+aVI had hired a few \u2014 some made money, some didn't make money.
+p258
+aVI couldn't make a business out of that.
+p259
+aVBut I did know how to hire scientists,
+p260
+aVbecause I have some taste in that department.
+p261
+aVSo, that's what we did.
+p262
+aVAnd gradually these models got better and better,
+p263
+aVand better and better.
+p264
+aa(lp265
+VCA: You're credited with doing something remarkable at Renaissance,
+p266
+aVwhich is building this culture, this group of people,
+p267
+aVwho weren't just hired guns who could be lured away by money.
+p268
+aVTheir motivation was doing exciting mathematics and science.
+p269
+aa(lp270
+VJS: Well, I'd hoped that might be true.
+p271
+aVBut some of it was money.
+p272
+aa(lp273
+VCA: They made a lot of money.
+p274
+aa(lp275
+VJS: I can't say that no one came because of the money.
+p276
+aVI think a lot of them came because of the money.
+p277
+aVBut they also came because it would be fun.
+p278
+aa(lp279
+VCA: What role did machine learning play in all this?
+p280
+aa(lp281
+VJS: In a certain sense, what we did was machine learning.
+p282
+aVYou look at a lot of data, and you try to simulate different predictive schemes,
+p283
+aVuntil you get better and better at it.
+p284
+aVIt doesn't necessarily feed back on itself the way we did things.
+p285
+aVBut it worked.
+p286
+aa(lp287
+VCA: So these different predictive schemes can be really quite wild and unexpected.
+p288
+aVI mean, you looked at everything, right?
+p289
+aVYou looked at the weather, length of dresses, political opinion.
+p290
+aa(lp291
+VJS: Yes, length of dresses we didn't try.
+p292
+aa(lp293
+VCA: What sort of things?
+p294
+aa(lp295
+VJS: Well, everything.
+p296
+aVEverything is grist for the mill \u2014 except hem lengths.
+p297
+aVWeather, annual reports,
+p298
+aVquarterly reports, historic data itself, volumes, you name it.
+p299
+aVWhatever there is.
+p300
+aVWe take in terabytes of data a day.
+p301
+aVAnd store it away and massage it and get it ready for analysis.
+p302
+aVYou're looking for anomalies.
+p303
+aVYou're looking for \u2014 like you said,
+p304
+aVthe efficient market hypothesis is not correct.
+p305
+aa(lp306
+VCA: But any one anomaly might be just a random thing.
+p307
+aVSo, is the secret here to just look at multiple strange anomalies,
+p308
+aVand see when they align?
+p309
+aa(lp310
+VJS: Any one anomaly might be a random thing;
+p311
+aVhowever, if you have enough data you can tell that it's not.
+p312
+aVYou can see an anomaly that's persistent for a sufficiently long time \u2014
+p313
+aVthe probability of it being random is not high.
+p314
+aVBut these things fade after a while; anomalies can get washed out.
+p315
+aVSo you have to keep on top of the business.
+p316
+aa(lp317
+VCA: A lot of people look at the hedge fund industry now
+p318
+aVand are sort of ... shocked by it,
+p319
+aVby how much wealth is created there,
+p320
+aVand how much talent is going into it.
+p321
+aVDo you have any worries about that industry,
+p322
+aVand perhaps the financial industry in general?
+p323
+aVKind of being on a runaway train that's \u2014
+p324
+aVI don't know \u2014 helping increase inequality?
+p325
+aVHow would you champion what's happening in the hedge fund industry?
+p326
+aa(lp327
+VJS: I think in the last three or four years,
+p328
+aVhedge funds have not done especially well.
+p329
+aVWe've done dandy,
+p330
+aVbut the hedge fund industry as a whole has not done so wonderfully.
+p331
+aVThe stock market has been on a roll, going up as everybody knows,
+p332
+aVand price-earnings ratios have grown.
+p333
+aVSo an awful lot of the wealth that's been created in the last \u2014
+p334
+aVlet's say, five or six years \u2014 has not been created by hedge funds.
+p335
+aVPeople would ask me, "What's a hedge fund?"
+p336
+aVAnd I'd say, "One and 20."
+p337
+aVWhich means \u2014 now it's two and 20 \u2014
+p338
+aVit's two percent fixed fee and 20 percent of profits.
+p339
+aVHedge funds are all different kinds of creatures.
+p340
+aa(lp341
+VCA: Rumor has it you charge slightly higher fees than that.
+p342
+aa(lp343
+VJS: We charged the highest fees in the world at one time.
+p344
+aVFive and 44, that's what we charge.
+p345
+aa(lp346
+VCA: Five and 44.
+p347
+aVSo five percent flat, 44 percent of upside.
+p348
+aVYou still made your investors spectacular amounts of money.
+p349
+aa(lp350
+VJS: We made good returns, yes.
+p351
+aVPeople got very mad: "How can you charge such high fees?"
+p352
+aVI said, "OK, you can withdraw."
+p353
+aVBut "How can I get more?" was what people were \u2014
+p354
+aa(lp355
+V(Laughter)
+p356
+aa(lp357
+VBut at a certain point, as I think I told you,
+p358
+aVwe bought out all the investors because there's a capacity to the fund.
+p359
+aa(lp360
+VCA: But should we worry about the hedge fund industry
+p361
+aVattracting too much of the world's great mathematical and other talent
+p362
+aVto work on that, as opposed to the many other problems in the world?
+p363
+aa(lp364
+VJS: Well, it's not just mathematical.
+p365
+aVWe hire astronomers and physicists and things like that.
+p366
+aVI don't think we should worry about it too much.
+p367
+aVIt's still a pretty small industry.
+p368
+aVAnd in fact, bringing science into the investing world
+p369
+aVhas improved that world.
+p370
+aVIt's reduced volatility. It's increased liquidity.
+p371
+aVSpreads are narrower because people are trading that kind of stuff.
+p372
+aVSo I'm not too worried about Einstein going off and starting a hedge fund.
+p373
+aa(lp374
+VCA: You're at a phase in your life now where you're actually investing, though,
+p375
+aVat the other end of the supply chain \u2014
+p376
+aVyou're actually boosting mathematics across America.
+p377
+aVThis is your wife, Marilyn.
+p378
+aVYou're working on philanthropic issues together.
+p379
+aVTell me about that.
+p380
+aa(lp381
+VJS: Well, Marilyn started \u2014
+p382
+aVthere she is up there, my beautiful wife \u2014
+p383
+aVshe started the foundation about 20 years ago.
+p384
+aVI think '94.
+p385
+aVI claim it was '93, she says it was '94,
+p386
+aVbut it was one of those two years.
+p387
+aa(lp388
+V(Laughter)
+p389
+aa(lp390
+VWe started the foundation, just as a convenient way to give charity.
+p391
+aVShe kept the books, and so on.
+p392
+aVWe did not have a vision at that time, but gradually a vision emerged \u2014
+p393
+aVwhich was to focus on math and science, to focus on basic research.
+p394
+aVAnd that's what we've done.
+p395
+aVSix years ago or so, I left Renaissance and went to work at the foundation.
+p396
+aVSo that's what we do.
+p397
+aa(lp398
+VCA: And so Math for America is basically investing
+p399
+aVin math teachers around the country,
+p400
+aVgiving them some extra income, giving them support and coaching.
+p401
+aVAnd really trying to make that more effective
+p402
+aVand make that a calling to which teachers can aspire.
+p403
+aa(lp404
+VJS: Yeah \u2014 instead of beating up the bad teachers,
+p405
+aVwhich has created morale problems all through the educational community,
+p406
+aVin particular in math and science,
+p407
+aVwe focus on celebrating the good ones and giving them status.
+p408
+aVYeah, we give them extra money, 15,000 dollars a year.
+p409
+aVWe have 800 math and science teachers in New York City in public schools today,
+p410
+aVas part of a core.
+p411
+aVThere's a great morale among them.
+p412
+aVThey're staying in the field.
+p413
+aVNext year, it'll be 1,000 and that'll be 10 percent
+p414
+aVof the math and science teachers in New York [City] public schools.
+p415
+aa(lp416
+V(Applause)
+p417
+aa(lp418
+VCA: Jim, here's another project that you've supported philanthropically:
+p419
+aVResearch into origins of life, I guess.
+p420
+aVWhat are we looking at here?
+p421
+aVJS: Well, I'll save that for a second.
+p422
+aVAnd then I'll tell you what you're looking at.
+p423
+aVOrigins of life is a fascinating question.
+p424
+aVHow did we get here?
+p425
+aVWell, there are two questions:
+p426
+aVOne is, what is the route from geology to biology \u2014
+p427
+aVhow did we get here?
+p428
+aVAnd the other question is, what did we start with?
+p429
+aVWhat material, if any, did we have to work with on this route?
+p430
+aVThose are two very, very interesting questions.
+p431
+aVThe first question is a tortuous path from geology up to RNA
+p432
+aVor something like that \u2014 how did that all work?
+p433
+aVAnd the other, what do we have to work with?
+p434
+aVWell, more than we think.
+p435
+aVSo what's pictured there is a star in formation.
+p436
+aVNow, every year in our Milky Way, which has 100 billion stars,
+p437
+aVabout two new stars are created.
+p438
+aVDon't ask me how, but they're created.
+p439
+aVAnd it takes them about a million years to settle out.
+p440
+aVSo, in steady state,
+p441
+aVthere are about two million stars in formation at any time.
+p442
+aVThat one is somewhere along this settling-down period.
+p443
+aVAnd there's all this crap sort of circling around it,
+p444
+aVdust and stuff.
+p445
+aVAnd it'll form probably a solar system, or whatever it forms.
+p446
+aVBut here's the thing \u2014
+p447
+aVin this dust that surrounds a forming star
+p448
+aVhave been found, now, significant organic molecules.
+p449
+aVMolecules not just like methane, but formaldehyde and cyanide \u2014
+p450
+aVthings that are the building blocks \u2014 the seeds, if you will \u2014 of life.
+p451
+aVSo, that may be typical.
+p452
+aVAnd it may be typical that planets around the universe
+p453
+aVstart off with some of these basic building blocks.
+p454
+aVNow does that mean there's going to be life all around?
+p455
+aVMaybe.
+p456
+aVBut it's a question of how tortuous this path is
+p457
+aVfrom those frail beginnings, those seeds, all the way to life.
+p458
+aVAnd most of those seeds will fall on fallow planets.
+p459
+aa(lp460
+VCA: So for you, personally,
+p461
+aVfinding an answer to this question of where we came from,
+p462
+aVof how did this thing happen, that is something you would love to see.
+p463
+aa(lp464
+VJS: Would love to see.
+p465
+aVAnd like to know \u2014
+p466
+aVif that path is tortuous enough, and so improbable,
+p467
+aVthat no matter what you start with, we could be a singularity.
+p468
+aVBut on the other hand,
+p469
+aVgiven all this organic dust that's floating around,
+p470
+aVwe could have lots of friends out there.
+p471
+aVIt'd be great to know.
+p472
+aa(lp473
+VCA: Jim, a couple of years ago, I got the chance to speak with Elon Musk,
+p474
+aVand I asked him the secret of his success,
+p475
+aVand he said taking physics seriously was it.
+p476
+aVListening to you, what I hear you saying is taking math seriously,
+p477
+aVthat has infused your whole life.
+p478
+aVIt's made you an absolute fortune, and now it's allowing you to invest
+p479
+aVin the futures of thousands and thousands of kids across America and elsewhere.
+p480
+aVCould it be that science actually works?
+p481
+aVThat math actually works?
+p482
+aa(lp483
+VJS: Well, math certainly works. Math certainly works.
+p484
+aVBut this has been fun.
+p485
+aVWorking with Marilyn and giving it away has been very enjoyable.
+p486
+aa(lp487
+VCA: I just find it \u2014 it's an inspirational thought to me,
+p488
+aVthat by taking knowledge seriously, so much more can come from it.
+p489
+aVSo thank you for your amazing life, and for coming here to TED.
+p490
+aa(lp491
+VThank you.
+p492
+aa(lp493
+VJim Simons!
+p494
+aa(lp495
+V(Applause)
+p496
+aasS'id'
+p497
+I2323
+sS'title'
+p498
+VThe mathematician who cracked Wall Street
+p499
+s.

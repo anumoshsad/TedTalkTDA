@@ -1,0 +1,414 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VTwo months ago, my kids and I huddled around a cell phone
+p4
+aVwatching the live stream of the Game Awards,
+p5
+aVone of the video game industry's biggest nights.
+p6
+aVThey announced the nominees for the Game for Impact,
+p7
+aVan award that's given to a thought-provoking video game
+p8
+aVwith a profound prosocial message or meaning.
+p9
+aVThey opened the envelope
+p10
+aVand they read the title of our video game.
+p11
+aVAn award ...
+p12
+aVfor impact.
+p13
+aVIt was almost funny, actually,
+p14
+aVbecause I always thought that winning an award like that
+p15
+aVwould have this huge impact on my life,
+p16
+aVbut I found that the opposite is true.
+p17
+aa(lp18
+VThe big nights,
+p19
+aVthe accomplishments \u2014
+p20
+aVthey fade.
+p21
+aVBut the hardest nights of my life have stuck with me,
+p22
+aVimpacting who I am
+p23
+aVand what I do.
+p24
+aa(lp25
+VIn 2010, my third son, Joel, was diagnosed with a rare and aggressive brain tumor.
+p26
+aVAnd before that year was finished,
+p27
+aVdoctors sat my husband and I down
+p28
+aVand let us know that his tumor had returned
+p29
+aVdespite the most aggressive chemotherapy and radiation that they could offer him.
+p30
+aVOn that terrible night,
+p31
+aVafter learning that Joel had perhaps four months to live,
+p32
+aVI cuddled up with my two older sons in bed \u2014
+p33
+aVthey were five and three at the time \u2014
+p34
+aVand I never really knew how much they understood,
+p35
+aVso I started telling them a bedtime story.
+p36
+aVI told them about this very brave knight named Joel
+p37
+aVand his adventure fighting a terrible dragon called cancer.
+p38
+aVEvery night, I told them more of the story,
+p39
+aVbut I never let the story end.
+p40
+aVI was just building up a context that they could understand
+p41
+aVand hoping that our prayers would be answered
+p42
+aVand I would never have to tell them that that knight,
+p43
+aVwho had fought so bravely,
+p44
+aVwas done fighting
+p45
+aVand could rest now, forever.
+p46
+aa(lp47
+VFortunately, I never did have to finish that bedtime story.
+p48
+aVMy children outgrew it.
+p49
+aVJoel responded better than anyone expected to palliative treatment,
+p50
+aVand so instead of months,
+p51
+aVwe spent years learning how to love our dying child with all of our hearts.
+p52
+aVLearning to recognize that shameful feeling
+p53
+aVof holding back just a little love
+p54
+aVto try to spare ourselves just a little pain
+p55
+aVsomewhere further down the road.
+p56
+aVWe pushed past that self-preservation
+p57
+aVbecause Joel was worth loving even if that love could crush us.
+p58
+aVAnd that lesson of intense vulnerability has changed me ...
+p59
+aVmore than any award ever could.
+p60
+aa(lp61
+VWe started living like Joel could live,
+p62
+aVand we began developing a video game called "That Dragon, Cancer."
+p63
+aVIt was the story of Joel.
+p64
+aVIt was the story of hope in the shadow of death.
+p65
+aVIt was the story of faith
+p66
+aVand doubt,
+p67
+aVand the realization that a wrestle with doubt is a part of faith \u2014
+p68
+aVmaybe the biggest part of it.
+p69
+aVIt was a story that began as a miracle
+p70
+aVand ended as a memorial.
+p71
+aa(lp72
+V(Music)
+p73
+aa(lp74
+V(Giggle)
+p75
+aa(lp76
+V(Clapping)
+p77
+aa(lp78
+V(Music)
+p79
+aa(lp80
+V(Video) Dad: Bouncing around, do you like that?
+p81
+aa(lp82
+V(Giggle)
+p83
+aa(lp84
+VI love your giggle.
+p85
+aa(lp86
+V(Music)
+p87
+aa(lp88
+V(Giggle)
+p89
+aa(lp90
+V[A Journey of Hope In the Shadow of Death]
+p91
+aa(lp92
+V[That Dragon, Cancer]
+p93
+aa(lp94
+V(Music)
+p95
+aa(lp96
+VWhen you play "That Dragon, Cancer,"
+p97
+aVyou're transformed into a witness of Joel's life,
+p98
+aVexploring an emotional landscape,
+p99
+aVclicking to discover more of what we as a family felt and experienced.
+p100
+aVIt feels a little bit like analyzing interactive poetry
+p101
+aVbecause every game mechanic is a metaphor,
+p102
+aVand so the more the player asks themselves
+p103
+aVwhat we as designers were trying to express and why,
+p104
+aVthe richer the experience becomes.
+p105
+aa(lp106
+VWe took that vulnerability that Joel taught us,
+p107
+aVand we encoded the game with it.
+p108
+aVPlayers expect their video games to offer them branching narrative
+p109
+aVso that every decision that they make feels important
+p110
+aVand can change the outcome of the game.
+p111
+aVWe subverted that principle of game design,
+p112
+aVcollapsing the choices in on the player
+p113
+aVso that they discover for themselves
+p114
+aVthat there is nothing that they can do that will change the outcome for Joel.
+p115
+aVAnd they feel that discovery as deeply and desperately as we felt it
+p116
+aVon nights when we held Joel in our arms praying for hours,
+p117
+aVstubbornly holding out hope for a grace that we could not create for ourselves.
+p118
+aa(lp119
+VWe'd all prefer to win,
+p120
+aVbut when you discover that you can't win,
+p121
+aVwhat do you value instead?
+p122
+aa(lp123
+VI never planned to write video games,
+p124
+aVbut these moments that really change our lives,
+p125
+aVthey often come as the result of our hardship \u2014 and not our glory.
+p126
+aVWhen we thought that Joel could live,
+p127
+aVI left the game designing to my husband.
+p128
+aVI chimed in here and there
+p129
+aVwith a scene or two and some suggestions.
+p130
+aVBut after the night that Joel died,
+p131
+aVthe passion,
+p132
+aVthe possibility of sharing Joel's life through our video game \u2014
+p133
+aVit was something that I couldn't resist.
+p134
+aVI started writing more,
+p135
+aVI sat in on our team's design meetings,
+p136
+aVI added more ideas and I helped direct scenes.
+p137
+aVAnd I discovered that creating a video game is telling a story,
+p138
+aVbut with an entirely new vocabulary.
+p139
+aVAll the same elements of imagination and symbolism are there,
+p140
+aVbut they're just partnered with player agency
+p141
+aVand system responsiveness.
+p142
+aVIt's challenging work.
+p143
+aVI have to think in a totally new way to do it,
+p144
+aVbut I love it.
+p145
+aVAnd I wouldn't have known that without Joel.
+p146
+aa(lp147
+VMaybe you're a little surprised
+p148
+aVby our choice to share our story of terminal cancer through a video game.
+p149
+aVPerhaps you're even thinking like so many people before you:
+p150
+aVcancer is not a game.
+p151
+aVWell, tell that to any pediatric cancer parent
+p152
+aVthat's ever taken an exam glove and blown it up into a balloon,
+p153
+aVor transformed a syringe into a rocket ship,
+p154
+aVor let their child ride their IV pole through the hospital halls
+p155
+aVlike it was a race car.
+p156
+aVBecause when you have children,
+p157
+aVeverything is a game.
+p158
+aVAnd when your young child experiences something traumatic,
+p159
+aVyou work even harder to make sure that their life feels like a game
+p160
+aVbecause children naturally explore their worlds through play.
+p161
+aVWhile cancer can steal many things from a family,
+p162
+aVit shouldn't steal play.
+p163
+aa(lp164
+VIf you're listening to me and you're trying to imagine this family
+p165
+aVthat revolves entirely around a dying child,
+p166
+aVand you can't imagine joy as part of that picture,
+p167
+aVthen we were right to share our story with you,
+p168
+aVbecause that season of our life was hard.
+p169
+aVUnspeakably hard at times,
+p170
+aVbut it was also pure hope,
+p171
+aVdeep love
+p172
+aVand joy like I have never experienced since.
+p173
+aVOur video game was our attempt to share that world
+p174
+aVwith people who hadn't experienced it before,
+p175
+aVbecause we never could imagine that world until it became ours.
+p176
+aa(lp177
+VWe made a video game that's hard to play.
+p178
+aVIt will never be a blockbuster.
+p179
+aVPeople have to prepare themselves to invest emotionally
+p180
+aVin a story that they know will break their hearts.
+p181
+aVBut when our hearts break,
+p182
+aVthey heal a little differently.
+p183
+aVMy broken heart has been healing with a new and a deeper compassion \u2014
+p184
+aVa desire to sit with people in their pain,
+p185
+aVto hear their stories and try to help tell them
+p186
+aVso that they know that they're seen.
+p187
+aa(lp188
+VOn the night when "That Dragon, Cancer" won the Game for Impact Award,
+p189
+aVwe cheered,
+p190
+aVwe smiled and we talked about Joel
+p191
+aVand the impact he had on our life \u2014
+p192
+aVon all of those hard and hopeful nights that we shared with him
+p193
+aVwhen he changed our hearts
+p194
+aVand taught us so much more about life and love and faith and purpose.
+p195
+aVThat award will never mean as much to me as even a single photograph of my son,
+p196
+aVbut it does represent all of the people who his life has impacted,
+p197
+aVpeople I'll never meet.
+p198
+aVThey write me emails sometimes.
+p199
+aVThey tell me that they miss Joel, even though they never met him.
+p200
+aVThey describe the tears that they've shed for my son,
+p201
+aVand it makes my burden of grief just a little bit lighter
+p202
+aVknowing that it's shared with a 10-year-old
+p203
+aVwatching a YouTube playthrough,
+p204
+aVor a doctor playing on his airplane with a smartphone,
+p205
+aVor a professor introducing Joel to her first-year philosophy students.
+p206
+aa(lp207
+VWe made a video game that's hard to play.
+p208
+aVBut that feels just right to me,
+p209
+aVbecause the hardest moments of our lives
+p210
+aVchange us more than any goal we could ever accomplish.
+p211
+aVTragedy has shifted my heart
+p212
+aVmore than any dream I could ever see come true.
+p213
+aa(lp214
+VThank you.
+p215
+aa(lp216
+V(Applause)
+p217
+aasS'id'
+p218
+I2733
+sS'title'
+p219
+VA video game to cope with grief
+p220
+s.

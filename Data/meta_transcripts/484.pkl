@@ -1,0 +1,738 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VTime flies.
+p4
+aVIt's actually almost 20 years ago
+p5
+aVwhen I wanted to reframe the way we use information,
+p6
+aVthe way we work together: I invented the World Wide Web.
+p7
+aVNow, 20 years on, at TED,
+p8
+aVI want to ask your help in a new reframing.
+p9
+aa(lp10
+VSo going back to 1989,
+p11
+aVI wrote a memo suggesting the global hypertext system.
+p12
+aVNobody really did anything with it, pretty much.
+p13
+aVBut 18 months later \u2014 this is how innovation happens \u2014
+p14
+aV18 months later, my boss said I could do it on the side,
+p15
+aVas a sort of a play project,
+p16
+aVkick the tires of a new computer we'd got.
+p17
+aVAnd so he gave me the time to code it up.
+p18
+aVSo I basically roughed out what HTML should look like:
+p19
+aVhypertext protocol, HTTP;
+p20
+aVthe idea of URLs, these names for things
+p21
+aVwhich started with HTTP.
+p22
+aVI wrote the code and put it out there.
+p23
+aa(lp24
+VWhy did I do it?
+p25
+aVWell, it was basically frustration.
+p26
+aVI was frustrated \u2014 I was working as a software engineer
+p27
+aVin this huge, very exciting lab,
+p28
+aVlots of people coming from all over the world.
+p29
+aVThey brought all sorts of different computers with them.
+p30
+aVThey had all sorts of different data formats,
+p31
+aVall sorts, all kinds of documentation systems.
+p32
+aVSo that, in all that diversity,
+p33
+aVif I wanted to figure out how to build something
+p34
+aVout of a bit of this and a bit of this,
+p35
+aVeverything I looked into, I had to connect to some new machine,
+p36
+aVI had to learn to run some new program,
+p37
+aVI would find the information I wanted in some new data format.
+p38
+aVAnd these were all incompatible.
+p39
+aVIt was just very frustrating.
+p40
+aVThe frustration was all this unlocked potential.
+p41
+aa(lp42
+VIn fact, on all these discs there were documents.
+p43
+aVSo if you just imagined them all
+p44
+aVbeing part of some big, virtual documentation system in the sky,
+p45
+aVsay on the Internet,
+p46
+aVthen life would be so much easier.
+p47
+aVWell, once you've had an idea like that it kind of gets under your skin
+p48
+aVand even if people don't read your memo \u2014
+p49
+aVactually he did, it was found after he died, his copy.
+p50
+aVHe had written, "Vague, but exciting," in pencil, in the corner.
+p51
+aa(lp52
+V(Laughter)
+p53
+aa(lp54
+VBut in general it was difficult \u2014 it was really difficult to explain
+p55
+aVwhat the web was like.
+p56
+aVIt's difficult to explain to people now that it was difficult then.
+p57
+aVBut then \u2014 OK, when TED started, there was no web
+p58
+aVso things like "click" didn't have the same meaning.
+p59
+aVI can show somebody a piece of hypertext,
+p60
+aVa page which has got links,
+p61
+aVand we click on the link and bing \u2014 there'll be another hypertext page.
+p62
+aVNot impressive.
+p63
+aVYou know, we've seen that \u2014 we've got things on hypertext on CD-ROMs.
+p64
+aVWhat was difficult was to get them to imagine:
+p65
+aVso, imagine that that link could have gone
+p66
+aVto virtually any document you could imagine.
+p67
+aVAlright, that is the leap that was very difficult for people to make.
+p68
+aVWell, some people did.
+p69
+aVSo yeah, it was difficult to explain, but there was a grassroots movement.
+p70
+aVAnd that is what has made it most fun.
+p71
+aVThat has been the most exciting thing,
+p72
+aVnot the technology, not the things people have done with it,
+p73
+aVbut actually the community, the spirit of all these people
+p74
+aVgetting together, sending the emails.
+p75
+aVThat's what it was like then.
+p76
+aa(lp77
+VDo you know what? It's funny, but right now it's kind of like that again.
+p78
+aVI asked everybody, more or less, to put their documents \u2014
+p79
+aVI said, "Could you put your documents on this web thing?"
+p80
+aVAnd you did.
+p81
+aVThanks.
+p82
+aVIt's been a blast, hasn't it?
+p83
+aVI mean, it has been quite interesting
+p84
+aVbecause we've found out that the things that happen with the web
+p85
+aVreally sort of blow us away.
+p86
+aVThey're much more than we'd originally imagined
+p87
+aVwhen we put together the little, initial website
+p88
+aVthat we started off with.
+p89
+aVNow, I want you to put your data on the web.
+p90
+aVTurns out that there is still huge unlocked potential.
+p91
+aVThere is still a huge frustration
+p92
+aVthat people have because we haven't got data on the web as data.
+p93
+aa(lp94
+VWhat do you mean, "data"? What's the difference \u2014 documents, data?
+p95
+aVWell, documents you read, OK?
+p96
+aVMore or less, you read them, you can follow links from them, and that's it.
+p97
+aVData \u2014 you can do all kinds of stuff with a computer.
+p98
+aVWho was here or has otherwise seen Hans Rosling's talk?
+p99
+aVOne of the great \u2014 yes a lot of people have seen it \u2014
+p100
+aVone of the great TED Talks.
+p101
+aVHans put up this presentation
+p102
+aVin which he showed, for various different countries, in various different colors \u2014
+p103
+aVhe showed income levels on one axis
+p104
+aVand he showed infant mortality, and he shot this thing animated through time.
+p105
+aVSo, he'd taken this data and made a presentation
+p106
+aVwhich just shattered a lot of myths that people had
+p107
+aVabout the economics in the developing world.
+p108
+aa(lp109
+VHe put up a slide a little bit like this.
+p110
+aVIt had underground all the data
+p111
+aVOK, data is brown and boxy and boring,
+p112
+aVand that's how we think of it, isn't it?
+p113
+aVBecause data you can't naturally use by itself
+p114
+aVBut in fact, data drives a huge amount of what happens in our lives
+p115
+aVand it happens because somebody takes that data and does something with it.
+p116
+aVIn this case, Hans had put the data together
+p117
+aVhe had found from all kinds of United Nations websites and things.
+p118
+aVHe had put it together,
+p119
+aVcombined it into something more interesting than the original pieces
+p120
+aVand then he'd put it into this software,
+p121
+aVwhich I think his son developed, originally,
+p122
+aVand produces this wonderful presentation.
+p123
+aVAnd Hans made a point
+p124
+aVof saying, "Look, it's really important to have a lot of data."
+p125
+aVAnd I was happy to see that at the party last night
+p126
+aVthat he was still saying, very forcibly, "It's really important to have a lot of data."
+p127
+aa(lp128
+VSo I want us now to think about
+p129
+aVnot just two pieces of data being connected, or six like he did,
+p130
+aVbut I want to think about a world where everybody has put data on the web
+p131
+aVand so virtually everything you can imagine is on the web
+p132
+aVand then calling that linked data.
+p133
+aVThe technology is linked data, and it's extremely simple.
+p134
+aVIf you want to put something on the web there are three rules:
+p135
+aVfirst thing is that those HTTP names \u2014
+p136
+aVthose things that start with "http:" \u2014
+p137
+aVwe're using them not just for documents now,
+p138
+aVwe're using them for things that the documents are about.
+p139
+aVWe're using them for people, we're using them for places,
+p140
+aVwe're using them for your products, we're using them for events.
+p141
+aVAll kinds of conceptual things, they have names now that start with HTTP.
+p142
+aa(lp143
+VSecond rule, if I take one of these HTTP names and I look it up
+p144
+aVand I do the web thing with it and I fetch the data
+p145
+aVusing the HTTP protocol from the web,
+p146
+aVI will get back some data in a standard format
+p147
+aVwhich is kind of useful data that somebody might like to know
+p148
+aVabout that thing, about that event.
+p149
+aVWho's at the event? Whatever it is about that person,
+p150
+aVwhere they were born, things like that.
+p151
+aVSo the second rule is I get important information back.
+p152
+aa(lp153
+VThird rule is that when I get back that information
+p154
+aVit's not just got somebody's height and weight and when they were born,
+p155
+aVit's got relationships.
+p156
+aVData is relationships.
+p157
+aVInterestingly, data is relationships.
+p158
+aVThis person was born in Berlin; Berlin is in Germany.
+p159
+aVAnd when it has relationships, whenever it expresses a relationship
+p160
+aVthen the other thing that it's related to
+p161
+aVis given one of those names that starts HTTP.
+p162
+aVSo, I can go ahead and look that thing up.
+p163
+aVSo I look up a person \u2014 I can look up then the city where they were born; then
+p164
+aVI can look up the region it's in, and the town it's in,
+p165
+aVand the population of it, and so on.
+p166
+aVSo I can browse this stuff.
+p167
+aa(lp168
+VSo that's it, really.
+p169
+aVThat is linked data.
+p170
+aVI wrote an article entitled "Linked Data" a couple of years ago
+p171
+aVand soon after that, things started to happen.
+p172
+aVThe idea of linked data is that we get lots and lots and lots
+p173
+aVof these boxes that Hans had,
+p174
+aVand we get lots and lots and lots of things sprouting.
+p175
+aVIt's not just a whole lot of other plants.
+p176
+aVIt's not just a root supplying a plant,
+p177
+aVbut for each of those plants, whatever it is \u2014
+p178
+aVa presentation, an analysis, somebody's looking for patterns in the data \u2014
+p179
+aVthey get to look at all the data
+p180
+aVand they get it connected together,
+p181
+aVand the really important thing about data
+p182
+aVis the more things you have to connect together, the more powerful it is.
+p183
+aa(lp184
+VSo, linked data.
+p185
+aVThe meme went out there.
+p186
+aVAnd, pretty soon Chris Bizer at the Freie Universitat in Berlin
+p187
+aVwho was one of the first people to put interesting things up,
+p188
+aVhe noticed that Wikipedia \u2014
+p189
+aVyou know Wikipedia, the online encyclopedia
+p190
+aVwith lots and lots of interesting documents in it.
+p191
+aVWell, in those documents, there are little squares, little boxes.
+p192
+aVAnd in most information boxes, there's data.
+p193
+aVSo he wrote a program to take the data, extract it from Wikipedia,
+p194
+aVand put it into a blob of linked data
+p195
+aVon the web, which he called dbpedia.
+p196
+aVDbpedia is represented by the blue blob in the middle of this slide
+p197
+aVand if you actually go and look up Berlin,
+p198
+aVyou'll find that there are other blobs of data
+p199
+aVwhich also have stuff about Berlin, and they're linked together.
+p200
+aVSo if you pull the data from dbpedia about Berlin,
+p201
+aVyou'll end up pulling up these other things as well.
+p202
+aVAnd the exciting thing is it's starting to grow.
+p203
+aVThis is just the grassroots stuff again, OK?
+p204
+aa(lp205
+VLet's think about data for a bit.
+p206
+aVData comes in fact in lots and lots of different forms.
+p207
+aVThink of the diversity of the web. It's a really important thing
+p208
+aVthat the web allows you to put all kinds of data up there.
+p209
+aVSo it is with data. I could talk about all kinds of data.
+p210
+aVWe could talk about government data, enterprise data is really important,
+p211
+aVthere's scientific data, there's personal data,
+p212
+aVthere's weather data, there's data about events,
+p213
+aVthere's data about talks, and there's news and there's all kinds of stuff.
+p214
+aVI'm just going to mention a few of them
+p215
+aVso that you get the idea of the diversity of it,
+p216
+aVso that you also see how much unlocked potential.
+p217
+aa(lp218
+VLet's start with government data.
+p219
+aVBarack Obama said in a speech,
+p220
+aVthat he \u2014 American government data would be available on the Internet
+p221
+aVin accessible formats.
+p222
+aVAnd I hope that they will put it up as linked data.
+p223
+aVThat's important. Why is it important?
+p224
+aVNot just for transparency, yeah transparency in government is important,
+p225
+aVbut that data \u2014 this is the data from all the government departments
+p226
+aVThink about how much of that data is about how life is lived in America.
+p227
+aVIt's actual useful. It's got value.
+p228
+aVI can use it in my company.
+p229
+aVI could use it as a kid to do my homework.
+p230
+aVSo we're talking about making the place, making the world run better
+p231
+aVby making this data available.
+p232
+aa(lp233
+VIn fact if you're responsible \u2014 if you know about some data
+p234
+aVin a government department, often you find that
+p235
+aVthese people, they're very tempted to keep it \u2014
+p236
+aVHans calls it database hugging.
+p237
+aVYou hug your database, you don't want to let it go
+p238
+aVuntil you've made a beautiful website for it.
+p239
+aVWell, I'd like to suggest that rather \u2014
+p240
+aVyes, make a beautiful website,
+p241
+aVwho am I to say don't make a beautiful website?
+p242
+aVMake a beautiful website, but first
+p243
+aVgive us the unadulterated data,
+p244
+aVwe want the data.
+p245
+aVWe want unadulterated data.
+p246
+aVOK, we have to ask for raw data now.
+p247
+aVAnd I'm going to ask you to practice that, OK?
+p248
+aVCan you say "raw"?
+p249
+aa(lp250
+VAudience: Raw.
+p251
+aa(lp252
+VTim Berners-Lee: Can you say "data"?
+p253
+aa(lp254
+VAudience: Data.
+p255
+aa(lp256
+VTBL: Can you say "now"?
+p257
+aa(lp258
+VAudience: Now!
+p259
+aa(lp260
+VTBL: Alright, "raw data now"!
+p261
+aa(lp262
+VAudience: Raw data now!
+p263
+aa(lp264
+VPractice that. It's important because you have no idea the number of excuses
+p265
+aVpeople come up with to hang onto their data
+p266
+aVand not give it to you, even though you've paid for it as a taxpayer.
+p267
+aVAnd it's not just America. It's all over the world.
+p268
+aVAnd it's not just governments, of course \u2014 it's enterprises as well.
+p269
+aa(lp270
+VSo I'm just going to mention a few other thoughts on data.
+p271
+aVHere we are at TED, and all the time we are very conscious
+p272
+aVof the huge challenges that human society has right now \u2014
+p273
+aVcuring cancer, understanding the brain for Alzheimer's,
+p274
+aVunderstanding the economy to make it a little bit more stable,
+p275
+aVunderstanding how the world works.
+p276
+aVThe people who are going to solve those \u2014 the scientists \u2014
+p277
+aVthey have half-formed ideas in their head,
+p278
+aVthey try to communicate those over the web.
+p279
+aVBut a lot of the state of knowledge of the human race at the moment
+p280
+aVis on databases, often sitting in their computers,
+p281
+aVand actually, currently not shared.
+p282
+aa(lp283
+VIn fact, I'll just go into one area \u2014
+p284
+aVif you're looking at Alzheimer's, for example,
+p285
+aVdrug discovery \u2014 there is a whole lot of linked data which is just coming out
+p286
+aVbecause scientists in that field realize
+p287
+aVthis is a great way of getting out of those silos,
+p288
+aVbecause they had their genomics data in one database
+p289
+aVin one building, and they had their protein data in another.
+p290
+aVNow, they are sticking it onto \u2014 linked data \u2014
+p291
+aVand now they can ask the sort of question, that you probably wouldn't ask,
+p292
+aVI wouldn't ask \u2014 they would.
+p293
+aVWhat proteins are involved in signal transduction
+p294
+aVand also related to pyramidal neurons?
+p295
+aVWell, you take that mouthful and you put it into Google.
+p296
+aVOf course, there's no page on the web which has answered that question
+p297
+aVbecause nobody has asked that question before.
+p298
+aVYou get 223,000 hits \u2014
+p299
+aVno results you can use.
+p300
+aVYou ask the linked data \u2014 which they've now put together \u2014
+p301
+aV32 hits, each of which is a protein which has those properties
+p302
+aVand you can look at.
+p303
+aVThe power of being able to ask those questions, as a scientist \u2014
+p304
+aVquestions which actually bridge across different disciplines \u2014
+p305
+aVis really a complete sea change.
+p306
+aVIt's very very important.
+p307
+aVScientists are totally stymied at the moment \u2014
+p308
+aVthe power of the data that other scientists have collected is locked up
+p309
+aVand we need to get it unlocked so we can tackle those huge problems.
+p310
+aa(lp311
+VNow if I go on like this, you'll think that all the data comes from huge institutions
+p312
+aVand has nothing to do with you.
+p313
+aVBut, that's not true.
+p314
+aVIn fact, data is about our lives.
+p315
+aVYou just \u2014 you log on to your social networking site,
+p316
+aVyour favorite one, you say, "This is my friend."
+p317
+aVBing! Relationship. Data.
+p318
+aVYou say, "This photograph, it's about \u2014 it depicts this person. "
+p319
+aVBing! That's data. Data, data, data.
+p320
+aVEvery time you do things on the social networking site,
+p321
+aVthe social networking site is taking data and using it \u2014 re-purposing it \u2014
+p322
+aVand using it to make other people's lives more interesting on the site.
+p323
+aVBut, when you go to another linked data site \u2014
+p324
+aVand let's say this is one about travel,
+p325
+aVand you say, "I want to send this photo to all the people in that group,"
+p326
+aVyou can't get over the walls.
+p327
+aVThe Economist wrote an article about it, and lots of people have blogged about it \u2014
+p328
+aVtremendous frustration.
+p329
+aVThe way to break down the silos is to get inter-operability
+p330
+aVbetween social networking sites.
+p331
+aVWe need to do that with linked data.
+p332
+aa(lp333
+VOne last type of data I'll talk about, maybe it's the most exciting.
+p334
+aVBefore I came down here, I looked it up on OpenStreetMap
+p335
+aVThe OpenStreetMap's a map, but it's also a Wiki.
+p336
+aVZoom in and that square thing is a theater \u2014 which we're in right now \u2014
+p337
+aVThe Terrace Theater. It didn't have a name on it.
+p338
+aVSo I could go into edit mode, I could select the theater,
+p339
+aVI could add down at the bottom the name, and I could save it back.
+p340
+aVAnd now if you go back to the OpenStreetMap. org,
+p341
+aVand you find this place, you will find that The Terrace Theater has got a name.
+p342
+aVI did that. Me!
+p343
+aVI did that to the map. I just did that!
+p344
+aVI put that up on there. Hey, you know what?
+p345
+aVIf I \u2014 that street map is all about everybody doing their bit
+p346
+aVand it creates an incredible resource
+p347
+aVbecause everybody else does theirs.
+p348
+aVAnd that is what linked data is all about.
+p349
+aVIt's about people doing their bit
+p350
+aVto produce a little bit, and it all connecting.
+p351
+aVThat's how linked data works.
+p352
+aVYou do your bit. Everybody else does theirs.
+p353
+aVYou may not have lots of data which you have yourself to put on there
+p354
+aVbut you know to demand it.
+p355
+aVAnd we've practiced that.
+p356
+aa(lp357
+VSo, linked data \u2014 it's huge.
+p358
+aVI've only told you a very small number of things
+p359
+aVThere are data in every aspect of our lives,
+p360
+aVevery aspect of work and pleasure,
+p361
+aVand it's not just about the number of places where data comes,
+p362
+aVit's about connecting it together.
+p363
+aVAnd when you connect data together, you get power
+p364
+aVin a way that doesn't happen just with the web, with documents.
+p365
+aVYou get this really huge power out of it.
+p366
+aVSo, we're at the stage now
+p367
+aVwhere we have to do this \u2014 the people who think it's a great idea.
+p368
+aVAnd all the people \u2014 and I think there's a lot of people at TED who do things because \u2014
+p369
+aVeven though there's not an immediate return on the investment
+p370
+aVbecause it will only really pay off when everybody else has done it \u2014
+p371
+aVthey'll do it because they're the sort of person who just does things
+p372
+aVwhich would be good if everybody else did them.
+p373
+aVOK, so it's called linked data.
+p374
+aVI want you to make it.
+p375
+aVI want you to demand it.
+p376
+aVAnd I think it's an idea worth spreading.
+p377
+aa(lp378
+VThanks.
+p379
+aa(lp380
+V(Applause)
+p381
+aasS'id'
+p382
+I484
+sS'title'
+p383
+VThe next web
+p384
+s.

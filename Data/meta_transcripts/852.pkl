@@ -1,0 +1,928 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VFor me, this story begins about 15 years ago,
+p4
+aVwhen I was a hospice doctor at the University of Chicago.
+p5
+aVAnd I was taking care of people who were dying and their families
+p6
+aVin the South Side of Chicago.
+p7
+aVAnd I was observing what happened to people and their families
+p8
+aVover the course of their terminal illness.
+p9
+aVAnd in my lab, I was studying the widower effect,
+p10
+aVwhich is a very old idea in the social sciences,
+p11
+aVgoing back 150 years,
+p12
+aVknown as "dying of a broken heart."
+p13
+aVSo, when I die, my wife's risk of death can double,
+p14
+aVfor instance, in the first year.
+p15
+aVAnd I had gone to take care of one particular patient,
+p16
+aVa woman who was dying of dementia.
+p17
+aVAnd in this case, unlike this couple,
+p18
+aVshe was being cared for
+p19
+aVby her daughter.
+p20
+aVAnd the daughter was exhausted from caring for her mother.
+p21
+aVAnd the daughter's husband,
+p22
+aVhe also was sick
+p23
+aVfrom his wife's exhaustion.
+p24
+aVAnd I was driving home one day,
+p25
+aVand I get a phone call from the husband's friend,
+p26
+aVcalling me because he was depressed
+p27
+aVabout what was happening to his friend.
+p28
+aVSo here I get this call from this random guy
+p29
+aVthat's having an experience
+p30
+aVthat's being influenced by people
+p31
+aVat some social distance.
+p32
+aa(lp33
+VAnd so I suddenly realized two very simple things:
+p34
+aVFirst, the widowhood effect
+p35
+aVwas not restricted to husbands and wives.
+p36
+aVAnd second, it was not restricted to pairs of people.
+p37
+aVAnd I started to see the world
+p38
+aVin a whole new way,
+p39
+aVlike pairs of people connected to each other.
+p40
+aVAnd then I realized that these individuals
+p41
+aVwould be connected into foursomes with other pairs of people nearby.
+p42
+aVAnd then, in fact, these people
+p43
+aVwere embedded in other sorts of relationships:
+p44
+aVmarriage and spousal
+p45
+aVand friendship and other sorts of ties.
+p46
+aVAnd that, in fact, these connections were vast
+p47
+aVand that we were all embedded in this
+p48
+aVbroad set of connections with each other.
+p49
+aVSo I started to see the world in a completely new way
+p50
+aVand I became obsessed with this.
+p51
+aVI became obsessed with how it might be
+p52
+aVthat we're embedded in these social networks,
+p53
+aVand how they affect our lives.
+p54
+aVSo, social networks are these intricate things of beauty,
+p55
+aVand they're so elaborate and so complex
+p56
+aVand so ubiquitous, in fact,
+p57
+aVthat one has to ask what purpose they serve.
+p58
+aVWhy are we embedded in social networks?
+p59
+aVI mean, how do they form? How do they operate?
+p60
+aVAnd how do they effect us?
+p61
+aa(lp62
+VSo my first topic with respect to this,
+p63
+aVwas not death, but obesity.
+p64
+aVIt had become trendy
+p65
+aVto speak about the "obesity epidemic."
+p66
+aVAnd, along with my collaborator, James Fowler,
+p67
+aVwe began to wonder whether obesity really was epidemic
+p68
+aVand could it spread from person to person
+p69
+aVlike the four people I discussed earlier.
+p70
+aVSo this is a slide of some of our initial results.
+p71
+aVIt's 2,200 people in the year 2000.
+p72
+aVEvery dot is a person. We make the dot size
+p73
+aVproportional to people's body size;
+p74
+aVso bigger dots are bigger people.
+p75
+aVIn addition, if your body size,
+p76
+aVif your BMI, your body mass index, is above 30 \u2014
+p77
+aVif you're clinically obese \u2014
+p78
+aVwe also colored the dots yellow.
+p79
+aVSo, if you look at this image, right away you might be able to see
+p80
+aVthat there are clusters of obese and
+p81
+aVnon-obese people in the image.
+p82
+aVBut the visual complexity is still very high.
+p83
+aVIt's not obvious exactly what's going on.
+p84
+aVIn addition, some questions are immediately raised:
+p85
+aVHow much clustering is there?
+p86
+aVIs there more clustering than would be due to chance alone?
+p87
+aVHow big are the clusters? How far do they reach?
+p88
+aVAnd, most importantly,
+p89
+aVwhat causes the clusters?
+p90
+aa(lp91
+VSo we did some mathematics to study the size of these clusters.
+p92
+aVThis here shows, on the Y-axis,
+p93
+aVthe increase in the probability that a person is obese
+p94
+aVgiven that a social contact of theirs is obese
+p95
+aVand, on the X-axis, the degrees of separation between the two people.
+p96
+aVOn the far left, you see the purple line.
+p97
+aVIt says that, if your friends are obese,
+p98
+aVyour risk of obesity is 45 percent higher.
+p99
+aVAnd the next bar over, the [red] line,
+p100
+aVsays if your friend's friends are obese,
+p101
+aVyour risk of obesity is 25 percent higher.
+p102
+aVAnd then the next line over says
+p103
+aVif your friend's friend's friend, someone you probably don't even know, is obese,
+p104
+aVyour risk of obesity is 10 percent higher.
+p105
+aVAnd it's only when you get to your friend's friend's friend's friends
+p106
+aVthat there's no longer a relationship
+p107
+aVbetween that person's body size and your own body size.
+p108
+aa(lp109
+VWell, what might be causing this clustering?
+p110
+aVThere are at least three possibilities:
+p111
+aVOne possibility is that, as I gain weight,
+p112
+aVit causes you to gain weight.
+p113
+aVA kind of induction, a kind of spread from person to person.
+p114
+aVAnother possibility, very obvious, is homophily,
+p115
+aVor, birds of a feather flock together;
+p116
+aVhere, I form my tie to you
+p117
+aVbecause you and I share a similar body size.
+p118
+aVAnd the last possibility is what is known as confounding,
+p119
+aVbecause it confounds our ability to figure out what's going on.
+p120
+aVAnd here, the idea is not that my weight gain
+p121
+aVis causing your weight gain,
+p122
+aVnor that I preferentially form a tie with you
+p123
+aVbecause you and I share the same body size,
+p124
+aVbut rather that we share a common exposure
+p125
+aVto something, like a health club
+p126
+aVthat makes us both lose weight at the same time.
+p127
+aa(lp128
+VWhen we studied these data, we found evidence for all of these things,
+p129
+aVincluding for induction.
+p130
+aVAnd we found that if your friend becomes obese,
+p131
+aVit increases your risk of obesity by about 57 percent
+p132
+aVin the same given time period.
+p133
+aVThere can be many mechanisms for this effect:
+p134
+aVOne possibility is that your friends say to you something like \u2014
+p135
+aVyou know, they adopt a behavior that spreads to you \u2014
+p136
+aVlike, they say, "Let's go have muffins and beer,"
+p137
+aVwhich is a terrible combination. (Laughter)
+p138
+aVBut you adopt that combination,
+p139
+aVand then you start gaining weight like them.
+p140
+aVAnother more subtle possibility
+p141
+aVis that they start gaining weight, and it changes your ideas
+p142
+aVof what an acceptable body size is.
+p143
+aVHere, what's spreading from person to person
+p144
+aVis not a behavior, but rather a norm:
+p145
+aVAn idea is spreading.
+p146
+aa(lp147
+VNow, headline writers
+p148
+aVhad a field day with our studies.
+p149
+aVI think the headline in The New York Times was,
+p150
+aV"Are you packing it on?
+p151
+aVBlame your fat friends." (Laughter)
+p152
+aVWhat was interesting to us is that the European headline writers
+p153
+aVhad a different take: They said,
+p154
+aV"Are your friends gaining weight? Perhaps you are to blame."
+p155
+aV(Laughter)
+p156
+aVAnd we thought this was a very interesting comment on America,
+p157
+aVand a kind of self-serving,
+p158
+aV"not my responsibility" kind of phenomenon.
+p159
+aa(lp160
+VNow, I want to be very clear: We do not think our work
+p161
+aVshould or could justify prejudice
+p162
+aVagainst people of one or another body size at all.
+p163
+aVOur next questions was:
+p164
+aVCould we actually visualize this spread?
+p165
+aVWas weight gain in one person actually spreading
+p166
+aVto weight gain in another person?
+p167
+aVAnd this was complicated because
+p168
+aVwe needed to take into account the fact that the network structure,
+p169
+aVthe architecture of the ties, was changing across time.
+p170
+aVIn addition, because obesity is not a unicentric epidemic,
+p171
+aVthere's not a Patient Zero of the obesity epidemic \u2014
+p172
+aVif we find that guy, there was a spread of obesity out from him \u2014
+p173
+aVit's a multicentric epidemic.
+p174
+aVLots of people are doing things at the same time.
+p175
+aVAnd I'm about to show you a 30 second video animation
+p176
+aVthat took me and James five years of our lives to do.
+p177
+aVSo, again, every dot is a person.
+p178
+aVEvery tie between them is a relationship.
+p179
+aVWe're going to put this into motion now,
+p180
+aVtaking daily cuts through the network for about 30 years.
+p181
+aa(lp182
+VThe dot sizes are going to grow,
+p183
+aVyou're going to see a sea of yellow take over.
+p184
+aVYou're going to see people be born and die \u2014
+p185
+aVdots will appear and disappear \u2014
+p186
+aVties will form and break, marriages and divorces,
+p187
+aVfriendings and defriendings.
+p188
+aVA lot of complexity, a lot is happening
+p189
+aVjust in this 30-year period
+p190
+aVthat includes the obesity epidemic.
+p191
+aVAnd, by the end, you're going to see clusters
+p192
+aVof obese and non-obese individuals
+p193
+aVwithin the network.
+p194
+aVNow, when looked at this,
+p195
+aVit changed the way I see things,
+p196
+aVbecause this thing, this network
+p197
+aVthat's changing across time,
+p198
+aVit has a memory, it moves,
+p199
+aVthings flow within it,
+p200
+aVit has a kind of consistency \u2014
+p201
+aVpeople can die, but it doesn't die;
+p202
+aVit still persists \u2014
+p203
+aVand it has a kind of resilience
+p204
+aVthat allows it to persist across time.
+p205
+aa(lp206
+VAnd so, I came to see these kinds of social networks
+p207
+aVas living things,
+p208
+aVas living things that we could put under a kind of microscope
+p209
+aVto study and analyze and understand.
+p210
+aVAnd we used a variety of techniques to do this.
+p211
+aVAnd we started exploring all kinds of other phenomena.
+p212
+aVWe looked at smoking and drinking behavior,
+p213
+aVand voting behavior,
+p214
+aVand divorce \u2014 which can spread \u2014
+p215
+aVand altruism.
+p216
+aVAnd, eventually, we became interested in emotions.
+p217
+aVNow, when we have emotions,
+p218
+aVwe show them.
+p219
+aVWhy do we show our emotions?
+p220
+aVI mean, there would be an advantage to experiencing
+p221
+aVour emotions inside, you know, anger or happiness.
+p222
+aVBut we don't just experience them, we show them.
+p223
+aVAnd not only do we show them, but others can read them.
+p224
+aVAnd, not only can they read them, but they copy them.
+p225
+aVThere's emotional contagion
+p226
+aVthat takes place in human populations.
+p227
+aVAnd so this function of emotions
+p228
+aVsuggests that, in addition to any other purpose they serve,
+p229
+aVthey're a kind of primitive form of communication.
+p230
+aVAnd that, in fact, if we really want to understand human emotions,
+p231
+aVwe need to think about them in this way.
+p232
+aa(lp233
+VNow, we're accustomed to thinking about emotions in this way,
+p234
+aVin simple, sort of, brief periods of time.
+p235
+aVSo, for example,
+p236
+aVI was giving this talk recently in New York City,
+p237
+aVand I said, "You know when you're on the subway
+p238
+aVand the other person across the subway car
+p239
+aVsmiles at you,
+p240
+aVand you just instinctively smile back?"
+p241
+aVAnd they looked at me and said, "We don't do that in New York City." (Laughter)
+p242
+aVAnd I said, "Everywhere else in the world,
+p243
+aVthat's normal human behavior."
+p244
+aVAnd so there's a very instinctive way
+p245
+aVin which we briefly transmit emotions to each other.
+p246
+aVAnd, in fact, emotional contagion can be broader still.
+p247
+aVLike we could have punctuated expressions of anger,
+p248
+aVas in riots.
+p249
+aVThe question that we wanted to ask was:
+p250
+aVCould emotion spread,
+p251
+aVin a more sustained way than riots, across time
+p252
+aVand involve large numbers of people,
+p253
+aVnot just this pair of individuals smiling at each other in the subway car?
+p254
+aVMaybe there's a kind of below the surface, quiet riot
+p255
+aVthat animates us all the time.
+p256
+aVMaybe there are emotional stampedes
+p257
+aVthat ripple through social networks.
+p258
+aVMaybe, in fact, emotions have a collective existence,
+p259
+aVnot just an individual existence.
+p260
+aa(lp261
+VAnd this is one of the first images we made to study this phenomenon.
+p262
+aVAgain, a social network,
+p263
+aVbut now we color the people yellow if they're happy
+p264
+aVand blue if they're sad and green in between.
+p265
+aVAnd if you look at this image, you can right away see
+p266
+aVclusters of happy and unhappy people,
+p267
+aVagain, spreading to three degrees of separation.
+p268
+aVAnd you might form the intuition
+p269
+aVthat the unhappy people
+p270
+aVoccupy a different structural location within the network.
+p271
+aVThere's a middle and an edge to this network,
+p272
+aVand the unhappy people seem to be
+p273
+aVlocated at the edges.
+p274
+aVSo to invoke another metaphor,
+p275
+aVif you imagine social networks as a kind of
+p276
+aVvast fabric of humanity \u2014
+p277
+aVI'm connected to you and you to her, on out endlessly into the distance \u2014
+p278
+aVthis fabric is actually like
+p279
+aVan old-fashioned American quilt,
+p280
+aVand it has patches on it: happy and unhappy patches.
+p281
+aVAnd whether you become happy or not
+p282
+aVdepends in part on whether you occupy a happy patch.
+p283
+aa(lp284
+V(Laughter)
+p285
+aa(lp286
+VSo, this work with emotions,
+p287
+aVwhich are so fundamental,
+p288
+aVthen got us to thinking about: Maybe
+p289
+aVthe fundamental causes of human social networks
+p290
+aVare somehow encoded in our genes.
+p291
+aVBecause human social networks, whenever they are mapped,
+p292
+aValways kind of look like this:
+p293
+aVthe picture of the network.
+p294
+aVBut they never look like this.
+p295
+aVWhy do they not look like this?
+p296
+aVWhy don't we form human social networks
+p297
+aVthat look like a regular lattice?
+p298
+aVWell, the striking patterns of human social networks,
+p299
+aVtheir ubiquity and their apparent purpose
+p300
+aVbeg questions about whether we evolved to have
+p301
+aVhuman social networks in the first place,
+p302
+aVand whether we evolved to form networks
+p303
+aVwith a particular structure.
+p304
+aa(lp305
+VAnd notice first of all \u2014 so, to understand this, though,
+p306
+aVwe need to dissect network structure a little bit first \u2014
+p307
+aVand notice that every person in this network
+p308
+aVhas exactly the same structural location as every other person.
+p309
+aVBut that's not the case with real networks.
+p310
+aVSo, for example, here is a real network of college students
+p311
+aVat an elite northeastern university.
+p312
+aVAnd now I'm highlighting a few dots.
+p313
+aVIf you look here at the dots,
+p314
+aVcompare node B in the upper left
+p315
+aVto node D in the far right;
+p316
+aVB has four friends coming out from him
+p317
+aVand D has six friends coming out from him.
+p318
+aVAnd so, those two individuals have different numbers of friends.
+p319
+aVThat's very obvious, we all know that.
+p320
+aVBut certain other aspects
+p321
+aVof social network structure are not so obvious.
+p322
+aa(lp323
+VCompare node B in the upper left to node A in the lower left.
+p324
+aVNow, those people both have four friends,
+p325
+aVbut A's friends all know each other,
+p326
+aVand B's friends do not.
+p327
+aVSo the friend of a friend of A's
+p328
+aVis, back again, a friend of A's,
+p329
+aVwhereas the friend of a friend of B's is not a friend of B's,
+p330
+aVbut is farther away in the network.
+p331
+aVThis is known as transitivity in networks.
+p332
+aVAnd, finally, compare nodes C and D:
+p333
+aVC and D both have six friends.
+p334
+aVIf you talk to them, and you said, "What is your social life like?"
+p335
+aVthey would say, "I've got six friends.
+p336
+aVThat's my social experience."
+p337
+aVBut now we, with a bird's eye view looking at this network,
+p338
+aVcan see that they occupy very different social worlds.
+p339
+aVAnd I can cultivate that intuition in you by just asking you:
+p340
+aVWho would you rather be
+p341
+aVif a deadly germ was spreading through the network?
+p342
+aVWould you rather be C or D?
+p343
+aVYou'd rather be D, on the edge of the network.
+p344
+aVAnd now who would you rather be
+p345
+aVif a juicy piece of gossip \u2014 not about you \u2014
+p346
+aVwas spreading through the network? (Laughter)
+p347
+aVNow, you would rather be C.
+p348
+aa(lp349
+VSo different structural locations
+p350
+aVhave different implications for your life.
+p351
+aVAnd, in fact, when we did some experiments looking at this,
+p352
+aVwhat we found is that 46 percent of the variation
+p353
+aVin how many friends you have
+p354
+aVis explained by your genes.
+p355
+aVAnd this is not surprising. We know that some people are born shy
+p356
+aVand some are born gregarious. That's obvious.
+p357
+aVBut we also found some non-obvious things.
+p358
+aVFor instance, 47 percent in the variation
+p359
+aVin whether your friends know each other
+p360
+aVis attributable to your genes.
+p361
+aVWhether your friends know each other
+p362
+aVhas not just to do with their genes, but with yours.
+p363
+aVAnd we think the reason for this is that some people
+p364
+aVlike to introduce their friends to each other \u2014 you know who you are \u2014
+p365
+aVand others of you keep them apart and don't introduce your friends to each other.
+p366
+aVAnd so some people knit together the networks around them,
+p367
+aVcreating a kind of dense web of ties
+p368
+aVin which they're comfortably embedded.
+p369
+aVAnd finally, we even found that
+p370
+aV30 percent of the variation
+p371
+aVin whether or not people are in the middle or on the edge of the network
+p372
+aVcan also be attributed to their genes.
+p373
+aVSo whether you find yourself in the middle or on the edge
+p374
+aVis also partially heritable.
+p375
+aa(lp376
+VNow, what is the point of this?
+p377
+aVHow does this help us understand?
+p378
+aVHow does this help us
+p379
+aVfigure out some of the problems that are affecting us these days?
+p380
+aVWell, the argument I'd like to make is that networks have value.
+p381
+aVThey are a kind of social capital.
+p382
+aVNew properties emerge
+p383
+aVbecause of our embeddedness in social networks,
+p384
+aVand these properties inhere
+p385
+aVin the structure of the networks,
+p386
+aVnot just in the individuals within them.
+p387
+aVSo think about these two common objects.
+p388
+aVThey're both made of carbon,
+p389
+aVand yet one of them has carbon atoms in it
+p390
+aVthat are arranged in one particular way \u2014 on the left \u2014
+p391
+aVand you get graphite, which is soft and dark.
+p392
+aVBut if you take the same carbon atoms
+p393
+aVand interconnect them a different way,
+p394
+aVyou get diamond, which is clear and hard.
+p395
+aVAnd those properties of softness and hardness and darkness and clearness
+p396
+aVdo not reside in the carbon atoms;
+p397
+aVthey reside in the interconnections between the carbon atoms,
+p398
+aVor at least arise because of the
+p399
+aVinterconnections between the carbon atoms.
+p400
+aVSo, similarly, the pattern of connections among people
+p401
+aVconfers upon the groups of people
+p402
+aVdifferent properties.
+p403
+aVIt is the ties between people
+p404
+aVthat makes the whole greater than the sum of its parts.
+p405
+aVAnd so it is not just what's happening to these people \u2014
+p406
+aVwhether they're losing weight or gaining weight, or becoming rich or becoming poor,
+p407
+aVor becoming happy or not becoming happy \u2014 that affects us;
+p408
+aVit's also the actual architecture
+p409
+aVof the ties around us.
+p410
+aa(lp411
+VOur experience of the world
+p412
+aVdepends on the actual structure
+p413
+aVof the networks in which we're residing
+p414
+aVand on all the kinds of things that ripple and flow
+p415
+aVthrough the network.
+p416
+aVNow, the reason, I think, that this is the case
+p417
+aVis that human beings assemble themselves
+p418
+aVand form a kind of superorganism.
+p419
+aVNow, a superorganism is a collection of individuals
+p420
+aVwhich show or evince behaviors or phenomena
+p421
+aVthat are not reducible to the study of individuals
+p422
+aVand that must be understood by reference to,
+p423
+aVand by studying, the collective.
+p424
+aVLike, for example, a hive of bees
+p425
+aVthat's finding a new nesting site,
+p426
+aVor a flock of birds that's evading a predator,
+p427
+aVor a flock of birds that's able to pool its wisdom
+p428
+aVand navigate and find a tiny speck
+p429
+aVof an island in the middle of the Pacific,
+p430
+aVor a pack of wolves that's able
+p431
+aVto bring down larger prey.
+p432
+aVSuperorganisms have properties
+p433
+aVthat cannot be understood just by studying the individuals.
+p434
+aVI think understanding social networks
+p435
+aVand how they form and operate
+p436
+aVcan help us understand not just health and emotions
+p437
+aVbut all kinds of other phenomena \u2014
+p438
+aVlike crime, and warfare,
+p439
+aVand economic phenomena like bank runs
+p440
+aVand market crashes
+p441
+aVand the adoption of innovation
+p442
+aVand the spread of product adoption.
+p443
+aa(lp444
+VNow, look at this.
+p445
+aVI think we form social networks
+p446
+aVbecause the benefits of a connected life
+p447
+aVoutweigh the costs.
+p448
+aVIf I was always violent towards you
+p449
+aVor gave you misinformation
+p450
+aVor made you sad or infected you with deadly germs,
+p451
+aVyou would cut the ties to me,
+p452
+aVand the network would disintegrate.
+p453
+aVSo the spread of good and valuable things
+p454
+aVis required to sustain and nourish social networks.
+p455
+aVSimilarly, social networks are required
+p456
+aVfor the spread of good and valuable things,
+p457
+aVlike love and kindness
+p458
+aVand happiness and altruism
+p459
+aVand ideas.
+p460
+aVI think, in fact, that if we realized
+p461
+aVhow valuable social networks are,
+p462
+aVwe'd spend a lot more time nourishing them and sustaining them,
+p463
+aVbecause I think social networks
+p464
+aVare fundamentally related to goodness.
+p465
+aVAnd what I think the world needs now
+p466
+aVis more connections.
+p467
+aa(lp468
+VThank you.
+p469
+aa(lp470
+V(Applause)
+p471
+aasS'id'
+p472
+I852
+sS'title'
+p473
+VThe hidden influence of social networks
+p474
+s.

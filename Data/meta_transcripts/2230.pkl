@@ -1,0 +1,715 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'd like to take you on the epic quest of the Rosetta spacecraft.
+p4
+aVTo escort and land the probe on a comet,
+p5
+aVthis has been my passion for the past two years.
+p6
+aVIn order to do that,
+p7
+aVI need to explain to you something about the origin of the solar system.
+p8
+aa(lp9
+VWhen we go back four and a half billion years,
+p10
+aVthere was a cloud of gas and dust.
+p11
+aVIn the center of this cloud, our sun formed and ignited.
+p12
+aVAlong with that, what we now know as planets, comets and asteroids formed.
+p13
+aVWhat then happened, according to theory,
+p14
+aVis that when the Earth had cooled down a bit after its formation,
+p15
+aVcomets massively impacted the Earth and delivered water to Earth.
+p16
+aVThey probably also delivered complex organic material to Earth,
+p17
+aVand that may have bootstrapped the emergence of life.
+p18
+aVYou can compare this to having to solve a 250-piece puzzle
+p19
+aVand not a 2,000-piece puzzle.
+p20
+aa(lp21
+VAfterwards, the big planets like Jupiter and Saturn,
+p22
+aVthey were not in their place where they are now,
+p23
+aVand they interacted gravitationally,
+p24
+aVand they swept the whole interior of the solar system clean,
+p25
+aVand what we now know as comets
+p26
+aVended up in something called the Kuiper Belt,
+p27
+aVwhich is a belt of objects beyond the orbit of Neptune.
+p28
+aVAnd sometimes these objects run into each other,
+p29
+aVand they gravitationally deflect,
+p30
+aVand then the gravity of Jupiter pulls them back into the solar system.
+p31
+aVAnd they then become the comets as we see them in the sky.
+p32
+aa(lp33
+VThe important thing here to note is that in the meantime,
+p34
+aVthe four and a half billion years,
+p35
+aVthese comets have been sitting on the outside of the solar system,
+p36
+aVand haven't changed \u2014
+p37
+aVdeep, frozen versions of our solar system.
+p38
+aa(lp39
+VIn the sky, they look like this.
+p40
+aVWe know them for their tails.
+p41
+aVThere are actually two tails.
+p42
+aVOne is a dust tail, which is blown away by the solar wind.
+p43
+aVThe other one is an ion tail, which is charged particles,
+p44
+aVand they follow the magnetic field in the solar system.
+p45
+aVThere's the coma,
+p46
+aVand then there is the nucleus, which here is too small to see,
+p47
+aVand you have to remember that in the case of Rosetta,
+p48
+aVthe spacecraft is in that center pixel.
+p49
+aVWe are only 20, 30, 40 kilometers away from the comet.
+p50
+aa(lp51
+VSo what's important to remember?
+p52
+aVComets contain the original material from which our solar system was formed,
+p53
+aVso they're ideal to study the components
+p54
+aVthat were present at the time  when Earth, and life, started.
+p55
+aVComets are also suspected
+p56
+aVof having brought the elements which may have bootstrapped life.
+p57
+aVIn 1983, ESA set up its long-term Horizon 2000 program,
+p58
+aVwhich contained one cornerstone, which would be a mission to a comet.
+p59
+aVIn parallel, a small mission to a comet, what you see here, Giotto, was launched,
+p60
+aVand in 1986, flew by the comet of Halley with an armada of other spacecraft.
+p61
+aVFrom the results of that mission, it became immediately clear
+p62
+aVthat comets were ideal bodies to study to understand our solar system.
+p63
+aVAnd thus, the Rosetta mission was approved in 1993,
+p64
+aVand originally it was supposed to be launched in 2003,
+p65
+aVbut a problem arose with an Ariane rocket.
+p66
+aVHowever, our P.R. department, in its enthusiasm,
+p67
+aVhad already made 1,000 Delft Blue plates
+p68
+aVwith the name of the wrong comets.
+p69
+aVSo I've never had to buy any china since. That's the positive part.
+p70
+aV(Laughter)
+p71
+aa(lp72
+VOnce the whole problem was solved,
+p73
+aVwe left Earth in 2004
+p74
+aVto the newly selected comet, Churyumov-Gerasimenko.
+p75
+aVThis comet had to be specially selected
+p76
+aVbecause A, you have to be able to get to it,
+p77
+aVand B, it shouldn't have been in the solar system too long.
+p78
+aVThis particular comet has been  in the solar system since 1959.
+p79
+aVThat's the first time when it was deflected by Jupiter,
+p80
+aVand it got close enough to the sun to start changing.
+p81
+aVSo it's a very fresh comet.
+p82
+aa(lp83
+VRosetta made a few historic firsts.
+p84
+aVIt's the first satellite to orbit a comet,
+p85
+aVand to escort it throughout its whole tour through the solar system \u2014
+p86
+aVclosest approach to the sun, as we will see in August,
+p87
+aVand then away again to the exterior.
+p88
+aVIt's the first ever landing on a comet.
+p89
+aVWe actually orbit the comet using something which is not
+p90
+aVnormally done with spacecraft.
+p91
+aVNormally, you look at the sky and you know where you point and where you are.
+p92
+aVIn this case, that's not enough.
+p93
+aVWe navigated by looking at landmarks on the comet.
+p94
+aVWe recognized features \u2014 boulders, craters \u2014
+p95
+aVand that's how we know where we are respective to the comet.
+p96
+aa(lp97
+VAnd, of course, it's the first satellite to go beyond the orbit of Jupiter
+p98
+aVon solar cells.
+p99
+aVNow, this sounds more heroic than it actually is,
+p100
+aVbecause the technology to use radio isotope thermal generators
+p101
+aVwasn't available in Europe at that time, so there was no choice.
+p102
+aVBut these solar arrays are big.
+p103
+aVThis is one wing, and these are not specially selected small people.
+p104
+aVThey're just like you and me.
+p105
+aV(Laughter)
+p106
+aVWe have two of these wings, 65 square meters.
+p107
+aVNow later on, of course, when we got to the comet,
+p108
+aVyou find out that 65 square meters of sail
+p109
+aVclose to a body which is outgassing is not always a very handy choice.
+p110
+aa(lp111
+VNow, how did we get to the comet?
+p112
+aVBecause we had to go there for the Rosetta scientific objectives
+p113
+aVvery far away \u2014 four times the distance of the Earth to the sun \u2014
+p114
+aVand also at a much higher velocity than we could achieve with fuel,
+p115
+aVbecause we'd have to take six times as much fuel as the whole spacecraft weighed.
+p116
+aVSo what do you do?
+p117
+aVYou use gravitational flybys, slingshots,
+p118
+aVwhere you pass by a planet at very low altitude,
+p119
+aVa few thousand kilometers,
+p120
+aVand then you get the velocity of that planet around the sun for free.
+p121
+aVWe did that a few times.
+p122
+aVWe did Earth, we did Mars, we did twice Earth again,
+p123
+aVand we also flew by two asteroids, Lutetia and Steins.
+p124
+aVThen in 2011, we got so far from the sun that if the spacecraft got into trouble,
+p125
+aVwe couldn't actually save the spacecraft anymore,
+p126
+aVso we went into hibernation.
+p127
+aVEverything was switched off except for one clock.
+p128
+aVHere you see in white the trajectory, and the way this works.
+p129
+aVYou see that from the circle where we started,
+p130
+aVthe white line, actually you get more and more and more elliptical,
+p131
+aVand then finally we approached the comet
+p132
+aVin May 2014, and we had to start doing the rendezvous maneuvers.
+p133
+aa(lp134
+VOn the way there, we flew by Earth and we took a few pictures to test our cameras.
+p135
+aVThis is the moon rising over Earth,
+p136
+aVand this is what we now call a selfie,
+p137
+aVwhich at that time, by the way, that word didn't exist. (Laughter)
+p138
+aVIt's at Mars. It was taken by the CIVA camera.
+p139
+aVThat's one of the cameras on the lander,
+p140
+aVand it just looks under the solar arrays,
+p141
+aVand you see the planet Mars and the solar array in the distance.
+p142
+aa(lp143
+VNow, when we got out of hibernation in January 2014,
+p144
+aVwe started arriving at a distance
+p145
+aVof two million kilometers from the comet in May.
+p146
+aVHowever, the velocity the spacecraft had was much too fast.
+p147
+aVWe were going 2,800 kilometers an hour faster than the comet, so we had to brake.
+p148
+aVWe had to do eight maneuvers,
+p149
+aVand you see here, some of them were really big.
+p150
+aVWe had to brake the first one by a few hundred kilometers per hour,
+p151
+aVand actually, the duration of that was seven hours,
+p152
+aVand it used 218 kilos of fuel,
+p153
+aVand those were seven nerve-wracking  hours, because in 2007,
+p154
+aVthere was a leak in the system of the propulsion of Rosetta,
+p155
+aVand we had to close off a branch,
+p156
+aVso the system was actually operating at a pressure
+p157
+aVwhich it was never designed or qualified for.
+p158
+aa(lp159
+VThen we got in the vicinity of the comet, and these were the first pictures we saw.
+p160
+aVThe true comet rotation period is 12 and a half hours,
+p161
+aVso this is accelerated,
+p162
+aVbut you will understand that our flight dynamics engineers thought,
+p163
+aVthis is not going to be an easy thing to land on.
+p164
+aVWe had hoped for some kind of spud-like thing
+p165
+aVwhere you could easily land.
+p166
+aVBut we had one hope: maybe it was smooth.
+p167
+aVNo. That didn't work either. (Laughter)
+p168
+aa(lp169
+VSo at that point in time, it was clearly unavoidable:
+p170
+aVwe had to map this body in all the detail you could get,
+p171
+aVbecause we had to find an area which is 500 meters in diameter and flat.
+p172
+aVWhy 500 meters? That's the error we have on landing the probe.
+p173
+aVSo we went through this process, and we mapped the comet.
+p174
+aVWe used a technique called photoclinometry.
+p175
+aVYou use shadows thrown by the sun.
+p176
+aVWhat you see here is a rock sitting on the surface of the comet,
+p177
+aVand the sun shines from above.
+p178
+aVFrom the shadow, we, with our brain,
+p179
+aVcan immediately determine roughly what the shape of that rock is.
+p180
+aVYou can program that in a computer,
+p181
+aVyou then cover the whole comet, and you can map the comet.
+p182
+aVFor that, we flew special trajectories starting in August.
+p183
+aVFirst, a triangle of 100 kilometers on a side
+p184
+aVat 100 kilometers' distance,
+p185
+aVand we repeated the whole  thing at 50 kilometers.
+p186
+aVAt that time, we had seen the comet at all kinds of angles,
+p187
+aVand we could use this technique to map the whole thing.
+p188
+aa(lp189
+VNow, this led to a selection of landing sites.
+p190
+aVThis whole process we had to do, to go from the mapping of the comet
+p191
+aVto actually finding the final landing site, was 60 days.
+p192
+aVWe didn't have more.
+p193
+aVTo give you an idea, the average Mars mission
+p194
+aVtakes hundreds of scientists for years to meet
+p195
+aVabout where shall we go?
+p196
+aVWe had 60 days, and that was it.
+p197
+aa(lp198
+VWe finally selected the final landing site
+p199
+aVand the commands were prepared for Rosetta to launch Philae.
+p200
+aVThe way this works is that Rosetta has to be at the right point in space,
+p201
+aVand aiming towards the comet, because the lander is passive.
+p202
+aVThe lander is then pushed out and moves towards the comet.
+p203
+aVRosetta had to turn around
+p204
+aVto get its cameras to actually look at Philae while it was departing
+p205
+aVand to be able to communicate with it.
+p206
+aa(lp207
+VNow, the landing duration of the whole trajectory was seven hours.
+p208
+aVNow do a simple calculation:
+p209
+aVif the velocity of Rosetta is off by one centimeter per second,
+p210
+aVseven hours is 25,000 seconds.
+p211
+aVThat means 252 meters wrong on the comet.
+p212
+aVSo we had to know the velocity of Rosetta
+p213
+aVmuch better than one centimeter per second,
+p214
+aVand its location in space better than 100 meters
+p215
+aVat 500 million kilometers from Earth.
+p216
+aVThat's no mean feat.
+p217
+aa(lp218
+VLet me quickly take you through some of the science and the instruments.
+p219
+aVI won't bore you with all the details of all the instruments,
+p220
+aVbut it's got everything.
+p221
+aVWe can sniff gas, we can measure dust particles,
+p222
+aVthe shape of them, the composition,
+p223
+aVthere are magnetometers, everything.
+p224
+aVThis is one of the results from an instrument which measures gas density
+p225
+aVat the position of Rosetta,
+p226
+aVso it's gas which has left the comet.
+p227
+aVThe bottom graph is September of last year.
+p228
+aVThere is a long-term variation, which in itself is not surprising,
+p229
+aVbut you see the sharp peaks.
+p230
+aVThis is a comet day.
+p231
+aVYou can see the effect of the sun on the evaporation of gas
+p232
+aVand the fact that the comet is rotating.
+p233
+aVSo there is one spot, apparently,
+p234
+aVwhere there is a lot of stuff coming from,
+p235
+aVit gets heated in the Sun, and then cools down on the back side.
+p236
+aVAnd we can see the density variations of this.
+p237
+aa(lp238
+VThese are the gases and the organic compounds
+p239
+aVthat we already have measured.
+p240
+aVYou will see it's an impressive list,
+p241
+aVand there is much, much, much more to come,
+p242
+aVbecause there are more measurements.
+p243
+aVActually, there is a conference going on in Houston at the moment
+p244
+aVwhere many of these results are presented.
+p245
+aa(lp246
+VAlso, we measured dust particles.
+p247
+aVNow, for you, this will not look very impressive,
+p248
+aVbut the scientists were thrilled when they saw this.
+p249
+aVTwo dust particles:
+p250
+aVthe right one they call Boris, and they shot it with tantalum
+p251
+aVin order to be able to analyze it.
+p252
+aVNow, we found sodium and magnesium.
+p253
+aVWhat this tells you is this is the concentration of these two materials
+p254
+aVat the time the solar system was formed,
+p255
+aVso we learned things about which materials were there
+p256
+aVwhen the planet was made.
+p257
+aa(lp258
+VOf course, one of the important elements is the imaging.
+p259
+aVThis is one of the cameras of Rosetta, the OSIRIS camera,
+p260
+aVand this actually was the cover of Science magazine
+p261
+aVon January 23 of this year.
+p262
+aVNobody had expected this body to look like this.
+p263
+aVBoulders, rocks \u2014 if anything, it looks more like the Half Dome in Yosemite
+p264
+aVthan anything else.
+p265
+aVWe also saw things like this:
+p266
+aVdunes, and what look to be, on the righthand side, wind-blown shadows.
+p267
+aVNow we know these from Mars, but this comet doesn't have an atmosphere,
+p268
+aVso it's a bit difficult to create a wind-blown shadow.
+p269
+aVIt may be local outgassing,
+p270
+aVstuff which goes up and comes back.
+p271
+aVWe don't know, so there is a lot to investigate.
+p272
+aVHere, you see the same image twice.
+p273
+aVOn the left-hand side, you see in the middle a pit.
+p274
+aVOn the right-hand side, if you carefully look,
+p275
+aVthere are three jets coming out of the bottom of that pit.
+p276
+aVSo this is the activity of the comet.
+p277
+aVApparently, at the bottom of these pits is where the active regions are,
+p278
+aVand where the material evaporates into space.
+p279
+aVThere is a very intriguing crack in the neck of the comet.
+p280
+aVYou see it on the right-hand side.
+p281
+aVIt's a kilometer long, and it's two and a half meters wide.
+p282
+aVSome people suggest that actually,
+p283
+aVwhen we get close to the sun,
+p284
+aVthe comet may split in two,
+p285
+aVand then we'll have to choose,
+p286
+aVwhich comet do we go for?
+p287
+aVThe lander \u2014 again, lots of instruments,
+p288
+aVmostly comparable except for the things which hammer in the ground and drill, etc.
+p289
+aVBut much the same as Rosetta, and that is because you want to compare
+p290
+aVwhat you find in space with what you find on the comet.
+p291
+aVThese are called ground truth measurements.
+p292
+aa(lp293
+VThese are the landing descent images
+p294
+aVthat were taken by the OSIRIS camera.
+p295
+aVYou see the lander getting further and further away from Rosetta.
+p296
+aVOn the top right, you see an image taken at 60 meters by the lander,
+p297
+aV60 meters above the surface of the comet.
+p298
+aVThe boulder there is some 10 meters.
+p299
+aVSo this is one of the last images we took before we landed on the comet.
+p300
+aVHere, you see the whole sequence again, but from a different perspective,
+p301
+aVand you see three blown-ups from the bottom-left to the middle
+p302
+aVof the lander traveling over the surface of the comet.
+p303
+aVThen, at the top, there is a before and an after image of the landing.
+p304
+aVThe only problem with the after image is, there is no lander.
+p305
+aVBut if you carefully look at the right-hand side of this image,
+p306
+aVwe saw the lander still there,  but it had bounced.
+p307
+aVIt had departed again.
+p308
+aa(lp309
+VNow, on a bit of a comical note here
+p310
+aVis that originally Rosetta was designed to have a lander which would bounce.
+p311
+aVThat was discarded because it was way too expensive.
+p312
+aVNow, we forgot, but the lander knew.
+p313
+aV(Laughter)
+p314
+aVDuring the first bounce, in the magnetometers,
+p315
+aVyou see here the data from them, from the three axes, x, y and z.
+p316
+aVHalfway through, you see a red line.
+p317
+aVAt that red line, there is a change.
+p318
+aVWhat happened, apparently, is during the first bounce,
+p319
+aVsomewhere, we hit the edge of a crater with one of the legs of the lander,
+p320
+aVand the rotation velocity of the lander changed.
+p321
+aVSo we've been rather lucky
+p322
+aVthat we are where we are.
+p323
+aa(lp324
+VThis is one of the iconic images of Rosetta.
+p325
+aVIt's a man-made object, a leg of the lander,
+p326
+aVstanding on a comet.
+p327
+aVThis, for me, is one of the very best images of space science I have ever seen.
+p328
+aa(lp329
+V(Applause)
+p330
+aa(lp331
+VOne of the things we still have to do is to actually find the lander.
+p332
+aVThe blue area here is where we know it must be.
+p333
+aVWe haven't been able to find it yet, but the search is continuing,
+p334
+aVas are our efforts to start getting the lander to work again.
+p335
+aVWe listen every day,
+p336
+aVand we hope that between now and somewhere in April,
+p337
+aVthe lander will wake up again.
+p338
+aa(lp339
+VThe findings of what we found on the comet:
+p340
+aVThis thing would float in water.
+p341
+aVIt's half the density of water.
+p342
+aVSo it looks like a very big rock, but it's not.
+p343
+aVThe activity increase we saw in June, July, August last year
+p344
+aVwas a four-fold activity increase.
+p345
+aVBy the time we will be at the sun,
+p346
+aVthere will be 100 kilos a second leaving this comet:
+p347
+aVgas, dust, whatever.
+p348
+aVThat's 100 million kilos a day.
+p349
+aa(lp350
+VThen, finally, the landing day.
+p351
+aVI will never forget \u2014 absolute madness, 250 TV crews in Germany.
+p352
+aVThe BBC was interviewing me,
+p353
+aVand another TV crew who was following me all day
+p354
+aVwere filming me being interviewed,
+p355
+aVand it went on like that for the whole day.
+p356
+aVThe Discovery Channel crew
+p357
+aVactually caught me when leaving the control room,
+p358
+aVand they asked the right question,
+p359
+aVand man, I got into tears, and I still feel this.
+p360
+aVFor a month and a half,
+p361
+aVI couldn't think about landing day without crying,
+p362
+aVand I still have the emotion in me.
+p363
+aa(lp364
+VWith this image of the comet, I would like to leave you.
+p365
+aa(lp366
+VThank you.
+p367
+aa(lp368
+V(Applause)
+p369
+aasS'id'
+p370
+I2230
+sS'title'
+p371
+VHow to land on a comet
+p372
+s.

@@ -1,0 +1,895 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo, security is two different things:
+p4
+aVit's a feeling, and it's a reality.
+p5
+aVAnd they're different.
+p6
+aVYou could feel secure even if you're not.
+p7
+aVAnd you can be secure
+p8
+aVeven if you don't feel it.
+p9
+aVReally, we have two separate concepts
+p10
+aVmapped onto the same word.
+p11
+aVAnd what I want to do in this talk is to split them apart \u2014
+p12
+aVfiguring out when they diverge and how they converge.
+p13
+aVAnd language is actually a problem here.
+p14
+aVThere aren't a lot of good words
+p15
+aVfor the concepts we're going to talk about.
+p16
+aVSo if you look at security from economic terms,
+p17
+aVit's a trade-off.
+p18
+aa(lp19
+VEvery time you get some security, you're always trading off something.
+p20
+aVWhether this is a personal decision \u2014
+p21
+aVwhether you're going to install a burglar alarm in your home \u2014
+p22
+aVor a national decision,
+p23
+aVwhere you're going to invade a foreign country \u2014
+p24
+aVyou're going to trade off something: money or time, convenience, capabilities,
+p25
+aVmaybe fundamental liberties.
+p26
+aVAnd the question to ask when you look at a security anything
+p27
+aVis not whether this makes us safer,
+p28
+aVbut whether it's worth the trade-off.
+p29
+aVYou've heard in the past several years, the world is safer
+p30
+aVbecause Saddam Hussein is not in power.
+p31
+aVThat might be true, but it's not terribly relevant.
+p32
+aVThe question is: Was it worth it?
+p33
+aVAnd you can make your own decision,
+p34
+aVand then you'll decide whether the invasion was worth it.
+p35
+aVThat's how you think about security: in terms of the trade-off.
+p36
+aa(lp37
+VNow, there's often no right or wrong here.
+p38
+aVSome of us have a burglar alarm system at home and some of us don't.
+p39
+aVAnd it'll depend on where we live,
+p40
+aVwhether we live alone or have a family,
+p41
+aVhow much cool stuff we have,
+p42
+aVhow much we're willing to accept the risk of theft.
+p43
+aVIn politics also, there are different opinions.
+p44
+aVA lot of times, these trade-offs are about more than just security,
+p45
+aVand I think that's really important.
+p46
+aVNow, people have a natural intuition about these trade-offs.
+p47
+aVWe make them every day.
+p48
+aVLast night in my hotel room, when I decided to double-lock the door,
+p49
+aVor you in your car when you drove here;
+p50
+aVwhen we go eat lunch
+p51
+aVand decide the food's not poison and we'll eat it.
+p52
+aa(lp53
+VWe make these trade-offs again and again,
+p54
+aVmultiple times a day.
+p55
+aVWe often won't even notice them.
+p56
+aVThey're just part of being alive; we all do it.
+p57
+aVEvery species does it.
+p58
+aVImagine a rabbit in a field, eating grass.
+p59
+aVAnd the rabbit sees a fox.
+p60
+aVThat rabbit will make a security trade-off:
+p61
+aV"Should I stay, or should I flee?"
+p62
+aVAnd if you think about it,
+p63
+aVthe rabbits that are good at making that trade-off
+p64
+aVwill tend to live and reproduce,
+p65
+aVand the rabbits that are bad at it
+p66
+aVwill get eaten or starve.
+p67
+aVSo you'd think
+p68
+aVthat us, as a successful species on the planet \u2014 you, me, everybody \u2014
+p69
+aVwould be really good at making these trade-offs.
+p70
+aVYet it seems, again and again, that we're hopelessly bad at it.
+p71
+aa(lp72
+VAnd I think that's a fundamentally interesting question.
+p73
+aVI'll give you the short answer.
+p74
+aVThe answer is, we respond to the feeling of security
+p75
+aVand not the reality.
+p76
+aVNow, most of the time, that works.
+p77
+aVMost of the time,
+p78
+aVfeeling and reality are the same.
+p79
+aVCertainly that's true for most of human prehistory.
+p80
+aVWe've developed this ability
+p81
+aVbecause it makes evolutionary sense.
+p82
+aVOne way to think of it is that we're highly optimized
+p83
+aVfor risk decisions
+p84
+aVthat are endemic to living in small family groups
+p85
+aVin the East African Highlands in 100,000 BC.
+p86
+aV2010 New York, not so much.
+p87
+aVNow, there are several biases in risk perception.
+p88
+aVA lot of good experiments in this.
+p89
+aVAnd you can see certain biases that come up again and again.
+p90
+aVI'll give you four.
+p91
+aa(lp92
+VWe tend to exaggerate spectacular and rare risks
+p93
+aVand downplay common risks \u2014
+p94
+aVso, flying versus driving.
+p95
+aVThe unknown is perceived to be riskier than the familiar.
+p96
+aVOne example would be:
+p97
+aVpeople fear kidnapping by strangers,
+p98
+aVwhen the data supports that kidnapping by relatives is much more common.
+p99
+aVThis is for children.
+p100
+aVThird, personified risks are perceived to be greater
+p101
+aVthan anonymous risks.
+p102
+aVSo, Bin Laden is scarier because he has a name.
+p103
+aVAnd the fourth is:
+p104
+aVpeople underestimate risks in situations they do control
+p105
+aVand overestimate them in situations they don't control.
+p106
+aVSo once you take up skydiving or smoking,
+p107
+aVyou downplay the risks.
+p108
+aVIf a risk is thrust upon you \u2014 terrorism is a good example \u2014
+p109
+aVyou'll overplay it,
+p110
+aVbecause you don't feel like it's in your control.
+p111
+aa(lp112
+VThere are a bunch of other of these cognitive biases,
+p113
+aVthat affect our risk decisions.
+p114
+aVThere's the availability heuristic,
+p115
+aVwhich basically means we estimate the probability of something
+p116
+aVby how easy it is to bring instances of it to mind.
+p117
+aVSo you can imagine how that works.
+p118
+aVIf you hear a lot about tiger attacks, there must be a lot of tigers around.
+p119
+aVYou don't hear about lion attacks, there aren't a lot of lions around.
+p120
+aVThis works, until you invent newspapers,
+p121
+aVbecause what newspapers do is repeat again and again
+p122
+aVrare risks.
+p123
+aVI tell people: if it's in the news, don't worry about it,
+p124
+aVbecause by definition, news is something that almost never happens.
+p125
+aa(lp126
+V(Laughter)
+p127
+aa(lp128
+VWhen something is so common, it's no longer news.
+p129
+aVCar crashes, domestic violence \u2014
+p130
+aVthose are the risks you worry about.
+p131
+aVWe're also a species of storytellers.
+p132
+aVWe respond to stories more than data.
+p133
+aVAnd there's some basic innumeracy going on.
+p134
+aVI mean, the joke "One, two, three, many" is kind of right.
+p135
+aVWe're really good at small numbers.
+p136
+aVOne mango, two mangoes, three mangoes,
+p137
+aV10,000 mangoes, 100,000 mangoes \u2014
+p138
+aVit's still more mangoes you can eat before they rot.
+p139
+aVSo one half, one quarter, one fifth \u2014 we're good at that.
+p140
+aVOne in a million, one in a billion \u2014
+p141
+aVthey're both almost never.
+p142
+aa(lp143
+VSo we have trouble with the risks that aren't very common.
+p144
+aVAnd what these cognitive biases do
+p145
+aVis they act as filters between us and reality.
+p146
+aVAnd the result is that feeling and reality get out of whack,
+p147
+aVthey get different.
+p148
+aVNow, you either have a feeling \u2014 you feel more secure than you are,
+p149
+aVthere's a false sense of security.
+p150
+aVOr the other way, and that's a false sense of insecurity.
+p151
+aa(lp152
+VI write a lot about "security theater,"
+p153
+aVwhich are products that make people feel secure,
+p154
+aVbut don't actually do anything.
+p155
+aVThere's no real word for stuff that makes us secure,
+p156
+aVbut doesn't make us feel secure.
+p157
+aVMaybe it's what the CIA is supposed to do for us.
+p158
+aVSo back to economics.
+p159
+aVIf economics, if the market, drives security,
+p160
+aVand if people make trade-offs based on the feeling of security,
+p161
+aVthen the smart thing for companies to do for the economic incentives
+p162
+aVis to make people feel secure.
+p163
+aVAnd there are two ways to do this.
+p164
+aa(lp165
+VOne, you can make people actually secure
+p166
+aVand hope they notice.
+p167
+aVOr two, you can make people just feel secure
+p168
+aVand hope they don't notice.
+p169
+aVRight?
+p170
+aVSo what makes people notice?
+p171
+aVWell, a couple of things:
+p172
+aVunderstanding of the security,
+p173
+aVof the risks, the threats,
+p174
+aVthe countermeasures, how they work.
+p175
+aVBut if you know stuff, you're more likely
+p176
+aVto have your feelings match reality.
+p177
+aVEnough real-world examples helps.
+p178
+aVWe all know the crime rate in our neighborhood,
+p179
+aVbecause we live there, and we get a feeling about it
+p180
+aVthat basically matches reality.
+p181
+aVSecurity theater is exposed
+p182
+aVwhen it's obvious that it's not working properly.
+p183
+aa(lp184
+VOK. So what makes people not notice?
+p185
+aVWell, a poor understanding.
+p186
+aVIf you don't understand the risks, you don't understand the costs,
+p187
+aVyou're likely to get the trade-off wrong,
+p188
+aVand your feeling doesn't match reality.
+p189
+aVNot enough examples.
+p190
+aVThere's an inherent problem with low-probability events.
+p191
+aVIf, for example, terrorism almost never happens,
+p192
+aVit's really hard to judge the efficacy of counter-terrorist measures.
+p193
+aVThis is why you keep sacrificing virgins,
+p194
+aVand why your unicorn defenses are working just great.
+p195
+aVThere aren't enough examples of failures.
+p196
+aVAlso, feelings that cloud the issues \u2014
+p197
+aVthe cognitive biases I talked about earlier: fears, folk beliefs \u2014
+p198
+aVbasically, an inadequate model of reality.
+p199
+aa(lp200
+VSo let me complicate things.
+p201
+aVI have feeling and reality.
+p202
+aVI want to add a third element. I want to add "model."
+p203
+aVFeeling and model are in our head,
+p204
+aVreality is the outside world; it doesn't change, it's real.
+p205
+aVFeeling is based on our intuition,
+p206
+aVmodel is based on reason.
+p207
+aVThat's basically the difference.
+p208
+aVIn a primitive and simple world,
+p209
+aVthere's really no reason for a model,
+p210
+aVbecause feeling is close to reality.
+p211
+aVYou don't need a model.
+p212
+aVBut in a modern and complex world,
+p213
+aVyou need models to understand a lot of the risks we face.
+p214
+aa(lp215
+VThere's no feeling about germs.
+p216
+aVYou need a model to understand them.
+p217
+aVThis model is an intelligent representation of reality.
+p218
+aVIt's, of course, limited by science, by technology.
+p219
+aVWe couldn't have a germ theory of disease
+p220
+aVbefore we invented the microscope to see them.
+p221
+aVIt's limited by our cognitive biases.
+p222
+aVBut it has the ability to override our feelings.
+p223
+aVWhere do we get these models? We get them from others.
+p224
+aVWe get them from religion, from culture, teachers, elders.
+p225
+aa(lp226
+VA couple years ago, I was in South Africa on safari.
+p227
+aVThe tracker I was with grew up in Kruger National Park.
+p228
+aVHe had some very complex models of how to survive.
+p229
+aVAnd it depended on if you were attacked by a lion, leopard, rhino, or elephant \u2014
+p230
+aVand when you had to run away, when you couldn't run away,
+p231
+aVwhen you had to climb a tree, when you could never climb a tree.
+p232
+aVI would have died in a day.
+p233
+aVBut he was born there, and he understood how to survive.
+p234
+aVI was born in New York City.
+p235
+aVI could have taken him to New York, and he would have died in a day.
+p236
+aa(lp237
+V(Laughter)
+p238
+aa(lp239
+VBecause we had different models based on our different experiences.
+p240
+aVModels can come from the media,
+p241
+aVfrom our elected officials ...
+p242
+aVThink of models of terrorism,
+p243
+aVchild kidnapping,
+p244
+aVairline safety, car safety.
+p245
+aVModels can come from industry.
+p246
+aVThe two I'm following are surveillance cameras,
+p247
+aVID cards,
+p248
+aVquite a lot of our computer security models come from there.
+p249
+aa(lp250
+VA lot of models come from science.
+p251
+aVHealth models are a great example.
+p252
+aVThink of cancer, bird flu, swine flu, SARS.
+p253
+aVAll of our feelings of security about those diseases
+p254
+aVcome from models given to us, really, by science filtered through the media.
+p255
+aVSo models can change.
+p256
+aVModels are not static.
+p257
+aVAs we become more comfortable in our environments,
+p258
+aVour model can move closer to our feelings.
+p259
+aa(lp260
+VSo an example might be,
+p261
+aVif you go back 100 years ago,
+p262
+aVwhen electricity was first becoming common,
+p263
+aVthere were a lot of fears about it.
+p264
+aVThere were people who were afraid to push doorbells,
+p265
+aVbecause there was electricity in there, and that was dangerous.
+p266
+aVFor us, we're very facile around electricity.
+p267
+aVWe change light bulbs without even thinking about it.
+p268
+aVOur model of security around electricity is something we were born into.
+p269
+aVIt hasn't changed as we were growing up.
+p270
+aVAnd we're good at it.
+p271
+aVOr think of the risks on the Internet across generations \u2014
+p272
+aVhow your parents approach Internet security,
+p273
+aVversus how you do,
+p274
+aVversus how our kids will.
+p275
+aa(lp276
+VModels eventually fade into the background.
+p277
+aV"Intuitive" is just another word for familiar.
+p278
+aVSo as your model is close to reality and it converges with feelings,
+p279
+aVyou often don't even know it's there.
+p280
+aVA nice example of this came from last year and swine flu.
+p281
+aVWhen swine flu first appeared,
+p282
+aVthe initial news caused a lot of overreaction.
+p283
+aVNow, it had a name,
+p284
+aVwhich made it scarier than the regular flu,
+p285
+aVeven though it was more deadly.
+p286
+aVAnd people thought doctors should be able to deal with it.
+p287
+aVSo there was that feeling of lack of control.
+p288
+aVAnd those two things made the risk more than it was.
+p289
+aa(lp290
+VAs the novelty wore off and the months went by,
+p291
+aVthere was some amount of tolerance; people got used to it.
+p292
+aVThere was no new data, but there was less fear.
+p293
+aVBy autumn,
+p294
+aVpeople thought the doctors should have solved this already.
+p295
+aVAnd there's kind of a bifurcation:
+p296
+aVpeople had to choose between fear and acceptance \u2014
+p297
+aVactually, fear and indifference \u2014
+p298
+aVand they kind of chose suspicion.
+p299
+aVAnd when the vaccine appeared last winter,
+p300
+aVthere were a lot of people \u2014 a surprising number \u2014
+p301
+aVwho refused to get it.
+p302
+aVAnd it's a nice example of how people's feelings of security change,
+p303
+aVhow their model changes,
+p304
+aVsort of wildly,
+p305
+aVwith no new information, with no new input.
+p306
+aVThis kind of thing happens a lot.
+p307
+aa(lp308
+VI'm going to give one more complication.
+p309
+aVWe have feeling, model, reality.
+p310
+aVI have a very relativistic view of security.
+p311
+aVI think it depends on the observer.
+p312
+aVAnd most security decisions have a variety of people involved.
+p313
+aVAnd stakeholders with specific trade-offs will try to influence the decision.
+p314
+aVAnd I call that their agenda.
+p315
+aVAnd you see agenda \u2014 this is marketing, this is politics \u2014
+p316
+aVtrying to convince you to have one model versus another,
+p317
+aVtrying to convince you to ignore a model
+p318
+aVand trust your feelings,
+p319
+aVmarginalizing people with models you don't like.
+p320
+aVThis is not uncommon.
+p321
+aVAn example, a great example, is the risk of smoking.
+p322
+aVIn the history of the past 50 years,
+p323
+aVthe smoking risk shows how a model changes,
+p324
+aVand it also shows how an industry fights against a model it doesn't like.
+p325
+aa(lp326
+VCompare that to the secondhand smoke debate \u2014
+p327
+aVprobably about 20 years behind.
+p328
+aVThink about seat belts.
+p329
+aVWhen I was a kid, no one wore a seat belt.
+p330
+aVNowadays, no kid will let you drive if you're not wearing a seat belt.
+p331
+aVCompare that to the airbag debate,
+p332
+aVprobably about 30 years behind.
+p333
+aVAll examples of models changing.
+p334
+aVWhat we learn is that changing models is hard.
+p335
+aVModels are hard to dislodge.
+p336
+aVIf they equal your feelings,
+p337
+aVyou don't even know you have a model.
+p338
+aVAnd there's another cognitive bias
+p339
+aVI'll call confirmation bias,
+p340
+aVwhere we tend to accept data that confirms our beliefs
+p341
+aVand reject data that contradicts our beliefs.
+p342
+aVSo evidence against our model, we're likely to ignore,
+p343
+aVeven if it's compelling.
+p344
+aVIt has to get very compelling before we'll pay attention.
+p345
+aa(lp346
+VNew models that extend long periods of time are hard.
+p347
+aVGlobal warming is a great example.
+p348
+aVWe're terrible at models that span 80 years.
+p349
+aVWe can do "to the next harvest."
+p350
+aVWe can often do "until our kids grow up."
+p351
+aVBut "80 years," we're just not good at.
+p352
+aVSo it's a very hard model to accept.
+p353
+aVWe can have both models in our head simultaneously \u2014
+p354
+aVthat kind of problem where we're holding both beliefs together,
+p355
+aVthe cognitive dissonance.
+p356
+aVEventually, the new model will replace the old model.
+p357
+aa(lp358
+VStrong feelings can create a model.
+p359
+aVSeptember 11 created a security model in a lot of people's heads.
+p360
+aVAlso, personal experiences with crime can do it,
+p361
+aVpersonal health scare,
+p362
+aVa health scare in the news.
+p363
+aVYou'll see these called "flashbulb events" by psychiatrists.
+p364
+aVThey can create a model instantaneously,
+p365
+aVbecause they're very emotive.
+p366
+aVSo in the technological world,
+p367
+aVwe don't have experience to judge models.
+p368
+aVAnd we rely on others. We rely on proxies.
+p369
+aVAnd this works, as long as it's the correct others.
+p370
+aa(lp371
+VWe rely on government agencies
+p372
+aVto tell us what pharmaceuticals are safe.
+p373
+aVI flew here yesterday.
+p374
+aVI didn't check the airplane.
+p375
+aVI relied on some other group
+p376
+aVto determine whether my plane was safe to fly.
+p377
+aVWe're here, none of us fear the roof is going to collapse on us,
+p378
+aVnot because we checked,
+p379
+aVbut because we're pretty sure the building codes here are good.
+p380
+aVIt's a model we just accept
+p381
+aVpretty much by faith.
+p382
+aVAnd that's OK.
+p383
+aa(lp384
+VNow, what we want is people to get familiar enough with better models,
+p385
+aVhave it reflected in their feelings,
+p386
+aVto allow them to make security trade-offs.
+p387
+aVWhen these go out of whack, you have two options.
+p388
+aVOne, you can fix people's feelings, directly appeal to feelings.
+p389
+aVIt's manipulation, but it can work.
+p390
+aVThe second, more honest way
+p391
+aVis to actually fix the model.
+p392
+aVChange happens slowly.
+p393
+aVThe smoking debate took 40 years \u2014 and that was an easy one.
+p394
+aVSome of this stuff is hard.
+p395
+aVReally, though, information seems like our best hope.
+p396
+aa(lp397
+VAnd I lied.
+p398
+aVRemember I said feeling, model, reality; reality doesn't change?
+p399
+aVIt actually does.
+p400
+aVWe live in a technological world;
+p401
+aVreality changes all the time.
+p402
+aVSo we might have, for the first time in our species:
+p403
+aVfeeling chases model, model chases reality, reality's moving \u2014
+p404
+aVthey might never catch up.
+p405
+aVWe don't know.
+p406
+aVBut in the long term,
+p407
+aVboth feeling and reality are important.
+p408
+aa(lp409
+VAnd I want to close with two quick stories to illustrate this.
+p410
+aV1982 \u2014 I don't know if people will remember this \u2014
+p411
+aVthere was a short epidemic of Tylenol poisonings
+p412
+aVin the United States.
+p413
+aVIt's a horrific story.
+p414
+aVSomeone took a bottle of Tylenol,
+p415
+aVput poison in it, closed it up, put it back on the shelf,
+p416
+aVsomeone else bought it and died.
+p417
+aVThis terrified people.
+p418
+aVThere were a couple of copycat attacks.
+p419
+aVThere wasn't any real risk, but people were scared.
+p420
+aVAnd this is how the tamper-proof drug industry was invented.
+p421
+aVThose tamper-proof caps? That came from this.
+p422
+aVIt's complete security theater.
+p423
+aVAs a homework assignment, think of 10 ways to get around it.
+p424
+aVI'll give you one: a syringe.
+p425
+aVBut it made people feel better.
+p426
+aVIt made their feeling of security more match the reality.
+p427
+aa(lp428
+VLast story: a few years ago, a friend of mine gave birth.
+p429
+aVI visit her in the hospital.
+p430
+aVIt turns out, when a baby's born now,
+p431
+aVthey put an RFID bracelet on the baby, a corresponding one on the mother,
+p432
+aVso if anyone other than the mother takes the baby out of the maternity ward,
+p433
+aVan alarm goes off.
+p434
+aVI said, "Well, that's kind of neat.
+p435
+aVI wonder how rampant baby snatching is out of hospitals."
+p436
+aVI go home, I look it up.
+p437
+aVIt basically never happens.
+p438
+aa(lp439
+V(Laughter)
+p440
+aa(lp441
+VBut if you think about it, if you are a hospital,
+p442
+aVand you need to take a baby away from its mother,
+p443
+aVout of the room to run some tests,
+p444
+aVyou better have some good security theater,
+p445
+aVor she's going to rip your arm off.
+p446
+aa(lp447
+V(Laughter)
+p448
+aa(lp449
+VSo it's important for us,
+p450
+aVthose of us who design security,
+p451
+aVwho look at security policy \u2014
+p452
+aVor even look at public policy in ways that affect security.
+p453
+aVIt's not just reality; it's feeling and reality.
+p454
+aVWhat's important
+p455
+aVis that they be about the same.
+p456
+aVIt's important that, if our feelings match reality,
+p457
+aVwe make better security trade-offs.
+p458
+aa(lp459
+VThank you.
+p460
+aa(lp461
+V(Applause)
+p462
+aasS'id'
+p463
+I1132
+sS'title'
+p464
+VThe security mirage
+p465
+s.

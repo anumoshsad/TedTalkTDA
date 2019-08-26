@@ -1,0 +1,566 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'd like to tell you about two games of chess.
+p4
+aVThe first happened in 1997, in which Garry Kasparov,
+p5
+aVa human, lost to Deep Blue, a machine.
+p6
+aVTo many, this was the dawn of a new era,
+p7
+aVone where man would be dominated by machine.
+p8
+aVBut here we are, 20 years on, and the greatest change
+p9
+aVin how we relate to computers is the iPad,
+p10
+aVnot HAL.
+p11
+aa(lp12
+VThe second game was a freestyle chess tournament
+p13
+aVin 2005, in which man and machine could enter together
+p14
+aVas partners, rather than adversaries, if they so chose.
+p15
+aVAt first, the results were predictable.
+p16
+aVEven a supercomputer was beaten by a grandmaster
+p17
+aVwith a relatively weak laptop.
+p18
+aVThe surprise came at the end. Who won?
+p19
+aVNot a grandmaster with a supercomputer,
+p20
+aVbut actually two American amateurs
+p21
+aVusing three relatively weak laptops.
+p22
+aVTheir ability to coach and manipulate their computers
+p23
+aVto deeply explore specific positions
+p24
+aVeffectively counteracted the superior chess knowledge
+p25
+aVof the grandmasters and the superior computational power
+p26
+aVof other adversaries.
+p27
+aVThis is an astonishing result: average men,
+p28
+aVaverage machines beating the best man, the best machine.
+p29
+aVAnd anyways, isn't it supposed to be man versus machine?
+p30
+aVInstead, it's about cooperation, and the right type of cooperation.
+p31
+aa(lp32
+VWe've been paying a lot of attention to Marvin Minsky's
+p33
+aVvision for artificial intelligence over the last 50 years.
+p34
+aVIt's a sexy vision, for sure. Many have embraced it.
+p35
+aVIt's become the dominant school of thought in computer science.
+p36
+aVBut as we enter the era of big data, of network systems,
+p37
+aVof open platforms, and embedded technology,
+p38
+aVI'd like to suggest it's time to reevaluate an alternative vision
+p39
+aVthat was actually developed around the same time.
+p40
+aVI'm talking about J.C.R. Licklider's human-computer symbiosis,
+p41
+aVperhaps better termed "intelligence augmentation," I.A.
+p42
+aa(lp43
+VLicklider was a computer science titan who had a profound
+p44
+aVeffect on the development of technology and the Internet.
+p45
+aVHis vision was to enable man and machine to cooperate
+p46
+aVin making decisions, controlling complex situations
+p47
+aVwithout the inflexible dependence
+p48
+aVon predetermined programs.
+p49
+aVNote that word "cooperate."
+p50
+aVLicklider encourages us not to take a toaster
+p51
+aVand make it Data from "Star Trek,"
+p52
+aVbut to take a human and make her more capable.
+p53
+aVHumans are so amazing \u2014 how we think,
+p54
+aVour non-linear approaches, our creativity,
+p55
+aViterative hypotheses, all very difficult if possible at all
+p56
+aVfor computers to do.
+p57
+aVLicklider intuitively realized this, contemplating humans
+p58
+aVsetting the goals, formulating the hypotheses,
+p59
+aVdetermining the criteria, and performing the evaluation.
+p60
+aVOf course, in other ways, humans are so limited.
+p61
+aVWe're terrible at scale, computation and volume.
+p62
+aVWe require high-end talent management
+p63
+aVto keep the rock band together and playing.
+p64
+aVLicklider foresaw computers doing all the routinizable work
+p65
+aVthat was required to prepare the way for insights and decision making.
+p66
+aa(lp67
+VSilently, without much fanfare,
+p68
+aVthis approach has been compiling victories beyond chess.
+p69
+aVProtein folding, a topic that shares the incredible expansiveness of chess \u2014
+p70
+aVthere are more ways of folding a protein than there are atoms in the universe.
+p71
+aVThis is a world-changing problem with huge implications
+p72
+aVfor our ability to understand and treat disease.
+p73
+aVAnd for this task, supercomputer field brute force simply isn't enough.
+p74
+aVFoldit, a game created by computer scientists,
+p75
+aVillustrates the value of the approach.
+p76
+aVNon-technical, non-biologist amateurs play a video game
+p77
+aVin which they visually rearrange the structure of the protein,
+p78
+aVallowing the computer to manage the atomic forces
+p79
+aVand interactions and identify structural issues.
+p80
+aVThis approach beat supercomputers 50 percent of the time
+p81
+aVand tied 30 percent of the time.
+p82
+aVFoldit recently made a notable and major scientific discovery
+p83
+aVby deciphering the structure of the Mason-Pfizer monkey virus.
+p84
+aVA protease that had eluded determination for over 10 years
+p85
+aVwas solved was by three players in a matter of days,
+p86
+aVperhaps the first major scientific advance
+p87
+aVto come from playing a video game.
+p88
+aa(lp89
+VLast year, on the site of the Twin Towers,
+p90
+aVthe 9/11 memorial opened.
+p91
+aVIt displays the names of the thousands of victims
+p92
+aVusing a beautiful concept called "meaningful adjacency."
+p93
+aVIt places the names next to each other based on their
+p94
+aVrelationships to one another: friends, families, coworkers.
+p95
+aVWhen you put it all together, it's quite a computational
+p96
+aVchallenge: 3,500 victims, 1,800 adjacency requests,
+p97
+aVthe importance of the overall physical specifications
+p98
+aVand the final aesthetics.
+p99
+aVWhen first reported by the media, full credit for such a feat
+p100
+aVwas given to an algorithm from the New York City
+p101
+aVdesign firm Local Projects. The truth is a bit more nuanced.
+p102
+aVWhile an algorithm was used to develop the underlying framework,
+p103
+aVhumans used that framework to design the final result.
+p104
+aVSo in this case, a computer had evaluated millions
+p105
+aVof possible layouts, managed a complex relational system,
+p106
+aVand kept track of a very large set of measurements
+p107
+aVand variables, allowing the humans to focus
+p108
+aVon design and compositional choices.
+p109
+aVSo the more you look around you,
+p110
+aVthe more you see Licklider's vision everywhere.
+p111
+aVWhether it's augmented reality in your iPhone or GPS in your car,
+p112
+aVhuman-computer symbiosis is making us more capable.
+p113
+aa(lp114
+VSo if you want to improve human-computer symbiosis,
+p115
+aVwhat can you do?
+p116
+aVYou can start by designing the human into the process.
+p117
+aVInstead of thinking about what a computer will do to solve the problem,
+p118
+aVdesign the solution around what the human will do as well.
+p119
+aVWhen you do this, you'll quickly realize that you spent
+p120
+aVall of your time on the interface between man and machine,
+p121
+aVspecifically on designing away the friction in the interaction.
+p122
+aVIn fact, this friction is more important than the power
+p123
+aVof the man or the power of the machine
+p124
+aVin determining overall capability.
+p125
+aVThat's why two amateurs with a few laptops
+p126
+aVhandily beat a supercomputer and a grandmaster.
+p127
+aVWhat Kasparov calls process is a byproduct of friction.
+p128
+aVThe better the process, the less the friction.
+p129
+aVAnd minimizing friction turns out to be the decisive variable.
+p130
+aa(lp131
+VOr take another example: big data.
+p132
+aVEvery interaction we have in the world is recorded
+p133
+aVby an ever growing array of sensors: your phone,
+p134
+aVyour credit card, your computer. The result is big data,
+p135
+aVand it actually presents us with an opportunity
+p136
+aVto more deeply understand the human condition.
+p137
+aVThe major emphasis of most approaches to big data
+p138
+aVfocus on, "How do I store this data? How do I search
+p139
+aVthis data? How do I process this data?"
+p140
+aVThese are necessary but insufficient questions.
+p141
+aVThe imperative is not to figure out how to compute,
+p142
+aVbut what to compute. How do you impose human intuition
+p143
+aVon data at this scale?
+p144
+aa(lp145
+VAgain, we start by designing the human into the process.
+p146
+aVWhen PayPal was first starting as a business, their biggest
+p147
+aVchallenge was not, "How do I send money back and forth online?"
+p148
+aVIt was, "How do I do that without being defrauded by organized crime?"
+p149
+aVWhy so challenging? Because while computers can learn
+p150
+aVto detect and identify fraud based on patterns,
+p151
+aVthey can't learn to do that based on patterns
+p152
+aVthey've never seen before, and organized crime
+p153
+aVhas a lot in common with this audience: brilliant people,
+p154
+aVrelentlessly resourceful, entrepreneurial spirit \u2014 (Laughter) \u2014
+p155
+aVand one huge and important difference: purpose.
+p156
+aVAnd so while computers alone can catch all but the cleverest
+p157
+aVfraudsters, catching the cleverest is the difference
+p158
+aVbetween success and failure.
+p159
+aa(lp160
+VThere's a whole class of problems like this, ones with
+p161
+aVadaptive adversaries. They rarely if ever present with a
+p162
+aVrepeatable pattern that's discernable to computers.
+p163
+aVInstead, there's some inherent component of innovation or disruption,
+p164
+aVand increasingly these problems are buried in big data.
+p165
+aa(lp166
+VFor example, terrorism. Terrorists are always adapting
+p167
+aVin minor and major ways to new circumstances, and despite
+p168
+aVwhat you might see on TV, these adaptations,
+p169
+aVand the detection of them, are fundamentally human.
+p170
+aVComputers don't detect novel patterns and new behaviors,
+p171
+aVbut humans do. Humans, using technology, testing hypotheses,
+p172
+aVsearching for insight by asking machines to do things for them.
+p173
+aVOsama bin Laden was not caught by artificial intelligence.
+p174
+aVHe was caught by dedicated, resourceful, brilliant people
+p175
+aVin partnerships with various technologies.
+p176
+aa(lp177
+VAs appealing as it might sound, you cannot algorithmically
+p178
+aVdata mine your way to the answer.
+p179
+aVThere is no "Find Terrorist" button, and the more data
+p180
+aVwe integrate from a vast variety of sources
+p181
+aVacross a wide variety of data formats from very
+p182
+aVdisparate systems, the less effective data mining can be.
+p183
+aVInstead, people will have to look at data
+p184
+aVand search for insight, and as Licklider foresaw long ago,
+p185
+aVthe key to great results here is the right type of cooperation,
+p186
+aVand as Kasparov realized,
+p187
+aVthat means minimizing friction at the interface.
+p188
+aa(lp189
+VNow this approach makes possible things like combing
+p190
+aVthrough all available data from very different sources,
+p191
+aVidentifying key relationships and putting them in one place,
+p192
+aVsomething that's been nearly impossible to do before.
+p193
+aVTo some, this has terrifying privacy and civil liberties
+p194
+aVimplications. To others it foretells of an era of greater
+p195
+aVprivacy and civil liberties protections,
+p196
+aVbut privacy and civil liberties are of fundamental importance.
+p197
+aVThat must be acknowledged, and they can't be swept aside,
+p198
+aVeven with the best of intents.
+p199
+aa(lp200
+VSo let's explore, through a couple of examples, the impact
+p201
+aVthat technologies built to drive human-computer symbiosis
+p202
+aVhave had in recent time.
+p203
+aa(lp204
+VIn October, 2007, U.S. and coalition forces raided
+p205
+aVan al Qaeda safe house in the city of Sinjar
+p206
+aVon the Syrian border of Iraq.
+p207
+aVThey found a treasure trove of documents:
+p208
+aV700 biographical sketches of foreign fighters.
+p209
+aVThese foreign fighters had left their families in the Gulf,
+p210
+aVthe Levant and North Africa to join al Qaeda in Iraq.
+p211
+aVThese records were human resource forms.
+p212
+aVThe foreign fighters filled them out as they joined the organization.
+p213
+aVIt turns out that al Qaeda, too,
+p214
+aVis not without its bureaucracy. (Laughter)
+p215
+aVThey answered questions like, "Who recruited you?"
+p216
+aV"What's your hometown?" "What occupation do you seek?"
+p217
+aa(lp218
+VIn that last question, a surprising insight was revealed.
+p219
+aVThe vast majority of foreign fighters
+p220
+aVwere seeking to become suicide bombers for martyrdom \u2014
+p221
+aVhugely important, since between 2003 and 2007, Iraq
+p222
+aVhad 1,382 suicide bombings, a major source of instability.
+p223
+aVAnalyzing this data was hard. The originals were sheets
+p224
+aVof paper in Arabic that had to be scanned and translated.
+p225
+aVThe friction in the process did not allow for meaningful
+p226
+aVresults in an operational time frame using humans, PDFs
+p227
+aVand tenacity alone.
+p228
+aVThe researchers had to lever up their human minds
+p229
+aVwith technology to dive deeper, to explore non-obvious
+p230
+aVhypotheses, and in fact, insights emerged.
+p231
+aVTwenty percent of the foreign fighters were from Libya,
+p232
+aV50 percent of those from a single town in Libya,
+p233
+aVhugely important since prior statistics put that figure at
+p234
+aVthree percent. It also helped to hone in on a figure
+p235
+aVof rising importance in al Qaeda, Abu Yahya al-Libi,
+p236
+aVa senior cleric in the Libyan Islamic fighting group.
+p237
+aVIn March of 2007, he gave a speech, after which there was
+p238
+aVa surge in participation amongst Libyan foreign fighters.
+p239
+aa(lp240
+VPerhaps most clever of all, though, and least obvious,
+p241
+aVby flipping the data on its head, the researchers were
+p242
+aVable to deeply explore the coordination networks in Syria
+p243
+aVthat were ultimately responsible for receiving and
+p244
+aVtransporting the foreign fighters to the border.
+p245
+aVThese were networks of mercenaries, not ideologues,
+p246
+aVwho were in the coordination business for profit.
+p247
+aVFor example, they charged Saudi foreign fighters
+p248
+aVsubstantially more than Libyans, money that would have
+p249
+aVotherwise gone to al Qaeda.
+p250
+aVPerhaps the adversary would disrupt their own network
+p251
+aVif they knew they cheating would-be jihadists.
+p252
+aa(lp253
+VIn January, 2010, a devastating 7.0 earthquake struck Haiti,
+p254
+aVthird deadliest earthquake of all time, left one million people,
+p255
+aV10 percent of the population, homeless.
+p256
+aVOne seemingly small aspect of the overall relief effort
+p257
+aVbecame increasingly important as the delivery of food
+p258
+aVand water started rolling.
+p259
+aVJanuary and February are the dry months in Haiti,
+p260
+aVyet many of the camps had developed standing water.
+p261
+aVThe only institution with detailed knowledge of Haiti's
+p262
+aVfloodplains had been leveled
+p263
+aVin the earthquake, leadership inside.
+p264
+aVSo the question is, which camps are at risk,
+p265
+aVhow many people are in these camps, what's the
+p266
+aVtimeline for flooding, and given very limited resources
+p267
+aVand infrastructure, how do we prioritize the relocation?
+p268
+aVThe data was incredibly disparate. The U.S. Army had
+p269
+aVdetailed knowledge for only a small section of the country.
+p270
+aVThere was data online from a 2006 environmental risk
+p271
+aVconference, other geospatial data, none of it integrated.
+p272
+aVThe human goal here was to identify camps for relocation
+p273
+aVbased on priority need.
+p274
+aVThe computer had to integrate a vast amount of geospacial
+p275
+aVinformation, social media data and relief organization
+p276
+aVinformation to answer this question.
+p277
+aVBy implementing a superior process, what was otherwise
+p278
+aVa task for 40 people over three months became
+p279
+aVa simple job for three people in 40 hours,
+p280
+aa(lp281
+Vall victories for human-computer symbiosis.
+p282
+aa(lp283
+VWe're more than 50 years into Licklider's vision
+p284
+aVfor the future, and the data suggests that we should be
+p285
+aVquite excited about tackling this century's hardest problems,
+p286
+aVman and machine in cooperation together.
+p287
+aVThank you. (Applause)
+p288
+aV(Applause)
+p289
+aasS'id'
+p290
+I1556
+sS'title'
+p291
+VThe rise of human-computer cooperation
+p292
+s.

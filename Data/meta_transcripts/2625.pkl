@@ -1,0 +1,938 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VChris Anderson: So, Jon, this feels scary.
+p4
+aa(lp5
+VJonathan Haidt: Yeah.
+p6
+aa(lp7
+VCA: It feels like the world is in a place
+p8
+aVthat we haven't seen for a long time.
+p9
+aVPeople don't just disagree in the way that we're familiar with,
+p10
+aVon the left-right political divide.
+p11
+aVThere are much deeper differences afoot.
+p12
+aVWhat on earth is going on, and how did we get here?
+p13
+aa(lp14
+VJH: This is different.
+p15
+aVThere's a much more apocalyptic sort of feeling.
+p16
+aVSurvey research by Pew Research shows
+p17
+aVthat the degree to which we feel that the other side is not just \u2014
+p18
+aVwe don't just dislike them; we strongly dislike them,
+p19
+aVand we think that they are a threat to the nation.
+p20
+aVThose numbers have been going up and up,
+p21
+aVand those are over 50 percent now on both sides.
+p22
+aVPeople are scared,
+p23
+aVbecause it feels like this is different than before; it's much more intense.
+p24
+aa(lp25
+VWhenever I look at any sort of social puzzle,
+p26
+aVI always apply the three basic principles of moral psychology,
+p27
+aVand I think they'll help us here.
+p28
+aVSo the first thing that you have to always keep in mind
+p29
+aVwhen you're thinking about politics
+p30
+aVis that we're tribal.
+p31
+aVWe evolved for tribalism.
+p32
+aVOne of the simplest and greatest insights into human social nature
+p33
+aVis the Bedouin proverb:
+p34
+aV"Me against my brother;
+p35
+aVme and my brother against our cousin;
+p36
+aVme and my brother and cousins against the stranger."
+p37
+aVAnd that tribalism allowed us to create large societies
+p38
+aVand to come together in order to compete with others.
+p39
+aVThat brought us out of the jungle and out of small groups,
+p40
+aVbut it means that we have eternal conflict.
+p41
+aVThe question you have to look at is:
+p42
+aVWhat aspects of our society are making that more bitter,
+p43
+aVand what are calming them down?
+p44
+aa(lp45
+VCA: That's a very dark proverb.
+p46
+aVYou're saying that that's actually baked into most people's mental wiring
+p47
+aVat some level?
+p48
+aa(lp49
+VJH: Oh, absolutely. This is just a basic aspect of human social cognition.
+p50
+aVBut we can also live together really peacefully,
+p51
+aVand we've invented all kinds of fun ways of, like, playing war.
+p52
+aVI mean, sports, politics \u2014
+p53
+aVthese are all ways that we get to exercise this tribal nature
+p54
+aVwithout actually hurting anyone.
+p55
+aVWe're also really good at trade and exploration and meeting new people.
+p56
+aVSo you have to see our tribalism as something that goes up or down \u2014
+p57
+aVit's not like we're doomed to always be fighting each other,
+p58
+aVbut we'll never have world peace.
+p59
+aa(lp60
+VCA: The size of that tribe can shrink or expand.
+p61
+aa(lp62
+VJH: Right.
+p63
+aa(lp64
+VCA: The size of what we consider "us"
+p65
+aVand what we consider "other" or "them"
+p66
+aVcan change.
+p67
+aVAnd some people believed that process could continue indefinitely.
+p68
+aa(lp69
+VJH: That's right.
+p70
+aa(lp71
+VCA: And we were indeed expanding the sense of tribe for a while.
+p72
+aa(lp73
+VJH: So this is, I think,
+p74
+aVwhere we're getting at what's possibly the new left-right distinction.
+p75
+aVI mean, the left-right as we've all inherited it,
+p76
+aVcomes out of the labor versus capital distinction,
+p77
+aVand the working class, and Marx.
+p78
+aVBut I think what we're seeing now, increasingly,
+p79
+aVis a divide in all the Western democracies
+p80
+aVbetween the people who want to stop at nation,
+p81
+aVthe people who are more parochial \u2014
+p82
+aVand I don't mean that in a bad way \u2014
+p83
+aVpeople who have much more of a sense of being rooted,
+p84
+aVthey care about their town, their community and their nation.
+p85
+aVAnd then those who are anti-parochial and who \u2014
+p86
+aVwhenever I get confused, I just think of the John Lennon song "Imagine."
+p87
+aV"Imagine there's no countries, nothing to kill or die for."
+p88
+aVAnd so these are the people who want more global governance,
+p89
+aVthey don't like nation states, they don't like borders.
+p90
+aVYou see this all over Europe as well.
+p91
+aVThere's a great metaphor guy \u2014 actually, his name is Shakespeare \u2014
+p92
+aVwriting ten years ago in Britain.
+p93
+aVHe had a metaphor:
+p94
+aV"Are we drawbridge-uppers or drawbridge-downers?"
+p95
+aVAnd Britain is divided 52-48 on that point.
+p96
+aVAnd America is divided on that point, too.
+p97
+aa(lp98
+VCA: And so, those of us who grew up with The Beatles
+p99
+aVand that sort of hippie philosophy of dreaming of a more connected world \u2014
+p100
+aVit felt so idealistic and "how could anyone think badly about that?"
+p101
+aVAnd what you're saying is that, actually,
+p102
+aVmillions of people today feel that that isn't just silly;
+p103
+aVit's actually dangerous and wrong, and they're scared of it.
+p104
+aa(lp105
+VJH: I think the big issue, especially in Europe but also here,
+p106
+aVis the issue of immigration.
+p107
+aVAnd I think this is where we have to look very carefully
+p108
+aVat the social science about diversity and immigration.
+p109
+aVOnce something becomes politicized,
+p110
+aVonce it becomes something that the left loves and the right \u2014
+p111
+aVthen even the social scientists can't think straight about it.
+p112
+aVNow, diversity is good in a lot of ways.
+p113
+aVIt clearly creates more innovation.
+p114
+aVThe American economy has grown enormously from it.
+p115
+aVDiversity and immigration do a lot of good things.
+p116
+aVBut what the globalists, I think, don't see,
+p117
+aVwhat they don't want to see,
+p118
+aVis that ethnic diversity cuts social capital and trust.
+p119
+aa(lp120
+VThere's a very important study by Robert Putnam,
+p121
+aVthe author of "Bowling Alone,"
+p122
+aVlooking at social capital databases.
+p123
+aVAnd basically, the more people feel that they are the same,
+p124
+aVthe more they trust each other,
+p125
+aVthe more they can have a redistributionist welfare state.
+p126
+aVScandinavian countries are so wonderful
+p127
+aVbecause they have this legacy of being small, homogenous countries.
+p128
+aVAnd that leads to a progressive welfare state,
+p129
+aVa set of progressive left-leaning values, which says,
+p130
+aV"Drawbridge down! The world is a great place.
+p131
+aVPeople in Syria are suffering \u2014 we must welcome them in."
+p132
+aVAnd it's a beautiful thing.
+p133
+aVBut if, and I was in Sweden this summer,
+p134
+aVif the discourse in Sweden is fairly politically correct
+p135
+aVand they can't talk about the downsides,
+p136
+aVyou end up bringing a lot of people in.
+p137
+aVThat's going to cut social capital,
+p138
+aVit makes it hard to have a welfare state
+p139
+aVand they might end up, as we have in America,
+p140
+aVwith a racially divided, visibly racially divided, society.
+p141
+aVSo this is all very uncomfortable to talk about.
+p142
+aVBut I think this is the thing, especially in Europe and for us, too,
+p143
+aVwe need to be looking at.
+p144
+aa(lp145
+VCA: You're saying that people of reason,
+p146
+aVpeople who would consider themselves not racists,
+p147
+aVbut moral, upstanding people,
+p148
+aVhave a rationale that says humans are just too different;
+p149
+aVthat we're in danger of overloading our sense of what humans are capable of,
+p150
+aVby mixing in people who are too different.
+p151
+aa(lp152
+VJH: Yes, but I can make it much more palatable
+p153
+aVby saying it's not necessarily about race.
+p154
+aVIt's about culture.
+p155
+aVThere's wonderful work by a political scientist named Karen Stenner,
+p156
+aVwho shows that when people have a sense
+p157
+aVthat we are all united, we're all the same,
+p158
+aVthere are many people who have a predisposition to authoritarianism.
+p159
+aVThose people aren't particularly racist
+p160
+aVwhen they feel as through there's not a threat
+p161
+aVto our social and moral order.
+p162
+aVBut if you prime them experimentally
+p163
+aVby thinking we're coming apart, people are getting more different,
+p164
+aVthen they get more racist, homophobic, they want to kick out the deviants.
+p165
+aVSo it's in part that you get an authoritarian reaction.
+p166
+aVThe left, following through the Lennonist line \u2014
+p167
+aVthe John Lennon line \u2014
+p168
+aVdoes things that create an authoritarian reaction.
+p169
+aa(lp170
+VWe're certainly seeing that in America with the alt-right.
+p171
+aVWe saw it in Britain, we've seen it all over Europe.
+p172
+aVBut the more positive part of that
+p173
+aVis that I think the localists, or the nationalists, are actually right \u2014
+p174
+aVthat, if you emphasize our cultural similarity,
+p175
+aVthen race doesn't actually matter very much.
+p176
+aVSo an assimilationist approach to immigration
+p177
+aVremoves a lot of these problems.
+p178
+aVAnd if you value having a generous welfare state,
+p179
+aVyou've got to emphasize that we're all the same.
+p180
+aa(lp181
+VCA: OK, so rising immigration and fears about that
+p182
+aVare one of the causes of the current divide.
+p183
+aVWhat are other causes?
+p184
+aa(lp185
+VJH: The next principle of moral psychology
+p186
+aVis that intuitions come first, strategic reasoning second.
+p187
+aVYou've probably heard the term "motivated reasoning"
+p188
+aVor "confirmation bias."
+p189
+aVThere's some really interesting work
+p190
+aVon how our high intelligence and our verbal abilities
+p191
+aVmight have evolved not to help us find out the truth,
+p192
+aVbut to help us manipulate each other, defend our reputation ...
+p193
+aVWe're really, really good at justifying ourselves.
+p194
+aVAnd when you bring group interests into account,
+p195
+aVso it's not just me, it's my team versus your team,
+p196
+aVwhereas if you're evaluating evidence that your side is wrong,
+p197
+aVwe just can't accept that.
+p198
+aVSo this is why you can't win a political argument.
+p199
+aVIf you're debating something,
+p200
+aVyou can't persuade the person with reasons and evidence,
+p201
+aVbecause that's not the way reasoning works.
+p202
+aVSo now, give us the internet, give us Google:
+p203
+aV"I heard that Barack Obama was born in Kenya.
+p204
+aVLet me Google that \u2014 oh my God! 10 million hits! Look, he was!"
+p205
+aa(lp206
+VCA: So this has come as an unpleasant surprise to a lot of people.
+p207
+aVSocial media has often been framed by techno-optimists
+p208
+aVas this great connecting force that would bring people together.
+p209
+aVAnd there have been some unexpected counter-effects to that.
+p210
+aa(lp211
+VJH: That's right.
+p212
+aVThat's why I'm very enamored of yin-yang views
+p213
+aVof human nature and left-right \u2014
+p214
+aVthat each side is right about certain things,
+p215
+aVbut then it goes blind to other things.
+p216
+aVAnd so the left generally believes that human nature is good:
+p217
+aVbring people together, knock down the walls and all will be well.
+p218
+aVThe right \u2014 social conservatives, not libertarians \u2014
+p219
+aVsocial conservatives generally believe people can be greedy
+p220
+aVand sexual and selfish,
+p221
+aVand we need regulation, and we need restrictions.
+p222
+aVSo, yeah, if you knock down all the walls,
+p223
+aVallow people to communicate all over the world,
+p224
+aVyou get a lot of porn and a lot of racism.
+p225
+aa(lp226
+VCA: So help us understand.
+p227
+aVThese principles of human nature have been with us forever.
+p228
+aVWhat's changed that's deepened this feeling of division?
+p229
+aa(lp230
+VJH: You have to see six to ten different threads all coming together.
+p231
+aVI'll just list a couple of them.
+p232
+aVSo in America, one of the big \u2014 actually, America and Europe \u2014
+p233
+aVone of the biggest ones is World War II.
+p234
+aVThere's interesting research from Joe Henrich and others
+p235
+aVthat says if your country was at war,
+p236
+aVespecially when you were young,
+p237
+aVthen we test you 30 years later in a commons dilemma
+p238
+aVor a prisoner's dilemma,
+p239
+aVyou're more cooperative.
+p240
+aVBecause of our tribal nature, if you're \u2014
+p241
+aVmy parents were teenagers during World War II,
+p242
+aVand they would go out looking for scraps of aluminum
+p243
+aVto help the war effort.
+p244
+aVI mean, everybody pulled together.
+p245
+aVAnd so then these people go on,
+p246
+aVthey rise up through business and government,
+p247
+aVthey take leadership positions.
+p248
+aVThey're really good at compromise and cooperation.
+p249
+aVThey all retire by the '90s.
+p250
+aVSo we're left with baby boomers by the end of the '90s.
+p251
+aVAnd their youth was spent fighting each other within each country,
+p252
+aVin 1968 and afterwards.
+p253
+aVThe loss of the World War II generation, "The Greatest Generation,"
+p254
+aVis huge.
+p255
+aVSo that's one.
+p256
+aa(lp257
+VAnother, in America, is the purification of the two parties.
+p258
+aVThere used to be liberal Republicans and conservative Democrats.
+p259
+aVSo America had a mid-20th century that was really bipartisan.
+p260
+aVBut because of a variety of factors that started things moving,
+p261
+aVby the 90's, we had a purified liberal party and conservative party.
+p262
+aVSo now, the people in either party really are different,
+p263
+aVand we really don't want our children to marry them,
+p264
+aVwhich, in the '60s, didn't matter very much.
+p265
+aVSo, the purification of the parties.
+p266
+aVThird is the internet and, as I said,
+p267
+aVit's just the most amazing stimulant for post-hoc reasoning and demonization.
+p268
+aa(lp269
+VCA: The tone of what's happening on the internet now is quite troubling.
+p270
+aVI just did a quick search on Twitter about the election
+p271
+aVand saw two tweets next to each other.
+p272
+aVOne, against a picture of racist graffiti:
+p273
+aV"This is disgusting!
+p274
+aVUgliness in this country, brought to us by #Trump."
+p275
+aVAnd then the next one is:
+p276
+aV"Crooked Hillary dedication page. Disgusting!"
+p277
+aVSo this idea of "disgust" is troubling to me.
+p278
+aVBecause you can have an argument or a disagreement about something,
+p279
+aVyou can get angry at someone.
+p280
+aVDisgust, I've heard you say, takes things to a much deeper level.
+p281
+aa(lp282
+VJH: That's right. Disgust is different.
+p283
+aVAnger \u2014 you know, I have kids.
+p284
+aVThey fight 10 times a day,
+p285
+aVand they love each other 30 times a day.
+p286
+aVYou just go back and forth: you get angry, you're not angry;
+p287
+aVyou're angry, you're not angry.
+p288
+aVBut disgust is different.
+p289
+aVDisgust paints the person as subhuman, monstrous,
+p290
+aVdeformed, morally deformed.
+p291
+aVDisgust is like indelible ink.
+p292
+aVThere's research from John Gottman on marital therapy.
+p293
+aVIf you look at the faces \u2014 if one of the couple shows disgust or contempt,
+p294
+aVthat's a predictor that they're going to get divorced soon,
+p295
+aVwhereas if they show anger, that doesn't predict anything,
+p296
+aVbecause if you deal with anger well, it actually is good.
+p297
+aa(lp298
+VSo this election is different.
+p299
+aVDonald Trump personally uses the word "disgust" a lot.
+p300
+aVHe's very germ-sensitive, so disgust does matter a lot \u2014
+p301
+aVmore for him, that's something unique to him \u2014
+p302
+aVbut as we demonize each other more,
+p303
+aVand again, through the Manichaean worldview,
+p304
+aVthe idea that the world is a battle between good and evil
+p305
+aVas this has been ramping up,
+p306
+aVwe're more likely not just to say they're wrong or I don't like them,
+p307
+aVbut we say they're evil, they're satanic,
+p308
+aVthey're disgusting, they're revolting.
+p309
+aVAnd then we want nothing to do with them.
+p310
+aVAnd that's why I think we're seeing it, for example, on campus now.
+p311
+aVWe're seeing more the urge to keep people off campus,
+p312
+aVsilence them, keep them away.
+p313
+aVI'm afraid that this whole generation of young people,
+p314
+aVif their introduction to politics involves a lot of disgust,
+p315
+aVthey're not going to want to be involved in politics as they get older.
+p316
+aa(lp317
+VCA: So how do we deal with that?
+p318
+aVDisgust. How do you defuse disgust?
+p319
+aa(lp320
+VJH: You can't do it with reasons.
+p321
+aVI think ...
+p322
+aVI studied disgust for many years, and I think about emotions a lot.
+p323
+aVAnd I think that the opposite of disgust is actually love.
+p324
+aVLove is all about, like ...
+p325
+aVDisgust is closing off, borders.
+p326
+aVLove is about dissolving walls.
+p327
+aVSo personal relationships, I think,
+p328
+aVare probably the most powerful means we have.
+p329
+aVYou can be disgusted by a group of people,
+p330
+aVbut then you meet a particular person
+p331
+aVand you genuinely discover that they're lovely.
+p332
+aVAnd then gradually that chips away or changes your category as well.
+p333
+aVThe tragedy is, Americans used to be much more mixed up in the their towns
+p334
+aVby left-right or politics.
+p335
+aVAnd now that it's become this great moral divide,
+p336
+aVthere's a lot of evidence that we're moving to be near people
+p337
+aVwho are like us politically.
+p338
+aVIt's harder to find somebody who's on the other side.
+p339
+aVSo they're over there, they're far away.
+p340
+aVIt's harder to get to know them.
+p341
+aa(lp342
+VCA: What would you say to someone or say to Americans,
+p343
+aVpeople generally,
+p344
+aVabout what we should understand about each other
+p345
+aVthat might help us rethink for a minute
+p346
+aVthis "disgust" instinct?
+p347
+aa(lp348
+VJH: Yes.
+p349
+aVA really important thing to keep in mind \u2014
+p350
+aVthere's research by political scientist Alan Abramowitz,
+p351
+aVshowing that American democracy is increasingly governed
+p352
+aVby what's called "negative partisanship."
+p353
+aVThat means you think, OK there's a candidate,
+p354
+aVyou like the candidate, you vote for the candidate.
+p355
+aVBut with the rise of negative advertising
+p356
+aVand social media and all sorts of other trends,
+p357
+aVincreasingly, the way elections are done
+p358
+aVis that each side tries to make the other side so horrible, so awful,
+p359
+aVthat you'll vote for my guy by default.
+p360
+aa(lp361
+VAnd so as we more and more vote against the other side
+p362
+aVand not for our side,
+p363
+aVyou have to keep in mind that if people are on the left,
+p364
+aVthey think, "Well, I used to think that Republicans were bad,
+p365
+aVbut now Donald Trump proves it.
+p366
+aVAnd now every Republican, I can paint with all the things
+p367
+aVthat I think about Trump."
+p368
+aVAnd that's not necessarily true.
+p369
+aVThey're generally not very happy with their candidate.
+p370
+aa(lp371
+VThis is the most negative partisanship election in American history.
+p372
+aVSo you have to first separate your feelings about the candidate
+p373
+aVfrom your feelings about the people who are given a choice.
+p374
+aVAnd then you have to realize that,
+p375
+aVbecause we all live in a separate moral world \u2014
+p376
+aVthe metaphor I use in the book is that we're all trapped in "The Matrix,"
+p377
+aVor each moral community is a matrix, a consensual hallucination.
+p378
+aVAnd so if you're within the blue matrix,
+p379
+aVeverything's completely compelling that the other side \u2014
+p380
+aVthey're troglodytes, they're racists, they're the worst people in the world,
+p381
+aVand you have all the facts to back that up.
+p382
+aVBut somebody in the next house from yours
+p383
+aVis living in a different moral matrix.
+p384
+aVThey live in a different video game,
+p385
+aVand they see a completely different set of facts.
+p386
+aVAnd each one sees different threats to the country.
+p387
+aVAnd what I've found from being in the middle
+p388
+aVand trying to understand both sides is: both sides are right.
+p389
+aVThere are a lot of threats to this country,
+p390
+aVand each side is constitutionally incapable of seeing them all.
+p391
+aa(lp392
+VCA: So, are you saying that we almost need a new type of empathy?
+p393
+aVEmpathy is traditionally framed as:
+p394
+aV"Oh, I feel your pain. I can put myself in your shoes."
+p395
+aVAnd we apply it to the poor, the needy, the suffering.
+p396
+aVWe don't usually apply it to people who we feel as other,
+p397
+aVor we're disgusted by.
+p398
+aa(lp399
+VJH: No. That's right.
+p400
+aa(lp401
+VCA: What would it look like to build that type of empathy?
+p402
+aa(lp403
+VJH: Actually, I think ...
+p404
+aVEmpathy is a very, very hot topic in psychology,
+p405
+aVand it's a very popular word on the left in particular.
+p406
+aVEmpathy is a good thing, and empathy for the preferred classes of victims.
+p407
+aVSo it's important to empathize
+p408
+aVwith the groups that we on the left think are so important.
+p409
+aVThat's easy to do, because you get points for that.
+p410
+aa(lp411
+VBut empathy really should get you points if you do it when it's hard to do.
+p412
+aVAnd, I think ...
+p413
+aVYou know, we had a long 50-year period of dealing with our race problems
+p414
+aVand legal discrimination,
+p415
+aVand that was our top priority for a long time
+p416
+aVand it still is important.
+p417
+aVBut I think this year,
+p418
+aVI'm hoping it will make people see
+p419
+aVthat we have an existential threat on our hands.
+p420
+aVOur left-right divide, I believe,
+p421
+aVis by far the most important divide we face.
+p422
+aVWe still have issues about race and gender and LGBT,
+p423
+aVbut this is the urgent need of the next 50 years,
+p424
+aVand things aren't going to get better on their own.
+p425
+aVSo we're going to need to do a lot of institutional reforms,
+p426
+aVand we could talk about that,
+p427
+aVbut that's like a whole long, wonky conversation.
+p428
+aVBut I think it starts with people realizing that this is a turning point.
+p429
+aVAnd yes, we need a new kind of empathy.
+p430
+aVWe need to realize:
+p431
+aVthis is what our country needs,
+p432
+aVand this is what you need if you don't want to \u2014
+p433
+aVRaise your hand if you want to spend the next four years
+p434
+aVas angry and worried as you've been for the last year \u2014 raise your hand.
+p435
+aVSo if you want to escape from this,
+p436
+aVread Buddha, read Jesus, read Marcus Aurelius.
+p437
+aVThey have all kinds of great advice for how to drop the fear,
+p438
+aVreframe things,
+p439
+aVstop seeing other people as your enemy.
+p440
+aVThere's a lot of guidance in ancient wisdom for this kind of empathy.
+p441
+aa(lp442
+VCA: Here's my last question:
+p443
+aVPersonally, what can people do to help heal?
+p444
+aa(lp445
+VJH: Yeah, it's very hard to just decide to overcome your deepest prejudices.
+p446
+aVAnd there's research showing
+p447
+aVthat political prejudices are deeper and stronger than race prejudices
+p448
+aVin the country now.
+p449
+aVSo I think you have to make an effort \u2014 that's the main thing.
+p450
+aVMake an effort to actually meet somebody.
+p451
+aVEverybody has a cousin, a brother-in-law,
+p452
+aVsomebody who's on the other side.
+p453
+aVSo, after this election \u2014
+p454
+aVwait a week or two,
+p455
+aVbecause it's probably going to feel awful for one of you \u2014
+p456
+aVbut wait a couple weeks, and then reach out and say you want to talk.
+p457
+aVAnd before you do it,
+p458
+aVread Dale Carnegie, "How to Win Friends and Influence People" \u2014
+p459
+aa(lp460
+V(Laughter)
+p461
+aa(lp462
+VI'm totally serious.
+p463
+aVYou'll learn techniques if you start by acknowledging,
+p464
+aVif you start by saying,
+p465
+aV"You know, we don't agree on a lot,
+p466
+aVbut one thing I really respect about you, Uncle Bob,"
+p467
+aVor "... about you conservatives, is ... "
+p468
+aVAnd you can find something.
+p469
+aVIf you start with some appreciation, it's like magic.
+p470
+aVThis is one of the main things I've learned
+p471
+aVthat I take into my human relationships.
+p472
+aVI still make lots of stupid mistakes,
+p473
+aVbut I'm incredibly good at apologizing now,
+p474
+aVand at acknowledging what somebody was right about.
+p475
+aVAnd if you do that,
+p476
+aVthen the conversation goes really well, and it's actually really fun.
+p477
+aa(lp478
+VCA: Jon, it's absolutely fascinating speaking with you.
+p479
+aVIt really does feel like the ground that we're on
+p480
+aVis a ground populated by deep questions of morality and human nature.
+p481
+aVYour wisdom couldn't be more relevant.
+p482
+aVThank you so much for sharing this time with us.
+p483
+aa(lp484
+VJH: Thanks, Chris.
+p485
+aa(lp486
+VJH: Thanks, everyone.
+p487
+aa(lp488
+V(Applause)
+p489
+aasS'id'
+p490
+I2625
+sS'title'
+p491
+VCan a divided America heal?
+p492
+s.

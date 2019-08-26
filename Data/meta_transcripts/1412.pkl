@@ -1,0 +1,817 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VTonight, I want to have a conversation about
+p4
+aVthis incredible global issue
+p5
+aVthat's at the intersection of land use, food and environment,
+p6
+aVsomething we can all relate to,
+p7
+aVand what I've been calling the other inconvenient truth.
+p8
+aa(lp9
+VBut first, I want to take you on a little journey.
+p10
+aVLet's first visit our planet, but at night,
+p11
+aVand from space.
+p12
+aVThis is what our planet looks like from outer space
+p13
+aVat nighttime, if you were to take a satellite and travel
+p14
+aVaround the planet. And the thing you would notice first,
+p15
+aVof course, is how dominant the human presence
+p16
+aVon our planet is.
+p17
+aVWe see cities, we see oil fields,
+p18
+aVyou can even make out fishing fleets in the sea,
+p19
+aVthat we are dominating much of our planet,
+p20
+aVand mostly through the use of energy
+p21
+aVthat we see here at night.
+p22
+aVBut let's go back and drop it a little deeper
+p23
+aVand look during the daytime.
+p24
+aVWhat we see during the day is our landscapes.
+p25
+aa(lp26
+VThis is part of the Amazon Basin, a place called Rondônia
+p27
+aVin the south-center part of the Brazilian Amazon.
+p28
+aVIf you look really carefully in the upper right-hand corner,
+p29
+aVyou're going to see a thin white line,
+p30
+aVwhich is a road that was built in the 1970s.
+p31
+aVIf we come back to the same place in 2001,
+p32
+aVwhat we're going to find is that these roads
+p33
+aVspurt off more roads, and more roads after that,
+p34
+aVat the end of which is a small clearing in the rainforest
+p35
+aVwhere there are going to be a few cows.
+p36
+aVThese cows are used for beef. We're going to eat these cows.
+p37
+aVAnd these cows are eaten basically in South America,
+p38
+aVin Brazil and Argentina. They're not being shipped up here.
+p39
+aVBut this kind of fishbone pattern of deforestation
+p40
+aVis something we notice a lot of around the tropics,
+p41
+aVespecially in this part of the world.
+p42
+aa(lp43
+VIf we go a little bit further south in our little tour of the world,
+p44
+aVwe can go to the Bolivian edge of the Amazon,
+p45
+aVhere also in 1975, and if you look really carefully,
+p46
+aVthere's a thin white line through that kind of seam,
+p47
+aVand there's a lone farmer out there
+p48
+aVin the middle of the primeval jungle.
+p49
+aVLet's come back again a few years later, here in 2003,
+p50
+aVand we'll see that that landscape actually looks
+p51
+aVa lot more like Iowa than it does like a rainforest.
+p52
+aVIn fact, what you're seeing here are soybean fields.
+p53
+aVThese soybeans are being shipped to Europe and to China
+p54
+aVas animal feed, especially after the mad cow disease scare
+p55
+aVabout a decade ago, where we don't want to feed animals
+p56
+aVanimal protein anymore, because that can transmit disease.
+p57
+aVInstead, we want to feed them more vegetable proteins.
+p58
+aVSo soybeans have really exploded,
+p59
+aVshowing how trade and globalization are
+p60
+aVreally responsible for the connections to rainforests
+p61
+aVand the Amazon \u2014 an incredibly strange
+p62
+aVand interconnected world that we have today.
+p63
+aa(lp64
+VWell, again and again, what we find as we look
+p65
+aVaround the world in our little tour of the world
+p66
+aVis that landscape after landscape after landscape
+p67
+aVhave been cleared and altered for growing food
+p68
+aVand other crops.
+p69
+aa(lp70
+VSo one of the questions we've been asking is,
+p71
+aVhow much of the world is used to grow food,
+p72
+aVand where is it exactly, and how can we change that
+p73
+aVinto the future, and what does it mean?
+p74
+aVWell, our team has been looking at this on a global scale,
+p75
+aVusing satellite data and ground-based data kind of to track
+p76
+aVfarming on a global scale.
+p77
+aVAnd this is what we found, and it's startling.
+p78
+aVThis map shows the presence of agriculture
+p79
+aVon planet Earth.
+p80
+aVThe green areas are the areas we use to grow crops,
+p81
+aVlike wheat or soybeans or corn or rice or whatever.
+p82
+aVThat's 16 million square kilometers' worth of land.
+p83
+aVIf you put it all together in one place,
+p84
+aVit'd be the size of South America.
+p85
+aVThe second area, in brown, is the world's pastures
+p86
+aVand rangelands, where our animals live.
+p87
+aVThat area's about 30 million square kilometers,
+p88
+aVor about an Africa's worth of land,
+p89
+aVa huge amount of land, and it's the best land, of course,
+p90
+aVis what you see. And what's left is, like,
+p91
+aVthe middle of the Sahara Desert, or Siberia,
+p92
+aVor the middle of a rain forest.
+p93
+aVWe're using a planet's worth of land already.
+p94
+aVIf we look at this carefully, we find it's about 40 percent
+p95
+aVof the Earth's land surface is devoted to agriculture,
+p96
+aVand it's 60 times larger
+p97
+aVthan all the areas we complain about,
+p98
+aVour suburban sprawl and our cities where we mostly live.
+p99
+aVHalf of humanity lives in cities today,
+p100
+aVbut a 60-times-larger area is used to grow food.
+p101
+aVSo this is an amazing kind of result,
+p102
+aVand it really shocked us when we looked at that.
+p103
+aa(lp104
+VSo we're using an enormous amount of land for agriculture,
+p105
+aVbut also we're using a lot of water.
+p106
+aVThis is a photograph flying into Arizona,
+p107
+aVand when you look at it, you're like,
+p108
+aV"What are they growing here?" It turns out
+p109
+aVthey're growing lettuce in the middle of the desert
+p110
+aVusing water sprayed on top.
+p111
+aVNow, the irony is, it's probably sold
+p112
+aVin our supermarket shelves in the Twin Cities.
+p113
+aVBut what's really interesting is, this water's got to come
+p114
+aVfrom some place, and it comes from here,
+p115
+aVthe Colorado River in North America.
+p116
+aVWell, the Colorado on a typical day in the 1950s,
+p117
+aVthis is just, you know, not a flood, not a drought,
+p118
+aVkind of an average day, it looks something like this.
+p119
+aVBut if we come back today, during a normal condition
+p120
+aVto the exact same location, this is what's left.
+p121
+aVThe difference is mainly irrigating the desert for food,
+p122
+aVor maybe golf courses in Scottsdale, you take your pick.
+p123
+aVWell, this is a lot of water, and again, we're mining water
+p124
+aVand using it to grow food,
+p125
+aVand today, if you travel down further down the Colorado,
+p126
+aVit dries up completely and no longer flows into the ocean.
+p127
+aVWe've literally consumed an entire river in North America
+p128
+aVfor irrigation.
+p129
+aa(lp130
+VWell, that's not even the worst example in the world.
+p131
+aVThis probably is: the Aral Sea.
+p132
+aVNow, a lot you will remember this from your geography classes.
+p133
+aVThis is in the former Soviet Union
+p134
+aVin between Kazakhstan and Uzbekistan,
+p135
+aVone of the great inland seas of the world.
+p136
+aVBut there's kind of a paradox here, because it looks like
+p137
+aVit's surrounded by desert. Why is this sea here?
+p138
+aVThe reason it's here is because, on the right-hand side,
+p139
+aVyou see two little rivers kind of coming down
+p140
+aVthrough the sand, feeding this basin with water.
+p141
+aVThose rivers are draining snowmelt from mountains
+p142
+aVfar to the east, where snow melts, it travels down the river
+p143
+aVthrough the desert, and forms the great Aral Sea.
+p144
+aVWell, in the 1950s, the Soviets decided to divert that water
+p145
+aVto irrigate the desert to grow cotton, believe it or not,
+p146
+aVin Kazakhstan, to sell cotton to the international markets
+p147
+aVto bring foreign currency into the Soviet Union.
+p148
+aVThey really needed the money.
+p149
+aVWell, you can imagine what happens. You turn off
+p150
+aVthe water supply to the Aral Sea, what's going to happen?
+p151
+aVHere it is in 1973,
+p152
+aV1986,
+p153
+aV1999,
+p154
+aV2004,
+p155
+aVand about 11 months ago.
+p156
+aVIt's pretty extraordinary.
+p157
+aVNow a lot of us in the audience here live in the Midwest.
+p158
+aVImagine that was Lake Superior.
+p159
+aVImagine that was Lake Huron.
+p160
+aVIt's an extraordinary change.
+p161
+aa(lp162
+VThis is not only a change in water and
+p163
+aVwhere the shoreline is, this is a change in the fundamentals
+p164
+aVof the environment of this region.
+p165
+aVLet's start with this.
+p166
+aVThe Soviet Union didn't really have a Sierra Club.
+p167
+aVLet's put it that way.
+p168
+aVSo what you find in the bottom of the Aral Sea ain't pretty.
+p169
+aVThere's a lot of toxic waste, a lot of things
+p170
+aVthat were dumped there that are now becoming airborne.
+p171
+aVOne of those small islands that was remote
+p172
+aVand impossible to get to was a site
+p173
+aVof Soviet biological weapons testing.
+p174
+aVYou can walk there today.
+p175
+aVWeather patterns have changed.
+p176
+aVNineteen of the unique 20 fish species found only
+p177
+aVin the Aral Sea are now wiped off the face of the Earth.
+p178
+aVThis is an environmental disaster writ large.
+p179
+aa(lp180
+VBut let's bring it home.
+p181
+aVThis is a picture that Al Gore gave me a few years ago
+p182
+aVthat he took when he was in the Soviet Union
+p183
+aVa long, long time ago,
+p184
+aVshowing the fishing fleets of the Aral Sea.
+p185
+aVYou see the canal they dug?
+p186
+aVThey were so desperate to try to, kind of, float the boats into
+p187
+aVthe remaining pools of water, but they finally had to give up
+p188
+aVbecause the piers and the moorings simply couldn't
+p189
+aVkeep up with the retreating shoreline.
+p190
+aVI don't know about you, but I'm terrified that future
+p191
+aVarchaeologists will dig this up and write stories about
+p192
+aVour time in history, and wonder, "What were you thinking?"
+p193
+aVWell, that's the future we have to look forward to.
+p194
+aa(lp195
+VWe already use about 50 percent of the Earth's fresh water
+p196
+aVthat's sustainable, and agriculture alone
+p197
+aVis 70 percent of that.
+p198
+aVSo we use a lot of water, a lot of land for agriculture.
+p199
+aVWe also use a lot of the atmosphere for agriculture.
+p200
+aVUsually when we think about the atmosphere,
+p201
+aVwe think about climate change and greenhouse gases,
+p202
+aVand mostly around energy,
+p203
+aVbut it turns out agriculture is one of the biggest emitters
+p204
+aVof greenhouse gases too.
+p205
+aVIf you look at carbon dioxide from
+p206
+aVburning tropical rainforest,
+p207
+aVor methane coming from cows and rice,
+p208
+aVor nitrous oxide from too many fertilizers,
+p209
+aVit turns out agriculture is 30 percent of the greenhouse
+p210
+aVgases going into the atmosphere from human activity.
+p211
+aVThat's more than all our transportation.
+p212
+aVIt's more than all our electricity.
+p213
+aVIt's more than all other manufacturing, in fact.
+p214
+aVIt's the single largest emitter of greenhouse gases
+p215
+aVof any human activity in the world.
+p216
+aVAnd yet, we don't talk about it very much.
+p217
+aa(lp218
+VSo we have this incredible presence today of agriculture
+p219
+aVdominating our planet,
+p220
+aVwhether it's 40 percent of our land surface,
+p221
+aV70 percent of the water we use,
+p222
+aV30 percent of our greenhouse gas emissions.
+p223
+aVWe've doubled the flows of nitrogen and phosphorus
+p224
+aVaround the world simply by using fertilizers,
+p225
+aVcausing huge problems of water quality from rivers,
+p226
+aVlakes, and even oceans, and it's also the single biggest
+p227
+aVdriver of biodiversity loss.
+p228
+aVSo without a doubt, agriculture is
+p229
+aVthe single most powerful force unleashed on this planet
+p230
+aVsince the end of the ice age. No question.
+p231
+aVAnd it rivals climate change in importance.
+p232
+aVAnd they're both happening at the same time.
+p233
+aa(lp234
+VBut what's really important here to remember is that
+p235
+aVit's not all bad. It's not that agriculture's a bad thing.
+p236
+aVIn fact, we completely depend on it.
+p237
+aVIt's not optional. It's not a luxury. It's an absolute necessity.
+p238
+aVWe have to provide food and feed and, yeah,
+p239
+aVfiber and even biofuels to something like seven billion people
+p240
+aVin the world today, and if anything,
+p241
+aVwe're going to have the demands on agriculture
+p242
+aVincrease into the future. It's not going to go away.
+p243
+aVIt's going to get a lot bigger, mainly because of
+p244
+aVgrowing population. We're seven billion people today
+p245
+aVheading towards at least nine,
+p246
+aVprobably nine and a half before we're done.
+p247
+aVMore importantly, changing diets.
+p248
+aVAs the world becomes wealthier as well as more populous,
+p249
+aVwe're seeing increases in dietary consumption of meat,
+p250
+aVwhich take a lot more resources than a vegetarian diet does.
+p251
+aVSo more people, eating more stuff, and richer stuff,
+p252
+aVand of course having an energy crisis at the same time,
+p253
+aVwhere we have to replace oil with other energy sources
+p254
+aVthat will ultimately have to include some kinds of biofuels
+p255
+aVand bio-energy sources.
+p256
+aVSo you put these together. It's really hard to see
+p257
+aVhow we're going to get to the rest of the century
+p258
+aVwithout at least doubling global agricultural production.
+p259
+aa(lp260
+VWell, how are we going to do this? How are going to
+p261
+aVdouble global ag production around the world?
+p262
+aa(lp263
+VWell, we could try to farm more land.
+p264
+aVThis is an analysis we've done, where on the left is where
+p265
+aVthe crops are today, on the right is where they could be
+p266
+aVbased on soils and climate, assuming climate change
+p267
+aVdoesn't disrupt too much of this,
+p268
+aVwhich is not a good assumption.
+p269
+aVWe could farm more land, but the problem is
+p270
+aVthe remaining lands are in sensitive areas.
+p271
+aVThey have a lot of biodiversity, a lot of carbon,
+p272
+aVthings we want to protect.
+p273
+aVSo we could grow more food by expanding farmland,
+p274
+aVbut we'd better not,
+p275
+aVbecause it's ecologically a very, very dangerous thing to do.
+p276
+aa(lp277
+VInstead, we maybe want to freeze the footprint
+p278
+aVof agriculture and farm the lands we have better.
+p279
+aVThis is work that we're doing to try to highlight places
+p280
+aVin the world where we could improve yields
+p281
+aVwithout harming the environment.
+p282
+aVThe green areas here show where corn yields,
+p283
+aVjust showing corn as an example,
+p284
+aVare already really high, probably the maximum you could
+p285
+aVfind on Earth today for that climate and soil,
+p286
+aVbut the brown areas and yellow areas are places where
+p287
+aVwe're only getting maybe 20 or 30 percent of the yield
+p288
+aVyou should be able to get.
+p289
+aVYou see a lot of this in Africa, even Latin America,
+p290
+aVbut interestingly, Eastern Europe, where Soviet Union
+p291
+aVand Eastern Bloc countries used to be,
+p292
+aVis still a mess agriculturally.
+p293
+aVNow, this would require nutrients and water.
+p294
+aVIt's going to either be organic or conventional
+p295
+aVor some mix of the two to deliver that.
+p296
+aVPlants need water and nutrients.
+p297
+aVBut we can do this, and there are opportunities to make this work.
+p298
+aa(lp299
+VBut we have to do it in a way that is sensitive
+p300
+aVto meeting the food security needs of the future
+p301
+aVand the environmental security needs of the future.
+p302
+aVWe have to figure out how to make this tradeoff between
+p303
+aVgrowing food and having a healthy environment work better.
+p304
+aa(lp305
+VRight now, it's kind of an all-or-nothing proposition.
+p306
+aVWe can grow food in the background \u2014
+p307
+aVthat's a soybean field \u2014
+p308
+aVand in this flower diagram, it shows we grow a lot of food,
+p309
+aVbut we don't have a lot clean water, we're not storing
+p310
+aVa lot of carbon, we don't have a lot of biodiversity.
+p311
+aVIn the foreground, we have this prairie
+p312
+aVthat's wonderful from the environmental side,
+p313
+aVbut you can't eat anything. What's there to eat?
+p314
+aVWe need to figure out how to bring both of those together
+p315
+aVinto a new kind of agriculture that brings them all together.
+p316
+aa(lp317
+VNow, when I talk about this, people often tell me,
+p318
+aV"Well, isn't blank the answer?" \u2014 organic food,
+p319
+aVlocal food, GMOs, new trade subsidies, new farm bills \u2014
+p320
+aVand yeah, we have a lot of good ideas here,
+p321
+aVbut not any one of these is a silver bullet.
+p322
+aVIn fact, what I think they are is more like silver buckshot.
+p323
+aVAnd I love silver buckshot. You put it together
+p324
+aVand you've got something really powerful,
+p325
+aVbut we need to put them together.
+p326
+aa(lp327
+VSo what we have to do, I think, is invent a new kind
+p328
+aVof agriculture that blends the best ideas
+p329
+aVof commercial agriculture and the green revolution
+p330
+aVwith the best ideas of organic farming and local food
+p331
+aVand the best ideas of environmental conservation,
+p332
+aVnot to have them fighting each other but to have them
+p333
+aVcollaborating together to form a new kind of agriculture,
+p334
+aVsomething I call "terraculture," or farming for a whole planet.
+p335
+aa(lp336
+VNow, having this conversation has been really hard,
+p337
+aVand we've been trying very hard to bring these key points
+p338
+aVto people to reduce the controversy,
+p339
+aVto increase the collaboration.
+p340
+aVI want to show you a short video that does kind of show
+p341
+aVour efforts right now to bring these sides together
+p342
+aVinto a single conversation. So let me show you that.
+p343
+aV(Music)
+p344
+aV("Institute on the Environment, University of Minnesota: Driven to Discover")
+p345
+aV(Music)
+p346
+aV("The world population is growing
+p347
+aVby 75 million people each year.
+p348
+aVThat's almost the size of Germany.
+p349
+aVToday, we're nearing 7 billion people.
+p350
+aVAt this rate, we'll reach 9 billion people by 2040.
+p351
+aVAnd we all need food.
+p352
+aVBut how?
+p353
+aVHow do we feed a growing world without destroying the planet?
+p354
+aVWe already know climate change is a big problem.
+p355
+aVBut it's not the only problem.
+p356
+aVWe need to face 'the other inconvenient truth.'
+p357
+aVA global crisis in agriculture.
+p358
+aVPopulation growth + meat consumption + dairy consumption + energy costs + bioenergy production = stress on natural resources.
+p359
+aVMore than 40% of Earth's land has been cleared for agriculture.
+p360
+aVGlobal croplands cover 16 million km².
+p361
+aVThat's almost the size of South America.
+p362
+aVGlobal pastures cover 30 million km².
+p363
+aVThat's the size of Africa.
+p364
+aVAgriculture uses 60 times more land than urban and suburban areas combined.
+p365
+aVIrrigation is the biggest use of water on the planet.
+p366
+aVWe use 2,800 cubic kilometers of water on crops every year.
+p367
+aVThat's enough to fill 7,305 Empire State Buildings every day.
+p368
+aVToday, many large rivers have reduced flows.
+p369
+aVSome dry up altogether.
+p370
+aVLook at the Aral Sea, now turned to desert.
+p371
+aVOr the Colorado River, which no longer flows to the ocean.
+p372
+aVFertilizers have more than doubled the phosphorus and nitrogen in the environment.
+p373
+aVThe consequence?
+p374
+aVWidespread water pollution
+p375
+aVand massive degradation of lakes and rivers.
+p376
+aVSurprisingly, agriculture is the biggest contributor to climate change.
+p377
+aVIt generates 30% of greenhouse gas emissions.
+p378
+aVThat's more than the emissions from all electricity and industry,
+p379
+aVor from all the world's planes, trains and automobiles.
+p380
+aVMost agricultural emissions come from tropical deforestation,
+p381
+aVmethane from animals and rice fields,
+p382
+aVand nitrous oxide from over-fertilizing.
+p383
+aVThere is nothing we do that transforms the world more than agriculture.
+p384
+aVAnd there's nothing we do that is more crucial to our survival.
+p385
+aVHere's the dilemma...
+p386
+aVAs the world grows by several billion more people,
+p387
+aVWe'll need to double, maybe even triple, global food production.
+p388
+aVSo where do we go from here?
+p389
+aVWe need a bigger conversation, an international dialogue.
+p390
+aVWe need to invest in real solutions:
+p391
+aVincentives for farmers, precision agriculture, new crop varieties, drip irrigation,
+p392
+aVgray water recycling, better tillage practices, smarter diets.
+p393
+aVWe need everyone at the table.
+p394
+aVAdvocates of commercial agriculture,
+p395
+aVenvironmental conservation,
+p396
+aVand organic farming...
+p397
+aVmust work together.
+p398
+aVThere is no single solution.
+p399
+aVWe need collaboration,
+p400
+aVimagination,
+p401
+aVdetermination,
+p402
+aVbecause failure is not an option.
+p403
+aVHow do we feed the world without destroying it?
+p404
+aVYeah, so we face one of the greatest grand challenges
+p405
+aVin all of human history today:
+p406
+aVthe need to feed nine billion people
+p407
+aVand do so sustainably and equitably and justly,
+p408
+aVat the same time protecting our planet
+p409
+aVfor this and future generations.
+p410
+aVThis is going to be one of the hardest things
+p411
+aVwe ever have done in human history,
+p412
+aVand we absolutely have to get it right,
+p413
+aVand we have to get it right on our first and only try.
+p414
+aVSo thanks very much. (Applause)
+p415
+aasS'id'
+p416
+I1412
+sS'title'
+p417
+VThe other inconvenient truth
+p418
+s.

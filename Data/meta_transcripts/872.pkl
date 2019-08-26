@@ -1,0 +1,731 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWe're 25, 26 years after
+p4
+aVthe advent of the Macintosh,
+p5
+aVwhich was an astoundingly seminal event
+p6
+aVin the history
+p7
+aVof human-machine interface
+p8
+aVand in computation in general.
+p9
+aVIt fundamentally changed the way
+p10
+aVthat people thought about computation,
+p11
+aVthought about computers,
+p12
+aVhow they used them and who and how many people were able to use them.
+p13
+aVIt was such a radical change, in fact,
+p14
+aVthat the early Macintosh development team
+p15
+aVin '82, '83, '84
+p16
+aVhad to write an entirely new operating system from the ground up.
+p17
+aVNow, this is an interesting little message,
+p18
+aVand it's a lesson that has since, I think,
+p19
+aVbeen forgotten or lost or something,
+p20
+aVand that is, namely, that the OS is the interface.
+p21
+aVThe interface is the OS.
+p22
+aVIt's like the land and the king (i.e. Arthur) they're inseparable, they are one.
+p23
+aVAnd to write a new operating system was not a capricious matter.
+p24
+aVIt wasn't just a matter of tuning up some graphics routines.
+p25
+aVThere were no graphics routines. There were no mouse drivers.
+p26
+aVSo it was a necessity.
+p27
+aa(lp28
+VBut in the quarter-century since then,
+p29
+aVwe've seen all of the fundamental
+p30
+aVsupporting technologies go berserk.
+p31
+aVSo memory capacity and disk capacity
+p32
+aVhave been multiplied by something between 10,000 and a million.
+p33
+aVSame thing for processor speeds.
+p34
+aVNetworks, we didn't have networks at all
+p35
+aVat the time of the Macintosh's introduction,
+p36
+aVand that has become the single most salient aspect
+p37
+aVof how we live with computers.
+p38
+aVAnd, of course, graphics: Today
+p39
+aV84 dollars and 97 cents at Best Buy
+p40
+aVbuys you more graphics power
+p41
+aVthan you could have gotten for a million bucks from SGI only a decade ago.
+p42
+aVSo we've got that incredible ramp-up.
+p43
+aVThen, on the side, we've got the Web
+p44
+aVand, increasingly, the cloud,
+p45
+aVwhich is fantastic,
+p46
+aVbut also \u2014 in the regard in which an interface is fundamental \u2014
+p47
+aVkind of a distraction.
+p48
+aVSo we've forgotten to invent new interfaces.
+p49
+aVCertainly we've seen in recent years a lot of change in that regard,
+p50
+aVand people are starting to wake up about that.
+p51
+aVSo what happens next? Where do we go from there?
+p52
+aa(lp53
+VThe problem, as we see it,
+p54
+aVhas to do with a single, simple word: "space,"
+p55
+aVor a single, simple phrase:
+p56
+aV"real world geometry."
+p57
+aVComputers and the programming languages
+p58
+aVthat we talk to them in, that we teach them in,
+p59
+aVare hideously insensate when it comes to space.
+p60
+aVThey don't understand real world space.
+p61
+aVIt's a funny thing because the rest of us occupy it quite frequently and quite well.
+p62
+aVThey also don't understand time, but that's a matter for a separate talk.
+p63
+aa(lp64
+VSo what happens if you start to
+p65
+aVexplain space to them?
+p66
+aVOne thing you might get is something like the Luminous Room.
+p67
+aVThe Luminous Room is a system
+p68
+aVin which it's considered that
+p69
+aVinput and output spaces are co-located.
+p70
+aVThat's a strangely simple,
+p71
+aVand yet unexplored idea, right?
+p72
+aVWhen you use a mouse, your hand is down here on the mouse pad.
+p73
+aVIt's not even on the same plane as what you're talking about:
+p74
+aVThe pixels are up on the display.
+p75
+aVSo here was a room in which all the walls, floors, ceilings,
+p76
+aVpets, potted plants, whatever was in there,
+p77
+aVwere capable, not only of display but of sensing as well.
+p78
+aVAnd that means input and output are in the same space
+p79
+aVenabling stuff like this.
+p80
+aVThat's a digital storage in a physical container.
+p81
+aVThe contract is the same
+p82
+aVas with real word objects in real world containers.
+p83
+aVHas to come back out, whatever you put in.
+p84
+aVThis little design experiment
+p85
+aVthat was a small office here knew a few other tricks as well.
+p86
+aVIf you presented it with a chess board,
+p87
+aVit tried to figure out what you might mean by that.
+p88
+aVAnd if there was nothing for them to do,
+p89
+aVthe chess pieces eventually got bored
+p90
+aVand hopped away.
+p91
+aa(lp92
+VThe academics who were overseeing this work
+p93
+aVthought that that was too frivolous,
+p94
+aVso we built deadly serious applications
+p95
+aVlike this optics prototyping workbench
+p96
+aVin which a toothpaste cap on a cardboard box
+p97
+aVbecomes a laser.
+p98
+aVThe beam splitters and lenses are represented by physical objects,
+p99
+aVand the system projects down the laser beam path.
+p100
+aVSo you've got an interface that has no interface.
+p101
+aVYou operate the world as you operate the real world,
+p102
+aVwhich is to say, with your hands.
+p103
+aVSimilarly, a digital wind tunnel with digital wind
+p104
+aVflowing from right to left \u2014
+p105
+aVnot that remarkable in a sense; we didn't invent the mathematics.
+p106
+aVBut if you displayed that on a CRT or flat panel display,
+p107
+aVit would be meaningless to hold up an arbitrary object,
+p108
+aVa real world object in that.
+p109
+aVHere, the real world merges with the simulation.
+p110
+aa(lp111
+VAnd finally, to pull out all the stops,
+p112
+aVthis is a system called Urp, for urban planners,
+p113
+aVin which we give architects and urban planners back
+p114
+aVthe models that we confiscated
+p115
+aVwhen we insisted that they use CAD systems.
+p116
+aVAnd we make the machine meet them half way.
+p117
+aVIt projects down digital shadows, as you see here.
+p118
+aVAnd if you introduce tools like this inverse clock,
+p119
+aVthen you can control the sun's position in the sky.
+p120
+aVThat's 8 a.m. shadows.
+p121
+aVThey get a little shorter at 9 a.m.
+p122
+aVThere you are, swinging the sun around.
+p123
+aVShort shadows at noon and so forth.
+p124
+aVAnd we built up a series of tools like this.
+p125
+aVThere are inter-shadowing studies
+p126
+aVthat children can operate,
+p127
+aVeven though they don't know anything about urban planning:
+p128
+aVTo move a building, you simply reach out your hand and you move the building.
+p129
+aVA material wand makes the building
+p130
+aVinto a sort of Frank Gehry thing that reflects light in all directions.
+p131
+aVAre you blinding passers by and motorists on the freeways?
+p132
+aVA zoning tool connects distant structures, a building and a roadway.
+p133
+aVAre you going to get sued by the zoning commission? And so forth.
+p134
+aVNow, if these ideas seem familiar
+p135
+aVor perhaps even a little dated,
+p136
+aVthat's great; they should seem familiar.
+p137
+aa(lp138
+VThis work is 15 years old.
+p139
+aVThis stuff was undertaken at MIT and the Media Lab
+p140
+aVunder the incredible direction of Professor Hiroshi Ishii,
+p141
+aVdirector of the Tangible Media Group.
+p142
+aVBut it was that work that was seen
+p143
+aVby Alex McDowell,
+p144
+aVone of the world's legendary production designers.
+p145
+aVBut Alex was preparing a little, sort of obscure, indie, arthouse film
+p146
+aVcalled "Minority Report" for Steven Spielberg,
+p147
+aVand invited us to come out from MIT
+p148
+aVand design the interfaces
+p149
+aVthat would appear in that film.
+p150
+aVAnd the great thing about it was
+p151
+aVthat Alex was so dedicated to the idea of verisimilitude,
+p152
+aVthe idea that the putative 2054
+p153
+aVthat we were painting in the film be believable,
+p154
+aVthat he allowed us to take on that design work
+p155
+aVas if it were an R&D effort.
+p156
+aVAnd the result is sort of
+p157
+aVgratifyingly perpetual.
+p158
+aVPeople still reference those sequences in "Minority Report"
+p159
+aVwhen they talk about new UI design.
+p160
+aVSo this led full circle, in a strange way,
+p161
+aVto build these ideas into what we believe
+p162
+aVis the necessary future of human machine interface:
+p163
+aVthe Spatial Operating Environment, we call it.
+p164
+aa(lp165
+VSo here we have a bunch of stuff, some images.
+p166
+aVAnd, using a hand,
+p167
+aVwe can actually exercise six degrees of freedom,
+p168
+aVsix degrees of navigational control.
+p169
+aVAnd it's fun to fly through Mr. Beckett's eye.
+p170
+aVAnd you can come back out
+p171
+aVthrough the scary orangutan.
+p172
+aVAnd that's all well and good.
+p173
+aVLet's do something a little more difficult.
+p174
+aVHere, we have a whole bunch of disparate images.
+p175
+aVWe can fly around them.
+p176
+aVSo navigation is a fundamental issue.
+p177
+aVYou have to be able to navigate in 3D.
+p178
+aVMuch of what we want computers to help us with in the first place
+p179
+aVis inherently spatial.
+p180
+aVAnd the part that isn't spatial can often be spatialized
+p181
+aVto allow our wetware to make greater sense of it.
+p182
+aVNow we can distribute this stuff in many different ways.
+p183
+aVSo we can throw it out like that. Let's reset it.
+p184
+aVWe can organize it this way.
+p185
+aa(lp186
+VAnd, of course, it's not just about navigation,
+p187
+aVbut about manipulation as well.
+p188
+aVSo if we don't like stuff,
+p189
+aVor we're intensely curious about
+p190
+aVErnst Haeckel's scientific falsifications,
+p191
+aVwe can pull them out like that.
+p192
+aVAnd then if it's time for analysis, we can pull back a little bit
+p193
+aVand ask for a different distribution.
+p194
+aVLet's just come down a bit
+p195
+aVand fly around.
+p196
+aVSo that's a different way to look at stuff.
+p197
+aVIf you're of a more analytical nature
+p198
+aVthen you might want, actually, to look at this
+p199
+aVas a color histogram.
+p200
+aVSo now we've got the stuff color-sorted,
+p201
+aVangle maps onto color.
+p202
+aVAnd now, if we want to select stuff,
+p203
+aV3D, space,
+p204
+aVthe idea that we're tracking hands in real space
+p205
+aVbecomes really important because we can reach in,
+p206
+aVnot in 2D, not in fake 2D, but in actual 3D.
+p207
+aVHere are some selection planes.
+p208
+aVAnd we'll perform this Boolean operation
+p209
+aVbecause we really love yellow and tapirs on green grass.
+p210
+aa(lp211
+VSo, from there to the world of real work.
+p212
+aVHere's a logistics system,
+p213
+aVa small piece of one that we're currently building.
+p214
+aVThere're a lot of elements.
+p215
+aVAnd one thing that's very important is to combine traditional tabular data
+p216
+aVwith three-dimensional and geospatial information.
+p217
+aVSo here's a familiar place.
+p218
+aVAnd we'll bring this back here for a second.
+p219
+aVMaybe select a little bit of that.
+p220
+aVAnd bring out this graph.
+p221
+aVAnd we should, now,
+p222
+aVbe able to fly in here
+p223
+aVand have a closer look.
+p224
+aVThese are logistics elements
+p225
+aVthat are scattered across the United States.
+p226
+aa(lp227
+VOne thing that three-dimensional interactions
+p228
+aVand the general idea of imbuing
+p229
+aVcomputation with space affords you
+p230
+aVis a final destruction of that unfortunate
+p231
+aVone-to-one pairing between human beings and computers.
+p232
+aVThat's the old way, that's the old mantra:
+p233
+aVone machine, one human, one mouse, one screen.
+p234
+aVWell, that doesn't really cut it anymore.
+p235
+aVIn the real world, we have people who collaborate;
+p236
+aVwe have people who have to work together,
+p237
+aVand we have many different displays.
+p238
+aVAnd we might want to look at these various images.
+p239
+aVWe might want to ask for some help.
+p240
+aa(lp241
+VThe author of this new pointing device
+p242
+aVis sitting over there,
+p243
+aVso I can pull this from there to there.
+p244
+aVThese are unrelated machines, right?
+p245
+aVSo the computation is space soluble and network soluble.
+p246
+aVSo I'm going to leave that over there
+p247
+aVbecause I have a question for Paul.
+p248
+aVPaul is the designer of this wand, and maybe its easiest
+p249
+aVfor him to come over here and tell me in person what's going on.
+p250
+aVSo let me get some of these out of the way.
+p251
+aVLet's pull this apart:
+p252
+aVI'll go ahead and explode it.
+p253
+aVKevin, can you help?
+p254
+aVLet me see if I can help us find the circuit board.
+p255
+aVMind you, it's a sort of gratuitous field-stripping exercise,
+p256
+aVbut we do it in the lab all the time.
+p257
+aVAll right.
+p258
+aVSo collaborative work, whether it's immediately co-located
+p259
+aVor distant and distinct, is always important.
+p260
+aVAnd again, that stuff
+p261
+aVneeds to be undertaken in the context of space.
+p262
+aa(lp263
+VAnd finally, I'd like to leave you with a glimpse
+p264
+aVthat takes us back to the world of imagery.
+p265
+aVThis is a system called TAMPER,
+p266
+aVwhich is a slightly whimsical look
+p267
+aVat what the future of editing
+p268
+aVand media manipulation systems might be.
+p269
+aVWe at Oblong believe that media should be
+p270
+aVaccessible in much more fine-grained form.
+p271
+aVSo we have a large number of movies
+p272
+aVstuck inside here.
+p273
+aVAnd let's just pick out a few elements.
+p274
+aVWe can zip through them
+p275
+aVas a possibility.
+p276
+aVWe can grab elements off the front,
+p277
+aVwhere upon they reanimate, come to life,
+p278
+aVand drag them down onto the table here.
+p279
+aVWe'll go over to Jacques Tati here
+p280
+aVand grab our blue friend
+p281
+aVand put him down on the table as well.
+p282
+aVWe may need more than one.
+p283
+aVAnd we probably need,
+p284
+aVwell, we probably need a cowboy
+p285
+aVto be quite honest.
+p286
+aV(Laughter)
+p287
+aVYeah, let's
+p288
+aVtake that one.
+p289
+aV(Laughter)
+p290
+aVYou see, cowboys and French farce people
+p291
+aVdon't go well together, and the system knows that.
+p292
+aa(lp293
+VLet me leave with one final thought,
+p294
+aVand that is that
+p295
+aVone of the greatest English language writers
+p296
+aVof the last three decades
+p297
+aVsuggested that great art is always a gift.
+p298
+aVAnd he wasn't talking about whether the novel costs 24.95 [dollars],
+p299
+aVor whether you have to spring 70 million bucks
+p300
+aVto buy the stolen Vermeer;
+p301
+aVhe was talking about the circumstances of its creation
+p302
+aVand of its existence.
+p303
+aVAnd I think that it's time that we asked
+p304
+aVfor the same from technology.
+p305
+aVTechnology is capable of
+p306
+aVexpressing and being imbued with
+p307
+aVa certain generosity,
+p308
+aVand we need to demand that, in fact.
+p309
+aVFor some of this kind of technology,
+p310
+aVground center is
+p311
+aVa combination of design, which is crucially important.
+p312
+aVWe can't have advances in technology any longer
+p313
+aVunless design is integrated from the very start.
+p314
+aVAnd, as well, as of efficacy, agency.
+p315
+aVWe're, as human beings, the creatures that create,
+p316
+aVand we should make sure that our machines aid us in that task
+p317
+aVand are built in that same image.
+p318
+aa(lp319
+VSo I will leave you with that. Thank you.
+p320
+aa(lp321
+V(Applause)
+p322
+aa(lp323
+VChris Anderson: So to ask the obvious question \u2014
+p324
+aVactually this is from Bill Gates \u2014
+p325
+aVwhen? (John Underkoffler: When?)
+p326
+aVCA: When real? When for us, not just in a lab and on a stage?
+p327
+aVCan it be for every man, or is this just for corporations and movie producers?
+p328
+aa(lp329
+VJU: No, it has to be for every human being.
+p330
+aVThat's our goal entirely.
+p331
+aVWe won't have succeeded
+p332
+aVunless we take that next big step.
+p333
+aVI mean it's been 25 years.
+p334
+aVCan there really be only one interface? There can't.
+p335
+aa(lp336
+VCA: But does that mean that, at your desk or in your home,
+p337
+aVyou need projectors, cameras?
+p338
+aVYou know, how can it work?
+p339
+aa(lp340
+VJU: No, this stuff will be built into the bezel of every display.
+p341
+aVIt'll be built into architecture.
+p342
+aVThe gloves go away in a matter of months or years.
+p343
+aVSo this is the inevitability about it.
+p344
+aa(lp345
+VCA: So, in your mind, five years time,
+p346
+aVsomeone can buy this as part of
+p347
+aVa standard computer interface?
+p348
+aa(lp349
+VJU: I think in five years time when you buy a computer,
+p350
+aVyou'll get this.
+p351
+aa(lp352
+VCA: Well that's cool.
+p353
+aV(Applause)
+p354
+aVThe world has a habit of surprising us as to how these things are actually used.
+p355
+aVWhat do you think, what in your mind is the first killer app for this?
+p356
+aa(lp357
+VJU: That's a good question, and we ask ourselves that every day.
+p358
+aVAt the moment, our early-adopter customers \u2014
+p359
+aVand these systems are deployed out in the real world \u2014
+p360
+aVdo all the big data intensive, data heavy problems with it.
+p361
+aVSo, whether it's logistics and supply chain management
+p362
+aVor natural gas and resource extraction,
+p363
+aVfinancial services, pharmaceuticals, bioinformatics,
+p364
+aVthose are the topics right now, but that's not a killer app.
+p365
+aVAnd I understand what you're asking.
+p366
+aa(lp367
+VCA: C'mon, c'mon. Martial arts, games. C'mon.
+p368
+aV(Laughter)
+p369
+aVJohn, thank you for making science-fiction real.
+p370
+aa(lp371
+VJU: It's been a great pleasure.
+p372
+aVThank you to you all.
+p373
+aa(lp374
+V(Applause)
+p375
+aasS'id'
+p376
+I872
+sS'title'
+p377
+VPointing to the future of UI
+p378
+s.

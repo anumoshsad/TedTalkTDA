@@ -1,0 +1,655 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm a journalist,
+p4
+aVso I like to look for the untold stories,
+p5
+aVthe lives that quietly play out under the scream of headlines.
+p6
+aVI've also been going about the business of putting down roots,
+p7
+aVchoosing a partner, making babies.
+p8
+aVSo for the last few years,
+p9
+aVI've been trying to understand
+p10
+aVwhat constitutes the 21st-century good life,
+p11
+aVboth because I'm fascinated by the moral and philosophical implications,
+p12
+aVbut also because I'm in desperate need of answers myself.
+p13
+aa(lp14
+VWe live in tenuous times.
+p15
+aVIn fact, for the first time in American history,
+p16
+aVthe majority of parents do not think that their kids will be better off
+p17
+aVthan they were.
+p18
+aVThis is true of rich and poor, men and women.
+p19
+aVNow, some of you might hear this and feel sad.
+p20
+aVAfter all, America is deeply invested
+p21
+aVin this idea of economic transcendence,
+p22
+aVthat every generation kind of leapfrogs the one before it,
+p23
+aVearning more, buying more, being more.
+p24
+aVWe've exported this dream all over the world,
+p25
+aVso kids in Brazil and China and even Kenya
+p26
+aVinherit our insatiable expectation
+p27
+aVfor more.
+p28
+aVBut when I read this historic poll for the first time,
+p29
+aVit didn't actually make me feel sad.
+p30
+aVIt felt like a provocation.
+p31
+aV"Better off" \u2014 based on whose standards?
+p32
+aa(lp33
+VIs "better off" finding a secure job
+p34
+aVthat you can count on for the rest of your life?
+p35
+aVThose are nearly extinct.
+p36
+aVPeople move jobs, on average, every 4.7 years,
+p37
+aVand it's estimated that by 2020,
+p38
+aVnearly half of Americans will be freelancers.
+p39
+aVOK, so is better off just a number?
+p40
+aVIs it about earning as much as you possibly can?
+p41
+aVBy that singular measurement, we are failing.
+p42
+aVMedian per capita income has been flat since about 2000,
+p43
+aVadjusted for inflation.
+p44
+aVAll right, so is better off getting a big house with a white picket fence?
+p45
+aVLess of us are doing that.
+p46
+aVNearly five million people lost their homes in the Great Recession,
+p47
+aVand even more of us sobered up about the lengths we were willing to go \u2014
+p48
+aVor be tricked into going, in many predatory cases \u2014
+p49
+aVto hold that deed.
+p50
+aVHome-ownership rates are at their lowest since 1995.
+p51
+aa(lp52
+VAll right, so we're not finding steady employment,
+p53
+aVwe're not earning as much money,
+p54
+aVand we're not living in big fancy houses.
+p55
+aVToll the funeral bells
+p56
+aVfor everything that made America great.
+p57
+aVBut,
+p58
+aVare those the best measurements of a country's greatness,
+p59
+aVof a life well lived?
+p60
+aVWhat I think makes America great is its spirit of reinvention.
+p61
+aVIn the wake of the Great Recession,
+p62
+aVmore and more Americans are redefining what "better off" really means.
+p63
+aVTurns out, it has more to do with community and creativity
+p64
+aVthan dollars and cents.
+p65
+aa(lp66
+VNow, let me be very clear:
+p67
+aVthe 14.8 percent of Americans living in poverty need money,
+p68
+aVplain and simple.
+p69
+aVAnd all of us need policies that protect us from exploitation
+p70
+aVby employers and financial institutions.
+p71
+aVNothing that follows is meant to suggest that the gap between rich and poor
+p72
+aVis anything but profoundly immoral.
+p73
+aVBut,
+p74
+aVtoo often we let the conversation stop there.
+p75
+aVWe talk about poverty as if it were a monolithic experience;
+p76
+aVabout the poor as if they were solely victims.
+p77
+aVPart of what I've learned in my research and reporting
+p78
+aVis that the art of living well
+p79
+aVis often practiced most masterfully
+p80
+aVby the most vulnerable.
+p81
+aa(lp82
+VNow, if necessity is the mother of invention,
+p83
+aVI've come to believe
+p84
+aVthat recession can be the father of consciousness.
+p85
+aVIt confronts us with profound questions,
+p86
+aVquestions we might be too lazy or distracted to ask
+p87
+aVin times of relative comfort.
+p88
+aVHow should we work?
+p89
+aVHow should we live?
+p90
+aVAll of us, whether we realize it or not,
+p91
+aVseek answers to these questions,
+p92
+aVwith our ancestors kind of whispering in our ears.
+p93
+aa(lp94
+VMy great-grandfather was a drunk in Detroit,
+p95
+aVwho sometimes managed to hold down a factory job.
+p96
+aVHe had, as unbelievable as it might sound,
+p97
+aV21 children,
+p98
+aVwith one woman, my great-grandmother,
+p99
+aVwho died at 47 years old of ovarian cancer.
+p100
+aVNow, I'm pregnant with my second child,
+p101
+aVand I cannot even fathom what she must have gone through.
+p102
+aVAnd if you're trying to do the math \u2014 there were six sets of twins.
+p103
+aVSo my grandfather, their son,
+p104
+aVbecame a traveling salesman,
+p105
+aVand he lived boom and bust.
+p106
+aVSo my dad grew up answering the door for debt collectors
+p107
+aVand pretending his parents weren't home.
+p108
+aVHe actually took his braces off himself with pliers in the garage,
+p109
+aVwhen his father admitted he didn't have money
+p110
+aVto go back to the orthodontist.
+p111
+aVSo my dad, unsurprisingly,
+p112
+aVbecame a bankruptcy lawyer.
+p113
+aVCouldn't write this in a novel, right?
+p114
+aVHe was obsessed with providing a secure foundation
+p115
+aVfor my brother and I.
+p116
+aa(lp117
+VSo I ask these questions by way of a few generations of struggle.
+p118
+aVMy parents made sure that I grew up on a kind of steady ground
+p119
+aVthat allows one to question and risk and leap.
+p120
+aVAnd ironically, and probably sometimes to their frustration,
+p121
+aVit is their steadfast commitment to security
+p122
+aVthat allows me to question its value,
+p123
+aVor at least its value as we've historically defined it
+p124
+aVin the 21st century.
+p125
+aa(lp126
+VSo let's dig into this first question:
+p127
+aVHow should we work?
+p128
+aVWe should work like our mothers.
+p129
+aVThat's right \u2014 we've spent decades
+p130
+aVtrying to fit women into a work world built for company men.
+p131
+aVAnd many have done backbends to fit in,
+p132
+aVbut others have carved a more unconventional path,
+p133
+aVcreating a patchwork of meaning and money
+p134
+aVwith enough flexibility to do what they need to do
+p135
+aVfor those that they love.
+p136
+aVMy mom called it "just making it work."
+p137
+aVToday I hear life coaches call it "a portfolio career."
+p138
+aVWhatever you call it,
+p139
+aVmore and more men are craving these whole, if not harried, lives.
+p140
+aVThey're waking up to their desire and duty to be present fathers and sons.
+p141
+aa(lp142
+VNow, artist Ann Hamilton has said,
+p143
+aV"Labor is a way of knowing."
+p144
+aVLabor is a way of knowing.
+p145
+aVIn other words, what we work on
+p146
+aVis what we understand about the world.
+p147
+aVIf this is true, and I think it is,
+p148
+aVthen women who have disproportionately cared for the little ones
+p149
+aVand the sick ones and the aging ones,
+p150
+aVhave disproportionately benefited
+p151
+aVfrom the most profound kind of knowing there is:
+p152
+aVknowing the human condition.
+p153
+aVBy prioritizing care,
+p154
+aVmen are, in a sense, staking their claim
+p155
+aVto the full range of human existence.
+p156
+aa(lp157
+VNow, this means the nine-to-five no longer works for anyone.
+p158
+aVPunch clocks are becoming obsolete, as are career ladders.
+p159
+aVWhole industries are being born and dying every day.
+p160
+aVIt's all nonlinear from here.
+p161
+aVSo we need to stop asking kids,
+p162
+aV"What do you want to be when you grow up?"
+p163
+aVand start asking them, "How do you want to be when you grow up?"
+p164
+aVTheir work will constantly change.
+p165
+aVThe common denominator is them.
+p166
+aVSo the more they understand their gifts
+p167
+aVand create crews of ideal collaborators,
+p168
+aVthe better off they will be.
+p169
+aa(lp170
+VThe challenge ahead is to reinvent the social safety net
+p171
+aVto fit this increasingly fragmented economy.
+p172
+aVWe need portable health benefits.
+p173
+aVWe need policies that reflect that everyone deserves to be vulnerable
+p174
+aVor care for vulnerable others,
+p175
+aVwithout becoming destitute.
+p176
+aVWe need to seriously consider a universal basic income.
+p177
+aVWe need to reinvent labor organizing.
+p178
+aVThe promise of a work world that is structured to actually fit
+p179
+aVour 21st century values,
+p180
+aVnot some archaic idea about bringing home the bacon,
+p181
+aVis long overdue \u2014
+p182
+aVjust ask your mother.
+p183
+aa(lp184
+VNow, how about the second question:
+p185
+aVHow should we live?
+p186
+aVWe should live
+p187
+aVlike our immigrant ancestors.
+p188
+aVWhen they came to America,
+p189
+aVthey often shared apartments, survival tactics, child care \u2014
+p190
+aValways knew how to fill one more belly,
+p191
+aVno matter how small the food available.
+p192
+aVBut they were told that success meant leaving the village behind
+p193
+aVand pursuing that iconic symbol of the American Dream,
+p194
+aVthe white picket fence.
+p195
+aVAnd even today, we see a white picket fence
+p196
+aVand we think success, self-possession.
+p197
+aVBut when you strip away the sentimentality,
+p198
+aVwhat it really does is divides us.
+p199
+aVMany Americans are rejecting the white picket fence
+p200
+aVand the kind of highly privatized life that happened within it,
+p201
+aVand reclaiming village life,
+p202
+aVreclaiming interdependence instead.
+p203
+aa(lp204
+VFifty million of us, for example,
+p205
+aVlive in intergenerational households.
+p206
+aVThis number exploded with the Great Recession,
+p207
+aVbut it turns out people actually like living this way.
+p208
+aVTwo-thirds of those who are living with multiple generations under one roof
+p209
+aVsay it's improved their relationships.
+p210
+aVSome people are choosing to share homes not with family,
+p211
+aVbut with other people who understand the health and economic benefits
+p212
+aVof daily community.
+p213
+aVCoAbode, an online platform for single moms looking to share homes
+p214
+aVwith other single moms,
+p215
+aVhas 50,000 users.
+p216
+aVAnd people over 65 are especially prone
+p217
+aVto be looking for these alternative living arrangements.
+p218
+aVThey understand that their quality of life
+p219
+aVdepends on a mix of solitude and solidarity.
+p220
+aVWhich is true of all of us when you think about it,
+p221
+aVyoung and old alike.
+p222
+aVFor too long, we've pretended that happiness is a king in his castle.
+p223
+aVBut all the research proves otherwise.
+p224
+aVIt shows that the healthiest, happiest and even safest \u2014
+p225
+aVin terms of both climate change disaster, in terms of crime, all of that \u2014
+p226
+aVare Americans who live lives intertwined with their neighbors.
+p227
+aa(lp228
+VNow, I've experienced this firsthand.
+p229
+aVFor the last few years, I've been living in a cohousing community.
+p230
+aVIt's 1.5 acres of persimmon trees,
+p231
+aVthis prolific blackberry bush that snakes around a community garden,
+p232
+aVall smack-dab, by the way, in the middle of urban Oakland.
+p233
+aVThe nine units are all built to be different,
+p234
+aVdifferent sizes, different shapes,
+p235
+aVbut they're meant to be as green as possible.
+p236
+aVSo big, shiny black solar cells on our roof
+p237
+aVmean our electricity bill rarely exceeds
+p238
+aVmore than five bucks in a month.
+p239
+aVThe 25 of us who live there are all different ages and political persuasions
+p240
+aVand professions,
+p241
+aVand we live in homes that have everything a typical home would have.
+p242
+aVBut additionally,
+p243
+aVwe share an industrial-sized kitchen and eating area,
+p244
+aVwhere we have common meals twice a week.
+p245
+aa(lp246
+VNow, people, when I tell them I live like this,
+p247
+aVoften have one of two extreme reactions.
+p248
+aVEither they say, "Why doesn't everyone live like this?"
+p249
+aVOr they say, "That sounds totally horrifying.
+p250
+aVI would never want to do that."
+p251
+aVSo let me reassure you: there is a sacred respect for privacy among us,
+p252
+aVbut also a commitment to what we call "radical hospitality" \u2014
+p253
+aVnot the kind advertised by the Four Seasons,
+p254
+aVbut the kind that says that every single person is worthy of kindness,
+p255
+aVfull stop, end of sentence.
+p256
+aa(lp257
+VThe biggest surprise for me of living in a community like this?
+p258
+aVYou share all the domestic labor \u2014 the repairing, the cooking, the weeding \u2014
+p259
+aVbut you also share the emotional labor.
+p260
+aVRather than depending only on the idealized family unit
+p261
+aVto get all of your emotional needs met,
+p262
+aVyou have two dozen other people that you can go to
+p263
+aVto talk about a hard day at work
+p264
+aVor troubleshoot how to handle an abusive teacher.
+p265
+aVTeenagers in our community will often go to an adult that is not their parent
+p266
+aVto ask for advice.
+p267
+aVIt's what bell hooks called "revolutionary parenting,"
+p268
+aVthis humble acknowledgment
+p269
+aVthat kids are healthier when they have a wider range of adults
+p270
+aVto emulate and count on.
+p271
+aVTurns out, adults are healthier, too.
+p272
+aVIt's a lot of pressure,
+p273
+aVtrying to be that perfect family behind that white picket fence.
+p274
+aa(lp275
+VThe "new better off," as I've come to call it,
+p276
+aVis less about investing in the perfect family
+p277
+aVand more about investing in the imperfect village,
+p278
+aVwhether that's relatives living under one roof,
+p279
+aVa cohousing community like mine,
+p280
+aVor just a bunch of neighbors who pledge to really know
+p281
+aVand look out for one another.
+p282
+aVIt's good common sense, right?
+p283
+aVAnd yet, money has often made us dumb
+p284
+aVabout reaching out.
+p285
+aVThe most reliable wealth
+p286
+aVis found in relationship.
+p287
+aa(lp288
+VThe new better off is not an individual prospect at all.
+p289
+aVIn fact, if you're a failure or you think you're a failure,
+p290
+aVI've got some good news for you:
+p291
+aVyou might be a success by standards you have not yet honored.
+p292
+aVMaybe you're a mediocre earner but a masterful father.
+p293
+aVMaybe you can't afford your dream home,
+p294
+aVbut you throw legendary neighborhood parties.
+p295
+aVIf you're a textbook success,
+p296
+aVthe implications of what I'm saying could be more grim for you.
+p297
+aVYou might be a failure by standards you hold dear
+p298
+aVbut that the world doesn't reward.
+p299
+aVOnly you can know.
+p300
+aa(lp301
+VI know that I am not a tribute
+p302
+aVto my great-grandmother,
+p303
+aVwho lived such a short and brutish life,
+p304
+aVif I earn enough money to afford every creature comfort.
+p305
+aVYou can't buy your way out of suffering or into meaning.
+p306
+aVThere is no home big enough
+p307
+aVto erase the pain that she must have endured.
+p308
+aVI am a tribute to her
+p309
+aVif I live a life as connected and courageous as possible.
+p310
+aVIn the midst of such widespread uncertainty,
+p311
+aVwe may, in fact, be insecure.
+p312
+aVBut we can let that insecurity make us brittle
+p313
+aVor supple.
+p314
+aVWe can turn inward, lose faith in the power of institutions to change \u2014
+p315
+aVeven lose faith in ourselves.
+p316
+aVOr we can turn outward,
+p317
+aVcultivate faith in our ability to reach out, to connect, to create.
+p318
+aa(lp319
+VTurns out, the biggest danger
+p320
+aVis not failing to achieve the American Dream.
+p321
+aVThe biggest danger is achieving a dream
+p322
+aVthat you don't actually believe in.
+p323
+aVSo don't do that.
+p324
+aVDo the harder, more interesting thing,
+p325
+aVwhich is to compose a life where what you do every single day,
+p326
+aVthe people you give your best love and ingenuity and energy to,
+p327
+aValigns as closely as possible with what you believe.
+p328
+aVThat, not something as mundane as making money,
+p329
+aVis a tribute to your ancestors.
+p330
+aVThat is the beautiful struggle.
+p331
+aa(lp332
+VThank you.
+p333
+aa(lp334
+V(Applause)
+p335
+aasS'id'
+p336
+I2580
+sS'title'
+p337
+VThe new American Dream
+p338
+s.

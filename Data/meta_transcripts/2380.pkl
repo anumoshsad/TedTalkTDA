@@ -1,0 +1,391 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VYour company launches a search for an open position.
+p4
+aVThe applications start rolling in,
+p5
+aVand the qualified candidates are identified.
+p6
+aVNow the choosing begins.
+p7
+aVPerson A: Ivy League, 4.0, flawless resume,
+p8
+aVgreat recommendations.
+p9
+aVAll the right stuff.
+p10
+aVPerson B: state school, fair amount of job hopping,
+p11
+aVand odd jobs like cashier and singing waitress.
+p12
+aVBut remember \u2014 both are qualified.
+p13
+aVSo I ask you:
+p14
+aVwho are you going to pick?
+p15
+aa(lp16
+VMy colleagues and I created very official terms
+p17
+aVto describe two distinct categories of candidates.
+p18
+aVWe call A "the Silver Spoon,"
+p19
+aVthe one who clearly had advantages and was destined for success.
+p20
+aVAnd we call B "the Scrapper,"
+p21
+aVthe one who had to fight against tremendous odds
+p22
+aVto get to the same point.
+p23
+aVYou just heard a human resources director refer to people
+p24
+aVas Silver Spoons and Scrappers \u2014
+p25
+aa(lp26
+V(Laughter)
+p27
+aa(lp28
+Vwhich is not exactly politically correct and sounds a bit judgmental.
+p29
+aVBut before my human resources certification gets revoked \u2014
+p30
+aa(lp31
+V(Laughter)
+p32
+aa(lp33
+Vlet me explain.
+p34
+aa(lp35
+VA resume tells a story.
+p36
+aVAnd over the years, I've learned something about people
+p37
+aVwhose experiences read like a patchwork quilt,
+p38
+aVthat makes me stop and fully consider them
+p39
+aVbefore tossing their resumes away.
+p40
+aVA series of odd jobs may indicate
+p41
+aVinconsistency, lack of focus, unpredictability.
+p42
+aVOr it may signal a committed struggle against obstacles.
+p43
+aVAt the very least, the Scrapper deserves an interview.
+p44
+aa(lp45
+VTo be clear,
+p46
+aVI don't hold anything against the Silver Spoon;
+p47
+aVgetting into and graduating from an elite university
+p48
+aVtakes a lot of hard work and sacrifice.
+p49
+aVBut if your whole life has been engineered toward success,
+p50
+aVhow will you handle the tough times?
+p51
+aVOne person I hired felt that because he attended an elite university,
+p52
+aVthere were certain assignments that were beneath him,
+p53
+aVlike temporarily doing manual labor to better understand an operation.
+p54
+aVEventually, he quit.
+p55
+aVBut on the flip side,
+p56
+aVwhat happens when your whole life is destined for failure
+p57
+aVand you actually succeed?
+p58
+aa(lp59
+VI want to urge you to interview the Scrapper.
+p60
+aVI know a lot about this because I am a Scrapper.
+p61
+aVBefore I was born,
+p62
+aVmy father was diagnosed with paranoid schizophrenia,
+p63
+aVand he couldn't hold a job in spite of his brilliance.
+p64
+aVOur lives were one part "Cuckoo's Nest,"
+p65
+aVone part "Awakenings"
+p66
+aVand one part "A Beautiful Mind."
+p67
+aa(lp68
+V(Laughter)
+p69
+aa(lp70
+VI'm the fourth of five children raised by a single mother
+p71
+aVin a rough neighborhood in Brooklyn, New York.
+p72
+aVWe never owned a home, a car, a washing machine,
+p73
+aVand for most of my childhood, we didn't even have a telephone.
+p74
+aVSo I was highly motivated
+p75
+aVto understand the relationship between business success and Scrappers,
+p76
+aVbecause my life could easily have turned out very differently.
+p77
+aVAs I met successful business people
+p78
+aVand read profiles of high-powered leaders,
+p79
+aVI noticed some commonality.
+p80
+aa(lp81
+VMany of them had experienced early hardships,
+p82
+aVanywhere from poverty, abandonment,
+p83
+aVdeath of a parent while young,
+p84
+aVto learning disabilities, alcoholism and violence.
+p85
+aVThe conventional thinking has been that trauma leads to distress,
+p86
+aVand there's been a lot of focus on the resulting dysfunction.
+p87
+aVBut during studies of dysfunction, data revealed an unexpected insight:
+p88
+aVthat even the worst circumstances can result in growth and transformation.
+p89
+aVA remarkable and counterintuitive phenomenon has been discovered,
+p90
+aVwhich scientists call Post Traumatic Growth.
+p91
+aa(lp92
+VIn one study designed to measure the effects of adversity
+p93
+aVon children at risk,
+p94
+aVamong a subset of 698 children
+p95
+aVwho experienced the most severe and extreme conditions,
+p96
+aVfully one-third grew up to lead healthy, successful and productive lives.
+p97
+aVIn spite of everything and against tremendous odds, they succeeded.
+p98
+aVOne-third.
+p99
+aa(lp100
+VTake this resume.
+p101
+aVThis guy's parents give him up for adoption.
+p102
+aVHe never finishes college.
+p103
+aVHe job-hops quite a bit,
+p104
+aVgoes on a sojourn to India for a year,
+p105
+aVand to top it off, he has dyslexia.
+p106
+aVWould you hire this guy?
+p107
+aVHis name is Steve Jobs.
+p108
+aa(lp109
+VIn a study of the world's most highly successful entrepreneurs,
+p110
+aVit turns out a disproportionate number have dyslexia.
+p111
+aVIn the US,
+p112
+aV35 percent of the entrepreneurs studied had dyslexia.
+p113
+aVWhat's remarkable \u2014 among those entrepreneurs
+p114
+aVwho experience post traumatic growth,
+p115
+aVthey now view their learning disability
+p116
+aVas a desirable difficulty which provided them an advantage
+p117
+aVbecause they became better listeners and paid greater attention to detail.
+p118
+aVThey don't think they are who they are in spite of adversity,
+p119
+aVthey know they are who they are because of adversity.
+p120
+aVThey embrace their trauma and hardships
+p121
+aVas key elements of who they've become,
+p122
+aVand know that without those experiences,
+p123
+aVthey might not have developed the muscle and grit required
+p124
+aVto become successful.
+p125
+aa(lp126
+VOne of my colleagues had his life completely upended
+p127
+aVas a result of the Chinese Cultural Revolution in 1966.
+p128
+aVAt age 13, his parents were relocated to the countryside,
+p129
+aVthe schools were closed
+p130
+aVand he was left alone in Beijing to fend for himself until 16,
+p131
+aVwhen he got a job in a clothing factory.
+p132
+aVBut instead of accepting his fate,
+p133
+aVhe made a resolution that he would continue his formal education.
+p134
+aVEleven years later, when the political landscape changed,
+p135
+aVhe heard about a highly selective university admissions test.
+p136
+aVHe had three months to learn the entire curriculum
+p137
+aVof middle and high school.
+p138
+aVSo, every day he came home from the factory,
+p139
+aVtook a nap, studied until 4am, went back to work
+p140
+aVand repeated this cycle every day for three months.
+p141
+aVHe did it, he succeeded.
+p142
+aVHis commitment to his education was unwavering, and he never lost hope.
+p143
+aVToday, he holds a master's degree,
+p144
+aVand his daughters each have degrees from Cornell and Harvard.
+p145
+aa(lp146
+VScrappers are propelled by the belief
+p147
+aVthat the only person you have full control over is yourself.
+p148
+aVWhen things don't turn out well,
+p149
+aVScrappers ask, "What can I do differently to create a better result?"
+p150
+aVScrappers have a sense of purpose
+p151
+aVthat prevents them from giving up on themselves,
+p152
+aVkind of like if you've survived poverty, a crazy father and several muggings,
+p153
+aVyou figure, "Business challenges? \u2014
+p154
+aa(lp155
+V(Laughter)
+p156
+aa(lp157
+VReally?
+p158
+aVPiece of cake. I got this."
+p159
+aa(lp160
+V(Laughter)
+p161
+aa(lp162
+VAnd that reminds me \u2014 humor.
+p163
+aVScrappers know that humor gets you through the tough times,
+p164
+aVand laughter helps you change your perspective.
+p165
+aa(lp166
+VAnd finally, there are relationships.
+p167
+aVPeople who overcome adversity don't do it alone.
+p168
+aVSomewhere along the way,
+p169
+aVthey find people who bring out the best in them
+p170
+aVand who are invested in their success.
+p171
+aVHaving someone you can count on no matter what
+p172
+aVis essential to overcoming adversity.
+p173
+aVI was lucky.
+p174
+aVIn my first job after college,
+p175
+aVI didn't have a car, so I carpooled across two bridges
+p176
+aVwith a woman who was the president's assistant.
+p177
+aVShe watched me work
+p178
+aVand encouraged me to focus on my future
+p179
+aVand not dwell on my past.
+p180
+aVAlong the way I've met many people
+p181
+aVwho've provided me brutally honest feedback,
+p182
+aVadvice and mentorship.
+p183
+aVThese people don't mind
+p184
+aVthat I once worked as a singing waitress to help pay for college.
+p185
+aa(lp186
+V(Laughter)
+p187
+aa(lp188
+VI'll leave you with one final, valuable insight.
+p189
+aVCompanies that are committed to diversity and inclusive practices
+p190
+aVtend to support Scrappers
+p191
+aVand outperform their peers.
+p192
+aVAccording to DiversityInc,
+p193
+aVa study of their top 50 companies for diversity
+p194
+aVoutperformed the S&P 500 by 25 percent.
+p195
+aa(lp196
+VSo back to my original question.
+p197
+aVWho are you going to bet on:
+p198
+aVSilver Spoon or Scrapper?
+p199
+aVI say choose the underestimated contender,
+p200
+aVwhose secret weapons are passion and purpose.
+p201
+aa(lp202
+VHire the Scrapper.
+p203
+aa(lp204
+V(Applause)
+p205
+aasS'id'
+p206
+I2380
+sS'title'
+p207
+VWhy the best hire might not have the perfect resume
+p208
+s.

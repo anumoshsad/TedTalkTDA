@@ -1,0 +1,604 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VAlgorithms are everywhere.
+p4
+aVThey sort and separate the winners from the losers.
+p5
+aVThe winners get the job
+p6
+aVor a good credit card offer.
+p7
+aVThe losers don't even get an interview
+p8
+aVor they pay more for insurance.
+p9
+aVWe're being scored with secret formulas that we don't understand
+p10
+aVthat often don't have systems of appeal.
+p11
+aVThat begs the question:
+p12
+aVWhat if the algorithms are wrong?
+p13
+aa(lp14
+VTo build an algorithm you need two things:
+p15
+aVyou need data, what happened in the past,
+p16
+aVand a definition of success,
+p17
+aVthe thing you're looking for and often hoping for.
+p18
+aVYou train an algorithm by looking, figuring out.
+p19
+aVThe algorithm figures out what is associated with success.
+p20
+aVWhat situation leads to success?
+p21
+aa(lp22
+VActually, everyone uses algorithms.
+p23
+aVThey just don't formalize them in written code.
+p24
+aVLet me give you an example.
+p25
+aVI use an algorithm every day to make a meal for my family.
+p26
+aVThe data I use
+p27
+aVis the ingredients in my kitchen,
+p28
+aVthe time I have,
+p29
+aVthe ambition I have,
+p30
+aVand I curate that data.
+p31
+aVI don't count those little packages of ramen noodles as food.
+p32
+aa(lp33
+V(Laughter)
+p34
+aa(lp35
+VMy definition of success is:
+p36
+aVa meal is successful if my kids eat vegetables.
+p37
+aVIt's very different from if my youngest son were in charge.
+p38
+aVHe'd say success is if he gets to eat lots of Nutella.
+p39
+aVBut I get to choose success.
+p40
+aVI am in charge. My opinion matters.
+p41
+aVThat's the first rule of algorithms.
+p42
+aa(lp43
+VAlgorithms are opinions embedded in code.
+p44
+aVIt's really different from what you think most people think of algorithms.
+p45
+aVThey think algorithms are objective and true and scientific.
+p46
+aVThat's a marketing trick.
+p47
+aVIt's also a marketing trick
+p48
+aVto intimidate you with algorithms,
+p49
+aVto make you trust and fear algorithms
+p50
+aVbecause you trust and fear mathematics.
+p51
+aVA lot can go wrong when we put blind faith in big data.
+p52
+aa(lp53
+VThis is Kiri Soares. She's a high school principal in Brooklyn.
+p54
+aVIn 2011, she told me her teachers were being scored
+p55
+aVwith a complex, secret algorithm
+p56
+aVcalled the "value-added model."
+p57
+aVI told her, "Well, figure out what the formula is, show it to me.
+p58
+aVI'm going to explain it to you."
+p59
+aVShe said, "Well, I tried to get the formula,
+p60
+aVbut my Department of Education contact told me it was math
+p61
+aVand I wouldn't understand it."
+p62
+aa(lp63
+VIt gets worse.
+p64
+aVThe New York Post filed a Freedom of Information Act request,
+p65
+aVgot all the teachers' names and all their scores
+p66
+aVand they published them as an act of teacher-shaming.
+p67
+aVWhen I tried to get the formulas, the source code, through the same means,
+p68
+aVI was told I couldn't.
+p69
+aVI was denied.
+p70
+aVI later found out
+p71
+aVthat nobody in New York City had access to that formula.
+p72
+aVNo one understood it.
+p73
+aVThen someone really smart got involved, Gary Rubinstein.
+p74
+aVHe found 665 teachers from that New York Post data
+p75
+aVthat actually had two scores.
+p76
+aVThat could happen if they were teaching
+p77
+aVseventh grade math and eighth grade math.
+p78
+aVHe decided to plot them.
+p79
+aVEach dot represents a teacher.
+p80
+aa(lp81
+V(Laughter)
+p82
+aa(lp83
+VWhat is that?
+p84
+aa(lp85
+V(Laughter)
+p86
+aa(lp87
+VThat should never have been used for individual assessment.
+p88
+aVIt's almost a random number generator.
+p89
+aa(lp90
+V(Applause)
+p91
+aa(lp92
+VBut it was.
+p93
+aVThis is Sarah Wysocki.
+p94
+aVShe got fired, along with 205 other teachers,
+p95
+aVfrom the Washington, DC school district,
+p96
+aVeven though she had great recommendations from her principal
+p97
+aVand the parents of her kids.
+p98
+aa(lp99
+VI know what a lot of you guys are thinking,
+p100
+aVespecially the data scientists, the AI experts here.
+p101
+aVYou're thinking, "Well, I would never make an algorithm that inconsistent."
+p102
+aVBut algorithms can go wrong,
+p103
+aVeven have deeply destructive effects with good intentions.
+p104
+aVAnd whereas an airplane that's designed badly
+p105
+aVcrashes to the earth and everyone sees it,
+p106
+aVan algorithm designed badly
+p107
+aVcan go on for a long time, silently wreaking havoc.
+p108
+aa(lp109
+VThis is Roger Ailes.
+p110
+aa(lp111
+V(Laughter)
+p112
+aa(lp113
+VHe founded Fox News in 1996.
+p114
+aVMore than 20 women complained about sexual harassment.
+p115
+aVThey said they weren't allowed to succeed at Fox News.
+p116
+aVHe was ousted last year, but we've seen recently
+p117
+aVthat the problems have persisted.
+p118
+aVThat begs the question:
+p119
+aVWhat should Fox News do to turn over another leaf?
+p120
+aa(lp121
+VWell, what if they replaced their hiring process
+p122
+aVwith a machine-learning algorithm?
+p123
+aVThat sounds good, right?
+p124
+aVThink about it.
+p125
+aVThe data, what would the data be?
+p126
+aVA reasonable choice would be the last 21 years of applications to Fox News.
+p127
+aVReasonable.
+p128
+aVWhat about the definition of success?
+p129
+aVReasonable choice would be,
+p130
+aVwell, who is successful at Fox News?
+p131
+aVI guess someone who, say, stayed there for four years
+p132
+aVand was promoted at least once.
+p133
+aVSounds reasonable.
+p134
+aVAnd then the algorithm would be trained.
+p135
+aVIt would be trained to look for people to learn what led to success,
+p136
+aVwhat kind of applications historically led to success
+p137
+aVby that definition.
+p138
+aVNow think about what would happen
+p139
+aVif we applied that to a current pool of applicants.
+p140
+aVIt would filter out women
+p141
+aVbecause they do not look like people who were successful in the past.
+p142
+aa(lp143
+VAlgorithms don't make things fair
+p144
+aVif you just blithely, blindly apply algorithms.
+p145
+aVThey don't make things fair.
+p146
+aVThey repeat our past practices,
+p147
+aVour patterns.
+p148
+aVThey automate the status quo.
+p149
+aVThat would be great if we had a perfect world,
+p150
+aVbut we don't.
+p151
+aVAnd I'll add that most companies don't have embarrassing lawsuits,
+p152
+aVbut the data scientists in those companies
+p153
+aVare told to follow the data,
+p154
+aVto focus on accuracy.
+p155
+aVThink about what that means.
+p156
+aVBecause we all have bias, it means they could be codifying sexism
+p157
+aVor any other kind of bigotry.
+p158
+aa(lp159
+VThought experiment,
+p160
+aVbecause I like them:
+p161
+aVan entirely segregated society \u2014
+p162
+aVracially segregated, all towns, all neighborhoods
+p163
+aVand where we send the police only to the minority neighborhoods
+p164
+aVto look for crime.
+p165
+aVThe arrest data would be very biased.
+p166
+aVWhat if, on top of that, we found the data scientists
+p167
+aVand paid the data scientists to predict where the next crime would occur?
+p168
+aVMinority neighborhood.
+p169
+aVOr to predict who the next criminal would be?
+p170
+aVA minority.
+p171
+aVThe data scientists would brag about how great and how accurate
+p172
+aVtheir model would be,
+p173
+aVand they'd be right.
+p174
+aa(lp175
+VNow, reality isn't that drastic, but we do have severe segregations
+p176
+aVin many cities and towns,
+p177
+aVand we have plenty of evidence
+p178
+aVof biased policing and justice system data.
+p179
+aVAnd we actually do predict hotspots,
+p180
+aVplaces where crimes will occur.
+p181
+aVAnd we do predict, in fact, the individual criminality,
+p182
+aVthe criminality of individuals.
+p183
+aVThe news organization ProPublica recently looked into
+p184
+aVone of those "recidivism risk" algorithms,
+p185
+aVas they're called,
+p186
+aVbeing used in Florida during sentencing by judges.
+p187
+aVBernard, on the left, the black man, was scored a 10 out of 10.
+p188
+aVDylan, on the right, 3 out of 10.
+p189
+aV10 out of 10, high risk. 3 out of 10, low risk.
+p190
+aVThey were both brought in for drug possession.
+p191
+aVThey both had records,
+p192
+aVbut Dylan had a felony
+p193
+aVbut Bernard didn't.
+p194
+aVThis matters, because the higher score you are,
+p195
+aVthe more likely you're being given a longer sentence.
+p196
+aa(lp197
+VWhat's going on?
+p198
+aVData laundering.
+p199
+aVIt's a process by which technologists hide ugly truths
+p200
+aVinside black box algorithms
+p201
+aVand call them objective;
+p202
+aVcall them meritocratic.
+p203
+aVWhen they're secret, important and destructive,
+p204
+aVI've coined a term for these algorithms:
+p205
+aV"weapons of math destruction."
+p206
+aa(lp207
+V(Laughter)
+p208
+aa(lp209
+V(Applause)
+p210
+aa(lp211
+VThey're everywhere, and it's not a mistake.
+p212
+aVThese are private companies building private algorithms
+p213
+aVfor private ends.
+p214
+aVEven the ones I talked about for teachers and the public police,
+p215
+aVthose were built by private companies
+p216
+aVand sold to the government institutions.
+p217
+aVThey call it their "secret sauce" \u2014
+p218
+aVthat's why they can't tell us about it.
+p219
+aVIt's also private power.
+p220
+aVThey are profiting for wielding the authority of the inscrutable.
+p221
+aVNow you might think, since all this stuff is private
+p222
+aVand there's competition,
+p223
+aVmaybe the free market will solve this problem.
+p224
+aVIt won't.
+p225
+aVThere's a lot of money to be made in unfairness.
+p226
+aa(lp227
+VAlso, we're not economic rational agents.
+p228
+aVWe all are biased.
+p229
+aVWe're all racist and bigoted in ways that we wish we weren't,
+p230
+aVin ways that we don't even know.
+p231
+aVWe know this, though, in aggregate,
+p232
+aVbecause sociologists have consistently demonstrated this
+p233
+aVwith these experiments they build,
+p234
+aVwhere they send a bunch of applications to jobs out,
+p235
+aVequally qualified but some have white-sounding names
+p236
+aVand some have black-sounding names,
+p237
+aVand it's always disappointing, the results \u2014 always.
+p238
+aa(lp239
+VSo we are the ones that are biased,
+p240
+aVand we are injecting those biases into the algorithms
+p241
+aVby choosing what data to collect,
+p242
+aVlike I chose not to think about ramen noodles \u2014
+p243
+aVI decided it was irrelevant.
+p244
+aVBut by trusting the data that's actually picking up on past practices
+p245
+aVand by choosing the definition of success,
+p246
+aVhow can we expect the algorithms to emerge unscathed?
+p247
+aVWe can't. We have to check them.
+p248
+aVWe have to check them for fairness.
+p249
+aa(lp250
+VThe good news is, we can check them for fairness.
+p251
+aVAlgorithms can be interrogated,
+p252
+aVand they will tell us the truth every time.
+p253
+aVAnd we can fix them. We can make them better.
+p254
+aVI call this an algorithmic audit,
+p255
+aVand I'll walk you through it.
+p256
+aa(lp257
+VFirst, data integrity check.
+p258
+aVFor the recidivism risk algorithm I talked about,
+p259
+aVa data integrity check would mean we'd have to come to terms with the fact
+p260
+aVthat in the US, whites and blacks smoke pot at the same rate
+p261
+aVbut blacks are far more likely to be arrested \u2014
+p262
+aVfour or five times more likely, depending on the area.
+p263
+aVWhat is that bias looking like in other crime categories,
+p264
+aVand how do we account for it?
+p265
+aa(lp266
+VSecond, we should think about the definition of success,
+p267
+aVaudit that.
+p268
+aVRemember \u2014 with the hiring algorithm? We talked about it.
+p269
+aVSomeone who stays for four years and is promoted once?
+p270
+aVWell, that is a successful employee,
+p271
+aVbut it's also an employee that is supported by their culture.
+p272
+aVThat said, also it can be quite biased.
+p273
+aVWe need to separate those two things.
+p274
+aVWe should look to the blind orchestra audition
+p275
+aVas an example.
+p276
+aVThat's where the people auditioning are behind a sheet.
+p277
+aVWhat I want to think about there
+p278
+aVis the people who are listening have decided what's important
+p279
+aVand they've decided what's not important,
+p280
+aVand they're not getting distracted by that.
+p281
+aVWhen the blind orchestra auditions started,
+p282
+aVthe number of women in orchestras went up by a factor of five.
+p283
+aa(lp284
+VNext, we have to consider accuracy.
+p285
+aVThis is where the value-added model for teachers would fail immediately.
+p286
+aVNo algorithm is perfect, of course,
+p287
+aVso we have to consider the errors of every algorithm.
+p288
+aVHow often are there errors, and for whom does this model fail?
+p289
+aVWhat is the cost of that failure?
+p290
+aa(lp291
+VAnd finally, we have to consider
+p292
+aVthe long-term effects of algorithms,
+p293
+aVthe feedback loops that are engendering.
+p294
+aVThat sounds abstract,
+p295
+aVbut imagine if Facebook engineers had considered that
+p296
+aVbefore they decided to show us only things that our friends had posted.
+p297
+aa(lp298
+VI have two more messages, one for the data scientists out there.
+p299
+aVData scientists: we should not be the arbiters of truth.
+p300
+aVWe should be translators of ethical discussions that happen
+p301
+aVin larger society.
+p302
+aa(lp303
+V(Applause)
+p304
+aa(lp305
+VAnd the rest of you,
+p306
+aVthe non-data scientists:
+p307
+aVthis is not a math test.
+p308
+aVThis is a political fight.
+p309
+aVWe need to demand accountability for our algorithmic overlords.
+p310
+aa(lp311
+V(Applause)
+p312
+aa(lp313
+VThe era of blind faith in big data must end.
+p314
+aa(lp315
+VThank you very much.
+p316
+aa(lp317
+V(Applause)
+p318
+aasS'id'
+p319
+I2845
+sS'title'
+p320
+VThe era of blind faith in big data must end
+p321
+s.

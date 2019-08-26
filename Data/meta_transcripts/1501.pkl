@@ -1,0 +1,907 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm a gamer, so I like to have goals.
+p4
+aVI like special missions and secret objectives.
+p5
+aVSo here's my special mission for this talk:
+p6
+aVI'm going to try to increase the life span of every single person in this room
+p7
+aVby seven and a half minutes.
+p8
+aVLiterally, you will live seven and a half minutes longer
+p9
+aVthan you would have otherwise,
+p10
+aVjust because you watched this talk.
+p11
+aa(lp12
+VSome of you are looking a little bit skeptical.
+p13
+aVThat's okay, because check it out \u2014
+p14
+aVI have math to prove that it is possible.
+p15
+aVIt won't make much sense now.
+p16
+aVI'll explain it all later,
+p17
+aVjust pay attention to the number at the bottom:
+p18
+aV+7.68245837 minutes.
+p19
+aVThat will be my gift to you if I'm successful in my mission.
+p20
+aa(lp21
+VNow, you have a secret mission too.
+p22
+aVYour mission is to figure out how you want to spend
+p23
+aVyour extra seven and a half minutes.
+p24
+aVAnd I think you should do something unusual with them,
+p25
+aVbecause these are bonus minutes.
+p26
+aVYou weren't going to have them anyway.
+p27
+aa(lp28
+VNow, because I'm a game designer, you might be thinking to yourself,
+p29
+aVI know what she wants us to do with those minutes,
+p30
+aVshe wants us to spend them playing games.
+p31
+aVNow this is a totally reasonable assumption,
+p32
+aVgiven that I have made quite a habit of encouraging people
+p33
+aVto spend more time playing games.
+p34
+aVFor example, in my first TED Talk,
+p35
+aVI did propose that we should spend 21 billion hours a week,
+p36
+aVas a planet, playing video games.
+p37
+aa(lp38
+VNow, 21 billion hours, it's a lot of time.
+p39
+aVIt's so much time, in fact, that the number one unsolicited comment
+p40
+aVthat I have heard from people all over the world
+p41
+aVsince I gave that talk, is this:
+p42
+aVJane, games are great and all, but on your deathbed,
+p43
+aVare you really going to wish you spent more time playing Angry Birds?
+p44
+aa(lp45
+V(Laughter)
+p46
+aa(lp47
+VThis idea is so pervasive \u2014
+p48
+aVthat games are a waste of time that we will come to regret \u2014
+p49
+aVthat I hear it literally everywhere I go.
+p50
+aVFor example, true story:
+p51
+aVJust a few weeks ago,
+p52
+aVthis cab driver, upon finding out that a friend and I were in town
+p53
+aVfor a game developers' conference,
+p54
+aVturned around and said \u2014 and I quote \u2014
+p55
+aV"I hate games. Waste of life.
+p56
+aVImagine getting to the end of your life and regretting all that time."
+p57
+aa(lp58
+VNow, I want to take this problem seriously.
+p59
+aVI want games to be a force for good in the world.
+p60
+aVI don't want gamers to regret the time they spent playing,
+p61
+aVtime that I encouraged them to spend.
+p62
+aVSo I have been thinking about this question a lot lately.
+p63
+aVWhen we're on our deathbeds,
+p64
+aVwill we regret the time we spent playing games?
+p65
+aa(lp66
+VNow, this may surprise you, but it turns out
+p67
+aVthere is actually some scientific research on this question.
+p68
+aVIt's true.
+p69
+aVHospice workers,
+p70
+aVthe people who take care of us at the end of our lives,
+p71
+aVrecently issued a report on the most frequently expressed regrets
+p72
+aVthat people say when they are literally on their deathbeds.
+p73
+aVAnd that's what I want to share with you today \u2014
+p74
+aVthe top five regrets of the dying.
+p75
+aa(lp76
+VNumber one:
+p77
+aVI wish I hadn't worked so hard.
+p78
+aVNumber two:
+p79
+aVI wish I had stayed in touch with my friends.
+p80
+aVNumber three:
+p81
+aVI wish I had let myself be happier.
+p82
+aVNumber four:
+p83
+aVI wish I'd had the courage to express my true self.
+p84
+aVAnd number five:
+p85
+aVI wish I'd lived a life true to my dreams,
+p86
+aVinstead of what others expected of me.
+p87
+aa(lp88
+VNow, as far as I know, no one ever told one of the hospice workers,
+p89
+aV"I wish I'd spent more time playing video games,"
+p90
+aVbut when I hear these top five regrets of the dying,
+p91
+aVI can't help but hear five deep human cravings
+p92
+aVthat games actually help us fulfill.
+p93
+aa(lp94
+VFor example, I wish I hadn't worked so hard.
+p95
+aVFor many people, this means, I wish I'd spent more time
+p96
+aVwith my family, with my kids when they were growing up.
+p97
+aVWell, we know that playing games together has tremendous family benefits.
+p98
+aVA recent study from Brigham Young University School of Family Life
+p99
+aVreported that parents who spend more time playing video games with their kids
+p100
+aVhave much stronger real-life relationships with them.
+p101
+aa(lp102
+V"I wish I'd stayed in touch with my friends."
+p103
+aVHundreds of millions of people
+p104
+aVuse social games like FarmVille or Words With Friends
+p105
+aVto stay in daily contact with real-life friends and family.
+p106
+aVA recent study from the University of Michigan
+p107
+aVshowed that these games are incredibly powerful relationship-management tools.
+p108
+aVThey help us stay connected with people in our social network
+p109
+aVthat we would otherwise grow distant from,
+p110
+aVif we weren't playing games together.
+p111
+aa(lp112
+V"I wish I'd let myself be happier."
+p113
+aVWell, here I can't help but think of the groundbreaking clinical trials
+p114
+aVrecently conducted at East Carolina University
+p115
+aVthat showed that online games can outperform
+p116
+aVpharmaceuticals for treating clinical anxiety and depression.
+p117
+aVJust 30 minutes of online game play a day
+p118
+aVwas enough to create dramatic boosts in mood
+p119
+aVand long-term increases in happiness.
+p120
+aa(lp121
+V"I wish I'd had the courage to express my true self."
+p122
+aVWell, avatars are a way to express our true selves,
+p123
+aVour most heroic, idealized version of who we might become.
+p124
+aVYou can see that in this alter ego portrait by Robbie Cooper
+p125
+aVof a gamer with his avatar.
+p126
+aVAnd Stanford University has been doing research for five years now
+p127
+aVto document how playing a game with an idealized avatar
+p128
+aVchanges how we think and act in real life,
+p129
+aVmaking us more courageous, more ambitious,
+p130
+aVmore committed to our goals.
+p131
+aa(lp132
+V"I wish I'd led a life true to my dreams,
+p133
+aVand not what others expected of me."
+p134
+aVAre games doing this yet?
+p135
+aVI'm not sure, so I've left a Super Mario question mark.
+p136
+aVWe're going to come back to this one.
+p137
+aa(lp138
+VBut in the meantime, perhaps you're wondering,
+p139
+aVwho is this game designer to be talking to us
+p140
+aVabout deathbed regrets?
+p141
+aVAnd it's true, I've never worked in a hospice,
+p142
+aVI've never been on my deathbed.
+p143
+aVBut recently I did spend three months in bed, wanting to die.
+p144
+aVReally wanting to die.
+p145
+aa(lp146
+VNow let me tell you that story.
+p147
+aVIt started two years ago, when I hit my head and got a concussion.
+p148
+aVThe concussion didn't heal properly,
+p149
+aVand after 30 days, I was left with symptoms like nonstop headaches,
+p150
+aVnausea, vertigo, memory loss, mental fog.
+p151
+aVMy doctor told me that in order to heal my brain,
+p152
+aVI had to rest it.
+p153
+aVSo I had to avoid everything that triggered my symptoms.
+p154
+aVFor me that meant no reading, no writing, no video games,
+p155
+aVno work or email, no running, no alcohol, no caffeine.
+p156
+aVIn other words \u2014 and I think you see where this is going \u2014
+p157
+aVno reason to live.
+p158
+aa(lp159
+V(Laughter)
+p160
+aa(lp161
+VOf course it's meant to be funny,
+p162
+aVbut in all seriousness, suicidal ideation is quite common
+p163
+aVwith traumatic brain injuries.
+p164
+aVIt happens to one in three, and it happened to me.
+p165
+aVMy brain started telling me, "Jane, you want to die."
+p166
+aVIt said, "You're never going to get better."
+p167
+aVIt said, "The pain will never end."
+p168
+aa(lp169
+VAnd these voices became so persistent and so persuasive
+p170
+aVthat I started to legitimately fear for my life,
+p171
+aVwhich is the time that I said to myself after 34 days \u2014
+p172
+aVand I will never forget this moment \u2014
+p173
+aVI said, "I am either going to kill myself
+p174
+aVor I'm going to turn this into a game."
+p175
+aa(lp176
+VNow, why a game?
+p177
+aVI knew from researching the psychology of games for more than a decade
+p178
+aVthat when we play a game \u2014
+p179
+aVand this is in the scientific literature \u2014
+p180
+aVwe tackle tough challenges with more creativity,
+p181
+aVmore determination, more optimism,
+p182
+aVand we're more likely to reach out to others for help.
+p183
+aVI wanted to bring these gamer traits to my real-life challenge,
+p184
+aVso I created a role-playing recovery game
+p185
+aVcalled Jane the Concussion Slayer.
+p186
+aa(lp187
+VNow this became my new secret identity,
+p188
+aVand the first thing I did as a slayer was call my twin sister \u2014
+p189
+aVI have an identical twin sister named Kelly \u2014
+p190
+aVand tell her, "I'm playing a game to heal my brain,
+p191
+aVand I want you to play with me."
+p192
+aVThis was an easier way to ask for help.
+p193
+aa(lp194
+VShe became my first ally in the game,
+p195
+aVmy husband Kiyash joined next,
+p196
+aVand together we identified and battled the bad guys.
+p197
+aVNow this was anything that could trigger my symptoms
+p198
+aVand therefore slow down the healing process,
+p199
+aVthings like bright lights and crowded spaces.
+p200
+aVWe also collected and activated power-ups.
+p201
+aVThis was anything I could do on even my worst day
+p202
+aVto feel just a little bit good,
+p203
+aVjust a little bit productive.
+p204
+aVThings like cuddling my dog for 10 minutes,
+p205
+aVor getting out of bed and walking around the block just once.
+p206
+aa(lp207
+VNow the game was that simple:
+p208
+aVAdopt a secret identity, recruit your allies,
+p209
+aVbattle the bad guys, activate the power-ups.
+p210
+aVBut even with a game so simple,
+p211
+aVwithin just a couple days of starting to play,
+p212
+aVthat fog of depression and anxiety went away.
+p213
+aVIt just vanished. It felt like a miracle.
+p214
+aVNow it wasn't a miracle cure for the headaches
+p215
+aVor the cognitive symptoms.
+p216
+aVThat lasted for more than a year,
+p217
+aVand it was the hardest year of my life by far.
+p218
+aVBut even when I still had the symptoms,
+p219
+aVeven while I was still in pain, I stopped suffering.
+p220
+aa(lp221
+VNow what happened next with the game surprised me.
+p222
+aVI put up some blog posts and videos online,
+p223
+aVexplaining how to play.
+p224
+aVBut not everybody has a concussion, obviously,
+p225
+aVnot everyone wants to be "the slayer,"
+p226
+aVso I renamed the game SuperBetter.
+p227
+aa(lp228
+VAnd soon, I started hearing from people all over the world
+p229
+aVwho were adopting their own secret identity,
+p230
+aVrecruiting their own allies, and they were getting "super better,"
+p231
+aVfacing challenges like cancer and chronic pain,
+p232
+aVdepression and Crohn's disease.
+p233
+aVEven people were playing it for terminal diagnoses like ALS.
+p234
+aVAnd I could tell from their messages and their videos
+p235
+aVthat the game was helping them in the same ways that it helped me.
+p236
+aVThey talked about feeling stronger and braver.
+p237
+aVThey talked about feeling better understood by their friends and family.
+p238
+aVAnd they even talked about feeling happier,
+p239
+aVeven though they were in pain,
+p240
+aVeven though they were tackling the toughest challenge of their lives.
+p241
+aa(lp242
+VNow at the time, I'm thinking to myself, what is going on here?
+p243
+aVI mean, how could a game so trivial intervene so powerfully
+p244
+aVin such serious, and in some cases life-and-death, circumstances?
+p245
+aVI mean, if it hadn't worked for me,
+p246
+aVthere's no way I would have believed it was possible.
+p247
+aVWell, it turns out there's some science here, too.
+p248
+aVSome people get stronger and happier after a traumatic event.
+p249
+aVAnd that's what was happening to us.
+p250
+aa(lp251
+VThe game was helping us experience
+p252
+aVwhat scientists call post-traumatic growth,
+p253
+aVwhich is not something we usually hear about.
+p254
+aVWe usually hear about post-traumatic stress disorder.
+p255
+aVBut scientists now know that a traumatic event
+p256
+aVdoesn't doom us to suffer indefinitely.
+p257
+aVInstead, we can use it as a springboard
+p258
+aVto unleash our best qualities and lead happier lives.
+p259
+aa(lp260
+VHere are the top five things that people with post-traumatic growth say:
+p261
+aV"My priorities have changed."
+p262
+aV"I'm not afraid to do what makes me happy."
+p263
+aV"I feel closer to my friends and family."
+p264
+aV"I understand myself better. I know who I really am now."
+p265
+aV"I have a new sense of meaning and purpose in my life."
+p266
+aV"I'm better able to focus on my goals and dreams."
+p267
+aa(lp268
+VNow, does this sound familiar?
+p269
+aVIt should, because the top five traits of post-traumatic growth
+p270
+aVare essentially the direct opposite of the top five regrets of the dying.
+p271
+aVNow this is interesting, right?
+p272
+aVIt seems that somehow, a traumatic event
+p273
+aVcan unlock our ability to lead a life with fewer regrets.
+p274
+aa(lp275
+VBut how does it work?
+p276
+aVHow do you get from trauma to growth?
+p277
+aVOr better yet, is there a way to get all the benefits
+p278
+aVof post-traumatic growth without the trauma,
+p279
+aVwithout having to hit your head in the first place?
+p280
+aVThat would be good, right?
+p281
+aa(lp282
+VI wanted to understand the phenomenon better,
+p283
+aVso I devoured the scientific literature, and here's what I learned.
+p284
+aVThere are four kinds of strength, or resilience,
+p285
+aVthat contribute to post-traumatic growth,
+p286
+aVand there are scientifically validated activities
+p287
+aVthat you can do every day to build up these four kinds of resilience,
+p288
+aVand you don't need a trauma to do it.
+p289
+aa(lp290
+VI could tell you what these four types of strength are,
+p291
+aVbut I'd rather you experience them firsthand.
+p292
+aVI'd rather we all start building them up together right now.
+p293
+aVHere's what we're going to do.
+p294
+aVWe'll play a quick game together.
+p295
+aVThis is where you earn the seven and a half minutes
+p296
+aVof bonus life that I promised you earlier.
+p297
+aVAll you have to do is successfully complete
+p298
+aVthe first four SuperBetter quests.
+p299
+aVAnd I feel like you can do it. I have confidence in you.
+p300
+aa(lp301
+VSo, everybody ready?
+p302
+aVThis is your first quest. Here we go.
+p303
+aVPick one: Stand up and take three steps,
+p304
+aVor make your hands into fists, raise them over your head
+p305
+aVas high as you can for five seconds, go!
+p306
+aVAll right, I like the people doing both.
+p307
+aVYou are overachievers. Very good.
+p308
+aa(lp309
+V(Laughter)
+p310
+aa(lp311
+VWell done, everyone.
+p312
+aVThat is worth +1 physical resilience,
+p313
+aVwhich means that your body can withstand more stress
+p314
+aVand heal itself faster.
+p315
+aVWe know from the research
+p316
+aVthat the number one thing you can do to boost your physical resilience
+p317
+aVis to not sit still.
+p318
+aVThat's all it takes.
+p319
+aVEvery single second that you are not sitting still,
+p320
+aVyou are actively improving the health of your heart,
+p321
+aVand your lungs and brains.
+p322
+aa(lp323
+VEverybody ready for your next quest?
+p324
+aVI want you to snap your fingers exactly 50 times,
+p325
+aVor count backwards from 100 by seven, like this: 100, 93...
+p326
+aVGo!
+p327
+aa(lp328
+V(Snapping)
+p329
+aa(lp330
+VDon't give up.
+p331
+aa(lp332
+V(Snapping)
+p333
+aa(lp334
+VDon't let the people counting down from 100
+p335
+aVinterfere with your counting to 50.
+p336
+aa(lp337
+V(Snapping)
+p338
+aa(lp339
+V(Laughter)
+p340
+aa(lp341
+VNice. Wow. That's the first time I've ever seen that.
+p342
+aVBonus physical resilience. Well done, everyone.
+p343
+aVNow that's worth +1 mental resilience,
+p344
+aVwhich means you have more mental focus, more discipline,
+p345
+aVdetermination and willpower.
+p346
+aVWe know from the scientific research
+p347
+aVthat willpower actually works like a muscle.
+p348
+aVIt gets stronger the more you exercise it.
+p349
+aVSo tackling a tiny challenge without giving up,
+p350
+aVeven one as absurd as snapping your fingers exactly 50 times
+p351
+aVor counting backwards from 100 by seven
+p352
+aVis actually a scientifically validated way to boost your willpower.
+p353
+aa(lp354
+VSo good job. Quest number three.
+p355
+aVPick one: Because of the room, fate's really determined this for you,
+p356
+aVbut here are the two options.
+p357
+aVIf you're inside, find a window and look out of it.
+p358
+aVIf you're outside, find a window and look in.
+p359
+aVOr do a quick YouTube or Google image search
+p360
+aVfor "baby [your favorite animal.]"
+p361
+aa(lp362
+VDo it on your phones, or just shout out some baby animals,
+p363
+aVand I'll put them on the screen.
+p364
+aVSo, what do we want to see?
+p365
+aVSloth, giraffe, elephant, snake. Okay, let's see what we got.
+p366
+aVBaby dolphin and baby llamas. Everybody look.
+p367
+aVGot that?
+p368
+aVOkay, one more. Baby elephant.
+p369
+aa(lp370
+V(Audience) Oh!
+p371
+aa(lp372
+VWe're clapping for that?
+p373
+aVThat's amazing.
+p374
+aa(lp375
+V(Laughter)
+p376
+aa(lp377
+VAll right, what we're just feeling there is plus-one emotional resilience,
+p378
+aVwhich means you have the ability to provoke powerful,
+p379
+aVpositive emotions like curiosity or love,
+p380
+aVwhich we feel looking at baby animals,
+p381
+aVwhen you need them most.
+p382
+aa(lp383
+VHere's a secret from the scientific literature for you.
+p384
+aVIf you can manage to experience three positive emotions
+p385
+aVfor every one negative emotion
+p386
+aVover the course of an hour, a day, a week,
+p387
+aVyou dramatically improve your health
+p388
+aVand your ability to successfully tackle any problem you're facing.
+p389
+aVAnd this is called the three-to-one positive emotion ratio.
+p390
+aVIt's my favorite SuperBetter trick, so keep it up.
+p391
+aa(lp392
+VAll right, pick one, last quest:
+p393
+aVShake someone's hand for six seconds,
+p394
+aVor send someone a quick thank you
+p395
+aVby text, email, Facebook or Twitter. Go!
+p396
+aa(lp397
+V(Chatting)
+p398
+aa(lp399
+VLooking good, looking good.
+p400
+aVNice, nice.
+p401
+aVKeep it up.
+p402
+aVI love it!
+p403
+aVAll right, everybody, that is +1 social resilience,
+p404
+aVwhich means you actually get more strength from your friends,
+p405
+aVyour neighbors, your family, your community.
+p406
+aVNow, a great way to boost social resilience is gratitude.
+p407
+aVTouch is even better.
+p408
+aa(lp409
+VHere's one more secret for you:
+p410
+aVShaking someone's hand for six seconds
+p411
+aVdramatically raises the level of oxytocin in your bloodstream,
+p412
+aVnow that's the trust hormone.
+p413
+aVThat means that all of you who just shook hands
+p414
+aVare biochemically primed to like and want to help each other.
+p415
+aVThis will linger during the break,
+p416
+aVso take advantage of the networking opportunities.
+p417
+aa(lp418
+V(Laughter)
+p419
+aa(lp420
+VWell, you have successfully completed your four quests,
+p421
+aVlet's see if I've successfully completed my mission
+p422
+aVto give you seven and a half minutes of bonus life.
+p423
+aVNow I get to share one more little bit of science with you.
+p424
+aVIt turns out that people who regularly boost these four types of resilience \u2014
+p425
+aVphysical, mental, emotional and social \u2014
+p426
+aVlive 10 years longer than everyone else.
+p427
+aVSo this is true.
+p428
+aVIf you are regularly achieving the three-to-one positive emotion ratio,
+p429
+aVif you are never sitting still for more than an hour at a time,
+p430
+aVif you are reaching out to one person you care about every single day,
+p431
+aVif you are tackling tiny goals to boost your willpower,
+p432
+aVyou will live 10 years longer than everyone else,
+p433
+aVand here's where that math I showed you earlier comes in.
+p434
+aa(lp435
+VSo, the average life expectancy in the U.S. and the U.K. is 78.1 years,
+p436
+aVbut we know from more than 1,000 peer-reviewed scientific studies
+p437
+aVthat you can add 10 years of life by boosting your four types of resilience.
+p438
+aVSo every single year that you are boosting your four types of resilience,
+p439
+aVyou're actually earning .128 more years of life
+p440
+aVor 46 more days of life, or 67,298 more minutes of life,
+p441
+aVwhich means every single day, you are earning 184 minutes of life,
+p442
+aVor every single hour that you are boosting your four types of resilience,
+p443
+aVlike we just did together, you are earning 7.68245837
+p444
+aVmore minutes of life.
+p445
+aa(lp446
+VCongratulations, those seven and a half minutes are all yours.
+p447
+aVYou totally earned them.
+p448
+aa(lp449
+VYeah!
+p450
+aa(lp451
+V(Applause)
+p452
+aa(lp453
+VAwesome.
+p454
+aVWait, wait, wait.
+p455
+aVYou still have your special mission, your secret mission.
+p456
+aVHow are you going to spend these minutes of bonus life?
+p457
+aa(lp458
+VWell, here's my suggestion.
+p459
+aVThese seven and a half bonus minutes are kind of like genie's wishes.
+p460
+aVYou can use your first wish to wish for a million more wishes.
+p461
+aVPretty clever, right?
+p462
+aVSo, if you spend these seven and a half minutes today
+p463
+aVdoing something that makes you happy,
+p464
+aVor that gets you physically active,
+p465
+aVor puts you in touch with someone you care about,
+p466
+aVor even just tackling a tiny challenge,
+p467
+aVyou're going to boost your resilience, so you're going to earn more minutes.
+p468
+aa(lp469
+VAnd the good news is, you can keep going like that.
+p470
+aVEvery hour of the day, every day of your life,
+p471
+aVall the way to your deathbed,
+p472
+aVwhich will now be 10 years later than it would have otherwise.
+p473
+aVAnd when you get there, more than likely,
+p474
+aVyou will not have any of those top five regrets,
+p475
+aVbecause you will have built up the strength and resilience
+p476
+aVto lead a life truer to your dreams.
+p477
+aVAnd with 10 extra years, you might even have enough time
+p478
+aVto play a few more games.
+p479
+aa(lp480
+VThank you.
+p481
+aa(lp482
+V(Applause)
+p483
+aasS'id'
+p484
+I1501
+sS'title'
+p485
+VThe game that can give you 10 extra years of life
+p486
+s.

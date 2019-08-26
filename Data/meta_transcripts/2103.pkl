@@ -1,0 +1,590 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSleep.
+p4
+aVIt's something we spend about a third of our lives doing,
+p5
+aVbut do any of us really understand what it's all about?
+p6
+aa(lp7
+VTwo thousand years ago, Galen,
+p8
+aVone of the most prominent medical researchers
+p9
+aVof the ancient world,
+p10
+aVproposed that while we're awake,
+p11
+aVour brain's motive force, its juice,
+p12
+aVwould flow out to all the other parts of the body,
+p13
+aVanimating them but leaving the brain all dried up,
+p14
+aVand he thought that when we sleep,
+p15
+aVall this moisture that filled the rest of the body
+p16
+aVwould come rushing back,
+p17
+aVrehydrating the brain
+p18
+aVand refreshing the mind.
+p19
+aVNow, that sounds completely ridiculous to us now,
+p20
+aVbut Galen was simply trying to explain
+p21
+aVsomething about sleep
+p22
+aVthat we all deal with every day.
+p23
+aVSee, we all know based on our own experience
+p24
+aVthat when you sleep, it clears your mind,
+p25
+aVand when you don't sleep,
+p26
+aVit leaves your mind murky.
+p27
+aVBut while we know a great deal more about sleep now
+p28
+aVthan when Galen was around,
+p29
+aVwe still haven't understood why it is that sleep,
+p30
+aVof all of our activities, has this incredible
+p31
+aVrestorative function for the mind.
+p32
+aa(lp33
+VSo today I want to tell you about
+p34
+aVsome recent research
+p35
+aVthat may shed new light on this question.
+p36
+aVWe've found that sleep may actually be
+p37
+aVa kind of elegant design solution
+p38
+aVto some of the brain's most basic needs,
+p39
+aVa unique way that the brain
+p40
+aVmeets the high demands and the narrow margins
+p41
+aVthat set it apart from all the other organs of the body.
+p42
+aa(lp43
+VSo almost all the biology that we observe
+p44
+aVcan be thought of as a series of problems
+p45
+aVand their corresponding solutions,
+p46
+aVand the first problem that every organ must solve
+p47
+aVis a continuous supply of nutrients to fuel
+p48
+aVall those cells of the body.
+p49
+aVIn the brain, that is especially critical;
+p50
+aVits intense electrical activity uses up
+p51
+aVa quarter of the body's entire energy supply,
+p52
+aVeven though the brain accounts
+p53
+aVfor only about two percent of the body's mass.
+p54
+aVSo the circulatory system
+p55
+aVsolves the nutrient delivery problem
+p56
+aVby sending blood vessels to supply nutrients
+p57
+aVand oxygen to every corner of our body.
+p58
+aa(lp59
+VYou can actually see it in this video here.
+p60
+aVHere, we're imaging blood vessels
+p61
+aVin the brain of a living mouse.
+p62
+aVThe blood vessels form a complex network
+p63
+aVthat fills the entire brain volume.
+p64
+aVThey start at the surface of the brain,
+p65
+aVand then they dive down into the tissue itself,
+p66
+aVand as they spread out, they supply nutrients
+p67
+aVand oxygen to each and every cell in the brain.
+p68
+aa(lp69
+VNow, just as every cell requires
+p70
+aVnutrients to fuel it,
+p71
+aVevery cell also produces waste as a byproduct,
+p72
+aVand the clearance of that waste
+p73
+aVis the second basic problem
+p74
+aVthat each organ has to solve.
+p75
+aVThis diagram shows the body's lymphatic system,
+p76
+aVwhich has evolved to meet this need.
+p77
+aVIt's a second parallel network of vessels
+p78
+aVthat extends throughout the body.
+p79
+aVIt takes up proteins and other waste
+p80
+aVfrom the spaces between the cells,
+p81
+aVit collects them, and then dumps them into the blood
+p82
+aVso they can be disposed of.
+p83
+aa(lp84
+VBut if you look really closely at this diagram,
+p85
+aVyou'll see something
+p86
+aVthat doesn't make a lot of sense.
+p87
+aVSo if we were to zoom into this guy's head,
+p88
+aVone of the things that you would see there
+p89
+aVis that there are no lymphatic vessels in the brain.
+p90
+aVBut that doesn't make a lot of sense, does it?
+p91
+aVI mean, the brain is this intensely active organ
+p92
+aVthat produces a correspondingly large amount of waste
+p93
+aVthat must be efficiently cleared.
+p94
+aVAnd yet, it lacks lymphatic vessels, which means that
+p95
+aVthe approach that the rest of the body takes
+p96
+aVto clearing away its waste
+p97
+aVwon't work in the brain.
+p98
+aa(lp99
+VSo how, then, does the brain solve
+p100
+aVits waste clearance problem?
+p101
+aVWell, that seemingly mundane question
+p102
+aVis where our group first jumped into this story,
+p103
+aVand what we found
+p104
+aVas we dove down into the brain,
+p105
+aVdown among the neurons and the blood vessels,
+p106
+aVwas that the brain's solution
+p107
+aVto the problem of waste clearance,
+p108
+aVit was really unexpected.
+p109
+aVIt was ingenious,
+p110
+aVbut it was also beautiful.
+p111
+aVLet me tell you about what we found.
+p112
+aa(lp113
+VSo the brain has this large pool
+p114
+aVof clean, clear fluid called cerebrospinal fluid.
+p115
+aVWe call it the CSF.
+p116
+aVThe CSF fills the space that surrounds the brain,
+p117
+aVand wastes from inside the brain
+p118
+aVmake their way out to the CSF,
+p119
+aVwhich gets dumped, along with  the waste, into the blood.
+p120
+aVSo in that way, it sounds a lot like
+p121
+aVthe lymphatic system, doesn't it?
+p122
+aVBut what's interesting is that the fluid and the waste
+p123
+aVfrom inside the brain,
+p124
+aVthey don't just percolate their way randomly
+p125
+aVout to these pools of CSF.
+p126
+aVInstead, there is a specialized network of plumbing
+p127
+aVthat organizes and facilitates this process.
+p128
+aVYou can see that in these videos.
+p129
+aVHere, we're again imaging into the brain
+p130
+aVof living mice.
+p131
+aVThe frame on your left shows
+p132
+aVwhat's happening at the brain's surface,
+p133
+aVand the frame on your right shows
+p134
+aVwhat's happening down below the surface of the brain
+p135
+aVwithin the tissue itself.
+p136
+aVWe've labeled the blood vessels in red,
+p137
+aVand the CSF that's surrounding the brain
+p138
+aVwill be in green.
+p139
+aVNow, what was surprising to us
+p140
+aVwas that the fluid on the outside of the brain,
+p141
+aVit didn't stay on the outside.
+p142
+aVInstead, the CSF was pumped back into
+p143
+aVand through the brain
+p144
+aValong the outsides of the blood vessels,
+p145
+aVand as it flushed down into the brain
+p146
+aValong the outsides of these vessels,
+p147
+aVit was actually helping to clear away,
+p148
+aVto clean the waste from the spaces
+p149
+aVbetween the brain's cells.
+p150
+aVIf you think about it,
+p151
+aVusing the outsides of these blood vessels like this
+p152
+aVis a really clever design solution,
+p153
+aVbecause the brain is enclosed
+p154
+aVin a rigid skull
+p155
+aVand it's packed full of cells,
+p156
+aVso there is no extra space inside it
+p157
+aVfor a whole second set of vessels like the lymphatic system.
+p158
+aVYet the blood vessels,
+p159
+aVthey extend from the surface of the brain
+p160
+aVdown to reach every single cell in the brain,
+p161
+aVwhich means that fluid
+p162
+aVthat's traveling along the outsides of these vessels
+p163
+aVcan gain easy access to the entire brain's volume,
+p164
+aVso it's actually this really clever way
+p165
+aVto repurpose one set of vessels, the blood vessels,
+p166
+aVto take over and replace the function
+p167
+aVof a second set of vessels, the lymphatic vessels,
+p168
+aVto make it so you don't need them.
+p169
+aVAnd what's amazing is that no other organ
+p170
+aVtakes quite this approach
+p171
+aVto clearing away the waste from between its cells.
+p172
+aVThis is a solution that is entirely unique to the brain.
+p173
+aa(lp174
+VBut our most surprising finding
+p175
+aVwas that all of this,
+p176
+aVeverything I just told you about,
+p177
+aVwith all this fluid rushing through the brain,
+p178
+aVit's only happening in the sleeping brain.
+p179
+aVHere, the video on the left
+p180
+aVshows how much of the CSF is moving
+p181
+aVthrough the brain of a living mouse while it's awake.
+p182
+aVIt's almost nothing.
+p183
+aVYet in the same animal,
+p184
+aVif we wait just a little while until it's gone to sleep,
+p185
+aVwhat we see is that the CSF
+p186
+aVis rushing through the brain,
+p187
+aVand we discovered that at the same time
+p188
+aVwhen the brain goes to sleep,
+p189
+aVthe brain cells themselves seem to shrink,
+p190
+aVopening up spaces in between them,
+p191
+aVallowing fluid to rush through
+p192
+aVand allowing waste to be cleared out.
+p193
+aa(lp194
+VSo it seems that Galen may actually have been
+p195
+aVsort of on the right track when he wrote about
+p196
+aVfluid rushing through the brain
+p197
+aVwhen sleep came on.
+p198
+aVOur own research, now it's 2,000 years later,
+p199
+aVsuggests that what's happening is that
+p200
+aVwhen the brain is awake
+p201
+aVand is at its most busy,
+p202
+aVit puts off clearing away the waste
+p203
+aVfrom the spaces between its cells until later,
+p204
+aVand then, when it goes to sleep
+p205
+aVand doesn't have to be as busy,
+p206
+aVit shifts into a kind of cleaning mode
+p207
+aVto clear away the waste
+p208
+aVfrom the spaces between its cells,
+p209
+aVthe waste that's accumulated throughout the day.
+p210
+aVSo it's actually a little bit like how you or I,
+p211
+aVwe put off our household chores during the work week
+p212
+aVwhen we don't have time to get to it,
+p213
+aVand then we play catch up on all the cleaning that we have to do
+p214
+aVwhen the weekend rolls around.
+p215
+aa(lp216
+VNow, I've just talked a lot about waste clearance,
+p217
+aVbut I haven't been very specific
+p218
+aVabout the kinds of waste
+p219
+aVthat the brain needs to be clearing
+p220
+aVduring sleep in order to stay healthy.
+p221
+aVThe waste product that these recent studies
+p222
+aVfocused most on is amyloid-beta,
+p223
+aVwhich is a protein that's made in the brain all the time.
+p224
+aVMy brain's making amyloid-beta right now,
+p225
+aVand so is yours.
+p226
+aVBut in patients with Alzheimer's disease,
+p227
+aVamyloid-beta builds up and aggregates
+p228
+aVin the spaces between the brain's cells,
+p229
+aVinstead of being cleared away  like it's supposed to be,
+p230
+aVand it's this buildup of amyloid-beta
+p231
+aVthat's thought to be one of the key steps
+p232
+aVin the development of that terrible disease.
+p233
+aVSo we measured how fast amyloid-beta is cleared
+p234
+aVfrom the brain when it's awake
+p235
+aVversus when it's asleep,
+p236
+aVand we found that indeed,
+p237
+aVthe clearance of amyloid-beta
+p238
+aVis much more rapid from the sleeping brain.
+p239
+aa(lp240
+VSo if sleep, then,
+p241
+aVis part of the brain's solution
+p242
+aVto the problem of waste clearance,
+p243
+aVthen this may dramatically change how we think
+p244
+aVabout the relationship between sleep,
+p245
+aVamyloid-beta, and Alzheimer's disease.
+p246
+aVA series of recent clinical studies
+p247
+aVsuggest that among patients
+p248
+aVwho haven't yet developed Alzheimer's disease,
+p249
+aVworsening sleep quality and sleep duration
+p250
+aVare associated with a greater amount
+p251
+aVof amyloid-beta building up in the brain,
+p252
+aVand while it's important to point out
+p253
+aVthat these studies don't prove
+p254
+aVthat lack of sleep or poor sleep
+p255
+aVcause Alzheimer's disease,
+p256
+aVthey do suggest that the failure of the brain
+p257
+aVto keep its house clean
+p258
+aVby clearing away waste like amyloid-beta
+p259
+aVmay contribute to the development
+p260
+aVof conditions like Alzheimer's.
+p261
+aa(lp262
+VSo what this new research tells us, then,
+p263
+aVis that the one thing that all of you
+p264
+aValready knew about sleep,
+p265
+aVthat even Galen understood about sleep,
+p266
+aVthat it refreshes and clears the mind,
+p267
+aVmay actually be a big part
+p268
+aVof what sleep is all about.
+p269
+aVSee, you and I, we go to sleep
+p270
+aVevery single night,
+p271
+aVbut our brains, they never rest.
+p272
+aVWhile our body is still
+p273
+aVand our mind is off walking in dreams somewhere,
+p274
+aVthe elegant machinery of the brain
+p275
+aVis quietly hard at work
+p276
+aVcleaning and maintaining
+p277
+aVthis unimaginably complex machine.
+p278
+aVLike our housework,
+p279
+aVit's a dirty and a thankless job,
+p280
+aVbut it's also important.
+p281
+aVIn your house, if you stop cleaning your kitchen
+p282
+aVfor a month,
+p283
+aVyour home will become completely unlivable
+p284
+aVvery quickly.
+p285
+aVBut in the brain, the consequences
+p286
+aVof falling behind may be much greater
+p287
+aVthan the embarrassment of dirty countertops,
+p288
+aVbecause when it comes to cleaning the brain,
+p289
+aVit is the very health and function
+p290
+aVof the mind and the body that's at stake,
+p291
+aVwhich is why understanding these
+p292
+aVvery basic housekeeping functions of the brain today
+p293
+aVmay be critical for preventing and treating
+p294
+aVdiseases of the mind tomorrow.
+p295
+aa(lp296
+VThank you.
+p297
+aa(lp298
+V(Applause)
+p299
+aasS'id'
+p300
+I2103
+sS'title'
+p301
+VOne more reason to get a good night's sleep
+p302
+s.

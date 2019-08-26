@@ -1,0 +1,631 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VIt's a pleasure to be here
+p4
+aVin Edinburgh, Scotland,
+p5
+aVthe birthplace of the needle and syringe.
+p6
+aVLess than a mile from here in this direction,
+p7
+aVin 1853 a Scotsman
+p8
+aVfiled his very first patent on the needle and syringe.
+p9
+aVHis name was Alexander Wood,
+p10
+aVand it was at the Royal College of Physicians.
+p11
+aVThis is the patent.
+p12
+aVWhat blows my mind when I look at it even today
+p13
+aVis that it looks almost identical
+p14
+aVto the needle in use today.
+p15
+aVYet, it's 160 years old.
+p16
+aa(lp17
+VSo we turn to the field of vaccines.
+p18
+aVMost vaccines are delivered with
+p19
+aVthe needle and syringe,  this 160-year-old technology.
+p20
+aVAnd credit where it's due \u2014 on many levels,
+p21
+aVvaccines are a successful technology.
+p22
+aVAfter clean water and sanitation,
+p23
+aVvaccines are the one technology that has increased
+p24
+aVour life span the most.
+p25
+aVThat's a pretty hard act to beat.
+p26
+aa(lp27
+VBut just like any other technology,
+p28
+aVvaccines have their shortcomings,
+p29
+aVand the needle and syringe
+p30
+aVis a key part within that narrative \u2014
+p31
+aVthis old technology.
+p32
+aVSo let's start with the obvious:
+p33
+aVMany of us don't like the needle and syringe.
+p34
+aVI share that view.
+p35
+aVHowever, 20 percent of the population
+p36
+aVhave a thing called needle phobia.
+p37
+aVThat's more than disliking the needle;
+p38
+aVthat is actively avoiding being vaccinated
+p39
+aVbecause of needle phobia.
+p40
+aVAnd that's problematic in terms  of the rollout of vaccines.
+p41
+aa(lp42
+VNow, related to this is another key issue,
+p43
+aVwhich is needlestick injuries.
+p44
+aVAnd the WHO has figures
+p45
+aVthat suggest about 1.3 million deaths per year
+p46
+aVtake place due to cross-contamination
+p47
+aVwith needlestick injuries.
+p48
+aVThese are early deaths that take place.
+p49
+aa(lp50
+VNow, these are two things that  you probably may have heard of,
+p51
+aVbut there are two other shortcomings
+p52
+aVof the needle and syringe you  may not have heard about.
+p53
+aVOne is it could be holding back
+p54
+aVthe next generation of vaccines
+p55
+aVin terms of their immune responses.
+p56
+aVAnd the second is that it could be responsible
+p57
+aVfor the problem of the cold chain that I'll tell you about as well.
+p58
+aa(lp59
+VI'm going to tell you about some work
+p60
+aVthat my team and I are doing in Australia
+p61
+aVat the University of Queensland
+p62
+aVon a technology designed to  tackle those four problems.
+p63
+aVAnd that technology is called the Nanopatch.
+p64
+aVNow, this is a specimen of the Nanopatch.
+p65
+aVTo the naked eye
+p66
+aVit just looks like a square
+p67
+aVsmaller than a postage stamp,
+p68
+aVbut under a microscope
+p69
+aVwhat you see are thousands of tiny projections
+p70
+aVthat are invisible to the human eye.
+p71
+aVAnd there's about 4,000 projections
+p72
+aVon this particular square compared to the needle.
+p73
+aVAnd I've designed those projections
+p74
+aVto serve a key role, which is to  work with the skin's immune system.
+p75
+aVSo that's a very important function
+p76
+aVtied in with the Nanopatch.
+p77
+aa(lp78
+VNow we make the Nanopatch
+p79
+aVwith a technique
+p80
+aVcalled deep reactive ion etching.
+p81
+aVAnd this particular technique  is one that's been borrowed
+p82
+aVfrom the semiconductor industry,
+p83
+aVand therefore is low cost
+p84
+aVand can be rolled out in large numbers.
+p85
+aa(lp86
+VNow we dry-coat vaccines to  the projections of the Nanopatch
+p87
+aVand apply it to the skin.
+p88
+aVNow, the simplest form of application
+p89
+aVis using our finger,
+p90
+aVbut our finger has some limitations,
+p91
+aVso we've devised an applicator.
+p92
+aVAnd it's a very simple device \u2014
+p93
+aVyou could call it a sophisticated finger.
+p94
+aVIt's a spring-operated device.
+p95
+aVWhat we do is when we apply  the Nanopatch to the skin as so \u2014
+p96
+aV(Click) \u2014
+p97
+aVimmediately a few things happen.
+p98
+aVSo firstly, the projections on the Nanopatch
+p99
+aVbreach through the tough outer layer
+p100
+aVand the vaccine is very quickly released \u2014
+p101
+aVwithin less than a minute, in fact.
+p102
+aVThen we can take the Nanopatch off
+p103
+aVand discard it.
+p104
+aVAnd indeed we can make  a reuse of the applicator itself.
+p105
+aa(lp106
+VSo that gives you an idea of the Nanopatch,
+p107
+aVand immediately you can see some key advantages.
+p108
+aVWe've talked about it being needle-free \u2014
+p109
+aVthese are projections that you can't even see \u2014
+p110
+aVand, of course, we get around
+p111
+aVthe needle phobia issue as well.
+p112
+aa(lp113
+VNow, if we take a step back and think about
+p114
+aVthese other two really important advantages:
+p115
+aVOne is improved immune  responses through delivery,
+p116
+aVand the second is getting rid of the cold chain.
+p117
+aa(lp118
+VSo let's start with the first one,  this immunogenicity idea.
+p119
+aVIt takes a little while to get our heads around,
+p120
+aVbut I'll try to explain it in simple terms.
+p121
+aVSo I'll take a step back and explain to you
+p122
+aVhow vaccines work in a simple way.
+p123
+aVSo vaccines work by introducing into our body
+p124
+aVa thing called an antigen
+p125
+aVwhich is a safe form of a germ.
+p126
+aVNow that safe germ, that antigen,
+p127
+aVtricks our body into mounting an immune response,
+p128
+aVlearning and remembering  how to deal with intruders.
+p129
+aVWhen the real intruder comes along
+p130
+aVthe body quickly mounts an immune response
+p131
+aVto deal with that vaccine
+p132
+aVand neutralizes the infection.
+p133
+aVSo it does that well.
+p134
+aa(lp135
+VNow, the way it's done today  with the needle and syringe,
+p136
+aVmost vaccines are delivered that way \u2014
+p137
+aVwith this old technology and the needle.
+p138
+aVBut it could be argued that the needle  is holding back our immune responses;
+p139
+aVit's missing our immune sweet spot in the skin.
+p140
+aVTo describe this idea,
+p141
+aVwe need to take a journey through the skin,
+p142
+aVstarting with one of those projections
+p143
+aVand applying the Nanopatch to the skin.
+p144
+aVAnd we see this kind of data.
+p145
+aVNow, this is real data \u2014
+p146
+aVthat thing that we can see there is one projection
+p147
+aVfrom the Nanopatch that's been applied to the skin
+p148
+aVand those colors are different layers.
+p149
+aVNow, to give you an idea of scale,
+p150
+aVif the needle was shown here, it would be too big.
+p151
+aVIt would be 10 times bigger
+p152
+aVthan the size of that screen, going 10 times deeper as well.
+p153
+aVIt's off the grid entirely.
+p154
+aVYou can see immediately that we  have those projections in the skin.
+p155
+aVThat red layer is a tough outer layer of dead skin,
+p156
+aVbut the brown layer and the magenta layer
+p157
+aVare jammed full of immune cells.
+p158
+aVAs one example, in the brown layer
+p159
+aVthere's a certain type of cell  called a Langerhans cell \u2014
+p160
+aVevery square millimeter of our body
+p161
+aVis jammed full of those Langerhans cells,
+p162
+aVthose immune cells, and  there's others shown as well
+p163
+aVthat we haven't stained in this image.
+p164
+aVBut you can immediately see that the Nanopatch
+p165
+aVachieves that penetration indeed.
+p166
+aVWe target thousands upon thousands  of these particular cells
+p167
+aVjust residing within a hair's width
+p168
+aVof the surface of the skin.
+p169
+aa(lp170
+VNow, as the guy that's invented this thing and designed it to do that,
+p171
+aVI found that exciting. But so what?
+p172
+aVSo what if you've targeted cells?
+p173
+aVIn the world of vaccines, what does that mean?
+p174
+aVThe world of vaccines is getting better.
+p175
+aVIt's getting more systematic.
+p176
+aVHowever, you still don't really know
+p177
+aVif a vaccine is going to work
+p178
+aVuntil you roll your sleeves up
+p179
+aVand vaccinate and wait.
+p180
+aVIt's a gambler's game even today.
+p181
+aa(lp182
+VSo, we had to do that gamble.
+p183
+aVWe obtained an influenza vaccine,
+p184
+aVwe applied it to our Nanopatches
+p185
+aVand we applied the Nanopatches to the skin,
+p186
+aVand we waited \u2014
+p187
+aVand this is in the live animal.
+p188
+aVWe waited a month,
+p189
+aVand this is what we found out.
+p190
+aVThis is a data slide showing the immune responses
+p191
+aVthat we've generated with a Nanopatch
+p192
+aVcompared to the needle and syringe into muscle.
+p193
+aVSo on the horizontal axis we have  the dose shown in nanograms.
+p194
+aVOn the vertical axis we have  the immune response generated,
+p195
+aVand that dashed line indicates  the protection threshold.
+p196
+aVIf we're above that line it's considered protective;
+p197
+aVif we're below that line it's not.
+p198
+aVSo the red line is mostly below that curve
+p199
+aVand indeed there's only one point that  is achieved with the needle that's protective,
+p200
+aVand that's with a high dose of 6,000 nanograms.
+p201
+aVBut notice immediately the distinctly different curve
+p202
+aVthat we achieve with the blue line.
+p203
+aVThat's what's achieved with the Nanopatch;
+p204
+aVthe delivered dose of the Nanopatch is
+p205
+aVa completely different immunogenicity curve.
+p206
+aVThat's a real fresh opportunity.
+p207
+aVSuddenly we have a brand new lever
+p208
+aVin the world of vaccines.
+p209
+aVWe can push it one way,
+p210
+aVwhere we can take a vaccine  that works but is too expensive
+p211
+aVand can get protection
+p212
+aVwith a hundredth of the dose  compared to the needle.
+p213
+aVThat can take a vaccine that's suddenly  10 dollars down to 10 cents,
+p214
+aVand that's particularly important  within the developing world.
+p215
+aa(lp216
+VBut there's another angle to this as well \u2014
+p217
+aVyou can take vaccines that currently don't work
+p218
+aVand get them over that line
+p219
+aVand get them protective.
+p220
+aVAnd certainly in the world of vaccines
+p221
+aVthat can be important.
+p222
+aVLet's consider the big three:
+p223
+aVHIV, malaria, tuberculosis.
+p224
+aVThey're responsible for about  7 million deaths per year,
+p225
+aVand there is no adequate vaccination  method for any of those.
+p226
+aVSo potentially, with this new lever  that we have with the Nanopatch,
+p227
+aVwe can help make that happen.
+p228
+aVWe can push that lever to help get those  candidate vaccines over the line.
+p229
+aVNow, of course, we've worked within my lab
+p230
+aVwith many other vaccines that have attained
+p231
+aVsimilar responses and similar curves to this,
+p232
+aVwhat we've achieved with influenza.
+p233
+aa(lp234
+VI'd like to now switch to talk about
+p235
+aVanother key shortcoming of today's vaccines,
+p236
+aVand that is the need to maintain the cold chain.
+p237
+aVAs the name suggests \u2014 the cold chain \u2014
+p238
+aVit's the requirements of keeping  a vaccine right from production
+p239
+aVall the way through to when the vaccine is applied,
+p240
+aVto keep it refrigerated.
+p241
+aVNow, that presents some logistical challenges
+p242
+aVbut we have ways to do it.
+p243
+aVThis is a slightly extreme case in point
+p244
+aVbut it helps illustrate the logistical challenges,
+p245
+aVin particular in resource-poor settings,
+p246
+aVof what's required to get vaccines
+p247
+aVrefrigerated and maintain the cold chain.
+p248
+aVIf the vaccine is too warm the vaccine breaks down,
+p249
+aVbut interestingly it can be too cold
+p250
+aVand the vaccine can break down as well.
+p251
+aa(lp252
+VNow, the stakes are very high.
+p253
+aVThe WHO estimates that within Africa,
+p254
+aVup to half the vaccines used there
+p255
+aVare considered to not be working properly
+p256
+aVbecause at some point the  cold chain has fallen over.
+p257
+aVSo it's a big problem, and it's tied  in with the needle and syringe
+p258
+aVbecause it's a liquid form vaccine, and  when it's liquid it needs the refrigeration.
+p259
+aa(lp260
+VA key attribute of our Nanopatch
+p261
+aVis that the vaccine is dry,
+p262
+aVand when it's dry it doesn't need refrigeration.
+p263
+aVWithin my lab we've shown that we can keep
+p264
+aVthe vaccine stored at 23 degrees Celsius
+p265
+aVfor more than a year without  any loss in activity at all.
+p266
+aVThat's an important improvement.
+p267
+aV(Applause)
+p268
+aVWe're delighted about it as well.
+p269
+aVAnd the thing about it is that we have well and truly proven
+p270
+aVthe Nanopatch within the laboratory setting.
+p271
+aVAnd as a scientist, I love that and I love science.
+p272
+aVHowever, as an engineer,
+p273
+aVas a biomedical engineer
+p274
+aVand also as a human being,
+p275
+aVI'm not going to be satisfied
+p276
+aVuntil we've rolled this thing  out, taken it out of the lab
+p277
+aVand got it to people in large numbers
+p278
+aVand particularly the people that need it the most.
+p279
+aa(lp280
+VSo we've commenced this particular journey,
+p281
+aVand we've commenced this  journey in an unusual way.
+p282
+aVWe've started with Papua New Guinea.
+p283
+aa(lp284
+VNow, Papua New Guinea is an example  of a developing world country.
+p285
+aVIt's about the same size as France,
+p286
+aVbut it suffers from many of the key barriers
+p287
+aVexisting within the world of today's vaccines.
+p288
+aVThere's the logistics:
+p289
+aVWithin this country there are only 800  refrigerators to keep vaccines chilled.
+p290
+aVMany of them are old, like this one in Port Moresby, many of them are breaking down
+p291
+aVand many are not in the Highlands  where they are required.
+p292
+aVThat's a challenge.
+p293
+aVBut also, Papua New Guinea has the  world's highest incidence of HPV,
+p294
+aVhuman papillomavirus, the  cervical cancer [risk factor].
+p295
+aVYet, that vaccine is not available in large numbers
+p296
+aVbecause it's too expensive.
+p297
+aVSo for those two reasons, with  the attributes of the Nanopatch,
+p298
+aVwe've got into the field and  worked with the Nanopatch,
+p299
+aVand taken it to Papua New Guinea
+p300
+aVand we'll be following that up shortly.
+p301
+aa(lp302
+VNow, doing this kind of work is not easy.
+p303
+aVIt's challenging,
+p304
+aVbut there's nothing else in  the world I'd rather be doing.
+p305
+aVAnd as we look ahead
+p306
+aVI'd like to share with you a thought:
+p307
+aVIt's the thought of a future where
+p308
+aVthe 17 million deaths per year
+p309
+aVthat we currently have due to infectious disease
+p310
+aVis a historical footnote.
+p311
+aVAnd it's a historical footnote that has been achieved
+p312
+aVby improved, radically improved vaccines.
+p313
+aVNow standing here today in front of you
+p314
+aVat the birthplace of the needle and syringe,
+p315
+aVa device that's 160 years old,
+p316
+aVI'm presenting to you an alternative approach
+p317
+aVthat could really help make that happen \u2014
+p318
+aVand it's the Nanopatch with its attributes  of being needle-free, pain-free,
+p319
+aVthe ability for removing the cold chain and improving the immunogenicity.
+p320
+aVThank you.
+p321
+aV(Applause)
+p322
+aasS'id'
+p323
+I1905
+sS'title'
+p324
+VDemo: A needle-free vaccine patch that's safer and way cheaper
+p325
+s.

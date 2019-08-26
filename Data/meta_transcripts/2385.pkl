@@ -1,0 +1,567 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhat was the most difficult job you ever did?
+p4
+aVWas it working in the sun?
+p5
+aVWas it working to provide food for a family or a community?
+p6
+aVWas it working days and nights trying to protect lives and property?
+p7
+aVWas it working alone
+p8
+aVor working on a project that wasn't guaranteed to succeed,
+p9
+aVbut that might improve human health or save a life?
+p10
+aVWas it working to build something, create something, make a work of art?
+p11
+aVWas it work for which you were never sure
+p12
+aVyou were fully understood or appreciated?
+p13
+aVThe people in our communities who do these jobs
+p14
+aVdeserve our attention, our love and our deepest support.
+p15
+aa(lp16
+VBut people aren't the only ones in our communities
+p17
+aVwho do these difficult jobs.
+p18
+aVThese jobs are also done by the plants, the animals
+p19
+aVand the ecosystems on our planet,
+p20
+aVincluding the ecosystems I study: the tropical coral reefs.
+p21
+aVCoral reefs are farmers.
+p22
+aVThey provide food, income and food security
+p23
+aVfor hundreds of millions of people around the world.
+p24
+aVCoral reefs are security guards.
+p25
+aVThe structures that they build protect our shorelines
+p26
+aVfrom storm surge and waves,
+p27
+aVand the biological systems that they house filter the water
+p28
+aVand make it safer for us to work and play.
+p29
+aVCoral reefs are chemists.
+p30
+aVThe molecules that we're discovering on coral reefs are increasingly important
+p31
+aVin the search for new antibiotics and new cancer drugs.
+p32
+aVAnd coral reefs are artists.
+p33
+aVThe structures that they build
+p34
+aVare some of the most beautiful things on planet Earth.
+p35
+aVAnd this beauty is the foundation of the tourism industry
+p36
+aVin many countries with few or little other natural resources.
+p37
+aa(lp38
+VSo for all of these reasons, all of these ecosystem services,
+p39
+aVeconomists estimate the value of the world's coral reefs
+p40
+aVin the hundreds of billions of dollars per year.
+p41
+aVAnd yet despite all that hard work being done for us
+p42
+aVand all that wealth that we gain,
+p43
+aVwe have done almost everything we possibly could to destroy that.
+p44
+aVWe have taken the fish out of the oceans
+p45
+aVand we have added in fertilizer, sewage,
+p46
+aVdiseases, oil, pollution, sediments.
+p47
+aVWe have trampled the reefs physically with our boats, our fins, our bulldozers,
+p48
+aVand we have changed the chemistry of the entire sea,
+p49
+aVwarmed the waters and made storms worse.
+p50
+aVAnd these would all be bad on their own,
+p51
+aVbut these threats magnify each other
+p52
+aVand compound one another and make each other worse.
+p53
+aa(lp54
+VI'll give you an example.
+p55
+aVWhere I live and work, in Curaçao, a tropical storm went by a few years ago.
+p56
+aVAnd on the eastern end of the island,
+p57
+aVwhere the reefs are intact and thriving,
+p58
+aVyou could barely tell a tropical storm had passed.
+p59
+aVBut in town, where corals had died from overfishing, from pollution,
+p60
+aVthe tropical storm picked up the dead corals
+p61
+aVand used them as bludgeons to kill the corals that were left.
+p62
+aVThis is a coral that I studied during my PhD \u2014
+p63
+aVI got to know it quite well.
+p64
+aVAnd after this storm took off half of its tissue,
+p65
+aVit became infested with algae,
+p66
+aVthe algae overgrew the tissue and that coral died.
+p67
+aVThis magnification of threats, this compounding of factors
+p68
+aVis what Jeremy Jackson describes as the "slippery slope to slime."
+p69
+aVIt's hardly even a metaphor because many of our reefs now
+p70
+aVare literally bacteria and algae and slime.
+p71
+aa(lp72
+VNow, this is the part of the talk
+p73
+aVwhere you may expect me to launch into my plea
+p74
+aVfor us to all save the coral reefs.
+p75
+aVBut I have a confession to make:
+p76
+aVthat phrase drives me nuts.
+p77
+aVWhether I see it in a tweet, in a news headline
+p78
+aVor the glossy pages of a conservation brochure,
+p79
+aVthat phrase bothers me,
+p80
+aVbecause we as conservationists have been sounding the alarms
+p81
+aVabout the death of coral reefs for decades.
+p82
+aVAnd yet, almost everyone I meet, no matter how educated,
+p83
+aVis not sure what a coral is or where they come from.
+p84
+aVHow would we get someone to care about the world's coral reefs
+p85
+aVwhen it's an abstract thing they can barely understand?
+p86
+aVIf they don't understand what a coral is or where it comes from,
+p87
+aVor how funny or interesting or beautiful it is,
+p88
+aVwhy would we expect them to care about saving them?
+p89
+aa(lp90
+VSo let's change that.
+p91
+aVWhat is a coral and where does it come from?
+p92
+aVCorals are born in a number of different ways,
+p93
+aVbut most often by mass spawning: all of the individuals of a single species
+p94
+aVon one night a year,
+p95
+aVreleasing all the eggs they've made that year
+p96
+aVinto the water column,
+p97
+aVpackaged into bundles with sperm cells.
+p98
+aVAnd those bundles go to the surface of the ocean and break apart.
+p99
+aVAnd hopefully \u2014 hopefully \u2014 at the surface of the ocean,
+p100
+aVthey meet the eggs and sperm from other corals.
+p101
+aVAnd that is why you need lots of corals on a coral reef \u2014
+p102
+aVso that all of their eggs can meet their match at the surface.
+p103
+aVWhen they're fertilized, they do what any other animal egg does:
+p104
+aVdivides in half again and again and again.
+p105
+aVTaking these photos under the microscope every year
+p106
+aVis one of my favorite and most magical moments of the year.
+p107
+aVAt the end of all this cell division, they turn into a swimming larva \u2014
+p108
+aVa little tiny blob of fat the size of a poppy seed,
+p109
+aVbut with all of the sensory systems that we have.
+p110
+aVThey can sense color and light, textures, chemicals, pH.
+p111
+aVThey can even feel pressure waves; they can hear sound.
+p112
+aVAnd they use those talents
+p113
+aVto search the bottom of the reef for a place to attach
+p114
+aVand live the rest of their lives.
+p115
+aa(lp116
+VSo imagine finding a place where you would live the rest of your life
+p117
+aVwhen you were just two days old.
+p118
+aVThey attach in the place they find most suitable,
+p119
+aVthey build a skeleton underneath themselves,
+p120
+aVthey build a mouth and tentacles,
+p121
+aVand then they begin the difficult work of building the world's coral reefs.
+p122
+aVOne coral polyp will divide itself again and again and again,
+p123
+aVleaving a limestone skeleton underneath itself
+p124
+aVand growing up toward the sun.
+p125
+aVGiven hundreds of years and many species,
+p126
+aVwhat you get is a massive limestone structure
+p127
+aVthat can be seen from space in many cases,
+p128
+aVcovered by a thin skin of these hardworking animals.
+p129
+aVNow, there are only a few hundred species of corals on the planet, maybe 1,000.
+p130
+aVBut these systems house millions and millions of other species,
+p131
+aVand that diversity is what stabilizes the systems,
+p132
+aVand it's where we're finding our new medicines.
+p133
+aVIt's how we find new sources of food.
+p134
+aVI'm lucky enough to work on the island of Curaçao,
+p135
+aVwhere we still have reefs that look like this.
+p136
+aVBut, indeed, much of the Caribbean and much of our world
+p137
+aVis much more like this.
+p138
+aa(lp139
+VScientists have studied in increasing detail
+p140
+aVthe loss of the world's coral reefs,
+p141
+aVand they have documented with increasing certainty the causes.
+p142
+aVBut in my research, I'm not interested in looking backward.
+p143
+aVMy colleagues and I in Curaçao are interested in looking forward
+p144
+aVat what might be.
+p145
+aVAnd we have the tiniest reason to be optimistic.
+p146
+aVBecause even in some of these reefs
+p147
+aVthat we probably could have written off long ago,
+p148
+aVwe sometimes see baby corals arrive and survive anyway.
+p149
+aVAnd we're starting to think that baby corals may have the ability
+p150
+aVto adjust to some of the conditions that the adults couldn't.
+p151
+aVThey may be able to adjust
+p152
+aVever so slightly more readily to this human planet.
+p153
+aVSo in the research I do with my colleagues in Curaçao,
+p154
+aVwe try to figure out what a baby coral needs
+p155
+aVin that critical early stage,
+p156
+aVwhat it's looking for
+p157
+aVand how we can try to help it through that process.
+p158
+aVI'm going to show you three examples of the work we've done
+p159
+aVto try to answer those questions.
+p160
+aa(lp161
+VA few years ago we took a 3D printer and we made coral choice surveys \u2014
+p162
+aVdifferent colors and different textures,
+p163
+aVand we simply asked the coral where they preferred to settle.
+p164
+aVAnd we found that corals, even without the biology involved,
+p165
+aVstill prefer white and pink, the colors of a healthy reef.
+p166
+aVAnd they prefer crevices and grooves and holes,
+p167
+aVwhere they will be safe from being trampled
+p168
+aVor eaten by a predator.
+p169
+aVSo we can use this knowledge,
+p170
+aVwe can go back and say we need to restore those factors \u2014
+p171
+aVthat pink, that white, those crevices, those hard surfaces \u2014
+p172
+aVin our conservation projects.
+p173
+aVWe can also use that knowledge
+p174
+aVif we're going to put something underwater, like a sea wall or a pier.
+p175
+aVWe can choose to use the materials and colors and textures
+p176
+aVthat might bias the system back toward those corals.
+p177
+aVNow in addition to the surfaces,
+p178
+aVwe also study the chemical and microbial signals
+p179
+aVthat attract corals to reefs.
+p180
+aVStarting about six years ago, I began culturing bacteria
+p181
+aVfrom surfaces where corals had settled.
+p182
+aVAnd I tried those one by one by one,
+p183
+aVlooking for the bacteria that would convince corals to settle and attach.
+p184
+aVAnd we now have many bacterial strains in our freezer
+p185
+aVthat will reliably cause corals
+p186
+aVto go through that settlement and attachment process.
+p187
+aVSo as we speak,
+p188
+aVmy colleagues in Curaçao are testing those bacteria
+p189
+aVto see if they'll help us raise more coral settlers in the lab,
+p190
+aVand to see if those coral settlers will survive better
+p191
+aVwhen we put them back underwater.
+p192
+aa(lp193
+VNow in addition to these tools, we also try to uncover the mysteries
+p194
+aVof species that are under-studied.
+p195
+aVThis is one of my favorite corals, and always has been:
+p196
+aVdendrogyra cylindrus, the pillar coral.
+p197
+aVI love it because it makes this ridiculous shape,
+p198
+aVbecause its tentacles are fat and look fuzzy
+p199
+aVand because it's rare.
+p200
+aVFinding one of these on a reef is a treat.
+p201
+aVIn fact, it's so rare,
+p202
+aVthat last year it was listed as a threatened species
+p203
+aVon the endangered species list.
+p204
+aVAnd this was in part because in over 30 years of research surveys,
+p205
+aVscientists had never found a baby pillar coral.
+p206
+aVWe weren't even sure if they could still reproduce,
+p207
+aVor if they were still reproducing.
+p208
+aa(lp209
+VSo four years ago, we started following these at night
+p210
+aVand watching to see if we could figure out when they spawn in Curaçao.
+p211
+aVWe got some good tips from our colleagues in Florida,
+p212
+aVwho had seen one in 2007, one in 2008,
+p213
+aVand eventually we figured out when they spawn in Curaçao
+p214
+aVand we caught it.
+p215
+aVHere's a female on the left with some eggs in her tissue,
+p216
+aVabout to release them into the seawater.
+p217
+aVAnd here's a male on the right, releasing sperm.
+p218
+aVWe collected this, we got it back to the lab, we got it to fertilize
+p219
+aVand we got baby pillar corals swimming in our lab.
+p220
+aVThanks to the work of our scientific aunts and uncles,
+p221
+aVand thanks to the 10 years of practice we've had in Curaçao
+p222
+aVat raising other coral species,
+p223
+aVwe got some of those larvae to go through the rest of the process
+p224
+aVand settle and attach,
+p225
+aVand turn into metamorphosed corals.
+p226
+aVSo this is the first pillar coral baby that anyone ever saw.
+p227
+aa(lp228
+V(Applause)
+p229
+aa(lp230
+VAnd I have to say \u2014 if you think baby pandas are cute,
+p231
+aVthis is cuter.
+p232
+aa(lp233
+V(Laughter)
+p234
+aa(lp235
+VSo we're starting to figure out the secrets to this process,
+p236
+aVthe secrets of coral reproduction and how we might help them.
+p237
+aVAnd this is true all around the world;
+p238
+aVscientists are figuring out new ways to handle their embryos,
+p239
+aVto get them to settle,
+p240
+aVmaybe even figuring out the methods to preserve them at low temperatures,
+p241
+aVso that we can preserve their genetic diversity
+p242
+aVand work with them more often.
+p243
+aVBut this is still so low-tech.
+p244
+aVWe are limited by the space on our bench, the number of hands in the lab
+p245
+aVand the number of coffees we can drink in any given hour.
+p246
+aa(lp247
+VNow, compare that to our other crises
+p248
+aVand our other areas of concern as a society.
+p249
+aVWe have advanced medical technology, we have defense technology,
+p250
+aVwe have scientific technology,
+p251
+aVwe even have advanced technology for art.
+p252
+aVBut our technology for conservation is behind.
+p253
+aVThink back to the most difficult job you ever did.
+p254
+aVMany of you would say it was being a parent.
+p255
+aVMy mother described being a parent
+p256
+aVas something that makes your life far more amazing and far more difficult
+p257
+aVthan you could've ever possibly imagined.
+p258
+aVI've been trying to help corals become parents for over 10 years now.
+p259
+aVAnd watching the wonder of life
+p260
+aVhas certainly filled me with amazement to the core of my soul.
+p261
+aVBut I've also seen how difficult it is for them to become parents.
+p262
+aVThe pillar corals spawned again two weeks ago,
+p263
+aVand we collected their eggs and brought them back to the lab.
+p264
+aVAnd here you see one embryo dividing,
+p265
+aValongside 14 eggs that didn't fertilize
+p266
+aVand will blow up.
+p267
+aVThey'll be infected with bacteria, they will explode
+p268
+aVand those bacteria will threaten the life of this one embryo
+p269
+aVthat has a chance.
+p270
+aVWe don't know if it was our handling methods that went wrong
+p271
+aVand we don't know
+p272
+aVif it was just this coral on this reef, always suffering from low fertility.
+p273
+aVWhatever the cause,
+p274
+aVwe have much more work to do before we can use baby corals
+p275
+aVto grow or fix or, yes, maybe save coral reefs.
+p276
+aa(lp277
+VSo never mind that they're worth hundreds of billions of dollars.
+p278
+aVCoral reefs are hardworking animals and plants and microbes and fungi.
+p279
+aVThey're providing us with art and food and medicine.
+p280
+aVAnd we almost took out an entire generation of corals.
+p281
+aVBut a few made it anyway, despite our best efforts,
+p282
+aVand now it's time for us to thank them for the work they did
+p283
+aVand give them every chance they have to raise the coral reefs of the future,
+p284
+aVtheir coral babies.
+p285
+aa(lp286
+VThank you so much.
+p287
+aa(lp288
+V(Applause)
+p289
+aasS'id'
+p290
+I2385
+sS'title'
+p291
+VHow we're growing baby corals to rebuild reefs
+p292
+s.

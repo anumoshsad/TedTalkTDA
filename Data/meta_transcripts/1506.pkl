@@ -1,0 +1,494 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VSo, how many of you have ever
+p4
+aVgotten behind the wheel of a car
+p5
+aVwhen you really shouldn't have been driving?
+p6
+aVMaybe you're out on the road for a long day,
+p7
+aVand you just wanted to get home.
+p8
+aVYou were tired, but you felt you could drive a few more miles.
+p9
+aVMaybe you thought,
+p10
+aVI've had less to drink than everybody else,
+p11
+aVI should be the one to go home.
+p12
+aVOr maybe your mind was just entirely elsewhere.
+p13
+aa(lp14
+VDoes this sound familiar to you?
+p15
+aVNow, in those situations, wouldn't it be great
+p16
+aVif there was a button on your dashboard
+p17
+aVthat you could push, and the car would get you home safely?
+p18
+aVNow, that's been the promise of the self-driving car,
+p19
+aVthe autonomous vehicle, and it's been the dream
+p20
+aVsince at least 1939, when General Motors showcased
+p21
+aVthis idea at their Futurama booth at the World's Fair.
+p22
+aa(lp23
+VNow, it's been one of those dreams
+p24
+aVthat's always seemed about 20 years in the future.
+p25
+aVNow, two weeks ago, that dream took a step forward,
+p26
+aVwhen the state of Nevada granted Google's self-driving car
+p27
+aVthe very first license for an autonomous vehicle,
+p28
+aVclearly establishing that it's legal for them
+p29
+aVto test it on the roads in Nevada.
+p30
+aVNow, California's considering similar legislation,
+p31
+aVand this would make sure that the autonomous car
+p32
+aVis not one of those things that has to stay in Vegas.
+p33
+aa(lp34
+V(Laughter)
+p35
+aa(lp36
+VNow, in my lab at Stanford, we've been working on
+p37
+aVautonomous cars too, but with a slightly different spin
+p38
+aVon things. You see, we've been developing robotic race cars,
+p39
+aVcars that can actually push themselves to the very limits
+p40
+aVof physical performance.
+p41
+aa(lp42
+VNow, why would we want to do such a thing?
+p43
+aVWell, there's two really good reasons for this.
+p44
+aVFirst, we believe that before people turn over control
+p45
+aVto an autonomous car, that autonomous car should be
+p46
+aVat least as good as the very best human drivers.
+p47
+aVNow, if you're like me, and the other 70 percent of the population
+p48
+aVwho know that we are above-average drivers,
+p49
+aVyou understand that's a very high bar.
+p50
+aVThere's another reason as well.
+p51
+aVJust like race car drivers can use all of the friction
+p52
+aVbetween the tire and the road,
+p53
+aVall of the car's capabilities to go as fast as possible,
+p54
+aVwe want to use all of those capabilities to avoid
+p55
+aVany accident we can.
+p56
+aa(lp57
+VNow, you may push the car to the limits
+p58
+aVnot because you're driving too fast,
+p59
+aVbut because you've hit an icy patch of road,
+p60
+aVconditions have changed.
+p61
+aVIn those situations, we want a car
+p62
+aVthat is capable enough to avoid any accident
+p63
+aVthat can physically be avoided.
+p64
+aa(lp65
+VI must confess, there's kind of a third motivation as well.
+p66
+aVYou see, I have a passion for racing.
+p67
+aVIn the past, I've been a race car owner,
+p68
+aVa crew chief and a driving coach,
+p69
+aValthough maybe not at the level that you're currently expecting.
+p70
+aVOne of the things that we've developed in the lab \u2014
+p71
+aVwe've developed several vehicles \u2014
+p72
+aVis what we believe is the world's first
+p73
+aVautonomously drifting car.
+p74
+aVIt's another one of those categories
+p75
+aVwhere maybe there's not a lot of competition.
+p76
+aa(lp77
+V(Laughter)
+p78
+aa(lp79
+VBut this is P1. It's an entirely student-built electric vehicle,
+p80
+aVwhich through using its rear-wheel drive
+p81
+aVand front-wheel steer-by-wire
+p82
+aVcan drift around corners.
+p83
+aVIt can get sideways like a rally car driver,
+p84
+aValways able to take the tightest curve,
+p85
+aVeven on slippery, changing surfaces,
+p86
+aVnever spinning out.
+p87
+aa(lp88
+VWe've also worked with Volkswagen Oracle,
+p89
+aVon Shelley, an autonomous race car that has raced
+p90
+aVat 150 miles an hour through the Bonneville Salt Flats,
+p91
+aVgone around Thunderhill Raceway Park in the sun,
+p92
+aVthe wind and the rain,
+p93
+aVand navigated the 153 turns and 12.4 miles
+p94
+aVof the Pikes Peak Hill Climb route
+p95
+aVin Colorado with nobody at the wheel.
+p96
+aa(lp97
+V(Laughter)
+p98
+aa(lp99
+V(Applause)
+p100
+aa(lp101
+VI guess it goes without saying that we've had a lot of fun
+p102
+aVdoing this.
+p103
+aVBut in fact, there's something else that we've developed
+p104
+aVin the process of developing these autonomous cars.
+p105
+aVWe have developed a tremendous appreciation
+p106
+aVfor the capabilities of human race car drivers.
+p107
+aVAs we've looked at the question of how well do these cars perform,
+p108
+aVwe wanted to compare them to our human counterparts.
+p109
+aVAnd we discovered their human counterparts are amazing.
+p110
+aVNow, we can take a map of a race track,
+p111
+aVwe can take a mathematical model of a car,
+p112
+aVand with some iteration, we can actually find
+p113
+aVthe fastest way around that track.
+p114
+aVWe line that up with data that we record
+p115
+aVfrom a professional driver,
+p116
+aVand the resemblance is absolutely remarkable.
+p117
+aa(lp118
+VYes, there are subtle differences here,
+p119
+aVbut the human race car driver is able to go out
+p120
+aVand drive an amazingly fast line,
+p121
+aVwithout the benefit of an algorithm that compares
+p122
+aVthe trade-off between going as fast as possible
+p123
+aVin this corner, and shaving a little bit of time
+p124
+aVoff of the straight over here.
+p125
+aVNot only that, they're able to do it lap
+p126
+aVafter lap after lap.
+p127
+aVThey're able to go out and consistently do this,
+p128
+aVpushing the car to the limits every single time.
+p129
+aVIt's extraordinary to watch.
+p130
+aVYou put them in a new car,
+p131
+aVand after a few laps, they've found the fastest line in that car,
+p132
+aVand they're off to the races.
+p133
+aa(lp134
+VIt really makes you think,
+p135
+aVwe'd love to know what's going on inside their brain.
+p136
+aVSo as researchers, that's what we decided to find out.
+p137
+aVWe decided to instrument not only the car,
+p138
+aVbut also the race car driver,
+p139
+aVto try to get a glimpse into what was going on
+p140
+aVin their head as they were doing this.
+p141
+aVNow, this is Dr. Lene Harbott applying electrodes
+p142
+aVto the head of John Morton.
+p143
+aVJohn Morton is a former Can-Am and IMSA driver,
+p144
+aVwho's also a class champion at Le Mans.
+p145
+aVFantastic driver, and very willing to put up with graduate students
+p146
+aVand this sort of research.
+p147
+aVShe's putting electrodes on his head
+p148
+aVso that we can monitor the electrical activity
+p149
+aVin John's brain as he races around the track.
+p150
+aa(lp151
+VNow, clearly we're not going to put a couple of electrodes on his head
+p152
+aVand understand exactly what all of his thoughts are on the track.
+p153
+aVHowever, neuroscientists have identified certain patterns
+p154
+aVthat let us tease out some very important aspects of this.
+p155
+aVFor instance, the resting brain
+p156
+aVtends to generate a lot of alpha waves.
+p157
+aVIn contrast, theta waves are associated with
+p158
+aVa lot of cognitive activity, like visual processing,
+p159
+aVthings where the driver is thinking quite a bit.
+p160
+aVNow, we can measure this,
+p161
+aVand we can look at the relative power
+p162
+aVbetween the theta waves and the alpha waves.
+p163
+aVThis gives us a measure of mental workload,
+p164
+aVhow much the driver is actually challenged cognitively
+p165
+aVat any point along the track.
+p166
+aa(lp167
+VNow, we wanted to see if we could actually record this
+p168
+aVon the track, so we headed down south to Laguna Seca.
+p169
+aVLaguna Seca is a legendary raceway
+p170
+aVabout halfway between Salinas and Monterey.
+p171
+aVIt has a curve there called the Corkscrew.
+p172
+aVNow, the Corkscrew is a chicane, followed by a quick
+p173
+aVright-handed turn as the road drops three stories.
+p174
+aVNow, the strategy for driving this as explained to me was,
+p175
+aVyou aim for the bush in the distance,
+p176
+aVand as the road falls away, you realize it was actually the top of a tree.
+p177
+aa(lp178
+VAll right, so thanks to the Revs Program at Stanford,
+p179
+aVwe were able to take John there
+p180
+aVand put him behind the wheel
+p181
+aVof a 1960 Porsche Abarth Carrera.
+p182
+aVLife is way too short for boring cars.
+p183
+aVSo, here you see John on the track,
+p184
+aVhe's going up the hill \u2014 Oh! Somebody liked that \u2014
+p185
+aVand you can see, actually, his mental workload
+p186
+aV\u2014 measuring here in the red bar \u2014
+p187
+aVyou can see his actions as he approaches.
+p188
+aVNow watch, he has to downshift.
+p189
+aVAnd then he has to turn left.
+p190
+aVLook for the tree, and down.
+p191
+aa(lp192
+VNot surprisingly, you can see this is a pretty challenging task.
+p193
+aVYou can see his mental workload spike as he goes through this,
+p194
+aVas you would expect with something that requires
+p195
+aVthis level of complexity.
+p196
+aVBut what's really interesting is to look at areas of the track
+p197
+aVwhere his mental workload doesn't increase.
+p198
+aVI'm going to take you around now
+p199
+aVto the other side of the track.
+p200
+aVTurn three. And John's going to go into that corner
+p201
+aVand the rear end of the car is going to begin to slide out.
+p202
+aVHe's going to have to correct for that with steering.
+p203
+aVSo watch as John does this here.
+p204
+aVWatch the mental workload, and watch the steering.
+p205
+aVThe car begins to slide out, dramatic maneuver to correct it,
+p206
+aVand no change whatsoever in the mental workload.
+p207
+aVNot a challenging task.
+p208
+aVIn fact, entirely reflexive.
+p209
+aa(lp210
+VNow, our data processing on this is still preliminary,
+p211
+aVbut it really seems that these phenomenal feats
+p212
+aVthat the race car drivers are performing
+p213
+aVare instinctive.
+p214
+aVThey are things that they have simply learned to do.
+p215
+aVIt requires very little mental workload
+p216
+aVfor them to perform these amazing feats.
+p217
+aVAnd their actions are fantastic.
+p218
+aVThis is exactly what you want to do on the steering wheel
+p219
+aVto catch the car in this situation.
+p220
+aa(lp221
+VNow, this has given us tremendous insight
+p222
+aVand inspiration for our own autonomous vehicles.
+p223
+aVWe've started to ask the question:
+p224
+aVCan we make them a little less algorithmic
+p225
+aVand a little more intuitive?
+p226
+aVCan we take this reflexive action
+p227
+aVthat we see from the very best race car drivers,
+p228
+aVintroduce it to our cars,
+p229
+aVand maybe even into a system that could
+p230
+aVget onto your car in the future?
+p231
+aVThat would take us a long step
+p232
+aValong the road to autonomous vehicles
+p233
+aVthat drive as well as the best humans.
+p234
+aa(lp235
+VBut it's made us think a little bit more deeply as well.
+p236
+aVDo we want something more from our car
+p237
+aVthan to simply be a chauffeur?
+p238
+aVDo we want our car to perhaps be a partner, a coach,
+p239
+aVsomeone that can use their understanding of the situation
+p240
+aVto help us reach our potential?
+p241
+aVCan, in fact, the technology not simply replace humans,
+p242
+aVbut allow us to reach the level of reflex and intuition
+p243
+aVthat we're all capable of?
+p244
+aa(lp245
+VSo, as we move forward into this technological future,
+p246
+aVI want you to just pause and think of that for a moment.
+p247
+aVWhat is the ideal balance of human and machine?
+p248
+aVAnd as we think about that,
+p249
+aVlet's take inspiration
+p250
+aVfrom the absolutely amazing capabilities
+p251
+aVof the human body and the human mind.
+p252
+aa(lp253
+VThank you.
+p254
+aa(lp255
+V(Applause)
+p256
+aasS'id'
+p257
+I1506
+sS'title'
+p258
+VThe future race car -- 150mph, and no driver
+p259
+s.

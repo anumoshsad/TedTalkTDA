@@ -1,0 +1,843 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI'm going to present three projects in rapid fire.
+p4
+aVI don't have much time to do it.
+p5
+aVAnd I want to reinforce three ideas with that rapid-fire presentation.
+p6
+aa(lp7
+VThe first is what I like to call a hyper-rational process.
+p8
+aVIt's a process that takes rationality almost to an absurd level,
+p9
+aVand it transcends all the baggage
+p10
+aVthat normally comes with what people would call,
+p11
+aVsort of a rational conclusion to something.
+p12
+aVAnd it concludes in something that you see here,
+p13
+aVthat you actually wouldn't expect as being the result of rationality.
+p14
+aa(lp15
+VThe second \u2014
+p16
+aVthe second is that this process does not have a signature.
+p17
+aVThere is no authorship.
+p18
+aVArchitects are obsessed with authorship.
+p19
+aVThis is something that has editing and it has teams,
+p20
+aVbut in fact, we no longer see within this process,
+p21
+aVthe traditional master architect
+p22
+aVcreating a sketch that his minions carry out.
+p23
+aa(lp24
+VAnd the third is that it challenges \u2014
+p25
+aVand this is, in the length of this, very hard to support why,
+p26
+aVconnect all these things \u2014
+p27
+aVbut it challenges the high modernist notion of flexibility.
+p28
+aVHigh modernists said we will create sort of singular spaces that are generic,
+p29
+aValmost anything can happen within them.
+p30
+aVI call it sort of "shotgun flexibility" \u2014
+p31
+aVturn your head this way; shoot; and you're bound to kill something.
+p32
+aVSo, this is the promise of high modernism:
+p33
+aVwithin a single space, actually, any kind of activity can happen.
+p34
+aVBut as we're seeing,
+p35
+aVoperational costs are starting to dwarf capital costs
+p36
+aVin terms of design parameters.
+p37
+aVAnd so, with this sort of idea,
+p38
+aVwhat happens is, whatever actually is in the building on opening day,
+p39
+aVor whatever seems to be the most immediate need,
+p40
+aVstarts to dwarf the possibility and sort of subsume it,
+p41
+aVof anything else could ever happen.
+p42
+aVAnd so we're proposing a different kind of flexibility,
+p43
+aVsomething that we call "compartmentalized flexibility."
+p44
+aVAnd the idea is that you, within that continuum,
+p45
+aVidentify a series of points, and you design specifically to them.
+p46
+aVThey can be pushed off-center a little bit,
+p47
+aVbut in the end you actually still get as much
+p48
+aVof that original spectrum as you originally had hoped.
+p49
+aVWith high modernist flexibility, that doesn't really work.
+p50
+aa(lp51
+VNow I'm going to talk about \u2014
+p52
+aVI'm going to build up the Seattle Central Library
+p53
+aVin this way before your eyes in about five or six diagrams,
+p54
+aVand I truly mean this is the design process that you'll see.
+p55
+aVWith the library staff and the library board,
+p56
+aVwe settled on two core positions.
+p57
+aVThis is the first one, and this is showing, over the last 900 years,
+p58
+aVthe evolution of the book, and other technologies.
+p59
+aVThis diagram was our sort of position piece about the book,
+p60
+aVand our position was, books are technology \u2014
+p61
+aVthat's something people forget \u2014
+p62
+aVbut it's a form of technology that will have to share its dominance
+p63
+aVwith any other form of truly potent technology or media.
+p64
+aa(lp65
+VThe second premise \u2014
+p66
+aVand this was something that was very difficult for us
+p67
+aVto convince the librarians of at first \u2014
+p68
+aVis that libraries, since the inception of Carnegie Library tradition in America,
+p69
+aVhad a second responsibility, and that was for social roles.
+p70
+aVOk, now, this I'll come back to later, but something \u2014
+p71
+aVactually, the librarians at first said, "No, this isn't our mandate.
+p72
+aVOur mandate is media, and particularly the book."
+p73
+aa(lp74
+VSo what you're seeing now is actually the design of the building.
+p75
+aVThe upper diagram is what we had seen
+p76
+aVin a whole host of contemporary libraries that used high modernist flexibility.
+p77
+aVSort of, any activity could happen anywhere.
+p78
+aVWe don't know the future of the library; we don't know the future of the book;
+p79
+aVand so, we'll use this approach.
+p80
+aa(lp81
+VAnd what we saw were buildings that were very generic, and worse \u2014
+p82
+aVnot only were they very generic \u2014
+p83
+aVso, not only does the reading room look like the copy room
+p84
+aVlook like the magazine area \u2014
+p85
+aVbut it meant that whatever issue was troubling the library at that moment
+p86
+aVwas starting to engulf every other activity that was happening in it.
+p87
+aVAnd in this case, what was getting engulfed
+p88
+aVwere these social responsibilities by the expansion of the book.
+p89
+aVAnd so we proposed what's at the lower diagram.
+p90
+aVVery dumb approach: simply compartmentalize.
+p91
+aVPut those things whose evolution we could predict \u2014
+p92
+aVand I don't mean that we could say what would actually happen in the future,
+p93
+aVbut we have some certainty of the spectrum of what would happen in the future \u2014
+p94
+aVput those in boxes designed specifically for it,
+p95
+aVand put the things that we can't predict on the rooftops.
+p96
+aVSo that was the core idea.
+p97
+aa(lp98
+VNow, we had to convince the library
+p99
+aVthat social roles were equally important to media,
+p100
+aVin order to get them to accept this.
+p101
+aVWhat you're seeing here is actually their program on the left.
+p102
+aVThat's as it was given to us in all of its clarity and glory.
+p103
+aVOur first operation was to re-digest it back to them, show it to them and say,
+p104
+aV"You know what? We haven't touched it,
+p105
+aVbut only one-third of your own program is dedicated to media and books.
+p106
+aVTwo-thirds of it is already dedicated \u2014
+p107
+aVthat's the white band below, the thing you said isn't important \u2014
+p108
+aVis already dedicated to social functions."
+p109
+aVSo once we had presented that back to them,
+p110
+aVthey agreed that this sort of core concept could work.
+p111
+aVWe got the right to go back to first principles \u2014
+p112
+aVthat's the third diagram.
+p113
+aVWe recombined everything.
+p114
+aVAnd then we started making new decisions.
+p115
+aa(lp116
+VWhat you're seeing on the right is the design of the library,
+p117
+aVspecifically in terms of square footage.
+p118
+aVOn the left of that diagram, here, you'll see a series of five platforms \u2014
+p119
+aVsort of combs, collective programs.
+p120
+aVAnd on the right are the more indeterminate spaces;
+p121
+aVthings like reading rooms,
+p122
+aVwhose evolution in 20, 30, 40 years we can't predict.
+p123
+aVSo that literally was the design of the building.
+p124
+aVThey signed it, and to their chagrin,
+p125
+aVwe came back a week later, and we presented them this.
+p126
+aVAnd as you can see, it is literally the diagram on the right.
+p127
+aa(lp128
+V(Laughter)
+p129
+aa(lp130
+VWe just sized \u2014 no, really, I mean that, literally.
+p131
+aVThe things on the left-hand side of the diagram,
+p132
+aVthose are the boxes.
+p133
+aVWe sized them into five compartments. They're super-efficient.
+p134
+aVWe had a very low budget to work with.
+p135
+aVWe pushed them around on the site
+p136
+aVto make very literal contextual relationships.
+p137
+aVThe reading room should be able to see the water.
+p138
+aVThe main entrance should have a public plaza in front of it
+p139
+aVto abide by the zoning code, and so forth.
+p140
+aa(lp141
+VSo, you see the five platforms, those are the boxes.
+p142
+aVwithin each one, a very discrete thing is happening.
+p143
+aVThe area in between is sort of an urban continuum,
+p144
+aVthese things that we can't predict their evolution to the same degree.
+p145
+aVTo give you some sense of the power of this idea,
+p146
+aVthe biggest block is what we call the book spiral.
+p147
+aVIt's literally built in a very inexpensive way \u2014
+p148
+aVit is a parking garage for books.
+p149
+aVIt just so happens to be on the 6th through 10th floors of the building,
+p150
+aVbut that is not necessarily an expensive approach.
+p151
+aVAnd it allows us to organize the entire Dewey Decimal System
+p152
+aVon one continuous run; no matter how it grows or contracts within the building,
+p153
+aVit will always have its clarity to end the sort of trail of tears
+p154
+aVthat we've all experienced in public libraries.
+p155
+aa(lp156
+V(Laughter)
+p157
+aa(lp158
+VAnd so this was the final operation,
+p159
+aVwhich was to take these blocks as they were all pushed off kilter,
+p160
+aVand to hold onto them with a skin.
+p161
+aVThat skin serves double duty, again, for economics.
+p162
+aVOne, it is the lateral stability for the entire building;
+p163
+aVit's a structural element.
+p164
+aVBut its dimensions were designed not only for structure,
+p165
+aVbut also for holding on every piece of glass.
+p166
+aVThe glass was then \u2014 I'll use the word impregnated \u2014
+p167
+aVbut it had a layer of metal that was called "stretched metal."
+p168
+aVThat metal acts as a microlouver,
+p169
+aVso from the exterior of the building, the sun sees it as totally opaque,
+p170
+aVbut from the interior, it's entirely transparent.
+p171
+aa(lp172
+VSo now I'm going to take you on a tour of the building.
+p173
+aVLet me see if I can find it.
+p174
+aVFor anyone who gets motion sickness, I apologize.
+p175
+aVSo, this is the building.
+p176
+aVAnd I think what's important is, when we first unveiled the building,
+p177
+aVthe public saw it as being totally about our whim and ego.
+p178
+aVAnd it was defended, believe it or not, by the librarians.
+p179
+aVThey said, "Look, we don't know what it is,
+p180
+aVbut we know it's everything that we need it to be,
+p181
+aVbased on the observations that we've done about the program."
+p182
+aVThis is going into one of the entries.
+p183
+aVSo, it's an unusual building for a public library, obviously.
+p184
+aa(lp185
+VSo now we're going into what we call the living room.
+p186
+aVThis is actually a program that we invented with the library.
+p187
+aVIt was recognizing that public libraries
+p188
+aVare the last vestige of public free space.
+p189
+aVThere are plenty of shopping malls that allow you to get out of the rain
+p190
+aVin downtown Seattle,
+p191
+aVbut there are not so many free places
+p192
+aVthat allow you to get out of the rain.
+p193
+aVSo this was an unprogrammed area where people could pretty much do anything,
+p194
+aVincluding eat, yell, play chess and so forth.
+p195
+aa(lp196
+VNow we're moving up into what we call the mixing chamber.
+p197
+aVThat was the main technology area in the building.
+p198
+aVYou'll have to tell me if I'm going too fast for you.
+p199
+aVAnd now up.
+p200
+aVThis is actually the place that we put into the building
+p201
+aVso I could propose to my wife, right there.
+p202
+aa(lp203
+V(Laughter)
+p204
+aa(lp205
+VShe said yes.
+p206
+aa(lp207
+V(Laughter)
+p208
+aa(lp209
+VI'm running out of time, so I'm actually going to stop.
+p210
+aVI can show this to you later.
+p211
+aVBut let's see if I can very quickly get into the book spiral,
+p212
+aVbecause I think it's, as I said, the most \u2014
+p213
+aVthis is the main reading room \u2014 the most unique part of the building.
+p214
+aVYou dizzy yet?
+p215
+aVOk, so here, this is the book spiral.
+p216
+aVSo, it's very indiscernible,
+p217
+aVbut it's actually a continuous stair-stepping.
+p218
+aVIt allows you to, on one city block,
+p219
+aVgo up one full floor, so that it's on a continuum.
+p220
+aa(lp221
+VOk, now I'm going to go back, and I'm going to hit a second project.
+p222
+aVI'm going to go very, very quickly through this.
+p223
+aVNow this is the Dallas Theater.
+p224
+aVIt was an unusual client for us, because they came to us and they said,
+p225
+aV"We need you to do a new building.
+p226
+aVWe've been working in a temporary space for 30 years,
+p227
+aVbut because of that temporary space,
+p228
+aVwe've become an infamous theater company.
+p229
+aVTheater is really focused in New York, Chicago and Seattle,
+p230
+aVwith the exception of the Dallas Theater Company."
+p231
+aVAnd the very fact that they worked in a provisional space
+p232
+aVmeant that for Beckett, they could blow out a wall;
+p233
+aVthey could do "Cherry Orchard" and blow a hole through the floor, and so forth.
+p234
+aa(lp235
+VSo it was a very daunting task for us to do a brand-new building
+p236
+aVthat could be a pristine building,
+p237
+aVbut keep this kind of experimental nature.
+p238
+aVAnd the second is,
+p239
+aVthey were what we call a multi-form theater,
+p240
+aVthey do different kinds of performances in repertory.
+p241
+aVSo they in the morning will do something in arena,
+p242
+aVthen they'll do something in proscenium and so forth.
+p243
+aVAnd so they needed to be able to quickly transform
+p244
+aVbetween different theater organizations,
+p245
+aVand for operational budget reasons,
+p246
+aVthis actually no longer happens in pretty much
+p247
+aVany multi-form theater in the United States,
+p248
+aVso we needed to figure out a way to overcome that.
+p249
+aa(lp250
+VSo our thought was to literally put the theater on its head:
+p251
+aVto take those things that were previously defined
+p252
+aVas front-of-house and back-of-house
+p253
+aVand stack them above house and below house,
+p254
+aVand to create what we called a theater machine.
+p255
+aVWe invest the money in the operation of the building.
+p256
+aVIt's almost as though the building could be placed anywhere,
+p257
+aVwherever you place it,
+p258
+aVthe area under it is charged for theatrical performances.
+p259
+aVAnd it allowed us to go back to first principles,
+p260
+aVand redefine fly tower, acoustic enclosure, light enclosure and so forth.
+p261
+aVAnd at the push of a button,
+p262
+aVit allows the artistic director to move between proscenium, thrust,
+p263
+aVand in fact, arena and traverse and flat floor,
+p264
+aVin a very quick transfiguration.
+p265
+aa(lp266
+VSo in fact, using operational budget, we can \u2014
+p267
+aVsorry, capital cost \u2014 we can actually achieve
+p268
+aVwhat was no longer achievable in operational cost.
+p269
+aVAnd that means that the artistic director
+p270
+aVnow has a palette that he or she can choose from,
+p271
+aVbetween a series of forms and a series of processions,
+p272
+aVbecause that enclosure around the theater that is normally trapped
+p273
+aVwith front-of-house and back-of-house spaces has been liberated.
+p274
+aVSo an artistic director has the ability to have a performance
+p275
+aVthat enters in a Wagnerian procession,
+p276
+aVshows the first act in thrust,
+p277
+aVthe intermission in a Greek procession,
+p278
+aVsecond act in arena, and so forth.
+p279
+aa(lp280
+VSo I'm going to show you what this actually means.
+p281
+aVThis is the theater up close.
+p282
+aVAny portion around the theater actually can be opened discretely.
+p283
+aVThe light enclosure can be lifted separate to the acoustic enclosure,
+p284
+aVso you can do Beckett with Dallas as the backdrop.
+p285
+aVPortions can be opened,
+p286
+aVso you can now actually have motorcycles drive directly into the performance,
+p287
+aVor you can even just have an open-air performance,
+p288
+aVor for intermissions.
+p289
+aVThe balconies all move to go between those configurations,
+p290
+aVbut they also disappear.
+p291
+aVThe proscenium line can also disappear.
+p292
+aVYou can bring enormous objects in,
+p293
+aVso in fact, the Dallas Theater Company \u2014
+p294
+aVtheir first show will be a play about Charles Lindbergh,
+p295
+aVand they'll want to bring in a real aircraft.
+p296
+aVAnd then it also provides them, in the off-season,
+p297
+aVthe ability to actually rent out their space for entirely different things.
+p298
+aVThis is it from a distance.
+p299
+aVOpen up entire portions for different kinds of events.
+p300
+aVAnd at night.
+p301
+aVAgain, remove the light enclosure; keep the acoustic enclosure.
+p302
+aVThis is a monster truck show.
+p303
+aa(lp304
+VI'm going to show now the last project.
+p305
+aVThis also is an unusual client.
+p306
+aVThey inverted the whole idea of development.
+p307
+aVThey came to us and they said \u2014 unlike normal developers \u2014
+p308
+aVthey said, "We want to start out
+p309
+aVby providing a contemporary art museum in Louisville.
+p310
+aVThat's our main goal."
+p311
+aVAnd so instead of being a developer that sees an opportunity to make money,
+p312
+aVthey saw an ability to be a catalyst in their downtown.
+p313
+aVAnd the fact that they wanted to support the contemporary art museum
+p314
+aVactually built their pro forma,
+p315
+aVso they worked in reverse.
+p316
+aVAnd that pro forma led us
+p317
+aVto a mixed-use building that was very large,
+p318
+aVin order to support their aspirations of the art,
+p319
+aVbut it also opened up opportunities for the art itself
+p320
+aVto collaborate, interact with commercial spaces
+p321
+aVthat actually artists more and more want to work within.
+p322
+aVAnd it also charged us with thinking about how to have
+p323
+aVsomething that was both a single building
+p324
+aVand a credible sort of sub-building.
+p325
+aa(lp326
+VSo this is Louisville's skyline,
+p327
+aVand I'm going to take you through the various constraints
+p328
+aVthat led to the project.
+p329
+aVFirst: the physical constraints.
+p330
+aVWe actually had to operate on three discrete sites,
+p331
+aVall of them well smaller than the size of the building.
+p332
+aVWe had to operate next to the new Muhammad Ali Center, and respect it.
+p333
+aVWe had to operate within the 100-year floodplain.
+p334
+aVNow, this area floods three to four times a year,
+p335
+aVand there's a levee behind our site,
+p336
+aVsimilar to the ones that broke in New Orleans.
+p337
+aVHad to operate behind the I-64 corridor,
+p338
+aVa street that cuts through the middle of these separate sites.
+p339
+aVSo we're starting to build a sort of nightmare of constraints in a bathtub.
+p340
+aVUnderneath the bathtub are the city's main power lines.
+p341
+aVAnd there is a pedestrian corridor that they wanted to add,
+p342
+aVthat would link a series of cultural buildings,
+p343
+aVand a view corridor \u2014 because this is the historic district \u2014
+p344
+aVthat they didn't want to obstruct with a new building.
+p345
+aa(lp346
+V(Laughter)
+p347
+aa(lp348
+VAnd now we're going to add 1.1 million square feet.
+p349
+aVAnd if we did the traditional thing, that 1.1 million square feet \u2014
+p350
+aVthese are the different programs \u2014
+p351
+aVthe traditional thing would be to identify the public elements, place them on sites,
+p352
+aVand now we'd have a really terrible situation:
+p353
+aVa public thing in the middle of a bathtub that floods.
+p354
+aVAnd then we would size all the other elements \u2014
+p355
+aVthe different commercial elements:
+p356
+aVhotel, luxury housing, offices and so forth \u2014
+p357
+aVand dump it on top.
+p358
+aVAnd we would create something that was unviable.
+p359
+aVIn fact \u2014 and you know this \u2014 this is called the Time Warner Building.
+p360
+aa(lp361
+V(Laughter)
+p362
+aa(lp363
+VSo our strategy was very simple.
+p364
+aVJust lift the entire block,
+p365
+aVflip some of the elements over,
+p366
+aVreposition them so they have appropriate views
+p367
+aVand relationships to downtown,
+p368
+aVand make circulation connections and reroute the road.
+p369
+aVSo that's the basic concept,
+p370
+aVand now I'm going to show you what it leads to.
+p371
+aa(lp372
+VOk, it seems a very formal, willful gesture,
+p373
+aVbut something derived entirely out of the constraints.
+p374
+aVAnd again, when we unveiled it, there was a sort of nervousness
+p375
+aVthat this was about an architect making a statement,
+p376
+aVnot an architect who was attempting to solve a series of problems.
+p377
+aVNow, within that center zone, as I said,
+p378
+aVwe have the ability to mix a series of things.
+p379
+aVSo here, this is sort of an x-ray \u2014
+p380
+aVthe towers are totally developer-driven.
+p381
+aVThey told us the dimensions, the sizes and so forth,
+p382
+aVand we focused on taking all the public components \u2014
+p383
+aVthe lobbies, the bars \u2014
+p384
+aVeverything that different commercial elements would have,
+p385
+aVand combined it in the center, in the sort of subway map,
+p386
+aVin the transfer zone that would also include the contemporary art museum.
+p387
+aa(lp388
+VSo it creates a situation like this, where you have artists who can operate
+p389
+aVwithin an art space that also has an amazing view on the 22nd floor,
+p390
+aVbut it also has proximity that the curator can either open or close.
+p391
+aVIt allows people on exercise bicycles to be seen,
+p392
+aVor to see the art, and so forth.
+p393
+aVIt also means that if an artist wants to invade something like a swimming pool,
+p394
+aVthey can begin to do their exhibition in a swimming pool,
+p395
+aVso they're not forced to always work within the confines
+p396
+aVof a contemporary gallery space.
+p397
+aa(lp398
+VSo, how to build this.
+p399
+aVIt's very simple: it's a chair.
+p400
+aVSo, we begin by building the cores.
+p401
+aVAs we're building the cores, we build the contemporary art museum at grade.
+p402
+aVThat allows us to have incredible efficiency and cost efficiency.
+p403
+aVThis is not a high-budget building.
+p404
+aVThe moment the cores get to mid level,
+p405
+aVwe finish the art museum; we put all the mechanical equipment in it;
+p406
+aVand then we jack it up into the air.
+p407
+aVThis is how they build really large aircraft hangars,
+p408
+aVfor instance, the ones that they did for the A380.
+p409
+aVFinish the cores, finish the meat
+p410
+aVand you get something that looks like this.
+p411
+aa(lp412
+VNow I only have about 30 seconds,
+p413
+aVso I want to start an animation,
+p414
+aVand we'll conclude with that.
+p415
+aa(lp416
+VThank you.
+p417
+aa(lp418
+V(Applause)
+p419
+aa(lp420
+VChris asked me to add \u2014
+p421
+aVthe theater is under construction,
+p422
+aVand this project will start construction in about a year,
+p423
+aVand finish in 2010.
+p424
+aa(lp425
+V[identify public elements]
+p426
+aa(lp427
+V[insert public elements at grade]
+p428
+aa(lp429
+V[optimize tower dimensions]
+p430
+aa(lp431
+V[place towers on site]
+p432
+aa(lp433
+V[lift program]
+p434
+aa(lp435
+V[flip!]
+p436
+aa(lp437
+V[optimize program adjacencies]
+p438
+aa(lp439
+V[connect to context]
+p440
+aa(lp441
+V[redirect 7th street]
+p442
+aasS'id'
+p443
+I49
+sS'title'
+p444
+VBehind the design of Seattle's library
+p445
+s.

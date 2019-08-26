@@ -1,0 +1,549 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhat I'm going to do is to just give a few notes,
+p4
+aVand this is from a book I'm preparing called
+p5
+aV"Letters to a Young Scientist."
+p6
+aVI'd thought it'd be appropriate to
+p7
+aVpresent it, on the basis that I have had extensive experience
+p8
+aVin teaching, counseling scientists across a broad array of fields.
+p9
+aVAnd you might like to hear some of the principles that I've developed in doing
+p10
+aVthat teaching and counseling.
+p11
+aa(lp12
+VSo let me begin by urging you,
+p13
+aVparticularly you on the youngsters' side,
+p14
+aVon this path you've chosen,
+p15
+aVto go as far as you can.
+p16
+aVThe world needs you, badly.
+p17
+aVHumanity is now fully into the techno-scientific age.
+p18
+aVThere is going to be no turning back.
+p19
+aa(lp20
+VAlthough varying among disciplines \u2014 say, astrophysics,
+p21
+aVmolecular genetics, the immunology, the microbiology, the public
+p22
+aVhealth, to the new area of the human body as a symbiont,
+p23
+aVto public health, environmental science.
+p24
+aVKnowledge in medical science and science overall
+p25
+aVis doubling every 15 to 20 years.
+p26
+aVTechnology is increasing at a comparable rate.
+p27
+aVBetween them, the two already pervade,
+p28
+aVas most of you here seated realize,
+p29
+aVevery dimension of human life.
+p30
+aa(lp31
+VSo swift is the velocity of the techno-scientific revolution,
+p32
+aVso startling in its countless twists and turns, that no one can predict
+p33
+aVits outcome even a decade from the present moment.
+p34
+aa(lp35
+VThere will come a time, of course,
+p36
+aVwhen the exponential growth of discovery and knowledge,
+p37
+aVwhich actually began in the 1600s,
+p38
+aVhas to peak and level off,
+p39
+aVbut that's not going to matter to you.
+p40
+aVThe revolution is going to continue
+p41
+aVfor at least several more decades.
+p42
+aVIt'll render the human condition
+p43
+aVradically different from what it is today.
+p44
+aVTraditional fields of study are going to continue to grow
+p45
+aVand in so doing, inevitably they will meet and create new disciplines.
+p46
+aa(lp47
+VIn time, all of science will come to be
+p48
+aVa continuum of description, an explanation of networks, of principles and laws.
+p49
+aVThat's why you need not just be training
+p50
+aVin one specialty, but also acquire breadth in other fields,
+p51
+aVrelated to and even distant from your own initial choice.
+p52
+aa(lp53
+VKeep your eyes lifted and your head turning.
+p54
+aVThe search for knowledge is in our genes.
+p55
+aVIt was put there by our distant ancestors
+p56
+aVwho spread across the world,
+p57
+aVand it's never going to be quenched.
+p58
+aVTo understand and use it sanely,
+p59
+aVas a part of the civilization yet to evolve
+p60
+aVrequires a vastly larger population of scientifically trained people like you.
+p61
+aVIn education, medicine, law, diplomacy,
+p62
+aVgovernment, business and the media that exist today.
+p63
+aa(lp64
+VOur political leaders need at least a modest degree of scientific
+p65
+aVliteracy, which most badly lack today \u2014
+p66
+aVno applause, please.
+p67
+aVIt will be better for all
+p68
+aVif they prepare before entering office rather than learning on the job.
+p69
+aVTherefore you will do well to act on the side,
+p70
+aVno matter how far into the laboratory
+p71
+aVyou may go, to serve as teachers
+p72
+aVduring the span of your career.
+p73
+aa(lp74
+VI'll now proceed quickly,
+p75
+aVand before else, to a subject that is both a vital asset
+p76
+aVand a potential barrier to a scientific career.
+p77
+aVIf you are a bit short in mathematical skills,
+p78
+aVdon't worry.
+p79
+aVMany of the most successful scientists
+p80
+aVat work today are mathematically semi-literate.
+p81
+aa(lp82
+VA metaphor will serve here:
+p83
+aVWhere elite mathematicians and statisticians
+p84
+aVand theorists often serve as architects in the expanding realm
+p85
+aVof science, the remaining large majority of
+p86
+aVbasic applied scientists, including a large portion of those who could be
+p87
+aVsaid to be of the first rank, are the ones who map the terrain, they scout
+p88
+aVthe frontiers, they cut the pathways,
+p89
+aVthey raise the buildings along the way.
+p90
+aa(lp91
+VSome may have considered me foolhardy,
+p92
+aVbut it's been my habit to brush aside the fear of mathematics
+p93
+aVwhen talking to candidate scientists.
+p94
+aVDuring 41 years of teaching biology at Harvard,
+p95
+aVI watched sadly as bright students turned away
+p96
+aVfrom the possibility of a scientific career
+p97
+aVor even from taking non-required courses in science
+p98
+aVbecause they were afraid of failure.
+p99
+aVThese math-phobes deprive science and medicine
+p100
+aVof immeasurable amounts of badly needed talent.
+p101
+aa(lp102
+VHere's how to relax your anxieties, if you have them:
+p103
+aVUnderstand that mathematics is a language
+p104
+aVruled like other verbal languages,
+p105
+aVor like verbal language generally, by its own grammar
+p106
+aVand system of logic.
+p107
+aVAny person with average quantitative intelligence
+p108
+aVwho learns to read and write mathematics
+p109
+aVat an elementary level will, as in verbal language, have little difficulty
+p110
+aVpicking up most of the fundamentals
+p111
+aVif they choose to master the mathspeak of most disciplines of science.
+p112
+aa(lp113
+VThe longer you wait to become at least semi-literate
+p114
+aVthe harder the language of mathematics will be to master, just as again in any verbal
+p115
+aVlanguage, but it can be done at any age.
+p116
+aVI speak as an authority
+p117
+aVon that subject, because I'm an extreme case.
+p118
+aVI didn't take algebra until my freshman year
+p119
+aVat the University of Alabama.
+p120
+aVThey didn't teach it before then.
+p121
+aa(lp122
+VI finally got around to calculus as a 32-year-old tenured professor at Harvard,
+p123
+aVwhere I sat uncomfortably in classes with undergraduate students,
+p124
+aVlittle more than half my age.
+p125
+aVA couple of them were students
+p126
+aVin a course I was giving on evolutionary biology.
+p127
+aVI swallowed my pride, and I learned calculus.
+p128
+aa(lp129
+VI found out that in science and all its applications,
+p130
+aVwhat is crucial is not that technical ability,
+p131
+aVbut it is imagination in all of its applications.
+p132
+aVThe ability to form concepts with images of entities and processes
+p133
+aVpictured by intuition.
+p134
+aVI found out that advances in science rarely come upstream
+p135
+aVfrom an ability to stand at a blackboard
+p136
+aVand conjure images from unfolding mathematical propositions
+p137
+aVand equations.
+p138
+aVThey are instead the products of downstream imagination leading to hard work,
+p139
+aVduring which mathematical reasoning may or may not prove to be relevant.
+p140
+aVIdeas emerge when a part of the real or imagined world is studied
+p141
+aVfor its own sake.
+p142
+aa(lp143
+VOf foremost importance is a thorough, well-organized knowledge
+p144
+aVof all that is known of the relevant entities and processes that might be involved in that domain
+p145
+aVyou propose to enter.
+p146
+aVWhen something new is discovered,
+p147
+aVit's logical then that one of the follow-up steps is
+p148
+aVto find the mathematical and statistical methods to move its analysis forward.
+p149
+aVIf that step proves too difficult for
+p150
+aVthe person or team that made the discovery,
+p151
+aVa mathematician can then be added by them
+p152
+aVas a collaborator.
+p153
+aa(lp154
+VConsider the following principle,
+p155
+aVwhich I will modestly call Wilson's Principle Number One:
+p156
+aVIt is far easier for scientists
+p157
+aVincluding medical researchers, to require needed collaboration
+p158
+aVin mathematics and statistics
+p159
+aVthan it is for mathematicians and statisticians
+p160
+aVto find scientists able to make use of their equations.
+p161
+aVIt is important in choosing the direction to take in science
+p162
+aVto find the subject at your level of competence that interests you deeply,
+p163
+aVand focus on that.
+p164
+aa(lp165
+VKeep in mind, then, Wilson's Second Principle:
+p166
+aVFor every scientist, whether researcher, technician,
+p167
+aVteacher, manager or businessman,
+p168
+aVworking at any level of mathematical competence,
+p169
+aVthere exists a discipline in science or medicine
+p170
+aVfor which that level is enough to achieve excellence.
+p171
+aa(lp172
+VNow I'm going to offer quickly
+p173
+aVseveral more principles that will be useful
+p174
+aVin organizing your education and career,
+p175
+aVor if you're teaching, how you might
+p176
+aVenhance your own teaching and counseling of young scientists.
+p177
+aVIn selecting a subject in which to conduct original research,
+p178
+aVor to develop world-class expertise,
+p179
+aVtake a part of the chosen discipline that is sparsely inhabited.
+p180
+aVJudge opportunity by how few other students and researchers
+p181
+aVare on hand.
+p182
+aa(lp183
+VThis is not to de-emphasize the essential requirement
+p184
+aVof broad training, or the value of apprenticing yourself
+p185
+aVin ongoing research to programs of high quality.
+p186
+aVIt is important also to acquire older mentors within these successful
+p187
+aVprograms, and to make friends and colleagues of your age
+p188
+aVfor mutual support.
+p189
+aVBut through it all, look for a way to break out,
+p190
+aVto find a field and subject not yet popular.
+p191
+aa(lp192
+VWe have seen this demonstrated already in the talks preceding mine.
+p193
+aVThere is the quickest way advances are likely to occur,
+p194
+aVas measured in discoveries per investigator per year.
+p195
+aVYou may have heard the
+p196
+aVmilitary dictum for the gathering of armies:
+p197
+aVMarch to the sound of the guns.
+p198
+aVIn science, the exact opposite is the case: March away from the sound of the guns.
+p199
+aa(lp200
+VSo Wilson's Principle Number Three:
+p201
+aVMarch away from the sound of the guns.
+p202
+aVObserve from a distance,
+p203
+aVbut do not join the fray.
+p204
+aVMake a fray of your own.
+p205
+aVOnce you have settled on a specialty,
+p206
+aVand the profession you can love, and you've secured opportunity,
+p207
+aVyour potential to succeed will be greatly enhanced if you study it
+p208
+aVenough to become an expert.
+p209
+aa(lp210
+VThere are thousands of professionally delimited
+p211
+aVsubjects sprinkled through physics and chemistry
+p212
+aVto biology and medicine.
+p213
+aVAnd on then into the social sciences,
+p214
+aVwhere it is possible in short time to acquire
+p215
+aVthe status of an authority.
+p216
+aVWhen the subject is still very thinly populated,
+p217
+aVyou can with diligence and hard work become
+p218
+aVthe world authority.
+p219
+aa(lp220
+VThe world needs this kind of expertise,
+p221
+aVand it rewards the kind of people
+p222
+aVwilling to acquire it.
+p223
+aVThe existing information and what you self-discover
+p224
+aVmay at first seem skimpy and difficult to connect
+p225
+aVto other bodies of knowledge.
+p226
+aVWell, if that's the case,
+p227
+aVgood. Why hard instead of easy?
+p228
+aa(lp229
+VThe answer deserves to be stated as Principle Number Four.
+p230
+aVIn the attempt to make scientific discoveries,
+p231
+aVevery problem is an opportunity,
+p232
+aVand the more difficult the problem,
+p233
+aVthe greater will be the importance of its solution.
+p234
+aa(lp235
+VNow this brings me to a basic categorization
+p236
+aVin the way scientific discoveries are made.
+p237
+aVScientists, pure mathematicians among them,
+p238
+aVfollow one or the other of two pathways:
+p239
+aVFirst through early discoveries,
+p240
+aVa problem is identified
+p241
+aVand a solution is sought.
+p242
+aVThe problem may be relatively small;
+p243
+aVfor example, where exactly in a cruise ship does the norovirus begin to spread?
+p244
+aVOr larger, what's the role of dark matter in the expansion of the universe?
+p245
+aVAs the answer is sought, other phenomena are typically discovered
+p246
+aVand other questions are asked.
+p247
+aa(lp248
+VThis first of the two strategies is like a hunter,
+p249
+aVexploring a forest in search of a particular quarry,
+p250
+aVwho finds other quarries along the way.
+p251
+aVThe second strategy of research
+p252
+aVis to study a subject broadly
+p253
+aVsearching for unknown phenomena or patterns of known phenomena
+p254
+aVlike a hunter in what we call "the naturalist's trance,"
+p255
+aVthe researcher of mind is open to anything interesting,
+p256
+aVany quarry worth taking.
+p257
+aVThe search is not for the solution of the problem,
+p258
+aVbut for problems themselves worth solving.
+p259
+aa(lp260
+VThe two strategies of research,
+p261
+aVoriginal research, can be stated as follows,
+p262
+aVin the final principle I'm going to offer you:
+p263
+aVFor every problem in a given discipline of science,
+p264
+aVthere exists a species or entity or phenomenon
+p265
+aVideal for its solution.
+p266
+aVAnd conversely, for every species or other entity
+p267
+aVor phenomenon, there exist important problems
+p268
+aVfor the solution of which, those particular objects of research are ideally suited.
+p269
+aVFind out what they are.
+p270
+aVYou'll find your own way to discover,
+p271
+aVto learn, to teach.
+p272
+aa(lp273
+VThe decades ahead will see dramatic advances
+p274
+aVin disease prevention, general health, the quality of life.
+p275
+aVAll of humanity depends on the knowledge and practice of the medicine and the science
+p276
+aVbehind it you will master.
+p277
+aVYou have chosen a calling that will come in steps
+p278
+aVto give you satisfaction, at its conclusion, of a life well lived.
+p279
+aVAnd I thank you for having me here tonight.
+p280
+aa(lp281
+V(Applause)
+p282
+aa(lp283
+VOh, thank you.
+p284
+aVThank you very much.
+p285
+aVI salute you.
+p286
+aasS'id'
+p287
+I1485
+sS'title'
+p288
+VAdvice to a young scientist
+p289
+s.

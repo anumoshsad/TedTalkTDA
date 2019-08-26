@@ -1,0 +1,684 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI know this is going to sound strange,
+p4
+aVbut I think robots can inspire us to be better humans.
+p5
+aVSee, I grew up in Bethlehem, Pennsylvania,
+p6
+aVthe home of Bethlehem Steel.
+p7
+aVMy father was an engineer,
+p8
+aVand when I was growing up, he would teach me how things worked.
+p9
+aVWe would build projects together,
+p10
+aVlike model rockets and slot cars.
+p11
+aVHere's the go-kart that we built together.
+p12
+aVThat's me behind the wheel,
+p13
+aVwith my sister and my best friend at the time.
+p14
+aVAnd one day,
+p15
+aVhe came home, when I was about 10 years old,
+p16
+aVand at the dinner table, he announced
+p17
+aVthat for our next project,  we were going to build ...
+p18
+aVa robot.
+p19
+aa(lp20
+VA robot.
+p21
+aVNow, I was thrilled about this,
+p22
+aVbecause at school, there was a bully named Kevin,
+p23
+aVand he was picking on me,
+p24
+aVbecause I was the only Jewish kid in class.
+p25
+aVSo I couldn't wait to get started to work on this,
+p26
+aVso I could introduce Kevin to my robot.
+p27
+aa(lp28
+V(Laughter)
+p29
+aa(lp30
+V(Robot noises)
+p31
+aa(lp32
+V(Laughter)
+p33
+aa(lp34
+VBut that wasn't the kind of robot my dad had in mind.
+p35
+aa(lp36
+V(Laughter)
+p37
+aa(lp38
+VSee, he owned a chromium-plating company,
+p39
+aVand they had to move heavy steel parts between tanks of chemicals.
+p40
+aVAnd so he needed an industrial robot like this,
+p41
+aVthat could basically do the heavy lifting.
+p42
+aa(lp43
+VBut my dad didn't get the kind of robot he wanted, either.
+p44
+aVHe and I worked on it for several years,
+p45
+aVbut it was the 1970s, and the technology that was available to amateurs
+p46
+aVjust wasn't there yet.
+p47
+aVSo Dad continued to do this kind of work by hand.
+p48
+aVAnd a few years later,
+p49
+aVhe was diagnosed with cancer.
+p50
+aa(lp51
+VYou see,
+p52
+aVwhat the robot we were trying to build was telling him
+p53
+aVwas not about doing the heavy lifting.
+p54
+aVIt was a warning
+p55
+aVabout his exposure to the toxic chemicals.
+p56
+aVHe didn't recognize that at the time,
+p57
+aVand he contracted leukemia.
+p58
+aVAnd he died at the age of 45.
+p59
+aVI was devastated by this.
+p60
+aVAnd I never forgot the robot that he and I tried to build.
+p61
+aVWhen I was at college, I decided to study engineering, like him.
+p62
+aVAnd I went to Carnegie Mellon, and I earned my PhD in robotics.
+p63
+aVI've been studying robots ever since.
+p64
+aa(lp65
+VSo what I'd like to tell you about are four robot projects,
+p66
+aVand how they've inspired me to be a better human.
+p67
+aVBy 1993, I was a young professor at USC,
+p68
+aVand I was just building up my own robotics lab,
+p69
+aVand this was the year the World Wide Web came out.
+p70
+aVAnd I remember my students were the ones who told me about it,
+p71
+aVand we would \u2014 we were just amazed.
+p72
+aVWe started playing with this, and that afternoon,
+p73
+aVwe realized that we could use this new, universal interface
+p74
+aVto allow anyone in the world to operate the robot in our lab.
+p75
+aa(lp76
+VSo, rather than have it fight or do industrial work,
+p77
+aVwe decided to build a planter,
+p78
+aVput the robot into the center of it,
+p79
+aVand we called it the Telegarden.
+p80
+aVAnd we had put a camera in the gripper of the hand of the robot,
+p81
+aVand we wrote some special scripts and software,
+p82
+aVso that anyone in the world could come in,
+p83
+aVand by clicking on the screen,
+p84
+aVthey could move the robot around and visit the garden.
+p85
+aVBut we also set up some other software
+p86
+aVthat lets you participate and help us water the garden, remotely.
+p87
+aVAnd if you watered it a few times,
+p88
+aVwe'd give you your own seed to plant.
+p89
+aa(lp90
+VNow, this was an engineering project,
+p91
+aVand we published some papers on the system design of it,
+p92
+aVbut we also thought of it as an art installation.
+p93
+aVIt was invited, after the first year,
+p94
+aVby the Ars Electronica Museum in Austria,
+p95
+aVto have it installed in their lobby.
+p96
+aVAnd I'm happy to say, it remained online there, 24 hours a day,
+p97
+aVfor almost nine years.
+p98
+aVThat robot was operated by more people
+p99
+aVthan any other robot in history.
+p100
+aa(lp101
+VNow, one day,
+p102
+aVI got a call out of the blue from a student,
+p103
+aVwho asked a very simple but profound question.
+p104
+aVHe said, "Is the robot real?"
+p105
+aVNow, everyone else had assumed it was,
+p106
+aVand we knew it was, because we were working with it.
+p107
+aVBut I knew what he meant,
+p108
+aVbecause it would be possible
+p109
+aVto take a bunch of pictures of flowers in a garden
+p110
+aVand then, basically, index them in a computer system,
+p111
+aVsuch that it would appear that there was a real robot,
+p112
+aVwhen there wasn't.
+p113
+aVAnd the more I thought about it,
+p114
+aVI couldn't think of a good answer for how he could tell the difference.
+p115
+aa(lp116
+VThis was right about the time that I was offered a position
+p117
+aVhere at Berkeley.
+p118
+aVAnd when I got here,
+p119
+aVI looked up Hubert Dreyfus,
+p120
+aVwho's a world-renowned professor of philosophy,
+p121
+aVAnd I talked with him about this and he said,
+p122
+aV"This is one of the oldest and most central problems in philosophy.
+p123
+aVIt goes back to the Skeptics and up through Descartes.
+p124
+aVIt's the issue of epistemology,
+p125
+aVthe study of how do we know that something is true."
+p126
+aa(lp127
+VSo he and I started working together,
+p128
+aVand we coined a new term: "telepistemology,"
+p129
+aVthe study of knowledge at a distance.
+p130
+aVWe invited leading artists, engineers and philosophers
+p131
+aVto write essays about this,
+p132
+aVand the results are collected in this book from MIT Press.
+p133
+aVSo thanks to this student,
+p134
+aVwho questioned what everyone else had assumed to be true,
+p135
+aVthis project taught me an important lesson about life,
+p136
+aVwhich is to always question assumptions.
+p137
+aa(lp138
+VNow, the second project I'll tell you about
+p139
+aVgrew out of the Telegarden.
+p140
+aVAs it was operating, my students and I were very interested
+p141
+aVin how people were interacting with each other,
+p142
+aVand what they were doing with the garden.
+p143
+aVSo we started thinking:
+p144
+aVwhat if the robot could leave the garden
+p145
+aVand go out into some other interesting environment?
+p146
+aVLike, for example, what if it could go to a dinner party
+p147
+aVat the White House?
+p148
+aa(lp149
+V(Laughter)
+p150
+aa(lp151
+VSo, because we were interested more in the system design
+p152
+aVand the user interface than in the hardware,
+p153
+aVwe decided that,
+p154
+aVrather than have a robot replace the human to go to the party,
+p155
+aVwe'd have a human replace the robot.
+p156
+aVWe called it the Tele-Actor.
+p157
+aa(lp158
+VWe got a human,
+p159
+aVsomeone who's very outgoing and gregarious,
+p160
+aVand she was outfitted with a helmet with various equipment,
+p161
+aVcameras and microphones,
+p162
+aVand then a backpack with wireless Internet connection.
+p163
+aVAnd the idea was that she could go
+p164
+aVinto a remote and interesting environment,
+p165
+aVand then over the Internet,
+p166
+aVpeople could experience what she was experiencing.
+p167
+aVSo they could see what she was seeing,
+p168
+aVbut then, more importantly, they could participate,
+p169
+aVby interacting with each other and coming up with ideas
+p170
+aVabout what she should do next and where she should go,
+p171
+aVand then conveying those to the Tele-Actor.
+p172
+aVSo we got a chance to take the Tele-Actor
+p173
+aVto the Webby Awards in San Francisco.
+p174
+aVAnd that year, Sam Donaldson was the host.
+p175
+aVJust before the curtain went up, I had about 30 seconds
+p176
+aVto explain to Mr. Donaldson what we were going to do.
+p177
+aVAnd I said, "The Tele-Actor is going to be joining you onstage.
+p178
+aVThis is a new experimental project,
+p179
+aVand people are watching her on their screens,
+p180
+aVthere's cameras involved and there's microphones
+p181
+aVand she's got an earbud in her ear,
+p182
+aVand people over the network are giving her advice
+p183
+aVabout what to do next."
+p184
+aVAnd he said, "Wait a second.
+p185
+aVThat's what I do."
+p186
+aa(lp187
+V(Laughter)
+p188
+aa(lp189
+VSo he loved the concept,
+p190
+aVand when the Tele-Actor walked onstage, she walked right up to him,
+p191
+aVand she gave him a big kiss right on the lips.
+p192
+aa(lp193
+V(Laughter)
+p194
+aa(lp195
+VWe were totally surprised \u2014 we had no idea that would happen.
+p196
+aVAnd he was great, he just gave her a big hug in return,
+p197
+aVand it worked out great.
+p198
+aVBut that night, as we were packing up,
+p199
+aVI asked the Tele-Actor, how did the Tele-Directors decide
+p200
+aVthat they would give a kiss to Sam Donaldson?
+p201
+aVAnd she said they hadn't.
+p202
+aVShe said, when she was just about to walk onstage,
+p203
+aVthe Tele-Directors still were trying to agree on what to do,
+p204
+aVand so she just walked onstage and did what felt most natural.
+p205
+aa(lp206
+V(Laughter)
+p207
+aa(lp208
+VSo, the success of the Tele-Actor that night
+p209
+aVwas due to the fact that she was a wonderful actor.
+p210
+aVShe knew when to trust her instincts.
+p211
+aVAnd so that project taught me another lesson about life,
+p212
+aVwhich is that, when in doubt, improvise.
+p213
+aa(lp214
+V(Laughter)
+p215
+aa(lp216
+VNow, the third project grew out of my experience
+p217
+aVwhen my father was in the hospital.
+p218
+aVHe was undergoing a treatment \u2014 chemotherapy treatments \u2014
+p219
+aVand there's a related treatment called brachytherapy,
+p220
+aVwhere tiny, radioactive seeds are placed into the body
+p221
+aVto treat cancerous tumors.
+p222
+aVAnd the way it's done, as you can see here,
+p223
+aVis that surgeons insert needles into the body
+p224
+aVto deliver the seeds.
+p225
+aVAnd all these needles are inserted in parallel.
+p226
+aVSo it's very common that some of the needles penetrate sensitive organs.
+p227
+aVAnd as a result, the needles damage these organs, cause damage,
+p228
+aVwhich leads to trauma and side effects.
+p229
+aVSo my students and I wondered:
+p230
+aVwhat if we could modify the system,
+p231
+aVso that the needles could come in at different angles?
+p232
+aa(lp233
+VSo we simulated this;
+p234
+aVwe developed some optimization algorithms and we simulated this.
+p235
+aVAnd we were able to show
+p236
+aVthat we are able to avoid the delicate organs,
+p237
+aVand yet still achieve the coverage of the tumors with the radiation.
+p238
+aa(lp239
+VSo now, we're working with doctors at UCSF
+p240
+aVand engineers at Johns Hopkins,
+p241
+aVand we're building a robot that has a number of \u2014
+p242
+aVit's a specialized design with different joints
+p243
+aVthat can allow the needles to come in at an infinite variety of angles.
+p244
+aVAnd as you can see here, they can avoid delicate organs
+p245
+aVand still reach the targets they're aiming for.
+p246
+aVSo, by questioning this assumption that all the needles have to be parallel,
+p247
+aVthis project also taught me an important lesson:
+p248
+aVWhen in doubt, when your path is blocked, pivot.
+p249
+aa(lp250
+VAnd the last project also has to do with medical robotics.
+p251
+aVAnd this is something that's grown out of a system
+p252
+aVcalled the da Vinci surgical robot.
+p253
+aVAnd this is a commercially available device.
+p254
+aVIt's being used in over 2,000 hospitals around the world.
+p255
+aVThe idea is it allows the surgeon to operate comfortably
+p256
+aVin his own coordinate frame.
+p257
+aVMany of the subtasks in surgery are very routine and tedious, like suturing,
+p258
+aVand currently, all of these are performed
+p259
+aVunder the specific and immediate control of the surgeon.
+p260
+aVSo the surgeon becomes fatigued over time.
+p261
+aVAnd we've been wondering,
+p262
+aVwhat if we could program the robot to perform some of these subtasks,
+p263
+aVand thereby free the surgeon
+p264
+aVto focus on the more complicated parts of the surgery,
+p265
+aVand also cut down on the time that the surgery would take
+p266
+aVif we could get the robot to do them a little bit faster?
+p267
+aa(lp268
+VNow, it's hard to program a robot to do delicate things like this.
+p269
+aVBut it turns out my colleague Pieter Abbeel, who's here at Berkeley,
+p270
+aVhas developed a new set of techniques for teaching robots from example.
+p271
+aVSo he's gotten robots to fly helicopters,
+p272
+aVdo incredibly interesting, beautiful acrobatics,
+p273
+aVby watching human experts fly them.
+p274
+aVSo we got one of these robots.
+p275
+aVWe started working with Pieter and his students.
+p276
+aVAnd we asked a surgeon to perform a task \u2014
+p277
+aVwith the robot.
+p278
+aVSo what we're doing is asking the surgeon to perform the task,
+p279
+aVand we record the motions of the robot.
+p280
+aa(lp281
+VSo here's an example.
+p282
+aVI'll use tracing out a figure eight as an example.
+p283
+aVSo here's what it looks like when the robot \u2014
+p284
+aVthis is what the robot's path looks like, those three examples.
+p285
+aVNow, those are much better than what a novice like me could do,
+p286
+aVbut they're still jerky and imprecise.
+p287
+aa(lp288
+VSo we record all these examples, the data,
+p289
+aVand then go through a sequence of steps.
+p290
+aVFirst, we use a technique called dynamic time warping
+p291
+aVfrom speech recognition.
+p292
+aVAnd this allows us to temporally align all of the examples.
+p293
+aVAnd then we apply Kalman filtering, a technique from control theory,
+p294
+aVthat allows us to statistically analyze all the noise
+p295
+aVand extract the desired trajectory that underlies them.
+p296
+aVNow we take those human demonstrations \u2014
+p297
+aVthey're all noisy and imperfect \u2014
+p298
+aVand we extract from them an inferred task trajectory
+p299
+aVand control sequence for the robot.
+p300
+aVWe then execute that on the robot,
+p301
+aVwe observe what happens,
+p302
+aVthen we adjust the controls,
+p303
+aVusing a sequence of techniques called iterative learning.
+p304
+aVThen what we do is we increase the velocity a little bit.
+p305
+aVWe observe the results, adjust the controls again,
+p306
+aVand observe what happens.
+p307
+aVAnd we go through this several rounds.
+p308
+aa(lp309
+VAnd here's the result.
+p310
+aVThat's the inferred task trajectory,
+p311
+aVand here's the robot moving at the speed of the human.
+p312
+aVHere's four times the speed of the human.
+p313
+aVHere's seven times.
+p314
+aVAnd here's the robot operating at 10 times the speed of the human.
+p315
+aVSo we're able to get a robot to perform a delicate task
+p316
+aVlike a surgical subtask,
+p317
+aVat 10 times the speed of a human.
+p318
+aVSo this project also,
+p319
+aVbecause of its involved practicing and learning,
+p320
+aVdoing something over and over again,
+p321
+aVthis project also has a lesson, which is:
+p322
+aVif you want to do something well,
+p323
+aVthere's no substitute for practice, practice, practice.
+p324
+aa(lp325
+VSo these are four of the lessons that I've learned from robots
+p326
+aVover the years.
+p327
+aVAnd the field of robotics has gotten much better over time.
+p328
+aVNowadays, high school students can build robots,
+p329
+aVlike the industrial robot my dad and I tried to build.
+p330
+aa(lp331
+VBut, it's very \u2014 now ...
+p332
+aVAnd now, I have a daughter,
+p333
+aVnamed Odessa.
+p334
+aVShe's eight years old.
+p335
+aVAnd she likes robots, too.
+p336
+aVMaybe it runs in the family.
+p337
+aa(lp338
+V(Laughter)
+p339
+aa(lp340
+VI wish she could meet my dad.
+p341
+aVAnd now I get to teach her how things work,
+p342
+aVand we get to build projects together.
+p343
+aVAnd I wonder what kind of lessons she'll learn from them.
+p344
+aa(lp345
+VRobots are the most human of our machines.
+p346
+aVThey can't solve all of the world's problems,
+p347
+aVbut I think they have something important to teach us.
+p348
+aVI invite all of you
+p349
+aVto think about the innovations that you're interested in,
+p350
+aVthe machines that you wish for.
+p351
+aVAnd think about what they might be telling you.
+p352
+aVBecause I have a hunch that many of our technological innovations,
+p353
+aVthe devices we dream about,
+p354
+aVcan inspire us to be better humans.
+p355
+aa(lp356
+VThank you.
+p357
+aa(lp358
+V(Applause)
+p359
+aasS'id'
+p360
+I1459
+sS'title'
+p361
+V4 lessons from robots about being human
+p362
+s.

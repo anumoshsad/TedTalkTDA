@@ -1,0 +1,493 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VGrowth is not dead.
+p4
+aa(lp5
+V(Applause)
+p6
+aa(lp7
+VLet's start the story 120 years ago,
+p8
+aVwhen American factories began to electrify their operations,
+p9
+aVigniting the Second Industrial Revolution.
+p10
+aVThe amazing thing is
+p11
+aVthat productivity did not increase in those factories
+p12
+aVfor 30 years. Thirty years.
+p13
+aVThat's long enough for a generation of managers to retire.
+p14
+aVYou see, the first wave of managers
+p15
+aVsimply replaced their steam engines with electric motors,
+p16
+aVbut they didn't redesign the factories to take advantage
+p17
+aVof electricity's flexibility.
+p18
+aVIt fell to the next generation to invent new work processes,
+p19
+aVand then productivity soared,
+p20
+aVoften doubling or even tripling in those factories.
+p21
+aa(lp22
+VElectricity is an example of a general purpose technology,
+p23
+aVlike the steam engine before it.
+p24
+aVGeneral purpose technologies drive most economic growth,
+p25
+aVbecause they unleash cascades of complementary innovations,
+p26
+aVlike lightbulbs and, yes, factory redesign.
+p27
+aVIs there a general purpose technology of our era?
+p28
+aVSure. It's the computer.
+p29
+aVBut technology alone is not enough.
+p30
+aVTechnology is not destiny.
+p31
+aVWe shape our destiny,
+p32
+aVand just as the earlier generations of managers
+p33
+aVneeded to redesign their factories,
+p34
+aVwe're going to need to reinvent our organizations
+p35
+aVand even our whole economic system.
+p36
+aVWe're not doing as well at that job as we should be.
+p37
+aVAs we'll see in a moment,
+p38
+aVproductivity is actually doing all right,
+p39
+aVbut it has become decoupled from jobs,
+p40
+aVand the income of the typical worker is stagnating.
+p41
+aVThese troubles are sometimes misdiagnosed
+p42
+aVas the end of innovation,
+p43
+aVbut they are actually the growing pains
+p44
+aVof what Andrew McAfee and I call the new machine age.
+p45
+aa(lp46
+VLet's look at some data.
+p47
+aVSo here's GDP per person in America.
+p48
+aVThere's some bumps along the way, but the big story
+p49
+aVis you could practically fit a ruler to it.
+p50
+aVThis is a log scale, so what looks like steady growth
+p51
+aVis actually an acceleration in real terms.
+p52
+aVAnd here's productivity.
+p53
+aVYou can see a little bit of a slowdown there in the mid-'70s,
+p54
+aVbut it matches up pretty well with the Second Industrial Revolution,
+p55
+aVwhen factories were learning how to electrify their operations.
+p56
+aVAfter a lag, productivity accelerated again.
+p57
+aVSo maybe "history doesn't repeat itself,
+p58
+aVbut sometimes it rhymes."
+p59
+aVToday, productivity is at an all-time high,
+p60
+aVand despite the Great Recession,
+p61
+aVit grew faster in the 2000s than it did in the 1990s,
+p62
+aVthe roaring 1990s, and that was faster than the '70s or '80s.
+p63
+aVIt's growing faster than it did during the Second Industrial Revolution.
+p64
+aVAnd that's just the United States.
+p65
+aVThe global news is even better.
+p66
+aVWorldwide incomes have grown at a faster rate
+p67
+aVin the past decade than ever in history.
+p68
+aa(lp69
+VIf anything, all these numbers actually understate our progress,
+p70
+aVbecause the new machine age
+p71
+aVis more about knowledge creation
+p72
+aVthan just physical production.
+p73
+aVIt's mind not matter, brain not brawn,
+p74
+aVideas not things.
+p75
+aVThat creates a problem for standard metrics,
+p76
+aVbecause we're getting more and more stuff for free,
+p77
+aVlike Wikipedia, Google, Skype,
+p78
+aVand if they post it on the web, even this TED Talk.
+p79
+aVNow getting stuff for free is a good thing, right?
+p80
+aVSure, of course it is.
+p81
+aVBut that's not how economists measure GDP.
+p82
+aVZero price means zero weight in the GDP statistics.
+p83
+aVAccording to the numbers, the music industry
+p84
+aVis half the size that it was 10 years ago,
+p85
+aVbut I'm listening to more and better music than ever.
+p86
+aVYou know, I bet you are too.
+p87
+aVIn total, my research estimates
+p88
+aVthat the GDP numbers miss over 300 billion dollars per year
+p89
+aVin free goods and services on the Internet.
+p90
+aVNow let's look to the future.
+p91
+aVThere are some super smart people
+p92
+aVwho are arguing that we've reached the end of growth,
+p93
+aVbut to understand the future of growth,
+p94
+aVwe need to make predictions
+p95
+aVabout the underlying drivers of growth.
+p96
+aVI'm optimistic, because the new machine age
+p97
+aVis digital, exponential and combinatorial.
+p98
+aa(lp99
+VWhen goods are digital, they can be replicated
+p100
+aVwith perfect quality at nearly zero cost,
+p101
+aVand they can be delivered almost instantaneously.
+p102
+aVWelcome to the economics of abundance.
+p103
+aVBut there's a subtler benefit to the digitization of the world.
+p104
+aVMeasurement is the lifeblood of science and progress.
+p105
+aVIn the age of big data,
+p106
+aVwe can measure the world in ways we never could before.
+p107
+aa(lp108
+VSecondly, the new machine age is exponential.
+p109
+aVComputers get better faster than anything else ever.
+p110
+aVA child's Playstation today is more powerful
+p111
+aVthan a military supercomputer from 1996.
+p112
+aVBut our brains are wired for a linear world.
+p113
+aVAs a result, exponential trends take us by surprise.
+p114
+aVI used to teach my students that there are some things,
+p115
+aVyou know, computers just aren't good at,
+p116
+aVlike driving a car through traffic.
+p117
+aV(Laughter)
+p118
+aVThat's right, here's Andy and me grinning like madmen
+p119
+aVbecause we just rode down Route 101
+p120
+aVin, yes, a driverless car.
+p121
+aa(lp122
+VThirdly, the new machine age is combinatorial.
+p123
+aVThe stagnationist view is that ideas get used up,
+p124
+aVlike low-hanging fruit,
+p125
+aVbut the reality is that each innovation
+p126
+aVcreates building blocks for even more innovations.
+p127
+aVHere's an example. In just a matter of a few weeks,
+p128
+aVan undergraduate student of mine
+p129
+aVbuilt an app that ultimately reached 1.3 million users.
+p130
+aVHe was able to do that so easily
+p131
+aVbecause he built it on top of Facebook,
+p132
+aVand Facebook was built on top of the web,
+p133
+aVand that was built on top of the Internet,
+p134
+aVand so on and so forth.
+p135
+aa(lp136
+VNow individually, digital, exponential and combinatorial
+p137
+aVwould each be game-changers.
+p138
+aVPut them together, and we're seeing a wave
+p139
+aVof astonishing breakthroughs,
+p140
+aVlike robots that do factory work or run as fast as a cheetah
+p141
+aVor leap tall buildings in a single bound.
+p142
+aVYou know, robots are even revolutionizing
+p143
+aVcat transportation.
+p144
+aa(lp145
+V(Laughter)
+p146
+aa(lp147
+VBut perhaps the most important invention,
+p148
+aVthe most important invention is machine learning.
+p149
+aVConsider one project: IBM's Watson.
+p150
+aVThese little dots here,
+p151
+aVthose are all the champions on the quiz show "Jeopardy."
+p152
+aVAt first, Watson wasn't very good,
+p153
+aVbut it improved at a rate faster than any human could,
+p154
+aVand shortly after Dave Ferrucci showed this chart
+p155
+aVto my class at MIT,
+p156
+aVWatson beat the world "Jeopardy" champion.
+p157
+aVAt age seven, Watson is still kind of in its childhood.
+p158
+aVRecently, its teachers let it surf the Internet unsupervised.
+p159
+aVThe next day, it started answering questions with profanities.
+p160
+aVDamn. (Laughter)
+p161
+aa(lp162
+VBut you know, Watson is growing up fast.
+p163
+aVIt's being tested for jobs in call centers, and it's getting them.
+p164
+aVIt's applying for legal, banking and medical jobs,
+p165
+aVand getting some of them.
+p166
+aVIsn't it ironic that at the very moment
+p167
+aVwe are building intelligent machines,
+p168
+aVperhaps the most important invention in human history,
+p169
+aVsome people are arguing that innovation is stagnating?
+p170
+aVLike the first two industrial revolutions,
+p171
+aVthe full implications of the new machine age
+p172
+aVare going to take at least a century to fully play out,
+p173
+aVbut they are staggering.
+p174
+aa(lp175
+VSo does that mean we have nothing to worry about?
+p176
+aVNo. Technology is not destiny.
+p177
+aVProductivity is at an all time high,
+p178
+aVbut fewer people now have jobs.
+p179
+aVWe have created more wealth in the past decade than ever,
+p180
+aVbut for a majority of Americans, their income has fallen.
+p181
+aVThis is the great decoupling
+p182
+aVof productivity from employment,
+p183
+aVof wealth from work.
+p184
+aVYou know, it's not surprising that millions of people
+p185
+aVhave become disillusioned by the great decoupling,
+p186
+aVbut like too many others,
+p187
+aVthey misunderstand its basic causes.
+p188
+aVTechnology is racing ahead,
+p189
+aVbut it's leaving more and more people behind.
+p190
+aVToday, we can take a routine job,
+p191
+aVcodify it in a set of machine-readable instructions,
+p192
+aVand then replicate it a million times.
+p193
+aa(lp194
+VYou know, I recently overheard a conversation
+p195
+aVthat epitomizes these new economics.
+p196
+aVThis guy says, "Nah, I don't use H&R Block anymore.
+p197
+aVTurboTax does everything that my tax preparer did,
+p198
+aVbut it's faster, cheaper and more accurate."
+p199
+aVHow can a skilled worker
+p200
+aVcompete with a $39 piece of software?
+p201
+aVShe can't.
+p202
+aVToday, millions of Americans do have faster,
+p203
+aVcheaper, more accurate tax preparation,
+p204
+aVand the founders of Intuit
+p205
+aVhave done very well for themselves.
+p206
+aVBut 17 percent of tax preparers no longer have jobs.
+p207
+aVThat is a microcosm of what's happening,
+p208
+aVnot just in software and services, but in media and music,
+p209
+aVin finance and manufacturing, in retailing and trade \u2014
+p210
+aVin short, in every industry.
+p211
+aVPeople are racing against the machine,
+p212
+aVand many of them are losing that race.
+p213
+aa(lp214
+VWhat can we do to create shared prosperity?
+p215
+aVThe answer is not to try to slow down technology.
+p216
+aVInstead of racing against the machine,
+p217
+aVwe need to learn to race with the machine.
+p218
+aVThat is our grand challenge.
+p219
+aa(lp220
+VThe new machine age
+p221
+aVcan be dated to a day 15 years ago
+p222
+aVwhen Garry Kasparov, the world chess champion,
+p223
+aVplayed Deep Blue, a supercomputer.
+p224
+aVThe machine won that day,
+p225
+aVand today, a chess program running on a cell phone
+p226
+aVcan beat a human grandmaster.
+p227
+aVIt got so bad that, when he was asked
+p228
+aVwhat strategy he would use against a computer,
+p229
+aVJan Donner, the Dutch grandmaster, replied,
+p230
+aV"I'd bring a hammer."
+p231
+aa(lp232
+V(Laughter)
+p233
+aa(lp234
+VBut today a computer is no longer the world chess champion.
+p235
+aVNeither is a human,
+p236
+aVbecause Kasparov organized a freestyle tournament
+p237
+aVwhere teams of humans and computers
+p238
+aVcould work together,
+p239
+aVand the winning team had no grandmaster,
+p240
+aVand it had no supercomputer.
+p241
+aVWhat they had was better teamwork,
+p242
+aVand they showed that a team of humans and computers,
+p243
+aVworking together, could beat any computer
+p244
+aVor any human working alone.
+p245
+aVRacing with the machine
+p246
+aVbeats racing against the machine.
+p247
+aVTechnology is not destiny.
+p248
+aVWe shape our destiny.
+p249
+aa(lp250
+VThank you.
+p251
+aa(lp252
+V(Applause)
+p253
+aasS'id'
+p254
+I1720
+sS'title'
+p255
+VThe key to growth? Race with the machines
+p256
+s.

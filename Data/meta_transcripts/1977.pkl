@@ -1,0 +1,774 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VType is something we consume
+p4
+aVin enormous quantities.
+p5
+aVIn much of the world,
+p6
+aVit's completely inescapable.
+p7
+aVBut few consumers are concerned to know
+p8
+aVwhere a particular typeface came from
+p9
+aVor when or who designed it,
+p10
+aVif, indeed, there was any human agency involved
+p11
+aVin its creation, if it didn't just sort of materialize
+p12
+aVout of the software ether.
+p13
+aa(lp14
+VBut I do have to be concerned with those things.
+p15
+aVIt's my job.
+p16
+aVI'm one of the tiny handful of people
+p17
+aVwho gets badly bent out of shape
+p18
+aVby the bad spacing of the T and the E
+p19
+aVthat you see there.
+p20
+aVI've got to take that slide off.
+p21
+aVI can't stand it. Nor can Chris.
+p22
+aVThere. Good.
+p23
+aa(lp24
+VSo my talk is about the connection
+p25
+aVbetween technology and design of type.
+p26
+aVThe technology has changed
+p27
+aVa number of times since I started work:
+p28
+aVphoto, digital, desktop, screen, web.
+p29
+aVI've had to survive those changes and try
+p30
+aVto understand their implications for what I do
+p31
+aVfor design.
+p32
+aVThis slide is about the effect of tools on form.
+p33
+aVThe two letters, the two K's,
+p34
+aVthe one on your left, my right, is modern,
+p35
+aVmade on a computer.
+p36
+aVAll straight lines are dead straight.
+p37
+aVThe curves have that kind of mathematical smoothness
+p38
+aVthat the Bézier formula imposes.
+p39
+aVOn the right, ancient Gothic,
+p40
+aVcut in the resistant material of steel by hand.
+p41
+aVNone of the straight lines are actually straight.
+p42
+aVThe curves are kind of subtle.
+p43
+aVIt has that spark of life from the human hand
+p44
+aVthat the machine or the program
+p45
+aVcan never capture.
+p46
+aVWhat a contrast.
+p47
+aa(lp48
+VWell, I tell a lie.
+p49
+aVA lie at TED. I'm really sorry.
+p50
+aVBoth of these were made on a computer,
+p51
+aVsame software, same Bézier curves,
+p52
+aVsame font format.
+p53
+aVThe one on your left
+p54
+aVwas made by Zuzana Licko at Emigre,
+p55
+aVand I did the other one.
+p56
+aVThe tool is the same, yet the letters are different.
+p57
+aVThe letters are different
+p58
+aVbecause the designers are different.
+p59
+aVThat's all. Zuzana wanted hers to look like that.
+p60
+aVI wanted mine to look like that. End of story.
+p61
+aVType is very adaptable.
+p62
+aVUnlike a fine art, such as sculpture or architecture,
+p63
+aVtype hides its methods.
+p64
+aVI think of myself as an industrial designer.
+p65
+aVThe thing I design is manufactured,
+p66
+aVand it has a function:
+p67
+aVto be read, to convey meaning.
+p68
+aVBut there is a bit more to it than that.
+p69
+aVThere's the sort of aesthetic element.
+p70
+aVWhat makes these two letters different
+p71
+aVfrom different interpretations by different designers?
+p72
+aVWhat gives the work of some designers
+p73
+aVsort of characteristic personal style,
+p74
+aVas you might find in the work of a fashion designer,
+p75
+aVan automobile designer, whatever?
+p76
+aa(lp77
+VThere have been some cases, I admit,
+p78
+aVwhere I as a designer
+p79
+aVdid feel the influence of technology.
+p80
+aVThis is from the mid-'60s,
+p81
+aVthe change from metal type to photo,
+p82
+aVhot to cold.
+p83
+aVThis brought some benefits
+p84
+aVbut also one particular drawback:
+p85
+aVa spacing system that only provided
+p86
+aV18 discrete units for letters
+p87
+aVto be accommodated on.
+p88
+aVI was asked at this time to design
+p89
+aVa series of condensed sans serif types
+p90
+aVwith as many different variants as possible
+p91
+aVwithin this 18-unit box.
+p92
+aVQuickly looking at the arithmetic,
+p93
+aVI realized I could only actually make three
+p94
+aVof related design. Here you see them.
+p95
+aVIn Helvetica Compressed, Extra Compressed,
+p96
+aVand Ultra Compressed, this rigid 18-unit system
+p97
+aVreally boxed me in.
+p98
+aVIt kind of determined the proportions
+p99
+aVof the design.
+p100
+aVHere are the typefaces, at least the lower cases.
+p101
+aVSo do you look at these and say,
+p102
+aV"Poor Matthew, he had to submit to a problem,
+p103
+aVand by God it shows in the results."
+p104
+aVI hope not.
+p105
+aVIf I were doing this same job today,
+p106
+aVinstead of having 18 spacing units,
+p107
+aVI would have 1,000.
+p108
+aVClearly I could make more variants,
+p109
+aVbut would these three members of the family be better?
+p110
+aVIt's hard to say without actually doing it,
+p111
+aVbut they would not be better in the proportion
+p112
+aVof 1,000 to 18, I can tell you that.
+p113
+aVMy instinct tells you that any improvement
+p114
+aVwould be rather slight, because they were designed
+p115
+aVas functions of the system they were designed to fit,
+p116
+aVand as I said, type is very adaptable.
+p117
+aVIt does hide its methods.
+p118
+aVAll industrial designers work within constraints.
+p119
+aVThis is not fine art.
+p120
+aa(lp121
+VThe question is, does a constraint
+p122
+aVforce a compromise?
+p123
+aVBy accepting a constraint,
+p124
+aVare you working to a lower standard?
+p125
+aVI don't believe so, and I've always been encouraged
+p126
+aVby something that Charles Eames said.
+p127
+aVHe said he was conscious of working
+p128
+aVwithin constraints,
+p129
+aVbut not of making compromises.
+p130
+aVThe distinction between a constraint
+p131
+aVand a compromise is obviously very subtle,
+p132
+aVbut it's very central to my attitude to work.
+p133
+aa(lp134
+VRemember this reading experience?
+p135
+aVThe phone book. I'll hold the slide
+p136
+aVso you can enjoy the nostalgia.
+p137
+aVThis is from the mid-'70s early trials
+p138
+aVof Bell Centennial typeface I designed
+p139
+aVfor the U.S. phone books,
+p140
+aVand it was my first experience of digital type,
+p141
+aVand quite a baptism.
+p142
+aVDesigned for the phone books, as I said,
+p143
+aVto be printed at tiny size on newsprint
+p144
+aVon very high-speed rotary presses
+p145
+aVwith ink that was kerosene and lampblack.
+p146
+aVThis is not a hospitable environment
+p147
+aVfor a typographic designer.
+p148
+aVSo the challenge for me was to design type
+p149
+aVthat performed as well as possible
+p150
+aVin these very adverse production conditions.
+p151
+aVAs I say, we were in the infancy of digital type.
+p152
+aVI had to draw every character by hand
+p153
+aVon quadrille graph paper \u2014
+p154
+aVthere were four weights of Bell Centennial \u2014
+p155
+aVpixel by pixel, then encode them raster line by raster line
+p156
+aVfor the keyboard.
+p157
+aVIt took two years, but I learned a lot.
+p158
+aVThese letters look as though they've been chewed
+p159
+aVby the dog or something or other,
+p160
+aVbut the missing pixels at the intersections
+p161
+aVof strokes or in the crotches
+p162
+aVare the result of my studying the effects
+p163
+aVof ink spread on cheap paper
+p164
+aVand reacting, revising the font accordingly.
+p165
+aVThese strange artifacts are designed to compensate
+p166
+aVfor the undesirable effects of scale
+p167
+aVand production process.
+p168
+aVAt the outset, AT&T had wanted
+p169
+aVto set the phone books in Helvetica,
+p170
+aVbut as my friend Erik Spiekermann said
+p171
+aVin the Helvetica movie, if you've seen that,
+p172
+aVthe letters in Helvetica were designed to be
+p173
+aVas similar to one another as possible.
+p174
+aVThis is not the recipe for legibility at small size.
+p175
+aVIt looks very elegant up on a slide.
+p176
+aVI had to disambiguate these forms
+p177
+aVof the figures as much as possible in Bell Centennial
+p178
+aVby sort of opening the shapes up, as you can see
+p179
+aVin the bottom part of that slide.
+p180
+aa(lp181
+VSo now we're on to the mid-'80s,
+p182
+aVthe early days of digital outline fonts,
+p183
+aVvector technology.
+p184
+aVThere was an issue at that time
+p185
+aVwith the size of the fonts,
+p186
+aVthe amount of data that was required to find
+p187
+aVand store a font in computer memory.
+p188
+aVIt limited the number of fonts you could get
+p189
+aVon your typesetting system at any one time.
+p190
+aVI did an analysis of the data,
+p191
+aVand found that a typical serif face
+p192
+aVyou see on the left
+p193
+aVneeded nearly twice as much data
+p194
+aVas a sans serif in the middle
+p195
+aVbecause of all the points required
+p196
+aVto define the elegantly curved serif brackets.
+p197
+aVThe numbers at the bottom of the slide, by the way,
+p198
+aVthey represent the amount of data
+p199
+aVneeded to store each of the fonts.
+p200
+aVSo the sans serif, in the middle,
+p201
+aVsans the serifs, was much more economical,
+p202
+aV81 to 151.
+p203
+aa(lp204
+V"Aha," I thought. "The engineers have a problem.
+p205
+aVDesigner to the rescue."
+p206
+aa(lp207
+VI made a serif type, you can see it on the right,
+p208
+aVwithout curved serifs.
+p209
+aVI made them polygonal, out of straight line segments,
+p210
+aVchamfered brackets.
+p211
+aVAnd look, as economical in data as a sans serif.
+p212
+aVWe call it Charter, on the right.
+p213
+aa(lp214
+VSo I went to the head of engineering
+p215
+aVwith my numbers, and I said proudly,
+p216
+aV"I have solved your problem."
+p217
+aa(lp218
+V"Oh," he said. "What problem?"
+p219
+aa(lp220
+VAnd I said, "Well, you know, the problem
+p221
+aVof the huge data you require for serif fonts and so on."
+p222
+aa(lp223
+V"Oh," he said. "We solved that problem last week.
+p224
+aVWe wrote a compaction routine that reduces
+p225
+aVthe size of all fonts by an order of magnitude.
+p226
+aVYou can have as many fonts on your system
+p227
+aVas you like."
+p228
+aa(lp229
+V"Well, thank you for letting me know," I said.
+p230
+aa(lp231
+VFoiled again.
+p232
+aVI was left with a design solution
+p233
+aVfor a nonexistent technical problem.
+p234
+aa(lp235
+VBut here is where the story sort of gets interesting for me.
+p236
+aVI didn't just throw my design away
+p237
+aVin a fit of pique.
+p238
+aVI persevered.
+p239
+aVWhat had started as a technical exercise
+p240
+aVbecame an aesthetic exercise, really.
+p241
+aVIn other words, I had come to like this typeface.
+p242
+aVForget its origins. Screw that.
+p243
+aVI liked the design for its own sake.
+p244
+aVThe simplified forms of Charter
+p245
+aVgave it a sort of plain-spoken quality
+p246
+aVand unfussy spareness
+p247
+aVthat sort of pleased me.
+p248
+aVYou know, at times of technical innovation,
+p249
+aVdesigners want to be influenced
+p250
+aVby what's in the air.
+p251
+aVWe want to respond. We want to be pushed
+p252
+aVinto exploring something new.
+p253
+aVSo Charter is a sort of parable for me, really.
+p254
+aVIn the end, there was no hard and fast causal link
+p255
+aVbetween the technology and the design of Charter.
+p256
+aVI had really misunderstood the technology.
+p257
+aVThe technology did suggest something to me,
+p258
+aVbut it did not force my hand,
+p259
+aVand I think this happens very often.
+p260
+aa(lp261
+VYou know, engineers are very smart,
+p262
+aVand despite occasional frustrations
+p263
+aVbecause I'm less smart,
+p264
+aVI've always enjoyed working with them
+p265
+aVand learning from them.
+p266
+aVApropos, in the mid-'90s,
+p267
+aVI started talking to Microsoft
+p268
+aVabout screen fonts.
+p269
+aVUp to that point, all the fonts on screen
+p270
+aVhad been adapted from previously existing
+p271
+aVprinting fonts, of course.
+p272
+aVBut Microsoft foresaw correctly
+p273
+aVthe movement, the stampede
+p274
+aVtowards electronic communication,
+p275
+aVto reading and writing onscreen
+p276
+aVwith the printed output as being sort of secondary
+p277
+aVin importance.
+p278
+aa(lp279
+VSo the priorities were just tipping at that point.
+p280
+aVThey wanted a small core set of fonts
+p281
+aVthat were not adapted but designed for the screen
+p282
+aVto face up to the problems of screen,
+p283
+aVwhich were their coarse resolution displays.
+p284
+aVI said to Microsoft, a typeface designed
+p285
+aVfor a particular technology
+p286
+aVis a self-obsoleting typeface.
+p287
+aVI've designed too many faces in the past
+p288
+aVthat were intended to mitigate technical problems.
+p289
+aVThanks to the engineers, the technical problems went away.
+p290
+aVSo did my typeface.
+p291
+aVIt was only a stopgap.
+p292
+aVMicrosoft came back to say that
+p293
+aVaffordable computer monitors
+p294
+aVwith better resolutions
+p295
+aVwere at least a decade away.
+p296
+aVSo I thought, well, a decade, that's not bad,
+p297
+aVthat's more than a stopgap.
+p298
+aa(lp299
+VSo I was persuaded, I was convinced,
+p300
+aVand we went to work on what became Verdana
+p301
+aVand Georgia,
+p302
+aVfor the first time working not on paper
+p303
+aVbut directly onto the screen from the pixel up.
+p304
+aVAt that time, screens were binary.
+p305
+aVThe pixel was either on or it was off.
+p306
+aVHere you see the outline of a letter,
+p307
+aVthe cap H,
+p308
+aVwhich is the thin black line, the contour,
+p309
+aVwhich is how it is stored in memory,
+p310
+aVsuperimposed on the bitmap,
+p311
+aVwhich is the grey area,
+p312
+aVwhich is how it's displayed on the screen.
+p313
+aVThe bitmap is rasterized from the outline.
+p314
+aVHere in a cap H, which is all straight lines,
+p315
+aVthe two are in almost perfect sync
+p316
+aVon the Cartesian grid.
+p317
+aVNot so with an O.
+p318
+aVThis looks more like bricklaying than type design,
+p319
+aVbut believe me, this is a good bitmap O,
+p320
+aVfor the simple reason that it's symmetrical
+p321
+aVin both x and y axes.
+p322
+aVIn a binary bitmap, you actually can't ask
+p323
+aVfor more than that.
+p324
+aVI would sometimes make, I don't know,
+p325
+aVthree or four different versions of a difficult letter
+p326
+aVlike a lowercase A,
+p327
+aVand then stand back to choose which was the best.
+p328
+aVWell, there was no best,
+p329
+aVso the designer's judgment comes in
+p330
+aVin trying to decide
+p331
+aVwhich is the least bad.
+p332
+aVIs that a compromise?
+p333
+aVNot to me, if you are working
+p334
+aVat the highest standard the technology will allow,
+p335
+aValthough that standard may be
+p336
+aVwell short of the ideal.
+p337
+aVYou may be able to see on this slide
+p338
+aVtwo different bitmap fonts there.
+p339
+aVThe "a" in the upper one, I think,
+p340
+aVis better than the "a" in the lower one,
+p341
+aVbut it still ain't great.
+p342
+aVYou can maybe see the effect better
+p343
+aVif it's reduced. Well, maybe not.
+p344
+aa(lp345
+VSo I'm a pragmatist, not an idealist,
+p346
+aVout of necessity.
+p347
+aVFor a certain kind of temperament,
+p348
+aVthere is a certain kind of satisfaction
+p349
+aVin doing something that cannot be perfect
+p350
+aVbut can still be done to the best of your ability.
+p351
+aVHere's the lowercase H from Georgia Italic.
+p352
+aVThe bitmap looks jagged and rough.
+p353
+aVIt is jagged and rough.
+p354
+aVBut I discovered, by experiment,
+p355
+aVthat there is an optimum slant
+p356
+aVfor an italic on a screen
+p357
+aVso the strokes break well
+p358
+aVat the pixel boundaries.
+p359
+aVLook in this example how, rough as it is,
+p360
+aVhow the left and right legs
+p361
+aVactually break at the same level.
+p362
+aVThat's a victory. That's good, right there.
+p363
+aVAnd of course, at the lower depths,
+p364
+aVyou don't get much choice.
+p365
+aVThis is an S, in case you were wondering.
+p366
+aa(lp367
+VWell, it's been 18 years now
+p368
+aVsince Verdana and Georgia were released.
+p369
+aVMicrosoft were absolutely right,
+p370
+aVit took a good 10 years,
+p371
+aVbut screen displays now do have
+p372
+aVimproved spatial resolution,
+p373
+aVand very much improved photometric resolution
+p374
+aVthanks to anti-aliasing and so on.
+p375
+aVSo now that their mission is accomplished,
+p376
+aVhas that meant the demise
+p377
+aVof the screen fonts that I designed
+p378
+aVfor coarser displays back then?
+p379
+aVWill they outlive the now-obsolete screens
+p380
+aVand the flood of new web fonts
+p381
+aVcoming on to the market?
+p382
+aVOr have they established their own
+p383
+aVsort of evolutionary niche
+p384
+aVthat is independent of technology?
+p385
+aVIn other words, have they been absorbed
+p386
+aVinto the typographic mainstream?
+p387
+aVI'm not sure, but they've had a good run so far.
+p388
+aVHey, 18 is a good age for anything
+p389
+aVwith present-day rates of attrition,
+p390
+aVso I'm not complaining.
+p391
+aa(lp392
+VThank you.
+p393
+aa(lp394
+V(Applause)
+p395
+aasS'id'
+p396
+I1977
+sS'title'
+p397
+VMy life in typefaces
+p398
+s.

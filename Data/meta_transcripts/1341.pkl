@@ -1,0 +1,490 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VI want to talk to you about,
+p4
+aVor share with you, a breakthrough new approach
+p5
+aVfor managing items of inventory inside of a warehouse.
+p6
+aVWe're talking about a pick, pack and ship setting here.
+p7
+aa(lp8
+VSo as a hint,
+p9
+aVthis solution involves hundreds of mobile robots,
+p10
+aVsometimes thousands of mobile robots,
+p11
+aVmoving around a warehouse. And I'll get to the solution.
+p12
+aVBut for a moment, just think
+p13
+aVabout the last time that you ordered something online.
+p14
+aVYou were sitting on your couch
+p15
+aVand you decided that you absolutely had to have this red t-shirt.
+p16
+aVSo \u2014 click! \u2014 you put it into your shopping cart.
+p17
+aVAnd then you decided that green pair of pants
+p18
+aVlooks pretty good too \u2014 click!
+p19
+aVAnd maybe a blue pair of shoes \u2014 click!
+p20
+aVSo at this point you've assembled your order.
+p21
+aVYou didn't stop to think  for a moment that
+p22
+aVthat might not be a great outfit.
+p23
+aVBut you hit "submit order."
+p24
+aVAnd two days later, this package shows up on your doorstep.
+p25
+aVAnd you open the box and you're like, wow, there's my goo.
+p26
+aa(lp27
+VDid you ever stop to think about how those items of inventory
+p28
+aVactually found their way inside that box in the warehouse?
+p29
+aVSo I'm here to tell you  it's that guy right there.
+p30
+aVSo deep in the middle of that picture,
+p31
+aVyou see a classic pick-pack worker
+p32
+aVin a distribution or order fulfillments setting.
+p33
+aVClassically these pick workers will  spend 60 or 70 percent of their day
+p34
+aVwandering around the warehouse.
+p35
+aVThey'll often walk as much as 5 or 10 miles
+p36
+aVin pursuit of those items of inventory.
+p37
+aVNot only is this an unproductive way to fill orders,
+p38
+aVit also turns out to be an unfulfilling way to fill orders.
+p39
+aa(lp40
+VSo let me tell you where I first bumped into this problem.
+p41
+aVI was out in the Bay area  in '99, 2000, the dot com boom.
+p42
+aVI worked for a fabulously spectacular flame-out called Webvan.
+p43
+aV(Laughter)
+p44
+aVThis company raised hundreds of millions of dollars with the notion that
+p45
+aVwe will deliver grocery orders online.
+p46
+aVAnd it really came down to the fact that we couldn't do it cost effectively.
+p47
+aVTurns out e-commerce was something that was very hard and very costly.
+p48
+aVIn this particular instance we were trying to assemble 30 items of inventory
+p49
+aVinto a few totes, onto a van to deliver to the home.
+p50
+aVAnd when you think about it, it was costing us 30 dollars.
+p51
+aVImagine, we had an 89¢ can of soup
+p52
+aVthat was costing us one dollar to pick and pack into that tote.
+p53
+aVAnd that's before we actually tried to deliver it to the home.
+p54
+aa(lp55
+VSo long story short, during my one year at Webvan,
+p56
+aVwhat I realized by talking to  all the material-handling providers
+p57
+aVwas that there was no solution designed specifically to solve each base picking.
+p58
+aVRed item, green, blue, getting those three things in a box.
+p59
+aVSo we said, there's just got to be a better way to do this.
+p60
+aVExisting material handling was set up to pump
+p61
+aVpallets and cases of goo to retail stores.
+p62
+aa(lp63
+VOf course Webvan went out of business, and about a year and a half later,
+p64
+aVI was still noodling on this problem. It was still nagging at me.
+p65
+aVAnd I started thinking about it again.
+p66
+aVAnd I said, let me just focus briefly on what I wanted as a pick worker,
+p67
+aVor my vision for how it should work.
+p68
+aV(Laughter)
+p69
+aVI said, let's focus on the problem.
+p70
+aVI have an order here and what I want to do is I want to put
+p71
+aVred, green and blue in this box right here.
+p72
+aVWhat I need is a system where I put out my hand and \u2014 poof! \u2014
+p73
+aVthe product shows up  and I pack it into the order,
+p74
+aVand now we're thinking,
+p75
+aVthis would be a very operator-centric approach to solving the problem.
+p76
+aVThis is what I need. What technology is available to solve this problem?
+p77
+aVBut as you can see, orders can come and go, products can come and go.
+p78
+aVIt allows us to focus on making the pick worker the center of the problem,
+p79
+aVand providing them the tools to make them as productive as possible.
+p80
+aa(lp81
+VSo how did I arrive at this notion?
+p82
+aVWell, actually it came from a brainstorming exercise,
+p83
+aVprobably a technique that many of you use,
+p84
+aVIt's this notion of testing your ideas.
+p85
+aVTake a blank sheet, of course,
+p86
+aVbut then test your ideas at the limits \u2014 infinity, zero.
+p87
+aVIn this particular case, we challenged ourselves with the idea:
+p88
+aVWhat if we had to build a distribution center in China,
+p89
+aVwhere it's a very, very low-cost market?
+p90
+aVAnd say, labor is cheap, land is cheap.
+p91
+aVAnd we said specifically,
+p92
+aV"What if it was zero dollars an hour for direct labor
+p93
+aVand we could build a million- square-foot distribution center?"
+p94
+aVSo naturally that led to ideas that said,
+p95
+aV"Let's put lots of people in the warehouse."
+p96
+aVAnd I said, "Hold on, zero dollars per hour,
+p97
+aVwhat I would do is 'hire'
+p98
+aV10,000 workers to come to the warehouse every morning at 8 a.m.,
+p99
+aVwalk into the warehouse and pick up one item of inventory
+p100
+aVand then just stand there.
+p101
+aVSo you hold Captain Crunch, you hold the Mountain Dew,
+p102
+aVyou hold the Diet Coke.
+p103
+aVIf I need it, I'll call you, otherwise just stand there.
+p104
+aVBut when I need Diet Coke and I call it, you guys talk amongst yourselves.
+p105
+aVDiet Coke walks up to the front \u2014 pick it, put it in the tote, away it goes."
+p106
+aVWow, what if the products could walk and talk on their own?
+p107
+aVThat's a very interesting, very powerful way
+p108
+aVthat we could potentially organize this warehouse.
+p109
+aa(lp110
+VSo of course, labor isn't free,
+p111
+aVon that practical versus awesome spectrum.
+p112
+aV(Laughter)
+p113
+aVSo we said mobile shelving \u2014 We'll put them on mobile shelving.
+p114
+aVWe'll use mobile robots and we'll move the inventory around.
+p115
+aVAnd so we got underway on that and then I'm sitting on my couch in 2008.
+p116
+aVDid any of you see the Beijing Olympics, the opening ceremonies?
+p117
+aVI about fell out of my couch when I saw this.
+p118
+aVI'm like, that was the idea!
+p119
+aV(Laughter and Applause)
+p120
+aVWe'll put thousands of people on the warehouse floor, the stadium floor.
+p121
+aVBut interestingly enough, this actually relates to the idea
+p122
+aVin that these guys were creating some incredibly powerful, impressive digital art,
+p123
+aVall without computers, I'm told,
+p124
+aVit was all peer-to-peer coordination and communication.
+p125
+aVYou stand up, I'll squat down.
+p126
+aVAnd they made some fabulous art.
+p127
+aVIt speaks to the power of emergence
+p128
+aVin systems when you let things start to talk with each other.
+p129
+aVSo that was a little bit of the journey.
+p130
+aa(lp131
+VSo of course, now what became the practical reality of this idea?
+p132
+aVHere is a warehouse.
+p133
+aVIt's a pick, pack and ship center that has about 10,000 different SKUs.
+p134
+aVWe'll call them red pens, green pens, yellow Post-It Notes.
+p135
+aVWe send the little orange robots out to pick up the blue shelving pods.
+p136
+aVAnd we deliver them to the side of the building.
+p137
+aVSo all the pick workers now get to stay on the perimeter.
+p138
+aVAnd the game here is to pick up the shelves,
+p139
+aVtake them down the highway and deliver them straight to the pick worker.
+p140
+aVThis pick worker's life is completely different.
+p141
+aVRather than wandering around the warehouse, she gets to stay still
+p142
+aVin a pick station like this
+p143
+aVand every product in the building can now come to her.
+p144
+aa(lp145
+VSo the process is very productive.
+p146
+aVReach in, pick an item, scan the bar code, pack it out.
+p147
+aVBy the time you turn around,
+p148
+aVthere's another product there ready to be picked and packed.
+p149
+aVSo what we've done is take out all of the non-value added
+p150
+aVwalking, searching, wasting, waited time,
+p151
+aVand we've developed a very  high-fidelity way to pick these orders,
+p152
+aVwhere you point at it with a laser, scan the UPC barcode,
+p153
+aVand then indicate with a light which box it needs to go into.
+p154
+aVSo more productive, more accurate and, it turns out,
+p155
+aVit's a more interesting office environment for these pick workers.
+p156
+aVThey actually complete the whole order.
+p157
+aVSo they do red, green and blue, not just a part of the order.
+p158
+aVAnd they feel a little bit more in control of their environment.
+p159
+aa(lp160
+VSo the side effects of this approach
+p161
+aVare what really surprised us.
+p162
+aVWe knew it was going  to be more productive.
+p163
+aVBut we didn't realize just how pervasive this way of thinking
+p164
+aVextended to other functions in the warehouse.
+p165
+aVBut what effectively this approach is doing inside of the DC
+p166
+aVis turning it into a massively parallel processing engine.
+p167
+aVSo this is again a cross-fertilization of ideas.
+p168
+aVHere's a warehouse and we're thinking about
+p169
+aVparallel processing supercomputer architectures.
+p170
+aVThe notion here is that you have
+p171
+aV10 workers on  the right side of the screen
+p172
+aVthat are now all independent autonomous pick workers.
+p173
+aVIf the worker in station three decides to leave and go to the bathroom,
+p174
+aVit has no impact on the productivity of the other nine workers.
+p175
+aVContrast that, for a moment, with the traditional method of using a conveyor.
+p176
+aVWhen one person passes the order to you,
+p177
+aVyou put something in and pass it downstream.
+p178
+aVEveryone has to be in place for that serial process to work.
+p179
+aVThis becomes a more robust way to think about the warehouse.
+p180
+aa(lp181
+VAnd then underneath the hoods gets interesting in that we're tracking
+p182
+aVthe popularity of the products.
+p183
+aVAnd we're using dynamic and adaptive algorithms
+p184
+aVto tune the floor of the warehouse.
+p185
+aVSo what you see here potentially the week leading up to Valentine's Day.
+p186
+aVAll that pink chalky candy has moved to the front of the building
+p187
+aVand is now being picked into a lot of orders in those pick stations.
+p188
+aVCome in two days after Valentine's Day, and that candy, the leftover candy,
+p189
+aVhas all drifted to the back of the warehouse
+p190
+aVand is occupying the cooler zone on the thermal map there.
+p191
+aVOne other side effect of this approach using the parallel processing
+p192
+aVis these things can scale to ginormous.
+p193
+aV(Laughter)
+p194
+aVSo whether you're doing two pick stations, 20 pick stations,
+p195
+aVor 200 pick stations, the path planning algorithms
+p196
+aVand all of the inventory algorithms just work.
+p197
+aVIn this example you see that the inventory
+p198
+aVhas now occupied all the perimeter of the building
+p199
+aVbecause that's where the pick stations were.
+p200
+aVThey sorted it out for themselves.
+p201
+aa(lp202
+VSo I'll conclude with just one final video
+p203
+aVthat shows how this comes to bear
+p204
+aVon the pick worker's actual day in the life of.
+p205
+aVSo as we mentioned, the process is to move inventory along the highway
+p206
+aVand then find your way into these pick stations.
+p207
+aVAnd our software in the background
+p208
+aVunderstands what's going on  in each station,
+p209
+aVwe direct the pods across the highway
+p210
+aVand we're attempting to get into a queuing system
+p211
+aVto present the work to the pick worker.
+p212
+aVWhat's interesting is we can even adapt the speed of the pick workers.
+p213
+aVThe faster pickers get more pods and the slower pickers get few.
+p214
+aVBut this pick worker now is literally having that experience
+p215
+aVthat we described before.
+p216
+aVShe puts out her hand. The product jumps into it.
+p217
+aVOr she has to reach in and get it.
+p218
+aVShe scans it and  she puts it in the bucket.
+p219
+aVAnd all of the rest of the technology is kind of behind the scenes.
+p220
+aVSo she gets to now focus on the picking and packing portion of her job.
+p221
+aVNever has any idle time, never has to leave her mat.
+p222
+aVAnd actually we think not only a more productive
+p223
+aVand more accurate way to fill orders.
+p224
+aVWe think it's a more fulfilling way to fill orders.
+p225
+aa(lp226
+VThe reason we can say that, though, is that workers
+p227
+aVin a lot of these buildings now compete
+p228
+aVfor the privilege of working in the Kiva zone that day.
+p229
+aVAnd sometimes we'll catch them on testimonial videos
+p230
+aVsaying such things as,
+p231
+aVthey have more energy after the day to play with their grandchildren,
+p232
+aVor in one case a guy said, "the Kiva zone is so stress-free
+p233
+aVthat I've actually stopped taking my blood pressure medication."
+p234
+aV(Laughter)
+p235
+aVThat was at a pharmaceutical distributor, so they told us not to use that video.
+p236
+aV(Laughter)
+p237
+aa(lp238
+VSo what I wanted to leave you with today is the notion that
+p239
+aVwhen you let things start to think and walk
+p240
+aVand talk on their own, interesting processes and productivities can emerge.
+p241
+aVAnd now I think next time you go to your front step
+p242
+aVand pick up that box that you just ordered online,
+p243
+aVyou break it open and the goo is in there,
+p244
+aVyou'll have some wonderment as to whether a robot
+p245
+aVassisted in the picking and packing of that order.
+p246
+aa(lp247
+VThank you.
+p248
+aV(Applause)
+p249
+aasS'id'
+p250
+I1341
+sS'title'
+p251
+VWhat happens inside those massive warehouses?
+p252
+s.

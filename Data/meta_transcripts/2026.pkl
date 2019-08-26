@@ -1,0 +1,400 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VMy grandfather was a cobbler.
+p4
+aVBack in the day, he made custom-made shoes.
+p5
+aVI never got to meet him.
+p6
+aVHe perished in the Holocaust.
+p7
+aVBut I did inherit his love for making,
+p8
+aVexcept that it doesn't exist that much anymore.
+p9
+aVYou see, while the Industrial Revolution
+p10
+aVdid a great deal to improve humanity,
+p11
+aVit eradicated the very skill
+p12
+aVthat my grandfather loved,
+p13
+aVand it atrophied craftsmanship as we know it.
+p14
+aa(lp15
+VBut all of that is about to change with 3D printing,
+p16
+aVand it all started with this,
+p17
+aVthe very first part
+p18
+aVthat was ever printed.
+p19
+aVIt's a little older than TED.
+p20
+aVIt was printed in 1983
+p21
+aVby Chuck Hull,
+p22
+aVwho invented 3D printing.
+p23
+aVBut the thing that I want to talk to you about today,
+p24
+aVthe big idea that I want to discuss with you,
+p25
+aVis not that 3D printing
+p26
+aVis going to catapult us into the future,
+p27
+aVbut rather that it's actually going
+p28
+aVto connect us with our heritage,
+p29
+aVand it's going to usher in a new era
+p30
+aVof localized, distributed manufacturing
+p31
+aVthat is actually based
+p32
+aVon digital fabrication.
+p33
+aa(lp34
+VSo think about useful things.
+p35
+aVYou all know your shoe size.
+p36
+aVHow many of you know the size
+p37
+aVof the bridge of your nose
+p38
+aVor the distance between your temples?
+p39
+aVAnybody?
+p40
+aVWouldn't it be awesome if you could,
+p41
+aVfor the first time, get eyewear
+p42
+aVthat actually fits you perfectly
+p43
+aVand doesn't require any hinge assembly,
+p44
+aVso chances are, the hinges are not going to break?
+p45
+aVBut the implications of 3D printing
+p46
+aVgo well beyond the tips of our noses.
+p47
+aa(lp48
+VWhen I met Amanda for the first time,
+p49
+aVshe could already stand up and walk a little bit
+p50
+aVeven though she was paralyzed from the waist down,
+p51
+aVbut she complained to me that her suit
+p52
+aVwas uncomfortable.
+p53
+aVIt was a beautiful robotic suit
+p54
+aVmade by Ekso Bionics,
+p55
+aVbut it wasn't inspired by her body.
+p56
+aVIt wasn't made to measure.
+p57
+aVSo she challenged me to make her something
+p58
+aVthat was a little bit more feminine,
+p59
+aVa little bit more elegant,
+p60
+aVand lightweight,
+p61
+aVand like good tailors,
+p62
+aVwe thought that we would measure her digitally.
+p63
+aVAnd we did. We built her an amazing suit.
+p64
+aa(lp65
+VThe incredible part about what I learned
+p66
+aVfrom Amanda is a lot of us are looking at 3D printing
+p67
+aVand we say to ourselves,
+p68
+aVit's going to replace traditional methods.
+p69
+aVAmanda looked at it and she said,
+p70
+aVit's an opportunity for me
+p71
+aVto reclaim my symmetry
+p72
+aVand to embrace my authenticity.
+p73
+aVAnd you know what? She's not standing still.
+p74
+aVShe now wants to walk in high heels.
+p75
+aa(lp76
+VIt doesn't stop there.
+p77
+aV3D printing is changing
+p78
+aVpersonalized medical devices as we know them,
+p79
+aVfrom new, beautiful, conformal,
+p80
+aVventilated scoliosis braces
+p81
+aVto millions of dental restorations
+p82
+aVand to beautiful bracings
+p83
+aVfor amputees,
+p84
+aVanother opportunity to emotionally reconnect
+p85
+aVwith your symmetry.
+p86
+aVAnd as we sit here today,
+p87
+aVyou can go wireless on your braces
+p88
+aVwith clear aligners,
+p89
+aVor your dental restorations.
+p90
+aVMillions of in-the-ear hearing aids
+p91
+aVare already 3D printed today.
+p92
+aVMillions of people are served today
+p93
+aVfrom these devices.
+p94
+aVWhat about full knee replacements,
+p95
+aVfrom your data, made to measure,
+p96
+aVwhere all of the tools and guides are 3D printed?
+p97
+aVG.E. is using 3D printing
+p98
+aVto make the next generation LEAP engine
+p99
+aVthat will save fuel to the tune
+p100
+aVof about 15 percent
+p101
+aVand cost for an airline
+p102
+aVof about 14 million dollars.
+p103
+aVGood for G.E., right?
+p104
+aVAnd their customers and the environment.
+p105
+aVBut, you know, the even better news
+p106
+aVis that this technology is no longer reserved
+p107
+aVfor deep-pocketed corporations.
+p108
+aVPlanetary Resources, a startup
+p109
+aVfor space explorations
+p110
+aVis going to put out its first  space probe later this year.
+p111
+aVIt was a fraction of a NASA spaceship,
+p112
+aVit costs a fraction of its cost,
+p113
+aVand it's made with less than a dozen moving parts,
+p114
+aVand it's going to be out in space later this year.
+p115
+aVGoogle is taking on this very audacious project
+p116
+aVof making the block phone, the Ara.
+p117
+aVIt's only possible because of the development
+p118
+aVof high-speed 3D printing that for the first time
+p119
+aVwill make functional, usable modules
+p120
+aVthat will go into it.
+p121
+aVA real moonshot, powered by 3D printing.
+p122
+aa(lp123
+VHow about food?
+p124
+aVWhat if we could, for the first time,
+p125
+aVmake incredible delectables
+p126
+aVlike this beautiful TED Teddy here,
+p127
+aVthat are edible?
+p128
+aVWhat if we could completely change the experience,
+p129
+aVlike you see with that absinthe serving
+p130
+aVthat is completely 3D printed?
+p131
+aVAnd what if we could begin to put ingredients
+p132
+aVand colors and flavors in every taste,
+p133
+aVwhich means not only delicious foods
+p134
+aVbut the promise of personalized nutrition
+p135
+aVaround the corner?
+p136
+aa(lp137
+VAnd that gets me to one of the biggest deals about 3D printing.
+p138
+aVWith 3D printing, complexity is free.
+p139
+aVThe printer doesn't care
+p140
+aVif it makes the most rudimentary shape
+p141
+aVor the most complex shape,
+p142
+aVand that is completely turning design
+p143
+aVand manufacturing on its head as we know it.
+p144
+aVMany people think that 3D printing will be
+p145
+aVthe end of manufacturing as we know it.
+p146
+aVI think that it's the opportunity to put
+p147
+aVtomorrow's technology in the hands of youngsters
+p148
+aVthat will create endless abundance
+p149
+aVof job opportunities,
+p150
+aVand with that,
+p151
+aVeverybody can become an expert maker
+p152
+aVand an expert manufacturer.
+p153
+aVThat will take new tools.
+p154
+aVNot everybody knows how to use CAD,
+p155
+aVso we're developing haptics,
+p156
+aVperceptual devices
+p157
+aVthat will allow you to touch
+p158
+aVand feel your designs
+p159
+aVas if you play with digital clay.
+p160
+aVWhen you do things like that,
+p161
+aVand we also developed things that take
+p162
+aVphysical photographs that are instantly printable,
+p163
+aVit will make it easier to create content,
+p164
+aVbut with all of the unimagined,
+p165
+aVwe will also have the unintended,
+p166
+aVlike democratized counterfeiting
+p167
+aVand ubiquitous illegal possession.
+p168
+aa(lp169
+VSo many people ask me,
+p170
+aVwill we have a 3D printer in every home?
+p171
+aVI think it's the wrong question to ask.
+p172
+aVThe right question to ask is,
+p173
+aVhow will 3D printing change my life?
+p174
+aVOr, in other words, what room in my house
+p175
+aVwill 3D printing fit in?
+p176
+aa(lp177
+VSo everything that you see here
+p178
+aVhas been 3D printed,
+p179
+aVincluding these shoes
+p180
+aVat the Amsterdam fashion show.
+p181
+aVNow, these are not my grandfather's shoes.
+p182
+aVThese are shoes that represent
+p183
+aVthe continuation of his passion
+p184
+aVfor hyper-local manufacturing.
+p185
+aVMy grandfather didn't get to see Nike
+p186
+aVprinting cleats for the recent Super Bowl,
+p187
+aVand my father didn't get to see me standing
+p188
+aVin my hybridized 3D printed shoes.
+p189
+aVHe passed away three years ago.
+p190
+aVBut Chuck Hull, the man that invented it all,
+p191
+aVis right here in the house today,
+p192
+aVand thanks to him,
+p193
+aVI can say, thanks to his invention, I can say
+p194
+aVthat I am a cobbler too,
+p195
+aVand by standing in these shoes
+p196
+aVI am honoring my past
+p197
+aVwhile manufacturing the future.
+p198
+aa(lp199
+VThank you.
+p200
+aa(lp201
+V(Applause)
+p202
+aasS'id'
+p203
+I2026
+sS'title'
+p204
+VWhat's next in 3D printing
+p205
+s.

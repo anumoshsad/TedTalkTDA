@@ -1,0 +1,325 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhat I'm going to show you first, as quickly as I can,
+p4
+aVis some foundational work, some new technology
+p5
+aVthat we brought to Microsoft as part of an acquisition
+p6
+aValmost exactly a year ago.
+p7
+aVThis is Seadragon, and it's an environment
+p8
+aVin which you can either locally or remotely interact
+p9
+aVwith vast amounts of visual data.
+p10
+aa(lp11
+VWe're looking at many, many gigabytes of digital photos here
+p12
+aVand kind of seamlessly and continuously zooming in,
+p13
+aVpanning through it, rearranging it in any way we want.
+p14
+aVAnd it doesn't matter how much information we're looking at,
+p15
+aVhow big these collections are or how big the images are.
+p16
+aVMost of them are ordinary digital camera photos,
+p17
+aVbut this one, for example, is a scan from the Library of Congress,
+p18
+aVand it's in the 300 megapixel range.
+p19
+aVIt doesn't make any difference
+p20
+aVbecause the only thing that ought to limit the performance of a system like this one
+p21
+aVis the number of pixels on your screen at any given moment.
+p22
+aVIt's also very flexible architecture.
+p23
+aVThis is an entire book, so this is an example of non-image data.
+p24
+aVThis is "Bleak House" by Dickens.
+p25
+aVEvery column is a chapter.
+p26
+aVTo prove to you that it's really text, and not an image,
+p27
+aVwe can do something like so, to really show
+p28
+aVthat this is a real representation of the text; it's not a picture.
+p29
+aVMaybe this is an artificial way to read an e-book.
+p30
+aVI wouldn't recommend it.
+p31
+aa(lp32
+VThis is a more realistic case, an issue of The Guardian.
+p33
+aVEvery large image is the beginning of a section.
+p34
+aVAnd this really gives you the joy and the good experience
+p35
+aVof reading the real paper version of a magazine or a newspaper,
+p36
+aVwhich is an inherently multi-scale kind of medium.
+p37
+aVWe've done something
+p38
+aVwith the corner of this particular issue of The Guardian.
+p39
+aVWe've made up a fake ad that's very high resolution \u2014
+p40
+aVmuch higher than in an ordinary ad \u2014
+p41
+aVand we've embedded extra content.
+p42
+aVIf you want to see the features of this car, you can see it here.
+p43
+aVOr other models, or even technical specifications.
+p44
+aVAnd this really gets at some of these ideas
+p45
+aVabout really doing away with those limits on screen real estate.
+p46
+aVWe hope that this means no more pop-ups
+p47
+aVand other rubbish like that \u2014 shouldn't be necessary.
+p48
+aa(lp49
+VOf course, mapping is one of those obvious applications
+p50
+aVfor a technology like this.
+p51
+aVAnd this one I really won't spend any time on,
+p52
+aVexcept to say that we have things to contribute to this field as well.
+p53
+aVBut those are all the roads in the U.S.
+p54
+aVsuperimposed on top of a NASA geospatial image.
+p55
+aVSo let's pull up, now, something else.
+p56
+aVThis is actually live on the Web now; you can go check it out.
+p57
+aa(lp58
+VThis is a project called Photosynth, which marries two different technologies.
+p59
+aVOne of them is Seadragon
+p60
+aVand the other is some very beautiful computer-vision research
+p61
+aVdone by Noah Snavely, a graduate student at the University of Washington,
+p62
+aVco-advised by Steve Seitz at U.W.
+p63
+aVand Rick Szeliski at Microsoft Research.
+p64
+aVA very nice collaboration.
+p65
+aVAnd so this is live on the Web. It's powered by Seadragon.
+p66
+aVYou can see that when we do these sorts of views,
+p67
+aVwhere we can dive through images
+p68
+aVand have this kind of multi-resolution experience.
+p69
+aa(lp70
+VBut the spatial arrangement of the images here is actually meaningful.
+p71
+aVThe computer vision algorithms have registered these images together
+p72
+aVso that they correspond to the real space in which these shots \u2014
+p73
+aVall taken near Grassi Lakes in the Canadian Rockies \u2014
+p74
+aVall these shots were taken.
+p75
+aVSo you see elements here
+p76
+aVof stabilized slide-show or panoramic imaging,
+p77
+aVand these things have all been related spatially.
+p78
+aVI'm not sure if I have time to show you any other environments.
+p79
+aVSome are much more spatial.
+p80
+aVI would like to jump straight to one of Noah's original data-sets \u2014
+p81
+aVthis is from an early prototype that we first got working this summer \u2014
+p82
+aVto show you what I think
+p83
+aVis really the punch line behind the Photosynth technology,
+p84
+aVIt's not necessarily so apparent
+p85
+aVfrom looking at the environments we've put up on the website.
+p86
+aVWe had to worry about the lawyers and so on.
+p87
+aa(lp88
+VThis is a reconstruction of Notre Dame Cathedral
+p89
+aVthat was done entirely computationally from images scraped from Flickr.
+p90
+aVYou just type Notre Dame into Flickr,
+p91
+aVand you get some pictures of guys in T-shirts, and of the campus and so on.
+p92
+aVAnd each of these orange cones represents an image
+p93
+aVthat was discovered to belong to this model.
+p94
+aVAnd so these are all Flickr images,
+p95
+aVand they've all been related spatially in this way.
+p96
+aVWe can just navigate in this very simple way.
+p97
+aa(lp98
+V(Applause)
+p99
+aa(lp100
+V(Applause ends)
+p101
+aa(lp102
+VYou know, I never thought that I'd end up working at Microsoft.
+p103
+aVIt's very gratifying to have this kind of reception here.
+p104
+aa(lp105
+V(Laughter)
+p106
+aa(lp107
+VI guess you can see this is lots of different types of cameras:
+p108
+aVit's everything from cell-phone cameras to professional SLRs,
+p109
+aVquite a large number of them, stitched together in this environment.
+p110
+aVIf I can find some of the sort of weird ones \u2014
+p111
+aVSo many of them are occluded by faces, and so on.
+p112
+aVSomewhere in here there is actually a series of photographs \u2014 here we go.
+p113
+aVThis is actually a poster of Notre Dame that registered correctly.
+p114
+aVWe can dive in from the poster
+p115
+aVto a physical view of this environment.
+p116
+aa(lp117
+VWhat the point here really is
+p118
+aVis that we can do things with the social environment.
+p119
+aVThis is now taking data from everybody \u2014
+p120
+aVfrom the entire collective memory, visually, of what the Earth looks like \u2014
+p121
+aVand link all of that together.
+p122
+aVThose photos become linked, and they make something emergent
+p123
+aVthat's greater than the sum of the parts.
+p124
+aVYou have a model that emerges of the entire Earth.
+p125
+aVThink of this as the long tail to Stephen Lawler's Virtual Earth work.
+p126
+aVAnd this is something that grows in complexity as people use it,
+p127
+aVand whose benefits become greater to the users as they use it.
+p128
+aVTheir own photos are getting tagged with meta-data that somebody else entered.
+p129
+aVIf somebody bothered to tag all of these saints
+p130
+aVand say who they all are, then my photo of Notre Dame Cathedral
+p131
+aVsuddenly gets enriched with all of that data,
+p132
+aVand I can use it as an entry point to dive into that space,
+p133
+aVinto that meta-verse, using everybody else's photos,
+p134
+aVand do a kind of a cross-modal
+p135
+aVand cross-user social experience that way.
+p136
+aVAnd of course, a by-product of all of that is immensely rich virtual models
+p137
+aVof every interesting part of the Earth,
+p138
+aVcollected not just from overhead flights and from satellite images
+p139
+aVand so on, but from the collective memory.
+p140
+aa(lp141
+VThank you so much.
+p142
+aa(lp143
+V(Applause)
+p144
+aa(lp145
+V(Applause ends)
+p146
+aa(lp147
+VChris Anderson: Do I understand this right?
+p148
+aVWhat your software is going to allow,
+p149
+aVis that at some point, really within the next few years,
+p150
+aVall the pictures that are shared by anyone across the world
+p151
+aVare going to link together?
+p152
+aa(lp153
+VBAA: Yes. What this is really doing is discovering,
+p154
+aVcreating hyperlinks, if you will, between images.
+p155
+aVIt's doing that based on the content inside the images.
+p156
+aVAnd that gets really exciting when you think about the richness
+p157
+aVof the semantic information a lot of images have.
+p158
+aVLike when you do a web search for images,
+p159
+aVyou type in phrases,
+p160
+aVand the text on the web page is carrying a lot of information
+p161
+aVabout what that picture is of.
+p162
+aVWhat if that picture links to all of your pictures?
+p163
+aVThe amount of semantic interconnection and richness
+p164
+aVthat comes out of that is really huge.
+p165
+aVIt's a classic network effect.
+p166
+aa(lp167
+VCA: Truly incredible. Congratulations.
+p168
+aasS'id'
+p169
+I129
+sS'title'
+p170
+VHow PhotoSynth can connect the world's images
+p171
+s.

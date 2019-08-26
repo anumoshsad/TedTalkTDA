@@ -1,0 +1,258 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VWhen we think about mapping cities,
+p4
+aVwe tend to think about roads and streets and buildings,
+p5
+aVand the settlement narrative that led to their creation,
+p6
+aVor you might think about the bold vision of an urban designer,
+p7
+aVbut there's other ways to think about mapping cities
+p8
+aVand how they got to be made.
+p9
+aVToday, I want to show you a new kind of map.
+p10
+aVThis is not a geographic map.
+p11
+aVThis is a map of the relationships  between people in my hometown
+p12
+aVof Baltimore, Maryland,
+p13
+aVand what you can see here is that each dot represents a person,
+p14
+aVeach line represents a relationship between those people,
+p15
+aVand each color represents a community within the network.
+p16
+aa(lp17
+VNow, I'm here on the green side, down on the far right where the geeks are,
+p18
+aVand TEDx also is down  on the far right. (Laughter)
+p19
+aVNow, on the other side of the network,
+p20
+aVyou tend to have primarily African-American and Latino folks
+p21
+aVwho are really concerned about somewhat different things than the geeks are,
+p22
+aVbut just to give some sense,
+p23
+aVthe green part of the network  we call Smalltimore,
+p24
+aVfor those of us that inhabit it,
+p25
+aVbecause it seems as though we're living in a very small town.
+p26
+aVWe see the same people over and over again,
+p27
+aVbut that's because we're not really exploring
+p28
+aVthe full depth and breadth of the city.
+p29
+aVOn the other end of the network,
+p30
+aVyou have folks who are interested in things like hip-hop music
+p31
+aVand they even identify with living in the DC/Maryland/Virginia area
+p32
+aVover, say, the Baltimore city designation proper.
+p33
+aVBut in the middle, you see that there's
+p34
+aVsomething that connects the two communities together,
+p35
+aVand that's sports.
+p36
+aVWe have the Baltimore Orioles, the Baltimore Ravens football team,
+p37
+aVMichael Phelps, the Olympian.
+p38
+aVUnder Armour, you may have heard of, is a Baltimore company,
+p39
+aVand that community of sports acts as the only bridge
+p40
+aVbetween these two ends of the network.
+p41
+aa(lp42
+VLet's take a look at San Francisco.
+p43
+aVYou see something a little bit different happening in San Francisco.
+p44
+aVOn the one hand, you do have the media, politics and news lobe
+p45
+aVthat tends to exist in Baltimore and other cities,
+p46
+aVbut you also have this very predominant group
+p47
+aVof geeks and techies that are sort of taking over the top half of the network,
+p48
+aVand there's even a group that's so distinct and clear
+p49
+aVthat we can identify it as Twitter employees,
+p50
+aVnext to the geeks, in between the gamers and the geeks,
+p51
+aVat the opposite end of the hip-hop spectrum.
+p52
+aVSo you can see, though,
+p53
+aVthat the tensions that we've heard about in San Francisco
+p54
+aVin terms of people being concerned about gentrification
+p55
+aVand all the new tech companies that are bringing new wealth
+p56
+aVand settlement into the city are real,
+p57
+aVand you can actually see that documented here.
+p58
+aVYou can see the LGBT community
+p59
+aVis not really getting along with the geek community that well,
+p60
+aVthe arts community, the music community.
+p61
+aVAnd so it leads to things like this.
+p62
+aV["Evict Twitter"]
+p63
+aVSomebody sent me this photo a few weeks ago,
+p64
+aVand it shows what is happening on the ground in San Francisco,
+p65
+aVand I think you can actually try to understand that
+p66
+aVthrough looking at a map like this.
+p67
+aa(lp68
+VLet's take a look at Rio de Janeiro.
+p69
+aVI spent the last few weeks gathering data about Rio,
+p70
+aVand one of the things that stood out to me about this city
+p71
+aVis that everything's really kind of mixed up.
+p72
+aVIt's a very heterogenous city in a way  that Baltimore or San Francisco is not.
+p73
+aVYou still have the lobe of people involved
+p74
+aVwith government, newspapers, politics, columnists.
+p75
+aVTEDxRio is down in the lower right, right next to bloggers and writers.
+p76
+aVBut then you also have this tremendous diversity of people
+p77
+aVthat are interested in different kinds of music.
+p78
+aVEven Justin Bieber fans are represented here.
+p79
+aVOther boy bands, country singers,
+p80
+aVgospel music, funk and rap and stand-up comedy,
+p81
+aVand there's even a whole section around drugs and jokes.
+p82
+aVHow cool is that?
+p83
+aVAnd then the Flamengo football team is also represented here.
+p84
+aVSo you have that same kind of spread
+p85
+aVof sports and civics and the arts and music,
+p86
+aVbut it's represented in a very different way,
+p87
+aVand I think that maybe fits with our understanding of Rio
+p88
+aVas being a very multicultural, musically diverse city.
+p89
+aa(lp90
+VSo we have all this data.
+p91
+aVIt's an incredibly rich set of data that we have about cities now,
+p92
+aVmaybe even richer than any data set that we've ever had before.
+p93
+aVSo what can we do with it?
+p94
+aVWell, I think the first thing that we can try to understand
+p95
+aVis that segregation is a social construct.
+p96
+aVIt's something that we choose to do, and we could choose not to do it,
+p97
+aVand if you kind of think about it,
+p98
+aVwhat we're doing with this data is aiming a space telescope at a city
+p99
+aVand looking at it as if was a giant high school cafeteria,
+p100
+aVand seeing how everybody arranged themselves in a seating chart.
+p101
+aVWell maybe it's time to shake up the seating chart a little bit.
+p102
+aa(lp103
+VThe other thing that we start to realize
+p104
+aVis that race is a really poor proxy for diversity.
+p105
+aVWe've got people represented from all different types of races
+p106
+aVacross the entire map here \u2014
+p107
+aVonly looking at race
+p108
+aVdoesn't really contribute to our development of diversity.
+p109
+aVSo if we're trying to use diversity
+p110
+aVas a way to tackle some of our more intractable problems,
+p111
+aVwe need to start to think  about diversity in a new way.
+p112
+aa(lp113
+VAnd lastly, we have the ability to create
+p114
+aVinterventions to start to reshape our cities in a new way,
+p115
+aVand I believe that if we have that capability,
+p116
+aVwe may even bear some responsibility to do so.
+p117
+aa(lp118
+VSo what is a city?
+p119
+aVI think some might say that it is
+p120
+aVa geographical area or a collection of streets and buildings,
+p121
+aVbut I believe that a city  is the sum of the relationships
+p122
+aVof the people that live there,
+p123
+aVand I believe that if we can start to document those relationships in a real way
+p124
+aVthen maybe we have a real shot
+p125
+aVat creating those kinds of cities that we'd like to have.
+p126
+aa(lp127
+VThank you.
+p128
+aa(lp129
+V(Applause)
+p130
+aasS'id'
+p131
+I2150
+sS'title'
+p132
+VSocial maps that reveal a city's intersections \u2014 and separations
+p133
+s.

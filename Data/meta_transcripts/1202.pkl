@@ -1,0 +1,618 @@
+(dp0
+S'transcript'
+p1
+(lp2
+(lp3
+VDo you know
+p4
+aVthat we have 1.4 million cellular radio masts
+p5
+aVdeployed worldwide?
+p6
+aVAnd these are base stations.
+p7
+aVAnd we also have
+p8
+aVmore than five billion
+p9
+aVof these devices here.
+p10
+aVThese are cellular mobile phones.
+p11
+aVAnd with these mobile phones,
+p12
+aVwe transmit more than 600 terabytes of data
+p13
+aVevery month.
+p14
+aVThis is a 6 with 14 zeroes \u2014
+p15
+aVa very large number.
+p16
+aVAnd wireless communications
+p17
+aVhas become a utility
+p18
+aVlike electricity and water.
+p19
+aVWe use it everyday. We use it in our everyday lives now \u2014
+p20
+aVin our private lives, in our business lives.
+p21
+aVAnd we even have to be asked sometimes, very kindly,
+p22
+aVto switch off the mobile phone at events like this
+p23
+aVfor good reasons.
+p24
+aVAnd it's this importance
+p25
+aVwhy I decided to look into the issues
+p26
+aVthat this technology has,
+p27
+aVbecause it's so fundamental to our lives.
+p28
+aa(lp29
+VAnd one of the issues is capacity.
+p30
+aVThe way we transmit wireless data is by using electromagnetic waves \u2014
+p31
+aVin particular, radio waves.
+p32
+aVAnd radio waves are limited.
+p33
+aVThey are scarce; they are expensive;
+p34
+aVand we only have a certain range of it.
+p35
+aVAnd it's this limitation
+p36
+aVthat doesn't cope
+p37
+aVwith the demand of wireless data transmissions
+p38
+aVand the number of bytes and data which are transmitted every month.
+p39
+aVAnd we are simply running out of spectrum.
+p40
+aVThere's another problem.
+p41
+aVThat is efficiency.
+p42
+aVThese 1.4 million cellular radio masts, or base stations,
+p43
+aVconsume a lot of energy.
+p44
+aVAnd mind you, most of the energy
+p45
+aVis not used to transmit the radio waves,
+p46
+aVit is used to cool the base stations.
+p47
+aVThen the efficiency of such a base station
+p48
+aVis only at about five percent.
+p49
+aVAnd that creates a big problem.
+p50
+aVThen there's another issue that you're all aware of.
+p51
+aVYou have to switch off your mobile phone
+p52
+aVduring flights.
+p53
+aVIn hospitals, they are security issues.
+p54
+aVAnd security is another issue.
+p55
+aVThese radio waves penetrate through walls.
+p56
+aVThey can be intercepted,
+p57
+aVand somebody can make use of your network
+p58
+aVif he has bad intentions.
+p59
+aa(lp60
+VSo these are the main four issues.
+p61
+aVBut on the other hand,
+p62
+aVwe have 14 billion of these:
+p63
+aVlight bulbs, light.
+p64
+aVAnd light is part of the electromagnetic spectrum.
+p65
+aVSo let's look at this in the context
+p66
+aVof the entire electromagnetic spectrum, where we have gamma rays.
+p67
+aVYou don't want to get close to gamma rays, it could be dangerous.
+p68
+aVX-rays, useful when you go to hospitals.
+p69
+aVThen there's ultraviolet light.
+p70
+aVit's good for a nice suntan,
+p71
+aVbut otherwise dangerous for the human body.
+p72
+aVInfrared \u2014
+p73
+aVdue to eye safety regulations,
+p74
+aVcan be only used with low power.
+p75
+aVAnd then we have the radio waves, they have the issues I've just mentioned.
+p76
+aVAnd in the middle there, we have this visible light spectrum.
+p77
+aVIt's light,
+p78
+aVand light has been around for many millions of years.
+p79
+aVAnd in fact, it has created us,
+p80
+aVhas created life,
+p81
+aVhas created all the stuff of life.
+p82
+aVSo it's inherently safe to use.
+p83
+aVAnd wouldn't it be great to use that for wireless communications?
+p84
+aa(lp85
+VNot only that, I compared [it to] the entire spectrum.
+p86
+aVI compared the radio waves spectrum \u2014
+p87
+aVthe size of it \u2014
+p88
+aVwith the size of the visible light spectrum.
+p89
+aVAnd guess what?
+p90
+aVWe have 10,000 times more of that spectrum,
+p91
+aVwhich is there for us to use.
+p92
+aVSo not only do we have this huge amount of spectrum,
+p93
+aVlet's compare that with a number I've just mentioned.
+p94
+aVWe have 1.4 million
+p95
+aVexpensively deployed,
+p96
+aVinefficient radio cellular base stations.
+p97
+aVAnd multiply that by 10,000,
+p98
+aVthen you end up at 14 billion.
+p99
+aV14 billion is the number of light bulbs installed already.
+p100
+aVSo we have the infrastructure there.
+p101
+aVLook at the ceiling, you see all these light bulbs.
+p102
+aVGo to the main floor, you see these light bulbs.
+p103
+aa(lp104
+VCan we use them for communications?
+p105
+aVYes.
+p106
+aVWhat do we need to do?
+p107
+aVThe one thing we need to do
+p108
+aVis we have to replace these inefficient incandescent light bulbs,
+p109
+aVflorescent lights,
+p110
+aVwith this new technology of LED,
+p111
+aVLED light bulbs.
+p112
+aVAn LED is a semiconductor. It's an electronic device.
+p113
+aVAnd it has a very nice acute property.
+p114
+aVIts intensity can be modulated
+p115
+aVat very high speeds,
+p116
+aVand it can be switched off at very high speeds.
+p117
+aVAnd this is a fundamental basic property
+p118
+aVthat we exploit
+p119
+aVwith our technology.
+p120
+aVSo let's show how we do that.
+p121
+aVLet's go to the closest neighbor to the visible light spectrum \u2014
+p122
+aVgo to remote controls.
+p123
+aVYou all know remote controls have an infrared LED \u2014
+p124
+aVbasically you switch on the LED, and if it's off, you switch it off.
+p125
+aVAnd it creates a simple, low-speed data stream
+p126
+aVin 10,000 bits per second,
+p127
+aV20,000 bits per second.
+p128
+aVNot usable for a YouTube video.
+p129
+aa(lp130
+VWhat we have done
+p131
+aVis we have developed a technology
+p132
+aVwith which we can furthermore
+p133
+aVreplace the remote control of our light bulb.
+p134
+aVWe transmit with our technology,
+p135
+aVnot only a single data stream,
+p136
+aVwe transmit thousands of data streams
+p137
+aVin parallel,
+p138
+aVat even higher speeds.
+p139
+aVAnd the technology we have developed \u2014
+p140
+aVit's called SIM OFDM.
+p141
+aVAnd it's spacial modulation \u2014
+p142
+aVthese are the only technical terms, I'm not going into details \u2014
+p143
+aVbut this is how we enabled
+p144
+aVthat light source
+p145
+aVto transmit data.
+p146
+aa(lp147
+VYou will say, "Okay, this is nice \u2014
+p148
+aVa slide created in 10 minutes."
+p149
+aVBut not only that.
+p150
+aVWhat we've done
+p151
+aVis we have also developed a demonstrator.
+p152
+aVAnd I'm showing for the first time in public
+p153
+aVthis visible light demonstrator.
+p154
+aVAnd what we have here
+p155
+aVis no ordinary desk lamp.
+p156
+aVWe fit in an LED light bulb,
+p157
+aVworth three U.S. dollars,
+p158
+aVput in our signal processing technology.
+p159
+aVAnd then what we have here is a little hole.
+p160
+aVAnd the light goes through that hole.
+p161
+aVThere's a receiver.
+p162
+aVThe receiver will convert these little, subtle changes in the amplitude
+p163
+aVthat we create there
+p164
+aVinto an electrical signal.
+p165
+aVAnd that signal is then converted back
+p166
+aVto a high-speed data stream.
+p167
+aVIn the future we hope
+p168
+aVthat we can integrate this little hole
+p169
+aVinto these smart phones.
+p170
+aVAnd not only integrate a photo detector here,
+p171
+aVbut maybe use the camera inside.
+p172
+aa(lp173
+VSo what happens
+p174
+aVwhen I switch on that light?
+p175
+aVAs you would expect,
+p176
+aVit's a light, a desk lamp.
+p177
+aVPut your book beneath it and you can read.
+p178
+aVIt's illuminating the space.
+p179
+aVBut at the same time, you see this video coming up here.
+p180
+aVAnd that's a video, a high-definition video
+p181
+aVthat is transmitted through that light beam.
+p182
+aVYou're critical.
+p183
+aVYou think, "Ha, ha, ha.
+p184
+aVThis is a smart academic doing a little bit of tricks here."
+p185
+aVBut let me do this.
+p186
+aa(lp187
+V(Applause)
+p188
+aa(lp189
+VOnce again.
+p190
+aVStill don't believe?
+p191
+aVIt is this light
+p192
+aVthat transmits this high-definition video in a split stream.
+p193
+aVAnd if you look at the light,
+p194
+aVit is illuminating as you would expect.
+p195
+aVYou don't notice with your human eye.
+p196
+aVYou don't notice the subtle changes in the amplitude
+p197
+aVthat we impress onto this light bulb.
+p198
+aVIt's serving the purpose of illumination,
+p199
+aVbut at the same time, we are able to transmit this data.
+p200
+aVAnd you see,
+p201
+aVeven light from the ceiling comes down here to the receiver.
+p202
+aVIt can ignore that constant light,
+p203
+aVbecause all the receiver's interested in
+p204
+aVare subtle changes.
+p205
+aVYou also have a critical question now, and
+p206
+aVyou say, "Okay,
+p207
+aVdo I have to have the light on all the time
+p208
+aVto have this working?"
+p209
+aVAnd the answer is yes.
+p210
+aVBut, you can dim down the light
+p211
+aVto a level that it appears to be off.
+p212
+aVAnd you are still able to transmit data \u2014 that's possible.
+p213
+aa(lp214
+VSo I've mentioned to you the four challenges.
+p215
+aVCapacity:
+p216
+aVWe have 10,000 times more spectrum,
+p217
+aV10,000 times more LEDs
+p218
+aVinstalled already in the infrastructure there.
+p219
+aVYou would agree with me, hopefully,
+p220
+aVthere's no issue of capacity anymore.
+p221
+aVEfficiency:
+p222
+aVThis is data through illumination \u2014
+p223
+aVit's first of all an illumination device.
+p224
+aVAnd if you do the energy budget,
+p225
+aVthe data transmission comes for free \u2014
+p226
+aVhighly energy efficient.
+p227
+aVI don't mention the high energy efficiency
+p228
+aVof these LED light bulbs.
+p229
+aVIf the whole world would deploy them,
+p230
+aVyou would save hundreds of power plants.
+p231
+aVThat's aside.
+p232
+aa(lp233
+VAnd then I've mentioned the availability.
+p234
+aVYou will agree with me that we have lights in the hospital.
+p235
+aVYou need to see what to do.
+p236
+aVYou have lights in an aircraft.
+p237
+aVSo it's everywhere in a day there is light.
+p238
+aVLook around. Everywhere. Look at your smart phone.
+p239
+aVIt has a flashlight, an LED flashlight.
+p240
+aVThese are potential sources for high-speed data transmission.
+p241
+aa(lp242
+VAnd then there's security.
+p243
+aVYou would agree with me
+p244
+aVthat light doesn't penetrate through walls.
+p245
+aVSo no one, if I have a light here,
+p246
+aVif I have secure data,
+p247
+aVno one on the other side of this room through that wall
+p248
+aVwould be able to read that data.
+p249
+aVAnd there's only data where there is light.
+p250
+aVSo if I don't want that receiver to receive the data,
+p251
+aVthen what I could do,
+p252
+aVturn it away.
+p253
+aVSo the data goes in that direction, not there anymore.
+p254
+aVNow we can in fact see where the data is going to.
+p255
+aa(lp256
+VSo for me,
+p257
+aVthe applications of it,
+p258
+aVto me, are beyond imagination at the moment.
+p259
+aVWe have had a century of very nice, smart application developers.
+p260
+aVAnd you only have to notice, where we have light,
+p261
+aVthere is a potential way to transmit data.
+p262
+aVBut I can give you a few examples.
+p263
+aVWell you may see the impact already now.
+p264
+aVThis is a remote operated vehicle
+p265
+aVbeneath the ocean.
+p266
+aVAnd they use light to illuminate space down there.
+p267
+aVAnd this light can be used to transmit wireless data
+p268
+aVthat these things [use] to communicate with each other.
+p269
+aa(lp270
+VIntrinsically safe environments
+p271
+aVlike this petrochemical plant \u2014
+p272
+aVyou can't use RF, it may generate antenna sparks,
+p273
+aVbut you can use light \u2014 you see plenty of light there.
+p274
+aVIn hospitals,
+p275
+aVfor new medical instruments;
+p276
+aVin streets for traffic control.
+p277
+aVCars have LED-based headlights, LED-based back lights,
+p278
+aVand cars can communicate with each other
+p279
+aVand prevent accidents
+p280
+aVin the way that they exchange information.
+p281
+aVTraffic lights can communicate to the car and so on.
+p282
+aVAnd then you have these millions of street lamps
+p283
+aVdeployed around the world.
+p284
+aVAnd every street lamp could be a free access point.
+p285
+aVWe call it, in fact, a Li-Fi,
+p286
+aVlight-fidelity.
+p287
+aVAnd then we have these aircraft cabins.
+p288
+aVThere are hundreds of lights in an aircraft cabin,
+p289
+aVand each of these lights
+p290
+aVcould be a potential transmitter of wireless data.
+p291
+aVSo you could enjoy your most favorite TED video
+p292
+aVon your long flight back home.
+p293
+aVOnline life. So that is a vision, I think, that is possible.
+p294
+aa(lp295
+VSo, all we would need to do
+p296
+aVis to fit a small microchip
+p297
+aVto every potential illumination device.
+p298
+aVAnd this would then combine
+p299
+aVtwo basic functionalities:
+p300
+aVillumination and wireless data transmission.
+p301
+aVAnd it's this symbiosis that I personally believe
+p302
+aVcould solve the four essential problems
+p303
+aVthat face us in wireless communication these days.
+p304
+aVAnd in the future,
+p305
+aVyou would not only have 14 billion light bulbs,
+p306
+aVyou may have 14 billion Li-Fis
+p307
+aVdeployed worldwide \u2014
+p308
+aVfor a cleaner, a greener,
+p309
+aVand even a brighter future.
+p310
+aa(lp311
+VThank you.
+p312
+aa(lp313
+V(Applause)
+p314
+aasS'id'
+p315
+I1202
+sS'title'
+p316
+VWireless data from every light bulb
+p317
+s.
