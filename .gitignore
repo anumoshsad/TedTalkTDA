@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
 Data/meta_transcripts/*.pkl
 
 Code/uncased_L-12_H-768_A-12/
+=======
+meta_transcripts/
+>>>>>>> Stashed changes
